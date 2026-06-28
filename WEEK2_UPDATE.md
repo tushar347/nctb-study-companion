@@ -1,105 +1,101 @@
-# Week 2 Update — Backend API and Data Connection
+# Week 2 Update — Backend API and Frontend Connection
 
-## Project name
+## Project Name
 
+NCTB Study Companion
 Class 6 English for Today Line-by-line Study Companion
 
-## Week 2 goal
+## Week 2 Summary
 
-The main goal of Week 2 is to move the project from a fully local mock-data frontend toward a backend-ready structure. In Week 1, we built the clickable UI skeleton. In Week 2, we are adding API routes and organizing the data model so the app can later connect with a real database.
+In Week 2, we improved the project from a static frontend prototype into an API-connected prototype. In Week 1, the app mainly used local mock data inside the frontend. In Week 2, we added backend-ready API routes using Next.js route handlers and connected the frontend to those routes.
 
-## Work planned for Week 2
+The app still keeps the same simple learning flow, but the data is now separated through API endpoints. This makes the project more organized and prepares it for database integration in the next phase.
 
-- Clean the GitHub repository and fix the README merge-conflict issue.
-- Create simple backend/API routes for the demo data.
-- Organize lesson, line, helper, quiz, and progress data in a backend-friendly format.
-- Connect the frontend screens to API responses step by step.
-- Keep the current UI flow unchanged so the demo remains stable.
-- Prepare the project for SQLite or PostgreSQL database integration.
-- Keep AI helper integration optional and continue using reviewed helper outputs for reliability.
+## Work Completed in Week 2
 
-## Current Week 1 foundation
+| Task                         | Status    | Details                                                                                                                    |
+| ---------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Created Week 2 branch        | Completed | Created and used the `week2-backend-api` branch for backend/API work.                                                      |
+| Added Week 2 update file     | Completed | Added this `WEEK2_UPDATE.md` file to document progress.                                                                    |
+| Added API route structure    | Completed | Created API folders inside `app/api`.                                                                                      |
+| Added student API            | Completed | Created `/api/student/demo` for demo student profile data.                                                                 |
+| Added book API               | Completed | Created `/api/books` for active and future book list.                                                                      |
+| Added lesson API             | Completed | Created `/api/lessons/eft-c6-l1` for Lesson 1 metadata and line data.                                                      |
+| Added selected line help API | Completed | Created `/api/lines/[lineId]/help` for explanation, Bangla translation, and grammar output.                                |
+| Added quiz question API      | Completed | Created `/api/quiz/eft-c6-l1` for Lesson 1 quiz questions.                                                                 |
+| Added quiz attempt API       | Completed | Created `/api/quiz/attempt` to calculate quiz score from submitted answers.                                                |
+| Added progress API           | Completed | Created `/api/progress/demo` for daily and weekly progress data.                                                           |
+| Connected frontend to API    | Completed | Updated `StudyCompanion.tsx` so the frontend loads student, book, lesson, helper, quiz, and progress data from API routes. |
+| Updated README               | Completed | Cleaned the README and added Week 1 and Week 2 status.                                                                     |
 
-The Week 1 frontend already includes:
+## API Endpoints Added
 
-- Home screen with demo student profile.
-- Book library with Class 6 English for Today active.
-- Lesson 1 reader with selectable line blocks.
-- Pop-up actions for Explain, Translate, Grammar, and Quiz.
-- Side Help Tab with prepared helper output.
-- Short quiz with local score calculation.
-- Progress report with mock daily and weekly data.
+| Endpoint                   | Method | Purpose                                            |
+| -------------------------- | ------ | -------------------------------------------------- |
+| `/api/student/demo`        | GET    | Returns demo student profile information.          |
+| `/api/books`               | GET    | Returns active and future book list.               |
+| `/api/lessons/eft-c6-l1`   | GET    | Returns Lesson 1 information and selectable lines. |
+| `/api/lines/[lineId]/help` | GET    | Returns helper output for a selected line.         |
+| `/api/quiz/eft-c6-l1`      | GET    | Returns Lesson 1 quiz questions.                   |
+| `/api/quiz/attempt`        | POST   | Checks submitted quiz answers and returns score.   |
+| `/api/progress/demo`       | GET    | Returns daily and weekly progress data.            |
 
-## Week 2 technical tasks
+## Frontend Changes
 
-### 1. API route setup
+The frontend was updated so it now uses API calls instead of relying only on direct local data imports.
 
-Create API routes for:
+The app now fetches data from:
 
-- Student profile
-- Book list
-- Lesson 1 details
-- Lesson lines
-- Helper output for selected line
-- Quiz questions
-- Quiz attempt submission
-- Progress report
+- `/api/student/demo`
+- `/api/books`
+- `/api/lessons/eft-c6-l1`
+- `/api/lines/[lineId]/help`
+- `/api/quiz/eft-c6-l1`
+- `/api/quiz/attempt`
+- `/api/progress/demo`
 
-### 2. Suggested API endpoints
+A visible Week 2 update was also added in the frontend to show that the API-connected version is running.
 
-| Endpoint                   | Method | Purpose                                                  |
-| -------------------------- | ------ | -------------------------------------------------------- |
-| `/api/student/demo`        | GET    | Return demo student profile                              |
-| `/api/books`               | GET    | Return active and future book list                       |
-| `/api/lessons/eft-c6-l1`   | GET    | Return Lesson 1 metadata and lines                       |
-| `/api/lines/[lineId]/help` | GET    | Return explanation, Bangla translation, and grammar note |
-| `/api/quiz/eft-c6-l1`      | GET    | Return Lesson 1 quiz questions                           |
-| `/api/quiz/attempt`        | POST   | Submit answers and calculate score                       |
-| `/api/progress/demo`       | GET    | Return daily and weekly progress                         |
+## Testing Done
 
-### 3. Data model preparation
+The API routes were tested using localhost.
 
-The backend data should follow these main entities:
+Tested examples:
 
-- students
-- books
-- lessons
-- lesson_lines
-- line_help
-- quiz_questions
-- quiz_attempts
-- saved_words
-- progress
+- Opened `/api/books` in the browser and confirmed JSON output.
+- Opened `/api/progress/demo` and confirmed status `200`.
+- Added frontend API fetch logic and pushed it to GitHub.
+- Confirmed that the Week 2 branch contains the updated API routes and frontend connection code.
 
-For Week 2, these can still be stored in local TypeScript or JSON files, but the structure should match the future database tables.
+## Current Status
 
-## What will be completed by the end of Week 2
+At the end of Week 2, the project has:
 
-By the end of Week 2, the app should still show the same demo journey, but the data should come through API routes instead of being used directly inside the frontend component.
+- A working Week 1 frontend demo flow.
+- A backend-ready API route structure.
+- API endpoints for student, books, lesson lines, line help, quiz, quiz attempt, and progress.
+- Frontend code connected to the API layer.
+- GitHub branch updated with Week 2 work.
 
-Expected flow:
+## Current Limitations
 
-1. Student opens the app.
-2. Frontend loads demo student data from API.
-3. Student opens Lesson 1.
-4. Lesson lines load from API.
-5. Student selects a line.
-6. Helper output loads using the selected line ID.
-7. Student completes quiz.
-8. Quiz score is calculated and progress is updated or prepared for saving.
+- The API routes still use local mock data.
+- Real database saving has not been added yet.
+- Real user authentication has not been added yet.
+- AI helper generation has not been added yet.
+- The helper output is still reviewed/prepared content, which is safer for the course demo.
 
-## Week 2 limitations
+## Next Work
 
-- Real user authentication is not required yet.
-- Full database integration may remain incomplete if API routes are working.
-- AI API integration is optional and should not be added before the core flow is stable.
-- Public textbook content should be limited to demo-safe sample content.
+The next phase will focus on:
 
-## Week 2 success criteria
+- Adding database storage using SQLite or PostgreSQL.
+- Saving quiz attempts permanently.
+- Saving progress data permanently.
+- Improving the selected-line helper output.
+- Preparing the final report and presentation.
+- Running the full demo path several times before submission.
 
-- README file is clean and has no merge-conflict markers.
-- The project runs using `npm install` and `npm run dev`.
-- API routes return correct JSON data.
-- The frontend can fetch lesson/helper/quiz/progress data from the API.
-- The full demo path still works without breaking the Week 1 UI.
-- The project is ready for database integration in the next phase.
+## Conclusion
+
+Week 2 successfully improved the project architecture. The project is no longer only a static frontend demo. It now has a backend-ready API layer and the frontend has been connected to that layer. This keeps the project aligned with the planned MVP and prepares it for database integration in the next phase.
