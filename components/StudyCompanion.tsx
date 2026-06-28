@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 
-type Screen = "home" | "library" | "pdf" | "reader" | "quiz" | "report";
+type Screen = "home" | "library" | "reader" | "quiz" | "report";
 type HelperTab = "simple" | "bangla" | "grammar";
 
 type Student = {
@@ -23,14 +23,6 @@ type Book = {
   status: string;
   activeLessonId?: string;
   note: string;
-};
-
-type Lesson = {
-  id: string;
-  className: string;
-  subject: string;
-  title: string;
-  subtitle: string;
 };
 
 type LessonLine = {
@@ -73,13 +65,30 @@ type ProgressData = {
   weakArea: string;
 };
 
+type OcrLessonSummary = {
+  lessonNo: number;
+  lessonTitle: string;
+  pageStart?: number;
+  pageEnd?: number;
+  totalCharacters?: number;
+};
+
+type OcrLesson = {
+  lessonNo: number;
+  lessonTitle: string;
+  pageStart?: number;
+  pageEnd?: number;
+  lines: LessonLine[];
+};
+
 export default function StudyCompanion() {
   const [screen, setScreen] = useState<Screen>("home");
   const [helperTab, setHelperTab] = useState<HelperTab>("simple");
 
   const [student, setStudent] = useState<Student | null>(null);
   const [books, setBooks] = useState<Book[]>([]);
-  const [lesson, setLesson] = useState<Lesson | null>(null);
+  const [ocrLessons, setOcrLessons] = useState<OcrLessonSummary[]>([]);
+  const [activeLesson, setActiveLesson] = useState<OcrLesson | null>(null);
   const [lessonLines, setLessonLines] = useState<LessonLine[]>([]);
   const [selectedLine, setSelectedLine] = useState<LessonLine | null>(null);
   const [selectedHelp, setSelectedHelp] = useState<HelperOutput | null>(null);
@@ -89,43 +98,35 @@ export default function StudyCompanion() {
   const [answers, setAnswers] = useState<Record<string, string>>({});
   const [quizResult, setQuizResult] = useState<QuizResult | null>(null);
   const [loading, setLoading] = useState(true);
-  const [apiNote, setApiNote] = useState("Loading API data...");
-
-  const bookPdfPath = "/books/class6-english-for-today.pdf";
+  const [apiNote, setApiNote] = useState("Loading OCR-backed book reader...");
 
   useEffect(() => {
     async function loadInitialData() {
       try {
-        const [studentRes, booksRes, lessonRes, quizRes, progressRes] =
+        const [studentRes, booksRes, ocrBookRes, quizRes, progressRes] =
           await Promise.all([
             fetch("/api/student/demo"),
             fetch("/api/books"),
-            fetch("/api/lessons/eft-c6-l1"),
+            fetch("/api/ocr-book"),
             fetch("/api/quiz/eft-c6-l1"),
             fetch("/api/progress/demo"),
           ]);
 
         const studentData = await studentRes.json();
         const booksData = await booksRes.json();
-        const lessonData = await lessonRes.json();
+        const ocrBookData = await ocrBookRes.json();
         const quizData = await quizRes.json();
         const progressData = await progressRes.json();
 
         setStudent(studentData);
         setBooks(booksData.books);
-        setLesson(lessonData.lesson);
-        setLessonLines(lessonData.lines);
+        setOcrLessons(ocrBookData.lessons);
         setQuizQuestions(quizData.questions);
         setProgress(progressData);
 
-        const defaultLine = lessonData.lines[2] ?? lessonData.lines[0];
+        await loadOcrLesson(1);
 
-        if (defaultLine) {
-          setSelectedLine(defaultLine);
-          await loadLineHelp(defaultLine.id);
-        }
-
-        setApiNote("Week 2 API connected");
+        setApiNote("OCR-backed textbook reader running");
       } catch {
         setApiNote("API loading failed. Please check npm run dev.");
       } finally {
@@ -136,17 +137,29 @@ export default function StudyCompanion() {
     loadInitialData();
   }, []);
 
-  async function loadLineHelp(lineId: string) {
-    const response = await fetch(`/api/lines/${lineId}/help`);
+  async function loadOcrLesson(lessonNo: number) {
+    const response = await fetch(`/api/ocr-book/lessons/${lessonNo}`);
     const data = await response.json();
-    setSelectedHelp(data.helper);
+
+    setActiveLesson(data.lesson);
+    setLessonLines(data.lesson.lines);
+    setSelectedLine(null);
+    setSelectedHelp(null);
+    setHelperTab("simple");
   }
 
-  async function selectLine(line: LessonLine) {
+  function buildHelperOutput(lineText: string): HelperOutput {
+    return {
+      simple: `This line says: "${lineText}" Read the sentence slowly and try to understand the main idea.`,
+      bangla: `বাংলা সহায়তা: এই লাইনের মূল ভাব বুঝতে বাক্যটি অংশে ভাগ করে পড়ো — "${lineText}"`,
+      grammar: `Grammar help: Look for the subject, verb, and object/complement in this line. Then check the tense and punctuation.`,
+    };
+  }
+
+  function selectLine(line: LessonLine) {
     setSelectedLine(line);
     setHelperTab("simple");
-    setSelectedHelp(null);
-    await loadLineHelp(line.id);
+    setSelectedHelp(buildHelperOutput(line.text));
   }
 
   async function submitQuiz() {
@@ -157,7 +170,7 @@ export default function StudyCompanion() {
       },
       body: JSON.stringify({
         studentId: student?.id,
-        lessonId: lesson?.id,
+        lessonId: activeLesson?.lessonNo,
         answers,
       }),
     });
@@ -187,7 +200,7 @@ export default function StudyCompanion() {
       <main className="app-shell">
         <section className="card">
           <p className="eyebrow">NCTB Study Companion</p>
-          <h1>Loading Week 2 API data...</h1>
+          <h1>Loading OCR-backed book reader...</h1>
           <p className="muted">
             Please wait while the app connects to backend routes.
           </p>
@@ -218,10 +231,13 @@ export default function StudyCompanion() {
           <div className="card hero-card">
             <p className="eyebrow">Student Home</p>
             <h2>Hi, {student?.name}</h2>
-            <p className="muted">Ready for 10 minutes of study?</p>
+            <p className="muted">Ready for textbook reading?</p>
 
-            <button className="primary-btn" onClick={() => setScreen("reader")}>
-              Continue Reading
+            <button
+              className="primary-btn"
+              onClick={() => setScreen("library")}
+            >
+              Open Book Library
             </button>
 
             <div className="stats-grid">
@@ -235,33 +251,15 @@ export default function StudyCompanion() {
           </div>
 
           <div className="card">
-            <p className="eyebrow">Week 2 Update</p>
-            <h2>Frontend now loads API data</h2>
+            <p className="eyebrow">Week 3 Reader</p>
+            <h2>OCR-backed textbook text</h2>
             <ul className="check-list">
-              <li>Student data comes from API.</li>
-              <li>Book list comes from API.</li>
-              <li>Lesson lines come from API.</li>
-              <li>Selected line help comes from API.</li>
-              <li>Quiz result is calculated by API.</li>
+              <li>Open English for Today from Book Library.</li>
+              <li>Select Lessons 1–5.</li>
+              <li>Read OCR-extracted textbook lines.</li>
+              <li>Click any line for helper support.</li>
+              <li>Use Explain, Bangla, Grammar, Quiz, and Report.</li>
             </ul>
-          </div>
-
-          <div className="card">
-            <p className="eyebrow">Week 3 Update</p>
-            <h2>Book PDF support added</h2>
-            <p className="muted">
-              The app now has a Book PDF section. For public GitHub safety, the
-              full PDF is not committed. The file can be placed locally for
-              classroom demo.
-            </p>
-
-            <div className="target-box">
-              Local path: public/books/class6-english-for-today.pdf
-            </div>
-
-            <button className="primary-btn" onClick={() => setScreen("pdf")}>
-              Open Book PDF
-            </button>
           </div>
         </section>
       )}
@@ -269,7 +267,7 @@ export default function StudyCompanion() {
       {screen === "library" && (
         <section className="card">
           <p className="eyebrow">Book Library</p>
-          <h2>Choose Class 6 → English for Today → Lesson 1</h2>
+          <h2>Choose Class 6 → English for Today</h2>
 
           <div className="class-row">
             {[5, 6, 7, 8].map((classNumber) => (
@@ -288,7 +286,9 @@ export default function StudyCompanion() {
                 key={book.id}
                 title={book.shortTitle}
                 subtitle={book.subject}
-                status={book.note}
+                status={
+                  book.status === "active" ? "Open OCR Book Reader" : book.note
+                }
                 active={book.status === "active"}
                 onOpen={
                   book.status === "active"
@@ -301,76 +301,34 @@ export default function StudyCompanion() {
         </section>
       )}
 
-      {screen === "pdf" && (
-        <section className="card">
-          <p className="eyebrow">Book PDF</p>
-          <h2>Class 6 English for Today PDF</h2>
-
-          <p className="muted">
-            Week 3 adds textbook PDF support. The structured Lesson 1 reader is
-            still used for line selection, explanation, Bangla translation,
-            grammar support, quiz, and progress.
-          </p>
-
-          <div className="target-box">
-            Place the PDF locally at: public/books/class6-english-for-today.pdf
-          </div>
-
-          <div
-            style={{
-              display: "flex",
-              gap: 12,
-              flexWrap: "wrap",
-              marginTop: 16,
-            }}
-          >
-            <a
-              className="primary-btn"
-              href={bookPdfPath}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Open Local PDF
-            </a>
-
-            <button className="primary-btn" onClick={() => setScreen("reader")}>
-              Open Lesson 1 Helper
-            </button>
-          </div>
-
-          <div
-            style={{
-              marginTop: 20,
-              border: "1px solid #ddd",
-              borderRadius: 12,
-              overflow: "hidden",
-              minHeight: 500,
-            }}
-          >
-            <iframe
-              src={bookPdfPath}
-              title="Class 6 English for Today PDF"
-              style={{
-                width: "100%",
-                height: 500,
-                border: "none",
-              }}
-            />
-          </div>
-
-          <p className="muted" style={{ marginTop: 12 }}>
-            If the PDF preview does not appear, add the PDF file in the local
-            folder path shown above.
-          </p>
-        </section>
-      )}
-
       {screen === "reader" && (
         <section className="reader-layout">
           <div className="card">
-            <p className="eyebrow">{lesson?.subject}</p>
-            <h2>{lesson?.title}</h2>
-            <p className="muted">Tap/click a line to get help.</p>
+            <p className="eyebrow">English for Today</p>
+            <h2>
+              Lesson {activeLesson?.lessonNo}: {activeLesson?.lessonTitle}
+            </h2>
+            <p className="muted">
+              Select a lesson, then click any OCR-extracted line to get help.
+            </p>
+
+            <div className="class-row">
+              {ocrLessons.map((lesson) => (
+                <button
+                  key={lesson.lessonNo}
+                  className={`class-pill ${
+                    activeLesson?.lessonNo === lesson.lessonNo ? "active" : ""
+                  }`}
+                  onClick={() => loadOcrLesson(lesson.lessonNo)}
+                >
+                  Lesson {lesson.lessonNo}
+                </button>
+              ))}
+            </div>
+
+            <div className="target-box">
+              {lessonLines.length} selectable lines loaded from OCR-backed text.
+            </div>
 
             <div className="line-list">
               {lessonLines.map((line) => (
@@ -435,7 +393,7 @@ export default function StudyCompanion() {
             <div className="helper-output">
               {selectedHelp
                 ? selectedHelp[helperTab]
-                : "Loading helper output..."}
+                : "Select a textbook line to load helper output."}
             </div>
           </div>
         </section>
@@ -443,8 +401,11 @@ export default function StudyCompanion() {
 
       {screen === "quiz" && (
         <section className="card quiz-card">
-          <p className="eyebrow">Lesson 1 Quiz</p>
+          <p className="eyebrow">Lesson Quiz</p>
           <h2>NCTB-style short practice</h2>
+          <p className="muted">
+            Demo quiz is connected to the current backend quiz route.
+          </p>
 
           {quizQuestions.map((question, index) => (
             <div className="question-card" key={question.id}>
@@ -463,7 +424,10 @@ export default function StudyCompanion() {
                       answers[question.id] === option ? "selected" : ""
                     }`}
                     onClick={() =>
-                      setAnswers((prev) => ({ ...prev, [question.id]: option }))
+                      setAnswers((prev) => ({
+                        ...prev,
+                        [question.id]: option,
+                      }))
                     }
                   >
                     {option}
@@ -500,7 +464,7 @@ export default function StudyCompanion() {
           </p>
 
           <button className="primary-btn" onClick={() => setScreen("reader")}>
-            Revise Lesson
+            Revise Book
           </button>
 
           <h2 style={{ marginTop: 24 }}>Weekly activity</h2>
@@ -537,14 +501,7 @@ function Nav({
   setScreen: (screen: Screen) => void;
   className: string;
 }) {
-  const items: Screen[] = [
-    "home",
-    "library",
-    "pdf",
-    "reader",
-    "quiz",
-    "report",
-  ];
+  const items: Screen[] = ["home", "library", "reader", "quiz", "report"];
 
   return (
     <nav className={className}>
@@ -556,9 +513,7 @@ function Nav({
         >
           {item === "library"
             ? "Book"
-            : item === "pdf"
-              ? "PDF"
-              : item.charAt(0).toUpperCase() + item.slice(1)}
+            : item.charAt(0).toUpperCase() + item.slice(1)}
         </button>
       ))}
     </nav>
