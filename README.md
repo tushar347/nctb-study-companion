@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NCTB Study Companion — Week 1 Starter
 
 A course-project prototype for **Class 6 English for Today Line-by-line Study Companion**.
@@ -25,6 +24,6 @@ Then open the local URL shown in the terminal.
 ## Week 1 rule
 
 Keep everything local and mock-data based. Backend, database, and AI API are Week 2+ tasks.
-=======
+
 # nctb-study-companion
->>>>>>> 070605640d2570bc63c57a91bb868caea967dfe9
+
