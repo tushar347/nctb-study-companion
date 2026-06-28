@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 
-type Screen = "home" | "library" | "reader" | "quiz" | "report";
+type Screen = "home" | "library" | "pdf" | "reader" | "quiz" | "report";
 type HelperTab = "simple" | "bangla" | "grammar";
 
 type Student = {
@@ -90,6 +90,8 @@ export default function StudyCompanion() {
   const [quizResult, setQuizResult] = useState<QuizResult | null>(null);
   const [loading, setLoading] = useState(true);
   const [apiNote, setApiNote] = useState("Loading API data...");
+
+  const bookPdfPath = "/books/class6-english-for-today.pdf";
 
   useEffect(() => {
     async function loadInitialData() {
@@ -243,6 +245,24 @@ export default function StudyCompanion() {
               <li>Quiz result is calculated by API.</li>
             </ul>
           </div>
+
+          <div className="card">
+            <p className="eyebrow">Week 3 Update</p>
+            <h2>Book PDF support added</h2>
+            <p className="muted">
+              The app now has a Book PDF section. For public GitHub safety, the
+              full PDF is not committed. The file can be placed locally for
+              classroom demo.
+            </p>
+
+            <div className="target-box">
+              Local path: public/books/class6-english-for-today.pdf
+            </div>
+
+            <button className="primary-btn" onClick={() => setScreen("pdf")}>
+              Open Book PDF
+            </button>
+          </div>
         </section>
       )}
 
@@ -278,6 +298,70 @@ export default function StudyCompanion() {
               />
             ))}
           </div>
+        </section>
+      )}
+
+      {screen === "pdf" && (
+        <section className="card">
+          <p className="eyebrow">Book PDF</p>
+          <h2>Class 6 English for Today PDF</h2>
+
+          <p className="muted">
+            Week 3 adds textbook PDF support. The structured Lesson 1 reader is
+            still used for line selection, explanation, Bangla translation,
+            grammar support, quiz, and progress.
+          </p>
+
+          <div className="target-box">
+            Place the PDF locally at: public/books/class6-english-for-today.pdf
+          </div>
+
+          <div
+            style={{
+              display: "flex",
+              gap: 12,
+              flexWrap: "wrap",
+              marginTop: 16,
+            }}
+          >
+            <a
+              className="primary-btn"
+              href={bookPdfPath}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Open Local PDF
+            </a>
+
+            <button className="primary-btn" onClick={() => setScreen("reader")}>
+              Open Lesson 1 Helper
+            </button>
+          </div>
+
+          <div
+            style={{
+              marginTop: 20,
+              border: "1px solid #ddd",
+              borderRadius: 12,
+              overflow: "hidden",
+              minHeight: 500,
+            }}
+          >
+            <iframe
+              src={bookPdfPath}
+              title="Class 6 English for Today PDF"
+              style={{
+                width: "100%",
+                height: 500,
+                border: "none",
+              }}
+            />
+          </div>
+
+          <p className="muted" style={{ marginTop: 12 }}>
+            If the PDF preview does not appear, add the PDF file in the local
+            folder path shown above.
+          </p>
         </section>
       )}
 
@@ -453,7 +537,14 @@ function Nav({
   setScreen: (screen: Screen) => void;
   className: string;
 }) {
-  const items: Screen[] = ["home", "library", "reader", "quiz", "report"];
+  const items: Screen[] = [
+    "home",
+    "library",
+    "pdf",
+    "reader",
+    "quiz",
+    "report",
+  ];
 
   return (
     <nav className={className}>
@@ -465,7 +556,9 @@ function Nav({
         >
           {item === "library"
             ? "Book"
-            : item.charAt(0).toUpperCase() + item.slice(1)}
+            : item === "pdf"
+              ? "PDF"
+              : item.charAt(0).toUpperCase() + item.slice(1)}
         </button>
       ))}
     </nav>
