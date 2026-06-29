@@ -1,9 +1,10 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useState, type CSSProperties } from "react";
 
 type Screen = "home" | "library" | "reader" | "quiz" | "report";
 type HelperTab = "simple" | "bangla" | "grammar";
+type AuthMode = "login" | "signup";
 
 type Student = {
   id: string;
@@ -37,20 +38,6 @@ type HelperOutput = {
   grammar: string;
 };
 
-type QuizQuestion = {
-  id: string;
-  type: string;
-  question: string;
-  options?: string[];
-  mark: number;
-};
-
-type QuizResult = {
-  score: number;
-  totalMarks: number;
-  accuracy: number;
-};
-
 type ProgressData = {
   today: {
     lessonsRead: number;
@@ -81,9 +68,32 @@ type OcrLesson = {
   lines: LessonLine[];
 };
 
+type DynamicQuizQuestion = {
+  id: string;
+  question: string;
+  options: string[];
+  correctAnswer: string;
+  explanation: string;
+};
+
+type QuizHistoryItem = {
+  lessonNo: number;
+  lessonTitle: string;
+  score: number;
+  total: number;
+  accuracy: number;
+  attemptedAt: string;
+};
+
 export default function StudyCompanion() {
   const [screen, setScreen] = useState<Screen>("home");
   const [helperTab, setHelperTab] = useState<HelperTab>("simple");
+
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
+  const [authMode, setAuthMode] = useState<AuthMode>("login");
+  const [authName, setAuthName] = useState("Demo Student");
+  const [authEmail, setAuthEmail] = useState("");
+  const [authMessage, setAuthMessage] = useState("");
 
   const [student, setStudent] = useState<Student | null>(null);
   const [books, setBooks] = useState<Book[]>([]);
@@ -92,41 +102,52 @@ export default function StudyCompanion() {
   const [lessonLines, setLessonLines] = useState<LessonLine[]>([]);
   const [selectedLine, setSelectedLine] = useState<LessonLine | null>(null);
   const [selectedHelp, setSelectedHelp] = useState<HelperOutput | null>(null);
-  const [quizQuestions, setQuizQuestions] = useState<QuizQuestion[]>([]);
   const [progress, setProgress] = useState<ProgressData | null>(null);
 
-  const [answers, setAnswers] = useState<Record<string, string>>({});
-  const [quizResult, setQuizResult] = useState<QuizResult | null>(null);
+  const [dynamicQuizQuestions, setDynamicQuizQuestions] = useState<
+    DynamicQuizQuestion[]
+  >([]);
+  const [quizGeneratedForLesson, setQuizGeneratedForLesson] = useState<
+    number | null
+  >(null);
+  const [quizLoading, setQuizLoading] = useState(false);
+  const [quizError, setQuizError] = useState("");
+  const [quizSubmitted, setQuizSubmitted] = useState(false);
+  const [quizAnswers, setQuizAnswers] = useState<Record<string, string>>({});
+  const [quizScore, setQuizScore] = useState(0);
+  const [quizHistory, setQuizHistory] = useState<QuizHistoryItem[]>([]);
+
+  const [lineSelections, setLineSelections] = useState(0);
+  const [viewedLessons, setViewedLessons] = useState<number[]>([]);
+
   const [loading, setLoading] = useState(true);
   const [apiNote, setApiNote] = useState("Loading OCR-backed book reader...");
 
   useEffect(() => {
     async function loadInitialData() {
       try {
-        const [studentRes, booksRes, ocrBookRes, quizRes, progressRes] =
+        const [studentRes, booksRes, ocrBookRes, progressRes] =
           await Promise.all([
             fetch("/api/student/demo"),
             fetch("/api/books"),
             fetch("/api/ocr-book"),
-            fetch("/api/quiz/eft-c6-l1"),
             fetch("/api/progress/demo"),
           ]);
 
         const studentData = await studentRes.json();
         const booksData = await booksRes.json();
         const ocrBookData = await ocrBookRes.json();
-        const quizData = await quizRes.json();
         const progressData = await progressRes.json();
 
         setStudent(studentData);
-        setBooks(booksData.books);
-        setOcrLessons(ocrBookData.lessons);
-        setQuizQuestions(quizData.questions);
+        setAuthName(studentData.name ?? "Demo Student");
+        setBooks(booksData.books ?? []);
+        setOcrLessons(ocrBookData.lessons ?? []);
         setProgress(progressData);
 
         await loadOcrLesson(1);
 
-        setApiNote("OCR-backed textbook reader running");
+        setApiNote("OCR reader, AI helper, and dynamic quiz running");
       } catch {
         setApiNote("API loading failed. Please check npm run dev.");
       } finally {
@@ -138,62 +159,275 @@ export default function StudyCompanion() {
   }, []);
 
   async function loadOcrLesson(lessonNo: number) {
-    const response = await fetch(`/api/ocr-book/lessons/${lessonNo}`);
-    const data = await response.json();
+    try {
+      const response = await fetch(`/api/ocr-book/lessons/${lessonNo}`);
+      const data = await response.json();
 
-    setActiveLesson(data.lesson);
-    setLessonLines(data.lesson.lines);
-    setSelectedLine(null);
-    setSelectedHelp(null);
-    setHelperTab("simple");
+      setActiveLesson(data.lesson);
+      setLessonLines(data.lesson.lines ?? []);
+      setSelectedLine(null);
+      setSelectedHelp(null);
+      setHelperTab("simple");
+      setViewedLessons((prev) =>
+        prev.includes(lessonNo) ? prev : [...prev, lessonNo]
+      );
+
+      setDynamicQuizQuestions([]);
+      setQuizGeneratedForLesson(null);
+      setQuizSubmitted(false);
+      setQuizAnswers({});
+      setQuizScore(0);
+      setQuizError("");
+    } catch {
+      setSelectedHelp({
+        simple: "Could not load this lesson.",
+        bangla: "এই lesson load করা যায়নি।",
+        grammar: "Lesson data is not available.",
+      });
+    }
   }
 
-  function buildHelperOutput(lineText: string): HelperOutput {
+  async function loadOcrLineHelp(lineText: string) {
+    try {
+      const response = await fetch("/api/ocr-book/help", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          lineText,
+        }),
+      });
+
+      const data = await response.json();
+
+      if (!response.ok || !data.helper) {
+        throw new Error(data.error ?? "Helper failed");
+      }
+
+      setSelectedHelp(data.helper);
+    } catch {
+      setSelectedHelp({
+        simple: `This line means: "${lineText}". Read it slowly and focus on the main idea.`,
+        bangla: `বাংলা সহায়তা: "${lineText}" — AI অনুবাদ চালু না থাকলে .env.local ফাইলে GEMINI_API_KEY যোগ করতে হবে।`,
+        grammar:
+          "Grammar help: Find the subject, verb, object or extra information, tense, and punctuation.",
+      });
+    }
+  }
+
+  async function selectLine(line: LessonLine) {
+    setSelectedLine(line);
+    setHelperTab("simple");
+    setSelectedHelp(null);
+    setLineSelections((prev) => prev + 1);
+    await loadOcrLineHelp(line.text);
+  }
+
+  function handleAuthSubmit() {
+    const cleanEmail = authEmail.trim();
+    const cleanName = authName.trim();
+
+    if (!cleanEmail) {
+      setAuthMessage("Please enter your email address.");
+      return;
+    }
+
+    if (authMode === "signup" && !cleanName) {
+      setAuthMessage("Please enter your name for signup.");
+      return;
+    }
+
+    setAuthName(cleanName || student?.name || "Demo Student");
+    setAuthEmail(cleanEmail);
+    setAuthMessage("");
+    setIsLoggedIn(true);
+    setScreen("home");
+  }
+
+  function logout() {
+    setIsLoggedIn(false);
+    setScreen("home");
+    setAuthMode("login");
+    setAuthMessage("");
+  }
+
+  async function generateQuizForActiveLesson() {
+    if (!activeLesson) {
+      setQuizError("Please open a lesson first.");
+      return;
+    }
+
+    setScreen("quiz");
+    setQuizLoading(true);
+    setQuizError("");
+    setQuizSubmitted(false);
+    setQuizAnswers({});
+    setQuizScore(0);
+
+    try {
+      const lessonText = activeLesson.lines.map((line) => line.text).join("\n");
+
+      const response = await fetch("/api/ocr-book/quiz", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          lessonNo: activeLesson.lessonNo,
+          lessonTitle: activeLesson.lessonTitle,
+          lessonText,
+        }),
+      });
+
+      const data = await response.json();
+
+      if (!response.ok || !Array.isArray(data.questions)) {
+        throw new Error(data.error ?? "Quiz generation failed");
+      }
+
+      const questions = data.questions
+        .slice(0, 5)
+        .map((question: DynamicQuizQuestion, index: number) => {
+          const options = Array.isArray(question.options)
+            ? question.options.slice(0, 4).map(String)
+            : [];
+
+          const correctAnswer = String(
+            question.correctAnswer ?? options[0] ?? ""
+          );
+
+          if (correctAnswer && !options.includes(correctAnswer)) {
+            options[0] = correctAnswer;
+          }
+
+          return {
+            id: question.id || `q${index + 1}`,
+            question: String(question.question ?? `Question ${index + 1}`),
+            options,
+            correctAnswer,
+            explanation: String(
+              question.explanation ?? "This answer follows from the lesson text."
+            ),
+          };
+        });
+
+      if (questions.length === 0) {
+        throw new Error("No quiz questions were generated.");
+      }
+
+      setDynamicQuizQuestions(questions);
+      setQuizGeneratedForLesson(activeLesson.lessonNo);
+    } catch (error) {
+      setQuizError(
+        error instanceof Error
+          ? error.message
+          : "Could not generate the quiz. Please try again."
+      );
+    } finally {
+      setQuizLoading(false);
+    }
+  }
+
+  function chooseQuizAnswer(questionId: string, option: string) {
+    if (quizSubmitted) {
+      return;
+    }
+
+    setQuizAnswers((prev) => ({
+      ...prev,
+      [questionId]: option,
+    }));
+  }
+
+  function submitDynamicQuiz() {
+    if (!activeLesson || dynamicQuizQuestions.length === 0) {
+      return;
+    }
+
+    const score = dynamicQuizQuestions.reduce((total, question) => {
+      return quizAnswers[question.id] === question.correctAnswer
+        ? total + 1
+        : total;
+    }, 0);
+
+    const total = dynamicQuizQuestions.length;
+    const accuracy = Math.round((score / total) * 100);
+
+    setQuizScore(score);
+    setQuizSubmitted(true);
+
+    const historyItem: QuizHistoryItem = {
+      lessonNo: activeLesson.lessonNo,
+      lessonTitle: activeLesson.lessonTitle,
+      score,
+      total,
+      accuracy,
+      attemptedAt: new Date().toLocaleString(),
+    };
+
+    setQuizHistory((prev) => [historyItem, ...prev].slice(0, 8));
+  }
+
+  function resetQuizForLesson() {
+    setDynamicQuizQuestions([]);
+    setQuizGeneratedForLesson(null);
+    setQuizSubmitted(false);
+    setQuizAnswers({});
+    setQuizScore(0);
+    setQuizError("");
+  }
+
+  function getOptionStyle(
+    question: DynamicQuizQuestion,
+    option: string
+  ): CSSProperties {
+    if (!quizSubmitted) {
+      return {};
+    }
+
+    const isSelected = quizAnswers[question.id] === option;
+    const isCorrect = question.correctAnswer === option;
+
+    if (isCorrect) {
+      return {
+        background: "#dcfce7",
+        borderColor: "#22c55e",
+        color: "#166534",
+      };
+    }
+
+    if (isSelected && !isCorrect) {
+      return {
+        background: "#fee2e2",
+        borderColor: "#ef4444",
+        color: "#991b1b",
+      };
+    }
+
     return {
-      simple: `This line says: "${lineText}" Read the sentence slowly and try to understand the main idea.`,
-      bangla: `বাংলা সহায়তা: এই লাইনের মূল ভাব বুঝতে বাক্যটি অংশে ভাগ করে পড়ো — "${lineText}"`,
-      grammar: `Grammar help: Look for the subject, verb, and object/complement in this line. Then check the tense and punctuation.`,
+      opacity: 0.72,
     };
   }
 
-  function selectLine(line: LessonLine) {
-    setSelectedLine(line);
-    setHelperTab("simple");
-    setSelectedHelp(buildHelperOutput(line.text));
-  }
+  const latestQuiz = quizHistory[0];
+  const averageAccuracy = quizHistory.length
+    ? Math.round(
+        quizHistory.reduce((sum, item) => sum + item.accuracy, 0) /
+          quizHistory.length
+      )
+    : progress?.today.quizAccuracy ?? student?.quizAccuracy ?? 0;
 
-  async function submitQuiz() {
-    const response = await fetch("/api/quiz/attempt", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        studentId: student?.id,
-        lessonId: activeLesson?.lessonNo,
-        answers,
-      }),
-    });
-
-    const result = await response.json();
-
-    setQuizResult({
-      score: result.score,
-      totalMarks: result.totalMarks,
-      accuracy: result.accuracy,
-    });
-  }
-
-  const currentAccuracy =
-    quizResult?.accuracy ??
-    progress?.today.quizAccuracy ??
-    student?.quizAccuracy ??
-    0;
-
-  const currentSavedWords =
-    selectedLine && progress
-      ? progress.today.wordsSaved + 1
-      : (student?.savedWords ?? 0);
+  const currentAccuracy = latestQuiz?.accuracy ?? averageAccuracy;
+  const currentSavedWords = (student?.savedWords ?? 0) + lineSelections;
+  const answeredAllQuestions =
+    dynamicQuizQuestions.length > 0 &&
+    dynamicQuizQuestions.every((question) => quizAnswers[question.id]);
+  const currentWrongQuestions = quizSubmitted
+    ? dynamicQuizQuestions.filter(
+        (question) => quizAnswers[question.id] !== question.correctAnswer
+      )
+    : [];
 
   if (loading) {
     return (
@@ -209,6 +443,82 @@ export default function StudyCompanion() {
     );
   }
 
+  if (!isLoggedIn) {
+    return (
+      <main className="app-shell">
+        <section className="card hero-card" style={{ maxWidth: 560, margin: "0 auto" }}>
+          <p className="eyebrow">NCTB Study Companion</p>
+          <h1>{authMode === "login" ? "Student Login" : "Create Student Account"}</h1>
+          <p className="muted">
+            Sign in to save reading activity, quiz attempts, and progress report in this prototype.
+          </p>
+
+          <div className="tab-row" style={{ marginTop: 18 }}>
+            <button
+              className={authMode === "login" ? "active" : ""}
+              onClick={() => setAuthMode("login")}
+            >
+              Login
+            </button>
+            <button
+              className={authMode === "signup" ? "active" : ""}
+              onClick={() => setAuthMode("signup")}
+            >
+              Signup
+            </button>
+          </div>
+
+          {authMode === "signup" && (
+            <input
+              value={authName}
+              onChange={(event) => setAuthName(event.target.value)}
+              placeholder="Student name"
+              style={{
+                width: "100%",
+                marginTop: 18,
+                padding: 14,
+                borderRadius: 14,
+                border: "1px solid #d7e0ee",
+              }}
+            />
+          )}
+
+          <input
+            value={authEmail}
+            onChange={(event) => setAuthEmail(event.target.value)}
+            placeholder="Email address"
+            type="email"
+            style={{
+              width: "100%",
+              marginTop: 14,
+              padding: 14,
+              borderRadius: 14,
+              border: "1px solid #d7e0ee",
+            }}
+          />
+
+          {authMessage && (
+            <div className="target-box" style={{ marginTop: 14 }}>
+              {authMessage}
+            </div>
+          )}
+
+          <button
+            className="primary-btn"
+            onClick={handleAuthSubmit}
+            style={{ marginTop: 18 }}
+          >
+            {authMode === "login" ? "Login" : "Create Account"}
+          </button>
+
+          <p className="muted" style={{ marginTop: 14 }}>
+            Demo mode: any email works. Real authentication can be connected later with a database.
+          </p>
+        </section>
+      </main>
+    );
+  }
+
   return (
     <main className="app-shell">
       <header className="topbar">
@@ -216,8 +526,13 @@ export default function StudyCompanion() {
         <div>
           <p className="eyebrow">NCTB Study Companion</p>
           <h1>Class 6 English for Today</h1>
-          <p className="muted">{apiNote}</p>
+          <p className="muted">
+            {apiNote} • Signed in as {authName || student?.name}
+          </p>
         </div>
+        <button className="primary-btn" onClick={logout} style={{ marginLeft: "auto" }}>
+          Logout
+        </button>
       </header>
 
       <Nav
@@ -230,8 +545,8 @@ export default function StudyCompanion() {
         <section className="grid two-col">
           <div className="card hero-card">
             <p className="eyebrow">Student Home</p>
-            <h2>Hi, {student?.name}</h2>
-            <p className="muted">Ready for textbook reading?</p>
+            <h2>Hi, {authName || student?.name}</h2>
+            <p className="muted">Ready for textbook reading and practice?</p>
 
             <button
               className="primary-btn"
@@ -251,14 +566,13 @@ export default function StudyCompanion() {
           </div>
 
           <div className="card">
-            <p className="eyebrow">Week 3 Reader</p>
-            <h2>OCR-backed textbook text</h2>
+            <p className="eyebrow">Learning Dashboard</p>
+            <h2>OCR reader + AI quiz</h2>
             <ul className="check-list">
-              <li>Open English for Today from Book Library.</li>
-              <li>Select Lessons 1–5.</li>
-              <li>Read OCR-extracted textbook lines.</li>
-              <li>Click any line for helper support.</li>
-              <li>Use Explain, Bangla, Grammar, Quiz, and Report.</li>
+              <li>{viewedLessons.length} lesson(s) opened.</li>
+              <li>{lineSelections} textbook line(s) selected.</li>
+              <li>{quizHistory.length} quiz attempt(s) completed.</li>
+              <li>Latest quiz score: {latestQuiz ? `${latestQuiz.score}/${latestQuiz.total}` : "Not attempted yet"}</li>
             </ul>
           </div>
         </section>
@@ -333,7 +647,7 @@ export default function StudyCompanion() {
             <div className="line-list">
               {lessonLines.map((line) => (
                 <button
-                  key={line.id}
+                  key={`${activeLesson?.lessonNo}-${line.id}`}
                   className={`lesson-line ${
                     selectedLine?.id === line.id ? "selected" : ""
                   }`}
@@ -359,7 +673,9 @@ export default function StudyCompanion() {
                   <button onClick={() => setHelperTab("grammar")}>
                     Grammar
                   </button>
-                  <button onClick={() => setScreen("quiz")}>Quiz</button>
+                  <button onClick={generateQuizForActiveLesson}>
+                    Generate Quiz
+                  </button>
                 </div>
               </div>
             )}
@@ -395,91 +711,211 @@ export default function StudyCompanion() {
                 ? selectedHelp[helperTab]
                 : "Select a textbook line to load helper output."}
             </div>
+
+            <button
+              className="primary-btn"
+              onClick={generateQuizForActiveLesson}
+              style={{ marginTop: 18 }}
+            >
+              Generate 5 MCQs from this lesson
+            </button>
           </div>
         </section>
       )}
 
       {screen === "quiz" && (
         <section className="card quiz-card">
-          <p className="eyebrow">Lesson Quiz</p>
-          <h2>NCTB-style short practice</h2>
+          <p className="eyebrow">AI Lesson Quiz</p>
+          <h2>
+            Lesson {activeLesson?.lessonNo}: {activeLesson?.lessonTitle}
+          </h2>
           <p className="muted">
-            Demo quiz is connected to the current backend quiz route.
+            Generate five MCQs from the selected OCR-backed lesson. Correct answers turn green, wrong selected answers turn red, and every answer includes an explanation.
           </p>
 
-          {quizQuestions.map((question, index) => (
-            <div className="question-card" key={question.id}>
-              <div className="question-title">
-                Q{index + 1}. {question.question}
-              </div>
-              <p className="muted">
-                Type: {question.type} • Mark: {question.mark}
-              </p>
+          <div style={{ display: "flex", gap: 12, flexWrap: "wrap" }}>
+            <button
+              className="primary-btn"
+              onClick={generateQuizForActiveLesson}
+              disabled={quizLoading}
+            >
+              {quizLoading
+                ? "Generating quiz..."
+                : dynamicQuizQuestions.length > 0 &&
+                    quizGeneratedForLesson === activeLesson?.lessonNo
+                  ? "Regenerate 5 MCQs"
+                  : "Generate 5 MCQs"}
+            </button>
 
-              <div className="option-list">
-                {question.options?.map((option) => (
-                  <button
-                    key={option}
-                    className={`option ${
-                      answers[question.id] === option ? "selected" : ""
-                    }`}
-                    onClick={() =>
-                      setAnswers((prev) => ({
-                        ...prev,
-                        [question.id]: option,
-                      }))
-                    }
-                  >
-                    {option}
-                  </button>
-                ))}
-              </div>
+            {dynamicQuizQuestions.length > 0 && (
+              <button className="primary-btn" onClick={resetQuizForLesson}>
+                Clear Quiz
+              </button>
+            )}
+          </div>
+
+          {quizError && (
+            <div className="target-box" style={{ marginTop: 18 }}>
+              {quizError}
             </div>
-          ))}
+          )}
 
-          <button className="primary-btn" onClick={submitQuiz}>
-            Submit Quiz
-          </button>
+          {!quizLoading && dynamicQuizQuestions.length === 0 && (
+            <div className="helper-output" style={{ marginTop: 18 }}>
+              Click Generate 5 MCQs to create a fresh quiz from the current lesson.
+            </div>
+          )}
 
-          {quizResult && (
+          {dynamicQuizQuestions.map((question, index) => {
+            const selectedAnswer = quizAnswers[question.id];
+            const isCorrect = selectedAnswer === question.correctAnswer;
+
+            return (
+              <div className="question-card" key={question.id}>
+                <div className="question-title">
+                  Q{index + 1}. {question.question}
+                </div>
+                <p className="muted">Mark: 1</p>
+
+                <div className="option-list">
+                  {question.options.map((option) => (
+                    <button
+                      key={option}
+                      className={`option ${
+                        selectedAnswer === option ? "selected" : ""
+                      }`}
+                      style={getOptionStyle(question, option)}
+                      onClick={() => chooseQuizAnswer(question.id, option)}
+                      disabled={quizSubmitted}
+                    >
+                      {option}
+                    </button>
+                  ))}
+                </div>
+
+                {quizSubmitted && (
+                  <div className="helper-output" style={{ marginTop: 12 }}>
+                    <strong>{isCorrect ? "✅ Correct" : "❌ Incorrect"}</strong>
+                    <br />
+                    Your answer: {selectedAnswer ?? "No answer selected"}
+                    <br />
+                    Correct answer: {question.correctAnswer}
+                    <br />
+                    Explanation: {question.explanation}
+                  </div>
+                )}
+              </div>
+            );
+          })}
+
+          {dynamicQuizQuestions.length > 0 && !quizSubmitted && (
+            <>
+              <button
+                className="primary-btn"
+                onClick={submitDynamicQuiz}
+                disabled={!answeredAllQuestions}
+              >
+                Submit Quiz
+              </button>
+
+              {!answeredAllQuestions && (
+                <p className="muted" style={{ marginTop: 10 }}>
+                  Answer all questions before submitting.
+                </p>
+              )}
+            </>
+          )}
+
+          {quizSubmitted && (
             <div className="score-box">
-              Score: {quizResult.score}/{quizResult.totalMarks} • Accuracy:{" "}
-              {quizResult.accuracy}%
+              Score: {quizScore}/{dynamicQuizQuestions.length} • Accuracy:{" "}
+              {Math.round((quizScore / dynamicQuizQuestions.length) * 100)}%
             </div>
           )}
         </section>
       )}
 
       {screen === "report" && (
-        <section className="card">
-          <p className="eyebrow">Progress Report</p>
-          <h2>Daily summary</h2>
+        <section className="grid two-col">
+          <div className="card">
+            <p className="eyebrow">Progress Report</p>
+            <h2>{authName || student?.name}'s study summary</h2>
 
-          <p>
-            Today: {progress?.today.lessonsRead} lesson read |{" "}
-            {currentSavedWords} words saved | Quiz:{" "}
-            {quizResult
-              ? `${quizResult.score}/${quizResult.totalMarks}`
-              : "Not submitted yet"}
-          </p>
+            <div className="stats-grid">
+              <Stat label="Lessons opened" value={`${viewedLessons.length}`} />
+              <Stat label="Lines selected" value={`${lineSelections}`} />
+              <Stat label="Quiz attempts" value={`${quizHistory.length}`} />
+              <Stat label="Average accuracy" value={`${averageAccuracy}%`} />
+            </div>
 
-          <button className="primary-btn" onClick={() => setScreen("reader")}>
-            Revise Book
-          </button>
+            <div className="target-box" style={{ marginTop: 18 }}>
+              Current lesson: Lesson {activeLesson?.lessonNo} — {activeLesson?.lessonTitle}
+            </div>
 
-          <h2 style={{ marginTop: 24 }}>Weekly activity</h2>
+            <h2 style={{ marginTop: 24 }}>Latest quiz</h2>
+            {latestQuiz ? (
+              <div className="helper-output">
+                Lesson {latestQuiz.lessonNo}: {latestQuiz.lessonTitle}
+                <br />
+                Score: {latestQuiz.score}/{latestQuiz.total} • Accuracy: {latestQuiz.accuracy}%
+                <br />
+                Attempted at: {latestQuiz.attemptedAt}
+              </div>
+            ) : (
+              <p className="muted">No quiz attempt yet.</p>
+            )}
 
-          <div className="bar-chart">
-            {progress?.weekly.map((item) => (
-              <span
-                key={item.day}
-                title={`${item.day}: ${item.studyMinutes} minutes`}
-                style={{ height: `${item.studyMinutes * 7}px` }}
-              />
-            ))}
+            <button
+              className="primary-btn"
+              onClick={() => setScreen("reader")}
+              style={{ marginTop: 18 }}
+            >
+              Continue Reading
+            </button>
           </div>
 
-          <div className="weak-area">Weak area: {progress?.weakArea}</div>
+          <div className="card">
+            <p className="eyebrow">Learning Insight</p>
+            <h2>What to improve next</h2>
+
+            {currentWrongQuestions.length > 0 ? (
+              <div className="helper-output">
+                You missed {currentWrongQuestions.length} question(s) in the latest quiz. Review the related lesson lines and read the explanations under the red answers.
+              </div>
+            ) : latestQuiz ? (
+              <div className="helper-output">
+                Good work. Your latest quiz has no wrong answers. Try another lesson or regenerate a harder quiz.
+              </div>
+            ) : (
+              <div className="helper-output">
+                Start by selecting lines in the reader, then generate a quiz from the lesson.
+              </div>
+            )}
+
+            <h2 style={{ marginTop: 24 }}>Recent quiz attempts</h2>
+            {quizHistory.length > 0 ? (
+              <div className="line-list">
+                {quizHistory.map((item, index) => (
+                  <div className="lesson-line" key={`${item.attemptedAt}-${index}`}>
+                    Lesson {item.lessonNo}: {item.score}/{item.total} ({item.accuracy}%)
+                  </div>
+                ))}
+              </div>
+            ) : (
+              <p className="muted">No quiz history yet.</p>
+            )}
+
+            <h2 style={{ marginTop: 24 }}>Weekly activity</h2>
+            <div className="bar-chart">
+              {progress?.weekly.map((item) => (
+                <span
+                  key={item.day}
+                  title={`${item.day}: ${item.studyMinutes} minutes`}
+                  style={{ height: `${item.studyMinutes * 7}px` }}
+                />
+              ))}
+            </div>
+          </div>
         </section>
       )}
 
