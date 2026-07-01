@@ -1,992 +1,940 @@
 "use client";
 
-import { useEffect, useState, type CSSProperties } from "react";
+import React, { useEffect, useState } from "react";
 
-type Screen = "home" | "library" | "reader" | "quiz" | "report";
-type HelperTab = "simple" | "bangla" | "grammar";
-type AuthMode = "login" | "signup";
-
-type Student = {
-  id: string;
-  name: string;
-  className: string;
-  savedWords: number;
-  quizAccuracy: number;
-  weeklyStudyDays: number;
-};
-
-type Book = {
-  id: string;
-  className: string;
-  subject: string;
-  title: string;
-  shortTitle: string;
-  status: string;
-  activeLessonId?: string;
-  note: string;
+type LessonSummary = {
+  lessonNo: number;
+  lessonTitle: string;
 };
 
 type LessonLine = {
   id: string;
-  paragraphNo: number;
   text: string;
 };
 
-type HelperOutput = {
-  simple: string;
-  bangla: string;
-  grammar: string;
+type AgentTool = "simple" | "bangla" | "grammar" | "chat";
+
+type AgentResult = {
+  tool: AgentTool;
+  output: string;
+  selectedLine: string;
+  lessonNo?: number;
+  lessonTitle?: string;
 };
 
-type ProgressData = {
-  today: {
-    lessonsRead: number;
-    wordsSaved: number;
-    quizAccuracy: number;
-    target: string;
+type ChatMessage = {
+  role: "agent" | "student";
+  text: string;
+};
+
+type ResearchSummary = {
+  studentKey: string;
+  name: string | null;
+  memory: {
+    openedLessons: number[];
+    selectedLines: string[];
+    usedTools: string[];
+    weakAreas: string[];
   };
-  weekly: {
-    day: string;
-    studyMinutes: number;
-  }[];
-  weakArea: string;
+  recentEvents: unknown[];
+  recentChats: unknown[];
+  quizAttempts: unknown[];
 };
 
-type OcrLessonSummary = {
-  lessonNo: number;
-  lessonTitle: string;
-  pageStart?: number;
-  pageEnd?: number;
-  totalCharacters?: number;
-};
+const DEFAULT_LESSONS: LessonSummary[] = [
+  { lessonNo: 1, lessonTitle: "Going to a New School" },
+  { lessonNo: 2, lessonTitle: "Congratulations! Well Done!" },
+  { lessonNo: 3, lessonTitle: "At a Railway Station" },
+  { lessonNo: 4, lessonTitle: "Where are You From?" },
+  { lessonNo: 5, lessonTitle: "Thanks for Your Work" },
+];
 
-type OcrLesson = {
-  lessonNo: number;
-  lessonTitle: string;
-  pageStart?: number;
-  pageEnd?: number;
-  lines: LessonLine[];
-};
+const CLASSES = [
+  { id: 6, label: "Class 6", emoji: "🎒", active: true },
+  { id: 7, label: "Class 7", emoji: "📚", active: false },
+  { id: 8, label: "Class 8", emoji: "🧠", active: false },
+];
 
-type DynamicQuizQuestion = {
-  id: string;
-  question: string;
-  options: string[];
-  correctAnswer: string;
-  explanation: string;
-};
+const BOOKS = [
+  {
+    id: "english-today",
+    title: "English For Today",
+    emoji: "📘",
+    subtitle: "Available now",
+    active: true,
+  },
+  {
+    id: "bangla",
+    title: "Bangla",
+    emoji: "📗",
+    subtitle: "Coming soon",
+    active: false,
+  },
+  {
+    id: "math",
+    title: "Mathematics",
+    emoji: "📐",
+    subtitle: "Coming soon",
+    active: false,
+  },
+  {
+    id: "science",
+    title: "Science",
+    emoji: "🔬",
+    subtitle: "Coming soon",
+    active: false,
+  },
+];
 
-type QuizHistoryItem = {
-  lessonNo: number;
-  lessonTitle: string;
-  score: number;
-  total: number;
-  accuracy: number;
-  attemptedAt: string;
-};
+function normalizeLessons(data: unknown): LessonSummary[] {
+  const value = data as {
+    lessons?: unknown[];
+    book?: { lessons?: unknown[] };
+    ocrBook?: { lessons?: unknown[] };
+  };
 
-export default function StudyCompanion() {
-  const [screen, setScreen] = useState<Screen>("home");
-  const [helperTab, setHelperTab] = useState<HelperTab>("simple");
+  const rawLessons =
+    value.lessons ?? value.book?.lessons ?? value.ocrBook?.lessons ?? [];
 
-  const [isLoggedIn, setIsLoggedIn] = useState(false);
-  const [authMode, setAuthMode] = useState<AuthMode>("login");
-  const [authName, setAuthName] = useState("Demo Student");
-  const [authEmail, setAuthEmail] = useState("");
-  const [authMessage, setAuthMessage] = useState("");
-
-  const [student, setStudent] = useState<Student | null>(null);
-  const [books, setBooks] = useState<Book[]>([]);
-  const [ocrLessons, setOcrLessons] = useState<OcrLessonSummary[]>([]);
-  const [activeLesson, setActiveLesson] = useState<OcrLesson | null>(null);
-  const [lessonLines, setLessonLines] = useState<LessonLine[]>([]);
-  const [selectedLine, setSelectedLine] = useState<LessonLine | null>(null);
-  const [selectedHelp, setSelectedHelp] = useState<HelperOutput | null>(null);
-  const [progress, setProgress] = useState<ProgressData | null>(null);
-
-  const [dynamicQuizQuestions, setDynamicQuizQuestions] = useState<
-    DynamicQuizQuestion[]
-  >([]);
-  const [quizGeneratedForLesson, setQuizGeneratedForLesson] = useState<
-    number | null
-  >(null);
-  const [quizLoading, setQuizLoading] = useState(false);
-  const [quizError, setQuizError] = useState("");
-  const [quizSubmitted, setQuizSubmitted] = useState(false);
-  const [quizAnswers, setQuizAnswers] = useState<Record<string, string>>({});
-  const [quizScore, setQuizScore] = useState(0);
-  const [quizHistory, setQuizHistory] = useState<QuizHistoryItem[]>([]);
-
-  const [lineSelections, setLineSelections] = useState(0);
-  const [viewedLessons, setViewedLessons] = useState<number[]>([]);
-
-  const [loading, setLoading] = useState(true);
-  const [apiNote, setApiNote] = useState("Loading OCR-backed book reader...");
-
-  useEffect(() => {
-    async function loadInitialData() {
-      try {
-        const [studentRes, booksRes, ocrBookRes, progressRes] =
-          await Promise.all([
-            fetch("/api/student/demo"),
-            fetch("/api/books"),
-            fetch("/api/ocr-book"),
-            fetch("/api/progress/demo"),
-          ]);
-
-        const studentData = await studentRes.json();
-        const booksData = await booksRes.json();
-        const ocrBookData = await ocrBookRes.json();
-        const progressData = await progressRes.json();
-
-        setStudent(studentData);
-        setAuthName(studentData.name ?? "Demo Student");
-        setBooks(booksData.books ?? []);
-        setOcrLessons(ocrBookData.lessons ?? []);
-        setProgress(progressData);
-
-        await loadOcrLesson(1);
-
-        setApiNote("OCR reader, AI helper, and dynamic quiz running");
-      } catch {
-        setApiNote("API loading failed. Please check npm run dev.");
-      } finally {
-        setLoading(false);
-      }
-    }
-
-    loadInitialData();
-  }, []);
-
-  async function loadOcrLesson(lessonNo: number) {
-    try {
-      const response = await fetch(`/api/ocr-book/lessons/${lessonNo}`);
-      const data = await response.json();
-
-      setActiveLesson(data.lesson);
-      setLessonLines(data.lesson.lines ?? []);
-      setSelectedLine(null);
-      setSelectedHelp(null);
-      setHelperTab("simple");
-      setViewedLessons((prev) =>
-        prev.includes(lessonNo) ? prev : [...prev, lessonNo]
-      );
-
-      setDynamicQuizQuestions([]);
-      setQuizGeneratedForLesson(null);
-      setQuizSubmitted(false);
-      setQuizAnswers({});
-      setQuizScore(0);
-      setQuizError("");
-    } catch {
-      setSelectedHelp({
-        simple: "Could not load this lesson.",
-        bangla: "এই lesson load করা যায়নি।",
-        grammar: "Lesson data is not available.",
-      });
-    }
+  if (!Array.isArray(rawLessons) || rawLessons.length === 0) {
+    return DEFAULT_LESSONS;
   }
 
-  async function loadOcrLineHelp(lineText: string) {
-    try {
-      const response = await fetch("/api/ocr-book/help", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          lineText,
-        }),
-      });
-
-      const data = await response.json();
-
-      if (!response.ok || !data.helper) {
-        throw new Error(data.error ?? "Helper failed");
-      }
-
-      setSelectedHelp(data.helper);
-    } catch {
-      setSelectedHelp({
-        simple: `This line means: "${lineText}". Read it slowly and focus on the main idea.`,
-        bangla: `বাংলা সহায়তা: "${lineText}" — AI অনুবাদ চালু না থাকলে .env.local ফাইলে GEMINI_API_KEY যোগ করতে হবে।`,
-        grammar:
-          "Grammar help: Find the subject, verb, object or extra information, tense, and punctuation.",
-      });
-    }
-  }
-
-  async function selectLine(line: LessonLine) {
-    setSelectedLine(line);
-    setHelperTab("simple");
-    setSelectedHelp(null);
-    setLineSelections((prev) => prev + 1);
-    await loadOcrLineHelp(line.text);
-  }
-
-  function handleAuthSubmit() {
-    const cleanEmail = authEmail.trim();
-    const cleanName = authName.trim();
-
-    if (!cleanEmail) {
-      setAuthMessage("Please enter your email address.");
-      return;
-    }
-
-    if (authMode === "signup" && !cleanName) {
-      setAuthMessage("Please enter your name for signup.");
-      return;
-    }
-
-    setAuthName(cleanName || student?.name || "Demo Student");
-    setAuthEmail(cleanEmail);
-    setAuthMessage("");
-    setIsLoggedIn(true);
-    setScreen("home");
-  }
-
-  function logout() {
-    setIsLoggedIn(false);
-    setScreen("home");
-    setAuthMode("login");
-    setAuthMessage("");
-  }
-
-  async function generateQuizForActiveLesson() {
-    if (!activeLesson) {
-      setQuizError("Please open a lesson first.");
-      return;
-    }
-
-    setScreen("quiz");
-    setQuizLoading(true);
-    setQuizError("");
-    setQuizSubmitted(false);
-    setQuizAnswers({});
-    setQuizScore(0);
-
-    try {
-      const lessonText = activeLesson.lines.map((line) => line.text).join("\n");
-
-      const response = await fetch("/api/ocr-book/quiz", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          lessonNo: activeLesson.lessonNo,
-          lessonTitle: activeLesson.lessonTitle,
-          lessonText,
-        }),
-      });
-
-      const data = await response.json();
-
-      if (!response.ok || !Array.isArray(data.questions)) {
-        throw new Error(data.error ?? "Quiz generation failed");
-      }
-
-      const questions = data.questions
-        .slice(0, 5)
-        .map((question: DynamicQuizQuestion, index: number) => {
-          const options = Array.isArray(question.options)
-            ? question.options.slice(0, 4).map(String)
-            : [];
-
-          const correctAnswer = String(
-            question.correctAnswer ?? options[0] ?? ""
-          );
-
-          if (correctAnswer && !options.includes(correctAnswer)) {
-            options[0] = correctAnswer;
-          }
-
-          return {
-            id: question.id || `q${index + 1}`,
-            question: String(question.question ?? `Question ${index + 1}`),
-            options,
-            correctAnswer,
-            explanation: String(
-              question.explanation ?? "This answer follows from the lesson text."
-            ),
-          };
-        });
-
-      if (questions.length === 0) {
-        throw new Error("No quiz questions were generated.");
-      }
-
-      setDynamicQuizQuestions(questions);
-      setQuizGeneratedForLesson(activeLesson.lessonNo);
-    } catch (error) {
-      setQuizError(
-        error instanceof Error
-          ? error.message
-          : "Could not generate the quiz. Please try again."
-      );
-    } finally {
-      setQuizLoading(false);
-    }
-  }
-
-  function chooseQuizAnswer(questionId: string, option: string) {
-    if (quizSubmitted) {
-      return;
-    }
-
-    setQuizAnswers((prev) => ({
-      ...prev,
-      [questionId]: option,
-    }));
-  }
-
-  function submitDynamicQuiz() {
-    if (!activeLesson || dynamicQuizQuestions.length === 0) {
-      return;
-    }
-
-    const score = dynamicQuizQuestions.reduce((total, question) => {
-      return quizAnswers[question.id] === question.correctAnswer
-        ? total + 1
-        : total;
-    }, 0);
-
-    const total = dynamicQuizQuestions.length;
-    const accuracy = Math.round((score / total) * 100);
-
-    setQuizScore(score);
-    setQuizSubmitted(true);
-
-    const historyItem: QuizHistoryItem = {
-      lessonNo: activeLesson.lessonNo,
-      lessonTitle: activeLesson.lessonTitle,
-      score,
-      total,
-      accuracy,
-      attemptedAt: new Date().toLocaleString(),
+  return rawLessons.map((item, index) => {
+    const lesson = item as {
+      lessonNo?: number;
+      lesson?: number;
+      id?: number;
+      lessonTitle?: string;
+      title?: string;
+      name?: string;
     };
-
-    setQuizHistory((prev) => [historyItem, ...prev].slice(0, 8));
-  }
-
-  function resetQuizForLesson() {
-    setDynamicQuizQuestions([]);
-    setQuizGeneratedForLesson(null);
-    setQuizSubmitted(false);
-    setQuizAnswers({});
-    setQuizScore(0);
-    setQuizError("");
-  }
-
-  function getOptionStyle(
-    question: DynamicQuizQuestion,
-    option: string
-  ): CSSProperties {
-    if (!quizSubmitted) {
-      return {};
-    }
-
-    const isSelected = quizAnswers[question.id] === option;
-    const isCorrect = question.correctAnswer === option;
-
-    if (isCorrect) {
-      return {
-        background: "#dcfce7",
-        borderColor: "#22c55e",
-        color: "#166534",
-      };
-    }
-
-    if (isSelected && !isCorrect) {
-      return {
-        background: "#fee2e2",
-        borderColor: "#ef4444",
-        color: "#991b1b",
-      };
-    }
 
     return {
-      opacity: 0.72,
+      lessonNo: lesson.lessonNo ?? lesson.lesson ?? lesson.id ?? index + 1,
+      lessonTitle:
+        lesson.lessonTitle ??
+        lesson.title ??
+        lesson.name ??
+        `Lesson ${index + 1}`,
+    };
+  });
+}
+
+function normalizeLessonLines(data: unknown): {
+  lessonTitle: string;
+  lines: LessonLine[];
+} {
+  const value = data as {
+    lesson?: {
+      lessonTitle?: string;
+      title?: string;
+      lines?: unknown[];
+      text?: string;
+    };
+    lessonTitle?: string;
+    title?: string;
+    lines?: unknown[];
+    text?: string;
+  };
+
+  const lesson = value.lesson ?? value;
+
+  const lessonTitle =
+    lesson.lessonTitle ??
+    lesson.title ??
+    value.lessonTitle ??
+    "Selected Lesson";
+
+  const rawLines = lesson.lines ?? value.lines ?? [];
+
+  if (Array.isArray(rawLines) && rawLines.length > 0) {
+    const lines = rawLines
+      .map((item, index) => {
+        if (typeof item === "string") {
+          return {
+            id: `line-${index + 1}`,
+            text: item,
+          };
+        }
+
+        const line = item as {
+          id?: string;
+          lineId?: string;
+          text?: string;
+          lineText?: string;
+          content?: string;
+        };
+
+        return {
+          id: line.id ?? line.lineId ?? `line-${index + 1}`,
+          text: line.text ?? line.lineText ?? line.content ?? "",
+        };
+      })
+      .filter((line) => line.text.trim().length > 0);
+
+    return {
+      lessonTitle,
+      lines,
     };
   }
 
-  const latestQuiz = quizHistory[0];
-  const averageAccuracy = quizHistory.length
-    ? Math.round(
-        quizHistory.reduce((sum, item) => sum + item.accuracy, 0) /
-          quizHistory.length
-      )
-    : progress?.today.quizAccuracy ?? student?.quizAccuracy ?? 0;
+  const text = lesson.text ?? value.text ?? "";
 
-  const currentAccuracy = latestQuiz?.accuracy ?? averageAccuracy;
-  const currentSavedWords = (student?.savedWords ?? 0) + lineSelections;
-  const answeredAllQuestions =
-    dynamicQuizQuestions.length > 0 &&
-    dynamicQuizQuestions.every((question) => quizAnswers[question.id]);
-  const currentWrongQuestions = quizSubmitted
-    ? dynamicQuizQuestions.filter(
-        (question) => quizAnswers[question.id] !== question.correctAnswer
-      )
-    : [];
+  const lines = text
+    .split(/\r?\n/)
+    .map((line) => line.trim())
+    .filter(Boolean)
+    .map((line, index) => ({
+      id: `line-${index + 1}`,
+      text: line,
+    }));
 
-  if (loading) {
-    return (
-      <main className="app-shell">
-        <section className="card">
-          <p className="eyebrow">NCTB Study Companion</p>
-          <h1>Loading OCR-backed book reader...</h1>
-          <p className="muted">
-            Please wait while the app connects to backend routes.
-          </p>
-        </section>
-      </main>
-    );
+  return {
+    lessonTitle,
+    lines,
+  };
+}
+
+function getToolTitle(tool: AgentTool) {
+  if (tool === "simple") return "Simple Explanation";
+  if (tool === "bangla") return "Bangla Meaning";
+  if (tool === "grammar") return "Grammar Tutor";
+  return "AI Study Agent";
+}
+
+export default function StudyCompanion() {
+  const [studentId, setStudentId] = useState("demo-student");
+
+  const [selectedClass, setSelectedClass] = useState(6);
+  const [selectedBook, setSelectedBook] = useState("english-today");
+
+  const [lessons, setLessons] = useState<LessonSummary[]>(DEFAULT_LESSONS);
+  const [selectedLessonNo, setSelectedLessonNo] = useState(1);
+  const [selectedLessonTitle, setSelectedLessonTitle] = useState(
+    DEFAULT_LESSONS[0].lessonTitle,
+  );
+  const [lessonLines, setLessonLines] = useState<LessonLine[]>([]);
+  const [selectedLine, setSelectedLine] = useState("");
+
+  const [activeTool, setActiveTool] = useState<AgentTool>("simple");
+  const [agentResult, setAgentResult] = useState<AgentResult | null>(null);
+
+  const [grammarQuestion, setGrammarQuestion] = useState("");
+  const [chatQuestion, setChatQuestion] = useState("");
+
+  const [chatMessages, setChatMessages] = useState<ChatMessage[]>([
+    {
+      role: "agent",
+      text: "Hello 👋 I am your AI Study Agent. Choose class, book, lesson, then select one line. I will help you understand it.",
+    },
+  ]);
+
+  const [researchSummary, setResearchSummary] =
+    useState<ResearchSummary | null>(null);
+
+  const [loadingLesson, setLoadingLesson] = useState(false);
+  const [loadingAgent, setLoadingAgent] = useState(false);
+  const [loadingChat, setLoadingChat] = useState(false);
+  const [error, setError] = useState("");
+
+  async function loadBook() {
+    try {
+      const response = await fetch("/api/ocr-book");
+      const data = await response.json();
+      setLessons(normalizeLessons(data));
+    } catch {
+      setLessons(DEFAULT_LESSONS);
+    }
   }
 
-  if (!isLoggedIn) {
-    return (
-      <main className="app-shell">
-        <section className="card hero-card" style={{ maxWidth: 560, margin: "0 auto" }}>
-          <p className="eyebrow">NCTB Study Companion</p>
-          <h1>{authMode === "login" ? "Student Login" : "Create Student Account"}</h1>
-          <p className="muted">
-            Sign in to save reading activity, quiz attempts, and progress report in this prototype.
-          </p>
+  async function refreshResearchSummary() {
+    try {
+      const response = await fetch(
+        `/api/research/summary?studentId=${encodeURIComponent(studentId)}`,
+      );
 
-          <div className="tab-row" style={{ marginTop: 18 }}>
-            <button
-              className={authMode === "login" ? "active" : ""}
-              onClick={() => setAuthMode("login")}
-            >
-              Login
-            </button>
-            <button
-              className={authMode === "signup" ? "active" : ""}
-              onClick={() => setAuthMode("signup")}
-            >
-              Signup
-            </button>
-          </div>
+      if (!response.ok) return;
 
-          {authMode === "signup" && (
-            <input
-              value={authName}
-              onChange={(event) => setAuthName(event.target.value)}
-              placeholder="Student name"
-              style={{
-                width: "100%",
-                marginTop: 18,
-                padding: 14,
-                borderRadius: 14,
-                border: "1px solid #d7e0ee",
-              }}
-            />
-          )}
-
-          <input
-            value={authEmail}
-            onChange={(event) => setAuthEmail(event.target.value)}
-            placeholder="Email address"
-            type="email"
-            style={{
-              width: "100%",
-              marginTop: 14,
-              padding: 14,
-              borderRadius: 14,
-              border: "1px solid #d7e0ee",
-            }}
-          />
-
-          {authMessage && (
-            <div className="target-box" style={{ marginTop: 14 }}>
-              {authMessage}
-            </div>
-          )}
-
-          <button
-            className="primary-btn"
-            onClick={handleAuthSubmit}
-            style={{ marginTop: 18 }}
-          >
-            {authMode === "login" ? "Login" : "Create Account"}
-          </button>
-
-          <p className="muted" style={{ marginTop: 14 }}>
-            Demo mode: any email works. Real authentication can be connected later with a database.
-          </p>
-        </section>
-      </main>
-    );
+      const data = await response.json();
+      setResearchSummary(data.summary);
+    } catch {
+      // Keep UI running even if research API fails.
+    }
   }
+
+  async function loadLesson(lessonNo: number) {
+    setLoadingLesson(true);
+    setError("");
+    setSelectedLine("");
+    setAgentResult(null);
+
+    try {
+      const response = await fetch(`/api/ocr-book/lessons/${lessonNo}`);
+
+      if (!response.ok) {
+        throw new Error("Lesson API failed.");
+      }
+
+      const data = await response.json();
+      const normalized = normalizeLessonLines(data);
+      const currentLesson = lessons.find(
+        (lesson) => lesson.lessonNo === lessonNo,
+      );
+
+      setSelectedLessonNo(lessonNo);
+      setSelectedLessonTitle(
+        currentLesson?.lessonTitle ?? normalized.lessonTitle,
+      );
+      setLessonLines(normalized.lines);
+
+      setChatMessages([
+        {
+          role: "agent",
+          text: `Welcome back 👋 I opened Lesson ${lessonNo}: ${
+            currentLesson?.lessonTitle ?? normalized.lessonTitle
+          }. Select any line and I will help you.`,
+        },
+      ]);
+
+      await refreshResearchSummary();
+    } catch (err) {
+      setError(
+        err instanceof Error ? err.message : "Could not load the lesson.",
+      );
+    } finally {
+      setLoadingLesson(false);
+    }
+  }
+
+  async function callAgent(tool: AgentTool, studentQuestion?: string) {
+    if (!selectedLine.trim()) {
+      setError("Please select one textbook line first.");
+      return;
+    }
+
+    setLoadingAgent(true);
+    setError("");
+    setActiveTool(tool);
+
+    try {
+      const response = await fetch("/api/agent/learning-loop", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          studentId,
+          lessonNo: selectedLessonNo,
+          selectedLine,
+          requestedTool: tool,
+          studentQuestion,
+        }),
+      });
+
+      const data = await response.json();
+
+      if (!response.ok) {
+        throw new Error(data.error ?? "Agent API failed.");
+      }
+
+      setAgentResult(data.result);
+      await refreshResearchSummary();
+    } catch (err) {
+      setError(
+        err instanceof Error ? err.message : "AI helper request failed.",
+      );
+    } finally {
+      setLoadingAgent(false);
+    }
+  }
+
+  async function askGrammarTutor() {
+    const question = grammarQuestion.trim();
+
+    if (!question) {
+      setError("Please write a grammar question first.");
+      return;
+    }
+
+    await callAgent("chat", question);
+  }
+
+  async function askStudyAgent() {
+    const question = chatQuestion.trim();
+
+    if (!question) {
+      setError("Please write a question first.");
+      return;
+    }
+
+    if (!selectedLine.trim()) {
+      setError(
+        "Please select one textbook line before asking the AI Study Agent.",
+      );
+      return;
+    }
+
+    setLoadingChat(true);
+    setError("");
+    setChatQuestion("");
+    setChatMessages((previous) => [
+      ...previous,
+      {
+        role: "student",
+        text: question,
+      },
+    ]);
+
+    try {
+      const response = await fetch("/api/agent/learning-loop", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          studentId,
+          lessonNo: selectedLessonNo,
+          selectedLine,
+          requestedTool: "chat",
+          studentQuestion: question,
+        }),
+      });
+
+      const data = await response.json();
+
+      if (!response.ok) {
+        throw new Error(data.error ?? "Chatbot request failed.");
+      }
+
+      setChatMessages((previous) => [
+        ...previous,
+        {
+          role: "agent",
+          text: data.result.output,
+        },
+      ]);
+
+      await refreshResearchSummary();
+    } catch (err) {
+      setChatMessages((previous) => [
+        ...previous,
+        {
+          role: "agent",
+          text:
+            err instanceof Error
+              ? err.message
+              : "Sorry, I could not answer right now.",
+        },
+      ]);
+    } finally {
+      setLoadingChat(false);
+    }
+  }
+
+  useEffect(() => {
+    loadBook();
+    loadLesson(1);
+    refreshResearchSummary();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   return (
-    <main className="app-shell">
-      <header className="topbar">
-        <div className="brand-mark">N</div>
-        <div>
-          <p className="eyebrow">NCTB Study Companion</p>
-          <h1>Class 6 English for Today</h1>
-          <p className="muted">
-            {apiNote} • Signed in as {authName || student?.name}
-          </p>
-        </div>
-        <button className="primary-btn" onClick={logout} style={{ marginLeft: "auto" }}>
-          Logout
-        </button>
-      </header>
+    <main className="min-h-screen bg-[#eef6ff] px-3 py-5 text-slate-900 md:px-6">
+      <section className="mx-auto max-w-7xl">
+        <header className="rounded-[32px] border border-white bg-gradient-to-br from-white via-blue-50 to-cyan-50 p-5 shadow-[0_24px_80px_rgba(15,23,42,0.16)] md:p-7">
+          <div className="flex flex-col gap-5 lg:flex-row lg:items-center lg:justify-between">
+            <div className="flex items-center gap-4">
+              <div className="grid h-16 w-16 place-items-center rounded-3xl bg-gradient-to-br from-blue-600 to-cyan-500 text-3xl shadow-xl">
+                📚
+              </div>
 
-      <Nav
-        screen={screen}
-        setScreen={setScreen}
-        className="bottom-nav desktop-nav"
-      />
-
-      {screen === "home" && (
-        <section className="grid two-col">
-          <div className="card hero-card">
-            <p className="eyebrow">Student Home</p>
-            <h2>Hi, {authName || student?.name}</h2>
-            <p className="muted">Ready for textbook reading and practice?</p>
-
-            <button
-              className="primary-btn"
-              onClick={() => setScreen("library")}
-            >
-              Open Book Library
-            </button>
-
-            <div className="stats-grid">
-              <Stat label="Saved words" value={`${currentSavedWords}`} />
-              <Stat label="Quiz accuracy" value={`${currentAccuracy}%`} />
+              <div>
+                <p className="text-xs font-black uppercase tracking-wide text-blue-700">
+                  Week 4 Research Build
+                </p>
+                <h1 className="text-3xl font-black tracking-tight md:text-4xl">
+                  NCTB AI Study Companion
+                </h1>
+                <p className="mt-2 max-w-3xl text-sm font-semibold text-slate-600">
+                  A child-friendly textbook reader with AI explanation, Bangla
+                  meaning, grammar help, RAG chatbot, and research progress
+                  data.
+                </p>
+              </div>
             </div>
 
-            <div className="target-box">
-              Today's target: {progress?.today.target}
-            </div>
-          </div>
-
-          <div className="card">
-            <p className="eyebrow">Learning Dashboard</p>
-            <h2>OCR reader + AI quiz</h2>
-            <ul className="check-list">
-              <li>{viewedLessons.length} lesson(s) opened.</li>
-              <li>{lineSelections} textbook line(s) selected.</li>
-              <li>{quizHistory.length} quiz attempt(s) completed.</li>
-              <li>Latest quiz score: {latestQuiz ? `${latestQuiz.score}/${latestQuiz.total}` : "Not attempted yet"}</li>
-            </ul>
-          </div>
-        </section>
-      )}
-
-      {screen === "library" && (
-        <section className="card">
-          <p className="eyebrow">Book Library</p>
-          <h2>Choose Class 6 → English for Today</h2>
-
-          <div className="class-row">
-            {[5, 6, 7, 8].map((classNumber) => (
-              <button
-                key={classNumber}
-                className={`class-pill ${classNumber === 6 ? "active" : ""}`}
-              >
-                {classNumber}
-              </button>
-            ))}
-          </div>
-
-          <div className="book-grid">
-            {books.map((book) => (
-              <BookCard
-                key={book.id}
-                title={book.shortTitle}
-                subtitle={book.subject}
-                status={
-                  book.status === "active" ? "Open OCR Book Reader" : book.note
-                }
-                active={book.status === "active"}
-                onOpen={
-                  book.status === "active"
-                    ? () => setScreen("reader")
-                    : undefined
-                }
+            <div className="rounded-3xl border border-blue-100 bg-white/90 p-4 shadow-lg">
+              <label className="text-xs font-black uppercase text-slate-500">
+                Student ID
+              </label>
+              <input
+                value={studentId}
+                onChange={(event) => setStudentId(event.target.value)}
+                className="mt-1 w-full rounded-2xl border border-slate-200 bg-white px-4 py-2 text-sm font-bold outline-none focus:border-blue-500"
               />
-            ))}
+              <button
+                onClick={refreshResearchSummary}
+                className="mt-3 w-full rounded-2xl bg-slate-900 px-4 py-2 text-sm font-black text-white shadow-md transition hover:scale-[1.02]"
+              >
+                Refresh Progress
+              </button>
+            </div>
           </div>
-        </section>
-      )}
+        </header>
 
-      {screen === "reader" && (
-        <section className="reader-layout">
-          <div className="card">
-            <p className="eyebrow">English for Today</p>
-            <h2>
-              Lesson {activeLesson?.lessonNo}: {activeLesson?.lessonTitle}
-            </h2>
-            <p className="muted">
-              Select a lesson, then click any OCR-extracted line to get help.
-            </p>
+        {error && (
+          <div className="mt-5 rounded-3xl border border-red-200 bg-red-50 p-4 text-sm font-bold text-red-700 shadow-md">
+            ⚠️ {error}
+          </div>
+        )}
 
-            <div className="class-row">
-              {ocrLessons.map((lesson) => (
-                <button
-                  key={lesson.lessonNo}
-                  className={`class-pill ${
-                    activeLesson?.lessonNo === lesson.lessonNo ? "active" : ""
-                  }`}
-                  onClick={() => loadOcrLesson(lesson.lessonNo)}
-                >
-                  Lesson {lesson.lessonNo}
-                </button>
-              ))}
+        <div className="mt-6 grid gap-6 xl:grid-cols-[0.7fr_1.35fr_0.95fr]">
+          <aside className="space-y-6">
+            <section className="rounded-[30px] border border-white bg-white p-5 shadow-[0_18px_50px_rgba(15,23,42,0.12)]">
+              <div className="mb-4 flex items-center gap-3">
+                <div className="grid h-12 w-12 place-items-center rounded-2xl bg-blue-100 text-xl">
+                  1️⃣
+                </div>
+                <div>
+                  <h2 className="text-xl font-black">Choose Class</h2>
+                  <p className="text-xs font-bold text-slate-500">Start here</p>
+                </div>
+              </div>
+
+              <div className="grid gap-3">
+                {CLASSES.map((classItem) => (
+                  <button
+                    key={classItem.id}
+                    onClick={() =>
+                      classItem.active && setSelectedClass(classItem.id)
+                    }
+                    disabled={!classItem.active}
+                    className={`rounded-3xl border p-4 text-left shadow-md transition ${
+                      selectedClass === classItem.id
+                        ? "border-blue-500 bg-blue-600 text-white"
+                        : "border-slate-200 bg-slate-50 text-slate-500"
+                    } ${
+                      classItem.active
+                        ? "hover:scale-[1.02]"
+                        : "cursor-not-allowed opacity-60"
+                    }`}
+                  >
+                    <div className="flex items-center gap-3">
+                      <span className="text-2xl">{classItem.emoji}</span>
+                      <div>
+                        <p className="text-lg font-black">{classItem.label}</p>
+                        <p className="text-xs font-bold">
+                          {classItem.active ? "Available now" : "Coming soon"}
+                        </p>
+                      </div>
+                    </div>
+                  </button>
+                ))}
+              </div>
+            </section>
+
+            <section className="rounded-[30px] border border-white bg-white p-5 shadow-[0_18px_50px_rgba(15,23,42,0.12)]">
+              <div className="mb-4 flex items-center gap-3">
+                <div className="grid h-12 w-12 place-items-center rounded-2xl bg-emerald-100 text-xl">
+                  2️⃣
+                </div>
+                <div>
+                  <h2 className="text-xl font-black">Choose Book</h2>
+                  <p className="text-xs font-bold text-slate-500">
+                    Select subject
+                  </p>
+                </div>
+              </div>
+
+              <div className="grid gap-3">
+                {BOOKS.map((book) => (
+                  <button
+                    key={book.id}
+                    onClick={() => book.active && setSelectedBook(book.id)}
+                    disabled={!book.active}
+                    className={`rounded-3xl border p-4 text-left shadow-md transition ${
+                      selectedBook === book.id
+                        ? "border-emerald-400 bg-emerald-50"
+                        : "border-slate-200 bg-slate-50"
+                    } ${
+                      book.active
+                        ? "hover:scale-[1.02]"
+                        : "cursor-not-allowed opacity-60"
+                    }`}
+                  >
+                    <div className="flex items-center gap-3">
+                      <span className="text-2xl">{book.emoji}</span>
+                      <div>
+                        <p className="font-black">{book.title}</p>
+                        <p className="text-xs font-bold text-slate-500">
+                          {book.subtitle}
+                        </p>
+                      </div>
+                    </div>
+                  </button>
+                ))}
+              </div>
+            </section>
+          </aside>
+
+          <section className="rounded-[30px] border border-white bg-white p-5 shadow-[0_18px_50px_rgba(15,23,42,0.12)]">
+            <div className="flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between">
+              <div className="flex items-center gap-3">
+                <div className="grid h-12 w-12 place-items-center rounded-2xl bg-orange-100 text-xl">
+                  3️⃣
+                </div>
+                <div>
+                  <h2 className="text-2xl font-black">Choose Lesson</h2>
+                  <p className="text-sm font-semibold text-slate-500">
+                    Then tap one textbook line
+                  </p>
+                </div>
+              </div>
+
+              <div className="flex flex-wrap gap-2">
+                {lessons.map((lesson) => (
+                  <button
+                    key={lesson.lessonNo}
+                    onClick={() => loadLesson(lesson.lessonNo)}
+                    className={`rounded-2xl px-4 py-2 text-sm font-black shadow-md transition hover:scale-[1.04] ${
+                      selectedLessonNo === lesson.lessonNo
+                        ? "bg-orange-500 text-white"
+                        : "bg-slate-100 text-slate-700"
+                    }`}
+                  >
+                    L{lesson.lessonNo}
+                  </button>
+                ))}
+              </div>
             </div>
 
-            <div className="target-box">
-              {lessonLines.length} selectable lines loaded from OCR-backed text.
+            <div className="mt-5 rounded-3xl border border-orange-100 bg-gradient-to-br from-orange-50 to-white p-5 shadow-inner">
+              <p className="text-xs font-black uppercase tracking-wide text-orange-600">
+                Current Lesson
+              </p>
+              <h3 className="mt-1 text-xl font-black">
+                Lesson {selectedLessonNo}: {selectedLessonTitle}
+              </h3>
+              <p className="mt-1 text-sm font-semibold text-slate-500">
+                {loadingLesson
+                  ? "Loading lesson..."
+                  : `${lessonLines.length} selectable lines loaded`}
+              </p>
             </div>
 
-            <div className="line-list">
-              {lessonLines.map((line) => (
+            <div className="mt-5 max-h-[650px] space-y-3 overflow-y-auto rounded-3xl bg-slate-50 p-3">
+              {lessonLines.map((line, index) => (
                 <button
-                  key={`${activeLesson?.lessonNo}-${line.id}`}
-                  className={`lesson-line ${
-                    selectedLine?.id === line.id ? "selected" : ""
+                  key={`${line.id}-${index}`}
+                  onClick={() => {
+                    setSelectedLine(line.text);
+                    setAgentResult(null);
+                    setChatMessages((previous) => [
+                      ...previous,
+                      {
+                        role: "agent",
+                        text: `Good choice ✅ I selected line ${index + 1}. Now press Simple, Bangla, Grammar, or ask me a question.`,
+                      },
+                    ]);
+                  }}
+                  className={`w-full rounded-3xl border p-4 text-left text-sm leading-6 shadow-sm transition hover:scale-[1.01] ${
+                    selectedLine === line.text
+                      ? "border-blue-500 bg-blue-600 text-white shadow-lg"
+                      : "border-slate-200 bg-white hover:border-blue-300"
                   }`}
-                  onClick={() => selectLine(line)}
                 >
+                  <span
+                    className={`mr-2 inline-flex h-7 w-7 items-center justify-center rounded-full text-xs font-black ${
+                      selectedLine === line.text
+                        ? "bg-white text-blue-700"
+                        : "bg-blue-50 text-blue-700"
+                    }`}
+                  >
+                    {index + 1}
+                  </span>
                   {line.text}
                 </button>
               ))}
-            </div>
 
-            {selectedLine && (
-              <div className="popup-card">
-                <p className="eyebrow">Selected line</p>
-                <strong>{selectedLine.text}</strong>
-
-                <div className="popup-actions">
-                  <button onClick={() => setHelperTab("simple")}>
-                    Explain
-                  </button>
-                  <button onClick={() => setHelperTab("bangla")}>
-                    Translate
-                  </button>
-                  <button onClick={() => setHelperTab("grammar")}>
-                    Grammar
-                  </button>
-                  <button onClick={generateQuizForActiveLesson}>
-                    Generate Quiz
-                  </button>
+              {!loadingLesson && lessonLines.length === 0 && (
+                <div className="rounded-3xl border border-dashed border-slate-300 bg-white p-8 text-center text-sm font-bold text-slate-500">
+                  No OCR lesson lines found. Check lesson API.
                 </div>
-              </div>
-            )}
-          </div>
-
-          <div className="card">
-            <p className="eyebrow">Side Help Tab</p>
-            <h2>Line helper</h2>
-
-            <div className="tab-row">
-              <button
-                className={helperTab === "simple" ? "active" : ""}
-                onClick={() => setHelperTab("simple")}
-              >
-                Simple
-              </button>
-              <button
-                className={helperTab === "bangla" ? "active" : ""}
-                onClick={() => setHelperTab("bangla")}
-              >
-                Bangla
-              </button>
-              <button
-                className={helperTab === "grammar" ? "active" : ""}
-                onClick={() => setHelperTab("grammar")}
-              >
-                Grammar
-              </button>
-            </div>
-
-            <div className="helper-output">
-              {selectedHelp
-                ? selectedHelp[helperTab]
-                : "Select a textbook line to load helper output."}
-            </div>
-
-            <button
-              className="primary-btn"
-              onClick={generateQuizForActiveLesson}
-              style={{ marginTop: 18 }}
-            >
-              Generate 5 MCQs from this lesson
-            </button>
-          </div>
-        </section>
-      )}
-
-      {screen === "quiz" && (
-        <section className="card quiz-card">
-          <p className="eyebrow">AI Lesson Quiz</p>
-          <h2>
-            Lesson {activeLesson?.lessonNo}: {activeLesson?.lessonTitle}
-          </h2>
-          <p className="muted">
-            Generate five MCQs from the selected OCR-backed lesson. Correct answers turn green, wrong selected answers turn red, and every answer includes an explanation.
-          </p>
-
-          <div style={{ display: "flex", gap: 12, flexWrap: "wrap" }}>
-            <button
-              className="primary-btn"
-              onClick={generateQuizForActiveLesson}
-              disabled={quizLoading}
-            >
-              {quizLoading
-                ? "Generating quiz..."
-                : dynamicQuizQuestions.length > 0 &&
-                    quizGeneratedForLesson === activeLesson?.lessonNo
-                  ? "Regenerate 5 MCQs"
-                  : "Generate 5 MCQs"}
-            </button>
-
-            {dynamicQuizQuestions.length > 0 && (
-              <button className="primary-btn" onClick={resetQuizForLesson}>
-                Clear Quiz
-              </button>
-            )}
-          </div>
-
-          {quizError && (
-            <div className="target-box" style={{ marginTop: 18 }}>
-              {quizError}
-            </div>
-          )}
-
-          {!quizLoading && dynamicQuizQuestions.length === 0 && (
-            <div className="helper-output" style={{ marginTop: 18 }}>
-              Click Generate 5 MCQs to create a fresh quiz from the current lesson.
-            </div>
-          )}
-
-          {dynamicQuizQuestions.map((question, index) => {
-            const selectedAnswer = quizAnswers[question.id];
-            const isCorrect = selectedAnswer === question.correctAnswer;
-
-            return (
-              <div className="question-card" key={question.id}>
-                <div className="question-title">
-                  Q{index + 1}. {question.question}
-                </div>
-                <p className="muted">Mark: 1</p>
-
-                <div className="option-list">
-                  {question.options.map((option) => (
-                    <button
-                      key={option}
-                      className={`option ${
-                        selectedAnswer === option ? "selected" : ""
-                      }`}
-                      style={getOptionStyle(question, option)}
-                      onClick={() => chooseQuizAnswer(question.id, option)}
-                      disabled={quizSubmitted}
-                    >
-                      {option}
-                    </button>
-                  ))}
-                </div>
-
-                {quizSubmitted && (
-                  <div className="helper-output" style={{ marginTop: 12 }}>
-                    <strong>{isCorrect ? "✅ Correct" : "❌ Incorrect"}</strong>
-                    <br />
-                    Your answer: {selectedAnswer ?? "No answer selected"}
-                    <br />
-                    Correct answer: {question.correctAnswer}
-                    <br />
-                    Explanation: {question.explanation}
-                  </div>
-                )}
-              </div>
-            );
-          })}
-
-          {dynamicQuizQuestions.length > 0 && !quizSubmitted && (
-            <>
-              <button
-                className="primary-btn"
-                onClick={submitDynamicQuiz}
-                disabled={!answeredAllQuestions}
-              >
-                Submit Quiz
-              </button>
-
-              {!answeredAllQuestions && (
-                <p className="muted" style={{ marginTop: 10 }}>
-                  Answer all questions before submitting.
-                </p>
               )}
-            </>
-          )}
-
-          {quizSubmitted && (
-            <div className="score-box">
-              Score: {quizScore}/{dynamicQuizQuestions.length} • Accuracy:{" "}
-              {Math.round((quizScore / dynamicQuizQuestions.length) * 100)}%
             </div>
-          )}
-        </section>
-      )}
+          </section>
 
-      {screen === "report" && (
-        <section className="grid two-col">
-          <div className="card">
-            <p className="eyebrow">Progress Report</p>
-            <h2>{authName || student?.name}'s study summary</h2>
+          <aside className="space-y-6">
+            <section className="rounded-[30px] border border-white bg-white p-5 shadow-[0_18px_50px_rgba(15,23,42,0.12)]">
+              <div className="flex items-center gap-3">
+                <div className="grid h-12 w-12 place-items-center rounded-2xl bg-blue-100 text-xl">
+                  🤖
+                </div>
+                <div>
+                  <h2 className="text-xl font-black">AI Helper</h2>
+                  <p className="text-xs font-bold text-slate-500">
+                    Simple • Bangla • Grammar
+                  </p>
+                </div>
+              </div>
 
-            <div className="stats-grid">
-              <Stat label="Lessons opened" value={`${viewedLessons.length}`} />
-              <Stat label="Lines selected" value={`${lineSelections}`} />
-              <Stat label="Quiz attempts" value={`${quizHistory.length}`} />
-              <Stat label="Average accuracy" value={`${averageAccuracy}%`} />
+              <div className="mt-4 rounded-3xl border border-slate-200 bg-slate-50 p-4">
+                <p className="text-xs font-black uppercase text-slate-500">
+                  Selected Line
+                </p>
+                <p className="mt-2 text-sm font-semibold leading-6">
+                  {selectedLine || "Tap a textbook line first."}
+                </p>
+              </div>
+
+              <div className="mt-4 grid grid-cols-3 gap-2">
+                <button
+                  onClick={() => callAgent("simple")}
+                  disabled={loadingAgent}
+                  className="rounded-2xl bg-blue-600 px-3 py-3 text-sm font-black text-white shadow-lg transition hover:scale-[1.03] disabled:opacity-60"
+                >
+                  Simple
+                </button>
+                <button
+                  onClick={() => callAgent("bangla")}
+                  disabled={loadingAgent}
+                  className="rounded-2xl bg-emerald-600 px-3 py-3 text-sm font-black text-white shadow-lg transition hover:scale-[1.03] disabled:opacity-60"
+                >
+                  Bangla
+                </button>
+                <button
+                  onClick={() => callAgent("grammar")}
+                  disabled={loadingAgent}
+                  className="rounded-2xl bg-orange-500 px-3 py-3 text-sm font-black text-white shadow-lg transition hover:scale-[1.03] disabled:opacity-60"
+                >
+                  Grammar
+                </button>
+              </div>
+
+              <div className="mt-4 rounded-3xl border border-slate-200 bg-white p-4 shadow-inner">
+                <p className="text-xs font-black uppercase tracking-wide text-blue-700">
+                  {loadingAgent
+                    ? "Generating..."
+                    : agentResult
+                      ? getToolTitle(activeTool)
+                      : "AI Output"}
+                </p>
+                <div className="mt-3 whitespace-pre-wrap text-sm font-medium leading-7 text-slate-800">
+                  {agentResult?.output ??
+                    "Select a line and press Simple, Bangla, or Grammar."}
+                </div>
+              </div>
+            </section>
+
+            <section className="rounded-[30px] border border-white bg-white p-5 shadow-[0_18px_50px_rgba(15,23,42,0.12)]">
+              <div className="flex items-center gap-3">
+                <div className="grid h-12 w-12 place-items-center rounded-2xl bg-purple-100 text-xl">
+                  🧑‍🏫
+                </div>
+                <div>
+                  <h2 className="text-xl font-black">Grammar Ask Box</h2>
+                  <p className="text-xs font-bold text-slate-500">
+                    Ask line-based grammar
+                  </p>
+                </div>
+              </div>
+
+              <textarea
+                value={grammarQuestion}
+                onChange={(event) => setGrammarQuestion(event.target.value)}
+                placeholder='Example: Why is "were sitting" used here?'
+                className="mt-4 min-h-24 w-full rounded-3xl border border-slate-200 bg-slate-50 p-4 text-sm font-semibold outline-none focus:border-purple-500"
+              />
+
+              <button
+                onClick={askGrammarTutor}
+                disabled={loadingAgent}
+                className="mt-3 w-full rounded-2xl bg-purple-700 px-4 py-3 text-sm font-black text-white shadow-lg transition hover:scale-[1.02] disabled:opacity-60"
+              >
+                Ask Grammar Tutor
+              </button>
+            </section>
+          </aside>
+        </div>
+
+        <div className="mt-6 grid gap-6 lg:grid-cols-[1.05fr_0.95fr]">
+          <section className="rounded-[30px] border border-white bg-white p-5 shadow-[0_18px_50px_rgba(15,23,42,0.12)]">
+            <div className="flex items-center gap-3">
+              <div className="grid h-14 w-14 place-items-center rounded-3xl bg-gradient-to-br from-purple-600 to-blue-600 text-2xl text-white shadow-lg">
+                🧠
+              </div>
+              <div>
+                <p className="text-xs font-black uppercase text-purple-700">
+                  RAG Chatbot Foundation
+                </p>
+                <h2 className="text-2xl font-black">AI Study Agent</h2>
+                <p className="text-sm font-semibold text-slate-500">
+                  It works like a smart study employee for the student.
+                </p>
+              </div>
             </div>
 
-            <div className="target-box" style={{ marginTop: 18 }}>
-              Current lesson: Lesson {activeLesson?.lessonNo} — {activeLesson?.lessonTitle}
-            </div>
-
-            <h2 style={{ marginTop: 24 }}>Latest quiz</h2>
-            {latestQuiz ? (
-              <div className="helper-output">
-                Lesson {latestQuiz.lessonNo}: {latestQuiz.lessonTitle}
-                <br />
-                Score: {latestQuiz.score}/{latestQuiz.total} • Accuracy: {latestQuiz.accuracy}%
-                <br />
-                Attempted at: {latestQuiz.attemptedAt}
-              </div>
-            ) : (
-              <p className="muted">No quiz attempt yet.</p>
-            )}
-
-            <button
-              className="primary-btn"
-              onClick={() => setScreen("reader")}
-              style={{ marginTop: 18 }}
-            >
-              Continue Reading
-            </button>
-          </div>
-
-          <div className="card">
-            <p className="eyebrow">Learning Insight</p>
-            <h2>What to improve next</h2>
-
-            {currentWrongQuestions.length > 0 ? (
-              <div className="helper-output">
-                You missed {currentWrongQuestions.length} question(s) in the latest quiz. Review the related lesson lines and read the explanations under the red answers.
-              </div>
-            ) : latestQuiz ? (
-              <div className="helper-output">
-                Good work. Your latest quiz has no wrong answers. Try another lesson or regenerate a harder quiz.
-              </div>
-            ) : (
-              <div className="helper-output">
-                Start by selecting lines in the reader, then generate a quiz from the lesson.
-              </div>
-            )}
-
-            <h2 style={{ marginTop: 24 }}>Recent quiz attempts</h2>
-            {quizHistory.length > 0 ? (
-              <div className="line-list">
-                {quizHistory.map((item, index) => (
-                  <div className="lesson-line" key={`${item.attemptedAt}-${index}`}>
-                    Lesson {item.lessonNo}: {item.score}/{item.total} ({item.accuracy}%)
+            <div className="mt-5 max-h-[400px] space-y-3 overflow-y-auto rounded-3xl bg-slate-50 p-4">
+              {chatMessages.map((message, index) => (
+                <div
+                  key={`${message.role}-${index}`}
+                  className={`flex ${
+                    message.role === "student" ? "justify-end" : "justify-start"
+                  }`}
+                >
+                  <div
+                    className={`max-w-[84%] rounded-3xl px-4 py-3 text-sm font-semibold leading-6 shadow-md ${
+                      message.role === "student"
+                        ? "bg-blue-600 text-white"
+                        : "bg-white text-slate-800"
+                    }`}
+                  >
+                    {message.role === "agent" && (
+                      <p className="mb-1 text-xs font-black uppercase text-purple-600">
+                        AI Study Agent
+                      </p>
+                    )}
+                    {message.text}
                   </div>
-                ))}
-              </div>
-            ) : (
-              <p className="muted">No quiz history yet.</p>
-            )}
+                </div>
+              ))}
 
-            <h2 style={{ marginTop: 24 }}>Weekly activity</h2>
-            <div className="bar-chart">
-              {progress?.weekly.map((item) => (
-                <span
-                  key={item.day}
-                  title={`${item.day}: ${item.studyMinutes} minutes`}
-                  style={{ height: `${item.studyMinutes * 7}px` }}
-                />
+              {loadingChat && (
+                <div className="flex justify-start">
+                  <div className="rounded-3xl bg-white px-4 py-3 text-sm font-black text-purple-700 shadow-md">
+                    AI Study Agent is thinking...
+                  </div>
+                </div>
+              )}
+            </div>
+
+            <div className="mt-4 flex flex-col gap-3 md:flex-row">
+              <input
+                value={chatQuestion}
+                onChange={(event) => setChatQuestion(event.target.value)}
+                onKeyDown={(event) => {
+                  if (event.key === "Enter") {
+                    askStudyAgent();
+                  }
+                }}
+                placeholder="Ask your AI Study Agent..."
+                className="flex-1 rounded-3xl border border-slate-200 bg-slate-50 px-5 py-4 text-sm font-semibold outline-none focus:border-purple-500"
+              />
+              <button
+                onClick={askStudyAgent}
+                disabled={loadingChat}
+                className="rounded-3xl bg-gradient-to-r from-purple-700 to-blue-700 px-6 py-4 text-sm font-black text-white shadow-lg transition hover:scale-[1.02] disabled:opacity-60"
+              >
+                Send
+              </button>
+            </div>
+
+            <div className="mt-4 grid gap-2 md:grid-cols-3">
+              {[
+                "Explain this line simply",
+                "Teach the grammar",
+                "Make one quiz question",
+              ].map((sample) => (
+                <button
+                  key={sample}
+                  onClick={() => setChatQuestion(sample)}
+                  className="rounded-2xl bg-purple-50 px-3 py-2 text-xs font-black text-purple-700 transition hover:bg-purple-100"
+                >
+                  {sample}
+                </button>
               ))}
             </div>
-          </div>
-        </section>
-      )}
+          </section>
 
-      <Nav
-        screen={screen}
-        setScreen={setScreen}
-        className="bottom-nav mobile-nav"
-      />
+          <section className="rounded-[30px] border border-white bg-white p-5 shadow-[0_18px_50px_rgba(15,23,42,0.12)]">
+            <div className="flex items-center justify-between gap-3">
+              <div>
+                <p className="text-xs font-black uppercase text-blue-700">
+                  Research Data
+                </p>
+                <h2 className="text-2xl font-black">Progress Dashboard</h2>
+                <p className="text-sm font-semibold text-slate-500">
+                  Live from SQLite + Prisma database.
+                </p>
+              </div>
+
+              <button
+                onClick={refreshResearchSummary}
+                className="rounded-2xl bg-slate-900 px-4 py-2 text-sm font-black text-white shadow-md transition hover:scale-[1.02]"
+              >
+                Refresh
+              </button>
+            </div>
+
+            <div className="mt-5 grid grid-cols-2 gap-3">
+              <div className="rounded-3xl bg-blue-50 p-5 shadow-inner">
+                <p className="text-xs font-black text-blue-700">
+                  Opened Lessons
+                </p>
+                <p className="mt-1 text-3xl font-black">
+                  {researchSummary?.memory.openedLessons.length ?? 0}
+                </p>
+              </div>
+
+              <div className="rounded-3xl bg-emerald-50 p-5 shadow-inner">
+                <p className="text-xs font-black text-emerald-700">
+                  Selected Lines
+                </p>
+                <p className="mt-1 text-3xl font-black">
+                  {researchSummary?.memory.selectedLines.length ?? 0}
+                </p>
+              </div>
+
+              <div className="rounded-3xl bg-orange-50 p-5 shadow-inner">
+                <p className="text-xs font-black text-orange-700">Tools Used</p>
+                <p className="mt-1 text-3xl font-black">
+                  {researchSummary?.memory.usedTools.length ?? 0}
+                </p>
+              </div>
+
+              <div className="rounded-3xl bg-purple-50 p-5 shadow-inner">
+                <p className="text-xs font-black text-purple-700">AI Chats</p>
+                <p className="mt-1 text-3xl font-black">
+                  {researchSummary?.recentChats.length ?? 0}
+                </p>
+              </div>
+            </div>
+
+            <div className="mt-5 rounded-3xl border border-slate-200 bg-slate-50 p-4">
+              <p className="text-sm font-black">Recently Selected Lines</p>
+              <div className="mt-3 space-y-2">
+                {(researchSummary?.memory.selectedLines ?? [])
+                  .slice(-4)
+                  .reverse()
+                  .map((line, index) => (
+                    <p
+                      key={`${line}-${index}`}
+                      className="rounded-2xl bg-white p-3 text-xs font-semibold leading-5 shadow-sm"
+                    >
+                      {line}
+                    </p>
+                  ))}
+
+                {(researchSummary?.memory.selectedLines.length ?? 0) === 0 && (
+                  <p className="text-sm font-semibold text-slate-500">
+                    No saved interaction yet.
+                  </p>
+                )}
+              </div>
+            </div>
+
+            <div className="mt-4 rounded-3xl border border-slate-200 bg-slate-50 p-4">
+              <p className="text-sm font-black">Recent Tools Used</p>
+              <p className="mt-2 text-sm font-semibold text-slate-600">
+                {(researchSummary?.memory.usedTools ?? [])
+                  .slice(-10)
+                  .join(", ") || "No tools used yet."}
+              </p>
+            </div>
+          </section>
+        </div>
+      </section>
     </main>
-  );
-}
-
-function Nav({
-  screen,
-  setScreen,
-  className,
-}: {
-  screen: Screen;
-  setScreen: (screen: Screen) => void;
-  className: string;
-}) {
-  const items: Screen[] = ["home", "library", "reader", "quiz", "report"];
-
-  return (
-    <nav className={className}>
-      {items.map((item) => (
-        <button
-          key={item}
-          className={screen === item ? "active" : ""}
-          onClick={() => setScreen(item)}
-        >
-          {item === "library"
-            ? "Book"
-            : item.charAt(0).toUpperCase() + item.slice(1)}
-        </button>
-      ))}
-    </nav>
-  );
-}
-
-function Stat({ label, value }: { label: string; value: string }) {
-  return (
-    <div className="stat-card">
-      <strong>{value}</strong>
-      <span>{label}</span>
-    </div>
-  );
-}
-
-function BookCard({
-  title,
-  subtitle,
-  status,
-  active,
-  onOpen,
-}: {
-  title: string;
-  subtitle: string;
-  status: string;
-  active?: boolean;
-  onOpen?: () => void;
-}) {
-  return (
-    <button
-      className={`book-card ${active ? "active" : ""}`}
-      onClick={onOpen}
-      disabled={!active}
-    >
-      <strong>{title}</strong>
-      <span>{subtitle}</span>
-      <em>{status}</em>
-    </button>
   );
 }
