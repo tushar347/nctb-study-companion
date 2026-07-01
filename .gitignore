@@ -25,3 +25,5 @@ data/class6-eft-full-text.txt
 .env*.local
 
 .env*.local
+
+/lib/generated/prisma

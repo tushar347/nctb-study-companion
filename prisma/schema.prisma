@@ -1,0 +1,87 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Student {
+  id         String   @id @default(cuid())
+  studentKey String   @unique
+  name       String?
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  memory       StudentMemory?
+  events       ResearchEvent[]
+  quizAttempts QuizAttempt[]
+  chatMessages ChatMessage[]
+}
+
+model StudentMemory {
+  id                String   @id @default(cuid())
+  studentId         String   @unique
+  openedLessonsJson String   @default("[]")
+  selectedLinesJson String   @default("[]")
+  usedToolsJson     String   @default("[]")
+  weakAreasJson     String   @default("[]")
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  student Student @relation(fields: [studentId], references: [id], onDelete: Cascade)
+}
+
+model ResearchEvent {
+  id           String   @id @default(cuid())
+  studentId    String
+  lessonNo     Int?
+  eventType    String
+  selectedLine String?
+  toolUsed     String?
+  score        Int?
+  total        Int?
+  metadataJson String?
+  createdAt    DateTime @default(now())
+
+  student Student @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@index([studentId])
+  @@index([lessonNo])
+  @@index([eventType])
+}
+
+model QuizAttempt {
+  id               String   @id @default(cuid())
+  studentId        String
+  lessonNo         Int
+  lessonTitle      String?
+  score            Int
+  total            Int
+  wrongAnswersJson String   @default("[]")
+  weakAreasJson    String   @default("[]")
+  createdAt        DateTime @default(now())
+
+  student Student @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@index([studentId])
+  @@index([lessonNo])
+}
+
+model ChatMessage {
+  id           String   @id @default(cuid())
+  studentId    String
+  lessonNo     Int?
+  selectedLine String?
+  toolUsed     String?
+  question     String?
+  answer       String
+  source       String   @default("gemini")
+  createdAt    DateTime @default(now())
+
+  student Student @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@index([studentId])
+  @@index([lessonNo])
+}
