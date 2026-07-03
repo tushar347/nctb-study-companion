@@ -27,3 +27,7 @@ data/class6-eft-full-text.txt
 .env*.local
 
 /lib/generated/prisma
+prisma/dev.db
+prisma/dev.db-journal
+tsconfig.tsbuildinfo
+components/*.backup.*.tsx
