@@ -1,0 +1,659 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 109,
+  "image": "/ocr/books/class6-english/page-images/page-109.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "104 English For Today",
+      "cleanText": "104 English For Today",
+      "bbox": {
+        "x": 120,
+        "y": 82,
+        "width": 906,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "d) There are no fruit trees in village gardens.",
+      "cleanText": "There are no fruit trees in village gardens.",
+      "bbox": {
+        "x": 198,
+        "y": 157,
+        "width": 519,
+        "height": 24
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "e) People in villages celebrate festivals like Pahela Boishakh and Nabanna",
+      "cleanText": "e) People in villages celebrate festivals like Pahela Boishakh and Nabanna",
+      "bbox": {
+        "x": 198,
+        "y": 189,
+        "width": 775,
+        "height": 23
+      },
+      "confidence": 92.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "7. Write a summary of the passage in your own words, 10",
+      "cleanText": "Write a summary of the passage in your own words, 10",
+      "bbox": {
+        "x": 119,
+        "y": 261,
+        "width": 849,
+        "height": 23
+      },
+      "confidence": 94.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "8. Match the parts of sentences from the Columns A and B to make five",
+      "cleanText": "Match the parts of sentences from the Columns A and B to make five",
+      "bbox": {
+        "x": 119,
+        "y": 297,
+        "width": 851,
+        "height": 32
+      },
+      "confidence": 94.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "complete sentences.",
+      "cleanText": "complete sentences.",
+      "bbox": {
+        "x": 119,
+        "y": 333,
+        "width": 218,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Column A Column B",
+      "cleanText": "Column A Column B",
+      "bbox": {
+        "x": 233,
+        "y": 461,
+        "width": 721,
+        "height": 20
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "(a) Food is one of the basic (i) without it",
+      "cleanText": "(a) Food is one of the basic (i) without it",
+      "bbox": {
+        "x": 139,
+        "y": 540,
+        "width": 626,
+        "height": 31
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "(b) It is essential (ii) needs of human beings",
+      "cleanText": "(b) It is essential (ii) needs of human beings",
+      "bbox": {
+        "x": 139,
+        "y": 612,
+        "width": 774,
+        "height": 24
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "(c) We cannot live (iii) for our survival",
+      "cleanText": "(c) We cannot live (iii) for our survival",
+      "bbox": {
+        "x": 141,
+        "y": 680,
+        "width": 701,
+        "height": 23
+      },
+      "confidence": 93.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "(d) So, we must always (iv) kind of food for good health",
+      "cleanText": "(d) So, we must always (iv) kind of food for good health",
+      "bbox": {
+        "x": 139,
+        "y": 748,
+        "width": 836,
+        "height": 23
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "(e) Good food means the right (v) have good food",
+      "cleanText": "(e) Good food means the right (v) have good food",
+      "bbox": {
+        "x": 139,
+        "y": 815,
+        "width": 697,
+        "height": 24
+      },
+      "confidence": 86.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "9. Put the following parts of the story in the correct order to make the whole",
+      "cleanText": "Put the following parts of the story in the correct order to make the whole",
+      "bbox": {
+        "x": 119,
+        "y": 911,
+        "width": 906,
+        "height": 23
+      },
+      "confidence": 94.31,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "story. Only the corresponding numbers of the sentences need to be written.",
+      "cleanText": "story. Only the corresponding numbers of the sentences need to be written.",
+      "bbox": {
+        "x": 119,
+        "y": 942,
+        "width": 838,
+        "height": 24
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "a} He lost his father in his childhood.",
+      "cleanText": "a} He lost his father in his childhood.",
+      "bbox": {
+        "x": 198,
+        "y": 1005,
+        "width": 441,
+        "height": 24
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "b) He was fond of adventures, music and jatra party.",
+      "cleanText": "He was fond of adventures, music and jatra party.",
+      "bbox": {
+        "x": 198,
+        "y": 1033,
+        "width": 600,
+        "height": 33
+      },
+      "confidence": 94.7,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "c} He spent his early life in great hardship.",
+      "cleanText": "c} He spent his early life in great hardship.",
+      "bbox": {
+        "x": 198,
+        "y": 1069,
+        "width": 499,
+        "height": 24
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "d) Nazrul Islam was born on the 20th May 1899,",
+      "cleanText": "Nazrul Islam was born on the 20th May 1899,",
+      "bbox": {
+        "x": 198,
+        "y": 1101,
+        "width": 563,
+        "height": 23
+      },
+      "confidence": 94.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "e} As a boy being restless and absent-minded, he did not like the hard and",
+      "cleanText": "e} As a boy being restless and absent-minded, he did not like the hard and",
+      "bbox": {
+        "x": 198,
+        "y": 1128,
+        "width": 830,
+        "height": 32
+      },
+      "confidence": 92.87,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "fast rules of the school.",
+      "cleanText": "fast rules of the school.",
+      "bbox": {
+        "x": 278,
+        "y": 1164,
+        "width": 242,
+        "height": 18
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "f) One day, Dukhu Mia became a great poet.",
+      "cleanText": "f) One day, Dukhu Mia became a great poet.",
+      "bbox": {
+        "x": 198,
+        "y": 1192,
+        "width": 521,
+        "height": 32
+      },
+      "confidence": 88.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "g) You will have heard the name of Kazi Nazrul Islam.",
+      "cleanText": "g) You will have heard the name of Kazi Nazrul Islam.",
+      "bbox": {
+        "x": 198,
+        "y": 1227,
+        "width": 626,
+        "height": 24
+      },
+      "confidence": 94.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "h) So he was called Dukhu Mia.",
+      "cleanText": "h) So he was called Dukhu Mia.",
+      "bbox": {
+        "x": 198,
+        "y": 1259,
+        "width": 387,
+        "height": 23
+      },
+      "confidence": 93.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-023",
+      "lineNumber": 23
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-109-line-001",
+      "lineNumber": 1,
+      "text": "104 English For Today",
+      "bbox": {
+        "x": 120,
+        "y": 82,
+        "width": 906,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-002",
+      "lineNumber": 2,
+      "text": "There are no fruit trees in village gardens.",
+      "bbox": {
+        "x": 198,
+        "y": 157,
+        "width": 519,
+        "height": 24
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-003",
+      "lineNumber": 3,
+      "text": "e) People in villages celebrate festivals like Pahela Boishakh and Nabanna",
+      "bbox": {
+        "x": 198,
+        "y": 189,
+        "width": 775,
+        "height": 23
+      },
+      "confidence": 92.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-004",
+      "lineNumber": 4,
+      "text": "Write a summary of the passage in your own words, 10",
+      "bbox": {
+        "x": 119,
+        "y": 261,
+        "width": 849,
+        "height": 23
+      },
+      "confidence": 94.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-005",
+      "lineNumber": 5,
+      "text": "Match the parts of sentences from the Columns A and B to make five",
+      "bbox": {
+        "x": 119,
+        "y": 297,
+        "width": 851,
+        "height": 32
+      },
+      "confidence": 94.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-006",
+      "lineNumber": 6,
+      "text": "complete sentences.",
+      "bbox": {
+        "x": 119,
+        "y": 333,
+        "width": 218,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-007",
+      "lineNumber": 7,
+      "text": "Column A Column B",
+      "bbox": {
+        "x": 233,
+        "y": 461,
+        "width": 721,
+        "height": 20
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-008",
+      "lineNumber": 8,
+      "text": "(a) Food is one of the basic (i) without it",
+      "bbox": {
+        "x": 139,
+        "y": 540,
+        "width": 626,
+        "height": 31
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-009",
+      "lineNumber": 9,
+      "text": "(b) It is essential (ii) needs of human beings",
+      "bbox": {
+        "x": 139,
+        "y": 612,
+        "width": 774,
+        "height": 24
+      },
+      "confidence": 93.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-010",
+      "lineNumber": 10,
+      "text": "(c) We cannot live (iii) for our survival",
+      "bbox": {
+        "x": 141,
+        "y": 680,
+        "width": 701,
+        "height": 23
+      },
+      "confidence": 93.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-011",
+      "lineNumber": 11,
+      "text": "(d) So, we must always (iv) kind of food for good health",
+      "bbox": {
+        "x": 139,
+        "y": 748,
+        "width": 836,
+        "height": 23
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-012",
+      "lineNumber": 12,
+      "text": "(e) Good food means the right (v) have good food",
+      "bbox": {
+        "x": 139,
+        "y": 815,
+        "width": 697,
+        "height": 24
+      },
+      "confidence": 86.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-013",
+      "lineNumber": 13,
+      "text": "Put the following parts of the story in the correct order to make the whole",
+      "bbox": {
+        "x": 119,
+        "y": 911,
+        "width": 906,
+        "height": 23
+      },
+      "confidence": 94.31,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-014",
+      "lineNumber": 14,
+      "text": "story. Only the corresponding numbers of the sentences need to be written.",
+      "bbox": {
+        "x": 119,
+        "y": 942,
+        "width": 838,
+        "height": 24
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-015",
+      "lineNumber": 15,
+      "text": "a} He lost his father in his childhood.",
+      "bbox": {
+        "x": 198,
+        "y": 1005,
+        "width": 441,
+        "height": 24
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-016",
+      "lineNumber": 16,
+      "text": "He was fond of adventures, music and jatra party.",
+      "bbox": {
+        "x": 198,
+        "y": 1033,
+        "width": 600,
+        "height": 33
+      },
+      "confidence": 94.7,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-017",
+      "lineNumber": 17,
+      "text": "c} He spent his early life in great hardship.",
+      "bbox": {
+        "x": 198,
+        "y": 1069,
+        "width": 499,
+        "height": 24
+      },
+      "confidence": 93.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-018",
+      "lineNumber": 18,
+      "text": "Nazrul Islam was born on the 20th May 1899,",
+      "bbox": {
+        "x": 198,
+        "y": 1101,
+        "width": 563,
+        "height": 23
+      },
+      "confidence": 94.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-019",
+      "lineNumber": 19,
+      "text": "e} As a boy being restless and absent-minded, he did not like the hard and",
+      "bbox": {
+        "x": 198,
+        "y": 1128,
+        "width": 830,
+        "height": 32
+      },
+      "confidence": 92.87,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-020",
+      "lineNumber": 20,
+      "text": "fast rules of the school.",
+      "bbox": {
+        "x": 278,
+        "y": 1164,
+        "width": 242,
+        "height": 18
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-021",
+      "lineNumber": 21,
+      "text": "f) One day, Dukhu Mia became a great poet.",
+      "bbox": {
+        "x": 198,
+        "y": 1192,
+        "width": 521,
+        "height": 32
+      },
+      "confidence": 88.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-022",
+      "lineNumber": 22,
+      "text": "g) You will have heard the name of Kazi Nazrul Islam.",
+      "bbox": {
+        "x": 198,
+        "y": 1227,
+        "width": 626,
+        "height": 24
+      },
+      "confidence": 94.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-023",
+      "lineNumber": 23,
+      "text": "h) So he was called Dukhu Mia.",
+      "bbox": {
+        "x": 198,
+        "y": 1259,
+        "width": 387,
+        "height": 23
+      },
+      "confidence": 93.57,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "104 English For Today\nd) There are no fruit trees in village gardens.\ne) People in villages celebrate festivals like Pahela Boishakh and Nabanna\n7. Write a summary of the passage in your own words, 10\n8. Match the parts of sentences from the Columns A and B to make five\ncomplete sentences.\nColumn A Column B\n(a) Food is one of the basic (i) without it\n(b) It is essential (ii) needs of human beings\n(c) We cannot live (iii) for our survival\n(d) So, we must always (iv) kind of food for good health\n(e) Good food means the right (v) have good food\n9. Put the following parts of the story in the correct order to make the whole\nstory. Only the corresponding numbers of the sentences need to be written.\na} He lost his father in his childhood.\nb) He was fond of adventures, music and jatra party.\nc} He spent his early life in great hardship.\nd) Nazrul Islam was born on the 20th May 1899,\ne} As a boy being restless and absent-minded, he did not like the hard and\nfast rules of the school.\nf) One day, Dukhu Mia became a great poet.\ng) You will have heard the name of Kazi Nazrul Islam.\nh) So he was called Dukhu Mia.",
+  "cleanText": "104 English For Today\nThere are no fruit trees in village gardens.\ne) People in villages celebrate festivals like Pahela Boishakh and Nabanna\nWrite a summary of the passage in your own words, 10\nMatch the parts of sentences from the Columns A and B to make five\ncomplete sentences.\nColumn A Column B\n(a) Food is one of the basic (i) without it\n(b) It is essential (ii) needs of human beings\n(c) We cannot live (iii) for our survival\n(d) So, we must always (iv) kind of food for good health\n(e) Good food means the right (v) have good food\nPut the following parts of the story in the correct order to make the whole\nstory. Only the corresponding numbers of the sentences need to be written.\na} He lost his father in his childhood.\nHe was fond of adventures, music and jatra party.\nc} He spent his early life in great hardship.\nNazrul Islam was born on the 20th May 1899,\ne} As a boy being restless and absent-minded, he did not like the hard and\nfast rules of the school.\nf) One day, Dukhu Mia became a great poet.\ng) You will have heard the name of Kazi Nazrul Islam.\nh) So he was called Dukhu Mia.",
+  "aiReadyText": "104 English For Today\nThere are no fruit trees in village gardens.\ne) People in villages celebrate festivals like Pahela Boishakh and Nabanna\nWrite a summary of the passage in your own words, 10\nMatch the parts of sentences from the Columns A and B to make five\ncomplete sentences.\nColumn A Column B\n(a) Food is one of the basic (i) without it\n(b) It is essential (ii) needs of human beings\n(c) We cannot live (iii) for our survival\n(d) So, we must always (iv) kind of food for good health\n(e) Good food means the right (v) have good food\nPut the following parts of the story in the correct order to make the whole\nstory. Only the corresponding numbers of the sentences need to be written.\na} He lost his father in his childhood.\nHe was fond of adventures, music and jatra party.\nc} He spent his early life in great hardship.\nNazrul Islam was born on the 20th May 1899,\ne} As a boy being restless and absent-minded, he did not like the hard and\nfast rules of the school.\nf) One day, Dukhu Mia became a great poet.\ng) You will have heard the name of Kazi Nazrul Islam.\nh) So he was called Dukhu Mia."
+}

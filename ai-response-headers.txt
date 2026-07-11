@@ -1,0 +1,11 @@
+HTTP/1.1 500 Internal Server Error
+Cache-Control: no-cache, must-revalidate
+X-Powered-By: Next.js
+ETag: "68urh9qgqs811"
+Content-Type: text/html; charset=utf-8
+Content-Length: 10405
+Vary: Accept-Encoding
+Date: Fri, 10 Jul 2026 18:09:21 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+

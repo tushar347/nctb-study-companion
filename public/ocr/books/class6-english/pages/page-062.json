@@ -1,0 +1,480 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 62,
+  "image": "/ocr/books/class6-english/page-images/page-062.png",
+  "width": 1149,
+  "height": 1507,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 57",
+      "cleanText": "English For Today 57",
+      "bbox": {
+        "x": 125,
+        "y": 81,
+        "width": 905,
+        "height": 31
+      },
+      "confidence": 90.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Handy Hints",
+      "cleanText": "Handy Hints",
+      "bbox": {
+        "x": 196,
+        "y": 152,
+        "width": 154,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-062-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "1. Remember to wash and dry all vegetables before preparing them.",
+      "cleanText": "Remember to wash and dry all vegetables before preparing them.",
+      "bbox": {
+        "x": 199,
+        "y": 226,
+        "width": 783,
+        "height": 26
+      },
+      "confidence": 92.18,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "2. Be extra careful when handling sharp knife.",
+      "cleanText": "Be extra careful when handling sharp knife.",
+      "bbox": {
+        "x": 195,
+        "y": 272,
+        "width": 542,
+        "height": 26
+      },
+      "confidence": 94.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "You may wish to choose a variety of fillings, For example, 4 slices of",
+      "cleanText": "You may wish to choose a variety of fillings, For example, 4 slices of",
+      "bbox": {
+        "x": 239,
+        "y": 315,
+        "width": 794,
+        "height": 33
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "cucumber, | slice of meat such as chicken loaf or meat loaf, mustard and",
+      "cleanText": "cucumber, | slice of meat such as chicken loaf or meat loaf, mustard and",
+      "bbox": {
+        "x": 235,
+        "y": 360,
+        "width": 796,
+        "height": 24
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "so on,",
+      "cleanText": "so on,",
+      "bbox": {
+        "x": 237,
+        "y": 407,
+        "width": 63,
+        "height": 14
+      },
+      "confidence": 73.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-062-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Al, Fill in the blanks and complete the instructions for making",
+      "cleanText": "Al, Fill in the blanks and complete the instructions for making",
+      "bbox": {
+        "x": 116,
+        "y": 466,
+        "width": 913,
+        "height": 26
+      },
+      "confidence": 88.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "a sandwich.",
+      "cleanText": "a sandwich.",
+      "bbox": {
+        "x": 191,
+        "y": 507,
+        "width": 166,
+        "height": 21
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-062-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "1. First, take two slices of",
+      "cleanText": "First, take two slices of",
+      "bbox": {
+        "x": 199,
+        "y": 577,
+        "width": 306,
+        "height": 24
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "2. Second, spread on one side of them.",
+      "cleanText": "Second, spread on one side of them.",
+      "bbox": {
+        "x": 195,
+        "y": 633,
+        "width": 789,
+        "height": 26
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "3. Then, put one slice of",
+      "cleanText": "Then, put one slice of",
+      "bbox": {
+        "x": 196,
+        "y": 690,
+        "width": 292,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "4. After that, put",
+      "cleanText": "After that, put",
+      "bbox": {
+        "x": 195,
+        "y": 748,
+        "width": 203,
+        "height": 25
+      },
+      "confidence": 88.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "5. Later, arrange one slice of and",
+      "cleanText": "Later, arrange one slice of and",
+      "bbox": {
+        "x": 196,
+        "y": 803,
+        "width": 551,
+        "height": 25
+      },
+      "confidence": 92.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "6. Finally, place the remaining slice of on",
+      "cleanText": "Finally, place the remaining slice of on",
+      "bbox": {
+        "x": 196,
+        "y": 860,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "top of another and serve.",
+      "cleanText": "top of another and serve.",
+      "bbox": {
+        "x": 239,
+        "y": 914,
+        "width": 289,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "B. Here is a recipe for making an omelette. Complete the",
+      "cleanText": "Here is a recipe for making an omelette. Complete the",
+      "bbox": {
+        "x": 120,
+        "y": 982,
+        "width": 908,
+        "height": 28
+      },
+      "confidence": 95.09,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "recipe by replacing the pictures with words from the box.",
+      "cleanText": "recipe by replacing the pictures with words from the box.",
+      "bbox": {
+        "x": 188,
+        "y": 1029,
+        "width": 748,
+        "height": 27
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-018",
+      "lineNumber": 18
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-062-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 57",
+      "bbox": {
+        "x": 125,
+        "y": 81,
+        "width": 905,
+        "height": 31
+      },
+      "confidence": 90.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-003",
+      "lineNumber": 3,
+      "text": "Remember to wash and dry all vegetables before preparing them.",
+      "bbox": {
+        "x": 199,
+        "y": 226,
+        "width": 783,
+        "height": 26
+      },
+      "confidence": 92.18,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-004",
+      "lineNumber": 4,
+      "text": "Be extra careful when handling sharp knife.",
+      "bbox": {
+        "x": 195,
+        "y": 272,
+        "width": 542,
+        "height": 26
+      },
+      "confidence": 94.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-005",
+      "lineNumber": 5,
+      "text": "You may wish to choose a variety of fillings, For example, 4 slices of",
+      "bbox": {
+        "x": 239,
+        "y": 315,
+        "width": 794,
+        "height": 33
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-006",
+      "lineNumber": 6,
+      "text": "cucumber, | slice of meat such as chicken loaf or meat loaf, mustard and",
+      "bbox": {
+        "x": 235,
+        "y": 360,
+        "width": 796,
+        "height": 24
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-008",
+      "lineNumber": 8,
+      "text": "Al, Fill in the blanks and complete the instructions for making",
+      "bbox": {
+        "x": 116,
+        "y": 466,
+        "width": 913,
+        "height": 26
+      },
+      "confidence": 88.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-010",
+      "lineNumber": 10,
+      "text": "First, take two slices of",
+      "bbox": {
+        "x": 199,
+        "y": 577,
+        "width": 306,
+        "height": 24
+      },
+      "confidence": 91.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-011",
+      "lineNumber": 11,
+      "text": "Second, spread on one side of them.",
+      "bbox": {
+        "x": 195,
+        "y": 633,
+        "width": 789,
+        "height": 26
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-012",
+      "lineNumber": 12,
+      "text": "Then, put one slice of",
+      "bbox": {
+        "x": 196,
+        "y": 690,
+        "width": 292,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-013",
+      "lineNumber": 13,
+      "text": "After that, put",
+      "bbox": {
+        "x": 195,
+        "y": 748,
+        "width": 203,
+        "height": 25
+      },
+      "confidence": 88.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-014",
+      "lineNumber": 14,
+      "text": "Later, arrange one slice of and",
+      "bbox": {
+        "x": 196,
+        "y": 803,
+        "width": 551,
+        "height": 25
+      },
+      "confidence": 92.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-015",
+      "lineNumber": 15,
+      "text": "Finally, place the remaining slice of on",
+      "bbox": {
+        "x": 196,
+        "y": 860,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-016",
+      "lineNumber": 16,
+      "text": "top of another and serve.",
+      "bbox": {
+        "x": 239,
+        "y": 914,
+        "width": 289,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-017",
+      "lineNumber": 17,
+      "text": "Here is a recipe for making an omelette. Complete the",
+      "bbox": {
+        "x": 120,
+        "y": 982,
+        "width": 908,
+        "height": 28
+      },
+      "confidence": 95.09,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-018",
+      "lineNumber": 18,
+      "text": "recipe by replacing the pictures with words from the box.",
+      "bbox": {
+        "x": 188,
+        "y": 1029,
+        "width": 748,
+        "height": 27
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 57\nHandy Hints\n1. Remember to wash and dry all vegetables before preparing them.\n2. Be extra careful when handling sharp knife.\nYou may wish to choose a variety of fillings, For example, 4 slices of\ncucumber, | slice of meat such as chicken loaf or meat loaf, mustard and\nso on,\nAl, Fill in the blanks and complete the instructions for making\na sandwich.\n1. First, take two slices of\n2. Second, spread on one side of them.\n3. Then, put one slice of\n4. After that, put\n5. Later, arrange one slice of and\n6. Finally, place the remaining slice of on\ntop of another and serve.\nB. Here is a recipe for making an omelette. Complete the\nrecipe by replacing the pictures with words from the box.",
+  "cleanText": "English For Today 57\nHandy Hints\nRemember to wash and dry all vegetables before preparing them.\nBe extra careful when handling sharp knife.\nYou may wish to choose a variety of fillings, For example, 4 slices of\ncucumber, | slice of meat such as chicken loaf or meat loaf, mustard and\nso on,\nAl, Fill in the blanks and complete the instructions for making\na sandwich.\nFirst, take two slices of\nSecond, spread on one side of them.\nThen, put one slice of\nAfter that, put\nLater, arrange one slice of and\nFinally, place the remaining slice of on\ntop of another and serve.\nHere is a recipe for making an omelette. Complete the\nrecipe by replacing the pictures with words from the box.",
+  "aiReadyText": "English For Today 57\nRemember to wash and dry all vegetables before preparing them.\nBe extra careful when handling sharp knife.\nYou may wish to choose a variety of fillings, For example, 4 slices of\ncucumber, | slice of meat such as chicken loaf or meat loaf, mustard and\nAl, Fill in the blanks and complete the instructions for making\nFirst, take two slices of\nSecond, spread on one side of them.\nThen, put one slice of\nAfter that, put\nLater, arrange one slice of and\nFinally, place the remaining slice of on\ntop of another and serve.\nHere is a recipe for making an omelette. Complete the\nrecipe by replacing the pictures with words from the box."
+}

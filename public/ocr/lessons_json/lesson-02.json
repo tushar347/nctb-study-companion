@@ -1,0 +1,146 @@
+{
+  "lessonNo": 2,
+  "title": "Congratulations! Well Done!",
+  "lessonTitle": "Congratulations! Well Done!",
+  "textbookPageStart": 4,
+  "textbookPageEnd": 6,
+  "pdfPageStart": 9,
+  "pdfPageEnd": 11,
+  "lines": [
+    {
+      "id": "lesson-02-line-001",
+      "lineNumber": 1,
+      "paragraphNo": 1,
+      "text": "We often use some routine expressions in our everyday conversations."
+    },
+    {
+      "id": "lesson-02-line-002",
+      "lineNumber": 2,
+      "paragraphNo": 2,
+      "text": "Read the following conversations and see some of the different ways in which we can respond to good or bad news."
+    },
+    {
+      "id": "lesson-02-line-003",
+      "lineNumber": 3,
+      "paragraphNo": 3,
+      "text": "Lily goes to a school in Dhaka and her parents live in a small town in Tangail district."
+    },
+    {
+      "id": "lesson-02-line-004",
+      "lineNumber": 4,
+      "paragraphNo": 4,
+      "text": "Lily is talking to her father over telephone."
+    },
+    {
+      "id": "lesson-02-line-005",
+      "lineNumber": 5,
+      "paragraphNo": 5,
+      "text": "Lily says, Hello, Baba!"
+    },
+    {
+      "id": "lesson-02-line-006",
+      "lineNumber": 6,
+      "paragraphNo": 6,
+      "text": "Baba asks, Lily? How are you?"
+    },
+    {
+      "id": "lesson-02-line-007",
+      "lineNumber": 7,
+      "paragraphNo": 7,
+      "text": "Lily says, Fine, Baba. I just got my exam result. I have got an A in my English test."
+    },
+    {
+      "id": "lesson-02-line-008",
+      "lineNumber": 8,
+      "paragraphNo": 8,
+      "text": "Baba says, Well done, daughter! I am so proud of you."
+    },
+    {
+      "id": "lesson-02-line-009",
+      "lineNumber": 9,
+      "paragraphNo": 9,
+      "text": "Rahul is a good singer."
+    },
+    {
+      "id": "lesson-02-line-010",
+      "lineNumber": 10,
+      "paragraphNo": 10,
+      "text": "His new album has just come out."
+    },
+    {
+      "id": "lesson-02-line-011",
+      "lineNumber": 11,
+      "paragraphNo": 11,
+      "text": "Nina says, Oh, great! Congratulations!"
+    },
+    {
+      "id": "lesson-02-line-012",
+      "lineNumber": 12,
+      "paragraphNo": 12,
+      "text": "When we are glad or happy to hear about any good news, we usually express our happiness with expressions like Congratulations, Well done, That's marvelous, That's wonderful, and Great."
+    },
+    {
+      "id": "lesson-02-line-013",
+      "lineNumber": 13,
+      "paragraphNo": 13,
+      "text": "When we hear about bad news, we say, I am sorry to hear that or That is bad luck."
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "lesson-02-ai-line-001",
+      "text": "We often use some routine expressions in our everyday conversations."
+    },
+    {
+      "id": "lesson-02-ai-line-002",
+      "text": "Read the following conversations and see some of the different ways in which we can respond to good or bad news."
+    },
+    {
+      "id": "lesson-02-ai-line-003",
+      "text": "Lily goes to a school in Dhaka and her parents live in a small town in Tangail district."
+    },
+    {
+      "id": "lesson-02-ai-line-004",
+      "text": "Lily is talking to her father over telephone."
+    },
+    {
+      "id": "lesson-02-ai-line-005",
+      "text": "Lily says, Hello, Baba!"
+    },
+    {
+      "id": "lesson-02-ai-line-006",
+      "text": "Baba asks, Lily? How are you?"
+    },
+    {
+      "id": "lesson-02-ai-line-007",
+      "text": "Lily says, Fine, Baba. I just got my exam result. I have got an A in my English test."
+    },
+    {
+      "id": "lesson-02-ai-line-008",
+      "text": "Baba says, Well done, daughter! I am so proud of you."
+    },
+    {
+      "id": "lesson-02-ai-line-009",
+      "text": "Rahul is a good singer."
+    },
+    {
+      "id": "lesson-02-ai-line-010",
+      "text": "His new album has just come out."
+    },
+    {
+      "id": "lesson-02-ai-line-011",
+      "text": "Nina says, Oh, great! Congratulations!"
+    },
+    {
+      "id": "lesson-02-ai-line-012",
+      "text": "When we are glad or happy to hear about any good news, we usually express our happiness with expressions like Congratulations, Well done, That's marvelous, That's wonderful, and Great."
+    },
+    {
+      "id": "lesson-02-ai-line-013",
+      "text": "When we hear about bad news, we say, I am sorry to hear that or That is bad luck."
+    }
+  ],
+  "rawText": "We often use some routine expressions in our everyday conversations.\nRead the following conversations and see some of the different ways in which we can respond to good or bad news.\nLily goes to a school in Dhaka and her parents live in a small town in Tangail district.\nLily is talking to her father over telephone.\nLily says, Hello, Baba!\nBaba asks, Lily? How are you?\nLily says, Fine, Baba. I just got my exam result. I have got an A in my English test.\nBaba says, Well done, daughter! I am so proud of you.\nRahul is a good singer.\nHis new album has just come out.\nNina says, Oh, great! Congratulations!\nWhen we are glad or happy to hear about any good news, we usually express our happiness with expressions like Congratulations, Well done, That's marvelous, That's wonderful, and Great.\nWhen we hear about bad news, we say, I am sorry to hear that or That is bad luck.",
+  "cleanText": "We often use some routine expressions in our everyday conversations.\nRead the following conversations and see some of the different ways in which we can respond to good or bad news.\nLily goes to a school in Dhaka and her parents live in a small town in Tangail district.\nLily is talking to her father over telephone.\nLily says, Hello, Baba!\nBaba asks, Lily? How are you?\nLily says, Fine, Baba. I just got my exam result. I have got an A in my English test.\nBaba says, Well done, daughter! I am so proud of you.\nRahul is a good singer.\nHis new album has just come out.\nNina says, Oh, great! Congratulations!\nWhen we are glad or happy to hear about any good news, we usually express our happiness with expressions like Congratulations, Well done, That's marvelous, That's wonderful, and Great.\nWhen we hear about bad news, we say, I am sorry to hear that or That is bad luck.",
+  "aiReadyText": "We often use some routine expressions in our everyday conversations.\nRead the following conversations and see some of the different ways in which we can respond to good or bad news.\nLily goes to a school in Dhaka and her parents live in a small town in Tangail district.\nLily is talking to her father over telephone.\nLily says, Hello, Baba!\nBaba asks, Lily? How are you?\nLily says, Fine, Baba. I just got my exam result. I have got an A in my English test.\nBaba says, Well done, daughter! I am so proud of you.\nRahul is a good singer.\nHis new album has just come out.\nNina says, Oh, great! Congratulations!\nWhen we are glad or happy to hear about any good news, we usually express our happiness with expressions like Congratulations, Well done, That's marvelous, That's wonderful, and Great.\nWhen we hear about bad news, we say, I am sorry to hear that or That is bad luck."
+}

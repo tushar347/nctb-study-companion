@@ -1,0 +1,521 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 31,
+  "image": "/ocr/books/class6-english/page-images/page-031.png",
+  "width": 1149,
+  "height": 1518,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "26 English For Today",
+      "cleanText": "26 English For Today",
+      "bbox": {
+        "x": 124,
+        "y": 88,
+        "width": 913,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "D. Workin groups. Create a mini market in the classroom. Put some",
+      "cleanText": "Workin groups. Create a mini market in the classroom. Put some",
+      "bbox": {
+        "x": 121,
+        "y": 160,
+        "width": 913,
+        "height": 27
+      },
+      "confidence": 94.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "signs like the Baker's, the Grocer's, the Stationer's, etc. Some of",
+      "cleanText": "signs like the Baker's, the Grocer's, the Stationer's, etc. Some of",
+      "bbox": {
+        "x": 196,
+        "y": 195,
+        "width": 841,
+        "height": 27
+      },
+      "confidence": 93.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "you play the roles of shop assistants and some others will be",
+      "cleanText": "you play the roles of shop assistants and some others will be",
+      "bbox": {
+        "x": 196,
+        "y": 232,
+        "width": 837,
+        "height": 27
+      },
+      "confidence": 95.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "customers. Now, the customers move round the room from one shop",
+      "cleanText": "customers. Now, the customers move round the room from one shop",
+      "bbox": {
+        "x": 195,
+        "y": 270,
+        "width": 839,
+        "height": 27
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "to the other asking the prices of the items shown in the pictures",
+      "cleanText": "to the other asking the prices of the items shown in the pictures",
+      "bbox": {
+        "x": 195,
+        "y": 307,
+        "width": 839,
+        "height": 27
+      },
+      "confidence": 95.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "below. Use the following model:",
+      "cleanText": "below. Use the following model:",
+      "bbox": {
+        "x": 195,
+        "y": 347,
+        "width": 387,
+        "height": 26
+      },
+      "confidence": 93.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "A shopping day:",
+      "cleanText": "A shopping day:",
+      "bbox": {
+        "x": 199,
+        "y": 396,
+        "width": 198,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "A Have you got any noodles? / Do you have any noodles?",
+      "cleanText": "A Have you got any noodles? / Do you have any noodles?",
+      "bbox": {
+        "x": 200,
+        "y": 438,
+        "width": 740,
+        "height": 26
+      },
+      "confidence": 95.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "B Yes, I have. / Yes, I do.",
+      "cleanText": "B Yes, I have. / Yes, I do.",
+      "bbox": {
+        "x": 200,
+        "y": 476,
+        "width": 362,
+        "height": 23
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "A How much are they?",
+      "cleanText": "A How much are they?",
+      "bbox": {
+        "x": 200,
+        "y": 515,
+        "width": 342,
+        "height": 26
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "B Taka twenty-five a packet.",
+      "cleanText": "B Taka twenty-five a packet.",
+      "bbox": {
+        "x": 200,
+        "y": 553,
+        "width": 411,
+        "height": 26
+      },
+      "confidence": 88.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "A Can I have two packets, please?",
+      "cleanText": "A Can I have two packets, please?",
+      "bbox": {
+        "x": 200,
+        "y": 593,
+        "width": 469,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "B Here you are. That's taka fifty altogether.",
+      "cleanText": "B Here you are. That's taka fifty altogether.",
+      "bbox": {
+        "x": 200,
+        "y": 630,
+        "width": 572,
+        "height": 25
+      },
+      "confidence": 94.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "A Thank you.",
+      "cleanText": "A Thank you.",
+      "bbox": {
+        "x": 200,
+        "y": 670,
+        "width": 234,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-031-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "pencil box: Tk. 180 Biscuits: 35/pack Eggs: Tk. 130/dozen",
+      "cleanText": "pencil box: Tk. 180 Biscuits: 35/pack Eggs: Tk. 130/dozen",
+      "bbox": {
+        "x": 132,
+        "y": 919,
+        "width": 872,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "TEE ee",
+      "cleanText": "TEE ee",
+      "bbox": {
+        "x": 453,
+        "y": 1112,
+        "width": 254,
+        "height": 14
+      },
+      "confidence": 55.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-031-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Toothpaste: Tk. 40/tube Pencil set: Tk. 90 A calculator: Tk.250",
+      "cleanText": "Toothpaste: Tk. 40/tube Pencil set: Tk. 90 A calculator: Tk.250",
+      "bbox": {
+        "x": 126,
+        "y": 1165,
+        "width": 904,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "A loaf of Bread: Tk. 35 Onions: Tk 40/Kg Cake: Tk. 400/kg",
+      "cleanText": "A loaf of Bread: Tk. 35 Onions: Tk 40/Kg Cake: Tk. 400/kg",
+      "bbox": {
+        "x": 123,
+        "y": 1404,
+        "width": 847,
+        "height": 33
+      },
+      "confidence": 94.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-019",
+      "lineNumber": 19
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-031-line-001",
+      "lineNumber": 1,
+      "text": "26 English For Today",
+      "bbox": {
+        "x": 124,
+        "y": 88,
+        "width": 913,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-002",
+      "lineNumber": 2,
+      "text": "Workin groups. Create a mini market in the classroom. Put some",
+      "bbox": {
+        "x": 121,
+        "y": 160,
+        "width": 913,
+        "height": 27
+      },
+      "confidence": 94.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-003",
+      "lineNumber": 3,
+      "text": "signs like the Baker's, the Grocer's, the Stationer's, etc. Some of",
+      "bbox": {
+        "x": 196,
+        "y": 195,
+        "width": 841,
+        "height": 27
+      },
+      "confidence": 93.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-004",
+      "lineNumber": 4,
+      "text": "you play the roles of shop assistants and some others will be",
+      "bbox": {
+        "x": 196,
+        "y": 232,
+        "width": 837,
+        "height": 27
+      },
+      "confidence": 95.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-005",
+      "lineNumber": 5,
+      "text": "customers. Now, the customers move round the room from one shop",
+      "bbox": {
+        "x": 195,
+        "y": 270,
+        "width": 839,
+        "height": 27
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-006",
+      "lineNumber": 6,
+      "text": "to the other asking the prices of the items shown in the pictures",
+      "bbox": {
+        "x": 195,
+        "y": 307,
+        "width": 839,
+        "height": 27
+      },
+      "confidence": 95.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-007",
+      "lineNumber": 7,
+      "text": "below. Use the following model:",
+      "bbox": {
+        "x": 195,
+        "y": 347,
+        "width": 387,
+        "height": 26
+      },
+      "confidence": 93.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-008",
+      "lineNumber": 8,
+      "text": "A shopping day:",
+      "bbox": {
+        "x": 199,
+        "y": 396,
+        "width": 198,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-009",
+      "lineNumber": 9,
+      "text": "A Have you got any noodles? / Do you have any noodles?",
+      "bbox": {
+        "x": 200,
+        "y": 438,
+        "width": 740,
+        "height": 26
+      },
+      "confidence": 95.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-010",
+      "lineNumber": 10,
+      "text": "B Yes, I have. / Yes, I do.",
+      "bbox": {
+        "x": 200,
+        "y": 476,
+        "width": 362,
+        "height": 23
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-011",
+      "lineNumber": 11,
+      "text": "A How much are they?",
+      "bbox": {
+        "x": 200,
+        "y": 515,
+        "width": 342,
+        "height": 26
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-012",
+      "lineNumber": 12,
+      "text": "B Taka twenty-five a packet.",
+      "bbox": {
+        "x": 200,
+        "y": 553,
+        "width": 411,
+        "height": 26
+      },
+      "confidence": 88.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-013",
+      "lineNumber": 13,
+      "text": "A Can I have two packets, please?",
+      "bbox": {
+        "x": 200,
+        "y": 593,
+        "width": 469,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-014",
+      "lineNumber": 14,
+      "text": "B Here you are. That's taka fifty altogether.",
+      "bbox": {
+        "x": 200,
+        "y": 630,
+        "width": 572,
+        "height": 25
+      },
+      "confidence": 94.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-016",
+      "lineNumber": 16,
+      "text": "pencil box: Tk. 180 Biscuits: 35/pack Eggs: Tk. 130/dozen",
+      "bbox": {
+        "x": 132,
+        "y": 919,
+        "width": 872,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-018",
+      "lineNumber": 18,
+      "text": "Toothpaste: Tk. 40/tube Pencil set: Tk. 90 A calculator: Tk.250",
+      "bbox": {
+        "x": 126,
+        "y": 1165,
+        "width": 904,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-019",
+      "lineNumber": 19,
+      "text": "A loaf of Bread: Tk. 35 Onions: Tk 40/Kg Cake: Tk. 400/kg",
+      "bbox": {
+        "x": 123,
+        "y": 1404,
+        "width": 847,
+        "height": 33
+      },
+      "confidence": 94.08,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "26 English For Today\nD. Workin groups. Create a mini market in the classroom. Put some\nsigns like the Baker's, the Grocer's, the Stationer's, etc. Some of\nyou play the roles of shop assistants and some others will be\ncustomers. Now, the customers move round the room from one shop\nto the other asking the prices of the items shown in the pictures\nbelow. Use the following model:\nA shopping day:\nA Have you got any noodles? / Do you have any noodles?\nB Yes, I have. / Yes, I do.\nA How much are they?\nB Taka twenty-five a packet.\nA Can I have two packets, please?\nB Here you are. That's taka fifty altogether.\nA Thank you.\npencil box: Tk. 180 Biscuits: 35/pack Eggs: Tk. 130/dozen\nTEE ee\nToothpaste: Tk. 40/tube Pencil set: Tk. 90 A calculator: Tk.250\nA loaf of Bread: Tk. 35 Onions: Tk 40/Kg Cake: Tk. 400/kg",
+  "cleanText": "26 English For Today\nWorkin groups. Create a mini market in the classroom. Put some\nsigns like the Baker's, the Grocer's, the Stationer's, etc. Some of\nyou play the roles of shop assistants and some others will be\ncustomers. Now, the customers move round the room from one shop\nto the other asking the prices of the items shown in the pictures\nbelow. Use the following model:\nA shopping day:\nA Have you got any noodles? / Do you have any noodles?\nB Yes, I have. / Yes, I do.\nA How much are they?\nB Taka twenty-five a packet.\nA Can I have two packets, please?\nB Here you are. That's taka fifty altogether.\nA Thank you.\npencil box: Tk. 180 Biscuits: 35/pack Eggs: Tk. 130/dozen\nTEE ee\nToothpaste: Tk. 40/tube Pencil set: Tk. 90 A calculator: Tk.250\nA loaf of Bread: Tk. 35 Onions: Tk 40/Kg Cake: Tk. 400/kg",
+  "aiReadyText": "26 English For Today\nWorkin groups. Create a mini market in the classroom. Put some\nsigns like the Baker's, the Grocer's, the Stationer's, etc. Some of\nyou play the roles of shop assistants and some others will be\ncustomers. Now, the customers move round the room from one shop\nto the other asking the prices of the items shown in the pictures\nbelow. Use the following model:\nA shopping day:\nA Have you got any noodles? / Do you have any noodles?\nB Yes, I have. / Yes, I do.\nA How much are they?\nB Taka twenty-five a packet.\nA Can I have two packets, please?\nB Here you are. That's taka fifty altogether.\npencil box: Tk. 180 Biscuits: 35/pack Eggs: Tk. 130/dozen\nToothpaste: Tk. 40/tube Pencil set: Tk. 90 A calculator: Tk.250\nA loaf of Bread: Tk. 35 Onions: Tk 40/Kg Cake: Tk. 400/kg"
+}

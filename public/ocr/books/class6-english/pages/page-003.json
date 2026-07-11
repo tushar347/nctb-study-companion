@@ -1,0 +1,383 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 3,
+  "image": "/ocr/books/class6-english/page-images/page-003.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Published by",
+      "cleanText": "Published by",
+      "bbox": {
+        "x": 503,
+        "y": 181,
+        "width": 156,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-003-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "69-70, Motijheel Commercial Area, Dhaka",
+      "cleanText": "69-70, Motijheel Commercial Area, Dhaka",
+      "bbox": {
+        "x": 303,
+        "y": 255,
+        "width": 504,
+        "height": 27
+      },
+      "confidence": 93.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "[All rights reserved by the Publisher]",
+      "cleanText": "[All rights reserved by the Publisher]",
+      "bbox": {
+        "x": 332,
+        "y": 373,
+        "width": 496,
+        "height": 32
+      },
+      "confidence": 96.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "First edition written and edited by",
+      "cleanText": "First edition written and edited by",
+      "bbox": {
+        "x": 346,
+        "y": 476,
+        "width": 456,
+        "height": 27
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "AMM Hamidur Rahman",
+      "cleanText": "AMM Hamidur Rahman",
+      "bbox": {
+        "x": 439,
+        "y": 540,
+        "width": 260,
+        "height": 18
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Shaheen Kabir",
+      "cleanText": "Shaheen Kabir",
+      "bbox": {
+        "x": 474,
+        "y": 573,
+        "width": 196,
+        "height": 18
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-003-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Md. Zulfeqar Haider",
+      "cleanText": "Zulfeqar Haider",
+      "bbox": {
+        "x": 460,
+        "y": 613,
+        "width": 224,
+        "height": 23
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Goutam Roy",
+      "cleanText": "Goutam Roy",
+      "bbox": {
+        "x": 504,
+        "y": 653,
+        "width": 136,
+        "height": 23
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-003-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Surajit Roy Majumder",
+      "cleanText": "Surajit Roy Majumder",
+      "bbox": {
+        "x": 452,
+        "y": 693,
+        "width": 242,
+        "height": 23
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "First Publication : September 2012",
+      "cleanText": "First Publication : September 2012",
+      "bbox": {
+        "x": 340,
+        "y": 1120,
+        "width": 475,
+        "height": 24
+      },
+      "confidence": 92.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Revised Edition : September 2014",
+      "cleanText": "Revised Edition : September 2014",
+      "bbox": {
+        "x": 349,
+        "y": 1160,
+        "width": 466,
+        "height": 24
+      },
+      "confidence": 88.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Revised Edition : November 2020",
+      "cleanText": "Revised Edition : November 2020",
+      "bbox": {
+        "x": 349,
+        "y": 1201,
+        "width": 469,
+        "height": 19
+      },
+      "confidence": 90.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Revised Edition : October 2025",
+      "cleanText": "Revised Edition : October 2025",
+      "bbox": {
+        "x": 349,
+        "y": 1236,
+        "width": 467,
+        "height": 24
+      },
+      "confidence": 88.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "For Free Distribution by the Government of the People’s Republic of Bangladesh",
+      "cleanText": "For Free Distribution by the Government of the People’s Republic of Bangladesh",
+      "bbox": {
+        "x": 118,
+        "y": 1351,
+        "width": 912,
+        "height": 26
+      },
+      "confidence": 96.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Printed by:",
+      "cleanText": "Printed by:",
+      "bbox": {
+        "x": 118,
+        "y": 1397,
+        "width": 133,
+        "height": 24
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-003-line-015",
+      "lineNumber": 15
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-003-line-002",
+      "lineNumber": 2,
+      "text": "69-70, Motijheel Commercial Area, Dhaka",
+      "bbox": {
+        "x": 303,
+        "y": 255,
+        "width": 504,
+        "height": 27
+      },
+      "confidence": 93.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-003",
+      "lineNumber": 3,
+      "text": "[All rights reserved by the Publisher]",
+      "bbox": {
+        "x": 332,
+        "y": 373,
+        "width": 496,
+        "height": 32
+      },
+      "confidence": 96.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-004",
+      "lineNumber": 4,
+      "text": "First edition written and edited by",
+      "bbox": {
+        "x": 346,
+        "y": 476,
+        "width": 456,
+        "height": 27
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-005",
+      "lineNumber": 5,
+      "text": "AMM Hamidur Rahman",
+      "bbox": {
+        "x": 439,
+        "y": 540,
+        "width": 260,
+        "height": 18
+      },
+      "confidence": 93.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-007",
+      "lineNumber": 7,
+      "text": "Zulfeqar Haider",
+      "bbox": {
+        "x": 460,
+        "y": 613,
+        "width": 224,
+        "height": 23
+      },
+      "confidence": 93.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-009",
+      "lineNumber": 9,
+      "text": "Surajit Roy Majumder",
+      "bbox": {
+        "x": 452,
+        "y": 693,
+        "width": 242,
+        "height": 23
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-010",
+      "lineNumber": 10,
+      "text": "First Publication : September 2012",
+      "bbox": {
+        "x": 340,
+        "y": 1120,
+        "width": 475,
+        "height": 24
+      },
+      "confidence": 92.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-011",
+      "lineNumber": 11,
+      "text": "Revised Edition : September 2014",
+      "bbox": {
+        "x": 349,
+        "y": 1160,
+        "width": 466,
+        "height": 24
+      },
+      "confidence": 88.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-012",
+      "lineNumber": 12,
+      "text": "Revised Edition : November 2020",
+      "bbox": {
+        "x": 349,
+        "y": 1201,
+        "width": 469,
+        "height": 19
+      },
+      "confidence": 90.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-013",
+      "lineNumber": 13,
+      "text": "Revised Edition : October 2025",
+      "bbox": {
+        "x": 349,
+        "y": 1236,
+        "width": 467,
+        "height": 24
+      },
+      "confidence": 88.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-014",
+      "lineNumber": 14,
+      "text": "For Free Distribution by the Government of the People’s Republic of Bangladesh",
+      "bbox": {
+        "x": 118,
+        "y": 1351,
+        "width": 912,
+        "height": 26
+      },
+      "confidence": 96.17,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Published by\n69-70, Motijheel Commercial Area, Dhaka\n[All rights reserved by the Publisher]\nFirst edition written and edited by\nAMM Hamidur Rahman\nShaheen Kabir\nMd. Zulfeqar Haider\nGoutam Roy\nSurajit Roy Majumder\nFirst Publication : September 2012\nRevised Edition : September 2014\nRevised Edition : November 2020\nRevised Edition : October 2025\nFor Free Distribution by the Government of the People’s Republic of Bangladesh\nPrinted by:",
+  "cleanText": "Published by\n69-70, Motijheel Commercial Area, Dhaka\n[All rights reserved by the Publisher]\nFirst edition written and edited by\nAMM Hamidur Rahman\nShaheen Kabir\nZulfeqar Haider\nGoutam Roy\nSurajit Roy Majumder\nFirst Publication : September 2012\nRevised Edition : September 2014\nRevised Edition : November 2020\nRevised Edition : October 2025\nFor Free Distribution by the Government of the People’s Republic of Bangladesh\nPrinted by:",
+  "aiReadyText": "69-70, Motijheel Commercial Area, Dhaka\n[All rights reserved by the Publisher]\nFirst edition written and edited by\nAMM Hamidur Rahman\nZulfeqar Haider\nSurajit Roy Majumder\nFirst Publication : September 2012\nRevised Edition : September 2014\nRevised Edition : November 2020\nRevised Edition : October 2025\nFor Free Distribution by the Government of the People’s Republic of Bangladesh"
+}

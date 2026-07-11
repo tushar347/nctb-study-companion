@@ -1,0 +1,310 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 38,
+  "image": "/ocr/books/class6-english/page-images/page-038.png",
+  "width": 1160,
+  "height": 1510,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 10 Remedies: Modern and Traditional",
+      "cleanText": "Lesson 10 Remedies: Modern and Traditional",
+      "bbox": {
+        "x": 117,
+        "y": 180,
+        "width": 850,
+        "height": 45
+      },
+      "confidence": 91.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 175,
+        "y": 282,
+        "width": 569,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-038-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "read and understand written instructions",
+      "cleanText": "read and understand written instructions",
+      "bbox": {
+        "x": 213,
+        "y": 313,
+        "width": 422,
+        "height": 18
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "¢ read and understand texts",
+      "cleanText": "¢ read and understand texts",
+      "bbox": {
+        "x": 195,
+        "y": 344,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 90.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "¢ ask and answer questions",
+      "cleanText": "¢ ask and answer questions",
+      "bbox": {
+        "x": 195,
+        "y": 375,
+        "width": 284,
+        "height": 23
+      },
+      "confidence": 91.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "© participate in short dialogues and conversations on familiar topics",
+      "cleanText": "© participate in short dialogues and conversations on familiar topics",
+      "bbox": {
+        "x": 195,
+        "y": 405,
+        "width": 710,
+        "height": 24
+      },
+      "confidence": 90.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "© write short paragraphs",
+      "cleanText": "© write short paragraphs",
+      "bbox": {
+        "x": 195,
+        "y": 436,
+        "width": 252,
+        "height": 24
+      },
+      "confidence": 84.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "A. Look at the following pictures. Discuss with your partner what they",
+      "cleanText": "Look at the following pictures. Discuss with your partner what they",
+      "bbox": {
+        "x": 118,
+        "y": 501,
+        "width": 903,
+        "height": 27
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "are. Match them with their names given in the box.",
+      "cleanText": "are. Match them with their names given in the box.",
+      "bbox": {
+        "x": 176,
+        "y": 541,
+        "width": 642,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "paracetamol | holy basil/tulsi antacid | honey",
+      "cleanText": "paracetamol | holy basil/tulsi antacid | honey",
+      "bbox": {
+        "x": 206,
+        "y": 591,
+        "width": 753,
+        "height": 83
+      },
+      "confidence": 93.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "neem savlon turmeric aloe vera",
+      "cleanText": "neem savlon turmeric aloe vera",
+      "bbox": {
+        "x": 206,
+        "y": 634,
+        "width": 790,
+        "height": 34
+      },
+      "confidence": 94.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-011",
+      "lineNumber": 11
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-038-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 10 Remedies: Modern and Traditional",
+      "bbox": {
+        "x": 117,
+        "y": 180,
+        "width": 850,
+        "height": 45
+      },
+      "confidence": 91.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-003",
+      "lineNumber": 3,
+      "text": "read and understand written instructions",
+      "bbox": {
+        "x": 213,
+        "y": 313,
+        "width": 422,
+        "height": 18
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-004",
+      "lineNumber": 4,
+      "text": "¢ read and understand texts",
+      "bbox": {
+        "x": 195,
+        "y": 344,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 90.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-005",
+      "lineNumber": 5,
+      "text": "¢ ask and answer questions",
+      "bbox": {
+        "x": 195,
+        "y": 375,
+        "width": 284,
+        "height": 23
+      },
+      "confidence": 91.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-006",
+      "lineNumber": 6,
+      "text": "© participate in short dialogues and conversations on familiar topics",
+      "bbox": {
+        "x": 195,
+        "y": 405,
+        "width": 710,
+        "height": 24
+      },
+      "confidence": 90.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-007",
+      "lineNumber": 7,
+      "text": "© write short paragraphs",
+      "bbox": {
+        "x": 195,
+        "y": 436,
+        "width": 252,
+        "height": 24
+      },
+      "confidence": 84.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-008",
+      "lineNumber": 8,
+      "text": "Look at the following pictures. Discuss with your partner what they",
+      "bbox": {
+        "x": 118,
+        "y": 501,
+        "width": 903,
+        "height": 27
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-009",
+      "lineNumber": 9,
+      "text": "are. Match them with their names given in the box.",
+      "bbox": {
+        "x": 176,
+        "y": 541,
+        "width": 642,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-010",
+      "lineNumber": 10,
+      "text": "paracetamol | holy basil/tulsi antacid | honey",
+      "bbox": {
+        "x": 206,
+        "y": 591,
+        "width": 753,
+        "height": 83
+      },
+      "confidence": 93.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-011",
+      "lineNumber": 11,
+      "text": "neem savlon turmeric aloe vera",
+      "bbox": {
+        "x": 206,
+        "y": 634,
+        "width": 790,
+        "height": 34
+      },
+      "confidence": 94.8,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 10 Remedies: Modern and Traditional\nAfter completing the lesson students will be able to\nread and understand written instructions\n¢ read and understand texts\n¢ ask and answer questions\n© participate in short dialogues and conversations on familiar topics\n© write short paragraphs\nA. Look at the following pictures. Discuss with your partner what they\nare. Match them with their names given in the box.\nparacetamol | holy basil/tulsi antacid | honey\nneem savlon turmeric aloe vera",
+  "cleanText": "Lesson 10 Remedies: Modern and Traditional\nAfter completing the lesson students will be able to\nread and understand written instructions\n¢ read and understand texts\n¢ ask and answer questions\n© participate in short dialogues and conversations on familiar topics\n© write short paragraphs\nLook at the following pictures. Discuss with your partner what they\nare. Match them with their names given in the box.\nparacetamol | holy basil/tulsi antacid | honey\nneem savlon turmeric aloe vera",
+  "aiReadyText": "Lesson 10 Remedies: Modern and Traditional\nread and understand written instructions\n¢ read and understand texts\n¢ ask and answer questions\n© participate in short dialogues and conversations on familiar topics\n© write short paragraphs\nLook at the following pictures. Discuss with your partner what they\nare. Match them with their names given in the box.\nparacetamol | holy basil/tulsi antacid | honey\nneem savlon turmeric aloe vera"
+}

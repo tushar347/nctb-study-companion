@@ -1,0 +1,745 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 47,
+  "image": "/ocr/books/class6-english/page-images/page-047.png",
+  "width": 1149,
+  "height": 1525,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 13 Qur Pride",
+      "cleanText": "Lesson 13 Qur Pride",
+      "bbox": {
+        "x": 350,
+        "y": 185,
+        "width": 420,
+        "height": 31
+      },
+      "confidence": 86.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will able to",
+      "cleanText": "After completing the lesson students will able to",
+      "bbox": {
+        "x": 174,
+        "y": 276,
+        "width": 579,
+        "height": 26
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-047-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "read and understand texts",
+      "cleanText": "read and understand texts",
+      "bbox": {
+        "x": 222,
+        "y": 314,
+        "width": 290,
+        "height": 20
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "ask and answer questions",
+      "cleanText": "ask and answer questions",
+      "bbox": {
+        "x": 222,
+        "y": 345,
+        "width": 288,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "write short paragraphs",
+      "cleanText": "write short paragraphs",
+      "bbox": {
+        "x": 222,
+        "y": 376,
+        "width": 254,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "participate in short dialogues and conversations on familiar topics",
+      "cleanText": "participate in short dialogues and conversations on familiar topics",
+      "bbox": {
+        "x": 222,
+        "y": 407,
+        "width": 751,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Read the following passage:",
+      "cleanText": "Read the following passage:",
+      "bbox": {
+        "x": 171,
+        "y": 465,
+        "width": 349,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-047-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "December 16 is a remarkable day for",
+      "cleanText": "December 16 is a remarkable day for",
+      "bbox": {
+        "x": 173,
+        "y": 528,
+        "width": 482,
+        "height": 26
+      },
+      "confidence": 94.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Bangladeshi people. On this day in 1971,",
+      "cleanText": "Bangladeshi people. On this day in 1971,",
+      "bbox": {
+        "x": 172,
+        "y": 567,
+        "width": 482,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Bangladesh got independence after a",
+      "cleanText": "Bangladesh got independence after a",
+      "bbox": {
+        "x": 172,
+        "y": 607,
+        "width": 483,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "nine-month-long blood-soaked __ battle",
+      "cleanText": "nine-month-long blood-soaked __ battle",
+      "bbox": {
+        "x": 172,
+        "y": 643,
+        "width": 482,
+        "height": 35
+      },
+      "confidence": 65.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "against the Pakistani army. It is a day of",
+      "cleanText": "against the Pakistani army. It is a day of",
+      "bbox": {
+        "x": 172,
+        "y": 686,
+        "width": 486,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "national pride as well as a day of",
+      "cleanText": "national pride as well as a day of",
+      "bbox": {
+        "x": 173,
+        "y": 726,
+        "width": 485,
+        "height": 26
+      },
+      "confidence": 95.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "commemorating the sacrifices of the",
+      "cleanText": "commemorating the sacrifices of the",
+      "bbox": {
+        "x": 172,
+        "y": 765,
+        "width": 482,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "millions of Bangladeshi people. Pakistani",
+      "cleanText": "millions of Bangladeshi people. Pakistani",
+      "bbox": {
+        "x": 172,
+        "y": 805,
+        "width": 482,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "army killed three million people and",
+      "cleanText": "army killed three million people and",
+      "bbox": {
+        "x": 172,
+        "y": 845,
+        "width": 449,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "assaulted thousands of women.",
+      "cleanText": "assaulted thousands of women.",
+      "bbox": {
+        "x": 173,
+        "y": 883,
+        "width": 360,
+        "height": 21
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "The Victory Day is celebrated with",
+      "cleanText": "The Victory Day is celebrated with",
+      "bbox": {
+        "x": 169,
+        "y": 925,
+        "width": 452,
+        "height": 34
+      },
+      "confidence": 92.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "great cnthusiasm across the country.",
+      "cleanText": "great cnthusiasm across the country.",
+      "bbox": {
+        "x": 167,
+        "y": 969,
+        "width": 445,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "The day begins with a 31-gun salute at dawn, followed by the hoisting of the",
+      "cleanText": "The day begins with a 31-gun salute at dawn, followed by the hoisting of the",
+      "bbox": {
+        "x": 167,
+        "y": 1021,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 94.13,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "national flag at government buildings and private institutions. Different",
+      "cleanText": "national flag at government buildings and private institutions. Different",
+      "bbox": {
+        "x": 171,
+        "y": 1060,
+        "width": 852,
+        "height": 26
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "political, cultural and educational programmes are organised to pay homage",
+      "cleanText": "political, cultural and educational programmes are organised to pay homage",
+      "bbox": {
+        "x": 171,
+        "y": 1100,
+        "width": 862,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "to the martyrs of the war. The entire nation celebrates the day with colurful",
+      "cleanText": "to the martyrs of the war. The entire nation celebrates the day with colurful",
+      "bbox": {
+        "x": 172,
+        "y": 1139,
+        "width": 867,
+        "height": 26
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "flags, banners and parades.",
+      "cleanText": "flags, banners and parades.",
+      "bbox": {
+        "x": 172,
+        "y": 1179,
+        "width": 305,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "The National Parade ground hosts a grand military parade where the",
+      "cleanText": "The National Parade ground hosts a grand military parade where the",
+      "bbox": {
+        "x": 172,
+        "y": 1236,
+        "width": 861,
+        "height": 26
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "president, the prime minister and dignitaries from government and",
+      "cleanText": "president, the prime minister and dignitaries from government and",
+      "bbox": {
+        "x": 172,
+        "y": 1276,
+        "width": 862,
+        "height": 26
+      },
+      "confidence": 95.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "non-government sectors join. The National Martyrs' Memorial in Savar, our",
+      "cleanText": "non-government sectors join. The National Martyrs' Memorial in Savar, our",
+      "bbox": {
+        "x": 172,
+        "y": 1311,
+        "width": 862,
+        "height": 35
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-027",
+      "lineNumber": 27
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-047-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 13 Qur Pride",
+      "bbox": {
+        "x": 350,
+        "y": 185,
+        "width": 420,
+        "height": 31
+      },
+      "confidence": 86.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-003",
+      "lineNumber": 3,
+      "text": "read and understand texts",
+      "bbox": {
+        "x": 222,
+        "y": 314,
+        "width": 290,
+        "height": 20
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-004",
+      "lineNumber": 4,
+      "text": "ask and answer questions",
+      "bbox": {
+        "x": 222,
+        "y": 345,
+        "width": 288,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-005",
+      "lineNumber": 5,
+      "text": "write short paragraphs",
+      "bbox": {
+        "x": 222,
+        "y": 376,
+        "width": 254,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-006",
+      "lineNumber": 6,
+      "text": "participate in short dialogues and conversations on familiar topics",
+      "bbox": {
+        "x": 222,
+        "y": 407,
+        "width": 751,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-008",
+      "lineNumber": 8,
+      "text": "December 16 is a remarkable day for",
+      "bbox": {
+        "x": 173,
+        "y": 528,
+        "width": 482,
+        "height": 26
+      },
+      "confidence": 94.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-009",
+      "lineNumber": 9,
+      "text": "Bangladeshi people. On this day in 1971,",
+      "bbox": {
+        "x": 172,
+        "y": 567,
+        "width": 482,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-010",
+      "lineNumber": 10,
+      "text": "Bangladesh got independence after a",
+      "bbox": {
+        "x": 172,
+        "y": 607,
+        "width": 483,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-011",
+      "lineNumber": 11,
+      "text": "nine-month-long blood-soaked __ battle",
+      "bbox": {
+        "x": 172,
+        "y": 643,
+        "width": 482,
+        "height": 35
+      },
+      "confidence": 65.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-012",
+      "lineNumber": 12,
+      "text": "against the Pakistani army. It is a day of",
+      "bbox": {
+        "x": 172,
+        "y": 686,
+        "width": 486,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-013",
+      "lineNumber": 13,
+      "text": "national pride as well as a day of",
+      "bbox": {
+        "x": 173,
+        "y": 726,
+        "width": 485,
+        "height": 26
+      },
+      "confidence": 95.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-014",
+      "lineNumber": 14,
+      "text": "commemorating the sacrifices of the",
+      "bbox": {
+        "x": 172,
+        "y": 765,
+        "width": 482,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-015",
+      "lineNumber": 15,
+      "text": "millions of Bangladeshi people. Pakistani",
+      "bbox": {
+        "x": 172,
+        "y": 805,
+        "width": 482,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-016",
+      "lineNumber": 16,
+      "text": "army killed three million people and",
+      "bbox": {
+        "x": 172,
+        "y": 845,
+        "width": 449,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-017",
+      "lineNumber": 17,
+      "text": "assaulted thousands of women.",
+      "bbox": {
+        "x": 173,
+        "y": 883,
+        "width": 360,
+        "height": 21
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-018",
+      "lineNumber": 18,
+      "text": "The Victory Day is celebrated with",
+      "bbox": {
+        "x": 169,
+        "y": 925,
+        "width": 452,
+        "height": 34
+      },
+      "confidence": 92.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-019",
+      "lineNumber": 19,
+      "text": "great cnthusiasm across the country.",
+      "bbox": {
+        "x": 167,
+        "y": 969,
+        "width": 445,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-020",
+      "lineNumber": 20,
+      "text": "The day begins with a 31-gun salute at dawn, followed by the hoisting of the",
+      "bbox": {
+        "x": 167,
+        "y": 1021,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 94.13,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-021",
+      "lineNumber": 21,
+      "text": "national flag at government buildings and private institutions. Different",
+      "bbox": {
+        "x": 171,
+        "y": 1060,
+        "width": 852,
+        "height": 26
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-022",
+      "lineNumber": 22,
+      "text": "political, cultural and educational programmes are organised to pay homage",
+      "bbox": {
+        "x": 171,
+        "y": 1100,
+        "width": 862,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-023",
+      "lineNumber": 23,
+      "text": "to the martyrs of the war. The entire nation celebrates the day with colurful",
+      "bbox": {
+        "x": 172,
+        "y": 1139,
+        "width": 867,
+        "height": 26
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-024",
+      "lineNumber": 24,
+      "text": "flags, banners and parades.",
+      "bbox": {
+        "x": 172,
+        "y": 1179,
+        "width": 305,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-025",
+      "lineNumber": 25,
+      "text": "The National Parade ground hosts a grand military parade where the",
+      "bbox": {
+        "x": 172,
+        "y": 1236,
+        "width": 861,
+        "height": 26
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-026",
+      "lineNumber": 26,
+      "text": "president, the prime minister and dignitaries from government and",
+      "bbox": {
+        "x": 172,
+        "y": 1276,
+        "width": 862,
+        "height": 26
+      },
+      "confidence": 95.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-027",
+      "lineNumber": 27,
+      "text": "non-government sectors join. The National Martyrs' Memorial in Savar, our",
+      "bbox": {
+        "x": 172,
+        "y": 1311,
+        "width": 862,
+        "height": 35
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 13 Qur Pride\nAfter completing the lesson students will able to\nread and understand texts\nask and answer questions\nwrite short paragraphs\nparticipate in short dialogues and conversations on familiar topics\nRead the following passage:\nDecember 16 is a remarkable day for\nBangladeshi people. On this day in 1971,\nBangladesh got independence after a\nnine-month-long blood-soaked __ battle\nagainst the Pakistani army. It is a day of\nnational pride as well as a day of\ncommemorating the sacrifices of the\nmillions of Bangladeshi people. Pakistani\narmy killed three million people and\nassaulted thousands of women.\nThe Victory Day is celebrated with\ngreat cnthusiasm across the country.\nThe day begins with a 31-gun salute at dawn, followed by the hoisting of the\nnational flag at government buildings and private institutions. Different\npolitical, cultural and educational programmes are organised to pay homage\nto the martyrs of the war. The entire nation celebrates the day with colurful\nflags, banners and parades.\nThe National Parade ground hosts a grand military parade where the\npresident, the prime minister and dignitaries from government and\nnon-government sectors join. The National Martyrs' Memorial in Savar, our",
+  "cleanText": "Lesson 13 Qur Pride\nAfter completing the lesson students will able to\nread and understand texts\nask and answer questions\nwrite short paragraphs\nparticipate in short dialogues and conversations on familiar topics\nRead the following passage:\nDecember 16 is a remarkable day for\nBangladeshi people. On this day in 1971,\nBangladesh got independence after a\nnine-month-long blood-soaked __ battle\nagainst the Pakistani army. It is a day of\nnational pride as well as a day of\ncommemorating the sacrifices of the\nmillions of Bangladeshi people. Pakistani\narmy killed three million people and\nassaulted thousands of women.\nThe Victory Day is celebrated with\ngreat cnthusiasm across the country.\nThe day begins with a 31-gun salute at dawn, followed by the hoisting of the\nnational flag at government buildings and private institutions. Different\npolitical, cultural and educational programmes are organised to pay homage\nto the martyrs of the war. The entire nation celebrates the day with colurful\nflags, banners and parades.\nThe National Parade ground hosts a grand military parade where the\npresident, the prime minister and dignitaries from government and\nnon-government sectors join. The National Martyrs' Memorial in Savar, our",
+  "aiReadyText": "Lesson 13 Qur Pride\nread and understand texts\nask and answer questions\nwrite short paragraphs\nparticipate in short dialogues and conversations on familiar topics\nDecember 16 is a remarkable day for\nBangladeshi people. On this day in 1971,\nBangladesh got independence after a\nnine-month-long blood-soaked __ battle\nagainst the Pakistani army. It is a day of\nnational pride as well as a day of\ncommemorating the sacrifices of the\nmillions of Bangladeshi people. Pakistani\narmy killed three million people and\nassaulted thousands of women.\nThe Victory Day is celebrated with\ngreat cnthusiasm across the country.\nThe day begins with a 31-gun salute at dawn, followed by the hoisting of the\nnational flag at government buildings and private institutions. Different\npolitical, cultural and educational programmes are organised to pay homage\nto the martyrs of the war. The entire nation celebrates the day with colurful\nflags, banners and parades.\nThe National Parade ground hosts a grand military parade where the\npresident, the prime minister and dignitaries from government and\nnon-government sectors join. The National Martyrs' Memorial in Savar, our"
+}

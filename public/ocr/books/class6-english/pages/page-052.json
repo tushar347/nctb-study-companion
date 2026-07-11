@@ -1,0 +1,689 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 52,
+  "image": "/ocr/books/class6-english/page-images/page-052.png",
+  "width": 1149,
+  "height": 1525,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 47",
+      "cleanText": "English For Today 47",
+      "bbox": {
+        "x": 127,
+        "y": 92,
+        "width": 906,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "\"Flap it all up. That will suit you!” the zebra said. \"Yes, it will even look",
+      "cleanText": "\"Flap it all up. That will suit you!” the zebra said. \"Yes, it will even look",
+      "bbox": {
+        "x": 185,
+        "y": 167,
+        "width": 846,
+        "height": 26
+      },
+      "confidence": 93.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "better with a bit of colour to match your moustache,” the giraffe added.",
+      "cleanText": "better with a bit of colour to match your moustache,” the giraffe added.",
+      "bbox": {
+        "x": 186,
+        "y": 207,
+        "width": 845,
+        "height": 26
+      },
+      "confidence": 92.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "“What about a few ribbons?” the vulture asked. Then cried the hyena,“I",
+      "cleanText": "“What about a few ribbons?” the vulture asked. Then cried the hyena,“I",
+      "bbox": {
+        "x": 180,
+        "y": 246,
+        "width": 851,
+        "height": 26
+      },
+      "confidence": 86.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "know, a paper crown is what you need!” A snake was passing by silently.",
+      "cleanText": "know, a paper crown is what you need!” A snake was passing by silently.",
+      "bbox": {
+        "x": 185,
+        "y": 286,
+        "width": 850,
+        "height": 26
+      },
+      "confidence": 95.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Seeing the king there he simply raised his head.",
+      "cleanText": "Seeing the king there he simply raised his head.",
+      "bbox": {
+        "x": 183,
+        "y": 325,
+        "width": 568,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "\"What do you think I should do, snake?” The king asked.",
+      "cleanText": "\"What do you think I should do, snake?” The king asked.",
+      "bbox": {
+        "x": 185,
+        "y": 383,
+        "width": 648,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "\"If a king is a wise king, nobody cares about his hairstyle,\" the snake said",
+      "cleanText": "\"If a king is a wise king, nobody cares about his hairstyle,\" the snake said",
+      "bbox": {
+        "x": 185,
+        "y": 422,
+        "width": 851,
+        "height": 26
+      },
+      "confidence": 93.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "with a hissing sound.",
+      "cleanText": "with a hissing sound.",
+      "bbox": {
+        "x": 186,
+        "y": 456,
+        "width": 243,
+        "height": 36
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "The king stared at the snake for some time. Then he smiled and kissed",
+      "cleanText": "The king stared at the snake for some time. Then he smiled and kissed",
+      "bbox": {
+        "x": 183,
+        "y": 519,
+        "width": 850,
+        "height": 26
+      },
+      "confidence": 95.79,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "the snake.",
+      "cleanText": "the snake.",
+      "bbox": {
+        "x": 182,
+        "y": 558,
+        "width": 114,
+        "height": 21
+      },
+      "confidence": 88.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-052-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "\"Oh, why am [ so vain? Am I not the king of the jungle?” roared the lion.",
+      "cleanText": "\"Oh, why am [ so vain? Am I not the king of the jungle?” roared the lion.",
+      "bbox": {
+        "x": 185,
+        "y": 612,
+        "width": 850,
+        "height": 34
+      },
+      "confidence": 90.76,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "He shook his head from side to side to shake his mane back into place.",
+      "cleanText": "He shook his head from side to side to shake his mane back into place.",
+      "bbox": {
+        "x": 184,
+        "y": 655,
+        "width": 847,
+        "height": 26
+      },
+      "confidence": 85.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "From now on, I promise to be a wise king and not bother about my looks!\"",
+      "cleanText": "From now on, I promise to be a wise king and not bother about my looks!\"",
+      "bbox": {
+        "x": 200,
+        "y": 690,
+        "width": 836,
+        "height": 35
+      },
+      "confidence": 93.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "the lion roared.",
+      "cleanText": "the lion roared.",
+      "bbox": {
+        "x": 187,
+        "y": 734,
+        "width": 171,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "(Written by Janet Allison Brown)",
+      "cleanText": "(Written by Janet Allison Brown)",
+      "bbox": {
+        "x": 190,
+        "y": 782,
+        "width": 373,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Match the words in column A with the meanings given in",
+      "cleanText": "Match the words in column A with the meanings given in",
+      "bbox": {
+        "x": 193,
+        "y": 842,
+        "width": 845,
+        "height": 26
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "column B.",
+      "cleanText": "column B.",
+      "bbox": {
+        "x": 194,
+        "y": 882,
+        "width": 143,
+        "height": 20
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-052-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "mane a line of hair that some people have on their upper lip",
+      "cleanText": "mane a line of hair that some people have on their upper lip",
+      "bbox": {
+        "x": 210,
+        "y": 1038,
+        "width": 814,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "roar move quickly",
+      "cleanText": "roar move quickly",
+      "bbox": {
+        "x": 210,
+        "y": 1085,
+        "width": 358,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "unruly lift or move upwards",
+      "cleanText": "unruly lift or move upwards",
+      "bbox": {
+        "x": 211,
+        "y": 1131,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "flap a sound like a long 's'",
+      "cleanText": "flap a sound like a long 's'",
+      "bbox": {
+        "x": 206,
+        "y": 1173,
+        "width": 450,
+        "height": 34
+      },
+      "confidence": 87.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "moustache the long hair on the neck of a horse or a lion",
+      "cleanText": "moustache the long hair on the neck of a horse or a lion",
+      "bbox": {
+        "x": 210,
+        "y": 1219,
+        "width": 708,
+        "height": 34
+      },
+      "confidence": 95.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "raise to make a very loud, deep sound",
+      "cleanText": "raise to make a very loud, deep sound",
+      "bbox": {
+        "x": 210,
+        "y": 1270,
+        "width": 573,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "hissing sound | difficult to control or manage",
+      "cleanText": "hissing sound | difficult to control or manage",
+      "bbox": {
+        "x": 210,
+        "y": 1312,
+        "width": 538,
+        "height": 33
+      },
+      "confidence": 86.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-025",
+      "lineNumber": 25
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-052-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 47",
+      "bbox": {
+        "x": 127,
+        "y": 92,
+        "width": 906,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-002",
+      "lineNumber": 2,
+      "text": "\"Flap it all up. That will suit you!” the zebra said. \"Yes, it will even look",
+      "bbox": {
+        "x": 185,
+        "y": 167,
+        "width": 846,
+        "height": 26
+      },
+      "confidence": 93.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-003",
+      "lineNumber": 3,
+      "text": "better with a bit of colour to match your moustache,” the giraffe added.",
+      "bbox": {
+        "x": 186,
+        "y": 207,
+        "width": 845,
+        "height": 26
+      },
+      "confidence": 92.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-004",
+      "lineNumber": 4,
+      "text": "“What about a few ribbons?” the vulture asked. Then cried the hyena,“I",
+      "bbox": {
+        "x": 180,
+        "y": 246,
+        "width": 851,
+        "height": 26
+      },
+      "confidence": 86.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-005",
+      "lineNumber": 5,
+      "text": "know, a paper crown is what you need!” A snake was passing by silently.",
+      "bbox": {
+        "x": 185,
+        "y": 286,
+        "width": 850,
+        "height": 26
+      },
+      "confidence": 95.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-006",
+      "lineNumber": 6,
+      "text": "Seeing the king there he simply raised his head.",
+      "bbox": {
+        "x": 183,
+        "y": 325,
+        "width": 568,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-007",
+      "lineNumber": 7,
+      "text": "\"What do you think I should do, snake?” The king asked.",
+      "bbox": {
+        "x": 185,
+        "y": 383,
+        "width": 648,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-008",
+      "lineNumber": 8,
+      "text": "\"If a king is a wise king, nobody cares about his hairstyle,\" the snake said",
+      "bbox": {
+        "x": 185,
+        "y": 422,
+        "width": 851,
+        "height": 26
+      },
+      "confidence": 93.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-009",
+      "lineNumber": 9,
+      "text": "with a hissing sound.",
+      "bbox": {
+        "x": 186,
+        "y": 456,
+        "width": 243,
+        "height": 36
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-010",
+      "lineNumber": 10,
+      "text": "The king stared at the snake for some time. Then he smiled and kissed",
+      "bbox": {
+        "x": 183,
+        "y": 519,
+        "width": 850,
+        "height": 26
+      },
+      "confidence": 95.79,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-012",
+      "lineNumber": 12,
+      "text": "\"Oh, why am [ so vain? Am I not the king of the jungle?” roared the lion.",
+      "bbox": {
+        "x": 185,
+        "y": 612,
+        "width": 850,
+        "height": 34
+      },
+      "confidence": 90.76,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-013",
+      "lineNumber": 13,
+      "text": "He shook his head from side to side to shake his mane back into place.",
+      "bbox": {
+        "x": 184,
+        "y": 655,
+        "width": 847,
+        "height": 26
+      },
+      "confidence": 85.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-014",
+      "lineNumber": 14,
+      "text": "From now on, I promise to be a wise king and not bother about my looks!\"",
+      "bbox": {
+        "x": 200,
+        "y": 690,
+        "width": 836,
+        "height": 35
+      },
+      "confidence": 93.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-015",
+      "lineNumber": 15,
+      "text": "the lion roared.",
+      "bbox": {
+        "x": 187,
+        "y": 734,
+        "width": 171,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-016",
+      "lineNumber": 16,
+      "text": "(Written by Janet Allison Brown)",
+      "bbox": {
+        "x": 190,
+        "y": 782,
+        "width": 373,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-017",
+      "lineNumber": 17,
+      "text": "Match the words in column A with the meanings given in",
+      "bbox": {
+        "x": 193,
+        "y": 842,
+        "width": 845,
+        "height": 26
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-019",
+      "lineNumber": 19,
+      "text": "mane a line of hair that some people have on their upper lip",
+      "bbox": {
+        "x": 210,
+        "y": 1038,
+        "width": 814,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-020",
+      "lineNumber": 20,
+      "text": "roar move quickly",
+      "bbox": {
+        "x": 210,
+        "y": 1085,
+        "width": 358,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-021",
+      "lineNumber": 21,
+      "text": "unruly lift or move upwards",
+      "bbox": {
+        "x": 211,
+        "y": 1131,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-022",
+      "lineNumber": 22,
+      "text": "flap a sound like a long 's'",
+      "bbox": {
+        "x": 206,
+        "y": 1173,
+        "width": 450,
+        "height": 34
+      },
+      "confidence": 87.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-023",
+      "lineNumber": 23,
+      "text": "moustache the long hair on the neck of a horse or a lion",
+      "bbox": {
+        "x": 210,
+        "y": 1219,
+        "width": 708,
+        "height": 34
+      },
+      "confidence": 95.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-024",
+      "lineNumber": 24,
+      "text": "raise to make a very loud, deep sound",
+      "bbox": {
+        "x": 210,
+        "y": 1270,
+        "width": 573,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-025",
+      "lineNumber": 25,
+      "text": "hissing sound | difficult to control or manage",
+      "bbox": {
+        "x": 210,
+        "y": 1312,
+        "width": 538,
+        "height": 33
+      },
+      "confidence": 86.88,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 47\n\"Flap it all up. That will suit you!” the zebra said. \"Yes, it will even look\nbetter with a bit of colour to match your moustache,” the giraffe added.\n“What about a few ribbons?” the vulture asked. Then cried the hyena,“I\nknow, a paper crown is what you need!” A snake was passing by silently.\nSeeing the king there he simply raised his head.\n\"What do you think I should do, snake?” The king asked.\n\"If a king is a wise king, nobody cares about his hairstyle,\" the snake said\nwith a hissing sound.\nThe king stared at the snake for some time. Then he smiled and kissed\nthe snake.\n\"Oh, why am [ so vain? Am I not the king of the jungle?” roared the lion.\nHe shook his head from side to side to shake his mane back into place.\nFrom now on, I promise to be a wise king and not bother about my looks!\"\nthe lion roared.\n(Written by Janet Allison Brown)\nMatch the words in column A with the meanings given in\ncolumn B.\nmane a line of hair that some people have on their upper lip\nroar move quickly\nunruly lift or move upwards\nflap a sound like a long 's'\nmoustache the long hair on the neck of a horse or a lion\nraise to make a very loud, deep sound\nhissing sound | difficult to control or manage",
+  "cleanText": "English For Today 47\n\"Flap it all up. That will suit you!” the zebra said. \"Yes, it will even look\nbetter with a bit of colour to match your moustache,” the giraffe added.\n“What about a few ribbons?” the vulture asked. Then cried the hyena,“I\nknow, a paper crown is what you need!” A snake was passing by silently.\nSeeing the king there he simply raised his head.\n\"What do you think I should do, snake?” The king asked.\n\"If a king is a wise king, nobody cares about his hairstyle,\" the snake said\nwith a hissing sound.\nThe king stared at the snake for some time. Then he smiled and kissed\nthe snake.\n\"Oh, why am [ so vain? Am I not the king of the jungle?” roared the lion.\nHe shook his head from side to side to shake his mane back into place.\nFrom now on, I promise to be a wise king and not bother about my looks!\"\nthe lion roared.\n(Written by Janet Allison Brown)\nMatch the words in column A with the meanings given in\ncolumn B.\nmane a line of hair that some people have on their upper lip\nroar move quickly\nunruly lift or move upwards\nflap a sound like a long 's'\nmoustache the long hair on the neck of a horse or a lion\nraise to make a very loud, deep sound\nhissing sound | difficult to control or manage",
+  "aiReadyText": "English For Today 47\n\"Flap it all up. That will suit you!” the zebra said. \"Yes, it will even look\nbetter with a bit of colour to match your moustache,” the giraffe added.\n“What about a few ribbons?” the vulture asked. Then cried the hyena,“I\nknow, a paper crown is what you need!” A snake was passing by silently.\nSeeing the king there he simply raised his head.\n\"What do you think I should do, snake?” The king asked.\n\"If a king is a wise king, nobody cares about his hairstyle,\" the snake said\nwith a hissing sound.\nThe king stared at the snake for some time. Then he smiled and kissed\n\"Oh, why am [ so vain? Am I not the king of the jungle?” roared the lion.\nHe shook his head from side to side to shake his mane back into place.\nFrom now on, I promise to be a wise king and not bother about my looks!\"\nthe lion roared.\n(Written by Janet Allison Brown)\nMatch the words in column A with the meanings given in\nmane a line of hair that some people have on their upper lip\nroar move quickly\nunruly lift or move upwards\nflap a sound like a long 's'\nmoustache the long hair on the neck of a horse or a lion\nraise to make a very loud, deep sound\nhissing sound | difficult to control or manage"
+}

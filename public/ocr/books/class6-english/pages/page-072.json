@@ -1,0 +1,945 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 72,
+  "image": "/ocr/books/class6-english/page-images/page-072.png",
+  "width": 1149,
+  "height": 1507,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Read the words in Column A and match the opposite meanings",
+      "cleanText": "Read the words in Column A and match the opposite meanings",
+      "bbox": {
+        "x": 189,
+        "y": 148,
+        "width": 831,
+        "height": 27
+      },
+      "confidence": 95.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "given in Column B.",
+      "cleanText": "given in Column B.",
+      "bbox": {
+        "x": 189,
+        "y": 181,
+        "width": 244,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Column A Column B",
+      "cleanText": "Column A Column B",
+      "bbox": {
+        "x": 362,
+        "y": 231,
+        "width": 570,
+        "height": 21
+      },
+      "confidence": 69.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "unbelievable simple",
+      "cleanText": "unbelievable simple",
+      "bbox": {
+        "x": 361,
+        "y": 274,
+        "width": 513,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "awesome backdated",
+      "cleanText": "awesome backdated",
+      "bbox": {
+        "x": 362,
+        "y": 318,
+        "width": 552,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "fabulous ordinary",
+      "cleanText": "fabulous ordinary",
+      "bbox": {
+        "x": 362,
+        "y": 357,
+        "width": 533,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "tremendous believable",
+      "cleanText": "tremendous believable",
+      "bbox": {
+        "x": 361,
+        "y": 393,
+        "width": 553,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "updated tiny",
+      "cleanText": "updated tiny",
+      "bbox": {
+        "x": 367,
+        "y": 437,
+        "width": 474,
+        "height": 25
+      },
+      "confidence": 96.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-072-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Now, read the following dialogue and fill in the gaps with suitable",
+      "cleanText": "Now, read the following dialogue and fill in the gaps with suitable",
+      "bbox": {
+        "x": 191,
+        "y": 491,
+        "width": 833,
+        "height": 27
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "words, You can use some of the words from the earlier excercises",
+      "cleanText": "words, You can use some of the words from the earlier excercises",
+      "bbox": {
+        "x": 188,
+        "y": 529,
+        "width": 836,
+        "height": 22
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "in activity Al & A2",
+      "cleanText": "in activity Al & A2",
+      "bbox": {
+        "x": 190,
+        "y": 568,
+        "width": 240,
+        "height": 26
+      },
+      "confidence": 92.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Have you finished reading, Mong Pru? What do you think?",
+      "cleanText": "Have you finished reading, Mong Pru? What do you think?",
+      "bbox": {
+        "x": 355,
+        "y": 619,
+        "width": 666,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Thank you, Nira. | must say they are really",
+      "cleanText": "Thank you, Nira. | must say they are really",
+      "bbox": {
+        "x": 355,
+        "y": 659,
+        "width": 488,
+        "height": 26
+      },
+      "confidence": 91.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Mong Pru",
+      "cleanText": "Mong Pru",
+      "bbox": {
+        "x": 189,
+        "y": 660,
+        "width": 113,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-072-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Mong Pru, you see, most of the time we have access to",
+      "cleanText": "Mong Pru, you see, most of the time we have access to",
+      "bbox": {
+        "x": 355,
+        "y": 698,
+        "width": 665,
+        "height": 26
+      },
+      "confidence": 92.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "mobile phones or computers. But perhaps we often do not",
+      "cleanText": "mobile phones or computers. But perhaps we often do not",
+      "bbox": {
+        "x": 354,
+        "y": 738,
+        "width": 664,
+        "height": 26
+      },
+      "confidence": 96.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "feel the of these s.",
+      "cleanText": "feel the of these s.",
+      "bbox": {
+        "x": 352,
+        "y": 777,
+        "width": 404,
+        "height": 21
+      },
+      "confidence": 86.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "You are right. By the way, do you have a computer?",
+      "cleanText": "You are right. By the way, do you have a computer?",
+      "bbox": {
+        "x": 352,
+        "y": 817,
+        "width": 591,
+        "height": 26
+      },
+      "confidence": 96.09,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Mong Pru",
+      "cleanText": "Mong Pru",
+      "bbox": {
+        "x": 188,
+        "y": 818,
+        "width": 113,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-072-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Sometimes | use my parents' laptop. I play games, or watch",
+      "cleanText": "Sometimes | use my parents' laptop. I play games, or watch",
+      "bbox": {
+        "x": 356,
+        "y": 857,
+        "width": 665,
+        "height": 26
+      },
+      "confidence": 94.09,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "movies or browse the internet. I must say it is a good way",
+      "cleanText": "movies or browse the internet. I must say it is a good way",
+      "bbox": {
+        "x": 354,
+        "y": 896,
+        "width": 671,
+        "height": 26
+      },
+      "confidence": 95.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Mong Pru",
+      "cleanText": "Mong Pru",
+      "bbox": {
+        "x": 192,
+        "y": 976,
+        "width": 113,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-072-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "So do you agree that it is not a luxury?",
+      "cleanText": "So do you agree that it is not a luxury?",
+      "bbox": {
+        "x": 360,
+        "y": 976,
+        "width": 442,
+        "height": 26
+      },
+      "confidence": 89.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Oh, no! Not at all! Anyway, what's your opinion about mobile",
+      "cleanText": "Oh, no! Not at all! Anyway, what's your opinion about mobile",
+      "bbox": {
+        "x": 352,
+        "y": 1019,
+        "width": 674,
+        "height": 26
+      },
+      "confidence": 95.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "phones and spacecraft?",
+      "cleanText": "phones and spacecraft?",
+      "bbox": {
+        "x": 354,
+        "y": 1059,
+        "width": 264,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Well, I always ...",
+      "cleanText": "Well, I always ...",
+      "bbox": {
+        "x": 356,
+        "y": 1099,
+        "width": 194,
+        "height": 26
+      },
+      "confidence": 86.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "how this tiny device works without",
+      "cleanText": "how this tiny device works without",
+      "bbox": {
+        "x": 625,
+        "y": 1099,
+        "width": 395,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "Mong Pru",
+      "cleanText": "Mong Pru",
+      "bbox": {
+        "x": 189,
+        "y": 1100,
+        "width": 113,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-072-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "anycable and doso many things! It’sa.......... surprise",
+      "cleanText": "anycable and doso many things! It’sa.......... surprise",
+      "bbox": {
+        "x": 354,
+        "y": 1138,
+        "width": 661,
+        "height": 26
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "for us, isn't it?",
+      "cleanText": "for us, isn't it?",
+      "bbox": {
+        "x": 354,
+        "y": 1177,
+        "width": 158,
+        "height": 24
+      },
+      "confidence": 94.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "No doubt about it! And spacecraft?",
+      "cleanText": "No doubt about it! And spacecraft?",
+      "bbox": {
+        "x": 352,
+        "y": 1218,
+        "width": 400,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "After reading the article we must say that it’s... !",
+      "cleanText": "After reading the article we must say that it’s... !",
+      "bbox": {
+        "x": 353,
+        "y": 1257,
+        "width": 642,
+        "height": 26
+      },
+      "confidence": 89.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "Mong Pru",
+      "cleanText": "Mong Pru",
+      "bbox": {
+        "x": 188,
+        "y": 1258,
+        "width": 113,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-072-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "What innovation around you surprises you the most? Write a small",
+      "cleanText": "What innovation around you surprises you the most? Write a small",
+      "bbox": {
+        "x": 187,
+        "y": 1325,
+        "width": 846,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "paragraph stating what it is, how it benefits you, and why you",
+      "cleanText": "paragraph stating what it is, how it benefits you, and why you",
+      "bbox": {
+        "x": 189,
+        "y": 1365,
+        "width": 841,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-035",
+      "lineNumber": 35
+    },
+    {
+      "text": "are surprised.",
+      "cleanText": "are surprised.",
+      "bbox": {
+        "x": 190,
+        "y": 1402,
+        "width": 177,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-036",
+      "lineNumber": 36
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-072-line-001",
+      "lineNumber": 1,
+      "text": "Read the words in Column A and match the opposite meanings",
+      "bbox": {
+        "x": 189,
+        "y": 148,
+        "width": 831,
+        "height": 27
+      },
+      "confidence": 95.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-002",
+      "lineNumber": 2,
+      "text": "given in Column B.",
+      "bbox": {
+        "x": 189,
+        "y": 181,
+        "width": 244,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-003",
+      "lineNumber": 3,
+      "text": "Column A Column B",
+      "bbox": {
+        "x": 362,
+        "y": 231,
+        "width": 570,
+        "height": 21
+      },
+      "confidence": 69.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-004",
+      "lineNumber": 4,
+      "text": "unbelievable simple",
+      "bbox": {
+        "x": 361,
+        "y": 274,
+        "width": 513,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-005",
+      "lineNumber": 5,
+      "text": "awesome backdated",
+      "bbox": {
+        "x": 362,
+        "y": 318,
+        "width": 552,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-006",
+      "lineNumber": 6,
+      "text": "fabulous ordinary",
+      "bbox": {
+        "x": 362,
+        "y": 357,
+        "width": 533,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-007",
+      "lineNumber": 7,
+      "text": "tremendous believable",
+      "bbox": {
+        "x": 361,
+        "y": 393,
+        "width": 553,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-009",
+      "lineNumber": 9,
+      "text": "Now, read the following dialogue and fill in the gaps with suitable",
+      "bbox": {
+        "x": 191,
+        "y": 491,
+        "width": 833,
+        "height": 27
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-010",
+      "lineNumber": 10,
+      "text": "words, You can use some of the words from the earlier excercises",
+      "bbox": {
+        "x": 188,
+        "y": 529,
+        "width": 836,
+        "height": 22
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-011",
+      "lineNumber": 11,
+      "text": "in activity Al & A2",
+      "bbox": {
+        "x": 190,
+        "y": 568,
+        "width": 240,
+        "height": 26
+      },
+      "confidence": 92.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-012",
+      "lineNumber": 12,
+      "text": "Have you finished reading, Mong Pru? What do you think?",
+      "bbox": {
+        "x": 355,
+        "y": 619,
+        "width": 666,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-013",
+      "lineNumber": 13,
+      "text": "Thank you, Nira. | must say they are really",
+      "bbox": {
+        "x": 355,
+        "y": 659,
+        "width": 488,
+        "height": 26
+      },
+      "confidence": 91.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-015",
+      "lineNumber": 15,
+      "text": "Mong Pru, you see, most of the time we have access to",
+      "bbox": {
+        "x": 355,
+        "y": 698,
+        "width": 665,
+        "height": 26
+      },
+      "confidence": 92.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-016",
+      "lineNumber": 16,
+      "text": "mobile phones or computers. But perhaps we often do not",
+      "bbox": {
+        "x": 354,
+        "y": 738,
+        "width": 664,
+        "height": 26
+      },
+      "confidence": 96.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-017",
+      "lineNumber": 17,
+      "text": "feel the of these s.",
+      "bbox": {
+        "x": 352,
+        "y": 777,
+        "width": 404,
+        "height": 21
+      },
+      "confidence": 86.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-018",
+      "lineNumber": 18,
+      "text": "You are right. By the way, do you have a computer?",
+      "bbox": {
+        "x": 352,
+        "y": 817,
+        "width": 591,
+        "height": 26
+      },
+      "confidence": 96.09,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-020",
+      "lineNumber": 20,
+      "text": "Sometimes | use my parents' laptop. I play games, or watch",
+      "bbox": {
+        "x": 356,
+        "y": 857,
+        "width": 665,
+        "height": 26
+      },
+      "confidence": 94.09,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-021",
+      "lineNumber": 21,
+      "text": "movies or browse the internet. I must say it is a good way",
+      "bbox": {
+        "x": 354,
+        "y": 896,
+        "width": 671,
+        "height": 26
+      },
+      "confidence": 95.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-023",
+      "lineNumber": 23,
+      "text": "So do you agree that it is not a luxury?",
+      "bbox": {
+        "x": 360,
+        "y": 976,
+        "width": 442,
+        "height": 26
+      },
+      "confidence": 89.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-024",
+      "lineNumber": 24,
+      "text": "Oh, no! Not at all! Anyway, what's your opinion about mobile",
+      "bbox": {
+        "x": 352,
+        "y": 1019,
+        "width": 674,
+        "height": 26
+      },
+      "confidence": 95.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-025",
+      "lineNumber": 25,
+      "text": "phones and spacecraft?",
+      "bbox": {
+        "x": 354,
+        "y": 1059,
+        "width": 264,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-026",
+      "lineNumber": 26,
+      "text": "Well, I always ...",
+      "bbox": {
+        "x": 356,
+        "y": 1099,
+        "width": 194,
+        "height": 26
+      },
+      "confidence": 86.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-027",
+      "lineNumber": 27,
+      "text": "how this tiny device works without",
+      "bbox": {
+        "x": 625,
+        "y": 1099,
+        "width": 395,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-029",
+      "lineNumber": 29,
+      "text": "anycable and doso many things! It’sa.......... surprise",
+      "bbox": {
+        "x": 354,
+        "y": 1138,
+        "width": 661,
+        "height": 26
+      },
+      "confidence": 89.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-030",
+      "lineNumber": 30,
+      "text": "for us, isn't it?",
+      "bbox": {
+        "x": 354,
+        "y": 1177,
+        "width": 158,
+        "height": 24
+      },
+      "confidence": 94.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-031",
+      "lineNumber": 31,
+      "text": "No doubt about it! And spacecraft?",
+      "bbox": {
+        "x": 352,
+        "y": 1218,
+        "width": 400,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-032",
+      "lineNumber": 32,
+      "text": "After reading the article we must say that it’s... !",
+      "bbox": {
+        "x": 353,
+        "y": 1257,
+        "width": 642,
+        "height": 26
+      },
+      "confidence": 89.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-034",
+      "lineNumber": 34,
+      "text": "What innovation around you surprises you the most? Write a small",
+      "bbox": {
+        "x": 187,
+        "y": 1325,
+        "width": 846,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-035",
+      "lineNumber": 35,
+      "text": "paragraph stating what it is, how it benefits you, and why you",
+      "bbox": {
+        "x": 189,
+        "y": 1365,
+        "width": 841,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-036",
+      "lineNumber": 36,
+      "text": "are surprised.",
+      "bbox": {
+        "x": 190,
+        "y": 1402,
+        "width": 177,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Read the words in Column A and match the opposite meanings\ngiven in Column B.\nColumn A Column B\nunbelievable simple\nawesome backdated\nfabulous ordinary\ntremendous believable\nupdated tiny\nNow, read the following dialogue and fill in the gaps with suitable\nwords, You can use some of the words from the earlier excercises\nin activity Al & A2\nHave you finished reading, Mong Pru? What do you think?\nThank you, Nira. | must say they are really\nMong Pru\nMong Pru, you see, most of the time we have access to\nmobile phones or computers. But perhaps we often do not\nfeel the of these s.\nYou are right. By the way, do you have a computer?\nMong Pru\nSometimes | use my parents' laptop. I play games, or watch\nmovies or browse the internet. I must say it is a good way\nMong Pru\nSo do you agree that it is not a luxury?\nOh, no! Not at all! Anyway, what's your opinion about mobile\nphones and spacecraft?\nWell, I always ...\nhow this tiny device works without\nMong Pru\nanycable and doso many things! It’sa.......... surprise\nfor us, isn't it?\nNo doubt about it! And spacecraft?\nAfter reading the article we must say that it’s... !\nMong Pru\nWhat innovation around you surprises you the most? Write a small\nparagraph stating what it is, how it benefits you, and why you\nare surprised.",
+  "cleanText": "Read the words in Column A and match the opposite meanings\ngiven in Column B.\nColumn A Column B\nunbelievable simple\nawesome backdated\nfabulous ordinary\ntremendous believable\nupdated tiny\nNow, read the following dialogue and fill in the gaps with suitable\nwords, You can use some of the words from the earlier excercises\nin activity Al & A2\nHave you finished reading, Mong Pru? What do you think?\nThank you, Nira. | must say they are really\nMong Pru\nMong Pru, you see, most of the time we have access to\nmobile phones or computers. But perhaps we often do not\nfeel the of these s.\nYou are right. By the way, do you have a computer?\nMong Pru\nSometimes | use my parents' laptop. I play games, or watch\nmovies or browse the internet. I must say it is a good way\nMong Pru\nSo do you agree that it is not a luxury?\nOh, no! Not at all! Anyway, what's your opinion about mobile\nphones and spacecraft?\nWell, I always ...\nhow this tiny device works without\nMong Pru\nanycable and doso many things! It’sa.......... surprise\nfor us, isn't it?\nNo doubt about it! And spacecraft?\nAfter reading the article we must say that it’s... !\nMong Pru\nWhat innovation around you surprises you the most? Write a small\nparagraph stating what it is, how it benefits you, and why you\nare surprised.",
+  "aiReadyText": "Read the words in Column A and match the opposite meanings\ngiven in Column B.\nColumn A Column B\nunbelievable simple\nawesome backdated\nfabulous ordinary\ntremendous believable\nNow, read the following dialogue and fill in the gaps with suitable\nwords, You can use some of the words from the earlier excercises\nin activity Al & A2\nHave you finished reading, Mong Pru? What do you think?\nThank you, Nira. | must say they are really\nMong Pru, you see, most of the time we have access to\nmobile phones or computers. But perhaps we often do not\nfeel the of these s.\nYou are right. By the way, do you have a computer?\nSometimes | use my parents' laptop. I play games, or watch\nmovies or browse the internet. I must say it is a good way\nSo do you agree that it is not a luxury?\nOh, no! Not at all! Anyway, what's your opinion about mobile\nphones and spacecraft?\nWell, I always ...\nhow this tiny device works without\nanycable and doso many things! It’sa.......... surprise\nfor us, isn't it?\nNo doubt about it! And spacecraft?\nAfter reading the article we must say that it’s... !\nWhat innovation around you surprises you the most? Write a small\nparagraph stating what it is, how it benefits you, and why you\nare surprised."
+}

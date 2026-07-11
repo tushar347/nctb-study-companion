@@ -1,0 +1,607 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 87,
+  "image": "/ocr/books/class6-english/page-images/page-087.png",
+  "width": 1149,
+  "height": 1514,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Imran I need to buy a shirt, too.",
+      "cleanText": "Imran I need to buy a shirt, too.",
+      "bbox": {
+        "x": 204,
+        "y": 157,
+        "width": 459,
+        "height": 34
+      },
+      "confidence": 94.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Mrs. Karim Look, this shirt has nice prints!",
+      "cleanText": "Mrs. Karim Look, this shirt has nice prints!",
+      "bbox": {
+        "x": 202,
+        "y": 212,
+        "width": 531,
+        "height": 25
+      },
+      "confidence": 86.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Imran No, mom. I want something more formal.",
+      "cleanText": "Imran No, mom. I want something more formal.",
+      "bbox": {
+        "x": 203,
+        "y": 262,
+        "width": 655,
+        "height": 26
+      },
+      "confidence": 92.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Mrs. Karim — Then what about this one with stripes?",
+      "cleanText": "Mrs. Karim — Then what about this one with stripes?",
+      "bbox": {
+        "x": 202,
+        "y": 318,
+        "width": 618,
+        "height": 34
+      },
+      "confidence": 90.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Imran No, it's too boring. Look at this shirt with checks. This",
+      "cleanText": "Imran No, it's too boring. Look at this shirt with checks. This",
+      "bbox": {
+        "x": 204,
+        "y": 373,
+        "width": 798,
+        "height": 26
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "looks nice.",
+      "cleanText": "looks nice.",
+      "bbox": {
+        "x": 380,
+        "y": 422,
+        "width": 124,
+        "height": 21
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-087-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Mrs. Karim __ Yes, that's much better. Well, take it then.",
+      "cleanText": "Mrs. Karim __ Yes, that's much better. Well, take it then.",
+      "bbox": {
+        "x": 203,
+        "y": 470,
+        "width": 646,
+        "height": 34
+      },
+      "confidence": 88.18,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Practise the dialogues with a partner.",
+      "cleanText": "Practise the dialogues with a partner.",
+      "bbox": {
+        "x": 197,
+        "y": 563,
+        "width": 468,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-087-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Fill in the blanks in the following sentences with words from the box",
+      "cleanText": "Fill in the blanks in the following sentences with words from the box",
+      "bbox": {
+        "x": 204,
+        "y": 608,
+        "width": 838,
+        "height": 28
+      },
+      "confidence": 93.85,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-087-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "| try wearing flat match suit",
+      "cleanText": "| try wearing flat match suit",
+      "bbox": {
+        "x": 200,
+        "y": 690,
+        "width": 823,
+        "height": 36
+      },
+      "confidence": 89.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "| size cheaper shorts fit",
+      "cleanText": "| size cheaper shorts fit",
+      "bbox": {
+        "x": 200,
+        "y": 726,
+        "width": 658,
+        "height": 35
+      },
+      "confidence": 93.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "1, Thave gained so much weight. My clothes do not me",
+      "cleanText": "1, Thave gained so much weight. My clothes do not me",
+      "bbox": {
+        "x": 205,
+        "y": 788,
+        "width": 835,
+        "height": 26
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "any more.",
+      "cleanText": "any more.",
+      "bbox": {
+        "x": 245,
+        "y": 831,
+        "width": 114,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-087-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "2. wear red, It does not me.",
+      "cleanText": "wear red, It does not me.",
+      "bbox": {
+        "x": 203,
+        "y": 867,
+        "width": 608,
+        "height": 20
+      },
+      "confidence": 87.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "3. You have got a nice blue top. You just need a pair of sky jeans to",
+      "cleanText": "You have got a nice blue top. You just need a pair of sky jeans to",
+      "bbox": {
+        "x": 203,
+        "y": 913,
+        "width": 783,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "4. to this dress on, please.",
+      "cleanText": "to this dress on, please.",
+      "bbox": {
+        "x": 202,
+        "y": 999,
+        "width": 626,
+        "height": 26
+      },
+      "confidence": 87.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "B: Sure, the trial room is over there.",
+      "cleanText": "B: Sure, the trial room is over there.",
+      "bbox": {
+        "x": 251,
+        "y": 1045,
+        "width": 408,
+        "height": 23
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "5. Llike this jacket but it’s too small. Have you got it in a bigger",
+      "cleanText": "Llike this jacket but it’s too small. Have you got it in a bigger",
+      "bbox": {
+        "x": 203,
+        "y": 1087,
+        "width": 745,
+        "height": 26
+      },
+      "confidence": 91.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "6. What are you... ... to the function tonight?",
+      "cleanText": "What are you... ... to the function tonight?",
+      "bbox": {
+        "x": 203,
+        "y": 1175,
+        "width": 668,
+        "height": 26
+      },
+      "confidence": 87.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "7. These heels are too high. | am looking for some .... ... shoes.",
+      "cleanText": "These heels are too high. | am looking for some .... ... shoes.",
+      "bbox": {
+        "x": 203,
+        "y": 1221,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 86.79,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "8. Tlike that dress, but it's too expensive. I want something like that but",
+      "cleanText": "Tlike that dress, but it's too expensive. I want something like that but",
+      "bbox": {
+        "x": 203,
+        "y": 1268,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 87.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "9. Ithink I need a pair of for my trip to Cox's Bazar. They",
+      "cleanText": "Ithink I need a pair of for my trip to Cox's Bazar. They",
+      "bbox": {
+        "x": 203,
+        "y": 1355,
+        "width": 832,
+        "height": 26
+      },
+      "confidence": 91.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "are always good for going to the beach.",
+      "cleanText": "are always good for going to the beach.",
+      "bbox": {
+        "x": 247,
+        "y": 1402,
+        "width": 451,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-023",
+      "lineNumber": 23
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-087-line-001",
+      "lineNumber": 1,
+      "text": "Imran I need to buy a shirt, too.",
+      "bbox": {
+        "x": 204,
+        "y": 157,
+        "width": 459,
+        "height": 34
+      },
+      "confidence": 94.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-002",
+      "lineNumber": 2,
+      "text": "Mrs. Karim Look, this shirt has nice prints!",
+      "bbox": {
+        "x": 202,
+        "y": 212,
+        "width": 531,
+        "height": 25
+      },
+      "confidence": 86.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-003",
+      "lineNumber": 3,
+      "text": "Imran No, mom. I want something more formal.",
+      "bbox": {
+        "x": 203,
+        "y": 262,
+        "width": 655,
+        "height": 26
+      },
+      "confidence": 92.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-004",
+      "lineNumber": 4,
+      "text": "Mrs. Karim — Then what about this one with stripes?",
+      "bbox": {
+        "x": 202,
+        "y": 318,
+        "width": 618,
+        "height": 34
+      },
+      "confidence": 90.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-005",
+      "lineNumber": 5,
+      "text": "Imran No, it's too boring. Look at this shirt with checks. This",
+      "bbox": {
+        "x": 204,
+        "y": 373,
+        "width": 798,
+        "height": 26
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-007",
+      "lineNumber": 7,
+      "text": "Mrs. Karim __ Yes, that's much better. Well, take it then.",
+      "bbox": {
+        "x": 203,
+        "y": 470,
+        "width": 646,
+        "height": 34
+      },
+      "confidence": 88.18,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-010",
+      "lineNumber": 10,
+      "text": "| try wearing flat match suit",
+      "bbox": {
+        "x": 200,
+        "y": 690,
+        "width": 823,
+        "height": 36
+      },
+      "confidence": 89.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-011",
+      "lineNumber": 11,
+      "text": "| size cheaper shorts fit",
+      "bbox": {
+        "x": 200,
+        "y": 726,
+        "width": 658,
+        "height": 35
+      },
+      "confidence": 93.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-012",
+      "lineNumber": 12,
+      "text": "1, Thave gained so much weight. My clothes do not me",
+      "bbox": {
+        "x": 205,
+        "y": 788,
+        "width": 835,
+        "height": 26
+      },
+      "confidence": 91.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-014",
+      "lineNumber": 14,
+      "text": "wear red, It does not me.",
+      "bbox": {
+        "x": 203,
+        "y": 867,
+        "width": 608,
+        "height": 20
+      },
+      "confidence": 87.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-015",
+      "lineNumber": 15,
+      "text": "You have got a nice blue top. You just need a pair of sky jeans to",
+      "bbox": {
+        "x": 203,
+        "y": 913,
+        "width": 783,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-016",
+      "lineNumber": 16,
+      "text": "to this dress on, please.",
+      "bbox": {
+        "x": 202,
+        "y": 999,
+        "width": 626,
+        "height": 26
+      },
+      "confidence": 87.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-017",
+      "lineNumber": 17,
+      "text": "B: Sure, the trial room is over there.",
+      "bbox": {
+        "x": 251,
+        "y": 1045,
+        "width": 408,
+        "height": 23
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-018",
+      "lineNumber": 18,
+      "text": "Llike this jacket but it’s too small. Have you got it in a bigger",
+      "bbox": {
+        "x": 203,
+        "y": 1087,
+        "width": 745,
+        "height": 26
+      },
+      "confidence": 91.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-019",
+      "lineNumber": 19,
+      "text": "What are you... ... to the function tonight?",
+      "bbox": {
+        "x": 203,
+        "y": 1175,
+        "width": 668,
+        "height": 26
+      },
+      "confidence": 87.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-020",
+      "lineNumber": 20,
+      "text": "These heels are too high. | am looking for some .... ... shoes.",
+      "bbox": {
+        "x": 203,
+        "y": 1221,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 86.79,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-021",
+      "lineNumber": 21,
+      "text": "Tlike that dress, but it's too expensive. I want something like that but",
+      "bbox": {
+        "x": 203,
+        "y": 1268,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 87.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-022",
+      "lineNumber": 22,
+      "text": "Ithink I need a pair of for my trip to Cox's Bazar. They",
+      "bbox": {
+        "x": 203,
+        "y": 1355,
+        "width": 832,
+        "height": 26
+      },
+      "confidence": 91.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-023",
+      "lineNumber": 23,
+      "text": "are always good for going to the beach.",
+      "bbox": {
+        "x": 247,
+        "y": 1402,
+        "width": 451,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Imran I need to buy a shirt, too.\nMrs. Karim Look, this shirt has nice prints!\nImran No, mom. I want something more formal.\nMrs. Karim — Then what about this one with stripes?\nImran No, it's too boring. Look at this shirt with checks. This\nlooks nice.\nMrs. Karim __ Yes, that's much better. Well, take it then.\nPractise the dialogues with a partner.\nFill in the blanks in the following sentences with words from the box\n| try wearing flat match suit\n| size cheaper shorts fit\n1, Thave gained so much weight. My clothes do not me\nany more.\n2. wear red, It does not me.\n3. You have got a nice blue top. You just need a pair of sky jeans to\n4. to this dress on, please.\nB: Sure, the trial room is over there.\n5. Llike this jacket but it’s too small. Have you got it in a bigger\n6. What are you... ... to the function tonight?\n7. These heels are too high. | am looking for some .... ... shoes.\n8. Tlike that dress, but it's too expensive. I want something like that but\n9. Ithink I need a pair of for my trip to Cox's Bazar. They\nare always good for going to the beach.",
+  "cleanText": "Imran I need to buy a shirt, too.\nMrs. Karim Look, this shirt has nice prints!\nImran No, mom. I want something more formal.\nMrs. Karim — Then what about this one with stripes?\nImran No, it's too boring. Look at this shirt with checks. This\nlooks nice.\nMrs. Karim __ Yes, that's much better. Well, take it then.\nPractise the dialogues with a partner.\nFill in the blanks in the following sentences with words from the box\n| try wearing flat match suit\n| size cheaper shorts fit\n1, Thave gained so much weight. My clothes do not me\nany more.\nwear red, It does not me.\nYou have got a nice blue top. You just need a pair of sky jeans to\nto this dress on, please.\nB: Sure, the trial room is over there.\nLlike this jacket but it’s too small. Have you got it in a bigger\nWhat are you... ... to the function tonight?\nThese heels are too high. | am looking for some .... ... shoes.\nTlike that dress, but it's too expensive. I want something like that but\nIthink I need a pair of for my trip to Cox's Bazar. They\nare always good for going to the beach.",
+  "aiReadyText": "Imran I need to buy a shirt, too.\nMrs. Karim Look, this shirt has nice prints!\nImran No, mom. I want something more formal.\nMrs. Karim — Then what about this one with stripes?\nImran No, it's too boring. Look at this shirt with checks. This\nMrs. Karim __ Yes, that's much better. Well, take it then.\n| try wearing flat match suit\n| size cheaper shorts fit\n1, Thave gained so much weight. My clothes do not me\nwear red, It does not me.\nYou have got a nice blue top. You just need a pair of sky jeans to\nto this dress on, please.\nB: Sure, the trial room is over there.\nLlike this jacket but it’s too small. Have you got it in a bigger\nWhat are you... ... to the function tonight?\nThese heels are too high. | am looking for some .... ... shoes.\nTlike that dress, but it's too expensive. I want something like that but\nIthink I need a pair of for my trip to Cox's Bazar. They\nare always good for going to the beach."
+}

@@ -1,0 +1,11 @@
+
+> nctb-study-companion-starter@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.9 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.228:3000
+- Environments: .env.local, .env
+✓ Ready in 474ms
+
+ POST /api/books/import-ocr 500 in 3.0s (next.js: 2.8s, application-code: 163ms)

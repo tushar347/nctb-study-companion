@@ -1,0 +1,538 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 7,
+  "image": "/ocr/books/class6-english/page-images/page-007.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "2 English For Today",
+      "cleanText": "2 English For Today",
+      "bbox": {
+        "x": 124,
+        "y": 79,
+        "width": 914,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Al. Now, write down similar information about yourself.",
+      "cleanText": "Al. Now, write down similar information about yourself.",
+      "bbox": {
+        "x": 128,
+        "y": 163,
+        "width": 728,
+        "height": 27
+      },
+      "confidence": 94.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "|. My name is",
+      "cleanText": "|. My name is",
+      "bbox": {
+        "x": 167,
+        "y": 237,
+        "width": 175,
+        "height": 26
+      },
+      "confidence": 87.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-007-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "2. years old.",
+      "cleanText": "years old.",
+      "bbox": {
+        "x": 163,
+        "y": 277,
+        "width": 289,
+        "height": 25
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-007-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "3. Lhave eyes, hair, and 1 am tall.",
+      "cleanText": "Lhave eyes, hair, and 1 am tall.",
+      "bbox": {
+        "x": 163,
+        "y": 316,
+        "width": 765,
+        "height": 26
+      },
+      "confidence": 82.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "4. Tam good at and",
+      "cleanText": "Tam good at and",
+      "bbox": {
+        "x": 162,
+        "y": 356,
+        "width": 439,
+        "height": 25
+      },
+      "confidence": 88.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "5. My hobbies are and",
+      "cleanText": "My hobbies are and",
+      "bbox": {
+        "x": 163,
+        "y": 395,
+        "width": 471,
+        "height": 26
+      },
+      "confidence": 87.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "6. Tlike to and",
+      "cleanText": "Tlike to and",
+      "bbox": {
+        "x": 163,
+        "y": 435,
+        "width": 383,
+        "height": 20
+      },
+      "confidence": 81.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-007-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "7. Treally don't like",
+      "cleanText": "Treally don't like",
+      "bbox": {
+        "x": 163,
+        "y": 479,
+        "width": 222,
+        "height": 26
+      },
+      "confidence": 86.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "B. Read the following passage about Tarun's first day at the new school.",
+      "cleanText": "Read the following passage about Tarun's first day at the new school.",
+      "bbox": {
+        "x": 123,
+        "y": 558,
+        "width": 919,
+        "height": 26
+      },
+      "confidence": 95.08,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-007-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "My first day at the new school was interesting. | was going to school with my",
+      "cleanText": "My first day at the new school was interesting. | was going to school with my",
+      "bbox": {
+        "x": 130,
+        "y": 1000,
+        "width": 907,
+        "height": 26
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "father in a rickshaw. We reached school after fifteen minutes. My father said",
+      "cleanText": "father in a rickshaw. We reached school after fifteen minutes. My father said",
+      "bbox": {
+        "x": 130,
+        "y": 1035,
+        "width": 907,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "goodbye and left me at the school gate. I went in and found that everyone had",
+      "cleanText": "goodbye and left me at the school gate. I went in and found that everyone had",
+      "bbox": {
+        "x": 130,
+        "y": 1071,
+        "width": 907,
+        "height": 25
+      },
+      "confidence": 95.81,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "gone to class. I walked into my classroom and found a seat. After some time a",
+      "cleanText": "gone to class. I walked into my classroom and found a seat. After some time a",
+      "bbox": {
+        "x": 130,
+        "y": 1102,
+        "width": 910,
+        "height": 34
+      },
+      "confidence": 95.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "teacher came and warmly greeted us. I found the students very friendly in my",
+      "cleanText": "teacher came and warmly greeted us. I found the students very friendly in my",
+      "bbox": {
+        "x": 130,
+        "y": 1141,
+        "width": 906,
+        "height": 26
+      },
+      "confidence": 95.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "new class.",
+      "cleanText": "new class.",
+      "bbox": {
+        "x": 130,
+        "y": 1176,
+        "width": 113,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-007-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "B1. Choose the best answer:",
+      "cleanText": "B1. Choose the best answer:",
+      "bbox": {
+        "x": 123,
+        "y": 1223,
+        "width": 388,
+        "height": 22
+      },
+      "confidence": 92.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "The passage is about",
+      "cleanText": "The passage is about",
+      "bbox": {
+        "x": 257,
+        "y": 1267,
+        "width": 232,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "a. who took Tarun to school on the first day.",
+      "cleanText": "who took Tarun to school on the first day.",
+      "bbox": {
+        "x": 258,
+        "y": 1315,
+        "width": 551,
+        "height": 25
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "b. how Tarun felt on the first day in school and why he felt so.",
+      "cleanText": "how Tarun felt on the first day in school and why he felt so.",
+      "bbox": {
+        "x": 257,
+        "y": 1358,
+        "width": 753,
+        "height": 26
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "c. what happened in the school on the first day.",
+      "cleanText": "what happened in the school on the first day.",
+      "bbox": {
+        "x": 258,
+        "y": 1401,
+        "width": 582,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-021",
+      "lineNumber": 21
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-007-line-001",
+      "lineNumber": 1,
+      "text": "2 English For Today",
+      "bbox": {
+        "x": 124,
+        "y": 79,
+        "width": 914,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-002",
+      "lineNumber": 2,
+      "text": "Al. Now, write down similar information about yourself.",
+      "bbox": {
+        "x": 128,
+        "y": 163,
+        "width": 728,
+        "height": 27
+      },
+      "confidence": 94.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-005",
+      "lineNumber": 5,
+      "text": "Lhave eyes, hair, and 1 am tall.",
+      "bbox": {
+        "x": 163,
+        "y": 316,
+        "width": 765,
+        "height": 26
+      },
+      "confidence": 82.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-006",
+      "lineNumber": 6,
+      "text": "Tam good at and",
+      "bbox": {
+        "x": 162,
+        "y": 356,
+        "width": 439,
+        "height": 25
+      },
+      "confidence": 88.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-007",
+      "lineNumber": 7,
+      "text": "My hobbies are and",
+      "bbox": {
+        "x": 163,
+        "y": 395,
+        "width": 471,
+        "height": 26
+      },
+      "confidence": 87.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-009",
+      "lineNumber": 9,
+      "text": "Treally don't like",
+      "bbox": {
+        "x": 163,
+        "y": 479,
+        "width": 222,
+        "height": 26
+      },
+      "confidence": 86.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-011",
+      "lineNumber": 11,
+      "text": "My first day at the new school was interesting. | was going to school with my",
+      "bbox": {
+        "x": 130,
+        "y": 1000,
+        "width": 907,
+        "height": 26
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-012",
+      "lineNumber": 12,
+      "text": "father in a rickshaw. We reached school after fifteen minutes. My father said",
+      "bbox": {
+        "x": 130,
+        "y": 1035,
+        "width": 907,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-013",
+      "lineNumber": 13,
+      "text": "goodbye and left me at the school gate. I went in and found that everyone had",
+      "bbox": {
+        "x": 130,
+        "y": 1071,
+        "width": 907,
+        "height": 25
+      },
+      "confidence": 95.81,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-014",
+      "lineNumber": 14,
+      "text": "gone to class. I walked into my classroom and found a seat. After some time a",
+      "bbox": {
+        "x": 130,
+        "y": 1102,
+        "width": 910,
+        "height": 34
+      },
+      "confidence": 95.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-015",
+      "lineNumber": 15,
+      "text": "teacher came and warmly greeted us. I found the students very friendly in my",
+      "bbox": {
+        "x": 130,
+        "y": 1141,
+        "width": 906,
+        "height": 26
+      },
+      "confidence": 95.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-017",
+      "lineNumber": 17,
+      "text": "B1. Choose the best answer:",
+      "bbox": {
+        "x": 123,
+        "y": 1223,
+        "width": 388,
+        "height": 22
+      },
+      "confidence": 92.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-018",
+      "lineNumber": 18,
+      "text": "The passage is about",
+      "bbox": {
+        "x": 257,
+        "y": 1267,
+        "width": 232,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-019",
+      "lineNumber": 19,
+      "text": "who took Tarun to school on the first day.",
+      "bbox": {
+        "x": 258,
+        "y": 1315,
+        "width": 551,
+        "height": 25
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-020",
+      "lineNumber": 20,
+      "text": "how Tarun felt on the first day in school and why he felt so.",
+      "bbox": {
+        "x": 257,
+        "y": 1358,
+        "width": 753,
+        "height": 26
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-021",
+      "lineNumber": 21,
+      "text": "what happened in the school on the first day.",
+      "bbox": {
+        "x": 258,
+        "y": 1401,
+        "width": 582,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "2 English For Today\nAl. Now, write down similar information about yourself.\n|. My name is\n2. years old.\n3. Lhave eyes, hair, and 1 am tall.\n4. Tam good at and\n5. My hobbies are and\n6. Tlike to and\n7. Treally don't like\nB. Read the following passage about Tarun's first day at the new school.\nMy first day at the new school was interesting. | was going to school with my\nfather in a rickshaw. We reached school after fifteen minutes. My father said\ngoodbye and left me at the school gate. I went in and found that everyone had\ngone to class. I walked into my classroom and found a seat. After some time a\nteacher came and warmly greeted us. I found the students very friendly in my\nnew class.\nB1. Choose the best answer:\nThe passage is about\na. who took Tarun to school on the first day.\nb. how Tarun felt on the first day in school and why he felt so.\nc. what happened in the school on the first day.",
+  "cleanText": "2 English For Today\nAl. Now, write down similar information about yourself.\n|. My name is\nyears old.\nLhave eyes, hair, and 1 am tall.\nTam good at and\nMy hobbies are and\nTlike to and\nTreally don't like\nRead the following passage about Tarun's first day at the new school.\nMy first day at the new school was interesting. | was going to school with my\nfather in a rickshaw. We reached school after fifteen minutes. My father said\ngoodbye and left me at the school gate. I went in and found that everyone had\ngone to class. I walked into my classroom and found a seat. After some time a\nteacher came and warmly greeted us. I found the students very friendly in my\nnew class.\nB1. Choose the best answer:\nThe passage is about\nwho took Tarun to school on the first day.\nhow Tarun felt on the first day in school and why he felt so.\nwhat happened in the school on the first day.",
+  "aiReadyText": "2 English For Today\nAl. Now, write down similar information about yourself.\nLhave eyes, hair, and 1 am tall.\nTam good at and\nMy hobbies are and\nTreally don't like\nMy first day at the new school was interesting. | was going to school with my\nfather in a rickshaw. We reached school after fifteen minutes. My father said\ngoodbye and left me at the school gate. I went in and found that everyone had\ngone to class. I walked into my classroom and found a seat. After some time a\nteacher came and warmly greeted us. I found the students very friendly in my\nB1. Choose the best answer:\nThe passage is about\nwho took Tarun to school on the first day.\nhow Tarun felt on the first day in school and why he felt so.\nwhat happened in the school on the first day."
+}

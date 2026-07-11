@@ -1,0 +1,469 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 6,
+  "image": "/ocr/books/class6-english/page-images/page-006.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson | Going to a New School",
+      "cleanText": "Lesson | Going to a New School",
+      "bbox": {
+        "x": 227,
+        "y": 190,
+        "width": 668,
+        "height": 45
+      },
+      "confidence": 88.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-006-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 186,
+        "y": 303,
+        "width": 569,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-006-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "e read and understand texts",
+      "cleanText": "e read and understand texts",
+      "bbox": {
+        "x": 206,
+        "y": 348,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 84.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-006-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "* talk about people, places and familiar objects in short and simple sentences",
+      "cleanText": "* talk about people, places and familiar objects in short and simple sentences",
+      "bbox": {
+        "x": 206,
+        "y": 383,
+        "width": 809,
+        "height": 23
+      },
+      "confidence": 92.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-006-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "¢ write short paragraphs",
+      "cleanText": "¢ write short paragraphs",
+      "bbox": {
+        "x": 206,
+        "y": 418,
+        "width": 252,
+        "height": 24
+      },
+      "confidence": 89.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-006-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "A. Tarun has moved to a new city with his parents. He is going to a",
+      "cleanText": "Tarun has moved to a new city with his parents. He is going to a",
+      "bbox": {
+        "x": 124,
+        "y": 481,
+        "width": 909,
+        "height": 27
+      },
+      "confidence": 94.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-006-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "new school and his new teacher has given him the following form",
+      "cleanText": "new school and his new teacher has given him the following form",
+      "bbox": {
+        "x": 186,
+        "y": 523,
+        "width": 848,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-006-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "to fill out. His teacher wants to know more about him.",
+      "cleanText": "to fill out. His teacher wants to know more about him.",
+      "bbox": {
+        "x": 189,
+        "y": 564,
+        "width": 691,
+        "height": 22
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-006-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Read the form and see what Tarun has written about himself.",
+      "cleanText": "Read the form and see what Tarun has written about himself.",
+      "bbox": {
+        "x": 186,
+        "y": 623,
+        "width": 744,
+        "height": 20
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-006-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "My nal",
+      "cleanText": "My nal",
+      "bbox": {
+        "x": 224,
+        "y": 787,
+        "width": 69,
+        "height": 27
+      },
+      "confidence": 89.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-006-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "3. Lam old.",
+      "cleanText": "Lam old.",
+      "bbox": {
+        "x": 188,
+        "y": 844,
+        "width": 229,
+        "height": 44
+      },
+      "confidence": 69.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-006-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "3, Lhave brown cy’",
+      "cleanText": "3, Lhave brown cy’",
+      "bbox": {
+        "x": 197,
+        "y": 923,
+        "width": 205,
+        "height": 35
+      },
+      "confidence": 70.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-006-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "football and drawing.",
+      "cleanText": "football and drawing.",
+      "bbox": {
+        "x": 471,
+        "y": 962,
+        "width": 222,
+        "height": 43
+      },
+      "confidence": 81.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-006-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "4, Lam good at playing",
+      "cleanText": "4, Lam good at playing",
+      "bbox": {
+        "x": 205,
+        "y": 987,
+        "width": 258,
+        "height": 43
+      },
+      "confidence": 77.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-006-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "are collectin",
+      "cleanText": "are collectin",
+      "bbox": {
+        "x": 393,
+        "y": 1051,
+        "width": 128,
+        "height": 30
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-006-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "5. My bo",
+      "cleanText": "My bo",
+      "bbox": {
+        "x": 215,
+        "y": 1069,
+        "width": 114,
+        "height": 47
+      },
+      "confidence": 74.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-006-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "eat peanuts.",
+      "cleanText": "eat peanuts.",
+      "bbox": {
+        "x": 584,
+        "y": 1103,
+        "width": 122,
+        "height": 21
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-006-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "[like to read comic books and eat P",
+      "cleanText": "[like to read comic books and eat P",
+      "bbox": {
+        "x": 267,
+        "y": 1113,
+        "width": 363,
+        "height": 55
+      },
+      "confidence": 72.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-006-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "ke any kind of sof",
+      "cleanText": "ke any kind of sof",
+      "bbox": {
+        "x": 432,
+        "y": 1181,
+        "width": 189,
+        "height": 40
+      },
+      "confidence": 93.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-006-line-019",
+      "lineNumber": 19
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-006-line-001",
+      "lineNumber": 1,
+      "text": "Lesson | Going to a New School",
+      "bbox": {
+        "x": 227,
+        "y": 190,
+        "width": 668,
+        "height": 45
+      },
+      "confidence": 88.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-006-line-003",
+      "lineNumber": 3,
+      "text": "e read and understand texts",
+      "bbox": {
+        "x": 206,
+        "y": 348,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 84.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-006-line-004",
+      "lineNumber": 4,
+      "text": "* talk about people, places and familiar objects in short and simple sentences",
+      "bbox": {
+        "x": 206,
+        "y": 383,
+        "width": 809,
+        "height": 23
+      },
+      "confidence": 92.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-006-line-005",
+      "lineNumber": 5,
+      "text": "¢ write short paragraphs",
+      "bbox": {
+        "x": 206,
+        "y": 418,
+        "width": 252,
+        "height": 24
+      },
+      "confidence": 89.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-006-line-006",
+      "lineNumber": 6,
+      "text": "Tarun has moved to a new city with his parents. He is going to a",
+      "bbox": {
+        "x": 124,
+        "y": 481,
+        "width": 909,
+        "height": 27
+      },
+      "confidence": 94.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-006-line-007",
+      "lineNumber": 7,
+      "text": "new school and his new teacher has given him the following form",
+      "bbox": {
+        "x": 186,
+        "y": 523,
+        "width": 848,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-006-line-008",
+      "lineNumber": 8,
+      "text": "to fill out. His teacher wants to know more about him.",
+      "bbox": {
+        "x": 189,
+        "y": 564,
+        "width": 691,
+        "height": 22
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-006-line-009",
+      "lineNumber": 9,
+      "text": "Read the form and see what Tarun has written about himself.",
+      "bbox": {
+        "x": 186,
+        "y": 623,
+        "width": 744,
+        "height": 20
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-006-line-012",
+      "lineNumber": 12,
+      "text": "3, Lhave brown cy’",
+      "bbox": {
+        "x": 197,
+        "y": 923,
+        "width": 205,
+        "height": 35
+      },
+      "confidence": 70.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-006-line-013",
+      "lineNumber": 13,
+      "text": "football and drawing.",
+      "bbox": {
+        "x": 471,
+        "y": 962,
+        "width": 222,
+        "height": 43
+      },
+      "confidence": 81.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-006-line-014",
+      "lineNumber": 14,
+      "text": "4, Lam good at playing",
+      "bbox": {
+        "x": 205,
+        "y": 987,
+        "width": 258,
+        "height": 43
+      },
+      "confidence": 77.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-006-line-018",
+      "lineNumber": 18,
+      "text": "[like to read comic books and eat P",
+      "bbox": {
+        "x": 267,
+        "y": 1113,
+        "width": 363,
+        "height": 55
+      },
+      "confidence": 72.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-006-line-019",
+      "lineNumber": 19,
+      "text": "ke any kind of sof",
+      "bbox": {
+        "x": 432,
+        "y": 1181,
+        "width": 189,
+        "height": 40
+      },
+      "confidence": 93.8,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson | Going to a New School\nAfter completing the lesson students will be able to\ne read and understand texts\n* talk about people, places and familiar objects in short and simple sentences\n¢ write short paragraphs\nA. Tarun has moved to a new city with his parents. He is going to a\nnew school and his new teacher has given him the following form\nto fill out. His teacher wants to know more about him.\nRead the form and see what Tarun has written about himself.\nMy nal\n3. Lam old.\n3, Lhave brown cy’\nfootball and drawing.\n4, Lam good at playing\nare collectin\n5. My bo\neat peanuts.\n[like to read comic books and eat P\nke any kind of sof",
+  "cleanText": "Lesson | Going to a New School\nAfter completing the lesson students will be able to\ne read and understand texts\n* talk about people, places and familiar objects in short and simple sentences\n¢ write short paragraphs\nTarun has moved to a new city with his parents. He is going to a\nnew school and his new teacher has given him the following form\nto fill out. His teacher wants to know more about him.\nRead the form and see what Tarun has written about himself.\nMy nal\nLam old.\n3, Lhave brown cy’\nfootball and drawing.\n4, Lam good at playing\nare collectin\nMy bo\neat peanuts.\n[like to read comic books and eat P\nke any kind of sof",
+  "aiReadyText": "Lesson | Going to a New School\ne read and understand texts\n* talk about people, places and familiar objects in short and simple sentences\n¢ write short paragraphs\nTarun has moved to a new city with his parents. He is going to a\nnew school and his new teacher has given him the following form\nto fill out. His teacher wants to know more about him.\nRead the form and see what Tarun has written about himself.\n3, Lhave brown cy’\nfootball and drawing.\n4, Lam good at playing\n[like to read comic books and eat P\nke any kind of sof"
+}

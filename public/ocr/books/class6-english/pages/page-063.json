@@ -1,0 +1,564 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 63,
+  "image": "/ocr/books/class6-english/page-images/page-063.png",
+  "width": 1149,
+  "height": 1507,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "58 English For Today",
+      "cleanText": "58 English For Today",
+      "bbox": {
+        "x": 122,
+        "y": 81,
+        "width": 912,
+        "height": 31
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "A recipe: how to make the perfect Omelette",
+      "cleanText": "A recipe: how to make the perfect Omelette",
+      "bbox": {
+        "x": 200,
+        "y": 158,
+        "width": 546,
+        "height": 28
+      },
+      "confidence": 93.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Use a minimum of",
+      "cleanText": "Use a minimum of",
+      "bbox": {
+        "x": 195,
+        "y": 205,
+        "width": 216,
+        "height": 21
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "per omelette. Break the eggs",
+      "cleanText": "per omelette. Break the eggs",
+      "bbox": {
+        "x": 702,
+        "y": 205,
+        "width": 325,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "in a small",
+      "cleanText": "in a small",
+      "bbox": {
+        "x": 204,
+        "y": 298,
+        "width": 107,
+        "height": 20
+      },
+      "confidence": 88.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-063-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "of water and just",
+      "cleanText": "of water and just",
+      "bbox": {
+        "x": 808,
+        "y": 298,
+        "width": 204,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": ". Put one",
+      "cleanText": ". Put one",
+      "bbox": {
+        "x": 522,
+        "y": 299,
+        "width": 105,
+        "height": 19
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-063-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "a little the bowl. Add slices of and",
+      "cleanText": "a little the bowl. Add slices of and",
+      "bbox": {
+        "x": 203,
+        "y": 362,
+        "width": 586,
+        "height": 20
+      },
+      "confidence": 93.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "~ well. You need a little bit of j |",
+      "cleanText": "~ well. You need a little bit of j |",
+      "bbox": {
+        "x": 499,
+        "y": 429,
+        "width": 464,
+        "height": 43
+      },
+      "confidence": 85.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Beat the mix with a",
+      "cleanText": "Beat the mix with a",
+      "bbox": {
+        "x": 204,
+        "y": 430,
+        "width": 228,
+        "height": 20
+      },
+      "confidence": 84.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Put oil in a . Then the oil. When the oil",
+      "cleanText": "Put oil in a . Then the oil. When the oil",
+      "bbox": {
+        "x": 203,
+        "y": 502,
+        "width": 807,
+        "height": 21
+      },
+      "confidence": 90.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "is hot, Pa the egg, onion and chilli mix into it. Spread the mix",
+      "cleanText": "is hot, Pa the egg, onion and chilli mix into it. Spread the mix",
+      "bbox": {
+        "x": 199,
+        "y": 557,
+        "width": 831,
+        "height": 75
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "round the pan. Leave the mix in the pan for 2/3 minutes, As it thickens turn it",
+      "cleanText": "round the pan. Leave the mix in the pan for 2/3 minutes, As it thickens turn it",
+      "bbox": {
+        "x": 195,
+        "y": 659,
+        "width": 836,
+        "height": 25
+      },
+      "confidence": 95.53,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "in folds with a flat spoon. Your is ready. Take the pan and turn off the wie;",
+      "cleanText": "in folds with a flat spoon. Your is ready. Take the pan and turn off the wie;",
+      "bbox": {
+        "x": 190,
+        "y": 723,
+        "width": 839,
+        "height": 48
+      },
+      "confidence": 92.76,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "omelette pour",
+      "cleanText": "omelette pour",
+      "bbox": {
+        "x": 187,
+        "y": 864,
+        "width": 193,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-063-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "cooking oil fork frying pan heat",
+      "cleanText": "cooking oil fork frying pan heat",
+      "bbox": {
+        "x": 467,
+        "y": 864,
+        "width": 510,
+        "height": 24
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "spoon four cggs | onion stove bowl",
+      "cleanText": "spoon four cggs | onion stove bowl",
+      "bbox": {
+        "x": 188,
+        "y": 907,
+        "width": 635,
+        "height": 31
+      },
+      "confidence": 94.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "B1. Notice some of the words that you have used in the omelette recipe",
+      "cleanText": "B1. Notice some of the words that you have used in the omelette recipe",
+      "bbox": {
+        "x": 106,
+        "y": 990,
+        "width": 928,
+        "height": 26
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "above e.g. heat, beat, pour, etc. We use these words to describe",
+      "cleanText": "above e.g. heat, beat, pour, etc. We use these words to describe",
+      "bbox": {
+        "x": 162,
+        "y": 1025,
+        "width": 871,
+        "height": 26
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "what we do while preparing food. Look at some more examples",
+      "cleanText": "what we do while preparing food. Look at some more examples",
+      "bbox": {
+        "x": 158,
+        "y": 1060,
+        "width": 872,
+        "height": 27
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "of them. Can you match each action word in the box with a picture?",
+      "cleanText": "of them. Can you match each action word in the box with a picture?",
+      "bbox": {
+        "x": 158,
+        "y": 1098,
+        "width": 879,
+        "height": 27
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-021",
+      "lineNumber": 21
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-063-line-001",
+      "lineNumber": 1,
+      "text": "58 English For Today",
+      "bbox": {
+        "x": 122,
+        "y": 81,
+        "width": 912,
+        "height": 31
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-002",
+      "lineNumber": 2,
+      "text": "A recipe: how to make the perfect Omelette",
+      "bbox": {
+        "x": 200,
+        "y": 158,
+        "width": 546,
+        "height": 28
+      },
+      "confidence": 93.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-003",
+      "lineNumber": 3,
+      "text": "Use a minimum of",
+      "bbox": {
+        "x": 195,
+        "y": 205,
+        "width": 216,
+        "height": 21
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-004",
+      "lineNumber": 4,
+      "text": "per omelette. Break the eggs",
+      "bbox": {
+        "x": 702,
+        "y": 205,
+        "width": 325,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-006",
+      "lineNumber": 6,
+      "text": "of water and just",
+      "bbox": {
+        "x": 808,
+        "y": 298,
+        "width": 204,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-008",
+      "lineNumber": 8,
+      "text": "a little the bowl. Add slices of and",
+      "bbox": {
+        "x": 203,
+        "y": 362,
+        "width": 586,
+        "height": 20
+      },
+      "confidence": 93.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-009",
+      "lineNumber": 9,
+      "text": "~ well. You need a little bit of j |",
+      "bbox": {
+        "x": 499,
+        "y": 429,
+        "width": 464,
+        "height": 43
+      },
+      "confidence": 85.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-010",
+      "lineNumber": 10,
+      "text": "Beat the mix with a",
+      "bbox": {
+        "x": 204,
+        "y": 430,
+        "width": 228,
+        "height": 20
+      },
+      "confidence": 84.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-011",
+      "lineNumber": 11,
+      "text": "Put oil in a . Then the oil. When the oil",
+      "bbox": {
+        "x": 203,
+        "y": 502,
+        "width": 807,
+        "height": 21
+      },
+      "confidence": 90.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-012",
+      "lineNumber": 12,
+      "text": "is hot, Pa the egg, onion and chilli mix into it. Spread the mix",
+      "bbox": {
+        "x": 199,
+        "y": 557,
+        "width": 831,
+        "height": 75
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-013",
+      "lineNumber": 13,
+      "text": "round the pan. Leave the mix in the pan for 2/3 minutes, As it thickens turn it",
+      "bbox": {
+        "x": 195,
+        "y": 659,
+        "width": 836,
+        "height": 25
+      },
+      "confidence": 95.53,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-014",
+      "lineNumber": 14,
+      "text": "in folds with a flat spoon. Your is ready. Take the pan and turn off the wie;",
+      "bbox": {
+        "x": 190,
+        "y": 723,
+        "width": 839,
+        "height": 48
+      },
+      "confidence": 92.76,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-016",
+      "lineNumber": 16,
+      "text": "cooking oil fork frying pan heat",
+      "bbox": {
+        "x": 467,
+        "y": 864,
+        "width": 510,
+        "height": 24
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-017",
+      "lineNumber": 17,
+      "text": "spoon four cggs | onion stove bowl",
+      "bbox": {
+        "x": 188,
+        "y": 907,
+        "width": 635,
+        "height": 31
+      },
+      "confidence": 94.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-018",
+      "lineNumber": 18,
+      "text": "B1. Notice some of the words that you have used in the omelette recipe",
+      "bbox": {
+        "x": 106,
+        "y": 990,
+        "width": 928,
+        "height": 26
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-019",
+      "lineNumber": 19,
+      "text": "above e.g. heat, beat, pour, etc. We use these words to describe",
+      "bbox": {
+        "x": 162,
+        "y": 1025,
+        "width": 871,
+        "height": 26
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-020",
+      "lineNumber": 20,
+      "text": "what we do while preparing food. Look at some more examples",
+      "bbox": {
+        "x": 158,
+        "y": 1060,
+        "width": 872,
+        "height": 27
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-021",
+      "lineNumber": 21,
+      "text": "of them. Can you match each action word in the box with a picture?",
+      "bbox": {
+        "x": 158,
+        "y": 1098,
+        "width": 879,
+        "height": 27
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "58 English For Today\nA recipe: how to make the perfect Omelette\nUse a minimum of\nper omelette. Break the eggs\nin a small\nof water and just\n. Put one\na little the bowl. Add slices of and\n~ well. You need a little bit of j |\nBeat the mix with a\nPut oil in a . Then the oil. When the oil\nis hot, Pa the egg, onion and chilli mix into it. Spread the mix\nround the pan. Leave the mix in the pan for 2/3 minutes, As it thickens turn it\nin folds with a flat spoon. Your is ready. Take the pan and turn off the wie;\nomelette pour\ncooking oil fork frying pan heat\nspoon four cggs | onion stove bowl\nB1. Notice some of the words that you have used in the omelette recipe\nabove e.g. heat, beat, pour, etc. We use these words to describe\nwhat we do while preparing food. Look at some more examples\nof them. Can you match each action word in the box with a picture?",
+  "cleanText": "58 English For Today\nA recipe: how to make the perfect Omelette\nUse a minimum of\nper omelette. Break the eggs\nin a small\nof water and just\n. Put one\na little the bowl. Add slices of and\n~ well. You need a little bit of j |\nBeat the mix with a\nPut oil in a . Then the oil. When the oil\nis hot, Pa the egg, onion and chilli mix into it. Spread the mix\nround the pan. Leave the mix in the pan for 2/3 minutes, As it thickens turn it\nin folds with a flat spoon. Your is ready. Take the pan and turn off the wie;\nomelette pour\ncooking oil fork frying pan heat\nspoon four cggs | onion stove bowl\nB1. Notice some of the words that you have used in the omelette recipe\nabove e.g. heat, beat, pour, etc. We use these words to describe\nwhat we do while preparing food. Look at some more examples\nof them. Can you match each action word in the box with a picture?",
+  "aiReadyText": "58 English For Today\nA recipe: how to make the perfect Omelette\nUse a minimum of\nper omelette. Break the eggs\nof water and just\na little the bowl. Add slices of and\n~ well. You need a little bit of j |\nBeat the mix with a\nPut oil in a . Then the oil. When the oil\nis hot, Pa the egg, onion and chilli mix into it. Spread the mix\nround the pan. Leave the mix in the pan for 2/3 minutes, As it thickens turn it\nin folds with a flat spoon. Your is ready. Take the pan and turn off the wie;\ncooking oil fork frying pan heat\nspoon four cggs | onion stove bowl\nB1. Notice some of the words that you have used in the omelette recipe\nabove e.g. heat, beat, pour, etc. We use these words to describe\nwhat we do while preparing food. Look at some more examples\nof them. Can you match each action word in the box with a picture?"
+}

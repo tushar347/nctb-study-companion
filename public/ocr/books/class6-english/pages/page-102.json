@@ -1,0 +1,338 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 102,
+  "image": "/ocr/books/class6-english/page-images/page-102.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 97",
+      "cleanText": "English For Today 97",
+      "bbox": {
+        "x": 123,
+        "y": 80,
+        "width": 908,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-102-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Toad went out to his garden.",
+      "cleanText": "Toad went out to his garden.",
+      "bbox": {
+        "x": 193,
+        "y": 157,
+        "width": 322,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-102-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "\"T will read the seeds a story,\" said Toad.",
+      "cleanText": "\"T will read the seeds a story,\" said Toad.",
+      "bbox": {
+        "x": 194,
+        "y": 236,
+        "width": 461,
+        "height": 25
+      },
+      "confidence": 94.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-102-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Toad read a long story to his seeds.",
+      "cleanText": "Toad read a long story to his seeds.",
+      "bbox": {
+        "x": 193,
+        "y": 315,
+        "width": 398,
+        "height": 26
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-102-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "All the next day Toad sang songs to his",
+      "cleanText": "All the next day Toad sang songs to his",
+      "bbox": {
+        "x": 193,
+        "y": 355,
+        "width": 446,
+        "height": 25
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-102-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "And all the next day Toad read poems to",
+      "cleanText": "And all the next day Toad read poems to",
+      "bbox": {
+        "x": 193,
+        "y": 473,
+        "width": 461,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-102-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "his seeds.",
+      "cleanText": "his seeds.",
+      "bbox": {
+        "x": 193,
+        "y": 513,
+        "width": 107,
+        "height": 20
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-102-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "And all the next day Toad played",
+      "cleanText": "And all the next day Toad played",
+      "bbox": {
+        "x": 617,
+        "y": 630,
+        "width": 414,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-102-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "music for his seeds.",
+      "cleanText": "music for his seeds.",
+      "bbox": {
+        "x": 617,
+        "y": 668,
+        "width": 226,
+        "height": 21
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-102-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Toad looked at the ground. The seeds",
+      "cleanText": "Toad looked at the ground. The seeds",
+      "bbox": {
+        "x": 612,
+        "y": 726,
+        "width": 417,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-102-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "still did not start to grow.",
+      "cleanText": "still did not start to grow.",
+      "bbox": {
+        "x": 617,
+        "y": 766,
+        "width": 283,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-102-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Forma- 13, English For Today -6",
+      "cleanText": "Forma- 13, English For Today -6",
+      "bbox": {
+        "x": 116,
+        "y": 1455,
+        "width": 340,
+        "height": 24
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-102-line-012",
+      "lineNumber": 12
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-102-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 97",
+      "bbox": {
+        "x": 123,
+        "y": 80,
+        "width": 908,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-102-line-002",
+      "lineNumber": 2,
+      "text": "Toad went out to his garden.",
+      "bbox": {
+        "x": 193,
+        "y": 157,
+        "width": 322,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-102-line-003",
+      "lineNumber": 3,
+      "text": "\"T will read the seeds a story,\" said Toad.",
+      "bbox": {
+        "x": 194,
+        "y": 236,
+        "width": 461,
+        "height": 25
+      },
+      "confidence": 94.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-102-line-004",
+      "lineNumber": 4,
+      "text": "Toad read a long story to his seeds.",
+      "bbox": {
+        "x": 193,
+        "y": 315,
+        "width": 398,
+        "height": 26
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-102-line-005",
+      "lineNumber": 5,
+      "text": "All the next day Toad sang songs to his",
+      "bbox": {
+        "x": 193,
+        "y": 355,
+        "width": 446,
+        "height": 25
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-102-line-006",
+      "lineNumber": 6,
+      "text": "And all the next day Toad read poems to",
+      "bbox": {
+        "x": 193,
+        "y": 473,
+        "width": 461,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-102-line-008",
+      "lineNumber": 8,
+      "text": "And all the next day Toad played",
+      "bbox": {
+        "x": 617,
+        "y": 630,
+        "width": 414,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-102-line-009",
+      "lineNumber": 9,
+      "text": "music for his seeds.",
+      "bbox": {
+        "x": 617,
+        "y": 668,
+        "width": 226,
+        "height": 21
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-102-line-010",
+      "lineNumber": 10,
+      "text": "Toad looked at the ground. The seeds",
+      "bbox": {
+        "x": 612,
+        "y": 726,
+        "width": 417,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-102-line-011",
+      "lineNumber": 11,
+      "text": "still did not start to grow.",
+      "bbox": {
+        "x": 617,
+        "y": 766,
+        "width": 283,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-102-line-012",
+      "lineNumber": 12,
+      "text": "Forma- 13, English For Today -6",
+      "bbox": {
+        "x": 116,
+        "y": 1455,
+        "width": 340,
+        "height": 24
+      },
+      "confidence": 93.33,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 97\nToad went out to his garden.\n\"T will read the seeds a story,\" said Toad.\nToad read a long story to his seeds.\nAll the next day Toad sang songs to his\nAnd all the next day Toad read poems to\nhis seeds.\nAnd all the next day Toad played\nmusic for his seeds.\nToad looked at the ground. The seeds\nstill did not start to grow.\nForma- 13, English For Today -6",
+  "cleanText": "English For Today 97\nToad went out to his garden.\n\"T will read the seeds a story,\" said Toad.\nToad read a long story to his seeds.\nAll the next day Toad sang songs to his\nAnd all the next day Toad read poems to\nhis seeds.\nAnd all the next day Toad played\nmusic for his seeds.\nToad looked at the ground. The seeds\nstill did not start to grow.\nForma- 13, English For Today -6",
+  "aiReadyText": "English For Today 97\nToad went out to his garden.\n\"T will read the seeds a story,\" said Toad.\nToad read a long story to his seeds.\nAll the next day Toad sang songs to his\nAnd all the next day Toad read poems to\nAnd all the next day Toad played\nmusic for his seeds.\nToad looked at the ground. The seeds\nstill did not start to grow.\nForma- 13, English For Today -6"
+}

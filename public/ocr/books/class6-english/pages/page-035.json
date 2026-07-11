@@ -1,0 +1,577 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 35,
+  "image": "/ocr/books/class6-english/page-images/page-035.png",
+  "width": 1149,
+  "height": 1518,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Work with a partner. Make a short conversation about each",
+      "cleanText": "Work with a partner. Make a short conversation about each",
+      "bbox": {
+        "x": 190,
+        "y": 163,
+        "width": 768,
+        "height": 27
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-035-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "problem and its remedy in the box below. (One is done for you),",
+      "cleanText": "problem and its remedy in the box below. (One is done for you),",
+      "bbox": {
+        "x": 197,
+        "y": 198,
+        "width": 773,
+        "height": 27
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Problem Remedy",
+      "cleanText": "Problem Remedy",
+      "bbox": {
+        "x": 331,
+        "y": 272,
+        "width": 475,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "an insect bite antiseptic",
+      "cleanText": "an insect bite antiseptic",
+      "bbox": {
+        "x": 323,
+        "y": 311,
+        "width": 494,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "a stomachache an antacid",
+      "cleanText": "a stomachache an antacid",
+      "bbox": {
+        "x": 324,
+        "y": 349,
+        "width": 498,
+        "height": 20
+      },
+      "confidence": 93.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "a burn Burnol ointment",
+      "cleanText": "a burn Burnol ointment",
+      "bbox": {
+        "x": 324,
+        "y": 389,
+        "width": 570,
+        "height": 19
+      },
+      "confidence": 91.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "a skin injury antiseptic",
+      "cleanText": "a skin injury antiseptic",
+      "bbox": {
+        "x": 324,
+        "y": 428,
+        "width": 491,
+        "height": 26
+      },
+      "confidence": 92.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Have you ever had an insect bite?",
+      "cleanText": "Have you ever had an insect bite?",
+      "bbox": {
+        "x": 242,
+        "y": 517,
+        "width": 382,
+        "height": 25
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Oh, yes! I had one just last night, actually.",
+      "cleanText": "Oh, yes! I had one just last night, actually.",
+      "bbox": {
+        "x": 242,
+        "y": 567,
+        "width": 479,
+        "height": 26
+      },
+      "confidence": 92.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "A What did you do?",
+      "cleanText": "A What did you do?",
+      "bbox": {
+        "x": 185,
+        "y": 618,
+        "width": 258,
+        "height": 25
+      },
+      "confidence": 81.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "put some antiseptic on it.",
+      "cleanText": "put some antiseptic on it.",
+      "bbox": {
+        "x": 258,
+        "y": 671,
+        "width": 284,
+        "height": 25
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Read the text.",
+      "cleanText": "Read the text.",
+      "bbox": {
+        "x": 184,
+        "y": 791,
+        "width": 171,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "A proverb says ‘Health is Wealth’. To keep healthy is to keep free from",
+      "cleanText": "A proverb says ‘Health is Wealth’. To keep healthy is to keep free from",
+      "bbox": {
+        "x": 185,
+        "y": 852,
+        "width": 853,
+        "height": 27
+      },
+      "confidence": 92.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "disease and anxiety. Good health is proper functioning of all body organs.",
+      "cleanText": "disease and anxiety. Good health is proper functioning of all body organs.",
+      "bbox": {
+        "x": 182,
+        "y": 896,
+        "width": 858,
+        "height": 27
+      },
+      "confidence": 96.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "It is also feeling well both in body and in mind. People in good health",
+      "cleanText": "It is also feeling well both in body and in mind. People in good health",
+      "bbox": {
+        "x": 183,
+        "y": 938,
+        "width": 855,
+        "height": 27
+      },
+      "confidence": 95.53,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "are active, cheerful and happy. If you are healthy, you can be happy and",
+      "cleanText": "are active, cheerful and happy. If you are healthy, you can be happy and",
+      "bbox": {
+        "x": 182,
+        "y": 982,
+        "width": 857,
+        "height": 27
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "can help others in society as well.",
+      "cleanText": "can help others in society as well.",
+      "bbox": {
+        "x": 187,
+        "y": 1025,
+        "width": 398,
+        "height": 28
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "To keep in good health we should be careful about hygiene. The rules and",
+      "cleanText": "To keep in good health we should be careful about hygiene. The rules and",
+      "bbox": {
+        "x": 184,
+        "y": 1077,
+        "width": 854,
+        "height": 26
+      },
+      "confidence": 96.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "practices of keeping good health are called hygiene. We must practise the",
+      "cleanText": "practices of keeping good health are called hygiene. We must practise the",
+      "bbox": {
+        "x": 185,
+        "y": 1121,
+        "width": 852,
+        "height": 26
+      },
+      "confidence": 96.08,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-035-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "rules of hygiene. Proper food and nutrition, physical exercise, rest and",
+      "cleanText": "rules of hygiene. Proper food and nutrition, physical exercise, rest and",
+      "bbox": {
+        "x": 185,
+        "y": 1163,
+        "width": 853,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "sleep, cleanliness, and proper medicare are essential for good health.",
+      "cleanText": "sleep, cleanliness, and proper medicare are essential for good health.",
+      "bbox": {
+        "x": 187,
+        "y": 1209,
+        "width": 750,
+        "height": 26
+      },
+      "confidence": 96.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-021",
+      "lineNumber": 21
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-035-line-002",
+      "lineNumber": 2,
+      "text": "problem and its remedy in the box below. (One is done for you),",
+      "bbox": {
+        "x": 197,
+        "y": 198,
+        "width": 773,
+        "height": 27
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-003",
+      "lineNumber": 3,
+      "text": "Problem Remedy",
+      "bbox": {
+        "x": 331,
+        "y": 272,
+        "width": 475,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-004",
+      "lineNumber": 4,
+      "text": "an insect bite antiseptic",
+      "bbox": {
+        "x": 323,
+        "y": 311,
+        "width": 494,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-005",
+      "lineNumber": 5,
+      "text": "a stomachache an antacid",
+      "bbox": {
+        "x": 324,
+        "y": 349,
+        "width": 498,
+        "height": 20
+      },
+      "confidence": 93.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-006",
+      "lineNumber": 6,
+      "text": "a burn Burnol ointment",
+      "bbox": {
+        "x": 324,
+        "y": 389,
+        "width": 570,
+        "height": 19
+      },
+      "confidence": 91.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-007",
+      "lineNumber": 7,
+      "text": "a skin injury antiseptic",
+      "bbox": {
+        "x": 324,
+        "y": 428,
+        "width": 491,
+        "height": 26
+      },
+      "confidence": 92.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-008",
+      "lineNumber": 8,
+      "text": "Have you ever had an insect bite?",
+      "bbox": {
+        "x": 242,
+        "y": 517,
+        "width": 382,
+        "height": 25
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-009",
+      "lineNumber": 9,
+      "text": "Oh, yes! I had one just last night, actually.",
+      "bbox": {
+        "x": 242,
+        "y": 567,
+        "width": 479,
+        "height": 26
+      },
+      "confidence": 92.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-010",
+      "lineNumber": 10,
+      "text": "A What did you do?",
+      "bbox": {
+        "x": 185,
+        "y": 618,
+        "width": 258,
+        "height": 25
+      },
+      "confidence": 81.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-011",
+      "lineNumber": 11,
+      "text": "put some antiseptic on it.",
+      "bbox": {
+        "x": 258,
+        "y": 671,
+        "width": 284,
+        "height": 25
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-012",
+      "lineNumber": 12,
+      "text": "Read the text.",
+      "bbox": {
+        "x": 184,
+        "y": 791,
+        "width": 171,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-013",
+      "lineNumber": 13,
+      "text": "A proverb says ‘Health is Wealth’. To keep healthy is to keep free from",
+      "bbox": {
+        "x": 185,
+        "y": 852,
+        "width": 853,
+        "height": 27
+      },
+      "confidence": 92.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-014",
+      "lineNumber": 14,
+      "text": "disease and anxiety. Good health is proper functioning of all body organs.",
+      "bbox": {
+        "x": 182,
+        "y": 896,
+        "width": 858,
+        "height": 27
+      },
+      "confidence": 96.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-015",
+      "lineNumber": 15,
+      "text": "It is also feeling well both in body and in mind. People in good health",
+      "bbox": {
+        "x": 183,
+        "y": 938,
+        "width": 855,
+        "height": 27
+      },
+      "confidence": 95.53,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-016",
+      "lineNumber": 16,
+      "text": "are active, cheerful and happy. If you are healthy, you can be happy and",
+      "bbox": {
+        "x": 182,
+        "y": 982,
+        "width": 857,
+        "height": 27
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-017",
+      "lineNumber": 17,
+      "text": "can help others in society as well.",
+      "bbox": {
+        "x": 187,
+        "y": 1025,
+        "width": 398,
+        "height": 28
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-018",
+      "lineNumber": 18,
+      "text": "To keep in good health we should be careful about hygiene. The rules and",
+      "bbox": {
+        "x": 184,
+        "y": 1077,
+        "width": 854,
+        "height": 26
+      },
+      "confidence": 96.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-020",
+      "lineNumber": 20,
+      "text": "rules of hygiene. Proper food and nutrition, physical exercise, rest and",
+      "bbox": {
+        "x": 185,
+        "y": 1163,
+        "width": 853,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-021",
+      "lineNumber": 21,
+      "text": "sleep, cleanliness, and proper medicare are essential for good health.",
+      "bbox": {
+        "x": 187,
+        "y": 1209,
+        "width": 750,
+        "height": 26
+      },
+      "confidence": 96.1,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Work with a partner. Make a short conversation about each\nproblem and its remedy in the box below. (One is done for you),\nProblem Remedy\nan insect bite antiseptic\na stomachache an antacid\na burn Burnol ointment\na skin injury antiseptic\nHave you ever had an insect bite?\nOh, yes! I had one just last night, actually.\nA What did you do?\nput some antiseptic on it.\nRead the text.\nA proverb says ‘Health is Wealth’. To keep healthy is to keep free from\ndisease and anxiety. Good health is proper functioning of all body organs.\nIt is also feeling well both in body and in mind. People in good health\nare active, cheerful and happy. If you are healthy, you can be happy and\ncan help others in society as well.\nTo keep in good health we should be careful about hygiene. The rules and\npractices of keeping good health are called hygiene. We must practise the\nrules of hygiene. Proper food and nutrition, physical exercise, rest and\nsleep, cleanliness, and proper medicare are essential for good health.",
+  "cleanText": "Work with a partner. Make a short conversation about each\nproblem and its remedy in the box below. (One is done for you),\nProblem Remedy\nan insect bite antiseptic\na stomachache an antacid\na burn Burnol ointment\na skin injury antiseptic\nHave you ever had an insect bite?\nOh, yes! I had one just last night, actually.\nA What did you do?\nput some antiseptic on it.\nRead the text.\nA proverb says ‘Health is Wealth’. To keep healthy is to keep free from\ndisease and anxiety. Good health is proper functioning of all body organs.\nIt is also feeling well both in body and in mind. People in good health\nare active, cheerful and happy. If you are healthy, you can be happy and\ncan help others in society as well.\nTo keep in good health we should be careful about hygiene. The rules and\npractices of keeping good health are called hygiene. We must practise the\nrules of hygiene. Proper food and nutrition, physical exercise, rest and\nsleep, cleanliness, and proper medicare are essential for good health.",
+  "aiReadyText": "problem and its remedy in the box below. (One is done for you),\nProblem Remedy\nan insect bite antiseptic\na stomachache an antacid\na burn Burnol ointment\na skin injury antiseptic\nHave you ever had an insect bite?\nOh, yes! I had one just last night, actually.\nA What did you do?\nput some antiseptic on it.\nRead the text.\nA proverb says ‘Health is Wealth’. To keep healthy is to keep free from\ndisease and anxiety. Good health is proper functioning of all body organs.\nIt is also feeling well both in body and in mind. People in good health\nare active, cheerful and happy. If you are healthy, you can be happy and\ncan help others in society as well.\nTo keep in good health we should be careful about hygiene. The rules and\nrules of hygiene. Proper food and nutrition, physical exercise, rest and\nsleep, cleanliness, and proper medicare are essential for good health."
+}

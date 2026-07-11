@@ -1,0 +1,760 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 74,
+  "image": "/ocr/books/class6-english/page-images/page-074.png",
+  "width": 1149,
+  "height": 1507,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 69",
+      "cleanText": "English For Today 69",
+      "bbox": {
+        "x": 128,
+        "y": 83,
+        "width": 905,
+        "height": 31
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "went to a Singaporean school. After a few years, he went to Denmark and",
+      "cleanText": "went to a Singaporean school. After a few years, he went to Denmark and",
+      "bbox": {
+        "x": 161,
+        "y": 154,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "completed his schooling there. For higher studies, he enrolled in a university",
+      "cleanText": "completed his schooling there. For higher studies, he enrolled in a university",
+      "bbox": {
+        "x": 162,
+        "y": 192,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 93.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "in the US, and completed both his bachelor’s and master’s degrees there.",
+      "cleanText": "in the US, and completed both his bachelor’s and master’s degrees there.",
+      "bbox": {
+        "x": 162,
+        "y": 229,
+        "width": 869,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Since then, he has travelled to many other countries around the world.",
+      "cleanText": "Since then, he has travelled to many other countries around the world.",
+      "bbox": {
+        "x": 163,
+        "y": 266,
+        "width": 797,
+        "height": 26
+      },
+      "confidence": 95.42,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Ashar is now in Congo as a member of a voluntary organisation. His main",
+      "cleanText": "Ashar is now in Congo as a member of a voluntary organisation. His main",
+      "bbox": {
+        "x": 161,
+        "y": 323,
+        "width": 871,
+        "height": 26
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "job is to take care of children’s education in a community school. His group",
+      "cleanText": "job is to take care of children’s education in a community school. His group",
+      "bbox": {
+        "x": 159,
+        "y": 360,
+        "width": 873,
+        "height": 26
+      },
+      "confidence": 95.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "has ten other members, all from different countries. Ashar is a nice fellow",
+      "cleanText": "has ten other members, all from different countries. Ashar is a nice fellow",
+      "bbox": {
+        "x": 161,
+        "y": 398,
+        "width": 871,
+        "height": 24
+      },
+      "confidence": 95.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "and has become a good friend of ours. We call him ‘Mr Global Citizen’.",
+      "cleanText": "and has become a good friend of ours. We call him ‘Mr Global Citizen’.",
+      "bbox": {
+        "x": 162,
+        "y": 435,
+        "width": 821,
+        "height": 26
+      },
+      "confidence": 95.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "I was talking to him the other day, and mentioned how impressed I am that",
+      "cleanText": "I was talking to him the other day, and mentioned how impressed I am that",
+      "bbox": {
+        "x": 162,
+        "y": 493,
+        "width": 870,
+        "height": 25
+      },
+      "confidence": 95.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "he has been to so many countries. I asked him how he felt about that, and he",
+      "cleanText": "he has been to so many countries. I asked him how he felt about that, and he",
+      "bbox": {
+        "x": 161,
+        "y": 530,
+        "width": 871,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "“It’s really nice to work with different people. | get to know so much about",
+      "cleanText": "“It’s really nice to work with different people. | get to know so much about",
+      "bbox": {
+        "x": 162,
+        "y": 618,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 92.87,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "them — their language, family life, culture, their thoughts and aspirations. T",
+      "cleanText": "them — their language, family life, culture, their thoughts and aspirations. T",
+      "bbox": {
+        "x": 162,
+        "y": 655,
+        "width": 869,
+        "height": 26
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "sometimes think I belong to all.”",
+      "cleanText": "sometimes think I belong to all.”",
+      "bbox": {
+        "x": 162,
+        "y": 693,
+        "width": 373,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "“Well, Ashar, you’re a true global citizen,” | said.",
+      "cleanText": "“Well, Ashar, you’re a true global citizen,” | said.",
+      "bbox": {
+        "x": 162,
+        "y": 743,
+        "width": 563,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "“Aren’t you too, Reza?” smiled Ashar Santoso. “We’re all part of the same",
+      "cleanText": "“Aren’t you too, Reza?” smiled Ashar Santoso. “We’re all part of the same",
+      "bbox": {
+        "x": 162,
+        "y": 794,
+        "width": 870,
+        "height": 25
+      },
+      "confidence": 92.46,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "human race, aren’t we?”",
+      "cleanText": "human race, aren’t we?”",
+      "bbox": {
+        "x": 161,
+        "y": 831,
+        "width": 278,
+        "height": 24
+      },
+      "confidence": 93.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "I’ve thought a lot about what Ashar said. I guess we can all be global citizens",
+      "cleanText": "I’ve thought a lot about what Ashar said. I guess we can all be global citizens",
+      "bbox": {
+        "x": 162,
+        "y": 879,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 94.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "if we look at the world and its people the way he does. How do you feel about",
+      "cleanText": "if we look at the world and its people the way he does. How do you feel about",
+      "bbox": {
+        "x": 162,
+        "y": 916,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 95.61,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Well, that’s all for today. I hope your final exams go well. Write to me soon,",
+      "cleanText": "Well, that’s all for today. I hope your final exams go well. Write to me soon,",
+      "bbox": {
+        "x": 162,
+        "y": 1004,
+        "width": 867,
+        "height": 26
+      },
+      "confidence": 94.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "With love,",
+      "cleanText": "With love,",
+      "bbox": {
+        "x": 162,
+        "y": 1055,
+        "width": 117,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-074-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Uncle Reza",
+      "cleanText": "Uncle Reza",
+      "bbox": {
+        "x": 162,
+        "y": 1093,
+        "width": 131,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-074-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "BL. Now, match the words in column A with their meaning in column B.",
+      "cleanText": "BL. Now, match the words in column A with their meaning in column B.",
+      "bbox": {
+        "x": 118,
+        "y": 1164,
+        "width": 921,
+        "height": 26
+      },
+      "confidence": 92.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "challenging keep up",
+      "cleanText": "challenging keep up",
+      "bbox": {
+        "x": 332,
+        "y": 1261,
+        "width": 382,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "maintain international",
+      "cleanText": "maintain international",
+      "bbox": {
+        "x": 331,
+        "y": 1297,
+        "width": 437,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "graduation difficult",
+      "cleanText": "graduation difficult",
+      "bbox": {
+        "x": 331,
+        "y": 1332,
+        "width": 385,
+        "height": 34
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "clash university degree",
+      "cleanText": "clash university degree",
+      "bbox": {
+        "x": 332,
+        "y": 1371,
+        "width": 489,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "global fight",
+      "cleanText": "global fight",
+      "bbox": {
+        "x": 331,
+        "y": 1411,
+        "width": 347,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-074-line-028",
+      "lineNumber": 28
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-074-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 69",
+      "bbox": {
+        "x": 128,
+        "y": 83,
+        "width": 905,
+        "height": 31
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-002",
+      "lineNumber": 2,
+      "text": "went to a Singaporean school. After a few years, he went to Denmark and",
+      "bbox": {
+        "x": 161,
+        "y": 154,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-003",
+      "lineNumber": 3,
+      "text": "completed his schooling there. For higher studies, he enrolled in a university",
+      "bbox": {
+        "x": 162,
+        "y": 192,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 93.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-004",
+      "lineNumber": 4,
+      "text": "in the US, and completed both his bachelor’s and master’s degrees there.",
+      "bbox": {
+        "x": 162,
+        "y": 229,
+        "width": 869,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-005",
+      "lineNumber": 5,
+      "text": "Since then, he has travelled to many other countries around the world.",
+      "bbox": {
+        "x": 163,
+        "y": 266,
+        "width": 797,
+        "height": 26
+      },
+      "confidence": 95.42,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-006",
+      "lineNumber": 6,
+      "text": "Ashar is now in Congo as a member of a voluntary organisation. His main",
+      "bbox": {
+        "x": 161,
+        "y": 323,
+        "width": 871,
+        "height": 26
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-007",
+      "lineNumber": 7,
+      "text": "job is to take care of children’s education in a community school. His group",
+      "bbox": {
+        "x": 159,
+        "y": 360,
+        "width": 873,
+        "height": 26
+      },
+      "confidence": 95.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-008",
+      "lineNumber": 8,
+      "text": "has ten other members, all from different countries. Ashar is a nice fellow",
+      "bbox": {
+        "x": 161,
+        "y": 398,
+        "width": 871,
+        "height": 24
+      },
+      "confidence": 95.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-009",
+      "lineNumber": 9,
+      "text": "and has become a good friend of ours. We call him ‘Mr Global Citizen’.",
+      "bbox": {
+        "x": 162,
+        "y": 435,
+        "width": 821,
+        "height": 26
+      },
+      "confidence": 95.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-010",
+      "lineNumber": 10,
+      "text": "I was talking to him the other day, and mentioned how impressed I am that",
+      "bbox": {
+        "x": 162,
+        "y": 493,
+        "width": 870,
+        "height": 25
+      },
+      "confidence": 95.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-011",
+      "lineNumber": 11,
+      "text": "he has been to so many countries. I asked him how he felt about that, and he",
+      "bbox": {
+        "x": 161,
+        "y": 530,
+        "width": 871,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-012",
+      "lineNumber": 12,
+      "text": "“It’s really nice to work with different people. | get to know so much about",
+      "bbox": {
+        "x": 162,
+        "y": 618,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 92.87,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-013",
+      "lineNumber": 13,
+      "text": "them — their language, family life, culture, their thoughts and aspirations. T",
+      "bbox": {
+        "x": 162,
+        "y": 655,
+        "width": 869,
+        "height": 26
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-014",
+      "lineNumber": 14,
+      "text": "sometimes think I belong to all.”",
+      "bbox": {
+        "x": 162,
+        "y": 693,
+        "width": 373,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-015",
+      "lineNumber": 15,
+      "text": "“Well, Ashar, you’re a true global citizen,” | said.",
+      "bbox": {
+        "x": 162,
+        "y": 743,
+        "width": 563,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-016",
+      "lineNumber": 16,
+      "text": "“Aren’t you too, Reza?” smiled Ashar Santoso. “We’re all part of the same",
+      "bbox": {
+        "x": 162,
+        "y": 794,
+        "width": 870,
+        "height": 25
+      },
+      "confidence": 92.46,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-017",
+      "lineNumber": 17,
+      "text": "human race, aren’t we?”",
+      "bbox": {
+        "x": 161,
+        "y": 831,
+        "width": 278,
+        "height": 24
+      },
+      "confidence": 93.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-018",
+      "lineNumber": 18,
+      "text": "I’ve thought a lot about what Ashar said. I guess we can all be global citizens",
+      "bbox": {
+        "x": 162,
+        "y": 879,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 94.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-019",
+      "lineNumber": 19,
+      "text": "if we look at the world and its people the way he does. How do you feel about",
+      "bbox": {
+        "x": 162,
+        "y": 916,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 95.61,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-020",
+      "lineNumber": 20,
+      "text": "Well, that’s all for today. I hope your final exams go well. Write to me soon,",
+      "bbox": {
+        "x": 162,
+        "y": 1004,
+        "width": 867,
+        "height": 26
+      },
+      "confidence": 94.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-023",
+      "lineNumber": 23,
+      "text": "BL. Now, match the words in column A with their meaning in column B.",
+      "bbox": {
+        "x": 118,
+        "y": 1164,
+        "width": 921,
+        "height": 26
+      },
+      "confidence": 92.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-024",
+      "lineNumber": 24,
+      "text": "challenging keep up",
+      "bbox": {
+        "x": 332,
+        "y": 1261,
+        "width": 382,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-025",
+      "lineNumber": 25,
+      "text": "maintain international",
+      "bbox": {
+        "x": 331,
+        "y": 1297,
+        "width": 437,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-026",
+      "lineNumber": 26,
+      "text": "graduation difficult",
+      "bbox": {
+        "x": 331,
+        "y": 1332,
+        "width": 385,
+        "height": 34
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-027",
+      "lineNumber": 27,
+      "text": "clash university degree",
+      "bbox": {
+        "x": 332,
+        "y": 1371,
+        "width": 489,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 69\nwent to a Singaporean school. After a few years, he went to Denmark and\ncompleted his schooling there. For higher studies, he enrolled in a university\nin the US, and completed both his bachelor’s and master’s degrees there.\nSince then, he has travelled to many other countries around the world.\nAshar is now in Congo as a member of a voluntary organisation. His main\njob is to take care of children’s education in a community school. His group\nhas ten other members, all from different countries. Ashar is a nice fellow\nand has become a good friend of ours. We call him ‘Mr Global Citizen’.\nI was talking to him the other day, and mentioned how impressed I am that\nhe has been to so many countries. I asked him how he felt about that, and he\n“It’s really nice to work with different people. | get to know so much about\nthem — their language, family life, culture, their thoughts and aspirations. T\nsometimes think I belong to all.”\n“Well, Ashar, you’re a true global citizen,” | said.\n“Aren’t you too, Reza?” smiled Ashar Santoso. “We’re all part of the same\nhuman race, aren’t we?”\nI’ve thought a lot about what Ashar said. I guess we can all be global citizens\nif we look at the world and its people the way he does. How do you feel about\nWell, that’s all for today. I hope your final exams go well. Write to me soon,\nWith love,\nUncle Reza\nBL. Now, match the words in column A with their meaning in column B.\nchallenging keep up\nmaintain international\ngraduation difficult\nclash university degree\nglobal fight",
+  "cleanText": "English For Today 69\nwent to a Singaporean school. After a few years, he went to Denmark and\ncompleted his schooling there. For higher studies, he enrolled in a university\nin the US, and completed both his bachelor’s and master’s degrees there.\nSince then, he has travelled to many other countries around the world.\nAshar is now in Congo as a member of a voluntary organisation. His main\njob is to take care of children’s education in a community school. His group\nhas ten other members, all from different countries. Ashar is a nice fellow\nand has become a good friend of ours. We call him ‘Mr Global Citizen’.\nI was talking to him the other day, and mentioned how impressed I am that\nhe has been to so many countries. I asked him how he felt about that, and he\n“It’s really nice to work with different people. | get to know so much about\nthem — their language, family life, culture, their thoughts and aspirations. T\nsometimes think I belong to all.”\n“Well, Ashar, you’re a true global citizen,” | said.\n“Aren’t you too, Reza?” smiled Ashar Santoso. “We’re all part of the same\nhuman race, aren’t we?”\nI’ve thought a lot about what Ashar said. I guess we can all be global citizens\nif we look at the world and its people the way he does. How do you feel about\nWell, that’s all for today. I hope your final exams go well. Write to me soon,\nWith love,\nUncle Reza\nBL. Now, match the words in column A with their meaning in column B.\nchallenging keep up\nmaintain international\ngraduation difficult\nclash university degree\nglobal fight",
+  "aiReadyText": "English For Today 69\nwent to a Singaporean school. After a few years, he went to Denmark and\ncompleted his schooling there. For higher studies, he enrolled in a university\nin the US, and completed both his bachelor’s and master’s degrees there.\nSince then, he has travelled to many other countries around the world.\nAshar is now in Congo as a member of a voluntary organisation. His main\njob is to take care of children’s education in a community school. His group\nhas ten other members, all from different countries. Ashar is a nice fellow\nand has become a good friend of ours. We call him ‘Mr Global Citizen’.\nI was talking to him the other day, and mentioned how impressed I am that\nhe has been to so many countries. I asked him how he felt about that, and he\n“It’s really nice to work with different people. | get to know so much about\nthem — their language, family life, culture, their thoughts and aspirations. T\nsometimes think I belong to all.”\n“Well, Ashar, you’re a true global citizen,” | said.\n“Aren’t you too, Reza?” smiled Ashar Santoso. “We’re all part of the same\nhuman race, aren’t we?”\nI’ve thought a lot about what Ashar said. I guess we can all be global citizens\nif we look at the world and its people the way he does. How do you feel about\nWell, that’s all for today. I hope your final exams go well. Write to me soon,\nBL. Now, match the words in column A with their meaning in column B.\nchallenging keep up\nmaintain international\ngraduation difficult\nclash university degree"
+}

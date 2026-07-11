@@ -1,0 +1,717 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 61,
+  "image": "/ocr/books/class6-english/page-images/page-061.png",
+  "width": 1149,
+  "height": 1504,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 18 Make Your Snacks",
+      "cleanText": "Lesson 18 Make Your Snacks",
+      "bbox": {
+        "x": 284,
+        "y": 177,
+        "width": 612,
+        "height": 32
+      },
+      "confidence": 89.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 181,
+        "y": 252,
+        "width": 569,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-061-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "read and understand written instructions",
+      "cleanText": "read and understand written instructions",
+      "bbox": {
+        "x": 220,
+        "y": 283,
+        "width": 422,
+        "height": 18
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "© read and understand texts",
+      "cleanText": "© read and understand texts",
+      "bbox": {
+        "x": 201,
+        "y": 321,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 83.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Mrs. Nilufar Ahmed is teaching her son Adib how to make easy",
+      "cleanText": "Mrs. Nilufar Ahmed is teaching her son Adib how to make easy",
+      "bbox": {
+        "x": 183,
+        "y": 358,
+        "width": 855,
+        "height": 35
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "snacks at home. She is reading a set of instructions from a recipe",
+      "cleanText": "snacks at home. She is reading a set of instructions from a recipe",
+      "bbox": {
+        "x": 181,
+        "y": 392,
+        "width": 856,
+        "height": 35
+      },
+      "confidence": 95.46,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "book. First look at the pictures of the things you will need to",
+      "cleanText": "book. First look at the pictures of the things you will need to",
+      "bbox": {
+        "x": 179,
+        "y": 430,
+        "width": 860,
+        "height": 27
+      },
+      "confidence": 95.46,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "make an egg sandwich and match them with their names in the",
+      "cleanText": "make an egg sandwich and match them with their names in the",
+      "bbox": {
+        "x": 179,
+        "y": 465,
+        "width": 859,
+        "height": 27
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "list of ingredients below.",
+      "cleanText": "list of ingredients below.",
+      "bbox": {
+        "x": 180,
+        "y": 502,
+        "width": 339,
+        "height": 26
+      },
+      "confidence": 96.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "e f g",
+      "cleanText": "e f g",
+      "bbox": {
+        "x": 278,
+        "y": 815,
+        "width": 623,
+        "height": 28
+      },
+      "confidence": 85.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-061-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "List of ingredients:",
+      "cleanText": "List of ingredients:",
+      "bbox": {
+        "x": 183,
+        "y": 859,
+        "width": 229,
+        "height": 26
+      },
+      "confidence": 92.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Two slices of bread",
+      "cleanText": "Two slices of bread",
+      "bbox": {
+        "x": 225,
+        "y": 896,
+        "width": 221,
+        "height": 21
+      },
+      "confidence": 96.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Cucumber- 2/3 slices",
+      "cleanText": "Cucumber- 2/3 slices",
+      "bbox": {
+        "x": 225,
+        "y": 925,
+        "width": 241,
+        "height": 20
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Tomato- 1/2 slices",
+      "cleanText": "Tomato- 1/2 slices",
+      "bbox": {
+        "x": 225,
+        "y": 953,
+        "width": 209,
+        "height": 20
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Butter or mayonnaise",
+      "cleanText": "Butter or mayonnaise",
+      "bbox": {
+        "x": 225,
+        "y": 982,
+        "width": 245,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Egg (boiled/fried)",
+      "cleanText": "Egg (boiled/fried)",
+      "bbox": {
+        "x": 225,
+        "y": 1010,
+        "width": 204,
+        "height": 26
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "One slice of cheese",
+      "cleanText": "One slice of cheese",
+      "bbox": {
+        "x": 225,
+        "y": 1068,
+        "width": 220,
+        "height": 20
+      },
+      "confidence": 96.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "How to make it:",
+      "cleanText": "How to make it:",
+      "bbox": {
+        "x": 181,
+        "y": 1106,
+        "width": 196,
+        "height": 20
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "First, take two slices of bread.",
+      "cleanText": "First, take two slices of bread.",
+      "bbox": {
+        "x": 225,
+        "y": 1142,
+        "width": 341,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Spread the butter thinly on one side of each slice.",
+      "cleanText": "Spread the butter thinly on one side of each slice.",
+      "bbox": {
+        "x": 226,
+        "y": 1180,
+        "width": 561,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Then, put a slice of cheese on the buttered side of the bread.",
+      "cleanText": "Then, put a slice of cheese on the buttered side of the bread.",
+      "bbox": {
+        "x": 225,
+        "y": 1213,
+        "width": 685,
+        "height": 34
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "After that, put egg on top of the cheese.",
+      "cleanText": "After that, put egg on top of the cheese.",
+      "bbox": {
+        "x": 225,
+        "y": 1257,
+        "width": 450,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Next, arrange slices of cucumber and one tomato on the egg.",
+      "cleanText": "Next, arrange slices of cucumber and one tomato on the egg.",
+      "bbox": {
+        "x": 224,
+        "y": 1294,
+        "width": 693,
+        "height": 27
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Later, place the other slice of bread on top.",
+      "cleanText": "Later, place the other slice of bread on top.",
+      "bbox": {
+        "x": 227,
+        "y": 1332,
+        "width": 485,
+        "height": 26
+      },
+      "confidence": 96.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Your sandwich is ready now.",
+      "cleanText": "Your sandwich is ready now.",
+      "bbox": {
+        "x": 225,
+        "y": 1369,
+        "width": 326,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "If you want, you can cut the sandwich into two halves and serve.",
+      "cleanText": "If you want, you can cut the sandwich into two halves and serve.",
+      "bbox": {
+        "x": 226,
+        "y": 1400,
+        "width": 737,
+        "height": 26
+      },
+      "confidence": 94.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-026",
+      "lineNumber": 26
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-061-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 18 Make Your Snacks",
+      "bbox": {
+        "x": 284,
+        "y": 177,
+        "width": 612,
+        "height": 32
+      },
+      "confidence": 89.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-003",
+      "lineNumber": 3,
+      "text": "read and understand written instructions",
+      "bbox": {
+        "x": 220,
+        "y": 283,
+        "width": 422,
+        "height": 18
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-004",
+      "lineNumber": 4,
+      "text": "© read and understand texts",
+      "bbox": {
+        "x": 201,
+        "y": 321,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 83.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-005",
+      "lineNumber": 5,
+      "text": "Mrs. Nilufar Ahmed is teaching her son Adib how to make easy",
+      "bbox": {
+        "x": 183,
+        "y": 358,
+        "width": 855,
+        "height": 35
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-006",
+      "lineNumber": 6,
+      "text": "snacks at home. She is reading a set of instructions from a recipe",
+      "bbox": {
+        "x": 181,
+        "y": 392,
+        "width": 856,
+        "height": 35
+      },
+      "confidence": 95.46,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-007",
+      "lineNumber": 7,
+      "text": "book. First look at the pictures of the things you will need to",
+      "bbox": {
+        "x": 179,
+        "y": 430,
+        "width": 860,
+        "height": 27
+      },
+      "confidence": 95.46,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-008",
+      "lineNumber": 8,
+      "text": "make an egg sandwich and match them with their names in the",
+      "bbox": {
+        "x": 179,
+        "y": 465,
+        "width": 859,
+        "height": 27
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-009",
+      "lineNumber": 9,
+      "text": "list of ingredients below.",
+      "bbox": {
+        "x": 180,
+        "y": 502,
+        "width": 339,
+        "height": 26
+      },
+      "confidence": 96.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-011",
+      "lineNumber": 11,
+      "text": "List of ingredients:",
+      "bbox": {
+        "x": 183,
+        "y": 859,
+        "width": 229,
+        "height": 26
+      },
+      "confidence": 92.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-012",
+      "lineNumber": 12,
+      "text": "Two slices of bread",
+      "bbox": {
+        "x": 225,
+        "y": 896,
+        "width": 221,
+        "height": 21
+      },
+      "confidence": 96.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-013",
+      "lineNumber": 13,
+      "text": "Cucumber- 2/3 slices",
+      "bbox": {
+        "x": 225,
+        "y": 925,
+        "width": 241,
+        "height": 20
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-014",
+      "lineNumber": 14,
+      "text": "Tomato- 1/2 slices",
+      "bbox": {
+        "x": 225,
+        "y": 953,
+        "width": 209,
+        "height": 20
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-015",
+      "lineNumber": 15,
+      "text": "Butter or mayonnaise",
+      "bbox": {
+        "x": 225,
+        "y": 982,
+        "width": 245,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-016",
+      "lineNumber": 16,
+      "text": "Egg (boiled/fried)",
+      "bbox": {
+        "x": 225,
+        "y": 1010,
+        "width": 204,
+        "height": 26
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-017",
+      "lineNumber": 17,
+      "text": "One slice of cheese",
+      "bbox": {
+        "x": 225,
+        "y": 1068,
+        "width": 220,
+        "height": 20
+      },
+      "confidence": 96.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-018",
+      "lineNumber": 18,
+      "text": "How to make it:",
+      "bbox": {
+        "x": 181,
+        "y": 1106,
+        "width": 196,
+        "height": 20
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-019",
+      "lineNumber": 19,
+      "text": "First, take two slices of bread.",
+      "bbox": {
+        "x": 225,
+        "y": 1142,
+        "width": 341,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-020",
+      "lineNumber": 20,
+      "text": "Spread the butter thinly on one side of each slice.",
+      "bbox": {
+        "x": 226,
+        "y": 1180,
+        "width": 561,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-021",
+      "lineNumber": 21,
+      "text": "Then, put a slice of cheese on the buttered side of the bread.",
+      "bbox": {
+        "x": 225,
+        "y": 1213,
+        "width": 685,
+        "height": 34
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-022",
+      "lineNumber": 22,
+      "text": "After that, put egg on top of the cheese.",
+      "bbox": {
+        "x": 225,
+        "y": 1257,
+        "width": 450,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-023",
+      "lineNumber": 23,
+      "text": "Next, arrange slices of cucumber and one tomato on the egg.",
+      "bbox": {
+        "x": 224,
+        "y": 1294,
+        "width": 693,
+        "height": 27
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-024",
+      "lineNumber": 24,
+      "text": "Later, place the other slice of bread on top.",
+      "bbox": {
+        "x": 227,
+        "y": 1332,
+        "width": 485,
+        "height": 26
+      },
+      "confidence": 96.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-025",
+      "lineNumber": 25,
+      "text": "Your sandwich is ready now.",
+      "bbox": {
+        "x": 225,
+        "y": 1369,
+        "width": 326,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-026",
+      "lineNumber": 26,
+      "text": "If you want, you can cut the sandwich into two halves and serve.",
+      "bbox": {
+        "x": 226,
+        "y": 1400,
+        "width": 737,
+        "height": 26
+      },
+      "confidence": 94.08,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 18 Make Your Snacks\nAfter completing the lesson students will be able to\nread and understand written instructions\n© read and understand texts\nMrs. Nilufar Ahmed is teaching her son Adib how to make easy\nsnacks at home. She is reading a set of instructions from a recipe\nbook. First look at the pictures of the things you will need to\nmake an egg sandwich and match them with their names in the\nlist of ingredients below.\ne f g\nList of ingredients:\nTwo slices of bread\nCucumber- 2/3 slices\nTomato- 1/2 slices\nButter or mayonnaise\nEgg (boiled/fried)\nOne slice of cheese\nHow to make it:\nFirst, take two slices of bread.\nSpread the butter thinly on one side of each slice.\nThen, put a slice of cheese on the buttered side of the bread.\nAfter that, put egg on top of the cheese.\nNext, arrange slices of cucumber and one tomato on the egg.\nLater, place the other slice of bread on top.\nYour sandwich is ready now.\nIf you want, you can cut the sandwich into two halves and serve.",
+  "cleanText": "Lesson 18 Make Your Snacks\nAfter completing the lesson students will be able to\nread and understand written instructions\n© read and understand texts\nMrs. Nilufar Ahmed is teaching her son Adib how to make easy\nsnacks at home. She is reading a set of instructions from a recipe\nbook. First look at the pictures of the things you will need to\nmake an egg sandwich and match them with their names in the\nlist of ingredients below.\ne f g\nList of ingredients:\nTwo slices of bread\nCucumber- 2/3 slices\nTomato- 1/2 slices\nButter or mayonnaise\nEgg (boiled/fried)\nOne slice of cheese\nHow to make it:\nFirst, take two slices of bread.\nSpread the butter thinly on one side of each slice.\nThen, put a slice of cheese on the buttered side of the bread.\nAfter that, put egg on top of the cheese.\nNext, arrange slices of cucumber and one tomato on the egg.\nLater, place the other slice of bread on top.\nYour sandwich is ready now.\nIf you want, you can cut the sandwich into two halves and serve.",
+  "aiReadyText": "Lesson 18 Make Your Snacks\nread and understand written instructions\n© read and understand texts\nMrs. Nilufar Ahmed is teaching her son Adib how to make easy\nsnacks at home. She is reading a set of instructions from a recipe\nbook. First look at the pictures of the things you will need to\nmake an egg sandwich and match them with their names in the\nlist of ingredients below.\nList of ingredients:\nTwo slices of bread\nCucumber- 2/3 slices\nTomato- 1/2 slices\nButter or mayonnaise\nEgg (boiled/fried)\nOne slice of cheese\nHow to make it:\nFirst, take two slices of bread.\nSpread the butter thinly on one side of each slice.\nThen, put a slice of cheese on the buttered side of the bread.\nAfter that, put egg on top of the cheese.\nNext, arrange slices of cucumber and one tomato on the egg.\nLater, place the other slice of bread on top.\nYour sandwich is ready now.\nIf you want, you can cut the sandwich into two halves and serve."
+}

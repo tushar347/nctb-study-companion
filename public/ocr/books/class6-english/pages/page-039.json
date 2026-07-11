@@ -1,0 +1,786 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 39,
+  "image": "/ocr/books/class6-english/page-images/page-039.png",
+  "width": 1160,
+  "height": 1510,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Read the following text:",
+      "cleanText": "Read the following text:",
+      "bbox": {
+        "x": 191,
+        "y": 153,
+        "width": 310,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-039-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "People around the world are slowly changing their attitude towards",
+      "cleanText": "People around the world are slowly changing their attitude towards",
+      "bbox": {
+        "x": 196,
+        "y": 187,
+        "width": 835,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "medicine. More and more they are turning to natural cures. Natural cures",
+      "cleanText": "medicine. More and more they are turning to natural cures. Natural cures",
+      "bbox": {
+        "x": 196,
+        "y": 221,
+        "width": 840,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "are made of natural things, most often herbs and plants. History says that",
+      "cleanText": "are made of natural things, most often herbs and plants. History says that",
+      "bbox": {
+        "x": 196,
+        "y": 253,
+        "width": 842,
+        "height": 26
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "natural or herbal remedies are nothing new. People used them all along in",
+      "cleanText": "natural or herbal remedies are nothing new. People used them all along in",
+      "bbox": {
+        "x": 197,
+        "y": 286,
+        "width": 842,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "different ages. Herbal medicines were used in ancient civilisations like India,",
+      "cleanText": "different ages. Herbal medicines were used in ancient civilisations like India,",
+      "bbox": {
+        "x": 199,
+        "y": 323,
+        "width": 840,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "China, Greece, Egypt and Rome. Some ancient treatment systems are still",
+      "cleanText": "China, Greece, Egypt and Rome. Some ancient treatment systems are still",
+      "bbox": {
+        "x": 198,
+        "y": 355,
+        "width": 839,
+        "height": 26
+      },
+      "confidence": 95.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "in practice today. They have come down through generations.",
+      "cleanText": "in practice today. They have come down through generations.",
+      "bbox": {
+        "x": 197,
+        "y": 391,
+        "width": 714,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "For a minor burn injury the doctor may prescribe you a tube of ointment.",
+      "cleanText": "For a minor burn injury the doctor may prescribe you a tube of ointment.",
+      "bbox": {
+        "x": 196,
+        "y": 492,
+        "width": 841,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "But for the same, your grandma may put some aloe vera or use",
+      "cleanText": "But for the same, your grandma may put some aloe vera or use",
+      "bbox": {
+        "x": 197,
+        "y": 527,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 95.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "cold water. If children have cold in our country, grandmas give them",
+      "cleanText": "cold water. If children have cold in our country, grandmas give them",
+      "bbox": {
+        "x": 194,
+        "y": 562,
+        "width": 836,
+        "height": 26
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "honey and tulsi leaves to eat. And it works too. If you have a minor cut",
+      "cleanText": "honey and tulsi leaves to eat. And it works too. If you have a minor cut",
+      "bbox": {
+        "x": 195,
+        "y": 596,
+        "width": 842,
+        "height": 27
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "or wound, grown-ups may put some turmeric, marigold or aloe vera",
+      "cleanText": "or wound, grown-ups may put some turmeric, marigold or aloe vera",
+      "bbox": {
+        "x": 194,
+        "y": 631,
+        "width": 838,
+        "height": 27
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "on it. Rural people usually use garlic, neem or turmeric to cure skin",
+      "cleanText": "on it. Rural people usually use garlic, neem or turmeric to cure skin",
+      "bbox": {
+        "x": 195,
+        "y": 667,
+        "width": 836,
+        "height": 25
+      },
+      "confidence": 95.31,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "problems. With experience they have seen that these remedies work.",
+      "cleanText": "problems. With experience they have seen that these remedies work.",
+      "bbox": {
+        "x": 197,
+        "y": 703,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Moreover, they are easy to get, are cheap and most often are without",
+      "cleanText": "Moreover, they are easy to get, are cheap and most often are without",
+      "bbox": {
+        "x": 196,
+        "y": 743,
+        "width": 838,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "any side effects.",
+      "cleanText": "any side effects.",
+      "bbox": {
+        "x": 196,
+        "y": 777,
+        "width": 181,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Find out the items for natural cures and chemicals. Write the",
+      "cleanText": "Find out the items for natural cures and chemicals. Write the",
+      "bbox": {
+        "x": 194,
+        "y": 827,
+        "width": 840,
+        "height": 21
+      },
+      "confidence": 94.18,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "names of natural cures in column A. In the column B, write the",
+      "cleanText": "names of natural cures in column A. In the column B, write the",
+      "bbox": {
+        "x": 192,
+        "y": 865,
+        "width": 842,
+        "height": 25
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "items that are chemicals.",
+      "cleanText": "items that are chemicals.",
+      "bbox": {
+        "x": 191,
+        "y": 902,
+        "width": 324,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Column A_ (Natural cures) Column B_ (Chemicals)",
+      "cleanText": "Column A_ (Natural cures) Column B_ (Chemicals)",
+      "bbox": {
+        "x": 245,
+        "y": 960,
+        "width": 762,
+        "height": 24
+      },
+      "confidence": 85.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Answer the questions:",
+      "cleanText": "Answer the questions:",
+      "bbox": {
+        "x": 193,
+        "y": 1162,
+        "width": 269,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "What are natural cures made of?",
+      "cleanText": "What are natural cures made of?",
+      "bbox": {
+        "x": 239,
+        "y": 1217,
+        "width": 369,
+        "height": 19
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Are herbal cures modern inventions? Explain your reasons.",
+      "cleanText": "Are herbal cures modern inventions? Explain your reasons.",
+      "bbox": {
+        "x": 240,
+        "y": 1253,
+        "width": 673,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "+ Which civilisations are known for herbal treatments?",
+      "cleanText": "+ Which civilisations are known for herbal treatments?",
+      "bbox": {
+        "x": 214,
+        "y": 1289,
+        "width": 629,
+        "height": 20
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "What natural remedies are used for cold? Can you add any more",
+      "cleanText": "What natural remedies are used for cold? Can you add any more",
+      "bbox": {
+        "x": 239,
+        "y": 1325,
+        "width": 796,
+        "height": 26
+      },
+      "confidence": 90.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "natural treatment for cold?",
+      "cleanText": "natural treatment for cold?",
+      "bbox": {
+        "x": 241,
+        "y": 1361,
+        "width": 302,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "5. What herbal cures are used for skin problems?",
+      "cleanText": "What herbal cures are used for skin problems?",
+      "bbox": {
+        "x": 198,
+        "y": 1398,
+        "width": 571,
+        "height": 26
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-028",
+      "lineNumber": 28
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-039-line-002",
+      "lineNumber": 2,
+      "text": "People around the world are slowly changing their attitude towards",
+      "bbox": {
+        "x": 196,
+        "y": 187,
+        "width": 835,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-003",
+      "lineNumber": 3,
+      "text": "medicine. More and more they are turning to natural cures. Natural cures",
+      "bbox": {
+        "x": 196,
+        "y": 221,
+        "width": 840,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-004",
+      "lineNumber": 4,
+      "text": "are made of natural things, most often herbs and plants. History says that",
+      "bbox": {
+        "x": 196,
+        "y": 253,
+        "width": 842,
+        "height": 26
+      },
+      "confidence": 95.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-005",
+      "lineNumber": 5,
+      "text": "natural or herbal remedies are nothing new. People used them all along in",
+      "bbox": {
+        "x": 197,
+        "y": 286,
+        "width": 842,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-006",
+      "lineNumber": 6,
+      "text": "different ages. Herbal medicines were used in ancient civilisations like India,",
+      "bbox": {
+        "x": 199,
+        "y": 323,
+        "width": 840,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-007",
+      "lineNumber": 7,
+      "text": "China, Greece, Egypt and Rome. Some ancient treatment systems are still",
+      "bbox": {
+        "x": 198,
+        "y": 355,
+        "width": 839,
+        "height": 26
+      },
+      "confidence": 95.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-008",
+      "lineNumber": 8,
+      "text": "in practice today. They have come down through generations.",
+      "bbox": {
+        "x": 197,
+        "y": 391,
+        "width": 714,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-009",
+      "lineNumber": 9,
+      "text": "For a minor burn injury the doctor may prescribe you a tube of ointment.",
+      "bbox": {
+        "x": 196,
+        "y": 492,
+        "width": 841,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-010",
+      "lineNumber": 10,
+      "text": "But for the same, your grandma may put some aloe vera or use",
+      "bbox": {
+        "x": 197,
+        "y": 527,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 95.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-011",
+      "lineNumber": 11,
+      "text": "cold water. If children have cold in our country, grandmas give them",
+      "bbox": {
+        "x": 194,
+        "y": 562,
+        "width": 836,
+        "height": 26
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-012",
+      "lineNumber": 12,
+      "text": "honey and tulsi leaves to eat. And it works too. If you have a minor cut",
+      "bbox": {
+        "x": 195,
+        "y": 596,
+        "width": 842,
+        "height": 27
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-013",
+      "lineNumber": 13,
+      "text": "or wound, grown-ups may put some turmeric, marigold or aloe vera",
+      "bbox": {
+        "x": 194,
+        "y": 631,
+        "width": 838,
+        "height": 27
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-014",
+      "lineNumber": 14,
+      "text": "on it. Rural people usually use garlic, neem or turmeric to cure skin",
+      "bbox": {
+        "x": 195,
+        "y": 667,
+        "width": 836,
+        "height": 25
+      },
+      "confidence": 95.31,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-015",
+      "lineNumber": 15,
+      "text": "problems. With experience they have seen that these remedies work.",
+      "bbox": {
+        "x": 197,
+        "y": 703,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-016",
+      "lineNumber": 16,
+      "text": "Moreover, they are easy to get, are cheap and most often are without",
+      "bbox": {
+        "x": 196,
+        "y": 743,
+        "width": 838,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-017",
+      "lineNumber": 17,
+      "text": "any side effects.",
+      "bbox": {
+        "x": 196,
+        "y": 777,
+        "width": 181,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-018",
+      "lineNumber": 18,
+      "text": "Find out the items for natural cures and chemicals. Write the",
+      "bbox": {
+        "x": 194,
+        "y": 827,
+        "width": 840,
+        "height": 21
+      },
+      "confidence": 94.18,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-019",
+      "lineNumber": 19,
+      "text": "names of natural cures in column A. In the column B, write the",
+      "bbox": {
+        "x": 192,
+        "y": 865,
+        "width": 842,
+        "height": 25
+      },
+      "confidence": 95.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-020",
+      "lineNumber": 20,
+      "text": "items that are chemicals.",
+      "bbox": {
+        "x": 191,
+        "y": 902,
+        "width": 324,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-021",
+      "lineNumber": 21,
+      "text": "Column A_ (Natural cures) Column B_ (Chemicals)",
+      "bbox": {
+        "x": 245,
+        "y": 960,
+        "width": 762,
+        "height": 24
+      },
+      "confidence": 85.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-022",
+      "lineNumber": 22,
+      "text": "Answer the questions:",
+      "bbox": {
+        "x": 193,
+        "y": 1162,
+        "width": 269,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-023",
+      "lineNumber": 23,
+      "text": "What are natural cures made of?",
+      "bbox": {
+        "x": 239,
+        "y": 1217,
+        "width": 369,
+        "height": 19
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-024",
+      "lineNumber": 24,
+      "text": "Are herbal cures modern inventions? Explain your reasons.",
+      "bbox": {
+        "x": 240,
+        "y": 1253,
+        "width": 673,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-025",
+      "lineNumber": 25,
+      "text": "+ Which civilisations are known for herbal treatments?",
+      "bbox": {
+        "x": 214,
+        "y": 1289,
+        "width": 629,
+        "height": 20
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-026",
+      "lineNumber": 26,
+      "text": "What natural remedies are used for cold? Can you add any more",
+      "bbox": {
+        "x": 239,
+        "y": 1325,
+        "width": 796,
+        "height": 26
+      },
+      "confidence": 90.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-027",
+      "lineNumber": 27,
+      "text": "natural treatment for cold?",
+      "bbox": {
+        "x": 241,
+        "y": 1361,
+        "width": 302,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-028",
+      "lineNumber": 28,
+      "text": "What herbal cures are used for skin problems?",
+      "bbox": {
+        "x": 198,
+        "y": 1398,
+        "width": 571,
+        "height": 26
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Read the following text:\nPeople around the world are slowly changing their attitude towards\nmedicine. More and more they are turning to natural cures. Natural cures\nare made of natural things, most often herbs and plants. History says that\nnatural or herbal remedies are nothing new. People used them all along in\ndifferent ages. Herbal medicines were used in ancient civilisations like India,\nChina, Greece, Egypt and Rome. Some ancient treatment systems are still\nin practice today. They have come down through generations.\nFor a minor burn injury the doctor may prescribe you a tube of ointment.\nBut for the same, your grandma may put some aloe vera or use\ncold water. If children have cold in our country, grandmas give them\nhoney and tulsi leaves to eat. And it works too. If you have a minor cut\nor wound, grown-ups may put some turmeric, marigold or aloe vera\non it. Rural people usually use garlic, neem or turmeric to cure skin\nproblems. With experience they have seen that these remedies work.\nMoreover, they are easy to get, are cheap and most often are without\nany side effects.\nFind out the items for natural cures and chemicals. Write the\nnames of natural cures in column A. In the column B, write the\nitems that are chemicals.\nColumn A_ (Natural cures) Column B_ (Chemicals)\nAnswer the questions:\nWhat are natural cures made of?\nAre herbal cures modern inventions? Explain your reasons.\n+ Which civilisations are known for herbal treatments?\nWhat natural remedies are used for cold? Can you add any more\nnatural treatment for cold?\n5. What herbal cures are used for skin problems?",
+  "cleanText": "Read the following text:\nPeople around the world are slowly changing their attitude towards\nmedicine. More and more they are turning to natural cures. Natural cures\nare made of natural things, most often herbs and plants. History says that\nnatural or herbal remedies are nothing new. People used them all along in\ndifferent ages. Herbal medicines were used in ancient civilisations like India,\nChina, Greece, Egypt and Rome. Some ancient treatment systems are still\nin practice today. They have come down through generations.\nFor a minor burn injury the doctor may prescribe you a tube of ointment.\nBut for the same, your grandma may put some aloe vera or use\ncold water. If children have cold in our country, grandmas give them\nhoney and tulsi leaves to eat. And it works too. If you have a minor cut\nor wound, grown-ups may put some turmeric, marigold or aloe vera\non it. Rural people usually use garlic, neem or turmeric to cure skin\nproblems. With experience they have seen that these remedies work.\nMoreover, they are easy to get, are cheap and most often are without\nany side effects.\nFind out the items for natural cures and chemicals. Write the\nnames of natural cures in column A. In the column B, write the\nitems that are chemicals.\nColumn A_ (Natural cures) Column B_ (Chemicals)\nAnswer the questions:\nWhat are natural cures made of?\nAre herbal cures modern inventions? Explain your reasons.\n+ Which civilisations are known for herbal treatments?\nWhat natural remedies are used for cold? Can you add any more\nnatural treatment for cold?\nWhat herbal cures are used for skin problems?",
+  "aiReadyText": "People around the world are slowly changing their attitude towards\nmedicine. More and more they are turning to natural cures. Natural cures\nare made of natural things, most often herbs and plants. History says that\nnatural or herbal remedies are nothing new. People used them all along in\ndifferent ages. Herbal medicines were used in ancient civilisations like India,\nChina, Greece, Egypt and Rome. Some ancient treatment systems are still\nin practice today. They have come down through generations.\nFor a minor burn injury the doctor may prescribe you a tube of ointment.\nBut for the same, your grandma may put some aloe vera or use\ncold water. If children have cold in our country, grandmas give them\nhoney and tulsi leaves to eat. And it works too. If you have a minor cut\nor wound, grown-ups may put some turmeric, marigold or aloe vera\non it. Rural people usually use garlic, neem or turmeric to cure skin\nproblems. With experience they have seen that these remedies work.\nMoreover, they are easy to get, are cheap and most often are without\nany side effects.\nFind out the items for natural cures and chemicals. Write the\nnames of natural cures in column A. In the column B, write the\nitems that are chemicals.\nColumn A_ (Natural cures) Column B_ (Chemicals)\nAnswer the questions:\nWhat are natural cures made of?\nAre herbal cures modern inventions? Explain your reasons.\n+ Which civilisations are known for herbal treatments?\nWhat natural remedies are used for cold? Can you add any more\nnatural treatment for cold?\nWhat herbal cures are used for skin problems?"
+}

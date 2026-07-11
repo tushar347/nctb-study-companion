@@ -1,0 +1,465 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 21,
+  "image": "/ocr/books/class6-english/page-images/page-021.png",
+  "width": 1176,
+  "height": 1527,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Language Focus:",
+      "cleanText": "Language Focus:",
+      "bbox": {
+        "x": 200,
+        "y": 157,
+        "width": 205,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Notice the verbs in the italics in the following sentences.",
+      "cleanText": "Notice the verbs in the italics in the following sentences.",
+      "bbox": {
+        "x": 227,
+        "y": 236,
+        "width": 645,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-021-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "a) Bulbul collects rubbish from the Sankar area in Dhaka",
+      "cleanText": "Bulbul collects rubbish from the Sankar area in Dhaka",
+      "bbox": {
+        "x": 228,
+        "y": 285,
+        "width": 664,
+        "height": 24
+      },
+      "confidence": 92.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "b) Every day he wakes up at 5 o'clock and walks along the streets of Sankar.",
+      "cleanText": "Every day he wakes up at 5 o'clock and walks along the streets of Sankar.",
+      "bbox": {
+        "x": 227,
+        "y": 333,
+        "width": 824,
+        "height": 26
+      },
+      "confidence": 93.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "We talk about usual routines in simple present tense. In simple present tense,",
+      "cleanText": "We talk about usual routines in simple present tense. In simple present tense,",
+      "bbox": {
+        "x": 227,
+        "y": 402,
+        "width": 823,
+        "height": 26
+      },
+      "confidence": 95.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "the verb takes an 's' or es’ if the subject is any one person/he/she, etc.",
+      "cleanText": "the verb takes an 's' or es’ if the subject is any one person/he/she, etc.",
+      "bbox": {
+        "x": 230,
+        "y": 440,
+        "width": 752,
+        "height": 25
+      },
+      "confidence": 81.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Notice the verbs in the following sentences in italics.",
+      "cleanText": "Notice the verbs in the following sentences in italics.",
+      "bbox": {
+        "x": 227,
+        "y": 593,
+        "width": 604,
+        "height": 25
+      },
+      "confidence": 94.78,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-021-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "a) The people in Sankar area became very upset.",
+      "cleanText": "The people in Sankar area became very upset.",
+      "bbox": {
+        "x": 228,
+        "y": 637,
+        "width": 573,
+        "height": 25
+      },
+      "confidence": 93.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "b) They got piles of rubbish waiting outside their house.",
+      "cleanText": "They got piles of rubbish waiting outside their house.",
+      "bbox": {
+        "x": 228,
+        "y": 681,
+        "width": 658,
+        "height": 25
+      },
+      "confidence": 93.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "All the sentences here talk about the past. So, they are in simple past",
+      "cleanText": "All the sentences here talk about the past. So, they are in simple past",
+      "bbox": {
+        "x": 229,
+        "y": 753,
+        "width": 822,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "tense. In simple past tense, the verb is always in its past form (e.g. got,",
+      "cleanText": "tense. In simple past tense, the verb is always in its past form (e.g. got,",
+      "bbox": {
+        "x": 234,
+        "y": 790,
+        "width": 815,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "became, etc.).",
+      "cleanText": "became, etc.).",
+      "bbox": {
+        "x": 234,
+        "y": 828,
+        "width": 154,
+        "height": 23
+      },
+      "confidence": 89.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "B3. Underline all the verbs in text on Bulbul (B). Write down the past",
+      "cleanText": "B3. Underline all the verbs in text on Bulbul (B). Write down the past",
+      "bbox": {
+        "x": 138,
+        "y": 913,
+        "width": 910,
+        "height": 27
+      },
+      "confidence": 94.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "form of the verb in the present tense. Also write down the present",
+      "cleanText": "form of the verb in the present tense. Also write down the present",
+      "bbox": {
+        "x": 202,
+        "y": 952,
+        "width": 849,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "form of the verb in the past tense.",
+      "cleanText": "form of the verb in the past tense.",
+      "bbox": {
+        "x": 199,
+        "y": 992,
+        "width": 429,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "One is done for you.",
+      "cleanText": "One is done for you.",
+      "bbox": {
+        "x": 200,
+        "y": 1055,
+        "width": 231,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "wakes up——- woke up.",
+      "cleanText": "wakes up——- woke up.",
+      "bbox": {
+        "x": 200,
+        "y": 1095,
+        "width": 406,
+        "height": 34
+      },
+      "confidence": 84.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-017",
+      "lineNumber": 17
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-021-line-001",
+      "lineNumber": 1,
+      "text": "Language Focus:",
+      "bbox": {
+        "x": 200,
+        "y": 157,
+        "width": 205,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-003",
+      "lineNumber": 3,
+      "text": "Bulbul collects rubbish from the Sankar area in Dhaka",
+      "bbox": {
+        "x": 228,
+        "y": 285,
+        "width": 664,
+        "height": 24
+      },
+      "confidence": 92.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-004",
+      "lineNumber": 4,
+      "text": "Every day he wakes up at 5 o'clock and walks along the streets of Sankar.",
+      "bbox": {
+        "x": 227,
+        "y": 333,
+        "width": 824,
+        "height": 26
+      },
+      "confidence": 93.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-005",
+      "lineNumber": 5,
+      "text": "We talk about usual routines in simple present tense. In simple present tense,",
+      "bbox": {
+        "x": 227,
+        "y": 402,
+        "width": 823,
+        "height": 26
+      },
+      "confidence": 95.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-006",
+      "lineNumber": 6,
+      "text": "the verb takes an 's' or es’ if the subject is any one person/he/she, etc.",
+      "bbox": {
+        "x": 230,
+        "y": 440,
+        "width": 752,
+        "height": 25
+      },
+      "confidence": 81.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-008",
+      "lineNumber": 8,
+      "text": "The people in Sankar area became very upset.",
+      "bbox": {
+        "x": 228,
+        "y": 637,
+        "width": 573,
+        "height": 25
+      },
+      "confidence": 93.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-009",
+      "lineNumber": 9,
+      "text": "They got piles of rubbish waiting outside their house.",
+      "bbox": {
+        "x": 228,
+        "y": 681,
+        "width": 658,
+        "height": 25
+      },
+      "confidence": 93.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-010",
+      "lineNumber": 10,
+      "text": "All the sentences here talk about the past. So, they are in simple past",
+      "bbox": {
+        "x": 229,
+        "y": 753,
+        "width": 822,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-011",
+      "lineNumber": 11,
+      "text": "tense. In simple past tense, the verb is always in its past form (e.g. got,",
+      "bbox": {
+        "x": 234,
+        "y": 790,
+        "width": 815,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-012",
+      "lineNumber": 12,
+      "text": "became, etc.).",
+      "bbox": {
+        "x": 234,
+        "y": 828,
+        "width": 154,
+        "height": 23
+      },
+      "confidence": 89.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-013",
+      "lineNumber": 13,
+      "text": "B3. Underline all the verbs in text on Bulbul (B). Write down the past",
+      "bbox": {
+        "x": 138,
+        "y": 913,
+        "width": 910,
+        "height": 27
+      },
+      "confidence": 94.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-014",
+      "lineNumber": 14,
+      "text": "form of the verb in the present tense. Also write down the present",
+      "bbox": {
+        "x": 202,
+        "y": 952,
+        "width": 849,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-015",
+      "lineNumber": 15,
+      "text": "form of the verb in the past tense.",
+      "bbox": {
+        "x": 199,
+        "y": 992,
+        "width": 429,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-016",
+      "lineNumber": 16,
+      "text": "One is done for you.",
+      "bbox": {
+        "x": 200,
+        "y": 1055,
+        "width": 231,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-017",
+      "lineNumber": 17,
+      "text": "wakes up——- woke up.",
+      "bbox": {
+        "x": 200,
+        "y": 1095,
+        "width": 406,
+        "height": 34
+      },
+      "confidence": 84.75,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Language Focus:\nNotice the verbs in the italics in the following sentences.\na) Bulbul collects rubbish from the Sankar area in Dhaka\nb) Every day he wakes up at 5 o'clock and walks along the streets of Sankar.\nWe talk about usual routines in simple present tense. In simple present tense,\nthe verb takes an 's' or es’ if the subject is any one person/he/she, etc.\nNotice the verbs in the following sentences in italics.\na) The people in Sankar area became very upset.\nb) They got piles of rubbish waiting outside their house.\nAll the sentences here talk about the past. So, they are in simple past\ntense. In simple past tense, the verb is always in its past form (e.g. got,\nbecame, etc.).\nB3. Underline all the verbs in text on Bulbul (B). Write down the past\nform of the verb in the present tense. Also write down the present\nform of the verb in the past tense.\nOne is done for you.\nwakes up——- woke up.",
+  "cleanText": "Language Focus:\nNotice the verbs in the italics in the following sentences.\nBulbul collects rubbish from the Sankar area in Dhaka\nEvery day he wakes up at 5 o'clock and walks along the streets of Sankar.\nWe talk about usual routines in simple present tense. In simple present tense,\nthe verb takes an 's' or es’ if the subject is any one person/he/she, etc.\nNotice the verbs in the following sentences in italics.\nThe people in Sankar area became very upset.\nThey got piles of rubbish waiting outside their house.\nAll the sentences here talk about the past. So, they are in simple past\ntense. In simple past tense, the verb is always in its past form (e.g. got,\nbecame, etc.).\nB3. Underline all the verbs in text on Bulbul (B). Write down the past\nform of the verb in the present tense. Also write down the present\nform of the verb in the past tense.\nOne is done for you.\nwakes up——- woke up.",
+  "aiReadyText": "Language Focus:\nBulbul collects rubbish from the Sankar area in Dhaka\nEvery day he wakes up at 5 o'clock and walks along the streets of Sankar.\nWe talk about usual routines in simple present tense. In simple present tense,\nthe verb takes an 's' or es’ if the subject is any one person/he/she, etc.\nThe people in Sankar area became very upset.\nThey got piles of rubbish waiting outside their house.\nAll the sentences here talk about the past. So, they are in simple past\ntense. In simple past tense, the verb is always in its past form (e.g. got,\nbecame, etc.).\nB3. Underline all the verbs in text on Bulbul (B). Write down the past\nform of the verb in the present tense. Also write down the present\nform of the verb in the past tense.\nOne is done for you.\nwakes up——- woke up."
+}

@@ -1,3 +1,4 @@
+import { useAiTeacherCredit } from "@/lib/rewardSystem";
 import { buildLessonContext } from "@/lib/buildLessonContext";
 import {
   getMemorySummaryForAgent,
@@ -11,7 +12,8 @@ export const runtime = "nodejs";
 type RequestedTool = "simple" | "bangla" | "grammar" | "quiz" | "chat";
 
 type RequestBody = {
-  studentId: string;
+  studentId?: string;
+  studentKey?: string;
   lessonNo: number;
   selectedLine: string;
   requestedTool: RequestedTool;
@@ -53,7 +55,7 @@ function buildPrompt({
   memorySummary: unknown;
 }) {
   return `
-You are an AI study companion for Class 6 English textbook learners in Bangladesh.
+You are an AI Teacher for Class 6 English textbook learners in Bangladesh.
 
 Lesson title:
 ${lessonTitle}
@@ -90,8 +92,10 @@ export async function POST(request: Request) {
   try {
     const body = (await request.json()) as RequestBody;
 
+    const studentKey = String(body.studentKey ?? body.studentId ?? "").trim();
+
     if (
-      !body.studentId ||
+      !studentKey ||
       !body.lessonNo ||
       !body.selectedLine ||
       !body.requestedTool
@@ -99,43 +103,74 @@ export async function POST(request: Request) {
       return Response.json(
         {
           error:
-            "studentId, lessonNo, selectedLine, and requestedTool are required",
+            "studentKey/studentId, lessonNo, selectedLine, and requestedTool are required",
         },
         { status: 400 },
+      );
+    }
+
+    /**
+     * AI CREDIT SYSTEM
+     * Every successful AI Teacher request uses 1 AI credit.
+     * If the student has 0 credits, the request stops before generating an answer.
+     */
+    const creditResult = await useAiTeacherCredit({
+      studentKey,
+      lessonNo: Number(body.lessonNo),
+      selectedLine: body.selectedLine,
+      question: body.studentQuestion,
+      toolUsed: body.requestedTool,
+    });
+
+    if (!creditResult.success) {
+      return Response.json(
+        {
+          success: false,
+          error: creditResult.error,
+          wallet: creditResult.wallet,
+          needsRedeem: true,
+          message:
+            "No AI Teacher credits left. Play quiz or grammar games to earn learning points, then redeem points for more AI Teacher credits.",
+        },
+        { status: 402 },
       );
     }
 
     const apiKey = process.env.GEMINI_API_KEY;
     const model = process.env.GEMINI_MODEL ?? "gemini-2.5-flash";
 
-    const lessonContext = buildLessonContext(body.lessonNo, body.selectedLine);
+    const lessonContext = buildLessonContext(
+      Number(body.lessonNo),
+      body.selectedLine,
+    );
 
     await updateMemoryAfterAgent({
-      studentKey: body.studentId,
-      lessonNo: body.lessonNo,
+      studentKey,
+      lessonNo: Number(body.lessonNo),
       selectedLine: body.selectedLine,
       toolUsed: body.requestedTool,
     });
 
     await logResearchEvent({
-      studentKey: body.studentId,
-      lessonNo: body.lessonNo,
+      studentKey,
+      lessonNo: Number(body.lessonNo),
       eventType: "agent_tool_request",
       selectedLine: body.selectedLine,
       toolUsed: body.requestedTool,
       metadata: {
         studentQuestion: body.studentQuestion ?? null,
+        aiCreditUsed: true,
       },
     });
 
-    const memorySummary = await getMemorySummaryForAgent(body.studentId);
+    const memorySummary = await getMemorySummaryForAgent(studentKey);
 
     if (!apiKey) {
       const fallback = fallbackAnswer(body.requestedTool, body.selectedLine);
 
       await saveChatMessage({
-        studentKey: body.studentId,
-        lessonNo: body.lessonNo,
+        studentKey,
+        lessonNo: Number(body.lessonNo),
         selectedLine: body.selectedLine,
         toolUsed: body.requestedTool,
         question: body.studentQuestion,
@@ -144,9 +179,16 @@ export async function POST(request: Request) {
       });
 
       return Response.json({
-        result: fallback,
+        success: true,
+        result: {
+          ...fallback,
+          lessonNo: Number(body.lessonNo),
+          lessonTitle: lessonContext.lessonTitle,
+        },
         source: "fallback",
         memory: memorySummary,
+        wallet: creditResult.wallet,
+        creditUsed: 1,
       });
     }
 
@@ -188,8 +230,8 @@ export async function POST(request: Request) {
       const fallback = fallbackAnswer(body.requestedTool, body.selectedLine);
 
       await saveChatMessage({
-        studentKey: body.studentId,
-        lessonNo: body.lessonNo,
+        studentKey,
+        lessonNo: Number(body.lessonNo),
         selectedLine: body.selectedLine,
         toolUsed: body.requestedTool,
         question: body.studentQuestion,
@@ -198,9 +240,16 @@ export async function POST(request: Request) {
       });
 
       return Response.json({
-        result: fallback,
+        success: true,
+        result: {
+          ...fallback,
+          lessonNo: Number(body.lessonNo),
+          lessonTitle: lessonContext.lessonTitle,
+        },
         source: "fallback",
         memory: memorySummary,
+        wallet: creditResult.wallet,
+        creditUsed: 1,
       });
     }
 
@@ -213,8 +262,8 @@ export async function POST(request: Request) {
         .trim() ?? "No response generated.";
 
     await saveChatMessage({
-      studentKey: body.studentId,
-      lessonNo: body.lessonNo,
+      studentKey,
+      lessonNo: Number(body.lessonNo),
       selectedLine: body.selectedLine,
       toolUsed: body.requestedTool,
       question: body.studentQuestion,
@@ -223,15 +272,18 @@ export async function POST(request: Request) {
     });
 
     return Response.json({
+      success: true,
       result: {
         tool: body.requestedTool,
         output,
         selectedLine: body.selectedLine,
-        lessonNo: body.lessonNo,
+        lessonNo: Number(body.lessonNo),
         lessonTitle: lessonContext.lessonTitle,
       },
       source: "gemini",
       memory: memorySummary,
+      wallet: creditResult.wallet,
+      creditUsed: 1,
     });
   } catch (error) {
     return Response.json(

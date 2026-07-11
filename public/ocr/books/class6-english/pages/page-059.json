@@ -1,0 +1,297 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 59,
+  "image": "/ocr/books/class6-english/page-images/page-059.png",
+  "width": 1149,
+  "height": 1504,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "54 English For Today",
+      "cleanText": "54 English For Today",
+      "bbox": {
+        "x": 123,
+        "y": 82,
+        "width": 907,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Al, Underline the words in the poem which have the same letter",
+      "cleanText": "Al, Underline the words in the poem which have the same letter",
+      "bbox": {
+        "x": 113,
+        "y": 157,
+        "width": 919,
+        "height": 26
+      },
+      "confidence": 94.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "combinations in their spelling, but different pronunciation. Practice",
+      "cleanText": "combinations in their spelling, but different pronunciation. Practice",
+      "bbox": {
+        "x": 164,
+        "y": 192,
+        "width": 867,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "saying them with a friend.",
+      "cleanText": "saying them with a friend.",
+      "bbox": {
+        "x": 164,
+        "y": 226,
+        "width": 316,
+        "height": 26
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "A2.The words “alive”, “five”, and “write” from the poem have the",
+      "cleanText": "A2.The words “alive”, “five”, and “write” from the poem have the",
+      "bbox": {
+        "x": 113,
+        "y": 303,
+        "width": 918,
+        "height": 25
+      },
+      "confidence": 93.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "same vowel sound. Now, read and listen to some other words that have",
+      "cleanText": "same vowel sound. Now, read and listen to some other words that have",
+      "bbox": {
+        "x": 164,
+        "y": 337,
+        "width": 867,
+        "height": 24
+      },
+      "confidence": 95.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "the same sound as these.",
+      "cleanText": "the same sound as these.",
+      "bbox": {
+        "x": 164,
+        "y": 372,
+        "width": 294,
+        "height": 19
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "try cry",
+      "cleanText": "try cry",
+      "bbox": {
+        "x": 374,
+        "y": 509,
+        "width": 279,
+        "height": 31
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-059-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "ice-cream nice",
+      "cleanText": "ice-cream nice",
+      "bbox": {
+        "x": 374,
+        "y": 666,
+        "width": 289,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "ride drive TEAS",
+      "cleanText": "ride drive TEAS",
+      "bbox": {
+        "x": 374,
+        "y": 822,
+        "width": 480,
+        "height": 30
+      },
+      "confidence": 80.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "sky fly",
+      "cleanText": "sky fly",
+      "bbox": {
+        "x": 375,
+        "y": 992,
+        "width": 272,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-059-line-011",
+      "lineNumber": 11
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-059-line-001",
+      "lineNumber": 1,
+      "text": "54 English For Today",
+      "bbox": {
+        "x": 123,
+        "y": 82,
+        "width": 907,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-002",
+      "lineNumber": 2,
+      "text": "Al, Underline the words in the poem which have the same letter",
+      "bbox": {
+        "x": 113,
+        "y": 157,
+        "width": 919,
+        "height": 26
+      },
+      "confidence": 94.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-003",
+      "lineNumber": 3,
+      "text": "combinations in their spelling, but different pronunciation. Practice",
+      "bbox": {
+        "x": 164,
+        "y": 192,
+        "width": 867,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-004",
+      "lineNumber": 4,
+      "text": "saying them with a friend.",
+      "bbox": {
+        "x": 164,
+        "y": 226,
+        "width": 316,
+        "height": 26
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-005",
+      "lineNumber": 5,
+      "text": "A2.The words “alive”, “five”, and “write” from the poem have the",
+      "bbox": {
+        "x": 113,
+        "y": 303,
+        "width": 918,
+        "height": 25
+      },
+      "confidence": 93.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-006",
+      "lineNumber": 6,
+      "text": "same vowel sound. Now, read and listen to some other words that have",
+      "bbox": {
+        "x": 164,
+        "y": 337,
+        "width": 867,
+        "height": 24
+      },
+      "confidence": 95.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-007",
+      "lineNumber": 7,
+      "text": "the same sound as these.",
+      "bbox": {
+        "x": 164,
+        "y": 372,
+        "width": 294,
+        "height": 19
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-009",
+      "lineNumber": 9,
+      "text": "ice-cream nice",
+      "bbox": {
+        "x": 374,
+        "y": 666,
+        "width": 289,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-010",
+      "lineNumber": 10,
+      "text": "ride drive TEAS",
+      "bbox": {
+        "x": 374,
+        "y": 822,
+        "width": 480,
+        "height": 30
+      },
+      "confidence": 80.67,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "54 English For Today\nAl, Underline the words in the poem which have the same letter\ncombinations in their spelling, but different pronunciation. Practice\nsaying them with a friend.\nA2.The words “alive”, “five”, and “write” from the poem have the\nsame vowel sound. Now, read and listen to some other words that have\nthe same sound as these.\ntry cry\nice-cream nice\nride drive TEAS\nsky fly",
+  "cleanText": "54 English For Today\nAl, Underline the words in the poem which have the same letter\ncombinations in their spelling, but different pronunciation. Practice\nsaying them with a friend.\nA2.The words “alive”, “five”, and “write” from the poem have the\nsame vowel sound. Now, read and listen to some other words that have\nthe same sound as these.\ntry cry\nice-cream nice\nride drive TEAS\nsky fly",
+  "aiReadyText": "54 English For Today\nAl, Underline the words in the poem which have the same letter\ncombinations in their spelling, but different pronunciation. Practice\nsaying them with a friend.\nA2.The words “alive”, “five”, and “write” from the poem have the\nsame vowel sound. Now, read and listen to some other words that have\nthe same sound as these.\nice-cream nice\nride drive TEAS"
+}

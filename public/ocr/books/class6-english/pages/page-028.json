@@ -1,0 +1,702 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 28,
+  "image": "/ocr/books/class6-english/page-images/page-028.png",
+  "width": 1169,
+  "height": 1521,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "B. Listen to and read the dialogue below:",
+      "cleanText": "Listen to and read the dialogue below:",
+      "bbox": {
+        "x": 131,
+        "y": 168,
+        "width": 524,
+        "height": 26
+      },
+      "confidence": 93.38,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-028-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Salesperson Hello, how can I help you?",
+      "cleanText": "Salesperson Hello, how can I help you?",
+      "bbox": {
+        "x": 190,
+        "y": 214,
+        "width": 483,
+        "height": 26
+      },
+      "confidence": 88.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Imran Do you have any beans?",
+      "cleanText": "Imran Do you have any beans?",
+      "bbox": {
+        "x": 190,
+        "y": 254,
+        "width": 452,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Salesperson Yes, we do. How much would you like?",
+      "cleanText": "Salesperson Yes, we do. How much would you like?",
+      "bbox": {
+        "x": 190,
+        "y": 294,
+        "width": 627,
+        "height": 26
+      },
+      "confidence": 94.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Imran I would like half kg. And I'll also need one kg. of",
+      "cleanText": "Imran I would like half kg. And I'll also need one kg. of",
+      "bbox": {
+        "x": 190,
+        "y": 342,
+        "width": 739,
+        "height": 26
+      },
+      "confidence": 94.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "tomatoes, two kg.of potatoes, two cauliflowers,",
+      "cleanText": "tomatoes, two kg.of potatoes, two cauliflowers,",
+      "bbox": {
+        "x": 364,
+        "y": 380,
+        "width": 542,
+        "height": 25
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "a dozen of eggs and some salt.",
+      "cleanText": "a dozen of eggs and some salt.",
+      "bbox": {
+        "x": 365,
+        "y": 424,
+        "width": 345,
+        "height": 25
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Salesperson Do you need oil, sir?",
+      "cleanText": "Salesperson Do you need oil, sir?",
+      "bbox": {
+        "x": 190,
+        "y": 463,
+        "width": 413,
+        "height": 26
+      },
+      "confidence": 92.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Imran Yes, I need a litre of oil.",
+      "cleanText": "Imran Yes, I need a litre of oil.",
+      "bbox": {
+        "x": 190,
+        "y": 501,
+        "width": 445,
+        "height": 34
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Salesperson Do you need anything else?",
+      "cleanText": "Salesperson Do you need anything else?",
+      "bbox": {
+        "x": 190,
+        "y": 565,
+        "width": 470,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Tmran Umm..... let me check. (looks at the list).",
+      "cleanText": "Tmran Umm..... let me check. (looks at the list).",
+      "bbox": {
+        "x": 190,
+        "y": 614,
+        "width": 625,
+        "height": 24
+      },
+      "confidence": 94.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Oh, yes, could I have some sugar and milk?",
+      "cleanText": "Oh, yes, could I have some sugar and milk?",
+      "bbox": {
+        "x": 343,
+        "y": 664,
+        "width": 505,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Salesperson Sure. How much milk do you want?",
+      "cleanText": "Salesperson Sure. How much milk do you want?",
+      "bbox": {
+        "x": 190,
+        "y": 713,
+        "width": 565,
+        "height": 26
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Imran Just one litre, ...and one kg of sugar, please.",
+      "cleanText": "Imran Just one litre, ...and one kg of sugar, please.",
+      "bbox": {
+        "x": 191,
+        "y": 759,
+        "width": 664,
+        "height": 26
+      },
+      "confidence": 93.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Salesperson Ok, let me find all the items for you.",
+      "cleanText": "Salesperson Ok, let me find all the items for you.",
+      "bbox": {
+        "x": 190,
+        "y": 805,
+        "width": 569,
+        "height": 26
+      },
+      "confidence": 94.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Imran Thanks. Please put them in a paper or jute bag.",
+      "cleanText": "Imran Thanks. Please put them in a paper or jute bag.",
+      "bbox": {
+        "x": 191,
+        "y": 851,
+        "width": 686,
+        "height": 26
+      },
+      "confidence": 94.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Salesperson Sure! We don't use plastic bags here.",
+      "cleanText": "Salesperson Sure! We don't use plastic bags here.",
+      "bbox": {
+        "x": 190,
+        "y": 897,
+        "width": 570,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Here you go! I've put all the items here.",
+      "cleanText": "Here you go! I've put all the items here.",
+      "bbox": {
+        "x": 333,
+        "y": 944,
+        "width": 457,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Imran Thank you. How much is the",
+      "cleanText": "Imran Thank you. How much is the",
+      "bbox": {
+        "x": 191,
+        "y": 990,
+        "width": 482,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Salesperson The total comes to taka five",
+      "cleanText": "Salesperson The total comes to taka five",
+      "bbox": {
+        "x": 190,
+        "y": 1082,
+        "width": 472,
+        "height": 26
+      },
+      "confidence": 94.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "hundred and thirty-five.",
+      "cleanText": "hundred and thirty-five.",
+      "bbox": {
+        "x": 345,
+        "y": 1129,
+        "width": 267,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Imran Here is five hundred and fifty.",
+      "cleanText": "Imran Here is five hundred and fifty.",
+      "bbox": {
+        "x": 190,
+        "y": 1175,
+        "width": 493,
+        "height": 26
+      },
+      "confidence": 91.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Salesperson Thank you. Here is the change,",
+      "cleanText": "Salesperson Thank you. Here is the change,",
+      "bbox": {
+        "x": 190,
+        "y": 1220,
+        "width": 508,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "fifteen taka. Have a good day!",
+      "cleanText": "fifteen taka. Have a good day!",
+      "bbox": {
+        "x": 344,
+        "y": 1267,
+        "width": 342,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Imran Thanks, Bye.",
+      "cleanText": "Imran Thanks, Bye.",
+      "bbox": {
+        "x": 191,
+        "y": 1314,
+        "width": 299,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-025",
+      "lineNumber": 25
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-028-line-002",
+      "lineNumber": 2,
+      "text": "Salesperson Hello, how can I help you?",
+      "bbox": {
+        "x": 190,
+        "y": 214,
+        "width": 483,
+        "height": 26
+      },
+      "confidence": 88.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-003",
+      "lineNumber": 3,
+      "text": "Imran Do you have any beans?",
+      "bbox": {
+        "x": 190,
+        "y": 254,
+        "width": 452,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-004",
+      "lineNumber": 4,
+      "text": "Salesperson Yes, we do. How much would you like?",
+      "bbox": {
+        "x": 190,
+        "y": 294,
+        "width": 627,
+        "height": 26
+      },
+      "confidence": 94.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-005",
+      "lineNumber": 5,
+      "text": "Imran I would like half kg. And I'll also need one kg. of",
+      "bbox": {
+        "x": 190,
+        "y": 342,
+        "width": 739,
+        "height": 26
+      },
+      "confidence": 94.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-006",
+      "lineNumber": 6,
+      "text": "tomatoes, two kg.of potatoes, two cauliflowers,",
+      "bbox": {
+        "x": 364,
+        "y": 380,
+        "width": 542,
+        "height": 25
+      },
+      "confidence": 93.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-007",
+      "lineNumber": 7,
+      "text": "a dozen of eggs and some salt.",
+      "bbox": {
+        "x": 365,
+        "y": 424,
+        "width": 345,
+        "height": 25
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-008",
+      "lineNumber": 8,
+      "text": "Salesperson Do you need oil, sir?",
+      "bbox": {
+        "x": 190,
+        "y": 463,
+        "width": 413,
+        "height": 26
+      },
+      "confidence": 92.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-009",
+      "lineNumber": 9,
+      "text": "Imran Yes, I need a litre of oil.",
+      "bbox": {
+        "x": 190,
+        "y": 501,
+        "width": 445,
+        "height": 34
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-010",
+      "lineNumber": 10,
+      "text": "Salesperson Do you need anything else?",
+      "bbox": {
+        "x": 190,
+        "y": 565,
+        "width": 470,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-011",
+      "lineNumber": 11,
+      "text": "Tmran Umm..... let me check. (looks at the list).",
+      "bbox": {
+        "x": 190,
+        "y": 614,
+        "width": 625,
+        "height": 24
+      },
+      "confidence": 94.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-012",
+      "lineNumber": 12,
+      "text": "Oh, yes, could I have some sugar and milk?",
+      "bbox": {
+        "x": 343,
+        "y": 664,
+        "width": 505,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-013",
+      "lineNumber": 13,
+      "text": "Salesperson Sure. How much milk do you want?",
+      "bbox": {
+        "x": 190,
+        "y": 713,
+        "width": 565,
+        "height": 26
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-014",
+      "lineNumber": 14,
+      "text": "Imran Just one litre, ...and one kg of sugar, please.",
+      "bbox": {
+        "x": 191,
+        "y": 759,
+        "width": 664,
+        "height": 26
+      },
+      "confidence": 93.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-015",
+      "lineNumber": 15,
+      "text": "Salesperson Ok, let me find all the items for you.",
+      "bbox": {
+        "x": 190,
+        "y": 805,
+        "width": 569,
+        "height": 26
+      },
+      "confidence": 94.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-016",
+      "lineNumber": 16,
+      "text": "Imran Thanks. Please put them in a paper or jute bag.",
+      "bbox": {
+        "x": 191,
+        "y": 851,
+        "width": 686,
+        "height": 26
+      },
+      "confidence": 94.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-017",
+      "lineNumber": 17,
+      "text": "Salesperson Sure! We don't use plastic bags here.",
+      "bbox": {
+        "x": 190,
+        "y": 897,
+        "width": 570,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-018",
+      "lineNumber": 18,
+      "text": "Here you go! I've put all the items here.",
+      "bbox": {
+        "x": 333,
+        "y": 944,
+        "width": 457,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-019",
+      "lineNumber": 19,
+      "text": "Imran Thank you. How much is the",
+      "bbox": {
+        "x": 191,
+        "y": 990,
+        "width": 482,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-020",
+      "lineNumber": 20,
+      "text": "Salesperson The total comes to taka five",
+      "bbox": {
+        "x": 190,
+        "y": 1082,
+        "width": 472,
+        "height": 26
+      },
+      "confidence": 94.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-021",
+      "lineNumber": 21,
+      "text": "hundred and thirty-five.",
+      "bbox": {
+        "x": 345,
+        "y": 1129,
+        "width": 267,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-022",
+      "lineNumber": 22,
+      "text": "Imran Here is five hundred and fifty.",
+      "bbox": {
+        "x": 190,
+        "y": 1175,
+        "width": 493,
+        "height": 26
+      },
+      "confidence": 91.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-023",
+      "lineNumber": 23,
+      "text": "Salesperson Thank you. Here is the change,",
+      "bbox": {
+        "x": 190,
+        "y": 1220,
+        "width": 508,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-024",
+      "lineNumber": 24,
+      "text": "fifteen taka. Have a good day!",
+      "bbox": {
+        "x": 344,
+        "y": 1267,
+        "width": 342,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-025",
+      "lineNumber": 25,
+      "text": "Imran Thanks, Bye.",
+      "bbox": {
+        "x": 191,
+        "y": 1314,
+        "width": 299,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "B. Listen to and read the dialogue below:\nSalesperson Hello, how can I help you?\nImran Do you have any beans?\nSalesperson Yes, we do. How much would you like?\nImran I would like half kg. And I'll also need one kg. of\ntomatoes, two kg.of potatoes, two cauliflowers,\na dozen of eggs and some salt.\nSalesperson Do you need oil, sir?\nImran Yes, I need a litre of oil.\nSalesperson Do you need anything else?\nTmran Umm..... let me check. (looks at the list).\nOh, yes, could I have some sugar and milk?\nSalesperson Sure. How much milk do you want?\nImran Just one litre, ...and one kg of sugar, please.\nSalesperson Ok, let me find all the items for you.\nImran Thanks. Please put them in a paper or jute bag.\nSalesperson Sure! We don't use plastic bags here.\nHere you go! I've put all the items here.\nImran Thank you. How much is the\nSalesperson The total comes to taka five\nhundred and thirty-five.\nImran Here is five hundred and fifty.\nSalesperson Thank you. Here is the change,\nfifteen taka. Have a good day!\nImran Thanks, Bye.",
+  "cleanText": "Listen to and read the dialogue below:\nSalesperson Hello, how can I help you?\nImran Do you have any beans?\nSalesperson Yes, we do. How much would you like?\nImran I would like half kg. And I'll also need one kg. of\ntomatoes, two kg.of potatoes, two cauliflowers,\na dozen of eggs and some salt.\nSalesperson Do you need oil, sir?\nImran Yes, I need a litre of oil.\nSalesperson Do you need anything else?\nTmran Umm..... let me check. (looks at the list).\nOh, yes, could I have some sugar and milk?\nSalesperson Sure. How much milk do you want?\nImran Just one litre, ...and one kg of sugar, please.\nSalesperson Ok, let me find all the items for you.\nImran Thanks. Please put them in a paper or jute bag.\nSalesperson Sure! We don't use plastic bags here.\nHere you go! I've put all the items here.\nImran Thank you. How much is the\nSalesperson The total comes to taka five\nhundred and thirty-five.\nImran Here is five hundred and fifty.\nSalesperson Thank you. Here is the change,\nfifteen taka. Have a good day!\nImran Thanks, Bye.",
+  "aiReadyText": "Salesperson Hello, how can I help you?\nImran Do you have any beans?\nSalesperson Yes, we do. How much would you like?\nImran I would like half kg. And I'll also need one kg. of\ntomatoes, two kg.of potatoes, two cauliflowers,\na dozen of eggs and some salt.\nSalesperson Do you need oil, sir?\nImran Yes, I need a litre of oil.\nSalesperson Do you need anything else?\nTmran Umm..... let me check. (looks at the list).\nOh, yes, could I have some sugar and milk?\nSalesperson Sure. How much milk do you want?\nImran Just one litre, ...and one kg of sugar, please.\nSalesperson Ok, let me find all the items for you.\nImran Thanks. Please put them in a paper or jute bag.\nSalesperson Sure! We don't use plastic bags here.\nHere you go! I've put all the items here.\nImran Thank you. How much is the\nSalesperson The total comes to taka five\nhundred and thirty-five.\nImran Here is five hundred and fifty.\nSalesperson Thank you. Here is the change,\nfifteen taka. Have a good day!\nImran Thanks, Bye."
+}

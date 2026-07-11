@@ -1,0 +1,521 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 75,
+  "image": "/ocr/books/class6-english/page-images/page-075.png",
+  "width": 1149,
+  "height": 1507,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Answer the following questions:",
+      "cleanText": "Answer the following questions:",
+      "bbox": {
+        "x": 172,
+        "y": 148,
+        "width": 418,
+        "height": 28
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-075-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "a. Where is Congo?",
+      "cleanText": "Where is Congo?",
+      "bbox": {
+        "x": 193,
+        "y": 210,
+        "width": 237,
+        "height": 26
+      },
+      "confidence": 93.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "b. Who called Ashar Santoso ‘Mr Global Citizen’? Why?",
+      "cleanText": "Who called Ashar Santoso ‘Mr Global Citizen’? Why?",
+      "bbox": {
+        "x": 192,
+        "y": 248,
+        "width": 670,
+        "height": 26
+      },
+      "confidence": 92.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "c. Would you like to be a global citizen?",
+      "cleanText": "Would you like to be a global citizen?",
+      "bbox": {
+        "x": 193,
+        "y": 285,
+        "width": 473,
+        "height": 26
+      },
+      "confidence": 92.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "If you got the chance to meet Ashar Santoso, what questions",
+      "cleanText": "If you got the chance to meet Ashar Santoso, what questions",
+      "bbox": {
+        "x": 169,
+        "y": 341,
+        "width": 872,
+        "height": 28
+      },
+      "confidence": 94.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "would you ask him? Make a list of five questions.",
+      "cleanText": "would you ask him? Make a list of five questions.",
+      "bbox": {
+        "x": 167,
+        "y": 374,
+        "width": 643,
+        "height": 36
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Listen to the audio and fill in the following gaps:",
+      "cleanText": "Listen to the audio and fill in the following gaps:",
+      "bbox": {
+        "x": 167,
+        "y": 442,
+        "width": 632,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-075-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "The term village’ was .......... used by Marshal McLuhan. In 1962",
+      "cleanText": "The term village’ was .......... used by Marshal McLuhan. In 1962",
+      "bbox": {
+        "x": 172,
+        "y": 503,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 92.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "and he wrote two books on media and communication. In his books",
+      "cleanText": "and he wrote two books on media and communication. In his books",
+      "bbox": {
+        "x": 173,
+        "y": 542,
+        "width": 858,
+        "height": 21
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "he said that telephone, TV and electronic media have brought all mankind",
+      "cleanText": "he said that telephone, TV and electronic media have brought all mankind",
+      "bbox": {
+        "x": 171,
+        "y": 582,
+        "width": 860,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "close to one another. For example, if we see the news of floods in a distant",
+      "cleanText": "close to one another. For example, if we see the news of floods in a distant",
+      "bbox": {
+        "x": 168,
+        "y": 621,
+        "width": 861,
+        "height": 27
+      },
+      "confidence": 95.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "country on TV, we feel that we are also .......... there. We can see what",
+      "cleanText": "country on TV, we feel that we are also .......... there. We can see what",
+      "bbox": {
+        "x": 170,
+        "y": 661,
+        "width": 862,
+        "height": 26
+      },
+      "confidence": 93.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "is happening at the same moment. We can share the same suffering with",
+      "cleanText": "is happening at the same moment. We can share the same suffering with",
+      "bbox": {
+        "x": 172,
+        "y": 701,
+        "width": 859,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "the people who are in the real at the moment. McLuhan",
+      "cleanText": "the people who are in the real at the moment. McLuhan",
+      "bbox": {
+        "x": 172,
+        "y": 741,
+        "width": 857,
+        "height": 26
+      },
+      "confidence": 94.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "believed that electronic ............. would make the world a global village.",
+      "cleanText": "believed that electronic ............. would make the world a global village.",
+      "bbox": {
+        "x": 169,
+        "y": 778,
+        "width": 859,
+        "height": 28
+      },
+      "confidence": 91.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "When he first said about the idea of global village, the Internet was not",
+      "cleanText": "When he first said about the idea of global village, the Internet was not",
+      "bbox": {
+        "x": 166,
+        "y": 820,
+        "width": 862,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "invented. But now, personal computers and the Internet have made McLuhan's",
+      "cleanText": "invented. But now, personal computers and the Internet have made McLuhan's",
+      "bbox": {
+        "x": 169,
+        "y": 859,
+        "width": 861,
+        "height": 25
+      },
+      "confidence": 93.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "idea more ........... than ever. Now the entire globe is ........... in a world-",
+      "cleanText": "idea more ........... than ever. Now the entire globe is ........... in a world-",
+      "bbox": {
+        "x": 166,
+        "y": 898,
+        "width": 862,
+        "height": 27
+      },
+      "confidence": 88.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "wide web called 'The Internet’.",
+      "cleanText": "wide web called 'The Internet’.",
+      "bbox": {
+        "x": 167,
+        "y": 932,
+        "width": 349,
+        "height": 20
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-019",
+      "lineNumber": 19
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-075-line-002",
+      "lineNumber": 2,
+      "text": "Where is Congo?",
+      "bbox": {
+        "x": 193,
+        "y": 210,
+        "width": 237,
+        "height": 26
+      },
+      "confidence": 93.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-003",
+      "lineNumber": 3,
+      "text": "Who called Ashar Santoso ‘Mr Global Citizen’? Why?",
+      "bbox": {
+        "x": 192,
+        "y": 248,
+        "width": 670,
+        "height": 26
+      },
+      "confidence": 92.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-004",
+      "lineNumber": 4,
+      "text": "Would you like to be a global citizen?",
+      "bbox": {
+        "x": 193,
+        "y": 285,
+        "width": 473,
+        "height": 26
+      },
+      "confidence": 92.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-005",
+      "lineNumber": 5,
+      "text": "If you got the chance to meet Ashar Santoso, what questions",
+      "bbox": {
+        "x": 169,
+        "y": 341,
+        "width": 872,
+        "height": 28
+      },
+      "confidence": 94.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-006",
+      "lineNumber": 6,
+      "text": "would you ask him? Make a list of five questions.",
+      "bbox": {
+        "x": 167,
+        "y": 374,
+        "width": 643,
+        "height": 36
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-008",
+      "lineNumber": 8,
+      "text": "The term village’ was .......... used by Marshal McLuhan. In 1962",
+      "bbox": {
+        "x": 172,
+        "y": 503,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 92.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-009",
+      "lineNumber": 9,
+      "text": "and he wrote two books on media and communication. In his books",
+      "bbox": {
+        "x": 173,
+        "y": 542,
+        "width": 858,
+        "height": 21
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-010",
+      "lineNumber": 10,
+      "text": "he said that telephone, TV and electronic media have brought all mankind",
+      "bbox": {
+        "x": 171,
+        "y": 582,
+        "width": 860,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-011",
+      "lineNumber": 11,
+      "text": "close to one another. For example, if we see the news of floods in a distant",
+      "bbox": {
+        "x": 168,
+        "y": 621,
+        "width": 861,
+        "height": 27
+      },
+      "confidence": 95.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-012",
+      "lineNumber": 12,
+      "text": "country on TV, we feel that we are also .......... there. We can see what",
+      "bbox": {
+        "x": 170,
+        "y": 661,
+        "width": 862,
+        "height": 26
+      },
+      "confidence": 93.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-013",
+      "lineNumber": 13,
+      "text": "is happening at the same moment. We can share the same suffering with",
+      "bbox": {
+        "x": 172,
+        "y": 701,
+        "width": 859,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-014",
+      "lineNumber": 14,
+      "text": "the people who are in the real at the moment. McLuhan",
+      "bbox": {
+        "x": 172,
+        "y": 741,
+        "width": 857,
+        "height": 26
+      },
+      "confidence": 94.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-015",
+      "lineNumber": 15,
+      "text": "believed that electronic ............. would make the world a global village.",
+      "bbox": {
+        "x": 169,
+        "y": 778,
+        "width": 859,
+        "height": 28
+      },
+      "confidence": 91.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-016",
+      "lineNumber": 16,
+      "text": "When he first said about the idea of global village, the Internet was not",
+      "bbox": {
+        "x": 166,
+        "y": 820,
+        "width": 862,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-017",
+      "lineNumber": 17,
+      "text": "invented. But now, personal computers and the Internet have made McLuhan's",
+      "bbox": {
+        "x": 169,
+        "y": 859,
+        "width": 861,
+        "height": 25
+      },
+      "confidence": 93.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-018",
+      "lineNumber": 18,
+      "text": "idea more ........... than ever. Now the entire globe is ........... in a world-",
+      "bbox": {
+        "x": 166,
+        "y": 898,
+        "width": 862,
+        "height": 27
+      },
+      "confidence": 88.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-019",
+      "lineNumber": 19,
+      "text": "wide web called 'The Internet’.",
+      "bbox": {
+        "x": 167,
+        "y": 932,
+        "width": 349,
+        "height": 20
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Answer the following questions:\na. Where is Congo?\nb. Who called Ashar Santoso ‘Mr Global Citizen’? Why?\nc. Would you like to be a global citizen?\nIf you got the chance to meet Ashar Santoso, what questions\nwould you ask him? Make a list of five questions.\nListen to the audio and fill in the following gaps:\nThe term village’ was .......... used by Marshal McLuhan. In 1962\nand he wrote two books on media and communication. In his books\nhe said that telephone, TV and electronic media have brought all mankind\nclose to one another. For example, if we see the news of floods in a distant\ncountry on TV, we feel that we are also .......... there. We can see what\nis happening at the same moment. We can share the same suffering with\nthe people who are in the real at the moment. McLuhan\nbelieved that electronic ............. would make the world a global village.\nWhen he first said about the idea of global village, the Internet was not\ninvented. But now, personal computers and the Internet have made McLuhan's\nidea more ........... than ever. Now the entire globe is ........... in a world-\nwide web called 'The Internet’.",
+  "cleanText": "Answer the following questions:\nWhere is Congo?\nWho called Ashar Santoso ‘Mr Global Citizen’? Why?\nWould you like to be a global citizen?\nIf you got the chance to meet Ashar Santoso, what questions\nwould you ask him? Make a list of five questions.\nListen to the audio and fill in the following gaps:\nThe term village’ was .......... used by Marshal McLuhan. In 1962\nand he wrote two books on media and communication. In his books\nhe said that telephone, TV and electronic media have brought all mankind\nclose to one another. For example, if we see the news of floods in a distant\ncountry on TV, we feel that we are also .......... there. We can see what\nis happening at the same moment. We can share the same suffering with\nthe people who are in the real at the moment. McLuhan\nbelieved that electronic ............. would make the world a global village.\nWhen he first said about the idea of global village, the Internet was not\ninvented. But now, personal computers and the Internet have made McLuhan's\nidea more ........... than ever. Now the entire globe is ........... in a world-\nwide web called 'The Internet’.",
+  "aiReadyText": "Where is Congo?\nWho called Ashar Santoso ‘Mr Global Citizen’? Why?\nWould you like to be a global citizen?\nIf you got the chance to meet Ashar Santoso, what questions\nwould you ask him? Make a list of five questions.\nThe term village’ was .......... used by Marshal McLuhan. In 1962\nand he wrote two books on media and communication. In his books\nhe said that telephone, TV and electronic media have brought all mankind\nclose to one another. For example, if we see the news of floods in a distant\ncountry on TV, we feel that we are also .......... there. We can see what\nis happening at the same moment. We can share the same suffering with\nthe people who are in the real at the moment. McLuhan\nbelieved that electronic ............. would make the world a global village.\nWhen he first said about the idea of global village, the Internet was not\ninvented. But now, personal computers and the Internet have made McLuhan's\nidea more ........... than ever. Now the entire globe is ........... in a world-\nwide web called 'The Internet’."
+}

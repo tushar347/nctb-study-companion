@@ -1,0 +1,842 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 84,
+  "image": "/ocr/books/class6-english/page-images/page-084.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 79",
+      "cleanText": "English For Today 79",
+      "bbox": {
+        "x": 124,
+        "y": 83,
+        "width": 905,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Mrs.Urmila Karim is going to buy some clothes for her son Imran.",
+      "cleanText": "Mrs.Urmila Karim is going to buy some clothes for her son Imran.",
+      "bbox": {
+        "x": 176,
+        "y": 157,
+        "width": 860,
+        "height": 26
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "They are now at a clothes shop. Read the conversation between Imran",
+      "cleanText": "They are now at a clothes shop. Read the conversation between Imran",
+      "bbox": {
+        "x": 178,
+        "y": 192,
+        "width": 857,
+        "height": 27
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "and the shop assistant.",
+      "cleanText": "and the shop assistant.",
+      "bbox": {
+        "x": 181,
+        "y": 226,
+        "width": 285,
+        "height": 28
+      },
+      "confidence": 93.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Imran Excuse me, where are the polo shirts?",
+      "cleanText": "Imran Excuse me, where are the polo shirts?",
+      "bbox": {
+        "x": 180,
+        "y": 272,
+        "width": 598,
+        "height": 25
+      },
+      "confidence": 93.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Assistant They're over there in the boy's section. Let me show you.",
+      "cleanText": "Assistant They're over there in the boy's section. Let me show you.",
+      "bbox": {
+        "x": 180,
+        "y": 312,
+        "width": 814,
+        "height": 35
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Imran Thanks. Do you have one without a chain?",
+      "cleanText": "Imran Thanks. Do you have one without a chain?",
+      "bbox": {
+        "x": 180,
+        "y": 360,
+        "width": 653,
+        "height": 25
+      },
+      "confidence": 94.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Assistant Yes, quite a few, sir. What size do you wear?",
+      "cleanText": "Assistant Yes, quite a few, sir. What size do you wear?",
+      "bbox": {
+        "x": 180,
+        "y": 400,
+        "width": 679,
+        "height": 34
+      },
+      "confidence": 92.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Imran May be a medium?",
+      "cleanText": "Imran May be a medium?",
+      "bbox": {
+        "x": 180,
+        "y": 448,
+        "width": 385,
+        "height": 25
+      },
+      "confidence": 91.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Assiatant Here you are! This one is in medium size.",
+      "cleanText": "Assiatant Here you are! This one is in medium size.",
+      "bbox": {
+        "x": 180,
+        "y": 488,
+        "width": 642,
+        "height": 35
+      },
+      "confidence": 95.7,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Imran A medium! But it's too big!",
+      "cleanText": "Imran A medium! But it's too big!",
+      "bbox": {
+        "x": 180,
+        "y": 536,
+        "width": 477,
+        "height": 25
+      },
+      "confidence": 93.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Assistant How about this? This is small.",
+      "cleanText": "Assistant How about this? This is small.",
+      "bbox": {
+        "x": 180,
+        "y": 576,
+        "width": 510,
+        "height": 35
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Imran Yeah, I think this size is OK. Do you have it in a different",
+      "cleanText": "Imran Yeah, I think this size is OK. Do you have it in a different",
+      "bbox": {
+        "x": 180,
+        "y": 624,
+        "width": 821,
+        "height": 26
+      },
+      "confidence": 93.53,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Assistant What colour would you like?",
+      "cleanText": "Assistant What colour would you like?",
+      "bbox": {
+        "x": 180,
+        "y": 708,
+        "width": 497,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Imran Blue, I guess.",
+      "cleanText": "Imran Blue, I guess.",
+      "bbox": {
+        "x": 180,
+        "y": 756,
+        "width": 319,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Assistant Just a moment please, I'll check. How about this one? It's a",
+      "cleanText": "Assistant Just a moment please, I'll check. How about this one? It's a",
+      "bbox": {
+        "x": 180,
+        "y": 796,
+        "width": 845,
+        "height": 34
+      },
+      "confidence": 95.31,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "nice sky blue.",
+      "cleanText": "nice sky blue.",
+      "bbox": {
+        "x": 348,
+        "y": 844,
+        "width": 156,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Imran Yes, this is a nice colour. Can I try this on?",
+      "cleanText": "Imran Yes, this is a nice colour. Can I try this on?",
+      "bbox": {
+        "x": 180,
+        "y": 884,
+        "width": 652,
+        "height": 34
+      },
+      "confidence": 94.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Assistant Sure! The trial room is at the back.",
+      "cleanText": "Assistant Sure! The trial room is at the back.",
+      "bbox": {
+        "x": 180,
+        "y": 928,
+        "width": 562,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Imran Thank you. It's just perfect! How much is it?",
+      "cleanText": "Imran Thank you. It's just perfect! How much is it?",
+      "bbox": {
+        "x": 180,
+        "y": 976,
+        "width": 675,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Assistant It's taka three hundred. This shirt is on sale this week.",
+      "cleanText": "Assistant It's taka three hundred. This shirt is on sale this week.",
+      "bbox": {
+        "x": 186,
+        "y": 1016,
+        "width": 777,
+        "height": 33
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Imran Mom, can I buy this one?",
+      "cleanText": "Imran Mom, can I buy this one?",
+      "bbox": {
+        "x": 180,
+        "y": 1064,
+        "width": 457,
+        "height": 26
+      },
+      "confidence": 92.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Mom Sure, dear! Shall we go and pay at the cash counter?",
+      "cleanText": "Mom Sure, dear! Shall we go and pay at the cash counter?",
+      "bbox": {
+        "x": 179,
+        "y": 1108,
+        "width": 764,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Salesman Yes, Ma'am. Would you follow me, please?",
+      "cleanText": "Salesman Yes, Ma'am. Would you follow me, please?",
+      "bbox": {
+        "x": 180,
+        "y": 1153,
+        "width": 661,
+        "height": 27
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Complete the sentences using the words from the conversation in B.",
+      "cleanText": "Complete the sentences using the words from the conversation in B.",
+      "bbox": {
+        "x": 179,
+        "y": 1205,
+        "width": 819,
+        "height": 25
+      },
+      "confidence": 95.27,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-084-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "1. Imran does not like polo shirts with",
+      "cleanText": "Imran does not like polo shirts with",
+      "bbox": {
+        "x": 183,
+        "y": 1244,
+        "width": 450,
+        "height": 26
+      },
+      "confidence": 89.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "2.0 Size shirt fits Imran perfectly.",
+      "cleanText": "2.0 Size shirt fits Imran perfectly.",
+      "bbox": {
+        "x": 180,
+        "y": 1284,
+        "width": 594,
+        "height": 26
+      },
+      "confidence": 83.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "3. The shirt that Imran chose finally is .. . in colour.",
+      "cleanText": "The shirt that Imran chose finally is .. . in colour.",
+      "bbox": {
+        "x": 180,
+        "y": 1326,
+        "width": 733,
+        "height": 25
+      },
+      "confidence": 86.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "4. He wants to... the polo shirt on before buying it.",
+      "cleanText": "He wants to... the polo shirt on before buying it.",
+      "bbox": {
+        "x": 179,
+        "y": 1365,
+        "width": 723,
+        "height": 26
+      },
+      "confidence": 88.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "The polo shirt that Imran likes is on this week.",
+      "cleanText": "The polo shirt that Imran likes is on this week.",
+      "bbox": {
+        "x": 228,
+        "y": 1407,
+        "width": 694,
+        "height": 26
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-084-line-030",
+      "lineNumber": 30
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-084-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 79",
+      "bbox": {
+        "x": 124,
+        "y": 83,
+        "width": 905,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-002",
+      "lineNumber": 2,
+      "text": "Mrs.Urmila Karim is going to buy some clothes for her son Imran.",
+      "bbox": {
+        "x": 176,
+        "y": 157,
+        "width": 860,
+        "height": 26
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-003",
+      "lineNumber": 3,
+      "text": "They are now at a clothes shop. Read the conversation between Imran",
+      "bbox": {
+        "x": 178,
+        "y": 192,
+        "width": 857,
+        "height": 27
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-004",
+      "lineNumber": 4,
+      "text": "and the shop assistant.",
+      "bbox": {
+        "x": 181,
+        "y": 226,
+        "width": 285,
+        "height": 28
+      },
+      "confidence": 93.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-005",
+      "lineNumber": 5,
+      "text": "Imran Excuse me, where are the polo shirts?",
+      "bbox": {
+        "x": 180,
+        "y": 272,
+        "width": 598,
+        "height": 25
+      },
+      "confidence": 93.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-006",
+      "lineNumber": 6,
+      "text": "Assistant They're over there in the boy's section. Let me show you.",
+      "bbox": {
+        "x": 180,
+        "y": 312,
+        "width": 814,
+        "height": 35
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-007",
+      "lineNumber": 7,
+      "text": "Imran Thanks. Do you have one without a chain?",
+      "bbox": {
+        "x": 180,
+        "y": 360,
+        "width": 653,
+        "height": 25
+      },
+      "confidence": 94.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-008",
+      "lineNumber": 8,
+      "text": "Assistant Yes, quite a few, sir. What size do you wear?",
+      "bbox": {
+        "x": 180,
+        "y": 400,
+        "width": 679,
+        "height": 34
+      },
+      "confidence": 92.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-009",
+      "lineNumber": 9,
+      "text": "Imran May be a medium?",
+      "bbox": {
+        "x": 180,
+        "y": 448,
+        "width": 385,
+        "height": 25
+      },
+      "confidence": 91.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-010",
+      "lineNumber": 10,
+      "text": "Assiatant Here you are! This one is in medium size.",
+      "bbox": {
+        "x": 180,
+        "y": 488,
+        "width": 642,
+        "height": 35
+      },
+      "confidence": 95.7,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-011",
+      "lineNumber": 11,
+      "text": "Imran A medium! But it's too big!",
+      "bbox": {
+        "x": 180,
+        "y": 536,
+        "width": 477,
+        "height": 25
+      },
+      "confidence": 93.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-012",
+      "lineNumber": 12,
+      "text": "Assistant How about this? This is small.",
+      "bbox": {
+        "x": 180,
+        "y": 576,
+        "width": 510,
+        "height": 35
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-013",
+      "lineNumber": 13,
+      "text": "Imran Yeah, I think this size is OK. Do you have it in a different",
+      "bbox": {
+        "x": 180,
+        "y": 624,
+        "width": 821,
+        "height": 26
+      },
+      "confidence": 93.53,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-014",
+      "lineNumber": 14,
+      "text": "Assistant What colour would you like?",
+      "bbox": {
+        "x": 180,
+        "y": 708,
+        "width": 497,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-015",
+      "lineNumber": 15,
+      "text": "Imran Blue, I guess.",
+      "bbox": {
+        "x": 180,
+        "y": 756,
+        "width": 319,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-016",
+      "lineNumber": 16,
+      "text": "Assistant Just a moment please, I'll check. How about this one? It's a",
+      "bbox": {
+        "x": 180,
+        "y": 796,
+        "width": 845,
+        "height": 34
+      },
+      "confidence": 95.31,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-017",
+      "lineNumber": 17,
+      "text": "nice sky blue.",
+      "bbox": {
+        "x": 348,
+        "y": 844,
+        "width": 156,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-018",
+      "lineNumber": 18,
+      "text": "Imran Yes, this is a nice colour. Can I try this on?",
+      "bbox": {
+        "x": 180,
+        "y": 884,
+        "width": 652,
+        "height": 34
+      },
+      "confidence": 94.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-019",
+      "lineNumber": 19,
+      "text": "Assistant Sure! The trial room is at the back.",
+      "bbox": {
+        "x": 180,
+        "y": 928,
+        "width": 562,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-020",
+      "lineNumber": 20,
+      "text": "Imran Thank you. It's just perfect! How much is it?",
+      "bbox": {
+        "x": 180,
+        "y": 976,
+        "width": 675,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-021",
+      "lineNumber": 21,
+      "text": "Assistant It's taka three hundred. This shirt is on sale this week.",
+      "bbox": {
+        "x": 186,
+        "y": 1016,
+        "width": 777,
+        "height": 33
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-022",
+      "lineNumber": 22,
+      "text": "Imran Mom, can I buy this one?",
+      "bbox": {
+        "x": 180,
+        "y": 1064,
+        "width": 457,
+        "height": 26
+      },
+      "confidence": 92.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-023",
+      "lineNumber": 23,
+      "text": "Mom Sure, dear! Shall we go and pay at the cash counter?",
+      "bbox": {
+        "x": 179,
+        "y": 1108,
+        "width": 764,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-024",
+      "lineNumber": 24,
+      "text": "Salesman Yes, Ma'am. Would you follow me, please?",
+      "bbox": {
+        "x": 180,
+        "y": 1153,
+        "width": 661,
+        "height": 27
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-026",
+      "lineNumber": 26,
+      "text": "Imran does not like polo shirts with",
+      "bbox": {
+        "x": 183,
+        "y": 1244,
+        "width": 450,
+        "height": 26
+      },
+      "confidence": 89.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-027",
+      "lineNumber": 27,
+      "text": "2.0 Size shirt fits Imran perfectly.",
+      "bbox": {
+        "x": 180,
+        "y": 1284,
+        "width": 594,
+        "height": 26
+      },
+      "confidence": 83.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-028",
+      "lineNumber": 28,
+      "text": "The shirt that Imran chose finally is .. . in colour.",
+      "bbox": {
+        "x": 180,
+        "y": 1326,
+        "width": 733,
+        "height": 25
+      },
+      "confidence": 86.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-029",
+      "lineNumber": 29,
+      "text": "He wants to... the polo shirt on before buying it.",
+      "bbox": {
+        "x": 179,
+        "y": 1365,
+        "width": 723,
+        "height": 26
+      },
+      "confidence": 88.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-084-line-030",
+      "lineNumber": 30,
+      "text": "The polo shirt that Imran likes is on this week.",
+      "bbox": {
+        "x": 228,
+        "y": 1407,
+        "width": 694,
+        "height": 26
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 79\nMrs.Urmila Karim is going to buy some clothes for her son Imran.\nThey are now at a clothes shop. Read the conversation between Imran\nand the shop assistant.\nImran Excuse me, where are the polo shirts?\nAssistant They're over there in the boy's section. Let me show you.\nImran Thanks. Do you have one without a chain?\nAssistant Yes, quite a few, sir. What size do you wear?\nImran May be a medium?\nAssiatant Here you are! This one is in medium size.\nImran A medium! But it's too big!\nAssistant How about this? This is small.\nImran Yeah, I think this size is OK. Do you have it in a different\nAssistant What colour would you like?\nImran Blue, I guess.\nAssistant Just a moment please, I'll check. How about this one? It's a\nnice sky blue.\nImran Yes, this is a nice colour. Can I try this on?\nAssistant Sure! The trial room is at the back.\nImran Thank you. It's just perfect! How much is it?\nAssistant It's taka three hundred. This shirt is on sale this week.\nImran Mom, can I buy this one?\nMom Sure, dear! Shall we go and pay at the cash counter?\nSalesman Yes, Ma'am. Would you follow me, please?\nComplete the sentences using the words from the conversation in B.\n1. Imran does not like polo shirts with\n2.0 Size shirt fits Imran perfectly.\n3. The shirt that Imran chose finally is .. . in colour.\n4. He wants to... the polo shirt on before buying it.\nThe polo shirt that Imran likes is on this week.",
+  "cleanText": "English For Today 79\nMrs.Urmila Karim is going to buy some clothes for her son Imran.\nThey are now at a clothes shop. Read the conversation between Imran\nand the shop assistant.\nImran Excuse me, where are the polo shirts?\nAssistant They're over there in the boy's section. Let me show you.\nImran Thanks. Do you have one without a chain?\nAssistant Yes, quite a few, sir. What size do you wear?\nImran May be a medium?\nAssiatant Here you are! This one is in medium size.\nImran A medium! But it's too big!\nAssistant How about this? This is small.\nImran Yeah, I think this size is OK. Do you have it in a different\nAssistant What colour would you like?\nImran Blue, I guess.\nAssistant Just a moment please, I'll check. How about this one? It's a\nnice sky blue.\nImran Yes, this is a nice colour. Can I try this on?\nAssistant Sure! The trial room is at the back.\nImran Thank you. It's just perfect! How much is it?\nAssistant It's taka three hundred. This shirt is on sale this week.\nImran Mom, can I buy this one?\nMom Sure, dear! Shall we go and pay at the cash counter?\nSalesman Yes, Ma'am. Would you follow me, please?\nComplete the sentences using the words from the conversation in B.\nImran does not like polo shirts with\n2.0 Size shirt fits Imran perfectly.\nThe shirt that Imran chose finally is .. . in colour.\nHe wants to... the polo shirt on before buying it.\nThe polo shirt that Imran likes is on this week.",
+  "aiReadyText": "English For Today 79\nMrs.Urmila Karim is going to buy some clothes for her son Imran.\nThey are now at a clothes shop. Read the conversation between Imran\nand the shop assistant.\nImran Excuse me, where are the polo shirts?\nAssistant They're over there in the boy's section. Let me show you.\nImran Thanks. Do you have one without a chain?\nAssistant Yes, quite a few, sir. What size do you wear?\nImran May be a medium?\nAssiatant Here you are! This one is in medium size.\nImran A medium! But it's too big!\nAssistant How about this? This is small.\nImran Yeah, I think this size is OK. Do you have it in a different\nAssistant What colour would you like?\nImran Blue, I guess.\nAssistant Just a moment please, I'll check. How about this one? It's a\nnice sky blue.\nImran Yes, this is a nice colour. Can I try this on?\nAssistant Sure! The trial room is at the back.\nImran Thank you. It's just perfect! How much is it?\nAssistant It's taka three hundred. This shirt is on sale this week.\nImran Mom, can I buy this one?\nMom Sure, dear! Shall we go and pay at the cash counter?\nSalesman Yes, Ma'am. Would you follow me, please?\nImran does not like polo shirts with\n2.0 Size shirt fits Imran perfectly.\nThe shirt that Imran chose finally is .. . in colour.\nHe wants to... the polo shirt on before buying it.\nThe polo shirt that Imran likes is on this week."
+}

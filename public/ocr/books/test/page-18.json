@@ -1,0 +1,786 @@
+[
+  {
+    "text": "Lesson",
+    "x": 322,
+    "y": 259,
+    "width": 131,
+    "height": 31,
+    "confidence": 95
+  },
+  {
+    "text": "5",
+    "x": 500,
+    "y": 259,
+    "width": 20,
+    "height": 31,
+    "confidence": 77
+  },
+  {
+    "text": "Thanks",
+    "x": 606,
+    "y": 254,
+    "width": 229,
+    "height": 42,
+    "confidence": 77
+  },
+  {
+    "text": "for",
+    "x": 851,
+    "y": 254,
+    "width": 92,
+    "height": 42,
+    "confidence": 96
+  },
+  {
+    "text": "Your",
+    "x": 955,
+    "y": 254,
+    "width": 147,
+    "height": 42,
+    "confidence": 96
+  },
+  {
+    "text": "Work",
+    "x": 1117,
+    "y": 255,
+    "width": 168,
+    "height": 41,
+    "confidence": 95
+  },
+  {
+    "text": "After",
+    "x": 245,
+    "y": 353,
+    "width": 82,
+    "height": 26,
+    "confidence": 96
+  },
+  {
+    "text": "completing",
+    "x": 337,
+    "y": 353,
+    "width": 168,
+    "height": 33,
+    "confidence": 96
+  },
+  {
+    "text": "the",
+    "x": 516,
+    "y": 354,
+    "width": 46,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "lesson",
+    "x": 572,
+    "y": 354,
+    "width": 91,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "students",
+    "x": 674,
+    "y": 354,
+    "width": 126,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "will",
+    "x": 811,
+    "y": 353,
+    "width": 54,
+    "height": 26,
+    "confidence": 96
+  },
+  {
+    "text": "be",
+    "x": 876,
+    "y": 354,
+    "width": 34,
+    "height": 25,
+    "confidence": 97
+  },
+  {
+    "text": "able",
+    "x": 921,
+    "y": 354,
+    "width": 62,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "to",
+    "x": 994,
+    "y": 356,
+    "width": 28,
+    "height": 23,
+    "confidence": 96
+  },
+  {
+    "text": "e",
+    "x": 274,
+    "y": 403,
+    "width": 13,
+    "height": 13,
+    "confidence": 85
+  },
+  {
+    "text": "talk",
+    "x": 298,
+    "y": 396,
+    "width": 53,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "about",
+    "x": 362,
+    "y": 396,
+    "width": 78,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "people,",
+    "x": 450,
+    "y": 396,
+    "width": 103,
+    "height": 32,
+    "confidence": 96
+  },
+  {
+    "text": "places",
+    "x": 564,
+    "y": 396,
+    "width": 88,
+    "height": 32,
+    "confidence": 96
+  },
+  {
+    "text": "and",
+    "x": 664,
+    "y": 396,
+    "width": 50,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "familiar",
+    "x": 724,
+    "y": 396,
+    "width": 113,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "objects",
+    "x": 847,
+    "y": 396,
+    "width": 100,
+    "height": 32,
+    "confidence": 97
+  },
+  {
+    "text": "in",
+    "x": 958,
+    "y": 396,
+    "width": 25,
+    "height": 24,
+    "confidence": 96
+  },
+  {
+    "text": "short",
+    "x": 996,
+    "y": 396,
+    "width": 70,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "and",
+    "x": 1076,
+    "y": 396,
+    "width": 51,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "simple",
+    "x": 1138,
+    "y": 396,
+    "width": 93,
+    "height": 32,
+    "confidence": 96
+  },
+  {
+    "text": "sentences",
+    "x": 1243,
+    "y": 400,
+    "width": 135,
+    "height": 21,
+    "confidence": 96
+  },
+  {
+    "text": "e",
+    "x": 274,
+    "y": 445,
+    "width": 13,
+    "height": 13,
+    "confidence": 78
+  },
+  {
+    "text": "ask",
+    "x": 299,
+    "y": 438,
+    "width": 46,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "and",
+    "x": 356,
+    "y": 438,
+    "width": 50,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "answer",
+    "x": 417,
+    "y": 446,
+    "width": 101,
+    "height": 17,
+    "confidence": 95
+  },
+  {
+    "text": "questions",
+    "x": 527,
+    "y": 438,
+    "width": 134,
+    "height": 32,
+    "confidence": 96
+  },
+  {
+    "text": "e",
+    "x": 274,
+    "y": 487,
+    "width": 13,
+    "height": 13,
+    "confidence": 79
+  },
+  {
+    "text": "participate",
+    "x": 298,
+    "y": 480,
+    "width": 151,
+    "height": 32,
+    "confidence": 96
+  },
+  {
+    "text": "in",
+    "x": 460,
+    "y": 480,
+    "width": 25,
+    "height": 24,
+    "confidence": 96
+  },
+  {
+    "text": "short",
+    "x": 499,
+    "y": 480,
+    "width": 70,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "dialogues",
+    "x": 583,
+    "y": 480,
+    "width": 136,
+    "height": 32,
+    "confidence": 96
+  },
+  {
+    "text": "and",
+    "x": 731,
+    "y": 480,
+    "width": 50,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "conversations",
+    "x": 791,
+    "y": 480,
+    "width": 194,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "on",
+    "x": 996,
+    "y": 488,
+    "width": 34,
+    "height": 17,
+    "confidence": 96
+  },
+  {
+    "text": "familiar",
+    "x": 1041,
+    "y": 480,
+    "width": 116,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "topics",
+    "x": 1166,
+    "y": 480,
+    "width": 84,
+    "height": 32,
+    "confidence": 96
+  },
+  {
+    "text": "e",
+    "x": 274,
+    "y": 529,
+    "width": 13,
+    "height": 13,
+    "confidence": 82
+  },
+  {
+    "text": "read",
+    "x": 298,
+    "y": 522,
+    "width": 61,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "and",
+    "x": 370,
+    "y": 522,
+    "width": 50,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "understand",
+    "x": 430,
+    "y": 522,
+    "width": 157,
+    "height": 25,
+    "confidence": 95
+  },
+  {
+    "text": "texts",
+    "x": 597,
+    "y": 526,
+    "width": 65,
+    "height": 21,
+    "confidence": 96
+  },
+  {
+    "text": "e",
+    "x": 274,
+    "y": 571,
+    "width": 13,
+    "height": 13,
+    "confidence": 77
+  },
+  {
+    "text": "write",
+    "x": 298,
+    "y": 564,
+    "width": 73,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "short",
+    "x": 382,
+    "y": 564,
+    "width": 70,
+    "height": 25,
+    "confidence": 96
+  },
+  {
+    "text": "paragraphs",
+    "x": 462,
+    "y": 564,
+    "width": 156,
+    "height": 32,
+    "confidence": 96
+  },
+  {
+    "text": "A.",
+    "x": 174,
+    "y": 608,
+    "width": 39,
+    "height": 29,
+    "confidence": 95
+  },
+  {
+    "text": "Look",
+    "x": 245,
+    "y": 609,
+    "width": 85,
+    "height": 28,
+    "confidence": 95
+  },
+  {
+    "text": "and",
+    "x": 344,
+    "y": 609,
+    "width": 57,
+    "height": 28,
+    "confidence": 95
+  },
+  {
+    "text": "say.",
+    "x": 414,
+    "y": 617,
+    "width": 56,
+    "height": 28,
+    "confidence": 96
+  },
+  {
+    "text": "Use",
+    "x": 483,
+    "y": 609,
+    "width": 56,
+    "height": 28,
+    "confidence": 96
+  },
+  {
+    "text": "suitable",
+    "x": 552,
+    "y": 608,
+    "width": 122,
+    "height": 29,
+    "confidence": 96
+  },
+  {
+    "text": "words",
+    "x": 687,
+    "y": 609,
+    "width": 94,
+    "height": 28,
+    "confidence": 96
+  },
+  {
+    "text": "from",
+    "x": 794,
+    "y": 608,
+    "width": 75,
+    "height": 29,
+    "confidence": 94
+  },
+  {
+    "text": "the",
+    "x": 882,
+    "y": 609,
+    "width": 48,
+    "height": 28,
+    "confidence": 96
+  },
+  {
+    "text": "box",
+    "x": 943,
+    "y": 609,
+    "width": 56,
+    "height": 28,
+    "confidence": 97
+  },
+  {
+    "text": "to",
+    "x": 1012,
+    "y": 611,
+    "width": 29,
+    "height": 26,
+    "confidence": 97
+  },
+  {
+    "text": "describe",
+    "x": 1054,
+    "y": 608,
+    "width": 129,
+    "height": 29,
+    "confidence": 96
+  },
+  {
+    "text": "the",
+    "x": 1196,
+    "y": 609,
+    "width": 48,
+    "height": 28,
+    "confidence": 96
+  },
+  {
+    "text": "occupation",
+    "x": 1256,
+    "y": 608,
+    "width": 171,
+    "height": 37,
+    "confidence": 96
+  },
+  {
+    "text": "of",
+    "x": 248,
+    "y": 665,
+    "width": 34,
+    "height": 29,
+    "confidence": 96
+  },
+  {
+    "text": "each",
+    "x": 290,
+    "y": 666,
+    "width": 74,
+    "height": 28,
+    "confidence": 96
+  },
+  {
+    "text": "person",
+    "x": 375,
+    "y": 674,
+    "width": 111,
+    "height": 28,
+    "confidence": 96
+  },
+  {
+    "text": "below:",
+    "x": 497,
+    "y": 666,
+    "width": 108,
+    "height": 28,
+    "confidence": 96
+  },
+  {
+    "text": "CXS",
+    "x": 332,
+    "y": 922,
+    "width": 96,
+    "height": 43,
+    "confidence": 59
+  },
+  {
+    "text": "ry",
+    "x": 330,
+    "y": 1057,
+    "width": 24,
+    "height": 43,
+    "confidence": 60
+  },
+  {
+    "text": "EOF",
+    "x": 572,
+    "y": 1052,
+    "width": 74,
+    "height": 60,
+    "confidence": 20
+  },
+  {
+    "text": "\\",
+    "x": 685,
+    "y": 1070,
+    "width": 10,
+    "height": 17,
+    "confidence": 0
+  },
+  {
+    "text": "%",
+    "x": 899,
+    "y": 1035,
+    "width": 65,
+    "height": 62,
+    "confidence": 40
+  },
+  {
+    "text": "\\)",
+    "x": 1270,
+    "y": 1049,
+    "width": 27,
+    "height": 67,
+    "confidence": 17
+  },
+  {
+    "text": "li",
+    "x": 297,
+    "y": 1074,
+    "width": 52,
+    "height": 111,
+    "confidence": 21
+  },
+  {
+    "text": "We)",
+    "x": 569,
+    "y": 1084,
+    "width": 132,
+    "height": 82,
+    "confidence": 16
+  },
+  {
+    "text": "Na",
+    "x": 735,
+    "y": 1099,
+    "width": 234,
+    "height": 65,
+    "confidence": 25
+  },
+  {
+    "text": "eal",
+    "x": 1187,
+    "y": 1099,
+    "width": 174,
+    "height": 73,
+    "confidence": 28
+  },
+  {
+    "text": "{>",
+    "x": 281,
+    "y": 1142,
+    "width": 37,
+    "height": 48,
+    "confidence": 90
+  },
+  {
+    "text": "|",
+    "x": 459,
+    "y": 1162,
+    "width": 2,
+    "height": 16,
+    "confidence": 73
+  },
+  {
+    "text": "y",
+    "x": 570,
+    "y": 1163,
+    "width": 16,
+    "height": 36,
+    "confidence": 18
+  },
+  {
+    "text": "Frat",
+    "x": 668,
+    "y": 1148,
+    "width": 76,
+    "height": 32,
+    "confidence": 49
+  },
+  {
+    "text": "YR",
+    "x": 776,
+    "y": 1141,
+    "width": 42,
+    "height": 56,
+    "confidence": 62
+  },
+  {
+    "text": "Dee",
+    "x": 880,
+    "y": 1145,
+    "width": 67,
+    "height": 31,
+    "confidence": 40
+  },
+  {
+    "text": ":",
+    "x": 1321,
+    "y": 1120,
+    "width": 33,
+    "height": 90,
+    "confidence": 0
+  },
+  {
+    "text": ",",
+    "x": 199,
+    "y": 1239,
+    "width": 44,
+    "height": 53,
+    "confidence": 34
+  },
+  {
+    "text": ">",
+    "x": 634,
+    "y": 1193,
+    "width": 77,
+    "height": 98,
+    "confidence": 51
+  },
+  {
+    "text": "eee",
+    "x": 886,
+    "y": 1194,
+    "width": 473,
+    "height": 101,
+    "confidence": 25
+  },
+  {
+    "text": "1",
+    "x": 307,
+    "y": 1363,
+    "width": 11,
+    "height": 27,
+    "confidence": 90
+  },
+  {
+    "text": "2",
+    "x": 808,
+    "y": 1363,
+    "width": 18,
+    "height": 27,
+    "confidence": 97
+  },
+  {
+    "text": "3",
+    "x": 1279,
+    "y": 1363,
+    "width": 16,
+    "height": 27,
+    "confidence": 96
+  },
+  {
+    "text": "4",
+    "x": 304,
+    "y": 1853,
+    "width": 20,
+    "height": 26,
+    "confidence": 96
+  },
+  {
+    "text": "5",
+    "x": 826,
+    "y": 1854,
+    "width": 17,
+    "height": 28,
+    "confidence": 96
+  },
+  {
+    "text": "6",
+    "x": 1269,
+    "y": 1854,
+    "width": 18,
+    "height": 28,
+    "confidence": 96
+  },
+  {
+    "text": "a",
+    "x": 96,
+    "y": 1898,
+    "width": 23,
+    "height": 31,
+    "confidence": 70
+  },
+  {
+    "text": "a",
+    "x": 96,
+    "y": 1931,
+    "width": 23,
+    "height": 31,
+    "confidence": 65
+  }
+]

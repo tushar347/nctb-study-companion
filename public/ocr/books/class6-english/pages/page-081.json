@@ -1,0 +1,913 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 81,
+  "image": "/ocr/books/class6-english/page-images/page-081.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Mr. Farhad Well, the Concert for Bangladesh was held on the Ist August,",
+      "cleanText": "Mr. Farhad Well, the Concert for Bangladesh was held on the Ist August,",
+      "bbox": {
+        "x": 200,
+        "y": 158,
+        "width": 838,
+        "height": 27
+      },
+      "confidence": 89.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "1971 at the Madison Square Garden, New York. George",
+      "cleanText": "1971 at the Madison Square Garden, New York. George",
+      "bbox": {
+        "x": 369,
+        "y": 197,
+        "width": 667,
+        "height": 26
+      },
+      "confidence": 95.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Harrison and some other famous musicians performed in",
+      "cleanText": "Harrison and some other famous musicians performed in",
+      "bbox": {
+        "x": 367,
+        "y": 232,
+        "width": 667,
+        "height": 26
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "that live concert in front of an audience of about forty thousand",
+      "cleanText": "that live concert in front of an audience of about forty thousand",
+      "bbox": {
+        "x": 368,
+        "y": 267,
+        "width": 669,
+        "height": 26
+      },
+      "confidence": 96.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "people. It was organised to make the world aware of the",
+      "cleanText": "people. It was organised to make the world aware of the",
+      "bbox": {
+        "x": 369,
+        "y": 301,
+        "width": 666,
+        "height": 26
+      },
+      "confidence": 95.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "sufferings of Bangladesh during our liberation war.",
+      "cleanText": "sufferings of Bangladesh during our liberation war.",
+      "bbox": {
+        "x": 368,
+        "y": 336,
+        "width": 590,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Fahmida Wasn’t that great!",
+      "cleanText": "Fahmida Wasn’t that great!",
+      "bbox": {
+        "x": 205,
+        "y": 374,
+        "width": 357,
+        "height": 34
+      },
+      "confidence": 93.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Mr, Farhad Yes, it was great! The concert won huge support for the",
+      "cleanText": "Mr, Farhad Yes, it was great! The concert won huge support for the",
+      "bbox": {
+        "x": 204,
+        "y": 415,
+        "width": 788,
+        "height": 26
+      },
+      "confidence": 89.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "millions of war victims of Bangladesh. At the same time it",
+      "cleanText": "millions of war victims of Bangladesh. At the same time it",
+      "bbox": {
+        "x": 366,
+        "y": 454,
+        "width": 668,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "raised millions of dollars for UNICEF relief fund.",
+      "cleanText": "raised millions of dollars for UNICEF relief fund.",
+      "bbox": {
+        "x": 367,
+        "y": 494,
+        "width": 567,
+        "height": 20
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Fahmida I'm really glad that you told me all this, Father. I think we",
+      "cleanText": "Fahmida I'm really glad that you told me all this, Father. I think we",
+      "bbox": {
+        "x": 202,
+        "y": 534,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 94.79,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "should be grateful to George Harrison and his friends who",
+      "cleanText": "should be grateful to George Harrison and his friends who",
+      "bbox": {
+        "x": 367,
+        "y": 573,
+        "width": 664,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "organised the Concert for Bangladesh.",
+      "cleanText": "organised the Concert for Bangladesh.",
+      "bbox": {
+        "x": 367,
+        "y": 613,
+        "width": 435,
+        "height": 26
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Mr. Farhad = You are right, dear! G. Harrison was posthumously honoured",
+      "cleanText": "Mr. Farhad = You are right, dear! G. Harrison was posthumously honoured",
+      "bbox": {
+        "x": 202,
+        "y": 648,
+        "width": 828,
+        "height": 34
+      },
+      "confidence": 83.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "by the people of Bangladesh in 2012",
+      "cleanText": "by the people of Bangladesh in 2012",
+      "bbox": {
+        "x": 366,
+        "y": 691,
+        "width": 417,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "In pairs, discuss if the following statements are True or False. If",
+      "cleanText": "In pairs, discuss if the following statements are True or False. If",
+      "bbox": {
+        "x": 211,
+        "y": 730,
+        "width": 828,
+        "height": 28
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "false, correct the statement.",
+      "cleanText": "false, correct the statement.",
+      "bbox": {
+        "x": 212,
+        "y": 771,
+        "width": 344,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "a. George Harrison was from the United States.",
+      "cleanText": "George Harrison was from the United States.",
+      "bbox": {
+        "x": 204,
+        "y": 803,
+        "width": 546,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "b. In 1971, George Harrison visited Bangladesh to take part in the liberation",
+      "cleanText": "In 1971, George Harrison visited Bangladesh to take part in the liberation",
+      "bbox": {
+        "x": 203,
+        "y": 843,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "c. A huge audience attended the Concert for Bangladesh.",
+      "cleanText": "A huge audience attended the Concert for Bangladesh.",
+      "bbox": {
+        "x": 204,
+        "y": 909,
+        "width": 655,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "d. George Harrison was the only well-known musician to take part in the",
+      "cleanText": "George Harrison was the only well-known musician to take part in the",
+      "bbox": {
+        "x": 204,
+        "y": 949,
+        "width": 830,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Concert for Bangladesh.",
+      "cleanText": "Concert for Bangladesh.",
+      "bbox": {
+        "x": 240,
+        "y": 982,
+        "width": 276,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "e. The people of the world became aware of the crisis in Bangladesh",
+      "cleanText": "e. The people of the world became aware of the crisis in Bangladesh",
+      "bbox": {
+        "x": 204,
+        "y": 1017,
+        "width": 833,
+        "height": 26
+      },
+      "confidence": 93.15,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "following the Concert for Bangladesh.",
+      "cleanText": "following the Concert for Bangladesh.",
+      "bbox": {
+        "x": 244,
+        "y": 1055,
+        "width": 436,
+        "height": 27
+      },
+      "confidence": 96.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Read the lyrics of the song aloud. Here are some parts of the song",
+      "cleanText": "Read the lyrics of the song aloud. Here are some parts of the song",
+      "bbox": {
+        "x": 203,
+        "y": 1094,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "‘Bangladesh’.",
+      "cleanText": "‘Bangladesh’.",
+      "bbox": {
+        "x": 206,
+        "y": 1129,
+        "width": 161,
+        "height": 26
+      },
+      "confidence": 76.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-081-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Bangladesh",
+      "cleanText": "Bangladesh",
+      "bbox": {
+        "x": 205,
+        "y": 1176,
+        "width": 138,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-081-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "My friend came to me, with sadness in his eyes",
+      "cleanText": "My friend came to me, with sadness in his eyes",
+      "bbox": {
+        "x": 204,
+        "y": 1212,
+        "width": 539,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "He told me that he wanted help",
+      "cleanText": "He told me that he wanted help",
+      "bbox": {
+        "x": 204,
+        "y": 1252,
+        "width": 355,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "Before his country dies",
+      "cleanText": "Before his country dies",
+      "bbox": {
+        "x": 205,
+        "y": 1292,
+        "width": 263,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "Although I couldn't feel the pain, I knew I had to try",
+      "cleanText": "Although I couldn't feel the pain, I knew I had to try",
+      "bbox": {
+        "x": 204,
+        "y": 1338,
+        "width": 598,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "Now, I'm asking all of you",
+      "cleanText": "Now, I'm asking all of you",
+      "bbox": {
+        "x": 203,
+        "y": 1373,
+        "width": 301,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "To help us save some lives",
+      "cleanText": "To help us save some lives",
+      "bbox": {
+        "x": 204,
+        "y": 1409,
+        "width": 301,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-033",
+      "lineNumber": 33
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-081-line-001",
+      "lineNumber": 1,
+      "text": "Mr. Farhad Well, the Concert for Bangladesh was held on the Ist August,",
+      "bbox": {
+        "x": 200,
+        "y": 158,
+        "width": 838,
+        "height": 27
+      },
+      "confidence": 89.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-002",
+      "lineNumber": 2,
+      "text": "1971 at the Madison Square Garden, New York. George",
+      "bbox": {
+        "x": 369,
+        "y": 197,
+        "width": 667,
+        "height": 26
+      },
+      "confidence": 95.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-003",
+      "lineNumber": 3,
+      "text": "Harrison and some other famous musicians performed in",
+      "bbox": {
+        "x": 367,
+        "y": 232,
+        "width": 667,
+        "height": 26
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-004",
+      "lineNumber": 4,
+      "text": "that live concert in front of an audience of about forty thousand",
+      "bbox": {
+        "x": 368,
+        "y": 267,
+        "width": 669,
+        "height": 26
+      },
+      "confidence": 96.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-005",
+      "lineNumber": 5,
+      "text": "people. It was organised to make the world aware of the",
+      "bbox": {
+        "x": 369,
+        "y": 301,
+        "width": 666,
+        "height": 26
+      },
+      "confidence": 95.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-006",
+      "lineNumber": 6,
+      "text": "sufferings of Bangladesh during our liberation war.",
+      "bbox": {
+        "x": 368,
+        "y": 336,
+        "width": 590,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-007",
+      "lineNumber": 7,
+      "text": "Fahmida Wasn’t that great!",
+      "bbox": {
+        "x": 205,
+        "y": 374,
+        "width": 357,
+        "height": 34
+      },
+      "confidence": 93.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-008",
+      "lineNumber": 8,
+      "text": "Mr, Farhad Yes, it was great! The concert won huge support for the",
+      "bbox": {
+        "x": 204,
+        "y": 415,
+        "width": 788,
+        "height": 26
+      },
+      "confidence": 89.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-009",
+      "lineNumber": 9,
+      "text": "millions of war victims of Bangladesh. At the same time it",
+      "bbox": {
+        "x": 366,
+        "y": 454,
+        "width": 668,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-010",
+      "lineNumber": 10,
+      "text": "raised millions of dollars for UNICEF relief fund.",
+      "bbox": {
+        "x": 367,
+        "y": 494,
+        "width": 567,
+        "height": 20
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-011",
+      "lineNumber": 11,
+      "text": "Fahmida I'm really glad that you told me all this, Father. I think we",
+      "bbox": {
+        "x": 202,
+        "y": 534,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 94.79,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-012",
+      "lineNumber": 12,
+      "text": "should be grateful to George Harrison and his friends who",
+      "bbox": {
+        "x": 367,
+        "y": 573,
+        "width": 664,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-013",
+      "lineNumber": 13,
+      "text": "organised the Concert for Bangladesh.",
+      "bbox": {
+        "x": 367,
+        "y": 613,
+        "width": 435,
+        "height": 26
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-014",
+      "lineNumber": 14,
+      "text": "Mr. Farhad = You are right, dear! G. Harrison was posthumously honoured",
+      "bbox": {
+        "x": 202,
+        "y": 648,
+        "width": 828,
+        "height": 34
+      },
+      "confidence": 83.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-015",
+      "lineNumber": 15,
+      "text": "by the people of Bangladesh in 2012",
+      "bbox": {
+        "x": 366,
+        "y": 691,
+        "width": 417,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-016",
+      "lineNumber": 16,
+      "text": "In pairs, discuss if the following statements are True or False. If",
+      "bbox": {
+        "x": 211,
+        "y": 730,
+        "width": 828,
+        "height": 28
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-017",
+      "lineNumber": 17,
+      "text": "false, correct the statement.",
+      "bbox": {
+        "x": 212,
+        "y": 771,
+        "width": 344,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-018",
+      "lineNumber": 18,
+      "text": "George Harrison was from the United States.",
+      "bbox": {
+        "x": 204,
+        "y": 803,
+        "width": 546,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-019",
+      "lineNumber": 19,
+      "text": "In 1971, George Harrison visited Bangladesh to take part in the liberation",
+      "bbox": {
+        "x": 203,
+        "y": 843,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-020",
+      "lineNumber": 20,
+      "text": "A huge audience attended the Concert for Bangladesh.",
+      "bbox": {
+        "x": 204,
+        "y": 909,
+        "width": 655,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-021",
+      "lineNumber": 21,
+      "text": "George Harrison was the only well-known musician to take part in the",
+      "bbox": {
+        "x": 204,
+        "y": 949,
+        "width": 830,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-022",
+      "lineNumber": 22,
+      "text": "Concert for Bangladesh.",
+      "bbox": {
+        "x": 240,
+        "y": 982,
+        "width": 276,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-023",
+      "lineNumber": 23,
+      "text": "e. The people of the world became aware of the crisis in Bangladesh",
+      "bbox": {
+        "x": 204,
+        "y": 1017,
+        "width": 833,
+        "height": 26
+      },
+      "confidence": 93.15,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-024",
+      "lineNumber": 24,
+      "text": "following the Concert for Bangladesh.",
+      "bbox": {
+        "x": 244,
+        "y": 1055,
+        "width": 436,
+        "height": 27
+      },
+      "confidence": 96.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-025",
+      "lineNumber": 25,
+      "text": "Read the lyrics of the song aloud. Here are some parts of the song",
+      "bbox": {
+        "x": 203,
+        "y": 1094,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-028",
+      "lineNumber": 28,
+      "text": "My friend came to me, with sadness in his eyes",
+      "bbox": {
+        "x": 204,
+        "y": 1212,
+        "width": 539,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-029",
+      "lineNumber": 29,
+      "text": "He told me that he wanted help",
+      "bbox": {
+        "x": 204,
+        "y": 1252,
+        "width": 355,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-030",
+      "lineNumber": 30,
+      "text": "Before his country dies",
+      "bbox": {
+        "x": 205,
+        "y": 1292,
+        "width": 263,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-031",
+      "lineNumber": 31,
+      "text": "Although I couldn't feel the pain, I knew I had to try",
+      "bbox": {
+        "x": 204,
+        "y": 1338,
+        "width": 598,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-032",
+      "lineNumber": 32,
+      "text": "Now, I'm asking all of you",
+      "bbox": {
+        "x": 203,
+        "y": 1373,
+        "width": 301,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-033",
+      "lineNumber": 33,
+      "text": "To help us save some lives",
+      "bbox": {
+        "x": 204,
+        "y": 1409,
+        "width": 301,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Mr. Farhad Well, the Concert for Bangladesh was held on the Ist August,\n1971 at the Madison Square Garden, New York. George\nHarrison and some other famous musicians performed in\nthat live concert in front of an audience of about forty thousand\npeople. It was organised to make the world aware of the\nsufferings of Bangladesh during our liberation war.\nFahmida Wasn’t that great!\nMr, Farhad Yes, it was great! The concert won huge support for the\nmillions of war victims of Bangladesh. At the same time it\nraised millions of dollars for UNICEF relief fund.\nFahmida I'm really glad that you told me all this, Father. I think we\nshould be grateful to George Harrison and his friends who\norganised the Concert for Bangladesh.\nMr. Farhad = You are right, dear! G. Harrison was posthumously honoured\nby the people of Bangladesh in 2012\nIn pairs, discuss if the following statements are True or False. If\nfalse, correct the statement.\na. George Harrison was from the United States.\nb. In 1971, George Harrison visited Bangladesh to take part in the liberation\nc. A huge audience attended the Concert for Bangladesh.\nd. George Harrison was the only well-known musician to take part in the\nConcert for Bangladesh.\ne. The people of the world became aware of the crisis in Bangladesh\nfollowing the Concert for Bangladesh.\nRead the lyrics of the song aloud. Here are some parts of the song\n‘Bangladesh’.\nBangladesh\nMy friend came to me, with sadness in his eyes\nHe told me that he wanted help\nBefore his country dies\nAlthough I couldn't feel the pain, I knew I had to try\nNow, I'm asking all of you\nTo help us save some lives",
+  "cleanText": "Mr. Farhad Well, the Concert for Bangladesh was held on the Ist August,\n1971 at the Madison Square Garden, New York. George\nHarrison and some other famous musicians performed in\nthat live concert in front of an audience of about forty thousand\npeople. It was organised to make the world aware of the\nsufferings of Bangladesh during our liberation war.\nFahmida Wasn’t that great!\nMr, Farhad Yes, it was great! The concert won huge support for the\nmillions of war victims of Bangladesh. At the same time it\nraised millions of dollars for UNICEF relief fund.\nFahmida I'm really glad that you told me all this, Father. I think we\nshould be grateful to George Harrison and his friends who\norganised the Concert for Bangladesh.\nMr. Farhad = You are right, dear! G. Harrison was posthumously honoured\nby the people of Bangladesh in 2012\nIn pairs, discuss if the following statements are True or False. If\nfalse, correct the statement.\nGeorge Harrison was from the United States.\nIn 1971, George Harrison visited Bangladesh to take part in the liberation\nA huge audience attended the Concert for Bangladesh.\nGeorge Harrison was the only well-known musician to take part in the\nConcert for Bangladesh.\ne. The people of the world became aware of the crisis in Bangladesh\nfollowing the Concert for Bangladesh.\nRead the lyrics of the song aloud. Here are some parts of the song\n‘Bangladesh’.\nBangladesh\nMy friend came to me, with sadness in his eyes\nHe told me that he wanted help\nBefore his country dies\nAlthough I couldn't feel the pain, I knew I had to try\nNow, I'm asking all of you\nTo help us save some lives",
+  "aiReadyText": "Mr. Farhad Well, the Concert for Bangladesh was held on the Ist August,\n1971 at the Madison Square Garden, New York. George\nHarrison and some other famous musicians performed in\nthat live concert in front of an audience of about forty thousand\npeople. It was organised to make the world aware of the\nsufferings of Bangladesh during our liberation war.\nFahmida Wasn’t that great!\nMr, Farhad Yes, it was great! The concert won huge support for the\nmillions of war victims of Bangladesh. At the same time it\nraised millions of dollars for UNICEF relief fund.\nFahmida I'm really glad that you told me all this, Father. I think we\nshould be grateful to George Harrison and his friends who\norganised the Concert for Bangladesh.\nMr. Farhad = You are right, dear! G. Harrison was posthumously honoured\nby the people of Bangladesh in 2012\nIn pairs, discuss if the following statements are True or False. If\nfalse, correct the statement.\nGeorge Harrison was from the United States.\nIn 1971, George Harrison visited Bangladesh to take part in the liberation\nA huge audience attended the Concert for Bangladesh.\nGeorge Harrison was the only well-known musician to take part in the\nConcert for Bangladesh.\ne. The people of the world became aware of the crisis in Bangladesh\nfollowing the Concert for Bangladesh.\nRead the lyrics of the song aloud. Here are some parts of the song\nMy friend came to me, with sadness in his eyes\nHe told me that he wanted help\nBefore his country dies\nAlthough I couldn't feel the pain, I knew I had to try\nNow, I'm asking all of you\nTo help us save some lives"
+}

@@ -1,0 +1,674 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 67,
+  "image": "/ocr/books/class6-english/page-images/page-067.png",
+  "width": 1149,
+  "height": 1507,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "wrote about a thousand songs which reflected",
+      "cleanText": "wrote about a thousand songs which reflected",
+      "bbox": {
+        "x": 121,
+        "y": 149,
+        "width": 547,
+        "height": 26
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "his thoughts. In 1906, he published a book",
+      "cleanText": "his thoughts. In 1906, he published a book",
+      "bbox": {
+        "x": 122,
+        "y": 184,
+        "width": 545,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "called Hason Udash. The book had 206 songs in",
+      "cleanText": "called Hason Udash. The book had 206 songs in",
+      "bbox": {
+        "x": 122,
+        "y": 219,
+        "width": 545,
+        "height": 26
+      },
+      "confidence": 94.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "it. In his songs, he called himself ‘Crazy Hason",
+      "cleanText": "it. In his songs, he called himself ‘Crazy Hason",
+      "bbox": {
+        "x": 123,
+        "y": 255,
+        "width": 544,
+        "height": 26
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Raja’, or ‘Pagla Hason Raja’.",
+      "cleanText": "Raja’, or ‘Pagla Hason Raja’.",
+      "bbox": {
+        "x": 122,
+        "y": 290,
+        "width": 334,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Another volume called Hason Raja Samagra",
+      "cleanText": "Another volume called Hason Raja Samagra",
+      "bbox": {
+        "x": 122,
+        "y": 347,
+        "width": 546,
+        "height": 26
+      },
+      "confidence": 93.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "(Complete Works of Hason Raja) was also",
+      "cleanText": "(Complete Works of Hason Raja) was also",
+      "bbox": {
+        "x": 122,
+        "y": 382,
+        "width": 545,
+        "height": 26
+      },
+      "confidence": 94.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "published, which contained 500 poems and",
+      "cleanText": "published, which contained 500 poems and",
+      "bbox": {
+        "x": 122,
+        "y": 417,
+        "width": 546,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "songs. Hason Raja’s songs had always been",
+      "cleanText": "songs. Hason Raja’s songs had always been",
+      "bbox": {
+        "x": 122,
+        "y": 453,
+        "width": 545,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "popular in Sylhet, but very soon they spread all",
+      "cleanText": "popular in Sylhet, but very soon they spread all",
+      "bbox": {
+        "x": 121,
+        "y": 488,
+        "width": 546,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "over Bangladesh and beyond. As you grow",
+      "cleanText": "over Bangladesh and beyond. As you grow",
+      "bbox": {
+        "x": 122,
+        "y": 523,
+        "width": 546,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "older, try to learn more about this great mystic",
+      "cleanText": "older, try to learn more about this great mystic",
+      "bbox": {
+        "x": 122,
+        "y": 558,
+        "width": 545,
+        "height": 26
+      },
+      "confidence": 96.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "poet through reading and listening to his songs.",
+      "cleanText": "poet through reading and listening to his songs.",
+      "bbox": {
+        "x": 122,
+        "y": 593,
+        "width": 539,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Hason Raja",
+      "cleanText": "Hason Raja",
+      "bbox": {
+        "x": 794,
+        "y": 611,
+        "width": 141,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-067-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "B1. Answer the following questions:",
+      "cleanText": "B1. Answer the following questions:",
+      "bbox": {
+        "x": 121,
+        "y": 664,
+        "width": 483,
+        "height": 28
+      },
+      "confidence": 91.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "a When was Hason Raja born?",
+      "cleanText": "a When was Hason Raja born?",
+      "bbox": {
+        "x": 187,
+        "y": 716,
+        "width": 409,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "b. Where was he from?",
+      "cleanText": "Where was he from?",
+      "bbox": {
+        "x": 186,
+        "y": 762,
+        "width": 315,
+        "height": 20
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "What was his youth like?",
+      "cleanText": "What was his youth like?",
+      "bbox": {
+        "x": 265,
+        "y": 808,
+        "width": 288,
+        "height": 26
+      },
+      "confidence": 96.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "d. Why did Hason Raja leave his life of comfort and pleasure?",
+      "cleanText": "Why did Hason Raja leave his life of comfort and pleasure?",
+      "bbox": {
+        "x": 187,
+        "y": 855,
+        "width": 761,
+        "height": 26
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "What was the other name by which Hason Raja was known?",
+      "cleanText": "What was the other name by which Hason Raja was known?",
+      "bbox": {
+        "x": 266,
+        "y": 901,
+        "width": 690,
+        "height": 26
+      },
+      "confidence": 95.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "B2. Practise reading the passage loudly giving proper attention to",
+      "cleanText": "B2. Practise reading the passage loudly giving proper attention to",
+      "bbox": {
+        "x": 127,
+        "y": 978,
+        "width": 905,
+        "height": 27
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "pronunciation, pause and intonation.",
+      "cleanText": "pronunciation, pause and intonation.",
+      "bbox": {
+        "x": 203,
+        "y": 1018,
+        "width": 465,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "B3, Learn the meanings of the words:",
+      "cleanText": "B3, Learn the meanings of the words:",
+      "bbox": {
+        "x": 126,
+        "y": 1110,
+        "width": 520,
+        "height": 27
+      },
+      "confidence": 91.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "comfort, luxury, pleasure, volume, crazy, contain, beyond, eminent",
+      "cleanText": "comfort, luxury, pleasure, volume, crazy, contain, beyond, eminent",
+      "bbox": {
+        "x": 193,
+        "y": 1166,
+        "width": 815,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-024",
+      "lineNumber": 24
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-067-line-001",
+      "lineNumber": 1,
+      "text": "wrote about a thousand songs which reflected",
+      "bbox": {
+        "x": 121,
+        "y": 149,
+        "width": 547,
+        "height": 26
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-002",
+      "lineNumber": 2,
+      "text": "his thoughts. In 1906, he published a book",
+      "bbox": {
+        "x": 122,
+        "y": 184,
+        "width": 545,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-003",
+      "lineNumber": 3,
+      "text": "called Hason Udash. The book had 206 songs in",
+      "bbox": {
+        "x": 122,
+        "y": 219,
+        "width": 545,
+        "height": 26
+      },
+      "confidence": 94.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-004",
+      "lineNumber": 4,
+      "text": "it. In his songs, he called himself ‘Crazy Hason",
+      "bbox": {
+        "x": 123,
+        "y": 255,
+        "width": 544,
+        "height": 26
+      },
+      "confidence": 91.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-005",
+      "lineNumber": 5,
+      "text": "Raja’, or ‘Pagla Hason Raja’.",
+      "bbox": {
+        "x": 122,
+        "y": 290,
+        "width": 334,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-006",
+      "lineNumber": 6,
+      "text": "Another volume called Hason Raja Samagra",
+      "bbox": {
+        "x": 122,
+        "y": 347,
+        "width": 546,
+        "height": 26
+      },
+      "confidence": 93.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-007",
+      "lineNumber": 7,
+      "text": "(Complete Works of Hason Raja) was also",
+      "bbox": {
+        "x": 122,
+        "y": 382,
+        "width": 545,
+        "height": 26
+      },
+      "confidence": 94.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-008",
+      "lineNumber": 8,
+      "text": "published, which contained 500 poems and",
+      "bbox": {
+        "x": 122,
+        "y": 417,
+        "width": 546,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-009",
+      "lineNumber": 9,
+      "text": "songs. Hason Raja’s songs had always been",
+      "bbox": {
+        "x": 122,
+        "y": 453,
+        "width": 545,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-010",
+      "lineNumber": 10,
+      "text": "popular in Sylhet, but very soon they spread all",
+      "bbox": {
+        "x": 121,
+        "y": 488,
+        "width": 546,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-011",
+      "lineNumber": 11,
+      "text": "over Bangladesh and beyond. As you grow",
+      "bbox": {
+        "x": 122,
+        "y": 523,
+        "width": 546,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-012",
+      "lineNumber": 12,
+      "text": "older, try to learn more about this great mystic",
+      "bbox": {
+        "x": 122,
+        "y": 558,
+        "width": 545,
+        "height": 26
+      },
+      "confidence": 96.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-013",
+      "lineNumber": 13,
+      "text": "poet through reading and listening to his songs.",
+      "bbox": {
+        "x": 122,
+        "y": 593,
+        "width": 539,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-015",
+      "lineNumber": 15,
+      "text": "B1. Answer the following questions:",
+      "bbox": {
+        "x": 121,
+        "y": 664,
+        "width": 483,
+        "height": 28
+      },
+      "confidence": 91.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-016",
+      "lineNumber": 16,
+      "text": "a When was Hason Raja born?",
+      "bbox": {
+        "x": 187,
+        "y": 716,
+        "width": 409,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-017",
+      "lineNumber": 17,
+      "text": "Where was he from?",
+      "bbox": {
+        "x": 186,
+        "y": 762,
+        "width": 315,
+        "height": 20
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-018",
+      "lineNumber": 18,
+      "text": "What was his youth like?",
+      "bbox": {
+        "x": 265,
+        "y": 808,
+        "width": 288,
+        "height": 26
+      },
+      "confidence": 96.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-019",
+      "lineNumber": 19,
+      "text": "Why did Hason Raja leave his life of comfort and pleasure?",
+      "bbox": {
+        "x": 187,
+        "y": 855,
+        "width": 761,
+        "height": 26
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-020",
+      "lineNumber": 20,
+      "text": "What was the other name by which Hason Raja was known?",
+      "bbox": {
+        "x": 266,
+        "y": 901,
+        "width": 690,
+        "height": 26
+      },
+      "confidence": 95.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-021",
+      "lineNumber": 21,
+      "text": "B2. Practise reading the passage loudly giving proper attention to",
+      "bbox": {
+        "x": 127,
+        "y": 978,
+        "width": 905,
+        "height": 27
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-022",
+      "lineNumber": 22,
+      "text": "pronunciation, pause and intonation.",
+      "bbox": {
+        "x": 203,
+        "y": 1018,
+        "width": 465,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-023",
+      "lineNumber": 23,
+      "text": "B3, Learn the meanings of the words:",
+      "bbox": {
+        "x": 126,
+        "y": 1110,
+        "width": 520,
+        "height": 27
+      },
+      "confidence": 91.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-024",
+      "lineNumber": 24,
+      "text": "comfort, luxury, pleasure, volume, crazy, contain, beyond, eminent",
+      "bbox": {
+        "x": 193,
+        "y": 1166,
+        "width": 815,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "wrote about a thousand songs which reflected\nhis thoughts. In 1906, he published a book\ncalled Hason Udash. The book had 206 songs in\nit. In his songs, he called himself ‘Crazy Hason\nRaja’, or ‘Pagla Hason Raja’.\nAnother volume called Hason Raja Samagra\n(Complete Works of Hason Raja) was also\npublished, which contained 500 poems and\nsongs. Hason Raja’s songs had always been\npopular in Sylhet, but very soon they spread all\nover Bangladesh and beyond. As you grow\nolder, try to learn more about this great mystic\npoet through reading and listening to his songs.\nHason Raja\nB1. Answer the following questions:\na When was Hason Raja born?\nb. Where was he from?\nWhat was his youth like?\nd. Why did Hason Raja leave his life of comfort and pleasure?\nWhat was the other name by which Hason Raja was known?\nB2. Practise reading the passage loudly giving proper attention to\npronunciation, pause and intonation.\nB3, Learn the meanings of the words:\ncomfort, luxury, pleasure, volume, crazy, contain, beyond, eminent",
+  "cleanText": "wrote about a thousand songs which reflected\nhis thoughts. In 1906, he published a book\ncalled Hason Udash. The book had 206 songs in\nit. In his songs, he called himself ‘Crazy Hason\nRaja’, or ‘Pagla Hason Raja’.\nAnother volume called Hason Raja Samagra\n(Complete Works of Hason Raja) was also\npublished, which contained 500 poems and\nsongs. Hason Raja’s songs had always been\npopular in Sylhet, but very soon they spread all\nover Bangladesh and beyond. As you grow\nolder, try to learn more about this great mystic\npoet through reading and listening to his songs.\nHason Raja\nB1. Answer the following questions:\na When was Hason Raja born?\nWhere was he from?\nWhat was his youth like?\nWhy did Hason Raja leave his life of comfort and pleasure?\nWhat was the other name by which Hason Raja was known?\nB2. Practise reading the passage loudly giving proper attention to\npronunciation, pause and intonation.\nB3, Learn the meanings of the words:\ncomfort, luxury, pleasure, volume, crazy, contain, beyond, eminent",
+  "aiReadyText": "wrote about a thousand songs which reflected\nhis thoughts. In 1906, he published a book\ncalled Hason Udash. The book had 206 songs in\nit. In his songs, he called himself ‘Crazy Hason\nRaja’, or ‘Pagla Hason Raja’.\nAnother volume called Hason Raja Samagra\n(Complete Works of Hason Raja) was also\npublished, which contained 500 poems and\nsongs. Hason Raja’s songs had always been\npopular in Sylhet, but very soon they spread all\nover Bangladesh and beyond. As you grow\nolder, try to learn more about this great mystic\npoet through reading and listening to his songs.\nB1. Answer the following questions:\na When was Hason Raja born?\nWhere was he from?\nWhat was his youth like?\nWhy did Hason Raja leave his life of comfort and pleasure?\nWhat was the other name by which Hason Raja was known?\nB2. Practise reading the passage loudly giving proper attention to\npronunciation, pause and intonation.\nB3, Learn the meanings of the words:\ncomfort, luxury, pleasure, volume, crazy, contain, beyond, eminent"
+}

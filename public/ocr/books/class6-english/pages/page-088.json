@@ -1,0 +1,648 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 88,
+  "image": "/ocr/books/class6-english/page-images/page-088.png",
+  "width": 1149,
+  "height": 1514,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 27 Andre",
+      "cleanText": "Lesson 27 Andre",
+      "bbox": {
+        "x": 398,
+        "y": 184,
+        "width": 342,
+        "height": 31
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 179,
+        "y": 253,
+        "width": 569,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-088-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "read aloud texts with proper pronunciation, stress and intonation",
+      "cleanText": "read aloud texts with proper pronunciation, stress and intonation",
+      "bbox": {
+        "x": 218,
+        "y": 284,
+        "width": 677,
+        "height": 23
+      },
+      "confidence": 96.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "* read and understand written instructions",
+      "cleanText": "* read and understand written instructions",
+      "bbox": {
+        "x": 199,
+        "y": 314,
+        "width": 441,
+        "height": 19
+      },
+      "confidence": 87.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "© understand and enjoy stories and poems",
+      "cleanText": "© understand and enjoy stories and poems",
+      "bbox": {
+        "x": 199,
+        "y": 345,
+        "width": 438,
+        "height": 24
+      },
+      "confidence": 87.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Read the following poem:",
+      "cleanText": "Read the following poem:",
+      "bbox": {
+        "x": 181,
+        "y": 398,
+        "width": 321,
+        "height": 26
+      },
+      "confidence": 89.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-088-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "-Gwendolyn Brooks",
+      "cleanText": "-Gwendolyn Brooks",
+      "bbox": {
+        "x": 262,
+        "y": 509,
+        "width": 230,
+        "height": 26
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Thad a dream last night. I dreamed",
+      "cleanText": "Thad a dream last night. I dreamed",
+      "bbox": {
+        "x": 183,
+        "y": 548,
+        "width": 396,
+        "height": 26
+      },
+      "confidence": 93.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Thad to pick a mother out.",
+      "cleanText": "Thad to pick a mother out.",
+      "bbox": {
+        "x": 182,
+        "y": 588,
+        "width": 300,
+        "height": 26
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "I had to choose a father too.",
+      "cleanText": "I had to choose a father too.",
+      "bbox": {
+        "x": 183,
+        "y": 624,
+        "width": 315,
+        "height": 34
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "At first, I wondered what to do,",
+      "cleanText": "At first, I wondered what to do,",
+      "bbox": {
+        "x": 182,
+        "y": 667,
+        "width": 359,
+        "height": 24
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "There were so many there, it seemed,",
+      "cleanText": "There were so many there, it seemed,",
+      "bbox": {
+        "x": 182,
+        "y": 707,
+        "width": 425,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Short and tall and thin and stout.",
+      "cleanText": "Short and tall and thin and stout.",
+      "bbox": {
+        "x": 183,
+        "y": 746,
+        "width": 369,
+        "height": 21
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "But just before I sprang awake,",
+      "cleanText": "But just before I sprang awake,",
+      "bbox": {
+        "x": 183,
+        "y": 826,
+        "width": 355,
+        "height": 26
+      },
+      "confidence": 92.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "I knew what parents I would take.",
+      "cleanText": "I knew what parents I would take.",
+      "bbox": {
+        "x": 183,
+        "y": 865,
+        "width": 385,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "And this surprised and made me glad:",
+      "cleanText": "And this surprised and made me glad:",
+      "bbox": {
+        "x": 182,
+        "y": 905,
+        "width": 432,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "They were the ones I always had!",
+      "cleanText": "They were the ones I always had!",
+      "bbox": {
+        "x": 182,
+        "y": 944,
+        "width": 380,
+        "height": 26
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Al, Underline all the verbs in the poem above. Then, list them in two",
+      "cleanText": "Al, Underline all the verbs in the poem above. Then, list them in two",
+      "bbox": {
+        "x": 120,
+        "y": 997,
+        "width": 919,
+        "height": 28
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "columns: present tense and past tense. Next, change the verbs in",
+      "cleanText": "columns: present tense and past tense. Next, change the verbs in",
+      "bbox": {
+        "x": 181,
+        "y": 1037,
+        "width": 858,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "the past tense to their present form, and the present tense ones to",
+      "cleanText": "the past tense to their present form, and the present tense ones to",
+      "bbox": {
+        "x": 181,
+        "y": 1077,
+        "width": 858,
+        "height": 27
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "their past form.",
+      "cleanText": "their past form.",
+      "bbox": {
+        "x": 181,
+        "y": 1116,
+        "width": 204,
+        "height": 28
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Example: Present tense Past tense",
+      "cleanText": "Example: Present tense Past tense",
+      "bbox": {
+        "x": 179,
+        "y": 1162,
+        "width": 616,
+        "height": 34
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "have had",
+      "cleanText": "have had",
+      "bbox": {
+        "x": 457,
+        "y": 1218,
+        "width": 301,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-088-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "A2. Read the poem aloud with proper pronunciation, stress and intonation.",
+      "cleanText": "A2. Read the poem aloud with proper pronunciation, stress and intonation.",
+      "bbox": {
+        "x": 116,
+        "y": 1405,
+        "width": 923,
+        "height": 26
+      },
+      "confidence": 94.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-088-line-024",
+      "lineNumber": 24
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-088-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 27 Andre",
+      "bbox": {
+        "x": 398,
+        "y": 184,
+        "width": 342,
+        "height": 31
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-003",
+      "lineNumber": 3,
+      "text": "read aloud texts with proper pronunciation, stress and intonation",
+      "bbox": {
+        "x": 218,
+        "y": 284,
+        "width": 677,
+        "height": 23
+      },
+      "confidence": 96.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-004",
+      "lineNumber": 4,
+      "text": "* read and understand written instructions",
+      "bbox": {
+        "x": 199,
+        "y": 314,
+        "width": 441,
+        "height": 19
+      },
+      "confidence": 87.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-005",
+      "lineNumber": 5,
+      "text": "© understand and enjoy stories and poems",
+      "bbox": {
+        "x": 199,
+        "y": 345,
+        "width": 438,
+        "height": 24
+      },
+      "confidence": 87.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-007",
+      "lineNumber": 7,
+      "text": "-Gwendolyn Brooks",
+      "bbox": {
+        "x": 262,
+        "y": 509,
+        "width": 230,
+        "height": 26
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-008",
+      "lineNumber": 8,
+      "text": "Thad a dream last night. I dreamed",
+      "bbox": {
+        "x": 183,
+        "y": 548,
+        "width": 396,
+        "height": 26
+      },
+      "confidence": 93.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-009",
+      "lineNumber": 9,
+      "text": "Thad to pick a mother out.",
+      "bbox": {
+        "x": 182,
+        "y": 588,
+        "width": 300,
+        "height": 26
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-010",
+      "lineNumber": 10,
+      "text": "I had to choose a father too.",
+      "bbox": {
+        "x": 183,
+        "y": 624,
+        "width": 315,
+        "height": 34
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-011",
+      "lineNumber": 11,
+      "text": "At first, I wondered what to do,",
+      "bbox": {
+        "x": 182,
+        "y": 667,
+        "width": 359,
+        "height": 24
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-012",
+      "lineNumber": 12,
+      "text": "There were so many there, it seemed,",
+      "bbox": {
+        "x": 182,
+        "y": 707,
+        "width": 425,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-013",
+      "lineNumber": 13,
+      "text": "Short and tall and thin and stout.",
+      "bbox": {
+        "x": 183,
+        "y": 746,
+        "width": 369,
+        "height": 21
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-014",
+      "lineNumber": 14,
+      "text": "But just before I sprang awake,",
+      "bbox": {
+        "x": 183,
+        "y": 826,
+        "width": 355,
+        "height": 26
+      },
+      "confidence": 92.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-015",
+      "lineNumber": 15,
+      "text": "I knew what parents I would take.",
+      "bbox": {
+        "x": 183,
+        "y": 865,
+        "width": 385,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-016",
+      "lineNumber": 16,
+      "text": "And this surprised and made me glad:",
+      "bbox": {
+        "x": 182,
+        "y": 905,
+        "width": 432,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-017",
+      "lineNumber": 17,
+      "text": "They were the ones I always had!",
+      "bbox": {
+        "x": 182,
+        "y": 944,
+        "width": 380,
+        "height": 26
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-018",
+      "lineNumber": 18,
+      "text": "Al, Underline all the verbs in the poem above. Then, list them in two",
+      "bbox": {
+        "x": 120,
+        "y": 997,
+        "width": 919,
+        "height": 28
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-019",
+      "lineNumber": 19,
+      "text": "columns: present tense and past tense. Next, change the verbs in",
+      "bbox": {
+        "x": 181,
+        "y": 1037,
+        "width": 858,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-020",
+      "lineNumber": 20,
+      "text": "the past tense to their present form, and the present tense ones to",
+      "bbox": {
+        "x": 181,
+        "y": 1077,
+        "width": 858,
+        "height": 27
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-021",
+      "lineNumber": 21,
+      "text": "their past form.",
+      "bbox": {
+        "x": 181,
+        "y": 1116,
+        "width": 204,
+        "height": 28
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-022",
+      "lineNumber": 22,
+      "text": "Example: Present tense Past tense",
+      "bbox": {
+        "x": 179,
+        "y": 1162,
+        "width": 616,
+        "height": 34
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-088-line-024",
+      "lineNumber": 24,
+      "text": "A2. Read the poem aloud with proper pronunciation, stress and intonation.",
+      "bbox": {
+        "x": 116,
+        "y": 1405,
+        "width": 923,
+        "height": 26
+      },
+      "confidence": 94.91,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 27 Andre\nAfter completing the lesson students will be able to\nread aloud texts with proper pronunciation, stress and intonation\n* read and understand written instructions\n© understand and enjoy stories and poems\nRead the following poem:\n-Gwendolyn Brooks\nThad a dream last night. I dreamed\nThad to pick a mother out.\nI had to choose a father too.\nAt first, I wondered what to do,\nThere were so many there, it seemed,\nShort and tall and thin and stout.\nBut just before I sprang awake,\nI knew what parents I would take.\nAnd this surprised and made me glad:\nThey were the ones I always had!\nAl, Underline all the verbs in the poem above. Then, list them in two\ncolumns: present tense and past tense. Next, change the verbs in\nthe past tense to their present form, and the present tense ones to\ntheir past form.\nExample: Present tense Past tense\nhave had\nA2. Read the poem aloud with proper pronunciation, stress and intonation.",
+  "cleanText": "Lesson 27 Andre\nAfter completing the lesson students will be able to\nread aloud texts with proper pronunciation, stress and intonation\n* read and understand written instructions\n© understand and enjoy stories and poems\nRead the following poem:\n-Gwendolyn Brooks\nThad a dream last night. I dreamed\nThad to pick a mother out.\nI had to choose a father too.\nAt first, I wondered what to do,\nThere were so many there, it seemed,\nShort and tall and thin and stout.\nBut just before I sprang awake,\nI knew what parents I would take.\nAnd this surprised and made me glad:\nThey were the ones I always had!\nAl, Underline all the verbs in the poem above. Then, list them in two\ncolumns: present tense and past tense. Next, change the verbs in\nthe past tense to their present form, and the present tense ones to\ntheir past form.\nExample: Present tense Past tense\nhave had\nA2. Read the poem aloud with proper pronunciation, stress and intonation.",
+  "aiReadyText": "Lesson 27 Andre\nread aloud texts with proper pronunciation, stress and intonation\n* read and understand written instructions\n© understand and enjoy stories and poems\n-Gwendolyn Brooks\nThad a dream last night. I dreamed\nThad to pick a mother out.\nI had to choose a father too.\nAt first, I wondered what to do,\nThere were so many there, it seemed,\nShort and tall and thin and stout.\nBut just before I sprang awake,\nI knew what parents I would take.\nAnd this surprised and made me glad:\nThey were the ones I always had!\nAl, Underline all the verbs in the poem above. Then, list them in two\ncolumns: present tense and past tense. Next, change the verbs in\nthe past tense to their present form, and the present tense ones to\ntheir past form.\nExample: Present tense Past tense\nA2. Read the poem aloud with proper pronunciation, stress and intonation."
+}

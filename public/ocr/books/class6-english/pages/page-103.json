@@ -1,0 +1,183 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 103,
+  "image": "/ocr/books/class6-english/page-images/page-103.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "\"What shall I do?” cried Toad. \"These seeds are still afraid to grow.”",
+      "cleanText": "\"What shall I do?” cried Toad. \"These seeds are still afraid to grow.”",
+      "bbox": {
+        "x": 197,
+        "y": 155,
+        "width": 776,
+        "height": 25
+      },
+      "confidence": 89.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-103-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Then Toad became very tired, and he fell asleep.",
+      "cleanText": "Then Toad became very tired, and he fell asleep.",
+      "bbox": {
+        "x": 196,
+        "y": 252,
+        "width": 551,
+        "height": 25
+      },
+      "confidence": 95.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-103-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "\"Toad, Toad, wake up,” said Frog. \"Look at your garden!\"",
+      "cleanText": "\"Toad, Toad, wake up,” said Frog. \"Look at your garden!\"",
+      "bbox": {
+        "x": 197,
+        "y": 349,
+        "width": 657,
+        "height": 25
+      },
+      "confidence": 94.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-103-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Toad looked at his garden. Little green",
+      "cleanText": "Toad looked at his garden. Little green",
+      "bbox": {
+        "x": 196,
+        "y": 432,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-103-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "plants were growing up out of the ground.",
+      "cleanText": "plants were growing up out of the ground.",
+      "bbox": {
+        "x": 196,
+        "y": 480,
+        "width": 478,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-103-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "\"At last,\" shouted Toad, “my seeds are not afraid anymore.”",
+      "cleanText": "\"At last,\" shouted Toad, “my seeds are not afraid anymore.”",
+      "bbox": {
+        "x": 197,
+        "y": 551,
+        "width": 678,
+        "height": 26
+      },
+      "confidence": 87.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-103-line-006",
+      "lineNumber": 6
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-103-line-001",
+      "lineNumber": 1,
+      "text": "\"What shall I do?” cried Toad. \"These seeds are still afraid to grow.”",
+      "bbox": {
+        "x": 197,
+        "y": 155,
+        "width": 776,
+        "height": 25
+      },
+      "confidence": 89.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-103-line-002",
+      "lineNumber": 2,
+      "text": "Then Toad became very tired, and he fell asleep.",
+      "bbox": {
+        "x": 196,
+        "y": 252,
+        "width": 551,
+        "height": 25
+      },
+      "confidence": 95.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-103-line-003",
+      "lineNumber": 3,
+      "text": "\"Toad, Toad, wake up,” said Frog. \"Look at your garden!\"",
+      "bbox": {
+        "x": 197,
+        "y": 349,
+        "width": 657,
+        "height": 25
+      },
+      "confidence": 94.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-103-line-004",
+      "lineNumber": 4,
+      "text": "Toad looked at his garden. Little green",
+      "bbox": {
+        "x": 196,
+        "y": 432,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-103-line-005",
+      "lineNumber": 5,
+      "text": "plants were growing up out of the ground.",
+      "bbox": {
+        "x": 196,
+        "y": 480,
+        "width": 478,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-103-line-006",
+      "lineNumber": 6,
+      "text": "\"At last,\" shouted Toad, “my seeds are not afraid anymore.”",
+      "bbox": {
+        "x": 197,
+        "y": 551,
+        "width": 678,
+        "height": 26
+      },
+      "confidence": 87.2,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "\"What shall I do?” cried Toad. \"These seeds are still afraid to grow.”\nThen Toad became very tired, and he fell asleep.\n\"Toad, Toad, wake up,” said Frog. \"Look at your garden!\"\nToad looked at his garden. Little green\nplants were growing up out of the ground.\n\"At last,\" shouted Toad, “my seeds are not afraid anymore.”",
+  "cleanText": "\"What shall I do?” cried Toad. \"These seeds are still afraid to grow.”\nThen Toad became very tired, and he fell asleep.\n\"Toad, Toad, wake up,” said Frog. \"Look at your garden!\"\nToad looked at his garden. Little green\nplants were growing up out of the ground.\n\"At last,\" shouted Toad, “my seeds are not afraid anymore.”",
+  "aiReadyText": "\"What shall I do?” cried Toad. \"These seeds are still afraid to grow.”\nThen Toad became very tired, and he fell asleep.\n\"Toad, Toad, wake up,” said Frog. \"Look at your garden!\"\nToad looked at his garden. Little green\nplants were growing up out of the ground.\n\"At last,\" shouted Toad, “my seeds are not afraid anymore.”"
+}

@@ -1,0 +1,941 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 11,
+  "image": "/ocr/books/class6-english/page-images/page-011.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "6 English For Today",
+      "cleanText": "6 English For Today",
+      "bbox": {
+        "x": 122,
+        "y": 77,
+        "width": 912,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "B. Let's now see what we say when we hear about something not good",
+      "cleanText": "Let's now see what we say when we hear about something not good",
+      "bbox": {
+        "x": 123,
+        "y": 144,
+        "width": 917,
+        "height": 27
+      },
+      "confidence": 91.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "or not happy. Read the following dialogues.",
+      "cleanText": "or not happy. Read the following dialogues.",
+      "bbox": {
+        "x": 191,
+        "y": 179,
+        "width": 541,
+        "height": 27
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "i) Bobby Hi, Sujan! Why didn’t you come",
+      "cleanText": "Bobby Hi, Sujan! Why didn’t you come",
+      "bbox": {
+        "x": 126,
+        "y": 226,
+        "width": 574,
+        "height": 29
+      },
+      "confidence": 85.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "to school last week?",
+      "cleanText": "to school last week?",
+      "bbox": {
+        "x": 331,
+        "y": 266,
+        "width": 229,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Sujan I had the flu. I was in bed",
+      "cleanText": "Sujan I had the flu. I was in bed",
+      "bbox": {
+        "x": 196,
+        "y": 297,
+        "width": 426,
+        "height": 36
+      },
+      "confidence": 89.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "most of the time.",
+      "cleanText": "most of the time.",
+      "bbox": {
+        "x": 331,
+        "y": 337,
+        "width": 191,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Bobby Oh, I'm sorry to hear that.",
+      "cleanText": "Bobby Oh, I'm sorry to hear that.",
+      "bbox": {
+        "x": 195,
+        "y": 371,
+        "width": 429,
+        "height": 27
+      },
+      "confidence": 90.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "How do you feel now?",
+      "cleanText": "How do you feel now?",
+      "bbox": {
+        "x": 331,
+        "y": 403,
+        "width": 257,
+        "height": 25
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "ii) Shakil Hello, Manik! Why are you so quiet today?",
+      "cleanText": "Shakil Hello, Manik! Why are you so quiet today?",
+      "bbox": {
+        "x": 118,
+        "y": 442,
+        "width": 708,
+        "height": 35
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Manik Did you see that pen my father gave me?",
+      "cleanText": "Manik Did you see that pen my father gave me?",
+      "bbox": {
+        "x": 194,
+        "y": 478,
+        "width": 603,
+        "height": 34
+      },
+      "confidence": 95.7,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "I've lost it. It was very dear to me!",
+      "cleanText": "I've lost it. It was very dear to me!",
+      "bbox": {
+        "x": 331,
+        "y": 517,
+        "width": 387,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Shakil Oh, I'm so sorry! How did you lose it?",
+      "cleanText": "Shakil Oh, I'm so sorry! How did you lose it?",
+      "bbox": {
+        "x": 195,
+        "y": 548,
+        "width": 573,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Manik I don't know! I think I dropped it somewhere.",
+      "cleanText": "Manik I don't know! I think I dropped it somewhere.",
+      "bbox": {
+        "x": 194,
+        "y": 585,
+        "width": 654,
+        "height": 35
+      },
+      "confidence": 92.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "iii) Shanu Hi, Munira! Have you seen the result?",
+      "cleanText": "Shanu Hi, Munira! Have you seen the result?",
+      "bbox": {
+        "x": 116,
+        "y": 640,
+        "width": 650,
+        "height": 27
+      },
+      "confidence": 83.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Munira I've failed in my math test.",
+      "cleanText": "Munira I've failed in my math test.",
+      "bbox": {
+        "x": 194,
+        "y": 677,
+        "width": 492,
+        "height": 27
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Shanu Oh, that's bad luck!",
+      "cleanText": "Shanu Oh, that's bad luck!",
+      "bbox": {
+        "x": 195,
+        "y": 709,
+        "width": 355,
+        "height": 32
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Munira —_ don’t know how to tell my parents.",
+      "cleanText": "Munira —_ don’t know how to tell my parents.",
+      "bbox": {
+        "x": 194,
+        "y": 744,
+        "width": 546,
+        "height": 35
+      },
+      "confidence": 83.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Shanu T think they will understand.",
+      "cleanText": "Shanu T think they will understand.",
+      "bbox": {
+        "x": 195,
+        "y": 781,
+        "width": 456,
+        "height": 35
+      },
+      "confidence": 83.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "I know you'll do better next time.",
+      "cleanText": "I know you'll do better next time.",
+      "bbox": {
+        "x": 331,
+        "y": 823,
+        "width": 376,
+        "height": 26
+      },
+      "confidence": 94.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Language Focus",
+      "cleanText": "Language Focus",
+      "bbox": {
+        "x": 196,
+        "y": 872,
+        "width": 197,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "When we hear about any bad news, we say, 'I'm sorry to hear that’",
+      "cleanText": "When we hear about any bad news, we say, 'I'm sorry to hear that’",
+      "bbox": {
+        "x": 203,
+        "y": 925,
+        "width": 816,
+        "height": 25
+      },
+      "confidence": 92.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "or ‘That's bad luck’, etc. In response, the other person usually doesn't",
+      "cleanText": "or ‘That's bad luck’, etc. In response, the other person usually doesn't",
+      "bbox": {
+        "x": 206,
+        "y": 955,
+        "width": 811,
+        "height": 35
+      },
+      "confidence": 89.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "say anything.",
+      "cleanText": "say anything.",
+      "bbox": {
+        "x": 208,
+        "y": 991,
+        "width": 148,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-011-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "BI. Practise saying the above conversations in pairs.",
+      "cleanText": "BI. Practise saying the above conversations in pairs.",
+      "bbox": {
+        "x": 116,
+        "y": 1062,
+        "width": 686,
+        "height": 26
+      },
+      "confidence": 86.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "B2. Answer the following questions.",
+      "cleanText": "B2. Answer the following questions.",
+      "bbox": {
+        "x": 116,
+        "y": 1104,
+        "width": 477,
+        "height": 27
+      },
+      "confidence": 94.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "What would you say to somebody who:",
+      "cleanText": "What would you say to somebody who:",
+      "bbox": {
+        "x": 195,
+        "y": 1152,
+        "width": 451,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "has won a lottery?",
+      "cleanText": "has won a lottery?",
+      "bbox": {
+        "x": 283,
+        "y": 1183,
+        "width": 207,
+        "height": 33
+      },
+      "confidence": 88.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "b has lost a football match?",
+      "cleanText": "b has lost a football match?",
+      "bbox": {
+        "x": 232,
+        "y": 1224,
+        "width": 341,
+        "height": 20
+      },
+      "confidence": 81.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "c just congratulated you on your good result?",
+      "cleanText": "c just congratulated you on your good result?",
+      "bbox": {
+        "x": 232,
+        "y": 1259,
+        "width": 591,
+        "height": 26
+      },
+      "confidence": 92.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "d__ has been ill?",
+      "cleanText": "d__ has been ill?",
+      "bbox": {
+        "x": 232,
+        "y": 1294,
+        "width": 192,
+        "height": 19
+      },
+      "confidence": 82.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "e has been selected for a music programme on TV?",
+      "cleanText": "e has been selected for a music programme on TV?",
+      "bbox": {
+        "x": 232,
+        "y": 1329,
+        "width": 616,
+        "height": 25
+      },
+      "confidence": 91.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "B3. Work with a partner. Make short conversations on the situations",
+      "cleanText": "B3. Work with a partner. Make short conversations on the situations",
+      "bbox": {
+        "x": 116,
+        "y": 1370,
+        "width": 915,
+        "height": 26
+      },
+      "confidence": 94.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "given in B2.",
+      "cleanText": "given in B2.",
+      "bbox": {
+        "x": 195,
+        "y": 1406,
+        "width": 150,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-011-line-034",
+      "lineNumber": 34
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-011-line-001",
+      "lineNumber": 1,
+      "text": "6 English For Today",
+      "bbox": {
+        "x": 122,
+        "y": 77,
+        "width": 912,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-002",
+      "lineNumber": 2,
+      "text": "Let's now see what we say when we hear about something not good",
+      "bbox": {
+        "x": 123,
+        "y": 144,
+        "width": 917,
+        "height": 27
+      },
+      "confidence": 91.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-003",
+      "lineNumber": 3,
+      "text": "or not happy. Read the following dialogues.",
+      "bbox": {
+        "x": 191,
+        "y": 179,
+        "width": 541,
+        "height": 27
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-004",
+      "lineNumber": 4,
+      "text": "Bobby Hi, Sujan! Why didn’t you come",
+      "bbox": {
+        "x": 126,
+        "y": 226,
+        "width": 574,
+        "height": 29
+      },
+      "confidence": 85.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-005",
+      "lineNumber": 5,
+      "text": "to school last week?",
+      "bbox": {
+        "x": 331,
+        "y": 266,
+        "width": 229,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-006",
+      "lineNumber": 6,
+      "text": "Sujan I had the flu. I was in bed",
+      "bbox": {
+        "x": 196,
+        "y": 297,
+        "width": 426,
+        "height": 36
+      },
+      "confidence": 89.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-007",
+      "lineNumber": 7,
+      "text": "most of the time.",
+      "bbox": {
+        "x": 331,
+        "y": 337,
+        "width": 191,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-008",
+      "lineNumber": 8,
+      "text": "Bobby Oh, I'm sorry to hear that.",
+      "bbox": {
+        "x": 195,
+        "y": 371,
+        "width": 429,
+        "height": 27
+      },
+      "confidence": 90.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-009",
+      "lineNumber": 9,
+      "text": "How do you feel now?",
+      "bbox": {
+        "x": 331,
+        "y": 403,
+        "width": 257,
+        "height": 25
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-010",
+      "lineNumber": 10,
+      "text": "Shakil Hello, Manik! Why are you so quiet today?",
+      "bbox": {
+        "x": 118,
+        "y": 442,
+        "width": 708,
+        "height": 35
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-011",
+      "lineNumber": 11,
+      "text": "Manik Did you see that pen my father gave me?",
+      "bbox": {
+        "x": 194,
+        "y": 478,
+        "width": 603,
+        "height": 34
+      },
+      "confidence": 95.7,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-012",
+      "lineNumber": 12,
+      "text": "I've lost it. It was very dear to me!",
+      "bbox": {
+        "x": 331,
+        "y": 517,
+        "width": 387,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-013",
+      "lineNumber": 13,
+      "text": "Shakil Oh, I'm so sorry! How did you lose it?",
+      "bbox": {
+        "x": 195,
+        "y": 548,
+        "width": 573,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-014",
+      "lineNumber": 14,
+      "text": "Manik I don't know! I think I dropped it somewhere.",
+      "bbox": {
+        "x": 194,
+        "y": 585,
+        "width": 654,
+        "height": 35
+      },
+      "confidence": 92.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-015",
+      "lineNumber": 15,
+      "text": "Shanu Hi, Munira! Have you seen the result?",
+      "bbox": {
+        "x": 116,
+        "y": 640,
+        "width": 650,
+        "height": 27
+      },
+      "confidence": 83.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-016",
+      "lineNumber": 16,
+      "text": "Munira I've failed in my math test.",
+      "bbox": {
+        "x": 194,
+        "y": 677,
+        "width": 492,
+        "height": 27
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-017",
+      "lineNumber": 17,
+      "text": "Shanu Oh, that's bad luck!",
+      "bbox": {
+        "x": 195,
+        "y": 709,
+        "width": 355,
+        "height": 32
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-018",
+      "lineNumber": 18,
+      "text": "Munira —_ don’t know how to tell my parents.",
+      "bbox": {
+        "x": 194,
+        "y": 744,
+        "width": 546,
+        "height": 35
+      },
+      "confidence": 83.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-019",
+      "lineNumber": 19,
+      "text": "Shanu T think they will understand.",
+      "bbox": {
+        "x": 195,
+        "y": 781,
+        "width": 456,
+        "height": 35
+      },
+      "confidence": 83.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-020",
+      "lineNumber": 20,
+      "text": "I know you'll do better next time.",
+      "bbox": {
+        "x": 331,
+        "y": 823,
+        "width": 376,
+        "height": 26
+      },
+      "confidence": 94.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-021",
+      "lineNumber": 21,
+      "text": "Language Focus",
+      "bbox": {
+        "x": 196,
+        "y": 872,
+        "width": 197,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-022",
+      "lineNumber": 22,
+      "text": "When we hear about any bad news, we say, 'I'm sorry to hear that’",
+      "bbox": {
+        "x": 203,
+        "y": 925,
+        "width": 816,
+        "height": 25
+      },
+      "confidence": 92.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-023",
+      "lineNumber": 23,
+      "text": "or ‘That's bad luck’, etc. In response, the other person usually doesn't",
+      "bbox": {
+        "x": 206,
+        "y": 955,
+        "width": 811,
+        "height": 35
+      },
+      "confidence": 89.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-025",
+      "lineNumber": 25,
+      "text": "BI. Practise saying the above conversations in pairs.",
+      "bbox": {
+        "x": 116,
+        "y": 1062,
+        "width": 686,
+        "height": 26
+      },
+      "confidence": 86.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-026",
+      "lineNumber": 26,
+      "text": "B2. Answer the following questions.",
+      "bbox": {
+        "x": 116,
+        "y": 1104,
+        "width": 477,
+        "height": 27
+      },
+      "confidence": 94.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-027",
+      "lineNumber": 27,
+      "text": "What would you say to somebody who:",
+      "bbox": {
+        "x": 195,
+        "y": 1152,
+        "width": 451,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-028",
+      "lineNumber": 28,
+      "text": "has won a lottery?",
+      "bbox": {
+        "x": 283,
+        "y": 1183,
+        "width": 207,
+        "height": 33
+      },
+      "confidence": 88.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-029",
+      "lineNumber": 29,
+      "text": "b has lost a football match?",
+      "bbox": {
+        "x": 232,
+        "y": 1224,
+        "width": 341,
+        "height": 20
+      },
+      "confidence": 81.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-030",
+      "lineNumber": 30,
+      "text": "c just congratulated you on your good result?",
+      "bbox": {
+        "x": 232,
+        "y": 1259,
+        "width": 591,
+        "height": 26
+      },
+      "confidence": 92.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-031",
+      "lineNumber": 31,
+      "text": "d__ has been ill?",
+      "bbox": {
+        "x": 232,
+        "y": 1294,
+        "width": 192,
+        "height": 19
+      },
+      "confidence": 82.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-032",
+      "lineNumber": 32,
+      "text": "e has been selected for a music programme on TV?",
+      "bbox": {
+        "x": 232,
+        "y": 1329,
+        "width": 616,
+        "height": 25
+      },
+      "confidence": 91.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-033",
+      "lineNumber": 33,
+      "text": "B3. Work with a partner. Make short conversations on the situations",
+      "bbox": {
+        "x": 116,
+        "y": 1370,
+        "width": 915,
+        "height": 26
+      },
+      "confidence": 94.73,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "6 English For Today\nB. Let's now see what we say when we hear about something not good\nor not happy. Read the following dialogues.\ni) Bobby Hi, Sujan! Why didn’t you come\nto school last week?\nSujan I had the flu. I was in bed\nmost of the time.\nBobby Oh, I'm sorry to hear that.\nHow do you feel now?\nii) Shakil Hello, Manik! Why are you so quiet today?\nManik Did you see that pen my father gave me?\nI've lost it. It was very dear to me!\nShakil Oh, I'm so sorry! How did you lose it?\nManik I don't know! I think I dropped it somewhere.\niii) Shanu Hi, Munira! Have you seen the result?\nMunira I've failed in my math test.\nShanu Oh, that's bad luck!\nMunira —_ don’t know how to tell my parents.\nShanu T think they will understand.\nI know you'll do better next time.\nLanguage Focus\nWhen we hear about any bad news, we say, 'I'm sorry to hear that’\nor ‘That's bad luck’, etc. In response, the other person usually doesn't\nsay anything.\nBI. Practise saying the above conversations in pairs.\nB2. Answer the following questions.\nWhat would you say to somebody who:\nhas won a lottery?\nb has lost a football match?\nc just congratulated you on your good result?\nd__ has been ill?\ne has been selected for a music programme on TV?\nB3. Work with a partner. Make short conversations on the situations\ngiven in B2.",
+  "cleanText": "6 English For Today\nLet's now see what we say when we hear about something not good\nor not happy. Read the following dialogues.\nBobby Hi, Sujan! Why didn’t you come\nto school last week?\nSujan I had the flu. I was in bed\nmost of the time.\nBobby Oh, I'm sorry to hear that.\nHow do you feel now?\nShakil Hello, Manik! Why are you so quiet today?\nManik Did you see that pen my father gave me?\nI've lost it. It was very dear to me!\nShakil Oh, I'm so sorry! How did you lose it?\nManik I don't know! I think I dropped it somewhere.\nShanu Hi, Munira! Have you seen the result?\nMunira I've failed in my math test.\nShanu Oh, that's bad luck!\nMunira —_ don’t know how to tell my parents.\nShanu T think they will understand.\nI know you'll do better next time.\nLanguage Focus\nWhen we hear about any bad news, we say, 'I'm sorry to hear that’\nor ‘That's bad luck’, etc. In response, the other person usually doesn't\nsay anything.\nBI. Practise saying the above conversations in pairs.\nB2. Answer the following questions.\nWhat would you say to somebody who:\nhas won a lottery?\nb has lost a football match?\nc just congratulated you on your good result?\nd__ has been ill?\ne has been selected for a music programme on TV?\nB3. Work with a partner. Make short conversations on the situations\ngiven in B2.",
+  "aiReadyText": "6 English For Today\nLet's now see what we say when we hear about something not good\nor not happy. Read the following dialogues.\nBobby Hi, Sujan! Why didn’t you come\nto school last week?\nSujan I had the flu. I was in bed\nmost of the time.\nBobby Oh, I'm sorry to hear that.\nHow do you feel now?\nShakil Hello, Manik! Why are you so quiet today?\nManik Did you see that pen my father gave me?\nI've lost it. It was very dear to me!\nShakil Oh, I'm so sorry! How did you lose it?\nManik I don't know! I think I dropped it somewhere.\nShanu Hi, Munira! Have you seen the result?\nMunira I've failed in my math test.\nShanu Oh, that's bad luck!\nMunira —_ don’t know how to tell my parents.\nShanu T think they will understand.\nI know you'll do better next time.\nLanguage Focus\nWhen we hear about any bad news, we say, 'I'm sorry to hear that’\nor ‘That's bad luck’, etc. In response, the other person usually doesn't\nBI. Practise saying the above conversations in pairs.\nB2. Answer the following questions.\nWhat would you say to somebody who:\nhas won a lottery?\nb has lost a football match?\nc just congratulated you on your good result?\nd__ has been ill?\ne has been selected for a music programme on TV?\nB3. Work with a partner. Make short conversations on the situations"
+}

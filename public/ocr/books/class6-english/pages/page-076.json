@@ -1,0 +1,661 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 76,
+  "image": "/ocr/books/class6-english/page-images/page-076.png",
+  "width": 1149,
+  "height": 1507,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 24 Our Wage Earners",
+      "cleanText": "Lesson 24 Our Wage Earners",
+      "bbox": {
+        "x": 279,
+        "y": 159,
+        "width": 610,
+        "height": 39
+      },
+      "confidence": 92.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 169,
+        "y": 245,
+        "width": 569,
+        "height": 24
+      },
+      "confidence": 96.11,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-076-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "e ask and answer questions",
+      "cleanText": "e ask and answer questions",
+      "bbox": {
+        "x": 190,
+        "y": 276,
+        "width": 284,
+        "height": 24
+      },
+      "confidence": 86.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "¢ read and understand texts",
+      "cleanText": "¢ read and understand texts",
+      "bbox": {
+        "x": 190,
+        "y": 307,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 83.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "® participate in short dialogues and conversations on familiar topics",
+      "cleanText": "® participate in short dialogues and conversations on familiar topics",
+      "bbox": {
+        "x": 190,
+        "y": 338,
+        "width": 709,
+        "height": 23
+      },
+      "confidence": 91.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "A. Look at the pictures and the words in the following box. Discuss and",
+      "cleanText": "Look at the pictures and the words in the following box. Discuss and",
+      "bbox": {
+        "x": 116,
+        "y": 382,
+        "width": 914,
+        "height": 26
+      },
+      "confidence": 94.29,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-076-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "say which words are related with the pictures.",
+      "cleanText": "say which words are related with the pictures.",
+      "bbox": {
+        "x": 165,
+        "y": 421,
+        "width": 574,
+        "height": 27
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "wage earner, skilled worker, economy, job, tourists, pleasure, abroad,",
+      "cleanText": "wage earner, skilled worker, economy, job, tourists, pleasure, abroad,",
+      "bbox": {
+        "x": 192,
+        "y": 710,
+        "width": 828,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "B, Answer the following questions in pairs, then read the text",
+      "cleanText": "B, Answer the following questions in pairs, then read the text",
+      "bbox": {
+        "x": 123,
+        "y": 790,
+        "width": 911,
+        "height": 28
+      },
+      "confidence": 93.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "e Do you know anyone who has gone abroad to earn a living?",
+      "cleanText": "e Do you know anyone who has gone abroad to earn a living?",
+      "bbox": {
+        "x": 209,
+        "y": 875,
+        "width": 662,
+        "height": 33
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "¢ Which countries do Bangladeshi workers go to?",
+      "cleanText": "¢ Which countries do Bangladeshi workers go to?",
+      "bbox": {
+        "x": 209,
+        "y": 921,
+        "width": 535,
+        "height": 24
+      },
+      "confidence": 92.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "© How much moncy do you think they carn?",
+      "cleanText": "© How much moncy do you think they carn?",
+      "bbox": {
+        "x": 209,
+        "y": 962,
+        "width": 478,
+        "height": 24
+      },
+      "confidence": 90.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "A large number of Bangladeshis go abroad for work. There is always a high",
+      "cleanText": "A large number of Bangladeshis go abroad for work. There is always a high",
+      "bbox": {
+        "x": 175,
+        "y": 1007,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "demand for workers in countries like the UAE, Oman, Saudi Arabia, Qatar,",
+      "cleanText": "demand for workers in countries like the UAE, Oman, Saudi Arabia, Qatar,",
+      "bbox": {
+        "x": 175,
+        "y": 1044,
+        "width": 858,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Bahrain, etc. These countries prefer Bangladeshi workers because they are",
+      "cleanText": "Bahrain, etc. These countries prefer Bangladeshi workers because they are",
+      "bbox": {
+        "x": 176,
+        "y": 1082,
+        "width": 857,
+        "height": 26
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "hard-working. However, it is unfortunate that many of our workers are",
+      "cleanText": "hard-working. However, it is unfortunate that many of our workers are",
+      "bbox": {
+        "x": 175,
+        "y": 1119,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "forced to do \"odd\" jobs in those countries, and as a result, they are not paid",
+      "cleanText": "forced to do \"odd\" jobs in those countries, and as a result, they are not paid",
+      "bbox": {
+        "x": 176,
+        "y": 1156,
+        "width": 857,
+        "height": 26
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "well. One reason for this is that Bangladeshi workers are often not good at",
+      "cleanText": "well. One reason for this is that Bangladeshi workers are often not good at",
+      "bbox": {
+        "x": 175,
+        "y": 1194,
+        "width": 859,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "English, Arabic or other languages which are required abroad. Therefore, it",
+      "cleanText": "English, Arabic or other languages which are required abroad. Therefore, it",
+      "bbox": {
+        "x": 176,
+        "y": 1231,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 94.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "is important for workers to develop their language skills before going to",
+      "cleanText": "is important for workers to develop their language skills before going to",
+      "bbox": {
+        "x": 176,
+        "y": 1269,
+        "width": 857,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "other countries for work. This will help them secure better jobs and receive",
+      "cleanText": "other countries for work. This will help them secure better jobs and receive",
+      "bbox": {
+        "x": 175,
+        "y": 1306,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "the pay and benefits they deserve. In this way, they will be able to support",
+      "cleanText": "the pay and benefits they deserve. In this way, they will be able to support",
+      "bbox": {
+        "x": 175,
+        "y": 1343,
+        "width": 859,
+        "height": 26
+      },
+      "confidence": 94.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "their families better, as well as contribute more effectively to the",
+      "cleanText": "their families better, as well as contribute more effectively to the",
+      "bbox": {
+        "x": 175,
+        "y": 1381,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 95.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "development of our economy.",
+      "cleanText": "development of our economy.",
+      "bbox": {
+        "x": 175,
+        "y": 1418,
+        "width": 338,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-024",
+      "lineNumber": 24
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-076-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 24 Our Wage Earners",
+      "bbox": {
+        "x": 279,
+        "y": 159,
+        "width": 610,
+        "height": 39
+      },
+      "confidence": 92.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-003",
+      "lineNumber": 3,
+      "text": "e ask and answer questions",
+      "bbox": {
+        "x": 190,
+        "y": 276,
+        "width": 284,
+        "height": 24
+      },
+      "confidence": 86.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-004",
+      "lineNumber": 4,
+      "text": "¢ read and understand texts",
+      "bbox": {
+        "x": 190,
+        "y": 307,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 83.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-005",
+      "lineNumber": 5,
+      "text": "® participate in short dialogues and conversations on familiar topics",
+      "bbox": {
+        "x": 190,
+        "y": 338,
+        "width": 709,
+        "height": 23
+      },
+      "confidence": 91.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-007",
+      "lineNumber": 7,
+      "text": "say which words are related with the pictures.",
+      "bbox": {
+        "x": 165,
+        "y": 421,
+        "width": 574,
+        "height": 27
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-008",
+      "lineNumber": 8,
+      "text": "wage earner, skilled worker, economy, job, tourists, pleasure, abroad,",
+      "bbox": {
+        "x": 192,
+        "y": 710,
+        "width": 828,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-009",
+      "lineNumber": 9,
+      "text": "B, Answer the following questions in pairs, then read the text",
+      "bbox": {
+        "x": 123,
+        "y": 790,
+        "width": 911,
+        "height": 28
+      },
+      "confidence": 93.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-010",
+      "lineNumber": 10,
+      "text": "e Do you know anyone who has gone abroad to earn a living?",
+      "bbox": {
+        "x": 209,
+        "y": 875,
+        "width": 662,
+        "height": 33
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-011",
+      "lineNumber": 11,
+      "text": "¢ Which countries do Bangladeshi workers go to?",
+      "bbox": {
+        "x": 209,
+        "y": 921,
+        "width": 535,
+        "height": 24
+      },
+      "confidence": 92.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-012",
+      "lineNumber": 12,
+      "text": "© How much moncy do you think they carn?",
+      "bbox": {
+        "x": 209,
+        "y": 962,
+        "width": 478,
+        "height": 24
+      },
+      "confidence": 90.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-013",
+      "lineNumber": 13,
+      "text": "A large number of Bangladeshis go abroad for work. There is always a high",
+      "bbox": {
+        "x": 175,
+        "y": 1007,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-014",
+      "lineNumber": 14,
+      "text": "demand for workers in countries like the UAE, Oman, Saudi Arabia, Qatar,",
+      "bbox": {
+        "x": 175,
+        "y": 1044,
+        "width": 858,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-015",
+      "lineNumber": 15,
+      "text": "Bahrain, etc. These countries prefer Bangladeshi workers because they are",
+      "bbox": {
+        "x": 176,
+        "y": 1082,
+        "width": 857,
+        "height": 26
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-016",
+      "lineNumber": 16,
+      "text": "hard-working. However, it is unfortunate that many of our workers are",
+      "bbox": {
+        "x": 175,
+        "y": 1119,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-017",
+      "lineNumber": 17,
+      "text": "forced to do \"odd\" jobs in those countries, and as a result, they are not paid",
+      "bbox": {
+        "x": 176,
+        "y": 1156,
+        "width": 857,
+        "height": 26
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-018",
+      "lineNumber": 18,
+      "text": "well. One reason for this is that Bangladeshi workers are often not good at",
+      "bbox": {
+        "x": 175,
+        "y": 1194,
+        "width": 859,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-019",
+      "lineNumber": 19,
+      "text": "English, Arabic or other languages which are required abroad. Therefore, it",
+      "bbox": {
+        "x": 176,
+        "y": 1231,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 94.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-020",
+      "lineNumber": 20,
+      "text": "is important for workers to develop their language skills before going to",
+      "bbox": {
+        "x": 176,
+        "y": 1269,
+        "width": 857,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-021",
+      "lineNumber": 21,
+      "text": "other countries for work. This will help them secure better jobs and receive",
+      "bbox": {
+        "x": 175,
+        "y": 1306,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-022",
+      "lineNumber": 22,
+      "text": "the pay and benefits they deserve. In this way, they will be able to support",
+      "bbox": {
+        "x": 175,
+        "y": 1343,
+        "width": 859,
+        "height": 26
+      },
+      "confidence": 94.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-023",
+      "lineNumber": 23,
+      "text": "their families better, as well as contribute more effectively to the",
+      "bbox": {
+        "x": 175,
+        "y": 1381,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 95.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-024",
+      "lineNumber": 24,
+      "text": "development of our economy.",
+      "bbox": {
+        "x": 175,
+        "y": 1418,
+        "width": 338,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 24 Our Wage Earners\nAfter completing the lesson students will be able to\ne ask and answer questions\n¢ read and understand texts\n® participate in short dialogues and conversations on familiar topics\nA. Look at the pictures and the words in the following box. Discuss and\nsay which words are related with the pictures.\nwage earner, skilled worker, economy, job, tourists, pleasure, abroad,\nB, Answer the following questions in pairs, then read the text\ne Do you know anyone who has gone abroad to earn a living?\n¢ Which countries do Bangladeshi workers go to?\n© How much moncy do you think they carn?\nA large number of Bangladeshis go abroad for work. There is always a high\ndemand for workers in countries like the UAE, Oman, Saudi Arabia, Qatar,\nBahrain, etc. These countries prefer Bangladeshi workers because they are\nhard-working. However, it is unfortunate that many of our workers are\nforced to do \"odd\" jobs in those countries, and as a result, they are not paid\nwell. One reason for this is that Bangladeshi workers are often not good at\nEnglish, Arabic or other languages which are required abroad. Therefore, it\nis important for workers to develop their language skills before going to\nother countries for work. This will help them secure better jobs and receive\nthe pay and benefits they deserve. In this way, they will be able to support\ntheir families better, as well as contribute more effectively to the\ndevelopment of our economy.",
+  "cleanText": "Lesson 24 Our Wage Earners\nAfter completing the lesson students will be able to\ne ask and answer questions\n¢ read and understand texts\n® participate in short dialogues and conversations on familiar topics\nLook at the pictures and the words in the following box. Discuss and\nsay which words are related with the pictures.\nwage earner, skilled worker, economy, job, tourists, pleasure, abroad,\nB, Answer the following questions in pairs, then read the text\ne Do you know anyone who has gone abroad to earn a living?\n¢ Which countries do Bangladeshi workers go to?\n© How much moncy do you think they carn?\nA large number of Bangladeshis go abroad for work. There is always a high\ndemand for workers in countries like the UAE, Oman, Saudi Arabia, Qatar,\nBahrain, etc. These countries prefer Bangladeshi workers because they are\nhard-working. However, it is unfortunate that many of our workers are\nforced to do \"odd\" jobs in those countries, and as a result, they are not paid\nwell. One reason for this is that Bangladeshi workers are often not good at\nEnglish, Arabic or other languages which are required abroad. Therefore, it\nis important for workers to develop their language skills before going to\nother countries for work. This will help them secure better jobs and receive\nthe pay and benefits they deserve. In this way, they will be able to support\ntheir families better, as well as contribute more effectively to the\ndevelopment of our economy.",
+  "aiReadyText": "Lesson 24 Our Wage Earners\ne ask and answer questions\n¢ read and understand texts\n® participate in short dialogues and conversations on familiar topics\nsay which words are related with the pictures.\nwage earner, skilled worker, economy, job, tourists, pleasure, abroad,\nB, Answer the following questions in pairs, then read the text\ne Do you know anyone who has gone abroad to earn a living?\n¢ Which countries do Bangladeshi workers go to?\n© How much moncy do you think they carn?\nA large number of Bangladeshis go abroad for work. There is always a high\ndemand for workers in countries like the UAE, Oman, Saudi Arabia, Qatar,\nBahrain, etc. These countries prefer Bangladeshi workers because they are\nhard-working. However, it is unfortunate that many of our workers are\nforced to do \"odd\" jobs in those countries, and as a result, they are not paid\nwell. One reason for this is that Bangladeshi workers are often not good at\nEnglish, Arabic or other languages which are required abroad. Therefore, it\nis important for workers to develop their language skills before going to\nother countries for work. This will help them secure better jobs and receive\nthe pay and benefits they deserve. In this way, they will be able to support\ntheir families better, as well as contribute more effectively to the\ndevelopment of our economy."
+}

@@ -1,0 +1,450 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 33,
+  "image": "/ocr/books/class6-english/page-images/page-033.png",
+  "width": 1149,
+  "height": 1518,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 9 Health is Wealth",
+      "cleanText": "Lesson 9 Health is Wealth",
+      "bbox": {
+        "x": 293,
+        "y": 185,
+        "width": 572,
+        "height": 31
+      },
+      "confidence": 93.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 185,
+        "y": 265,
+        "width": 569,
+        "height": 23
+      },
+      "confidence": 96.11,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-033-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "ask and answer questions",
+      "cleanText": "ask and answer questions",
+      "bbox": {
+        "x": 224,
+        "y": 296,
+        "width": 265,
+        "height": 24
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "© participate in dialogues and conversations on familiar topics",
+      "cleanText": "© participate in dialogues and conversations on familiar topics",
+      "bbox": {
+        "x": 206,
+        "y": 327,
+        "width": 650,
+        "height": 23
+      },
+      "confidence": 90.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "© read and understand written instructions",
+      "cleanText": "© read and understand written instructions",
+      "bbox": {
+        "x": 206,
+        "y": 357,
+        "width": 440,
+        "height": 19
+      },
+      "confidence": 86.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "read and understand texts",
+      "cleanText": "read and understand texts",
+      "bbox": {
+        "x": 224,
+        "y": 388,
+        "width": 266,
+        "height": 18
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Choose a health problem from the box and write next to the",
+      "cleanText": "Choose a health problem from the box and write next to the",
+      "bbox": {
+        "x": 182,
+        "y": 434,
+        "width": 847,
+        "height": 26
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "appropriate picture. There are names of more problems in the",
+      "cleanText": "appropriate picture. There are names of more problems in the",
+      "bbox": {
+        "x": 182,
+        "y": 473,
+        "width": 855,
+        "height": 27
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "box than are necessary.",
+      "cleanText": "box than are necessary.",
+      "bbox": {
+        "x": 182,
+        "y": 517,
+        "width": 318,
+        "height": 27
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "a fever, a backache, a cough, a headache, a toothache, a skin injury,",
+      "cleanText": "a fever, a backache, a cough, a headache, a toothache, a skin injury,",
+      "bbox": {
+        "x": 197,
+        "y": 569,
+        "width": 831,
+        "height": 24
+      },
+      "confidence": 95.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "a stomachache, a cold, a burn",
+      "cleanText": "a stomachache, a cold, a burn",
+      "bbox": {
+        "x": 197,
+        "y": 600,
+        "width": 331,
+        "height": 23
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Work in pairs. Ask and answer the following questions,",
+      "cleanText": "Work in pairs. Ask and answer the following questions,",
+      "bbox": {
+        "x": 185,
+        "y": 1237,
+        "width": 695,
+        "height": 26
+      },
+      "confidence": 93.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "* Have you had any of these or any other health problems recently?",
+      "cleanText": "* Have you had any of these or any other health problems recently?",
+      "bbox": {
+        "x": 192,
+        "y": 1282,
+        "width": 813,
+        "height": 25
+      },
+      "confidence": 95.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Which ones? or what?",
+      "cleanText": "Which ones? or what?",
+      "bbox": {
+        "x": 210,
+        "y": 1319,
+        "width": 253,
+        "height": 20
+      },
+      "confidence": 96.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "* How many times have you been sick in the year?",
+      "cleanText": "* How many times have you been sick in the year?",
+      "bbox": {
+        "x": 192,
+        "y": 1351,
+        "width": 590,
+        "height": 27
+      },
+      "confidence": 93.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "* What do you do when you have a headache or a cold or a toothache?",
+      "cleanText": "* What do you do when you have a headache or a cold or a toothache?",
+      "bbox": {
+        "x": 192,
+        "y": 1390,
+        "width": 803,
+        "height": 25
+      },
+      "confidence": 94.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-016",
+      "lineNumber": 16
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-033-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 9 Health is Wealth",
+      "bbox": {
+        "x": 293,
+        "y": 185,
+        "width": 572,
+        "height": 31
+      },
+      "confidence": 93.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-003",
+      "lineNumber": 3,
+      "text": "ask and answer questions",
+      "bbox": {
+        "x": 224,
+        "y": 296,
+        "width": 265,
+        "height": 24
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-004",
+      "lineNumber": 4,
+      "text": "© participate in dialogues and conversations on familiar topics",
+      "bbox": {
+        "x": 206,
+        "y": 327,
+        "width": 650,
+        "height": 23
+      },
+      "confidence": 90.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-005",
+      "lineNumber": 5,
+      "text": "© read and understand written instructions",
+      "bbox": {
+        "x": 206,
+        "y": 357,
+        "width": 440,
+        "height": 19
+      },
+      "confidence": 86.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-006",
+      "lineNumber": 6,
+      "text": "read and understand texts",
+      "bbox": {
+        "x": 224,
+        "y": 388,
+        "width": 266,
+        "height": 18
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-007",
+      "lineNumber": 7,
+      "text": "Choose a health problem from the box and write next to the",
+      "bbox": {
+        "x": 182,
+        "y": 434,
+        "width": 847,
+        "height": 26
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-008",
+      "lineNumber": 8,
+      "text": "appropriate picture. There are names of more problems in the",
+      "bbox": {
+        "x": 182,
+        "y": 473,
+        "width": 855,
+        "height": 27
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-009",
+      "lineNumber": 9,
+      "text": "box than are necessary.",
+      "bbox": {
+        "x": 182,
+        "y": 517,
+        "width": 318,
+        "height": 27
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-010",
+      "lineNumber": 10,
+      "text": "a fever, a backache, a cough, a headache, a toothache, a skin injury,",
+      "bbox": {
+        "x": 197,
+        "y": 569,
+        "width": 831,
+        "height": 24
+      },
+      "confidence": 95.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-011",
+      "lineNumber": 11,
+      "text": "a stomachache, a cold, a burn",
+      "bbox": {
+        "x": 197,
+        "y": 600,
+        "width": 331,
+        "height": 23
+      },
+      "confidence": 93.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-012",
+      "lineNumber": 12,
+      "text": "Work in pairs. Ask and answer the following questions,",
+      "bbox": {
+        "x": 185,
+        "y": 1237,
+        "width": 695,
+        "height": 26
+      },
+      "confidence": 93.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-013",
+      "lineNumber": 13,
+      "text": "* Have you had any of these or any other health problems recently?",
+      "bbox": {
+        "x": 192,
+        "y": 1282,
+        "width": 813,
+        "height": 25
+      },
+      "confidence": 95.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-014",
+      "lineNumber": 14,
+      "text": "Which ones? or what?",
+      "bbox": {
+        "x": 210,
+        "y": 1319,
+        "width": 253,
+        "height": 20
+      },
+      "confidence": 96.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-015",
+      "lineNumber": 15,
+      "text": "* How many times have you been sick in the year?",
+      "bbox": {
+        "x": 192,
+        "y": 1351,
+        "width": 590,
+        "height": 27
+      },
+      "confidence": 93.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-016",
+      "lineNumber": 16,
+      "text": "* What do you do when you have a headache or a cold or a toothache?",
+      "bbox": {
+        "x": 192,
+        "y": 1390,
+        "width": 803,
+        "height": 25
+      },
+      "confidence": 94.12,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 9 Health is Wealth\nAfter completing the lesson students will be able to\nask and answer questions\n© participate in dialogues and conversations on familiar topics\n© read and understand written instructions\nread and understand texts\nChoose a health problem from the box and write next to the\nappropriate picture. There are names of more problems in the\nbox than are necessary.\na fever, a backache, a cough, a headache, a toothache, a skin injury,\na stomachache, a cold, a burn\nWork in pairs. Ask and answer the following questions,\n* Have you had any of these or any other health problems recently?\nWhich ones? or what?\n* How many times have you been sick in the year?\n* What do you do when you have a headache or a cold or a toothache?",
+  "cleanText": "Lesson 9 Health is Wealth\nAfter completing the lesson students will be able to\nask and answer questions\n© participate in dialogues and conversations on familiar topics\n© read and understand written instructions\nread and understand texts\nChoose a health problem from the box and write next to the\nappropriate picture. There are names of more problems in the\nbox than are necessary.\na fever, a backache, a cough, a headache, a toothache, a skin injury,\na stomachache, a cold, a burn\nWork in pairs. Ask and answer the following questions,\n* Have you had any of these or any other health problems recently?\nWhich ones? or what?\n* How many times have you been sick in the year?\n* What do you do when you have a headache or a cold or a toothache?",
+  "aiReadyText": "Lesson 9 Health is Wealth\nask and answer questions\n© participate in dialogues and conversations on familiar topics\n© read and understand written instructions\nread and understand texts\nChoose a health problem from the box and write next to the\nappropriate picture. There are names of more problems in the\nbox than are necessary.\na fever, a backache, a cough, a headache, a toothache, a skin injury,\na stomachache, a cold, a burn\nWork in pairs. Ask and answer the following questions,\n* Have you had any of these or any other health problems recently?\nWhich ones? or what?\n* How many times have you been sick in the year?\n* What do you do when you have a headache or a cold or a toothache?"
+}

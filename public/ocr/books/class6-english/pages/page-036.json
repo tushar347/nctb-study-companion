@@ -1,0 +1,605 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 36,
+  "image": "/ocr/books/class6-english/page-images/page-036.png",
+  "width": 1149,
+  "height": 1518,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 31",
+      "cleanText": "English For Today 31",
+      "bbox": {
+        "x": 127,
+        "y": 92,
+        "width": 906,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Some important rules of good personal health are as follows:",
+      "cleanText": "Some important rules of good personal health are as follows:",
+      "bbox": {
+        "x": 177,
+        "y": 169,
+        "width": 692,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "a. Balanced diet: Our food should contain correct proportion of",
+      "cleanText": "Balanced diet: Our food should contain correct proportion of",
+      "bbox": {
+        "x": 176,
+        "y": 233,
+        "width": 743,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "carbohydrates, fat, protein, vitamins, minerals and water in it.",
+      "cleanText": "carbohydrates, fat, protein, vitamins, minerals and water in it.",
+      "bbox": {
+        "x": 208,
+        "y": 284,
+        "width": 701,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "b. Personal hygiene: We should follow the personal health practices,",
+      "cleanText": "Personal hygiene: We should follow the personal health practices,",
+      "bbox": {
+        "x": 175,
+        "y": 332,
+        "width": 736,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "such as,",
+      "cleanText": "such as,",
+      "bbox": {
+        "x": 218,
+        "y": 376,
+        "width": 80,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-036-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": ". Wash your hands before eating",
+      "cleanText": ". Wash your hands before eating",
+      "bbox": {
+        "x": 217,
+        "y": 440,
+        "width": 424,
+        "height": 26
+      },
+      "confidence": 89.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": ". Bathe regularly and wear clean clothes",
+      "cleanText": ". Bathe regularly and wear clean clothes",
+      "bbox": {
+        "x": 217,
+        "y": 484,
+        "width": 514,
+        "height": 26
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": ". Brush your teeth twice regularly",
+      "cleanText": ". Brush your teeth twice regularly",
+      "bbox": {
+        "x": 217,
+        "y": 528,
+        "width": 440,
+        "height": 26
+      },
+      "confidence": 89.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": ". Do not let your nails grow long. Cut them regularly.",
+      "cleanText": ". Do not let your nails grow long. Cut them regularly.",
+      "bbox": {
+        "x": 217,
+        "y": 572,
+        "width": 664,
+        "height": 26
+      },
+      "confidence": 93.09,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Wash your feet and hands before going to bed.",
+      "cleanText": "Wash your feet and hands before going to bed.",
+      "bbox": {
+        "x": 290,
+        "y": 616,
+        "width": 529,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "c. Cleaning household: We should keep our household and environment",
+      "cleanText": "Cleaning household: We should keep our household and environment",
+      "bbox": {
+        "x": 171,
+        "y": 663,
+        "width": 856,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "d. Taking clean food and water: Our food should be fresh, clean and properly",
+      "cleanText": "Taking clean food and water: Our food should be fresh, clean and properly",
+      "bbox": {
+        "x": 171,
+        "y": 758,
+        "width": 858,
+        "height": 25
+      },
+      "confidence": 95.21,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "cooked, and water should be pure.",
+      "cleanText": "cooked, and water should be pure.",
+      "bbox": {
+        "x": 216,
+        "y": 804,
+        "width": 376,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "e. Taking regular exercise: We should take part in games and sports and take",
+      "cleanText": "e. Taking regular exercise: We should take part in games and sports and take",
+      "bbox": {
+        "x": 171,
+        "y": 850,
+        "width": 863,
+        "height": 26
+      },
+      "confidence": 94.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "physical exercise regularly.",
+      "cleanText": "physical exercise regularly.",
+      "bbox": {
+        "x": 216,
+        "y": 901,
+        "width": 298,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "f. Taking regular sleep and rest: We should sleep properly and take proper",
+      "cleanText": "f. Taking regular sleep and rest: We should sleep properly and take proper",
+      "bbox": {
+        "x": 179,
+        "y": 958,
+        "width": 853,
+        "height": 25
+      },
+      "confidence": 95.31,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Answer the following questions.",
+      "cleanText": "Answer the following questions.",
+      "bbox": {
+        "x": 200,
+        "y": 1032,
+        "width": 399,
+        "height": 27
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-036-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "What do we mean by hygiene?",
+      "cleanText": "What do we mean by hygiene?",
+      "bbox": {
+        "x": 242,
+        "y": 1082,
+        "width": 352,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "What are essential for good health?",
+      "cleanText": "What are essential for good health?",
+      "bbox": {
+        "x": 242,
+        "y": 1123,
+        "width": 403,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "What do we mean by balanced diet?",
+      "cleanText": "What do we mean by balanced diet?",
+      "bbox": {
+        "x": 242,
+        "y": 1167,
+        "width": 413,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "What are the rules of personal hygiene?",
+      "cleanText": "What are the rules of personal hygiene?",
+      "bbox": {
+        "x": 246,
+        "y": 1209,
+        "width": 452,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-036-line-022",
+      "lineNumber": 22
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-036-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 31",
+      "bbox": {
+        "x": 127,
+        "y": 92,
+        "width": 906,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-036-line-002",
+      "lineNumber": 2,
+      "text": "Some important rules of good personal health are as follows:",
+      "bbox": {
+        "x": 177,
+        "y": 169,
+        "width": 692,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-036-line-003",
+      "lineNumber": 3,
+      "text": "Balanced diet: Our food should contain correct proportion of",
+      "bbox": {
+        "x": 176,
+        "y": 233,
+        "width": 743,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-036-line-004",
+      "lineNumber": 4,
+      "text": "carbohydrates, fat, protein, vitamins, minerals and water in it.",
+      "bbox": {
+        "x": 208,
+        "y": 284,
+        "width": 701,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-036-line-005",
+      "lineNumber": 5,
+      "text": "Personal hygiene: We should follow the personal health practices,",
+      "bbox": {
+        "x": 175,
+        "y": 332,
+        "width": 736,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-036-line-007",
+      "lineNumber": 7,
+      "text": ". Wash your hands before eating",
+      "bbox": {
+        "x": 217,
+        "y": 440,
+        "width": 424,
+        "height": 26
+      },
+      "confidence": 89.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-036-line-008",
+      "lineNumber": 8,
+      "text": ". Bathe regularly and wear clean clothes",
+      "bbox": {
+        "x": 217,
+        "y": 484,
+        "width": 514,
+        "height": 26
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-036-line-009",
+      "lineNumber": 9,
+      "text": ". Brush your teeth twice regularly",
+      "bbox": {
+        "x": 217,
+        "y": 528,
+        "width": 440,
+        "height": 26
+      },
+      "confidence": 89.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-036-line-010",
+      "lineNumber": 10,
+      "text": ". Do not let your nails grow long. Cut them regularly.",
+      "bbox": {
+        "x": 217,
+        "y": 572,
+        "width": 664,
+        "height": 26
+      },
+      "confidence": 93.09,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-036-line-011",
+      "lineNumber": 11,
+      "text": "Wash your feet and hands before going to bed.",
+      "bbox": {
+        "x": 290,
+        "y": 616,
+        "width": 529,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-036-line-012",
+      "lineNumber": 12,
+      "text": "Cleaning household: We should keep our household and environment",
+      "bbox": {
+        "x": 171,
+        "y": 663,
+        "width": 856,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-036-line-013",
+      "lineNumber": 13,
+      "text": "Taking clean food and water: Our food should be fresh, clean and properly",
+      "bbox": {
+        "x": 171,
+        "y": 758,
+        "width": 858,
+        "height": 25
+      },
+      "confidence": 95.21,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-036-line-014",
+      "lineNumber": 14,
+      "text": "cooked, and water should be pure.",
+      "bbox": {
+        "x": 216,
+        "y": 804,
+        "width": 376,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-036-line-015",
+      "lineNumber": 15,
+      "text": "e. Taking regular exercise: We should take part in games and sports and take",
+      "bbox": {
+        "x": 171,
+        "y": 850,
+        "width": 863,
+        "height": 26
+      },
+      "confidence": 94.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-036-line-016",
+      "lineNumber": 16,
+      "text": "physical exercise regularly.",
+      "bbox": {
+        "x": 216,
+        "y": 901,
+        "width": 298,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-036-line-017",
+      "lineNumber": 17,
+      "text": "f. Taking regular sleep and rest: We should sleep properly and take proper",
+      "bbox": {
+        "x": 179,
+        "y": 958,
+        "width": 853,
+        "height": 25
+      },
+      "confidence": 95.31,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-036-line-019",
+      "lineNumber": 19,
+      "text": "What do we mean by hygiene?",
+      "bbox": {
+        "x": 242,
+        "y": 1082,
+        "width": 352,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-036-line-020",
+      "lineNumber": 20,
+      "text": "What are essential for good health?",
+      "bbox": {
+        "x": 242,
+        "y": 1123,
+        "width": 403,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-036-line-021",
+      "lineNumber": 21,
+      "text": "What do we mean by balanced diet?",
+      "bbox": {
+        "x": 242,
+        "y": 1167,
+        "width": 413,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-036-line-022",
+      "lineNumber": 22,
+      "text": "What are the rules of personal hygiene?",
+      "bbox": {
+        "x": 246,
+        "y": 1209,
+        "width": 452,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 31\nSome important rules of good personal health are as follows:\na. Balanced diet: Our food should contain correct proportion of\ncarbohydrates, fat, protein, vitamins, minerals and water in it.\nb. Personal hygiene: We should follow the personal health practices,\nsuch as,\n. Wash your hands before eating\n. Bathe regularly and wear clean clothes\n. Brush your teeth twice regularly\n. Do not let your nails grow long. Cut them regularly.\nWash your feet and hands before going to bed.\nc. Cleaning household: We should keep our household and environment\nd. Taking clean food and water: Our food should be fresh, clean and properly\ncooked, and water should be pure.\ne. Taking regular exercise: We should take part in games and sports and take\nphysical exercise regularly.\nf. Taking regular sleep and rest: We should sleep properly and take proper\nAnswer the following questions.\nWhat do we mean by hygiene?\nWhat are essential for good health?\nWhat do we mean by balanced diet?\nWhat are the rules of personal hygiene?",
+  "cleanText": "English For Today 31\nSome important rules of good personal health are as follows:\nBalanced diet: Our food should contain correct proportion of\ncarbohydrates, fat, protein, vitamins, minerals and water in it.\nPersonal hygiene: We should follow the personal health practices,\nsuch as,\n. Wash your hands before eating\n. Bathe regularly and wear clean clothes\n. Brush your teeth twice regularly\n. Do not let your nails grow long. Cut them regularly.\nWash your feet and hands before going to bed.\nCleaning household: We should keep our household and environment\nTaking clean food and water: Our food should be fresh, clean and properly\ncooked, and water should be pure.\ne. Taking regular exercise: We should take part in games and sports and take\nphysical exercise regularly.\nf. Taking regular sleep and rest: We should sleep properly and take proper\nAnswer the following questions.\nWhat do we mean by hygiene?\nWhat are essential for good health?\nWhat do we mean by balanced diet?\nWhat are the rules of personal hygiene?",
+  "aiReadyText": "English For Today 31\nSome important rules of good personal health are as follows:\nBalanced diet: Our food should contain correct proportion of\ncarbohydrates, fat, protein, vitamins, minerals and water in it.\nPersonal hygiene: We should follow the personal health practices,\n. Wash your hands before eating\n. Bathe regularly and wear clean clothes\n. Brush your teeth twice regularly\n. Do not let your nails grow long. Cut them regularly.\nWash your feet and hands before going to bed.\nCleaning household: We should keep our household and environment\nTaking clean food and water: Our food should be fresh, clean and properly\ncooked, and water should be pure.\ne. Taking regular exercise: We should take part in games and sports and take\nphysical exercise regularly.\nf. Taking regular sleep and rest: We should sleep properly and take proper\nWhat do we mean by hygiene?\nWhat are essential for good health?\nWhat do we mean by balanced diet?\nWhat are the rules of personal hygiene?"
+}

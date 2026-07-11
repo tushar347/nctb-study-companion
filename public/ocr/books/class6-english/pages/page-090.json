@@ -1,0 +1,564 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 90,
+  "image": "/ocr/books/class6-english/page-images/page-090.png",
+  "width": 1149,
+  "height": 1514,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 85",
+      "cleanText": "English For Today 85",
+      "bbox": {
+        "x": 121,
+        "y": 88,
+        "width": 914,
+        "height": 26
+      },
+      "confidence": 92.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "A2, Read the following passage. Choose a word from the list of words",
+      "cleanText": "A2, Read the following passage. Choose a word from the list of words",
+      "bbox": {
+        "x": 117,
+        "y": 161,
+        "width": 916,
+        "height": 26
+      },
+      "confidence": 91.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "below to fill in each of the blanks in the sentences.",
+      "cleanText": "below to fill in each of the blanks in the sentences.",
+      "bbox": {
+        "x": 192,
+        "y": 200,
+        "width": 630,
+        "height": 21
+      },
+      "confidence": 95.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "coke | note",
+      "cleanText": "coke | note",
+      "bbox": {
+        "x": 846,
+        "y": 283,
+        "width": 149,
+        "height": 33
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-090-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "phone | bowl | hope",
+      "cleanText": "phone | bowl | hope",
+      "bbox": {
+        "x": 204,
+        "y": 284,
+        "width": 275,
+        "height": 38
+      },
+      "confidence": 84.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "home | stove | close",
+      "cleanText": "home | stove | close",
+      "bbox": {
+        "x": 526,
+        "y": 286,
+        "width": 277,
+        "height": 35
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "I was waiting formy friend Shila. But since she was late, 1 thought I",
+      "cleanText": "I was waiting formy friend Shila. But since she was late, 1 thought I",
+      "bbox": {
+        "x": 195,
+        "y": 389,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 89.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "would just go to the bookstore and get some stationery from there. Bu",
+      "cleanText": "would just go to the bookstore and get some stationery from there. Bu",
+      "bbox": {
+        "x": 193,
+        "y": 437,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 94.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": ", | left the following next to the",
+      "cleanText": ", | left the following next to the",
+      "bbox": {
+        "x": 476,
+        "y": 485,
+        "width": 446,
+        "height": 26
+      },
+      "confidence": 84.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "before leaving",
+      "cleanText": "before leaving",
+      "bbox": {
+        "x": 190,
+        "y": 487,
+        "width": 179,
+        "height": 26
+      },
+      "confidence": 79.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Sorry, going out. Won't take long.",
+      "cleanText": "Sorry, going out. Won't take long.",
+      "bbox": {
+        "x": 263,
+        "y": 617,
+        "width": 457,
+        "height": 61
+      },
+      "confidence": 88.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "and a",
+      "cleanText": "and a",
+      "bbox": {
+        "x": 618,
+        "y": 673,
+        "width": 64,
+        "height": 24
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-090-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "{ve left two cans of",
+      "cleanText": "{ve left two cans of",
+      "bbox": {
+        "x": 267,
+        "y": 687,
+        "width": 242,
+        "height": 44
+      },
+      "confidence": 85.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "of fruits on the table.",
+      "cleanText": "of fruits on the table.",
+      "bbox": {
+        "x": 281,
+        "y": 741,
+        "width": 262,
+        "height": 44
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "There is a box of biscuits neat the be",
+      "cleanText": "There is a box of biscuits neat the be",
+      "bbox": {
+        "x": 278,
+        "y": 779,
+        "width": 450,
+        "height": 61
+      },
+      "confidence": 92.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "forget to the lid of the box tightly.",
+      "cleanText": "forget to the lid of the box tightly.",
+      "bbox": {
+        "x": 373,
+        "y": 819,
+        "width": 513,
+        "height": 68
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Don't forg",
+      "cleanText": "Don't forg",
+      "bbox": {
+        "x": 300,
+        "y": 868,
+        "width": 123,
+        "height": 26
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-090-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "If you want tea, the kettle is on the",
+      "cleanText": "If you want tea, the kettle is on the",
+      "bbox": {
+        "x": 289,
+        "y": 891,
+        "width": 423,
+        "height": 63
+      },
+      "confidence": 93.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "to be back in half an hour.",
+      "cleanText": "to be back in half an hour.",
+      "bbox": {
+        "x": 478,
+        "y": 935,
+        "width": 318,
+        "height": 52
+      },
+      "confidence": 93.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Read the note for Shila loudly with proper pronunciation, stress",
+      "cleanText": "Read the note for Shila loudly with proper pronunciation, stress",
+      "bbox": {
+        "x": 193,
+        "y": 1085,
+        "width": 839,
+        "height": 27
+      },
+      "confidence": 95.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "and intonation.",
+      "cleanText": "and intonation.",
+      "bbox": {
+        "x": 193,
+        "y": 1123,
+        "width": 196,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-021",
+      "lineNumber": 21
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-090-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 85",
+      "bbox": {
+        "x": 121,
+        "y": 88,
+        "width": 914,
+        "height": 26
+      },
+      "confidence": 92.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-002",
+      "lineNumber": 2,
+      "text": "A2, Read the following passage. Choose a word from the list of words",
+      "bbox": {
+        "x": 117,
+        "y": 161,
+        "width": 916,
+        "height": 26
+      },
+      "confidence": 91.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-003",
+      "lineNumber": 3,
+      "text": "below to fill in each of the blanks in the sentences.",
+      "bbox": {
+        "x": 192,
+        "y": 200,
+        "width": 630,
+        "height": 21
+      },
+      "confidence": 95.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-005",
+      "lineNumber": 5,
+      "text": "phone | bowl | hope",
+      "bbox": {
+        "x": 204,
+        "y": 284,
+        "width": 275,
+        "height": 38
+      },
+      "confidence": 84.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-006",
+      "lineNumber": 6,
+      "text": "home | stove | close",
+      "bbox": {
+        "x": 526,
+        "y": 286,
+        "width": 277,
+        "height": 35
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-007",
+      "lineNumber": 7,
+      "text": "I was waiting formy friend Shila. But since she was late, 1 thought I",
+      "bbox": {
+        "x": 195,
+        "y": 389,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 89.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-008",
+      "lineNumber": 8,
+      "text": "would just go to the bookstore and get some stationery from there. Bu",
+      "bbox": {
+        "x": 193,
+        "y": 437,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 94.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-009",
+      "lineNumber": 9,
+      "text": ", | left the following next to the",
+      "bbox": {
+        "x": 476,
+        "y": 485,
+        "width": 446,
+        "height": 26
+      },
+      "confidence": 84.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-010",
+      "lineNumber": 10,
+      "text": "before leaving",
+      "bbox": {
+        "x": 190,
+        "y": 487,
+        "width": 179,
+        "height": 26
+      },
+      "confidence": 79.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-011",
+      "lineNumber": 11,
+      "text": "Sorry, going out. Won't take long.",
+      "bbox": {
+        "x": 263,
+        "y": 617,
+        "width": 457,
+        "height": 61
+      },
+      "confidence": 88.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-013",
+      "lineNumber": 13,
+      "text": "{ve left two cans of",
+      "bbox": {
+        "x": 267,
+        "y": 687,
+        "width": 242,
+        "height": 44
+      },
+      "confidence": 85.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-014",
+      "lineNumber": 14,
+      "text": "of fruits on the table.",
+      "bbox": {
+        "x": 281,
+        "y": 741,
+        "width": 262,
+        "height": 44
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-015",
+      "lineNumber": 15,
+      "text": "There is a box of biscuits neat the be",
+      "bbox": {
+        "x": 278,
+        "y": 779,
+        "width": 450,
+        "height": 61
+      },
+      "confidence": 92.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-016",
+      "lineNumber": 16,
+      "text": "forget to the lid of the box tightly.",
+      "bbox": {
+        "x": 373,
+        "y": 819,
+        "width": 513,
+        "height": 68
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-018",
+      "lineNumber": 18,
+      "text": "If you want tea, the kettle is on the",
+      "bbox": {
+        "x": 289,
+        "y": 891,
+        "width": 423,
+        "height": 63
+      },
+      "confidence": 93.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-019",
+      "lineNumber": 19,
+      "text": "to be back in half an hour.",
+      "bbox": {
+        "x": 478,
+        "y": 935,
+        "width": 318,
+        "height": 52
+      },
+      "confidence": 93.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-020",
+      "lineNumber": 20,
+      "text": "Read the note for Shila loudly with proper pronunciation, stress",
+      "bbox": {
+        "x": 193,
+        "y": 1085,
+        "width": 839,
+        "height": 27
+      },
+      "confidence": 95.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-021",
+      "lineNumber": 21,
+      "text": "and intonation.",
+      "bbox": {
+        "x": 193,
+        "y": 1123,
+        "width": 196,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 85\nA2, Read the following passage. Choose a word from the list of words\nbelow to fill in each of the blanks in the sentences.\ncoke | note\nphone | bowl | hope\nhome | stove | close\nI was waiting formy friend Shila. But since she was late, 1 thought I\nwould just go to the bookstore and get some stationery from there. Bu\n, | left the following next to the\nbefore leaving\nSorry, going out. Won't take long.\nand a\n{ve left two cans of\nof fruits on the table.\nThere is a box of biscuits neat the be\nforget to the lid of the box tightly.\nDon't forg\nIf you want tea, the kettle is on the\nto be back in half an hour.\nRead the note for Shila loudly with proper pronunciation, stress\nand intonation.",
+  "cleanText": "English For Today 85\nA2, Read the following passage. Choose a word from the list of words\nbelow to fill in each of the blanks in the sentences.\ncoke | note\nphone | bowl | hope\nhome | stove | close\nI was waiting formy friend Shila. But since she was late, 1 thought I\nwould just go to the bookstore and get some stationery from there. Bu\n, | left the following next to the\nbefore leaving\nSorry, going out. Won't take long.\nand a\n{ve left two cans of\nof fruits on the table.\nThere is a box of biscuits neat the be\nforget to the lid of the box tightly.\nDon't forg\nIf you want tea, the kettle is on the\nto be back in half an hour.\nRead the note for Shila loudly with proper pronunciation, stress\nand intonation.",
+  "aiReadyText": "English For Today 85\nA2, Read the following passage. Choose a word from the list of words\nbelow to fill in each of the blanks in the sentences.\nphone | bowl | hope\nhome | stove | close\nI was waiting formy friend Shila. But since she was late, 1 thought I\nwould just go to the bookstore and get some stationery from there. Bu\n, | left the following next to the\nbefore leaving\nSorry, going out. Won't take long.\n{ve left two cans of\nof fruits on the table.\nThere is a box of biscuits neat the be\nforget to the lid of the box tightly.\nIf you want tea, the kettle is on the\nto be back in half an hour.\nRead the note for Shila loudly with proper pronunciation, stress\nand intonation."
+}

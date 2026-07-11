@@ -1,0 +1,635 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 55,
+  "image": "/ocr/books/class6-english/page-images/page-055.png",
+  "width": 1149,
+  "height": 1504,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "all love her very much. She tells them about her school and friends, her",
+      "cleanText": "all love her very much. She tells them about her school and friends, her",
+      "bbox": {
+        "x": 142,
+        "y": 154,
+        "width": 881,
+        "height": 27
+      },
+      "confidence": 89.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "studies, her family. And they often tell her funny stories, fairy tales and ghost",
+      "cleanText": "studies, her family. And they often tell her funny stories, fairy tales and ghost",
+      "bbox": {
+        "x": 140,
+        "y": 190,
+        "width": 890,
+        "height": 26
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "stories.",
+      "cleanText": "stories.",
+      "bbox": {
+        "x": 140,
+        "y": 226,
+        "width": 78,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-055-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Read the text carefully again and match the words on the left with",
+      "cleanText": "Read the text carefully again and match the words on the left with",
+      "bbox": {
+        "x": 183,
+        "y": 284,
+        "width": 834,
+        "height": 27
+      },
+      "confidence": 96.15,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "the words on the right that have similar meanings.",
+      "cleanText": "the words on the right that have similar meanings.",
+      "bbox": {
+        "x": 182,
+        "y": 324,
+        "width": 636,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "bored woman whose husband has died and who hasn't married again",
+      "cleanText": "bored woman whose husband has died and who hasn't married again",
+      "bbox": {
+        "x": 203,
+        "y": 391,
+        "width": 809,
+        "height": 26
+      },
+      "confidence": 93.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "miserable | a person with whom one works in a profession",
+      "cleanText": "miserable | a person with whom one works in a profession",
+      "bbox": {
+        "x": 204,
+        "y": 435,
+        "width": 680,
+        "height": 34
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "colleague | feeling tired because one does not find interest in something",
+      "cleanText": "colleague | feeling tired because one does not find interest in something",
+      "bbox": {
+        "x": 203,
+        "y": 484,
+        "width": 811,
+        "height": 33
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "widow help",
+      "cleanText": "widow help",
+      "bbox": {
+        "x": 204,
+        "y": 536,
+        "width": 189,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-055-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "support very unhappy",
+      "cleanText": "support very unhappy",
+      "bbox": {
+        "x": 204,
+        "y": 587,
+        "width": 295,
+        "height": 34
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Read the following sentences and say if they are true or false. If false,",
+      "cleanText": "Read the following sentences and say if they are true or false. If false,",
+      "bbox": {
+        "x": 173,
+        "y": 692,
+        "width": 838,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-055-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "then give the right answers.",
+      "cleanText": "then give the right answers.",
+      "bbox": {
+        "x": 175,
+        "y": 732,
+        "width": 339,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Suraiya Begum spends most of her time taking care of her family.",
+      "cleanText": "Suraiya Begum spends most of her time taking care of her family.",
+      "bbox": {
+        "x": 237,
+        "y": 794,
+        "width": 755,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "She wants to set up a school for adults whe cannot read or write.",
+      "cleanText": "She wants to set up a school for adults whe cannot read or write.",
+      "bbox": {
+        "x": 237,
+        "y": 838,
+        "width": 735,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "There is already an old people's home in the town.",
+      "cleanText": "There is already an old people's home in the town.",
+      "bbox": {
+        "x": 236,
+        "y": 882,
+        "width": 573,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Mariam enjoys spending time with her aunt.",
+      "cleanText": "Mariam enjoys spending time with her aunt.",
+      "bbox": {
+        "x": 237,
+        "y": 926,
+        "width": 503,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "The old people Mariam visits do not like children’s presence.",
+      "cleanText": "The old people Mariam visits do not like children’s presence.",
+      "bbox": {
+        "x": 236,
+        "y": 970,
+        "width": 695,
+        "height": 25
+      },
+      "confidence": 94.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Read the following letter:",
+      "cleanText": "Read the following letter:",
+      "bbox": {
+        "x": 181,
+        "y": 1026,
+        "width": 321,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-055-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Suraiya Begum needs many",
+      "cleanText": "Suraiya Begum needs many",
+      "bbox": {
+        "x": 182,
+        "y": 1097,
+        "width": 378,
+        "height": 26
+      },
+      "confidence": 93.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "people's help to make her dream",
+      "cleanText": "people's help to make her dream",
+      "bbox": {
+        "x": 181,
+        "y": 1137,
+        "width": 379,
+        "height": 25
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "come true. She sits down to write",
+      "cleanText": "come true. She sits down to write",
+      "bbox": {
+        "x": 181,
+        "y": 1176,
+        "width": 379,
+        "height": 20
+      },
+      "confidence": 96.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "letter toa friend who was her",
+      "cleanText": "letter toa friend who was her",
+      "bbox": {
+        "x": 208,
+        "y": 1216,
+        "width": 353,
+        "height": 20
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "colleague and who now lives in",
+      "cleanText": "colleague and who now lives in",
+      "bbox": {
+        "x": 181,
+        "y": 1256,
+        "width": 379,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "the next town.",
+      "cleanText": "the next town.",
+      "bbox": {
+        "x": 181,
+        "y": 1295,
+        "width": 159,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-024",
+      "lineNumber": 24
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-055-line-001",
+      "lineNumber": 1,
+      "text": "all love her very much. She tells them about her school and friends, her",
+      "bbox": {
+        "x": 142,
+        "y": 154,
+        "width": 881,
+        "height": 27
+      },
+      "confidence": 89.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-002",
+      "lineNumber": 2,
+      "text": "studies, her family. And they often tell her funny stories, fairy tales and ghost",
+      "bbox": {
+        "x": 140,
+        "y": 190,
+        "width": 890,
+        "height": 26
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-004",
+      "lineNumber": 4,
+      "text": "Read the text carefully again and match the words on the left with",
+      "bbox": {
+        "x": 183,
+        "y": 284,
+        "width": 834,
+        "height": 27
+      },
+      "confidence": 96.15,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-005",
+      "lineNumber": 5,
+      "text": "the words on the right that have similar meanings.",
+      "bbox": {
+        "x": 182,
+        "y": 324,
+        "width": 636,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-006",
+      "lineNumber": 6,
+      "text": "bored woman whose husband has died and who hasn't married again",
+      "bbox": {
+        "x": 203,
+        "y": 391,
+        "width": 809,
+        "height": 26
+      },
+      "confidence": 93.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-007",
+      "lineNumber": 7,
+      "text": "miserable | a person with whom one works in a profession",
+      "bbox": {
+        "x": 204,
+        "y": 435,
+        "width": 680,
+        "height": 34
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-008",
+      "lineNumber": 8,
+      "text": "colleague | feeling tired because one does not find interest in something",
+      "bbox": {
+        "x": 203,
+        "y": 484,
+        "width": 811,
+        "height": 33
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-010",
+      "lineNumber": 10,
+      "text": "support very unhappy",
+      "bbox": {
+        "x": 204,
+        "y": 587,
+        "width": 295,
+        "height": 34
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-012",
+      "lineNumber": 12,
+      "text": "then give the right answers.",
+      "bbox": {
+        "x": 175,
+        "y": 732,
+        "width": 339,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-013",
+      "lineNumber": 13,
+      "text": "Suraiya Begum spends most of her time taking care of her family.",
+      "bbox": {
+        "x": 237,
+        "y": 794,
+        "width": 755,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-014",
+      "lineNumber": 14,
+      "text": "She wants to set up a school for adults whe cannot read or write.",
+      "bbox": {
+        "x": 237,
+        "y": 838,
+        "width": 735,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-015",
+      "lineNumber": 15,
+      "text": "There is already an old people's home in the town.",
+      "bbox": {
+        "x": 236,
+        "y": 882,
+        "width": 573,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-016",
+      "lineNumber": 16,
+      "text": "Mariam enjoys spending time with her aunt.",
+      "bbox": {
+        "x": 237,
+        "y": 926,
+        "width": 503,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-017",
+      "lineNumber": 17,
+      "text": "The old people Mariam visits do not like children’s presence.",
+      "bbox": {
+        "x": 236,
+        "y": 970,
+        "width": 695,
+        "height": 25
+      },
+      "confidence": 94.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-019",
+      "lineNumber": 19,
+      "text": "Suraiya Begum needs many",
+      "bbox": {
+        "x": 182,
+        "y": 1097,
+        "width": 378,
+        "height": 26
+      },
+      "confidence": 93.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-020",
+      "lineNumber": 20,
+      "text": "people's help to make her dream",
+      "bbox": {
+        "x": 181,
+        "y": 1137,
+        "width": 379,
+        "height": 25
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-021",
+      "lineNumber": 21,
+      "text": "come true. She sits down to write",
+      "bbox": {
+        "x": 181,
+        "y": 1176,
+        "width": 379,
+        "height": 20
+      },
+      "confidence": 96.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-022",
+      "lineNumber": 22,
+      "text": "letter toa friend who was her",
+      "bbox": {
+        "x": 208,
+        "y": 1216,
+        "width": 353,
+        "height": 20
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-023",
+      "lineNumber": 23,
+      "text": "colleague and who now lives in",
+      "bbox": {
+        "x": 181,
+        "y": 1256,
+        "width": 379,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-024",
+      "lineNumber": 24,
+      "text": "the next town.",
+      "bbox": {
+        "x": 181,
+        "y": 1295,
+        "width": 159,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "all love her very much. She tells them about her school and friends, her\nstudies, her family. And they often tell her funny stories, fairy tales and ghost\nstories.\nRead the text carefully again and match the words on the left with\nthe words on the right that have similar meanings.\nbored woman whose husband has died and who hasn't married again\nmiserable | a person with whom one works in a profession\ncolleague | feeling tired because one does not find interest in something\nwidow help\nsupport very unhappy\nRead the following sentences and say if they are true or false. If false,\nthen give the right answers.\nSuraiya Begum spends most of her time taking care of her family.\nShe wants to set up a school for adults whe cannot read or write.\nThere is already an old people's home in the town.\nMariam enjoys spending time with her aunt.\nThe old people Mariam visits do not like children’s presence.\nRead the following letter:\nSuraiya Begum needs many\npeople's help to make her dream\ncome true. She sits down to write\nletter toa friend who was her\ncolleague and who now lives in\nthe next town.",
+  "cleanText": "all love her very much. She tells them about her school and friends, her\nstudies, her family. And they often tell her funny stories, fairy tales and ghost\nstories.\nRead the text carefully again and match the words on the left with\nthe words on the right that have similar meanings.\nbored woman whose husband has died and who hasn't married again\nmiserable | a person with whom one works in a profession\ncolleague | feeling tired because one does not find interest in something\nwidow help\nsupport very unhappy\nRead the following sentences and say if they are true or false. If false,\nthen give the right answers.\nSuraiya Begum spends most of her time taking care of her family.\nShe wants to set up a school for adults whe cannot read or write.\nThere is already an old people's home in the town.\nMariam enjoys spending time with her aunt.\nThe old people Mariam visits do not like children’s presence.\nRead the following letter:\nSuraiya Begum needs many\npeople's help to make her dream\ncome true. She sits down to write\nletter toa friend who was her\ncolleague and who now lives in\nthe next town.",
+  "aiReadyText": "all love her very much. She tells them about her school and friends, her\nstudies, her family. And they often tell her funny stories, fairy tales and ghost\nRead the text carefully again and match the words on the left with\nthe words on the right that have similar meanings.\nbored woman whose husband has died and who hasn't married again\nmiserable | a person with whom one works in a profession\ncolleague | feeling tired because one does not find interest in something\nsupport very unhappy\nthen give the right answers.\nSuraiya Begum spends most of her time taking care of her family.\nShe wants to set up a school for adults whe cannot read or write.\nThere is already an old people's home in the town.\nMariam enjoys spending time with her aunt.\nThe old people Mariam visits do not like children’s presence.\nSuraiya Begum needs many\npeople's help to make her dream\ncome true. She sits down to write\nletter toa friend who was her\ncolleague and who now lives in\nthe next town."
+}

@@ -1,0 +1,497 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 30,
+  "image": "/ocr/books/class6-english/page-images/page-030.png",
+  "width": 1149,
+  "height": 1518,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 25",
+      "cleanText": "English For Today 25",
+      "bbox": {
+        "x": 117,
+        "y": 90,
+        "width": 913,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-030-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Discuss in pairs how you talk about quantities when you go shopping.",
+      "cleanText": "Discuss in pairs how you talk about quantities when you go shopping.",
+      "bbox": {
+        "x": 165,
+        "y": 167,
+        "width": 863,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-030-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Match the phrases in column A and the items in column B below to",
+      "cleanText": "Match the phrases in column A and the items in column B below to",
+      "bbox": {
+        "x": 164,
+        "y": 200,
+        "width": 864,
+        "height": 26
+      },
+      "confidence": 95.21,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-030-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "make an imaginary shopping list. Write down the list in your notebook.",
+      "cleanText": "make an imaginary shopping list. Write down the list in your notebook.",
+      "bbox": {
+        "x": 163,
+        "y": 233,
+        "width": 830,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-030-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "(One phrase may match more than one items.)",
+      "cleanText": "(One phrase may match more than one items.)",
+      "bbox": {
+        "x": 161,
+        "y": 272,
+        "width": 557,
+        "height": 28
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-030-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "acanof poster paper",
+      "cleanText": "acanof poster paper",
+      "bbox": {
+        "x": 259,
+        "y": 381,
+        "width": 604,
+        "height": 23
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-030-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "a packet paint",
+      "cleanText": "a packet paint",
+      "bbox": {
+        "x": 259,
+        "y": 475,
+        "width": 520,
+        "height": 32
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-030-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "facial tissue",
+      "cleanText": "facial tissue",
+      "bbox": {
+        "x": 725,
+        "y": 520,
+        "width": 132,
+        "height": 20
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-030-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "half a kilo of.......... cake",
+      "cleanText": "half a kilo of.......... cake",
+      "bbox": {
+        "x": 259,
+        "y": 568,
+        "width": 515,
+        "height": 30
+      },
+      "confidence": 74.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-030-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "abox of",
+      "cleanText": "abox of",
+      "bbox": {
+        "x": 259,
+        "y": 674,
+        "width": 94,
+        "height": 20
+      },
+      "confidence": 91.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-030-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "chocolates",
+      "cleanText": "chocolates",
+      "bbox": {
+        "x": 724,
+        "y": 705,
+        "width": 118,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-030-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "aroll of",
+      "cleanText": "aroll of",
+      "bbox": {
+        "x": 259,
+        "y": 726,
+        "width": 91,
+        "height": 20
+      },
+      "confidence": 80.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-030-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "toothpaste",
+      "cleanText": "toothpaste",
+      "bbox": {
+        "x": 724,
+        "y": 757,
+        "width": 115,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-030-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "ajar Of notebook",
+      "cleanText": "ajar Of notebook",
+      "bbox": {
+        "x": 259,
+        "y": 804,
+        "width": 570,
+        "height": 35
+      },
+      "confidence": 85.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-030-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "a sheet of pencils",
+      "cleanText": "a sheet of pencils",
+      "bbox": {
+        "x": 259,
+        "y": 849,
+        "width": 544,
+        "height": 29
+      },
+      "confidence": 75.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-030-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Cl. Look at your shopping list again. Can you say which items are",
+      "cleanText": "Look at your shopping list again. Can you say which items are",
+      "bbox": {
+        "x": 118,
+        "y": 974,
+        "width": 910,
+        "height": 27
+      },
+      "confidence": 94.54,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-030-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "available in what kind of shops? There are different shops such",
+      "cleanText": "available in what kind of shops? There are different shops such",
+      "bbox": {
+        "x": 195,
+        "y": 1013,
+        "width": 836,
+        "height": 27
+      },
+      "confidence": 95.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-030-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "as the grocer's, baker's, stationer’s, etc. selling different things.",
+      "cleanText": "as the grocer's, baker's, stationer’s, etc. selling different things.",
+      "bbox": {
+        "x": 196,
+        "y": 1052,
+        "width": 825,
+        "height": 28
+      },
+      "confidence": 91.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-030-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Put the items under the proper headings in the table below.",
+      "cleanText": "Put the items under the proper headings in the table below.",
+      "bbox": {
+        "x": 196,
+        "y": 1097,
+        "width": 757,
+        "height": 27
+      },
+      "confidence": 95.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-030-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "a dozen of eggs A loaf of bread A tube of paint",
+      "cleanText": "a dozen of eggs A loaf of bread A tube of paint",
+      "bbox": {
+        "x": 227,
+        "y": 1250,
+        "width": 762,
+        "height": 34
+      },
+      "confidence": 95.42,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-030-line-020",
+      "lineNumber": 20
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-030-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 25",
+      "bbox": {
+        "x": 117,
+        "y": 90,
+        "width": 913,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-030-line-003",
+      "lineNumber": 3,
+      "text": "Match the phrases in column A and the items in column B below to",
+      "bbox": {
+        "x": 164,
+        "y": 200,
+        "width": 864,
+        "height": 26
+      },
+      "confidence": 95.21,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-030-line-004",
+      "lineNumber": 4,
+      "text": "make an imaginary shopping list. Write down the list in your notebook.",
+      "bbox": {
+        "x": 163,
+        "y": 233,
+        "width": 830,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-030-line-005",
+      "lineNumber": 5,
+      "text": "(One phrase may match more than one items.)",
+      "bbox": {
+        "x": 161,
+        "y": 272,
+        "width": 557,
+        "height": 28
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-030-line-006",
+      "lineNumber": 6,
+      "text": "acanof poster paper",
+      "bbox": {
+        "x": 259,
+        "y": 381,
+        "width": 604,
+        "height": 23
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-030-line-007",
+      "lineNumber": 7,
+      "text": "a packet paint",
+      "bbox": {
+        "x": 259,
+        "y": 475,
+        "width": 520,
+        "height": 32
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-030-line-009",
+      "lineNumber": 9,
+      "text": "half a kilo of.......... cake",
+      "bbox": {
+        "x": 259,
+        "y": 568,
+        "width": 515,
+        "height": 30
+      },
+      "confidence": 74.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-030-line-014",
+      "lineNumber": 14,
+      "text": "ajar Of notebook",
+      "bbox": {
+        "x": 259,
+        "y": 804,
+        "width": 570,
+        "height": 35
+      },
+      "confidence": 85.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-030-line-015",
+      "lineNumber": 15,
+      "text": "a sheet of pencils",
+      "bbox": {
+        "x": 259,
+        "y": 849,
+        "width": 544,
+        "height": 29
+      },
+      "confidence": 75.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-030-line-016",
+      "lineNumber": 16,
+      "text": "Look at your shopping list again. Can you say which items are",
+      "bbox": {
+        "x": 118,
+        "y": 974,
+        "width": 910,
+        "height": 27
+      },
+      "confidence": 94.54,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-030-line-017",
+      "lineNumber": 17,
+      "text": "available in what kind of shops? There are different shops such",
+      "bbox": {
+        "x": 195,
+        "y": 1013,
+        "width": 836,
+        "height": 27
+      },
+      "confidence": 95.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-030-line-018",
+      "lineNumber": 18,
+      "text": "as the grocer's, baker's, stationer’s, etc. selling different things.",
+      "bbox": {
+        "x": 196,
+        "y": 1052,
+        "width": 825,
+        "height": 28
+      },
+      "confidence": 91.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-030-line-019",
+      "lineNumber": 19,
+      "text": "Put the items under the proper headings in the table below.",
+      "bbox": {
+        "x": 196,
+        "y": 1097,
+        "width": 757,
+        "height": 27
+      },
+      "confidence": 95.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-030-line-020",
+      "lineNumber": 20,
+      "text": "a dozen of eggs A loaf of bread A tube of paint",
+      "bbox": {
+        "x": 227,
+        "y": 1250,
+        "width": 762,
+        "height": 34
+      },
+      "confidence": 95.42,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 25\nDiscuss in pairs how you talk about quantities when you go shopping.\nMatch the phrases in column A and the items in column B below to\nmake an imaginary shopping list. Write down the list in your notebook.\n(One phrase may match more than one items.)\nacanof poster paper\na packet paint\nfacial tissue\nhalf a kilo of.......... cake\nabox of\nchocolates\naroll of\ntoothpaste\najar Of notebook\na sheet of pencils\nCl. Look at your shopping list again. Can you say which items are\navailable in what kind of shops? There are different shops such\nas the grocer's, baker's, stationer’s, etc. selling different things.\nPut the items under the proper headings in the table below.\na dozen of eggs A loaf of bread A tube of paint",
+  "cleanText": "English For Today 25\nDiscuss in pairs how you talk about quantities when you go shopping.\nMatch the phrases in column A and the items in column B below to\nmake an imaginary shopping list. Write down the list in your notebook.\n(One phrase may match more than one items.)\nacanof poster paper\na packet paint\nfacial tissue\nhalf a kilo of.......... cake\nabox of\nchocolates\naroll of\ntoothpaste\najar Of notebook\na sheet of pencils\nLook at your shopping list again. Can you say which items are\navailable in what kind of shops? There are different shops such\nas the grocer's, baker's, stationer’s, etc. selling different things.\nPut the items under the proper headings in the table below.\na dozen of eggs A loaf of bread A tube of paint",
+  "aiReadyText": "English For Today 25\nMatch the phrases in column A and the items in column B below to\nmake an imaginary shopping list. Write down the list in your notebook.\n(One phrase may match more than one items.)\nacanof poster paper\na packet paint\nhalf a kilo of.......... cake\najar Of notebook\na sheet of pencils\nLook at your shopping list again. Can you say which items are\navailable in what kind of shops? There are different shops such\nas the grocer's, baker's, stationer’s, etc. selling different things.\nPut the items under the proper headings in the table below.\na dozen of eggs A loaf of bread A tube of paint"
+}

@@ -1,0 +1,984 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 112,
+  "image": "/ocr/books/class6-english/page-images/page-112.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 107",
+      "cleanText": "English For Today 107",
+      "bbox": {
+        "x": 122,
+        "y": 79,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "7. Rural Bangladesh is full of natural beauty with green fields, rivers and trees.",
+      "cleanText": "Rural Bangladesh is full of natural beauty with green fields, rivers and trees.",
+      "bbox": {
+        "x": 123,
+        "y": 179,
+        "width": 907,
+        "height": 24
+      },
+      "confidence": 94.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Most villagers work as farmers, fishermen, or craftsmen. They grow crops like rice,",
+      "cleanText": "Most villagers work as farmers, fishermen, or craftsmen. They grow crops like rice,",
+      "bbox": {
+        "x": 123,
+        "y": 210,
+        "width": 907,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "jute and vegetables. Many village houses have gardens with fruit trees. Villagers cele-",
+      "cleanText": "jute and vegetables. Many village houses have gardens with fruit trees. Villagers cele-",
+      "bbox": {
+        "x": 120,
+        "y": 242,
+        "width": 911,
+        "height": 24
+      },
+      "confidence": 95.46,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "brate festivals such as Pahela Boishakh and Nabanna Utsab with joy. Life in the villag-",
+      "cleanText": "brate festivals such as Pahela Boishakh and Nabanna Utsab with joy. Life in the villag-",
+      "bbox": {
+        "x": 123,
+        "y": 270,
+        "width": 908,
+        "height": 32
+      },
+      "confidence": 93.87,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "es is simple but peaceful and happy.",
+      "cleanText": "es is simple but peaceful and happy.",
+      "bbox": {
+        "x": 123,
+        "y": 305,
+        "width": 377,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "8. a) {ii) needs of human beings b) (iii) for our survival",
+      "cleanText": "{ii) needs of human beings b) (iii) for our survival",
+      "bbox": {
+        "x": 124,
+        "y": 361,
+        "width": 776,
+        "height": 25
+      },
+      "confidence": 91.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "¢) (i) without it d) (v) have good food",
+      "cleanText": "¢) (i) without it d) (v) have good food",
+      "bbox": {
+        "x": 202,
+        "y": 400,
+        "width": 691,
+        "height": 31
+      },
+      "confidence": 89.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "e) {iv) kind of food for good health",
+      "cleanText": "e) {iv) kind of food for good health",
+      "bbox": {
+        "x": 202,
+        "y": 448,
+        "width": 420,
+        "height": 24
+      },
+      "confidence": 93.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "g d a c h e |b f",
+      "cleanText": "g d a c h e |b f",
+      "bbox": {
+        "x": 202,
+        "y": 525,
+        "width": 561,
+        "height": 27
+      },
+      "confidence": 75.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "10. a) The main idea of the poem ‘Holding Hands’ is that it describes how",
+      "cleanText": "The main idea of the poem ‘Holding Hands’ is that it describes how",
+      "bbox": {
+        "x": 121,
+        "y": 583,
+        "width": 836,
+        "height": 22
+      },
+      "confidence": 93.53,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "elephants walk together by holding tails, showing their unity and coordi nation.",
+      "cleanText": "elephants walk together by holding tails, showing their unity and coordi nation.",
+      "bbox": {
+        "x": 249,
+        "y": 611,
+        "width": 764,
+        "height": 24
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "b) In the poem “Holding Hands”, the poet says that trunks and tails are",
+      "cleanText": "In the poem “Holding Hands”, the poet says that trunks and tails are",
+      "bbox": {
+        "x": 196,
+        "y": 650,
+        "width": 765,
+        "height": 22
+      },
+      "confidence": 91.21,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "handy things for elephants when they walk.",
+      "cleanText": "handy things for elephants when they walk.",
+      "bbox": {
+        "x": 249,
+        "y": 679,
+        "width": 453,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "c) The line \"But bows cannot be built in heaven\" suggests that human",
+      "cleanText": "The line \"But bows cannot be built in heaven\" suggests that human",
+      "bbox": {
+        "x": 196,
+        "y": 717,
+        "width": 754,
+        "height": 23
+      },
+      "confidence": 93.15,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "creations, no matter how grand, cannot match the perfection or beauty",
+      "cleanText": "creations, no matter how grand, cannot match the perfection or beauty",
+      "bbox": {
+        "x": 249,
+        "y": 747,
+        "width": 733,
+        "height": 23
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "of heavenly or natural wonders.",
+      "cleanText": "of heavenly or natural wonders.",
+      "bbox": {
+        "x": 249,
+        "y": 777,
+        "width": 329,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "d) The poem uses a series of rhyming couplets with words that look similar",
+      "cleanText": "The poem uses a series of rhyming couplets with words that look similar",
+      "bbox": {
+        "x": 196,
+        "y": 807,
+        "width": 813,
+        "height": 30
+      },
+      "confidence": 93.21,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "but are pronounced differently, emphasising the inconsistencies in English",
+      "cleanText": "but are pronounced differently, emphasising the inconsistencies in English",
+      "bbox": {
+        "x": 249,
+        "y": 841,
+        "width": 778,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "pronunciation rules.",
+      "cleanText": "pronunciation rules.",
+      "bbox": {
+        "x": 248,
+        "y": 870,
+        "width": 208,
+        "height": 23
+      },
+      "confidence": 89.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "e) The overall theme of the poem “Boats sail on the rivers” is the contrast",
+      "cleanText": "e) The overall theme of the poem “Boats sail on the rivers” is the contrast",
+      "bbox": {
+        "x": 196,
+        "y": 904,
+        "width": 796,
+        "height": 23
+      },
+      "confidence": 93.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "between the beauty and vastness of nature and the limitations of human",
+      "cleanText": "between the beauty and vastness of nature and the limitations of human",
+      "bbox": {
+        "x": 255,
+        "y": 934,
+        "width": 747,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "achievements.",
+      "cleanText": "achievements.",
+      "bbox": {
+        "x": 255,
+        "y": 964,
+        "width": 147,
+        "height": 17
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-112-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "f) The main theme of the poem is to illustrate the irregularities and com",
+      "cleanText": "f) The main theme of the poem is to illustrate the irregularities and com",
+      "bbox": {
+        "x": 197,
+        "y": 998,
+        "width": 777,
+        "height": 22
+      },
+      "confidence": 95.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "plexities of English pronunciation and spelling, showcasing how",
+      "cleanText": "plexities of English pronunciation and spelling, showcasing how",
+      "bbox": {
+        "x": 255,
+        "y": 1028,
+        "width": 675,
+        "height": 22
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "challenging it can be to learn the language.",
+      "cleanText": "challenging it can be to learn the language.",
+      "bbox": {
+        "x": 262,
+        "y": 1067,
+        "width": 450,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "g) central character is Andre, a young boy. His story is a very touching",
+      "cleanText": "g) central character is Andre, a young boy. His story is a very touching",
+      "bbox": {
+        "x": 194,
+        "y": 1103,
+        "width": 833,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "reflection on love, choice and appreciation for family.",
+      "cleanText": "reflection on love, choice and appreciation for family.",
+      "bbox": {
+        "x": 264,
+        "y": 1135,
+        "width": 563,
+        "height": 24
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "h) We learn from the poem that we should love and appreciate our parents.",
+      "cleanText": "h) We learn from the poem that we should love and appreciate our parents.",
+      "bbox": {
+        "x": 194,
+        "y": 1169,
+        "width": 826,
+        "height": 23
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "Honest Heart",
+      "cleanText": "Honest Heart",
+      "bbox": {
+        "x": 331,
+        "y": 1211,
+        "width": 159,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-112-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "Once upon a time, there was a boy named Mamun. He was a student of class 6. One",
+      "cleanText": "Once upon a time, there was a boy named Mamun. He was a student of class 6. One",
+      "bbox": {
+        "x": 129,
+        "y": 1242,
+        "width": 899,
+        "height": 23
+      },
+      "confidence": 94.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "day, while he was returning from school, he found a purse on the road. As he was",
+      "cleanText": "day, while he was returning from school, he found a purse on the road. As he was",
+      "bbox": {
+        "x": 129,
+        "y": 1272,
+        "width": 899,
+        "height": 23
+      },
+      "confidence": 95.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "honest, he picked it up and opened it to sec if he could find any clues about its owner.",
+      "cleanText": "honest, he picked it up and opened it to sec if he could find any clues about its owner.",
+      "bbox": {
+        "x": 129,
+        "y": 1302,
+        "width": 898,
+        "height": 23
+      },
+      "confidence": 94.37,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "Inside, he found some a few cards, and a photo of a family. Mamun knew he",
+      "cleanText": "Inside, he found some a few cards, and a photo of a family. Mamun knew he",
+      "bbox": {
+        "x": 130,
+        "y": 1332,
+        "width": 898,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "had to return it to the rightful owner. He decided to take the purse to the nearby police",
+      "cleanText": "had to return it to the rightful owner. He decided to take the purse to the nearby police",
+      "bbox": {
+        "x": 129,
+        "y": 1362,
+        "width": 899,
+        "height": 23
+      },
+      "confidence": 95.61,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-035",
+      "lineNumber": 35
+    },
+    {
+      "text": "station.",
+      "cleanText": "station.",
+      "bbox": {
+        "x": 129,
+        "y": 1395,
+        "width": 73,
+        "height": 14
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-112-line-036",
+      "lineNumber": 36
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-112-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 107",
+      "bbox": {
+        "x": 122,
+        "y": 79,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-002",
+      "lineNumber": 2,
+      "text": "Rural Bangladesh is full of natural beauty with green fields, rivers and trees.",
+      "bbox": {
+        "x": 123,
+        "y": 179,
+        "width": 907,
+        "height": 24
+      },
+      "confidence": 94.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-003",
+      "lineNumber": 3,
+      "text": "Most villagers work as farmers, fishermen, or craftsmen. They grow crops like rice,",
+      "bbox": {
+        "x": 123,
+        "y": 210,
+        "width": 907,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-004",
+      "lineNumber": 4,
+      "text": "jute and vegetables. Many village houses have gardens with fruit trees. Villagers cele-",
+      "bbox": {
+        "x": 120,
+        "y": 242,
+        "width": 911,
+        "height": 24
+      },
+      "confidence": 95.46,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-005",
+      "lineNumber": 5,
+      "text": "brate festivals such as Pahela Boishakh and Nabanna Utsab with joy. Life in the villag-",
+      "bbox": {
+        "x": 123,
+        "y": 270,
+        "width": 908,
+        "height": 32
+      },
+      "confidence": 93.87,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-006",
+      "lineNumber": 6,
+      "text": "es is simple but peaceful and happy.",
+      "bbox": {
+        "x": 123,
+        "y": 305,
+        "width": 377,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-007",
+      "lineNumber": 7,
+      "text": "{ii) needs of human beings b) (iii) for our survival",
+      "bbox": {
+        "x": 124,
+        "y": 361,
+        "width": 776,
+        "height": 25
+      },
+      "confidence": 91.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-008",
+      "lineNumber": 8,
+      "text": "¢) (i) without it d) (v) have good food",
+      "bbox": {
+        "x": 202,
+        "y": 400,
+        "width": 691,
+        "height": 31
+      },
+      "confidence": 89.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-009",
+      "lineNumber": 9,
+      "text": "e) {iv) kind of food for good health",
+      "bbox": {
+        "x": 202,
+        "y": 448,
+        "width": 420,
+        "height": 24
+      },
+      "confidence": 93.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-010",
+      "lineNumber": 10,
+      "text": "g d a c h e |b f",
+      "bbox": {
+        "x": 202,
+        "y": 525,
+        "width": 561,
+        "height": 27
+      },
+      "confidence": 75.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-011",
+      "lineNumber": 11,
+      "text": "The main idea of the poem ‘Holding Hands’ is that it describes how",
+      "bbox": {
+        "x": 121,
+        "y": 583,
+        "width": 836,
+        "height": 22
+      },
+      "confidence": 93.53,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-012",
+      "lineNumber": 12,
+      "text": "elephants walk together by holding tails, showing their unity and coordi nation.",
+      "bbox": {
+        "x": 249,
+        "y": 611,
+        "width": 764,
+        "height": 24
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-013",
+      "lineNumber": 13,
+      "text": "In the poem “Holding Hands”, the poet says that trunks and tails are",
+      "bbox": {
+        "x": 196,
+        "y": 650,
+        "width": 765,
+        "height": 22
+      },
+      "confidence": 91.21,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-014",
+      "lineNumber": 14,
+      "text": "handy things for elephants when they walk.",
+      "bbox": {
+        "x": 249,
+        "y": 679,
+        "width": 453,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-015",
+      "lineNumber": 15,
+      "text": "The line \"But bows cannot be built in heaven\" suggests that human",
+      "bbox": {
+        "x": 196,
+        "y": 717,
+        "width": 754,
+        "height": 23
+      },
+      "confidence": 93.15,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-016",
+      "lineNumber": 16,
+      "text": "creations, no matter how grand, cannot match the perfection or beauty",
+      "bbox": {
+        "x": 249,
+        "y": 747,
+        "width": 733,
+        "height": 23
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-017",
+      "lineNumber": 17,
+      "text": "of heavenly or natural wonders.",
+      "bbox": {
+        "x": 249,
+        "y": 777,
+        "width": 329,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-018",
+      "lineNumber": 18,
+      "text": "The poem uses a series of rhyming couplets with words that look similar",
+      "bbox": {
+        "x": 196,
+        "y": 807,
+        "width": 813,
+        "height": 30
+      },
+      "confidence": 93.21,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-019",
+      "lineNumber": 19,
+      "text": "but are pronounced differently, emphasising the inconsistencies in English",
+      "bbox": {
+        "x": 249,
+        "y": 841,
+        "width": 778,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-020",
+      "lineNumber": 20,
+      "text": "pronunciation rules.",
+      "bbox": {
+        "x": 248,
+        "y": 870,
+        "width": 208,
+        "height": 23
+      },
+      "confidence": 89.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-021",
+      "lineNumber": 21,
+      "text": "e) The overall theme of the poem “Boats sail on the rivers” is the contrast",
+      "bbox": {
+        "x": 196,
+        "y": 904,
+        "width": 796,
+        "height": 23
+      },
+      "confidence": 93.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-022",
+      "lineNumber": 22,
+      "text": "between the beauty and vastness of nature and the limitations of human",
+      "bbox": {
+        "x": 255,
+        "y": 934,
+        "width": 747,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-024",
+      "lineNumber": 24,
+      "text": "f) The main theme of the poem is to illustrate the irregularities and com",
+      "bbox": {
+        "x": 197,
+        "y": 998,
+        "width": 777,
+        "height": 22
+      },
+      "confidence": 95.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-025",
+      "lineNumber": 25,
+      "text": "plexities of English pronunciation and spelling, showcasing how",
+      "bbox": {
+        "x": 255,
+        "y": 1028,
+        "width": 675,
+        "height": 22
+      },
+      "confidence": 95.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-026",
+      "lineNumber": 26,
+      "text": "challenging it can be to learn the language.",
+      "bbox": {
+        "x": 262,
+        "y": 1067,
+        "width": 450,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-027",
+      "lineNumber": 27,
+      "text": "g) central character is Andre, a young boy. His story is a very touching",
+      "bbox": {
+        "x": 194,
+        "y": 1103,
+        "width": 833,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-028",
+      "lineNumber": 28,
+      "text": "reflection on love, choice and appreciation for family.",
+      "bbox": {
+        "x": 264,
+        "y": 1135,
+        "width": 563,
+        "height": 24
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-029",
+      "lineNumber": 29,
+      "text": "h) We learn from the poem that we should love and appreciate our parents.",
+      "bbox": {
+        "x": 194,
+        "y": 1169,
+        "width": 826,
+        "height": 23
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-031",
+      "lineNumber": 31,
+      "text": "Once upon a time, there was a boy named Mamun. He was a student of class 6. One",
+      "bbox": {
+        "x": 129,
+        "y": 1242,
+        "width": 899,
+        "height": 23
+      },
+      "confidence": 94.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-032",
+      "lineNumber": 32,
+      "text": "day, while he was returning from school, he found a purse on the road. As he was",
+      "bbox": {
+        "x": 129,
+        "y": 1272,
+        "width": 899,
+        "height": 23
+      },
+      "confidence": 95.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-033",
+      "lineNumber": 33,
+      "text": "honest, he picked it up and opened it to sec if he could find any clues about its owner.",
+      "bbox": {
+        "x": 129,
+        "y": 1302,
+        "width": 898,
+        "height": 23
+      },
+      "confidence": 94.37,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-034",
+      "lineNumber": 34,
+      "text": "Inside, he found some a few cards, and a photo of a family. Mamun knew he",
+      "bbox": {
+        "x": 130,
+        "y": 1332,
+        "width": 898,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-035",
+      "lineNumber": 35,
+      "text": "had to return it to the rightful owner. He decided to take the purse to the nearby police",
+      "bbox": {
+        "x": 129,
+        "y": 1362,
+        "width": 899,
+        "height": 23
+      },
+      "confidence": 95.61,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 107\n7. Rural Bangladesh is full of natural beauty with green fields, rivers and trees.\nMost villagers work as farmers, fishermen, or craftsmen. They grow crops like rice,\njute and vegetables. Many village houses have gardens with fruit trees. Villagers cele-\nbrate festivals such as Pahela Boishakh and Nabanna Utsab with joy. Life in the villag-\nes is simple but peaceful and happy.\n8. a) {ii) needs of human beings b) (iii) for our survival\n¢) (i) without it d) (v) have good food\ne) {iv) kind of food for good health\ng d a c h e |b f\n10. a) The main idea of the poem ‘Holding Hands’ is that it describes how\nelephants walk together by holding tails, showing their unity and coordi nation.\nb) In the poem “Holding Hands”, the poet says that trunks and tails are\nhandy things for elephants when they walk.\nc) The line \"But bows cannot be built in heaven\" suggests that human\ncreations, no matter how grand, cannot match the perfection or beauty\nof heavenly or natural wonders.\nd) The poem uses a series of rhyming couplets with words that look similar\nbut are pronounced differently, emphasising the inconsistencies in English\npronunciation rules.\ne) The overall theme of the poem “Boats sail on the rivers” is the contrast\nbetween the beauty and vastness of nature and the limitations of human\nachievements.\nf) The main theme of the poem is to illustrate the irregularities and com\nplexities of English pronunciation and spelling, showcasing how\nchallenging it can be to learn the language.\ng) central character is Andre, a young boy. His story is a very touching\nreflection on love, choice and appreciation for family.\nh) We learn from the poem that we should love and appreciate our parents.\nHonest Heart\nOnce upon a time, there was a boy named Mamun. He was a student of class 6. One\nday, while he was returning from school, he found a purse on the road. As he was\nhonest, he picked it up and opened it to sec if he could find any clues about its owner.\nInside, he found some a few cards, and a photo of a family. Mamun knew he\nhad to return it to the rightful owner. He decided to take the purse to the nearby police\nstation.",
+  "cleanText": "English For Today 107\nRural Bangladesh is full of natural beauty with green fields, rivers and trees.\nMost villagers work as farmers, fishermen, or craftsmen. They grow crops like rice,\njute and vegetables. Many village houses have gardens with fruit trees. Villagers cele-\nbrate festivals such as Pahela Boishakh and Nabanna Utsab with joy. Life in the villag-\nes is simple but peaceful and happy.\n{ii) needs of human beings b) (iii) for our survival\n¢) (i) without it d) (v) have good food\ne) {iv) kind of food for good health\ng d a c h e |b f\nThe main idea of the poem ‘Holding Hands’ is that it describes how\nelephants walk together by holding tails, showing their unity and coordi nation.\nIn the poem “Holding Hands”, the poet says that trunks and tails are\nhandy things for elephants when they walk.\nThe line \"But bows cannot be built in heaven\" suggests that human\ncreations, no matter how grand, cannot match the perfection or beauty\nof heavenly or natural wonders.\nThe poem uses a series of rhyming couplets with words that look similar\nbut are pronounced differently, emphasising the inconsistencies in English\npronunciation rules.\ne) The overall theme of the poem “Boats sail on the rivers” is the contrast\nbetween the beauty and vastness of nature and the limitations of human\nachievements.\nf) The main theme of the poem is to illustrate the irregularities and com\nplexities of English pronunciation and spelling, showcasing how\nchallenging it can be to learn the language.\ng) central character is Andre, a young boy. His story is a very touching\nreflection on love, choice and appreciation for family.\nh) We learn from the poem that we should love and appreciate our parents.\nHonest Heart\nOnce upon a time, there was a boy named Mamun. He was a student of class 6. One\nday, while he was returning from school, he found a purse on the road. As he was\nhonest, he picked it up and opened it to sec if he could find any clues about its owner.\nInside, he found some a few cards, and a photo of a family. Mamun knew he\nhad to return it to the rightful owner. He decided to take the purse to the nearby police\nstation.",
+  "aiReadyText": "English For Today 107\nRural Bangladesh is full of natural beauty with green fields, rivers and trees.\nMost villagers work as farmers, fishermen, or craftsmen. They grow crops like rice,\njute and vegetables. Many village houses have gardens with fruit trees. Villagers cele-\nbrate festivals such as Pahela Boishakh and Nabanna Utsab with joy. Life in the villag-\nes is simple but peaceful and happy.\n{ii) needs of human beings b) (iii) for our survival\n¢) (i) without it d) (v) have good food\ne) {iv) kind of food for good health\ng d a c h e |b f\nThe main idea of the poem ‘Holding Hands’ is that it describes how\nelephants walk together by holding tails, showing their unity and coordi nation.\nIn the poem “Holding Hands”, the poet says that trunks and tails are\nhandy things for elephants when they walk.\nThe line \"But bows cannot be built in heaven\" suggests that human\ncreations, no matter how grand, cannot match the perfection or beauty\nof heavenly or natural wonders.\nThe poem uses a series of rhyming couplets with words that look similar\nbut are pronounced differently, emphasising the inconsistencies in English\npronunciation rules.\ne) The overall theme of the poem “Boats sail on the rivers” is the contrast\nbetween the beauty and vastness of nature and the limitations of human\nf) The main theme of the poem is to illustrate the irregularities and com\nplexities of English pronunciation and spelling, showcasing how\nchallenging it can be to learn the language.\ng) central character is Andre, a young boy. His story is a very touching\nreflection on love, choice and appreciation for family.\nh) We learn from the poem that we should love and appreciate our parents.\nOnce upon a time, there was a boy named Mamun. He was a student of class 6. One\nday, while he was returning from school, he found a purse on the road. As he was\nhonest, he picked it up and opened it to sec if he could find any clues about its owner.\nInside, he found some a few cards, and a photo of a family. Mamun knew he\nhad to return it to the rightful owner. He decided to take the purse to the nearby police"
+}

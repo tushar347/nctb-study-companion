@@ -1,0 +1,396 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 29,
+  "image": "/ocr/books/class6-english/page-images/page-029.png",
+  "width": 1169,
+  "height": 1521,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "24 English For Today",
+      "cleanText": "24 English For Today",
+      "bbox": {
+        "x": 130,
+        "y": 91,
+        "width": 915,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-029-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "B1. Discuss the following questions in pairs.",
+      "cleanText": "B1. Discuss the following questions in pairs.",
+      "bbox": {
+        "x": 132,
+        "y": 167,
+        "width": 531,
+        "height": 27
+      },
+      "confidence": 93.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-029-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "a. How many items did Imarn buy?",
+      "cleanText": "How many items did Imarn buy?",
+      "bbox": {
+        "x": 194,
+        "y": 226,
+        "width": 413,
+        "height": 25
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-029-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "b. What varieties of vagetables were available in the market?",
+      "cleanText": "What varieties of vagetables were available in the market?",
+      "bbox": {
+        "x": 193,
+        "y": 278,
+        "width": 694,
+        "height": 26
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-029-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "c. Why do you think Imarn asked the salesman to use a paper bag? Discuss",
+      "cleanText": "Why do you think Imarn asked the salesman to use a paper bag? Discuss",
+      "bbox": {
+        "x": 193,
+        "y": 327,
+        "width": 848,
+        "height": 26
+      },
+      "confidence": 94.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-029-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "with your class friends and then write down one or two reasons.",
+      "cleanText": "with your class friends and then write down one or two reasons.",
+      "bbox": {
+        "x": 247,
+        "y": 375,
+        "width": 668,
+        "height": 26
+      },
+      "confidence": 95.42,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-029-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "d. \"Thank you, here is the change,...\". What does the word ‘change’",
+      "cleanText": "\"Thank you, here is the change,...\". What does the word ‘change’",
+      "bbox": {
+        "x": 193,
+        "y": 424,
+        "width": 846,
+        "height": 25
+      },
+      "confidence": 93.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-029-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "mean here?",
+      "cleanText": "mean here?",
+      "bbox": {
+        "x": 243,
+        "y": 472,
+        "width": 132,
+        "height": 20
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-029-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "B2. Read the sentences/phrases in the eight speech bubbles. Put them in",
+      "cleanText": "B2. Read the sentences/phrases in the eight speech bubbles. Put them in",
+      "bbox": {
+        "x": 130,
+        "y": 540,
+        "width": 910,
+        "height": 27
+      },
+      "confidence": 94.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-029-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "the right order (1 to 8) to write down the conversation in your notebook.",
+      "cleanText": "the right order (1 to 8) to write down the conversation in your notebook.",
+      "bbox": {
+        "x": 185,
+        "y": 590,
+        "width": 857,
+        "height": 27
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-029-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "I want to buy an ice-cream Yes, how can I help you?",
+      "cleanText": "I want to buy an ice-cream Yes, how can I help you?",
+      "bbox": {
+        "x": 223,
+        "y": 728,
+        "width": 793,
+        "height": 24
+      },
+      "confidence": 94.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-029-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "How much is it?",
+      "cleanText": "How much is it?",
+      "bbox": {
+        "x": 219,
+        "y": 899,
+        "width": 156,
+        "height": 17
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-029-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Here you are.",
+      "cleanText": "Here you are.",
+      "bbox": {
+        "x": 222,
+        "y": 1017,
+        "width": 128,
+        "height": 21
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-029-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Thank you!",
+      "cleanText": "Thank you!",
+      "bbox": {
+        "x": 887,
+        "y": 1074,
+        "width": 108,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-029-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Sure! There you go.",
+      "cleanText": "Sure! There you go.",
+      "bbox": {
+        "x": 806,
+        "y": 1204,
+        "width": 188,
+        "height": 22
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-029-line-015",
+      "lineNumber": 15
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-029-line-001",
+      "lineNumber": 1,
+      "text": "24 English For Today",
+      "bbox": {
+        "x": 130,
+        "y": 91,
+        "width": 915,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-029-line-002",
+      "lineNumber": 2,
+      "text": "B1. Discuss the following questions in pairs.",
+      "bbox": {
+        "x": 132,
+        "y": 167,
+        "width": 531,
+        "height": 27
+      },
+      "confidence": 93.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-029-line-003",
+      "lineNumber": 3,
+      "text": "How many items did Imarn buy?",
+      "bbox": {
+        "x": 194,
+        "y": 226,
+        "width": 413,
+        "height": 25
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-029-line-004",
+      "lineNumber": 4,
+      "text": "What varieties of vagetables were available in the market?",
+      "bbox": {
+        "x": 193,
+        "y": 278,
+        "width": 694,
+        "height": 26
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-029-line-005",
+      "lineNumber": 5,
+      "text": "Why do you think Imarn asked the salesman to use a paper bag? Discuss",
+      "bbox": {
+        "x": 193,
+        "y": 327,
+        "width": 848,
+        "height": 26
+      },
+      "confidence": 94.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-029-line-006",
+      "lineNumber": 6,
+      "text": "with your class friends and then write down one or two reasons.",
+      "bbox": {
+        "x": 247,
+        "y": 375,
+        "width": 668,
+        "height": 26
+      },
+      "confidence": 95.42,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-029-line-007",
+      "lineNumber": 7,
+      "text": "\"Thank you, here is the change,...\". What does the word ‘change’",
+      "bbox": {
+        "x": 193,
+        "y": 424,
+        "width": 846,
+        "height": 25
+      },
+      "confidence": 93.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-029-line-009",
+      "lineNumber": 9,
+      "text": "B2. Read the sentences/phrases in the eight speech bubbles. Put them in",
+      "bbox": {
+        "x": 130,
+        "y": 540,
+        "width": 910,
+        "height": 27
+      },
+      "confidence": 94.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-029-line-010",
+      "lineNumber": 10,
+      "text": "the right order (1 to 8) to write down the conversation in your notebook.",
+      "bbox": {
+        "x": 185,
+        "y": 590,
+        "width": 857,
+        "height": 27
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-029-line-011",
+      "lineNumber": 11,
+      "text": "I want to buy an ice-cream Yes, how can I help you?",
+      "bbox": {
+        "x": 223,
+        "y": 728,
+        "width": 793,
+        "height": 24
+      },
+      "confidence": 94.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-029-line-012",
+      "lineNumber": 12,
+      "text": "How much is it?",
+      "bbox": {
+        "x": 219,
+        "y": 899,
+        "width": 156,
+        "height": 17
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-029-line-015",
+      "lineNumber": 15,
+      "text": "Sure! There you go.",
+      "bbox": {
+        "x": 806,
+        "y": 1204,
+        "width": 188,
+        "height": 22
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "24 English For Today\nB1. Discuss the following questions in pairs.\na. How many items did Imarn buy?\nb. What varieties of vagetables were available in the market?\nc. Why do you think Imarn asked the salesman to use a paper bag? Discuss\nwith your class friends and then write down one or two reasons.\nd. \"Thank you, here is the change,...\". What does the word ‘change’\nmean here?\nB2. Read the sentences/phrases in the eight speech bubbles. Put them in\nthe right order (1 to 8) to write down the conversation in your notebook.\nI want to buy an ice-cream Yes, how can I help you?\nHow much is it?\nHere you are.\nThank you!\nSure! There you go.",
+  "cleanText": "24 English For Today\nB1. Discuss the following questions in pairs.\nHow many items did Imarn buy?\nWhat varieties of vagetables were available in the market?\nWhy do you think Imarn asked the salesman to use a paper bag? Discuss\nwith your class friends and then write down one or two reasons.\n\"Thank you, here is the change,...\". What does the word ‘change’\nmean here?\nB2. Read the sentences/phrases in the eight speech bubbles. Put them in\nthe right order (1 to 8) to write down the conversation in your notebook.\nI want to buy an ice-cream Yes, how can I help you?\nHow much is it?\nHere you are.\nThank you!\nSure! There you go.",
+  "aiReadyText": "24 English For Today\nB1. Discuss the following questions in pairs.\nHow many items did Imarn buy?\nWhat varieties of vagetables were available in the market?\nWhy do you think Imarn asked the salesman to use a paper bag? Discuss\nwith your class friends and then write down one or two reasons.\n\"Thank you, here is the change,...\". What does the word ‘change’\nB2. Read the sentences/phrases in the eight speech bubbles. Put them in\nthe right order (1 to 8) to write down the conversation in your notebook.\nI want to buy an ice-cream Yes, how can I help you?\nHow much is it?\nSure! There you go."
+}

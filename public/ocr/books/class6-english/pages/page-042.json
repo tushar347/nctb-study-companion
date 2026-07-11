@@ -1,0 +1,273 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 42,
+  "image": "/ocr/books/class6-english/page-images/page-042.png",
+  "width": 1160,
+  "height": 1510,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 11 Ave You Listening?-1",
+      "cleanText": "Lesson 11 Ave You Listening?-1",
+      "bbox": {
+        "x": 236,
+        "y": 183,
+        "width": 663,
+        "height": 39
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 209,
+        "y": 277,
+        "width": 570,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-042-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "¢ recognise English sounds",
+      "cleanText": "¢ recognise English sounds",
+      "bbox": {
+        "x": 230,
+        "y": 308,
+        "width": 286,
+        "height": 23
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "¢ recognise word and stress on words in sentences",
+      "cleanText": "¢ recognise word and stress on words in sentences",
+      "bbox": {
+        "x": 230,
+        "y": 341,
+        "width": 528,
+        "height": 23
+      },
+      "confidence": 94.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "© recognise intonation in sentences",
+      "cleanText": "© recognise intonation in sentences",
+      "bbox": {
+        "x": 230,
+        "y": 372,
+        "width": 368,
+        "height": 23
+      },
+      "confidence": 86.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "read aloud texts with proper pronunciation, stress and intonation",
+      "cleanText": "read aloud texts with proper pronunciation, stress and intonation",
+      "bbox": {
+        "x": 248,
+        "y": 411,
+        "width": 678,
+        "height": 24
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "A. to and read the following words:",
+      "cleanText": "to and read the following words:",
+      "bbox": {
+        "x": 130,
+        "y": 459,
+        "width": 564,
+        "height": 27
+      },
+      "confidence": 93.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "shed shade",
+      "cleanText": "shed shade",
+      "bbox": {
+        "x": 479,
+        "y": 566,
+        "width": 235,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-042-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "test taste",
+      "cleanText": "test taste",
+      "bbox": {
+        "x": 472,
+        "y": 868,
+        "width": 225,
+        "height": 17
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-042-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "wet wait",
+      "cleanText": "wet wait",
+      "bbox": {
+        "x": 472,
+        "y": 1013,
+        "width": 226,
+        "height": 21
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-042-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "pen pain",
+      "cleanText": "pen pain",
+      "bbox": {
+        "x": 472,
+        "y": 1163,
+        "width": 226,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-042-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "man mane",
+      "cleanText": "man mane",
+      "bbox": {
+        "x": 472,
+        "y": 1319,
+        "width": 239,
+        "height": 15
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-042-line-012",
+      "lineNumber": 12
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-042-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 11 Ave You Listening?-1",
+      "bbox": {
+        "x": 236,
+        "y": 183,
+        "width": 663,
+        "height": 39
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-003",
+      "lineNumber": 3,
+      "text": "¢ recognise English sounds",
+      "bbox": {
+        "x": 230,
+        "y": 308,
+        "width": 286,
+        "height": 23
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-004",
+      "lineNumber": 4,
+      "text": "¢ recognise word and stress on words in sentences",
+      "bbox": {
+        "x": 230,
+        "y": 341,
+        "width": 528,
+        "height": 23
+      },
+      "confidence": 94.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-005",
+      "lineNumber": 5,
+      "text": "© recognise intonation in sentences",
+      "bbox": {
+        "x": 230,
+        "y": 372,
+        "width": 368,
+        "height": 23
+      },
+      "confidence": 86.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-006",
+      "lineNumber": 6,
+      "text": "read aloud texts with proper pronunciation, stress and intonation",
+      "bbox": {
+        "x": 248,
+        "y": 411,
+        "width": 678,
+        "height": 24
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-007",
+      "lineNumber": 7,
+      "text": "to and read the following words:",
+      "bbox": {
+        "x": 130,
+        "y": 459,
+        "width": 564,
+        "height": 27
+      },
+      "confidence": 93.71,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 11 Ave You Listening?-1\nAfter completing the lesson students will be able to\n¢ recognise English sounds\n¢ recognise word and stress on words in sentences\n© recognise intonation in sentences\nread aloud texts with proper pronunciation, stress and intonation\nA. to and read the following words:\nshed shade\ntest taste\nwet wait\npen pain\nman mane",
+  "cleanText": "Lesson 11 Ave You Listening?-1\nAfter completing the lesson students will be able to\n¢ recognise English sounds\n¢ recognise word and stress on words in sentences\n© recognise intonation in sentences\nread aloud texts with proper pronunciation, stress and intonation\nto and read the following words:\nshed shade\ntest taste\nwet wait\npen pain\nman mane",
+  "aiReadyText": "Lesson 11 Ave You Listening?-1\n¢ recognise English sounds\n¢ recognise word and stress on words in sentences\n© recognise intonation in sentences\nread aloud texts with proper pronunciation, stress and intonation\nto and read the following words:"
+}

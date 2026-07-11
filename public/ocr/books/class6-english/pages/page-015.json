@@ -1,0 +1,949 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 15,
+  "image": "/ocr/books/class6-english/page-images/page-015.png",
+  "width": 1176,
+  "height": 1527,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "ii) Sometimes the same questions can be asked in a different way. Here",
+      "cleanText": "Sometimes the same questions can be asked in a different way. Here",
+      "bbox": {
+        "x": 195,
+        "y": 156,
+        "width": 850,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "is a conversation between an immigration officer and a passenger at the",
+      "cleanText": "is a conversation between an immigration officer and a passenger at the",
+      "bbox": {
+        "x": 197,
+        "y": 189,
+        "width": 848,
+        "height": 25
+      },
+      "confidence": 94.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Shahjalal International Airport, Dhaka. Listen to the conversation first and",
+      "cleanText": "Shahjalal International Airport, Dhaka. Listen to the conversation first and",
+      "bbox": {
+        "x": 194,
+        "y": 221,
+        "width": 852,
+        "height": 26
+      },
+      "confidence": 93.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "then practise it with a partner.",
+      "cleanText": "then practise it with a partner.",
+      "bbox": {
+        "x": 191,
+        "y": 255,
+        "width": 338,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Your name, Sir?",
+      "cleanText": "Your name, Sir?",
+      "bbox": {
+        "x": 391,
+        "y": 304,
+        "width": 182,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Passenger",
+      "cleanText": "Passenger",
+      "bbox": {
+        "x": 197,
+        "y": 344,
+        "width": 113,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-015-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Robert Smith.",
+      "cleanText": "Robert Smith.",
+      "bbox": {
+        "x": 393,
+        "y": 344,
+        "width": 157,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-015-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Where do you come",
+      "cleanText": "Where do you come",
+      "bbox": {
+        "x": 392,
+        "y": 386,
+        "width": 229,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "from, Mr. Smith?",
+      "cleanText": "from, Mr. Smith?",
+      "bbox": {
+        "x": 393,
+        "y": 418,
+        "width": 197,
+        "height": 24
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Passenger",
+      "cleanText": "Passenger",
+      "bbox": {
+        "x": 198,
+        "y": 458,
+        "width": 112,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-015-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Australia.",
+      "cleanText": "Australia.",
+      "bbox": {
+        "x": 392,
+        "y": 458,
+        "width": 108,
+        "height": 20
+      },
+      "confidence": 70.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-015-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "And where are you",
+      "cleanText": "And where are you",
+      "bbox": {
+        "x": 392,
+        "y": 502,
+        "width": 216,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "coming from now?",
+      "cleanText": "coming from now?",
+      "bbox": {
+        "x": 393,
+        "y": 535,
+        "width": 215,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Passenger",
+      "cleanText": "Passenger",
+      "bbox": {
+        "x": 197,
+        "y": 577,
+        "width": 113,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-015-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "I'm coming from London.",
+      "cleanText": "I'm coming from London.",
+      "bbox": {
+        "x": 393,
+        "y": 577,
+        "width": 293,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Welcome to Bangladesh,",
+      "cleanText": "Welcome to Bangladesh,",
+      "bbox": {
+        "x": 391,
+        "y": 621,
+        "width": 283,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Sir. Have a nice stay.",
+      "cleanText": "Sir. Have a nice stay.",
+      "bbox": {
+        "x": 394,
+        "y": 650,
+        "width": 235,
+        "height": 34
+      },
+      "confidence": 94.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Passenger",
+      "cleanText": "Passenger",
+      "bbox": {
+        "x": 197,
+        "y": 695,
+        "width": 113,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-015-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Thank you.",
+      "cleanText": "Thank you.",
+      "bbox": {
+        "x": 392,
+        "y": 695,
+        "width": 127,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-015-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "In the above conversation the officer asks the passenger first time",
+      "cleanText": "In the above conversation the officer asks the passenger first time",
+      "bbox": {
+        "x": 199,
+        "y": 746,
+        "width": 848,
+        "height": 27
+      },
+      "confidence": 95.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "“Where do you come from?\" and again he asks the passenger \"And",
+      "cleanText": "“Where do you come from?\" and again he asks the passenger \"And",
+      "bbox": {
+        "x": 200,
+        "y": 781,
+        "width": 846,
+        "height": 27
+      },
+      "confidence": 91.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "where are you coming from now?\"' Why?",
+      "cleanText": "where are you coming from now?\"' Why?",
+      "bbox": {
+        "x": 197,
+        "y": 817,
+        "width": 507,
+        "height": 26
+      },
+      "confidence": 88.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "iii) the first day in the new class after the annual exam. The boy sitting",
+      "cleanText": "the first day in the new class after the annual exam. The boy sitting",
+      "bbox": {
+        "x": 197,
+        "y": 865,
+        "width": 848,
+        "height": 25
+      },
+      "confidence": 94.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "next to Joy is a new student. Listen to and practise the conversation below.",
+      "cleanText": "next to Joy is a new student. Listen to and practise the conversation below.",
+      "bbox": {
+        "x": 195,
+        "y": 898,
+        "width": 848,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Hello! I'm Joy. I'm the class captain.",
+      "cleanText": "Hello! I'm Joy. I'm the class captain.",
+      "bbox": {
+        "x": 371,
+        "y": 949,
+        "width": 412,
+        "height": 25
+      },
+      "confidence": 95.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "New student",
+      "cleanText": "New student",
+      "bbox": {
+        "x": 197,
+        "y": 992,
+        "width": 142,
+        "height": 19
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-015-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Hi! My name is Sajed.",
+      "cleanText": "Hi! My name is Sajed.",
+      "bbox": {
+        "x": 371,
+        "y": 992,
+        "width": 255,
+        "height": 25
+      },
+      "confidence": 94.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "Where do you come",
+      "cleanText": "Where do you come",
+      "bbox": {
+        "x": 370,
+        "y": 1032,
+        "width": 229,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "from, Sajed?",
+      "cleanText": "from, Sajed?",
+      "bbox": {
+        "x": 371,
+        "y": 1065,
+        "width": 144,
+        "height": 26
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-015-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "I'm from Sylhet. My",
+      "cleanText": "I'm from Sylhet. My",
+      "bbox": {
+        "x": 371,
+        "y": 1104,
+        "width": 232,
+        "height": 25
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "father got transferred",
+      "cleanText": "father got transferred",
+      "bbox": {
+        "x": 371,
+        "y": 1137,
+        "width": 239,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "here. That's why I'm",
+      "cleanText": "here. That's why I'm",
+      "bbox": {
+        "x": 371,
+        "y": 1170,
+        "width": 230,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "here in Khulna.",
+      "cleanText": "here in Khulna.",
+      "bbox": {
+        "x": 371,
+        "y": 1203,
+        "width": 174,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "Well, I'm sure you will",
+      "cleanText": "Well, I'm sure you will",
+      "bbox": {
+        "x": 370,
+        "y": 1242,
+        "width": 258,
+        "height": 26
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "like Khulna and your",
+      "cleanText": "like Khulna and your",
+      "bbox": {
+        "x": 371,
+        "y": 1275,
+        "width": 241,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-035",
+      "lineNumber": 35
+    },
+    {
+      "text": "new school.",
+      "cleanText": "new school.",
+      "bbox": {
+        "x": 371,
+        "y": 1308,
+        "width": 133,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-015-line-036",
+      "lineNumber": 36
+    },
+    {
+      "text": "I know I will. Will you be my friend?",
+      "cleanText": "I know I will. Will you be my friend?",
+      "bbox": {
+        "x": 371,
+        "y": 1353,
+        "width": 425,
+        "height": 33
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-037",
+      "lineNumber": 37
+    },
+    {
+      "text": "I'm already your friend!",
+      "cleanText": "I'm already your friend!",
+      "bbox": {
+        "x": 371,
+        "y": 1402,
+        "width": 269,
+        "height": 25
+      },
+      "confidence": 94.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-015-line-038",
+      "lineNumber": 38
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-015-line-001",
+      "lineNumber": 1,
+      "text": "Sometimes the same questions can be asked in a different way. Here",
+      "bbox": {
+        "x": 195,
+        "y": 156,
+        "width": 850,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-002",
+      "lineNumber": 2,
+      "text": "is a conversation between an immigration officer and a passenger at the",
+      "bbox": {
+        "x": 197,
+        "y": 189,
+        "width": 848,
+        "height": 25
+      },
+      "confidence": 94.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-003",
+      "lineNumber": 3,
+      "text": "Shahjalal International Airport, Dhaka. Listen to the conversation first and",
+      "bbox": {
+        "x": 194,
+        "y": 221,
+        "width": 852,
+        "height": 26
+      },
+      "confidence": 93.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-004",
+      "lineNumber": 4,
+      "text": "then practise it with a partner.",
+      "bbox": {
+        "x": 191,
+        "y": 255,
+        "width": 338,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-005",
+      "lineNumber": 5,
+      "text": "Your name, Sir?",
+      "bbox": {
+        "x": 391,
+        "y": 304,
+        "width": 182,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-008",
+      "lineNumber": 8,
+      "text": "Where do you come",
+      "bbox": {
+        "x": 392,
+        "y": 386,
+        "width": 229,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-009",
+      "lineNumber": 9,
+      "text": "from, Mr. Smith?",
+      "bbox": {
+        "x": 393,
+        "y": 418,
+        "width": 197,
+        "height": 24
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-012",
+      "lineNumber": 12,
+      "text": "And where are you",
+      "bbox": {
+        "x": 392,
+        "y": 502,
+        "width": 216,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-013",
+      "lineNumber": 13,
+      "text": "coming from now?",
+      "bbox": {
+        "x": 393,
+        "y": 535,
+        "width": 215,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-015",
+      "lineNumber": 15,
+      "text": "I'm coming from London.",
+      "bbox": {
+        "x": 393,
+        "y": 577,
+        "width": 293,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-016",
+      "lineNumber": 16,
+      "text": "Welcome to Bangladesh,",
+      "bbox": {
+        "x": 391,
+        "y": 621,
+        "width": 283,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-017",
+      "lineNumber": 17,
+      "text": "Sir. Have a nice stay.",
+      "bbox": {
+        "x": 394,
+        "y": 650,
+        "width": 235,
+        "height": 34
+      },
+      "confidence": 94.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-020",
+      "lineNumber": 20,
+      "text": "In the above conversation the officer asks the passenger first time",
+      "bbox": {
+        "x": 199,
+        "y": 746,
+        "width": 848,
+        "height": 27
+      },
+      "confidence": 95.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-021",
+      "lineNumber": 21,
+      "text": "“Where do you come from?\" and again he asks the passenger \"And",
+      "bbox": {
+        "x": 200,
+        "y": 781,
+        "width": 846,
+        "height": 27
+      },
+      "confidence": 91.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-022",
+      "lineNumber": 22,
+      "text": "where are you coming from now?\"' Why?",
+      "bbox": {
+        "x": 197,
+        "y": 817,
+        "width": 507,
+        "height": 26
+      },
+      "confidence": 88.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-023",
+      "lineNumber": 23,
+      "text": "the first day in the new class after the annual exam. The boy sitting",
+      "bbox": {
+        "x": 197,
+        "y": 865,
+        "width": 848,
+        "height": 25
+      },
+      "confidence": 94.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-024",
+      "lineNumber": 24,
+      "text": "next to Joy is a new student. Listen to and practise the conversation below.",
+      "bbox": {
+        "x": 195,
+        "y": 898,
+        "width": 848,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-025",
+      "lineNumber": 25,
+      "text": "Hello! I'm Joy. I'm the class captain.",
+      "bbox": {
+        "x": 371,
+        "y": 949,
+        "width": 412,
+        "height": 25
+      },
+      "confidence": 95.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-027",
+      "lineNumber": 27,
+      "text": "Hi! My name is Sajed.",
+      "bbox": {
+        "x": 371,
+        "y": 992,
+        "width": 255,
+        "height": 25
+      },
+      "confidence": 94.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-028",
+      "lineNumber": 28,
+      "text": "Where do you come",
+      "bbox": {
+        "x": 370,
+        "y": 1032,
+        "width": 229,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-030",
+      "lineNumber": 30,
+      "text": "I'm from Sylhet. My",
+      "bbox": {
+        "x": 371,
+        "y": 1104,
+        "width": 232,
+        "height": 25
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-031",
+      "lineNumber": 31,
+      "text": "father got transferred",
+      "bbox": {
+        "x": 371,
+        "y": 1137,
+        "width": 239,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-032",
+      "lineNumber": 32,
+      "text": "here. That's why I'm",
+      "bbox": {
+        "x": 371,
+        "y": 1170,
+        "width": 230,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-033",
+      "lineNumber": 33,
+      "text": "here in Khulna.",
+      "bbox": {
+        "x": 371,
+        "y": 1203,
+        "width": 174,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-034",
+      "lineNumber": 34,
+      "text": "Well, I'm sure you will",
+      "bbox": {
+        "x": 370,
+        "y": 1242,
+        "width": 258,
+        "height": 26
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-035",
+      "lineNumber": 35,
+      "text": "like Khulna and your",
+      "bbox": {
+        "x": 371,
+        "y": 1275,
+        "width": 241,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-037",
+      "lineNumber": 37,
+      "text": "I know I will. Will you be my friend?",
+      "bbox": {
+        "x": 371,
+        "y": 1353,
+        "width": 425,
+        "height": 33
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-015-line-038",
+      "lineNumber": 38,
+      "text": "I'm already your friend!",
+      "bbox": {
+        "x": 371,
+        "y": 1402,
+        "width": 269,
+        "height": 25
+      },
+      "confidence": 94.25,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "ii) Sometimes the same questions can be asked in a different way. Here\nis a conversation between an immigration officer and a passenger at the\nShahjalal International Airport, Dhaka. Listen to the conversation first and\nthen practise it with a partner.\nYour name, Sir?\nPassenger\nRobert Smith.\nWhere do you come\nfrom, Mr. Smith?\nPassenger\nAustralia.\nAnd where are you\ncoming from now?\nPassenger\nI'm coming from London.\nWelcome to Bangladesh,\nSir. Have a nice stay.\nPassenger\nThank you.\nIn the above conversation the officer asks the passenger first time\n“Where do you come from?\" and again he asks the passenger \"And\nwhere are you coming from now?\"' Why?\niii) the first day in the new class after the annual exam. The boy sitting\nnext to Joy is a new student. Listen to and practise the conversation below.\nHello! I'm Joy. I'm the class captain.\nNew student\nHi! My name is Sajed.\nWhere do you come\nfrom, Sajed?\nI'm from Sylhet. My\nfather got transferred\nhere. That's why I'm\nhere in Khulna.\nWell, I'm sure you will\nlike Khulna and your\nnew school.\nI know I will. Will you be my friend?\nI'm already your friend!",
+  "cleanText": "Sometimes the same questions can be asked in a different way. Here\nis a conversation between an immigration officer and a passenger at the\nShahjalal International Airport, Dhaka. Listen to the conversation first and\nthen practise it with a partner.\nYour name, Sir?\nPassenger\nRobert Smith.\nWhere do you come\nfrom, Mr. Smith?\nPassenger\nAustralia.\nAnd where are you\ncoming from now?\nPassenger\nI'm coming from London.\nWelcome to Bangladesh,\nSir. Have a nice stay.\nPassenger\nThank you.\nIn the above conversation the officer asks the passenger first time\n“Where do you come from?\" and again he asks the passenger \"And\nwhere are you coming from now?\"' Why?\nthe first day in the new class after the annual exam. The boy sitting\nnext to Joy is a new student. Listen to and practise the conversation below.\nHello! I'm Joy. I'm the class captain.\nNew student\nHi! My name is Sajed.\nWhere do you come\nfrom, Sajed?\nI'm from Sylhet. My\nfather got transferred\nhere. That's why I'm\nhere in Khulna.\nWell, I'm sure you will\nlike Khulna and your\nnew school.\nI know I will. Will you be my friend?\nI'm already your friend!",
+  "aiReadyText": "Sometimes the same questions can be asked in a different way. Here\nis a conversation between an immigration officer and a passenger at the\nShahjalal International Airport, Dhaka. Listen to the conversation first and\nthen practise it with a partner.\nYour name, Sir?\nWhere do you come\nfrom, Mr. Smith?\nAnd where are you\ncoming from now?\nI'm coming from London.\nWelcome to Bangladesh,\nSir. Have a nice stay.\nIn the above conversation the officer asks the passenger first time\n“Where do you come from?\" and again he asks the passenger \"And\nwhere are you coming from now?\"' Why?\nthe first day in the new class after the annual exam. The boy sitting\nnext to Joy is a new student. Listen to and practise the conversation below.\nHello! I'm Joy. I'm the class captain.\nHi! My name is Sajed.\nWhere do you come\nI'm from Sylhet. My\nfather got transferred\nhere. That's why I'm\nhere in Khulna.\nWell, I'm sure you will\nlike Khulna and your\nI know I will. Will you be my friend?\nI'm already your friend!"
+}

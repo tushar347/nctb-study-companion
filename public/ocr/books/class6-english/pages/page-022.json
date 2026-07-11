@@ -1,0 +1,704 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 22,
+  "image": "/ocr/books/class6-english/page-images/page-022.png",
+  "width": 1169,
+  "height": 1521,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 6 It Smells Good!",
+      "cleanText": "Lesson 6 It Smells Good!",
+      "bbox": {
+        "x": 327,
+        "y": 190,
+        "width": 548,
+        "height": 33
+      },
+      "confidence": 84.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 185,
+        "y": 262,
+        "width": 569,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-022-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "ask and answer questions",
+      "cleanText": "ask and answer questions",
+      "bbox": {
+        "x": 224,
+        "y": 295,
+        "width": 265,
+        "height": 24
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "® participate in short dialogues and conversations on familiar topics",
+      "cleanText": "® participate in short dialogues and conversations on familiar topics",
+      "bbox": {
+        "x": 205,
+        "y": 337,
+        "width": 710,
+        "height": 23
+      },
+      "confidence": 90.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "A. Read the passage and the dialogue below:",
+      "cleanText": "Read the passage and the dialogue below:",
+      "bbox": {
+        "x": 128,
+        "y": 374,
+        "width": 584,
+        "height": 27
+      },
+      "confidence": 88.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "It's Saturday. Mila's school is open. But Friday and Saturday are father's",
+      "cleanText": "It's Saturday. Mila's school is open. But Friday and Saturday are father's",
+      "bbox": {
+        "x": 186,
+        "y": 430,
+        "width": 855,
+        "height": 26
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "weekly holidays. Father sometimes loves to cook special dishes for everybody",
+      "cleanText": "weekly holidays. Father sometimes loves to cook special dishes for everybody",
+      "bbox": {
+        "x": 185,
+        "y": 467,
+        "width": 855,
+        "height": 26
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "on Saturdays. It's 2 o'clock - time for Mila to come back from school.",
+      "cleanText": "on Saturdays. It's 2 o'clock - time for Mila to come back from school.",
+      "bbox": {
+        "x": 185,
+        "y": 504,
+        "width": 853,
+        "height": 26
+      },
+      "confidence": 94.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Mother is setting the table. Mila’s two younger sisters are playing in the",
+      "cleanText": "Mother is setting the table. Mila’s two younger sisters are playing in the",
+      "bbox": {
+        "x": 187,
+        "y": 541,
+        "width": 855,
+        "height": 27
+      },
+      "confidence": 93.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "living room. The doorbell rings. Mila comes in.",
+      "cleanText": "living room. The doorbell rings. Mila comes in.",
+      "bbox": {
+        "x": 188,
+        "y": 578,
+        "width": 545,
+        "height": 27
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Mila Hi, Mom! I'm back!",
+      "cleanText": "Mila Hi, Mom! I'm back!",
+      "bbox": {
+        "x": 186,
+        "y": 642,
+        "width": 330,
+        "height": 30
+      },
+      "confidence": 94.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Where's Baba?",
+      "cleanText": "Where's Baba?",
+      "bbox": {
+        "x": 295,
+        "y": 689,
+        "width": 170,
+        "height": 20
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-022-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Mom _ In the kitchen. Today is",
+      "cleanText": "Mom _ In the kitchen. Today is",
+      "bbox": {
+        "x": 184,
+        "y": 729,
+        "width": 373,
+        "height": 35
+      },
+      "confidence": 87.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Saturday, remember?",
+      "cleanText": "Saturday, remember?",
+      "bbox": {
+        "x": 296,
+        "y": 778,
+        "width": 240,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Mila _ Right! Baba's cooking",
+      "cleanText": "Mila _ Right! Baba's cooking",
+      "bbox": {
+        "x": 187,
+        "y": 817,
+        "width": 356,
+        "height": 35
+      },
+      "confidence": 78.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "day! Hi, Baba! What are",
+      "cleanText": "day! Hi, Baba! What are",
+      "bbox": {
+        "x": 291,
+        "y": 865,
+        "width": 267,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "you cooking today? It",
+      "cleanText": "you cooking today? It",
+      "bbox": {
+        "x": 295,
+        "y": 910,
+        "width": 249,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "smells good!",
+      "cleanText": "smells good!",
+      "bbox": {
+        "x": 296,
+        "y": 954,
+        "width": 143,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-022-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Baba It's ‘moragpolau’, dear,",
+      "cleanText": "Baba It's ‘moragpolau’, dear,",
+      "bbox": {
+        "x": 186,
+        "y": 998,
+        "width": 359,
+        "height": 25
+      },
+      "confidence": 64.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "your favourite dish.",
+      "cleanText": "your favourite dish.",
+      "bbox": {
+        "x": 295,
+        "y": 1041,
+        "width": 221,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Mila Can I try some?",
+      "cleanText": "Mila Can I try some?",
+      "bbox": {
+        "x": 186,
+        "y": 1082,
+        "width": 292,
+        "height": 33
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Baba No, you can't. You know the rule, don't you?",
+      "cleanText": "Baba No, you can't. You know the rule, don't you?",
+      "bbox": {
+        "x": 186,
+        "y": 1130,
+        "width": 617,
+        "height": 25
+      },
+      "confidence": 84.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Go and wash your hands first.",
+      "cleanText": "Go and wash your hands first.",
+      "bbox": {
+        "x": 290,
+        "y": 1173,
+        "width": 339,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Mila Baba. I'm coming soon.",
+      "cleanText": "Mila Baba. I'm coming soon.",
+      "bbox": {
+        "x": 187,
+        "y": 1217,
+        "width": 459,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Baba — Ok. Here is your dish.",
+      "cleanText": "Baba — Ok. Here is your dish.",
+      "bbox": {
+        "x": 186,
+        "y": 1258,
+        "width": 354,
+        "height": 33
+      },
+      "confidence": 88.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Mila Ummm! It tastes so delicious!",
+      "cleanText": "Mila Ummm! It tastes so delicious!",
+      "bbox": {
+        "x": 186,
+        "y": 1313,
+        "width": 446,
+        "height": 33
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-026",
+      "lineNumber": 26
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-022-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 6 It Smells Good!",
+      "bbox": {
+        "x": 327,
+        "y": 190,
+        "width": 548,
+        "height": 33
+      },
+      "confidence": 84.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-003",
+      "lineNumber": 3,
+      "text": "ask and answer questions",
+      "bbox": {
+        "x": 224,
+        "y": 295,
+        "width": 265,
+        "height": 24
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-004",
+      "lineNumber": 4,
+      "text": "® participate in short dialogues and conversations on familiar topics",
+      "bbox": {
+        "x": 205,
+        "y": 337,
+        "width": 710,
+        "height": 23
+      },
+      "confidence": 90.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-005",
+      "lineNumber": 5,
+      "text": "Read the passage and the dialogue below:",
+      "bbox": {
+        "x": 128,
+        "y": 374,
+        "width": 584,
+        "height": 27
+      },
+      "confidence": 88.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-006",
+      "lineNumber": 6,
+      "text": "It's Saturday. Mila's school is open. But Friday and Saturday are father's",
+      "bbox": {
+        "x": 186,
+        "y": 430,
+        "width": 855,
+        "height": 26
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-007",
+      "lineNumber": 7,
+      "text": "weekly holidays. Father sometimes loves to cook special dishes for everybody",
+      "bbox": {
+        "x": 185,
+        "y": 467,
+        "width": 855,
+        "height": 26
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-008",
+      "lineNumber": 8,
+      "text": "on Saturdays. It's 2 o'clock - time for Mila to come back from school.",
+      "bbox": {
+        "x": 185,
+        "y": 504,
+        "width": 853,
+        "height": 26
+      },
+      "confidence": 94.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-009",
+      "lineNumber": 9,
+      "text": "Mother is setting the table. Mila’s two younger sisters are playing in the",
+      "bbox": {
+        "x": 187,
+        "y": 541,
+        "width": 855,
+        "height": 27
+      },
+      "confidence": 93.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-010",
+      "lineNumber": 10,
+      "text": "living room. The doorbell rings. Mila comes in.",
+      "bbox": {
+        "x": 188,
+        "y": 578,
+        "width": 545,
+        "height": 27
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-011",
+      "lineNumber": 11,
+      "text": "Mila Hi, Mom! I'm back!",
+      "bbox": {
+        "x": 186,
+        "y": 642,
+        "width": 330,
+        "height": 30
+      },
+      "confidence": 94.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-013",
+      "lineNumber": 13,
+      "text": "Mom _ In the kitchen. Today is",
+      "bbox": {
+        "x": 184,
+        "y": 729,
+        "width": 373,
+        "height": 35
+      },
+      "confidence": 87.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-014",
+      "lineNumber": 14,
+      "text": "Saturday, remember?",
+      "bbox": {
+        "x": 296,
+        "y": 778,
+        "width": 240,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-015",
+      "lineNumber": 15,
+      "text": "Mila _ Right! Baba's cooking",
+      "bbox": {
+        "x": 187,
+        "y": 817,
+        "width": 356,
+        "height": 35
+      },
+      "confidence": 78.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-016",
+      "lineNumber": 16,
+      "text": "day! Hi, Baba! What are",
+      "bbox": {
+        "x": 291,
+        "y": 865,
+        "width": 267,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-017",
+      "lineNumber": 17,
+      "text": "you cooking today? It",
+      "bbox": {
+        "x": 295,
+        "y": 910,
+        "width": 249,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-019",
+      "lineNumber": 19,
+      "text": "Baba It's ‘moragpolau’, dear,",
+      "bbox": {
+        "x": 186,
+        "y": 998,
+        "width": 359,
+        "height": 25
+      },
+      "confidence": 64.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-020",
+      "lineNumber": 20,
+      "text": "your favourite dish.",
+      "bbox": {
+        "x": 295,
+        "y": 1041,
+        "width": 221,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-021",
+      "lineNumber": 21,
+      "text": "Mila Can I try some?",
+      "bbox": {
+        "x": 186,
+        "y": 1082,
+        "width": 292,
+        "height": 33
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-022",
+      "lineNumber": 22,
+      "text": "Baba No, you can't. You know the rule, don't you?",
+      "bbox": {
+        "x": 186,
+        "y": 1130,
+        "width": 617,
+        "height": 25
+      },
+      "confidence": 84.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-023",
+      "lineNumber": 23,
+      "text": "Go and wash your hands first.",
+      "bbox": {
+        "x": 290,
+        "y": 1173,
+        "width": 339,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-024",
+      "lineNumber": 24,
+      "text": "Mila Baba. I'm coming soon.",
+      "bbox": {
+        "x": 187,
+        "y": 1217,
+        "width": 459,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-025",
+      "lineNumber": 25,
+      "text": "Baba — Ok. Here is your dish.",
+      "bbox": {
+        "x": 186,
+        "y": 1258,
+        "width": 354,
+        "height": 33
+      },
+      "confidence": 88.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-026",
+      "lineNumber": 26,
+      "text": "Mila Ummm! It tastes so delicious!",
+      "bbox": {
+        "x": 186,
+        "y": 1313,
+        "width": 446,
+        "height": 33
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 6 It Smells Good!\nAfter completing the lesson students will be able to\nask and answer questions\n® participate in short dialogues and conversations on familiar topics\nA. Read the passage and the dialogue below:\nIt's Saturday. Mila's school is open. But Friday and Saturday are father's\nweekly holidays. Father sometimes loves to cook special dishes for everybody\non Saturdays. It's 2 o'clock - time for Mila to come back from school.\nMother is setting the table. Mila’s two younger sisters are playing in the\nliving room. The doorbell rings. Mila comes in.\nMila Hi, Mom! I'm back!\nWhere's Baba?\nMom _ In the kitchen. Today is\nSaturday, remember?\nMila _ Right! Baba's cooking\nday! Hi, Baba! What are\nyou cooking today? It\nsmells good!\nBaba It's ‘moragpolau’, dear,\nyour favourite dish.\nMila Can I try some?\nBaba No, you can't. You know the rule, don't you?\nGo and wash your hands first.\nMila Baba. I'm coming soon.\nBaba — Ok. Here is your dish.\nMila Ummm! It tastes so delicious!",
+  "cleanText": "Lesson 6 It Smells Good!\nAfter completing the lesson students will be able to\nask and answer questions\n® participate in short dialogues and conversations on familiar topics\nRead the passage and the dialogue below:\nIt's Saturday. Mila's school is open. But Friday and Saturday are father's\nweekly holidays. Father sometimes loves to cook special dishes for everybody\non Saturdays. It's 2 o'clock - time for Mila to come back from school.\nMother is setting the table. Mila’s two younger sisters are playing in the\nliving room. The doorbell rings. Mila comes in.\nMila Hi, Mom! I'm back!\nWhere's Baba?\nMom _ In the kitchen. Today is\nSaturday, remember?\nMila _ Right! Baba's cooking\nday! Hi, Baba! What are\nyou cooking today? It\nsmells good!\nBaba It's ‘moragpolau’, dear,\nyour favourite dish.\nMila Can I try some?\nBaba No, you can't. You know the rule, don't you?\nGo and wash your hands first.\nMila Baba. I'm coming soon.\nBaba — Ok. Here is your dish.\nMila Ummm! It tastes so delicious!",
+  "aiReadyText": "Lesson 6 It Smells Good!\nask and answer questions\n® participate in short dialogues and conversations on familiar topics\nRead the passage and the dialogue below:\nIt's Saturday. Mila's school is open. But Friday and Saturday are father's\nweekly holidays. Father sometimes loves to cook special dishes for everybody\non Saturdays. It's 2 o'clock - time for Mila to come back from school.\nMother is setting the table. Mila’s two younger sisters are playing in the\nliving room. The doorbell rings. Mila comes in.\nMila Hi, Mom! I'm back!\nMom _ In the kitchen. Today is\nSaturday, remember?\nMila _ Right! Baba's cooking\nday! Hi, Baba! What are\nyou cooking today? It\nBaba It's ‘moragpolau’, dear,\nyour favourite dish.\nMila Can I try some?\nBaba No, you can't. You know the rule, don't you?\nGo and wash your hands first.\nMila Baba. I'm coming soon.\nBaba — Ok. Here is your dish.\nMila Ummm! It tastes so delicious!"
+}

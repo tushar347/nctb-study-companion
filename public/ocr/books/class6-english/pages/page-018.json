@@ -1,0 +1,269 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 18,
+  "image": "/ocr/books/class6-english/page-images/page-018.png",
+  "width": 1176,
+  "height": 1527,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 5 Thanks for Your Work",
+      "cleanText": "Lesson 5 Thanks for Your Work",
+      "bbox": {
+        "x": 236,
+        "y": 186,
+        "width": 706,
+        "height": 31
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-018-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 181,
+        "y": 259,
+        "width": 569,
+        "height": 24
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-018-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "talk about people, places and familiar objects in short and simple sentences",
+      "cleanText": "talk about people, places and familiar objects in short and simple sentences",
+      "bbox": {
+        "x": 219,
+        "y": 290,
+        "width": 791,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-018-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "e ask and answer questions",
+      "cleanText": "e ask and answer questions",
+      "bbox": {
+        "x": 201,
+        "y": 321,
+        "width": 284,
+        "height": 24
+      },
+      "confidence": 84.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-018-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "® participate in short dialogues and conversations on familiar topics",
+      "cleanText": "® participate in short dialogues and conversations on familiar topics",
+      "bbox": {
+        "x": 201,
+        "y": 352,
+        "width": 716,
+        "height": 24
+      },
+      "confidence": 93.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-018-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "* read and understand texts",
+      "cleanText": "* read and understand texts",
+      "bbox": {
+        "x": 201,
+        "y": 383,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 85.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-018-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "© write short paragraphs",
+      "cleanText": "© write short paragraphs",
+      "bbox": {
+        "x": 201,
+        "y": 414,
+        "width": 252,
+        "height": 23
+      },
+      "confidence": 83.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-018-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "A. Look and say. Use suitable words from the box to describe the occupation",
+      "cleanText": "Look and say. Use suitable words from the box to describe the occupation",
+      "bbox": {
+        "x": 128,
+        "y": 446,
+        "width": 918,
+        "height": 27
+      },
+      "confidence": 96.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-018-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "of each person below:",
+      "cleanText": "of each person below:",
+      "bbox": {
+        "x": 182,
+        "y": 488,
+        "width": 261,
+        "height": 27
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-018-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "newspaper hawker cleaner",
+      "cleanText": "newspaper hawker cleaner",
+      "bbox": {
+        "x": 217,
+        "y": 555,
+        "width": 783,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-018-line-010",
+      "lineNumber": 10
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-018-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 5 Thanks for Your Work",
+      "bbox": {
+        "x": 236,
+        "y": 186,
+        "width": 706,
+        "height": 31
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-018-line-004",
+      "lineNumber": 4,
+      "text": "e ask and answer questions",
+      "bbox": {
+        "x": 201,
+        "y": 321,
+        "width": 284,
+        "height": 24
+      },
+      "confidence": 84.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-018-line-005",
+      "lineNumber": 5,
+      "text": "® participate in short dialogues and conversations on familiar topics",
+      "bbox": {
+        "x": 201,
+        "y": 352,
+        "width": 716,
+        "height": 24
+      },
+      "confidence": 93.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-018-line-006",
+      "lineNumber": 6,
+      "text": "* read and understand texts",
+      "bbox": {
+        "x": 201,
+        "y": 383,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 85.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-018-line-007",
+      "lineNumber": 7,
+      "text": "© write short paragraphs",
+      "bbox": {
+        "x": 201,
+        "y": 414,
+        "width": 252,
+        "height": 23
+      },
+      "confidence": 83.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-018-line-008",
+      "lineNumber": 8,
+      "text": "Look and say. Use suitable words from the box to describe the occupation",
+      "bbox": {
+        "x": 128,
+        "y": 446,
+        "width": 918,
+        "height": 27
+      },
+      "confidence": 96.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-018-line-009",
+      "lineNumber": 9,
+      "text": "of each person below:",
+      "bbox": {
+        "x": 182,
+        "y": 488,
+        "width": 261,
+        "height": 27
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-018-line-010",
+      "lineNumber": 10,
+      "text": "newspaper hawker cleaner",
+      "bbox": {
+        "x": 217,
+        "y": 555,
+        "width": 783,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 5 Thanks for Your Work\nAfter completing the lesson students will be able to\ntalk about people, places and familiar objects in short and simple sentences\ne ask and answer questions\n® participate in short dialogues and conversations on familiar topics\n* read and understand texts\n© write short paragraphs\nA. Look and say. Use suitable words from the box to describe the occupation\nof each person below:\nnewspaper hawker cleaner",
+  "cleanText": "Lesson 5 Thanks for Your Work\nAfter completing the lesson students will be able to\ntalk about people, places and familiar objects in short and simple sentences\ne ask and answer questions\n® participate in short dialogues and conversations on familiar topics\n* read and understand texts\n© write short paragraphs\nLook and say. Use suitable words from the box to describe the occupation\nof each person below:\nnewspaper hawker cleaner",
+  "aiReadyText": "Lesson 5 Thanks for Your Work\ne ask and answer questions\n® participate in short dialogues and conversations on familiar topics\n* read and understand texts\n© write short paragraphs\nLook and say. Use suitable words from the box to describe the occupation\nof each person below:\nnewspaper hawker cleaner"
+}

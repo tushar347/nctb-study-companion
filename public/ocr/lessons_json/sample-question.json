@@ -1,0 +1,3111 @@
+{
+  "lessonNo": null,
+  "title": "Sample Question",
+  "textbookPageStart": 101,
+  "textbookPageEnd": 110,
+  "pdfPageStart": 106,
+  "pdfPageEnd": 115,
+  "pages": [
+    {
+      "pdfPage": 106,
+      "textbookPage": 101,
+      "rawText": "2026\n\nEnglish For Today 101\n\nSample Question\nSubject: English First Paper\nClass: Six\n\nTime: 3 hours Marks: 100\n[Marks for individual items are mentioned next to the test items]\n\nPart A - Reading (Marks: 70)\nRead the text and answer the questions 1 & 2:\n\nBulbul collects rubbish from the Sankar area in Dhaka. Every morning, he wakes\nup at 5 o'clock and walks along the streets of Sankar to collect rubbish. People\nof Sankar put their rubbish in plastic bins and leave them in front of their houses.\nBulbul walks from door to door to collect them. Sometimes the bins are very\ndirty and they smell bad. But Bulbul does not mind. He takes out everything\nfrom the bins and puts them in his van. He believes that all jobs are important.\nHe works hard every day to keep this area clean.Last month Bulbul was sick for\ntwo days. So, he could not come to collect the rubbish. The people of Sankar\nwere in great trouble. They got piles of rubbish waiting in front of their houses.\nThe whole area became dirty and unhygienic. When Bulbul got well, he came\nback to Sanker. He collected everything from all the bins. Bulbul does not want\nto fall sick again. He realises, if he stops working even for a few days only, the\nwhole area will turn into a big dustbin.\n\n1. Choose the best answer from the alternatives: 1x7=7\na) What time does Bulbul wake up every morning?\ni. 4 o'clock\nii. 5 o'clock\niii. 6 o'clock\niv. 7 o'clock\nb) Where does Bulbul collect rubbish from?\ni. Gulshan\nii. Mirpur\niii. Sankar\niv. Banani\n\nc) How do the people of Sankar dispose of their rubbish?\ni. They throw it on the streets.\nii. They keep it inside their homes.\niii. They burn it in their yards.\niv. They put it in plastic bins and leave them in front of their houses.",
+      "rawLines": [
+        "2026",
+        "English For Today 101",
+        "Sample Question",
+        "Subject: English First Paper",
+        "Class: Six",
+        "Time: 3 hours Marks: 100",
+        "[Marks for individual items are mentioned next to the test items]",
+        "Part A - Reading (Marks: 70)",
+        "Read the text and answer the questions 1 & 2:",
+        "Bulbul collects rubbish from the Sankar area in Dhaka. Every morning, he wakes",
+        "up at 5 o'clock and walks along the streets of Sankar to collect rubbish. People",
+        "of Sankar put their rubbish in plastic bins and leave them in front of their houses.",
+        "Bulbul walks from door to door to collect them. Sometimes the bins are very",
+        "dirty and they smell bad. But Bulbul does not mind. He takes out everything",
+        "from the bins and puts them in his van. He believes that all jobs are important.",
+        "He works hard every day to keep this area clean.Last month Bulbul was sick for",
+        "two days. So, he could not come to collect the rubbish. The people of Sankar",
+        "were in great trouble. They got piles of rubbish waiting in front of their houses.",
+        "The whole area became dirty and unhygienic. When Bulbul got well, he came",
+        "back to Sanker. He collected everything from all the bins. Bulbul does not want",
+        "to fall sick again. He realises, if he stops working even for a few days only, the",
+        "whole area will turn into a big dustbin.",
+        "1. Choose the best answer from the alternatives: 1x7=7",
+        "a) What time does Bulbul wake up every morning?",
+        "i. 4 o'clock",
+        "ii. 5 o'clock",
+        "iii. 6 o'clock",
+        "iv. 7 o'clock",
+        "b) Where does Bulbul collect rubbish from?",
+        "i. Gulshan",
+        "ii. Mirpur",
+        "iii. Sankar",
+        "iv. Banani",
+        "c) How do the people of Sankar dispose of their rubbish?",
+        "i. They throw it on the streets.",
+        "ii. They keep it inside their homes.",
+        "iii. They burn it in their yards.",
+        "iv. They put it in plastic bins and leave them in front of their houses."
+      ],
+      "cleanLines": [
+        "Sample Question",
+        "Subject: English First Paper",
+        "Class: Six",
+        "Time: 3 hours Marks: 100",
+        "[Marks for individual items are mentioned next to the test items]",
+        "Part A - Reading (Marks: 70)",
+        "Read the text and answer the questions 1 & 2:",
+        "Bulbul collects rubbish from the Sankar area in Dhaka. Every morning, he wakes",
+        "up at 5 o'clock and walks along the streets of Sankar to collect rubbish. People",
+        "of Sankar put their rubbish in plastic bins and leave them in front of their houses.",
+        "Bulbul walks from door to door to collect them. Sometimes the bins are very",
+        "dirty and they smell bad. But Bulbul does not mind. He takes out everything",
+        "from the bins and puts them in his van. He believes that all jobs are important.",
+        "He works hard every day to keep this area clean.Last month Bulbul was sick for",
+        "two days. So, he could not come to collect the rubbish. The people of Sankar",
+        "were in great trouble. They got piles of rubbish waiting in front of their houses.",
+        "The whole area became dirty and unhygienic. When Bulbul got well, he came",
+        "back to Sanker. He collected everything from all the bins. Bulbul does not want",
+        "to fall sick again. He realises, if he stops working even for a few days only, the",
+        "whole area will turn into a big dustbin.",
+        "Choose the best answer from the alternatives: 1x7=7",
+        "What time does Bulbul wake up every morning?",
+        "i. 4 o'clock",
+        "ii. 5 o'clock",
+        "iii. 6 o'clock",
+        "iv. 7 o'clock",
+        "Where does Bulbul collect rubbish from?",
+        "i. Gulshan",
+        "ii. Mirpur",
+        "iii. Sankar",
+        "iv. Banani",
+        "How do the people of Sankar dispose of their rubbish?",
+        "i. They throw it on the streets.",
+        "ii. They keep it inside their homes.",
+        "iii. They burn it in their yards.",
+        "iv. They put it in plastic bins and leave them in front of their houses."
+      ],
+      "aiReadyLines": [
+        "Sample Question",
+        "Subject: English First Paper",
+        "Class: Six",
+        "Time: 3 hours Marks: 100",
+        "[Marks for individual items are mentioned next to the test items]",
+        "Part A - Reading (Marks: 70)",
+        "Read the text and answer the questions 1 & 2:",
+        "Bulbul collects rubbish from the Sankar area in Dhaka. Every morning, he wakes",
+        "up at 5 o'clock and walks along the streets of Sankar to collect rubbish. People",
+        "of Sankar put their rubbish in plastic bins and leave them in front of their houses.",
+        "Bulbul walks from door to door to collect them. Sometimes the bins are very",
+        "dirty and they smell bad. But Bulbul does not mind. He takes out everything",
+        "from the bins and puts them in his van. He believes that all jobs are important.",
+        "He works hard every day to keep this area clean.Last month Bulbul was sick for",
+        "two days. So, he could not come to collect the rubbish. The people of Sankar",
+        "were in great trouble. They got piles of rubbish waiting in front of their houses.",
+        "The whole area became dirty and unhygienic. When Bulbul got well, he came",
+        "back to Sanker. He collected everything from all the bins. Bulbul does not want",
+        "to fall sick again. He realises, if he stops working even for a few days only, the",
+        "whole area will turn into a big dustbin.",
+        "Choose the best answer from the alternatives: 1x7=7",
+        "What time does Bulbul wake up every morning?",
+        "i. 4 o'clock",
+        "ii. 5 o'clock",
+        "iii. 6 o'clock",
+        "iv. 7 o'clock",
+        "Where does Bulbul collect rubbish from?",
+        "i. Gulshan",
+        "ii. Mirpur",
+        "iii. Sankar",
+        "iv. Banani",
+        "How do the people of Sankar dispose of their rubbish?",
+        "i. They throw it on the streets.",
+        "ii. They keep it inside their homes.",
+        "iii. They burn it in their yards.",
+        "iv. They put it in plastic bins and leave them in front of their houses."
+      ]
+    },
+    {
+      "pdfPage": 107,
+      "textbookPage": 102,
+      "rawText": "102 English For Today\nd) Why was Sankar in great trouble last month?\ni. Bulbul went on vacation.\nii. The people refused to throw away their rubbish.\niii. Bulbul was sick for two days and could not collect the rubbish.\niv. A storm scattered the rubbish everywhere.\ne) What does Bulbul believe about his job?\ni. It is not important.\nii. Only educated people should do it.\niii. All jobs are important.\niv. He does it just for money.\nf) What happened when Bulbul could not collect the rubbish for two\ndays?\ni. The people of Sankar managed it themselves.\nii. The whole area became dirty and unhygienic.\niii. The rubbish disappeared on its own.\niv. The government cleaned the area.\ng) Why does Bulbul not want to fall sick again?\ni. He enjoys his work.\nii. He fears losing his job.\niii. He wants to earn more money.\niv. He knows the area will turn into a big dustbin if he stops working.\n2. Write short answers to the following questions: 5x2=10\na) Why does Bulbul wake up early in the morning?\nb) How did the people of Sankar suffer when Bulbul was sick?\nc) What does this story teach us about the importance of Bulbul's job?\nd) Where do the people of Sankar leave their rubbish?\ne) Why did Bulbul stop working?\n\nRead the text and answer the questions 3 & 4:\n\nA proverb says 'Health is Wealth'. To keep healthy is to keep free from disease\nand anxiety. Good health is proper functioning of all body organs. It is also\nfeeling well both in body and in mind. People in good health are active, cheerful\nand happy. If you are healthy, you can be happy and can help others in society as\n\nwell.\n\nTo keep in good health we should be careful about hygiene. The rules and\npractices of keeping good health are called hygiene. We must practise the rules\nof hygiene. Proper food and nutrition, physical exercise, rest and sleep,\ncleanliness, and proper medicare are essential for good health.\n\n2026",
+      "rawLines": [
+        "102 English For Today",
+        "d) Why was Sankar in great trouble last month?",
+        "i. Bulbul went on vacation.",
+        "ii. The people refused to throw away their rubbish.",
+        "iii. Bulbul was sick for two days and could not collect the rubbish.",
+        "iv. A storm scattered the rubbish everywhere.",
+        "e) What does Bulbul believe about his job?",
+        "i. It is not important.",
+        "ii. Only educated people should do it.",
+        "iii. All jobs are important.",
+        "iv. He does it just for money.",
+        "f) What happened when Bulbul could not collect the rubbish for two",
+        "days?",
+        "i. The people of Sankar managed it themselves.",
+        "ii. The whole area became dirty and unhygienic.",
+        "iii. The rubbish disappeared on its own.",
+        "iv. The government cleaned the area.",
+        "g) Why does Bulbul not want to fall sick again?",
+        "i. He enjoys his work.",
+        "ii. He fears losing his job.",
+        "iii. He wants to earn more money.",
+        "iv. He knows the area will turn into a big dustbin if he stops working.",
+        "2. Write short answers to the following questions: 5x2=10",
+        "a) Why does Bulbul wake up early in the morning?",
+        "b) How did the people of Sankar suffer when Bulbul was sick?",
+        "c) What does this story teach us about the importance of Bulbul's job?",
+        "d) Where do the people of Sankar leave their rubbish?",
+        "e) Why did Bulbul stop working?",
+        "Read the text and answer the questions 3 & 4:",
+        "A proverb says 'Health is Wealth'. To keep healthy is to keep free from disease",
+        "and anxiety. Good health is proper functioning of all body organs. It is also",
+        "feeling well both in body and in mind. People in good health are active, cheerful",
+        "and happy. If you are healthy, you can be happy and can help others in society as",
+        "well.",
+        "To keep in good health we should be careful about hygiene. The rules and",
+        "practices of keeping good health are called hygiene. We must practise the rules",
+        "of hygiene. Proper food and nutrition, physical exercise, rest and sleep,",
+        "cleanliness, and proper medicare are essential for good health.",
+        "2026"
+      ],
+      "cleanLines": [
+        "Why was Sankar in great trouble last month?",
+        "i. Bulbul went on vacation.",
+        "ii. The people refused to throw away their rubbish.",
+        "iii. Bulbul was sick for two days and could not collect the rubbish.",
+        "iv. A storm scattered the rubbish everywhere.",
+        "e) What does Bulbul believe about his job?",
+        "i. It is not important.",
+        "ii. Only educated people should do it.",
+        "iii. All jobs are important.",
+        "iv. He does it just for money.",
+        "f) What happened when Bulbul could not collect the rubbish for two",
+        "days?",
+        "i. The people of Sankar managed it themselves.",
+        "ii. The whole area became dirty and unhygienic.",
+        "iii. The rubbish disappeared on its own.",
+        "iv. The government cleaned the area.",
+        "g) Why does Bulbul not want to fall sick again?",
+        "i. He enjoys his work.",
+        "ii. He fears losing his job.",
+        "iii. He wants to earn more money.",
+        "iv. He knows the area will turn into a big dustbin if he stops working.",
+        "Write short answers to the following questions: 5x2=10",
+        "Why does Bulbul wake up early in the morning?",
+        "How did the people of Sankar suffer when Bulbul was sick?",
+        "What does this story teach us about the importance of Bulbul's job?",
+        "Where do the people of Sankar leave their rubbish?",
+        "e) Why did Bulbul stop working?",
+        "Read the text and answer the questions 3 & 4:",
+        "A proverb says 'Health is Wealth'. To keep healthy is to keep free from disease",
+        "and anxiety. Good health is proper functioning of all body organs. It is also",
+        "feeling well both in body and in mind. People in good health are active, cheerful",
+        "and happy. If you are healthy, you can be happy and can help others in society as",
+        "well.",
+        "To keep in good health we should be careful about hygiene. The rules and",
+        "practices of keeping good health are called hygiene. We must practise the rules",
+        "of hygiene. Proper food and nutrition, physical exercise, rest and sleep,",
+        "cleanliness, and proper medicare are essential for good health."
+      ],
+      "aiReadyLines": [
+        "Why was Sankar in great trouble last month?",
+        "i. Bulbul went on vacation.",
+        "ii. The people refused to throw away their rubbish.",
+        "iii. Bulbul was sick for two days and could not collect the rubbish.",
+        "iv. A storm scattered the rubbish everywhere.",
+        "e) What does Bulbul believe about his job?",
+        "i. It is not important.",
+        "ii. Only educated people should do it.",
+        "iii. All jobs are important.",
+        "iv. He does it just for money.",
+        "f) What happened when Bulbul could not collect the rubbish for two",
+        "i. The people of Sankar managed it themselves.",
+        "ii. The whole area became dirty and unhygienic.",
+        "iii. The rubbish disappeared on its own.",
+        "iv. The government cleaned the area.",
+        "g) Why does Bulbul not want to fall sick again?",
+        "i. He enjoys his work.",
+        "ii. He fears losing his job.",
+        "iii. He wants to earn more money.",
+        "iv. He knows the area will turn into a big dustbin if he stops working.",
+        "Write short answers to the following questions: 5x2=10",
+        "Why does Bulbul wake up early in the morning?",
+        "How did the people of Sankar suffer when Bulbul was sick?",
+        "What does this story teach us about the importance of Bulbul's job?",
+        "Where do the people of Sankar leave their rubbish?",
+        "e) Why did Bulbul stop working?",
+        "Read the text and answer the questions 3 & 4:",
+        "A proverb says 'Health is Wealth'. To keep healthy is to keep free from disease",
+        "and anxiety. Good health is proper functioning of all body organs. It is also",
+        "feeling well both in body and in mind. People in good health are active, cheerful",
+        "and happy. If you are healthy, you can be happy and can help others in society as",
+        "To keep in good health we should be careful about hygiene. The rules and",
+        "practices of keeping good health are called hygiene. We must practise the rules",
+        "of hygiene. Proper food and nutrition, physical exercise, rest and sleep,",
+        "cleanliness, and proper medicare are essential for good health."
+      ]
+    },
+    {
+      "pdfPage": 108,
+      "textbookPage": 103,
+      "rawText": "2026\n\nEnglish For Today 103\n\n3. Complete the passage with suitable words: 1x5=5\n\nGood health means proper functioning of body organs and feeling well in\nbody and mind. Healthy people remain a) , cheerful, and happy. They\ncan enjoy life and b) others. To maintain health, follow hygiene princi-\nples, which include rules and c) for staying healthy. Proper food, d)\nexercise, rest, cleanliness, and medical care are essential for e)\nhealth.\n4, Read the passage carefully and replace the following words with\ntheir suitable synonyms or antonyms. 1x5=5\na) Wealth (Synonym)\nb) Cheerful (Synonym)\nc) Maintain (Synonym)\nd) Necessary (Antonym)\ne) Proper (Antonym)\n\nRead the text and answer the questions 5, 6 & 7:\n\nBangladesh is a land of natural beauty. Its villages are full of green fields, rivers, and\ntrees. Most people in Bangladesh live in villages. They work as farmers, fishermen or\ncraftsmen. The air in the villages is fresh, and life is peaceful. People wake up early in\nthe morning and start their daily work. Farmers grow rice, jute and vegetables in their\nfields. Fishermen catch fish from rivers and ponds.\n\nThe houses in villages are simple but comfortable. Many houses have gardens with\nfruit trees like mango, jackfruit and banana. The villagers celebrate different festivals\nlike Pahela Boishakh and Nabanna Utsab with joy. They help each other in times of\nneed. Life in rural Bangladesh is simple, but it is full of happiness. The natural beauty\nand fresh environment make the villages a wonderful place to live.\n\n5. Complete the table with information from the passage. 1x5=5\nTopic Information from the passage\na) Main occupation of villagers j) ---------------\nb) Freshness of village air ii) --\nc) Crops grown by farmers _ iii) --\nd) Fruits grown in village gardens _ iv)\ne) Festivals celebrated in villages _v) -\n\n6. Read the statements below. Write 'True' if the statement is correct and\n'False' if it is incorrect. If false, write the correct answer. 1x5=5\na) Villages in Bangladesh are full of green fields, rivers and trees.\nb) Most villagers in Bangladesh work in factories\n\nc) Farmers in villages grow rice, jute and vegetables.",
+      "rawLines": [
+        "2026",
+        "English For Today 103",
+        "3. Complete the passage with suitable words: 1x5=5",
+        "Good health means proper functioning of body organs and feeling well in",
+        "body and mind. Healthy people remain a) , cheerful, and happy. They",
+        "can enjoy life and b) others. To maintain health, follow hygiene princi-",
+        "ples, which include rules and c) for staying healthy. Proper food, d)",
+        "exercise, rest, cleanliness, and medical care are essential for e)",
+        "health.",
+        "4, Read the passage carefully and replace the following words with",
+        "their suitable synonyms or antonyms. 1x5=5",
+        "a) Wealth (Synonym)",
+        "b) Cheerful (Synonym)",
+        "c) Maintain (Synonym)",
+        "d) Necessary (Antonym)",
+        "e) Proper (Antonym)",
+        "Read the text and answer the questions 5, 6 & 7:",
+        "Bangladesh is a land of natural beauty. Its villages are full of green fields, rivers, and",
+        "trees. Most people in Bangladesh live in villages. They work as farmers, fishermen or",
+        "craftsmen. The air in the villages is fresh, and life is peaceful. People wake up early in",
+        "the morning and start their daily work. Farmers grow rice, jute and vegetables in their",
+        "fields. Fishermen catch fish from rivers and ponds.",
+        "The houses in villages are simple but comfortable. Many houses have gardens with",
+        "fruit trees like mango, jackfruit and banana. The villagers celebrate different festivals",
+        "like Pahela Boishakh and Nabanna Utsab with joy. They help each other in times of",
+        "need. Life in rural Bangladesh is simple, but it is full of happiness. The natural beauty",
+        "and fresh environment make the villages a wonderful place to live.",
+        "5. Complete the table with information from the passage. 1x5=5",
+        "Topic Information from the passage",
+        "a) Main occupation of villagers j) ---------------",
+        "b) Freshness of village air ii) --",
+        "c) Crops grown by farmers _ iii) --",
+        "d) Fruits grown in village gardens _ iv)",
+        "e) Festivals celebrated in villages _v) -",
+        "6. Read the statements below. Write 'True' if the statement is correct and",
+        "'False' if it is incorrect. If false, write the correct answer. 1x5=5",
+        "a) Villages in Bangladesh are full of green fields, rivers and trees.",
+        "b) Most villagers in Bangladesh work in factories",
+        "c) Farmers in villages grow rice, jute and vegetables."
+      ],
+      "cleanLines": [
+        "Complete the passage with suitable words: 1x5=5",
+        "Good health means proper functioning of body organs and feeling well in",
+        "body and mind. Healthy people remain a) , cheerful, and happy. They",
+        "can enjoy life and b) others. To maintain health, follow hygiene princi-",
+        "ples, which include rules and c) for staying healthy. Proper food, d)",
+        "exercise, rest, cleanliness, and medical care are essential for e)",
+        "health.",
+        "4, Read the passage carefully and replace the following words with",
+        "their suitable synonyms or antonyms. 1x5=5",
+        "Wealth (Synonym)",
+        "Cheerful (Synonym)",
+        "Maintain (Synonym)",
+        "Necessary (Antonym)",
+        "e) Proper (Antonym)",
+        "Read the text and answer the questions 5, 6 & 7:",
+        "Bangladesh is a land of natural beauty. Its villages are full of green fields, rivers, and",
+        "trees. Most people in Bangladesh live in villages. They work as farmers, fishermen or",
+        "craftsmen. The air in the villages is fresh, and life is peaceful. People wake up early in",
+        "the morning and start their daily work. Farmers grow rice, jute and vegetables in their",
+        "fields. Fishermen catch fish from rivers and ponds.",
+        "The houses in villages are simple but comfortable. Many houses have gardens with",
+        "fruit trees like mango, jackfruit and banana. The villagers celebrate different festivals",
+        "like Pahela Boishakh and Nabanna Utsab with joy. They help each other in times of",
+        "need. Life in rural Bangladesh is simple, but it is full of happiness. The natural beauty",
+        "and fresh environment make the villages a wonderful place to live.",
+        "Complete the table with information from the passage. 1x5=5",
+        "Topic Information from the passage",
+        "Main occupation of villagers j) ---------------",
+        "Freshness of village air ii) --",
+        "Crops grown by farmers _ iii) --",
+        "Fruits grown in village gardens _ iv)",
+        "e) Festivals celebrated in villages _v) -",
+        "Read the statements below. Write 'True' if the statement is correct and",
+        "'False' if it is incorrect. If false, write the correct answer. 1x5=5",
+        "Villages in Bangladesh are full of green fields, rivers and trees.",
+        "Most villagers in Bangladesh work in factories",
+        "Farmers in villages grow rice, jute and vegetables."
+      ],
+      "aiReadyLines": [
+        "Complete the passage with suitable words: 1x5=5",
+        "Good health means proper functioning of body organs and feeling well in",
+        "body and mind. Healthy people remain a) , cheerful, and happy. They",
+        "can enjoy life and b) others. To maintain health, follow hygiene princi-",
+        "ples, which include rules and c) for staying healthy. Proper food, d)",
+        "exercise, rest, cleanliness, and medical care are essential for e)",
+        "4, Read the passage carefully and replace the following words with",
+        "their suitable synonyms or antonyms. 1x5=5",
+        "Wealth (Synonym)",
+        "Cheerful (Synonym)",
+        "Maintain (Synonym)",
+        "Necessary (Antonym)",
+        "e) Proper (Antonym)",
+        "Read the text and answer the questions 5, 6 & 7:",
+        "Bangladesh is a land of natural beauty. Its villages are full of green fields, rivers, and",
+        "trees. Most people in Bangladesh live in villages. They work as farmers, fishermen or",
+        "craftsmen. The air in the villages is fresh, and life is peaceful. People wake up early in",
+        "the morning and start their daily work. Farmers grow rice, jute and vegetables in their",
+        "fields. Fishermen catch fish from rivers and ponds.",
+        "The houses in villages are simple but comfortable. Many houses have gardens with",
+        "fruit trees like mango, jackfruit and banana. The villagers celebrate different festivals",
+        "like Pahela Boishakh and Nabanna Utsab with joy. They help each other in times of",
+        "need. Life in rural Bangladesh is simple, but it is full of happiness. The natural beauty",
+        "and fresh environment make the villages a wonderful place to live.",
+        "Complete the table with information from the passage. 1x5=5",
+        "Topic Information from the passage",
+        "Freshness of village air ii) --",
+        "Crops grown by farmers _ iii) --",
+        "Fruits grown in village gardens _ iv)",
+        "e) Festivals celebrated in villages _v) -",
+        "Read the statements below. Write 'True' if the statement is correct and",
+        "'False' if it is incorrect. If false, write the correct answer. 1x5=5",
+        "Villages in Bangladesh are full of green fields, rivers and trees.",
+        "Most villagers in Bangladesh work in factories",
+        "Farmers in villages grow rice, jute and vegetables."
+      ]
+    },
+    {
+      "pdfPage": 109,
+      "textbookPage": 104,
+      "rawText": "104 English For Today\nd) There are no fruit trees in village gardens.\ne) People in villages celebrate festivals like Pahela Boishakh and Nabanna\nUtsab.\n7. Write a summary of the passage in your own words, 10\n8. Match the parts of sentences from the Columns A and B to make five\n\ncomplete sentences.\n\n1x5=5\n\n(a) Food is one of the basic (i) without it\n\n(b) It is essential (ii) needs of human beings\n(c) We cannot live (ii) for our survival\n(d) So, we must always (iv) kind of food for good health\n(e) Good food means the right (v) have good food\n9. Put the following parts of the story in the correct order to make the whole\n\nstory. Only the corresponding numbers of the sentences need to be written.\n\na)\nb)\nc)\nd)\ne)\n\nfy\n\n8)\nh)\n\n1x8=8\nHe lost his father in his childhood.\nHe was fond of adventures, music and jatra party.\nHe spent his early life in great hardship.\nNazrul Islam was born on the 20th May 1899.\nAs a boy being restless and absent-minded, he did not like the hard and\nfast rules of the school.\nOne day, Dukhu Mia became a great poet.\nYou will have heard the name of Kazi Nazrul Islam.\nSo he was called Dukhu Mia.\n\n2026",
+      "rawLines": [
+        "104 English For Today",
+        "d) There are no fruit trees in village gardens.",
+        "e) People in villages celebrate festivals like Pahela Boishakh and Nabanna",
+        "Utsab.",
+        "7. Write a summary of the passage in your own words, 10",
+        "8. Match the parts of sentences from the Columns A and B to make five",
+        "complete sentences.",
+        "1x5=5",
+        "(a) Food is one of the basic (i) without it",
+        "(b) It is essential (ii) needs of human beings",
+        "(c) We cannot live (ii) for our survival",
+        "(d) So, we must always (iv) kind of food for good health",
+        "(e) Good food means the right (v) have good food",
+        "9. Put the following parts of the story in the correct order to make the whole",
+        "story. Only the corresponding numbers of the sentences need to be written.",
+        "a)",
+        "b)",
+        "c)",
+        "d)",
+        "e)",
+        "fy",
+        "8)",
+        "h)",
+        "1x8=8",
+        "He lost his father in his childhood.",
+        "He was fond of adventures, music and jatra party.",
+        "He spent his early life in great hardship.",
+        "Nazrul Islam was born on the 20th May 1899.",
+        "As a boy being restless and absent-minded, he did not like the hard and",
+        "fast rules of the school.",
+        "One day, Dukhu Mia became a great poet.",
+        "You will have heard the name of Kazi Nazrul Islam.",
+        "So he was called Dukhu Mia.",
+        "2026"
+      ],
+      "cleanLines": [
+        "There are no fruit trees in village gardens.",
+        "e) People in villages celebrate festivals like Pahela Boishakh and Nabanna",
+        "Utsab.",
+        "Write a summary of the passage in your own words, 10",
+        "Match the parts of sentences from the Columns A and B to make five",
+        "complete sentences.",
+        "(a) Food is one of the basic (i) without it",
+        "(b) It is essential (ii) needs of human beings",
+        "(c) We cannot live (ii) for our survival",
+        "(d) So, we must always (iv) kind of food for good health",
+        "(e) Good food means the right (v) have good food",
+        "Put the following parts of the story in the correct order to make the whole",
+        "story. Only the corresponding numbers of the sentences need to be written.",
+        "He lost his father in his childhood.",
+        "He was fond of adventures, music and jatra party.",
+        "He spent his early life in great hardship.",
+        "Nazrul Islam was born on the 20th May 1899.",
+        "As a boy being restless and absent-minded, he did not like the hard and",
+        "fast rules of the school.",
+        "One day, Dukhu Mia became a great poet.",
+        "You will have heard the name of Kazi Nazrul Islam.",
+        "So he was called Dukhu Mia."
+      ],
+      "aiReadyLines": [
+        "There are no fruit trees in village gardens.",
+        "e) People in villages celebrate festivals like Pahela Boishakh and Nabanna",
+        "Write a summary of the passage in your own words, 10",
+        "Match the parts of sentences from the Columns A and B to make five",
+        "complete sentences.",
+        "(a) Food is one of the basic (i) without it",
+        "(b) It is essential (ii) needs of human beings",
+        "(c) We cannot live (ii) for our survival",
+        "(d) So, we must always (iv) kind of food for good health",
+        "(e) Good food means the right (v) have good food",
+        "Put the following parts of the story in the correct order to make the whole",
+        "story. Only the corresponding numbers of the sentences need to be written.",
+        "He lost his father in his childhood.",
+        "He was fond of adventures, music and jatra party.",
+        "He spent his early life in great hardship.",
+        "Nazrul Islam was born on the 20th May 1899.",
+        "As a boy being restless and absent-minded, he did not like the hard and",
+        "fast rules of the school.",
+        "One day, Dukhu Mia became a great poet.",
+        "You will have heard the name of Kazi Nazrul Islam.",
+        "So he was called Dukhu Mia."
+      ]
+    },
+    {
+      "pdfPage": 110,
+      "textbookPage": 105,
+      "rawText": "English For Today 105\n\n10.\nbook.\n\n11.\n\n12.\n\nAnswer any five of the following questions from the poems in your text-\n\n2x5=10\na) What is the main idea of the poem \"Holding Hands\"?\nb) What does the poet say about trunks and tails in the poem \"Holding\n\nHands\"?\n\nc) What does the line \"But bows cannot be built in heaven\" suggest in the\npoem \"Boats sail on the rivers\"?\n\nd) What is the overall theme of the poem \"Boats sail on the rivers\"?\n\ne) How does the poem \"The Chaos\" highlight the challenges of English\npronunciation and spelling?\n\nf) What is the main theme or purpose of the poem \"The Chaos\"?\n\ng) Who is the central character in the poem \"Andre\", and what is his\nstory?\n\nh) What lesson do you learn from the poem \"Andre\"?\n\nPart B - Writing (Marks: 30)\nRead the opening of a story below and complete it in at least ten new\nsentences. Give a suitable title to it. 10\n\nOnce upon a time, there was a boy named Mamun. He was a student of class\n6. One day, while he was returning from school, he found a purse on the road.\nAs he was honest, ........\n\nWrite a paragraph on 'Your First Day at School' in 120 words. 10\n\nSuppose, you are Nadim/Nadia, you have a friend named Fahim/Fahima who\ndoes not read newspaper.\n\nNow, write a dialogue between you and your friend about the importance of\nreading newspaper. 10",
+      "rawLines": [
+        "English For Today 105",
+        "10.",
+        "book.",
+        "11.",
+        "12.",
+        "Answer any five of the following questions from the poems in your text-",
+        "2x5=10",
+        "a) What is the main idea of the poem \"Holding Hands\"?",
+        "b) What does the poet say about trunks and tails in the poem \"Holding",
+        "Hands\"?",
+        "c) What does the line \"But bows cannot be built in heaven\" suggest in the",
+        "poem \"Boats sail on the rivers\"?",
+        "d) What is the overall theme of the poem \"Boats sail on the rivers\"?",
+        "e) How does the poem \"The Chaos\" highlight the challenges of English",
+        "pronunciation and spelling?",
+        "f) What is the main theme or purpose of the poem \"The Chaos\"?",
+        "g) Who is the central character in the poem \"Andre\", and what is his",
+        "story?",
+        "h) What lesson do you learn from the poem \"Andre\"?",
+        "Part B - Writing (Marks: 30)",
+        "Read the opening of a story below and complete it in at least ten new",
+        "sentences. Give a suitable title to it. 10",
+        "Once upon a time, there was a boy named Mamun. He was a student of class",
+        "6. One day, while he was returning from school, he found a purse on the road.",
+        "As he was honest, ........",
+        "Write a paragraph on 'Your First Day at School' in 120 words. 10",
+        "Suppose, you are Nadim/Nadia, you have a friend named Fahim/Fahima who",
+        "does not read newspaper.",
+        "Now, write a dialogue between you and your friend about the importance of",
+        "reading newspaper. 10"
+      ],
+      "cleanLines": [
+        "book.",
+        "Answer any five of the following questions from the poems in your text-",
+        "What is the main idea of the poem \"Holding Hands\"?",
+        "What does the poet say about trunks and tails in the poem \"Holding",
+        "Hands\"?",
+        "What does the line \"But bows cannot be built in heaven\" suggest in the",
+        "poem \"Boats sail on the rivers\"?",
+        "What is the overall theme of the poem \"Boats sail on the rivers\"?",
+        "e) How does the poem \"The Chaos\" highlight the challenges of English",
+        "pronunciation and spelling?",
+        "f) What is the main theme or purpose of the poem \"The Chaos\"?",
+        "g) Who is the central character in the poem \"Andre\", and what is his",
+        "story?",
+        "h) What lesson do you learn from the poem \"Andre\"?",
+        "Part B - Writing (Marks: 30)",
+        "Read the opening of a story below and complete it in at least ten new",
+        "sentences. Give a suitable title to it. 10",
+        "Once upon a time, there was a boy named Mamun. He was a student of class",
+        "One day, while he was returning from school, he found a purse on the road.",
+        "As he was honest, ........",
+        "Write a paragraph on 'Your First Day at School' in 120 words. 10",
+        "Suppose, you are Nadim/Nadia, you have a friend named Fahim/Fahima who",
+        "does not read newspaper.",
+        "Now, write a dialogue between you and your friend about the importance of",
+        "reading newspaper. 10"
+      ],
+      "aiReadyLines": [
+        "Answer any five of the following questions from the poems in your text-",
+        "What is the main idea of the poem \"Holding Hands\"?",
+        "What does the poet say about trunks and tails in the poem \"Holding",
+        "What does the line \"But bows cannot be built in heaven\" suggest in the",
+        "poem \"Boats sail on the rivers\"?",
+        "What is the overall theme of the poem \"Boats sail on the rivers\"?",
+        "e) How does the poem \"The Chaos\" highlight the challenges of English",
+        "pronunciation and spelling?",
+        "f) What is the main theme or purpose of the poem \"The Chaos\"?",
+        "g) Who is the central character in the poem \"Andre\", and what is his",
+        "h) What lesson do you learn from the poem \"Andre\"?",
+        "Part B - Writing (Marks: 30)",
+        "Read the opening of a story below and complete it in at least ten new",
+        "sentences. Give a suitable title to it. 10",
+        "Once upon a time, there was a boy named Mamun. He was a student of class",
+        "One day, while he was returning from school, he found a purse on the road.",
+        "As he was honest, ........",
+        "Write a paragraph on 'Your First Day at School' in 120 words. 10",
+        "Suppose, you are Nadim/Nadia, you have a friend named Fahim/Fahima who",
+        "does not read newspaper.",
+        "Now, write a dialogue between you and your friend about the importance of",
+        "reading newspaper. 10"
+      ]
+    },
+    {
+      "pdfPage": 111,
+      "textbookPage": 106,
+      "rawText": "106 English For Today\n\nSuggested Answers\n\n1. a) ii) 5 o'clock\n\nb) iii) Sankar\n\nc) iv. They put it in plastic bins and leave them in front of their houses.\n\nd) iii. Bulbul was sick for two days and could not collect the rubbish.\n\ne) iii. All jobs are important.\n\nf) ii. The whole area became dirty and unhygienic.\n\ng) iv. He knows the area will turn into a big dustbin if he stops working.\n2. a) Bulbul wakes up early in the morning to collect rubbish from the\n\nSankar area and keep it clean.\nb) The people of Sankar suffered because piles of rubbish gathered in\nfront of their houses, making the area dirty and unhygienic.\n\nc) The story teaches us that every job is important, and workers like\nBulbul play a crucial role in keeping the environment clean and healthy\n\nd) They leave their rubbish in plastic bins in front of their houses.\n\ne) Bulbul stopped working because he was sick.\n\n3. a) active b) help\nc) practices d) physical\n\ne) good\n4. a) prosperity\nb) joyful\nc) preserve\nd) unnecessary\ne) improper\n5. a) Farmers, fishermen, and craftsmen\nb) The air in villages is fresh\nc) Rice, jute and vegetables\n\nd) Mango, jackfruit and banana\ne) Pahela Boishakh and Nabanna Utsab\n\n6. a) True b) False\n\nCorrect Answer- Most villagers in Bangladesh work as farmers, fishermen, or\ncraftsmen, not in factories.\n\nc) True d) False\nCorrect Answer- Many houses in villages have gardens with fruit trees like mango,\njackfruit and banana.\n\ne) True\n\n2026",
+      "rawLines": [
+        "106 English For Today",
+        "Suggested Answers",
+        "1. a) ii) 5 o'clock",
+        "b) iii) Sankar",
+        "c) iv. They put it in plastic bins and leave them in front of their houses.",
+        "d) iii. Bulbul was sick for two days and could not collect the rubbish.",
+        "e) iii. All jobs are important.",
+        "f) ii. The whole area became dirty and unhygienic.",
+        "g) iv. He knows the area will turn into a big dustbin if he stops working.",
+        "2. a) Bulbul wakes up early in the morning to collect rubbish from the",
+        "Sankar area and keep it clean.",
+        "b) The people of Sankar suffered because piles of rubbish gathered in",
+        "front of their houses, making the area dirty and unhygienic.",
+        "c) The story teaches us that every job is important, and workers like",
+        "Bulbul play a crucial role in keeping the environment clean and healthy",
+        "d) They leave their rubbish in plastic bins in front of their houses.",
+        "e) Bulbul stopped working because he was sick.",
+        "3. a) active b) help",
+        "c) practices d) physical",
+        "e) good",
+        "4. a) prosperity",
+        "b) joyful",
+        "c) preserve",
+        "d) unnecessary",
+        "e) improper",
+        "5. a) Farmers, fishermen, and craftsmen",
+        "b) The air in villages is fresh",
+        "c) Rice, jute and vegetables",
+        "d) Mango, jackfruit and banana",
+        "e) Pahela Boishakh and Nabanna Utsab",
+        "6. a) True b) False",
+        "Correct Answer- Most villagers in Bangladesh work as farmers, fishermen, or",
+        "craftsmen, not in factories.",
+        "c) True d) False",
+        "Correct Answer- Many houses in villages have gardens with fruit trees like mango,",
+        "jackfruit and banana.",
+        "e) True",
+        "2026"
+      ],
+      "cleanLines": [
+        "Suggested Answers",
+        "ii) 5 o'clock",
+        "iii) Sankar",
+        "iv. They put it in plastic bins and leave them in front of their houses.",
+        "iii. Bulbul was sick for two days and could not collect the rubbish.",
+        "e) iii. All jobs are important.",
+        "f) ii. The whole area became dirty and unhygienic.",
+        "g) iv. He knows the area will turn into a big dustbin if he stops working.",
+        "Bulbul wakes up early in the morning to collect rubbish from the",
+        "Sankar area and keep it clean.",
+        "The people of Sankar suffered because piles of rubbish gathered in",
+        "front of their houses, making the area dirty and unhygienic.",
+        "The story teaches us that every job is important, and workers like",
+        "Bulbul play a crucial role in keeping the environment clean and healthy",
+        "They leave their rubbish in plastic bins in front of their houses.",
+        "e) Bulbul stopped working because he was sick.",
+        "active b) help",
+        "practices d) physical",
+        "e) good",
+        "prosperity",
+        "joyful",
+        "preserve",
+        "unnecessary",
+        "e) improper",
+        "Farmers, fishermen, and craftsmen",
+        "The air in villages is fresh",
+        "Rice, jute and vegetables",
+        "Mango, jackfruit and banana",
+        "e) Pahela Boishakh and Nabanna Utsab",
+        "True b) False",
+        "Correct Answer- Most villagers in Bangladesh work as farmers, fishermen, or",
+        "craftsmen, not in factories.",
+        "True d) False",
+        "Correct Answer- Many houses in villages have gardens with fruit trees like mango,",
+        "jackfruit and banana.",
+        "e) True"
+      ],
+      "aiReadyLines": [
+        "Suggested Answers",
+        "ii) 5 o'clock",
+        "iv. They put it in plastic bins and leave them in front of their houses.",
+        "iii. Bulbul was sick for two days and could not collect the rubbish.",
+        "e) iii. All jobs are important.",
+        "f) ii. The whole area became dirty and unhygienic.",
+        "g) iv. He knows the area will turn into a big dustbin if he stops working.",
+        "Bulbul wakes up early in the morning to collect rubbish from the",
+        "Sankar area and keep it clean.",
+        "The people of Sankar suffered because piles of rubbish gathered in",
+        "front of their houses, making the area dirty and unhygienic.",
+        "The story teaches us that every job is important, and workers like",
+        "Bulbul play a crucial role in keeping the environment clean and healthy",
+        "They leave their rubbish in plastic bins in front of their houses.",
+        "e) Bulbul stopped working because he was sick.",
+        "active b) help",
+        "practices d) physical",
+        "prosperity",
+        "preserve",
+        "unnecessary",
+        "e) improper",
+        "Farmers, fishermen, and craftsmen",
+        "The air in villages is fresh",
+        "Rice, jute and vegetables",
+        "Mango, jackfruit and banana",
+        "e) Pahela Boishakh and Nabanna Utsab",
+        "True b) False",
+        "Correct Answer- Most villagers in Bangladesh work as farmers, fishermen, or",
+        "craftsmen, not in factories.",
+        "True d) False",
+        "Correct Answer- Many houses in villages have gardens with fruit trees like mango,",
+        "jackfruit and banana."
+      ]
+    },
+    {
+      "pdfPage": 112,
+      "textbookPage": 107,
+      "rawText": "2026\n\nEnglish For Today 107\n\n7. Rural Bangladesh is full of natural beauty with green fields, rivers and trees.\nMost villagers work as farmers, fishermen, or craftsmen. They grow crops like rice,\njute and vegetables. Many village houses have gardens with fruit trees. Villagers cele-\nbrate festivals such as Pahela Boishakh and Nabanna Utsab with joy. Life in the villag-\nes is simple but peaceful and happy.\n\n8. a) (ii) needs of human beings b) (iti) for our survival\nc) (i) without it d) (v) have good food\ne) (iv) kind of food for good health\n9. 1 2 3 4 5 6 7 8\ng d a c h e b f\n10. a) The main idea of the poem 'Holding Hands' is that it describes how\n\nelephants walk together by holding tails, showing their unity and coordi nation.\nb) In the poem \"Holding Hands\", the poet says that trunks and tails are\nhandy things for elephants when they walk.\n\nc) The line \"But bows cannot be built in heaven\" suggests that human\n\ncreations, no matter how grand, cannot match the perfection or beauty\nof heavenly or natural wonders.\n\nd) The poem uses a series of rhyming couplets with words that look similar\n\nbut are pronounced differently, emphasising the inconsistencies in English\npronunciation rules.\n\ne) The overall theme of the poem \"Boats sail on the rivers\" is the contrast\n\nbetween the beauty and vastness of nature and the limitations of human\nachievements.\n\nf) The main theme of the poem is to illustrate the irregularities and com\n\nplexities of English pronunciation and spelling, showcasing how\n\nchallenging it can be to learn the language.\n\ng) The central character is Andre, a young boy. His story is a very touching\nreflection on love, choice and appreciation for family.\nh) We learn from the poem that we should love and appreciate our parents.\n\n11. Mamun's Honest Heart\n\nOnce upon a time, there was a boy named Mamun. He was a student of class 6. One\nday, while he was returning from school, he found a purse on the road. As he was\nhonest, he picked it up and opened it to see if he could find any clues about its owner.\nInside, he found some money, a few cards, and a photo of a family. Mamun knew he\nhad to return it to the rightful owner. He decided to take the purse to the nearby police\nstation.",
+      "rawLines": [
+        "2026",
+        "English For Today 107",
+        "7. Rural Bangladesh is full of natural beauty with green fields, rivers and trees.",
+        "Most villagers work as farmers, fishermen, or craftsmen. They grow crops like rice,",
+        "jute and vegetables. Many village houses have gardens with fruit trees. Villagers cele-",
+        "brate festivals such as Pahela Boishakh and Nabanna Utsab with joy. Life in the villag-",
+        "es is simple but peaceful and happy.",
+        "8. a) (ii) needs of human beings b) (iti) for our survival",
+        "c) (i) without it d) (v) have good food",
+        "e) (iv) kind of food for good health",
+        "9. 1 2 3 4 5 6 7 8",
+        "g d a c h e b f",
+        "10. a) The main idea of the poem 'Holding Hands' is that it describes how",
+        "elephants walk together by holding tails, showing their unity and coordi nation.",
+        "b) In the poem \"Holding Hands\", the poet says that trunks and tails are",
+        "handy things for elephants when they walk.",
+        "c) The line \"But bows cannot be built in heaven\" suggests that human",
+        "creations, no matter how grand, cannot match the perfection or beauty",
+        "of heavenly or natural wonders.",
+        "d) The poem uses a series of rhyming couplets with words that look similar",
+        "but are pronounced differently, emphasising the inconsistencies in English",
+        "pronunciation rules.",
+        "e) The overall theme of the poem \"Boats sail on the rivers\" is the contrast",
+        "between the beauty and vastness of nature and the limitations of human",
+        "achievements.",
+        "f) The main theme of the poem is to illustrate the irregularities and com",
+        "plexities of English pronunciation and spelling, showcasing how",
+        "challenging it can be to learn the language.",
+        "g) The central character is Andre, a young boy. His story is a very touching",
+        "reflection on love, choice and appreciation for family.",
+        "h) We learn from the poem that we should love and appreciate our parents.",
+        "11. Mamun's Honest Heart",
+        "Once upon a time, there was a boy named Mamun. He was a student of class 6. One",
+        "day, while he was returning from school, he found a purse on the road. As he was",
+        "honest, he picked it up and opened it to see if he could find any clues about its owner.",
+        "Inside, he found some money, a few cards, and a photo of a family. Mamun knew he",
+        "had to return it to the rightful owner. He decided to take the purse to the nearby police",
+        "station."
+      ],
+      "cleanLines": [
+        "Rural Bangladesh is full of natural beauty with green fields, rivers and trees.",
+        "Most villagers work as farmers, fishermen, or craftsmen. They grow crops like rice,",
+        "jute and vegetables. Many village houses have gardens with fruit trees. Villagers cele-",
+        "brate festivals such as Pahela Boishakh and Nabanna Utsab with joy. Life in the villag-",
+        "es is simple but peaceful and happy.",
+        "(ii) needs of human beings b) (iti) for our survival",
+        "(i) without it d) (v) have good food",
+        "e) (iv) kind of food for good health",
+        "g d a c h e b f",
+        "The main idea of the poem 'Holding Hands' is that it describes how",
+        "elephants walk together by holding tails, showing their unity and coordi nation.",
+        "In the poem \"Holding Hands\", the poet says that trunks and tails are",
+        "handy things for elephants when they walk.",
+        "The line \"But bows cannot be built in heaven\" suggests that human",
+        "creations, no matter how grand, cannot match the perfection or beauty",
+        "of heavenly or natural wonders.",
+        "The poem uses a series of rhyming couplets with words that look similar",
+        "but are pronounced differently, emphasising the inconsistencies in English",
+        "pronunciation rules.",
+        "e) The overall theme of the poem \"Boats sail on the rivers\" is the contrast",
+        "between the beauty and vastness of nature and the limitations of human",
+        "achievements.",
+        "f) The main theme of the poem is to illustrate the irregularities and com",
+        "plexities of English pronunciation and spelling, showcasing how",
+        "challenging it can be to learn the language.",
+        "g) The central character is Andre, a young boy. His story is a very touching",
+        "reflection on love, choice and appreciation for family.",
+        "h) We learn from the poem that we should love and appreciate our parents.",
+        "Mamun's Honest Heart",
+        "Once upon a time, there was a boy named Mamun. He was a student of class 6. One",
+        "day, while he was returning from school, he found a purse on the road. As he was",
+        "honest, he picked it up and opened it to see if he could find any clues about its owner.",
+        "Inside, he found some money, a few cards, and a photo of a family. Mamun knew he",
+        "had to return it to the rightful owner. He decided to take the purse to the nearby police",
+        "station."
+      ],
+      "aiReadyLines": [
+        "Rural Bangladesh is full of natural beauty with green fields, rivers and trees.",
+        "Most villagers work as farmers, fishermen, or craftsmen. They grow crops like rice,",
+        "jute and vegetables. Many village houses have gardens with fruit trees. Villagers cele-",
+        "brate festivals such as Pahela Boishakh and Nabanna Utsab with joy. Life in the villag-",
+        "es is simple but peaceful and happy.",
+        "(ii) needs of human beings b) (iti) for our survival",
+        "(i) without it d) (v) have good food",
+        "e) (iv) kind of food for good health",
+        "g d a c h e b f",
+        "The main idea of the poem 'Holding Hands' is that it describes how",
+        "elephants walk together by holding tails, showing their unity and coordi nation.",
+        "In the poem \"Holding Hands\", the poet says that trunks and tails are",
+        "handy things for elephants when they walk.",
+        "The line \"But bows cannot be built in heaven\" suggests that human",
+        "creations, no matter how grand, cannot match the perfection or beauty",
+        "of heavenly or natural wonders.",
+        "The poem uses a series of rhyming couplets with words that look similar",
+        "but are pronounced differently, emphasising the inconsistencies in English",
+        "pronunciation rules.",
+        "e) The overall theme of the poem \"Boats sail on the rivers\" is the contrast",
+        "between the beauty and vastness of nature and the limitations of human",
+        "achievements.",
+        "f) The main theme of the poem is to illustrate the irregularities and com",
+        "plexities of English pronunciation and spelling, showcasing how",
+        "challenging it can be to learn the language.",
+        "g) The central character is Andre, a young boy. His story is a very touching",
+        "reflection on love, choice and appreciation for family.",
+        "h) We learn from the poem that we should love and appreciate our parents.",
+        "Mamun's Honest Heart",
+        "Once upon a time, there was a boy named Mamun. He was a student of class 6. One",
+        "day, while he was returning from school, he found a purse on the road. As he was",
+        "honest, he picked it up and opened it to see if he could find any clues about its owner.",
+        "Inside, he found some money, a few cards, and a photo of a family. Mamun knew he",
+        "had to return it to the rightful owner. He decided to take the purse to the nearby police",
+        "station."
+      ]
+    },
+    {
+      "pdfPage": 113,
+      "textbookPage": 108,
+      "rawText": "108\n\nEnglish For Today\n\nOn his way, he noticed a woman searching frantically near the road. She looked\nworried and was asking people if they had seen a purse. Mamun approached her and\nasked, \"Are you looking for something?\" The woman explained that she had lost her\npurse, which contained her family photo and important cards. Mamun smiled and\nhanded her the purse, saying, \"I found this on the road. Is it yours?\" The woman was\noverjoyed and thanked Mamun with tears in her eyes.\n\nShe rewarded him with a small gift, but Mamun felt the greatest reward was the\nhappiness on her face. From that day on, Mamun became known in his village as the\nboy with an honest heart, and his story inspired others to always do the right thing.\n\n12. My First Day at School\n\nMy first day at school is a memory I will never forget. I was both excited and nervous\nas I entered the colorful classroom filled with unfamiliar faces. The teacher welcomed\nme with a warm smile, which made me feel a little more at ease. I sat next to a friendly\ngirl who later became my best friend. We introduced ourselves and shared crayons\nduring the drawing activity. The classroom was vibrant with posters, toys, and books,\nwhich fascinated me. Though I felt shy initially, the fun activities and games helped me\nsettle in quickly. By the end of the day, I was eager to return and learn more. That day\nmarked the beginning of my educational journey, filled with curiosity, friendship, and\nnew experiences. It remains a cherished memory in my heart\n\ni3. Nadia\n\nFahima :\n\nNadia\n\nFahima:\n\nNadia\n\nFahima:\n\nNadia :\n\nFahima:\n\nNadia\n\nHey Fahima, I noticed you don't read the newspaper. Any particular reason?\nWell, I find it a bit boring and time-consuming. I usually get\n\nnews from social media. Why should I read newspapers?\nNewspapers are more reliable than social media. They provide\naccurate and well-researched information. Plus, they cover a wide\nrange of topics like politics, sports, culture and even job opportunities.\nBut isn't it easier to just scroll through news online?\n\nTrue, but newspapers help you develop a habit of reading and\nimprove your language skills. They also offer in-depth\n\nanalysis that you won't find in short social media posts.\n\nHmm, I never thought about it that way. Maybe I should give it a try.\nDefinitely! Start with a section you enjoy, like sports or\nentertainment. You'll see how informative and interesting it can be!\nOkay, I'll give it a shot. Thanks for the suggestion, Nadia!\n\nYou're welcome! I'm sure you'll find it worthwhile.\n\nTHE END\n\n2026",
+      "rawLines": [
+        "108",
+        "English For Today",
+        "On his way, he noticed a woman searching frantically near the road. She looked",
+        "worried and was asking people if they had seen a purse. Mamun approached her and",
+        "asked, \"Are you looking for something?\" The woman explained that she had lost her",
+        "purse, which contained her family photo and important cards. Mamun smiled and",
+        "handed her the purse, saying, \"I found this on the road. Is it yours?\" The woman was",
+        "overjoyed and thanked Mamun with tears in her eyes.",
+        "She rewarded him with a small gift, but Mamun felt the greatest reward was the",
+        "happiness on her face. From that day on, Mamun became known in his village as the",
+        "boy with an honest heart, and his story inspired others to always do the right thing.",
+        "12. My First Day at School",
+        "My first day at school is a memory I will never forget. I was both excited and nervous",
+        "as I entered the colorful classroom filled with unfamiliar faces. The teacher welcomed",
+        "me with a warm smile, which made me feel a little more at ease. I sat next to a friendly",
+        "girl who later became my best friend. We introduced ourselves and shared crayons",
+        "during the drawing activity. The classroom was vibrant with posters, toys, and books,",
+        "which fascinated me. Though I felt shy initially, the fun activities and games helped me",
+        "settle in quickly. By the end of the day, I was eager to return and learn more. That day",
+        "marked the beginning of my educational journey, filled with curiosity, friendship, and",
+        "new experiences. It remains a cherished memory in my heart",
+        "i3. Nadia",
+        "Fahima :",
+        "Nadia",
+        "Fahima:",
+        "Nadia",
+        "Fahima:",
+        "Nadia :",
+        "Fahima:",
+        "Nadia",
+        "Hey Fahima, I noticed you don't read the newspaper. Any particular reason?",
+        "Well, I find it a bit boring and time-consuming. I usually get",
+        "news from social media. Why should I read newspapers?",
+        "Newspapers are more reliable than social media. They provide",
+        "accurate and well-researched information. Plus, they cover a wide",
+        "range of topics like politics, sports, culture and even job opportunities.",
+        "But isn't it easier to just scroll through news online?",
+        "True, but newspapers help you develop a habit of reading and",
+        "improve your language skills. They also offer in-depth",
+        "analysis that you won't find in short social media posts.",
+        "Hmm, I never thought about it that way. Maybe I should give it a try.",
+        "Definitely! Start with a section you enjoy, like sports or",
+        "entertainment. You'll see how informative and interesting it can be!",
+        "Okay, I'll give it a shot. Thanks for the suggestion, Nadia!",
+        "You're welcome! I'm sure you'll find it worthwhile.",
+        "THE END",
+        "2026"
+      ],
+      "cleanLines": [
+        "On his way, he noticed a woman searching frantically near the road. She looked",
+        "worried and was asking people if they had seen a purse. Mamun approached her and",
+        "asked, \"Are you looking for something?\" The woman explained that she had lost her",
+        "purse, which contained her family photo and important cards. Mamun smiled and",
+        "handed her the purse, saying, \"I found this on the road. Is it yours?\" The woman was",
+        "overjoyed and thanked Mamun with tears in her eyes.",
+        "She rewarded him with a small gift, but Mamun felt the greatest reward was the",
+        "happiness on her face. From that day on, Mamun became known in his village as the",
+        "boy with an honest heart, and his story inspired others to always do the right thing.",
+        "My First Day at School",
+        "My first day at school is a memory I will never forget. I was both excited and nervous",
+        "as I entered the colorful classroom filled with unfamiliar faces. The teacher welcomed",
+        "me with a warm smile, which made me feel a little more at ease. I sat next to a friendly",
+        "girl who later became my best friend. We introduced ourselves and shared crayons",
+        "during the drawing activity. The classroom was vibrant with posters, toys, and books,",
+        "which fascinated me. Though I felt shy initially, the fun activities and games helped me",
+        "settle in quickly. By the end of the day, I was eager to return and learn more. That day",
+        "marked the beginning of my educational journey, filled with curiosity, friendship, and",
+        "new experiences. It remains a cherished memory in my heart",
+        "i3. Nadia",
+        "Fahima :",
+        "Nadia",
+        "Fahima:",
+        "Nadia",
+        "Fahima:",
+        "Nadia :",
+        "Fahima:",
+        "Nadia",
+        "Hey Fahima, I noticed you don't read the newspaper. Any particular reason?",
+        "Well, I find it a bit boring and time-consuming. I usually get",
+        "news from social media. Why should I read newspapers?",
+        "Newspapers are more reliable than social media. They provide",
+        "accurate and well-researched information. Plus, they cover a wide",
+        "range of topics like politics, sports, culture and even job opportunities.",
+        "But isn't it easier to just scroll through news online?",
+        "True, but newspapers help you develop a habit of reading and",
+        "improve your language skills. They also offer in-depth",
+        "analysis that you won't find in short social media posts.",
+        "Hmm, I never thought about it that way. Maybe I should give it a try.",
+        "Definitely! Start with a section you enjoy, like sports or",
+        "entertainment. You'll see how informative and interesting it can be!",
+        "Okay, I'll give it a shot. Thanks for the suggestion, Nadia!",
+        "You're welcome! I'm sure you'll find it worthwhile.",
+        "THE END"
+      ],
+      "aiReadyLines": [
+        "On his way, he noticed a woman searching frantically near the road. She looked",
+        "worried and was asking people if they had seen a purse. Mamun approached her and",
+        "asked, \"Are you looking for something?\" The woman explained that she had lost her",
+        "purse, which contained her family photo and important cards. Mamun smiled and",
+        "handed her the purse, saying, \"I found this on the road. Is it yours?\" The woman was",
+        "overjoyed and thanked Mamun with tears in her eyes.",
+        "She rewarded him with a small gift, but Mamun felt the greatest reward was the",
+        "happiness on her face. From that day on, Mamun became known in his village as the",
+        "boy with an honest heart, and his story inspired others to always do the right thing.",
+        "My First Day at School",
+        "My first day at school is a memory I will never forget. I was both excited and nervous",
+        "as I entered the colorful classroom filled with unfamiliar faces. The teacher welcomed",
+        "me with a warm smile, which made me feel a little more at ease. I sat next to a friendly",
+        "girl who later became my best friend. We introduced ourselves and shared crayons",
+        "during the drawing activity. The classroom was vibrant with posters, toys, and books,",
+        "which fascinated me. Though I felt shy initially, the fun activities and games helped me",
+        "settle in quickly. By the end of the day, I was eager to return and learn more. That day",
+        "marked the beginning of my educational journey, filled with curiosity, friendship, and",
+        "new experiences. It remains a cherished memory in my heart",
+        "i3. Nadia",
+        "Fahima :",
+        "Hey Fahima, I noticed you don't read the newspaper. Any particular reason?",
+        "Well, I find it a bit boring and time-consuming. I usually get",
+        "news from social media. Why should I read newspapers?",
+        "Newspapers are more reliable than social media. They provide",
+        "accurate and well-researched information. Plus, they cover a wide",
+        "range of topics like politics, sports, culture and even job opportunities.",
+        "But isn't it easier to just scroll through news online?",
+        "True, but newspapers help you develop a habit of reading and",
+        "improve your language skills. They also offer in-depth",
+        "analysis that you won't find in short social media posts.",
+        "Hmm, I never thought about it that way. Maybe I should give it a try.",
+        "Definitely! Start with a section you enjoy, like sports or",
+        "entertainment. You'll see how informative and interesting it can be!",
+        "Okay, I'll give it a shot. Thanks for the suggestion, Nadia!",
+        "You're welcome! I'm sure you'll find it worthwhile."
+      ]
+    },
+    {
+      "pdfPage": 114,
+      "textbookPage": 109,
+      "rawText": "",
+      "rawLines": [],
+      "cleanLines": [],
+      "aiReadyLines": []
+    },
+    {
+      "pdfPage": 115,
+      "textbookPage": 110,
+      "rawText": "2026 Academic Year\nClass Six : English For Today\n\nUnited we stand, divided we fall.\n\nFicom\n\nTO\n\nWE ALWAYS\nFOUGHT FOR\nOUR RIGHT\n\nFor free distribution by the Government of the People's Republic of Bangladesh.",
+      "rawLines": [
+        "2026 Academic Year",
+        "Class Six : English For Today",
+        "United we stand, divided we fall.",
+        "Ficom",
+        "TO",
+        "WE ALWAYS",
+        "FOUGHT FOR",
+        "OUR RIGHT",
+        "For free distribution by the Government of the People's Republic of Bangladesh."
+      ],
+      "cleanLines": [
+        "United we stand, divided we fall.",
+        "Ficom",
+        "WE ALWAYS",
+        "FOUGHT FOR",
+        "OUR RIGHT",
+        "For free distribution by the Government of the People's Republic of Bangladesh."
+      ],
+      "aiReadyLines": [
+        "United we stand, divided we fall.",
+        "WE ALWAYS",
+        "FOUGHT FOR",
+        "OUR RIGHT",
+        "For free distribution by the Government of the People's Republic of Bangladesh."
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "lesson-sample-line-002",
+      "text": "Sample Question"
+    },
+    {
+      "id": "lesson-sample-line-003",
+      "text": "Subject: English First Paper"
+    },
+    {
+      "id": "lesson-sample-line-004",
+      "text": "Class: Six"
+    },
+    {
+      "id": "lesson-sample-line-005",
+      "text": "Time: 3 hours Marks: 100"
+    },
+    {
+      "id": "lesson-sample-line-006",
+      "text": "[Marks for individual items are mentioned next to the test items]"
+    },
+    {
+      "id": "lesson-sample-line-007",
+      "text": "Part A - Reading (Marks: 70)"
+    },
+    {
+      "id": "lesson-sample-line-008",
+      "text": "Read the text and answer the questions 1 & 2:"
+    },
+    {
+      "id": "lesson-sample-line-009",
+      "text": "Bulbul collects rubbish from the Sankar area in Dhaka. Every morning, he wakes"
+    },
+    {
+      "id": "lesson-sample-line-010",
+      "text": "up at 5 o'clock and walks along the streets of Sankar to collect rubbish. People"
+    },
+    {
+      "id": "lesson-sample-line-011",
+      "text": "of Sankar put their rubbish in plastic bins and leave them in front of their houses."
+    },
+    {
+      "id": "lesson-sample-line-012",
+      "text": "Bulbul walks from door to door to collect them. Sometimes the bins are very"
+    },
+    {
+      "id": "lesson-sample-line-013",
+      "text": "dirty and they smell bad. But Bulbul does not mind. He takes out everything"
+    },
+    {
+      "id": "lesson-sample-line-014",
+      "text": "from the bins and puts them in his van. He believes that all jobs are important."
+    },
+    {
+      "id": "lesson-sample-line-015",
+      "text": "He works hard every day to keep this area clean.Last month Bulbul was sick for"
+    },
+    {
+      "id": "lesson-sample-line-016",
+      "text": "two days. So, he could not come to collect the rubbish. The people of Sankar"
+    },
+    {
+      "id": "lesson-sample-line-017",
+      "text": "were in great trouble. They got piles of rubbish waiting in front of their houses."
+    },
+    {
+      "id": "lesson-sample-line-018",
+      "text": "The whole area became dirty and unhygienic. When Bulbul got well, he came"
+    },
+    {
+      "id": "lesson-sample-line-019",
+      "text": "back to Sanker. He collected everything from all the bins. Bulbul does not want"
+    },
+    {
+      "id": "lesson-sample-line-020",
+      "text": "to fall sick again. He realises, if he stops working even for a few days only, the"
+    },
+    {
+      "id": "lesson-sample-line-021",
+      "text": "whole area will turn into a big dustbin."
+    },
+    {
+      "id": "lesson-sample-line-022",
+      "text": "Choose the best answer from the alternatives: 1x7=7"
+    },
+    {
+      "id": "lesson-sample-line-023",
+      "text": "What time does Bulbul wake up every morning?"
+    },
+    {
+      "id": "lesson-sample-line-024",
+      "text": "i. 4 o'clock"
+    },
+    {
+      "id": "lesson-sample-line-025",
+      "text": "ii. 5 o'clock"
+    },
+    {
+      "id": "lesson-sample-line-026",
+      "text": "iii. 6 o'clock"
+    },
+    {
+      "id": "lesson-sample-line-027",
+      "text": "iv. 7 o'clock"
+    },
+    {
+      "id": "lesson-sample-line-028",
+      "text": "Where does Bulbul collect rubbish from?"
+    },
+    {
+      "id": "lesson-sample-line-029",
+      "text": "i. Gulshan"
+    },
+    {
+      "id": "lesson-sample-line-030",
+      "text": "ii. Mirpur"
+    },
+    {
+      "id": "lesson-sample-line-031",
+      "text": "iii. Sankar"
+    },
+    {
+      "id": "lesson-sample-line-032",
+      "text": "iv. Banani"
+    },
+    {
+      "id": "lesson-sample-line-033",
+      "text": "How do the people of Sankar dispose of their rubbish?"
+    },
+    {
+      "id": "lesson-sample-line-034",
+      "text": "i. They throw it on the streets."
+    },
+    {
+      "id": "lesson-sample-line-035",
+      "text": "ii. They keep it inside their homes."
+    },
+    {
+      "id": "lesson-sample-line-036",
+      "text": "iii. They burn it in their yards."
+    },
+    {
+      "id": "lesson-sample-line-037",
+      "text": "iv. They put it in plastic bins and leave them in front of their houses."
+    },
+    {
+      "id": "lesson-sample-line-039",
+      "text": "Why was Sankar in great trouble last month?"
+    },
+    {
+      "id": "lesson-sample-line-040",
+      "text": "i. Bulbul went on vacation."
+    },
+    {
+      "id": "lesson-sample-line-041",
+      "text": "ii. The people refused to throw away their rubbish."
+    },
+    {
+      "id": "lesson-sample-line-042",
+      "text": "iii. Bulbul was sick for two days and could not collect the rubbish."
+    },
+    {
+      "id": "lesson-sample-line-043",
+      "text": "iv. A storm scattered the rubbish everywhere."
+    },
+    {
+      "id": "lesson-sample-line-044",
+      "text": "e) What does Bulbul believe about his job?"
+    },
+    {
+      "id": "lesson-sample-line-045",
+      "text": "i. It is not important."
+    },
+    {
+      "id": "lesson-sample-line-046",
+      "text": "ii. Only educated people should do it."
+    },
+    {
+      "id": "lesson-sample-line-047",
+      "text": "iii. All jobs are important."
+    },
+    {
+      "id": "lesson-sample-line-048",
+      "text": "iv. He does it just for money."
+    },
+    {
+      "id": "lesson-sample-line-049",
+      "text": "f) What happened when Bulbul could not collect the rubbish for two"
+    },
+    {
+      "id": "lesson-sample-line-050",
+      "text": "days?"
+    },
+    {
+      "id": "lesson-sample-line-051",
+      "text": "i. The people of Sankar managed it themselves."
+    },
+    {
+      "id": "lesson-sample-line-052",
+      "text": "ii. The whole area became dirty and unhygienic."
+    },
+    {
+      "id": "lesson-sample-line-053",
+      "text": "iii. The rubbish disappeared on its own."
+    },
+    {
+      "id": "lesson-sample-line-054",
+      "text": "iv. The government cleaned the area."
+    },
+    {
+      "id": "lesson-sample-line-055",
+      "text": "g) Why does Bulbul not want to fall sick again?"
+    },
+    {
+      "id": "lesson-sample-line-056",
+      "text": "i. He enjoys his work."
+    },
+    {
+      "id": "lesson-sample-line-057",
+      "text": "ii. He fears losing his job."
+    },
+    {
+      "id": "lesson-sample-line-058",
+      "text": "iii. He wants to earn more money."
+    },
+    {
+      "id": "lesson-sample-line-059",
+      "text": "iv. He knows the area will turn into a big dustbin if he stops working."
+    },
+    {
+      "id": "lesson-sample-line-060",
+      "text": "Write short answers to the following questions: 5x2=10"
+    },
+    {
+      "id": "lesson-sample-line-061",
+      "text": "Why does Bulbul wake up early in the morning?"
+    },
+    {
+      "id": "lesson-sample-line-062",
+      "text": "How did the people of Sankar suffer when Bulbul was sick?"
+    },
+    {
+      "id": "lesson-sample-line-063",
+      "text": "What does this story teach us about the importance of Bulbul's job?"
+    },
+    {
+      "id": "lesson-sample-line-064",
+      "text": "Where do the people of Sankar leave their rubbish?"
+    },
+    {
+      "id": "lesson-sample-line-065",
+      "text": "e) Why did Bulbul stop working?"
+    },
+    {
+      "id": "lesson-sample-line-066",
+      "text": "Read the text and answer the questions 3 & 4:"
+    },
+    {
+      "id": "lesson-sample-line-067",
+      "text": "A proverb says 'Health is Wealth'. To keep healthy is to keep free from disease"
+    },
+    {
+      "id": "lesson-sample-line-068",
+      "text": "and anxiety. Good health is proper functioning of all body organs. It is also"
+    },
+    {
+      "id": "lesson-sample-line-069",
+      "text": "feeling well both in body and in mind. People in good health are active, cheerful"
+    },
+    {
+      "id": "lesson-sample-line-070",
+      "text": "and happy. If you are healthy, you can be happy and can help others in society as"
+    },
+    {
+      "id": "lesson-sample-line-071",
+      "text": "well."
+    },
+    {
+      "id": "lesson-sample-line-072",
+      "text": "To keep in good health we should be careful about hygiene. The rules and"
+    },
+    {
+      "id": "lesson-sample-line-073",
+      "text": "practices of keeping good health are called hygiene. We must practise the rules"
+    },
+    {
+      "id": "lesson-sample-line-074",
+      "text": "of hygiene. Proper food and nutrition, physical exercise, rest and sleep,"
+    },
+    {
+      "id": "lesson-sample-line-075",
+      "text": "cleanliness, and proper medicare are essential for good health."
+    },
+    {
+      "id": "lesson-sample-line-077",
+      "text": "Complete the passage with suitable words: 1x5=5"
+    },
+    {
+      "id": "lesson-sample-line-078",
+      "text": "Good health means proper functioning of body organs and feeling well in"
+    },
+    {
+      "id": "lesson-sample-line-079",
+      "text": "body and mind. Healthy people remain a) , cheerful, and happy. They"
+    },
+    {
+      "id": "lesson-sample-line-080",
+      "text": "can enjoy life and b) others. To maintain health, follow hygiene princi-"
+    },
+    {
+      "id": "lesson-sample-line-081",
+      "text": "ples, which include rules and c) for staying healthy. Proper food, d)"
+    },
+    {
+      "id": "lesson-sample-line-082",
+      "text": "exercise, rest, cleanliness, and medical care are essential for e)"
+    },
+    {
+      "id": "lesson-sample-line-083",
+      "text": "health."
+    },
+    {
+      "id": "lesson-sample-line-084",
+      "text": "4, Read the passage carefully and replace the following words with"
+    },
+    {
+      "id": "lesson-sample-line-085",
+      "text": "their suitable synonyms or antonyms. 1x5=5"
+    },
+    {
+      "id": "lesson-sample-line-086",
+      "text": "Wealth (Synonym)"
+    },
+    {
+      "id": "lesson-sample-line-087",
+      "text": "Cheerful (Synonym)"
+    },
+    {
+      "id": "lesson-sample-line-088",
+      "text": "Maintain (Synonym)"
+    },
+    {
+      "id": "lesson-sample-line-089",
+      "text": "Necessary (Antonym)"
+    },
+    {
+      "id": "lesson-sample-line-090",
+      "text": "e) Proper (Antonym)"
+    },
+    {
+      "id": "lesson-sample-line-091",
+      "text": "Read the text and answer the questions 5, 6 & 7:"
+    },
+    {
+      "id": "lesson-sample-line-092",
+      "text": "Bangladesh is a land of natural beauty. Its villages are full of green fields, rivers, and"
+    },
+    {
+      "id": "lesson-sample-line-093",
+      "text": "trees. Most people in Bangladesh live in villages. They work as farmers, fishermen or"
+    },
+    {
+      "id": "lesson-sample-line-094",
+      "text": "craftsmen. The air in the villages is fresh, and life is peaceful. People wake up early in"
+    },
+    {
+      "id": "lesson-sample-line-095",
+      "text": "the morning and start their daily work. Farmers grow rice, jute and vegetables in their"
+    },
+    {
+      "id": "lesson-sample-line-096",
+      "text": "fields. Fishermen catch fish from rivers and ponds."
+    },
+    {
+      "id": "lesson-sample-line-097",
+      "text": "The houses in villages are simple but comfortable. Many houses have gardens with"
+    },
+    {
+      "id": "lesson-sample-line-098",
+      "text": "fruit trees like mango, jackfruit and banana. The villagers celebrate different festivals"
+    },
+    {
+      "id": "lesson-sample-line-099",
+      "text": "like Pahela Boishakh and Nabanna Utsab with joy. They help each other in times of"
+    },
+    {
+      "id": "lesson-sample-line-100",
+      "text": "need. Life in rural Bangladesh is simple, but it is full of happiness. The natural beauty"
+    },
+    {
+      "id": "lesson-sample-line-101",
+      "text": "and fresh environment make the villages a wonderful place to live."
+    },
+    {
+      "id": "lesson-sample-line-102",
+      "text": "Complete the table with information from the passage. 1x5=5"
+    },
+    {
+      "id": "lesson-sample-line-103",
+      "text": "Topic Information from the passage"
+    },
+    {
+      "id": "lesson-sample-line-104",
+      "text": "Main occupation of villagers j) ---------------"
+    },
+    {
+      "id": "lesson-sample-line-105",
+      "text": "Freshness of village air ii) --"
+    },
+    {
+      "id": "lesson-sample-line-106",
+      "text": "Crops grown by farmers _ iii) --"
+    },
+    {
+      "id": "lesson-sample-line-107",
+      "text": "Fruits grown in village gardens _ iv)"
+    },
+    {
+      "id": "lesson-sample-line-108",
+      "text": "e) Festivals celebrated in villages _v) -"
+    },
+    {
+      "id": "lesson-sample-line-109",
+      "text": "Read the statements below. Write 'True' if the statement is correct and"
+    },
+    {
+      "id": "lesson-sample-line-110",
+      "text": "'False' if it is incorrect. If false, write the correct answer. 1x5=5"
+    },
+    {
+      "id": "lesson-sample-line-111",
+      "text": "Villages in Bangladesh are full of green fields, rivers and trees."
+    },
+    {
+      "id": "lesson-sample-line-112",
+      "text": "Most villagers in Bangladesh work in factories"
+    },
+    {
+      "id": "lesson-sample-line-113",
+      "text": "Farmers in villages grow rice, jute and vegetables."
+    },
+    {
+      "id": "lesson-sample-line-115",
+      "text": "There are no fruit trees in village gardens."
+    },
+    {
+      "id": "lesson-sample-line-116",
+      "text": "e) People in villages celebrate festivals like Pahela Boishakh and Nabanna"
+    },
+    {
+      "id": "lesson-sample-line-117",
+      "text": "Utsab."
+    },
+    {
+      "id": "lesson-sample-line-118",
+      "text": "Write a summary of the passage in your own words, 10"
+    },
+    {
+      "id": "lesson-sample-line-119",
+      "text": "Match the parts of sentences from the Columns A and B to make five"
+    },
+    {
+      "id": "lesson-sample-line-120",
+      "text": "complete sentences."
+    },
+    {
+      "id": "lesson-sample-line-121",
+      "text": "(a) Food is one of the basic (i) without it"
+    },
+    {
+      "id": "lesson-sample-line-122",
+      "text": "(b) It is essential (ii) needs of human beings"
+    },
+    {
+      "id": "lesson-sample-line-123",
+      "text": "(c) We cannot live (ii) for our survival"
+    },
+    {
+      "id": "lesson-sample-line-124",
+      "text": "(d) So, we must always (iv) kind of food for good health"
+    },
+    {
+      "id": "lesson-sample-line-125",
+      "text": "(e) Good food means the right (v) have good food"
+    },
+    {
+      "id": "lesson-sample-line-126",
+      "text": "Put the following parts of the story in the correct order to make the whole"
+    },
+    {
+      "id": "lesson-sample-line-127",
+      "text": "story. Only the corresponding numbers of the sentences need to be written."
+    },
+    {
+      "id": "lesson-sample-line-128",
+      "text": "He lost his father in his childhood."
+    },
+    {
+      "id": "lesson-sample-line-129",
+      "text": "He was fond of adventures, music and jatra party."
+    },
+    {
+      "id": "lesson-sample-line-130",
+      "text": "He spent his early life in great hardship."
+    },
+    {
+      "id": "lesson-sample-line-131",
+      "text": "Nazrul Islam was born on the 20th May 1899."
+    },
+    {
+      "id": "lesson-sample-line-132",
+      "text": "As a boy being restless and absent-minded, he did not like the hard and"
+    },
+    {
+      "id": "lesson-sample-line-133",
+      "text": "fast rules of the school."
+    },
+    {
+      "id": "lesson-sample-line-134",
+      "text": "One day, Dukhu Mia became a great poet."
+    },
+    {
+      "id": "lesson-sample-line-135",
+      "text": "You will have heard the name of Kazi Nazrul Islam."
+    },
+    {
+      "id": "lesson-sample-line-136",
+      "text": "So he was called Dukhu Mia."
+    },
+    {
+      "id": "lesson-sample-line-138",
+      "text": "book."
+    },
+    {
+      "id": "lesson-sample-line-139",
+      "text": "Answer any five of the following questions from the poems in your text-"
+    },
+    {
+      "id": "lesson-sample-line-140",
+      "text": "What is the main idea of the poem \"Holding Hands\"?"
+    },
+    {
+      "id": "lesson-sample-line-141",
+      "text": "What does the poet say about trunks and tails in the poem \"Holding"
+    },
+    {
+      "id": "lesson-sample-line-142",
+      "text": "Hands\"?"
+    },
+    {
+      "id": "lesson-sample-line-143",
+      "text": "What does the line \"But bows cannot be built in heaven\" suggest in the"
+    },
+    {
+      "id": "lesson-sample-line-144",
+      "text": "poem \"Boats sail on the rivers\"?"
+    },
+    {
+      "id": "lesson-sample-line-145",
+      "text": "What is the overall theme of the poem \"Boats sail on the rivers\"?"
+    },
+    {
+      "id": "lesson-sample-line-146",
+      "text": "e) How does the poem \"The Chaos\" highlight the challenges of English"
+    },
+    {
+      "id": "lesson-sample-line-147",
+      "text": "pronunciation and spelling?"
+    },
+    {
+      "id": "lesson-sample-line-148",
+      "text": "f) What is the main theme or purpose of the poem \"The Chaos\"?"
+    },
+    {
+      "id": "lesson-sample-line-149",
+      "text": "g) Who is the central character in the poem \"Andre\", and what is his"
+    },
+    {
+      "id": "lesson-sample-line-150",
+      "text": "story?"
+    },
+    {
+      "id": "lesson-sample-line-151",
+      "text": "h) What lesson do you learn from the poem \"Andre\"?"
+    },
+    {
+      "id": "lesson-sample-line-152",
+      "text": "Part B - Writing (Marks: 30)"
+    },
+    {
+      "id": "lesson-sample-line-153",
+      "text": "Read the opening of a story below and complete it in at least ten new"
+    },
+    {
+      "id": "lesson-sample-line-154",
+      "text": "sentences. Give a suitable title to it. 10"
+    },
+    {
+      "id": "lesson-sample-line-155",
+      "text": "Once upon a time, there was a boy named Mamun. He was a student of class"
+    },
+    {
+      "id": "lesson-sample-line-156",
+      "text": "One day, while he was returning from school, he found a purse on the road."
+    },
+    {
+      "id": "lesson-sample-line-157",
+      "text": "As he was honest, ........"
+    },
+    {
+      "id": "lesson-sample-line-158",
+      "text": "Write a paragraph on 'Your First Day at School' in 120 words. 10"
+    },
+    {
+      "id": "lesson-sample-line-159",
+      "text": "Suppose, you are Nadim/Nadia, you have a friend named Fahim/Fahima who"
+    },
+    {
+      "id": "lesson-sample-line-160",
+      "text": "does not read newspaper."
+    },
+    {
+      "id": "lesson-sample-line-161",
+      "text": "Now, write a dialogue between you and your friend about the importance of"
+    },
+    {
+      "id": "lesson-sample-line-162",
+      "text": "reading newspaper. 10"
+    },
+    {
+      "id": "lesson-sample-line-164",
+      "text": "Suggested Answers"
+    },
+    {
+      "id": "lesson-sample-line-165",
+      "text": "ii) 5 o'clock"
+    },
+    {
+      "id": "lesson-sample-line-166",
+      "text": "iii) Sankar"
+    },
+    {
+      "id": "lesson-sample-line-167",
+      "text": "iv. They put it in plastic bins and leave them in front of their houses."
+    },
+    {
+      "id": "lesson-sample-line-168",
+      "text": "iii. Bulbul was sick for two days and could not collect the rubbish."
+    },
+    {
+      "id": "lesson-sample-line-169",
+      "text": "e) iii. All jobs are important."
+    },
+    {
+      "id": "lesson-sample-line-170",
+      "text": "f) ii. The whole area became dirty and unhygienic."
+    },
+    {
+      "id": "lesson-sample-line-171",
+      "text": "g) iv. He knows the area will turn into a big dustbin if he stops working."
+    },
+    {
+      "id": "lesson-sample-line-172",
+      "text": "Bulbul wakes up early in the morning to collect rubbish from the"
+    },
+    {
+      "id": "lesson-sample-line-173",
+      "text": "Sankar area and keep it clean."
+    },
+    {
+      "id": "lesson-sample-line-174",
+      "text": "The people of Sankar suffered because piles of rubbish gathered in"
+    },
+    {
+      "id": "lesson-sample-line-175",
+      "text": "front of their houses, making the area dirty and unhygienic."
+    },
+    {
+      "id": "lesson-sample-line-176",
+      "text": "The story teaches us that every job is important, and workers like"
+    },
+    {
+      "id": "lesson-sample-line-177",
+      "text": "Bulbul play a crucial role in keeping the environment clean and healthy"
+    },
+    {
+      "id": "lesson-sample-line-178",
+      "text": "They leave their rubbish in plastic bins in front of their houses."
+    },
+    {
+      "id": "lesson-sample-line-179",
+      "text": "e) Bulbul stopped working because he was sick."
+    },
+    {
+      "id": "lesson-sample-line-180",
+      "text": "active b) help"
+    },
+    {
+      "id": "lesson-sample-line-181",
+      "text": "practices d) physical"
+    },
+    {
+      "id": "lesson-sample-line-182",
+      "text": "e) good"
+    },
+    {
+      "id": "lesson-sample-line-183",
+      "text": "prosperity"
+    },
+    {
+      "id": "lesson-sample-line-184",
+      "text": "joyful"
+    },
+    {
+      "id": "lesson-sample-line-185",
+      "text": "preserve"
+    },
+    {
+      "id": "lesson-sample-line-186",
+      "text": "unnecessary"
+    },
+    {
+      "id": "lesson-sample-line-187",
+      "text": "e) improper"
+    },
+    {
+      "id": "lesson-sample-line-188",
+      "text": "Farmers, fishermen, and craftsmen"
+    },
+    {
+      "id": "lesson-sample-line-189",
+      "text": "The air in villages is fresh"
+    },
+    {
+      "id": "lesson-sample-line-190",
+      "text": "Rice, jute and vegetables"
+    },
+    {
+      "id": "lesson-sample-line-191",
+      "text": "Mango, jackfruit and banana"
+    },
+    {
+      "id": "lesson-sample-line-192",
+      "text": "e) Pahela Boishakh and Nabanna Utsab"
+    },
+    {
+      "id": "lesson-sample-line-193",
+      "text": "True b) False"
+    },
+    {
+      "id": "lesson-sample-line-194",
+      "text": "Correct Answer- Most villagers in Bangladesh work as farmers, fishermen, or"
+    },
+    {
+      "id": "lesson-sample-line-195",
+      "text": "craftsmen, not in factories."
+    },
+    {
+      "id": "lesson-sample-line-196",
+      "text": "True d) False"
+    },
+    {
+      "id": "lesson-sample-line-197",
+      "text": "Correct Answer- Many houses in villages have gardens with fruit trees like mango,"
+    },
+    {
+      "id": "lesson-sample-line-198",
+      "text": "jackfruit and banana."
+    },
+    {
+      "id": "lesson-sample-line-199",
+      "text": "e) True"
+    },
+    {
+      "id": "lesson-sample-line-201",
+      "text": "Rural Bangladesh is full of natural beauty with green fields, rivers and trees."
+    },
+    {
+      "id": "lesson-sample-line-202",
+      "text": "Most villagers work as farmers, fishermen, or craftsmen. They grow crops like rice,"
+    },
+    {
+      "id": "lesson-sample-line-203",
+      "text": "jute and vegetables. Many village houses have gardens with fruit trees. Villagers cele-"
+    },
+    {
+      "id": "lesson-sample-line-204",
+      "text": "brate festivals such as Pahela Boishakh and Nabanna Utsab with joy. Life in the villag-"
+    },
+    {
+      "id": "lesson-sample-line-205",
+      "text": "es is simple but peaceful and happy."
+    },
+    {
+      "id": "lesson-sample-line-206",
+      "text": "(ii) needs of human beings b) (iti) for our survival"
+    },
+    {
+      "id": "lesson-sample-line-207",
+      "text": "(i) without it d) (v) have good food"
+    },
+    {
+      "id": "lesson-sample-line-208",
+      "text": "e) (iv) kind of food for good health"
+    },
+    {
+      "id": "lesson-sample-line-209",
+      "text": "g d a c h e b f"
+    },
+    {
+      "id": "lesson-sample-line-210",
+      "text": "The main idea of the poem 'Holding Hands' is that it describes how"
+    },
+    {
+      "id": "lesson-sample-line-211",
+      "text": "elephants walk together by holding tails, showing their unity and coordi nation."
+    },
+    {
+      "id": "lesson-sample-line-212",
+      "text": "In the poem \"Holding Hands\", the poet says that trunks and tails are"
+    },
+    {
+      "id": "lesson-sample-line-213",
+      "text": "handy things for elephants when they walk."
+    },
+    {
+      "id": "lesson-sample-line-214",
+      "text": "The line \"But bows cannot be built in heaven\" suggests that human"
+    },
+    {
+      "id": "lesson-sample-line-215",
+      "text": "creations, no matter how grand, cannot match the perfection or beauty"
+    },
+    {
+      "id": "lesson-sample-line-216",
+      "text": "of heavenly or natural wonders."
+    },
+    {
+      "id": "lesson-sample-line-217",
+      "text": "The poem uses a series of rhyming couplets with words that look similar"
+    },
+    {
+      "id": "lesson-sample-line-218",
+      "text": "but are pronounced differently, emphasising the inconsistencies in English"
+    },
+    {
+      "id": "lesson-sample-line-219",
+      "text": "pronunciation rules."
+    },
+    {
+      "id": "lesson-sample-line-220",
+      "text": "e) The overall theme of the poem \"Boats sail on the rivers\" is the contrast"
+    },
+    {
+      "id": "lesson-sample-line-221",
+      "text": "between the beauty and vastness of nature and the limitations of human"
+    },
+    {
+      "id": "lesson-sample-line-222",
+      "text": "achievements."
+    },
+    {
+      "id": "lesson-sample-line-223",
+      "text": "f) The main theme of the poem is to illustrate the irregularities and com"
+    },
+    {
+      "id": "lesson-sample-line-224",
+      "text": "plexities of English pronunciation and spelling, showcasing how"
+    },
+    {
+      "id": "lesson-sample-line-225",
+      "text": "challenging it can be to learn the language."
+    },
+    {
+      "id": "lesson-sample-line-226",
+      "text": "g) The central character is Andre, a young boy. His story is a very touching"
+    },
+    {
+      "id": "lesson-sample-line-227",
+      "text": "reflection on love, choice and appreciation for family."
+    },
+    {
+      "id": "lesson-sample-line-228",
+      "text": "h) We learn from the poem that we should love and appreciate our parents."
+    },
+    {
+      "id": "lesson-sample-line-229",
+      "text": "Mamun's Honest Heart"
+    },
+    {
+      "id": "lesson-sample-line-230",
+      "text": "Once upon a time, there was a boy named Mamun. He was a student of class 6. One"
+    },
+    {
+      "id": "lesson-sample-line-231",
+      "text": "day, while he was returning from school, he found a purse on the road. As he was"
+    },
+    {
+      "id": "lesson-sample-line-232",
+      "text": "honest, he picked it up and opened it to see if he could find any clues about its owner."
+    },
+    {
+      "id": "lesson-sample-line-233",
+      "text": "Inside, he found some money, a few cards, and a photo of a family. Mamun knew he"
+    },
+    {
+      "id": "lesson-sample-line-234",
+      "text": "had to return it to the rightful owner. He decided to take the purse to the nearby police"
+    },
+    {
+      "id": "lesson-sample-line-235",
+      "text": "station."
+    },
+    {
+      "id": "lesson-sample-line-236",
+      "text": "On his way, he noticed a woman searching frantically near the road. She looked"
+    },
+    {
+      "id": "lesson-sample-line-237",
+      "text": "worried and was asking people if they had seen a purse. Mamun approached her and"
+    },
+    {
+      "id": "lesson-sample-line-238",
+      "text": "asked, \"Are you looking for something?\" The woman explained that she had lost her"
+    },
+    {
+      "id": "lesson-sample-line-239",
+      "text": "purse, which contained her family photo and important cards. Mamun smiled and"
+    },
+    {
+      "id": "lesson-sample-line-240",
+      "text": "handed her the purse, saying, \"I found this on the road. Is it yours?\" The woman was"
+    },
+    {
+      "id": "lesson-sample-line-241",
+      "text": "overjoyed and thanked Mamun with tears in her eyes."
+    },
+    {
+      "id": "lesson-sample-line-242",
+      "text": "She rewarded him with a small gift, but Mamun felt the greatest reward was the"
+    },
+    {
+      "id": "lesson-sample-line-243",
+      "text": "happiness on her face. From that day on, Mamun became known in his village as the"
+    },
+    {
+      "id": "lesson-sample-line-244",
+      "text": "boy with an honest heart, and his story inspired others to always do the right thing."
+    },
+    {
+      "id": "lesson-sample-line-245",
+      "text": "My First Day at School"
+    },
+    {
+      "id": "lesson-sample-line-246",
+      "text": "My first day at school is a memory I will never forget. I was both excited and nervous"
+    },
+    {
+      "id": "lesson-sample-line-247",
+      "text": "as I entered the colorful classroom filled with unfamiliar faces. The teacher welcomed"
+    },
+    {
+      "id": "lesson-sample-line-248",
+      "text": "me with a warm smile, which made me feel a little more at ease. I sat next to a friendly"
+    },
+    {
+      "id": "lesson-sample-line-249",
+      "text": "girl who later became my best friend. We introduced ourselves and shared crayons"
+    },
+    {
+      "id": "lesson-sample-line-250",
+      "text": "during the drawing activity. The classroom was vibrant with posters, toys, and books,"
+    },
+    {
+      "id": "lesson-sample-line-251",
+      "text": "which fascinated me. Though I felt shy initially, the fun activities and games helped me"
+    },
+    {
+      "id": "lesson-sample-line-252",
+      "text": "settle in quickly. By the end of the day, I was eager to return and learn more. That day"
+    },
+    {
+      "id": "lesson-sample-line-253",
+      "text": "marked the beginning of my educational journey, filled with curiosity, friendship, and"
+    },
+    {
+      "id": "lesson-sample-line-254",
+      "text": "new experiences. It remains a cherished memory in my heart"
+    },
+    {
+      "id": "lesson-sample-line-255",
+      "text": "i3. Nadia"
+    },
+    {
+      "id": "lesson-sample-line-256",
+      "text": "Fahima :"
+    },
+    {
+      "id": "lesson-sample-line-257",
+      "text": "Nadia"
+    },
+    {
+      "id": "lesson-sample-line-258",
+      "text": "Fahima:"
+    },
+    {
+      "id": "lesson-sample-line-259",
+      "text": "Nadia"
+    },
+    {
+      "id": "lesson-sample-line-260",
+      "text": "Fahima:"
+    },
+    {
+      "id": "lesson-sample-line-261",
+      "text": "Nadia :"
+    },
+    {
+      "id": "lesson-sample-line-262",
+      "text": "Fahima:"
+    },
+    {
+      "id": "lesson-sample-line-263",
+      "text": "Nadia"
+    },
+    {
+      "id": "lesson-sample-line-264",
+      "text": "Hey Fahima, I noticed you don't read the newspaper. Any particular reason?"
+    },
+    {
+      "id": "lesson-sample-line-265",
+      "text": "Well, I find it a bit boring and time-consuming. I usually get"
+    },
+    {
+      "id": "lesson-sample-line-266",
+      "text": "news from social media. Why should I read newspapers?"
+    },
+    {
+      "id": "lesson-sample-line-267",
+      "text": "Newspapers are more reliable than social media. They provide"
+    },
+    {
+      "id": "lesson-sample-line-268",
+      "text": "accurate and well-researched information. Plus, they cover a wide"
+    },
+    {
+      "id": "lesson-sample-line-269",
+      "text": "range of topics like politics, sports, culture and even job opportunities."
+    },
+    {
+      "id": "lesson-sample-line-270",
+      "text": "But isn't it easier to just scroll through news online?"
+    },
+    {
+      "id": "lesson-sample-line-271",
+      "text": "True, but newspapers help you develop a habit of reading and"
+    },
+    {
+      "id": "lesson-sample-line-272",
+      "text": "improve your language skills. They also offer in-depth"
+    },
+    {
+      "id": "lesson-sample-line-273",
+      "text": "analysis that you won't find in short social media posts."
+    },
+    {
+      "id": "lesson-sample-line-274",
+      "text": "Hmm, I never thought about it that way. Maybe I should give it a try."
+    },
+    {
+      "id": "lesson-sample-line-275",
+      "text": "Definitely! Start with a section you enjoy, like sports or"
+    },
+    {
+      "id": "lesson-sample-line-276",
+      "text": "entertainment. You'll see how informative and interesting it can be!"
+    },
+    {
+      "id": "lesson-sample-line-277",
+      "text": "Okay, I'll give it a shot. Thanks for the suggestion, Nadia!"
+    },
+    {
+      "id": "lesson-sample-line-278",
+      "text": "You're welcome! I'm sure you'll find it worthwhile."
+    },
+    {
+      "id": "lesson-sample-line-279",
+      "text": "THE END"
+    },
+    {
+      "id": "lesson-sample-line-280",
+      "text": "United we stand, divided we fall."
+    },
+    {
+      "id": "lesson-sample-line-281",
+      "text": "Ficom"
+    },
+    {
+      "id": "lesson-sample-line-282",
+      "text": "WE ALWAYS"
+    },
+    {
+      "id": "lesson-sample-line-283",
+      "text": "FOUGHT FOR"
+    },
+    {
+      "id": "lesson-sample-line-284",
+      "text": "OUR RIGHT"
+    },
+    {
+      "id": "lesson-sample-line-285",
+      "text": "For free distribution by the Government of the People's Republic of Bangladesh."
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "lesson-sample-ai-002",
+      "text": "Sample Question"
+    },
+    {
+      "id": "lesson-sample-ai-003",
+      "text": "Subject: English First Paper"
+    },
+    {
+      "id": "lesson-sample-ai-004",
+      "text": "Class: Six"
+    },
+    {
+      "id": "lesson-sample-ai-005",
+      "text": "Time: 3 hours Marks: 100"
+    },
+    {
+      "id": "lesson-sample-ai-006",
+      "text": "[Marks for individual items are mentioned next to the test items]"
+    },
+    {
+      "id": "lesson-sample-ai-007",
+      "text": "Part A - Reading (Marks: 70)"
+    },
+    {
+      "id": "lesson-sample-ai-008",
+      "text": "Read the text and answer the questions 1 & 2:"
+    },
+    {
+      "id": "lesson-sample-ai-009",
+      "text": "Bulbul collects rubbish from the Sankar area in Dhaka. Every morning, he wakes"
+    },
+    {
+      "id": "lesson-sample-ai-010",
+      "text": "up at 5 o'clock and walks along the streets of Sankar to collect rubbish. People"
+    },
+    {
+      "id": "lesson-sample-ai-011",
+      "text": "of Sankar put their rubbish in plastic bins and leave them in front of their houses."
+    },
+    {
+      "id": "lesson-sample-ai-012",
+      "text": "Bulbul walks from door to door to collect them. Sometimes the bins are very"
+    },
+    {
+      "id": "lesson-sample-ai-013",
+      "text": "dirty and they smell bad. But Bulbul does not mind. He takes out everything"
+    },
+    {
+      "id": "lesson-sample-ai-014",
+      "text": "from the bins and puts them in his van. He believes that all jobs are important."
+    },
+    {
+      "id": "lesson-sample-ai-015",
+      "text": "He works hard every day to keep this area clean.Last month Bulbul was sick for"
+    },
+    {
+      "id": "lesson-sample-ai-016",
+      "text": "two days. So, he could not come to collect the rubbish. The people of Sankar"
+    },
+    {
+      "id": "lesson-sample-ai-017",
+      "text": "were in great trouble. They got piles of rubbish waiting in front of their houses."
+    },
+    {
+      "id": "lesson-sample-ai-018",
+      "text": "The whole area became dirty and unhygienic. When Bulbul got well, he came"
+    },
+    {
+      "id": "lesson-sample-ai-019",
+      "text": "back to Sanker. He collected everything from all the bins. Bulbul does not want"
+    },
+    {
+      "id": "lesson-sample-ai-020",
+      "text": "to fall sick again. He realises, if he stops working even for a few days only, the"
+    },
+    {
+      "id": "lesson-sample-ai-021",
+      "text": "whole area will turn into a big dustbin."
+    },
+    {
+      "id": "lesson-sample-ai-022",
+      "text": "Choose the best answer from the alternatives: 1x7=7"
+    },
+    {
+      "id": "lesson-sample-ai-023",
+      "text": "What time does Bulbul wake up every morning?"
+    },
+    {
+      "id": "lesson-sample-ai-024",
+      "text": "i. 4 o'clock"
+    },
+    {
+      "id": "lesson-sample-ai-025",
+      "text": "ii. 5 o'clock"
+    },
+    {
+      "id": "lesson-sample-ai-026",
+      "text": "iii. 6 o'clock"
+    },
+    {
+      "id": "lesson-sample-ai-027",
+      "text": "iv. 7 o'clock"
+    },
+    {
+      "id": "lesson-sample-ai-028",
+      "text": "Where does Bulbul collect rubbish from?"
+    },
+    {
+      "id": "lesson-sample-ai-029",
+      "text": "i. Gulshan"
+    },
+    {
+      "id": "lesson-sample-ai-030",
+      "text": "ii. Mirpur"
+    },
+    {
+      "id": "lesson-sample-ai-031",
+      "text": "iii. Sankar"
+    },
+    {
+      "id": "lesson-sample-ai-032",
+      "text": "iv. Banani"
+    },
+    {
+      "id": "lesson-sample-ai-033",
+      "text": "How do the people of Sankar dispose of their rubbish?"
+    },
+    {
+      "id": "lesson-sample-ai-034",
+      "text": "i. They throw it on the streets."
+    },
+    {
+      "id": "lesson-sample-ai-035",
+      "text": "ii. They keep it inside their homes."
+    },
+    {
+      "id": "lesson-sample-ai-036",
+      "text": "iii. They burn it in their yards."
+    },
+    {
+      "id": "lesson-sample-ai-037",
+      "text": "iv. They put it in plastic bins and leave them in front of their houses."
+    },
+    {
+      "id": "lesson-sample-ai-039",
+      "text": "Why was Sankar in great trouble last month?"
+    },
+    {
+      "id": "lesson-sample-ai-040",
+      "text": "i. Bulbul went on vacation."
+    },
+    {
+      "id": "lesson-sample-ai-041",
+      "text": "ii. The people refused to throw away their rubbish."
+    },
+    {
+      "id": "lesson-sample-ai-042",
+      "text": "iii. Bulbul was sick for two days and could not collect the rubbish."
+    },
+    {
+      "id": "lesson-sample-ai-043",
+      "text": "iv. A storm scattered the rubbish everywhere."
+    },
+    {
+      "id": "lesson-sample-ai-044",
+      "text": "e) What does Bulbul believe about his job?"
+    },
+    {
+      "id": "lesson-sample-ai-045",
+      "text": "i. It is not important."
+    },
+    {
+      "id": "lesson-sample-ai-046",
+      "text": "ii. Only educated people should do it."
+    },
+    {
+      "id": "lesson-sample-ai-047",
+      "text": "iii. All jobs are important."
+    },
+    {
+      "id": "lesson-sample-ai-048",
+      "text": "iv. He does it just for money."
+    },
+    {
+      "id": "lesson-sample-ai-049",
+      "text": "f) What happened when Bulbul could not collect the rubbish for two"
+    },
+    {
+      "id": "lesson-sample-ai-050",
+      "text": "i. The people of Sankar managed it themselves."
+    },
+    {
+      "id": "lesson-sample-ai-051",
+      "text": "ii. The whole area became dirty and unhygienic."
+    },
+    {
+      "id": "lesson-sample-ai-052",
+      "text": "iii. The rubbish disappeared on its own."
+    },
+    {
+      "id": "lesson-sample-ai-053",
+      "text": "iv. The government cleaned the area."
+    },
+    {
+      "id": "lesson-sample-ai-054",
+      "text": "g) Why does Bulbul not want to fall sick again?"
+    },
+    {
+      "id": "lesson-sample-ai-055",
+      "text": "i. He enjoys his work."
+    },
+    {
+      "id": "lesson-sample-ai-056",
+      "text": "ii. He fears losing his job."
+    },
+    {
+      "id": "lesson-sample-ai-057",
+      "text": "iii. He wants to earn more money."
+    },
+    {
+      "id": "lesson-sample-ai-058",
+      "text": "iv. He knows the area will turn into a big dustbin if he stops working."
+    },
+    {
+      "id": "lesson-sample-ai-059",
+      "text": "Write short answers to the following questions: 5x2=10"
+    },
+    {
+      "id": "lesson-sample-ai-060",
+      "text": "Why does Bulbul wake up early in the morning?"
+    },
+    {
+      "id": "lesson-sample-ai-061",
+      "text": "How did the people of Sankar suffer when Bulbul was sick?"
+    },
+    {
+      "id": "lesson-sample-ai-062",
+      "text": "What does this story teach us about the importance of Bulbul's job?"
+    },
+    {
+      "id": "lesson-sample-ai-063",
+      "text": "Where do the people of Sankar leave their rubbish?"
+    },
+    {
+      "id": "lesson-sample-ai-064",
+      "text": "e) Why did Bulbul stop working?"
+    },
+    {
+      "id": "lesson-sample-ai-065",
+      "text": "Read the text and answer the questions 3 & 4:"
+    },
+    {
+      "id": "lesson-sample-ai-066",
+      "text": "A proverb says 'Health is Wealth'. To keep healthy is to keep free from disease"
+    },
+    {
+      "id": "lesson-sample-ai-067",
+      "text": "and anxiety. Good health is proper functioning of all body organs. It is also"
+    },
+    {
+      "id": "lesson-sample-ai-068",
+      "text": "feeling well both in body and in mind. People in good health are active, cheerful"
+    },
+    {
+      "id": "lesson-sample-ai-069",
+      "text": "and happy. If you are healthy, you can be happy and can help others in society as"
+    },
+    {
+      "id": "lesson-sample-ai-070",
+      "text": "To keep in good health we should be careful about hygiene. The rules and"
+    },
+    {
+      "id": "lesson-sample-ai-071",
+      "text": "practices of keeping good health are called hygiene. We must practise the rules"
+    },
+    {
+      "id": "lesson-sample-ai-072",
+      "text": "of hygiene. Proper food and nutrition, physical exercise, rest and sleep,"
+    },
+    {
+      "id": "lesson-sample-ai-073",
+      "text": "cleanliness, and proper medicare are essential for good health."
+    },
+    {
+      "id": "lesson-sample-ai-075",
+      "text": "Complete the passage with suitable words: 1x5=5"
+    },
+    {
+      "id": "lesson-sample-ai-076",
+      "text": "Good health means proper functioning of body organs and feeling well in"
+    },
+    {
+      "id": "lesson-sample-ai-077",
+      "text": "body and mind. Healthy people remain a) , cheerful, and happy. They"
+    },
+    {
+      "id": "lesson-sample-ai-078",
+      "text": "can enjoy life and b) others. To maintain health, follow hygiene princi-"
+    },
+    {
+      "id": "lesson-sample-ai-079",
+      "text": "ples, which include rules and c) for staying healthy. Proper food, d)"
+    },
+    {
+      "id": "lesson-sample-ai-080",
+      "text": "exercise, rest, cleanliness, and medical care are essential for e)"
+    },
+    {
+      "id": "lesson-sample-ai-081",
+      "text": "4, Read the passage carefully and replace the following words with"
+    },
+    {
+      "id": "lesson-sample-ai-082",
+      "text": "their suitable synonyms or antonyms. 1x5=5"
+    },
+    {
+      "id": "lesson-sample-ai-083",
+      "text": "Wealth (Synonym)"
+    },
+    {
+      "id": "lesson-sample-ai-084",
+      "text": "Cheerful (Synonym)"
+    },
+    {
+      "id": "lesson-sample-ai-085",
+      "text": "Maintain (Synonym)"
+    },
+    {
+      "id": "lesson-sample-ai-086",
+      "text": "Necessary (Antonym)"
+    },
+    {
+      "id": "lesson-sample-ai-087",
+      "text": "e) Proper (Antonym)"
+    },
+    {
+      "id": "lesson-sample-ai-088",
+      "text": "Read the text and answer the questions 5, 6 & 7:"
+    },
+    {
+      "id": "lesson-sample-ai-089",
+      "text": "Bangladesh is a land of natural beauty. Its villages are full of green fields, rivers, and"
+    },
+    {
+      "id": "lesson-sample-ai-090",
+      "text": "trees. Most people in Bangladesh live in villages. They work as farmers, fishermen or"
+    },
+    {
+      "id": "lesson-sample-ai-091",
+      "text": "craftsmen. The air in the villages is fresh, and life is peaceful. People wake up early in"
+    },
+    {
+      "id": "lesson-sample-ai-092",
+      "text": "the morning and start their daily work. Farmers grow rice, jute and vegetables in their"
+    },
+    {
+      "id": "lesson-sample-ai-093",
+      "text": "fields. Fishermen catch fish from rivers and ponds."
+    },
+    {
+      "id": "lesson-sample-ai-094",
+      "text": "The houses in villages are simple but comfortable. Many houses have gardens with"
+    },
+    {
+      "id": "lesson-sample-ai-095",
+      "text": "fruit trees like mango, jackfruit and banana. The villagers celebrate different festivals"
+    },
+    {
+      "id": "lesson-sample-ai-096",
+      "text": "like Pahela Boishakh and Nabanna Utsab with joy. They help each other in times of"
+    },
+    {
+      "id": "lesson-sample-ai-097",
+      "text": "need. Life in rural Bangladesh is simple, but it is full of happiness. The natural beauty"
+    },
+    {
+      "id": "lesson-sample-ai-098",
+      "text": "and fresh environment make the villages a wonderful place to live."
+    },
+    {
+      "id": "lesson-sample-ai-099",
+      "text": "Complete the table with information from the passage. 1x5=5"
+    },
+    {
+      "id": "lesson-sample-ai-100",
+      "text": "Topic Information from the passage"
+    },
+    {
+      "id": "lesson-sample-ai-101",
+      "text": "Freshness of village air ii) --"
+    },
+    {
+      "id": "lesson-sample-ai-102",
+      "text": "Crops grown by farmers _ iii) --"
+    },
+    {
+      "id": "lesson-sample-ai-103",
+      "text": "Fruits grown in village gardens _ iv)"
+    },
+    {
+      "id": "lesson-sample-ai-104",
+      "text": "e) Festivals celebrated in villages _v) -"
+    },
+    {
+      "id": "lesson-sample-ai-105",
+      "text": "Read the statements below. Write 'True' if the statement is correct and"
+    },
+    {
+      "id": "lesson-sample-ai-106",
+      "text": "'False' if it is incorrect. If false, write the correct answer. 1x5=5"
+    },
+    {
+      "id": "lesson-sample-ai-107",
+      "text": "Villages in Bangladesh are full of green fields, rivers and trees."
+    },
+    {
+      "id": "lesson-sample-ai-108",
+      "text": "Most villagers in Bangladesh work in factories"
+    },
+    {
+      "id": "lesson-sample-ai-109",
+      "text": "Farmers in villages grow rice, jute and vegetables."
+    },
+    {
+      "id": "lesson-sample-ai-111",
+      "text": "There are no fruit trees in village gardens."
+    },
+    {
+      "id": "lesson-sample-ai-112",
+      "text": "e) People in villages celebrate festivals like Pahela Boishakh and Nabanna"
+    },
+    {
+      "id": "lesson-sample-ai-113",
+      "text": "Write a summary of the passage in your own words, 10"
+    },
+    {
+      "id": "lesson-sample-ai-114",
+      "text": "Match the parts of sentences from the Columns A and B to make five"
+    },
+    {
+      "id": "lesson-sample-ai-115",
+      "text": "complete sentences."
+    },
+    {
+      "id": "lesson-sample-ai-116",
+      "text": "(a) Food is one of the basic (i) without it"
+    },
+    {
+      "id": "lesson-sample-ai-117",
+      "text": "(b) It is essential (ii) needs of human beings"
+    },
+    {
+      "id": "lesson-sample-ai-118",
+      "text": "(c) We cannot live (ii) for our survival"
+    },
+    {
+      "id": "lesson-sample-ai-119",
+      "text": "(d) So, we must always (iv) kind of food for good health"
+    },
+    {
+      "id": "lesson-sample-ai-120",
+      "text": "(e) Good food means the right (v) have good food"
+    },
+    {
+      "id": "lesson-sample-ai-121",
+      "text": "Put the following parts of the story in the correct order to make the whole"
+    },
+    {
+      "id": "lesson-sample-ai-122",
+      "text": "story. Only the corresponding numbers of the sentences need to be written."
+    },
+    {
+      "id": "lesson-sample-ai-123",
+      "text": "He lost his father in his childhood."
+    },
+    {
+      "id": "lesson-sample-ai-124",
+      "text": "He was fond of adventures, music and jatra party."
+    },
+    {
+      "id": "lesson-sample-ai-125",
+      "text": "He spent his early life in great hardship."
+    },
+    {
+      "id": "lesson-sample-ai-126",
+      "text": "Nazrul Islam was born on the 20th May 1899."
+    },
+    {
+      "id": "lesson-sample-ai-127",
+      "text": "As a boy being restless and absent-minded, he did not like the hard and"
+    },
+    {
+      "id": "lesson-sample-ai-128",
+      "text": "fast rules of the school."
+    },
+    {
+      "id": "lesson-sample-ai-129",
+      "text": "One day, Dukhu Mia became a great poet."
+    },
+    {
+      "id": "lesson-sample-ai-130",
+      "text": "You will have heard the name of Kazi Nazrul Islam."
+    },
+    {
+      "id": "lesson-sample-ai-131",
+      "text": "So he was called Dukhu Mia."
+    },
+    {
+      "id": "lesson-sample-ai-133",
+      "text": "Answer any five of the following questions from the poems in your text-"
+    },
+    {
+      "id": "lesson-sample-ai-134",
+      "text": "What is the main idea of the poem \"Holding Hands\"?"
+    },
+    {
+      "id": "lesson-sample-ai-135",
+      "text": "What does the poet say about trunks and tails in the poem \"Holding"
+    },
+    {
+      "id": "lesson-sample-ai-136",
+      "text": "What does the line \"But bows cannot be built in heaven\" suggest in the"
+    },
+    {
+      "id": "lesson-sample-ai-137",
+      "text": "poem \"Boats sail on the rivers\"?"
+    },
+    {
+      "id": "lesson-sample-ai-138",
+      "text": "What is the overall theme of the poem \"Boats sail on the rivers\"?"
+    },
+    {
+      "id": "lesson-sample-ai-139",
+      "text": "e) How does the poem \"The Chaos\" highlight the challenges of English"
+    },
+    {
+      "id": "lesson-sample-ai-140",
+      "text": "pronunciation and spelling?"
+    },
+    {
+      "id": "lesson-sample-ai-141",
+      "text": "f) What is the main theme or purpose of the poem \"The Chaos\"?"
+    },
+    {
+      "id": "lesson-sample-ai-142",
+      "text": "g) Who is the central character in the poem \"Andre\", and what is his"
+    },
+    {
+      "id": "lesson-sample-ai-143",
+      "text": "h) What lesson do you learn from the poem \"Andre\"?"
+    },
+    {
+      "id": "lesson-sample-ai-144",
+      "text": "Part B - Writing (Marks: 30)"
+    },
+    {
+      "id": "lesson-sample-ai-145",
+      "text": "Read the opening of a story below and complete it in at least ten new"
+    },
+    {
+      "id": "lesson-sample-ai-146",
+      "text": "sentences. Give a suitable title to it. 10"
+    },
+    {
+      "id": "lesson-sample-ai-147",
+      "text": "Once upon a time, there was a boy named Mamun. He was a student of class"
+    },
+    {
+      "id": "lesson-sample-ai-148",
+      "text": "One day, while he was returning from school, he found a purse on the road."
+    },
+    {
+      "id": "lesson-sample-ai-149",
+      "text": "As he was honest, ........"
+    },
+    {
+      "id": "lesson-sample-ai-150",
+      "text": "Write a paragraph on 'Your First Day at School' in 120 words. 10"
+    },
+    {
+      "id": "lesson-sample-ai-151",
+      "text": "Suppose, you are Nadim/Nadia, you have a friend named Fahim/Fahima who"
+    },
+    {
+      "id": "lesson-sample-ai-152",
+      "text": "does not read newspaper."
+    },
+    {
+      "id": "lesson-sample-ai-153",
+      "text": "Now, write a dialogue between you and your friend about the importance of"
+    },
+    {
+      "id": "lesson-sample-ai-154",
+      "text": "reading newspaper. 10"
+    },
+    {
+      "id": "lesson-sample-ai-156",
+      "text": "Suggested Answers"
+    },
+    {
+      "id": "lesson-sample-ai-157",
+      "text": "ii) 5 o'clock"
+    },
+    {
+      "id": "lesson-sample-ai-158",
+      "text": "iv. They put it in plastic bins and leave them in front of their houses."
+    },
+    {
+      "id": "lesson-sample-ai-159",
+      "text": "iii. Bulbul was sick for two days and could not collect the rubbish."
+    },
+    {
+      "id": "lesson-sample-ai-160",
+      "text": "e) iii. All jobs are important."
+    },
+    {
+      "id": "lesson-sample-ai-161",
+      "text": "f) ii. The whole area became dirty and unhygienic."
+    },
+    {
+      "id": "lesson-sample-ai-162",
+      "text": "g) iv. He knows the area will turn into a big dustbin if he stops working."
+    },
+    {
+      "id": "lesson-sample-ai-163",
+      "text": "Bulbul wakes up early in the morning to collect rubbish from the"
+    },
+    {
+      "id": "lesson-sample-ai-164",
+      "text": "Sankar area and keep it clean."
+    },
+    {
+      "id": "lesson-sample-ai-165",
+      "text": "The people of Sankar suffered because piles of rubbish gathered in"
+    },
+    {
+      "id": "lesson-sample-ai-166",
+      "text": "front of their houses, making the area dirty and unhygienic."
+    },
+    {
+      "id": "lesson-sample-ai-167",
+      "text": "The story teaches us that every job is important, and workers like"
+    },
+    {
+      "id": "lesson-sample-ai-168",
+      "text": "Bulbul play a crucial role in keeping the environment clean and healthy"
+    },
+    {
+      "id": "lesson-sample-ai-169",
+      "text": "They leave their rubbish in plastic bins in front of their houses."
+    },
+    {
+      "id": "lesson-sample-ai-170",
+      "text": "e) Bulbul stopped working because he was sick."
+    },
+    {
+      "id": "lesson-sample-ai-171",
+      "text": "active b) help"
+    },
+    {
+      "id": "lesson-sample-ai-172",
+      "text": "practices d) physical"
+    },
+    {
+      "id": "lesson-sample-ai-173",
+      "text": "prosperity"
+    },
+    {
+      "id": "lesson-sample-ai-174",
+      "text": "preserve"
+    },
+    {
+      "id": "lesson-sample-ai-175",
+      "text": "unnecessary"
+    },
+    {
+      "id": "lesson-sample-ai-176",
+      "text": "e) improper"
+    },
+    {
+      "id": "lesson-sample-ai-177",
+      "text": "Farmers, fishermen, and craftsmen"
+    },
+    {
+      "id": "lesson-sample-ai-178",
+      "text": "The air in villages is fresh"
+    },
+    {
+      "id": "lesson-sample-ai-179",
+      "text": "Rice, jute and vegetables"
+    },
+    {
+      "id": "lesson-sample-ai-180",
+      "text": "Mango, jackfruit and banana"
+    },
+    {
+      "id": "lesson-sample-ai-181",
+      "text": "e) Pahela Boishakh and Nabanna Utsab"
+    },
+    {
+      "id": "lesson-sample-ai-182",
+      "text": "True b) False"
+    },
+    {
+      "id": "lesson-sample-ai-183",
+      "text": "Correct Answer- Most villagers in Bangladesh work as farmers, fishermen, or"
+    },
+    {
+      "id": "lesson-sample-ai-184",
+      "text": "craftsmen, not in factories."
+    },
+    {
+      "id": "lesson-sample-ai-185",
+      "text": "True d) False"
+    },
+    {
+      "id": "lesson-sample-ai-186",
+      "text": "Correct Answer- Many houses in villages have gardens with fruit trees like mango,"
+    },
+    {
+      "id": "lesson-sample-ai-187",
+      "text": "jackfruit and banana."
+    },
+    {
+      "id": "lesson-sample-ai-189",
+      "text": "Rural Bangladesh is full of natural beauty with green fields, rivers and trees."
+    },
+    {
+      "id": "lesson-sample-ai-190",
+      "text": "Most villagers work as farmers, fishermen, or craftsmen. They grow crops like rice,"
+    },
+    {
+      "id": "lesson-sample-ai-191",
+      "text": "jute and vegetables. Many village houses have gardens with fruit trees. Villagers cele-"
+    },
+    {
+      "id": "lesson-sample-ai-192",
+      "text": "brate festivals such as Pahela Boishakh and Nabanna Utsab with joy. Life in the villag-"
+    },
+    {
+      "id": "lesson-sample-ai-193",
+      "text": "es is simple but peaceful and happy."
+    },
+    {
+      "id": "lesson-sample-ai-194",
+      "text": "(ii) needs of human beings b) (iti) for our survival"
+    },
+    {
+      "id": "lesson-sample-ai-195",
+      "text": "(i) without it d) (v) have good food"
+    },
+    {
+      "id": "lesson-sample-ai-196",
+      "text": "e) (iv) kind of food for good health"
+    },
+    {
+      "id": "lesson-sample-ai-197",
+      "text": "g d a c h e b f"
+    },
+    {
+      "id": "lesson-sample-ai-198",
+      "text": "The main idea of the poem 'Holding Hands' is that it describes how"
+    },
+    {
+      "id": "lesson-sample-ai-199",
+      "text": "elephants walk together by holding tails, showing their unity and coordi nation."
+    },
+    {
+      "id": "lesson-sample-ai-200",
+      "text": "In the poem \"Holding Hands\", the poet says that trunks and tails are"
+    },
+    {
+      "id": "lesson-sample-ai-201",
+      "text": "handy things for elephants when they walk."
+    },
+    {
+      "id": "lesson-sample-ai-202",
+      "text": "The line \"But bows cannot be built in heaven\" suggests that human"
+    },
+    {
+      "id": "lesson-sample-ai-203",
+      "text": "creations, no matter how grand, cannot match the perfection or beauty"
+    },
+    {
+      "id": "lesson-sample-ai-204",
+      "text": "of heavenly or natural wonders."
+    },
+    {
+      "id": "lesson-sample-ai-205",
+      "text": "The poem uses a series of rhyming couplets with words that look similar"
+    },
+    {
+      "id": "lesson-sample-ai-206",
+      "text": "but are pronounced differently, emphasising the inconsistencies in English"
+    },
+    {
+      "id": "lesson-sample-ai-207",
+      "text": "pronunciation rules."
+    },
+    {
+      "id": "lesson-sample-ai-208",
+      "text": "e) The overall theme of the poem \"Boats sail on the rivers\" is the contrast"
+    },
+    {
+      "id": "lesson-sample-ai-209",
+      "text": "between the beauty and vastness of nature and the limitations of human"
+    },
+    {
+      "id": "lesson-sample-ai-210",
+      "text": "achievements."
+    },
+    {
+      "id": "lesson-sample-ai-211",
+      "text": "f) The main theme of the poem is to illustrate the irregularities and com"
+    },
+    {
+      "id": "lesson-sample-ai-212",
+      "text": "plexities of English pronunciation and spelling, showcasing how"
+    },
+    {
+      "id": "lesson-sample-ai-213",
+      "text": "challenging it can be to learn the language."
+    },
+    {
+      "id": "lesson-sample-ai-214",
+      "text": "g) The central character is Andre, a young boy. His story is a very touching"
+    },
+    {
+      "id": "lesson-sample-ai-215",
+      "text": "reflection on love, choice and appreciation for family."
+    },
+    {
+      "id": "lesson-sample-ai-216",
+      "text": "h) We learn from the poem that we should love and appreciate our parents."
+    },
+    {
+      "id": "lesson-sample-ai-217",
+      "text": "Mamun's Honest Heart"
+    },
+    {
+      "id": "lesson-sample-ai-218",
+      "text": "Once upon a time, there was a boy named Mamun. He was a student of class 6. One"
+    },
+    {
+      "id": "lesson-sample-ai-219",
+      "text": "day, while he was returning from school, he found a purse on the road. As he was"
+    },
+    {
+      "id": "lesson-sample-ai-220",
+      "text": "honest, he picked it up and opened it to see if he could find any clues about its owner."
+    },
+    {
+      "id": "lesson-sample-ai-221",
+      "text": "Inside, he found some money, a few cards, and a photo of a family. Mamun knew he"
+    },
+    {
+      "id": "lesson-sample-ai-222",
+      "text": "had to return it to the rightful owner. He decided to take the purse to the nearby police"
+    },
+    {
+      "id": "lesson-sample-ai-223",
+      "text": "station."
+    },
+    {
+      "id": "lesson-sample-ai-224",
+      "text": "On his way, he noticed a woman searching frantically near the road. She looked"
+    },
+    {
+      "id": "lesson-sample-ai-225",
+      "text": "worried and was asking people if they had seen a purse. Mamun approached her and"
+    },
+    {
+      "id": "lesson-sample-ai-226",
+      "text": "asked, \"Are you looking for something?\" The woman explained that she had lost her"
+    },
+    {
+      "id": "lesson-sample-ai-227",
+      "text": "purse, which contained her family photo and important cards. Mamun smiled and"
+    },
+    {
+      "id": "lesson-sample-ai-228",
+      "text": "handed her the purse, saying, \"I found this on the road. Is it yours?\" The woman was"
+    },
+    {
+      "id": "lesson-sample-ai-229",
+      "text": "overjoyed and thanked Mamun with tears in her eyes."
+    },
+    {
+      "id": "lesson-sample-ai-230",
+      "text": "She rewarded him with a small gift, but Mamun felt the greatest reward was the"
+    },
+    {
+      "id": "lesson-sample-ai-231",
+      "text": "happiness on her face. From that day on, Mamun became known in his village as the"
+    },
+    {
+      "id": "lesson-sample-ai-232",
+      "text": "boy with an honest heart, and his story inspired others to always do the right thing."
+    },
+    {
+      "id": "lesson-sample-ai-233",
+      "text": "My First Day at School"
+    },
+    {
+      "id": "lesson-sample-ai-234",
+      "text": "My first day at school is a memory I will never forget. I was both excited and nervous"
+    },
+    {
+      "id": "lesson-sample-ai-235",
+      "text": "as I entered the colorful classroom filled with unfamiliar faces. The teacher welcomed"
+    },
+    {
+      "id": "lesson-sample-ai-236",
+      "text": "me with a warm smile, which made me feel a little more at ease. I sat next to a friendly"
+    },
+    {
+      "id": "lesson-sample-ai-237",
+      "text": "girl who later became my best friend. We introduced ourselves and shared crayons"
+    },
+    {
+      "id": "lesson-sample-ai-238",
+      "text": "during the drawing activity. The classroom was vibrant with posters, toys, and books,"
+    },
+    {
+      "id": "lesson-sample-ai-239",
+      "text": "which fascinated me. Though I felt shy initially, the fun activities and games helped me"
+    },
+    {
+      "id": "lesson-sample-ai-240",
+      "text": "settle in quickly. By the end of the day, I was eager to return and learn more. That day"
+    },
+    {
+      "id": "lesson-sample-ai-241",
+      "text": "marked the beginning of my educational journey, filled with curiosity, friendship, and"
+    },
+    {
+      "id": "lesson-sample-ai-242",
+      "text": "new experiences. It remains a cherished memory in my heart"
+    },
+    {
+      "id": "lesson-sample-ai-243",
+      "text": "i3. Nadia"
+    },
+    {
+      "id": "lesson-sample-ai-244",
+      "text": "Fahima :"
+    },
+    {
+      "id": "lesson-sample-ai-245",
+      "text": "Hey Fahima, I noticed you don't read the newspaper. Any particular reason?"
+    },
+    {
+      "id": "lesson-sample-ai-246",
+      "text": "Well, I find it a bit boring and time-consuming. I usually get"
+    },
+    {
+      "id": "lesson-sample-ai-247",
+      "text": "news from social media. Why should I read newspapers?"
+    },
+    {
+      "id": "lesson-sample-ai-248",
+      "text": "Newspapers are more reliable than social media. They provide"
+    },
+    {
+      "id": "lesson-sample-ai-249",
+      "text": "accurate and well-researched information. Plus, they cover a wide"
+    },
+    {
+      "id": "lesson-sample-ai-250",
+      "text": "range of topics like politics, sports, culture and even job opportunities."
+    },
+    {
+      "id": "lesson-sample-ai-251",
+      "text": "But isn't it easier to just scroll through news online?"
+    },
+    {
+      "id": "lesson-sample-ai-252",
+      "text": "True, but newspapers help you develop a habit of reading and"
+    },
+    {
+      "id": "lesson-sample-ai-253",
+      "text": "improve your language skills. They also offer in-depth"
+    },
+    {
+      "id": "lesson-sample-ai-254",
+      "text": "analysis that you won't find in short social media posts."
+    },
+    {
+      "id": "lesson-sample-ai-255",
+      "text": "Hmm, I never thought about it that way. Maybe I should give it a try."
+    },
+    {
+      "id": "lesson-sample-ai-256",
+      "text": "Definitely! Start with a section you enjoy, like sports or"
+    },
+    {
+      "id": "lesson-sample-ai-257",
+      "text": "entertainment. You'll see how informative and interesting it can be!"
+    },
+    {
+      "id": "lesson-sample-ai-258",
+      "text": "Okay, I'll give it a shot. Thanks for the suggestion, Nadia!"
+    },
+    {
+      "id": "lesson-sample-ai-259",
+      "text": "You're welcome! I'm sure you'll find it worthwhile."
+    },
+    {
+      "id": "lesson-sample-ai-260",
+      "text": "United we stand, divided we fall."
+    },
+    {
+      "id": "lesson-sample-ai-261",
+      "text": "WE ALWAYS"
+    },
+    {
+      "id": "lesson-sample-ai-262",
+      "text": "FOUGHT FOR"
+    },
+    {
+      "id": "lesson-sample-ai-263",
+      "text": "OUR RIGHT"
+    },
+    {
+      "id": "lesson-sample-ai-264",
+      "text": "For free distribution by the Government of the People's Republic of Bangladesh."
+    }
+  ],
+  "rawText": "2026\n\nEnglish For Today 101\n\nSample Question\nSubject: English First Paper\nClass: Six\n\nTime: 3 hours Marks: 100\n[Marks for individual items are mentioned next to the test items]\n\nPart A - Reading (Marks: 70)\nRead the text and answer the questions 1 & 2:\n\nBulbul collects rubbish from the Sankar area in Dhaka. Every morning, he wakes\nup at 5 o'clock and walks along the streets of Sankar to collect rubbish. People\nof Sankar put their rubbish in plastic bins and leave them in front of their houses.\nBulbul walks from door to door to collect them. Sometimes the bins are very\ndirty and they smell bad. But Bulbul does not mind. He takes out everything\nfrom the bins and puts them in his van. He believes that all jobs are important.\nHe works hard every day to keep this area clean.Last month Bulbul was sick for\ntwo days. So, he could not come to collect the rubbish. The people of Sankar\nwere in great trouble. They got piles of rubbish waiting in front of their houses.\nThe whole area became dirty and unhygienic. When Bulbul got well, he came\nback to Sanker. He collected everything from all the bins. Bulbul does not want\nto fall sick again. He realises, if he stops working even for a few days only, the\nwhole area will turn into a big dustbin.\n\n1. Choose the best answer from the alternatives: 1x7=7\na) What time does Bulbul wake up every morning?\ni. 4 o'clock\nii. 5 o'clock\niii. 6 o'clock\niv. 7 o'clock\nb) Where does Bulbul collect rubbish from?\ni. Gulshan\nii. Mirpur\niii. Sankar\niv. Banani\n\nc) How do the people of Sankar dispose of their rubbish?\ni. They throw it on the streets.\nii. They keep it inside their homes.\niii. They burn it in their yards.\niv. They put it in plastic bins and leave them in front of their houses.\n\n102 English For Today\nd) Why was Sankar in great trouble last month?\ni. Bulbul went on vacation.\nii. The people refused to throw away their rubbish.\niii. Bulbul was sick for two days and could not collect the rubbish.\niv. A storm scattered the rubbish everywhere.\ne) What does Bulbul believe about his job?\ni. It is not important.\nii. Only educated people should do it.\niii. All jobs are important.\niv. He does it just for money.\nf) What happened when Bulbul could not collect the rubbish for two\ndays?\ni. The people of Sankar managed it themselves.\nii. The whole area became dirty and unhygienic.\niii. The rubbish disappeared on its own.\niv. The government cleaned the area.\ng) Why does Bulbul not want to fall sick again?\ni. He enjoys his work.\nii. He fears losing his job.\niii. He wants to earn more money.\niv. He knows the area will turn into a big dustbin if he stops working.\n2. Write short answers to the following questions: 5x2=10\na) Why does Bulbul wake up early in the morning?\nb) How did the people of Sankar suffer when Bulbul was sick?\nc) What does this story teach us about the importance of Bulbul's job?\nd) Where do the people of Sankar leave their rubbish?\ne) Why did Bulbul stop working?\n\nRead the text and answer the questions 3 & 4:\n\nA proverb says 'Health is Wealth'. To keep healthy is to keep free from disease\nand anxiety. Good health is proper functioning of all body organs. It is also\nfeeling well both in body and in mind. People in good health are active, cheerful\nand happy. If you are healthy, you can be happy and can help others in society as\n\nwell.\n\nTo keep in good health we should be careful about hygiene. The rules and\npractices of keeping good health are called hygiene. We must practise the rules\nof hygiene. Proper food and nutrition, physical exercise, rest and sleep,\ncleanliness, and proper medicare are essential for good health.\n\n2026\n\n2026\n\nEnglish For Today 103\n\n3. Complete the passage with suitable words: 1x5=5\n\nGood health means proper functioning of body organs and feeling well in\nbody and mind. Healthy people remain a) , cheerful, and happy. They\ncan enjoy life and b) others. To maintain health, follow hygiene princi-\nples, which include rules and c) for staying healthy. Proper food, d)\nexercise, rest, cleanliness, and medical care are essential for e)\nhealth.\n4, Read the passage carefully and replace the following words with\ntheir suitable synonyms or antonyms. 1x5=5\na) Wealth (Synonym)\nb) Cheerful (Synonym)\nc) Maintain (Synonym)\nd) Necessary (Antonym)\ne) Proper (Antonym)\n\nRead the text and answer the questions 5, 6 & 7:\n\nBangladesh is a land of natural beauty. Its villages are full of green fields, rivers, and\ntrees. Most people in Bangladesh live in villages. They work as farmers, fishermen or\ncraftsmen. The air in the villages is fresh, and life is peaceful. People wake up early in\nthe morning and start their daily work. Farmers grow rice, jute and vegetables in their\nfields. Fishermen catch fish from rivers and ponds.\n\nThe houses in villages are simple but comfortable. Many houses have gardens with\nfruit trees like mango, jackfruit and banana. The villagers celebrate different festivals\nlike Pahela Boishakh and Nabanna Utsab with joy. They help each other in times of\nneed. Life in rural Bangladesh is simple, but it is full of happiness. The natural beauty\nand fresh environment make the villages a wonderful place to live.\n\n5. Complete the table with information from the passage. 1x5=5\nTopic Information from the passage\na) Main occupation of villagers j) ---------------\nb) Freshness of village air ii) --\nc) Crops grown by farmers _ iii) --\nd) Fruits grown in village gardens _ iv)\ne) Festivals celebrated in villages _v) -\n\n6. Read the statements below. Write 'True' if the statement is correct and\n'False' if it is incorrect. If false, write the correct answer. 1x5=5\na) Villages in Bangladesh are full of green fields, rivers and trees.\nb) Most villagers in Bangladesh work in factories\n\nc) Farmers in villages grow rice, jute and vegetables.\n\n104 English For Today\nd) There are no fruit trees in village gardens.\ne) People in villages celebrate festivals like Pahela Boishakh and Nabanna\nUtsab.\n7. Write a summary of the passage in your own words, 10\n8. Match the parts of sentences from the Columns A and B to make five\n\ncomplete sentences.\n\n1x5=5\n\n(a) Food is one of the basic (i) without it\n\n(b) It is essential (ii) needs of human beings\n(c) We cannot live (ii) for our survival\n(d) So, we must always (iv) kind of food for good health\n(e) Good food means the right (v) have good food\n9. Put the following parts of the story in the correct order to make the whole\n\nstory. Only the corresponding numbers of the sentences need to be written.\n\na)\nb)\nc)\nd)\ne)\n\nfy\n\n8)\nh)\n\n1x8=8\nHe lost his father in his childhood.\nHe was fond of adventures, music and jatra party.\nHe spent his early life in great hardship.\nNazrul Islam was born on the 20th May 1899.\nAs a boy being restless and absent-minded, he did not like the hard and\nfast rules of the school.\nOne day, Dukhu Mia became a great poet.\nYou will have heard the name of Kazi Nazrul Islam.\nSo he was called Dukhu Mia.\n\n2026\n\nEnglish For Today 105\n\n10.\nbook.\n\n11.\n\n12.\n\nAnswer any five of the following questions from the poems in your text-\n\n2x5=10\na) What is the main idea of the poem \"Holding Hands\"?\nb) What does the poet say about trunks and tails in the poem \"Holding\n\nHands\"?\n\nc) What does the line \"But bows cannot be built in heaven\" suggest in the\npoem \"Boats sail on the rivers\"?\n\nd) What is the overall theme of the poem \"Boats sail on the rivers\"?\n\ne) How does the poem \"The Chaos\" highlight the challenges of English\npronunciation and spelling?\n\nf) What is the main theme or purpose of the poem \"The Chaos\"?\n\ng) Who is the central character in the poem \"Andre\", and what is his\nstory?\n\nh) What lesson do you learn from the poem \"Andre\"?\n\nPart B - Writing (Marks: 30)\nRead the opening of a story below and complete it in at least ten new\nsentences. Give a suitable title to it. 10\n\nOnce upon a time, there was a boy named Mamun. He was a student of class\n6. One day, while he was returning from school, he found a purse on the road.\nAs he was honest, ........\n\nWrite a paragraph on 'Your First Day at School' in 120 words. 10\n\nSuppose, you are Nadim/Nadia, you have a friend named Fahim/Fahima who\ndoes not read newspaper.\n\nNow, write a dialogue between you and your friend about the importance of\nreading newspaper. 10\n\n106 English For Today\n\nSuggested Answers\n\n1. a) ii) 5 o'clock\n\nb) iii) Sankar\n\nc) iv. They put it in plastic bins and leave them in front of their houses.\n\nd) iii. Bulbul was sick for two days and could not collect the rubbish.\n\ne) iii. All jobs are important.\n\nf) ii. The whole area became dirty and unhygienic.\n\ng) iv. He knows the area will turn into a big dustbin if he stops working.\n2. a) Bulbul wakes up early in the morning to collect rubbish from the\n\nSankar area and keep it clean.\nb) The people of Sankar suffered because piles of rubbish gathered in\nfront of their houses, making the area dirty and unhygienic.\n\nc) The story teaches us that every job is important, and workers like\nBulbul play a crucial role in keeping the environment clean and healthy\n\nd) They leave their rubbish in plastic bins in front of their houses.\n\ne) Bulbul stopped working because he was sick.\n\n3. a) active b) help\nc) practices d) physical\n\ne) good\n4. a) prosperity\nb) joyful\nc) preserve\nd) unnecessary\ne) improper\n5. a) Farmers, fishermen, and craftsmen\nb) The air in villages is fresh\nc) Rice, jute and vegetables\n\nd) Mango, jackfruit and banana\ne) Pahela Boishakh and Nabanna Utsab\n\n6. a) True b) False\n\nCorrect Answer- Most villagers in Bangladesh work as farmers, fishermen, or\ncraftsmen, not in factories.\n\nc) True d) False\nCorrect Answer- Many houses in villages have gardens with fruit trees like mango,\njackfruit and banana.\n\ne) True\n\n2026\n\n2026\n\nEnglish For Today 107\n\n7. Rural Bangladesh is full of natural beauty with green fields, rivers and trees.\nMost villagers work as farmers, fishermen, or craftsmen. They grow crops like rice,\njute and vegetables. Many village houses have gardens with fruit trees. Villagers cele-\nbrate festivals such as Pahela Boishakh and Nabanna Utsab with joy. Life in the villag-\nes is simple but peaceful and happy.\n\n8. a) (ii) needs of human beings b) (iti) for our survival\nc) (i) without it d) (v) have good food\ne) (iv) kind of food for good health\n9. 1 2 3 4 5 6 7 8\ng d a c h e b f\n10. a) The main idea of the poem 'Holding Hands' is that it describes how\n\nelephants walk together by holding tails, showing their unity and coordi nation.\nb) In the poem \"Holding Hands\", the poet says that trunks and tails are\nhandy things for elephants when they walk.\n\nc) The line \"But bows cannot be built in heaven\" suggests that human\n\ncreations, no matter how grand, cannot match the perfection or beauty\nof heavenly or natural wonders.\n\nd) The poem uses a series of rhyming couplets with words that look similar\n\nbut are pronounced differently, emphasising the inconsistencies in English\npronunciation rules.\n\ne) The overall theme of the poem \"Boats sail on the rivers\" is the contrast\n\nbetween the beauty and vastness of nature and the limitations of human\nachievements.\n\nf) The main theme of the poem is to illustrate the irregularities and com\n\nplexities of English pronunciation and spelling, showcasing how\n\nchallenging it can be to learn the language.\n\ng) The central character is Andre, a young boy. His story is a very touching\nreflection on love, choice and appreciation for family.\nh) We learn from the poem that we should love and appreciate our parents.\n\n11. Mamun's Honest Heart\n\nOnce upon a time, there was a boy named Mamun. He was a student of class 6. One\nday, while he was returning from school, he found a purse on the road. As he was\nhonest, he picked it up and opened it to see if he could find any clues about its owner.\nInside, he found some money, a few cards, and a photo of a family. Mamun knew he\nhad to return it to the rightful owner. He decided to take the purse to the nearby police\nstation.\n\n108\n\nEnglish For Today\n\nOn his way, he noticed a woman searching frantically near the road. She looked\nworried and was asking people if they had seen a purse. Mamun approached her and\nasked, \"Are you looking for something?\" The woman explained that she had lost her\npurse, which contained her family photo and important cards. Mamun smiled and\nhanded her the purse, saying, \"I found this on the road. Is it yours?\" The woman was\noverjoyed and thanked Mamun with tears in her eyes.\n\nShe rewarded him with a small gift, but Mamun felt the greatest reward was the\nhappiness on her face. From that day on, Mamun became known in his village as the\nboy with an honest heart, and his story inspired others to always do the right thing.\n\n12. My First Day at School\n\nMy first day at school is a memory I will never forget. I was both excited and nervous\nas I entered the colorful classroom filled with unfamiliar faces. The teacher welcomed\nme with a warm smile, which made me feel a little more at ease. I sat next to a friendly\ngirl who later became my best friend. We introduced ourselves and shared crayons\nduring the drawing activity. The classroom was vibrant with posters, toys, and books,\nwhich fascinated me. Though I felt shy initially, the fun activities and games helped me\nsettle in quickly. By the end of the day, I was eager to return and learn more. That day\nmarked the beginning of my educational journey, filled with curiosity, friendship, and\nnew experiences. It remains a cherished memory in my heart\n\ni3. Nadia\n\nFahima :\n\nNadia\n\nFahima:\n\nNadia\n\nFahima:\n\nNadia :\n\nFahima:\n\nNadia\n\nHey Fahima, I noticed you don't read the newspaper. Any particular reason?\nWell, I find it a bit boring and time-consuming. I usually get\n\nnews from social media. Why should I read newspapers?\nNewspapers are more reliable than social media. They provide\naccurate and well-researched information. Plus, they cover a wide\nrange of topics like politics, sports, culture and even job opportunities.\nBut isn't it easier to just scroll through news online?\n\nTrue, but newspapers help you develop a habit of reading and\nimprove your language skills. They also offer in-depth\n\nanalysis that you won't find in short social media posts.\n\nHmm, I never thought about it that way. Maybe I should give it a try.\nDefinitely! Start with a section you enjoy, like sports or\nentertainment. You'll see how informative and interesting it can be!\nOkay, I'll give it a shot. Thanks for the suggestion, Nadia!\n\nYou're welcome! I'm sure you'll find it worthwhile.\n\nTHE END\n\n2026\n\n\n\n2026 Academic Year\nClass Six : English For Today\n\nUnited we stand, divided we fall.\n\nFicom\n\nTO\n\nWE ALWAYS\nFOUGHT FOR\nOUR RIGHT\n\nFor free distribution by the Government of the People's Republic of Bangladesh.",
+  "cleanText": "Sample Question\nSubject: English First Paper\nClass: Six\nTime: 3 hours Marks: 100\n[Marks for individual items are mentioned next to the test items]\nPart A - Reading (Marks: 70)\nRead the text and answer the questions 1 & 2:\nBulbul collects rubbish from the Sankar area in Dhaka. Every morning, he wakes\nup at 5 o'clock and walks along the streets of Sankar to collect rubbish. People\nof Sankar put their rubbish in plastic bins and leave them in front of their houses.\nBulbul walks from door to door to collect them. Sometimes the bins are very\ndirty and they smell bad. But Bulbul does not mind. He takes out everything\nfrom the bins and puts them in his van. He believes that all jobs are important.\nHe works hard every day to keep this area clean.Last month Bulbul was sick for\ntwo days. So, he could not come to collect the rubbish. The people of Sankar\nwere in great trouble. They got piles of rubbish waiting in front of their houses.\nThe whole area became dirty and unhygienic. When Bulbul got well, he came\nback to Sanker. He collected everything from all the bins. Bulbul does not want\nto fall sick again. He realises, if he stops working even for a few days only, the\nwhole area will turn into a big dustbin.\nChoose the best answer from the alternatives: 1x7=7\nWhat time does Bulbul wake up every morning?\ni. 4 o'clock\nii. 5 o'clock\niii. 6 o'clock\niv. 7 o'clock\nWhere does Bulbul collect rubbish from?\ni. Gulshan\nii. Mirpur\niii. Sankar\niv. Banani\nHow do the people of Sankar dispose of their rubbish?\ni. They throw it on the streets.\nii. They keep it inside their homes.\niii. They burn it in their yards.\niv. They put it in plastic bins and leave them in front of their houses.\nWhy was Sankar in great trouble last month?\ni. Bulbul went on vacation.\nii. The people refused to throw away their rubbish.\niii. Bulbul was sick for two days and could not collect the rubbish.\niv. A storm scattered the rubbish everywhere.\ne) What does Bulbul believe about his job?\ni. It is not important.\nii. Only educated people should do it.\niii. All jobs are important.\niv. He does it just for money.\nf) What happened when Bulbul could not collect the rubbish for two\ndays?\ni. The people of Sankar managed it themselves.\nii. The whole area became dirty and unhygienic.\niii. The rubbish disappeared on its own.\niv. The government cleaned the area.\ng) Why does Bulbul not want to fall sick again?\ni. He enjoys his work.\nii. He fears losing his job.\niii. He wants to earn more money.\niv. He knows the area will turn into a big dustbin if he stops working.\nWrite short answers to the following questions: 5x2=10\nWhy does Bulbul wake up early in the morning?\nHow did the people of Sankar suffer when Bulbul was sick?\nWhat does this story teach us about the importance of Bulbul's job?\nWhere do the people of Sankar leave their rubbish?\ne) Why did Bulbul stop working?\nRead the text and answer the questions 3 & 4:\nA proverb says 'Health is Wealth'. To keep healthy is to keep free from disease\nand anxiety. Good health is proper functioning of all body organs. It is also\nfeeling well both in body and in mind. People in good health are active, cheerful\nand happy. If you are healthy, you can be happy and can help others in society as\nwell.\nTo keep in good health we should be careful about hygiene. The rules and\npractices of keeping good health are called hygiene. We must practise the rules\nof hygiene. Proper food and nutrition, physical exercise, rest and sleep,\ncleanliness, and proper medicare are essential for good health.\nComplete the passage with suitable words: 1x5=5\nGood health means proper functioning of body organs and feeling well in\nbody and mind. Healthy people remain a) , cheerful, and happy. They\ncan enjoy life and b) others. To maintain health, follow hygiene princi-\nples, which include rules and c) for staying healthy. Proper food, d)\nexercise, rest, cleanliness, and medical care are essential for e)\nhealth.\n4, Read the passage carefully and replace the following words with\ntheir suitable synonyms or antonyms. 1x5=5\nWealth (Synonym)\nCheerful (Synonym)\nMaintain (Synonym)\nNecessary (Antonym)\ne) Proper (Antonym)\nRead the text and answer the questions 5, 6 & 7:\nBangladesh is a land of natural beauty. Its villages are full of green fields, rivers, and\ntrees. Most people in Bangladesh live in villages. They work as farmers, fishermen or\ncraftsmen. The air in the villages is fresh, and life is peaceful. People wake up early in\nthe morning and start their daily work. Farmers grow rice, jute and vegetables in their\nfields. Fishermen catch fish from rivers and ponds.\nThe houses in villages are simple but comfortable. Many houses have gardens with\nfruit trees like mango, jackfruit and banana. The villagers celebrate different festivals\nlike Pahela Boishakh and Nabanna Utsab with joy. They help each other in times of\nneed. Life in rural Bangladesh is simple, but it is full of happiness. The natural beauty\nand fresh environment make the villages a wonderful place to live.\nComplete the table with information from the passage. 1x5=5\nTopic Information from the passage\nMain occupation of villagers j) ---------------\nFreshness of village air ii) --\nCrops grown by farmers _ iii) --\nFruits grown in village gardens _ iv)\ne) Festivals celebrated in villages _v) -\nRead the statements below. Write 'True' if the statement is correct and\n'False' if it is incorrect. If false, write the correct answer. 1x5=5\nVillages in Bangladesh are full of green fields, rivers and trees.\nMost villagers in Bangladesh work in factories\nFarmers in villages grow rice, jute and vegetables.\nThere are no fruit trees in village gardens.\ne) People in villages celebrate festivals like Pahela Boishakh and Nabanna\nUtsab.\nWrite a summary of the passage in your own words, 10\nMatch the parts of sentences from the Columns A and B to make five\ncomplete sentences.\n(a) Food is one of the basic (i) without it\n(b) It is essential (ii) needs of human beings\n(c) We cannot live (ii) for our survival\n(d) So, we must always (iv) kind of food for good health\n(e) Good food means the right (v) have good food\nPut the following parts of the story in the correct order to make the whole\nstory. Only the corresponding numbers of the sentences need to be written.\nHe lost his father in his childhood.\nHe was fond of adventures, music and jatra party.\nHe spent his early life in great hardship.\nNazrul Islam was born on the 20th May 1899.\nAs a boy being restless and absent-minded, he did not like the hard and\nfast rules of the school.\nOne day, Dukhu Mia became a great poet.\nYou will have heard the name of Kazi Nazrul Islam.\nSo he was called Dukhu Mia.\nbook.\nAnswer any five of the following questions from the poems in your text-\nWhat is the main idea of the poem \"Holding Hands\"?\nWhat does the poet say about trunks and tails in the poem \"Holding\nHands\"?\nWhat does the line \"But bows cannot be built in heaven\" suggest in the\npoem \"Boats sail on the rivers\"?\nWhat is the overall theme of the poem \"Boats sail on the rivers\"?\ne) How does the poem \"The Chaos\" highlight the challenges of English\npronunciation and spelling?\nf) What is the main theme or purpose of the poem \"The Chaos\"?\ng) Who is the central character in the poem \"Andre\", and what is his\nstory?\nh) What lesson do you learn from the poem \"Andre\"?\nPart B - Writing (Marks: 30)\nRead the opening of a story below and complete it in at least ten new\nsentences. Give a suitable title to it. 10\nOnce upon a time, there was a boy named Mamun. He was a student of class\nOne day, while he was returning from school, he found a purse on the road.\nAs he was honest, ........\nWrite a paragraph on 'Your First Day at School' in 120 words. 10\nSuppose, you are Nadim/Nadia, you have a friend named Fahim/Fahima who\ndoes not read newspaper.\nNow, write a dialogue between you and your friend about the importance of\nreading newspaper. 10\nSuggested Answers\nii) 5 o'clock\niii) Sankar\niv. They put it in plastic bins and leave them in front of their houses.\niii. Bulbul was sick for two days and could not collect the rubbish.\ne) iii. All jobs are important.\nf) ii. The whole area became dirty and unhygienic.\ng) iv. He knows the area will turn into a big dustbin if he stops working.\nBulbul wakes up early in the morning to collect rubbish from the\nSankar area and keep it clean.\nThe people of Sankar suffered because piles of rubbish gathered in\nfront of their houses, making the area dirty and unhygienic.\nThe story teaches us that every job is important, and workers like\nBulbul play a crucial role in keeping the environment clean and healthy\nThey leave their rubbish in plastic bins in front of their houses.\ne) Bulbul stopped working because he was sick.\nactive b) help\npractices d) physical\ne) good\nprosperity\njoyful\npreserve\nunnecessary\ne) improper\nFarmers, fishermen, and craftsmen\nThe air in villages is fresh\nRice, jute and vegetables\nMango, jackfruit and banana\ne) Pahela Boishakh and Nabanna Utsab\nTrue b) False\nCorrect Answer- Most villagers in Bangladesh work as farmers, fishermen, or\ncraftsmen, not in factories.\nTrue d) False\nCorrect Answer- Many houses in villages have gardens with fruit trees like mango,\njackfruit and banana.\ne) True\nRural Bangladesh is full of natural beauty with green fields, rivers and trees.\nMost villagers work as farmers, fishermen, or craftsmen. They grow crops like rice,\njute and vegetables. Many village houses have gardens with fruit trees. Villagers cele-\nbrate festivals such as Pahela Boishakh and Nabanna Utsab with joy. Life in the villag-\nes is simple but peaceful and happy.\n(ii) needs of human beings b) (iti) for our survival\n(i) without it d) (v) have good food\ne) (iv) kind of food for good health\ng d a c h e b f\nThe main idea of the poem 'Holding Hands' is that it describes how\nelephants walk together by holding tails, showing their unity and coordi nation.\nIn the poem \"Holding Hands\", the poet says that trunks and tails are\nhandy things for elephants when they walk.\nThe line \"But bows cannot be built in heaven\" suggests that human\ncreations, no matter how grand, cannot match the perfection or beauty\nof heavenly or natural wonders.\nThe poem uses a series of rhyming couplets with words that look similar\nbut are pronounced differently, emphasising the inconsistencies in English\npronunciation rules.\ne) The overall theme of the poem \"Boats sail on the rivers\" is the contrast\nbetween the beauty and vastness of nature and the limitations of human\nachievements.\nf) The main theme of the poem is to illustrate the irregularities and com\nplexities of English pronunciation and spelling, showcasing how\nchallenging it can be to learn the language.\ng) The central character is Andre, a young boy. His story is a very touching\nreflection on love, choice and appreciation for family.\nh) We learn from the poem that we should love and appreciate our parents.\nMamun's Honest Heart\nOnce upon a time, there was a boy named Mamun. He was a student of class 6. One\nday, while he was returning from school, he found a purse on the road. As he was\nhonest, he picked it up and opened it to see if he could find any clues about its owner.\nInside, he found some money, a few cards, and a photo of a family. Mamun knew he\nhad to return it to the rightful owner. He decided to take the purse to the nearby police\nstation.\nOn his way, he noticed a woman searching frantically near the road. She looked\nworried and was asking people if they had seen a purse. Mamun approached her and\nasked, \"Are you looking for something?\" The woman explained that she had lost her\npurse, which contained her family photo and important cards. Mamun smiled and\nhanded her the purse, saying, \"I found this on the road. Is it yours?\" The woman was\noverjoyed and thanked Mamun with tears in her eyes.\nShe rewarded him with a small gift, but Mamun felt the greatest reward was the\nhappiness on her face. From that day on, Mamun became known in his village as the\nboy with an honest heart, and his story inspired others to always do the right thing.\nMy First Day at School\nMy first day at school is a memory I will never forget. I was both excited and nervous\nas I entered the colorful classroom filled with unfamiliar faces. The teacher welcomed\nme with a warm smile, which made me feel a little more at ease. I sat next to a friendly\ngirl who later became my best friend. We introduced ourselves and shared crayons\nduring the drawing activity. The classroom was vibrant with posters, toys, and books,\nwhich fascinated me. Though I felt shy initially, the fun activities and games helped me\nsettle in quickly. By the end of the day, I was eager to return and learn more. That day\nmarked the beginning of my educational journey, filled with curiosity, friendship, and\nnew experiences. It remains a cherished memory in my heart\ni3. Nadia\nFahima :\nNadia\nFahima:\nNadia\nFahima:\nNadia :\nFahima:\nNadia\nHey Fahima, I noticed you don't read the newspaper. Any particular reason?\nWell, I find it a bit boring and time-consuming. I usually get\nnews from social media. Why should I read newspapers?\nNewspapers are more reliable than social media. They provide\naccurate and well-researched information. Plus, they cover a wide\nrange of topics like politics, sports, culture and even job opportunities.\nBut isn't it easier to just scroll through news online?\nTrue, but newspapers help you develop a habit of reading and\nimprove your language skills. They also offer in-depth\nanalysis that you won't find in short social media posts.\nHmm, I never thought about it that way. Maybe I should give it a try.\nDefinitely! Start with a section you enjoy, like sports or\nentertainment. You'll see how informative and interesting it can be!\nOkay, I'll give it a shot. Thanks for the suggestion, Nadia!\nYou're welcome! I'm sure you'll find it worthwhile.\nTHE END\nUnited we stand, divided we fall.\nFicom\nWE ALWAYS\nFOUGHT FOR\nOUR RIGHT\nFor free distribution by the Government of the People's Republic of Bangladesh.",
+  "aiReadyText": "Sample Question\nSubject: English First Paper\nClass: Six\nTime: 3 hours Marks: 100\n[Marks for individual items are mentioned next to the test items]\nPart A - Reading (Marks: 70)\nRead the text and answer the questions 1 & 2:\nBulbul collects rubbish from the Sankar area in Dhaka. Every morning, he wakes\nup at 5 o'clock and walks along the streets of Sankar to collect rubbish. People\nof Sankar put their rubbish in plastic bins and leave them in front of their houses.\nBulbul walks from door to door to collect them. Sometimes the bins are very\ndirty and they smell bad. But Bulbul does not mind. He takes out everything\nfrom the bins and puts them in his van. He believes that all jobs are important.\nHe works hard every day to keep this area clean.Last month Bulbul was sick for\ntwo days. So, he could not come to collect the rubbish. The people of Sankar\nwere in great trouble. They got piles of rubbish waiting in front of their houses.\nThe whole area became dirty and unhygienic. When Bulbul got well, he came\nback to Sanker. He collected everything from all the bins. Bulbul does not want\nto fall sick again. He realises, if he stops working even for a few days only, the\nwhole area will turn into a big dustbin.\nChoose the best answer from the alternatives: 1x7=7\nWhat time does Bulbul wake up every morning?\ni. 4 o'clock\nii. 5 o'clock\niii. 6 o'clock\niv. 7 o'clock\nWhere does Bulbul collect rubbish from?\ni. Gulshan\nii. Mirpur\niii. Sankar\niv. Banani\nHow do the people of Sankar dispose of their rubbish?\ni. They throw it on the streets.\nii. They keep it inside their homes.\niii. They burn it in their yards.\niv. They put it in plastic bins and leave them in front of their houses.\nWhy was Sankar in great trouble last month?\ni. Bulbul went on vacation.\nii. The people refused to throw away their rubbish.\niii. Bulbul was sick for two days and could not collect the rubbish.\niv. A storm scattered the rubbish everywhere.\ne) What does Bulbul believe about his job?\ni. It is not important.\nii. Only educated people should do it.\niii. All jobs are important.\niv. He does it just for money.\nf) What happened when Bulbul could not collect the rubbish for two\ni. The people of Sankar managed it themselves.\nii. The whole area became dirty and unhygienic.\niii. The rubbish disappeared on its own.\niv. The government cleaned the area.\ng) Why does Bulbul not want to fall sick again?\ni. He enjoys his work.\nii. He fears losing his job.\niii. He wants to earn more money.\niv. He knows the area will turn into a big dustbin if he stops working.\nWrite short answers to the following questions: 5x2=10\nWhy does Bulbul wake up early in the morning?\nHow did the people of Sankar suffer when Bulbul was sick?\nWhat does this story teach us about the importance of Bulbul's job?\nWhere do the people of Sankar leave their rubbish?\ne) Why did Bulbul stop working?\nRead the text and answer the questions 3 & 4:\nA proverb says 'Health is Wealth'. To keep healthy is to keep free from disease\nand anxiety. Good health is proper functioning of all body organs. It is also\nfeeling well both in body and in mind. People in good health are active, cheerful\nand happy. If you are healthy, you can be happy and can help others in society as\nTo keep in good health we should be careful about hygiene. The rules and\npractices of keeping good health are called hygiene. We must practise the rules\nof hygiene. Proper food and nutrition, physical exercise, rest and sleep,\ncleanliness, and proper medicare are essential for good health.\nComplete the passage with suitable words: 1x5=5\nGood health means proper functioning of body organs and feeling well in\nbody and mind. Healthy people remain a) , cheerful, and happy. They\ncan enjoy life and b) others. To maintain health, follow hygiene princi-\nples, which include rules and c) for staying healthy. Proper food, d)\nexercise, rest, cleanliness, and medical care are essential for e)\n4, Read the passage carefully and replace the following words with\ntheir suitable synonyms or antonyms. 1x5=5\nWealth (Synonym)\nCheerful (Synonym)\nMaintain (Synonym)\nNecessary (Antonym)\ne) Proper (Antonym)\nRead the text and answer the questions 5, 6 & 7:\nBangladesh is a land of natural beauty. Its villages are full of green fields, rivers, and\ntrees. Most people in Bangladesh live in villages. They work as farmers, fishermen or\ncraftsmen. The air in the villages is fresh, and life is peaceful. People wake up early in\nthe morning and start their daily work. Farmers grow rice, jute and vegetables in their\nfields. Fishermen catch fish from rivers and ponds.\nThe houses in villages are simple but comfortable. Many houses have gardens with\nfruit trees like mango, jackfruit and banana. The villagers celebrate different festivals\nlike Pahela Boishakh and Nabanna Utsab with joy. They help each other in times of\nneed. Life in rural Bangladesh is simple, but it is full of happiness. The natural beauty\nand fresh environment make the villages a wonderful place to live.\nComplete the table with information from the passage. 1x5=5\nTopic Information from the passage\nFreshness of village air ii) --\nCrops grown by farmers _ iii) --\nFruits grown in village gardens _ iv)\ne) Festivals celebrated in villages _v) -\nRead the statements below. Write 'True' if the statement is correct and\n'False' if it is incorrect. If false, write the correct answer. 1x5=5\nVillages in Bangladesh are full of green fields, rivers and trees.\nMost villagers in Bangladesh work in factories\nFarmers in villages grow rice, jute and vegetables.\nThere are no fruit trees in village gardens.\ne) People in villages celebrate festivals like Pahela Boishakh and Nabanna\nWrite a summary of the passage in your own words, 10\nMatch the parts of sentences from the Columns A and B to make five\ncomplete sentences.\n(a) Food is one of the basic (i) without it\n(b) It is essential (ii) needs of human beings\n(c) We cannot live (ii) for our survival\n(d) So, we must always (iv) kind of food for good health\n(e) Good food means the right (v) have good food\nPut the following parts of the story in the correct order to make the whole\nstory. Only the corresponding numbers of the sentences need to be written.\nHe lost his father in his childhood.\nHe was fond of adventures, music and jatra party.\nHe spent his early life in great hardship.\nNazrul Islam was born on the 20th May 1899.\nAs a boy being restless and absent-minded, he did not like the hard and\nfast rules of the school.\nOne day, Dukhu Mia became a great poet.\nYou will have heard the name of Kazi Nazrul Islam.\nSo he was called Dukhu Mia.\nAnswer any five of the following questions from the poems in your text-\nWhat is the main idea of the poem \"Holding Hands\"?\nWhat does the poet say about trunks and tails in the poem \"Holding\nWhat does the line \"But bows cannot be built in heaven\" suggest in the\npoem \"Boats sail on the rivers\"?\nWhat is the overall theme of the poem \"Boats sail on the rivers\"?\ne) How does the poem \"The Chaos\" highlight the challenges of English\npronunciation and spelling?\nf) What is the main theme or purpose of the poem \"The Chaos\"?\ng) Who is the central character in the poem \"Andre\", and what is his\nh) What lesson do you learn from the poem \"Andre\"?\nPart B - Writing (Marks: 30)\nRead the opening of a story below and complete it in at least ten new\nsentences. Give a suitable title to it. 10\nOnce upon a time, there was a boy named Mamun. He was a student of class\nOne day, while he was returning from school, he found a purse on the road.\nAs he was honest, ........\nWrite a paragraph on 'Your First Day at School' in 120 words. 10\nSuppose, you are Nadim/Nadia, you have a friend named Fahim/Fahima who\ndoes not read newspaper.\nNow, write a dialogue between you and your friend about the importance of\nreading newspaper. 10\nSuggested Answers\nii) 5 o'clock\niv. They put it in plastic bins and leave them in front of their houses.\niii. Bulbul was sick for two days and could not collect the rubbish.\ne) iii. All jobs are important.\nf) ii. The whole area became dirty and unhygienic.\ng) iv. He knows the area will turn into a big dustbin if he stops working.\nBulbul wakes up early in the morning to collect rubbish from the\nSankar area and keep it clean.\nThe people of Sankar suffered because piles of rubbish gathered in\nfront of their houses, making the area dirty and unhygienic.\nThe story teaches us that every job is important, and workers like\nBulbul play a crucial role in keeping the environment clean and healthy\nThey leave their rubbish in plastic bins in front of their houses.\ne) Bulbul stopped working because he was sick.\nactive b) help\npractices d) physical\nprosperity\npreserve\nunnecessary\ne) improper\nFarmers, fishermen, and craftsmen\nThe air in villages is fresh\nRice, jute and vegetables\nMango, jackfruit and banana\ne) Pahela Boishakh and Nabanna Utsab\nTrue b) False\nCorrect Answer- Most villagers in Bangladesh work as farmers, fishermen, or\ncraftsmen, not in factories.\nTrue d) False\nCorrect Answer- Many houses in villages have gardens with fruit trees like mango,\njackfruit and banana.\nRural Bangladesh is full of natural beauty with green fields, rivers and trees.\nMost villagers work as farmers, fishermen, or craftsmen. They grow crops like rice,\njute and vegetables. Many village houses have gardens with fruit trees. Villagers cele-\nbrate festivals such as Pahela Boishakh and Nabanna Utsab with joy. Life in the villag-\nes is simple but peaceful and happy.\n(ii) needs of human beings b) (iti) for our survival\n(i) without it d) (v) have good food\ne) (iv) kind of food for good health\ng d a c h e b f\nThe main idea of the poem 'Holding Hands' is that it describes how\nelephants walk together by holding tails, showing their unity and coordi nation.\nIn the poem \"Holding Hands\", the poet says that trunks and tails are\nhandy things for elephants when they walk.\nThe line \"But bows cannot be built in heaven\" suggests that human\ncreations, no matter how grand, cannot match the perfection or beauty\nof heavenly or natural wonders.\nThe poem uses a series of rhyming couplets with words that look similar\nbut are pronounced differently, emphasising the inconsistencies in English\npronunciation rules.\ne) The overall theme of the poem \"Boats sail on the rivers\" is the contrast\nbetween the beauty and vastness of nature and the limitations of human\nachievements.\nf) The main theme of the poem is to illustrate the irregularities and com\nplexities of English pronunciation and spelling, showcasing how\nchallenging it can be to learn the language.\ng) The central character is Andre, a young boy. His story is a very touching\nreflection on love, choice and appreciation for family.\nh) We learn from the poem that we should love and appreciate our parents.\nMamun's Honest Heart\nOnce upon a time, there was a boy named Mamun. He was a student of class 6. One\nday, while he was returning from school, he found a purse on the road. As he was\nhonest, he picked it up and opened it to see if he could find any clues about its owner.\nInside, he found some money, a few cards, and a photo of a family. Mamun knew he\nhad to return it to the rightful owner. He decided to take the purse to the nearby police\nstation.\nOn his way, he noticed a woman searching frantically near the road. She looked\nworried and was asking people if they had seen a purse. Mamun approached her and\nasked, \"Are you looking for something?\" The woman explained that she had lost her\npurse, which contained her family photo and important cards. Mamun smiled and\nhanded her the purse, saying, \"I found this on the road. Is it yours?\" The woman was\noverjoyed and thanked Mamun with tears in her eyes.\nShe rewarded him with a small gift, but Mamun felt the greatest reward was the\nhappiness on her face. From that day on, Mamun became known in his village as the\nboy with an honest heart, and his story inspired others to always do the right thing.\nMy First Day at School\nMy first day at school is a memory I will never forget. I was both excited and nervous\nas I entered the colorful classroom filled with unfamiliar faces. The teacher welcomed\nme with a warm smile, which made me feel a little more at ease. I sat next to a friendly\ngirl who later became my best friend. We introduced ourselves and shared crayons\nduring the drawing activity. The classroom was vibrant with posters, toys, and books,\nwhich fascinated me. Though I felt shy initially, the fun activities and games helped me\nsettle in quickly. By the end of the day, I was eager to return and learn more. That day\nmarked the beginning of my educational journey, filled with curiosity, friendship, and\nnew experiences. It remains a cherished memory in my heart\ni3. Nadia\nFahima :\nHey Fahima, I noticed you don't read the newspaper. Any particular reason?\nWell, I find it a bit boring and time-consuming. I usually get\nnews from social media. Why should I read newspapers?\nNewspapers are more reliable than social media. They provide\naccurate and well-researched information. Plus, they cover a wide\nrange of topics like politics, sports, culture and even job opportunities.\nBut isn't it easier to just scroll through news online?\nTrue, but newspapers help you develop a habit of reading and\nimprove your language skills. They also offer in-depth\nanalysis that you won't find in short social media posts.\nHmm, I never thought about it that way. Maybe I should give it a try.\nDefinitely! Start with a section you enjoy, like sports or\nentertainment. You'll see how informative and interesting it can be!\nOkay, I'll give it a shot. Thanks for the suggestion, Nadia!\nYou're welcome! I'm sure you'll find it worthwhile.\nUnited we stand, divided we fall.\nWE ALWAYS\nFOUGHT FOR\nOUR RIGHT\nFor free distribution by the Government of the People's Republic of Bangladesh."
+}

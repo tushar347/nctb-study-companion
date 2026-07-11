@@ -1,0 +1,807 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 40,
+  "image": "/ocr/books/class6-english/page-images/page-040.png",
+  "width": 1160,
+  "height": 1510,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 35",
+      "cleanText": "English For Today 35",
+      "bbox": {
+        "x": 128,
+        "y": 84,
+        "width": 901,
+        "height": 26
+      },
+      "confidence": 96.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Work in pairs. Complete the following expressions with words from",
+      "cleanText": "Work in pairs. Complete the following expressions with words from",
+      "bbox": {
+        "x": 188,
+        "y": 155,
+        "width": 846,
+        "height": 27
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "the box.",
+      "cleanText": "the box.",
+      "bbox": {
+        "x": 193,
+        "y": 195,
+        "width": 95,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-040-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "bottle box can package tube",
+      "cleanText": "bottle box can package tube",
+      "bbox": {
+        "x": 261,
+        "y": 235,
+        "width": 738,
+        "height": 26
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "of ointment",
+      "cleanText": "of ointment",
+      "bbox": {
+        "x": 485,
+        "y": 291,
+        "width": 131,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-040-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "2. of aspirin",
+      "cleanText": "of aspirin",
+      "bbox": {
+        "x": 219,
+        "y": 324,
+        "width": 373,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-040-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "3. of bandage",
+      "cleanText": "of bandage",
+      "bbox": {
+        "x": 219,
+        "y": 357,
+        "width": 391,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-040-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "4. of foot spray",
+      "cleanText": "of foot spray",
+      "bbox": {
+        "x": 218,
+        "y": 387,
+        "width": 412,
+        "height": 26
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-040-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "5. of tissue",
+      "cleanText": "of tissue",
+      "bbox": {
+        "x": 219,
+        "y": 420,
+        "width": 360,
+        "height": 20
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-040-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Now. write down some sentences using these phrases.",
+      "cleanText": "Now. write down some sentences using these phrases.",
+      "bbox": {
+        "x": 218,
+        "y": 464,
+        "width": 638,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Read the dialogue and practise in pairs.",
+      "cleanText": "Read the dialogue and practise in pairs.",
+      "bbox": {
+        "x": 197,
+        "y": 510,
+        "width": 480,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Pharmacist Good morning. Can T help you?",
+      "cleanText": "Pharmacist Good morning. Can T help you?",
+      "bbox": {
+        "x": 194,
+        "y": 550,
+        "width": 558,
+        "height": 35
+      },
+      "confidence": 93.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Mr Arman Do you have anything for dry skin?",
+      "cleanText": "Mr Arman Do you have anything for dry skin?",
+      "bbox": {
+        "x": 194,
+        "y": 594,
+        "width": 599,
+        "height": 35
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Pharmacist Well you may try this new body lotion. It's good. Or,",
+      "cleanText": "Pharmacist Well you may try this new body lotion. It's good. Or,",
+      "bbox": {
+        "x": 194,
+        "y": 638,
+        "width": 839,
+        "height": 35
+      },
+      "confidence": 91.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "youcan try this brand of olive oil. Olive oil is also",
+      "cleanText": "youcan try this brand of olive oil. Olive oil is also",
+      "bbox": {
+        "x": 391,
+        "y": 687,
+        "width": 636,
+        "height": 25
+      },
+      "confidence": 90.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "good for dry skin.",
+      "cleanText": "good for dry skin.",
+      "bbox": {
+        "x": 392,
+        "y": 722,
+        "width": 202,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Mr Arman Well, I think I'll take the lotion. How much is it?",
+      "cleanText": "Mr Arman Well, I think I'll take the lotion. How much is it?",
+      "bbox": {
+        "x": 194,
+        "y": 766,
+        "width": 747,
+        "height": 35
+      },
+      "confidence": 94.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Work in pairs. Read the following situations and then make short",
+      "cleanText": "Work in pairs. Read the following situations and then make short",
+      "bbox": {
+        "x": 193,
+        "y": 816,
+        "width": 841,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "conversations for each situation using can, could, may, should, etc.",
+      "cleanText": "conversations for each situation using can, could, may, should, etc.",
+      "bbox": {
+        "x": 197,
+        "y": 855,
+        "width": 824,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "where necessary.",
+      "cleanText": "where necessary.",
+      "bbox": {
+        "x": 194,
+        "y": 898,
+        "width": 212,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "1. You want your teeth to be strong. Ask for a good toothpaste. Your",
+      "cleanText": "You want your teeth to be strong. Ask for a good toothpaste. Your",
+      "bbox": {
+        "x": 203,
+        "y": 940,
+        "width": 824,
+        "height": 25
+      },
+      "confidence": 92.21,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "partner will suggest or offer one.",
+      "cleanText": "partner will suggest or offer one.",
+      "bbox": {
+        "x": 233,
+        "y": 975,
+        "width": 372,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "2. Decide first what you want to buy and ask for it. Your partner does not",
+      "cleanText": "Decide first what you want to buy and ask for it. Your partner does not",
+      "bbox": {
+        "x": 199,
+        "y": 1010,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "have what you want but he/she has something similar.",
+      "cleanText": "have what you want but he/she has something similar.",
+      "bbox": {
+        "x": 229,
+        "y": 1043,
+        "width": 616,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "3. You have slightly cut your finger. You ask for something to put on it.",
+      "cleanText": "You have slightly cut your finger. You ask for something to put on it.",
+      "bbox": {
+        "x": 199,
+        "y": 1078,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 94.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Your partner suggests ‘Bandaid’.",
+      "cleanText": "Your partner suggests ‘Bandaid’.",
+      "bbox": {
+        "x": 230,
+        "y": 1113,
+        "width": 368,
+        "height": 26
+      },
+      "confidence": 81.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "4. Your mother has a headache. You ask for a medicine. Your partner",
+      "cleanText": "Your mother has a headache. You ask for a medicine. Your partner",
+      "bbox": {
+        "x": 198,
+        "y": 1145,
+        "width": 832,
+        "height": 33
+      },
+      "confidence": 95.15,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "gives you",
+      "cleanText": "gives you",
+      "bbox": {
+        "x": 233,
+        "y": 1185,
+        "width": 107,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-040-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "People with a cold, a fever, or the flu often go to the doctor for",
+      "cleanText": "People with a cold, a fever, or the flu often go to the doctor for",
+      "bbox": {
+        "x": 200,
+        "y": 1239,
+        "width": 832,
+        "height": 26
+      },
+      "confidence": 94.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "help. But many people in our country also use home remedies for",
+      "cleanText": "help. But many people in our country also use home remedies for",
+      "bbox": {
+        "x": 201,
+        "y": 1278,
+        "width": 832,
+        "height": 27
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "common illnesses. Read about some simple home remedies and",
+      "cleanText": "common illnesses. Read about some simple home remedies and",
+      "bbox": {
+        "x": 197,
+        "y": 1317,
+        "width": 832,
+        "height": 28
+      },
+      "confidence": 94.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "answer the following questions:",
+      "cleanText": "answer the following questions:",
+      "bbox": {
+        "x": 196,
+        "y": 1362,
+        "width": 412,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-040-line-032",
+      "lineNumber": 32
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-040-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 35",
+      "bbox": {
+        "x": 128,
+        "y": 84,
+        "width": 901,
+        "height": 26
+      },
+      "confidence": 96.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-002",
+      "lineNumber": 2,
+      "text": "Work in pairs. Complete the following expressions with words from",
+      "bbox": {
+        "x": 188,
+        "y": 155,
+        "width": 846,
+        "height": 27
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-004",
+      "lineNumber": 4,
+      "text": "bottle box can package tube",
+      "bbox": {
+        "x": 261,
+        "y": 235,
+        "width": 738,
+        "height": 26
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-010",
+      "lineNumber": 10,
+      "text": "Now. write down some sentences using these phrases.",
+      "bbox": {
+        "x": 218,
+        "y": 464,
+        "width": 638,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-011",
+      "lineNumber": 11,
+      "text": "Read the dialogue and practise in pairs.",
+      "bbox": {
+        "x": 197,
+        "y": 510,
+        "width": 480,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-012",
+      "lineNumber": 12,
+      "text": "Pharmacist Good morning. Can T help you?",
+      "bbox": {
+        "x": 194,
+        "y": 550,
+        "width": 558,
+        "height": 35
+      },
+      "confidence": 93.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-013",
+      "lineNumber": 13,
+      "text": "Mr Arman Do you have anything for dry skin?",
+      "bbox": {
+        "x": 194,
+        "y": 594,
+        "width": 599,
+        "height": 35
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-014",
+      "lineNumber": 14,
+      "text": "Pharmacist Well you may try this new body lotion. It's good. Or,",
+      "bbox": {
+        "x": 194,
+        "y": 638,
+        "width": 839,
+        "height": 35
+      },
+      "confidence": 91.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-015",
+      "lineNumber": 15,
+      "text": "youcan try this brand of olive oil. Olive oil is also",
+      "bbox": {
+        "x": 391,
+        "y": 687,
+        "width": 636,
+        "height": 25
+      },
+      "confidence": 90.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-016",
+      "lineNumber": 16,
+      "text": "good for dry skin.",
+      "bbox": {
+        "x": 392,
+        "y": 722,
+        "width": 202,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-017",
+      "lineNumber": 17,
+      "text": "Mr Arman Well, I think I'll take the lotion. How much is it?",
+      "bbox": {
+        "x": 194,
+        "y": 766,
+        "width": 747,
+        "height": 35
+      },
+      "confidence": 94.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-018",
+      "lineNumber": 18,
+      "text": "Work in pairs. Read the following situations and then make short",
+      "bbox": {
+        "x": 193,
+        "y": 816,
+        "width": 841,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-019",
+      "lineNumber": 19,
+      "text": "conversations for each situation using can, could, may, should, etc.",
+      "bbox": {
+        "x": 197,
+        "y": 855,
+        "width": 824,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-020",
+      "lineNumber": 20,
+      "text": "where necessary.",
+      "bbox": {
+        "x": 194,
+        "y": 898,
+        "width": 212,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-021",
+      "lineNumber": 21,
+      "text": "You want your teeth to be strong. Ask for a good toothpaste. Your",
+      "bbox": {
+        "x": 203,
+        "y": 940,
+        "width": 824,
+        "height": 25
+      },
+      "confidence": 92.21,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-022",
+      "lineNumber": 22,
+      "text": "partner will suggest or offer one.",
+      "bbox": {
+        "x": 233,
+        "y": 975,
+        "width": 372,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-023",
+      "lineNumber": 23,
+      "text": "Decide first what you want to buy and ask for it. Your partner does not",
+      "bbox": {
+        "x": 199,
+        "y": 1010,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-024",
+      "lineNumber": 24,
+      "text": "have what you want but he/she has something similar.",
+      "bbox": {
+        "x": 229,
+        "y": 1043,
+        "width": 616,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-025",
+      "lineNumber": 25,
+      "text": "You have slightly cut your finger. You ask for something to put on it.",
+      "bbox": {
+        "x": 199,
+        "y": 1078,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 94.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-026",
+      "lineNumber": 26,
+      "text": "Your partner suggests ‘Bandaid’.",
+      "bbox": {
+        "x": 230,
+        "y": 1113,
+        "width": 368,
+        "height": 26
+      },
+      "confidence": 81.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-027",
+      "lineNumber": 27,
+      "text": "Your mother has a headache. You ask for a medicine. Your partner",
+      "bbox": {
+        "x": 198,
+        "y": 1145,
+        "width": 832,
+        "height": 33
+      },
+      "confidence": 95.15,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-029",
+      "lineNumber": 29,
+      "text": "People with a cold, a fever, or the flu often go to the doctor for",
+      "bbox": {
+        "x": 200,
+        "y": 1239,
+        "width": 832,
+        "height": 26
+      },
+      "confidence": 94.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-030",
+      "lineNumber": 30,
+      "text": "help. But many people in our country also use home remedies for",
+      "bbox": {
+        "x": 201,
+        "y": 1278,
+        "width": 832,
+        "height": 27
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-031",
+      "lineNumber": 31,
+      "text": "common illnesses. Read about some simple home remedies and",
+      "bbox": {
+        "x": 197,
+        "y": 1317,
+        "width": 832,
+        "height": 28
+      },
+      "confidence": 94.56,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 35\nWork in pairs. Complete the following expressions with words from\nthe box.\nbottle box can package tube\nof ointment\n2. of aspirin\n3. of bandage\n4. of foot spray\n5. of tissue\nNow. write down some sentences using these phrases.\nRead the dialogue and practise in pairs.\nPharmacist Good morning. Can T help you?\nMr Arman Do you have anything for dry skin?\nPharmacist Well you may try this new body lotion. It's good. Or,\nyoucan try this brand of olive oil. Olive oil is also\ngood for dry skin.\nMr Arman Well, I think I'll take the lotion. How much is it?\nWork in pairs. Read the following situations and then make short\nconversations for each situation using can, could, may, should, etc.\nwhere necessary.\n1. You want your teeth to be strong. Ask for a good toothpaste. Your\npartner will suggest or offer one.\n2. Decide first what you want to buy and ask for it. Your partner does not\nhave what you want but he/she has something similar.\n3. You have slightly cut your finger. You ask for something to put on it.\nYour partner suggests ‘Bandaid’.\n4. Your mother has a headache. You ask for a medicine. Your partner\ngives you\nPeople with a cold, a fever, or the flu often go to the doctor for\nhelp. But many people in our country also use home remedies for\ncommon illnesses. Read about some simple home remedies and\nanswer the following questions:",
+  "cleanText": "English For Today 35\nWork in pairs. Complete the following expressions with words from\nthe box.\nbottle box can package tube\nof ointment\nof aspirin\nof bandage\nof foot spray\nof tissue\nNow. write down some sentences using these phrases.\nRead the dialogue and practise in pairs.\nPharmacist Good morning. Can T help you?\nMr Arman Do you have anything for dry skin?\nPharmacist Well you may try this new body lotion. It's good. Or,\nyoucan try this brand of olive oil. Olive oil is also\ngood for dry skin.\nMr Arman Well, I think I'll take the lotion. How much is it?\nWork in pairs. Read the following situations and then make short\nconversations for each situation using can, could, may, should, etc.\nwhere necessary.\nYou want your teeth to be strong. Ask for a good toothpaste. Your\npartner will suggest or offer one.\nDecide first what you want to buy and ask for it. Your partner does not\nhave what you want but he/she has something similar.\nYou have slightly cut your finger. You ask for something to put on it.\nYour partner suggests ‘Bandaid’.\nYour mother has a headache. You ask for a medicine. Your partner\ngives you\nPeople with a cold, a fever, or the flu often go to the doctor for\nhelp. But many people in our country also use home remedies for\ncommon illnesses. Read about some simple home remedies and\nanswer the following questions:",
+  "aiReadyText": "English For Today 35\nWork in pairs. Complete the following expressions with words from\nbottle box can package tube\nNow. write down some sentences using these phrases.\nRead the dialogue and practise in pairs.\nPharmacist Good morning. Can T help you?\nMr Arman Do you have anything for dry skin?\nPharmacist Well you may try this new body lotion. It's good. Or,\nyoucan try this brand of olive oil. Olive oil is also\ngood for dry skin.\nMr Arman Well, I think I'll take the lotion. How much is it?\nWork in pairs. Read the following situations and then make short\nconversations for each situation using can, could, may, should, etc.\nwhere necessary.\nYou want your teeth to be strong. Ask for a good toothpaste. Your\npartner will suggest or offer one.\nDecide first what you want to buy and ask for it. Your partner does not\nhave what you want but he/she has something similar.\nYou have slightly cut your finger. You ask for something to put on it.\nYour partner suggests ‘Bandaid’.\nYour mother has a headache. You ask for a medicine. Your partner\nPeople with a cold, a fever, or the flu often go to the doctor for\nhelp. But many people in our country also use home remedies for\ncommon illnesses. Read about some simple home remedies and"
+}

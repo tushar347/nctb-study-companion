@@ -1,0 +1,730 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 98,
+  "image": "/ocr/books/class6-english/page-images/page-098.png",
+  "width": 1149,
+  "height": 1525,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Al, Read the letter again and then answer the following questions:",
+      "cleanText": "Al, Read the letter again and then answer the following questions:",
+      "bbox": {
+        "x": 124,
+        "y": 133,
+        "width": 847,
+        "height": 26
+      },
+      "confidence": 94.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "a, Why was Robin excited?",
+      "cleanText": "a, Why was Robin excited?",
+      "bbox": {
+        "x": 185,
+        "y": 178,
+        "width": 310,
+        "height": 26
+      },
+      "confidence": 92.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "b. How would he go to the country?",
+      "cleanText": "How would he go to the country?",
+      "bbox": {
+        "x": 185,
+        "y": 218,
+        "width": 407,
+        "height": 25
+      },
+      "confidence": 95.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "A2. Write a few sentences of your own with the following expressions:",
+      "cleanText": "A2. Write a few sentences of your own with the following expressions:",
+      "bbox": {
+        "x": 120,
+        "y": 259,
+        "width": 887,
+        "height": 26
+      },
+      "confidence": 94.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "a. I would like you to",
+      "cleanText": "I would like you to",
+      "bbox": {
+        "x": 186,
+        "y": 304,
+        "width": 243,
+        "height": 25
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "b. Would you please",
+      "cleanText": "Would you please",
+      "bbox": {
+        "x": 187,
+        "y": 357,
+        "width": 228,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "A3. Write a similar invitation letter to a friend. Tell him /her about some",
+      "cleanText": "A3. Write a similar invitation letter to a friend. Tell him /her about some",
+      "bbox": {
+        "x": 117,
+        "y": 405,
+        "width": 915,
+        "height": 20
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "of the things you plan to do together.",
+      "cleanText": "of the things you plan to do together.",
+      "bbox": {
+        "x": 180,
+        "y": 444,
+        "width": 455,
+        "height": 26
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "B. A few days after Robin came back home from his aunt's house, he",
+      "cleanText": "A few days after Robin came back home from his aunt's house, he",
+      "bbox": {
+        "x": 117,
+        "y": 483,
+        "width": 918,
+        "height": 27
+      },
+      "confidence": 90.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "wrote the following letter to his Aunt Amina. Read the letter.",
+      "cleanText": "wrote the following letter to his Aunt Amina. Read the letter.",
+      "bbox": {
+        "x": 179,
+        "y": 523,
+        "width": 760,
+        "height": 27
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "69-70. Motijheel",
+      "cleanText": "69-70. Motijheel",
+      "bbox": {
+        "x": 746,
+        "y": 589,
+        "width": 169,
+        "height": 17
+      },
+      "confidence": 78.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "My dear Aunt,",
+      "cleanText": "My dear Aunt,",
+      "bbox": {
+        "x": 166,
+        "y": 653,
+        "width": 164,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-098-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "T really enjoyed my stay with you in the country. For a city boy, it was a",
+      "cleanText": "T really enjoyed my stay with you in the country. For a city boy, it was a",
+      "bbox": {
+        "x": 166,
+        "y": 705,
+        "width": 851,
+        "height": 27
+      },
+      "confidence": 95.41,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "whole new world to see. I was so proud when I first milked your cow",
+      "cleanText": "whole new world to see. I was so proud when I first milked your cow",
+      "bbox": {
+        "x": 166,
+        "y": 745,
+        "width": 851,
+        "height": 26
+      },
+      "confidence": 95.87,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "‘Dulari’. Uncle and you have taught me",
+      "cleanText": "‘Dulari’. Uncle and you have taught me",
+      "bbox": {
+        "x": 168,
+        "y": 784,
+        "width": 470,
+        "height": 27
+      },
+      "confidence": 91.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "things that I didn't know before. And",
+      "cleanText": "things that I didn't know before. And",
+      "bbox": {
+        "x": 166,
+        "y": 823,
+        "width": 471,
+        "height": 27
+      },
+      "confidence": 94.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "please tell Maher that I already miss",
+      "cleanText": "please tell Maher that I already miss",
+      "bbox": {
+        "x": 166,
+        "y": 863,
+        "width": 471,
+        "height": 27
+      },
+      "confidence": 93.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "him. I hope you'll invite me to stay with",
+      "cleanText": "him. I hope you'll invite me to stay with",
+      "bbox": {
+        "x": 166,
+        "y": 902,
+        "width": 471,
+        "height": 27
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "you again next summer.",
+      "cleanText": "you again next summer.",
+      "bbox": {
+        "x": 165,
+        "y": 944,
+        "width": 267,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Thanks again for inviting me.",
+      "cleanText": "Thanks again for inviting me.",
+      "bbox": {
+        "x": 166,
+        "y": 1021,
+        "width": 330,
+        "height": 27
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "B1. What do you think is the main idea of the letter? Choose the best",
+      "cleanText": "B1. What do you think is the main idea of the letter? Choose the best",
+      "bbox": {
+        "x": 117,
+        "y": 1124,
+        "width": 877,
+        "height": 26
+      },
+      "confidence": 95.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "a. To ask his aunt to invite him again.",
+      "cleanText": "To ask his aunt to invite him again.",
+      "bbox": {
+        "x": 182,
+        "y": 1222,
+        "width": 423,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "b. To thank his aunt for inviting him.",
+      "cleanText": "To thank his aunt for inviting him.",
+      "bbox": {
+        "x": 182,
+        "y": 1261,
+        "width": 415,
+        "height": 26
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "c. To tell his aunt that he learned many things in the country.",
+      "cleanText": "To tell his aunt that he learned many things in the country.",
+      "bbox": {
+        "x": 182,
+        "y": 1301,
+        "width": 688,
+        "height": 26
+      },
+      "confidence": 95.31,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "B2, Discuss in groups what is meant by the following expressions:",
+      "cleanText": "B2, Discuss in groups what is meant by the following expressions:",
+      "bbox": {
+        "x": 117,
+        "y": 1355,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 93.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "acity boy, a whole new world, miss someone",
+      "cleanText": "acity boy, a whole new world, miss someone",
+      "bbox": {
+        "x": 182,
+        "y": 1400,
+        "width": 516,
+        "height": 26
+      },
+      "confidence": 94.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-098-line-026",
+      "lineNumber": 26
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-098-line-001",
+      "lineNumber": 1,
+      "text": "Al, Read the letter again and then answer the following questions:",
+      "bbox": {
+        "x": 124,
+        "y": 133,
+        "width": 847,
+        "height": 26
+      },
+      "confidence": 94.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-002",
+      "lineNumber": 2,
+      "text": "a, Why was Robin excited?",
+      "bbox": {
+        "x": 185,
+        "y": 178,
+        "width": 310,
+        "height": 26
+      },
+      "confidence": 92.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-003",
+      "lineNumber": 3,
+      "text": "How would he go to the country?",
+      "bbox": {
+        "x": 185,
+        "y": 218,
+        "width": 407,
+        "height": 25
+      },
+      "confidence": 95.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-004",
+      "lineNumber": 4,
+      "text": "A2. Write a few sentences of your own with the following expressions:",
+      "bbox": {
+        "x": 120,
+        "y": 259,
+        "width": 887,
+        "height": 26
+      },
+      "confidence": 94.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-005",
+      "lineNumber": 5,
+      "text": "I would like you to",
+      "bbox": {
+        "x": 186,
+        "y": 304,
+        "width": 243,
+        "height": 25
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-006",
+      "lineNumber": 6,
+      "text": "Would you please",
+      "bbox": {
+        "x": 187,
+        "y": 357,
+        "width": 228,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-007",
+      "lineNumber": 7,
+      "text": "A3. Write a similar invitation letter to a friend. Tell him /her about some",
+      "bbox": {
+        "x": 117,
+        "y": 405,
+        "width": 915,
+        "height": 20
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-008",
+      "lineNumber": 8,
+      "text": "of the things you plan to do together.",
+      "bbox": {
+        "x": 180,
+        "y": 444,
+        "width": 455,
+        "height": 26
+      },
+      "confidence": 95.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-009",
+      "lineNumber": 9,
+      "text": "A few days after Robin came back home from his aunt's house, he",
+      "bbox": {
+        "x": 117,
+        "y": 483,
+        "width": 918,
+        "height": 27
+      },
+      "confidence": 90.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-010",
+      "lineNumber": 10,
+      "text": "wrote the following letter to his Aunt Amina. Read the letter.",
+      "bbox": {
+        "x": 179,
+        "y": 523,
+        "width": 760,
+        "height": 27
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-011",
+      "lineNumber": 11,
+      "text": "69-70. Motijheel",
+      "bbox": {
+        "x": 746,
+        "y": 589,
+        "width": 169,
+        "height": 17
+      },
+      "confidence": 78.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-013",
+      "lineNumber": 13,
+      "text": "T really enjoyed my stay with you in the country. For a city boy, it was a",
+      "bbox": {
+        "x": 166,
+        "y": 705,
+        "width": 851,
+        "height": 27
+      },
+      "confidence": 95.41,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-014",
+      "lineNumber": 14,
+      "text": "whole new world to see. I was so proud when I first milked your cow",
+      "bbox": {
+        "x": 166,
+        "y": 745,
+        "width": 851,
+        "height": 26
+      },
+      "confidence": 95.87,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-015",
+      "lineNumber": 15,
+      "text": "‘Dulari’. Uncle and you have taught me",
+      "bbox": {
+        "x": 168,
+        "y": 784,
+        "width": 470,
+        "height": 27
+      },
+      "confidence": 91.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-016",
+      "lineNumber": 16,
+      "text": "things that I didn't know before. And",
+      "bbox": {
+        "x": 166,
+        "y": 823,
+        "width": 471,
+        "height": 27
+      },
+      "confidence": 94.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-017",
+      "lineNumber": 17,
+      "text": "please tell Maher that I already miss",
+      "bbox": {
+        "x": 166,
+        "y": 863,
+        "width": 471,
+        "height": 27
+      },
+      "confidence": 93.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-018",
+      "lineNumber": 18,
+      "text": "him. I hope you'll invite me to stay with",
+      "bbox": {
+        "x": 166,
+        "y": 902,
+        "width": 471,
+        "height": 27
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-019",
+      "lineNumber": 19,
+      "text": "you again next summer.",
+      "bbox": {
+        "x": 165,
+        "y": 944,
+        "width": 267,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-020",
+      "lineNumber": 20,
+      "text": "Thanks again for inviting me.",
+      "bbox": {
+        "x": 166,
+        "y": 1021,
+        "width": 330,
+        "height": 27
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-021",
+      "lineNumber": 21,
+      "text": "B1. What do you think is the main idea of the letter? Choose the best",
+      "bbox": {
+        "x": 117,
+        "y": 1124,
+        "width": 877,
+        "height": 26
+      },
+      "confidence": 95.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-022",
+      "lineNumber": 22,
+      "text": "To ask his aunt to invite him again.",
+      "bbox": {
+        "x": 182,
+        "y": 1222,
+        "width": 423,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-023",
+      "lineNumber": 23,
+      "text": "To thank his aunt for inviting him.",
+      "bbox": {
+        "x": 182,
+        "y": 1261,
+        "width": 415,
+        "height": 26
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-024",
+      "lineNumber": 24,
+      "text": "To tell his aunt that he learned many things in the country.",
+      "bbox": {
+        "x": 182,
+        "y": 1301,
+        "width": 688,
+        "height": 26
+      },
+      "confidence": 95.31,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-025",
+      "lineNumber": 25,
+      "text": "B2, Discuss in groups what is meant by the following expressions:",
+      "bbox": {
+        "x": 117,
+        "y": 1355,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 93.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-098-line-026",
+      "lineNumber": 26,
+      "text": "acity boy, a whole new world, miss someone",
+      "bbox": {
+        "x": 182,
+        "y": 1400,
+        "width": 516,
+        "height": 26
+      },
+      "confidence": 94.62,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Al, Read the letter again and then answer the following questions:\na, Why was Robin excited?\nb. How would he go to the country?\nA2. Write a few sentences of your own with the following expressions:\na. I would like you to\nb. Would you please\nA3. Write a similar invitation letter to a friend. Tell him /her about some\nof the things you plan to do together.\nB. A few days after Robin came back home from his aunt's house, he\nwrote the following letter to his Aunt Amina. Read the letter.\n69-70. Motijheel\nMy dear Aunt,\nT really enjoyed my stay with you in the country. For a city boy, it was a\nwhole new world to see. I was so proud when I first milked your cow\n‘Dulari’. Uncle and you have taught me\nthings that I didn't know before. And\nplease tell Maher that I already miss\nhim. I hope you'll invite me to stay with\nyou again next summer.\nThanks again for inviting me.\nB1. What do you think is the main idea of the letter? Choose the best\na. To ask his aunt to invite him again.\nb. To thank his aunt for inviting him.\nc. To tell his aunt that he learned many things in the country.\nB2, Discuss in groups what is meant by the following expressions:\nacity boy, a whole new world, miss someone",
+  "cleanText": "Al, Read the letter again and then answer the following questions:\na, Why was Robin excited?\nHow would he go to the country?\nA2. Write a few sentences of your own with the following expressions:\nI would like you to\nWould you please\nA3. Write a similar invitation letter to a friend. Tell him /her about some\nof the things you plan to do together.\nA few days after Robin came back home from his aunt's house, he\nwrote the following letter to his Aunt Amina. Read the letter.\n69-70. Motijheel\nMy dear Aunt,\nT really enjoyed my stay with you in the country. For a city boy, it was a\nwhole new world to see. I was so proud when I first milked your cow\n‘Dulari’. Uncle and you have taught me\nthings that I didn't know before. And\nplease tell Maher that I already miss\nhim. I hope you'll invite me to stay with\nyou again next summer.\nThanks again for inviting me.\nB1. What do you think is the main idea of the letter? Choose the best\nTo ask his aunt to invite him again.\nTo thank his aunt for inviting him.\nTo tell his aunt that he learned many things in the country.\nB2, Discuss in groups what is meant by the following expressions:\nacity boy, a whole new world, miss someone",
+  "aiReadyText": "Al, Read the letter again and then answer the following questions:\na, Why was Robin excited?\nHow would he go to the country?\nA2. Write a few sentences of your own with the following expressions:\nI would like you to\nWould you please\nA3. Write a similar invitation letter to a friend. Tell him /her about some\nof the things you plan to do together.\nA few days after Robin came back home from his aunt's house, he\nwrote the following letter to his Aunt Amina. Read the letter.\n69-70. Motijheel\nT really enjoyed my stay with you in the country. For a city boy, it was a\nwhole new world to see. I was so proud when I first milked your cow\n‘Dulari’. Uncle and you have taught me\nthings that I didn't know before. And\nplease tell Maher that I already miss\nhim. I hope you'll invite me to stay with\nyou again next summer.\nThanks again for inviting me.\nB1. What do you think is the main idea of the letter? Choose the best\nTo ask his aunt to invite him again.\nTo thank his aunt for inviting him.\nTo tell his aunt that he learned many things in the country.\nB2, Discuss in groups what is meant by the following expressions:\nacity boy, a whole new world, miss someone"
+}

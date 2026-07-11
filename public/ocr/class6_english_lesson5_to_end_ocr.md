@@ -1,0 +1,2464 @@
+# OCR Output - English For Today Class Six - Lesson 5 to End
+
+Source: uploaded PDF. Range: Lesson 5 through end of book.
+
+
+## Lesson 5: Thanks for Your Work
+
+Textbook pages 13-16 | PDF pages 18-21
+
+- Lesson 5 Thanks for Your Work
+- After completing the lesson students will be able to
+- - talk about people, places and familiar objects in short and simple sentences
+- - ask and answer questions
+- - participate in short dialogues and conversations on familiar topics
+- - read and understand texts
+- - writ- short paragraphs
+- Look and say. Use suitable words from the box to describe the occupation
+- of each person below:
+- newspaper hawker nurse cleaner
+- rickshaw-puller waitress postman
+- Al. Choose appropriate words from the box to complete the dialogue
+- below. Then act out the dialogue in pairs.
+- letters restaurant streets place morning
+- A: What does a cleaner do?
+- B_ :Acleaner cleans our houses, office and ................ etc.
+- A: What does a newspaper hawker do?
+- B_ :A hawker gives us newspapers every ............00.0e00 .
+- A __ : What does a postman do?
+- B_ :A postman delivers ............. and other items to us.
+- A __ : What does a rickshaw-puller do?
+- B_ :Arickshaw- puller takes us from one ................06 to another.
+- A: What does a waiter do?
+- B_ :A waiter serves food at the ............0.0. .
+- Read the text about Bulbul and answer the questions below:
+- Bulbul collects rubbish from the
+- Sankar area in Dhaka. Every
+- morning, he wakes up at 5 o'clock
+- and walks along the streets of
+- Sankar to collect rubbish. People of
+- Sankar put their rubbish in plastic
+- bins and leave them in front of their
+- houses. Bulbul walks from door to
+- door to collect them. Sometimes the
+- bins are very dirty and they smell
+- bad. But Bulbul does not mind. He
+- takes out everything from the bins
+- and puts them in his van. He
+- believes that all jobs are important.
+- He works hard every day to keep this area clean.
+- Last month Bulbul was sick for two days. So, he could not come to collect
+- the rubbish. The people of Sankar were in great trouble. They got piles of
+- rubbish waiting in front of their houses. The whole area became dirty and
+- unhygienic. When Bulbul got well, he came back to Sankar. He collected
+- everything from all the bins. Bulbul does not want to fall sick again. He
+- realises, if he stops working even for a few days only, the whole area will
+- turn into a big dustbin.
+- Now, ask and answer the questions in pairs.
+- What time does Bulbul wake up?
+- Where do the people of Sankar put their rubbish?
+- Why does Bulbul think that all jobs are important?
+- What happened when Bulbul became sick?
+- What will happen if Bulbul falls sick again?
+- What will you say to Bulbul if you meet him?
+- Think of a person who helps you live well. Write a composition on
+- this person. Now, answer the following questions :
+- hat does he/she do?
+- How does his work help you live well?
+- at time does he/she start his/her work?
+- How does he/she do the work?
+- Does he/she like the job? Why/why not?
+- WwW
+- hat will happen if he/she stops working?
+- hat do you think about his/her job?
+- Language Focus:
+- Notice the verbs in the italics in the following sentences.
+- Bulbul collects rubbish from the Sankar area in Dhaka
+- Every day he wakes up at 5 o'clock and walks along the streets of Sankar.
+- We talk about usual routines in simple present tense. In simple present tense,
+- the verb takes an's' or 'es' if the subject is any one personshe/she, etc.
+- Notice the verbs in the following sentences in italics.
+- The people in Sankar area became very upset.
+- They gor piles of rubbish waiting outside their house.
+- All the sentences here talk about the past. So, they are in simple past
+- tense. In simple past tense, the verb is always in its past form (e.g. got,
+- became, etc.).
+- B3. Underline all the verbs in text on Bulbul (B). Write down the past
+- form of the verb in the present tense. Also write down the present
+- form of the verb in the past tense.
+- One is done for you.
+- wakes up---------wokee up.
+
+## Lesson 6: It Smells Good!
+
+Textbook pages 17-18 | PDF pages 22-23
+
+- Lesson 6 It Smells Good!
+- After completing the lesson students will be able to
+- - ask and answer questions
+- - participate in short dialogues and conversations on familiar topics
+- Read the passage and the dialogue below:
+- It's Saturday. Mila's school is open. But Friday and Saturday are father's
+- weekly holidays. Father sometimes loves to cook special dishes for everybody
+- on Saturdays. It's 2 o'clock - time for Mila to come back from school.
+- Mother is setting the table. Mila's two younger sisters are playing in the
+- living room. The doorbell rings. Mila comes in.
+- Mila -_Hi, Mom! I'm back!
+- Where's Baba?
+- Mom In the kitchen. Today is
+- Saturday, remember?
+- Mila Right! Baba's cooking
+- day! Hi, Baba! What are
+- you cooking today? It
+- smells good!
+- Baba _ It's 'moragpolau', dear,
+- your favourite dish.
+- Mila Can I try some?
+- Baba No, you can't. You know the rule, don't you?
+- Go and wash your hands first.
+- Mila _ Please, Baba. I'm coming soon.
+- Baba Ok. Here is your dish.
+- Mila Ummm! It tastes so delicious!
+- A1. Work with a partner. Ask and answer the following questions.
+- What's your favourite food?
+- Where do you usually have it?
+- Who prepares it?
+- How does it taste?
+- Practise the conversation in section A with a friend. Remember to
+- use proper stress and intonation (up and down movement of your voice).
+- Fill in the blanks in the following sentences with the verbs in the box
+- with their correct forms.
+- smell see look know like want
+- l him very well.
+- The new dress great!
+- Rina to collect stamps.
+- I can a butterfly near the flowers.
+- e. The flower sweet.
+- f. Murad to buy a dictionary.
+- Read the passage below and choose which verb form is appropriate.
+- Underline the word you choose.
+- Shikha Banu works/is working as a waitress in a restaurant in Chattogram
+- She takes orders and serves food to customers. But today, the chief cook has
+- suddenly fallen ill. So, she helps /is helping the other cooks in the kitchen.
+- She makes /is making 'pudding'. She thinks/is thinking of her son, Priyam.
+- How he loves/is loving pudding! She wants/is wanting to make a pudding
+- for Priyam when she goes back home today. Suddenly she hears/is hearing
+- someone says "The pudding is done, apa. Shall I take it off the oven?" With
+- a start Shikha Banu says/is saying "Oh, yes. Please do."
+
+## Lesson 7: Holding Hands
+
+Textbook pages 19-20 | PDF pages 24-25
+
+- Lesson 7 Holding Hands
+- After completing the lesson students will be able to
+- - recognise word and stress on words in sentences
+- - recognise intonation in sentences
+- - understand and enjoy stories and poems
+- Listen and read.
+- Holding Hands
+- -Leonore M Link
+- Elephants walking
+- Along the trails
+- Are holding hands
+- By holding tails.
+- Trunks and tails
+- Are handy things
+- When elephants walk
+- In Circus rings.
+- And when they walk-
+- It never fails
+- They're holding hands
+- By holding tails.
+- (Abridged)
+- Recite the poem in groups, in pairs and then individually.
+- Look at the following words.
+- Each word has more than one meaning. The meaning in which a
+- word has been used in the poem is given. Can you think of
+- any other meaning or meanings?
+- Trunk : The long nose of an elephant /
+- Ring : A round confined area in which
+- animals or people perform or
+- compete. There are seats around
+- the outside of the ring for the
+- audience.
+- For example : a circus ring or a boxing ring.
+- Now, match the words above with the picture below.
+- Make sentences with each of the words.
+
+## Lesson 8: Grocery Shopping
+
+Textbook pages 21-27 | PDF pages 26-32
+
+- Lesson § Grocery Shopping
+- After completing the lesson students will be able to
+- - use word stress and stress on words in sentences
+- - ask and answer questions
+- - participate in short dialogues and conversations on familiar topics
+- - read and understand texts
+- . Some guests will visit Imran's house tonight. So Imran's mother
+- will cook dinner for them. She asks Imran to go to the local market.
+- He often forgets to buy the necessary items. So his mother is making
+- a shopping list for him. He is helping his mother make the list.
+- Read the conversation between the mother and son.
+- Imran Maa, what do I need to buy?
+- Maa Well, see if we have enough
+- potatoes?
+- Imran We have some potatoes but I don't
+- think it's enough.
+- Maa Then get half kg. of potatoes. How
+- about tomatoes?
+- Imran _[ don't see any tomatoes.
+- Maa Are there any other vegetables?
+- Imran Yes, there are some beans, carrots,
+- cucumber and eggplants....That's all.
+- Maa Well, I'll need one kg. of tomatoes. Half kg. of beans and two
+- cauliflowers.... Are there any eggs, dear?
+- Maa
+- Imran
+- Maa
+- Imran
+- : There are only three eggs. Maybe I'll buy a dozen more?
+- : Humm..... oh, yes.... get some sugar and milk and one litre of oil,
+- too.
+- : OK. One litre of milk and.... one kg. of sugar.
+- : One more thing, dear. You are forgetting your list! Here it is.
+- : Oh! Thanks, Maa.
+- You have read the conversation above. Now, put a tick mark (Vv)
+- against the items that Imran will buy and put a cross mark (x)
+- against the items he won't. Write the quantity of the items in
+- the last column. (The first one is done for you.)
+- Items Vix Quantity
+- Potatoes Yakg
+- Tomatoes
+- Onions
+- Cauliflower
+- beans
+- Eggplants
+- Carrots
+- Cucumber
+- Listen to and read the dialogue below:
+- Salesperson Hello, how can I help you?
+- Imran Do you have any beans?
+- Salesperson Yes, we do. How much would you like?
+- Imran I would like half kg. And I'll also need one kg. of
+- tomatoes, two kg.of potatoes, two cauliflowers,
+- a dozen of eggs and some salt.
+- Salesperson Do you need oil, sir?
+- Imran Yes, I need a litre of oil.
+- Salesperson Do you need anything else?
+- Imran Umm..... let me check. (looks at the list).
+- Oh, yes, could I have some sugar and milk?
+- Salesperson Sure. How much milk do you want?
+- Imran Just one litre, ...and one kg of sugar, please.
+- Salesperson Ok, let me find all the items for you.
+- Imran Thanks. Please put them in a paper or jute bag.
+- Salesperson Sure! We don't use plastic bags here.
+- Here you go! I've put all the items here.
+- Imran Thank you. How much is the
+- total?
+- Salesperson The total comes to taka five
+- hundred and thirty-five.
+- Imran Here is five hundred and fifty.
+- Salesperson Thank you. Here is the change,
+- fifteen taka. Have a good day!
+- Imran Thanks, Bye.
+- Discuss the following questions in pairs.
+- How many items did Imarn buy?
+- What varieties of vagetables were available in the market?
+- Why do you think Imarn asked the salesman to use a paper bag? Discuss
+- with your class friends and then write down one or two reasons.
+- "Thank you, here is the change,...". What does the word 'change'
+- mean here?
+- Read the sentences/phrases in the eight speech bubbles. Put them in
+- the right order (1 to 8) to write down the conversation in your notebook.
+- Yes, how can I help you?
+- I want to buy an ice-cream
+- How much is it?
+- Here you are.
+- Thank you!
+- Sure! There you go.
+- Discuss in pairs how you talk about quantities when you go shopping.
+- Match the phrases in column A and the items in column B below to
+- make an imaginary shopping list. Write down the list in your notebook.
+- (One phrase may match more than one items.)
+- a loaf Of............006.
+- a packet of.............
+- a tube of...............
+- half a kilo of...........
+- a dozen of..............
+- a box of
+- poster paper
+- bread
+- paint
+- facial tissue
+- cake
+- honey
+- eggs
+- chocolates
+- toothpaste
+- notebook
+- pencils
+- coke
+- Look at your shopping list again. Can you say which items are
+- available in what kind of shops? There are different shops such
+- as the grocer's, baker's, stationer's, etc. selling different things.
+- Put the items under the proper headings in the table below.
+- Grocer's
+- Baker's
+- Stationer's
+- a dozen of eggs
+- A loaf of bread
+- A tube of paint
+- Workin groups. Create a mini market in the classroom. Put some
+- signs like the Baker's, the Grocer's, the Stationer's, etc. Some of
+- you play the roles of shop assistants and some others will be
+- customers. Now, the customers move round the room from one shop
+- to the other asking the prices of the items shown in the pictures
+- below. Use the following model:
+- A shopping day:
+- Have you got any noodles? / Do you have any noodles?
+- Yes, I have. / Yes, I do.
+- How much are they?
+- Taka twenty - five a packet.
+- A Can I have two packets, please?
+- B Here you are. That's taka fifty altogether.
+- Thank you.
+- pencil box: Tk. 180 Biscuits: 35/pack Eggs: Tk. 130/dozen
+- - it \)
+- : i ir i t i a eS Se
+- Toothpaste: Tk. 40/tube Pencil set: Tk. 90 A calculator: Tk.250
+- A loaf of Bread: Tk. 35 Onions: Tk 40/Kg Cake: Tk. 400/kg
+- Language Focus: some and any
+- We use 'some' with positive statements.
+- Example:
+- I've got some photographs. I need some milk.
+- We use 'any' with negative statement.
+- Example:
+- I haven't got any photographs. I don't see any student there.
+- We use 'any' with questions.
+- Example:
+- Have you got any photograph? Is there any water in the jug?
+- E. Fill in the blanks with 'some' or 'any'.
+- Are there flowers in the garden?
+- Yes, these are roses and___ lilies.
+- What about jasmine? Are there jasmines?
+- No, there aren't jasmines.
+- Do you have idea why I'm asking you all these?
+
+## Lesson 9: Health is Wealth
+
+Textbook pages 28-32 | PDF pages 33-37
+
+- Lesson 9 Health is Wealth
+- After completing the lesson students will be able to
+- - ask and answer questions
+- - participate in dialogues and conversations on familiar topics
+- - read and understand written instructions
+- - read and understand texts
+- Choose a health problem from the box and write next to the
+- appropriate picture. There are names of more problems in the
+- box than are necessary.
+- a fever, a backache, a cough, a headache, a toothache, a skin injury,
+- a stomachache, a cold, a burn
+- TaN)
+- Work in pairs. Ask and answer the following questions.
+- * Have you had any of these or any other health problems recently?
+- Which ones? or what?
+- - How many times hav- you been sick in th- year?
+- - What do you do when you hav- a headach- or a cold or a toothache?
+- Look at some health problems. Choose several pieces of good advice
+- for each problem. There are more pieces of advice than problems.
+- Problems Advice
+- take some vitamin C
+- put some ointment on it
+- drink lots of liquid
+- take enough rest
+- e. put a heating pad on it
+- a UIT... eee f. put it under cold water
+- the flU oo... eee g. take some paracetamol
+- h. gurgle with warm and salt water
+- i. see a dentist
+- j. see a doctor
+- Work in groups. Talk about the problems in section B and give advice.
+- Try to give more than one piece of advice for each problem. Follow the
+- model shown.
+- 7™Mm OQ D>
+- What should you do for a cough?
+- You should gurgle with warm water.
+- It's a good idea to take some vitamin C.
+- Yes. And if it continues for long, you should see a doctor.
+- Well, I think it's good to avoid cold drink or ice-cream.
+- Sometimes it helps to ......
+- Work with a partner. Make a short conversation about each
+- problem and its remedy in the box below. (One is done for you),
+- Problem
+- an insect bite
+- a stomachache
+- a burn
+- a skin injury
+- Remedy
+- antiseptic
+- an antacid
+- Burnol ointment
+- antiseptic
+- What did you do?
+- non > wD D>
+- E. Read the text.
+- Have you ever had an insect bite?
+- I put some antiseptic on it.
+- Oh, yes! I had one just last night, actually.
+- A proverb says 'Health is Wealth'. To keep healthy is to keep free from
+- disease and anxiety. Good health is proper functioning of all body organs.
+- It is also feeling well both in body and in mind. People in good health
+- are active, cheerful and happy. If you are healthy, you can be happy and
+- can help others in society as well.
+- To keep in good health we should be careful about hygiene. The rules and
+- practices of keeping good health are called hygiene. We must practise the
+- rules of hygiene. Proper food and nutrition, physical exercise, rest and
+- sleep, cleanliness, and proper medicare are essential for good health.
+- Some important rules of good personal health are as follows:
+- Balanced diet: Our food should contain correct proportion of
+- carbohydrates, fat, protein, vitamins, minerals and water in it.
+- Personal hygiene: We should follow the personal health practices,
+- such as,
+- . Wash your hands before eating
+- ° Bathe regularly and wear clean clothes
+- . Brush your teeth twice regularly
+- . Do not let your nails grow long. Cut them regularly.
+- . Wash your feet and hands before going to bed.
+- Cleaning household: We should keep our household and environment
+- clean.
+- Taking clean food and water: Our food should be fresh, clean and properly
+- cooked, and water should be pure.
+- Taking regular exercise: We should take part in games and sports and take
+- physical exercise regularly.
+- Taking regular sleep and rest: We should sleep properly and take proper
+- rest.
+- Answer the following questions.
+- 1 What do we mean by hygiene?
+- 2 What are essential for good health?
+- 3 What do we mean by balanced diet?
+- 4 What are the rules of personal hygiene?
+- Listen to the conversation and fill in the blanks with suitable words.
+- Sohan Hi, Simon! You look so fit! Do you exercise regularly?
+- Simon Yes, I do. I'm quite .......... about fitness.
+- Sohan So, how ......... do you exercise?
+- Simon Well, I do jogging every day in the ...... . Then I play table
+- tennis in the afternoon.
+- Sohan I like table tennis, too.
+- Simon Oh, will you come to play .......... then?
+- Sohan Sure. But ......00 0.0... do you play?
+- Simon Pretty well, I guess.
+- Sohan All right. But I'm not very good.
+- Simon No problem, Sohan. I won't play .......... :
+- Listen to the conversation again and then practise saying it in pairs.
+- Read what Simon says about his physical exercise programme.
+- I'm Simon. I love to exercise. I usually exercise every day. I get up early in
+- the morning and do jogging for half an hour. Almost regularly, I play table
+- tennis in the afternoon. Sometimes, I play football. Once a week, I do yoga.
+- Now, write about what you usually do or would like to do to keep
+- yourself fit.
+- Write a short paragraph on the rules of good health. Take your cues
+- from E.
+
+## Lesson 10: Remedies: Modern and Traditional
+
+Textbook pages 33-36 | PDF pages 38-41
+
+- Lesson 10 Remedies: Modern and Traditional
+- After completing the lesson students will be able to
+- - read and understand written instructions
+- - read and understand texts
+- - ask and answer questions
+- - participate in short dialogues and conversations on familiar topics
+- - writ- short paragraphs
+- Look at the following pictures. Discuss with your partner what they
+- are. Match them with their names given in the box.
+- paracetamol holy basil/tulsi antacid honey
+- neem savlon turmeric aloe vera
+- Read the following text:
+- People around the world are slowly changing their attitude towards
+- medicine. More and more they are turning to natural cures. Natural cures
+- are made of natural things, most often herbs and plants. History says that
+- natural or herbal remedies are nothing new. People used them all along in
+- different ages. Herbal medicines were used in ancient civilisations like India,
+- China, Greece, Egypt and Rome. Some ancient treatment systems are still
+- in practice today. They have come down through generations.
+- For a minor burn injury the doctor may prescribe you a tube of ointment.
+- But for the same, your grandma may put some aloe vera or use
+- cold water. If children have cold in our country, grandmas give them
+- honey and tulsi leaves to eat. And it works too. If you have a minor cut
+- or wound, grown-ups may put some turmeric, marigold or aloe vera
+- on it. Rural people usually use garlic, neem or turmeric to cure skin
+- problems. With experience they have seen that these remedies work.
+- Moreover, they are easy to get, are cheap and most often are without
+- any side effects.
+- Find out the items for natural cures and chemicals. Write the
+- names of natural cures in column A. In the column B, write the
+- items that are chemicals.
+- Column A_ (Natural cures) Column B_ (Chemicals)
+- honey savlon
+- Answer the questions:
+- What are natural cures made of?
+- Are herbal cures modern inventions? Explain your reasons.
+- Which civilisations are known for herbal treatments?
+- What natural remedies are used for cold? Can you add any more
+- natural treatment for cold?
+- What herbal cures are used for skin problems?
+- FevS
+- Work in pairs.
+- Complete the following expressions with words from
+- Now, write down some sentences using these phrases.
+- Read the dialogue and practise in pairs.
+- Pharmacist
+- Mr Arman
+- Pharmacist
+- Mr Arman
+- of tissue
+- Good morning. Can I help you?
+- Do you have anything for dry skin?
+- the box.
+- bottle box can package tube
+- of ointment
+- of aspirin
+- of bandage
+- of foot spray
+- Well you may try this new body lotion. It's good. Or,
+- you can try this brand of olive oil. Olive oil is also
+- good for dry skin.
+- Well, I think I'll take the lotion. How much is it?
+- Work in pairs. Read the following situations and then make short
+- conversations for each situation using can, could, may, should, etc.
+- where necessary.
+- You want your teeth to be strong. Ask for a good toothpaste. Your
+- partner will suggest or offer one.
+- Decide first what you want to buy and ask for it. Your partner does not
+- have what you want but he/she has something similar.
+- You have slightly cut your finger. You ask for something to put on it.
+- Your partner suggests 'Bandaid'.
+- Your mother has a headache. You ask for a medicine. Your partner
+- gives you 'Vicks'.
+- People with a cold, a fever, or the flu often go to the doctor for
+- help. But many people in our country also use home remedies for
+- common illnesses. Read about some simple home remedies and
+- answer the following questions:
+- Cough
+- For children's cough, grandmas give two tea-spoons of basil leaf/tulsi juice with
+- one spoon of honey. It works excellent.
+- Some people take grape juice and honey too. It is also good for dry cough.
+- Hot milk with honey is also useful in cough problems.
+- You can take ginger tea which is also a useful home remedy for cough.
+- Cold
+- Lemon juice is good for any cold because it contains vitamin C. Vitamin C
+- increases body resistance. Lemon juice, hot water and honey together work
+- well in healing common cold.
+- Toothache
+- In normal toothache, keep a clove in your mouth. Place it in between the aching
+- teeth and suck on it. You can even apply clove oil on the affected tooth.
+- Garlic also cures toothache. Place a clove of garlic on the aching tooth and
+- munch mildly. Its juice will work as a relief.
+- A pinch of pepper powder mixed with common salt works well on the aching
+- tooth. It's especially effective against the increased sensitiveness of the teeth.
+- Headache
+- Eating apples give good result in headaches. While eating, add a little salt
+- to it.
+- When headache is caused by cold winds, cinnamon works the best. Make
+- apaste of cinnamon by mixing in water and apply iton your forehead.
+- El. Learn these words:
+- ginger, resistance, clove, garlic, pepper, cinnamon, sensitive, munch,
+- pinch (as used in the text).
+- E2. Do you know any other home remedies that people use in our
+- country? Ask your parents / relatives and make a list of such
+- remedies other than the items given in your text.
+
+## Lesson 11: Are You Listening?-1
+
+Textbook pages 37-38 | PDF pages 42-43
+
+- Lesson 11 Ave You Listening?-1
+- After completing the lesson students will be able to
+- - recognis- English sounds
+- - recognise word and stress on words in sentences
+- - recognise intonation in sentences
+- - read aloud texts with proper pronunciation, stress and intonation
+- Listen to and read the following words:
+- shade
+- pepper paper <3
+- test taste
+- wet
+- pen
+- man mane
+- Do you notice any difference between the vowel sounds in the words
+- on the left column and the vowel sounds in the words on the right?
+- Listen to and repeat the sounds in Section- A again.
+- Read the following sentences first. Notice the underlined words
+- carefully.
+- Then listen to and repeat the sentences pronouncing the underlined
+- words properly using the vowel sounds you just practised in section A.
+- I met Benu and her room-mate in the book store.
+- They were buying some papers and pens.
+- I remember her friend's face, but I can't remember her name.
+- Later, I met them again the same day at the bus station.
+- They were waiting for some friends to come.
+- Practise saying the following words.
+- west waste
+- debt date
+- let late
+- get gate
+- tell tail
+- Read the following sentences. Add 'e' to the underlined word in
+- each sentence to make a new word. Now, fill in the blank in the
+- sentence with the new word. One is done for you.
+- es oe fF
+- Can you please buy me a new cane?
+- ... to ask you, but can you buy me a hat, too?
+- I lost both at the canteen where I........... lunch yesterday.
+- Sam, my friend, was having lunch at the ........... canteen.
+- He was mad at me because I ........... him go back and look for my
+- things later.
+
+## Lesson 12: An Unseen Beauty of Bangladesh
+
+Textbook pages 39-41 | PDF pages 44-46
+
+- Lesson 12 An Unseen Beauty of Bangladesh
+- After completing the lesson students will be able to
+- - ask and answer questions
+- - read and understand texts
+- - write short paragraphs
+- Discuss the following questions in pairs.
+- Have you ever visited any interesting tourist spot in Bangladesh?
+- If you have, what was that place. What special attractions did you see
+- there?
+- Tf you haven't, what places do you wish to visit? What special attractions
+- will you see there?
+- Which of the following activities would you like to do while visiting a
+- tourist spot?
+- sight-seeing, taking photos, having picnic, shopping, collecting souvenirs,
+- Now, read the text on Birishiri, a quiet and less known tourist spot
+- located in the north-eastern border of Bangladesh.
+- Bangladesh is a small country but it is gifted with unlimited natural attractions.
+- Only some of these eye-catching destinations are known to us. But there
+- are many other areas lying in the green, remote countryside that are less-
+- known to us. Shusong Durgapur of Birishiri is one such place.
+- Shusong Durgapur has an amazing landscape. It is located on the bank
+- of crystal clear Someshwari river and is close to the Garo Hills. You can
+- see the hills of Indian state of Meghalaya from here. The nature has
+- unfolded its glory in this small, rural landscape. Here you can see the
+- ceramic mountain leaning against the sky, the blue water of the pictorial
+- mountain-valley, the modest movement of the river Someshwari, and the
+- abandoned coal mines. There is another river here called Kangsa
+- which is also known as old Someshwari.
+- Shusong Durgapur is
+- located under Netrokona
+- district about 170 km north
+- from Dhaka. Along with its
+- scenic beauty this place is
+- home to diverse indigenous
+- groups: Hajong, Garo,
+- Achik and Mandi. The
+- cultural academy in
+- Durgapur is responsible for
+- preserving and promoting
+- the culture and traditions of
+- these indigenous groups.
+- The main attraction of Birishiri is the ceramic hill of Durgapur and
+- the charming landscape along the Shomeshwari River. The river changes
+- its colour as the seasons change. Among other attractions are the palace of
+- the Susang king, the Dasha Busha Temple, Orange Gardens, Shal forests
+- and the Ramkrisna and Loknath Baba Temples.
+- The best way to get to Birishiri is by road from Dhaka. You can find
+- direct bus to Birishiri from Mohakhali bus stand, Dhaka. It usually takes
+- 5 to 6 hours to get there. When you are there, you can go around the
+- town by rickshaws. The rickshaw- pullers know all the places very well.
+- Complete the dialogue below and act it out in pairs.
+- A: Are there any rivers in Birishiri?
+- B _ : Yes, there are. There are two rivers, the Shomeshwari and Kangsa.
+- A : Are there any hills in Birishiri?
+- B_ : Yes, ....... is. It's called ....
+- English For Today Al
+- : Can I see any other hills from there?
+- : Yes, you ....... You can see the hills of ...... state from there.
+- : Are there any temples there?
+- an > wD D>
+- : Yes, there ...... You can see the Dasha Busha Temple and the ........
+- temples there.
+- B2. Discuss the following questions in pairs.
+- In which district is Shusong Durgapur located?
+- How far is Shusong Durgapur from Dhaka?
+- What is the function of the cultural academy of Durgapur?
+- How can you get to Shusong Durgapur from Dhaka?
+- wPYN
+- Why is Shusong Durgapur called 'an unseen beauty of Bangladesh?'
+- Match the phrases with the meanings.
+- Phrases Meanings
+- eye-catching destinations a. see-through
+- green, remote countryside b. means of travelling from one place to
+- another
+- crystal clear .
+- 4 c. places that draw one's attentions
+- pictorial mountain-valley
+- gentle flow
+- modest movement e.a rural and distant place full of plants
+- and trees
+- 6, alluring natural loveliness f. a plain land between two hills that looks
+- modes of transportation like a picture
+- the loveliness of nature that appeals to a
+- viewer
+- Write a passage on a place of tourist attraction that you know.
+
+## Lesson 13: Our Pride
+
+Textbook pages 42-45 | PDF pages 47-50
+
+- Lesson 13 Our Pride
+- After completing the lesson students will able to
+- - read and understand texts
+- - ask and answer questions
+- - write short paragraphs
+- - participate in short dialogues and conversations on familiar topics
+- . Read the following passage:
+- December 16 is a remarkable day for
+- Bangladeshi people. On this day in 1971,
+- Bangladesh got independence after a
+- nine-month-long - blood-soaked _ battle
+- against the Pakistani army. It is a day of
+- national pride as well as a day of
+- commemorating the sacrifices of the
+- millions of Bangladeshi people. Pakistani
+- army killed three million people and
+- assaulted thousands of women.
+- The Victory Day is celebrated with
+- great enthusiasm across the country.
+- The day begins with a 31-gun salute at dawn, followed by the hoisting of the
+- national flag at government buildings and private institutions. Different
+- political, cultural and educational programmes are organised to pay homage
+- to the martyrs of the war. The entire nation celebrates the day with colurful
+- flags, banners and parades.
+- The National Parade ground hosts a grand military parade where the
+- president, the prime minister and dignitaries from government and
+- non-government sectors join. The National Martyrs' Memorial in Savar, our
+- monument dedicated to the soldiers and civilians who lost their lives during
+- the war, becomes a focal point for citizens to pay their respect. People from
+- all walks of life gather to offer flowers, recite patriotic songs, and recall the
+- sacrifices made by the nation's heroes.
+- Write the meanings of the following words:
+- Homage, Martyrs, Dedicate, Patriotic, Sacrifice, Commemorate
+- Answer the following questions:
+- What is the significance of our Victory Day?
+- Why do we pay homage to our martyrs?
+- What is the name of the monument situated at Savar?
+- How many people have sacrificed their lives for our country's liberation?
+- Make a list of the patriotic songs that encouraged our people during
+- the Liberation War of Bangladesh.
+- Listen to the dialogue from a CD or as your teacher reads it out
+- and fill in the gaps.
+- Teacher Well students, how do we
+- celebrate our national days?
+- Shanta We go to the ....... on
+- We go to the Jatiya
+- Smritisaudha at .......... on
+- Teacher Great! But do you know the English of Jatiya
+- Smriti Saudha?
+- Shanta Yes, sir/ma'am. It's ............ Mausoleum.
+- Teacher - Very good. Have you ever been
+- to our National ................. ?
+- Shanta Oh yes, I went there last year on the
+- on 16 December.
+- Teacher
+- Shanta
+- Teacher
+- Shanta
+- Teacher
+- Shanta
+- Teacher
+- What did you do there?
+- Well, I went there with my ........... and my brother.
+- Many people were there! Everybody went there
+- to pay ......... to the Liberation War martyrs. We were
+- in a long queue. We had flowers with us.
+- We wo... wreaths of flowers
+- before the mausoleum. My parents took me to the
+- mass graveyards. They told us about the sacrifice of
+- our people for our ...............0..0 I was
+- VeLY oe to see the mass graves. I
+- prayed for the souls of the martyrs.
+- Yes, we should never forget their ..............
+- What else did you see there, Shanta?
+- I saw all kinds of people there- old and young, men, women,
+- and children, politicians, workers, teachers, diplomats,
+- . All came to
+- pay. .. to the freedom fighters.
+- T Saw SOME ...... 06. .ec cece cence eee eee e eens
+- Really? Were you excited?
+- Oh, yes! I shook hands with them and gave
+- them some flowers.
+- You must have felt very ..............00- We all should love
+- and respect them. They are our source of inspirations.
+- Read the words in Column A. They are used in the text above.
+- Match them with their meanings in the Column B.
+- Column A Column B
+- celebrate cemetery
+- wreath freedom
+- graveyard to give up
+- independence observe
+- martyr garland
+- sacrifice encouragement
+- inspiration a person who died for a religious or political belief
+- or cause
+- Work in pairs and take an interview of your partner. Use these cues.
+- Do you have any experience of a great day?
+- Use the cues in Section D and write a small paragraph on how
+- your partner celebrated a national day.
+- Write your own experience about the day. Mention what
+- day you celebrated; what exactly you, your teachers, and your
+- friends did; and what your feelings were on that day.
+
+## Lesson 14: The Lion's Mane
+
+Textbook pages 46-48 | PDF pages 51-53
+
+- Lesson 14 The Lion's Mane
+- After completing the lesson students will be able to
+- - read and understand texts
+- - talk about people, places and familiar objects in short and simpl- sentences
+- Read the story:
+- Once, a lion was sitting beside a river. Suddenly he looked at his own
+- reflection and thought "My mane is too
+- old. I need a new hairstyle!"
+- The lion then roared "I'm the king of
+- the jungle and this unruly mane does
+- not fit a king" He dipped his paw into
+- the river and tried desperately to
+- smooth his mane.
+- "Flap it all up. That will suit you!" the zebra said. "Yes, it will even look
+- better with a bit of colour to match your moustache," the giraffe added.
+- "What about a few ribbons?" the vulture asked. Then cried the hyena,"I
+- know, a paper crown is what you need!" A snake was passing by silently.
+- Seeing the king there he simply raised his head.
+- "What do you think I should do, snake?" The king asked.
+- "If a king is a wise king, nobody cares about his hairstyle," the snake said
+- with a hissing sound.
+- The king stared at the snake for some time. Then he smiled and kissed
+- the snake.
+- "Oh, why am I so vain? Am I not the king of the jungle?" roared the lion.
+- He shook his head from side to side to shake his mane back into place.
+- " From now on, I promise to be a wise king and not bother about my looks!"
+- the lion roared.
+- (Written by Janet Allison Brown)
+- Match the words in column A with the meanings given in
+- column B.
+- Column A Column B
+- mane a line of hair that some people have on their upper lip
+- roar move quickly
+- unruly lift or move upwards
+- flap a sound like a long 's'
+- moustache the long hair on the neck of a horse or a lion
+- raise to make a very loud, deep sound
+- hissing sound | difficult to control or manage
+- A2. Answer the following questions:
+- Why did the lion want to change his hairstyle?
+- What was the giraffe's suggestion?
+- Do you agree with the snake's comment? Why/Why not?
+- A3, Every animal has something that makes it different from others.
+- Now, match the words in column A with the words in Column B to
+- know the different marks of some animals. One is done for you.
+- Column A Column B
+- lion wool
+- elephant trunk
+- zebra stripes
+- sheep horns
+- buffalow pony tail
+- horse curved tail
+- dog scale
+- fish OO mane
+- Here is a puzzle for you:
+- Guess which baby animal is born with a moustache?
+
+## Lesson 15: An Old People's Home
+
+Textbook pages 49-51 | PDF pages 54-56
+
+- Lesson 15 An Old People's Home
+- After completing the lesson students will be able to
+- - read and understand texts
+- - ask and answer questions
+- - writ- short paragraphs
+- Read the text below:
+- Mariam is a student of class six in a
+- government school in Rajshahi. Her
+- mother works in an office and her f
+- father is a businessman. Mariam is
+- very fond of her aunt, her father's
+- sister, Suraiya Begum who lives in
+- another part of the same town. On
+- Fridays, she often goes to her aunt's place and spends time with her.
+- Suraiya Begum is a retired school teacher. She is a widow and lives alone.
+- Her husband died three years ago. Her two daughters are married and live
+- with their families abroad. They talk to her over telephone and come to visit
+- her whenever they get time.
+- Suraiya Begum has a lot of free time. She spends her time in reading books,
+- watching TV, visiting friends and relatives. Sometimes she writes letters to her
+- old colleagues. But now a days she often gets bored of doing all these things.
+- She wants to do something more meaningful, something that would do good to
+- others. She is planning to establish an old people's home in her locality. She
+- knows some elderly people live all alone. They have no one to take care
+- of them. They often feel helpless and miserable. They need care and support.
+- As part of her plan, Suraiya Begum starts to visit families. She talks to a
+- number of people. She tries to find out the problems of elderly people in their
+- families. She understands that old people are lonely and often they become
+- sick. They have nobody to look after them.
+- On Fridays, she often takes Mariam with her on these visits. Mariam has
+- already become very friendly with some of the old men and women. They
+- all love her very much. She tells them about her school and friends, her
+- studies, her family. And they often tell her funny stories, fairy tales and ghost
+- stories.
+- Al, Read the text carefully again and match the words on the left with
+- the words on the right that have similar meanings.
+- bored woman whose husband has died and who hasn't married again
+- miserable | a person with whom one works in a profession
+- colleague | feeling tired because one does not find interest in something
+- widow help
+- support very unhappy
+- Read the following sentences and say if they are true or false. If false,
+- then give the right answers.
+- Suraiya Begum spends most of her time taking care of her family.
+- She wants to set up a school for adults who cannot read or write.
+- There is already an old people's home in the town.
+- ee SF
+- Mariam enjoys spending time with her aunt.
+- e. The old people Mariam visits do not like children's presence.
+- Read the following letter:
+- Suraiya Begum needs many
+- people's help to make her dream
+- come true. She sits down to write
+- a letter toa friend who was her
+- colleague and who now lives in
+- the next town.
+- 170, Gulshan
+- Dhaka-1212
+- 17 April, 2025
+- Dear Sharmila,
+- How are you? I'm writing to share with you a plan that I have. I know
+- some old, physically weak and lonely people in our town. Some of them
+- are quite well-off and some are not. But they all share one common
+- thing that is they live alone and have no one to take care of them in
+- sickness. Sometimes they don't have anybody to talk to.
+- T have a plan. I want to set up a home for the old people where they
+- would live like a family and we can be a part of that family, too. I need
+- your help because I know that together we can do a lot.
+- Write to me soon. I'll wait eagerly for your reply.
+- Your friend,
+- Suraiya
+- . Answer the following questions:
+- Who is the writer of the letter?
+- Who is she writing to? What is the relationship between the two?
+- Does the writer have any particular reason for writing this letter?
+- Do you think what Suraiya Begum wants to do is her profession, or is
+- it a community work? Why do you think so?
+- Work in groups. Think of some good work that you can do for
+- someone around you. What are they? Now write two or three
+- sentences about what you can do for them.
+- Cues: teach, help in doing something, clean, etc.
+
+## Lesson 16: Boats Sail on the Rivers
+
+Textbook pages 52-52 | PDF pages 57-57
+
+- Lesson 16 Boats Sail on the Rivers
+- After completing the lesson students will be able to
+- recognise English sounds
+- recognise intonation in sentences
+- - understand and enjoy stories and poems
+- Listen to, read and then recite the poem.
+- Boats sail on the rivers
+- - Christina Georgina Rossetti
+- Boats sail on the rivers,
+- And ships sail on the seas;
+- But clouds that sail across the sky
+- Are prettier far than these.
+- There are bridges on the rivers,
+- As pretty as you please;
+- But the bow that bridges heaven,
+- And overtops the trees,
+- And builds a road from earth to sky,
+- Is prettier far than these.
+- What bow is the poet talking about when she says, 'But the bow
+- that bridges heaven'?
+
+## Lesson 17: Are You Listening?-2
+
+Textbook pages 53-55 | PDF pages 58-60
+
+- Lesson 17. Ave You Listening?-2
+- After completing the lesson students will be able to
+- - recognis- English sounds
+- - recognise word stress and stress on words in sentences
+- recognise intonation in sentences
+- - us- English sounds appropriately
+- - use proper intonation in sentences
+- - read aloud texts with proper pronunciation, stress and intonation
+- Read the following poem out loud. Be careful about how you
+- pronounce each word, as the spellings and sounds can be quite tricky!
+- The Chaos
+- I take it you already know
+- Of tough and bough and cough and dough?
+- Others may stumble, but not you
+- On hiccough, thorough, slough and through?
+- Beware of heard, a dreadful word
+- That looks like beard and sounds like bird.
+- And dead: it's said like bed, not bead --
+- For goodness' sake, don't call it 'deed'!
+- Watch out for meat and great and threat,
+- They rhyme with suite and straight and debs.
+- A moth is not the moth in mother,
+- Nor both in bother, broth, or brother.
+- And here is not a match for there,
+- Nor dear and fear for bear and pear.
+- And then there's dose and rose and lose -
+- Just look them up -- and goose and choose.
+- A dreadful language? Why, sakes alive!
+- I'd learned to speak it when I was five.
+- And yet, to write it, the more I tried,
+- I hadn't learned it at fifty-five.
+- Gerard Nolst Trenité
+- (Abridged)
+- Al, Underline the words in the poem which have the same letter
+- combinations in their spelling, but different pronunciation. Practice
+- saying them with a friend.
+- A2. The words "alive", "five", and "write" from the poem have the
+- same vowel sound. Now, read and listen to some other words that have
+- the same sound as these.
+- try
+- ice-cream
+- ride
+- child
+- cry
+- nice
+- drive
+- fly
+- light
+- . Read the sentences below and choose the right words from the list of
+- words in the box to fill in the blanks.
+- nine time fine five ride shore bicycle night tide rise
+- Mike is a young accountant. He works from to
+- in a government office. In his free he loves to his
+- along the sea . He often comes to the sea beach at . He
+- loves to watch the moon in the sky and the come in.
+- A4, Read the sentences in the passage above loudly. Pay careful attention
+- to the vowel sounds.
+
+## Lesson 18: Make Your Snacks
+
+Textbook pages 56-59 | PDF pages 61-64
+
+- Lesson 18 Make Your Snacks
+- After completing the lesson students will be able to
+- - read and understand written instructions
+- - read and understand texts
+- Mrs. Nilufar Ahmed is teaching her son Adib how to make easy
+- snacks at home. She is reading a set of instructions from a recipe
+- book. First look at the pictures of the things you will need to
+- make an egg sandwich and match them with their names in the
+- list of ingredients below.
+- - List of ingredients:
+- Two slices of bread
+- Cucumber- 2/3 slices
+- Tomato- 1/2 slices
+- Butter or mayonnaise
+- Egg (boiled/fried)
+- Lettuce
+- . One slice of cheese
+- How to make it:
+- First, take two slices of bread.
+- Spread the butter thinly on one side of each slice.
+- Then, put a slice of cheese on the buttered side of the bread.
+- After that, put egg on top of the cheese.
+- Next, arrange slices of cucumber and one tomato on the egg.
+- Later, place the other slice of bread on top.
+- Your sandwich is ready now.
+- If you want, you can cut the sandwich into two halves and serve.
+- AwRWN >
+- Handy Hints
+- Remember to wash and dry all vegetables before preparing them.
+- Be extra careful when handling sharp knife.
+- You may wish to choose a variety of fillings. For example, 4 slices of
+- cucumber, | slice of meat such as chicken loaf or meat loaf, mustard and
+- so on.
+- Al, Fill in the blanks and complete the instructions for making
+- a sandwich.
+- First, take two slices of
+- Second, spread on one side of them.
+- Then, put one slice of
+- After that, put
+- Later, arrange one slice of and
+- Finally, place the remaining slice of on
+- top of another and serve.
+- Here is a recipe for making an omelette. Complete the
+- recipe by replacing the pictures with words from the box.
+- A recipe: how to make the perfect Omelette
+- Use a minimum of pet per omelette. Break the eggs
+- = Sa F
+- in a small af . Put one "a of water and just
+- a little salt in the bowl. Add slices of ad
+- Beat the mix witha
+- Put oil in a aS . Then | the oil. When the oil
+- is hot, FZ the egg, onion and chilli mix into it. Spread the mix
+- ~~ well. You need a little bit of j |
+- round the pan. Leave the mix in the pan for 2/3 minutes. As it thickens turn it
+- in folds with a flat spoon. Your is ready. Take the pan and turn off the Rosy .
+- omelette pour cooking oil fork frying pan heat
+- spoon four eggs | onion stove bowl chilli
+- B1. Notice some of the words that you have used in the omelette recipe
+- above e.g. heat, beat, pour, etc. We use these words to describe
+- what we do while preparing food. Look at some more examples
+- of them. Can you match each action word in the box with a picture?
+- break
+- beat
+- boil
+- chop
+- fry
+- pour
+- stir
+- slice
+- Now, use some of the verbs above to write a simple recipe
+- for making instant noodles.
+- First, water into a pot.
+- . Put your pot on a stove and the water for two minutes.
+- some onions and a green chilli thinly.
+- . Then, add noodles into the water.
+- gently with a spoon.
+- . Add the spices that come with the noodles.
+- Add the onions and green chilli.
+- . Serve the noodles in a dish.
+- Co ON DAA Fw nN
+- an egg and add it on top if you want.
+
+## Lesson 19: Stop, Look and Listen
+
+Textbook pages 60-60 | PDF pages 65-65
+
+- Lesson 19 S§top,Look and Listen
+- After completing the lesson students will be able to
+- - read aloud texts with proper pronunciation, stress and intonation
+- - read and understand texts
+- Read the following verse:
+- "Stop, Look, and Listen"
+- Is a very good rule to use
+- Not just before you cross a street,
+- But when you look for clues.
+- Al, Did you enjoy the poem? Discuss with a partner about what the poet
+- is trying to say here.
+- Quickly read the following text with blank
+- spaces only once. Then listen to the audio file or
+- what your teacher reads out to fill in the blank
+- spaces. ,
+- Last week, for my , | got a little white-board and a package of colured
+- . I took it to school and to my teacher. I said that if I
+- on the little white-board at my desk, I could more carefully. My
+- teacher said there are ways to improve one's . But
+- she said it would be all to try it out. [hada terrible __ trying to
+- write as with chalk as the other children were writing with
+- I held the chalk so , it kept breaking in . When the lesson was
+- over, I was totally ____-. My wrist felt numb. I wrote this ___-s on my
+- and holding it was
+- whiteboard and left it on my desk. The chalk was too
+- too ! T'll try to find some easier to improve my writing.
+
+## Lesson 20: Hason Raja: The Mystic Bard of Bangladesh
+
+Textbook pages 61-62 | PDF pages 66-67
+
+- Hason Raja: The Mystic Bard
+- of Bangladesh
+- After completing the lesson students will be able to
+- - read and understand texts
+- - ask and answer questions
+- - read aloud with proper pronunciation, stress and intonation
+- Lesson 20
+- Look at the pictures below. Do you know who they are or
+- anything about them?
+- A "bard" is one who writes poems and songs. A "mystic" is one who seeks
+- truth and strives to become united with God through prayer and
+- meditation.
+- The pictures above are of three renowned mystic bards of Bangladesh:
+- Lalon Shah, Hason Raja, and Shah Abdul Karim. They all wrote beautiful
+- poems and songs to express their deep thoughts and feelings about God,
+- life, and love for humankind.
+- Let us know more about the mystic poet Hason Raja. Read
+- the following text:
+- Hason Raja was born in 1854, into a wealthy landlord family in Sylhet. He
+- did not receive much formal education as a child. In his youth, he lived a
+- life of luxury. He had everything- money, comfort and pleasure.
+- However, at one point in his life, he began to feel that these material
+- possessions were meaningless. He gave away all his property and
+- started to think deeply about the creator, life, death and humankind. He
+- wrote about a thousand songs which reflected
+- his thoughts. In 1906, he published a book
+- called Hason Udash. The book had 206 songs in
+- it. In his songs, he called himself 'Crazy Hason
+- Raja', or 'Pagla Hason Raja'.
+- Another volume called Hason Raja Samagra
+- (Complete Works of Hason Raja) was also
+- published, which contained 500 poems and
+- songs. Hason Raja's songs had always been
+- popular in Sylhet, but very soon they spread all
+- over Bangladesh and beyond. As you grow
+- older, try to learn more about this great mystic
+- poet through reading and listening to his songs.
+- B1. Answer the following questions:
+- When was Hason Raja born?
+- Where was he from?
+- What was his youth like?
+- Hason Raja
+- Why did Hason Raja leave his life of comfort and pleasure?
+- e. What was the other name by which Hason Raja was known?
+- B2. Practise reading the passage loudly giving proper attention to
+- pronunciation, pause and intonation.
+- B3. Learn the meanings of the words:
+- comfort, luxury, pleasure, volume, crazy, contain, beyond, eminent
+
+## Lesson 21: Wonders of the World-1
+
+Textbook pages 63-64 | PDF pages 68-69
+
+- Now, listen to the audio
+- Lesson 21 Wonders of the World-1
+- After completing the lesson students will be able to
+- follow instructions, commands, requests accordingly
+- - read and understand texts
+- Look at the pictures. What are they called?
+- and fill in the gaps of the following text:
+- The pyramids are huge .............ceeceeeeeeeeeeneeueeneeees for the ancient
+- kings and queens of Egypt. These kings and queens are known
+- as the wee It needed a few thousand ..................
+- . to build the pyramids. The most
+- ... are the Giza pyramids. Giza is a place
+- be beceeeeeeeeeeeeseeeeees of Egypt. The pyramids of
+- see ee eee eee ee een ees at Giza is the largest Egyptian pyramid. It is the
+- only one of the ....... eee still in existence.
+- Read the following text.
+- The Taj Mahal is also known as "the Taj". It is a white marble tomb
+- located in Agra in India. Do you know the story behind the Taj
+- Mahal? The Mughal emperor, Shah Jahan loved his wife Mumtaz Mahal
+- more than his life. Mumtaz died at an early age. Shah Jahan was very
+- shocked at her death. So he built the Taj Mahal as a token of love for
+- his wife. It is the place where Mumtaz is sleeping for ever.
+- The Taj has an area of about 1003 acres or 405 hectares. The Taj Mahal
+- is the finest example of Mughal architecture. It combines the art of Persia,
+- Turkey and India. It took 21 years and thousands of artisans and craftsmen
+- to complete the Taj Mahal. The Taj is universally admired as one of the
+- wonders of the world.
+- Now, make some questions based on the passage you
+- read, using the cues given below:
+- What is...
+- Where is.
+- How much.
+- When..
+- e. Why...
+- f. How many....
+- Complete the following table with the information given in the passage:
+- Shah Jahan built
+- Taj Mahal is
+- Its area is
+- Mumtaj died
+- To complete the Taj it took
+- Read the text about one of the wonders of the world, the Eiffel Tower.
+- Put the verbs in brackets into the correct tense.
+- The Eiffel Tower is a lattice tower in Paris. It ............... (be) built in
+- Now it is wee (consider) a cultural icon of France. It stands
+- as one of the most recognisable structures in the world too. The tower
+- bedeeeeeeeeee scene (be) famous as the tallest construction in Paris and the most-
+- visited paid monument in the world. Millions of people .. (ascend)
+- it every year. It is 320 metres (1,050 ft) tall, about the same height as an 81-
+- storey building. The tower ................ (have) three levels for visitors. A
+- visitor ..........4. (have) to walk over 300 steps to go from ground level to
+- the first level. The distance .................04 (remain) the same between the
+- first and the second level. The third and highest level can be .................
+- (access) only by a lift. The tower is ..............:.cceeeeeee (name) after the
+- engineer Gustave Eiffel, whose company ...................000008 (design) and
+- ceceeeeeceeeeeeeeeees (build) the tower.
+- Now, read the dialogue. What is it about?
+- Mong Pru Nira, I'm really surprised to know about these wonders.
+- What do you think?
+- Nira They are amazing! But the wonders of the present time are
+- also amazing. They are not as huge as the super structures
+- of the past but they are also incredible!
+- Mong Pru What do you mean?
+- Nira Just wait for now! Let me only say that some of the wonders
+- of the modern world are truly incredible! I mean, they are
+- really unbelievable! We'll read about them in the next lesson.
+
+## Lesson 22: Wonders of the World-2
+
+Textbook pages 65-67 | PDF pages 70-72
+
+- Lesson 22 Wonders of the World-2
+- After completing the lesson students will be able to
+- - read and understand texts
+- - writ- short paragraphs
+- Nira and Mong Pru are excited! They are waiting eagerly for their
+- teacher to come and start the lesson. They are going to read about
+- the wonders of the modern world. Read the text below:
+- People often speak about the wonders of the past. Mostly they were
+- huge buildings and constructions. They are awesome and _ fabulous, no
+- doubt. But the wonders of the present world are also unbelievable. Read
+- about the following recent inventions.
+- Computers
+- The invention of the computer is very important in 3
+- human life. It has changed the life style of people -
+- in the world. We use it in every sphere of our life.
+- We can use it for studies, communication, :
+- watching movies, listening to music, playing eee
+- games, etc. In a moment we can get information
+- from any part of the world on the computer.
+- People do not feel lonely as they can send emails
+- to their friends and relatives. Some of their friends
+- and relatives also live in far off countries. Even they can talk to them face
+- to face on different social media. With computer a person can always
+- keep himself updated. Everybody should learn to use the computer. In fact,
+- the computer has made people's work easier and faster. At present, it has
+- become a part of our daily life.
+- Space travel
+- Just a hundred years ago, people dreamed of ,
+- having wings like birds to fly high in the sky. That
+- dream came true when the Wright brothers built
+- the first aeroplane that could fly. Now, people can
+- travel much faster and higher than birds. Not only do we travel from one
+- country to another, but we have also invented spacecraft that can travel
+- from one planet to another Humans have set foot on the moon, and are even
+- exploring Mars! Advancements in space travel technology have enabled
+- scientists and astronauts to explore distant planets and moons. Who knows,
+- maybe one day we'll be able to spend a vacation on a planet in a different
+- galaxy, several thousand light-years away!
+- Mobile phones
+- Mobile phone is another useful invention of the world.
+- Like computers mobile phones help us greatly in our
+- daily life. Through mobiles we can connect the whole
+- world. Only a few years ago we had difficulty to contact
+- our near and dear ones. That was very costly too. Mobile
+- phones are very handy and we can use them for communication with
+- people at a very low cost. Mobile phones have different functions such
+- as making calls, listening to music, taking photographs, storing
+- information, etc. Even it can be used for distance learning.
+- Read the words in Column A and match them with the meanings
+- in Column B.
+- Column A Column B
+- lonely influence
+- sphere a vehicle that travels in space
+- impact surprise
+- wonder feeling alone
+- spacecraft area
+- A2. Read the words in Column A and match the opposite meanings
+- given in Column B.
+- Column A Column B
+- unbelievable simple
+- awesome backdated
+- fabulous ordinary
+- tremendous believable
+- updated tiny
+- Now, read the following dialogue and fill in the gaps with suitable
+- words. You can use some of the words from the earlier excercises
+- in activity Al & A2
+- Nira
+- Mong Pru
+- Nira
+- Mong Pru
+- Nira
+- Mong Pru
+- Nira
+- Mong Pru
+- Nira
+- Mong Pru
+- Have you finished reading, Mong Pru? What do you think?
+- Thank you, Nira. I must say they are really .............
+- Mong Pru, you see, most of the time we have access to
+- mobile phones or computers. But perhaps we often do not
+- feel the ........
+- You are right. By the way, do you have a computer?
+- Sometimes I use my parents' laptop. I play games, or watch
+- movies or browse the internet. I must say it is a good way
+- to avoid ........... iness.
+- So do you agree that it is not a luxury?
+- Oh, no! Not at all! Anyway, what's your opinion about mobile
+- phones and spacecraft?
+- Well, I always .......... how this tiny device works without
+- anycable and doso many things! It'sa.......... surprise
+- for us, isn't it?
+- No doubt about it! And spacecraft?
+- After reading the article we must say that it's 0... !
+- What innovation around you surprises you the most? Write a small
+- paragraph stating what it is, how it benefits you, and why you
+- are surprised.
+
+## Lesson 23: We Live in a Global Village
+
+Textbook pages 68-70 | PDF pages 73-75
+
+- Lesson 23 We Live in a Global Village
+- After completing the lesson students will be able to
+- - read and understand the texts
+- - follow instructions, commands, request and act accordingly
+- - understand and enjoy stories and poems
+- Look at the pictures and discuss with your partner what you see in
+- them.
+- Sohan has received a letter from his uncle, who is a captain in
+- the Bangladesh Army. At present, he is in Congo on a US
+- Peacekeeping Mission. Read his letter and do the activities that
+- follow:
+- Dear Sohan,
+- Thope you are doing well and focusing on your studies. I received your letter
+- last week, but did not have the time to write back. Things are really busy here
+- in Congo. I am glad to know that you read up about this country. You're
+- right- Congo is a country in Central Africa. It is rich in natural resources and
+- its people are incredible. However, there are several regions in this country
+- which face problems like political and ethnic conflict, often resulting in
+- violent incidents. We try to maintain peace and security in those areas. We
+- distribute food, water and medicine to people, and sometimes even build
+- houses for them. We also teach children in small schools.
+- Enough about the work I do here. Today, I'd like to tell you about an
+- interesting young man I met here. His name is Ashar Santoso. He was born
+- in Indonesia. When he was eight, he moved to Singapore with his parents and
+- went to a Singaporean school. After a few years, he went to Denmark and
+- completed his schooling there. For higher studies, he enrolled in a university
+- in the US, and completed both his bachelor's and master's degrees there.
+- Since then, he has travelled to many other countries around the world.
+- Ashar is now in Congo as a member of a voluntary organisation. His main
+- job is to take care of children's education in a community school. His group
+- has ten other members, all from different countries. Ashar is a nice fellow
+- and has become a good friend of ours. We call him 'Mr Global Citizen'.
+- I was talking to him the other day, and mentioned how impressed I am that
+- he has been to so many countries. I asked him how he felt about that, and he
+- said:
+- "Tt's really nice to work with different people. I get to know so much about
+- them - their language, family life, culture, their thoughts and aspirations. I
+- sometimes think I belong to all."
+- "Well, Ashar, you're a true global citizen," I said.
+- "Aren't you too, Reza?" smiled Ashar Santoso. "We're all part of the same
+- human race, aren't we?"
+- I've thought a lot about what Ashar said. I guess we can all be global citizens
+- if we look at the world and its people the way he does. How do you feel about
+- Well, that's all for today. I hope your final exams go well. Write to me soon.
+- With love,
+- Uncle Reza
+- B1. Now, match the words in column A with their meaning in column B.
+- po BT
+- challenging keep up
+- maintain international
+- graduation difficult
+- clash university degree
+- global fight
+- B3. If you got the chance to meet Ashar Santoso, what questions
+- Answer the following questions:
+- Where is Congo?
+- Who called Ashar Santoso 'Mr Global Citizen'? Why?
+- Would you like to be a global citizen?
+- would you ask him? Make a list of five questions.
+- Listen to the audio and fill in the following gaps:
+- The term 'global village' was .......... used by Marshal McLuhan. In 1962
+- and ......... he wrote two books on media and communication. In his books
+- he said that telephone, TV and electronic media have brought all mankind
+- close to one another. For example, if we see the news of floods in a distant
+- country on TV, we feel that we are also .......... there. We can see what
+- is happening at the same moment. We can share the same suffering with
+- the people who are in the real ............ at the moment. McLuhan
+- believed that electronic .--. would make the world a global village.
+- When he first said about the idea of global village, the Internet was not
+- invented. But now, personal computers and the Internet have made McLuhan's
+- idea more ........... than ever. Now the entire globe is ........... in a world-
+- wide web called 'The Internet'.
+
+## Lesson 24: Our Wage Earners
+
+Textbook pages 71-74 | PDF pages 76-79
+
+- Lesson 24 Our Wage Earners
+- After completing the lesson students will be able to
+- - ask and answer questions
+- - read and understand texts
+- - participate in short dialogues and conversations on familiar topics
+- A, Look at the pictures and the words in the following box. Discuss and
+- say which words are related with the pictures.
+- wage earner, skilled worker, economy, job, tourists, pleasure, abroad,
+- foreign
+- Answer the following questions in pairs, then read the text
+- below:
+- - Do you know anyone who has gone abroad to earn a living?
+- e@ Which countries do Bangladeshi workers go to?
+- - How much money do you think they earn?
+- A large number of Bangladeshis go abroad for work. There is always a high
+- demand for workers in countries like the UAE, Oman, Saudi Arabia, Qatar,
+- Bahrain, etc. These countries prefer Bangladeshi workers because they are
+- hard-working. However, it is unfortunate that many of our workers are
+- forced to do "odd" jobs in those countries, and as a result, they are not paid
+- well. One reason for this is that Bangladeshi workers are often not good at
+- English, Arabic or other languages which are required abroad. Therefore, it
+- is important for workers to develop their language skills before going to
+- other countries for work. This will help them secure better jobs and receive
+- the pay and benefits they deserve. In this way, they will be able to support
+- their families better, as well as contribute more effectively to the
+- development of our economy.
+- B1.Complete column B of the table below with information from the
+- text you have read.
+- Column A Column B
+- workers
+- Countries which prefer Bangladeshi
+- Skills required for good jobs abroad
+- skills
+- Advantages of developing language
+- Advantages of getting better jobs
+- Sohan had a conversation with a Bangladeshi doctor, Mr Arman
+- who works in a hospital in Cairo, Egypt. Read and practise the
+- dialogue in pairs.
+- Sohan
+- Dr. Arman
+- Sohan
+- Dr. Arman
+- Sohan
+- Dr. Arman
+- Sohan
+- Dr. Arman
+- Sohan
+- Can you tell me a little about Cairo?
+- Sure. What would you like to know?
+- Well, what's a good time to visit there?
+- I think you can visit any time. The weather is more or less
+- the same.
+- Good! And what should I see there?
+- Well, you can visit the Cairo Museum and you should see
+- the mummies. And you mustn't leave Cairo without visiting
+- the Pyramids.
+- Anything else?
+- Oh yes. If you have time, you may visit Port Suez. You could
+- have an excellent night view of the Red Sea.
+- It all sounds exciting! Thank you very much.
+- Language Focus
+- Modal verbs can/can't, could/couldn't, may, should, must/mustn't:
+- Can you tell me something
+- about Cairo? Yes, I can. /No, I can't.
+- You could enjoy the night view of Port
+- What else could I see there? | Suez. But you couldn't go across the Red
+- Sea without valid visa.
+- You can have traditional Egyptian dishes
+- What can I have for dinner? or Continental European, as you wish.
+- What should I see in Cairo | You should see the mummies. But you
+- museum? mustn't leave Egypt without visiting the
+- Pyramids.
+- Complete the sentences about what a tourist can do and see in Dhaka.
+- Use the verbs from the box.
+- can see, may spend, can go, could (even) taste, shouldn't miss, should
+- visit, should go for, mustn't drink, may try
+- to Sonargaon.
+- the capital of ancient Bengal there.
+- the Lalbagh Fort in the old part of Dhaka.
+- a couple of hours at the Baldha Garden.
+- the Ahsan Manzil too.
+- a boat ride on the Buriganga river.
+- the taste of Mughlai Khana once you're in Dhaka.
+- a Tom Tom ride from Sadarghat to Gulistan.
+- YOu... eee Chatpati or Fuchka on the footpath.
+- But you ......... tap water in a restaurant.
+- Read the sentences in Section D (1-10) again. Suppose, a foreign
+- traveller wants to visit Dhaka. He wants some information from
+- you, such as, when to visit, what to see, where to eat, what to do
+- in Dhaka, etc. Complete the following dialogue taking the cue from D.
+- Foreign
+- traveller
+- You
+- Foreign
+- traveller
+- You
+- Foreign
+- traveller
+- You
+- Foreign
+- traveller
+- You
+- Can you tell me a little about Dhaka?
+- Sure. What ..........0 cece eee ee eee e ee eeeeee to know?
+- Well, what's ............ccccccecececececeseeeeeeeseeneneeenenes ?
+- I think you can visit in winter. The weather is .......... .
+- Good! And what ................00c eee there?
+- Well, you can visit Sonargaon Folk Art Museum and you
+- besbeeeeeeees the handicrafts, But you .............. Dhaka without
+- visiting the Lalbagh Fort.
+- bec eeeteeeeeeeeee neces ?
+- Oh yes. If you have time, you .............00608 Ahsan Manjil.
+- YOU ...eeeeeeee have an excellent experience of the Mughal and
+- the British architecture by visiting it.
+
+## Lesson 25: The Concert for Bangladesh
+
+Textbook pages 75-77 | PDF pages 80-82
+
+- Lesson 25
+- The Concert for Bangladesh
+- After completing the lesson students will be able to
+- - read and understand texts
+- - ask and answer questions
+- - participate in short dialogues and conversations on familiar topics
+- . It's Friday evening. Mr. Farhad is watching television in the sitting
+- room. His daughter Fahmida comes in. A tall, bearded man with long
+- hair is playing a guitar and singing a song, "Bangladesh, Bangladesh..."
+- on the television screen. Fahmida is thrilled to watch a foreigner singing
+- a song on Bangladesh. She has the following conversation with her
+- father about the song and the singer:
+- Fahmida
+- Mr. Farhad
+- Fahmida
+- Mr. Farhad
+- Fahmida
+- Mr. Farhad
+- Fahmida
+- Father, who is this singer? He is
+- not a Bangladeshi, is he?
+- You are right! He is not. He is a
+- famous singer from
+- England. His name is George
+- Harrison.
+- George Harrison! Why did he
+- sing the song on Bangladesh?
+- That's a huge story. Harrison
+- was not only a famous singer
+- but also a great humanist. He helped us during our Liberation
+- War of 1971.
+- Did he come to Bangladesh to
+- take part in the Liberation War?
+- No, my child, he didn't come to
+- Bangladesh, but he fought for
+- our cause by organising the
+- historic Concert for Bangladesh.
+- Concert for Bangladesh! Please,
+- father. Tell me more about it.
+- Mr. Farhad
+- Fahmida
+- Mr. Farhad
+- Fahmida
+- Mr. Farhad
+- Well, the Concert for Bangladesh was held on the Ist August,
+- 1971 at the Madison Square Garden, New York. George
+- Harrison and some other famous musicians performed in
+- that live concert in front of an audience of about forty thousand
+- people. It was organised to make the world aware of the
+- sufferings of Bangladesh during our liberation war.
+- Wasn't that great!
+- Yes, it was great! The concert won huge support for the
+- millions of war victims of Bangladesh. At the same time it
+- raised millions of dollars for UNICEF relief fund.
+- I'm really glad that you told me all this, Father. I think we
+- should be grateful to George Harrison and his friends who
+- organised the Concert for Bangladesh.
+- You are right, dear! G. Harrison was posthumously honoured
+- by the people of Bangladesh in 2012
+- In pairs, discuss if the following statements are True or False. If
+- false, correct the statement.
+- George Harrison was from the United States.
+- In 1971, George Harrison visited Bangladesh to take part in the liberation
+- war.
+- A huge audience attended the Concert for Bangladesh.
+- George Harrison was the only well-known musician to take part in the
+- Concert for Bangladesh.
+- e. The people of the world became aware ofthe crisis in Bangladesh
+- following the Concert for Bangladesh.
+- Read the lyrics of the song aloud. Here are some parts of the song
+- 'Bangladesh'.
+- Bangladesh
+- My friend came to me, with sadness in his eyes
+- He told me that he wanted help
+- Before his country dies
+- Although I couldn't feel the pain, I knew I had to try
+- Now, I'm asking all of you
+- To help us save some lives
+- Bangladesh, Bangladesh
+- Where so many people are dying fast
+- And it sure looks like a mess
+- I've never seen such distress
+- Now, won't you lend your hand and understand
+- Relieve the people of Bangladesh
+- Bangladesh, Bangladesh
+- Such a great disaster - I don't understand
+- But it sure looks like a mess
+- I've never known such distress
+- Now, please don't turn away, I want to hear you say
+- Relieve the people of Bangladesh
+- Relieve Bangladesh.
+- Now, complete the summary of the first three stanzas of the song
+- "Bangladesh' with suitable words from the box below the passage.
+- My friend came to me with sad eyes and requested me to help his
+- country before it died. Though I could not feel the pain, but I think I
+- should try to help. I also appeal to you all to (1) us to save
+- the lives of those people. The country is facing (2) and
+- I have never seen such sufferings. Now, won't you (3)
+- beside the people of Bangladesh and (4) forward to reduce
+- their sufferings?
+- support stand come problems
+- Do you know any Bangla song that inspired the people of
+- Bangladesh during the war of liberation in 1971? Discuss in groups
+- and write down the first line or a few lines of the song in Bangla.
+- What is the first line of the song?
+- What is the song about?
+- Who is the singer of the song?
+- Where did you hear the song first?
+- e) How do you feel when you listen to this song?
+
+## Lesson 26: Buying Clothes
+
+Textbook pages 78-82 | PDF pages 83-87
+
+- Lesson 26 Buying Clothes
+- After completing the lesson students will be able to
+- - ask and answer questions
+- - read and understand texts
+- trousers jacket saree panjabi | shorts blouse/top
+- polo shirt | frock/dress | jeans T-shirt shoes salwar-kameez
+- In pairs, discuss the following questions about you.
+- Have you ever been to a clothes shop?
+- If no, then who buys your clothes?
+- If yes, then who did you go with to the clothes shop?
+- Which new clothes would you like to buy right now?
+- What is your favourite colour?
+- YARYN
+- Mrs.Urmila Karim is going to buy some clothes for her son Imran.
+- They are now at a clothes shop. Read the conversation between Imran
+- and the shop assistant.
+- Imran Excuse me, where are the polo shirts?
+- Assistant They're over there in the boy's section. Let me show you.
+- Imran Thanks. Do you have one without a chain?
+- Assistant Yes, quite a few, sir. What size do you wear?
+- Imran May be a medium?
+- Assiatant Here you are! This one is in medium size.
+- Imran A medium! But it's too big!
+- Assistant How about this? This is small.
+- Imran Yeah, I think this size is OK. Do you have it in a different
+- colour?
+- Assistant What colour would you like?
+- Imran Blue, I guess.
+- Assistant Just a moment please, I'll check. How about this one? It's a
+- nice sky blue.
+- Imran Yes, this is a nice colour. Can I try this on?
+- Assistant Sure! The trial room is at the back.
+- Imran Thank you. It's just perfect! How much is it?
+- Assistant It's taka three hundred. This shirt is on sale this week.
+- Imran Mom, can I buy this one?
+- Mom Sure, dear! Shall we go and pay at the cash counter?
+- Salesman Yes, Ma'am. Would you follow me, please?
+- C1. Complete the sentences using the words from the conversation in B.
+- Imran does not like polo shirts with a ................ :
+- A ieeececeeeee eee eees size shirt fits Imran perfectly.
+- The shirt that Imran chose finally is ................. in colour.
+- He wants to... the polo shirt on before buying it.
+- The polo shirt that Imran likes is on ................. this week.
+- C2, Look at the useful expressions that Imran uses at the shop. Use the
+- words below for each incomplete sentence to make a complete sentence.
+- Excuse me, where are the ............... 066 ?
+- polo shirts/trousers/socks/shoes
+- Do you have the kinds without .............. ?
+- buttons/lace/hooks
+- Do you have these in a different ................. ?
+- colour/size/design
+- How much is/are weed
+- this/these/the shirt/these socks/the trousers, etc.
+- Read the conversations between Mrs. Urmila Karim and Imran. Which
+- clothes do they choose? Tick the correct picture for each conversation.
+- Dialogue 1:
+- Mrs.Karim Look at these jeans.
+- Imran No, mom. That is too narrow. I want some baggy ones.
+- Mrs. Karim Flat, you mean?
+- Imran No, not flat. Just baggy, you know, loose fitting with
+- iil
+- pockets on the sides.
+- Dialogue 2:
+- Mrs. Karim
+- Imran
+- Mrs. Karim
+- Imran
+- Mrs. Karim
+- Dialogue 3:
+- Mrs. Karim
+- Imran
+- Mrs. Urmila
+- Imran
+- Dialogue 4:
+- Ineed some shoes.
+- How about these?
+- No, the heels are too high.
+- Do you want flat shoes then?
+- No, not flat, something in between.
+- A bit of heel but not too high.
+- What about this T-shirt, Imran?
+- No, mom. I don't like the cartoon on the front.
+- Well, what about that one, with writings on the chest?
+- No, I don't really like that either. I want something
+- completely plain, like this one, no writings, just plain.
+- Imran I need to buy a shirt, too.
+- Mrs. Karim Look, this shirt has nice prints!
+- Imran No, mom. I want something more formal.
+- Mrs. Karim - Then what about this one with stripes?
+- Imran No, it's too boring. Look at this shirt with checks. This
+- looks nice.
+- Mrs. Karim Yes, that's much better. Well, take it then.
+- Practise the dialogues with a partner.
+- Fill in the blanks in the following sentences with words from the box
+- below.
+- try wearing flat match suit
+- size cheaper shorts fit
+- [have gained so much weight. My clothes do not ................008 me
+- any more.
+- Inever wear red. It does not ...............00665 me.
+- You have got a nice blue top. You just need a pair of sky jeans to
+- A:I'd like to this dress on, please.
+- B: Sure, the trial room is over there.
+- I like this jacket but it's too small. Have you got it in a bigger
+- bec eeeeeeeeeeeeeeaes ?
+- What are you .......... ee to the function tonight?
+- These heels are too high. I am looking for some ................0008 shoes
+- I like that dress, but it's too expensive. I want something like that but
+- I think I need a pair of
+- are always good for going to the beach.
+- for my trip to Cox's Bazar. They
+
+## Lesson 27: Andre
+
+Textbook pages 83-83 | PDF pages 88-88
+
+- Lesson 27 Andre
+- After completing the lesson students will be able to
+- - read aloud texts with proper pronunciation, stress and intonation
+- - read and understand written instructions
+- - understand and enjoy stories and poems
+- Read the following poem:
+- André
+- -Gwendolyn Brooks
+- Thad a dream last night. I dreamed
+- Thad to pick a mother out.
+- Thad to choose a father too.
+- At first, I wondered what to do,
+- There were so many there, it seemed,
+- Short and tall and thin and stout.
+- But just before I sprang awake,
+- I knew what parents I would take.
+- And this surprised and made me glad:
+- They were the ones I always had!
+- Underline all the verbs in the poem above. Then, list them in two
+- columns: present tense and past tense. Next, change the verbs in
+- the past tense to their present form, and the present tense ones to
+- their past form.
+- Example: Present tense Past tense
+- have had
+- choose
+- Read the poem aloud with proper pronunciation, stress and intonation.
+
+## Lesson 28: Are You Listening?-3
+
+Textbook pages 84-85 | PDF pages 89-90
+
+- Lesson 28 Are you Listening?-3
+- After completing the lesson students will be able to
+- - recognise English sounds
+- - recognise word and stress on words in sentences
+- - read aloud with proper pronunciation, stress and intonation
+- Listen to and say the following words. Notice how the letter 'O' is
+- pronounced in words in List 1 and List 2
+- List 1 List 2
+- hop hope
+- rob robe
+- not note
+- rod rode
+- Al. Listen to and practise saying some more words with the two vowel
+- sounds together (dipthong) as in the word 'hope' or 'note'.
+- bowl boat
+- coke coat
+- bone phone
+- throw snow
+- old gold
+- window closed
+- A2. Read the following passage. Choose a word from the list of words
+- below to fill in each of the blanks in the sentences.
+- phone | bowl
+- hope} home
+- stove | close
+- coke | note
+- I was waiting for my friend Shila. But since she was late, I thought I
+- would just go to the bookstore and get some stationery from there. But
+- before leaving , [left the following
+- next to the
+- Sorry, I'm going out. Won't take long-
+- and a
+- ['ve left two cans of
+- of fruits on the table.
+- There is a box of biscuits near the be
+- forget to the lid of the box tightly.
+- Don't forg'
+- i e :
+- Tf you want tea, the kettle is on th
+- to be back in half an hour.
+- Read the note for Shila loudly with proper pronunciation, stress
+- and intonation.
+
+## Lesson 29: Taking a Test
+
+Textbook pages 86-87 | PDF pages 91-92
+
+- Lesson 29 Taking a Test
+- After completing the lesson students will be able to
+- - read and understand written instructions
+- - read and understand texts
+- Read the passage below:
+- Hena and her twin sister Bina both study in class six. They are having the
+- half-yearly examination at school. Today they are going to take the English
+- test. Their teacher Ms. Shima Chowdhury enters the classroom. Before the
+- test starts, she gives some instructions to the class.
+- Read the following sentences and write down the instructions that
+- Ms. Chowdhury may give in each situation. Use 'Do not' or 'cannot',
+- if necessary. One is done for you.
+- write down | talk read start | go | be quiet
+- put away copy
+- Teacher comes into the class and finds the students making a lot of noise.
+- Answer : Be quiet, please! Do not make any noise.
+- Teacher sees books and papers on students' desks. She tells them,
+- all books and papers from your desks.
+- She gives scripts to the students and says, your name,
+- class, section, roll number, subject and date.
+- She gives the question papers and tells them, the questions
+- carefully.
+- e. from someone else's script.
+- f. with others.
+- g. You out before one hour is over.
+- h. writing.
+- Look at the following signs.
+- B1, Fill in the blanks in the following sentences to complete the instructions
+- for the above signs. Use the words in the box. Add 'Do not' if necessary.
+- use | walk | pay throw drive blow
+- i. Hospital ahead! horns.
+- ii. on the grass.
+- iii. litter in public places. the waste bin.
+- iv. for your goods at the cash counter.
+- v. carefully. Children's playground ahead!
+
+## Lesson 30: What Should We do?
+
+Textbook pages 88-89 | PDF pages 93-94
+
+- Lesson 30 What Should We Do?
+- After completing the lesson students will be able to
+- - read and understand texts
+- - read and understand written instructions
+- - write questions and answers
+- - writ- short paragraphs
+- Read the following dialogue:
+- Bahar, Azim, Joseph and Shujan are classmates. They are planning a
+- vacation.
+- Bahar We have a week's vacation next week.
+- What should we do?
+- Azim Let's go somewhere we haven't been before.
+- Joseph Right! I saw an ad for an interesting place.
+- Hmm... well, here it is!
+- Bahar Let me see! Ah! A two day trip to Kuakata!
+- That sounds interesting! Look at the picture of
+- the sea- beach and the sunrise! It looks fantastic!
+- Azim Well, I've always wanted to climb a mountain.
+- Why don't we go to the Chimbuk Mountains
+- in Bandarban?
+- Shujan I've an idea! How about going to the Sunderbans?
+- We can see some wild animals and can also
+- take pictures of the forests and the sea.
+- Bahar Well... well... calm down everybody!
+- We can't go to all the places and do all
+- the things at a time, right?
+- Joseph Yeah. Let's think about all the options and then decide.
+- Al, Make a list of the places the friends wanted to go to.
+- Why did they want to go to these places?
+- A2., Think of a place you would like to go to. Now write down a few
+- sentences about where you want to go, why you want to go there, who
+- you want to go with.
+- Language Focus
+- For suggestions, we often use these expressions:
+- What should we do?
+- Why don't we
+- How about...............0.00e0ee ?
+- A3. Write short dialogues for the following situations. Use the expressions
+- in the Language Focus.
+- You and your friends want to do a class project. Discuss and decide
+- what you want to do.
+- clues: poster, drawing, wall magazine , drama, etc.
+- You and your friends want to buy a gift for your teacher on his/her
+- birthday. Discuss and decide what gift to get.
+
+## Lesson 31: Too Much or Too Little Water
+
+Textbook pages 90-91 | PDF pages 95-96
+
+- Lesson 31 Too Much or Too Little Water
+- After completing the lesson students will be able to
+- - read and understand texts
+- write short paragraphs
+- Look at the pictures.
+- A1. Discuss in groups what you see in the pictures.
+- A2, Read the following passage:
+- Sometimes it rains so heavily that floods occur. Because of heavy rainfall,
+- river water overflows its banks and floods vast areas of land, towns and
+- villages.
+- A3. Write down a few sentences about how people suffer if there is too
+- much water.
+- Read the following passage:
+- Sometimes we really are short of water. This can happen if there is no
+- rainfall for a long period of time. Sometimes rivers dry up, or the water
+- level underground may sink very low. If there is too little water, that causes
+- a lot of suffering to the people.
+- B1. Look at the pictures below and discuss what you see.
+- B2. Look at the pictures above and talk about how people suffer if there
+- is too little water.
+
+## Lesson 32: An Invitation for Robin
+
+Textbook pages 92-93 | PDF pages 97-98
+
+- Lesson 32 An Invitation for Robin
+- After completing the lesson students will be able to
+- - read and understand texts
+- - ask and answer questions
+- - writ- short paragraphs
+- - writ- simpl- informal letters
+- Read the following passage and the letter.
+- Robin received a letter. He read the letter over and over. He was very
+- excited. It came from his aunt Amina. Aunt Amina and her family live in
+- the countryside forty miles away from Dhaka. Robin ran to his mother
+- and said, "Mom, listen to this letter." He then read it to her.
+- Master Bari
+- Banchharampur
+- Baria
+- : 10 June, 2025
+- Dear Robin,
+- We are happy to know that your summer holiday is
+- starting from the next week. We would like you to
+- come and stay with us for a few days.
+- We know you'll like the country. We have four
+- ducks, six chickens and a cow that gives fresh
+- milk every day.
+- Your cousin Maher is just about your age. He's
+- very excited and is making a lot of plans to do
+- together.
+- Let us know when you will arrive. We have already
+- talked to your parents. Tell them not to worry. We'll
+- be at the bus station to receive you.
+- Your Aunt Amina and
+- Uncle Karim
+- Language Focus
+- For requests and invitations we often use the following expressions:
+- 'Would like you to' to mean, 'Would you please' or just 'Please do'
+- 'Let us know' to mean, 'inform us', or simply 'tell us'
+- Al, Read the letter again and then answer the following questions:
+- Why was Robin excited?
+- How would he go to the country?
+- A2. Write a few sentences of your own with the following expressions:
+- I would like you to
+- Would you please
+- A3. Write a similar invitation letter to a friend. Tell him /her about some
+- of the things you plan to do together.
+- A few days after Robin came back home from his aunt's house, he
+- wrote the following letter to his Aunt Amina. Read the letter.
+- 69-70, Motijheel
+- Dhaka-1000
+- 15 April, 2025
+- My dear Aunt,
+- T really enjoyed my stay with you in the country. For a city boy, it was a
+- whole new world to see. I was so proud when I first milked your cow
+- 'Dulari'. Uncle and you have taught me
+- things that I didn't know before. And
+- please tell Maher that I already miss
+- him. I hope you'll invite me to stay with
+- you again next summer.
+- Thanks again for inviting me.
+- Robin
+- B1. What do you think is the main idea of the letter? Choose the best
+- answer:
+- To ask his aunt to invite him again.
+- To thank his aunt for inviting him.
+- To tell his aunt that he learned many things in the country.
+- B2, Discuss in groups what is meant by the following expressions:
+- a city boy, a whole new world, miss someone
+
+## Lesson 33: The Garden
+
+Textbook pages 94-100 | PDF pages 99-105
+
+- Lesson 33 The Garden
+- After completing the lesson students will be able to
+- - read and understand texts
+- - use punctuation marks e.g. comma, full stop, qusestion mark, exelamation
+- mark, quotation marks in sentences
+- - understand and enjoy a story
+- Read the story below:
+- The Garden
+- Arnold Lobel
+- Frog was in his garden. Toad came walking by.
+- "What a fine garden you have, Frog." he said.
+- "Yes," said Frog. It is very nice, but it was hard
+- work."
+- "I wish I had a garden," said Toad.
+- "Here are some flower seeds.
+- Plant them in the ground," said .
+- Frog, "and soon you will ha
+- a garden."
+- "How soon?" asked Toad.
+- "Very soon," said Frog.
+- Toad ran home. He planted the flower seeds.
+- "New seeds," said Toad, "start growing."
+- Toad walked up and down a few times. The seeds did not start to grow.
+- Toad put his head close to the ground and cried, "Now seeds, start growing!"
+- The seeds did not start to grow.
+- Toad put his head very close to the ground and shouted, "NOW SEEDS
+- START GROWING!"
+- Frog ran up the path. "What is going on?" he asked. Q g
+- "My seeds will not grow," said Toad.
+- "You are shouting too much," said Frog.
+- "These poor seeds are afraid to grow."
+- "My seeds are afraid to grow?" asked
+- Toad.
+- "Yes," said Frog. "Leave them alone for
+- a few days. Let the sun shine on them, let
+- the rain fall on them. Soon your seeds will
+- start to grow."
+- That night Toad looked out his window.
+- "Oh, no!" cried Toad. "My seeds have
+- not started to grow. They must be afraid of
+- the dark."
+- Toad went out to his garden.
+- "I will read the seeds a story," said Toad.
+- Toad read a long story to his seeds.
+- All the next day Toad sang songs to his
+- seeds.
+- And all the next day Toad read poems to
+- his seeds.
+- And all the next day Toad played
+- music for his seeds.
+- Toad looked at the ground. The seeds
+- still did not start to grow.
+- "What shall I do?" cried Toad. "These seeds are still afraid to grow."
+- Then Toad became very tired, and he fell asleep.
+- "Toad, Toad, wake up," said Frog. "Look at your garden!"
+- Toad looked at his garden. Little green
+- plants were growing up out of the ground.
+- "At last," shouted Toad, "my seeds are not afraid anymore."
+- "And now you will have a nice garden,
+- too," said Frog.
+- "Yes," said Toad, "but you were right, Frog. It was very hard work."
+- Al. Choose the right answer.
+- The first thing Toad did was he ------------
+- watered the seeds
+- kept the seeds in the sun
+- planted the seeds
+- put the seeds in a box
+- A2. Match a word in column A with a word in column B that goes together.
+- One is done for you.
+- Column A Column B
+- play seeds
+- vee | hard
+- plant > music
+- read plants
+- work stories
+- A3, Punctuation marks
+- Punctuation marks are special symbols used in writing to separate
+- sentences and phrases. They show how a piece of text should be read and
+- understood. The most common punctuation marks in English are:
+- Full stop (.) - This shows that the sentence has ended.
+- Comma (,) - This indicates a short pause in the sentence.
+- Question Mark (?) - This is used when asking a question.
+- Exclamation Mark (!) - This shows excitement or surprise!
+- Quotation Marks (" ") - These are used to show that someone
+- is speaking.
+- Now, read the story "The Garden" again carefully. Identify the punctuation
+- marks in the story, and notice how they are used.
+- A4, Read the following passage. All punctuation marks are missing in
+- it. Put punctuation marks as necessary. Use capital letters where
+- you should.
+- bobby and farid were walking to school one morning in february suddenly
+- farid asked bobby did neel ask you to go to his house this afternoon
+- bobby said yes he did it's his birthday today really said farid what
+- should we give him on his birthday
+- AS. Learn the meanings of these words:
+- Toad, seeds, plant, grow, shout, dark
+
+## Sample Question
+
+Textbook pages 101-110 | PDF pages 106-115
+
+- Sample Question
+- Subject: English First Paper
+- Class: Six
+- Time: 3 hours Marks: 100
+- [Marks for individual items are mentioned next to the test items]
+- Part A - Reading (Marks: 70)
+- Read the text and answer the questions 1 & 2:
+- Bulbul collects rubbish from the Sankar area in Dhaka. Every morning, he wakes
+- up at 5 o'clock and walks along the streets of Sankar to collect rubbish. People
+- of Sankar put their rubbish in plastic bins and leave them in front of their houses.
+- Bulbul walks from door to door to collect them. Sometimes the bins are very
+- dirty and they smell bad. But Bulbul does not mind. He takes out everything
+- from the bins and puts them in his van. He believes that all jobs are important.
+- He works hard every day to keep this area clean.Last month Bulbul was sick for
+- two days. So, he could not come to collect the rubbish. The people of Sankar
+- were in great trouble. They got piles of rubbish waiting in front of their houses.
+- The whole area became dirty and unhygienic. When Bulbul got well, he came
+- back to Sanker. He collected everything from all the bins. Bulbul does not want
+- to fall sick again. He realises, if he stops working even for a few days only, the
+- whole area will turn into a big dustbin.
+- Choose the best answer from the alternatives: 1x7=7
+- What time does Bulbul wake up every morning?
+- i. 4 o'clock
+- ii. 5 o'clock
+- iii. 6 o'clock
+- iv. 7 o'clock
+- Where does Bulbul collect rubbish from?
+- i. Gulshan
+- ii. Mirpur
+- iii. Sankar
+- iv. Banani
+- How do the people of Sankar dispose of their rubbish?
+- i. They throw it on the streets.
+- ii. They keep it inside their homes.
+- iii. They burn it in their yards.
+- iv. They put it in plastic bins and leave them in front of their houses.
+- Why was Sankar in great trouble last month?
+- i. Bulbul went on vacation.
+- ii. The people refused to throw away their rubbish.
+- iii. Bulbul was sick for two days and could not collect the rubbish.
+- iv. A storm scattered the rubbish everywhere.
+- e) What does Bulbul believe about his job?
+- i. It is not important.
+- ii. Only educated people should do it.
+- iii. All jobs are important.
+- iv. He does it just for money.
+- f) What happened when Bulbul could not collect the rubbish for two
+- days?
+- i. The people of Sankar managed it themselves.
+- ii. The whole area became dirty and unhygienic.
+- iii. The rubbish disappeared on its own.
+- iv. The government cleaned the area.
+- g) Why does Bulbul not want to fall sick again?
+- i. He enjoys his work.
+- ii. He fears losing his job.
+- iii. He wants to earn more money.
+- iv. He knows the area will turn into a big dustbin if he stops working.
+- Write short answers to the following questions: 5x2=10
+- Why does Bulbul wake up early in the morning?
+- How did the people of Sankar suffer when Bulbul was sick?
+- What does this story teach us about the importance of Bulbul's job?
+- Where do the people of Sankar leave their rubbish?
+- e) Why did Bulbul stop working?
+- Read the text and answer the questions 3 & 4:
+- A proverb says 'Health is Wealth'. To keep healthy is to keep free from disease
+- and anxiety. Good health is proper functioning of all body organs. It is also
+- feeling well both in body and in mind. People in good health are active, cheerful
+- and happy. If you are healthy, you can be happy and can help others in society as
+- well.
+- To keep in good health we should be careful about hygiene. The rules and
+- practices of keeping good health are called hygiene. We must practise the rules
+- of hygiene. Proper food and nutrition, physical exercise, rest and sleep,
+- cleanliness, and proper medicare are essential for good health.
+- Complete the passage with suitable words: 1x5=5
+- Good health means proper functioning of body organs and feeling well in
+- body and mind. Healthy people remain a) , cheerful, and happy. They
+- can enjoy life and b) others. To maintain health, follow hygiene princi-
+- ples, which include rules and c) for staying healthy. Proper food, d)
+- exercise, rest, cleanliness, and medical care are essential for e)
+- health.
+- 4, Read the passage carefully and replace the following words with
+- their suitable synonyms or antonyms. 1x5=5
+- Wealth (Synonym)
+- Cheerful (Synonym)
+- Maintain (Synonym)
+- Necessary (Antonym)
+- e) Proper (Antonym)
+- Read the text and answer the questions 5, 6 & 7:
+- Bangladesh is a land of natural beauty. Its villages are full of green fields, rivers, and
+- trees. Most people in Bangladesh live in villages. They work as farmers, fishermen or
+- craftsmen. The air in the villages is fresh, and life is peaceful. People wake up early in
+- the morning and start their daily work. Farmers grow rice, jute and vegetables in their
+- fields. Fishermen catch fish from rivers and ponds.
+- The houses in villages are simple but comfortable. Many houses have gardens with
+- fruit trees like mango, jackfruit and banana. The villagers celebrate different festivals
+- like Pahela Boishakh and Nabanna Utsab with joy. They help each other in times of
+- need. Life in rural Bangladesh is simple, but it is full of happiness. The natural beauty
+- and fresh environment make the villages a wonderful place to live.
+- Complete the table with information from the passage. 1x5=5
+- Topic Information from the passage
+- Main occupation of villagers j) ---------------
+- Freshness of village air ii) --
+- Crops grown by farmers _ iii) --
+- Fruits grown in village gardens _ iv)
+- e) Festivals celebrated in villages _v) -
+- Read the statements below. Write 'True' if the statement is correct and
+- 'False' if it is incorrect. If false, write the correct answer. 1x5=5
+- Villages in Bangladesh are full of green fields, rivers and trees.
+- Most villagers in Bangladesh work in factories
+- Farmers in villages grow rice, jute and vegetables.
+- There are no fruit trees in village gardens.
+- e) People in villages celebrate festivals like Pahela Boishakh and Nabanna
+- Utsab.
+- Write a summary of the passage in your own words, 10
+- Match the parts of sentences from the Columns A and B to make five
+- complete sentences.
+- (a) Food is one of the basic (i) without it
+- (b) It is essential (ii) needs of human beings
+- (c) We cannot live (ii) for our survival
+- (d) So, we must always (iv) kind of food for good health
+- (e) Good food means the right (v) have good food
+- Put the following parts of the story in the correct order to make the whole
+- story. Only the corresponding numbers of the sentences need to be written.
+- He lost his father in his childhood.
+- He was fond of adventures, music and jatra party.
+- He spent his early life in great hardship.
+- Nazrul Islam was born on the 20th May 1899.
+- As a boy being restless and absent-minded, he did not like the hard and
+- fast rules of the school.
+- One day, Dukhu Mia became a great poet.
+- You will have heard the name of Kazi Nazrul Islam.
+- So he was called Dukhu Mia.
+- book.
+- Answer any five of the following questions from the poems in your text-
+- What is the main idea of the poem "Holding Hands"?
+- What does the poet say about trunks and tails in the poem "Holding
+- Hands"?
+- What does the line "But bows cannot be built in heaven" suggest in the
+- poem "Boats sail on the rivers"?
+- What is the overall theme of the poem "Boats sail on the rivers"?
+- e) How does the poem "The Chaos" highlight the challenges of English
+- pronunciation and spelling?
+- f) What is the main theme or purpose of the poem "The Chaos"?
+- g) Who is the central character in the poem "Andre", and what is his
+- story?
+- h) What lesson do you learn from the poem "Andre"?
+- Part B - Writing (Marks: 30)
+- Read the opening of a story below and complete it in at least ten new
+- sentences. Give a suitable title to it. 10
+- Once upon a time, there was a boy named Mamun. He was a student of class
+- One day, while he was returning from school, he found a purse on the road.
+- As he was honest, ........
+- Write a paragraph on 'Your First Day at School' in 120 words. 10
+- Suppose, you are Nadim/Nadia, you have a friend named Fahim/Fahima who
+- does not read newspaper.
+- Now, write a dialogue between you and your friend about the importance of
+- reading newspaper. 10
+- Suggested Answers
+- ii) 5 o'clock
+- iii) Sankar
+- iv. They put it in plastic bins and leave them in front of their houses.
+- iii. Bulbul was sick for two days and could not collect the rubbish.
+- e) iii. All jobs are important.
+- f) ii. The whole area became dirty and unhygienic.
+- g) iv. He knows the area will turn into a big dustbin if he stops working.
+- Bulbul wakes up early in the morning to collect rubbish from the
+- Sankar area and keep it clean.
+- The people of Sankar suffered because piles of rubbish gathered in
+- front of their houses, making the area dirty and unhygienic.
+- The story teaches us that every job is important, and workers like
+- Bulbul play a crucial role in keeping the environment clean and healthy
+- They leave their rubbish in plastic bins in front of their houses.
+- e) Bulbul stopped working because he was sick.
+- active b) help
+- practices d) physical
+- e) good
+- prosperity
+- joyful
+- preserve
+- unnecessary
+- e) improper
+- Farmers, fishermen, and craftsmen
+- The air in villages is fresh
+- Rice, jute and vegetables
+- Mango, jackfruit and banana
+- e) Pahela Boishakh and Nabanna Utsab
+- True b) False
+- Correct Answer- Most villagers in Bangladesh work as farmers, fishermen, or
+- craftsmen, not in factories.
+- True d) False
+- Correct Answer- Many houses in villages have gardens with fruit trees like mango,
+- jackfruit and banana.
+- e) True
+- Rural Bangladesh is full of natural beauty with green fields, rivers and trees.
+- Most villagers work as farmers, fishermen, or craftsmen. They grow crops like rice,
+- jute and vegetables. Many village houses have gardens with fruit trees. Villagers cele-
+- brate festivals such as Pahela Boishakh and Nabanna Utsab with joy. Life in the villag-
+- es is simple but peaceful and happy.
+- (ii) needs of human beings b) (iti) for our survival
+- (i) without it d) (v) have good food
+- e) (iv) kind of food for good health
+- g d a c h e b f
+- The main idea of the poem 'Holding Hands' is that it describes how
+- elephants walk together by holding tails, showing their unity and coordi nation.
+- In the poem "Holding Hands", the poet says that trunks and tails are
+- handy things for elephants when they walk.
+- The line "But bows cannot be built in heaven" suggests that human
+- creations, no matter how grand, cannot match the perfection or beauty
+- of heavenly or natural wonders.
+- The poem uses a series of rhyming couplets with words that look similar
+- but are pronounced differently, emphasising the inconsistencies in English
+- pronunciation rules.
+- e) The overall theme of the poem "Boats sail on the rivers" is the contrast
+- between the beauty and vastness of nature and the limitations of human
+- achievements.
+- f) The main theme of the poem is to illustrate the irregularities and com
+- plexities of English pronunciation and spelling, showcasing how
+- challenging it can be to learn the language.
+- g) The central character is Andre, a young boy. His story is a very touching
+- reflection on love, choice and appreciation for family.
+- h) We learn from the poem that we should love and appreciate our parents.
+- Mamun's Honest Heart
+- Once upon a time, there was a boy named Mamun. He was a student of class 6. One
+- day, while he was returning from school, he found a purse on the road. As he was
+- honest, he picked it up and opened it to see if he could find any clues about its owner.
+- Inside, he found some money, a few cards, and a photo of a family. Mamun knew he
+- had to return it to the rightful owner. He decided to take the purse to the nearby police
+- station.
+- On his way, he noticed a woman searching frantically near the road. She looked
+- worried and was asking people if they had seen a purse. Mamun approached her and
+- asked, "Are you looking for something?" The woman explained that she had lost her
+- purse, which contained her family photo and important cards. Mamun smiled and
+- handed her the purse, saying, "I found this on the road. Is it yours?" The woman was
+- overjoyed and thanked Mamun with tears in her eyes.
+- She rewarded him with a small gift, but Mamun felt the greatest reward was the
+- happiness on her face. From that day on, Mamun became known in his village as the
+- boy with an honest heart, and his story inspired others to always do the right thing.
+- My First Day at School
+- My first day at school is a memory I will never forget. I was both excited and nervous
+- as I entered the colorful classroom filled with unfamiliar faces. The teacher welcomed
+- me with a warm smile, which made me feel a little more at ease. I sat next to a friendly
+- girl who later became my best friend. We introduced ourselves and shared crayons
+- during the drawing activity. The classroom was vibrant with posters, toys, and books,
+- which fascinated me. Though I felt shy initially, the fun activities and games helped me
+- settle in quickly. By the end of the day, I was eager to return and learn more. That day
+- marked the beginning of my educational journey, filled with curiosity, friendship, and
+- new experiences. It remains a cherished memory in my heart
+- i3. Nadia
+- Fahima :
+- Nadia
+- Fahima:
+- Nadia
+- Fahima:
+- Nadia :
+- Fahima:
+- Nadia
+- Hey Fahima, I noticed you don't read the newspaper. Any particular reason?
+- Well, I find it a bit boring and time-consuming. I usually get
+- news from social media. Why should I read newspapers?
+- Newspapers are more reliable than social media. They provide
+- accurate and well-researched information. Plus, they cover a wide
+- range of topics like politics, sports, culture and even job opportunities.
+- But isn't it easier to just scroll through news online?
+- True, but newspapers help you develop a habit of reading and
+- improve your language skills. They also offer in-depth
+- analysis that you won't find in short social media posts.
+- Hmm, I never thought about it that way. Maybe I should give it a try.
+- Definitely! Start with a section you enjoy, like sports or
+- entertainment. You'll see how informative and interesting it can be!
+- Okay, I'll give it a shot. Thanks for the suggestion, Nadia!
+- You're welcome! I'm sure you'll find it worthwhile.
+- THE END
+- United we stand, divided we fall.
+- Ficom
+- WE ALWAYS
+- FOUGHT FOR
+- OUR RIGHT
+- For free distribution by the Government of the People's Republic of Bangladesh.

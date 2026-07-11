@@ -1,0 +1,859 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 16,
+  "image": "/ocr/books/class6-english/page-images/page-016.png",
+  "width": 1176,
+  "height": 1527,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 11",
+      "cleanText": "English For Today 11",
+      "bbox": {
+        "x": 134,
+        "y": 90,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 92.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Joy asks Sajed do you come from, Sajed?\"’ What could",
+      "cleanText": "Joy asks Sajed do you come from, Sajed?\"’ What could",
+      "bbox": {
+        "x": 216,
+        "y": 155,
+        "width": 831,
+        "height": 27
+      },
+      "confidence": 93.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Joy ask him instead?",
+      "cleanText": "Joy ask him instead?",
+      "bbox": {
+        "x": 213,
+        "y": 188,
+        "width": 267,
+        "height": 27
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "iv) Mamun and Akash are talking about Mamun's cousin Ruma. Listen to",
+      "cleanText": "Mamun and Akash are talking about Mamun's cousin Ruma. Listen to",
+      "bbox": {
+        "x": 214,
+        "y": 228,
+        "width": 835,
+        "height": 26
+      },
+      "confidence": 91.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "and practise the conversation in pairs.",
+      "cleanText": "and practise the conversation in pairs.",
+      "bbox": {
+        "x": 211,
+        "y": 261,
+        "width": 437,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Akash What does your cousin do, Mamun?",
+      "cleanText": "Akash What does your cousin do, Mamun?",
+      "bbox": {
+        "x": 215,
+        "y": 310,
+        "width": 556,
+        "height": 26
+      },
+      "confidence": 94.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Mamun She is an architect.",
+      "cleanText": "Mamun She is an architect.",
+      "bbox": {
+        "x": 214,
+        "y": 345,
+        "width": 358,
+        "height": 20
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "She mostly designs",
+      "cleanText": "She mostly designs",
+      "bbox": {
+        "x": 360,
+        "y": 378,
+        "width": 218,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "offices and shopping",
+      "cleanText": "offices and shopping",
+      "bbox": {
+        "x": 360,
+        "y": 411,
+        "width": 235,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "complexes.",
+      "cleanText": "complexes.",
+      "bbox": {
+        "x": 359,
+        "y": 445,
+        "width": 126,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-016-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Akash What is she doing at",
+      "cleanText": "Akash What is she doing at",
+      "bbox": {
+        "x": 215,
+        "y": 486,
+        "width": 376,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "the moment?",
+      "cleanText": "the moment?",
+      "bbox": {
+        "x": 360,
+        "y": 519,
+        "width": 146,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-016-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Mamun Well, at the moment",
+      "cleanText": "Mamun Well, at the moment",
+      "bbox": {
+        "x": 214,
+        "y": 557,
+        "width": 374,
+        "height": 23
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "she is designing",
+      "cleanText": "she is designing",
+      "bbox": {
+        "x": 360,
+        "y": 593,
+        "width": 188,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "something different.",
+      "cleanText": "something different.",
+      "bbox": {
+        "x": 357,
+        "y": 631,
+        "width": 233,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "She is designing a school",
+      "cleanText": "She is designing a school",
+      "bbox": {
+        "x": 359,
+        "y": 682,
+        "width": 260,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "building on the outskirts of Dhaka.",
+      "cleanText": "building on the outskirts of Dhaka.",
+      "bbox": {
+        "x": 358,
+        "y": 732,
+        "width": 396,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "v) Mary and her mother are sitting in their living room. Mary's mother",
+      "cleanText": "Mary and her mother are sitting in their living room. Mary's mother",
+      "bbox": {
+        "x": 214,
+        "y": 783,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 90.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Rabeya Begum is watching TV and Mary is reading a story book. Their",
+      "cleanText": "Rabeya Begum is watching TV and Mary is reading a story book. Their",
+      "bbox": {
+        "x": 214,
+        "y": 815,
+        "width": 833,
+        "height": 26
+      },
+      "confidence": 94.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "neighbour's little boy is crying at the top of his voice.",
+      "cleanText": "neighbour's little boy is crying at the top of his voice.",
+      "bbox": {
+        "x": 212,
+        "y": 849,
+        "width": 605,
+        "height": 25
+      },
+      "confidence": 94.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Rabeya : I just don't understand! That boy is screaming so much!",
+      "cleanText": "Rabeya : I just don't understand! That boy is screaming so much!",
+      "bbox": {
+        "x": 214,
+        "y": 901,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Maybe he is hungry.",
+      "cleanText": "Maybe he is hungry.",
+      "bbox": {
+        "x": 217,
+        "y": 936,
+        "width": 230,
+        "height": 26
+      },
+      "confidence": 94.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Mary T don't think so.",
+      "cleanText": "Mary T don't think so.",
+      "bbox": {
+        "x": 215,
+        "y": 985,
+        "width": 325,
+        "height": 34
+      },
+      "confidence": 90.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Maybe he is crying",
+      "cleanText": "Maybe he is crying",
+      "bbox": {
+        "x": 362,
+        "y": 1026,
+        "width": 218,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "for his mother.",
+      "cleanText": "for his mother.",
+      "bbox": {
+        "x": 362,
+        "y": 1064,
+        "width": 164,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Rabeya Why, what does she do?",
+      "cleanText": "Rabeya Why, what does she do?",
+      "bbox": {
+        "x": 215,
+        "y": 1121,
+        "width": 424,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Mary She works part-time at the",
+      "cleanText": "Mary She works part-time at the",
+      "bbox": {
+        "x": 214,
+        "y": 1170,
+        "width": 443,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "Town Hall Library.",
+      "cleanText": "Town Hall Library.",
+      "bbox": {
+        "x": 362,
+        "y": 1209,
+        "width": 213,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "Listen to the conversation between Akash and Mamun, and",
+      "cleanText": "Listen to the conversation between Akash and Mamun, and",
+      "bbox": {
+        "x": 212,
+        "y": 1299,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 93.89,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-016-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "between Rabeya and Mary again. What difference do you find in",
+      "cleanText": "between Rabeya and Mary again. What difference do you find in",
+      "bbox": {
+        "x": 212,
+        "y": 1333,
+        "width": 835,
+        "height": 28
+      },
+      "confidence": 95.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "the questions is she doing at the moment?\" and \"what does",
+      "cleanText": "the questions is she doing at the moment?\" and \"what does",
+      "bbox": {
+        "x": 211,
+        "y": 1368,
+        "width": 838,
+        "height": 27
+      },
+      "confidence": 89.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "she do?\"",
+      "cleanText": "she do?\"",
+      "bbox": {
+        "x": 211,
+        "y": 1407,
+        "width": 108,
+        "height": 21
+      },
+      "confidence": 86.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-016-line-032",
+      "lineNumber": 32
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-016-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 11",
+      "bbox": {
+        "x": 134,
+        "y": 90,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 92.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-002",
+      "lineNumber": 2,
+      "text": "Joy asks Sajed do you come from, Sajed?\"’ What could",
+      "bbox": {
+        "x": 216,
+        "y": 155,
+        "width": 831,
+        "height": 27
+      },
+      "confidence": 93.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-003",
+      "lineNumber": 3,
+      "text": "Joy ask him instead?",
+      "bbox": {
+        "x": 213,
+        "y": 188,
+        "width": 267,
+        "height": 27
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-004",
+      "lineNumber": 4,
+      "text": "Mamun and Akash are talking about Mamun's cousin Ruma. Listen to",
+      "bbox": {
+        "x": 214,
+        "y": 228,
+        "width": 835,
+        "height": 26
+      },
+      "confidence": 91.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-005",
+      "lineNumber": 5,
+      "text": "and practise the conversation in pairs.",
+      "bbox": {
+        "x": 211,
+        "y": 261,
+        "width": 437,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-006",
+      "lineNumber": 6,
+      "text": "Akash What does your cousin do, Mamun?",
+      "bbox": {
+        "x": 215,
+        "y": 310,
+        "width": 556,
+        "height": 26
+      },
+      "confidence": 94.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-007",
+      "lineNumber": 7,
+      "text": "Mamun She is an architect.",
+      "bbox": {
+        "x": 214,
+        "y": 345,
+        "width": 358,
+        "height": 20
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-008",
+      "lineNumber": 8,
+      "text": "She mostly designs",
+      "bbox": {
+        "x": 360,
+        "y": 378,
+        "width": 218,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-009",
+      "lineNumber": 9,
+      "text": "offices and shopping",
+      "bbox": {
+        "x": 360,
+        "y": 411,
+        "width": 235,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-011",
+      "lineNumber": 11,
+      "text": "Akash What is she doing at",
+      "bbox": {
+        "x": 215,
+        "y": 486,
+        "width": 376,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-013",
+      "lineNumber": 13,
+      "text": "Mamun Well, at the moment",
+      "bbox": {
+        "x": 214,
+        "y": 557,
+        "width": 374,
+        "height": 23
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-014",
+      "lineNumber": 14,
+      "text": "she is designing",
+      "bbox": {
+        "x": 360,
+        "y": 593,
+        "width": 188,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-015",
+      "lineNumber": 15,
+      "text": "something different.",
+      "bbox": {
+        "x": 357,
+        "y": 631,
+        "width": 233,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-016",
+      "lineNumber": 16,
+      "text": "She is designing a school",
+      "bbox": {
+        "x": 359,
+        "y": 682,
+        "width": 260,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-017",
+      "lineNumber": 17,
+      "text": "building on the outskirts of Dhaka.",
+      "bbox": {
+        "x": 358,
+        "y": 732,
+        "width": 396,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-018",
+      "lineNumber": 18,
+      "text": "Mary and her mother are sitting in their living room. Mary's mother",
+      "bbox": {
+        "x": 214,
+        "y": 783,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 90.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-019",
+      "lineNumber": 19,
+      "text": "Rabeya Begum is watching TV and Mary is reading a story book. Their",
+      "bbox": {
+        "x": 214,
+        "y": 815,
+        "width": 833,
+        "height": 26
+      },
+      "confidence": 94.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-020",
+      "lineNumber": 20,
+      "text": "neighbour's little boy is crying at the top of his voice.",
+      "bbox": {
+        "x": 212,
+        "y": 849,
+        "width": 605,
+        "height": 25
+      },
+      "confidence": 94.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-021",
+      "lineNumber": 21,
+      "text": "Rabeya : I just don't understand! That boy is screaming so much!",
+      "bbox": {
+        "x": 214,
+        "y": 901,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-022",
+      "lineNumber": 22,
+      "text": "Maybe he is hungry.",
+      "bbox": {
+        "x": 217,
+        "y": 936,
+        "width": 230,
+        "height": 26
+      },
+      "confidence": 94.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-023",
+      "lineNumber": 23,
+      "text": "Mary T don't think so.",
+      "bbox": {
+        "x": 215,
+        "y": 985,
+        "width": 325,
+        "height": 34
+      },
+      "confidence": 90.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-024",
+      "lineNumber": 24,
+      "text": "Maybe he is crying",
+      "bbox": {
+        "x": 362,
+        "y": 1026,
+        "width": 218,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-025",
+      "lineNumber": 25,
+      "text": "for his mother.",
+      "bbox": {
+        "x": 362,
+        "y": 1064,
+        "width": 164,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-026",
+      "lineNumber": 26,
+      "text": "Rabeya Why, what does she do?",
+      "bbox": {
+        "x": 215,
+        "y": 1121,
+        "width": 424,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-027",
+      "lineNumber": 27,
+      "text": "Mary She works part-time at the",
+      "bbox": {
+        "x": 214,
+        "y": 1170,
+        "width": 443,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-028",
+      "lineNumber": 28,
+      "text": "Town Hall Library.",
+      "bbox": {
+        "x": 362,
+        "y": 1209,
+        "width": 213,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-030",
+      "lineNumber": 30,
+      "text": "between Rabeya and Mary again. What difference do you find in",
+      "bbox": {
+        "x": 212,
+        "y": 1333,
+        "width": 835,
+        "height": 28
+      },
+      "confidence": 95.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-031",
+      "lineNumber": 31,
+      "text": "the questions is she doing at the moment?\" and \"what does",
+      "bbox": {
+        "x": 211,
+        "y": 1368,
+        "width": 838,
+        "height": 27
+      },
+      "confidence": 89.64,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 11\nJoy asks Sajed do you come from, Sajed?\"’ What could\nJoy ask him instead?\niv) Mamun and Akash are talking about Mamun's cousin Ruma. Listen to\nand practise the conversation in pairs.\nAkash What does your cousin do, Mamun?\nMamun She is an architect.\nShe mostly designs\noffices and shopping\ncomplexes.\nAkash What is she doing at\nthe moment?\nMamun Well, at the moment\nshe is designing\nsomething different.\nShe is designing a school\nbuilding on the outskirts of Dhaka.\nv) Mary and her mother are sitting in their living room. Mary's mother\nRabeya Begum is watching TV and Mary is reading a story book. Their\nneighbour's little boy is crying at the top of his voice.\nRabeya : I just don't understand! That boy is screaming so much!\nMaybe he is hungry.\nMary T don't think so.\nMaybe he is crying\nfor his mother.\nRabeya Why, what does she do?\nMary She works part-time at the\nTown Hall Library.\nListen to the conversation between Akash and Mamun, and\nbetween Rabeya and Mary again. What difference do you find in\nthe questions is she doing at the moment?\" and \"what does\nshe do?\"",
+  "cleanText": "English For Today 11\nJoy asks Sajed do you come from, Sajed?\"’ What could\nJoy ask him instead?\nMamun and Akash are talking about Mamun's cousin Ruma. Listen to\nand practise the conversation in pairs.\nAkash What does your cousin do, Mamun?\nMamun She is an architect.\nShe mostly designs\noffices and shopping\ncomplexes.\nAkash What is she doing at\nthe moment?\nMamun Well, at the moment\nshe is designing\nsomething different.\nShe is designing a school\nbuilding on the outskirts of Dhaka.\nMary and her mother are sitting in their living room. Mary's mother\nRabeya Begum is watching TV and Mary is reading a story book. Their\nneighbour's little boy is crying at the top of his voice.\nRabeya : I just don't understand! That boy is screaming so much!\nMaybe he is hungry.\nMary T don't think so.\nMaybe he is crying\nfor his mother.\nRabeya Why, what does she do?\nMary She works part-time at the\nTown Hall Library.\nListen to the conversation between Akash and Mamun, and\nbetween Rabeya and Mary again. What difference do you find in\nthe questions is she doing at the moment?\" and \"what does\nshe do?\"",
+  "aiReadyText": "English For Today 11\nJoy asks Sajed do you come from, Sajed?\"’ What could\nJoy ask him instead?\nMamun and Akash are talking about Mamun's cousin Ruma. Listen to\nand practise the conversation in pairs.\nAkash What does your cousin do, Mamun?\nMamun She is an architect.\nShe mostly designs\noffices and shopping\nAkash What is she doing at\nMamun Well, at the moment\nshe is designing\nsomething different.\nShe is designing a school\nbuilding on the outskirts of Dhaka.\nMary and her mother are sitting in their living room. Mary's mother\nRabeya Begum is watching TV and Mary is reading a story book. Their\nneighbour's little boy is crying at the top of his voice.\nRabeya : I just don't understand! That boy is screaming so much!\nMaybe he is hungry.\nMary T don't think so.\nMaybe he is crying\nfor his mother.\nRabeya Why, what does she do?\nMary She works part-time at the\nTown Hall Library.\nbetween Rabeya and Mary again. What difference do you find in\nthe questions is she doing at the moment?\" and \"what does"
+}

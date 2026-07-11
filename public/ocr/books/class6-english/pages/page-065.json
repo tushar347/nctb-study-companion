@@ -1,0 +1,661 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 65,
+  "image": "/ocr/books/class6-english/page-images/page-065.png",
+  "width": 1149,
+  "height": 1507,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 19 Stop, Look and Listen",
+      "cleanText": "Lesson 19 Stop, Look and Listen",
+      "bbox": {
+        "x": 248,
+        "y": 174,
+        "width": 697,
+        "height": 38
+      },
+      "confidence": 75.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 173,
+        "y": 281,
+        "width": 569,
+        "height": 23
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-065-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "read aloud texts with proper pronunciation, stress and intonation",
+      "cleanText": "read aloud texts with proper pronunciation, stress and intonation",
+      "bbox": {
+        "x": 192,
+        "y": 318,
+        "width": 677,
+        "height": 24
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "* read and understand texts",
+      "cleanText": "* read and understand texts",
+      "bbox": {
+        "x": 173,
+        "y": 349,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "A. Read the following verse:",
+      "cleanText": "Read the following verse:",
+      "bbox": {
+        "x": 118,
+        "y": 424,
+        "width": 367,
+        "height": 26
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-065-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "\"Stop, Look, and Listen”",
+      "cleanText": "\"Stop, Look, and Listen”",
+      "bbox": {
+        "x": 171,
+        "y": 479,
+        "width": 281,
+        "height": 26
+      },
+      "confidence": 93.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Is a very good rule to use",
+      "cleanText": "Is a very good rule to use",
+      "bbox": {
+        "x": 172,
+        "y": 517,
+        "width": 285,
+        "height": 26
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Not just before you cross a street,",
+      "cleanText": "Not just before you cross a street,",
+      "bbox": {
+        "x": 170,
+        "y": 550,
+        "width": 381,
+        "height": 34
+      },
+      "confidence": 96.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "But when you look for clues.",
+      "cleanText": "But when you look for clues.",
+      "bbox": {
+        "x": 170,
+        "y": 598,
+        "width": 329,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Al, Did you enjoy the poem? Discuss with a partner about what the poet",
+      "cleanText": "Al, Did you enjoy the poem? Discuss with a partner about what the poet",
+      "bbox": {
+        "x": 118,
+        "y": 653,
+        "width": 925,
+        "height": 26
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "is trying to say here.",
+      "cleanText": "is trying to say here.",
+      "bbox": {
+        "x": 174,
+        "y": 687,
+        "width": 255,
+        "height": 27
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "B. Quickly read the following text with blank",
+      "cleanText": "Quickly read the following text with blank",
+      "bbox": {
+        "x": 120,
+        "y": 758,
+        "width": 662,
+        "height": 27
+      },
+      "confidence": 95.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "spaces only once. Then listen to the audio file or",
+      "cleanText": "spaces only once. Then listen to the audio file or",
+      "bbox": {
+        "x": 170,
+        "y": 795,
+        "width": 613,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "what your teacher reads out to fill in the blank",
+      "cleanText": "what your teacher reads out to fill in the blank",
+      "bbox": {
+        "x": 170,
+        "y": 833,
+        "width": 612,
+        "height": 27
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Last week, for my , I got a little white-board and a package of colured",
+      "cleanText": "Last week, for my , I got a little white-board and a package of colured",
+      "bbox": {
+        "x": 131,
+        "y": 917,
+        "width": 912,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": ". | took it to school and to my teacher. I said that if I",
+      "cleanText": ". | took it to school and to my teacher. I said that if I",
+      "bbox": {
+        "x": 232,
+        "y": 961,
+        "width": 810,
+        "height": 26
+      },
+      "confidence": 90.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "on the little white-board at my desk, | carefully. My",
+      "cleanText": "on the little white-board at my desk, | carefully. My",
+      "bbox": {
+        "x": 238,
+        "y": 1005,
+        "width": 805,
+        "height": 26
+      },
+      "confidence": 92.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "teacher said there are ways to improve one's . But",
+      "cleanText": "teacher said there are ways to improve one's . But",
+      "bbox": {
+        "x": 131,
+        "y": 1049,
+        "width": 912,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "she said it would be all to try it out. | had to",
+      "cleanText": "she said it would be all to try it out. | had to",
+      "bbox": {
+        "x": 132,
+        "y": 1093,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 91.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "write as with chalk as the other children were writing with",
+      "cleanText": "write as with chalk as the other children were writing with",
+      "bbox": {
+        "x": 131,
+        "y": 1137,
+        "width": 769,
+        "height": 26
+      },
+      "confidence": 95.09,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "I held the chalk so , it kept breaking in . When the lesson was",
+      "cleanText": "I held the chalk so , it kept breaking in . When the lesson was",
+      "bbox": {
+        "x": 132,
+        "y": 1181,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 93.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "over, | was totally wrist felt numb. | wrote this on my",
+      "cleanText": "over, | was totally wrist felt numb. | wrote this on my",
+      "bbox": {
+        "x": 131,
+        "y": 1225,
+        "width": 912,
+        "height": 26
+      },
+      "confidence": 85.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "whiteboard and left it on my desk. The chalk was holding it was",
+      "cleanText": "whiteboard and left it on my desk. The chalk was holding it was",
+      "bbox": {
+        "x": 131,
+        "y": 1269,
+        "width": 911,
+        "height": 26
+      },
+      "confidence": 93.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "too try to find some easier to improve my writing.",
+      "cleanText": "too try to find some easier to improve my writing.",
+      "bbox": {
+        "x": 131,
+        "y": 1313,
+        "width": 810,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-024",
+      "lineNumber": 24
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-065-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 19 Stop, Look and Listen",
+      "bbox": {
+        "x": 248,
+        "y": 174,
+        "width": 697,
+        "height": 38
+      },
+      "confidence": 75.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-003",
+      "lineNumber": 3,
+      "text": "read aloud texts with proper pronunciation, stress and intonation",
+      "bbox": {
+        "x": 192,
+        "y": 318,
+        "width": 677,
+        "height": 24
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-004",
+      "lineNumber": 4,
+      "text": "* read and understand texts",
+      "bbox": {
+        "x": 173,
+        "y": 349,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 89.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-006",
+      "lineNumber": 6,
+      "text": "\"Stop, Look, and Listen”",
+      "bbox": {
+        "x": 171,
+        "y": 479,
+        "width": 281,
+        "height": 26
+      },
+      "confidence": 93.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-007",
+      "lineNumber": 7,
+      "text": "Is a very good rule to use",
+      "bbox": {
+        "x": 172,
+        "y": 517,
+        "width": 285,
+        "height": 26
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-008",
+      "lineNumber": 8,
+      "text": "Not just before you cross a street,",
+      "bbox": {
+        "x": 170,
+        "y": 550,
+        "width": 381,
+        "height": 34
+      },
+      "confidence": 96.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-009",
+      "lineNumber": 9,
+      "text": "But when you look for clues.",
+      "bbox": {
+        "x": 170,
+        "y": 598,
+        "width": 329,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-010",
+      "lineNumber": 10,
+      "text": "Al, Did you enjoy the poem? Discuss with a partner about what the poet",
+      "bbox": {
+        "x": 118,
+        "y": 653,
+        "width": 925,
+        "height": 26
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-011",
+      "lineNumber": 11,
+      "text": "is trying to say here.",
+      "bbox": {
+        "x": 174,
+        "y": 687,
+        "width": 255,
+        "height": 27
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-012",
+      "lineNumber": 12,
+      "text": "Quickly read the following text with blank",
+      "bbox": {
+        "x": 120,
+        "y": 758,
+        "width": 662,
+        "height": 27
+      },
+      "confidence": 95.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-013",
+      "lineNumber": 13,
+      "text": "spaces only once. Then listen to the audio file or",
+      "bbox": {
+        "x": 170,
+        "y": 795,
+        "width": 613,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-014",
+      "lineNumber": 14,
+      "text": "what your teacher reads out to fill in the blank",
+      "bbox": {
+        "x": 170,
+        "y": 833,
+        "width": 612,
+        "height": 27
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-015",
+      "lineNumber": 15,
+      "text": "Last week, for my , I got a little white-board and a package of colured",
+      "bbox": {
+        "x": 131,
+        "y": 917,
+        "width": 912,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-016",
+      "lineNumber": 16,
+      "text": ". | took it to school and to my teacher. I said that if I",
+      "bbox": {
+        "x": 232,
+        "y": 961,
+        "width": 810,
+        "height": 26
+      },
+      "confidence": 90.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-017",
+      "lineNumber": 17,
+      "text": "on the little white-board at my desk, | carefully. My",
+      "bbox": {
+        "x": 238,
+        "y": 1005,
+        "width": 805,
+        "height": 26
+      },
+      "confidence": 92.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-018",
+      "lineNumber": 18,
+      "text": "teacher said there are ways to improve one's . But",
+      "bbox": {
+        "x": 131,
+        "y": 1049,
+        "width": 912,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-019",
+      "lineNumber": 19,
+      "text": "she said it would be all to try it out. | had to",
+      "bbox": {
+        "x": 132,
+        "y": 1093,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 91.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-020",
+      "lineNumber": 20,
+      "text": "write as with chalk as the other children were writing with",
+      "bbox": {
+        "x": 131,
+        "y": 1137,
+        "width": 769,
+        "height": 26
+      },
+      "confidence": 95.09,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-021",
+      "lineNumber": 21,
+      "text": "I held the chalk so , it kept breaking in . When the lesson was",
+      "bbox": {
+        "x": 132,
+        "y": 1181,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 93.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-022",
+      "lineNumber": 22,
+      "text": "over, | was totally wrist felt numb. | wrote this on my",
+      "bbox": {
+        "x": 131,
+        "y": 1225,
+        "width": 912,
+        "height": 26
+      },
+      "confidence": 85.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-023",
+      "lineNumber": 23,
+      "text": "whiteboard and left it on my desk. The chalk was holding it was",
+      "bbox": {
+        "x": 131,
+        "y": 1269,
+        "width": 911,
+        "height": 26
+      },
+      "confidence": 93.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-024",
+      "lineNumber": 24,
+      "text": "too try to find some easier to improve my writing.",
+      "bbox": {
+        "x": 131,
+        "y": 1313,
+        "width": 810,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 19 Stop, Look and Listen\nAfter completing the lesson students will be able to\nread aloud texts with proper pronunciation, stress and intonation\n* read and understand texts\nA. Read the following verse:\n\"Stop, Look, and Listen”\nIs a very good rule to use\nNot just before you cross a street,\nBut when you look for clues.\nAl, Did you enjoy the poem? Discuss with a partner about what the poet\nis trying to say here.\nB. Quickly read the following text with blank\nspaces only once. Then listen to the audio file or\nwhat your teacher reads out to fill in the blank\nLast week, for my , I got a little white-board and a package of colured\n. | took it to school and to my teacher. I said that if I\non the little white-board at my desk, | carefully. My\nteacher said there are ways to improve one's . But\nshe said it would be all to try it out. | had to\nwrite as with chalk as the other children were writing with\nI held the chalk so , it kept breaking in . When the lesson was\nover, | was totally wrist felt numb. | wrote this on my\nwhiteboard and left it on my desk. The chalk was holding it was\ntoo try to find some easier to improve my writing.",
+  "cleanText": "Lesson 19 Stop, Look and Listen\nAfter completing the lesson students will be able to\nread aloud texts with proper pronunciation, stress and intonation\n* read and understand texts\nRead the following verse:\n\"Stop, Look, and Listen”\nIs a very good rule to use\nNot just before you cross a street,\nBut when you look for clues.\nAl, Did you enjoy the poem? Discuss with a partner about what the poet\nis trying to say here.\nQuickly read the following text with blank\nspaces only once. Then listen to the audio file or\nwhat your teacher reads out to fill in the blank\nLast week, for my , I got a little white-board and a package of colured\n. | took it to school and to my teacher. I said that if I\non the little white-board at my desk, | carefully. My\nteacher said there are ways to improve one's . But\nshe said it would be all to try it out. | had to\nwrite as with chalk as the other children were writing with\nI held the chalk so , it kept breaking in . When the lesson was\nover, | was totally wrist felt numb. | wrote this on my\nwhiteboard and left it on my desk. The chalk was holding it was\ntoo try to find some easier to improve my writing.",
+  "aiReadyText": "Lesson 19 Stop, Look and Listen\nread aloud texts with proper pronunciation, stress and intonation\n* read and understand texts\n\"Stop, Look, and Listen”\nIs a very good rule to use\nNot just before you cross a street,\nBut when you look for clues.\nAl, Did you enjoy the poem? Discuss with a partner about what the poet\nis trying to say here.\nQuickly read the following text with blank\nspaces only once. Then listen to the audio file or\nwhat your teacher reads out to fill in the blank\nLast week, for my , I got a little white-board and a package of colured\n. | took it to school and to my teacher. I said that if I\non the little white-board at my desk, | carefully. My\nteacher said there are ways to improve one's . But\nshe said it would be all to try it out. | had to\nwrite as with chalk as the other children were writing with\nI held the chalk so , it kept breaking in . When the lesson was\nover, | was totally wrist felt numb. | wrote this on my\nwhiteboard and left it on my desk. The chalk was holding it was\ntoo try to find some easier to improve my writing."
+}

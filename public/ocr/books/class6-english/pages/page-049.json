@@ -1,0 +1,618 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 49,
+  "image": "/ocr/books/class6-english/page-images/page-049.png",
+  "width": 1149,
+  "height": 1525,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "What did you do there?",
+      "cleanText": "What did you do there?",
+      "bbox": {
+        "x": 348,
+        "y": 174,
+        "width": 267,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Well, I went there with my ........... and my brother.",
+      "cleanText": "Well, I went there with my ........... and my brother.",
+      "bbox": {
+        "x": 349,
+        "y": 225,
+        "width": 598,
+        "height": 25
+      },
+      "confidence": 93.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Many people were there! Everybody went there",
+      "cleanText": "Many people were there! Everybody went there",
+      "bbox": {
+        "x": 350,
+        "y": 273,
+        "width": 544,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "to pay to the Liberation War martyrs. We were",
+      "cleanText": "to pay to the Liberation War martyrs. We were",
+      "bbox": {
+        "x": 350,
+        "y": 321,
+        "width": 635,
+        "height": 25
+      },
+      "confidence": 95.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "in a long queue. We had flowers with us.",
+      "cleanText": "in a long queue. We had flowers with us.",
+      "bbox": {
+        "x": 351,
+        "y": 368,
+        "width": 461,
+        "height": 26
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "We wreaths of flowers",
+      "cleanText": "We wreaths of flowers",
+      "bbox": {
+        "x": 350,
+        "y": 414,
+        "width": 361,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "before the mausoleum. My parents took me to the",
+      "cleanText": "before the mausoleum. My parents took me to the",
+      "bbox": {
+        "x": 350,
+        "y": 460,
+        "width": 568,
+        "height": 26
+      },
+      "confidence": 94.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "mass graveyards. They told us about the sacrifice of",
+      "cleanText": "mass graveyards. They told us about the sacrifice of",
+      "bbox": {
+        "x": 350,
+        "y": 506,
+        "width": 593,
+        "height": 25
+      },
+      "confidence": 96.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "our people for T was",
+      "cleanText": "our people for T was",
+      "bbox": {
+        "x": 350,
+        "y": 552,
+        "width": 474,
+        "height": 25
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "VETY to see the mass graves. |",
+      "cleanText": "VETY to see the mass graves. |",
+      "bbox": {
+        "x": 351,
+        "y": 598,
+        "width": 439,
+        "height": 25
+      },
+      "confidence": 91.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "prayed for the souls of the martyrs.",
+      "cleanText": "prayed for the souls of the martyrs.",
+      "bbox": {
+        "x": 350,
+        "y": 643,
+        "width": 398,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Yes, we should never forget their",
+      "cleanText": "Yes, we should never forget their",
+      "bbox": {
+        "x": 348,
+        "y": 704,
+        "width": 375,
+        "height": 26
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "What else did you see there, Shanta?",
+      "cleanText": "What else did you see there, Shanta?",
+      "bbox": {
+        "x": 349,
+        "y": 750,
+        "width": 419,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "T saw all kinds of people there- old and young, men, women,",
+      "cleanText": "T saw all kinds of people there- old and young, men, women,",
+      "bbox": {
+        "x": 348,
+        "y": 821,
+        "width": 691,
+        "height": 25
+      },
+      "confidence": 94.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "and children, politicians, workers, teachers, diplomats,",
+      "cleanText": "and children, politicians, workers, teachers, diplomats,",
+      "bbox": {
+        "x": 352,
+        "y": 867,
+        "width": 628,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": ". All came to",
+      "cleanText": ". All came to",
+      "bbox": {
+        "x": 531,
+        "y": 913,
+        "width": 144,
+        "height": 20
+      },
+      "confidence": 86.25,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-049-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Pay to the freedom fighters.",
+      "cleanText": "Pay to the freedom fighters.",
+      "bbox": {
+        "x": 350,
+        "y": 959,
+        "width": 442,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Really? Were you excited?",
+      "cleanText": "Really? Were you excited?",
+      "bbox": {
+        "x": 348,
+        "y": 1061,
+        "width": 304,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Oh, yes! | shook hands with them and gave",
+      "cleanText": "Oh, yes! | shook hands with them and gave",
+      "bbox": {
+        "x": 348,
+        "y": 1111,
+        "width": 492,
+        "height": 26
+      },
+      "confidence": 95.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "them some flowers.",
+      "cleanText": "them some flowers.",
+      "bbox": {
+        "x": 350,
+        "y": 1157,
+        "width": 221,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "You must have felt very eee We all should love",
+      "cleanText": "You must have felt very eee We all should love",
+      "bbox": {
+        "x": 342,
+        "y": 1206,
+        "width": 696,
+        "height": 34
+      },
+      "confidence": 89.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "and respect them. They are our source of inspirations.",
+      "cleanText": "and respect them. They are our source of inspirations.",
+      "bbox": {
+        "x": 345,
+        "y": 1256,
+        "width": 631,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-022",
+      "lineNumber": 22
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-049-line-001",
+      "lineNumber": 1,
+      "text": "What did you do there?",
+      "bbox": {
+        "x": 348,
+        "y": 174,
+        "width": 267,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-002",
+      "lineNumber": 2,
+      "text": "Well, I went there with my ........... and my brother.",
+      "bbox": {
+        "x": 349,
+        "y": 225,
+        "width": 598,
+        "height": 25
+      },
+      "confidence": 93.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-003",
+      "lineNumber": 3,
+      "text": "Many people were there! Everybody went there",
+      "bbox": {
+        "x": 350,
+        "y": 273,
+        "width": 544,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-004",
+      "lineNumber": 4,
+      "text": "to pay to the Liberation War martyrs. We were",
+      "bbox": {
+        "x": 350,
+        "y": 321,
+        "width": 635,
+        "height": 25
+      },
+      "confidence": 95.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-005",
+      "lineNumber": 5,
+      "text": "in a long queue. We had flowers with us.",
+      "bbox": {
+        "x": 351,
+        "y": 368,
+        "width": 461,
+        "height": 26
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-006",
+      "lineNumber": 6,
+      "text": "We wreaths of flowers",
+      "bbox": {
+        "x": 350,
+        "y": 414,
+        "width": 361,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-007",
+      "lineNumber": 7,
+      "text": "before the mausoleum. My parents took me to the",
+      "bbox": {
+        "x": 350,
+        "y": 460,
+        "width": 568,
+        "height": 26
+      },
+      "confidence": 94.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-008",
+      "lineNumber": 8,
+      "text": "mass graveyards. They told us about the sacrifice of",
+      "bbox": {
+        "x": 350,
+        "y": 506,
+        "width": 593,
+        "height": 25
+      },
+      "confidence": 96.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-009",
+      "lineNumber": 9,
+      "text": "our people for T was",
+      "bbox": {
+        "x": 350,
+        "y": 552,
+        "width": 474,
+        "height": 25
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-010",
+      "lineNumber": 10,
+      "text": "VETY to see the mass graves. |",
+      "bbox": {
+        "x": 351,
+        "y": 598,
+        "width": 439,
+        "height": 25
+      },
+      "confidence": 91.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-011",
+      "lineNumber": 11,
+      "text": "prayed for the souls of the martyrs.",
+      "bbox": {
+        "x": 350,
+        "y": 643,
+        "width": 398,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-012",
+      "lineNumber": 12,
+      "text": "Yes, we should never forget their",
+      "bbox": {
+        "x": 348,
+        "y": 704,
+        "width": 375,
+        "height": 26
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-013",
+      "lineNumber": 13,
+      "text": "What else did you see there, Shanta?",
+      "bbox": {
+        "x": 349,
+        "y": 750,
+        "width": 419,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-014",
+      "lineNumber": 14,
+      "text": "T saw all kinds of people there- old and young, men, women,",
+      "bbox": {
+        "x": 348,
+        "y": 821,
+        "width": 691,
+        "height": 25
+      },
+      "confidence": 94.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-015",
+      "lineNumber": 15,
+      "text": "and children, politicians, workers, teachers, diplomats,",
+      "bbox": {
+        "x": 352,
+        "y": 867,
+        "width": 628,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-017",
+      "lineNumber": 17,
+      "text": "Pay to the freedom fighters.",
+      "bbox": {
+        "x": 350,
+        "y": 959,
+        "width": 442,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-018",
+      "lineNumber": 18,
+      "text": "Really? Were you excited?",
+      "bbox": {
+        "x": 348,
+        "y": 1061,
+        "width": 304,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-019",
+      "lineNumber": 19,
+      "text": "Oh, yes! | shook hands with them and gave",
+      "bbox": {
+        "x": 348,
+        "y": 1111,
+        "width": 492,
+        "height": 26
+      },
+      "confidence": 95.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-020",
+      "lineNumber": 20,
+      "text": "them some flowers.",
+      "bbox": {
+        "x": 350,
+        "y": 1157,
+        "width": 221,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-021",
+      "lineNumber": 21,
+      "text": "You must have felt very eee We all should love",
+      "bbox": {
+        "x": 342,
+        "y": 1206,
+        "width": 696,
+        "height": 34
+      },
+      "confidence": 89.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-022",
+      "lineNumber": 22,
+      "text": "and respect them. They are our source of inspirations.",
+      "bbox": {
+        "x": 345,
+        "y": 1256,
+        "width": 631,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "What did you do there?\nWell, I went there with my ........... and my brother.\nMany people were there! Everybody went there\nto pay to the Liberation War martyrs. We were\nin a long queue. We had flowers with us.\nWe wreaths of flowers\nbefore the mausoleum. My parents took me to the\nmass graveyards. They told us about the sacrifice of\nour people for T was\nVETY to see the mass graves. |\nprayed for the souls of the martyrs.\nYes, we should never forget their\nWhat else did you see there, Shanta?\nT saw all kinds of people there- old and young, men, women,\nand children, politicians, workers, teachers, diplomats,\n. All came to\nPay to the freedom fighters.\nReally? Were you excited?\nOh, yes! | shook hands with them and gave\nthem some flowers.\nYou must have felt very eee We all should love\nand respect them. They are our source of inspirations.",
+  "cleanText": "What did you do there?\nWell, I went there with my ........... and my brother.\nMany people were there! Everybody went there\nto pay to the Liberation War martyrs. We were\nin a long queue. We had flowers with us.\nWe wreaths of flowers\nbefore the mausoleum. My parents took me to the\nmass graveyards. They told us about the sacrifice of\nour people for T was\nVETY to see the mass graves. |\nprayed for the souls of the martyrs.\nYes, we should never forget their\nWhat else did you see there, Shanta?\nT saw all kinds of people there- old and young, men, women,\nand children, politicians, workers, teachers, diplomats,\n. All came to\nPay to the freedom fighters.\nReally? Were you excited?\nOh, yes! | shook hands with them and gave\nthem some flowers.\nYou must have felt very eee We all should love\nand respect them. They are our source of inspirations.",
+  "aiReadyText": "What did you do there?\nWell, I went there with my ........... and my brother.\nMany people were there! Everybody went there\nto pay to the Liberation War martyrs. We were\nin a long queue. We had flowers with us.\nWe wreaths of flowers\nbefore the mausoleum. My parents took me to the\nmass graveyards. They told us about the sacrifice of\nour people for T was\nVETY to see the mass graves. |\nprayed for the souls of the martyrs.\nYes, we should never forget their\nWhat else did you see there, Shanta?\nT saw all kinds of people there- old and young, men, women,\nand children, politicians, workers, teachers, diplomats,\nPay to the freedom fighters.\nReally? Were you excited?\nOh, yes! | shook hands with them and gave\nthem some flowers.\nYou must have felt very eee We all should love\nand respect them. They are our source of inspirations."
+}

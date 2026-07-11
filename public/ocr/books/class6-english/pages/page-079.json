@@ -1,0 +1,721 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 79,
+  "image": "/ocr/books/class6-english/page-images/page-079.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "to Sonargaon.",
+      "cleanText": "to Sonargaon.",
+      "bbox": {
+        "x": 447,
+        "y": 156,
+        "width": 156,
+        "height": 25
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-079-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "the capital of ancient Bengal there.",
+      "cleanText": "the capital of ancient Bengal there.",
+      "bbox": {
+        "x": 447,
+        "y": 201,
+        "width": 396,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "the Lalbagh Fort in the old part of Dhaka.",
+      "cleanText": "the Lalbagh Fort in the old part of Dhaka.",
+      "bbox": {
+        "x": 448,
+        "y": 247,
+        "width": 473,
+        "height": 26
+      },
+      "confidence": 95.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "a couple of hours at the Baldha Garden.",
+      "cleanText": "a couple of hours at the Baldha Garden.",
+      "bbox": {
+        "x": 448,
+        "y": 294,
+        "width": 451,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "the Ahsan Manzil too.",
+      "cleanText": "the Ahsan Manzil too.",
+      "bbox": {
+        "x": 447,
+        "y": 340,
+        "width": 250,
+        "height": 20
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "a boat ride on the Buriganga river.",
+      "cleanText": "a boat ride on the Buriganga river.",
+      "bbox": {
+        "x": 448,
+        "y": 386,
+        "width": 387,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "the taste of Mughlai Khana once you're in Dhaka.",
+      "cleanText": "the taste of Mughlai Khana once you're in Dhaka.",
+      "bbox": {
+        "x": 447,
+        "y": 432,
+        "width": 567,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "a Tom Tom ride from Sadarghat to Gulistan.",
+      "cleanText": "a Tom Tom ride from Sadarghat to Gulistan.",
+      "bbox": {
+        "x": 448,
+        "y": 478,
+        "width": 502,
+        "height": 26
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": ". You..",
+      "cleanText": ". You..",
+      "bbox": {
+        "x": 204,
+        "y": 525,
+        "width": 87,
+        "height": 20
+      },
+      "confidence": 61.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-079-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Chatpati or Fuchka on the footpath.",
+      "cleanText": "Chatpati or Fuchka on the footpath.",
+      "bbox": {
+        "x": 448,
+        "y": 525,
+        "width": 406,
+        "height": 25
+      },
+      "confidence": 92.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "10. But you......... tap water in a restaurant.",
+      "cleanText": "But you......... tap water in a restaurant.",
+      "bbox": {
+        "x": 187,
+        "y": 571,
+        "width": 539,
+        "height": 26
+      },
+      "confidence": 91.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Read the sentences in Section D (1-10) again. Suppose, a foreign",
+      "cleanText": "Read the sentences in Section D (1-10) again. Suppose, a foreign",
+      "bbox": {
+        "x": 182,
+        "y": 637,
+        "width": 844,
+        "height": 27
+      },
+      "confidence": 94.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "traveller wants to visit Dhaka. He wants some information from",
+      "cleanText": "traveller wants to visit Dhaka. He wants some information from",
+      "bbox": {
+        "x": 183,
+        "y": 682,
+        "width": 845,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "you, such as, when to visit, what to see, where to eat, what to do",
+      "cleanText": "you, such as, when to visit, what to see, where to eat, what to do",
+      "bbox": {
+        "x": 181,
+        "y": 731,
+        "width": 845,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "in Dhaka, etc. Complete the following dialogue taking the cue from D.",
+      "cleanText": "in Dhaka, etc. Complete the following dialogue taking the cue from D.",
+      "bbox": {
+        "x": 182,
+        "y": 777,
+        "width": 847,
+        "height": 26
+      },
+      "confidence": 92.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Can you tell me a little about Dhaka?",
+      "cleanText": "Can you tell me a little about Dhaka?",
+      "bbox": {
+        "x": 325,
+        "y": 834,
+        "width": 424,
+        "height": 26
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "traveller",
+      "cleanText": "traveller",
+      "bbox": {
+        "x": 187,
+        "y": 862,
+        "width": 94,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-079-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Sure, What to know?",
+      "cleanText": "Sure, What to know?",
+      "bbox": {
+        "x": 326,
+        "y": 900,
+        "width": 565,
+        "height": 20
+      },
+      "confidence": 90.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Well, what's ?",
+      "cleanText": "Well, what's ?",
+      "bbox": {
+        "x": 324,
+        "y": 946,
+        "width": 643,
+        "height": 24
+      },
+      "confidence": 90.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "traveller",
+      "cleanText": "traveller",
+      "bbox": {
+        "x": 187,
+        "y": 975,
+        "width": 94,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-079-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "traveller",
+      "cleanText": "traveller",
+      "bbox": {
+        "x": 186,
+        "y": 1085,
+        "width": 95,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-079-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Well, you can visit Sonargaon Folk Art Museum and you",
+      "cleanText": "Well, you can visit Sonargaon Folk Art Museum and you",
+      "bbox": {
+        "x": 326,
+        "y": 1125,
+        "width": 709,
+        "height": 26
+      },
+      "confidence": 93.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "the handicrafts. But you .............. Dhaka without",
+      "cleanText": "the handicrafts. But you .............. Dhaka without",
+      "bbox": {
+        "x": 461,
+        "y": 1171,
+        "width": 575,
+        "height": 26
+      },
+      "confidence": 94.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "visiting the Lalbagh Fort.",
+      "cleanText": "visiting the Lalbagh Fort.",
+      "bbox": {
+        "x": 319,
+        "y": 1216,
+        "width": 290,
+        "height": 27
+      },
+      "confidence": 94.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "traveller",
+      "cleanText": "traveller",
+      "bbox": {
+        "x": 187,
+        "y": 1285,
+        "width": 94,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-079-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Oh yes. If you have time, you Ahsan Manjil.",
+      "cleanText": "Oh yes. If you have time, you Ahsan Manjil.",
+      "bbox": {
+        "x": 325,
+        "y": 1322,
+        "width": 695,
+        "height": 27
+      },
+      "confidence": 85.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "You have an excellent experience of the Mughal and",
+      "cleanText": "You have an excellent experience of the Mughal and",
+      "bbox": {
+        "x": 327,
+        "y": 1368,
+        "width": 711,
+        "height": 26
+      },
+      "confidence": 92.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "the British architecture by visiting it.",
+      "cleanText": "the British architecture by visiting it.",
+      "bbox": {
+        "x": 330,
+        "y": 1411,
+        "width": 418,
+        "height": 26
+      },
+      "confidence": 96.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-079-line-028",
+      "lineNumber": 28
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-079-line-002",
+      "lineNumber": 2,
+      "text": "the capital of ancient Bengal there.",
+      "bbox": {
+        "x": 447,
+        "y": 201,
+        "width": 396,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-003",
+      "lineNumber": 3,
+      "text": "the Lalbagh Fort in the old part of Dhaka.",
+      "bbox": {
+        "x": 448,
+        "y": 247,
+        "width": 473,
+        "height": 26
+      },
+      "confidence": 95.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-004",
+      "lineNumber": 4,
+      "text": "a couple of hours at the Baldha Garden.",
+      "bbox": {
+        "x": 448,
+        "y": 294,
+        "width": 451,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-005",
+      "lineNumber": 5,
+      "text": "the Ahsan Manzil too.",
+      "bbox": {
+        "x": 447,
+        "y": 340,
+        "width": 250,
+        "height": 20
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-006",
+      "lineNumber": 6,
+      "text": "a boat ride on the Buriganga river.",
+      "bbox": {
+        "x": 448,
+        "y": 386,
+        "width": 387,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-007",
+      "lineNumber": 7,
+      "text": "the taste of Mughlai Khana once you're in Dhaka.",
+      "bbox": {
+        "x": 447,
+        "y": 432,
+        "width": 567,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-008",
+      "lineNumber": 8,
+      "text": "a Tom Tom ride from Sadarghat to Gulistan.",
+      "bbox": {
+        "x": 448,
+        "y": 478,
+        "width": 502,
+        "height": 26
+      },
+      "confidence": 89.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-010",
+      "lineNumber": 10,
+      "text": "Chatpati or Fuchka on the footpath.",
+      "bbox": {
+        "x": 448,
+        "y": 525,
+        "width": 406,
+        "height": 25
+      },
+      "confidence": 92.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-011",
+      "lineNumber": 11,
+      "text": "But you......... tap water in a restaurant.",
+      "bbox": {
+        "x": 187,
+        "y": 571,
+        "width": 539,
+        "height": 26
+      },
+      "confidence": 91.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-012",
+      "lineNumber": 12,
+      "text": "Read the sentences in Section D (1-10) again. Suppose, a foreign",
+      "bbox": {
+        "x": 182,
+        "y": 637,
+        "width": 844,
+        "height": 27
+      },
+      "confidence": 94.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-013",
+      "lineNumber": 13,
+      "text": "traveller wants to visit Dhaka. He wants some information from",
+      "bbox": {
+        "x": 183,
+        "y": 682,
+        "width": 845,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-014",
+      "lineNumber": 14,
+      "text": "you, such as, when to visit, what to see, where to eat, what to do",
+      "bbox": {
+        "x": 181,
+        "y": 731,
+        "width": 845,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-015",
+      "lineNumber": 15,
+      "text": "in Dhaka, etc. Complete the following dialogue taking the cue from D.",
+      "bbox": {
+        "x": 182,
+        "y": 777,
+        "width": 847,
+        "height": 26
+      },
+      "confidence": 92.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-016",
+      "lineNumber": 16,
+      "text": "Can you tell me a little about Dhaka?",
+      "bbox": {
+        "x": 325,
+        "y": 834,
+        "width": 424,
+        "height": 26
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-018",
+      "lineNumber": 18,
+      "text": "Sure, What to know?",
+      "bbox": {
+        "x": 326,
+        "y": 900,
+        "width": 565,
+        "height": 20
+      },
+      "confidence": 90.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-019",
+      "lineNumber": 19,
+      "text": "Well, what's ?",
+      "bbox": {
+        "x": 324,
+        "y": 946,
+        "width": 643,
+        "height": 24
+      },
+      "confidence": 90.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-022",
+      "lineNumber": 22,
+      "text": "Well, you can visit Sonargaon Folk Art Museum and you",
+      "bbox": {
+        "x": 326,
+        "y": 1125,
+        "width": 709,
+        "height": 26
+      },
+      "confidence": 93.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-023",
+      "lineNumber": 23,
+      "text": "the handicrafts. But you .............. Dhaka without",
+      "bbox": {
+        "x": 461,
+        "y": 1171,
+        "width": 575,
+        "height": 26
+      },
+      "confidence": 94.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-024",
+      "lineNumber": 24,
+      "text": "visiting the Lalbagh Fort.",
+      "bbox": {
+        "x": 319,
+        "y": 1216,
+        "width": 290,
+        "height": 27
+      },
+      "confidence": 94.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-026",
+      "lineNumber": 26,
+      "text": "Oh yes. If you have time, you Ahsan Manjil.",
+      "bbox": {
+        "x": 325,
+        "y": 1322,
+        "width": 695,
+        "height": 27
+      },
+      "confidence": 85.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-027",
+      "lineNumber": 27,
+      "text": "You have an excellent experience of the Mughal and",
+      "bbox": {
+        "x": 327,
+        "y": 1368,
+        "width": 711,
+        "height": 26
+      },
+      "confidence": 92.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-079-line-028",
+      "lineNumber": 28,
+      "text": "the British architecture by visiting it.",
+      "bbox": {
+        "x": 330,
+        "y": 1411,
+        "width": 418,
+        "height": 26
+      },
+      "confidence": 96.17,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "to Sonargaon.\nthe capital of ancient Bengal there.\nthe Lalbagh Fort in the old part of Dhaka.\na couple of hours at the Baldha Garden.\nthe Ahsan Manzil too.\na boat ride on the Buriganga river.\nthe taste of Mughlai Khana once you're in Dhaka.\na Tom Tom ride from Sadarghat to Gulistan.\n. You..\nChatpati or Fuchka on the footpath.\n10. But you......... tap water in a restaurant.\nRead the sentences in Section D (1-10) again. Suppose, a foreign\ntraveller wants to visit Dhaka. He wants some information from\nyou, such as, when to visit, what to see, where to eat, what to do\nin Dhaka, etc. Complete the following dialogue taking the cue from D.\nCan you tell me a little about Dhaka?\ntraveller\nSure, What to know?\nWell, what's ?\ntraveller\ntraveller\nWell, you can visit Sonargaon Folk Art Museum and you\nthe handicrafts. But you .............. Dhaka without\nvisiting the Lalbagh Fort.\ntraveller\nOh yes. If you have time, you Ahsan Manjil.\nYou have an excellent experience of the Mughal and\nthe British architecture by visiting it.",
+  "cleanText": "to Sonargaon.\nthe capital of ancient Bengal there.\nthe Lalbagh Fort in the old part of Dhaka.\na couple of hours at the Baldha Garden.\nthe Ahsan Manzil too.\na boat ride on the Buriganga river.\nthe taste of Mughlai Khana once you're in Dhaka.\na Tom Tom ride from Sadarghat to Gulistan.\n. You..\nChatpati or Fuchka on the footpath.\nBut you......... tap water in a restaurant.\nRead the sentences in Section D (1-10) again. Suppose, a foreign\ntraveller wants to visit Dhaka. He wants some information from\nyou, such as, when to visit, what to see, where to eat, what to do\nin Dhaka, etc. Complete the following dialogue taking the cue from D.\nCan you tell me a little about Dhaka?\ntraveller\nSure, What to know?\nWell, what's ?\ntraveller\ntraveller\nWell, you can visit Sonargaon Folk Art Museum and you\nthe handicrafts. But you .............. Dhaka without\nvisiting the Lalbagh Fort.\ntraveller\nOh yes. If you have time, you Ahsan Manjil.\nYou have an excellent experience of the Mughal and\nthe British architecture by visiting it.",
+  "aiReadyText": "the capital of ancient Bengal there.\nthe Lalbagh Fort in the old part of Dhaka.\na couple of hours at the Baldha Garden.\nthe Ahsan Manzil too.\na boat ride on the Buriganga river.\nthe taste of Mughlai Khana once you're in Dhaka.\na Tom Tom ride from Sadarghat to Gulistan.\nChatpati or Fuchka on the footpath.\nBut you......... tap water in a restaurant.\nRead the sentences in Section D (1-10) again. Suppose, a foreign\ntraveller wants to visit Dhaka. He wants some information from\nyou, such as, when to visit, what to see, where to eat, what to do\nin Dhaka, etc. Complete the following dialogue taking the cue from D.\nCan you tell me a little about Dhaka?\nSure, What to know?\nWell, what's ?\nWell, you can visit Sonargaon Folk Art Museum and you\nthe handicrafts. But you .............. Dhaka without\nvisiting the Lalbagh Fort.\nOh yes. If you have time, you Ahsan Manjil.\nYou have an excellent experience of the Mughal and\nthe British architecture by visiting it."
+}

@@ -1,0 +1,428 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 86,
+  "image": "/ocr/books/class6-english/page-images/page-086.png",
+  "width": 1149,
+  "height": 1514,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Mrs. Karim",
+      "cleanText": "Mrs. Karim",
+      "bbox": {
+        "x": 199,
+        "y": 152,
+        "width": 132,
+        "height": 20
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-086-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "I need some shoes.",
+      "cleanText": "I need some shoes.",
+      "bbox": {
+        "x": 400,
+        "y": 153,
+        "width": 213,
+        "height": 19
+      },
+      "confidence": 78.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-086-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "How about these?",
+      "cleanText": "How about these?",
+      "bbox": {
+        "x": 400,
+        "y": 197,
+        "width": 203,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-086-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Mrs. Karim",
+      "cleanText": "Mrs. Karim",
+      "bbox": {
+        "x": 199,
+        "y": 240,
+        "width": 132,
+        "height": 20
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-086-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "No, the heels are too high.",
+      "cleanText": "No, the heels are too high.",
+      "bbox": {
+        "x": 400,
+        "y": 240,
+        "width": 298,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-086-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Do you want flat shoes then?",
+      "cleanText": "Do you want flat shoes then?",
+      "bbox": {
+        "x": 400,
+        "y": 284,
+        "width": 331,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-086-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Mrs. Karim",
+      "cleanText": "Mrs. Karim",
+      "bbox": {
+        "x": 199,
+        "y": 328,
+        "width": 132,
+        "height": 20
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-086-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "No, not flat, something in between.",
+      "cleanText": "No, not flat, something in between.",
+      "bbox": {
+        "x": 400,
+        "y": 328,
+        "width": 402,
+        "height": 26
+      },
+      "confidence": 96.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-086-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "A bit of heel but not too high.",
+      "cleanText": "A bit of heel but not too high.",
+      "bbox": {
+        "x": 394,
+        "y": 368,
+        "width": 340,
+        "height": 34
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-086-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Dialogue 3:",
+      "cleanText": "Dialogue 3:",
+      "bbox": {
+        "x": 199,
+        "y": 428,
+        "width": 139,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-086-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Mrs, Karim",
+      "cleanText": "Mrs, Karim",
+      "bbox": {
+        "x": 199,
+        "y": 808,
+        "width": 131,
+        "height": 20
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-086-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "What about this T-shirt, Imran?",
+      "cleanText": "What about this T-shirt, Imran?",
+      "bbox": {
+        "x": 389,
+        "y": 808,
+        "width": 358,
+        "height": 23
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-086-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "No, mom. I don't like the cartoon on the front.",
+      "cleanText": "No, mom. I don't like the cartoon on the front.",
+      "bbox": {
+        "x": 390,
+        "y": 852,
+        "width": 525,
+        "height": 23
+      },
+      "confidence": 95.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-086-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Mrs. Urmila",
+      "cleanText": "Mrs. Urmila",
+      "bbox": {
+        "x": 199,
+        "y": 896,
+        "width": 140,
+        "height": 20
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-086-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Well, what about that one, with writings on the chest?",
+      "cleanText": "Well, what about that one, with writings on the chest?",
+      "bbox": {
+        "x": 390,
+        "y": 896,
+        "width": 613,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-086-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "No, I don't really like that either. I want something",
+      "cleanText": "No, I don't really like that either. I want something",
+      "bbox": {
+        "x": 391,
+        "y": 940,
+        "width": 575,
+        "height": 26
+      },
+      "confidence": 94.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-086-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "completely plain, like this one, no writings, just plain.",
+      "cleanText": "completely plain, like this one, no writings, just plain.",
+      "bbox": {
+        "x": 394,
+        "y": 980,
+        "width": 634,
+        "height": 35
+      },
+      "confidence": 92.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-086-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Dialogue 4:",
+      "cleanText": "Dialogue 4:",
+      "bbox": {
+        "x": 199,
+        "y": 1045,
+        "width": 139,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-086-line-018",
+      "lineNumber": 18
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-086-line-002",
+      "lineNumber": 2,
+      "text": "I need some shoes.",
+      "bbox": {
+        "x": 400,
+        "y": 153,
+        "width": 213,
+        "height": 19
+      },
+      "confidence": 78.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-086-line-003",
+      "lineNumber": 3,
+      "text": "How about these?",
+      "bbox": {
+        "x": 400,
+        "y": 197,
+        "width": 203,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-086-line-005",
+      "lineNumber": 5,
+      "text": "No, the heels are too high.",
+      "bbox": {
+        "x": 400,
+        "y": 240,
+        "width": 298,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-086-line-006",
+      "lineNumber": 6,
+      "text": "Do you want flat shoes then?",
+      "bbox": {
+        "x": 400,
+        "y": 284,
+        "width": 331,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-086-line-008",
+      "lineNumber": 8,
+      "text": "No, not flat, something in between.",
+      "bbox": {
+        "x": 400,
+        "y": 328,
+        "width": 402,
+        "height": 26
+      },
+      "confidence": 96.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-086-line-009",
+      "lineNumber": 9,
+      "text": "A bit of heel but not too high.",
+      "bbox": {
+        "x": 394,
+        "y": 368,
+        "width": 340,
+        "height": 34
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-086-line-012",
+      "lineNumber": 12,
+      "text": "What about this T-shirt, Imran?",
+      "bbox": {
+        "x": 389,
+        "y": 808,
+        "width": 358,
+        "height": 23
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-086-line-013",
+      "lineNumber": 13,
+      "text": "No, mom. I don't like the cartoon on the front.",
+      "bbox": {
+        "x": 390,
+        "y": 852,
+        "width": 525,
+        "height": 23
+      },
+      "confidence": 95.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-086-line-015",
+      "lineNumber": 15,
+      "text": "Well, what about that one, with writings on the chest?",
+      "bbox": {
+        "x": 390,
+        "y": 896,
+        "width": 613,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-086-line-016",
+      "lineNumber": 16,
+      "text": "No, I don't really like that either. I want something",
+      "bbox": {
+        "x": 391,
+        "y": 940,
+        "width": 575,
+        "height": 26
+      },
+      "confidence": 94.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-086-line-017",
+      "lineNumber": 17,
+      "text": "completely plain, like this one, no writings, just plain.",
+      "bbox": {
+        "x": 394,
+        "y": 980,
+        "width": 634,
+        "height": 35
+      },
+      "confidence": 92.22,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Mrs. Karim\nI need some shoes.\nHow about these?\nMrs. Karim\nNo, the heels are too high.\nDo you want flat shoes then?\nMrs. Karim\nNo, not flat, something in between.\nA bit of heel but not too high.\nDialogue 3:\nMrs, Karim\nWhat about this T-shirt, Imran?\nNo, mom. I don't like the cartoon on the front.\nMrs. Urmila\nWell, what about that one, with writings on the chest?\nNo, I don't really like that either. I want something\ncompletely plain, like this one, no writings, just plain.\nDialogue 4:",
+  "cleanText": "Mrs. Karim\nI need some shoes.\nHow about these?\nMrs. Karim\nNo, the heels are too high.\nDo you want flat shoes then?\nMrs. Karim\nNo, not flat, something in between.\nA bit of heel but not too high.\nDialogue 3:\nMrs, Karim\nWhat about this T-shirt, Imran?\nNo, mom. I don't like the cartoon on the front.\nMrs. Urmila\nWell, what about that one, with writings on the chest?\nNo, I don't really like that either. I want something\ncompletely plain, like this one, no writings, just plain.\nDialogue 4:",
+  "aiReadyText": "I need some shoes.\nHow about these?\nNo, the heels are too high.\nDo you want flat shoes then?\nNo, not flat, something in between.\nA bit of heel but not too high.\nWhat about this T-shirt, Imran?\nNo, mom. I don't like the cartoon on the front.\nWell, what about that one, with writings on the chest?\nNo, I don't really like that either. I want something\ncompletely plain, like this one, no writings, just plain."
+}

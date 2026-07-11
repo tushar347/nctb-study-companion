@@ -1,0 +1,353 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 51,
+  "image": "/ocr/books/class6-english/page-images/page-051.png",
+  "width": 1149,
+  "height": 1525,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 14 The Lion’s Mane",
+      "cleanText": "Lesson 14 The Lion’s Mane",
+      "bbox": {
+        "x": 315,
+        "y": 185,
+        "width": 565,
+        "height": 31
+      },
+      "confidence": 89.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 188,
+        "y": 266,
+        "width": 569,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-051-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "read and understand texts",
+      "cleanText": "read and understand texts",
+      "bbox": {
+        "x": 226,
+        "y": 297,
+        "width": 267,
+        "height": 18
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "talk about people, places and familiar objects in short and simple sentences",
+      "cleanText": "talk about people, places and familiar objects in short and simple sentences",
+      "bbox": {
+        "x": 226,
+        "y": 330,
+        "width": 791,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-051-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "A. Read the story:",
+      "cleanText": "Read the story:",
+      "bbox": {
+        "x": 120,
+        "y": 383,
+        "width": 254,
+        "height": 26
+      },
+      "confidence": 81.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Once, a lion was sitting beside a river. Suddenly he looked at his own",
+      "cleanText": "Once, a lion was sitting beside a river. Suddenly he looked at his own",
+      "bbox": {
+        "x": 188,
+        "y": 429,
+        "width": 838,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "reflection and thought \"My mane is too",
+      "cleanText": "reflection and thought \"My mane is too",
+      "bbox": {
+        "x": 576,
+        "y": 467,
+        "width": 452,
+        "height": 27
+      },
+      "confidence": 96.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "old. I need a new hairstyle!\"",
+      "cleanText": "old. I need a new hairstyle!\"",
+      "bbox": {
+        "x": 577,
+        "y": 508,
+        "width": 327,
+        "height": 26
+      },
+      "confidence": 91.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "The lion then roared \"I'm the king of",
+      "cleanText": "The lion then roared \"I'm the king of",
+      "bbox": {
+        "x": 580,
+        "y": 602,
+        "width": 454,
+        "height": 26
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "the jungle and this unruly mane does",
+      "cleanText": "the jungle and this unruly mane does",
+      "bbox": {
+        "x": 580,
+        "y": 642,
+        "width": 452,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "not fit a king.\" He dipped his paw into",
+      "cleanText": "not fit a king.\" He dipped his paw into",
+      "bbox": {
+        "x": 583,
+        "y": 682,
+        "width": 449,
+        "height": 25
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "the river and tried desperately to",
+      "cleanText": "the river and tried desperately to",
+      "bbox": {
+        "x": 582,
+        "y": 721,
+        "width": 450,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "smooth his mane.",
+      "cleanText": "smooth his mane.",
+      "bbox": {
+        "x": 581,
+        "y": 761,
+        "width": 197,
+        "height": 20
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-013",
+      "lineNumber": 13
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-051-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 14 The Lion’s Mane",
+      "bbox": {
+        "x": 315,
+        "y": 185,
+        "width": 565,
+        "height": 31
+      },
+      "confidence": 89.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-003",
+      "lineNumber": 3,
+      "text": "read and understand texts",
+      "bbox": {
+        "x": 226,
+        "y": 297,
+        "width": 267,
+        "height": 18
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-005",
+      "lineNumber": 5,
+      "text": "Read the story:",
+      "bbox": {
+        "x": 120,
+        "y": 383,
+        "width": 254,
+        "height": 26
+      },
+      "confidence": 81.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-006",
+      "lineNumber": 6,
+      "text": "Once, a lion was sitting beside a river. Suddenly he looked at his own",
+      "bbox": {
+        "x": 188,
+        "y": 429,
+        "width": 838,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-007",
+      "lineNumber": 7,
+      "text": "reflection and thought \"My mane is too",
+      "bbox": {
+        "x": 576,
+        "y": 467,
+        "width": 452,
+        "height": 27
+      },
+      "confidence": 96.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-008",
+      "lineNumber": 8,
+      "text": "old. I need a new hairstyle!\"",
+      "bbox": {
+        "x": 577,
+        "y": 508,
+        "width": 327,
+        "height": 26
+      },
+      "confidence": 91.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-009",
+      "lineNumber": 9,
+      "text": "The lion then roared \"I'm the king of",
+      "bbox": {
+        "x": 580,
+        "y": 602,
+        "width": 454,
+        "height": 26
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-010",
+      "lineNumber": 10,
+      "text": "the jungle and this unruly mane does",
+      "bbox": {
+        "x": 580,
+        "y": 642,
+        "width": 452,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-011",
+      "lineNumber": 11,
+      "text": "not fit a king.\" He dipped his paw into",
+      "bbox": {
+        "x": 583,
+        "y": 682,
+        "width": 449,
+        "height": 25
+      },
+      "confidence": 93.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-012",
+      "lineNumber": 12,
+      "text": "the river and tried desperately to",
+      "bbox": {
+        "x": 582,
+        "y": 721,
+        "width": 450,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-013",
+      "lineNumber": 13,
+      "text": "smooth his mane.",
+      "bbox": {
+        "x": 581,
+        "y": 761,
+        "width": 197,
+        "height": 20
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 14 The Lion’s Mane\nAfter completing the lesson students will be able to\nread and understand texts\ntalk about people, places and familiar objects in short and simple sentences\nA. Read the story:\nOnce, a lion was sitting beside a river. Suddenly he looked at his own\nreflection and thought \"My mane is too\nold. I need a new hairstyle!\"\nThe lion then roared \"I'm the king of\nthe jungle and this unruly mane does\nnot fit a king.\" He dipped his paw into\nthe river and tried desperately to\nsmooth his mane.",
+  "cleanText": "Lesson 14 The Lion’s Mane\nAfter completing the lesson students will be able to\nread and understand texts\ntalk about people, places and familiar objects in short and simple sentences\nRead the story:\nOnce, a lion was sitting beside a river. Suddenly he looked at his own\nreflection and thought \"My mane is too\nold. I need a new hairstyle!\"\nThe lion then roared \"I'm the king of\nthe jungle and this unruly mane does\nnot fit a king.\" He dipped his paw into\nthe river and tried desperately to\nsmooth his mane.",
+  "aiReadyText": "Lesson 14 The Lion’s Mane\nread and understand texts\nRead the story:\nOnce, a lion was sitting beside a river. Suddenly he looked at his own\nreflection and thought \"My mane is too\nold. I need a new hairstyle!\"\nThe lion then roared \"I'm the king of\nthe jungle and this unruly mane does\nnot fit a king.\" He dipped his paw into\nthe river and tried desperately to\nsmooth his mane."
+}

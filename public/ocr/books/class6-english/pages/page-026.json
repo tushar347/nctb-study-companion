@@ -1,0 +1,661 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 26,
+  "image": "/ocr/books/class6-english/page-images/page-026.png",
+  "width": 1169,
+  "height": 1521,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 8 Grocery Shopping",
+      "cleanText": "Lesson 8 Grocery Shopping",
+      "bbox": {
+        "x": 272,
+        "y": 192,
+        "width": 606,
+        "height": 39
+      },
+      "confidence": 84.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 184,
+        "y": 305,
+        "width": 569,
+        "height": 23
+      },
+      "confidence": 96.11,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-026-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "usc word stress and stress on words in sentences",
+      "cleanText": "usc word stress and stress on words in sentences",
+      "bbox": {
+        "x": 223,
+        "y": 338,
+        "width": 507,
+        "height": 18
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "and answer questions",
+      "cleanText": "and answer questions",
+      "bbox": {
+        "x": 265,
+        "y": 369,
+        "width": 223,
+        "height": 23
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "© participate in short dialogues and conversations on familiar topics",
+      "cleanText": "© participate in short dialogues and conversations on familiar topics",
+      "bbox": {
+        "x": 204,
+        "y": 399,
+        "width": 710,
+        "height": 24
+      },
+      "confidence": 90.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "read and understand texts",
+      "cleanText": "read and understand texts",
+      "bbox": {
+        "x": 223,
+        "y": 435,
+        "width": 266,
+        "height": 18
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": ". Some guests will visit Imran's house tonight. So Imran's mother",
+      "cleanText": ". Some guests will visit Imran's house tonight. So Imran's mother",
+      "bbox": {
+        "x": 158,
+        "y": 497,
+        "width": 885,
+        "height": 28
+      },
+      "confidence": 92.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "will cook dinner for them. She asks Imran to go to the local market.",
+      "cleanText": "will cook dinner for them. She asks Imran to go to the local market.",
+      "bbox": {
+        "x": 181,
+        "y": 541,
+        "width": 859,
+        "height": 28
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "He often forgets to buy the necessary items. So his mother is making",
+      "cleanText": "He often forgets to buy the necessary items. So his mother is making",
+      "bbox": {
+        "x": 180,
+        "y": 581,
+        "width": 865,
+        "height": 27
+      },
+      "confidence": 95.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "a shopping list for him. He is helping his mother make the list.",
+      "cleanText": "a shopping list for him. He is helping his mother make the list.",
+      "bbox": {
+        "x": 182,
+        "y": 625,
+        "width": 784,
+        "height": 27
+      },
+      "confidence": 95.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Read the conversation between the mother and son.",
+      "cleanText": "Read the conversation between the mother and son.",
+      "bbox": {
+        "x": 184,
+        "y": 669,
+        "width": 635,
+        "height": 22
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Maa, what do I need to buy?",
+      "cleanText": "Maa, what do I need to buy?",
+      "bbox": {
+        "x": 299,
+        "y": 732,
+        "width": 326,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Well, see if we have enough",
+      "cleanText": "Well, see if we have enough",
+      "bbox": {
+        "x": 297,
+        "y": 781,
+        "width": 319,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "potatoes?",
+      "cleanText": "potatoes?",
+      "bbox": {
+        "x": 301,
+        "y": 825,
+        "width": 106,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-026-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "We have some potatoes but I don't",
+      "cleanText": "We have some potatoes but I don't",
+      "bbox": {
+        "x": 297,
+        "y": 875,
+        "width": 389,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "think it's enough.",
+      "cleanText": "think it's enough.",
+      "bbox": {
+        "x": 301,
+        "y": 922,
+        "width": 201,
+        "height": 25
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Then get half kg. of potatoes. How",
+      "cleanText": "Then get half kg. of potatoes. How",
+      "bbox": {
+        "x": 297,
+        "y": 968,
+        "width": 389,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "about tomatoes?",
+      "cleanText": "about tomatoes?",
+      "bbox": {
+        "x": 299,
+        "y": 1014,
+        "width": 184,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Idon't see any tomatoes.",
+      "cleanText": "Idon't see any tomatoes.",
+      "bbox": {
+        "x": 298,
+        "y": 1062,
+        "width": 279,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Are there any other vegetables?",
+      "cleanText": "Are there any other vegetables?",
+      "bbox": {
+        "x": 297,
+        "y": 1109,
+        "width": 359,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Yes, there are some beans, carrots,",
+      "cleanText": "Yes, there are some beans, carrots,",
+      "bbox": {
+        "x": 296,
+        "y": 1153,
+        "width": 391,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "cucumber and all.",
+      "cleanText": "cucumber and all.",
+      "bbox": {
+        "x": 301,
+        "y": 1197,
+        "width": 422,
+        "height": 19
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Well, T'll need one kg. of tomatoes. Half kg. of beans and two",
+      "cleanText": "Well, T'll need one kg. of tomatoes. Half kg. of beans and two",
+      "bbox": {
+        "x": 297,
+        "y": 1245,
+        "width": 745,
+        "height": 26
+      },
+      "confidence": 89.54,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "cauliflowers.... Are there any eggs, dear?",
+      "cleanText": "cauliflowers.... Are there any eggs, dear?",
+      "bbox": {
+        "x": 302,
+        "y": 1278,
+        "width": 463,
+        "height": 34
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-024",
+      "lineNumber": 24
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-026-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 8 Grocery Shopping",
+      "bbox": {
+        "x": 272,
+        "y": 192,
+        "width": 606,
+        "height": 39
+      },
+      "confidence": 84.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-003",
+      "lineNumber": 3,
+      "text": "usc word stress and stress on words in sentences",
+      "bbox": {
+        "x": 223,
+        "y": 338,
+        "width": 507,
+        "height": 18
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-004",
+      "lineNumber": 4,
+      "text": "and answer questions",
+      "bbox": {
+        "x": 265,
+        "y": 369,
+        "width": 223,
+        "height": 23
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-005",
+      "lineNumber": 5,
+      "text": "© participate in short dialogues and conversations on familiar topics",
+      "bbox": {
+        "x": 204,
+        "y": 399,
+        "width": 710,
+        "height": 24
+      },
+      "confidence": 90.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-006",
+      "lineNumber": 6,
+      "text": "read and understand texts",
+      "bbox": {
+        "x": 223,
+        "y": 435,
+        "width": 266,
+        "height": 18
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-007",
+      "lineNumber": 7,
+      "text": ". Some guests will visit Imran's house tonight. So Imran's mother",
+      "bbox": {
+        "x": 158,
+        "y": 497,
+        "width": 885,
+        "height": 28
+      },
+      "confidence": 92.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-008",
+      "lineNumber": 8,
+      "text": "will cook dinner for them. She asks Imran to go to the local market.",
+      "bbox": {
+        "x": 181,
+        "y": 541,
+        "width": 859,
+        "height": 28
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-009",
+      "lineNumber": 9,
+      "text": "He often forgets to buy the necessary items. So his mother is making",
+      "bbox": {
+        "x": 180,
+        "y": 581,
+        "width": 865,
+        "height": 27
+      },
+      "confidence": 95.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-010",
+      "lineNumber": 10,
+      "text": "a shopping list for him. He is helping his mother make the list.",
+      "bbox": {
+        "x": 182,
+        "y": 625,
+        "width": 784,
+        "height": 27
+      },
+      "confidence": 95.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-011",
+      "lineNumber": 11,
+      "text": "Read the conversation between the mother and son.",
+      "bbox": {
+        "x": 184,
+        "y": 669,
+        "width": 635,
+        "height": 22
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-012",
+      "lineNumber": 12,
+      "text": "Maa, what do I need to buy?",
+      "bbox": {
+        "x": 299,
+        "y": 732,
+        "width": 326,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-013",
+      "lineNumber": 13,
+      "text": "Well, see if we have enough",
+      "bbox": {
+        "x": 297,
+        "y": 781,
+        "width": 319,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-015",
+      "lineNumber": 15,
+      "text": "We have some potatoes but I don't",
+      "bbox": {
+        "x": 297,
+        "y": 875,
+        "width": 389,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-016",
+      "lineNumber": 16,
+      "text": "think it's enough.",
+      "bbox": {
+        "x": 301,
+        "y": 922,
+        "width": 201,
+        "height": 25
+      },
+      "confidence": 93.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-017",
+      "lineNumber": 17,
+      "text": "Then get half kg. of potatoes. How",
+      "bbox": {
+        "x": 297,
+        "y": 968,
+        "width": 389,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-018",
+      "lineNumber": 18,
+      "text": "about tomatoes?",
+      "bbox": {
+        "x": 299,
+        "y": 1014,
+        "width": 184,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-019",
+      "lineNumber": 19,
+      "text": "Idon't see any tomatoes.",
+      "bbox": {
+        "x": 298,
+        "y": 1062,
+        "width": 279,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-020",
+      "lineNumber": 20,
+      "text": "Are there any other vegetables?",
+      "bbox": {
+        "x": 297,
+        "y": 1109,
+        "width": 359,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-021",
+      "lineNumber": 21,
+      "text": "Yes, there are some beans, carrots,",
+      "bbox": {
+        "x": 296,
+        "y": 1153,
+        "width": 391,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-022",
+      "lineNumber": 22,
+      "text": "cucumber and all.",
+      "bbox": {
+        "x": 301,
+        "y": 1197,
+        "width": 422,
+        "height": 19
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-023",
+      "lineNumber": 23,
+      "text": "Well, T'll need one kg. of tomatoes. Half kg. of beans and two",
+      "bbox": {
+        "x": 297,
+        "y": 1245,
+        "width": 745,
+        "height": 26
+      },
+      "confidence": 89.54,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-024",
+      "lineNumber": 24,
+      "text": "cauliflowers.... Are there any eggs, dear?",
+      "bbox": {
+        "x": 302,
+        "y": 1278,
+        "width": 463,
+        "height": 34
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 8 Grocery Shopping\nAfter completing the lesson students will be able to\nusc word stress and stress on words in sentences\nand answer questions\n© participate in short dialogues and conversations on familiar topics\nread and understand texts\n. Some guests will visit Imran's house tonight. So Imran's mother\nwill cook dinner for them. She asks Imran to go to the local market.\nHe often forgets to buy the necessary items. So his mother is making\na shopping list for him. He is helping his mother make the list.\nRead the conversation between the mother and son.\nMaa, what do I need to buy?\nWell, see if we have enough\npotatoes?\nWe have some potatoes but I don't\nthink it's enough.\nThen get half kg. of potatoes. How\nabout tomatoes?\nIdon't see any tomatoes.\nAre there any other vegetables?\nYes, there are some beans, carrots,\ncucumber and all.\nWell, T'll need one kg. of tomatoes. Half kg. of beans and two\ncauliflowers.... Are there any eggs, dear?",
+  "cleanText": "Lesson 8 Grocery Shopping\nAfter completing the lesson students will be able to\nusc word stress and stress on words in sentences\nand answer questions\n© participate in short dialogues and conversations on familiar topics\nread and understand texts\n. Some guests will visit Imran's house tonight. So Imran's mother\nwill cook dinner for them. She asks Imran to go to the local market.\nHe often forgets to buy the necessary items. So his mother is making\na shopping list for him. He is helping his mother make the list.\nRead the conversation between the mother and son.\nMaa, what do I need to buy?\nWell, see if we have enough\npotatoes?\nWe have some potatoes but I don't\nthink it's enough.\nThen get half kg. of potatoes. How\nabout tomatoes?\nIdon't see any tomatoes.\nAre there any other vegetables?\nYes, there are some beans, carrots,\ncucumber and all.\nWell, T'll need one kg. of tomatoes. Half kg. of beans and two\ncauliflowers.... Are there any eggs, dear?",
+  "aiReadyText": "Lesson 8 Grocery Shopping\nusc word stress and stress on words in sentences\nand answer questions\n© participate in short dialogues and conversations on familiar topics\nread and understand texts\n. Some guests will visit Imran's house tonight. So Imran's mother\nwill cook dinner for them. She asks Imran to go to the local market.\nHe often forgets to buy the necessary items. So his mother is making\na shopping list for him. He is helping his mother make the list.\nRead the conversation between the mother and son.\nMaa, what do I need to buy?\nWell, see if we have enough\nWe have some potatoes but I don't\nthink it's enough.\nThen get half kg. of potatoes. How\nabout tomatoes?\nIdon't see any tomatoes.\nAre there any other vegetables?\nYes, there are some beans, carrots,\ncucumber and all.\nWell, T'll need one kg. of tomatoes. Half kg. of beans and two\ncauliflowers.... Are there any eggs, dear?"
+}

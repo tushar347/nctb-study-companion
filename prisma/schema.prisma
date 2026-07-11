@@ -23,12 +23,15 @@ model Student {
   createdAt     DateTime @default(now())
   updatedAt     DateTime @updatedAt
 
-  memory       StudentMemory?
-  events       ResearchEvent[]
-  quizAttempts QuizAttempt[]
-  chatMessages ChatMessage[]
-  studyRecords DailyStudyRecord[]
-  gameAttempts GameAttempt[]
+  memory             StudentMemory?
+  events             ResearchEvent[]
+  quizAttempts       QuizAttempt[]
+  chatMessages       ChatMessage[]
+  studyRecords       DailyStudyRecord[]
+  gameAttempts       GameAttempt[]
+  wallet             StudentWallet?
+  rewardTransactions RewardTransaction[]
+  aiUsageLogs        AiUsageLog[]
 }
 
 model StudentMemory {
@@ -142,4 +145,110 @@ model ChatMessage {
 
   @@index([studentId])
   @@index([lessonNo])
+}
+
+model StudentWallet {
+  id                   String   @id @default(cuid())
+  studentId            String   @unique
+  aiCredits            Int      @default(5)
+  learningPoints       Int      @default(0)
+  lifetimePointsEarned Int      @default(0)
+  lifetimeCreditsUsed  Int      @default(0)
+  createdAt            DateTime @default(now())
+  updatedAt            DateTime @updatedAt
+
+  student Student @relation(fields: [studentId], references: [id], onDelete: Cascade)
+}
+
+model RewardTransaction {
+  id            String   @id @default(cuid())
+  studentId     String
+  type          String
+  pointsChange  Int      @default(0)
+  creditsChange Int      @default(0)
+  reason        String
+  metadataJson  String?
+  createdAt     DateTime @default(now())
+
+  student Student @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@index([studentId])
+  @@index([type])
+}
+
+model AiUsageLog {
+  id           String   @id @default(cuid())
+  studentId    String
+  lessonNo     Int?
+  selectedLine String?
+  question     String?
+  toolUsed     String?
+  creditsUsed  Int      @default(1)
+  createdAt    DateTime @default(now())
+
+  student Student @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@index([studentId])
+  @@index([lessonNo])
+}
+
+model Book {
+  id         String  @id @default(cuid())
+  title      String
+  classLevel Int?
+  subject    String?
+  pdfPath    String?
+  coverImage String?
+
+  pages BookPage[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model BookPage {
+  id         String @id @default(cuid())
+  bookId     String
+  pageNumber Int
+
+  imagePath String?
+  width     Int?
+  height    Int?
+
+  rawText     String?
+  cleanText   String?
+  aiReadyText String?
+
+  book Book @relation(fields: [bookId], references: [id], onDelete: Cascade)
+
+  lines OCRLine[]
+
+  createdAt DateTime @default(now())
+
+  @@unique([bookId, pageNumber])
+  @@index([bookId])
+}
+
+model OCRLine {
+  id         String @id @default(cuid())
+  pageId     String
+  lineNumber Int
+
+  text      String
+  cleanText String?
+
+  x      Int
+  y      Int
+  width  Int
+  height Int
+
+  confidence Float?
+  aiReady    Boolean @default(false)
+
+  page BookPage @relation(fields: [pageId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+
+  @@unique([pageId, lineNumber])
+  @@index([pageId])
 }

@@ -1,0 +1,166 @@
+{
+  "lessonNo": 4,
+  "title": "Where are You From?",
+  "lessonTitle": "Where are You From?",
+  "textbookPageStart": 9,
+  "textbookPageEnd": 12,
+  "pdfPageStart": 14,
+  "pdfPageEnd": 17,
+  "lines": [
+    {
+      "id": "lesson-04-line-001",
+      "lineNumber": 1,
+      "paragraphNo": 1,
+      "text": "It is natural that when two persons meet they would engage in a conversation."
+    },
+    {
+      "id": "lesson-04-line-002",
+      "lineNumber": 2,
+      "paragraphNo": 2,
+      "text": "They may want to know where the other comes from, or what the other person does and so on."
+    },
+    {
+      "id": "lesson-04-line-003",
+      "lineNumber": 3,
+      "paragraphNo": 3,
+      "text": "Here are some conversations in such everyday situations."
+    },
+    {
+      "id": "lesson-04-line-004",
+      "lineNumber": 4,
+      "paragraphNo": 4,
+      "text": "Mamun and his friend Akash have gone to a book fair."
+    },
+    {
+      "id": "lesson-04-line-005",
+      "lineNumber": 5,
+      "paragraphNo": 5,
+      "text": "Mamun introduces Akash to someone."
+    },
+    {
+      "id": "lesson-04-line-006",
+      "lineNumber": 6,
+      "paragraphNo": 6,
+      "text": "Akash says, Hello! My name is Akash. I am sorry, I could not catch your name."
+    },
+    {
+      "id": "lesson-04-line-007",
+      "lineNumber": 7,
+      "paragraphNo": 7,
+      "text": "The stranger says, James. James Collins. Nice to meet you."
+    },
+    {
+      "id": "lesson-04-line-008",
+      "lineNumber": 8,
+      "paragraphNo": 8,
+      "text": "Akash says, Nice to meet you, too. Where are you from, James?"
+    },
+    {
+      "id": "lesson-04-line-009",
+      "lineNumber": 9,
+      "paragraphNo": 9,
+      "text": "James says, I am from England."
+    },
+    {
+      "id": "lesson-04-line-010",
+      "lineNumber": 10,
+      "paragraphNo": 10,
+      "text": "Officer asks, Where do you come from, Mr. Smith?"
+    },
+    {
+      "id": "lesson-04-line-011",
+      "lineNumber": 11,
+      "paragraphNo": 11,
+      "text": "Passenger says, Australia."
+    },
+    {
+      "id": "lesson-04-line-012",
+      "lineNumber": 12,
+      "paragraphNo": 12,
+      "text": "Officer asks, And where are you coming from now?"
+    },
+    {
+      "id": "lesson-04-line-013",
+      "lineNumber": 13,
+      "paragraphNo": 13,
+      "text": "Passenger says, I am coming from London."
+    },
+    {
+      "id": "lesson-04-line-014",
+      "lineNumber": 14,
+      "paragraphNo": 14,
+      "text": "What do you do means the same as What is your profession?"
+    },
+    {
+      "id": "lesson-04-line-015",
+      "lineNumber": 15,
+      "paragraphNo": 15,
+      "text": "What are you doing refers to what you are doing at the moment or around that time."
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "lesson-04-ai-line-001",
+      "text": "It is natural that when two persons meet they would engage in a conversation."
+    },
+    {
+      "id": "lesson-04-ai-line-002",
+      "text": "They may want to know where the other comes from, or what the other person does and so on."
+    },
+    {
+      "id": "lesson-04-ai-line-003",
+      "text": "Here are some conversations in such everyday situations."
+    },
+    {
+      "id": "lesson-04-ai-line-004",
+      "text": "Mamun and his friend Akash have gone to a book fair."
+    },
+    {
+      "id": "lesson-04-ai-line-005",
+      "text": "Mamun introduces Akash to someone."
+    },
+    {
+      "id": "lesson-04-ai-line-006",
+      "text": "Akash says, Hello! My name is Akash. I am sorry, I could not catch your name."
+    },
+    {
+      "id": "lesson-04-ai-line-007",
+      "text": "The stranger says, James. James Collins. Nice to meet you."
+    },
+    {
+      "id": "lesson-04-ai-line-008",
+      "text": "Akash says, Nice to meet you, too. Where are you from, James?"
+    },
+    {
+      "id": "lesson-04-ai-line-009",
+      "text": "James says, I am from England."
+    },
+    {
+      "id": "lesson-04-ai-line-010",
+      "text": "Officer asks, Where do you come from, Mr. Smith?"
+    },
+    {
+      "id": "lesson-04-ai-line-011",
+      "text": "Passenger says, Australia."
+    },
+    {
+      "id": "lesson-04-ai-line-012",
+      "text": "Officer asks, And where are you coming from now?"
+    },
+    {
+      "id": "lesson-04-ai-line-013",
+      "text": "Passenger says, I am coming from London."
+    },
+    {
+      "id": "lesson-04-ai-line-014",
+      "text": "What do you do means the same as What is your profession?"
+    },
+    {
+      "id": "lesson-04-ai-line-015",
+      "text": "What are you doing refers to what you are doing at the moment or around that time."
+    }
+  ],
+  "rawText": "It is natural that when two persons meet they would engage in a conversation.\nThey may want to know where the other comes from, or what the other person does and so on.\nHere are some conversations in such everyday situations.\nMamun and his friend Akash have gone to a book fair.\nMamun introduces Akash to someone.\nAkash says, Hello! My name is Akash. I am sorry, I could not catch your name.\nThe stranger says, James. James Collins. Nice to meet you.\nAkash says, Nice to meet you, too. Where are you from, James?\nJames says, I am from England.\nOfficer asks, Where do you come from, Mr. Smith?\nPassenger says, Australia.\nOfficer asks, And where are you coming from now?\nPassenger says, I am coming from London.\nWhat do you do means the same as What is your profession?\nWhat are you doing refers to what you are doing at the moment or around that time.",
+  "cleanText": "It is natural that when two persons meet they would engage in a conversation.\nThey may want to know where the other comes from, or what the other person does and so on.\nHere are some conversations in such everyday situations.\nMamun and his friend Akash have gone to a book fair.\nMamun introduces Akash to someone.\nAkash says, Hello! My name is Akash. I am sorry, I could not catch your name.\nThe stranger says, James. James Collins. Nice to meet you.\nAkash says, Nice to meet you, too. Where are you from, James?\nJames says, I am from England.\nOfficer asks, Where do you come from, Mr. Smith?\nPassenger says, Australia.\nOfficer asks, And where are you coming from now?\nPassenger says, I am coming from London.\nWhat do you do means the same as What is your profession?\nWhat are you doing refers to what you are doing at the moment or around that time.",
+  "aiReadyText": "It is natural that when two persons meet they would engage in a conversation.\nThey may want to know where the other comes from, or what the other person does and so on.\nHere are some conversations in such everyday situations.\nMamun and his friend Akash have gone to a book fair.\nMamun introduces Akash to someone.\nAkash says, Hello! My name is Akash. I am sorry, I could not catch your name.\nThe stranger says, James. James Collins. Nice to meet you.\nAkash says, Nice to meet you, too. Where are you from, James?\nJames says, I am from England.\nOfficer asks, Where do you come from, Mr. Smith?\nPassenger says, Australia.\nOfficer asks, And where are you coming from now?\nPassenger says, I am coming from London.\nWhat do you do means the same as What is your profession?\nWhat are you doing refers to what you are doing at the moment or around that time."
+}

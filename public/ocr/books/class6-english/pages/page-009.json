@@ -1,0 +1,624 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 9,
+  "image": "/ocr/books/class6-english/page-images/page-009.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Congratulations! Well Done !",
+      "cleanText": "Congratulations! Well Done !",
+      "bbox": {
+        "x": 349,
+        "y": 180,
+        "width": 628,
+        "height": 39
+      },
+      "confidence": 87.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 2",
+      "cleanText": "Lesson 2",
+      "bbox": {
+        "x": 149,
+        "y": 182,
+        "width": 133,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-009-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 162,
+        "y": 281,
+        "width": 569,
+        "height": 23
+      },
+      "confidence": 96.11,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-009-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "© ask and answer questions",
+      "cleanText": "© ask and answer questions",
+      "bbox": {
+        "x": 183,
+        "y": 312,
+        "width": 284,
+        "height": 23
+      },
+      "confidence": 84.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "© read and understand written instructions",
+      "cleanText": "© read and understand written instructions",
+      "bbox": {
+        "x": 183,
+        "y": 342,
+        "width": 440,
+        "height": 19
+      },
+      "confidence": 85.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "® participate in short dialogues and conversations on familiar topics",
+      "cleanText": "® participate in short dialogues and conversations on familiar topics",
+      "bbox": {
+        "x": 183,
+        "y": 381,
+        "width": 709,
+        "height": 23
+      },
+      "confidence": 89.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "A. We often use some routine expressions in our everyday conversations.",
+      "cleanText": "We often use some routine expressions in our everyday conversations.",
+      "bbox": {
+        "x": 119,
+        "y": 442,
+        "width": 915,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Read the following conversations and see some of the different ways in",
+      "cleanText": "Read the following conversations and see some of the different ways in",
+      "bbox": {
+        "x": 161,
+        "y": 481,
+        "width": 872,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-009-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "which we can respond to good or bad news.",
+      "cleanText": "which we can respond to good or bad news.",
+      "bbox": {
+        "x": 161,
+        "y": 521,
+        "width": 550,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "i) Lily goes to a school in Dhaka and her parents live in a small town in",
+      "cleanText": "Lily goes to a school in Dhaka and her parents live in a small town in",
+      "bbox": {
+        "x": 162,
+        "y": 572,
+        "width": 868,
+        "height": 26
+      },
+      "confidence": 88.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Tangail district. Lily is talking to her father over telephone.",
+      "cleanText": "Tangail district. Lily is talking to her father over telephone.",
+      "bbox": {
+        "x": 163,
+        "y": 612,
+        "width": 701,
+        "height": 26
+      },
+      "confidence": 95.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Hello, Baba!",
+      "cleanText": "Hello, Baba!",
+      "bbox": {
+        "x": 299,
+        "y": 707,
+        "width": 141,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-009-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Lily? How are you?",
+      "cleanText": "Lily? How are you?",
+      "bbox": {
+        "x": 297,
+        "y": 759,
+        "width": 225,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Fine, Baba. I just got my exam result. I've got an A in my",
+      "cleanText": "Fine, Baba. I just got my exam result. I've got an A in my",
+      "bbox": {
+        "x": 298,
+        "y": 812,
+        "width": 706,
+        "height": 26
+      },
+      "confidence": 95.79,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "English test!",
+      "cleanText": "English test!",
+      "bbox": {
+        "x": 300,
+        "y": 853,
+        "width": 141,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-009-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Well done, daughter ! I'm so",
+      "cleanText": "Well done, daughter ! I'm so",
+      "bbox": {
+        "x": 297,
+        "y": 911,
+        "width": 319,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "proud of you!",
+      "cleanText": "proud of you!",
+      "bbox": {
+        "x": 300,
+        "y": 944,
+        "width": 153,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-009-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Thanks, Baba. By the way,",
+      "cleanText": "Thanks, Baba. By the way,",
+      "bbox": {
+        "x": 298,
+        "y": 997,
+        "width": 304,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "to go now. I'll call",
+      "cleanText": "to go now. I'll call",
+      "bbox": {
+        "x": 377,
+        "y": 1030,
+        "width": 214,
+        "height": 26
+      },
+      "confidence": 93.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "you again.",
+      "cleanText": "you again.",
+      "bbox": {
+        "x": 300,
+        "y": 1063,
+        "width": 116,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-009-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Bye, daughter. Take care.",
+      "cleanText": "Bye, daughter. Take care.",
+      "bbox": {
+        "x": 299,
+        "y": 1114,
+        "width": 288,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "You too, Baba. Bye!",
+      "cleanText": "You too, Baba. Bye!",
+      "bbox": {
+        "x": 297,
+        "y": 1160,
+        "width": 228,
+        "height": 26
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "ii) Rahul is a good singer. He loves to sing folk songs and is quite popular with",
+      "cleanText": "Rahul is a good singer. He loves to sing folk songs and is quite popular with",
+      "bbox": {
+        "x": 162,
+        "y": 1246,
+        "width": 869,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "the young generation. His new album has just come out.",
+      "cleanText": "the young generation. His new album has just come out.",
+      "bbox": {
+        "x": 163,
+        "y": 1288,
+        "width": 636,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Hello, Rahul! You look very happy today!",
+      "cleanText": "Hello, Rahul! You look very happy today!",
+      "bbox": {
+        "x": 299,
+        "y": 1341,
+        "width": 475,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-025",
+      "lineNumber": 25
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-009-line-001",
+      "lineNumber": 1,
+      "text": "Congratulations! Well Done !",
+      "bbox": {
+        "x": 349,
+        "y": 180,
+        "width": 628,
+        "height": 39
+      },
+      "confidence": 87.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-004",
+      "lineNumber": 4,
+      "text": "© ask and answer questions",
+      "bbox": {
+        "x": 183,
+        "y": 312,
+        "width": 284,
+        "height": 23
+      },
+      "confidence": 84.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-005",
+      "lineNumber": 5,
+      "text": "© read and understand written instructions",
+      "bbox": {
+        "x": 183,
+        "y": 342,
+        "width": 440,
+        "height": 19
+      },
+      "confidence": 85.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-006",
+      "lineNumber": 6,
+      "text": "® participate in short dialogues and conversations on familiar topics",
+      "bbox": {
+        "x": 183,
+        "y": 381,
+        "width": 709,
+        "height": 23
+      },
+      "confidence": 89.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-007",
+      "lineNumber": 7,
+      "text": "We often use some routine expressions in our everyday conversations.",
+      "bbox": {
+        "x": 119,
+        "y": 442,
+        "width": 915,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-009",
+      "lineNumber": 9,
+      "text": "which we can respond to good or bad news.",
+      "bbox": {
+        "x": 161,
+        "y": 521,
+        "width": 550,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-010",
+      "lineNumber": 10,
+      "text": "Lily goes to a school in Dhaka and her parents live in a small town in",
+      "bbox": {
+        "x": 162,
+        "y": 572,
+        "width": 868,
+        "height": 26
+      },
+      "confidence": 88.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-011",
+      "lineNumber": 11,
+      "text": "Tangail district. Lily is talking to her father over telephone.",
+      "bbox": {
+        "x": 163,
+        "y": 612,
+        "width": 701,
+        "height": 26
+      },
+      "confidence": 95.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-013",
+      "lineNumber": 13,
+      "text": "Lily? How are you?",
+      "bbox": {
+        "x": 297,
+        "y": 759,
+        "width": 225,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-014",
+      "lineNumber": 14,
+      "text": "Fine, Baba. I just got my exam result. I've got an A in my",
+      "bbox": {
+        "x": 298,
+        "y": 812,
+        "width": 706,
+        "height": 26
+      },
+      "confidence": 95.79,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-016",
+      "lineNumber": 16,
+      "text": "Well done, daughter ! I'm so",
+      "bbox": {
+        "x": 297,
+        "y": 911,
+        "width": 319,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-018",
+      "lineNumber": 18,
+      "text": "Thanks, Baba. By the way,",
+      "bbox": {
+        "x": 298,
+        "y": 997,
+        "width": 304,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-019",
+      "lineNumber": 19,
+      "text": "to go now. I'll call",
+      "bbox": {
+        "x": 377,
+        "y": 1030,
+        "width": 214,
+        "height": 26
+      },
+      "confidence": 93.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-021",
+      "lineNumber": 21,
+      "text": "Bye, daughter. Take care.",
+      "bbox": {
+        "x": 299,
+        "y": 1114,
+        "width": 288,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-022",
+      "lineNumber": 22,
+      "text": "You too, Baba. Bye!",
+      "bbox": {
+        "x": 297,
+        "y": 1160,
+        "width": 228,
+        "height": 26
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-023",
+      "lineNumber": 23,
+      "text": "Rahul is a good singer. He loves to sing folk songs and is quite popular with",
+      "bbox": {
+        "x": 162,
+        "y": 1246,
+        "width": 869,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-024",
+      "lineNumber": 24,
+      "text": "the young generation. His new album has just come out.",
+      "bbox": {
+        "x": 163,
+        "y": 1288,
+        "width": 636,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-025",
+      "lineNumber": 25,
+      "text": "Hello, Rahul! You look very happy today!",
+      "bbox": {
+        "x": 299,
+        "y": 1341,
+        "width": 475,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Congratulations! Well Done !\nLesson 2\nAfter completing the lesson students will be able to\n© ask and answer questions\n© read and understand written instructions\n® participate in short dialogues and conversations on familiar topics\nA. We often use some routine expressions in our everyday conversations.\nRead the following conversations and see some of the different ways in\nwhich we can respond to good or bad news.\ni) Lily goes to a school in Dhaka and her parents live in a small town in\nTangail district. Lily is talking to her father over telephone.\nHello, Baba!\nLily? How are you?\nFine, Baba. I just got my exam result. I've got an A in my\nEnglish test!\nWell done, daughter ! I'm so\nproud of you!\nThanks, Baba. By the way,\nto go now. I'll call\nyou again.\nBye, daughter. Take care.\nYou too, Baba. Bye!\nii) Rahul is a good singer. He loves to sing folk songs and is quite popular with\nthe young generation. His new album has just come out.\nHello, Rahul! You look very happy today!",
+  "cleanText": "Congratulations! Well Done !\nLesson 2\nAfter completing the lesson students will be able to\n© ask and answer questions\n© read and understand written instructions\n® participate in short dialogues and conversations on familiar topics\nWe often use some routine expressions in our everyday conversations.\nRead the following conversations and see some of the different ways in\nwhich we can respond to good or bad news.\nLily goes to a school in Dhaka and her parents live in a small town in\nTangail district. Lily is talking to her father over telephone.\nHello, Baba!\nLily? How are you?\nFine, Baba. I just got my exam result. I've got an A in my\nEnglish test!\nWell done, daughter ! I'm so\nproud of you!\nThanks, Baba. By the way,\nto go now. I'll call\nyou again.\nBye, daughter. Take care.\nYou too, Baba. Bye!\nRahul is a good singer. He loves to sing folk songs and is quite popular with\nthe young generation. His new album has just come out.\nHello, Rahul! You look very happy today!",
+  "aiReadyText": "Congratulations! Well Done !\n© ask and answer questions\n© read and understand written instructions\n® participate in short dialogues and conversations on familiar topics\nWe often use some routine expressions in our everyday conversations.\nwhich we can respond to good or bad news.\nLily goes to a school in Dhaka and her parents live in a small town in\nTangail district. Lily is talking to her father over telephone.\nLily? How are you?\nFine, Baba. I just got my exam result. I've got an A in my\nWell done, daughter ! I'm so\nThanks, Baba. By the way,\nto go now. I'll call\nBye, daughter. Take care.\nYou too, Baba. Bye!\nRahul is a good singer. He loves to sing folk songs and is quite popular with\nthe young generation. His new album has just come out.\nHello, Rahul! You look very happy today!"
+}

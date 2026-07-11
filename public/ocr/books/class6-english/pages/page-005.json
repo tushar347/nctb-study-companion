@@ -1,0 +1,982 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 5,
+  "image": "/ocr/books/class6-english/page-images/page-005.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "CONTENTS",
+      "cleanText": "CONTENTS",
+      "bbox": {
+        "x": 494,
+        "y": 144,
+        "width": 179,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-005-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson- | Going to a New School l",
+      "cleanText": "Lesson- | Going to a New School l",
+      "bbox": {
+        "x": 164,
+        "y": 217,
+        "width": 802,
+        "height": 25
+      },
+      "confidence": 92.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Lesson- 2 Congratulations! Well Done! 4",
+      "cleanText": "Lesson- 2 Congratulations! Well Done! 4",
+      "bbox": {
+        "x": 163,
+        "y": 253,
+        "width": 806,
+        "height": 22
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Lesson- 3 Ata Railway Station 7",
+      "cleanText": "Lesson- 3 Ata Railway Station 7",
+      "bbox": {
+        "x": 164,
+        "y": 287,
+        "width": 805,
+        "height": 24
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Lesson- 4 Where are You From? 9",
+      "cleanText": "Lesson- 4 Where are You From? 9",
+      "bbox": {
+        "x": 163,
+        "y": 320,
+        "width": 806,
+        "height": 19
+      },
+      "confidence": 94.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Lesson- 5 Thanks for Your Work 13",
+      "cleanText": "Lesson- 5 Thanks for Your Work 13",
+      "bbox": {
+        "x": 164,
+        "y": 351,
+        "width": 811,
+        "height": 20
+      },
+      "confidence": 94.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Lesson- 6 | It Smells Good! 17",
+      "cleanText": "Lesson- 6 | It Smells Good! 17",
+      "bbox": {
+        "x": 163,
+        "y": 379,
+        "width": 813,
+        "height": 35
+      },
+      "confidence": 85.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Lesson- 7 Holding Hands 19",
+      "cleanText": "Lesson- 7 Holding Hands 19",
+      "bbox": {
+        "x": 163,
+        "y": 419,
+        "width": 813,
+        "height": 22
+      },
+      "confidence": 94.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Lesson- 8 | Grocery Shopping 21",
+      "cleanText": "Lesson- 8 | Grocery Shopping 21",
+      "bbox": {
+        "x": 164,
+        "y": 446,
+        "width": 808,
+        "height": 34
+      },
+      "confidence": 87.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Lesson- 9 Health is Wealth 28",
+      "cleanText": "Lesson- 9 Health is Wealth 28",
+      "bbox": {
+        "x": 164,
+        "y": 484,
+        "width": 811,
+        "height": 20
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Lesson- 10 | Remedies: Modern and Traditional 33",
+      "cleanText": "Lesson- 10 | Remedies: Modern and Traditional 33",
+      "bbox": {
+        "x": 164,
+        "y": 513,
+        "width": 811,
+        "height": 32
+      },
+      "confidence": 94.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Lesson- 11 | Are You Listening?-1 37",
+      "cleanText": "Lesson- 11 | Are You Listening?-1 37",
+      "bbox": {
+        "x": 164,
+        "y": 545,
+        "width": 811,
+        "height": 32
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Lesson- 12 | AnUnseen Beauty of Bangladesh 39",
+      "cleanText": "Lesson- 12 | AnUnseen Beauty of Bangladesh 39",
+      "bbox": {
+        "x": 164,
+        "y": 581,
+        "width": 812,
+        "height": 33
+      },
+      "confidence": 88.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Lesson- 13 | Our Pride 42",
+      "cleanText": "Lesson- 13 | Our Pride 42",
+      "bbox": {
+        "x": 163,
+        "y": 614,
+        "width": 812,
+        "height": 33
+      },
+      "confidence": 87.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Lesson- 14 | The Lion's Mane 46",
+      "cleanText": "Lesson- 14 | The Lion's Mane 46",
+      "bbox": {
+        "x": 163,
+        "y": 643,
+        "width": 813,
+        "height": 37
+      },
+      "confidence": 91.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Lesson- 15 | An Old People's Home 49",
+      "cleanText": "Lesson- 15 | An Old People's Home 49",
+      "bbox": {
+        "x": 164,
+        "y": 680,
+        "width": 812,
+        "height": 36
+      },
+      "confidence": 78.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Lesson- 16 | Boats Sail on the Rivers 52",
+      "cleanText": "Lesson- 16 | Boats Sail on the Rivers 52",
+      "bbox": {
+        "x": 163,
+        "y": 713,
+        "width": 812,
+        "height": 36
+      },
+      "confidence": 89.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Lesson- 17 | Are You Listening?-2 53",
+      "cleanText": "Lesson- 17 | Are You Listening?-2 53",
+      "bbox": {
+        "x": 164,
+        "y": 744,
+        "width": 811,
+        "height": 38
+      },
+      "confidence": 73.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Lesson- 18 | Make Your Snacks 56",
+      "cleanText": "Lesson- 18 | Make Your Snacks 56",
+      "bbox": {
+        "x": 164,
+        "y": 779,
+        "width": 812,
+        "height": 35
+      },
+      "confidence": 87.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Lesson- 19 | Stop, Look and Listen 60",
+      "cleanText": "Lesson- 19 | Stop, Look and Listen 60",
+      "bbox": {
+        "x": 164,
+        "y": 810,
+        "width": 812,
+        "height": 35
+      },
+      "confidence": 91.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Lesson- 20 | Hason Raja: The Mystic Bard of Bangladesh 61",
+      "cleanText": "Lesson- 20 | Hason Raja: The Mystic Bard of Bangladesh 61",
+      "bbox": {
+        "x": 164,
+        "y": 845,
+        "width": 808,
+        "height": 34
+      },
+      "confidence": 93.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Lesson- 21 | Wonders of the World-1 63",
+      "cleanText": "Lesson- 21 | Wonders of the World-1 63",
+      "bbox": {
+        "x": 164,
+        "y": 879,
+        "width": 811,
+        "height": 36
+      },
+      "confidence": 74.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Lesson- 22 | Wonders of the World-2 65",
+      "cleanText": "Lesson- 22 | Wonders of the World-2 65",
+      "bbox": {
+        "x": 164,
+        "y": 912,
+        "width": 811,
+        "height": 36
+      },
+      "confidence": 81.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Lesson- 23 | We Live in a Global Village 68",
+      "cleanText": "Lesson- 23 | We Live in a Global Village 68",
+      "bbox": {
+        "x": 163,
+        "y": 945,
+        "width": 812,
+        "height": 33
+      },
+      "confidence": 87.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Lesson- 24 | Our Wage Earners 7",
+      "cleanText": "Lesson- 24 | Our Wage Earners 7",
+      "bbox": {
+        "x": 164,
+        "y": 977,
+        "width": 808,
+        "height": 36
+      },
+      "confidence": 88.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Lesson- 25 | The Concert for Bangladesh 75",
+      "cleanText": "Lesson- 25 | The Concert for Bangladesh 75",
+      "bbox": {
+        "x": 163,
+        "y": 1010,
+        "width": 812,
+        "height": 35
+      },
+      "confidence": 86.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Lesson- 26 | Buying Clothes 78",
+      "cleanText": "Lesson- 26 | Buying Clothes 78",
+      "bbox": {
+        "x": 163,
+        "y": 1040,
+        "width": 812,
+        "height": 38
+      },
+      "confidence": 87.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "Lesson- 27 | Andre 83",
+      "cleanText": "Lesson- 27 | Andre 83",
+      "bbox": {
+        "x": 164,
+        "y": 1076,
+        "width": 811,
+        "height": 32
+      },
+      "confidence": 93.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "Lesson- 28 | Are You Listening?-3 84",
+      "cleanText": "Lesson- 28 | Are You Listening?-3 84",
+      "bbox": {
+        "x": 163,
+        "y": 1109,
+        "width": 813,
+        "height": 35
+      },
+      "confidence": 90.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "Lesson- 29 | Taking 86",
+      "cleanText": "Lesson- 29 | Taking 86",
+      "bbox": {
+        "x": 164,
+        "y": 1143,
+        "width": 812,
+        "height": 34
+      },
+      "confidence": 91.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "Lesson- 30 | What Should We do? 88",
+      "cleanText": "Lesson- 30 | What Should We do? 88",
+      "bbox": {
+        "x": 164,
+        "y": 1171,
+        "width": 811,
+        "height": 42
+      },
+      "confidence": 86.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "Lesson- 31 | Too Much orToo Little Water 90",
+      "cleanText": "Lesson- 31 | Too Much orToo Little Water 90",
+      "bbox": {
+        "x": 164,
+        "y": 1209,
+        "width": 812,
+        "height": 34
+      },
+      "confidence": 83.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "Lesson- 32 | An Invitation for Robin 92",
+      "cleanText": "Lesson- 32 | An Invitation for Robin 92",
+      "bbox": {
+        "x": 164,
+        "y": 1240,
+        "width": 811,
+        "height": 36
+      },
+      "confidence": 88.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "Lesson- 33 | The Garden 94",
+      "cleanText": "Lesson- 33 | The Garden 94",
+      "bbox": {
+        "x": 164,
+        "y": 1276,
+        "width": 812,
+        "height": 31
+      },
+      "confidence": 90.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "Sample Question 101",
+      "cleanText": "Sample Question 101",
+      "bbox": {
+        "x": 310,
+        "y": 1312,
+        "width": 669,
+        "height": 25
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-005-line-035",
+      "lineNumber": 35
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-005-line-002",
+      "lineNumber": 2,
+      "text": "Lesson- | Going to a New School l",
+      "bbox": {
+        "x": 164,
+        "y": 217,
+        "width": 802,
+        "height": 25
+      },
+      "confidence": 92.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-003",
+      "lineNumber": 3,
+      "text": "Lesson- 2 Congratulations! Well Done! 4",
+      "bbox": {
+        "x": 163,
+        "y": 253,
+        "width": 806,
+        "height": 22
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-004",
+      "lineNumber": 4,
+      "text": "Lesson- 3 Ata Railway Station 7",
+      "bbox": {
+        "x": 164,
+        "y": 287,
+        "width": 805,
+        "height": 24
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-005",
+      "lineNumber": 5,
+      "text": "Lesson- 4 Where are You From? 9",
+      "bbox": {
+        "x": 163,
+        "y": 320,
+        "width": 806,
+        "height": 19
+      },
+      "confidence": 94.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-006",
+      "lineNumber": 6,
+      "text": "Lesson- 5 Thanks for Your Work 13",
+      "bbox": {
+        "x": 164,
+        "y": 351,
+        "width": 811,
+        "height": 20
+      },
+      "confidence": 94.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-007",
+      "lineNumber": 7,
+      "text": "Lesson- 6 | It Smells Good! 17",
+      "bbox": {
+        "x": 163,
+        "y": 379,
+        "width": 813,
+        "height": 35
+      },
+      "confidence": 85.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-008",
+      "lineNumber": 8,
+      "text": "Lesson- 7 Holding Hands 19",
+      "bbox": {
+        "x": 163,
+        "y": 419,
+        "width": 813,
+        "height": 22
+      },
+      "confidence": 94.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-009",
+      "lineNumber": 9,
+      "text": "Lesson- 8 | Grocery Shopping 21",
+      "bbox": {
+        "x": 164,
+        "y": 446,
+        "width": 808,
+        "height": 34
+      },
+      "confidence": 87.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-010",
+      "lineNumber": 10,
+      "text": "Lesson- 9 Health is Wealth 28",
+      "bbox": {
+        "x": 164,
+        "y": 484,
+        "width": 811,
+        "height": 20
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-011",
+      "lineNumber": 11,
+      "text": "Lesson- 10 | Remedies: Modern and Traditional 33",
+      "bbox": {
+        "x": 164,
+        "y": 513,
+        "width": 811,
+        "height": 32
+      },
+      "confidence": 94.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-012",
+      "lineNumber": 12,
+      "text": "Lesson- 11 | Are You Listening?-1 37",
+      "bbox": {
+        "x": 164,
+        "y": 545,
+        "width": 811,
+        "height": 32
+      },
+      "confidence": 89.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-013",
+      "lineNumber": 13,
+      "text": "Lesson- 12 | AnUnseen Beauty of Bangladesh 39",
+      "bbox": {
+        "x": 164,
+        "y": 581,
+        "width": 812,
+        "height": 33
+      },
+      "confidence": 88.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-014",
+      "lineNumber": 14,
+      "text": "Lesson- 13 | Our Pride 42",
+      "bbox": {
+        "x": 163,
+        "y": 614,
+        "width": 812,
+        "height": 33
+      },
+      "confidence": 87.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-015",
+      "lineNumber": 15,
+      "text": "Lesson- 14 | The Lion's Mane 46",
+      "bbox": {
+        "x": 163,
+        "y": 643,
+        "width": 813,
+        "height": 37
+      },
+      "confidence": 91.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-016",
+      "lineNumber": 16,
+      "text": "Lesson- 15 | An Old People's Home 49",
+      "bbox": {
+        "x": 164,
+        "y": 680,
+        "width": 812,
+        "height": 36
+      },
+      "confidence": 78.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-017",
+      "lineNumber": 17,
+      "text": "Lesson- 16 | Boats Sail on the Rivers 52",
+      "bbox": {
+        "x": 163,
+        "y": 713,
+        "width": 812,
+        "height": 36
+      },
+      "confidence": 89.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-018",
+      "lineNumber": 18,
+      "text": "Lesson- 17 | Are You Listening?-2 53",
+      "bbox": {
+        "x": 164,
+        "y": 744,
+        "width": 811,
+        "height": 38
+      },
+      "confidence": 73.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-019",
+      "lineNumber": 19,
+      "text": "Lesson- 18 | Make Your Snacks 56",
+      "bbox": {
+        "x": 164,
+        "y": 779,
+        "width": 812,
+        "height": 35
+      },
+      "confidence": 87.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-020",
+      "lineNumber": 20,
+      "text": "Lesson- 19 | Stop, Look and Listen 60",
+      "bbox": {
+        "x": 164,
+        "y": 810,
+        "width": 812,
+        "height": 35
+      },
+      "confidence": 91.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-021",
+      "lineNumber": 21,
+      "text": "Lesson- 20 | Hason Raja: The Mystic Bard of Bangladesh 61",
+      "bbox": {
+        "x": 164,
+        "y": 845,
+        "width": 808,
+        "height": 34
+      },
+      "confidence": 93.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-022",
+      "lineNumber": 22,
+      "text": "Lesson- 21 | Wonders of the World-1 63",
+      "bbox": {
+        "x": 164,
+        "y": 879,
+        "width": 811,
+        "height": 36
+      },
+      "confidence": 74.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-023",
+      "lineNumber": 23,
+      "text": "Lesson- 22 | Wonders of the World-2 65",
+      "bbox": {
+        "x": 164,
+        "y": 912,
+        "width": 811,
+        "height": 36
+      },
+      "confidence": 81.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-024",
+      "lineNumber": 24,
+      "text": "Lesson- 23 | We Live in a Global Village 68",
+      "bbox": {
+        "x": 163,
+        "y": 945,
+        "width": 812,
+        "height": 33
+      },
+      "confidence": 87.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-025",
+      "lineNumber": 25,
+      "text": "Lesson- 24 | Our Wage Earners 7",
+      "bbox": {
+        "x": 164,
+        "y": 977,
+        "width": 808,
+        "height": 36
+      },
+      "confidence": 88.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-026",
+      "lineNumber": 26,
+      "text": "Lesson- 25 | The Concert for Bangladesh 75",
+      "bbox": {
+        "x": 163,
+        "y": 1010,
+        "width": 812,
+        "height": 35
+      },
+      "confidence": 86.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-027",
+      "lineNumber": 27,
+      "text": "Lesson- 26 | Buying Clothes 78",
+      "bbox": {
+        "x": 163,
+        "y": 1040,
+        "width": 812,
+        "height": 38
+      },
+      "confidence": 87.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-028",
+      "lineNumber": 28,
+      "text": "Lesson- 27 | Andre 83",
+      "bbox": {
+        "x": 164,
+        "y": 1076,
+        "width": 811,
+        "height": 32
+      },
+      "confidence": 93.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-029",
+      "lineNumber": 29,
+      "text": "Lesson- 28 | Are You Listening?-3 84",
+      "bbox": {
+        "x": 163,
+        "y": 1109,
+        "width": 813,
+        "height": 35
+      },
+      "confidence": 90.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-030",
+      "lineNumber": 30,
+      "text": "Lesson- 29 | Taking 86",
+      "bbox": {
+        "x": 164,
+        "y": 1143,
+        "width": 812,
+        "height": 34
+      },
+      "confidence": 91.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-031",
+      "lineNumber": 31,
+      "text": "Lesson- 30 | What Should We do? 88",
+      "bbox": {
+        "x": 164,
+        "y": 1171,
+        "width": 811,
+        "height": 42
+      },
+      "confidence": 86.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-032",
+      "lineNumber": 32,
+      "text": "Lesson- 31 | Too Much orToo Little Water 90",
+      "bbox": {
+        "x": 164,
+        "y": 1209,
+        "width": 812,
+        "height": 34
+      },
+      "confidence": 83.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-033",
+      "lineNumber": 33,
+      "text": "Lesson- 32 | An Invitation for Robin 92",
+      "bbox": {
+        "x": 164,
+        "y": 1240,
+        "width": 811,
+        "height": 36
+      },
+      "confidence": 88.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-034",
+      "lineNumber": 34,
+      "text": "Lesson- 33 | The Garden 94",
+      "bbox": {
+        "x": 164,
+        "y": 1276,
+        "width": 812,
+        "height": 31
+      },
+      "confidence": 90.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-005-line-035",
+      "lineNumber": 35,
+      "text": "Sample Question 101",
+      "bbox": {
+        "x": 310,
+        "y": 1312,
+        "width": 669,
+        "height": 25
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "CONTENTS\nLesson- | Going to a New School l\nLesson- 2 Congratulations! Well Done! 4\nLesson- 3 Ata Railway Station 7\nLesson- 4 Where are You From? 9\nLesson- 5 Thanks for Your Work 13\nLesson- 6 | It Smells Good! 17\nLesson- 7 Holding Hands 19\nLesson- 8 | Grocery Shopping 21\nLesson- 9 Health is Wealth 28\nLesson- 10 | Remedies: Modern and Traditional 33\nLesson- 11 | Are You Listening?-1 37\nLesson- 12 | AnUnseen Beauty of Bangladesh 39\nLesson- 13 | Our Pride 42\nLesson- 14 | The Lion's Mane 46\nLesson- 15 | An Old People's Home 49\nLesson- 16 | Boats Sail on the Rivers 52\nLesson- 17 | Are You Listening?-2 53\nLesson- 18 | Make Your Snacks 56\nLesson- 19 | Stop, Look and Listen 60\nLesson- 20 | Hason Raja: The Mystic Bard of Bangladesh 61\nLesson- 21 | Wonders of the World-1 63\nLesson- 22 | Wonders of the World-2 65\nLesson- 23 | We Live in a Global Village 68\nLesson- 24 | Our Wage Earners 7\nLesson- 25 | The Concert for Bangladesh 75\nLesson- 26 | Buying Clothes 78\nLesson- 27 | Andre 83\nLesson- 28 | Are You Listening?-3 84\nLesson- 29 | Taking 86\nLesson- 30 | What Should We do? 88\nLesson- 31 | Too Much orToo Little Water 90\nLesson- 32 | An Invitation for Robin 92\nLesson- 33 | The Garden 94\nSample Question 101",
+  "cleanText": "CONTENTS\nLesson- | Going to a New School l\nLesson- 2 Congratulations! Well Done! 4\nLesson- 3 Ata Railway Station 7\nLesson- 4 Where are You From? 9\nLesson- 5 Thanks for Your Work 13\nLesson- 6 | It Smells Good! 17\nLesson- 7 Holding Hands 19\nLesson- 8 | Grocery Shopping 21\nLesson- 9 Health is Wealth 28\nLesson- 10 | Remedies: Modern and Traditional 33\nLesson- 11 | Are You Listening?-1 37\nLesson- 12 | AnUnseen Beauty of Bangladesh 39\nLesson- 13 | Our Pride 42\nLesson- 14 | The Lion's Mane 46\nLesson- 15 | An Old People's Home 49\nLesson- 16 | Boats Sail on the Rivers 52\nLesson- 17 | Are You Listening?-2 53\nLesson- 18 | Make Your Snacks 56\nLesson- 19 | Stop, Look and Listen 60\nLesson- 20 | Hason Raja: The Mystic Bard of Bangladesh 61\nLesson- 21 | Wonders of the World-1 63\nLesson- 22 | Wonders of the World-2 65\nLesson- 23 | We Live in a Global Village 68\nLesson- 24 | Our Wage Earners 7\nLesson- 25 | The Concert for Bangladesh 75\nLesson- 26 | Buying Clothes 78\nLesson- 27 | Andre 83\nLesson- 28 | Are You Listening?-3 84\nLesson- 29 | Taking 86\nLesson- 30 | What Should We do? 88\nLesson- 31 | Too Much orToo Little Water 90\nLesson- 32 | An Invitation for Robin 92\nLesson- 33 | The Garden 94\nSample Question 101",
+  "aiReadyText": "Lesson- | Going to a New School l\nLesson- 2 Congratulations! Well Done! 4\nLesson- 3 Ata Railway Station 7\nLesson- 4 Where are You From? 9\nLesson- 5 Thanks for Your Work 13\nLesson- 6 | It Smells Good! 17\nLesson- 7 Holding Hands 19\nLesson- 8 | Grocery Shopping 21\nLesson- 9 Health is Wealth 28\nLesson- 10 | Remedies: Modern and Traditional 33\nLesson- 11 | Are You Listening?-1 37\nLesson- 12 | AnUnseen Beauty of Bangladesh 39\nLesson- 13 | Our Pride 42\nLesson- 14 | The Lion's Mane 46\nLesson- 15 | An Old People's Home 49\nLesson- 16 | Boats Sail on the Rivers 52\nLesson- 17 | Are You Listening?-2 53\nLesson- 18 | Make Your Snacks 56\nLesson- 19 | Stop, Look and Listen 60\nLesson- 20 | Hason Raja: The Mystic Bard of Bangladesh 61\nLesson- 21 | Wonders of the World-1 63\nLesson- 22 | Wonders of the World-2 65\nLesson- 23 | We Live in a Global Village 68\nLesson- 24 | Our Wage Earners 7\nLesson- 25 | The Concert for Bangladesh 75\nLesson- 26 | Buying Clothes 78\nLesson- 27 | Andre 83\nLesson- 28 | Are You Listening?-3 84\nLesson- 29 | Taking 86\nLesson- 30 | What Should We do? 88\nLesson- 31 | Too Much orToo Little Water 90\nLesson- 32 | An Invitation for Robin 92\nLesson- 33 | The Garden 94\nSample Question 101"
+}

@@ -1,0 +1,549 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 57,
+  "image": "/ocr/books/class6-english/page-images/page-057.png",
+  "width": 1149,
+  "height": 1504,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 16 Boats Sail on the Rivers",
+      "cleanText": "Lesson 16 Boats Sail on the Rivers",
+      "bbox": {
+        "x": 222,
+        "y": 181,
+        "width": 735,
+        "height": 31
+      },
+      "confidence": 93.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 165,
+        "y": 262,
+        "width": 568,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-057-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "© recognise English sounds",
+      "cleanText": "© recognise English sounds",
+      "bbox": {
+        "x": 185,
+        "y": 293,
+        "width": 285,
+        "height": 24
+      },
+      "confidence": 82.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "recognise intonation in sentences",
+      "cleanText": "recognise intonation in sentences",
+      "bbox": {
+        "x": 203,
+        "y": 324,
+        "width": 349,
+        "height": 24
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "© understand and enjoy stories and poems",
+      "cleanText": "© understand and enjoy stories and poems",
+      "bbox": {
+        "x": 185,
+        "y": 359,
+        "width": 437,
+        "height": 24
+      },
+      "confidence": 93.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Listen to, read and then recite the poem.",
+      "cleanText": "Listen to, read and then recite the poem.",
+      "bbox": {
+        "x": 173,
+        "y": 410,
+        "width": 509,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-057-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Boats sail on the rivers",
+      "cleanText": "Boats sail on the rivers",
+      "bbox": {
+        "x": 173,
+        "y": 466,
+        "width": 295,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "- Christina Georgina Rossetti",
+      "cleanText": "- Christina Georgina Rossetti",
+      "bbox": {
+        "x": 493,
+        "y": 502,
+        "width": 337,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Boats sail on the rivers,",
+      "cleanText": "Boats sail on the rivers,",
+      "bbox": {
+        "x": 171,
+        "y": 543,
+        "width": 266,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "And ships sail on the seas;",
+      "cleanText": "And ships sail on the seas;",
+      "bbox": {
+        "x": 171,
+        "y": 587,
+        "width": 300,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "But clouds that sail across the sky",
+      "cleanText": "But clouds that sail across the sky",
+      "bbox": {
+        "x": 173,
+        "y": 636,
+        "width": 384,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Are prettier far than these.",
+      "cleanText": "Are prettier far than these.",
+      "bbox": {
+        "x": 171,
+        "y": 684,
+        "width": 298,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "There are bridges on the rivers,",
+      "cleanText": "There are bridges on the rivers,",
+      "bbox": {
+        "x": 171,
+        "y": 755,
+        "width": 354,
+        "height": 25
+      },
+      "confidence": 96.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "As pretty as you please;",
+      "cleanText": "As pretty as you please;",
+      "bbox": {
+        "x": 171,
+        "y": 803,
+        "width": 271,
+        "height": 26
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "But the bow that bridges heaven,",
+      "cleanText": "But the bow that bridges heaven,",
+      "bbox": {
+        "x": 171,
+        "y": 851,
+        "width": 373,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "And overtops the trees,",
+      "cleanText": "And overtops the trees,",
+      "bbox": {
+        "x": 172,
+        "y": 900,
+        "width": 261,
+        "height": 26
+      },
+      "confidence": 94.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "And builds a road from earth to sky,",
+      "cleanText": "And builds a road from earth to sky,",
+      "bbox": {
+        "x": 171,
+        "y": 948,
+        "width": 410,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Is prettier far than these.",
+      "cleanText": "Is prettier far than these.",
+      "bbox": {
+        "x": 172,
+        "y": 1003,
+        "width": 275,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "What bow is the poet talking about when she says, the bow",
+      "cleanText": "What bow is the poet talking about when she says, the bow",
+      "bbox": {
+        "x": 184,
+        "y": 1127,
+        "width": 848,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "that bridges heaven'?",
+      "cleanText": "that bridges heaven'?",
+      "bbox": {
+        "x": 188,
+        "y": 1166,
+        "width": 272,
+        "height": 27
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-020",
+      "lineNumber": 20
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-057-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 16 Boats Sail on the Rivers",
+      "bbox": {
+        "x": 222,
+        "y": 181,
+        "width": 735,
+        "height": 31
+      },
+      "confidence": 93.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-003",
+      "lineNumber": 3,
+      "text": "© recognise English sounds",
+      "bbox": {
+        "x": 185,
+        "y": 293,
+        "width": 285,
+        "height": 24
+      },
+      "confidence": 82.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-004",
+      "lineNumber": 4,
+      "text": "recognise intonation in sentences",
+      "bbox": {
+        "x": 203,
+        "y": 324,
+        "width": 349,
+        "height": 24
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-005",
+      "lineNumber": 5,
+      "text": "© understand and enjoy stories and poems",
+      "bbox": {
+        "x": 185,
+        "y": 359,
+        "width": 437,
+        "height": 24
+      },
+      "confidence": 93.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-007",
+      "lineNumber": 7,
+      "text": "Boats sail on the rivers",
+      "bbox": {
+        "x": 173,
+        "y": 466,
+        "width": 295,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-008",
+      "lineNumber": 8,
+      "text": "- Christina Georgina Rossetti",
+      "bbox": {
+        "x": 493,
+        "y": 502,
+        "width": 337,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-009",
+      "lineNumber": 9,
+      "text": "Boats sail on the rivers,",
+      "bbox": {
+        "x": 171,
+        "y": 543,
+        "width": 266,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-010",
+      "lineNumber": 10,
+      "text": "And ships sail on the seas;",
+      "bbox": {
+        "x": 171,
+        "y": 587,
+        "width": 300,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-011",
+      "lineNumber": 11,
+      "text": "But clouds that sail across the sky",
+      "bbox": {
+        "x": 173,
+        "y": 636,
+        "width": 384,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-012",
+      "lineNumber": 12,
+      "text": "Are prettier far than these.",
+      "bbox": {
+        "x": 171,
+        "y": 684,
+        "width": 298,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-013",
+      "lineNumber": 13,
+      "text": "There are bridges on the rivers,",
+      "bbox": {
+        "x": 171,
+        "y": 755,
+        "width": 354,
+        "height": 25
+      },
+      "confidence": 96.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-014",
+      "lineNumber": 14,
+      "text": "As pretty as you please;",
+      "bbox": {
+        "x": 171,
+        "y": 803,
+        "width": 271,
+        "height": 26
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-015",
+      "lineNumber": 15,
+      "text": "But the bow that bridges heaven,",
+      "bbox": {
+        "x": 171,
+        "y": 851,
+        "width": 373,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-016",
+      "lineNumber": 16,
+      "text": "And overtops the trees,",
+      "bbox": {
+        "x": 172,
+        "y": 900,
+        "width": 261,
+        "height": 26
+      },
+      "confidence": 94.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-017",
+      "lineNumber": 17,
+      "text": "And builds a road from earth to sky,",
+      "bbox": {
+        "x": 171,
+        "y": 948,
+        "width": 410,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-018",
+      "lineNumber": 18,
+      "text": "Is prettier far than these.",
+      "bbox": {
+        "x": 172,
+        "y": 1003,
+        "width": 275,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-019",
+      "lineNumber": 19,
+      "text": "What bow is the poet talking about when she says, the bow",
+      "bbox": {
+        "x": 184,
+        "y": 1127,
+        "width": 848,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-020",
+      "lineNumber": 20,
+      "text": "that bridges heaven'?",
+      "bbox": {
+        "x": 188,
+        "y": 1166,
+        "width": 272,
+        "height": 27
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 16 Boats Sail on the Rivers\nAfter completing the lesson students will be able to\n© recognise English sounds\nrecognise intonation in sentences\n© understand and enjoy stories and poems\nListen to, read and then recite the poem.\nBoats sail on the rivers\n- Christina Georgina Rossetti\nBoats sail on the rivers,\nAnd ships sail on the seas;\nBut clouds that sail across the sky\nAre prettier far than these.\nThere are bridges on the rivers,\nAs pretty as you please;\nBut the bow that bridges heaven,\nAnd overtops the trees,\nAnd builds a road from earth to sky,\nIs prettier far than these.\nWhat bow is the poet talking about when she says, the bow\nthat bridges heaven'?",
+  "cleanText": "Lesson 16 Boats Sail on the Rivers\nAfter completing the lesson students will be able to\n© recognise English sounds\nrecognise intonation in sentences\n© understand and enjoy stories and poems\nListen to, read and then recite the poem.\nBoats sail on the rivers\n- Christina Georgina Rossetti\nBoats sail on the rivers,\nAnd ships sail on the seas;\nBut clouds that sail across the sky\nAre prettier far than these.\nThere are bridges on the rivers,\nAs pretty as you please;\nBut the bow that bridges heaven,\nAnd overtops the trees,\nAnd builds a road from earth to sky,\nIs prettier far than these.\nWhat bow is the poet talking about when she says, the bow\nthat bridges heaven'?",
+  "aiReadyText": "Lesson 16 Boats Sail on the Rivers\n© recognise English sounds\nrecognise intonation in sentences\n© understand and enjoy stories and poems\nBoats sail on the rivers\n- Christina Georgina Rossetti\nBoats sail on the rivers,\nAnd ships sail on the seas;\nBut clouds that sail across the sky\nAre prettier far than these.\nThere are bridges on the rivers,\nAs pretty as you please;\nBut the bow that bridges heaven,\nAnd overtops the trees,\nAnd builds a road from earth to sky,\nIs prettier far than these.\nWhat bow is the poet talking about when she says, the bow\nthat bridges heaven'?"
+}

@@ -1,0 +1,717 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 46,
+  "image": "/ocr/books/class6-english/page-images/page-046.png",
+  "width": 1149,
+  "height": 1525,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 41",
+      "cleanText": "English For Today 41",
+      "bbox": {
+        "x": 121,
+        "y": 92,
+        "width": 908,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": ": Can I see any other hills from there?",
+      "cleanText": ": Can I see any other hills from there?",
+      "bbox": {
+        "x": 232,
+        "y": 161,
+        "width": 429,
+        "height": 26
+      },
+      "confidence": 92.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": ": Yes, you ....... You can see the hills of ...... state from there.",
+      "cleanText": ": Yes, you ....... You can see the hills of ...... state from there.",
+      "bbox": {
+        "x": 232,
+        "y": 214,
+        "width": 706,
+        "height": 26
+      },
+      "confidence": 87.79,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": ": Are there any temples there?",
+      "cleanText": ": Are there any temples there?",
+      "bbox": {
+        "x": 232,
+        "y": 267,
+        "width": 340,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": ": Yes, there ...... You can see the Dasha Busha Temple and the ........",
+      "cleanText": ": Yes, there ...... You can see the Dasha Busha Temple and the ........",
+      "bbox": {
+        "x": 232,
+        "y": 320,
+        "width": 793,
+        "height": 25
+      },
+      "confidence": 90.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "temples there.",
+      "cleanText": "temples there.",
+      "bbox": {
+        "x": 248,
+        "y": 372,
+        "width": 157,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "B2. Discuss the following questions in pairs.",
+      "cleanText": "B2. Discuss the following questions in pairs.",
+      "bbox": {
+        "x": 118,
+        "y": 463,
+        "width": 596,
+        "height": 28
+      },
+      "confidence": 92.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "In which district is Shusong Durgapur located?",
+      "cleanText": "In which district is Shusong Durgapur located?",
+      "bbox": {
+        "x": 237,
+        "y": 511,
+        "width": 536,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "How far is Shusong Durgapur from Dhaka?",
+      "cleanText": "How far is Shusong Durgapur from Dhaka?",
+      "bbox": {
+        "x": 238,
+        "y": 553,
+        "width": 496,
+        "height": 26
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "What is the function of the cultural academy of Durgapur?",
+      "cleanText": "What is the function of the cultural academy of Durgapur?",
+      "bbox": {
+        "x": 236,
+        "y": 593,
+        "width": 666,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "How can you get to Shusong Durgapur from Dhaka?",
+      "cleanText": "How can you get to Shusong Durgapur from Dhaka?",
+      "bbox": {
+        "x": 238,
+        "y": 630,
+        "width": 599,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Why is Shusong Durgapur called ‘an unseen beauty of",
+      "cleanText": "Why is Shusong Durgapur called ‘an unseen beauty of",
+      "bbox": {
+        "x": 236,
+        "y": 672,
+        "width": 620,
+        "height": 26
+      },
+      "confidence": 90.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "C. Match the phrases with the meanings.",
+      "cleanText": "Match the phrases with the meanings.",
+      "bbox": {
+        "x": 117,
+        "y": 745,
+        "width": 571,
+        "height": 28
+      },
+      "confidence": 89.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Phrases Meanings",
+      "cleanText": "Phrases Meanings",
+      "bbox": {
+        "x": 253,
+        "y": 795,
+        "width": 527,
+        "height": 34
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "1. eye-catching destinations a. see-through",
+      "cleanText": "eye-catching destinations a. see-through",
+      "bbox": {
+        "x": 141,
+        "y": 842,
+        "width": 550,
+        "height": 25
+      },
+      "confidence": 87.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "2. green, remote countryside b. means of travelling from one place to",
+      "cleanText": "green, remote countryside b. means of travelling from one place to",
+      "bbox": {
+        "x": 137,
+        "y": 881,
+        "width": 847,
+        "height": 27
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "3. crystal clear another",
+      "cleanText": "crystal clear another",
+      "bbox": {
+        "x": 137,
+        "y": 914,
+        "width": 508,
+        "height": 39
+      },
+      "confidence": 84.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "c. places that draw one's attentions",
+      "cleanText": "places that draw one's attentions",
+      "bbox": {
+        "x": 531,
+        "y": 953,
+        "width": 395,
+        "height": 25
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "4, pictorial mountain-valley",
+      "cleanText": "4, pictorial mountain-valley",
+      "bbox": {
+        "x": 136,
+        "y": 975,
+        "width": 316,
+        "height": 26
+      },
+      "confidence": 89.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "d. gentle flow",
+      "cleanText": "gentle flow",
+      "bbox": {
+        "x": 531,
+        "y": 999,
+        "width": 154,
+        "height": 26
+      },
+      "confidence": 89.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-046-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "5. modest movement and distant place full of plants",
+      "cleanText": "modest movement and distant place full of plants",
+      "bbox": {
+        "x": 137,
+        "y": 1031,
+        "width": 849,
+        "height": 30
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "and trees",
+      "cleanText": "and trees",
+      "bbox": {
+        "x": 560,
+        "y": 1067,
+        "width": 101,
+        "height": 19
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-046-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "6. alluring natural loveliness f. a plain land between two hills that looks|",
+      "cleanText": "alluring natural loveliness f. a plain land between two hills that looks|",
+      "bbox": {
+        "x": 137,
+        "y": 1091,
+        "width": 882,
+        "height": 37
+      },
+      "confidence": 94.31,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "7. modes of transportation like a picture",
+      "cleanText": "modes of transportation like a picture",
+      "bbox": {
+        "x": 137,
+        "y": 1140,
+        "width": 570,
+        "height": 36
+      },
+      "confidence": 93.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "&- the loveliness of nature that appeals to a",
+      "cleanText": "&- the loveliness of nature that appeals to a",
+      "bbox": {
+        "x": 531,
+        "y": 1178,
+        "width": 485,
+        "height": 26
+      },
+      "confidence": 94.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "D. Write a passage on a place of tourist attraction that you know.",
+      "cleanText": "Write a passage on a place of tourist attraction that you know.",
+      "bbox": {
+        "x": 112,
+        "y": 1312,
+        "width": 868,
+        "height": 35
+      },
+      "confidence": 94.46,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-046-line-026",
+      "lineNumber": 26
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-046-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 41",
+      "bbox": {
+        "x": 121,
+        "y": 92,
+        "width": 908,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-002",
+      "lineNumber": 2,
+      "text": ": Can I see any other hills from there?",
+      "bbox": {
+        "x": 232,
+        "y": 161,
+        "width": 429,
+        "height": 26
+      },
+      "confidence": 92.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-003",
+      "lineNumber": 3,
+      "text": ": Yes, you ....... You can see the hills of ...... state from there.",
+      "bbox": {
+        "x": 232,
+        "y": 214,
+        "width": 706,
+        "height": 26
+      },
+      "confidence": 87.79,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-004",
+      "lineNumber": 4,
+      "text": ": Are there any temples there?",
+      "bbox": {
+        "x": 232,
+        "y": 267,
+        "width": 340,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-005",
+      "lineNumber": 5,
+      "text": ": Yes, there ...... You can see the Dasha Busha Temple and the ........",
+      "bbox": {
+        "x": 232,
+        "y": 320,
+        "width": 793,
+        "height": 25
+      },
+      "confidence": 90.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-006",
+      "lineNumber": 6,
+      "text": "temples there.",
+      "bbox": {
+        "x": 248,
+        "y": 372,
+        "width": 157,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-007",
+      "lineNumber": 7,
+      "text": "B2. Discuss the following questions in pairs.",
+      "bbox": {
+        "x": 118,
+        "y": 463,
+        "width": 596,
+        "height": 28
+      },
+      "confidence": 92.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-008",
+      "lineNumber": 8,
+      "text": "In which district is Shusong Durgapur located?",
+      "bbox": {
+        "x": 237,
+        "y": 511,
+        "width": 536,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-009",
+      "lineNumber": 9,
+      "text": "How far is Shusong Durgapur from Dhaka?",
+      "bbox": {
+        "x": 238,
+        "y": 553,
+        "width": 496,
+        "height": 26
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-010",
+      "lineNumber": 10,
+      "text": "What is the function of the cultural academy of Durgapur?",
+      "bbox": {
+        "x": 236,
+        "y": 593,
+        "width": 666,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-011",
+      "lineNumber": 11,
+      "text": "How can you get to Shusong Durgapur from Dhaka?",
+      "bbox": {
+        "x": 238,
+        "y": 630,
+        "width": 599,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-012",
+      "lineNumber": 12,
+      "text": "Why is Shusong Durgapur called ‘an unseen beauty of",
+      "bbox": {
+        "x": 236,
+        "y": 672,
+        "width": 620,
+        "height": 26
+      },
+      "confidence": 90.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-013",
+      "lineNumber": 13,
+      "text": "Match the phrases with the meanings.",
+      "bbox": {
+        "x": 117,
+        "y": 745,
+        "width": 571,
+        "height": 28
+      },
+      "confidence": 89.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-014",
+      "lineNumber": 14,
+      "text": "Phrases Meanings",
+      "bbox": {
+        "x": 253,
+        "y": 795,
+        "width": 527,
+        "height": 34
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-015",
+      "lineNumber": 15,
+      "text": "eye-catching destinations a. see-through",
+      "bbox": {
+        "x": 141,
+        "y": 842,
+        "width": 550,
+        "height": 25
+      },
+      "confidence": 87.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-016",
+      "lineNumber": 16,
+      "text": "green, remote countryside b. means of travelling from one place to",
+      "bbox": {
+        "x": 137,
+        "y": 881,
+        "width": 847,
+        "height": 27
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-017",
+      "lineNumber": 17,
+      "text": "crystal clear another",
+      "bbox": {
+        "x": 137,
+        "y": 914,
+        "width": 508,
+        "height": 39
+      },
+      "confidence": 84.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-018",
+      "lineNumber": 18,
+      "text": "places that draw one's attentions",
+      "bbox": {
+        "x": 531,
+        "y": 953,
+        "width": 395,
+        "height": 25
+      },
+      "confidence": 93.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-019",
+      "lineNumber": 19,
+      "text": "4, pictorial mountain-valley",
+      "bbox": {
+        "x": 136,
+        "y": 975,
+        "width": 316,
+        "height": 26
+      },
+      "confidence": 89.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-021",
+      "lineNumber": 21,
+      "text": "modest movement and distant place full of plants",
+      "bbox": {
+        "x": 137,
+        "y": 1031,
+        "width": 849,
+        "height": 30
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-023",
+      "lineNumber": 23,
+      "text": "alluring natural loveliness f. a plain land between two hills that looks|",
+      "bbox": {
+        "x": 137,
+        "y": 1091,
+        "width": 882,
+        "height": 37
+      },
+      "confidence": 94.31,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-024",
+      "lineNumber": 24,
+      "text": "modes of transportation like a picture",
+      "bbox": {
+        "x": 137,
+        "y": 1140,
+        "width": 570,
+        "height": 36
+      },
+      "confidence": 93.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-025",
+      "lineNumber": 25,
+      "text": "&- the loveliness of nature that appeals to a",
+      "bbox": {
+        "x": 531,
+        "y": 1178,
+        "width": 485,
+        "height": 26
+      },
+      "confidence": 94.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-046-line-026",
+      "lineNumber": 26,
+      "text": "Write a passage on a place of tourist attraction that you know.",
+      "bbox": {
+        "x": 112,
+        "y": 1312,
+        "width": 868,
+        "height": 35
+      },
+      "confidence": 94.46,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 41\n: Can I see any other hills from there?\n: Yes, you ....... You can see the hills of ...... state from there.\n: Are there any temples there?\n: Yes, there ...... You can see the Dasha Busha Temple and the ........\ntemples there.\nB2. Discuss the following questions in pairs.\nIn which district is Shusong Durgapur located?\nHow far is Shusong Durgapur from Dhaka?\nWhat is the function of the cultural academy of Durgapur?\nHow can you get to Shusong Durgapur from Dhaka?\nWhy is Shusong Durgapur called ‘an unseen beauty of\nC. Match the phrases with the meanings.\nPhrases Meanings\n1. eye-catching destinations a. see-through\n2. green, remote countryside b. means of travelling from one place to\n3. crystal clear another\nc. places that draw one's attentions\n4, pictorial mountain-valley\nd. gentle flow\n5. modest movement and distant place full of plants\nand trees\n6. alluring natural loveliness f. a plain land between two hills that looks|\n7. modes of transportation like a picture\n&- the loveliness of nature that appeals to a\nD. Write a passage on a place of tourist attraction that you know.",
+  "cleanText": "English For Today 41\n: Can I see any other hills from there?\n: Yes, you ....... You can see the hills of ...... state from there.\n: Are there any temples there?\n: Yes, there ...... You can see the Dasha Busha Temple and the ........\ntemples there.\nB2. Discuss the following questions in pairs.\nIn which district is Shusong Durgapur located?\nHow far is Shusong Durgapur from Dhaka?\nWhat is the function of the cultural academy of Durgapur?\nHow can you get to Shusong Durgapur from Dhaka?\nWhy is Shusong Durgapur called ‘an unseen beauty of\nMatch the phrases with the meanings.\nPhrases Meanings\neye-catching destinations a. see-through\ngreen, remote countryside b. means of travelling from one place to\ncrystal clear another\nplaces that draw one's attentions\n4, pictorial mountain-valley\ngentle flow\nmodest movement and distant place full of plants\nand trees\nalluring natural loveliness f. a plain land between two hills that looks|\nmodes of transportation like a picture\n&- the loveliness of nature that appeals to a\nWrite a passage on a place of tourist attraction that you know.",
+  "aiReadyText": "English For Today 41\n: Can I see any other hills from there?\n: Yes, you ....... You can see the hills of ...... state from there.\n: Are there any temples there?\n: Yes, there ...... You can see the Dasha Busha Temple and the ........\ntemples there.\nB2. Discuss the following questions in pairs.\nIn which district is Shusong Durgapur located?\nHow far is Shusong Durgapur from Dhaka?\nWhat is the function of the cultural academy of Durgapur?\nHow can you get to Shusong Durgapur from Dhaka?\nWhy is Shusong Durgapur called ‘an unseen beauty of\nMatch the phrases with the meanings.\nPhrases Meanings\neye-catching destinations a. see-through\ngreen, remote countryside b. means of travelling from one place to\ncrystal clear another\nplaces that draw one's attentions\n4, pictorial mountain-valley\nmodest movement and distant place full of plants\nalluring natural loveliness f. a plain land between two hills that looks|\nmodes of transportation like a picture\n&- the loveliness of nature that appeals to a\nWrite a passage on a place of tourist attraction that you know."
+}

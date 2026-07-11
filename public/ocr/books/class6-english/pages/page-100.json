@@ -1,0 +1,211 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 100,
+  "image": "/ocr/books/class6-english/page-images/page-100.png",
+  "width": 1149,
+  "height": 1525,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 95",
+      "cleanText": "English For Today 95",
+      "bbox": {
+        "x": 119,
+        "y": 85,
+        "width": 915,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Toad ran home. He planted the flower seeds.",
+      "cleanText": "Toad ran home. He planted the flower seeds.",
+      "bbox": {
+        "x": 199,
+        "y": 151,
+        "width": 507,
+        "height": 26
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "\"New seeds,\" said Toad, \"start growing.\"",
+      "cleanText": "\"New seeds,\" said Toad, \"start growing.\"",
+      "bbox": {
+        "x": 201,
+        "y": 230,
+        "width": 460,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Toad walked up and down a few times. The seeds did not start to grow.",
+      "cleanText": "Toad walked up and down a few times. The seeds did not start to grow.",
+      "bbox": {
+        "x": 195,
+        "y": 990,
+        "width": 806,
+        "height": 26
+      },
+      "confidence": 95.87,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Toad put his head close to the ground and cried, \"Now seeds, start growing!\"",
+      "cleanText": "Toad put his head close to the ground and cried, \"Now seeds, start growing!\"",
+      "bbox": {
+        "x": 195,
+        "y": 1069,
+        "width": 839,
+        "height": 26
+      },
+      "confidence": 93.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "The seeds did not start to grow.",
+      "cleanText": "The seeds did not start to grow.",
+      "bbox": {
+        "x": 195,
+        "y": 1149,
+        "width": 354,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Toad put his head very close to the ground and shouted, \"NOW SEEDS",
+      "cleanText": "Toad put his head very close to the ground and shouted, \"NOW SEEDS",
+      "bbox": {
+        "x": 195,
+        "y": 1228,
+        "width": 839,
+        "height": 26
+      },
+      "confidence": 94.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-007",
+      "lineNumber": 7
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-100-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 95",
+      "bbox": {
+        "x": 119,
+        "y": 85,
+        "width": 915,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-002",
+      "lineNumber": 2,
+      "text": "Toad ran home. He planted the flower seeds.",
+      "bbox": {
+        "x": 199,
+        "y": 151,
+        "width": 507,
+        "height": 26
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-003",
+      "lineNumber": 3,
+      "text": "\"New seeds,\" said Toad, \"start growing.\"",
+      "bbox": {
+        "x": 201,
+        "y": 230,
+        "width": 460,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-004",
+      "lineNumber": 4,
+      "text": "Toad walked up and down a few times. The seeds did not start to grow.",
+      "bbox": {
+        "x": 195,
+        "y": 990,
+        "width": 806,
+        "height": 26
+      },
+      "confidence": 95.87,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-005",
+      "lineNumber": 5,
+      "text": "Toad put his head close to the ground and cried, \"Now seeds, start growing!\"",
+      "bbox": {
+        "x": 195,
+        "y": 1069,
+        "width": 839,
+        "height": 26
+      },
+      "confidence": 93.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-006",
+      "lineNumber": 6,
+      "text": "The seeds did not start to grow.",
+      "bbox": {
+        "x": 195,
+        "y": 1149,
+        "width": 354,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-007",
+      "lineNumber": 7,
+      "text": "Toad put his head very close to the ground and shouted, \"NOW SEEDS",
+      "bbox": {
+        "x": 195,
+        "y": 1228,
+        "width": 839,
+        "height": 26
+      },
+      "confidence": 94.92,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 95\nToad ran home. He planted the flower seeds.\n\"New seeds,\" said Toad, \"start growing.\"\nToad walked up and down a few times. The seeds did not start to grow.\nToad put his head close to the ground and cried, \"Now seeds, start growing!\"\nThe seeds did not start to grow.\nToad put his head very close to the ground and shouted, \"NOW SEEDS",
+  "cleanText": "English For Today 95\nToad ran home. He planted the flower seeds.\n\"New seeds,\" said Toad, \"start growing.\"\nToad walked up and down a few times. The seeds did not start to grow.\nToad put his head close to the ground and cried, \"Now seeds, start growing!\"\nThe seeds did not start to grow.\nToad put his head very close to the ground and shouted, \"NOW SEEDS",
+  "aiReadyText": "English For Today 95\nToad ran home. He planted the flower seeds.\n\"New seeds,\" said Toad, \"start growing.\"\nToad walked up and down a few times. The seeds did not start to grow.\nToad put his head close to the ground and cried, \"Now seeds, start growing!\"\nThe seeds did not start to grow.\nToad put his head very close to the ground and shouted, \"NOW SEEDS"
+}

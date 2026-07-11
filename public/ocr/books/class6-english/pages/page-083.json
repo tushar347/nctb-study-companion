@@ -1,0 +1,454 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 83,
+  "image": "/ocr/books/class6-english/page-images/page-083.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 26 Buying Clothes",
+      "cleanText": "Lesson 26 Buying Clothes",
+      "bbox": {
+        "x": 314,
+        "y": 186,
+        "width": 535,
+        "height": 39
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 182,
+        "y": 267,
+        "width": 569,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-083-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "ask and answer questions",
+      "cleanText": "ask and answer questions",
+      "bbox": {
+        "x": 221,
+        "y": 298,
+        "width": 265,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "read and understand texts",
+      "cleanText": "read and understand texts",
+      "bbox": {
+        "x": 221,
+        "y": 329,
+        "width": 266,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "A, Match the words with the pictures of clothes.",
+      "cleanText": "A, Match the words with the pictures of clothes.",
+      "bbox": {
+        "x": 129,
+        "y": 373,
+        "width": 614,
+        "height": 26
+      },
+      "confidence": 93.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "panjabi | shorts |",
+      "cleanText": "panjabi | shorts |",
+      "bbox": {
+        "x": 571,
+        "y": 1129,
+        "width": 244,
+        "height": 82
+      },
+      "confidence": 77.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "trousers jacket saree",
+      "cleanText": "trousers jacket saree",
+      "bbox": {
+        "x": 148,
+        "y": 1141,
+        "width": 362,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "blouse/top",
+      "cleanText": "blouse/top",
+      "bbox": {
+        "x": 874,
+        "y": 1141,
+        "width": 117,
+        "height": 25
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-083-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "polo shirt",
+      "cleanText": "polo shirt",
+      "bbox": {
+        "x": 141,
+        "y": 1178,
+        "width": 108,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-083-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "frock/dress",
+      "cleanText": "frock/dress",
+      "bbox": {
+        "x": 293,
+        "y": 1178,
+        "width": 125,
+        "height": 20
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-083-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "jeans T-shirt shoes",
+      "cleanText": "jeans T-shirt shoes",
+      "bbox": {
+        "x": 452,
+        "y": 1178,
+        "width": 312,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "salwar-kameez",
+      "cleanText": "salwar-kameez",
+      "bbox": {
+        "x": 847,
+        "y": 1178,
+        "width": 168,
+        "height": 20
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-083-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "In pairs, discuss the following questions about you.",
+      "cleanText": "In pairs, discuss the following questions about you.",
+      "bbox": {
+        "x": 182,
+        "y": 1237,
+        "width": 639,
+        "height": 27
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Have you ever been to a clothes shop?",
+      "cleanText": "Have you ever been to a clothes shop?",
+      "bbox": {
+        "x": 230,
+        "y": 1278,
+        "width": 435,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "If no, then who buys your clothes?",
+      "cleanText": "If no, then who buys your clothes?",
+      "bbox": {
+        "x": 230,
+        "y": 1308,
+        "width": 394,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "If yes, then who did you go with to the clothes shop?",
+      "cleanText": "If yes, then who did you go with to the clothes shop?",
+      "bbox": {
+        "x": 230,
+        "y": 1339,
+        "width": 603,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Which new clothes would you like to buy right now?",
+      "cleanText": "Which new clothes would you like to buy right now?",
+      "bbox": {
+        "x": 230,
+        "y": 1370,
+        "width": 603,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "What is your favourite colour?",
+      "cleanText": "What is your favourite colour?",
+      "bbox": {
+        "x": 237,
+        "y": 1401,
+        "width": 348,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-018",
+      "lineNumber": 18
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-083-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 26 Buying Clothes",
+      "bbox": {
+        "x": 314,
+        "y": 186,
+        "width": 535,
+        "height": 39
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-003",
+      "lineNumber": 3,
+      "text": "ask and answer questions",
+      "bbox": {
+        "x": 221,
+        "y": 298,
+        "width": 265,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-004",
+      "lineNumber": 4,
+      "text": "read and understand texts",
+      "bbox": {
+        "x": 221,
+        "y": 329,
+        "width": 266,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-005",
+      "lineNumber": 5,
+      "text": "A, Match the words with the pictures of clothes.",
+      "bbox": {
+        "x": 129,
+        "y": 373,
+        "width": 614,
+        "height": 26
+      },
+      "confidence": 93.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-006",
+      "lineNumber": 6,
+      "text": "panjabi | shorts |",
+      "bbox": {
+        "x": 571,
+        "y": 1129,
+        "width": 244,
+        "height": 82
+      },
+      "confidence": 77.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-007",
+      "lineNumber": 7,
+      "text": "trousers jacket saree",
+      "bbox": {
+        "x": 148,
+        "y": 1141,
+        "width": 362,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-011",
+      "lineNumber": 11,
+      "text": "jeans T-shirt shoes",
+      "bbox": {
+        "x": 452,
+        "y": 1178,
+        "width": 312,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-013",
+      "lineNumber": 13,
+      "text": "In pairs, discuss the following questions about you.",
+      "bbox": {
+        "x": 182,
+        "y": 1237,
+        "width": 639,
+        "height": 27
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-014",
+      "lineNumber": 14,
+      "text": "Have you ever been to a clothes shop?",
+      "bbox": {
+        "x": 230,
+        "y": 1278,
+        "width": 435,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-015",
+      "lineNumber": 15,
+      "text": "If no, then who buys your clothes?",
+      "bbox": {
+        "x": 230,
+        "y": 1308,
+        "width": 394,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-016",
+      "lineNumber": 16,
+      "text": "If yes, then who did you go with to the clothes shop?",
+      "bbox": {
+        "x": 230,
+        "y": 1339,
+        "width": 603,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-017",
+      "lineNumber": 17,
+      "text": "Which new clothes would you like to buy right now?",
+      "bbox": {
+        "x": 230,
+        "y": 1370,
+        "width": 603,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-018",
+      "lineNumber": 18,
+      "text": "What is your favourite colour?",
+      "bbox": {
+        "x": 237,
+        "y": 1401,
+        "width": 348,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 26 Buying Clothes\nAfter completing the lesson students will be able to\nask and answer questions\nread and understand texts\nA, Match the words with the pictures of clothes.\npanjabi | shorts |\ntrousers jacket saree\nblouse/top\npolo shirt\nfrock/dress\njeans T-shirt shoes\nsalwar-kameez\nIn pairs, discuss the following questions about you.\nHave you ever been to a clothes shop?\nIf no, then who buys your clothes?\nIf yes, then who did you go with to the clothes shop?\nWhich new clothes would you like to buy right now?\nWhat is your favourite colour?",
+  "cleanText": "Lesson 26 Buying Clothes\nAfter completing the lesson students will be able to\nask and answer questions\nread and understand texts\nA, Match the words with the pictures of clothes.\npanjabi | shorts |\ntrousers jacket saree\nblouse/top\npolo shirt\nfrock/dress\njeans T-shirt shoes\nsalwar-kameez\nIn pairs, discuss the following questions about you.\nHave you ever been to a clothes shop?\nIf no, then who buys your clothes?\nIf yes, then who did you go with to the clothes shop?\nWhich new clothes would you like to buy right now?\nWhat is your favourite colour?",
+  "aiReadyText": "Lesson 26 Buying Clothes\nask and answer questions\nread and understand texts\nA, Match the words with the pictures of clothes.\npanjabi | shorts |\ntrousers jacket saree\njeans T-shirt shoes\nIn pairs, discuss the following questions about you.\nHave you ever been to a clothes shop?\nIf no, then who buys your clothes?\nIf yes, then who did you go with to the clothes shop?\nWhich new clothes would you like to buy right now?\nWhat is your favourite colour?"
+}

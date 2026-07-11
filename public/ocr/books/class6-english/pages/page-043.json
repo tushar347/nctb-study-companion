@@ -1,0 +1,628 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 43,
+  "image": "/ocr/books/class6-english/page-images/page-043.png",
+  "width": 1160,
+  "height": 1510,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Do you notice any difference between the vowel sounds in the words",
+      "cleanText": "Do you notice any difference between the vowel sounds in the words",
+      "bbox": {
+        "x": 213,
+        "y": 150,
+        "width": 829,
+        "height": 26
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "on the left column and the vowel sounds in the words on the right?",
+      "cleanText": "on the left column and the vowel sounds in the words on the right?",
+      "bbox": {
+        "x": 214,
+        "y": 187,
+        "width": 804,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Listen to and repeat the sounds in Section- A again.",
+      "cleanText": "Listen to and repeat the sounds in Section- A again.",
+      "bbox": {
+        "x": 213,
+        "y": 232,
+        "width": 594,
+        "height": 25
+      },
+      "confidence": 95.3,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-043-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Read the following sentences first. Notice the underlined words",
+      "cleanText": "Read the following sentences first. Notice the underlined words",
+      "bbox": {
+        "x": 203,
+        "y": 287,
+        "width": 838,
+        "height": 26
+      },
+      "confidence": 89.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-043-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "carefully.",
+      "cleanText": "carefully.",
+      "bbox": {
+        "x": 205,
+        "y": 321,
+        "width": 110,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-043-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Then listen to and repeat the sentences pronouncing the underlined",
+      "cleanText": "Then listen to and repeat the sentences pronouncing the underlined",
+      "bbox": {
+        "x": 206,
+        "y": 380,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "words properly using the vowel sounds you just practised in section A.",
+      "cleanText": "words properly using the vowel sounds you just practised in section A.",
+      "bbox": {
+        "x": 204,
+        "y": 422,
+        "width": 837,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "I met Benu and her room-mate in the book store.",
+      "cleanText": "I met Benu and her room-mate in the book store.",
+      "bbox": {
+        "x": 250,
+        "y": 484,
+        "width": 555,
+        "height": 24
+      },
+      "confidence": 92.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "b. They were buying some papers and pens.",
+      "cleanText": "They were buying some papers and pens.",
+      "bbox": {
+        "x": 206,
+        "y": 528,
+        "width": 513,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Iremember her friend's face, but I can't remember her name.",
+      "cleanText": "Iremember her friend's face, but I can't remember her name.",
+      "bbox": {
+        "x": 250,
+        "y": 571,
+        "width": 690,
+        "height": 24
+      },
+      "confidence": 93.7,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Later, I met them again the same day at the bus station.",
+      "cleanText": "Later, I met them again the same day at the bus station.",
+      "bbox": {
+        "x": 250,
+        "y": 616,
+        "width": 627,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "e. They were waiting for some friends to come.",
+      "cleanText": "e. They were waiting for some friends to come.",
+      "bbox": {
+        "x": 206,
+        "y": 660,
+        "width": 555,
+        "height": 25
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Practise saying the following words.",
+      "cleanText": "Practise saying the following words.",
+      "bbox": {
+        "x": 203,
+        "y": 735,
+        "width": 451,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-043-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "west waste",
+      "cleanText": "west waste",
+      "bbox": {
+        "x": 343,
+        "y": 793,
+        "width": 257,
+        "height": 35
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-043-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "debt date",
+      "cleanText": "debt date",
+      "bbox": {
+        "x": 343,
+        "y": 842,
+        "width": 240,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-043-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "let late",
+      "cleanText": "let late",
+      "bbox": {
+        "x": 343,
+        "y": 886,
+        "width": 234,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-043-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "get gate",
+      "cleanText": "get gate",
+      "bbox": {
+        "x": 343,
+        "y": 934,
+        "width": 240,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-043-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "tell tail",
+      "cleanText": "tell tail",
+      "bbox": {
+        "x": 343,
+        "y": 974,
+        "width": 228,
+        "height": 20
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-043-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Read the following sentences. Add to the underlined word in",
+      "cleanText": "Read the following sentences. Add to the underlined word in",
+      "bbox": {
+        "x": 202,
+        "y": 1024,
+        "width": 839,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-043-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "each sentence to make a new word. Now, fill in the blank in the",
+      "cleanText": "each sentence to make a new word. Now, fill in the blank in the",
+      "bbox": {
+        "x": 201,
+        "y": 1063,
+        "width": 840,
+        "height": 25
+      },
+      "confidence": 95.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "sentence with the new word. One is done for you.",
+      "cleanText": "sentence with the new word. One is done for you.",
+      "bbox": {
+        "x": 202,
+        "y": 1103,
+        "width": 621,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "a. Can you please buy me a new cane?",
+      "cleanText": "Can you please buy me a new cane?",
+      "bbox": {
+        "x": 206,
+        "y": 1163,
+        "width": 462,
+        "height": 31
+      },
+      "confidence": 92.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "to ask you, but can you buy me a hat, too?",
+      "cleanText": "to ask you, but can you buy me a hat, too?",
+      "bbox": {
+        "x": 358,
+        "y": 1203,
+        "width": 481,
+        "height": 34
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "c. [lost both at the canteen where I........... lunch yesterday.",
+      "cleanText": "[lost both at the canteen where I........... lunch yesterday.",
+      "bbox": {
+        "x": 206,
+        "y": 1234,
+        "width": 700,
+        "height": 49
+      },
+      "confidence": 88.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "d. Sam, my friend, was having lunch at the ........... canteen.",
+      "cleanText": "Sam, my friend, was having lunch at the ........... canteen.",
+      "bbox": {
+        "x": 206,
+        "y": 1295,
+        "width": 695,
+        "height": 26
+      },
+      "confidence": 91.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "e. He was mad at me because [........... him go back and look for my",
+      "cleanText": "e. He was mad at me because [........... him go back and look for my",
+      "bbox": {
+        "x": 206,
+        "y": 1322,
+        "width": 833,
+        "height": 47
+      },
+      "confidence": 90.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "things later.",
+      "cleanText": "things later.",
+      "bbox": {
+        "x": 255,
+        "y": 1383,
+        "width": 132,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-043-line-027",
+      "lineNumber": 27
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-043-line-001",
+      "lineNumber": 1,
+      "text": "Do you notice any difference between the vowel sounds in the words",
+      "bbox": {
+        "x": 213,
+        "y": 150,
+        "width": 829,
+        "height": 26
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-002",
+      "lineNumber": 2,
+      "text": "on the left column and the vowel sounds in the words on the right?",
+      "bbox": {
+        "x": 214,
+        "y": 187,
+        "width": 804,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-006",
+      "lineNumber": 6,
+      "text": "Then listen to and repeat the sentences pronouncing the underlined",
+      "bbox": {
+        "x": 206,
+        "y": 380,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-007",
+      "lineNumber": 7,
+      "text": "words properly using the vowel sounds you just practised in section A.",
+      "bbox": {
+        "x": 204,
+        "y": 422,
+        "width": 837,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-008",
+      "lineNumber": 8,
+      "text": "I met Benu and her room-mate in the book store.",
+      "bbox": {
+        "x": 250,
+        "y": 484,
+        "width": 555,
+        "height": 24
+      },
+      "confidence": 92.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-009",
+      "lineNumber": 9,
+      "text": "They were buying some papers and pens.",
+      "bbox": {
+        "x": 206,
+        "y": 528,
+        "width": 513,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-010",
+      "lineNumber": 10,
+      "text": "Iremember her friend's face, but I can't remember her name.",
+      "bbox": {
+        "x": 250,
+        "y": 571,
+        "width": 690,
+        "height": 24
+      },
+      "confidence": 93.7,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-011",
+      "lineNumber": 11,
+      "text": "Later, I met them again the same day at the bus station.",
+      "bbox": {
+        "x": 250,
+        "y": 616,
+        "width": 627,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-012",
+      "lineNumber": 12,
+      "text": "e. They were waiting for some friends to come.",
+      "bbox": {
+        "x": 206,
+        "y": 660,
+        "width": 555,
+        "height": 25
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-020",
+      "lineNumber": 20,
+      "text": "each sentence to make a new word. Now, fill in the blank in the",
+      "bbox": {
+        "x": 201,
+        "y": 1063,
+        "width": 840,
+        "height": 25
+      },
+      "confidence": 95.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-021",
+      "lineNumber": 21,
+      "text": "sentence with the new word. One is done for you.",
+      "bbox": {
+        "x": 202,
+        "y": 1103,
+        "width": 621,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-022",
+      "lineNumber": 22,
+      "text": "Can you please buy me a new cane?",
+      "bbox": {
+        "x": 206,
+        "y": 1163,
+        "width": 462,
+        "height": 31
+      },
+      "confidence": 92.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-023",
+      "lineNumber": 23,
+      "text": "to ask you, but can you buy me a hat, too?",
+      "bbox": {
+        "x": 358,
+        "y": 1203,
+        "width": 481,
+        "height": 34
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-024",
+      "lineNumber": 24,
+      "text": "[lost both at the canteen where I........... lunch yesterday.",
+      "bbox": {
+        "x": 206,
+        "y": 1234,
+        "width": 700,
+        "height": 49
+      },
+      "confidence": 88.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-025",
+      "lineNumber": 25,
+      "text": "Sam, my friend, was having lunch at the ........... canteen.",
+      "bbox": {
+        "x": 206,
+        "y": 1295,
+        "width": 695,
+        "height": 26
+      },
+      "confidence": 91.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-026",
+      "lineNumber": 26,
+      "text": "e. He was mad at me because [........... him go back and look for my",
+      "bbox": {
+        "x": 206,
+        "y": 1322,
+        "width": 833,
+        "height": 47
+      },
+      "confidence": 90.6,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Do you notice any difference between the vowel sounds in the words\non the left column and the vowel sounds in the words on the right?\nListen to and repeat the sounds in Section- A again.\nRead the following sentences first. Notice the underlined words\ncarefully.\nThen listen to and repeat the sentences pronouncing the underlined\nwords properly using the vowel sounds you just practised in section A.\nI met Benu and her room-mate in the book store.\nb. They were buying some papers and pens.\nIremember her friend's face, but I can't remember her name.\nLater, I met them again the same day at the bus station.\ne. They were waiting for some friends to come.\nPractise saying the following words.\nwest waste\ndebt date\nlet late\nget gate\ntell tail\nRead the following sentences. Add to the underlined word in\neach sentence to make a new word. Now, fill in the blank in the\nsentence with the new word. One is done for you.\na. Can you please buy me a new cane?\nto ask you, but can you buy me a hat, too?\nc. [lost both at the canteen where I........... lunch yesterday.\nd. Sam, my friend, was having lunch at the ........... canteen.\ne. He was mad at me because [........... him go back and look for my\nthings later.",
+  "cleanText": "Do you notice any difference between the vowel sounds in the words\non the left column and the vowel sounds in the words on the right?\nListen to and repeat the sounds in Section- A again.\nRead the following sentences first. Notice the underlined words\ncarefully.\nThen listen to and repeat the sentences pronouncing the underlined\nwords properly using the vowel sounds you just practised in section A.\nI met Benu and her room-mate in the book store.\nThey were buying some papers and pens.\nIremember her friend's face, but I can't remember her name.\nLater, I met them again the same day at the bus station.\ne. They were waiting for some friends to come.\nPractise saying the following words.\nwest waste\ndebt date\nlet late\nget gate\ntell tail\nRead the following sentences. Add to the underlined word in\neach sentence to make a new word. Now, fill in the blank in the\nsentence with the new word. One is done for you.\nCan you please buy me a new cane?\nto ask you, but can you buy me a hat, too?\n[lost both at the canteen where I........... lunch yesterday.\nSam, my friend, was having lunch at the ........... canteen.\ne. He was mad at me because [........... him go back and look for my\nthings later.",
+  "aiReadyText": "Do you notice any difference between the vowel sounds in the words\non the left column and the vowel sounds in the words on the right?\nThen listen to and repeat the sentences pronouncing the underlined\nwords properly using the vowel sounds you just practised in section A.\nI met Benu and her room-mate in the book store.\nThey were buying some papers and pens.\nIremember her friend's face, but I can't remember her name.\nLater, I met them again the same day at the bus station.\ne. They were waiting for some friends to come.\neach sentence to make a new word. Now, fill in the blank in the\nsentence with the new word. One is done for you.\nCan you please buy me a new cane?\nto ask you, but can you buy me a hat, too?\n[lost both at the canteen where I........... lunch yesterday.\nSam, my friend, was having lunch at the ........... canteen.\ne. He was mad at me because [........... him go back and look for my"
+}

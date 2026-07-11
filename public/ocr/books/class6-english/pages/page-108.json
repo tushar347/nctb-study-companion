@@ -1,0 +1,1025 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 108,
+  "image": "/ocr/books/class6-english/page-images/page-108.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 103",
+      "cleanText": "English For Today 103",
+      "bbox": {
+        "x": 122,
+        "y": 82,
+        "width": 907,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "3. Complete the passage with suitable words: 1x5=5",
+      "cleanText": "Complete the passage with suitable words: 1x5=5",
+      "bbox": {
+        "x": 123,
+        "y": 155,
+        "width": 857,
+        "height": 26
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-108-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Good health means proper functioning of body organs and fecling well in",
+      "cleanText": "Good health means proper functioning of body organs and fecling well in",
+      "bbox": {
+        "x": 202,
+        "y": 201,
+        "width": 774,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "body and mind. Healthy people remain a) , cheerful, and happy. They",
+      "cleanText": "body and mind. Healthy people remain a) , cheerful, and happy. They",
+      "bbox": {
+        "x": 200,
+        "y": 233,
+        "width": 828,
+        "height": 24
+      },
+      "confidence": 93.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "can enjoy life and b) others. To maintain health, follow hygiene princi-",
+      "cleanText": "can enjoy life and b) others. To maintain health, follow hygiene princi-",
+      "bbox": {
+        "x": 200,
+        "y": 265,
+        "width": 828,
+        "height": 24
+      },
+      "confidence": 94.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "ples, which include rules and c) for staying healthy. Proper food, d)",
+      "cleanText": "ples, which include rules and c) for staying healthy. Proper food, d)",
+      "bbox": {
+        "x": 200,
+        "y": 296,
+        "width": 828,
+        "height": 24
+      },
+      "confidence": 94.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "exercise, rest, cleanliness, and medical care are essential for e)",
+      "cleanText": "exercise, rest, cleanliness, and medical care are essential for e)",
+      "bbox": {
+        "x": 286,
+        "y": 328,
+        "width": 656,
+        "height": 23
+      },
+      "confidence": 94.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "4, Read the passage carefully and replace the following words with",
+      "cleanText": "4, Read the passage carefully and replace the following words with",
+      "bbox": {
+        "x": 127,
+        "y": 393,
+        "width": 854,
+        "height": 26
+      },
+      "confidence": 94.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "their suitable synonyms or antonyms. 1x5=5",
+      "cleanText": "their suitable synonyms or antonyms. 1x5=5",
+      "bbox": {
+        "x": 127,
+        "y": 427,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 93.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "a) Wealth (Synonym)",
+      "cleanText": "Wealth (Synonym)",
+      "bbox": {
+        "x": 202,
+        "y": 469,
+        "width": 277,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "b) Cheerful (Synonym)",
+      "cleanText": "Cheerful (Synonym)",
+      "bbox": {
+        "x": 203,
+        "y": 501,
+        "width": 294,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "ce) Maintain (Synonym)",
+      "cleanText": "ce) Maintain (Synonym)",
+      "bbox": {
+        "x": 198,
+        "y": 528,
+        "width": 302,
+        "height": 31
+      },
+      "confidence": 79.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "d) Necessary (Antonym)",
+      "cleanText": "Necessary (Antonym)",
+      "bbox": {
+        "x": 202,
+        "y": 564,
+        "width": 310,
+        "height": 24
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "e) Proper (Antonym)",
+      "cleanText": "e) Proper (Antonym)",
+      "bbox": {
+        "x": 202,
+        "y": 595,
+        "width": 272,
+        "height": 25
+      },
+      "confidence": 91.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Read the text and answer the questions 5, 6 & 7:",
+      "cleanText": "Read the text and answer the questions 5, 6 & 7:",
+      "bbox": {
+        "x": 123,
+        "y": 640,
+        "width": 586,
+        "height": 25
+      },
+      "confidence": 94.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Bangladesh is a land of natural beauty. Its villages are full of green fields, rivers, and",
+      "cleanText": "Bangladesh is a land of natural beauty. Its villages are full of green fields, rivers, and",
+      "bbox": {
+        "x": 124,
+        "y": 681,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "trees. Most people in Bangladesh live in villages. They work as farmers, fishermen or",
+      "cleanText": "trees. Most people in Bangladesh live in villages. They work as farmers, fishermen or",
+      "bbox": {
+        "x": 123,
+        "y": 713,
+        "width": 906,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "craftsmen. The air in the villages is fresh, and life is peaceful. People wake up early in",
+      "cleanText": "craftsmen. The air in the villages is fresh, and life is peaceful. People wake up early in",
+      "bbox": {
+        "x": 123,
+        "y": 745,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "the morning and start their daily work. Farmers grow rice, jute and vegetables in their",
+      "cleanText": "the morning and start their daily work. Farmers grow rice, jute and vegetables in their",
+      "bbox": {
+        "x": 123,
+        "y": 773,
+        "width": 906,
+        "height": 31
+      },
+      "confidence": 95.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "fields. Fishermen catch fish from rivers and ponds.",
+      "cleanText": "fields. Fishermen catch fish from rivers and ponds.",
+      "bbox": {
+        "x": 123,
+        "y": 808,
+        "width": 535,
+        "height": 24
+      },
+      "confidence": 94.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "The houses in villages are simple but comfortable. Many houses have gardens with",
+      "cleanText": "The houses in villages are simple but comfortable. Many houses have gardens with",
+      "bbox": {
+        "x": 123,
+        "y": 849,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 96.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "fruit trees like mango, jackfruit and banana. The villagers celebrate different festivals",
+      "cleanText": "fruit trees like mango, jackfruit and banana. The villagers celebrate different festivals",
+      "bbox": {
+        "x": 123,
+        "y": 880,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 94.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "like Pahela Boishakh and Nabanna Utsab with joy. They help each other in times of",
+      "cleanText": "like Pahela Boishakh and Nabanna Utsab with joy. They help each other in times of",
+      "bbox": {
+        "x": 123,
+        "y": 912,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 94.53,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "need. Life in rural Bangladesh is simple, but it is full of happiness. The natural beauty",
+      "cleanText": "need. Life in rural Bangladesh is simple, but it is full of happiness. The natural beauty",
+      "bbox": {
+        "x": 123,
+        "y": 944,
+        "width": 906,
+        "height": 24
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "and fresh environment make the villages a wonderful place to live.",
+      "cleanText": "and fresh environment make the villages a wonderful place to live.",
+      "bbox": {
+        "x": 123,
+        "y": 975,
+        "width": 702,
+        "height": 24
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "5. Complete the table with information from the passage. 1x5=5",
+      "cleanText": "Complete the table with information from the passage. 1x5=5",
+      "bbox": {
+        "x": 123,
+        "y": 1039,
+        "width": 877,
+        "height": 24
+      },
+      "confidence": 91.6,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-108-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Topic Information from the passage",
+      "cleanText": "Topic Information from the passage",
+      "bbox": {
+        "x": 202,
+        "y": 1071,
+        "width": 412,
+        "height": 23
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "a) Main occupation of villagers i)",
+      "cleanText": "Main occupation of villagers i)",
+      "bbox": {
+        "x": 202,
+        "y": 1098,
+        "width": 410,
+        "height": 32
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "b) Freshness of village air ii}",
+      "cleanText": "Freshness of village air ii}",
+      "bbox": {
+        "x": 202,
+        "y": 1134,
+        "width": 339,
+        "height": 24
+      },
+      "confidence": 86.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "c) Crops grown by farmers __ iii)",
+      "cleanText": "Crops grown by farmers __ iii)",
+      "bbox": {
+        "x": 202,
+        "y": 1161,
+        "width": 346,
+        "height": 32
+      },
+      "confidence": 86.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "d) Fruits grown in village gardens",
+      "cleanText": "Fruits grown in village gardens",
+      "bbox": {
+        "x": 202,
+        "y": 1197,
+        "width": 357,
+        "height": 24
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "e) Festivals celebrated in villages",
+      "cleanText": "e) Festivals celebrated in villages",
+      "bbox": {
+        "x": 202,
+        "y": 1229,
+        "width": 350,
+        "height": 24
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "6. Read the statements below. Write ‘True’ if the statement is correct and",
+      "cleanText": "Read the statements below. Write ‘True’ if the statement is correct and",
+      "bbox": {
+        "x": 123,
+        "y": 1270,
+        "width": 871,
+        "height": 18
+      },
+      "confidence": 95.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "‘False’ if it is incorrect. If false, write the correct answer. 1x5=5",
+      "cleanText": "‘False’ if it is incorrect. If false, write the correct answer. 1x5=5",
+      "bbox": {
+        "x": 124,
+        "y": 1301,
+        "width": 857,
+        "height": 22
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "a) Villages in Bangladesh are full of green fields, rivers and trees.",
+      "cleanText": "Villages in Bangladesh are full of green fields, rivers and trees.",
+      "bbox": {
+        "x": 202,
+        "y": 1349,
+        "width": 749,
+        "height": 24
+      },
+      "confidence": 95.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-035",
+      "lineNumber": 35
+    },
+    {
+      "text": "b) Most villagers in Bangladesh work in factories",
+      "cleanText": "Most villagers in Bangladesh work in factories",
+      "bbox": {
+        "x": 203,
+        "y": 1381,
+        "width": 571,
+        "height": 24
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-036",
+      "lineNumber": 36
+    },
+    {
+      "text": "Farmers in villages grow rice, jute and vegetables.",
+      "cleanText": "Farmers in villages grow rice, jute and vegetables.",
+      "bbox": {
+        "x": 281,
+        "y": 1408,
+        "width": 536,
+        "height": 32
+      },
+      "confidence": 93.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-037",
+      "lineNumber": 37
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-108-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 103",
+      "bbox": {
+        "x": 122,
+        "y": 82,
+        "width": 907,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-003",
+      "lineNumber": 3,
+      "text": "Good health means proper functioning of body organs and fecling well in",
+      "bbox": {
+        "x": 202,
+        "y": 201,
+        "width": 774,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-004",
+      "lineNumber": 4,
+      "text": "body and mind. Healthy people remain a) , cheerful, and happy. They",
+      "bbox": {
+        "x": 200,
+        "y": 233,
+        "width": 828,
+        "height": 24
+      },
+      "confidence": 93.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-005",
+      "lineNumber": 5,
+      "text": "can enjoy life and b) others. To maintain health, follow hygiene princi-",
+      "bbox": {
+        "x": 200,
+        "y": 265,
+        "width": 828,
+        "height": 24
+      },
+      "confidence": 94.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-006",
+      "lineNumber": 6,
+      "text": "ples, which include rules and c) for staying healthy. Proper food, d)",
+      "bbox": {
+        "x": 200,
+        "y": 296,
+        "width": 828,
+        "height": 24
+      },
+      "confidence": 94.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-007",
+      "lineNumber": 7,
+      "text": "exercise, rest, cleanliness, and medical care are essential for e)",
+      "bbox": {
+        "x": 286,
+        "y": 328,
+        "width": 656,
+        "height": 23
+      },
+      "confidence": 94.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-008",
+      "lineNumber": 8,
+      "text": "4, Read the passage carefully and replace the following words with",
+      "bbox": {
+        "x": 127,
+        "y": 393,
+        "width": 854,
+        "height": 26
+      },
+      "confidence": 94.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-009",
+      "lineNumber": 9,
+      "text": "their suitable synonyms or antonyms. 1x5=5",
+      "bbox": {
+        "x": 127,
+        "y": 427,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 93.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-010",
+      "lineNumber": 10,
+      "text": "Wealth (Synonym)",
+      "bbox": {
+        "x": 202,
+        "y": 469,
+        "width": 277,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-011",
+      "lineNumber": 11,
+      "text": "Cheerful (Synonym)",
+      "bbox": {
+        "x": 203,
+        "y": 501,
+        "width": 294,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-012",
+      "lineNumber": 12,
+      "text": "ce) Maintain (Synonym)",
+      "bbox": {
+        "x": 198,
+        "y": 528,
+        "width": 302,
+        "height": 31
+      },
+      "confidence": 79.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-013",
+      "lineNumber": 13,
+      "text": "Necessary (Antonym)",
+      "bbox": {
+        "x": 202,
+        "y": 564,
+        "width": 310,
+        "height": 24
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-014",
+      "lineNumber": 14,
+      "text": "e) Proper (Antonym)",
+      "bbox": {
+        "x": 202,
+        "y": 595,
+        "width": 272,
+        "height": 25
+      },
+      "confidence": 91.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-015",
+      "lineNumber": 15,
+      "text": "Read the text and answer the questions 5, 6 & 7:",
+      "bbox": {
+        "x": 123,
+        "y": 640,
+        "width": 586,
+        "height": 25
+      },
+      "confidence": 94.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-016",
+      "lineNumber": 16,
+      "text": "Bangladesh is a land of natural beauty. Its villages are full of green fields, rivers, and",
+      "bbox": {
+        "x": 124,
+        "y": 681,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 95.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-017",
+      "lineNumber": 17,
+      "text": "trees. Most people in Bangladesh live in villages. They work as farmers, fishermen or",
+      "bbox": {
+        "x": 123,
+        "y": 713,
+        "width": 906,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-018",
+      "lineNumber": 18,
+      "text": "craftsmen. The air in the villages is fresh, and life is peaceful. People wake up early in",
+      "bbox": {
+        "x": 123,
+        "y": 745,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-019",
+      "lineNumber": 19,
+      "text": "the morning and start their daily work. Farmers grow rice, jute and vegetables in their",
+      "bbox": {
+        "x": 123,
+        "y": 773,
+        "width": 906,
+        "height": 31
+      },
+      "confidence": 95.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-020",
+      "lineNumber": 20,
+      "text": "fields. Fishermen catch fish from rivers and ponds.",
+      "bbox": {
+        "x": 123,
+        "y": 808,
+        "width": 535,
+        "height": 24
+      },
+      "confidence": 94.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-021",
+      "lineNumber": 21,
+      "text": "The houses in villages are simple but comfortable. Many houses have gardens with",
+      "bbox": {
+        "x": 123,
+        "y": 849,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 96.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-022",
+      "lineNumber": 22,
+      "text": "fruit trees like mango, jackfruit and banana. The villagers celebrate different festivals",
+      "bbox": {
+        "x": 123,
+        "y": 880,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 94.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-023",
+      "lineNumber": 23,
+      "text": "like Pahela Boishakh and Nabanna Utsab with joy. They help each other in times of",
+      "bbox": {
+        "x": 123,
+        "y": 912,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 94.53,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-024",
+      "lineNumber": 24,
+      "text": "need. Life in rural Bangladesh is simple, but it is full of happiness. The natural beauty",
+      "bbox": {
+        "x": 123,
+        "y": 944,
+        "width": 906,
+        "height": 24
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-025",
+      "lineNumber": 25,
+      "text": "and fresh environment make the villages a wonderful place to live.",
+      "bbox": {
+        "x": 123,
+        "y": 975,
+        "width": 702,
+        "height": 24
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-027",
+      "lineNumber": 27,
+      "text": "Topic Information from the passage",
+      "bbox": {
+        "x": 202,
+        "y": 1071,
+        "width": 412,
+        "height": 23
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-028",
+      "lineNumber": 28,
+      "text": "Main occupation of villagers i)",
+      "bbox": {
+        "x": 202,
+        "y": 1098,
+        "width": 410,
+        "height": 32
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-029",
+      "lineNumber": 29,
+      "text": "Freshness of village air ii}",
+      "bbox": {
+        "x": 202,
+        "y": 1134,
+        "width": 339,
+        "height": 24
+      },
+      "confidence": 86.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-030",
+      "lineNumber": 30,
+      "text": "Crops grown by farmers __ iii)",
+      "bbox": {
+        "x": 202,
+        "y": 1161,
+        "width": 346,
+        "height": 32
+      },
+      "confidence": 86.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-031",
+      "lineNumber": 31,
+      "text": "Fruits grown in village gardens",
+      "bbox": {
+        "x": 202,
+        "y": 1197,
+        "width": 357,
+        "height": 24
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-032",
+      "lineNumber": 32,
+      "text": "e) Festivals celebrated in villages",
+      "bbox": {
+        "x": 202,
+        "y": 1229,
+        "width": 350,
+        "height": 24
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-033",
+      "lineNumber": 33,
+      "text": "Read the statements below. Write ‘True’ if the statement is correct and",
+      "bbox": {
+        "x": 123,
+        "y": 1270,
+        "width": 871,
+        "height": 18
+      },
+      "confidence": 95.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-034",
+      "lineNumber": 34,
+      "text": "‘False’ if it is incorrect. If false, write the correct answer. 1x5=5",
+      "bbox": {
+        "x": 124,
+        "y": 1301,
+        "width": 857,
+        "height": 22
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-035",
+      "lineNumber": 35,
+      "text": "Villages in Bangladesh are full of green fields, rivers and trees.",
+      "bbox": {
+        "x": 202,
+        "y": 1349,
+        "width": 749,
+        "height": 24
+      },
+      "confidence": 95.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-036",
+      "lineNumber": 36,
+      "text": "Most villagers in Bangladesh work in factories",
+      "bbox": {
+        "x": 203,
+        "y": 1381,
+        "width": 571,
+        "height": 24
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-037",
+      "lineNumber": 37,
+      "text": "Farmers in villages grow rice, jute and vegetables.",
+      "bbox": {
+        "x": 281,
+        "y": 1408,
+        "width": 536,
+        "height": 32
+      },
+      "confidence": 93.38,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 103\n3. Complete the passage with suitable words: 1x5=5\nGood health means proper functioning of body organs and fecling well in\nbody and mind. Healthy people remain a) , cheerful, and happy. They\ncan enjoy life and b) others. To maintain health, follow hygiene princi-\nples, which include rules and c) for staying healthy. Proper food, d)\nexercise, rest, cleanliness, and medical care are essential for e)\n4, Read the passage carefully and replace the following words with\ntheir suitable synonyms or antonyms. 1x5=5\na) Wealth (Synonym)\nb) Cheerful (Synonym)\nce) Maintain (Synonym)\nd) Necessary (Antonym)\ne) Proper (Antonym)\nRead the text and answer the questions 5, 6 & 7:\nBangladesh is a land of natural beauty. Its villages are full of green fields, rivers, and\ntrees. Most people in Bangladesh live in villages. They work as farmers, fishermen or\ncraftsmen. The air in the villages is fresh, and life is peaceful. People wake up early in\nthe morning and start their daily work. Farmers grow rice, jute and vegetables in their\nfields. Fishermen catch fish from rivers and ponds.\nThe houses in villages are simple but comfortable. Many houses have gardens with\nfruit trees like mango, jackfruit and banana. The villagers celebrate different festivals\nlike Pahela Boishakh and Nabanna Utsab with joy. They help each other in times of\nneed. Life in rural Bangladesh is simple, but it is full of happiness. The natural beauty\nand fresh environment make the villages a wonderful place to live.\n5. Complete the table with information from the passage. 1x5=5\nTopic Information from the passage\na) Main occupation of villagers i)\nb) Freshness of village air ii}\nc) Crops grown by farmers __ iii)\nd) Fruits grown in village gardens\ne) Festivals celebrated in villages\n6. Read the statements below. Write ‘True’ if the statement is correct and\n‘False’ if it is incorrect. If false, write the correct answer. 1x5=5\na) Villages in Bangladesh are full of green fields, rivers and trees.\nb) Most villagers in Bangladesh work in factories\nFarmers in villages grow rice, jute and vegetables.",
+  "cleanText": "English For Today 103\nComplete the passage with suitable words: 1x5=5\nGood health means proper functioning of body organs and fecling well in\nbody and mind. Healthy people remain a) , cheerful, and happy. They\ncan enjoy life and b) others. To maintain health, follow hygiene princi-\nples, which include rules and c) for staying healthy. Proper food, d)\nexercise, rest, cleanliness, and medical care are essential for e)\n4, Read the passage carefully and replace the following words with\ntheir suitable synonyms or antonyms. 1x5=5\nWealth (Synonym)\nCheerful (Synonym)\nce) Maintain (Synonym)\nNecessary (Antonym)\ne) Proper (Antonym)\nRead the text and answer the questions 5, 6 & 7:\nBangladesh is a land of natural beauty. Its villages are full of green fields, rivers, and\ntrees. Most people in Bangladesh live in villages. They work as farmers, fishermen or\ncraftsmen. The air in the villages is fresh, and life is peaceful. People wake up early in\nthe morning and start their daily work. Farmers grow rice, jute and vegetables in their\nfields. Fishermen catch fish from rivers and ponds.\nThe houses in villages are simple but comfortable. Many houses have gardens with\nfruit trees like mango, jackfruit and banana. The villagers celebrate different festivals\nlike Pahela Boishakh and Nabanna Utsab with joy. They help each other in times of\nneed. Life in rural Bangladesh is simple, but it is full of happiness. The natural beauty\nand fresh environment make the villages a wonderful place to live.\nComplete the table with information from the passage. 1x5=5\nTopic Information from the passage\nMain occupation of villagers i)\nFreshness of village air ii}\nCrops grown by farmers __ iii)\nFruits grown in village gardens\ne) Festivals celebrated in villages\nRead the statements below. Write ‘True’ if the statement is correct and\n‘False’ if it is incorrect. If false, write the correct answer. 1x5=5\nVillages in Bangladesh are full of green fields, rivers and trees.\nMost villagers in Bangladesh work in factories\nFarmers in villages grow rice, jute and vegetables.",
+  "aiReadyText": "English For Today 103\nGood health means proper functioning of body organs and fecling well in\nbody and mind. Healthy people remain a) , cheerful, and happy. They\ncan enjoy life and b) others. To maintain health, follow hygiene princi-\nples, which include rules and c) for staying healthy. Proper food, d)\nexercise, rest, cleanliness, and medical care are essential for e)\n4, Read the passage carefully and replace the following words with\ntheir suitable synonyms or antonyms. 1x5=5\nWealth (Synonym)\nCheerful (Synonym)\nce) Maintain (Synonym)\nNecessary (Antonym)\ne) Proper (Antonym)\nRead the text and answer the questions 5, 6 & 7:\nBangladesh is a land of natural beauty. Its villages are full of green fields, rivers, and\ntrees. Most people in Bangladesh live in villages. They work as farmers, fishermen or\ncraftsmen. The air in the villages is fresh, and life is peaceful. People wake up early in\nthe morning and start their daily work. Farmers grow rice, jute and vegetables in their\nfields. Fishermen catch fish from rivers and ponds.\nThe houses in villages are simple but comfortable. Many houses have gardens with\nfruit trees like mango, jackfruit and banana. The villagers celebrate different festivals\nlike Pahela Boishakh and Nabanna Utsab with joy. They help each other in times of\nneed. Life in rural Bangladesh is simple, but it is full of happiness. The natural beauty\nand fresh environment make the villages a wonderful place to live.\nTopic Information from the passage\nMain occupation of villagers i)\nFreshness of village air ii}\nCrops grown by farmers __ iii)\nFruits grown in village gardens\ne) Festivals celebrated in villages\nRead the statements below. Write ‘True’ if the statement is correct and\n‘False’ if it is incorrect. If false, write the correct answer. 1x5=5\nVillages in Bangladesh are full of green fields, rivers and trees.\nMost villagers in Bangladesh work in factories\nFarmers in villages grow rice, jute and vegetables."
+}

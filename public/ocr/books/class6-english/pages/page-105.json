@@ -1,0 +1,695 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 105,
+  "image": "/ocr/books/class6-english/page-images/page-105.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Match a word in column A with a word in column B that goes together.",
+      "cleanText": "Match a word in column A with a word in column B that goes together.",
+      "bbox": {
+        "x": 201,
+        "y": 149,
+        "width": 836,
+        "height": 34
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-105-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "One is done for you.",
+      "cleanText": "One is done for you.",
+      "bbox": {
+        "x": 200,
+        "y": 191,
+        "width": 242,
+        "height": 28
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Column A Column B",
+      "cleanText": "Column A Column B",
+      "bbox": {
+        "x": 351,
+        "y": 250,
+        "width": 547,
+        "height": 20
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "play seeds",
+      "cleanText": "play seeds",
+      "bbox": {
+        "x": 350,
+        "y": 306,
+        "width": 485,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-105-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "plant music",
+      "cleanText": "plant music",
+      "bbox": {
+        "x": 350,
+        "y": 415,
+        "width": 491,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-105-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "read plants",
+      "cleanText": "read plants",
+      "bbox": {
+        "x": 351,
+        "y": 470,
+        "width": 490,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-105-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "work stories",
+      "cleanText": "work stories",
+      "bbox": {
+        "x": 351,
+        "y": 525,
+        "width": 496,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-105-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Punctuation marks",
+      "cleanText": "Punctuation marks",
+      "bbox": {
+        "x": 175,
+        "y": 597,
+        "width": 250,
+        "height": 21
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Punctuation marks are special symbols used in writing to separate",
+      "cleanText": "Punctuation marks are special symbols used in writing to separate",
+      "bbox": {
+        "x": 178,
+        "y": 637,
+        "width": 853,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "sentences and phrases. They show how a piece of text should be read and",
+      "cleanText": "sentences and phrases. They show how a piece of text should be read and",
+      "bbox": {
+        "x": 178,
+        "y": 670,
+        "width": 852,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "understood. The most common punctuation marks in English are:",
+      "cleanText": "understood. The most common punctuation marks in English are:",
+      "bbox": {
+        "x": 178,
+        "y": 712,
+        "width": 746,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Full stop (.) — This shows that the sentence has ended.",
+      "cleanText": "Full stop (.) — This shows that the sentence has ended.",
+      "bbox": {
+        "x": 224,
+        "y": 763,
+        "width": 621,
+        "height": 25
+      },
+      "confidence": 93.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Comma {,) — This indicates a short pause in the sentence.",
+      "cleanText": "Comma {,) — This indicates a short pause in the sentence.",
+      "bbox": {
+        "x": 223,
+        "y": 800,
+        "width": 656,
+        "height": 26
+      },
+      "confidence": 90.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Question Mark (?) — This is used when asking a question.",
+      "cleanText": "Question Mark (?) — This is used when asking a question.",
+      "bbox": {
+        "x": 223,
+        "y": 837,
+        "width": 673,
+        "height": 26
+      },
+      "confidence": 86.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Exclamation Mark (!) — This shows excitement or surprise!",
+      "cleanText": "Exclamation Mark (!) — This shows excitement or surprise!",
+      "bbox": {
+        "x": 224,
+        "y": 875,
+        "width": 691,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Quotation Marks (“ ”) — These are used to show that someone",
+      "cleanText": "Quotation Marks (“ ”) — These are used to show that someone",
+      "bbox": {
+        "x": 223,
+        "y": 912,
+        "width": 810,
+        "height": 25
+      },
+      "confidence": 94.42,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "is speaking.",
+      "cleanText": "is speaking.",
+      "bbox": {
+        "x": 224,
+        "y": 950,
+        "width": 131,
+        "height": 25
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-105-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Now, read the story “The Garden” again carefully. Identify the punctuation",
+      "cleanText": "Now, read the story “The Garden” again carefully. Identify the punctuation",
+      "bbox": {
+        "x": 177,
+        "y": 998,
+        "width": 854,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "marks in the story, and notice how they are used.",
+      "cleanText": "marks in the story, and notice how they are used.",
+      "bbox": {
+        "x": 178,
+        "y": 1036,
+        "width": 555,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Read the following passage. All punctuation marks are missing in",
+      "cleanText": "Read the following passage. All punctuation marks are missing in",
+      "bbox": {
+        "x": 198,
+        "y": 1087,
+        "width": 832,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-105-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "it. Put punctuation marks as necessary. Use capital letters where",
+      "cleanText": "it. Put punctuation marks as necessary. Use capital letters where",
+      "bbox": {
+        "x": 200,
+        "y": 1120,
+        "width": 832,
+        "height": 26
+      },
+      "confidence": 95.7,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "you should.",
+      "cleanText": "you should.",
+      "bbox": {
+        "x": 201,
+        "y": 1155,
+        "width": 144,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-105-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "bobby and farid were walking to school one morning in february suddenly",
+      "cleanText": "bobby and farid were walking to school one morning in february suddenly",
+      "bbox": {
+        "x": 202,
+        "y": 1201,
+        "width": 830,
+        "height": 26
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "farid asked bobby did neel ask you to go to his house this afternoon",
+      "cleanText": "farid asked bobby did neel ask you to go to his house this afternoon",
+      "bbox": {
+        "x": 202,
+        "y": 1240,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 93.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "bobby said yes he did it's his birthday today really said farid what",
+      "cleanText": "bobby said yes he did it's his birthday today really said farid what",
+      "bbox": {
+        "x": 202,
+        "y": 1280,
+        "width": 832,
+        "height": 26
+      },
+      "confidence": 90.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "should we give him on his birthday",
+      "cleanText": "should we give him on his birthday",
+      "bbox": {
+        "x": 204,
+        "y": 1321,
+        "width": 411,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Learn the meanings of these words:",
+      "cleanText": "Learn the meanings of these words:",
+      "bbox": {
+        "x": 205,
+        "y": 1370,
+        "width": 447,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "Toad, seeds, plant, grow, shout, dark",
+      "cleanText": "Toad, seeds, plant, grow, shout, dark",
+      "bbox": {
+        "x": 202,
+        "y": 1419,
+        "width": 414,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-028",
+      "lineNumber": 28
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-105-line-002",
+      "lineNumber": 2,
+      "text": "One is done for you.",
+      "bbox": {
+        "x": 200,
+        "y": 191,
+        "width": 242,
+        "height": 28
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-003",
+      "lineNumber": 3,
+      "text": "Column A Column B",
+      "bbox": {
+        "x": 351,
+        "y": 250,
+        "width": 547,
+        "height": 20
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-008",
+      "lineNumber": 8,
+      "text": "Punctuation marks",
+      "bbox": {
+        "x": 175,
+        "y": 597,
+        "width": 250,
+        "height": 21
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-009",
+      "lineNumber": 9,
+      "text": "Punctuation marks are special symbols used in writing to separate",
+      "bbox": {
+        "x": 178,
+        "y": 637,
+        "width": 853,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-010",
+      "lineNumber": 10,
+      "text": "sentences and phrases. They show how a piece of text should be read and",
+      "bbox": {
+        "x": 178,
+        "y": 670,
+        "width": 852,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-011",
+      "lineNumber": 11,
+      "text": "understood. The most common punctuation marks in English are:",
+      "bbox": {
+        "x": 178,
+        "y": 712,
+        "width": 746,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-012",
+      "lineNumber": 12,
+      "text": "Full stop (.) — This shows that the sentence has ended.",
+      "bbox": {
+        "x": 224,
+        "y": 763,
+        "width": 621,
+        "height": 25
+      },
+      "confidence": 93.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-013",
+      "lineNumber": 13,
+      "text": "Comma {,) — This indicates a short pause in the sentence.",
+      "bbox": {
+        "x": 223,
+        "y": 800,
+        "width": 656,
+        "height": 26
+      },
+      "confidence": 90.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-014",
+      "lineNumber": 14,
+      "text": "Question Mark (?) — This is used when asking a question.",
+      "bbox": {
+        "x": 223,
+        "y": 837,
+        "width": 673,
+        "height": 26
+      },
+      "confidence": 86.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-015",
+      "lineNumber": 15,
+      "text": "Exclamation Mark (!) — This shows excitement or surprise!",
+      "bbox": {
+        "x": 224,
+        "y": 875,
+        "width": 691,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-016",
+      "lineNumber": 16,
+      "text": "Quotation Marks (“ ”) — These are used to show that someone",
+      "bbox": {
+        "x": 223,
+        "y": 912,
+        "width": 810,
+        "height": 25
+      },
+      "confidence": 94.42,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-018",
+      "lineNumber": 18,
+      "text": "Now, read the story “The Garden” again carefully. Identify the punctuation",
+      "bbox": {
+        "x": 177,
+        "y": 998,
+        "width": 854,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-019",
+      "lineNumber": 19,
+      "text": "marks in the story, and notice how they are used.",
+      "bbox": {
+        "x": 178,
+        "y": 1036,
+        "width": 555,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-021",
+      "lineNumber": 21,
+      "text": "it. Put punctuation marks as necessary. Use capital letters where",
+      "bbox": {
+        "x": 200,
+        "y": 1120,
+        "width": 832,
+        "height": 26
+      },
+      "confidence": 95.7,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-023",
+      "lineNumber": 23,
+      "text": "bobby and farid were walking to school one morning in february suddenly",
+      "bbox": {
+        "x": 202,
+        "y": 1201,
+        "width": 830,
+        "height": 26
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-024",
+      "lineNumber": 24,
+      "text": "farid asked bobby did neel ask you to go to his house this afternoon",
+      "bbox": {
+        "x": 202,
+        "y": 1240,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 93.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-025",
+      "lineNumber": 25,
+      "text": "bobby said yes he did it's his birthday today really said farid what",
+      "bbox": {
+        "x": 202,
+        "y": 1280,
+        "width": 832,
+        "height": 26
+      },
+      "confidence": 90.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-026",
+      "lineNumber": 26,
+      "text": "should we give him on his birthday",
+      "bbox": {
+        "x": 204,
+        "y": 1321,
+        "width": 411,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-027",
+      "lineNumber": 27,
+      "text": "Learn the meanings of these words:",
+      "bbox": {
+        "x": 205,
+        "y": 1370,
+        "width": 447,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-028",
+      "lineNumber": 28,
+      "text": "Toad, seeds, plant, grow, shout, dark",
+      "bbox": {
+        "x": 202,
+        "y": 1419,
+        "width": 414,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Match a word in column A with a word in column B that goes together.\nOne is done for you.\nColumn A Column B\nplay seeds\nplant music\nread plants\nwork stories\nPunctuation marks\nPunctuation marks are special symbols used in writing to separate\nsentences and phrases. They show how a piece of text should be read and\nunderstood. The most common punctuation marks in English are:\nFull stop (.) — This shows that the sentence has ended.\nComma {,) — This indicates a short pause in the sentence.\nQuestion Mark (?) — This is used when asking a question.\nExclamation Mark (!) — This shows excitement or surprise!\nQuotation Marks (“ ”) — These are used to show that someone\nis speaking.\nNow, read the story “The Garden” again carefully. Identify the punctuation\nmarks in the story, and notice how they are used.\nRead the following passage. All punctuation marks are missing in\nit. Put punctuation marks as necessary. Use capital letters where\nyou should.\nbobby and farid were walking to school one morning in february suddenly\nfarid asked bobby did neel ask you to go to his house this afternoon\nbobby said yes he did it's his birthday today really said farid what\nshould we give him on his birthday\nLearn the meanings of these words:\nToad, seeds, plant, grow, shout, dark",
+  "cleanText": "Match a word in column A with a word in column B that goes together.\nOne is done for you.\nColumn A Column B\nplay seeds\nplant music\nread plants\nwork stories\nPunctuation marks\nPunctuation marks are special symbols used in writing to separate\nsentences and phrases. They show how a piece of text should be read and\nunderstood. The most common punctuation marks in English are:\nFull stop (.) — This shows that the sentence has ended.\nComma {,) — This indicates a short pause in the sentence.\nQuestion Mark (?) — This is used when asking a question.\nExclamation Mark (!) — This shows excitement or surprise!\nQuotation Marks (“ ”) — These are used to show that someone\nis speaking.\nNow, read the story “The Garden” again carefully. Identify the punctuation\nmarks in the story, and notice how they are used.\nRead the following passage. All punctuation marks are missing in\nit. Put punctuation marks as necessary. Use capital letters where\nyou should.\nbobby and farid were walking to school one morning in february suddenly\nfarid asked bobby did neel ask you to go to his house this afternoon\nbobby said yes he did it's his birthday today really said farid what\nshould we give him on his birthday\nLearn the meanings of these words:\nToad, seeds, plant, grow, shout, dark",
+  "aiReadyText": "One is done for you.\nColumn A Column B\nPunctuation marks\nPunctuation marks are special symbols used in writing to separate\nsentences and phrases. They show how a piece of text should be read and\nunderstood. The most common punctuation marks in English are:\nFull stop (.) — This shows that the sentence has ended.\nComma {,) — This indicates a short pause in the sentence.\nQuestion Mark (?) — This is used when asking a question.\nExclamation Mark (!) — This shows excitement or surprise!\nQuotation Marks (“ ”) — These are used to show that someone\nNow, read the story “The Garden” again carefully. Identify the punctuation\nmarks in the story, and notice how they are used.\nit. Put punctuation marks as necessary. Use capital letters where\nbobby and farid were walking to school one morning in february suddenly\nfarid asked bobby did neel ask you to go to his house this afternoon\nbobby said yes he did it's his birthday today really said farid what\nshould we give him on his birthday\nLearn the meanings of these words:\nToad, seeds, plant, grow, shout, dark"
+}

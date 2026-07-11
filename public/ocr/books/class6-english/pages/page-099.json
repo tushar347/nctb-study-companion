@@ -1,0 +1,495 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 99,
+  "image": "/ocr/books/class6-english/page-images/page-099.png",
+  "width": 1149,
+  "height": 1525,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 33 The Garden",
+      "cleanText": "Lesson 33 The Garden",
+      "bbox": {
+        "x": 356,
+        "y": 182,
+        "width": 466,
+        "height": 31
+      },
+      "confidence": 91.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 196,
+        "y": 276,
+        "width": 569,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-099-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "read and understand texts",
+      "cleanText": "read and understand texts",
+      "bbox": {
+        "x": 235,
+        "y": 307,
+        "width": 266,
+        "height": 18
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "* use punctuation marks e.g. comma, full stop, qusestion mark, exelamation",
+      "cleanText": "* use punctuation marks e.g. comma, full stop, qusestion mark, exelamation",
+      "bbox": {
+        "x": 216,
+        "y": 333,
+        "width": 818,
+        "height": 24
+      },
+      "confidence": 88.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "mark, quotation marks in sentences",
+      "cleanText": "mark, quotation marks in sentences",
+      "bbox": {
+        "x": 232,
+        "y": 360,
+        "width": 371,
+        "height": 24
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "© understand and enjoy a story",
+      "cleanText": "© understand and enjoy a story",
+      "bbox": {
+        "x": 216,
+        "y": 389,
+        "width": 327,
+        "height": 25
+      },
+      "confidence": 87.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "A. Read the story below:",
+      "cleanText": "Read the story below:",
+      "bbox": {
+        "x": 139,
+        "y": 428,
+        "width": 331,
+        "height": 26
+      },
+      "confidence": 87.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "The Garden",
+      "cleanText": "The Garden",
+      "bbox": {
+        "x": 209,
+        "y": 476,
+        "width": 156,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-099-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Arnold Lobel",
+      "cleanText": "Arnold Lobel",
+      "bbox": {
+        "x": 306,
+        "y": 510,
+        "width": 150,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-099-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Frog was in his garden. Toad came walking by.",
+      "cleanText": "Frog was in his garden. Toad came walking by.",
+      "bbox": {
+        "x": 152,
+        "y": 550,
+        "width": 525,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "\"What a fine garden you have, Frog.” he said.",
+      "cleanText": "\"What a fine garden you have, Frog.” he said.",
+      "bbox": {
+        "x": 154,
+        "y": 599,
+        "width": 506,
+        "height": 26
+      },
+      "confidence": 92.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "\"Yes,\" said Frog. It is very nice, but it was hard",
+      "cleanText": "\"Yes,\" said Frog. It is very nice, but it was hard",
+      "bbox": {
+        "x": 154,
+        "y": 650,
+        "width": 550,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "\"I wish I had a garden,” said Toad.",
+      "cleanText": "\"I wish I had a garden,” said Toad.",
+      "bbox": {
+        "x": 154,
+        "y": 722,
+        "width": 382,
+        "height": 26
+      },
+      "confidence": 86.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "\"Here are some flower seeds.",
+      "cleanText": "\"Here are some flower seeds.",
+      "bbox": {
+        "x": 154,
+        "y": 755,
+        "width": 384,
+        "height": 20
+      },
+      "confidence": 91.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Plant them in the ground,” said",
+      "cleanText": "Plant them in the ground,” said",
+      "bbox": {
+        "x": 154,
+        "y": 788,
+        "width": 358,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Frog, “and soon you will h",
+      "cleanText": "Frog, “and soon you will h",
+      "bbox": {
+        "x": 154,
+        "y": 828,
+        "width": 299,
+        "height": 25
+      },
+      "confidence": 93.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "a garden.”",
+      "cleanText": "a garden.”",
+      "bbox": {
+        "x": 155,
+        "y": 868,
+        "width": 110,
+        "height": 25
+      },
+      "confidence": 82.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-099-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "\"How soon?\" asked Toad.",
+      "cleanText": "\"How soon?\" asked Toad.",
+      "bbox": {
+        "x": 154,
+        "y": 907,
+        "width": 284,
+        "height": 20
+      },
+      "confidence": 90.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "\"Very soon,\" said Frog.",
+      "cleanText": "\"Very soon,\" said Frog.",
+      "bbox": {
+        "x": 154,
+        "y": 947,
+        "width": 257,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-019",
+      "lineNumber": 19
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-099-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 33 The Garden",
+      "bbox": {
+        "x": 356,
+        "y": 182,
+        "width": 466,
+        "height": 31
+      },
+      "confidence": 91.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-003",
+      "lineNumber": 3,
+      "text": "read and understand texts",
+      "bbox": {
+        "x": 235,
+        "y": 307,
+        "width": 266,
+        "height": 18
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-004",
+      "lineNumber": 4,
+      "text": "* use punctuation marks e.g. comma, full stop, qusestion mark, exelamation",
+      "bbox": {
+        "x": 216,
+        "y": 333,
+        "width": 818,
+        "height": 24
+      },
+      "confidence": 88.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-005",
+      "lineNumber": 5,
+      "text": "mark, quotation marks in sentences",
+      "bbox": {
+        "x": 232,
+        "y": 360,
+        "width": 371,
+        "height": 24
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-006",
+      "lineNumber": 6,
+      "text": "© understand and enjoy a story",
+      "bbox": {
+        "x": 216,
+        "y": 389,
+        "width": 327,
+        "height": 25
+      },
+      "confidence": 87.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-007",
+      "lineNumber": 7,
+      "text": "Read the story below:",
+      "bbox": {
+        "x": 139,
+        "y": 428,
+        "width": 331,
+        "height": 26
+      },
+      "confidence": 87.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-010",
+      "lineNumber": 10,
+      "text": "Frog was in his garden. Toad came walking by.",
+      "bbox": {
+        "x": 152,
+        "y": 550,
+        "width": 525,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-011",
+      "lineNumber": 11,
+      "text": "\"What a fine garden you have, Frog.” he said.",
+      "bbox": {
+        "x": 154,
+        "y": 599,
+        "width": 506,
+        "height": 26
+      },
+      "confidence": 92.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-012",
+      "lineNumber": 12,
+      "text": "\"Yes,\" said Frog. It is very nice, but it was hard",
+      "bbox": {
+        "x": 154,
+        "y": 650,
+        "width": 550,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-013",
+      "lineNumber": 13,
+      "text": "\"I wish I had a garden,” said Toad.",
+      "bbox": {
+        "x": 154,
+        "y": 722,
+        "width": 382,
+        "height": 26
+      },
+      "confidence": 86.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-014",
+      "lineNumber": 14,
+      "text": "\"Here are some flower seeds.",
+      "bbox": {
+        "x": 154,
+        "y": 755,
+        "width": 384,
+        "height": 20
+      },
+      "confidence": 91.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-015",
+      "lineNumber": 15,
+      "text": "Plant them in the ground,” said",
+      "bbox": {
+        "x": 154,
+        "y": 788,
+        "width": 358,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-016",
+      "lineNumber": 16,
+      "text": "Frog, “and soon you will h",
+      "bbox": {
+        "x": 154,
+        "y": 828,
+        "width": 299,
+        "height": 25
+      },
+      "confidence": 93.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-018",
+      "lineNumber": 18,
+      "text": "\"How soon?\" asked Toad.",
+      "bbox": {
+        "x": 154,
+        "y": 907,
+        "width": 284,
+        "height": 20
+      },
+      "confidence": 90.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-019",
+      "lineNumber": 19,
+      "text": "\"Very soon,\" said Frog.",
+      "bbox": {
+        "x": 154,
+        "y": 947,
+        "width": 257,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 33 The Garden\nAfter completing the lesson students will be able to\nread and understand texts\n* use punctuation marks e.g. comma, full stop, qusestion mark, exelamation\nmark, quotation marks in sentences\n© understand and enjoy a story\nA. Read the story below:\nThe Garden\nArnold Lobel\nFrog was in his garden. Toad came walking by.\n\"What a fine garden you have, Frog.” he said.\n\"Yes,\" said Frog. It is very nice, but it was hard\n\"I wish I had a garden,” said Toad.\n\"Here are some flower seeds.\nPlant them in the ground,” said\nFrog, “and soon you will h\na garden.”\n\"How soon?\" asked Toad.\n\"Very soon,\" said Frog.",
+  "cleanText": "Lesson 33 The Garden\nAfter completing the lesson students will be able to\nread and understand texts\n* use punctuation marks e.g. comma, full stop, qusestion mark, exelamation\nmark, quotation marks in sentences\n© understand and enjoy a story\nRead the story below:\nThe Garden\nArnold Lobel\nFrog was in his garden. Toad came walking by.\n\"What a fine garden you have, Frog.” he said.\n\"Yes,\" said Frog. It is very nice, but it was hard\n\"I wish I had a garden,” said Toad.\n\"Here are some flower seeds.\nPlant them in the ground,” said\nFrog, “and soon you will h\na garden.”\n\"How soon?\" asked Toad.\n\"Very soon,\" said Frog.",
+  "aiReadyText": "Lesson 33 The Garden\nread and understand texts\n* use punctuation marks e.g. comma, full stop, qusestion mark, exelamation\nmark, quotation marks in sentences\n© understand and enjoy a story\nRead the story below:\nFrog was in his garden. Toad came walking by.\n\"What a fine garden you have, Frog.” he said.\n\"Yes,\" said Frog. It is very nice, but it was hard\n\"I wish I had a garden,” said Toad.\n\"Here are some flower seeds.\nPlant them in the ground,” said\nFrog, “and soon you will h\n\"How soon?\" asked Toad.\n\"Very soon,\" said Frog."
+}

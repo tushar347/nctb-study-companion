@@ -1,0 +1,493 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 78,
+  "image": "/ocr/books/class6-english/page-images/page-078.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 73",
+      "cleanText": "English For Today 73",
+      "bbox": {
+        "x": 123,
+        "y": 79,
+        "width": 906,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-078-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Language Focus",
+      "cleanText": "Language Focus",
+      "bbox": {
+        "x": 187,
+        "y": 146,
+        "width": 197,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-078-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Modal verbs can/can't, could/couldn't, may, should, must/mustn't:",
+      "cleanText": "Modal verbs can/can't, could/couldn't, may, should, must/mustn't:",
+      "bbox": {
+        "x": 208,
+        "y": 207,
+        "width": 746,
+        "height": 25
+      },
+      "confidence": 89.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-078-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Can you tell me something",
+      "cleanText": "Can you tell me something",
+      "bbox": {
+        "x": 207,
+        "y": 267,
+        "width": 304,
+        "height": 25
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-078-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "about Cairo? Yes, I can. /No, I can't.",
+      "cleanText": "about Cairo? Yes, I can. /No, I can't.",
+      "bbox": {
+        "x": 207,
+        "y": 305,
+        "width": 591,
+        "height": 23
+      },
+      "confidence": 94.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-078-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "You could enjoy the night view of Port",
+      "cleanText": "You could enjoy the night view of Port",
+      "bbox": {
+        "x": 545,
+        "y": 359,
+        "width": 476,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-078-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "What else could I see there?) Suez. But you couldn't go across the Red",
+      "cleanText": "What else could I see there?) Suez. But you couldn't go across the Red",
+      "bbox": {
+        "x": 207,
+        "y": 395,
+        "width": 814,
+        "height": 28
+      },
+      "confidence": 88.21,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-078-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Sea without valid visa.",
+      "cleanText": "Sea without valid visa.",
+      "bbox": {
+        "x": 546,
+        "y": 436,
+        "width": 255,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-078-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "You can have traditional Egyptian dishes",
+      "cleanText": "You can have traditional Egyptian dishes",
+      "bbox": {
+        "x": 545,
+        "y": 505,
+        "width": 475,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-078-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "What can I have for dinner? .",
+      "cleanText": "What can I have for dinner? .",
+      "bbox": {
+        "x": 207,
+        "y": 530,
+        "width": 737,
+        "height": 19
+      },
+      "confidence": 87.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-078-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "or Continental European, as you wish.",
+      "cleanText": "or Continental European, as you wish.",
+      "bbox": {
+        "x": 545,
+        "y": 543,
+        "width": 432,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-078-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "What should I see in Cairo | You should see the mummies. But you",
+      "cleanText": "What should I see in Cairo | You should see the mummies. But you",
+      "bbox": {
+        "x": 207,
+        "y": 597,
+        "width": 812,
+        "height": 35
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-078-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "museum? mustn't leave Egypt without visiting the",
+      "cleanText": "museum? mustn't leave Egypt without visiting the",
+      "bbox": {
+        "x": 207,
+        "y": 640,
+        "width": 812,
+        "height": 25
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-078-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Pyramids.",
+      "cleanText": "Pyramids.",
+      "bbox": {
+        "x": 546,
+        "y": 678,
+        "width": 111,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-078-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "D. Complete the sentences about what a tourist can do and see in Dhaka.",
+      "cleanText": "Complete the sentences about what a tourist can do and see in Dhaka.",
+      "bbox": {
+        "x": 108,
+        "y": 725,
+        "width": 924,
+        "height": 27
+      },
+      "confidence": 94.64,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-078-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Use the verbs from the box.",
+      "cleanText": "Use the verbs from the box.",
+      "bbox": {
+        "x": 180,
+        "y": 763,
+        "width": 341,
+        "height": 20
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-078-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "can see, may spend, can go, could (even) taste, shouldn't miss, should",
+      "cleanText": "can see, may spend, can go, could (even) taste, shouldn't miss, should",
+      "bbox": {
+        "x": 197,
+        "y": 816,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 95.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-078-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "visit, should go for, mustn't drink, may try",
+      "cleanText": "visit, should go for, mustn't drink, may try",
+      "bbox": {
+        "x": 195,
+        "y": 855,
+        "width": 515,
+        "height": 27
+      },
+      "confidence": 96.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-078-line-018",
+      "lineNumber": 18
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-078-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 73",
+      "bbox": {
+        "x": 123,
+        "y": 79,
+        "width": 906,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-078-line-002",
+      "lineNumber": 2,
+      "text": "Language Focus",
+      "bbox": {
+        "x": 187,
+        "y": 146,
+        "width": 197,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-078-line-003",
+      "lineNumber": 3,
+      "text": "Modal verbs can/can't, could/couldn't, may, should, must/mustn't:",
+      "bbox": {
+        "x": 208,
+        "y": 207,
+        "width": 746,
+        "height": 25
+      },
+      "confidence": 89.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-078-line-004",
+      "lineNumber": 4,
+      "text": "Can you tell me something",
+      "bbox": {
+        "x": 207,
+        "y": 267,
+        "width": 304,
+        "height": 25
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-078-line-005",
+      "lineNumber": 5,
+      "text": "about Cairo? Yes, I can. /No, I can't.",
+      "bbox": {
+        "x": 207,
+        "y": 305,
+        "width": 591,
+        "height": 23
+      },
+      "confidence": 94.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-078-line-006",
+      "lineNumber": 6,
+      "text": "You could enjoy the night view of Port",
+      "bbox": {
+        "x": 545,
+        "y": 359,
+        "width": 476,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-078-line-007",
+      "lineNumber": 7,
+      "text": "What else could I see there?) Suez. But you couldn't go across the Red",
+      "bbox": {
+        "x": 207,
+        "y": 395,
+        "width": 814,
+        "height": 28
+      },
+      "confidence": 88.21,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-078-line-008",
+      "lineNumber": 8,
+      "text": "Sea without valid visa.",
+      "bbox": {
+        "x": 546,
+        "y": 436,
+        "width": 255,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-078-line-009",
+      "lineNumber": 9,
+      "text": "You can have traditional Egyptian dishes",
+      "bbox": {
+        "x": 545,
+        "y": 505,
+        "width": 475,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-078-line-010",
+      "lineNumber": 10,
+      "text": "What can I have for dinner? .",
+      "bbox": {
+        "x": 207,
+        "y": 530,
+        "width": 737,
+        "height": 19
+      },
+      "confidence": 87.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-078-line-011",
+      "lineNumber": 11,
+      "text": "or Continental European, as you wish.",
+      "bbox": {
+        "x": 545,
+        "y": 543,
+        "width": 432,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-078-line-012",
+      "lineNumber": 12,
+      "text": "What should I see in Cairo | You should see the mummies. But you",
+      "bbox": {
+        "x": 207,
+        "y": 597,
+        "width": 812,
+        "height": 35
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-078-line-013",
+      "lineNumber": 13,
+      "text": "museum? mustn't leave Egypt without visiting the",
+      "bbox": {
+        "x": 207,
+        "y": 640,
+        "width": 812,
+        "height": 25
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-078-line-016",
+      "lineNumber": 16,
+      "text": "Use the verbs from the box.",
+      "bbox": {
+        "x": 180,
+        "y": 763,
+        "width": 341,
+        "height": 20
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-078-line-017",
+      "lineNumber": 17,
+      "text": "can see, may spend, can go, could (even) taste, shouldn't miss, should",
+      "bbox": {
+        "x": 197,
+        "y": 816,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 95.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-078-line-018",
+      "lineNumber": 18,
+      "text": "visit, should go for, mustn't drink, may try",
+      "bbox": {
+        "x": 195,
+        "y": 855,
+        "width": 515,
+        "height": 27
+      },
+      "confidence": 96.12,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 73\nLanguage Focus\nModal verbs can/can't, could/couldn't, may, should, must/mustn't:\nCan you tell me something\nabout Cairo? Yes, I can. /No, I can't.\nYou could enjoy the night view of Port\nWhat else could I see there?) Suez. But you couldn't go across the Red\nSea without valid visa.\nYou can have traditional Egyptian dishes\nWhat can I have for dinner? .\nor Continental European, as you wish.\nWhat should I see in Cairo | You should see the mummies. But you\nmuseum? mustn't leave Egypt without visiting the\nPyramids.\nD. Complete the sentences about what a tourist can do and see in Dhaka.\nUse the verbs from the box.\ncan see, may spend, can go, could (even) taste, shouldn't miss, should\nvisit, should go for, mustn't drink, may try",
+  "cleanText": "English For Today 73\nLanguage Focus\nModal verbs can/can't, could/couldn't, may, should, must/mustn't:\nCan you tell me something\nabout Cairo? Yes, I can. /No, I can't.\nYou could enjoy the night view of Port\nWhat else could I see there?) Suez. But you couldn't go across the Red\nSea without valid visa.\nYou can have traditional Egyptian dishes\nWhat can I have for dinner? .\nor Continental European, as you wish.\nWhat should I see in Cairo | You should see the mummies. But you\nmuseum? mustn't leave Egypt without visiting the\nPyramids.\nComplete the sentences about what a tourist can do and see in Dhaka.\nUse the verbs from the box.\ncan see, may spend, can go, could (even) taste, shouldn't miss, should\nvisit, should go for, mustn't drink, may try",
+  "aiReadyText": "English For Today 73\nLanguage Focus\nModal verbs can/can't, could/couldn't, may, should, must/mustn't:\nCan you tell me something\nabout Cairo? Yes, I can. /No, I can't.\nYou could enjoy the night view of Port\nWhat else could I see there?) Suez. But you couldn't go across the Red\nSea without valid visa.\nYou can have traditional Egyptian dishes\nWhat can I have for dinner? .\nor Continental European, as you wish.\nWhat should I see in Cairo | You should see the mummies. But you\nmuseum? mustn't leave Egypt without visiting the\nUse the verbs from the box.\ncan see, may spend, can go, could (even) taste, shouldn't miss, should\nvisit, should go for, mustn't drink, may try"
+}

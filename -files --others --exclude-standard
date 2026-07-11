@@ -1,0 +1,21 @@
+warning: in the working copy of 'app/api/ocr-book/lessons/[lessonNo]/route.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/games/page.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/home/page.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/quiz/page.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/reader/page.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'middleware.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'prisma/schema.prisma', LF will be replaced by CRLF the next time Git touches it
+app/api/agent/learning-loop/route.ts
+app/api/ocr-book/lessons/[lessonNo]/route.ts
+app/games/page.tsx
+app/home/page.tsx
+app/progress/page.tsx
+app/quiz/page.tsx
+app/reader/page.tsx
+app/teacher/page.tsx
+middleware.ts
+package-lock.json
+package.json
+prisma/schema.prisma

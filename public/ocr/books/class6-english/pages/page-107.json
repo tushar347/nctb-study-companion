@@ -1,0 +1,1010 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 107,
+  "image": "/ocr/books/class6-english/page-images/page-107.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "102 English For Today",
+      "cleanText": "102 English For Today",
+      "bbox": {
+        "x": 125,
+        "y": 82,
+        "width": 909,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "d) Why was Sankar in great trouble last month?",
+      "cleanText": "Why was Sankar in great trouble last month?",
+      "bbox": {
+        "x": 206,
+        "y": 153,
+        "width": 589,
+        "height": 23
+      },
+      "confidence": 95.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "i. Bulbul went on vacation.",
+      "cleanText": "Bulbul went on vacation.",
+      "bbox": {
+        "x": 285,
+        "y": 193,
+        "width": 342,
+        "height": 19
+      },
+      "confidence": 88.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "ii. The people refused to throw away their rubbish.",
+      "cleanText": "The people refused to throw away their rubbish.",
+      "bbox": {
+        "x": 285,
+        "y": 224,
+        "width": 584,
+        "height": 24
+      },
+      "confidence": 92.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "ili, Bulbul was sick for two days and could not collect the rubbish.",
+      "cleanText": "ili, Bulbul was sick for two days and could not collect the rubbish.",
+      "bbox": {
+        "x": 285,
+        "y": 256,
+        "width": 743,
+        "height": 24
+      },
+      "confidence": 94.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "iv. scattered the rubbish everywhere.",
+      "cleanText": "scattered the rubbish everywhere.",
+      "bbox": {
+        "x": 285,
+        "y": 288,
+        "width": 522,
+        "height": 24
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "e) What does Bulbul believe about his job?",
+      "cleanText": "e) What does Bulbul believe about his job?",
+      "bbox": {
+        "x": 206,
+        "y": 326,
+        "width": 530,
+        "height": 24
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "i. It is not important.",
+      "cleanText": "It is not important.",
+      "bbox": {
+        "x": 285,
+        "y": 358,
+        "width": 274,
+        "height": 24
+      },
+      "confidence": 90.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "ii. Only educated people should do it.",
+      "cleanText": "Only educated people should do it.",
+      "bbox": {
+        "x": 285,
+        "y": 389,
+        "width": 446,
+        "height": 24
+      },
+      "confidence": 91.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "iii, All jobs are important.",
+      "cleanText": "iii, All jobs are important.",
+      "bbox": {
+        "x": 285,
+        "y": 417,
+        "width": 316,
+        "height": 33
+      },
+      "confidence": 89.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "iv. He does it just for money.",
+      "cleanText": "He does it just for money.",
+      "bbox": {
+        "x": 285,
+        "y": 453,
+        "width": 348,
+        "height": 24
+      },
+      "confidence": 93.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "f) What happened when Bulbul could not collect the rubbish for two",
+      "cleanText": "f) What happened when Bulbul could not collect the rubbish for two",
+      "bbox": {
+        "x": 202,
+        "y": 492,
+        "width": 824,
+        "height": 31
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "i. The people of Sankar managed it themselves.",
+      "cleanText": "The people of Sankar managed it themselves.",
+      "bbox": {
+        "x": 285,
+        "y": 559,
+        "width": 556,
+        "height": 24
+      },
+      "confidence": 92.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "i. The whole area became dirty and unhygicnic.",
+      "cleanText": "The whole area became dirty and unhygicnic.",
+      "bbox": {
+        "x": 285,
+        "y": 590,
+        "width": 558,
+        "height": 24
+      },
+      "confidence": 88.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "iii. The rubbish disappeared on its own.",
+      "cleanText": "The rubbish disappeared on its own.",
+      "bbox": {
+        "x": 285,
+        "y": 618,
+        "width": 460,
+        "height": 32
+      },
+      "confidence": 92.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "iv. The government cleaned the area.",
+      "cleanText": "The government cleaned the area.",
+      "bbox": {
+        "x": 285,
+        "y": 654,
+        "width": 434,
+        "height": 24
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "g) Why does Bulbul not want to fall sick again?",
+      "cleanText": "g) Why does Bulbul not want to fall sick again?",
+      "bbox": {
+        "x": 206,
+        "y": 699,
+        "width": 580,
+        "height": 24
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "i. He enjoys his work.",
+      "cleanText": "He enjoys his work.",
+      "bbox": {
+        "x": 285,
+        "y": 730,
+        "width": 288,
+        "height": 24
+      },
+      "confidence": 88.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "il. He fears losing his job.",
+      "cleanText": "He fears losing his job.",
+      "bbox": {
+        "x": 285,
+        "y": 762,
+        "width": 321,
+        "height": 24
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "iil. He wants to earn more money.",
+      "cleanText": "He wants to earn more money.",
+      "bbox": {
+        "x": 285,
+        "y": 794,
+        "width": 399,
+        "height": 24
+      },
+      "confidence": 94.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "iv. He knows the area will turn into a big dustbin if he stops working.",
+      "cleanText": "He knows the area will turn into a big dustbin if he stops working.",
+      "bbox": {
+        "x": 286,
+        "y": 825,
+        "width": 726,
+        "height": 24
+      },
+      "confidence": 93.13,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "2. Write short answers to the following questions: 5x2=10",
+      "cleanText": "Write short answers to the following questions: 5x2=10",
+      "bbox": {
+        "x": 126,
+        "y": 889,
+        "width": 891,
+        "height": 24
+      },
+      "confidence": 95.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "a) Why does Bulbul wake up early in the morning?",
+      "cleanText": "Why does Bulbul wake up early in the morning?",
+      "bbox": {
+        "x": 206,
+        "y": 920,
+        "width": 590,
+        "height": 24
+      },
+      "confidence": 94.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "b) How did the people of Sankar suffer when Bulbul was sick?",
+      "cleanText": "How did the people of Sankar suffer when Bulbul was sick?",
+      "bbox": {
+        "x": 205,
+        "y": 952,
+        "width": 712,
+        "height": 24
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "c) What does this story teach us about the importance of Bulbul’s job?",
+      "cleanText": "What does this story teach us about the importance of Bulbul’s job?",
+      "bbox": {
+        "x": 206,
+        "y": 980,
+        "width": 792,
+        "height": 32
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "d) do the people of Sankar leave their rubbish?",
+      "cleanText": "do the people of Sankar leave their rubbish?",
+      "bbox": {
+        "x": 206,
+        "y": 1016,
+        "width": 619,
+        "height": 23
+      },
+      "confidence": 86.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "e) Why did Bulbul stop working?",
+      "cleanText": "e) Why did Bulbul stop working?",
+      "bbox": {
+        "x": 206,
+        "y": 1047,
+        "width": 404,
+        "height": 24
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "Read the text and answer the questions 3 & 4:",
+      "cleanText": "Read the text and answer the questions 3 & 4:",
+      "bbox": {
+        "x": 128,
+        "y": 1112,
+        "width": 556,
+        "height": 26
+      },
+      "confidence": 94.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "A proverb says ‘Health is Wealth’. To keep healthy is to keep free from disease",
+      "cleanText": "A proverb says ‘Health is Wealth’. To keep healthy is to keep free from disease",
+      "bbox": {
+        "x": 123,
+        "y": 1150,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 92.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "and anxiety. Good health is proper functioning of all body organs. It is also",
+      "cleanText": "and anxiety. Good health is proper functioning of all body organs. It is also",
+      "bbox": {
+        "x": 124,
+        "y": 1181,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "feeling well both in body and in mind. People in good health are active, cheerful",
+      "cleanText": "feeling well both in body and in mind. People in good health are active, cheerful",
+      "bbox": {
+        "x": 124,
+        "y": 1212,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 95.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "and happy. If you are healthy, you can be happy and can help others in society as",
+      "cleanText": "and happy. If you are healthy, you can be happy and can help others in society as",
+      "bbox": {
+        "x": 124,
+        "y": 1243,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "To keep in good health we should be careful about hygiene. The rules and",
+      "cleanText": "To keep in good health we should be careful about hygiene. The rules and",
+      "bbox": {
+        "x": 124,
+        "y": 1304,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 95.79,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "practices of keeping good health are called hygiene. We must practise the rules",
+      "cleanText": "practices of keeping good health are called hygiene. We must practise the rules",
+      "bbox": {
+        "x": 123,
+        "y": 1335,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 96.08,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-107-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "of hygiene. Proper food and nutrition, physical exercise, rest and sleep,",
+      "cleanText": "of hygiene. Proper food and nutrition, physical exercise, rest and sleep,",
+      "bbox": {
+        "x": 124,
+        "y": 1366,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 94.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-035",
+      "lineNumber": 35
+    },
+    {
+      "text": "cleanliness, and proper medicare are essential for good health.",
+      "cleanText": "cleanliness, and proper medicare are essential for good health.",
+      "bbox": {
+        "x": 124,
+        "y": 1397,
+        "width": 708,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-036",
+      "lineNumber": 36
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-107-line-001",
+      "lineNumber": 1,
+      "text": "102 English For Today",
+      "bbox": {
+        "x": 125,
+        "y": 82,
+        "width": 909,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-002",
+      "lineNumber": 2,
+      "text": "Why was Sankar in great trouble last month?",
+      "bbox": {
+        "x": 206,
+        "y": 153,
+        "width": 589,
+        "height": 23
+      },
+      "confidence": 95.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-003",
+      "lineNumber": 3,
+      "text": "Bulbul went on vacation.",
+      "bbox": {
+        "x": 285,
+        "y": 193,
+        "width": 342,
+        "height": 19
+      },
+      "confidence": 88.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-004",
+      "lineNumber": 4,
+      "text": "The people refused to throw away their rubbish.",
+      "bbox": {
+        "x": 285,
+        "y": 224,
+        "width": 584,
+        "height": 24
+      },
+      "confidence": 92.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-005",
+      "lineNumber": 5,
+      "text": "ili, Bulbul was sick for two days and could not collect the rubbish.",
+      "bbox": {
+        "x": 285,
+        "y": 256,
+        "width": 743,
+        "height": 24
+      },
+      "confidence": 94.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-006",
+      "lineNumber": 6,
+      "text": "scattered the rubbish everywhere.",
+      "bbox": {
+        "x": 285,
+        "y": 288,
+        "width": 522,
+        "height": 24
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-007",
+      "lineNumber": 7,
+      "text": "e) What does Bulbul believe about his job?",
+      "bbox": {
+        "x": 206,
+        "y": 326,
+        "width": 530,
+        "height": 24
+      },
+      "confidence": 95.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-008",
+      "lineNumber": 8,
+      "text": "It is not important.",
+      "bbox": {
+        "x": 285,
+        "y": 358,
+        "width": 274,
+        "height": 24
+      },
+      "confidence": 90.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-009",
+      "lineNumber": 9,
+      "text": "Only educated people should do it.",
+      "bbox": {
+        "x": 285,
+        "y": 389,
+        "width": 446,
+        "height": 24
+      },
+      "confidence": 91.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-010",
+      "lineNumber": 10,
+      "text": "iii, All jobs are important.",
+      "bbox": {
+        "x": 285,
+        "y": 417,
+        "width": 316,
+        "height": 33
+      },
+      "confidence": 89.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-011",
+      "lineNumber": 11,
+      "text": "He does it just for money.",
+      "bbox": {
+        "x": 285,
+        "y": 453,
+        "width": 348,
+        "height": 24
+      },
+      "confidence": 93.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-012",
+      "lineNumber": 12,
+      "text": "f) What happened when Bulbul could not collect the rubbish for two",
+      "bbox": {
+        "x": 202,
+        "y": 492,
+        "width": 824,
+        "height": 31
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-013",
+      "lineNumber": 13,
+      "text": "The people of Sankar managed it themselves.",
+      "bbox": {
+        "x": 285,
+        "y": 559,
+        "width": 556,
+        "height": 24
+      },
+      "confidence": 92.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-014",
+      "lineNumber": 14,
+      "text": "The whole area became dirty and unhygicnic.",
+      "bbox": {
+        "x": 285,
+        "y": 590,
+        "width": 558,
+        "height": 24
+      },
+      "confidence": 88.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-015",
+      "lineNumber": 15,
+      "text": "The rubbish disappeared on its own.",
+      "bbox": {
+        "x": 285,
+        "y": 618,
+        "width": 460,
+        "height": 32
+      },
+      "confidence": 92.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-016",
+      "lineNumber": 16,
+      "text": "The government cleaned the area.",
+      "bbox": {
+        "x": 285,
+        "y": 654,
+        "width": 434,
+        "height": 24
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-017",
+      "lineNumber": 17,
+      "text": "g) Why does Bulbul not want to fall sick again?",
+      "bbox": {
+        "x": 206,
+        "y": 699,
+        "width": 580,
+        "height": 24
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-018",
+      "lineNumber": 18,
+      "text": "He enjoys his work.",
+      "bbox": {
+        "x": 285,
+        "y": 730,
+        "width": 288,
+        "height": 24
+      },
+      "confidence": 88.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-019",
+      "lineNumber": 19,
+      "text": "He fears losing his job.",
+      "bbox": {
+        "x": 285,
+        "y": 762,
+        "width": 321,
+        "height": 24
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-020",
+      "lineNumber": 20,
+      "text": "He wants to earn more money.",
+      "bbox": {
+        "x": 285,
+        "y": 794,
+        "width": 399,
+        "height": 24
+      },
+      "confidence": 94.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-021",
+      "lineNumber": 21,
+      "text": "He knows the area will turn into a big dustbin if he stops working.",
+      "bbox": {
+        "x": 286,
+        "y": 825,
+        "width": 726,
+        "height": 24
+      },
+      "confidence": 93.13,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-022",
+      "lineNumber": 22,
+      "text": "Write short answers to the following questions: 5x2=10",
+      "bbox": {
+        "x": 126,
+        "y": 889,
+        "width": 891,
+        "height": 24
+      },
+      "confidence": 95.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-023",
+      "lineNumber": 23,
+      "text": "Why does Bulbul wake up early in the morning?",
+      "bbox": {
+        "x": 206,
+        "y": 920,
+        "width": 590,
+        "height": 24
+      },
+      "confidence": 94.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-024",
+      "lineNumber": 24,
+      "text": "How did the people of Sankar suffer when Bulbul was sick?",
+      "bbox": {
+        "x": 205,
+        "y": 952,
+        "width": 712,
+        "height": 24
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-025",
+      "lineNumber": 25,
+      "text": "What does this story teach us about the importance of Bulbul’s job?",
+      "bbox": {
+        "x": 206,
+        "y": 980,
+        "width": 792,
+        "height": 32
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-026",
+      "lineNumber": 26,
+      "text": "do the people of Sankar leave their rubbish?",
+      "bbox": {
+        "x": 206,
+        "y": 1016,
+        "width": 619,
+        "height": 23
+      },
+      "confidence": 86.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-027",
+      "lineNumber": 27,
+      "text": "e) Why did Bulbul stop working?",
+      "bbox": {
+        "x": 206,
+        "y": 1047,
+        "width": 404,
+        "height": 24
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-028",
+      "lineNumber": 28,
+      "text": "Read the text and answer the questions 3 & 4:",
+      "bbox": {
+        "x": 128,
+        "y": 1112,
+        "width": 556,
+        "height": 26
+      },
+      "confidence": 94.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-029",
+      "lineNumber": 29,
+      "text": "A proverb says ‘Health is Wealth’. To keep healthy is to keep free from disease",
+      "bbox": {
+        "x": 123,
+        "y": 1150,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 92.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-030",
+      "lineNumber": 30,
+      "text": "and anxiety. Good health is proper functioning of all body organs. It is also",
+      "bbox": {
+        "x": 124,
+        "y": 1181,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-031",
+      "lineNumber": 31,
+      "text": "feeling well both in body and in mind. People in good health are active, cheerful",
+      "bbox": {
+        "x": 124,
+        "y": 1212,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 95.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-032",
+      "lineNumber": 32,
+      "text": "and happy. If you are healthy, you can be happy and can help others in society as",
+      "bbox": {
+        "x": 124,
+        "y": 1243,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-033",
+      "lineNumber": 33,
+      "text": "To keep in good health we should be careful about hygiene. The rules and",
+      "bbox": {
+        "x": 124,
+        "y": 1304,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 95.79,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-035",
+      "lineNumber": 35,
+      "text": "of hygiene. Proper food and nutrition, physical exercise, rest and sleep,",
+      "bbox": {
+        "x": 124,
+        "y": 1366,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 94.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-036",
+      "lineNumber": 36,
+      "text": "cleanliness, and proper medicare are essential for good health.",
+      "bbox": {
+        "x": 124,
+        "y": 1397,
+        "width": 708,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "102 English For Today\nd) Why was Sankar in great trouble last month?\ni. Bulbul went on vacation.\nii. The people refused to throw away their rubbish.\nili, Bulbul was sick for two days and could not collect the rubbish.\niv. scattered the rubbish everywhere.\ne) What does Bulbul believe about his job?\ni. It is not important.\nii. Only educated people should do it.\niii, All jobs are important.\niv. He does it just for money.\nf) What happened when Bulbul could not collect the rubbish for two\ni. The people of Sankar managed it themselves.\ni. The whole area became dirty and unhygicnic.\niii. The rubbish disappeared on its own.\niv. The government cleaned the area.\ng) Why does Bulbul not want to fall sick again?\ni. He enjoys his work.\nil. He fears losing his job.\niil. He wants to earn more money.\niv. He knows the area will turn into a big dustbin if he stops working.\n2. Write short answers to the following questions: 5x2=10\na) Why does Bulbul wake up early in the morning?\nb) How did the people of Sankar suffer when Bulbul was sick?\nc) What does this story teach us about the importance of Bulbul’s job?\nd) do the people of Sankar leave their rubbish?\ne) Why did Bulbul stop working?\nRead the text and answer the questions 3 & 4:\nA proverb says ‘Health is Wealth’. To keep healthy is to keep free from disease\nand anxiety. Good health is proper functioning of all body organs. It is also\nfeeling well both in body and in mind. People in good health are active, cheerful\nand happy. If you are healthy, you can be happy and can help others in society as\nTo keep in good health we should be careful about hygiene. The rules and\npractices of keeping good health are called hygiene. We must practise the rules\nof hygiene. Proper food and nutrition, physical exercise, rest and sleep,\ncleanliness, and proper medicare are essential for good health.",
+  "cleanText": "102 English For Today\nWhy was Sankar in great trouble last month?\nBulbul went on vacation.\nThe people refused to throw away their rubbish.\nili, Bulbul was sick for two days and could not collect the rubbish.\nscattered the rubbish everywhere.\ne) What does Bulbul believe about his job?\nIt is not important.\nOnly educated people should do it.\niii, All jobs are important.\nHe does it just for money.\nf) What happened when Bulbul could not collect the rubbish for two\nThe people of Sankar managed it themselves.\nThe whole area became dirty and unhygicnic.\nThe rubbish disappeared on its own.\nThe government cleaned the area.\ng) Why does Bulbul not want to fall sick again?\nHe enjoys his work.\nHe fears losing his job.\nHe wants to earn more money.\nHe knows the area will turn into a big dustbin if he stops working.\nWrite short answers to the following questions: 5x2=10\nWhy does Bulbul wake up early in the morning?\nHow did the people of Sankar suffer when Bulbul was sick?\nWhat does this story teach us about the importance of Bulbul’s job?\ndo the people of Sankar leave their rubbish?\ne) Why did Bulbul stop working?\nRead the text and answer the questions 3 & 4:\nA proverb says ‘Health is Wealth’. To keep healthy is to keep free from disease\nand anxiety. Good health is proper functioning of all body organs. It is also\nfeeling well both in body and in mind. People in good health are active, cheerful\nand happy. If you are healthy, you can be happy and can help others in society as\nTo keep in good health we should be careful about hygiene. The rules and\npractices of keeping good health are called hygiene. We must practise the rules\nof hygiene. Proper food and nutrition, physical exercise, rest and sleep,\ncleanliness, and proper medicare are essential for good health.",
+  "aiReadyText": "102 English For Today\nWhy was Sankar in great trouble last month?\nBulbul went on vacation.\nThe people refused to throw away their rubbish.\nili, Bulbul was sick for two days and could not collect the rubbish.\nscattered the rubbish everywhere.\ne) What does Bulbul believe about his job?\nIt is not important.\nOnly educated people should do it.\niii, All jobs are important.\nHe does it just for money.\nf) What happened when Bulbul could not collect the rubbish for two\nThe people of Sankar managed it themselves.\nThe whole area became dirty and unhygicnic.\nThe rubbish disappeared on its own.\nThe government cleaned the area.\ng) Why does Bulbul not want to fall sick again?\nHe enjoys his work.\nHe fears losing his job.\nHe wants to earn more money.\nHe knows the area will turn into a big dustbin if he stops working.\nWrite short answers to the following questions: 5x2=10\nWhy does Bulbul wake up early in the morning?\nHow did the people of Sankar suffer when Bulbul was sick?\nWhat does this story teach us about the importance of Bulbul’s job?\ndo the people of Sankar leave their rubbish?\ne) Why did Bulbul stop working?\nRead the text and answer the questions 3 & 4:\nA proverb says ‘Health is Wealth’. To keep healthy is to keep free from disease\nand anxiety. Good health is proper functioning of all body organs. It is also\nfeeling well both in body and in mind. People in good health are active, cheerful\nand happy. If you are healthy, you can be happy and can help others in society as\nTo keep in good health we should be careful about hygiene. The rules and\nof hygiene. Proper food and nutrition, physical exercise, rest and sleep,\ncleanliness, and proper medicare are essential for good health."
+}

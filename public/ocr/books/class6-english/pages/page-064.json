@@ -1,0 +1,411 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 64,
+  "image": "/ocr/books/class6-english/page-images/page-064.png",
+  "width": 1149,
+  "height": 1507,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 59",
+      "cleanText": "English For Today 59",
+      "bbox": {
+        "x": 132,
+        "y": 82,
+        "width": 901,
+        "height": 30
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "‘ beat",
+      "cleanText": "‘ beat",
+      "bbox": {
+        "x": 444,
+        "y": 253,
+        "width": 536,
+        "height": 28
+      },
+      "confidence": 86.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-064-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "| boil",
+      "cleanText": "| boil",
+      "bbox": {
+        "x": 456,
+        "y": 303,
+        "width": 521,
+        "height": 69
+      },
+      "confidence": 90.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-064-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": ". chop",
+      "cleanText": ". chop",
+      "bbox": {
+        "x": 325,
+        "y": 397,
+        "width": 658,
+        "height": 44
+      },
+      "confidence": 68.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-064-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": ", “ni stir",
+      "cleanText": ", “ni stir",
+      "bbox": {
+        "x": 409,
+        "y": 631,
+        "width": 566,
+        "height": 94
+      },
+      "confidence": 61.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-064-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "C. Now, use some of the verbs above to write a simple recipe",
+      "cleanText": "Now, use some of the verbs above to write a simple recipe",
+      "bbox": {
+        "x": 125,
+        "y": 766,
+        "width": 908,
+        "height": 28
+      },
+      "confidence": 95.31,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "for making instant noodles.",
+      "cleanText": "for making instant noodles.",
+      "bbox": {
+        "x": 193,
+        "y": 812,
+        "width": 357,
+        "height": 28
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "First, water into a pot.",
+      "cleanText": "First, water into a pot.",
+      "bbox": {
+        "x": 226,
+        "y": 877,
+        "width": 448,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Put your pot on a stove and the water for two minutes.",
+      "cleanText": "Put your pot on a stove and the water for two minutes.",
+      "bbox": {
+        "x": 231,
+        "y": 931,
+        "width": 820,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "some onions and a green chilli thinly.",
+      "cleanText": "some onions and a green chilli thinly.",
+      "bbox": {
+        "x": 431,
+        "y": 980,
+        "width": 428,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Then, add noodles into the water.",
+      "cleanText": "Then, add noodles into the water.",
+      "bbox": {
+        "x": 230,
+        "y": 1030,
+        "width": 380,
+        "height": 24
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "gently with a spoon.",
+      "cleanText": "gently with a spoon.",
+      "bbox": {
+        "x": 431,
+        "y": 1079,
+        "width": 229,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Add the spices that come with the noodles.",
+      "cleanText": "Add the spices that come with the noodles.",
+      "bbox": {
+        "x": 230,
+        "y": 1128,
+        "width": 490,
+        "height": 26
+      },
+      "confidence": 94.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Add the onions and green chilli.",
+      "cleanText": "Add the onions and green chilli.",
+      "bbox": {
+        "x": 230,
+        "y": 1178,
+        "width": 365,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Serve the noodles in a dish.",
+      "cleanText": "Serve the noodles in a dish.",
+      "bbox": {
+        "x": 231,
+        "y": 1227,
+        "width": 312,
+        "height": 20
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "an egg and add it on top if you want.",
+      "cleanText": "an egg and add it on top if you want.",
+      "bbox": {
+        "x": 431,
+        "y": 1277,
+        "width": 417,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-016",
+      "lineNumber": 16
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-064-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 59",
+      "bbox": {
+        "x": 132,
+        "y": 82,
+        "width": 901,
+        "height": 30
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-006",
+      "lineNumber": 6,
+      "text": "Now, use some of the verbs above to write a simple recipe",
+      "bbox": {
+        "x": 125,
+        "y": 766,
+        "width": 908,
+        "height": 28
+      },
+      "confidence": 95.31,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-007",
+      "lineNumber": 7,
+      "text": "for making instant noodles.",
+      "bbox": {
+        "x": 193,
+        "y": 812,
+        "width": 357,
+        "height": 28
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-008",
+      "lineNumber": 8,
+      "text": "First, water into a pot.",
+      "bbox": {
+        "x": 226,
+        "y": 877,
+        "width": 448,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-009",
+      "lineNumber": 9,
+      "text": "Put your pot on a stove and the water for two minutes.",
+      "bbox": {
+        "x": 231,
+        "y": 931,
+        "width": 820,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-010",
+      "lineNumber": 10,
+      "text": "some onions and a green chilli thinly.",
+      "bbox": {
+        "x": 431,
+        "y": 980,
+        "width": 428,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-011",
+      "lineNumber": 11,
+      "text": "Then, add noodles into the water.",
+      "bbox": {
+        "x": 230,
+        "y": 1030,
+        "width": 380,
+        "height": 24
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-012",
+      "lineNumber": 12,
+      "text": "gently with a spoon.",
+      "bbox": {
+        "x": 431,
+        "y": 1079,
+        "width": 229,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-013",
+      "lineNumber": 13,
+      "text": "Add the spices that come with the noodles.",
+      "bbox": {
+        "x": 230,
+        "y": 1128,
+        "width": 490,
+        "height": 26
+      },
+      "confidence": 94.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-014",
+      "lineNumber": 14,
+      "text": "Add the onions and green chilli.",
+      "bbox": {
+        "x": 230,
+        "y": 1178,
+        "width": 365,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-015",
+      "lineNumber": 15,
+      "text": "Serve the noodles in a dish.",
+      "bbox": {
+        "x": 231,
+        "y": 1227,
+        "width": 312,
+        "height": 20
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-016",
+      "lineNumber": 16,
+      "text": "an egg and add it on top if you want.",
+      "bbox": {
+        "x": 431,
+        "y": 1277,
+        "width": 417,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 59\n‘ beat\n| boil\n. chop\n, “ni stir\nC. Now, use some of the verbs above to write a simple recipe\nfor making instant noodles.\nFirst, water into a pot.\nPut your pot on a stove and the water for two minutes.\nsome onions and a green chilli thinly.\nThen, add noodles into the water.\ngently with a spoon.\nAdd the spices that come with the noodles.\nAdd the onions and green chilli.\nServe the noodles in a dish.\nan egg and add it on top if you want.",
+  "cleanText": "English For Today 59\n‘ beat\n| boil\n. chop\n, “ni stir\nNow, use some of the verbs above to write a simple recipe\nfor making instant noodles.\nFirst, water into a pot.\nPut your pot on a stove and the water for two minutes.\nsome onions and a green chilli thinly.\nThen, add noodles into the water.\ngently with a spoon.\nAdd the spices that come with the noodles.\nAdd the onions and green chilli.\nServe the noodles in a dish.\nan egg and add it on top if you want.",
+  "aiReadyText": "English For Today 59\nNow, use some of the verbs above to write a simple recipe\nfor making instant noodles.\nFirst, water into a pot.\nPut your pot on a stove and the water for two minutes.\nsome onions and a green chilli thinly.\nThen, add noodles into the water.\ngently with a spoon.\nAdd the spices that come with the noodles.\nAdd the onions and green chilli.\nServe the noodles in a dish.\nan egg and add it on top if you want."
+}

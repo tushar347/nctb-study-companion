@@ -1,0 +1,732 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 41,
+  "image": "/ocr/books/class6-english/page-images/page-041.png",
+  "width": 1160,
+  "height": 1510,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "36 English For Today",
+      "cleanText": "36 English For Today",
+      "bbox": {
+        "x": 126,
+        "y": 84,
+        "width": 912,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "For children's cough, grandmas give two tea-spoons of basil leaf/tulsi juice with",
+      "cleanText": "For children's cough, grandmas give two tea-spoons of basil leaf/tulsi juice with",
+      "bbox": {
+        "x": 125,
+        "y": 187,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 93.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "one spoon of honey. It works excellent.",
+      "cleanText": "one spoon of honey. It works excellent.",
+      "bbox": {
+        "x": 125,
+        "y": 227,
+        "width": 445,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Some people take grape juice and honey too. It is also good for dry cough.",
+      "cleanText": "Some people take grape juice and honey too. It is also good for dry cough.",
+      "bbox": {
+        "x": 126,
+        "y": 280,
+        "width": 847,
+        "height": 25
+      },
+      "confidence": 95.47,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Hot milk with honey is also useful in cough problems.",
+      "cleanText": "Hot milk with honey is also useful in cough problems.",
+      "bbox": {
+        "x": 125,
+        "y": 319,
+        "width": 618,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "You can take ginger tea which is also a useful home remedy for cough.",
+      "cleanText": "You can take ginger tea which is also a useful home remedy for cough.",
+      "bbox": {
+        "x": 126,
+        "y": 363,
+        "width": 806,
+        "height": 26
+      },
+      "confidence": 95.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Lemon juice is good for any cold because it contains vitamin C. Vitamin C",
+      "cleanText": "Lemon juice is good for any cold because it contains vitamin C. Vitamin C",
+      "bbox": {
+        "x": 131,
+        "y": 461,
+        "width": 908,
+        "height": 25
+      },
+      "confidence": 94.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "increases body resistance. Lemon juice, hot water and honey together work",
+      "cleanText": "increases body resistance. Lemon juice, hot water and honey together work",
+      "bbox": {
+        "x": 132,
+        "y": 500,
+        "width": 905,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "well in healing common cold.",
+      "cleanText": "well in healing common cold.",
+      "bbox": {
+        "x": 132,
+        "y": 540,
+        "width": 340,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Toothache",
+      "cleanText": "Toothache",
+      "bbox": {
+        "x": 132,
+        "y": 603,
+        "width": 119,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-041-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "In normal toothache, keep a clove in your mouth. Place it in between the aching",
+      "cleanText": "In normal toothache, keep a clove in your mouth. Place it in between the aching",
+      "bbox": {
+        "x": 131,
+        "y": 642,
+        "width": 910,
+        "height": 27
+      },
+      "confidence": 95.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "teeth and suck on it. You can even apply clove oil on the affected tooth.",
+      "cleanText": "teeth and suck on it. You can even apply clove oil on the affected tooth.",
+      "bbox": {
+        "x": 131,
+        "y": 682,
+        "width": 823,
+        "height": 26
+      },
+      "confidence": 95.53,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Garlic also cures toothache. Place a clove of garlic on the aching tooth and",
+      "cleanText": "Garlic also cures toothache. Place a clove of garlic on the aching tooth and",
+      "bbox": {
+        "x": 131,
+        "y": 747,
+        "width": 903,
+        "height": 25
+      },
+      "confidence": 95.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "munch mildly. Its juice will work as a relief.",
+      "cleanText": "munch mildly. Its juice will work as a relief.",
+      "bbox": {
+        "x": 131,
+        "y": 782,
+        "width": 503,
+        "height": 34
+      },
+      "confidence": 94.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "A pinch of pepper powder mixed with common salt works well on the aching",
+      "cleanText": "A pinch of pepper powder mixed with common salt works well on the aching",
+      "bbox": {
+        "x": 131,
+        "y": 836,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "tooth. It's especially effective against the increased sensitiveness of the teeth.",
+      "cleanText": "tooth. It's especially effective against the increased sensitiveness of the teeth.",
+      "bbox": {
+        "x": 132,
+        "y": 876,
+        "width": 887,
+        "height": 26
+      },
+      "confidence": 84.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Headache",
+      "cleanText": "Headache",
+      "bbox": {
+        "x": 129,
+        "y": 946,
+        "width": 117,
+        "height": 21
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-041-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Eating apples give good result in headaches. While eating, add a little salt",
+      "cleanText": "Eating apples give good result in headaches. While eating, add a little salt",
+      "bbox": {
+        "x": 130,
+        "y": 982,
+        "width": 907,
+        "height": 34
+      },
+      "confidence": 94.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "to it.",
+      "cleanText": "to it.",
+      "bbox": {
+        "x": 131,
+        "y": 1019,
+        "width": 49,
+        "height": 19
+      },
+      "confidence": 86.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-041-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "When headache is caused by cold winds, cinnamon works the best. Make",
+      "cleanText": "When headache is caused by cold winds, cinnamon works the best. Make",
+      "bbox": {
+        "x": 130,
+        "y": 1072,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 94.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "apaste of cinnamon by mixing in water and apply iton your forehead.",
+      "cleanText": "apaste of cinnamon by mixing in water and apply iton your forehead.",
+      "bbox": {
+        "x": 129,
+        "y": 1112,
+        "width": 878,
+        "height": 25
+      },
+      "confidence": 95.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "El. Learn these words:",
+      "cleanText": "El. Learn these words:",
+      "bbox": {
+        "x": 123,
+        "y": 1180,
+        "width": 307,
+        "height": 22
+      },
+      "confidence": 77.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "ginger, resistance, clove, garlic, pepper, cinnamon, sensitive, munch,",
+      "cleanText": "ginger, resistance, clove, garlic, pepper, cinnamon, sensitive, munch,",
+      "bbox": {
+        "x": 203,
+        "y": 1221,
+        "width": 838,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "pinch (as used in the text).",
+      "cleanText": "pinch (as used in the text).",
+      "bbox": {
+        "x": 202,
+        "y": 1260,
+        "width": 308,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "E2. Do you know any other home remedies that people use in our",
+      "cleanText": "E2. Do you know any other home remedies that people use in our",
+      "bbox": {
+        "x": 126,
+        "y": 1308,
+        "width": 915,
+        "height": 26
+      },
+      "confidence": 95.54,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "country? Ask your parents and make a list of such",
+      "cleanText": "country? Ask your parents and make a list of such",
+      "bbox": {
+        "x": 209,
+        "y": 1350,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 92.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "remedies other than the items given in your text.",
+      "cleanText": "remedies other than the items given in your text.",
+      "bbox": {
+        "x": 209,
+        "y": 1390,
+        "width": 614,
+        "height": 28
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-027",
+      "lineNumber": 27
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-041-line-001",
+      "lineNumber": 1,
+      "text": "36 English For Today",
+      "bbox": {
+        "x": 126,
+        "y": 84,
+        "width": 912,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-002",
+      "lineNumber": 2,
+      "text": "For children's cough, grandmas give two tea-spoons of basil leaf/tulsi juice with",
+      "bbox": {
+        "x": 125,
+        "y": 187,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 93.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-003",
+      "lineNumber": 3,
+      "text": "one spoon of honey. It works excellent.",
+      "bbox": {
+        "x": 125,
+        "y": 227,
+        "width": 445,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-004",
+      "lineNumber": 4,
+      "text": "Some people take grape juice and honey too. It is also good for dry cough.",
+      "bbox": {
+        "x": 126,
+        "y": 280,
+        "width": 847,
+        "height": 25
+      },
+      "confidence": 95.47,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-005",
+      "lineNumber": 5,
+      "text": "Hot milk with honey is also useful in cough problems.",
+      "bbox": {
+        "x": 125,
+        "y": 319,
+        "width": 618,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-006",
+      "lineNumber": 6,
+      "text": "You can take ginger tea which is also a useful home remedy for cough.",
+      "bbox": {
+        "x": 126,
+        "y": 363,
+        "width": 806,
+        "height": 26
+      },
+      "confidence": 95.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-007",
+      "lineNumber": 7,
+      "text": "Lemon juice is good for any cold because it contains vitamin C. Vitamin C",
+      "bbox": {
+        "x": 131,
+        "y": 461,
+        "width": 908,
+        "height": 25
+      },
+      "confidence": 94.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-008",
+      "lineNumber": 8,
+      "text": "increases body resistance. Lemon juice, hot water and honey together work",
+      "bbox": {
+        "x": 132,
+        "y": 500,
+        "width": 905,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-009",
+      "lineNumber": 9,
+      "text": "well in healing common cold.",
+      "bbox": {
+        "x": 132,
+        "y": 540,
+        "width": 340,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-011",
+      "lineNumber": 11,
+      "text": "In normal toothache, keep a clove in your mouth. Place it in between the aching",
+      "bbox": {
+        "x": 131,
+        "y": 642,
+        "width": 910,
+        "height": 27
+      },
+      "confidence": 95.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-012",
+      "lineNumber": 12,
+      "text": "teeth and suck on it. You can even apply clove oil on the affected tooth.",
+      "bbox": {
+        "x": 131,
+        "y": 682,
+        "width": 823,
+        "height": 26
+      },
+      "confidence": 95.53,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-013",
+      "lineNumber": 13,
+      "text": "Garlic also cures toothache. Place a clove of garlic on the aching tooth and",
+      "bbox": {
+        "x": 131,
+        "y": 747,
+        "width": 903,
+        "height": 25
+      },
+      "confidence": 95.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-014",
+      "lineNumber": 14,
+      "text": "munch mildly. Its juice will work as a relief.",
+      "bbox": {
+        "x": 131,
+        "y": 782,
+        "width": 503,
+        "height": 34
+      },
+      "confidence": 94.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-015",
+      "lineNumber": 15,
+      "text": "A pinch of pepper powder mixed with common salt works well on the aching",
+      "bbox": {
+        "x": 131,
+        "y": 836,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-016",
+      "lineNumber": 16,
+      "text": "tooth. It's especially effective against the increased sensitiveness of the teeth.",
+      "bbox": {
+        "x": 132,
+        "y": 876,
+        "width": 887,
+        "height": 26
+      },
+      "confidence": 84.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-018",
+      "lineNumber": 18,
+      "text": "Eating apples give good result in headaches. While eating, add a little salt",
+      "bbox": {
+        "x": 130,
+        "y": 982,
+        "width": 907,
+        "height": 34
+      },
+      "confidence": 94.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-020",
+      "lineNumber": 20,
+      "text": "When headache is caused by cold winds, cinnamon works the best. Make",
+      "bbox": {
+        "x": 130,
+        "y": 1072,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 94.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-021",
+      "lineNumber": 21,
+      "text": "apaste of cinnamon by mixing in water and apply iton your forehead.",
+      "bbox": {
+        "x": 129,
+        "y": 1112,
+        "width": 878,
+        "height": 25
+      },
+      "confidence": 95.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-022",
+      "lineNumber": 22,
+      "text": "El. Learn these words:",
+      "bbox": {
+        "x": 123,
+        "y": 1180,
+        "width": 307,
+        "height": 22
+      },
+      "confidence": 77.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-023",
+      "lineNumber": 23,
+      "text": "ginger, resistance, clove, garlic, pepper, cinnamon, sensitive, munch,",
+      "bbox": {
+        "x": 203,
+        "y": 1221,
+        "width": 838,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-024",
+      "lineNumber": 24,
+      "text": "pinch (as used in the text).",
+      "bbox": {
+        "x": 202,
+        "y": 1260,
+        "width": 308,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-025",
+      "lineNumber": 25,
+      "text": "E2. Do you know any other home remedies that people use in our",
+      "bbox": {
+        "x": 126,
+        "y": 1308,
+        "width": 915,
+        "height": 26
+      },
+      "confidence": 95.54,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-026",
+      "lineNumber": 26,
+      "text": "country? Ask your parents and make a list of such",
+      "bbox": {
+        "x": 209,
+        "y": 1350,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 92.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-027",
+      "lineNumber": 27,
+      "text": "remedies other than the items given in your text.",
+      "bbox": {
+        "x": 209,
+        "y": 1390,
+        "width": 614,
+        "height": 28
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "36 English For Today\nFor children's cough, grandmas give two tea-spoons of basil leaf/tulsi juice with\none spoon of honey. It works excellent.\nSome people take grape juice and honey too. It is also good for dry cough.\nHot milk with honey is also useful in cough problems.\nYou can take ginger tea which is also a useful home remedy for cough.\nLemon juice is good for any cold because it contains vitamin C. Vitamin C\nincreases body resistance. Lemon juice, hot water and honey together work\nwell in healing common cold.\nToothache\nIn normal toothache, keep a clove in your mouth. Place it in between the aching\nteeth and suck on it. You can even apply clove oil on the affected tooth.\nGarlic also cures toothache. Place a clove of garlic on the aching tooth and\nmunch mildly. Its juice will work as a relief.\nA pinch of pepper powder mixed with common salt works well on the aching\ntooth. It's especially effective against the increased sensitiveness of the teeth.\nHeadache\nEating apples give good result in headaches. While eating, add a little salt\nto it.\nWhen headache is caused by cold winds, cinnamon works the best. Make\napaste of cinnamon by mixing in water and apply iton your forehead.\nEl. Learn these words:\nginger, resistance, clove, garlic, pepper, cinnamon, sensitive, munch,\npinch (as used in the text).\nE2. Do you know any other home remedies that people use in our\ncountry? Ask your parents and make a list of such\nremedies other than the items given in your text.",
+  "cleanText": "36 English For Today\nFor children's cough, grandmas give two tea-spoons of basil leaf/tulsi juice with\none spoon of honey. It works excellent.\nSome people take grape juice and honey too. It is also good for dry cough.\nHot milk with honey is also useful in cough problems.\nYou can take ginger tea which is also a useful home remedy for cough.\nLemon juice is good for any cold because it contains vitamin C. Vitamin C\nincreases body resistance. Lemon juice, hot water and honey together work\nwell in healing common cold.\nToothache\nIn normal toothache, keep a clove in your mouth. Place it in between the aching\nteeth and suck on it. You can even apply clove oil on the affected tooth.\nGarlic also cures toothache. Place a clove of garlic on the aching tooth and\nmunch mildly. Its juice will work as a relief.\nA pinch of pepper powder mixed with common salt works well on the aching\ntooth. It's especially effective against the increased sensitiveness of the teeth.\nHeadache\nEating apples give good result in headaches. While eating, add a little salt\nto it.\nWhen headache is caused by cold winds, cinnamon works the best. Make\napaste of cinnamon by mixing in water and apply iton your forehead.\nEl. Learn these words:\nginger, resistance, clove, garlic, pepper, cinnamon, sensitive, munch,\npinch (as used in the text).\nE2. Do you know any other home remedies that people use in our\ncountry? Ask your parents and make a list of such\nremedies other than the items given in your text.",
+  "aiReadyText": "36 English For Today\nFor children's cough, grandmas give two tea-spoons of basil leaf/tulsi juice with\none spoon of honey. It works excellent.\nSome people take grape juice and honey too. It is also good for dry cough.\nHot milk with honey is also useful in cough problems.\nYou can take ginger tea which is also a useful home remedy for cough.\nLemon juice is good for any cold because it contains vitamin C. Vitamin C\nincreases body resistance. Lemon juice, hot water and honey together work\nwell in healing common cold.\nIn normal toothache, keep a clove in your mouth. Place it in between the aching\nteeth and suck on it. You can even apply clove oil on the affected tooth.\nGarlic also cures toothache. Place a clove of garlic on the aching tooth and\nmunch mildly. Its juice will work as a relief.\nA pinch of pepper powder mixed with common salt works well on the aching\ntooth. It's especially effective against the increased sensitiveness of the teeth.\nEating apples give good result in headaches. While eating, add a little salt\nWhen headache is caused by cold winds, cinnamon works the best. Make\napaste of cinnamon by mixing in water and apply iton your forehead.\nEl. Learn these words:\nginger, resistance, clove, garlic, pepper, cinnamon, sensitive, munch,\npinch (as used in the text).\nE2. Do you know any other home remedies that people use in our\ncountry? Ask your parents and make a list of such\nremedies other than the items given in your text."
+}

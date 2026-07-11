@@ -1,0 +1,411 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 32,
+  "image": "/ocr/books/class6-english/page-images/page-032.png",
+  "width": 1149,
+  "height": 1518,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Language Focus: some and any",
+      "cleanText": "Language Focus: some and any",
+      "bbox": {
+        "x": 187,
+        "y": 166,
+        "width": 381,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "We use ‘some’ with positive statements.",
+      "cleanText": "We use ‘some’ with positive statements.",
+      "bbox": {
+        "x": 204,
+        "y": 230,
+        "width": 447,
+        "height": 25
+      },
+      "confidence": 88.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Example:",
+      "cleanText": "Example:",
+      "bbox": {
+        "x": 204,
+        "y": 274,
+        "width": 106,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-032-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "I've got some photographs. I need some milk.",
+      "cleanText": "I've got some photographs. I need some milk.",
+      "bbox": {
+        "x": 204,
+        "y": 318,
+        "width": 512,
+        "height": 25
+      },
+      "confidence": 86.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "We use ‘any’ with negative statement.",
+      "cleanText": "We use ‘any’ with negative statement.",
+      "bbox": {
+        "x": 204,
+        "y": 362,
+        "width": 422,
+        "height": 25
+      },
+      "confidence": 89.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Example:",
+      "cleanText": "Example:",
+      "bbox": {
+        "x": 204,
+        "y": 406,
+        "width": 106,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-032-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "T haven't got any photographs. | don't see any student there.",
+      "cleanText": "T haven't got any photographs. | don't see any student there.",
+      "bbox": {
+        "x": 204,
+        "y": 450,
+        "width": 680,
+        "height": 25
+      },
+      "confidence": 90.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "We use ‘any’ with questions.",
+      "cleanText": "We use ‘any’ with questions.",
+      "bbox": {
+        "x": 204,
+        "y": 494,
+        "width": 318,
+        "height": 25
+      },
+      "confidence": 86.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Example:",
+      "cleanText": "Example:",
+      "bbox": {
+        "x": 204,
+        "y": 538,
+        "width": 106,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-032-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Have you got any photograph? Is there any water in the jug?",
+      "cleanText": "Have you got any photograph? Is there any water in the jug?",
+      "bbox": {
+        "x": 204,
+        "y": 582,
+        "width": 696,
+        "height": 25
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Fill in the blanks with ‘some' or ‘any’.",
+      "cleanText": "Fill in the blanks with ‘some' or ‘any’.",
+      "bbox": {
+        "x": 188,
+        "y": 651,
+        "width": 476,
+        "height": 27
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-032-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "1) Are there flowers in the garden?",
+      "cleanText": "Are there flowers in the garden?",
+      "bbox": {
+        "x": 192,
+        "y": 694,
+        "width": 529,
+        "height": 26
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "2) Yes, these are",
+      "cleanText": "Yes, these are",
+      "bbox": {
+        "x": 187,
+        "y": 742,
+        "width": 214,
+        "height": 24
+      },
+      "confidence": 80.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "3) What about jasmine? Are there jasmines?",
+      "cleanText": "What about jasmine? Are there jasmines?",
+      "bbox": {
+        "x": 188,
+        "y": 786,
+        "width": 646,
+        "height": 26
+      },
+      "confidence": 85.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "4) No, there aren't jasmines.",
+      "cleanText": "No, there aren't jasmines.",
+      "bbox": {
+        "x": 187,
+        "y": 833,
+        "width": 468,
+        "height": 25
+      },
+      "confidence": 88.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "5) Do you have ____ idea why I'm asking you all these?",
+      "cleanText": "Do you have ____ idea why I'm asking you all these?",
+      "bbox": {
+        "x": 187,
+        "y": 877,
+        "width": 668,
+        "height": 25
+      },
+      "confidence": 89.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-016",
+      "lineNumber": 16
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-032-line-001",
+      "lineNumber": 1,
+      "text": "Language Focus: some and any",
+      "bbox": {
+        "x": 187,
+        "y": 166,
+        "width": 381,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-002",
+      "lineNumber": 2,
+      "text": "We use ‘some’ with positive statements.",
+      "bbox": {
+        "x": 204,
+        "y": 230,
+        "width": 447,
+        "height": 25
+      },
+      "confidence": 88.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-004",
+      "lineNumber": 4,
+      "text": "I've got some photographs. I need some milk.",
+      "bbox": {
+        "x": 204,
+        "y": 318,
+        "width": 512,
+        "height": 25
+      },
+      "confidence": 86.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-005",
+      "lineNumber": 5,
+      "text": "We use ‘any’ with negative statement.",
+      "bbox": {
+        "x": 204,
+        "y": 362,
+        "width": 422,
+        "height": 25
+      },
+      "confidence": 89.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-007",
+      "lineNumber": 7,
+      "text": "T haven't got any photographs. | don't see any student there.",
+      "bbox": {
+        "x": 204,
+        "y": 450,
+        "width": 680,
+        "height": 25
+      },
+      "confidence": 90.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-008",
+      "lineNumber": 8,
+      "text": "We use ‘any’ with questions.",
+      "bbox": {
+        "x": 204,
+        "y": 494,
+        "width": 318,
+        "height": 25
+      },
+      "confidence": 86.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-010",
+      "lineNumber": 10,
+      "text": "Have you got any photograph? Is there any water in the jug?",
+      "bbox": {
+        "x": 204,
+        "y": 582,
+        "width": 696,
+        "height": 25
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-012",
+      "lineNumber": 12,
+      "text": "Are there flowers in the garden?",
+      "bbox": {
+        "x": 192,
+        "y": 694,
+        "width": 529,
+        "height": 26
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-013",
+      "lineNumber": 13,
+      "text": "Yes, these are",
+      "bbox": {
+        "x": 187,
+        "y": 742,
+        "width": 214,
+        "height": 24
+      },
+      "confidence": 80.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-014",
+      "lineNumber": 14,
+      "text": "What about jasmine? Are there jasmines?",
+      "bbox": {
+        "x": 188,
+        "y": 786,
+        "width": 646,
+        "height": 26
+      },
+      "confidence": 85.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-015",
+      "lineNumber": 15,
+      "text": "No, there aren't jasmines.",
+      "bbox": {
+        "x": 187,
+        "y": 833,
+        "width": 468,
+        "height": 25
+      },
+      "confidence": 88.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-016",
+      "lineNumber": 16,
+      "text": "Do you have ____ idea why I'm asking you all these?",
+      "bbox": {
+        "x": 187,
+        "y": 877,
+        "width": 668,
+        "height": 25
+      },
+      "confidence": 89.5,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Language Focus: some and any\nWe use ‘some’ with positive statements.\nExample:\nI've got some photographs. I need some milk.\nWe use ‘any’ with negative statement.\nExample:\nT haven't got any photographs. | don't see any student there.\nWe use ‘any’ with questions.\nExample:\nHave you got any photograph? Is there any water in the jug?\nFill in the blanks with ‘some' or ‘any’.\n1) Are there flowers in the garden?\n2) Yes, these are\n3) What about jasmine? Are there jasmines?\n4) No, there aren't jasmines.\n5) Do you have ____ idea why I'm asking you all these?",
+  "cleanText": "Language Focus: some and any\nWe use ‘some’ with positive statements.\nExample:\nI've got some photographs. I need some milk.\nWe use ‘any’ with negative statement.\nExample:\nT haven't got any photographs. | don't see any student there.\nWe use ‘any’ with questions.\nExample:\nHave you got any photograph? Is there any water in the jug?\nFill in the blanks with ‘some' or ‘any’.\nAre there flowers in the garden?\nYes, these are\nWhat about jasmine? Are there jasmines?\nNo, there aren't jasmines.\nDo you have ____ idea why I'm asking you all these?",
+  "aiReadyText": "Language Focus: some and any\nWe use ‘some’ with positive statements.\nI've got some photographs. I need some milk.\nWe use ‘any’ with negative statement.\nT haven't got any photographs. | don't see any student there.\nWe use ‘any’ with questions.\nHave you got any photograph? Is there any water in the jug?\nAre there flowers in the garden?\nYes, these are\nWhat about jasmine? Are there jasmines?\nNo, there aren't jasmines.\nDo you have ____ idea why I'm asking you all these?"
+}

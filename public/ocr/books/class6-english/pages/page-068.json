@@ -1,0 +1,704 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 68,
+  "image": "/ocr/books/class6-english/page-images/page-068.png",
+  "width": 1149,
+  "height": 1507,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 21 Wonders of the World-1",
+      "cleanText": "Lesson 21 Wonders of the World-1",
+      "bbox": {
+        "x": 250,
+        "y": 182,
+        "width": 721,
+        "height": 31
+      },
+      "confidence": 91.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 200,
+        "y": 260,
+        "width": 570,
+        "height": 23
+      },
+      "confidence": 96.11,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-068-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "follow instructions, commands, requests accordingly",
+      "cleanText": "follow instructions, commands, requests accordingly",
+      "bbox": {
+        "x": 239,
+        "y": 288,
+        "width": 554,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "read and understand texts",
+      "cleanText": "read and understand texts",
+      "bbox": {
+        "x": 239,
+        "y": 317,
+        "width": 267,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Look at the pictures. What are they called?",
+      "cleanText": "Look at the pictures. What are they called?",
+      "bbox": {
+        "x": 204,
+        "y": 352,
+        "width": 563,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-068-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Now, listen to the audio and fill in the gaps of the following text:",
+      "cleanText": "Now, listen to the audio and fill in the gaps of the following text:",
+      "bbox": {
+        "x": 192,
+        "y": 693,
+        "width": 834,
+        "height": 27
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "The pyramids are huge for the ancient",
+      "cleanText": "The pyramids are huge for the ancient",
+      "bbox": {
+        "x": 201,
+        "y": 731,
+        "width": 844,
+        "height": 26
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "kings and queens of Egypt. These kings and queens are known",
+      "cleanText": "kings and queens of Egypt. These kings and queens are known",
+      "bbox": {
+        "x": 200,
+        "y": 766,
+        "width": 842,
+        "height": 26
+      },
+      "confidence": 95.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "as the Tt needed a few thousand",
+      "cleanText": "as the Tt needed a few thousand",
+      "bbox": {
+        "x": 197,
+        "y": 800,
+        "width": 643,
+        "height": 22
+      },
+      "confidence": 90.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "to build the pyramids. The most",
+      "cleanText": "to build the pyramids. The most",
+      "bbox": {
+        "x": 545,
+        "y": 837,
+        "width": 493,
+        "height": 26
+      },
+      "confidence": 91.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "FAMOUS are the Giza pyramids. Giza is a place",
+      "cleanText": "FAMOUS are the Giza pyramids. Giza is a place",
+      "bbox": {
+        "x": 197,
+        "y": 871,
+        "width": 843,
+        "height": 27
+      },
+      "confidence": 87.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "near Cairo, the of Egypt. The pyramids of",
+      "cleanText": "near Cairo, the of Egypt. The pyramids of",
+      "bbox": {
+        "x": 197,
+        "y": 907,
+        "width": 847,
+        "height": 26
+      },
+      "confidence": 91.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "at Giza isthe largest Egyptian pyramid. It is the",
+      "cleanText": "at Giza isthe largest Egyptian pyramid. It is the",
+      "bbox": {
+        "x": 391,
+        "y": 941,
+        "width": 646,
+        "height": 27
+      },
+      "confidence": 87.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "only one of the still in existence.",
+      "cleanText": "only one of the still in existence.",
+      "bbox": {
+        "x": 194,
+        "y": 978,
+        "width": 615,
+        "height": 26
+      },
+      "confidence": 94.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Read the following text.",
+      "cleanText": "Read the following text.",
+      "bbox": {
+        "x": 196,
+        "y": 1023,
+        "width": 296,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-068-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "The Taj Mahal is also known as \"the Taj\". It is a white marble tomb",
+      "cleanText": "The Taj Mahal is also known as \"the Taj\". It is a white marble tomb",
+      "bbox": {
+        "x": 201,
+        "y": 1063,
+        "width": 841,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "located in Agra in India. Do you know the story behind the Taj",
+      "cleanText": "located in Agra in India. Do you know the story behind the Taj",
+      "bbox": {
+        "x": 205,
+        "y": 1098,
+        "width": 835,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Mahal? The Mughal emperor, Shah Jahan loved his wife Mumtaz Mahal",
+      "cleanText": "Mahal? The Mughal emperor, Shah Jahan loved his wife Mumtaz Mahal",
+      "bbox": {
+        "x": 200,
+        "y": 1132,
+        "width": 838,
+        "height": 27
+      },
+      "confidence": 96.09,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "more than his life. Mumtaz died at an early age. Shah Jahan was very",
+      "cleanText": "more than his life. Mumtaz died at an early age. Shah Jahan was very",
+      "bbox": {
+        "x": 198,
+        "y": 1167,
+        "width": 841,
+        "height": 28
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "shocked at her death. So he built the Taj Mahal as a token of love for",
+      "cleanText": "shocked at her death. So he built the Taj Mahal as a token of love for",
+      "bbox": {
+        "x": 202,
+        "y": 1203,
+        "width": 840,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "his wife. It is the place where Mumtaz is sleeping for ever.",
+      "cleanText": "his wife. It is the place where Mumtaz is sleeping for ever.",
+      "bbox": {
+        "x": 200,
+        "y": 1239,
+        "width": 712,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "The Taj has an area of about 1003 acres or 405 hectares. The Taj Mahal",
+      "cleanText": "The Taj has an area of about 1003 acres or 405 hectares. The Taj Mahal",
+      "bbox": {
+        "x": 201,
+        "y": 1274,
+        "width": 839,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "is the finest example of Mughal architecture. It combines the art of Persia,",
+      "cleanText": "is the finest example of Mughal architecture. It combines the art of Persia,",
+      "bbox": {
+        "x": 200,
+        "y": 1309,
+        "width": 840,
+        "height": 27
+      },
+      "confidence": 96.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Turkey and India. It took 21 years and thousands of artisans and craftsmen",
+      "cleanText": "Turkey and India. It took 21 years and thousands of artisans and craftsmen",
+      "bbox": {
+        "x": 196,
+        "y": 1345,
+        "width": 843,
+        "height": 27
+      },
+      "confidence": 95.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "to complete the Taj Mahal. The Taj is universally admired as one of the",
+      "cleanText": "to complete the Taj Mahal. The Taj is universally admired as one of the",
+      "bbox": {
+        "x": 202,
+        "y": 1375,
+        "width": 836,
+        "height": 27
+      },
+      "confidence": 94.79,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "wonders of the world.",
+      "cleanText": "wonders of the world.",
+      "bbox": {
+        "x": 202,
+        "y": 1409,
+        "width": 247,
+        "height": 20
+      },
+      "confidence": 96.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-068-line-026",
+      "lineNumber": 26
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-068-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 21 Wonders of the World-1",
+      "bbox": {
+        "x": 250,
+        "y": 182,
+        "width": 721,
+        "height": 31
+      },
+      "confidence": 91.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-003",
+      "lineNumber": 3,
+      "text": "follow instructions, commands, requests accordingly",
+      "bbox": {
+        "x": 239,
+        "y": 288,
+        "width": 554,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-004",
+      "lineNumber": 4,
+      "text": "read and understand texts",
+      "bbox": {
+        "x": 239,
+        "y": 317,
+        "width": 267,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-006",
+      "lineNumber": 6,
+      "text": "Now, listen to the audio and fill in the gaps of the following text:",
+      "bbox": {
+        "x": 192,
+        "y": 693,
+        "width": 834,
+        "height": 27
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-007",
+      "lineNumber": 7,
+      "text": "The pyramids are huge for the ancient",
+      "bbox": {
+        "x": 201,
+        "y": 731,
+        "width": 844,
+        "height": 26
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-008",
+      "lineNumber": 8,
+      "text": "kings and queens of Egypt. These kings and queens are known",
+      "bbox": {
+        "x": 200,
+        "y": 766,
+        "width": 842,
+        "height": 26
+      },
+      "confidence": 95.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-009",
+      "lineNumber": 9,
+      "text": "as the Tt needed a few thousand",
+      "bbox": {
+        "x": 197,
+        "y": 800,
+        "width": 643,
+        "height": 22
+      },
+      "confidence": 90.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-010",
+      "lineNumber": 10,
+      "text": "to build the pyramids. The most",
+      "bbox": {
+        "x": 545,
+        "y": 837,
+        "width": 493,
+        "height": 26
+      },
+      "confidence": 91.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-011",
+      "lineNumber": 11,
+      "text": "FAMOUS are the Giza pyramids. Giza is a place",
+      "bbox": {
+        "x": 197,
+        "y": 871,
+        "width": 843,
+        "height": 27
+      },
+      "confidence": 87.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-012",
+      "lineNumber": 12,
+      "text": "near Cairo, the of Egypt. The pyramids of",
+      "bbox": {
+        "x": 197,
+        "y": 907,
+        "width": 847,
+        "height": 26
+      },
+      "confidence": 91.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-013",
+      "lineNumber": 13,
+      "text": "at Giza isthe largest Egyptian pyramid. It is the",
+      "bbox": {
+        "x": 391,
+        "y": 941,
+        "width": 646,
+        "height": 27
+      },
+      "confidence": 87.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-014",
+      "lineNumber": 14,
+      "text": "only one of the still in existence.",
+      "bbox": {
+        "x": 194,
+        "y": 978,
+        "width": 615,
+        "height": 26
+      },
+      "confidence": 94.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-016",
+      "lineNumber": 16,
+      "text": "The Taj Mahal is also known as \"the Taj\". It is a white marble tomb",
+      "bbox": {
+        "x": 201,
+        "y": 1063,
+        "width": 841,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-017",
+      "lineNumber": 17,
+      "text": "located in Agra in India. Do you know the story behind the Taj",
+      "bbox": {
+        "x": 205,
+        "y": 1098,
+        "width": 835,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-018",
+      "lineNumber": 18,
+      "text": "Mahal? The Mughal emperor, Shah Jahan loved his wife Mumtaz Mahal",
+      "bbox": {
+        "x": 200,
+        "y": 1132,
+        "width": 838,
+        "height": 27
+      },
+      "confidence": 96.09,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-019",
+      "lineNumber": 19,
+      "text": "more than his life. Mumtaz died at an early age. Shah Jahan was very",
+      "bbox": {
+        "x": 198,
+        "y": 1167,
+        "width": 841,
+        "height": 28
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-020",
+      "lineNumber": 20,
+      "text": "shocked at her death. So he built the Taj Mahal as a token of love for",
+      "bbox": {
+        "x": 202,
+        "y": 1203,
+        "width": 840,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-021",
+      "lineNumber": 21,
+      "text": "his wife. It is the place where Mumtaz is sleeping for ever.",
+      "bbox": {
+        "x": 200,
+        "y": 1239,
+        "width": 712,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-022",
+      "lineNumber": 22,
+      "text": "The Taj has an area of about 1003 acres or 405 hectares. The Taj Mahal",
+      "bbox": {
+        "x": 201,
+        "y": 1274,
+        "width": 839,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-023",
+      "lineNumber": 23,
+      "text": "is the finest example of Mughal architecture. It combines the art of Persia,",
+      "bbox": {
+        "x": 200,
+        "y": 1309,
+        "width": 840,
+        "height": 27
+      },
+      "confidence": 96.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-024",
+      "lineNumber": 24,
+      "text": "Turkey and India. It took 21 years and thousands of artisans and craftsmen",
+      "bbox": {
+        "x": 196,
+        "y": 1345,
+        "width": 843,
+        "height": 27
+      },
+      "confidence": 95.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-025",
+      "lineNumber": 25,
+      "text": "to complete the Taj Mahal. The Taj is universally admired as one of the",
+      "bbox": {
+        "x": 202,
+        "y": 1375,
+        "width": 836,
+        "height": 27
+      },
+      "confidence": 94.79,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-068-line-026",
+      "lineNumber": 26,
+      "text": "wonders of the world.",
+      "bbox": {
+        "x": 202,
+        "y": 1409,
+        "width": 247,
+        "height": 20
+      },
+      "confidence": 96.25,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 21 Wonders of the World-1\nAfter completing the lesson students will be able to\nfollow instructions, commands, requests accordingly\nread and understand texts\nLook at the pictures. What are they called?\nNow, listen to the audio and fill in the gaps of the following text:\nThe pyramids are huge for the ancient\nkings and queens of Egypt. These kings and queens are known\nas the Tt needed a few thousand\nto build the pyramids. The most\nFAMOUS are the Giza pyramids. Giza is a place\nnear Cairo, the of Egypt. The pyramids of\nat Giza isthe largest Egyptian pyramid. It is the\nonly one of the still in existence.\nRead the following text.\nThe Taj Mahal is also known as \"the Taj\". It is a white marble tomb\nlocated in Agra in India. Do you know the story behind the Taj\nMahal? The Mughal emperor, Shah Jahan loved his wife Mumtaz Mahal\nmore than his life. Mumtaz died at an early age. Shah Jahan was very\nshocked at her death. So he built the Taj Mahal as a token of love for\nhis wife. It is the place where Mumtaz is sleeping for ever.\nThe Taj has an area of about 1003 acres or 405 hectares. The Taj Mahal\nis the finest example of Mughal architecture. It combines the art of Persia,\nTurkey and India. It took 21 years and thousands of artisans and craftsmen\nto complete the Taj Mahal. The Taj is universally admired as one of the\nwonders of the world.",
+  "cleanText": "Lesson 21 Wonders of the World-1\nAfter completing the lesson students will be able to\nfollow instructions, commands, requests accordingly\nread and understand texts\nLook at the pictures. What are they called?\nNow, listen to the audio and fill in the gaps of the following text:\nThe pyramids are huge for the ancient\nkings and queens of Egypt. These kings and queens are known\nas the Tt needed a few thousand\nto build the pyramids. The most\nFAMOUS are the Giza pyramids. Giza is a place\nnear Cairo, the of Egypt. The pyramids of\nat Giza isthe largest Egyptian pyramid. It is the\nonly one of the still in existence.\nRead the following text.\nThe Taj Mahal is also known as \"the Taj\". It is a white marble tomb\nlocated in Agra in India. Do you know the story behind the Taj\nMahal? The Mughal emperor, Shah Jahan loved his wife Mumtaz Mahal\nmore than his life. Mumtaz died at an early age. Shah Jahan was very\nshocked at her death. So he built the Taj Mahal as a token of love for\nhis wife. It is the place where Mumtaz is sleeping for ever.\nThe Taj has an area of about 1003 acres or 405 hectares. The Taj Mahal\nis the finest example of Mughal architecture. It combines the art of Persia,\nTurkey and India. It took 21 years and thousands of artisans and craftsmen\nto complete the Taj Mahal. The Taj is universally admired as one of the\nwonders of the world.",
+  "aiReadyText": "Lesson 21 Wonders of the World-1\nfollow instructions, commands, requests accordingly\nread and understand texts\nNow, listen to the audio and fill in the gaps of the following text:\nThe pyramids are huge for the ancient\nkings and queens of Egypt. These kings and queens are known\nas the Tt needed a few thousand\nto build the pyramids. The most\nFAMOUS are the Giza pyramids. Giza is a place\nnear Cairo, the of Egypt. The pyramids of\nat Giza isthe largest Egyptian pyramid. It is the\nonly one of the still in existence.\nThe Taj Mahal is also known as \"the Taj\". It is a white marble tomb\nlocated in Agra in India. Do you know the story behind the Taj\nMahal? The Mughal emperor, Shah Jahan loved his wife Mumtaz Mahal\nmore than his life. Mumtaz died at an early age. Shah Jahan was very\nshocked at her death. So he built the Taj Mahal as a token of love for\nhis wife. It is the place where Mumtaz is sleeping for ever.\nThe Taj has an area of about 1003 acres or 405 hectares. The Taj Mahal\nis the finest example of Mughal architecture. It combines the art of Persia,\nTurkey and India. It took 21 years and thousands of artisans and craftsmen\nto complete the Taj Mahal. The Taj is universally admired as one of the\nwonders of the world."
+}

@@ -1,0 +1,665 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 91,
+  "image": "/ocr/books/class6-english/page-images/page-091.png",
+  "width": 1149,
+  "height": 1514,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 29 Taking",
+      "cleanText": "Lesson 29 Taking",
+      "bbox": {
+        "x": 326,
+        "y": 182,
+        "width": 360,
+        "height": 39
+      },
+      "confidence": 87.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 183,
+        "y": 301,
+        "width": 569,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-091-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "read and understand written instructions",
+      "cleanText": "read and understand written instructions",
+      "bbox": {
+        "x": 222,
+        "y": 329,
+        "width": 422,
+        "height": 19
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "read and understand texts",
+      "cleanText": "read and understand texts",
+      "bbox": {
+        "x": 222,
+        "y": 367,
+        "width": 267,
+        "height": 18
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Read the passage below:",
+      "cleanText": "Read the passage below:",
+      "bbox": {
+        "x": 178,
+        "y": 420,
+        "width": 304,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Hena and her twin sister Bina both study in class six. They are having the",
+      "cleanText": "Hena and her twin sister Bina both study in class six. They are having the",
+      "bbox": {
+        "x": 182,
+        "y": 468,
+        "width": 856,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "half-yearly examination at school. Today they are going to take the English",
+      "cleanText": "half-yearly examination at school. Today they are going to take the English",
+      "bbox": {
+        "x": 181,
+        "y": 508,
+        "width": 861,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "test. Their teacher Ms. Shima Chowdhury enters the classroom. Before the",
+      "cleanText": "test. Their teacher Ms. Shima Chowdhury enters the classroom. Before the",
+      "bbox": {
+        "x": 182,
+        "y": 548,
+        "width": 856,
+        "height": 26
+      },
+      "confidence": 95.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "test starts, she gives some instructions to the class.",
+      "cleanText": "test starts, she gives some instructions to the class.",
+      "bbox": {
+        "x": 182,
+        "y": 587,
+        "width": 577,
+        "height": 26
+      },
+      "confidence": 94.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Read the following sentences and write down the instructions that",
+      "cleanText": "Read the following sentences and write down the instructions that",
+      "bbox": {
+        "x": 175,
+        "y": 637,
+        "width": 863,
+        "height": 27
+      },
+      "confidence": 93.1,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-091-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Ms. Chowdhury may give in each situation. Use 'Do not’ or",
+      "cleanText": "Ms. Chowdhury may give in each situation. Use 'Do not’ or",
+      "bbox": {
+        "x": 174,
+        "y": 677,
+        "width": 751,
+        "height": 26
+      },
+      "confidence": 91.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "if necessary. One is done for you.",
+      "cleanText": "if necessary. One is done for you.",
+      "bbox": {
+        "x": 174,
+        "y": 715,
+        "width": 401,
+        "height": 28
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "start | go",
+      "cleanText": "start | go",
+      "bbox": {
+        "x": 770,
+        "y": 766,
+        "width": 118,
+        "height": 63
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-091-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "write down | talk | put away | read | copy be quiet",
+      "cleanText": "write down | talk | put away | read | copy be quiet",
+      "bbox": {
+        "x": 205,
+        "y": 783,
+        "width": 813,
+        "height": 33
+      },
+      "confidence": 89.85,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-091-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "a. Teacher comes into the class and finds the students making a lot of noise.",
+      "cleanText": "Teacher comes into the class and finds the students making a lot of noise.",
+      "bbox": {
+        "x": 183,
+        "y": 882,
+        "width": 854,
+        "height": 26
+      },
+      "confidence": 95.13,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Answer : Be quiet, please! Do not make any noise.",
+      "cleanText": "Answer : Be quiet, please! Do not make any noise.",
+      "bbox": {
+        "x": 231,
+        "y": 937,
+        "width": 620,
+        "height": 26
+      },
+      "confidence": 95.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "b. Teacher sees books and papers on students’ desks. She tells them,",
+      "cleanText": "Teacher sees books and papers on students’ desks. She tells them,",
+      "bbox": {
+        "x": 182,
+        "y": 984,
+        "width": 795,
+        "height": 25
+      },
+      "confidence": 93.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "all books and papers from your desks.",
+      "cleanText": "all books and papers from your desks.",
+      "bbox": {
+        "x": 455,
+        "y": 1030,
+        "width": 431,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "c. She gives the students and name,",
+      "cleanText": "She gives the students and name,",
+      "bbox": {
+        "x": 182,
+        "y": 1076,
+        "width": 856,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "class, section, roll number, subject and date.",
+      "cleanText": "class, section, roll number, subject and date.",
+      "bbox": {
+        "x": 231,
+        "y": 1122,
+        "width": 502,
+        "height": 26
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "d. She gives the question papers and tells them, the questions",
+      "cleanText": "She gives the question papers and tells them, the questions",
+      "bbox": {
+        "x": 182,
+        "y": 1168,
+        "width": 827,
+        "height": 26
+      },
+      "confidence": 94.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "carefully.",
+      "cleanText": "carefully.",
+      "bbox": {
+        "x": 232,
+        "y": 1208,
+        "width": 105,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-091-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "e. from someone else's script.",
+      "cleanText": "e. from someone else's script.",
+      "bbox": {
+        "x": 182,
+        "y": 1243,
+        "width": 680,
+        "height": 26
+      },
+      "confidence": 83.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "f. with others.",
+      "cleanText": "f. with others.",
+      "bbox": {
+        "x": 182,
+        "y": 1283,
+        "width": 390,
+        "height": 19
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "g. You out before one hour is over.",
+      "cleanText": "g. You out before one hour is over.",
+      "bbox": {
+        "x": 182,
+        "y": 1327,
+        "width": 665,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "h. writing.",
+      "cleanText": "h. writing.",
+      "bbox": {
+        "x": 183,
+        "y": 1373,
+        "width": 301,
+        "height": 25
+      },
+      "confidence": 87.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-091-line-026",
+      "lineNumber": 26
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-091-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 29 Taking",
+      "bbox": {
+        "x": 326,
+        "y": 182,
+        "width": 360,
+        "height": 39
+      },
+      "confidence": 87.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-003",
+      "lineNumber": 3,
+      "text": "read and understand written instructions",
+      "bbox": {
+        "x": 222,
+        "y": 329,
+        "width": 422,
+        "height": 19
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-004",
+      "lineNumber": 4,
+      "text": "read and understand texts",
+      "bbox": {
+        "x": 222,
+        "y": 367,
+        "width": 267,
+        "height": 18
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-005",
+      "lineNumber": 5,
+      "text": "Read the passage below:",
+      "bbox": {
+        "x": 178,
+        "y": 420,
+        "width": 304,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-006",
+      "lineNumber": 6,
+      "text": "Hena and her twin sister Bina both study in class six. They are having the",
+      "bbox": {
+        "x": 182,
+        "y": 468,
+        "width": 856,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-007",
+      "lineNumber": 7,
+      "text": "half-yearly examination at school. Today they are going to take the English",
+      "bbox": {
+        "x": 181,
+        "y": 508,
+        "width": 861,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-008",
+      "lineNumber": 8,
+      "text": "test. Their teacher Ms. Shima Chowdhury enters the classroom. Before the",
+      "bbox": {
+        "x": 182,
+        "y": 548,
+        "width": 856,
+        "height": 26
+      },
+      "confidence": 95.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-009",
+      "lineNumber": 9,
+      "text": "test starts, she gives some instructions to the class.",
+      "bbox": {
+        "x": 182,
+        "y": 587,
+        "width": 577,
+        "height": 26
+      },
+      "confidence": 94.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-011",
+      "lineNumber": 11,
+      "text": "Ms. Chowdhury may give in each situation. Use 'Do not’ or",
+      "bbox": {
+        "x": 174,
+        "y": 677,
+        "width": 751,
+        "height": 26
+      },
+      "confidence": 91.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-012",
+      "lineNumber": 12,
+      "text": "if necessary. One is done for you.",
+      "bbox": {
+        "x": 174,
+        "y": 715,
+        "width": 401,
+        "height": 28
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-015",
+      "lineNumber": 15,
+      "text": "Teacher comes into the class and finds the students making a lot of noise.",
+      "bbox": {
+        "x": 183,
+        "y": 882,
+        "width": 854,
+        "height": 26
+      },
+      "confidence": 95.13,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-016",
+      "lineNumber": 16,
+      "text": "Answer : Be quiet, please! Do not make any noise.",
+      "bbox": {
+        "x": 231,
+        "y": 937,
+        "width": 620,
+        "height": 26
+      },
+      "confidence": 95.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-017",
+      "lineNumber": 17,
+      "text": "Teacher sees books and papers on students’ desks. She tells them,",
+      "bbox": {
+        "x": 182,
+        "y": 984,
+        "width": 795,
+        "height": 25
+      },
+      "confidence": 93.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-018",
+      "lineNumber": 18,
+      "text": "all books and papers from your desks.",
+      "bbox": {
+        "x": 455,
+        "y": 1030,
+        "width": 431,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-019",
+      "lineNumber": 19,
+      "text": "She gives the students and name,",
+      "bbox": {
+        "x": 182,
+        "y": 1076,
+        "width": 856,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-020",
+      "lineNumber": 20,
+      "text": "class, section, roll number, subject and date.",
+      "bbox": {
+        "x": 231,
+        "y": 1122,
+        "width": 502,
+        "height": 26
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-021",
+      "lineNumber": 21,
+      "text": "She gives the question papers and tells them, the questions",
+      "bbox": {
+        "x": 182,
+        "y": 1168,
+        "width": 827,
+        "height": 26
+      },
+      "confidence": 94.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-023",
+      "lineNumber": 23,
+      "text": "e. from someone else's script.",
+      "bbox": {
+        "x": 182,
+        "y": 1243,
+        "width": 680,
+        "height": 26
+      },
+      "confidence": 83.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-024",
+      "lineNumber": 24,
+      "text": "f. with others.",
+      "bbox": {
+        "x": 182,
+        "y": 1283,
+        "width": 390,
+        "height": 19
+      },
+      "confidence": 93.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-025",
+      "lineNumber": 25,
+      "text": "g. You out before one hour is over.",
+      "bbox": {
+        "x": 182,
+        "y": 1327,
+        "width": 665,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 29 Taking\nAfter completing the lesson students will be able to\nread and understand written instructions\nread and understand texts\nRead the passage below:\nHena and her twin sister Bina both study in class six. They are having the\nhalf-yearly examination at school. Today they are going to take the English\ntest. Their teacher Ms. Shima Chowdhury enters the classroom. Before the\ntest starts, she gives some instructions to the class.\nRead the following sentences and write down the instructions that\nMs. Chowdhury may give in each situation. Use 'Do not’ or\nif necessary. One is done for you.\nstart | go\nwrite down | talk | put away | read | copy be quiet\na. Teacher comes into the class and finds the students making a lot of noise.\nAnswer : Be quiet, please! Do not make any noise.\nb. Teacher sees books and papers on students’ desks. She tells them,\nall books and papers from your desks.\nc. She gives the students and name,\nclass, section, roll number, subject and date.\nd. She gives the question papers and tells them, the questions\ncarefully.\ne. from someone else's script.\nf. with others.\ng. You out before one hour is over.\nh. writing.",
+  "cleanText": "Lesson 29 Taking\nAfter completing the lesson students will be able to\nread and understand written instructions\nread and understand texts\nRead the passage below:\nHena and her twin sister Bina both study in class six. They are having the\nhalf-yearly examination at school. Today they are going to take the English\ntest. Their teacher Ms. Shima Chowdhury enters the classroom. Before the\ntest starts, she gives some instructions to the class.\nRead the following sentences and write down the instructions that\nMs. Chowdhury may give in each situation. Use 'Do not’ or\nif necessary. One is done for you.\nstart | go\nwrite down | talk | put away | read | copy be quiet\nTeacher comes into the class and finds the students making a lot of noise.\nAnswer : Be quiet, please! Do not make any noise.\nTeacher sees books and papers on students’ desks. She tells them,\nall books and papers from your desks.\nShe gives the students and name,\nclass, section, roll number, subject and date.\nShe gives the question papers and tells them, the questions\ncarefully.\ne. from someone else's script.\nf. with others.\ng. You out before one hour is over.\nh. writing.",
+  "aiReadyText": "Lesson 29 Taking\nread and understand written instructions\nread and understand texts\nRead the passage below:\nHena and her twin sister Bina both study in class six. They are having the\nhalf-yearly examination at school. Today they are going to take the English\ntest. Their teacher Ms. Shima Chowdhury enters the classroom. Before the\ntest starts, she gives some instructions to the class.\nMs. Chowdhury may give in each situation. Use 'Do not’ or\nif necessary. One is done for you.\nTeacher comes into the class and finds the students making a lot of noise.\nAnswer : Be quiet, please! Do not make any noise.\nTeacher sees books and papers on students’ desks. She tells them,\nall books and papers from your desks.\nShe gives the students and name,\nclass, section, roll number, subject and date.\nShe gives the question papers and tells them, the questions\ne. from someone else's script.\nf. with others.\ng. You out before one hour is over."
+}

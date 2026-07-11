@@ -1,0 +1,254 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 96,
+  "image": "/ocr/books/class6-english/page-images/page-096.png",
+  "width": 1149,
+  "height": 1525,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 91",
+      "cleanText": "English For Today 91",
+      "bbox": {
+        "x": 117,
+        "y": 85,
+        "width": 916,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-096-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "B. Read the following passage:",
+      "cleanText": "Read the following passage:",
+      "bbox": {
+        "x": 116,
+        "y": 154,
+        "width": 422,
+        "height": 27
+      },
+      "confidence": 86.6,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-096-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Sometimes we really are short of water. This can happen if there is no",
+      "cleanText": "Sometimes we really are short of water. This can happen if there is no",
+      "bbox": {
+        "x": 195,
+        "y": 213,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-096-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "rainfall for a long period of time. Sometimes rivers dry up, or the water",
+      "cleanText": "rainfall for a long period of time. Sometimes rivers dry up, or the water",
+      "bbox": {
+        "x": 193,
+        "y": 252,
+        "width": 841,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-096-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "level underground may sink very low. If there is too little water, that causes",
+      "cleanText": "level underground may sink very low. If there is too little water, that causes",
+      "bbox": {
+        "x": 192,
+        "y": 291,
+        "width": 841,
+        "height": 27
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-096-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "a lot of suffering to the people.",
+      "cleanText": "a lot of suffering to the people.",
+      "bbox": {
+        "x": 194,
+        "y": 331,
+        "width": 354,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-096-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "B1. Look at the pictures below and discuss what you see.",
+      "cleanText": "B1. Look at the pictures below and discuss what you see.",
+      "bbox": {
+        "x": 116,
+        "y": 385,
+        "width": 733,
+        "height": 27
+      },
+      "confidence": 91.18,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-096-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "B2, Look at the pictures above and talk about how people suffer if there",
+      "cleanText": "B2, Look at the pictures above and talk about how people suffer if there",
+      "bbox": {
+        "x": 116,
+        "y": 1186,
+        "width": 915,
+        "height": 27
+      },
+      "confidence": 93.21,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-096-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "is too little water.",
+      "cleanText": "is too little water.",
+      "bbox": {
+        "x": 190,
+        "y": 1225,
+        "width": 215,
+        "height": 22
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-096-line-009",
+      "lineNumber": 9
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-096-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 91",
+      "bbox": {
+        "x": 117,
+        "y": 85,
+        "width": 916,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-096-line-003",
+      "lineNumber": 3,
+      "text": "Sometimes we really are short of water. This can happen if there is no",
+      "bbox": {
+        "x": 195,
+        "y": 213,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-096-line-004",
+      "lineNumber": 4,
+      "text": "rainfall for a long period of time. Sometimes rivers dry up, or the water",
+      "bbox": {
+        "x": 193,
+        "y": 252,
+        "width": 841,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-096-line-005",
+      "lineNumber": 5,
+      "text": "level underground may sink very low. If there is too little water, that causes",
+      "bbox": {
+        "x": 192,
+        "y": 291,
+        "width": 841,
+        "height": 27
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-096-line-006",
+      "lineNumber": 6,
+      "text": "a lot of suffering to the people.",
+      "bbox": {
+        "x": 194,
+        "y": 331,
+        "width": 354,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-096-line-007",
+      "lineNumber": 7,
+      "text": "B1. Look at the pictures below and discuss what you see.",
+      "bbox": {
+        "x": 116,
+        "y": 385,
+        "width": 733,
+        "height": 27
+      },
+      "confidence": 91.18,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-096-line-008",
+      "lineNumber": 8,
+      "text": "B2, Look at the pictures above and talk about how people suffer if there",
+      "bbox": {
+        "x": 116,
+        "y": 1186,
+        "width": 915,
+        "height": 27
+      },
+      "confidence": 93.21,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-096-line-009",
+      "lineNumber": 9,
+      "text": "is too little water.",
+      "bbox": {
+        "x": 190,
+        "y": 1225,
+        "width": 215,
+        "height": 22
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 91\nB. Read the following passage:\nSometimes we really are short of water. This can happen if there is no\nrainfall for a long period of time. Sometimes rivers dry up, or the water\nlevel underground may sink very low. If there is too little water, that causes\na lot of suffering to the people.\nB1. Look at the pictures below and discuss what you see.\nB2, Look at the pictures above and talk about how people suffer if there\nis too little water.",
+  "cleanText": "English For Today 91\nRead the following passage:\nSometimes we really are short of water. This can happen if there is no\nrainfall for a long period of time. Sometimes rivers dry up, or the water\nlevel underground may sink very low. If there is too little water, that causes\na lot of suffering to the people.\nB1. Look at the pictures below and discuss what you see.\nB2, Look at the pictures above and talk about how people suffer if there\nis too little water.",
+  "aiReadyText": "English For Today 91\nSometimes we really are short of water. This can happen if there is no\nrainfall for a long period of time. Sometimes rivers dry up, or the water\nlevel underground may sink very low. If there is too little water, that causes\na lot of suffering to the people.\nB1. Look at the pictures below and discuss what you see.\nB2, Look at the pictures above and talk about how people suffer if there\nis too little water."
+}

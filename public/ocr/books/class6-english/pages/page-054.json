@@ -1,0 +1,870 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 54,
+  "image": "/ocr/books/class6-english/page-images/page-054.png",
+  "width": 1149,
+  "height": 1504,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 15 An Old People’s Home",
+      "cleanText": "Lesson 15 An Old People’s Home",
+      "bbox": {
+        "x": 203,
+        "y": 165,
+        "width": 694,
+        "height": 38
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 154,
+        "y": 251,
+        "width": 569,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-054-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "¢ read and understand texts",
+      "cleanText": "¢ read and understand texts",
+      "bbox": {
+        "x": 174,
+        "y": 289,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 87.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "ask and answer questions",
+      "cleanText": "ask and answer questions",
+      "bbox": {
+        "x": 193,
+        "y": 319,
+        "width": 265,
+        "height": 24
+      },
+      "confidence": 94.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "¢ write short paragraphs",
+      "cleanText": "¢ write short paragraphs",
+      "bbox": {
+        "x": 174,
+        "y": 357,
+        "width": 253,
+        "height": 23
+      },
+      "confidence": 87.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "A, Read the text below:",
+      "cleanText": "A, Read the text below:",
+      "bbox": {
+        "x": 110,
+        "y": 405,
+        "width": 305,
+        "height": 23
+      },
+      "confidence": 94.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Mariam is a student of class six in a",
+      "cleanText": "Mariam is a student of class six in a",
+      "bbox": {
+        "x": 154,
+        "y": 459,
+        "width": 428,
+        "height": 19
+      },
+      "confidence": 91.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "government school in Rajshahi. Her",
+      "cleanText": "government school in Rajshahi. Her",
+      "bbox": {
+        "x": 154,
+        "y": 496,
+        "width": 429,
+        "height": 26
+      },
+      "confidence": 94.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "mother works in an office and her f",
+      "cleanText": "mother works in an office and her f",
+      "bbox": {
+        "x": 154,
+        "y": 533,
+        "width": 452,
+        "height": 20
+      },
+      "confidence": 91.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "father is a businessman. Mariam is",
+      "cleanText": "father is a businessman. Mariam is",
+      "bbox": {
+        "x": 154,
+        "y": 571,
+        "width": 428,
+        "height": 20
+      },
+      "confidence": 94.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "very fond of her aunt, her father's",
+      "cleanText": "very fond of her aunt, her father's",
+      "bbox": {
+        "x": 154,
+        "y": 608,
+        "width": 428,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "sister, Suraitya Begum who lives in",
+      "cleanText": "sister, Suraitya Begum who lives in",
+      "bbox": {
+        "x": 155,
+        "y": 646,
+        "width": 426,
+        "height": 25
+      },
+      "confidence": 86.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "another part of the same town. On",
+      "cleanText": "another part of the same town. On",
+      "bbox": {
+        "x": 154,
+        "y": 683,
+        "width": 427,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Fridays, she often goes to her aunt's place and spends time with her.",
+      "cleanText": "Fridays, she often goes to her aunt's place and spends time with her.",
+      "bbox": {
+        "x": 154,
+        "y": 714,
+        "width": 780,
+        "height": 26
+      },
+      "confidence": 91.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Suraiya Begum is a retired school teacher. She is a widow and lives alone.",
+      "cleanText": "Suraiya Begum is a retired school teacher. She is a widow and lives alone.",
+      "bbox": {
+        "x": 155,
+        "y": 758,
+        "width": 878,
+        "height": 26
+      },
+      "confidence": 94.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Her husband died three years ago. Her two daughters are married and live",
+      "cleanText": "Her husband died three years ago. Her two daughters are married and live",
+      "bbox": {
+        "x": 152,
+        "y": 795,
+        "width": 877,
+        "height": 26
+      },
+      "confidence": 95.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "with their families abroad. They talk to her over telephone and come to visit",
+      "cleanText": "with their families abroad. They talk to her over telephone and come to visit",
+      "bbox": {
+        "x": 152,
+        "y": 832,
+        "width": 878,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "her whenever they get time.",
+      "cleanText": "her whenever they get time.",
+      "bbox": {
+        "x": 154,
+        "y": 869,
+        "width": 316,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Suraiya Begum has a lot of free time. She spends her time in reading books,",
+      "cleanText": "Suraiya Begum has a lot of free time. She spends her time in reading books,",
+      "bbox": {
+        "x": 152,
+        "y": 916,
+        "width": 884,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "watching TY, visiting friends and relatives. Sometimes she writes letters to her",
+      "cleanText": "watching TY, visiting friends and relatives. Sometimes she writes letters to her",
+      "bbox": {
+        "x": 152,
+        "y": 954,
+        "width": 879,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "old colleagues. But now a days she often gets bored of doing all these things.",
+      "cleanText": "old colleagues. But now a days she often gets bored of doing all these things.",
+      "bbox": {
+        "x": 152,
+        "y": 991,
+        "width": 882,
+        "height": 26
+      },
+      "confidence": 95.87,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "She wants to do something more meaningful, something that would do good to",
+      "cleanText": "She wants to do something more meaningful, something that would do good to",
+      "bbox": {
+        "x": 152,
+        "y": 1028,
+        "width": 879,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "others. She is planning to establish an old people's home in her locality, She",
+      "cleanText": "others. She is planning to establish an old people's home in her locality, She",
+      "bbox": {
+        "x": 152,
+        "y": 1066,
+        "width": 880,
+        "height": 26
+      },
+      "confidence": 93.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "knows some elderly people live all alone. They have no one to take care",
+      "cleanText": "knows some elderly people live all alone. They have no one to take care",
+      "bbox": {
+        "x": 152,
+        "y": 1103,
+        "width": 880,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "of them. They often feel helpless and miserable. They need care and support.",
+      "cleanText": "of them. They often feel helpless and miserable. They need care and support.",
+      "bbox": {
+        "x": 150,
+        "y": 1140,
+        "width": 879,
+        "height": 26
+      },
+      "confidence": 96.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "As part of her plan, Suraiya Begum starts to visit families. She talks to a",
+      "cleanText": "As part of her plan, Suraiya Begum starts to visit families. She talks to a",
+      "bbox": {
+        "x": 155,
+        "y": 1187,
+        "width": 876,
+        "height": 26
+      },
+      "confidence": 92.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "number of people. She tries to find out the problems of elderly people in their",
+      "cleanText": "number of people. She tries to find out the problems of elderly people in their",
+      "bbox": {
+        "x": 154,
+        "y": 1224,
+        "width": 885,
+        "height": 26
+      },
+      "confidence": 96.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "families. She understands that old people are lonely and often they become",
+      "cleanText": "families. She understands that old people are lonely and often they become",
+      "bbox": {
+        "x": 154,
+        "y": 1262,
+        "width": 881,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "sick. They have nobody to look after them.",
+      "cleanText": "sick. They have nobody to look after them.",
+      "bbox": {
+        "x": 155,
+        "y": 1298,
+        "width": 485,
+        "height": 27
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "On Fridays, she often takes Mariam with her on these visits. Mariam has",
+      "cleanText": "On Fridays, she often takes Mariam with her on these visits. Mariam has",
+      "bbox": {
+        "x": 154,
+        "y": 1345,
+        "width": 877,
+        "height": 26
+      },
+      "confidence": 95.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "already become very friendly with some of the old men and women. They",
+      "cleanText": "already become very friendly with some of the old men and women. They",
+      "bbox": {
+        "x": 156,
+        "y": 1378,
+        "width": 877,
+        "height": 26
+      },
+      "confidence": 95.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-054-line-031",
+      "lineNumber": 31
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-054-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 15 An Old People’s Home",
+      "bbox": {
+        "x": 203,
+        "y": 165,
+        "width": 694,
+        "height": 38
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-003",
+      "lineNumber": 3,
+      "text": "¢ read and understand texts",
+      "bbox": {
+        "x": 174,
+        "y": 289,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 87.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-004",
+      "lineNumber": 4,
+      "text": "ask and answer questions",
+      "bbox": {
+        "x": 193,
+        "y": 319,
+        "width": 265,
+        "height": 24
+      },
+      "confidence": 94.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-005",
+      "lineNumber": 5,
+      "text": "¢ write short paragraphs",
+      "bbox": {
+        "x": 174,
+        "y": 357,
+        "width": 253,
+        "height": 23
+      },
+      "confidence": 87.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-006",
+      "lineNumber": 6,
+      "text": "A, Read the text below:",
+      "bbox": {
+        "x": 110,
+        "y": 405,
+        "width": 305,
+        "height": 23
+      },
+      "confidence": 94.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-007",
+      "lineNumber": 7,
+      "text": "Mariam is a student of class six in a",
+      "bbox": {
+        "x": 154,
+        "y": 459,
+        "width": 428,
+        "height": 19
+      },
+      "confidence": 91.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-008",
+      "lineNumber": 8,
+      "text": "government school in Rajshahi. Her",
+      "bbox": {
+        "x": 154,
+        "y": 496,
+        "width": 429,
+        "height": 26
+      },
+      "confidence": 94.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-009",
+      "lineNumber": 9,
+      "text": "mother works in an office and her f",
+      "bbox": {
+        "x": 154,
+        "y": 533,
+        "width": 452,
+        "height": 20
+      },
+      "confidence": 91.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-010",
+      "lineNumber": 10,
+      "text": "father is a businessman. Mariam is",
+      "bbox": {
+        "x": 154,
+        "y": 571,
+        "width": 428,
+        "height": 20
+      },
+      "confidence": 94.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-011",
+      "lineNumber": 11,
+      "text": "very fond of her aunt, her father's",
+      "bbox": {
+        "x": 154,
+        "y": 608,
+        "width": 428,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-012",
+      "lineNumber": 12,
+      "text": "sister, Suraitya Begum who lives in",
+      "bbox": {
+        "x": 155,
+        "y": 646,
+        "width": 426,
+        "height": 25
+      },
+      "confidence": 86.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-013",
+      "lineNumber": 13,
+      "text": "another part of the same town. On",
+      "bbox": {
+        "x": 154,
+        "y": 683,
+        "width": 427,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-014",
+      "lineNumber": 14,
+      "text": "Fridays, she often goes to her aunt's place and spends time with her.",
+      "bbox": {
+        "x": 154,
+        "y": 714,
+        "width": 780,
+        "height": 26
+      },
+      "confidence": 91.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-015",
+      "lineNumber": 15,
+      "text": "Suraiya Begum is a retired school teacher. She is a widow and lives alone.",
+      "bbox": {
+        "x": 155,
+        "y": 758,
+        "width": 878,
+        "height": 26
+      },
+      "confidence": 94.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-016",
+      "lineNumber": 16,
+      "text": "Her husband died three years ago. Her two daughters are married and live",
+      "bbox": {
+        "x": 152,
+        "y": 795,
+        "width": 877,
+        "height": 26
+      },
+      "confidence": 95.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-017",
+      "lineNumber": 17,
+      "text": "with their families abroad. They talk to her over telephone and come to visit",
+      "bbox": {
+        "x": 152,
+        "y": 832,
+        "width": 878,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-018",
+      "lineNumber": 18,
+      "text": "her whenever they get time.",
+      "bbox": {
+        "x": 154,
+        "y": 869,
+        "width": 316,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-019",
+      "lineNumber": 19,
+      "text": "Suraiya Begum has a lot of free time. She spends her time in reading books,",
+      "bbox": {
+        "x": 152,
+        "y": 916,
+        "width": 884,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-020",
+      "lineNumber": 20,
+      "text": "watching TY, visiting friends and relatives. Sometimes she writes letters to her",
+      "bbox": {
+        "x": 152,
+        "y": 954,
+        "width": 879,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-021",
+      "lineNumber": 21,
+      "text": "old colleagues. But now a days she often gets bored of doing all these things.",
+      "bbox": {
+        "x": 152,
+        "y": 991,
+        "width": 882,
+        "height": 26
+      },
+      "confidence": 95.87,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-022",
+      "lineNumber": 22,
+      "text": "She wants to do something more meaningful, something that would do good to",
+      "bbox": {
+        "x": 152,
+        "y": 1028,
+        "width": 879,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-023",
+      "lineNumber": 23,
+      "text": "others. She is planning to establish an old people's home in her locality, She",
+      "bbox": {
+        "x": 152,
+        "y": 1066,
+        "width": 880,
+        "height": 26
+      },
+      "confidence": 93.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-024",
+      "lineNumber": 24,
+      "text": "knows some elderly people live all alone. They have no one to take care",
+      "bbox": {
+        "x": 152,
+        "y": 1103,
+        "width": 880,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-025",
+      "lineNumber": 25,
+      "text": "of them. They often feel helpless and miserable. They need care and support.",
+      "bbox": {
+        "x": 150,
+        "y": 1140,
+        "width": 879,
+        "height": 26
+      },
+      "confidence": 96.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-026",
+      "lineNumber": 26,
+      "text": "As part of her plan, Suraiya Begum starts to visit families. She talks to a",
+      "bbox": {
+        "x": 155,
+        "y": 1187,
+        "width": 876,
+        "height": 26
+      },
+      "confidence": 92.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-027",
+      "lineNumber": 27,
+      "text": "number of people. She tries to find out the problems of elderly people in their",
+      "bbox": {
+        "x": 154,
+        "y": 1224,
+        "width": 885,
+        "height": 26
+      },
+      "confidence": 96.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-028",
+      "lineNumber": 28,
+      "text": "families. She understands that old people are lonely and often they become",
+      "bbox": {
+        "x": 154,
+        "y": 1262,
+        "width": 881,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-029",
+      "lineNumber": 29,
+      "text": "sick. They have nobody to look after them.",
+      "bbox": {
+        "x": 155,
+        "y": 1298,
+        "width": 485,
+        "height": 27
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-030",
+      "lineNumber": 30,
+      "text": "On Fridays, she often takes Mariam with her on these visits. Mariam has",
+      "bbox": {
+        "x": 154,
+        "y": 1345,
+        "width": 877,
+        "height": 26
+      },
+      "confidence": 95.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-054-line-031",
+      "lineNumber": 31,
+      "text": "already become very friendly with some of the old men and women. They",
+      "bbox": {
+        "x": 156,
+        "y": 1378,
+        "width": 877,
+        "height": 26
+      },
+      "confidence": 95.77,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 15 An Old People’s Home\nAfter completing the lesson students will be able to\n¢ read and understand texts\nask and answer questions\n¢ write short paragraphs\nA, Read the text below:\nMariam is a student of class six in a\ngovernment school in Rajshahi. Her\nmother works in an office and her f\nfather is a businessman. Mariam is\nvery fond of her aunt, her father's\nsister, Suraitya Begum who lives in\nanother part of the same town. On\nFridays, she often goes to her aunt's place and spends time with her.\nSuraiya Begum is a retired school teacher. She is a widow and lives alone.\nHer husband died three years ago. Her two daughters are married and live\nwith their families abroad. They talk to her over telephone and come to visit\nher whenever they get time.\nSuraiya Begum has a lot of free time. She spends her time in reading books,\nwatching TY, visiting friends and relatives. Sometimes she writes letters to her\nold colleagues. But now a days she often gets bored of doing all these things.\nShe wants to do something more meaningful, something that would do good to\nothers. She is planning to establish an old people's home in her locality, She\nknows some elderly people live all alone. They have no one to take care\nof them. They often feel helpless and miserable. They need care and support.\nAs part of her plan, Suraiya Begum starts to visit families. She talks to a\nnumber of people. She tries to find out the problems of elderly people in their\nfamilies. She understands that old people are lonely and often they become\nsick. They have nobody to look after them.\nOn Fridays, she often takes Mariam with her on these visits. Mariam has\nalready become very friendly with some of the old men and women. They",
+  "cleanText": "Lesson 15 An Old People’s Home\nAfter completing the lesson students will be able to\n¢ read and understand texts\nask and answer questions\n¢ write short paragraphs\nA, Read the text below:\nMariam is a student of class six in a\ngovernment school in Rajshahi. Her\nmother works in an office and her f\nfather is a businessman. Mariam is\nvery fond of her aunt, her father's\nsister, Suraitya Begum who lives in\nanother part of the same town. On\nFridays, she often goes to her aunt's place and spends time with her.\nSuraiya Begum is a retired school teacher. She is a widow and lives alone.\nHer husband died three years ago. Her two daughters are married and live\nwith their families abroad. They talk to her over telephone and come to visit\nher whenever they get time.\nSuraiya Begum has a lot of free time. She spends her time in reading books,\nwatching TY, visiting friends and relatives. Sometimes she writes letters to her\nold colleagues. But now a days she often gets bored of doing all these things.\nShe wants to do something more meaningful, something that would do good to\nothers. She is planning to establish an old people's home in her locality, She\nknows some elderly people live all alone. They have no one to take care\nof them. They often feel helpless and miserable. They need care and support.\nAs part of her plan, Suraiya Begum starts to visit families. She talks to a\nnumber of people. She tries to find out the problems of elderly people in their\nfamilies. She understands that old people are lonely and often they become\nsick. They have nobody to look after them.\nOn Fridays, she often takes Mariam with her on these visits. Mariam has\nalready become very friendly with some of the old men and women. They",
+  "aiReadyText": "Lesson 15 An Old People’s Home\n¢ read and understand texts\nask and answer questions\n¢ write short paragraphs\nA, Read the text below:\nMariam is a student of class six in a\ngovernment school in Rajshahi. Her\nmother works in an office and her f\nfather is a businessman. Mariam is\nvery fond of her aunt, her father's\nsister, Suraitya Begum who lives in\nanother part of the same town. On\nFridays, she often goes to her aunt's place and spends time with her.\nSuraiya Begum is a retired school teacher. She is a widow and lives alone.\nHer husband died three years ago. Her two daughters are married and live\nwith their families abroad. They talk to her over telephone and come to visit\nher whenever they get time.\nSuraiya Begum has a lot of free time. She spends her time in reading books,\nwatching TY, visiting friends and relatives. Sometimes she writes letters to her\nold colleagues. But now a days she often gets bored of doing all these things.\nShe wants to do something more meaningful, something that would do good to\nothers. She is planning to establish an old people's home in her locality, She\nknows some elderly people live all alone. They have no one to take care\nof them. They often feel helpless and miserable. They need care and support.\nAs part of her plan, Suraiya Begum starts to visit families. She talks to a\nnumber of people. She tries to find out the problems of elderly people in their\nfamilies. She understands that old people are lonely and often they become\nsick. They have nobody to look after them.\nOn Fridays, she often takes Mariam with her on these visits. Mariam has\nalready become very friendly with some of the old men and women. They"
+}

@@ -1,0 +1,213 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 13,
+  "image": "/ocr/books/class6-english/page-images/page-013.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "8 English For Today",
+      "cleanText": "8 English For Today",
+      "bbox": {
+        "x": 121,
+        "y": 80,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-013-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "A3. Look at the picture below. Talk about what things you see and",
+      "cleanText": "A3. Look at the picture below. Talk about what things you see and",
+      "bbox": {
+        "x": 118,
+        "y": 149,
+        "width": 915,
+        "height": 26
+      },
+      "confidence": 94.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-013-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "what are happening.",
+      "cleanText": "what are happening.",
+      "bbox": {
+        "x": 194,
+        "y": 188,
+        "width": 261,
+        "height": 27
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-013-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "A4. Suppose, you went to one of the places listed below. Describe what",
+      "cleanText": "A4. Suppose, you went to one of the places listed below. Describe what",
+      "bbox": {
+        "x": 118,
+        "y": 799,
+        "width": 919,
+        "height": 29
+      },
+      "confidence": 95.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-013-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "you saw, what were happening and what you did there.",
+      "cleanText": "you saw, what were happening and what you did there.",
+      "bbox": {
+        "x": 195,
+        "y": 843,
+        "width": 693,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-013-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "i) A shopping place",
+      "cleanText": "A shopping place",
+      "bbox": {
+        "x": 258,
+        "y": 906,
+        "width": 276,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-013-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "ii) A bus station",
+      "cleanText": "A bus station",
+      "bbox": {
+        "x": 258,
+        "y": 956,
+        "width": 226,
+        "height": 24
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-013-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "iii) A fair",
+      "cleanText": "A fair",
+      "bbox": {
+        "x": 258,
+        "y": 1007,
+        "width": 144,
+        "height": 24
+      },
+      "confidence": 82.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-013-line-008",
+      "lineNumber": 8
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-013-line-001",
+      "lineNumber": 1,
+      "text": "8 English For Today",
+      "bbox": {
+        "x": 121,
+        "y": 80,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-013-line-002",
+      "lineNumber": 2,
+      "text": "A3. Look at the picture below. Talk about what things you see and",
+      "bbox": {
+        "x": 118,
+        "y": 149,
+        "width": 915,
+        "height": 26
+      },
+      "confidence": 94.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-013-line-003",
+      "lineNumber": 3,
+      "text": "what are happening.",
+      "bbox": {
+        "x": 194,
+        "y": 188,
+        "width": 261,
+        "height": 27
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-013-line-004",
+      "lineNumber": 4,
+      "text": "A4. Suppose, you went to one of the places listed below. Describe what",
+      "bbox": {
+        "x": 118,
+        "y": 799,
+        "width": 919,
+        "height": 29
+      },
+      "confidence": 95.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-013-line-005",
+      "lineNumber": 5,
+      "text": "you saw, what were happening and what you did there.",
+      "bbox": {
+        "x": 195,
+        "y": 843,
+        "width": 693,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-013-line-006",
+      "lineNumber": 6,
+      "text": "A shopping place",
+      "bbox": {
+        "x": 258,
+        "y": 906,
+        "width": 276,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "8 English For Today\nA3. Look at the picture below. Talk about what things you see and\nwhat are happening.\nA4. Suppose, you went to one of the places listed below. Describe what\nyou saw, what were happening and what you did there.\ni) A shopping place\nii) A bus station\niii) A fair",
+  "cleanText": "8 English For Today\nA3. Look at the picture below. Talk about what things you see and\nwhat are happening.\nA4. Suppose, you went to one of the places listed below. Describe what\nyou saw, what were happening and what you did there.\nA shopping place\nA bus station\nA fair",
+  "aiReadyText": "8 English For Today\nA3. Look at the picture below. Talk about what things you see and\nwhat are happening.\nA4. Suppose, you went to one of the places listed below. Describe what\nyou saw, what were happening and what you did there.\nA shopping place"
+}

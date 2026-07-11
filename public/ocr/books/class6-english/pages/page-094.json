@@ -1,0 +1,506 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 94,
+  "image": "/ocr/books/class6-english/page-images/page-094.png",
+  "width": 1149,
+  "height": 1525,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 89",
+      "cleanText": "English For Today 89",
+      "bbox": {
+        "x": 117,
+        "y": 92,
+        "width": 913,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-094-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Al, Make a list of the places the friends wanted to go to.",
+      "cleanText": "Al, Make a list of the places the friends wanted to go to.",
+      "bbox": {
+        "x": 123,
+        "y": 164,
+        "width": 691,
+        "height": 35
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-094-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Why did they want to go to these places?",
+      "cleanText": "Why did they want to go to these places?",
+      "bbox": {
+        "x": 184,
+        "y": 210,
+        "width": 493,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-094-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "A2, Think of a place you would like to go to. Now write down a few",
+      "cleanText": "A2, Think of a place you would like to go to. Now write down a few",
+      "bbox": {
+        "x": 124,
+        "y": 287,
+        "width": 907,
+        "height": 25
+      },
+      "confidence": 95.19,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-094-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "sentences about where you want to go, why you want to go there, who",
+      "cleanText": "sentences about where you want to go, why you want to go there, who",
+      "bbox": {
+        "x": 183,
+        "y": 327,
+        "width": 847,
+        "height": 25
+      },
+      "confidence": 95.79,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-094-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "you want to go with.",
+      "cleanText": "you want to go with.",
+      "bbox": {
+        "x": 180,
+        "y": 366,
+        "width": 252,
+        "height": 25
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-094-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Language Focus",
+      "cleanText": "Language Focus",
+      "bbox": {
+        "x": 192,
+        "y": 434,
+        "width": 204,
+        "height": 27
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-094-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "For suggestions, we often use these expressions:",
+      "cleanText": "For suggestions, we often use these expressions:",
+      "bbox": {
+        "x": 221,
+        "y": 523,
+        "width": 549,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-094-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "What should we do?",
+      "cleanText": "What should we do?",
+      "bbox": {
+        "x": 221,
+        "y": 567,
+        "width": 232,
+        "height": 20
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-094-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Why don't we . ?",
+      "cleanText": "Why don't we . ?",
+      "bbox": {
+        "x": 221,
+        "y": 611,
+        "width": 384,
+        "height": 26
+      },
+      "confidence": 89.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-094-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Let's etc.",
+      "cleanText": "Let's etc.",
+      "bbox": {
+        "x": 221,
+        "y": 710,
+        "width": 399,
+        "height": 20
+      },
+      "confidence": 67.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-094-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "A3. Write short dialogues for the following situations. Use the expressions",
+      "cleanText": "A3. Write short dialogues for the following situations. Use the expressions",
+      "bbox": {
+        "x": 126,
+        "y": 863,
+        "width": 912,
+        "height": 27
+      },
+      "confidence": 95.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-094-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "in the Language Focus.",
+      "cleanText": "in the Language Focus.",
+      "bbox": {
+        "x": 193,
+        "y": 903,
+        "width": 296,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-094-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "a. You and your friends want to project. Discuss and decide",
+      "cleanText": "You and your friends want to project. Discuss and decide",
+      "bbox": {
+        "x": 198,
+        "y": 981,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 95.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-094-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "what you want to do.",
+      "cleanText": "what you want to do.",
+      "bbox": {
+        "x": 197,
+        "y": 1020,
+        "width": 240,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-094-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "clues: poster, drawing, wall magazine , drama, etc.",
+      "cleanText": "clues: poster, drawing, wall magazine , drama, etc.",
+      "bbox": {
+        "x": 197,
+        "y": 1093,
+        "width": 679,
+        "height": 34
+      },
+      "confidence": 85.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-094-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "b. You and your friends want to buy a gift for your teacher on his/her",
+      "cleanText": "You and your friends want to buy a gift for your teacher on his/her",
+      "bbox": {
+        "x": 197,
+        "y": 1174,
+        "width": 784,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-094-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "birthday. Discuss and decide what gift to get.",
+      "cleanText": "birthday. Discuss and decide what gift to get.",
+      "bbox": {
+        "x": 228,
+        "y": 1209,
+        "width": 512,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-094-line-018",
+      "lineNumber": 18
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-094-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 89",
+      "bbox": {
+        "x": 117,
+        "y": 92,
+        "width": 913,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-094-line-002",
+      "lineNumber": 2,
+      "text": "Al, Make a list of the places the friends wanted to go to.",
+      "bbox": {
+        "x": 123,
+        "y": 164,
+        "width": 691,
+        "height": 35
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-094-line-003",
+      "lineNumber": 3,
+      "text": "Why did they want to go to these places?",
+      "bbox": {
+        "x": 184,
+        "y": 210,
+        "width": 493,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-094-line-004",
+      "lineNumber": 4,
+      "text": "A2, Think of a place you would like to go to. Now write down a few",
+      "bbox": {
+        "x": 124,
+        "y": 287,
+        "width": 907,
+        "height": 25
+      },
+      "confidence": 95.19,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-094-line-005",
+      "lineNumber": 5,
+      "text": "sentences about where you want to go, why you want to go there, who",
+      "bbox": {
+        "x": 183,
+        "y": 327,
+        "width": 847,
+        "height": 25
+      },
+      "confidence": 95.79,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-094-line-006",
+      "lineNumber": 6,
+      "text": "you want to go with.",
+      "bbox": {
+        "x": 180,
+        "y": 366,
+        "width": 252,
+        "height": 25
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-094-line-007",
+      "lineNumber": 7,
+      "text": "Language Focus",
+      "bbox": {
+        "x": 192,
+        "y": 434,
+        "width": 204,
+        "height": 27
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-094-line-008",
+      "lineNumber": 8,
+      "text": "For suggestions, we often use these expressions:",
+      "bbox": {
+        "x": 221,
+        "y": 523,
+        "width": 549,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-094-line-009",
+      "lineNumber": 9,
+      "text": "What should we do?",
+      "bbox": {
+        "x": 221,
+        "y": 567,
+        "width": 232,
+        "height": 20
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-094-line-010",
+      "lineNumber": 10,
+      "text": "Why don't we . ?",
+      "bbox": {
+        "x": 221,
+        "y": 611,
+        "width": 384,
+        "height": 26
+      },
+      "confidence": 89.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-094-line-012",
+      "lineNumber": 12,
+      "text": "A3. Write short dialogues for the following situations. Use the expressions",
+      "bbox": {
+        "x": 126,
+        "y": 863,
+        "width": 912,
+        "height": 27
+      },
+      "confidence": 95.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-094-line-013",
+      "lineNumber": 13,
+      "text": "in the Language Focus.",
+      "bbox": {
+        "x": 193,
+        "y": 903,
+        "width": 296,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-094-line-014",
+      "lineNumber": 14,
+      "text": "You and your friends want to project. Discuss and decide",
+      "bbox": {
+        "x": 198,
+        "y": 981,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 95.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-094-line-015",
+      "lineNumber": 15,
+      "text": "what you want to do.",
+      "bbox": {
+        "x": 197,
+        "y": 1020,
+        "width": 240,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-094-line-016",
+      "lineNumber": 16,
+      "text": "clues: poster, drawing, wall magazine , drama, etc.",
+      "bbox": {
+        "x": 197,
+        "y": 1093,
+        "width": 679,
+        "height": 34
+      },
+      "confidence": 85.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-094-line-017",
+      "lineNumber": 17,
+      "text": "You and your friends want to buy a gift for your teacher on his/her",
+      "bbox": {
+        "x": 197,
+        "y": 1174,
+        "width": 784,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-094-line-018",
+      "lineNumber": 18,
+      "text": "birthday. Discuss and decide what gift to get.",
+      "bbox": {
+        "x": 228,
+        "y": 1209,
+        "width": 512,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 89\nAl, Make a list of the places the friends wanted to go to.\nWhy did they want to go to these places?\nA2, Think of a place you would like to go to. Now write down a few\nsentences about where you want to go, why you want to go there, who\nyou want to go with.\nLanguage Focus\nFor suggestions, we often use these expressions:\nWhat should we do?\nWhy don't we . ?\nLet's etc.\nA3. Write short dialogues for the following situations. Use the expressions\nin the Language Focus.\na. You and your friends want to project. Discuss and decide\nwhat you want to do.\nclues: poster, drawing, wall magazine , drama, etc.\nb. You and your friends want to buy a gift for your teacher on his/her\nbirthday. Discuss and decide what gift to get.",
+  "cleanText": "English For Today 89\nAl, Make a list of the places the friends wanted to go to.\nWhy did they want to go to these places?\nA2, Think of a place you would like to go to. Now write down a few\nsentences about where you want to go, why you want to go there, who\nyou want to go with.\nLanguage Focus\nFor suggestions, we often use these expressions:\nWhat should we do?\nWhy don't we . ?\nLet's etc.\nA3. Write short dialogues for the following situations. Use the expressions\nin the Language Focus.\nYou and your friends want to project. Discuss and decide\nwhat you want to do.\nclues: poster, drawing, wall magazine , drama, etc.\nYou and your friends want to buy a gift for your teacher on his/her\nbirthday. Discuss and decide what gift to get.",
+  "aiReadyText": "English For Today 89\nAl, Make a list of the places the friends wanted to go to.\nWhy did they want to go to these places?\nA2, Think of a place you would like to go to. Now write down a few\nsentences about where you want to go, why you want to go there, who\nyou want to go with.\nLanguage Focus\nFor suggestions, we often use these expressions:\nWhat should we do?\nWhy don't we . ?\nA3. Write short dialogues for the following situations. Use the expressions\nin the Language Focus.\nYou and your friends want to project. Discuss and decide\nwhat you want to do.\nclues: poster, drawing, wall magazine , drama, etc.\nYou and your friends want to buy a gift for your teacher on his/her\nbirthday. Discuss and decide what gift to get."
+}

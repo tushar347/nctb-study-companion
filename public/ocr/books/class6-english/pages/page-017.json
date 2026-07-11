@@ -1,0 +1,493 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 17,
+  "image": "/ocr/books/class6-english/page-images/page-017.png",
+  "width": 1176,
+  "height": 1527,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Language Focus",
+      "cleanText": "Language Focus",
+      "bbox": {
+        "x": 186,
+        "y": 152,
+        "width": 197,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-017-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Notice that sometimes the answer to \"Where do you come from?\" or",
+      "cleanText": "Notice that sometimes the answer to \"Where do you come from?\" or",
+      "bbox": {
+        "x": 204,
+        "y": 204,
+        "width": 837,
+        "height": 26
+      },
+      "confidence": 88.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-017-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "\"Where are you from?\" is the name of the country one belongs to. But",
+      "cleanText": "\"Where are you from?\" is the name of the country one belongs to. But",
+      "bbox": {
+        "x": 202,
+        "y": 239,
+        "width": 843,
+        "height": 26
+      },
+      "confidence": 93.79,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-017-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "when both the speakers are from the same country, the question would",
+      "cleanText": "when both the speakers are from the same country, the question would",
+      "bbox": {
+        "x": 200,
+        "y": 274,
+        "width": 841,
+        "height": 26
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-017-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "obviously mean what part of the country one belongs to.",
+      "cleanText": "obviously mean what part of the country one belongs to.",
+      "bbox": {
+        "x": 198,
+        "y": 309,
+        "width": 649,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-017-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Notice the difference between \"What do vou do?\" and \"What are you",
+      "cleanText": "Notice the difference between \"What do vou do?\" and \"What are you",
+      "bbox": {
+        "x": 218,
+        "y": 358,
+        "width": 821,
+        "height": 26
+      },
+      "confidence": 93.58,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-017-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "doing?” do vou do?' means the same as ‘What's your profession?’ On",
+      "cleanText": "doing?” do vou do?' means the same as ‘What's your profession?’ On",
+      "bbox": {
+        "x": 203,
+        "y": 393,
+        "width": 836,
+        "height": 26
+      },
+      "confidence": 92.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-017-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "the other hand, are you doing' refers to what you are doing at the",
+      "cleanText": "the other hand, are you doing' refers to what you are doing at the",
+      "bbox": {
+        "x": 204,
+        "y": 428,
+        "width": 839,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-017-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "moment, or something you are doing around that time.",
+      "cleanText": "moment, or something you are doing around that time.",
+      "bbox": {
+        "x": 204,
+        "y": 464,
+        "width": 623,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-017-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Look at the pictures below. Ask and answer questions about what",
+      "cleanText": "Look at the pictures below. Ask and answer questions about what",
+      "bbox": {
+        "x": 189,
+        "y": 523,
+        "width": 852,
+        "height": 27
+      },
+      "confidence": 95.45,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-017-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "each person's profession is, and what he or she is doing at the moment.",
+      "cleanText": "each person's profession is, and what he or she is doing at the moment.",
+      "bbox": {
+        "x": 185,
+        "y": 558,
+        "width": 860,
+        "height": 27
+      },
+      "confidence": 95.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-017-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Follow this model:",
+      "cleanText": "Follow this model:",
+      "bbox": {
+        "x": 186,
+        "y": 603,
+        "width": 221,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-017-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "What's his/her name? What does he/she do?",
+      "cleanText": "What's his/her name? What does he/she do?",
+      "bbox": {
+        "x": 187,
+        "y": 639,
+        "width": 500,
+        "height": 19
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-017-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "What is he/she doing now?",
+      "cleanText": "What is he/she doing now?",
+      "bbox": {
+        "x": 187,
+        "y": 674,
+        "width": 307,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-017-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "At the moment he/she is",
+      "cleanText": "At the moment he/she is",
+      "bbox": {
+        "x": 188,
+        "y": 709,
+        "width": 275,
+        "height": 20
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-017-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "He/she is not . (not doing what he/she usually does, e.g.",
+      "cleanText": "He/she is not . (not doing what he/she usually does, e.g.",
+      "bbox": {
+        "x": 187,
+        "y": 744,
+        "width": 855,
+        "height": 26
+      },
+      "confidence": 87.09,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-017-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "He is not seeing a patient)",
+      "cleanText": "He is not seeing a patient)",
+      "bbox": {
+        "x": 184,
+        "y": 780,
+        "width": 301,
+        "height": 27
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-017-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Rashid Ahmed, Doctor Sumana Chowdhury, Lawyer",
+      "cleanText": "Rashid Ahmed, Doctor Sumana Chowdhury, Lawyer",
+      "bbox": {
+        "x": 298,
+        "y": 1421,
+        "width": 684,
+        "height": 24
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-017-line-018",
+      "lineNumber": 18
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-017-line-001",
+      "lineNumber": 1,
+      "text": "Language Focus",
+      "bbox": {
+        "x": 186,
+        "y": 152,
+        "width": 197,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-017-line-002",
+      "lineNumber": 2,
+      "text": "Notice that sometimes the answer to \"Where do you come from?\" or",
+      "bbox": {
+        "x": 204,
+        "y": 204,
+        "width": 837,
+        "height": 26
+      },
+      "confidence": 88.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-017-line-003",
+      "lineNumber": 3,
+      "text": "\"Where are you from?\" is the name of the country one belongs to. But",
+      "bbox": {
+        "x": 202,
+        "y": 239,
+        "width": 843,
+        "height": 26
+      },
+      "confidence": 93.79,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-017-line-004",
+      "lineNumber": 4,
+      "text": "when both the speakers are from the same country, the question would",
+      "bbox": {
+        "x": 200,
+        "y": 274,
+        "width": 841,
+        "height": 26
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-017-line-005",
+      "lineNumber": 5,
+      "text": "obviously mean what part of the country one belongs to.",
+      "bbox": {
+        "x": 198,
+        "y": 309,
+        "width": 649,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-017-line-007",
+      "lineNumber": 7,
+      "text": "doing?” do vou do?' means the same as ‘What's your profession?’ On",
+      "bbox": {
+        "x": 203,
+        "y": 393,
+        "width": 836,
+        "height": 26
+      },
+      "confidence": 92.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-017-line-008",
+      "lineNumber": 8,
+      "text": "the other hand, are you doing' refers to what you are doing at the",
+      "bbox": {
+        "x": 204,
+        "y": 428,
+        "width": 839,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-017-line-009",
+      "lineNumber": 9,
+      "text": "moment, or something you are doing around that time.",
+      "bbox": {
+        "x": 204,
+        "y": 464,
+        "width": 623,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-017-line-011",
+      "lineNumber": 11,
+      "text": "each person's profession is, and what he or she is doing at the moment.",
+      "bbox": {
+        "x": 185,
+        "y": 558,
+        "width": 860,
+        "height": 27
+      },
+      "confidence": 95.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-017-line-012",
+      "lineNumber": 12,
+      "text": "Follow this model:",
+      "bbox": {
+        "x": 186,
+        "y": 603,
+        "width": 221,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-017-line-013",
+      "lineNumber": 13,
+      "text": "What's his/her name? What does he/she do?",
+      "bbox": {
+        "x": 187,
+        "y": 639,
+        "width": 500,
+        "height": 19
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-017-line-014",
+      "lineNumber": 14,
+      "text": "What is he/she doing now?",
+      "bbox": {
+        "x": 187,
+        "y": 674,
+        "width": 307,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-017-line-015",
+      "lineNumber": 15,
+      "text": "At the moment he/she is",
+      "bbox": {
+        "x": 188,
+        "y": 709,
+        "width": 275,
+        "height": 20
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-017-line-016",
+      "lineNumber": 16,
+      "text": "He/she is not . (not doing what he/she usually does, e.g.",
+      "bbox": {
+        "x": 187,
+        "y": 744,
+        "width": 855,
+        "height": 26
+      },
+      "confidence": 87.09,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-017-line-017",
+      "lineNumber": 17,
+      "text": "He is not seeing a patient)",
+      "bbox": {
+        "x": 184,
+        "y": 780,
+        "width": 301,
+        "height": 27
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-017-line-018",
+      "lineNumber": 18,
+      "text": "Rashid Ahmed, Doctor Sumana Chowdhury, Lawyer",
+      "bbox": {
+        "x": 298,
+        "y": 1421,
+        "width": 684,
+        "height": 24
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Language Focus\nNotice that sometimes the answer to \"Where do you come from?\" or\n\"Where are you from?\" is the name of the country one belongs to. But\nwhen both the speakers are from the same country, the question would\nobviously mean what part of the country one belongs to.\nNotice the difference between \"What do vou do?\" and \"What are you\ndoing?” do vou do?' means the same as ‘What's your profession?’ On\nthe other hand, are you doing' refers to what you are doing at the\nmoment, or something you are doing around that time.\nLook at the pictures below. Ask and answer questions about what\neach person's profession is, and what he or she is doing at the moment.\nFollow this model:\nWhat's his/her name? What does he/she do?\nWhat is he/she doing now?\nAt the moment he/she is\nHe/she is not . (not doing what he/she usually does, e.g.\nHe is not seeing a patient)\nRashid Ahmed, Doctor Sumana Chowdhury, Lawyer",
+  "cleanText": "Language Focus\nNotice that sometimes the answer to \"Where do you come from?\" or\n\"Where are you from?\" is the name of the country one belongs to. But\nwhen both the speakers are from the same country, the question would\nobviously mean what part of the country one belongs to.\nNotice the difference between \"What do vou do?\" and \"What are you\ndoing?” do vou do?' means the same as ‘What's your profession?’ On\nthe other hand, are you doing' refers to what you are doing at the\nmoment, or something you are doing around that time.\nLook at the pictures below. Ask and answer questions about what\neach person's profession is, and what he or she is doing at the moment.\nFollow this model:\nWhat's his/her name? What does he/she do?\nWhat is he/she doing now?\nAt the moment he/she is\nHe/she is not . (not doing what he/she usually does, e.g.\nHe is not seeing a patient)\nRashid Ahmed, Doctor Sumana Chowdhury, Lawyer",
+  "aiReadyText": "Language Focus\nNotice that sometimes the answer to \"Where do you come from?\" or\n\"Where are you from?\" is the name of the country one belongs to. But\nwhen both the speakers are from the same country, the question would\nobviously mean what part of the country one belongs to.\ndoing?” do vou do?' means the same as ‘What's your profession?’ On\nthe other hand, are you doing' refers to what you are doing at the\nmoment, or something you are doing around that time.\neach person's profession is, and what he or she is doing at the moment.\nFollow this model:\nWhat's his/her name? What does he/she do?\nWhat is he/she doing now?\nAt the moment he/she is\nHe/she is not . (not doing what he/she usually does, e.g.\nHe is not seeing a patient)\nRashid Ahmed, Doctor Sumana Chowdhury, Lawyer"
+}

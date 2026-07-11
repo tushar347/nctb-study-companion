@@ -5,6 +5,10 @@ import { Bot, Brain, Languages, Send, Sparkles, UserRound } from "lucide-react";
 import AppShell from "@/components/study/AppShell";
 import AiTeacherAvatar from "@/components/study/AiTeacherAvatar";
 import LiquidCard from "@/components/study/LiquidCard";
+import {
+  getStoredStudentKey,
+  getStoredStudentName,
+} from "@/lib/studentSession";
 
 type AgentTool = "simple" | "bangla" | "grammar" | "chat";
 
@@ -14,28 +18,66 @@ type Message = {
 };
 
 export default function TeacherPage() {
-  const [studentId, setStudentId] = useState("demo-student");
+  const [studentId, setStudentId] = useState("");
+  const [studentName, setStudentName] = useState("Student");
+
   const [selectedLine, setSelectedLine] = useState("");
   const [lessonNo, setLessonNo] = useState(1);
   const [lessonTitle, setLessonTitle] = useState("");
+
   const [output, setOutput] = useState("");
   const [question, setQuestion] = useState("");
+
   const [messages, setMessages] = useState<Message[]>([
     {
       role: "teacher",
       text: "Hello. I am your AI Teacher. Select a line from the Reader, then I can explain it, translate it, teach grammar, or answer your question.",
     },
   ]);
+
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
 
   useEffect(() => {
+    const realStudentKey = getStoredStudentKey();
+    const realStudentName = getStoredStudentName();
+
+    setStudentId(realStudentKey);
+    setStudentName(realStudentName);
+
     setSelectedLine(localStorage.getItem("selectedLine") ?? "");
     setLessonNo(Number(localStorage.getItem("selectedLessonNo") ?? 1));
     setLessonTitle(localStorage.getItem("selectedLessonTitle") ?? "");
+
+    setMessages([
+      {
+        role: "teacher",
+        text: `Hello ${realStudentName}. I am your AI Teacher. Select a line from the Reader, then I can explain it, translate it, teach grammar, or answer your question.`,
+      },
+    ]);
   }, []);
 
+  async function trackAiInteraction() {
+    await fetch("/api/study/track", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        studentKey: studentId,
+        activityType: "ai_interaction",
+      }),
+    }).catch(() => {
+      // Do not break UI if tracking fails.
+    });
+  }
+
   async function callTeacher(tool: AgentTool, studentQuestion?: string) {
+    if (!studentId) {
+      setError("Student login information was not found. Please login again.");
+      return;
+    }
+
     if (!selectedLine.trim()) {
       setError("Please select a textbook line from the Reader first.");
       return;
@@ -52,6 +94,7 @@ export default function TeacherPage() {
         },
         body: JSON.stringify({
           studentId,
+          studentKey: studentId,
           lessonNo,
           selectedLine,
           requestedTool: tool,
@@ -66,6 +109,8 @@ export default function TeacherPage() {
       }
 
       setOutput(data.result.output);
+
+      await trackAiInteraction();
 
       if (tool === "chat") {
         setMessages((previous) => [
@@ -84,7 +129,9 @@ export default function TeacherPage() {
   function sendQuestion() {
     const clean = question.trim();
 
-    if (!clean) return;
+    if (!clean) {
+      return;
+    }
 
     setQuestion("");
     callTeacher("chat", clean);
@@ -100,15 +147,17 @@ export default function TeacherPage() {
             <div className="flex items-center gap-2">
               <UserRound size={18} className="text-slate-600" />
               <p className="text-xs font-black uppercase text-slate-500">
-                Student ID
+                Logged-in Student
               </p>
             </div>
 
-            <input
-              value={studentId}
-              onChange={(event) => setStudentId(event.target.value)}
-              className="mt-2 w-full rounded-2xl border border-white/80 bg-white/80 px-4 py-2 text-sm font-bold outline-none focus:border-blue-500"
-            />
+            <p className="mt-3 text-lg font-black text-slate-900">
+              {studentName}
+            </p>
+
+            <p className="mt-1 text-xs font-bold text-slate-500">
+              Student Key: {studentId || "Loading..."}
+            </p>
           </div>
 
           <div className="mt-5 rounded-3xl border border-white/80 bg-white/65 p-5 shadow-inner">
@@ -205,7 +254,7 @@ export default function TeacherPage() {
                   }`}
                 >
                   <p className="mb-1 text-xs font-black uppercase">
-                    {message.role === "student" ? "Student" : "AI Teacher"}
+                    {message.role === "student" ? studentName : "AI Teacher"}
                   </p>
                   {message.text}
                 </div>
@@ -218,9 +267,11 @@ export default function TeacherPage() {
               value={question}
               onChange={(event) => setQuestion(event.target.value)}
               onKeyDown={(event) => {
-                if (event.key === "Enter") sendQuestion();
+                if (event.key === "Enter") {
+                  sendQuestion();
+                }
               }}
-              placeholder="Ask your AI Teacher..."
+              placeholder={`Ask your AI Teacher, ${studentName}...`}
               className="flex-1 rounded-3xl border border-white/80 bg-white/75 px-5 py-4 text-sm font-semibold outline-none transition focus:border-purple-500"
             />
 

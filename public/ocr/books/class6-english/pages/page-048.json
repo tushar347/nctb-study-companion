@@ -1,0 +1,773 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 48,
+  "image": "/ocr/books/class6-english/page-images/page-048.png",
+  "width": 1149,
+  "height": 1525,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 43",
+      "cleanText": "English For Today 43",
+      "bbox": {
+        "x": 127,
+        "y": 91,
+        "width": 900,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "monument dedicated to the soldiers and civilians who lost their lives during",
+      "cleanText": "monument dedicated to the soldiers and civilians who lost their lives during",
+      "bbox": {
+        "x": 172,
+        "y": 165,
+        "width": 861,
+        "height": 26
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "the war, becomes a focal point for citizens to pay their respect. People from",
+      "cleanText": "the war, becomes a focal point for citizens to pay their respect. People from",
+      "bbox": {
+        "x": 172,
+        "y": 205,
+        "width": 861,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "all walks of life gather to offer flowers, recite patriotic songs, and recall the",
+      "cleanText": "all walks of life gather to offer flowers, recite patriotic songs, and recall the",
+      "bbox": {
+        "x": 172,
+        "y": 240,
+        "width": 861,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "sacrifices made by the nation’s heroes.",
+      "cleanText": "sacrifices made by the nation’s heroes.",
+      "bbox": {
+        "x": 173,
+        "y": 284,
+        "width": 438,
+        "height": 26
+      },
+      "confidence": 96.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Write the meanings of the following words:",
+      "cleanText": "Write the meanings of the following words:",
+      "bbox": {
+        "x": 174,
+        "y": 338,
+        "width": 524,
+        "height": 25
+      },
+      "confidence": 96.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Homage, Martyrs, Dedicate, Patriotic, Sacrifice, Commemorate",
+      "cleanText": "Homage, Martyrs, Dedicate, Patriotic, Sacrifice, Commemorate",
+      "bbox": {
+        "x": 173,
+        "y": 389,
+        "width": 727,
+        "height": 26
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Answer the following questions:",
+      "cleanText": "Answer the following questions:",
+      "bbox": {
+        "x": 174,
+        "y": 438,
+        "width": 388,
+        "height": 26
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-048-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "a. What is the significance of our Victory Day?",
+      "cleanText": "What is the significance of our Victory Day?",
+      "bbox": {
+        "x": 172,
+        "y": 496,
+        "width": 544,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "b. Why do we pay homage to our martyrs?",
+      "cleanText": "Why do we pay homage to our martyrs?",
+      "bbox": {
+        "x": 172,
+        "y": 535,
+        "width": 487,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "c. What is the name of the monument situated at Savar?",
+      "cleanText": "What is the name of the monument situated at Savar?",
+      "bbox": {
+        "x": 172,
+        "y": 575,
+        "width": 636,
+        "height": 20
+      },
+      "confidence": 94.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "d. How many pcople have sacrificed their lives for our country’s liberation?",
+      "cleanText": "How many pcople have sacrificed their lives for our country’s liberation?",
+      "bbox": {
+        "x": 172,
+        "y": 615,
+        "width": 861,
+        "height": 26
+      },
+      "confidence": 94.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Make a list of the patriotic songs that encouraged our people during",
+      "cleanText": "Make a list of the patriotic songs that encouraged our people during",
+      "bbox": {
+        "x": 175,
+        "y": 671,
+        "width": 827,
+        "height": 33
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "the Liberation War of Bangladesh.",
+      "cleanText": "the Liberation War of Bangladesh.",
+      "bbox": {
+        "x": 176,
+        "y": 714,
+        "width": 421,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Listen to the dialogue from a CD or as your teacher reads it out",
+      "cleanText": "Listen to the dialogue from a CD or as your teacher reads it out",
+      "bbox": {
+        "x": 187,
+        "y": 772,
+        "width": 848,
+        "height": 27
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-048-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "and fill in the gaps.",
+      "cleanText": "and fill in the gaps.",
+      "bbox": {
+        "x": 184,
+        "y": 812,
+        "width": 243,
+        "height": 27
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Teacher Well students, how do we",
+      "cleanText": "Teacher Well students, how do we",
+      "bbox": {
+        "x": 185,
+        "y": 870,
+        "width": 431,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "celebrate our national days?",
+      "cleanText": "celebrate our national days?",
+      "bbox": {
+        "x": 328,
+        "y": 910,
+        "width": 318,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Shanta We go to the .......",
+      "cleanText": "Shanta We go to the .......",
+      "bbox": {
+        "x": 186,
+        "y": 946,
+        "width": 351,
+        "height": 33
+      },
+      "confidence": 90.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "We go to the Jatiya",
+      "cleanText": "We go to the Jatiya",
+      "bbox": {
+        "x": 328,
+        "y": 989,
+        "width": 218,
+        "height": 26
+      },
+      "confidence": 94.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Smritisaudha at",
+      "cleanText": "Smritisaudha at",
+      "bbox": {
+        "x": 329,
+        "y": 1029,
+        "width": 180,
+        "height": 20
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Teacher Great! But do you know the English of Jatiya",
+      "cleanText": "Teacher Great! But do you know the English of Jatiya",
+      "bbox": {
+        "x": 190,
+        "y": 1130,
+        "width": 661,
+        "height": 26
+      },
+      "confidence": 93.7,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Smriti Saudha?",
+      "cleanText": "Smriti Saudha?",
+      "bbox": {
+        "x": 332,
+        "y": 1176,
+        "width": 177,
+        "height": 20
+      },
+      "confidence": 91.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Shanta Yes, sir/ma'am. It's ............ Mausoleum.",
+      "cleanText": "Shanta Yes, sir/ma'am. It's ............ Mausoleum.",
+      "bbox": {
+        "x": 191,
+        "y": 1218,
+        "width": 633,
+        "height": 31
+      },
+      "confidence": 83.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Teacher = Very good. Have you ever been",
+      "cleanText": "Teacher = Very good. Have you ever been",
+      "bbox": {
+        "x": 190,
+        "y": 1263,
+        "width": 498,
+        "height": 34
+      },
+      "confidence": 85.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "to our National ?",
+      "cleanText": "to our National ?",
+      "bbox": {
+        "x": 332,
+        "y": 1313,
+        "width": 349,
+        "height": 20
+      },
+      "confidence": 93.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Shanta Oh yes, I went there last year on the",
+      "cleanText": "Shanta Oh yes, I went there last year on the",
+      "bbox": {
+        "x": 191,
+        "y": 1355,
+        "width": 551,
+        "height": 34
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "on 16 December.",
+      "cleanText": "on 16 December.",
+      "bbox": {
+        "x": 333,
+        "y": 1405,
+        "width": 192,
+        "height": 19
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-028",
+      "lineNumber": 28
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-048-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 43",
+      "bbox": {
+        "x": 127,
+        "y": 91,
+        "width": 900,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-002",
+      "lineNumber": 2,
+      "text": "monument dedicated to the soldiers and civilians who lost their lives during",
+      "bbox": {
+        "x": 172,
+        "y": 165,
+        "width": 861,
+        "height": 26
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-003",
+      "lineNumber": 3,
+      "text": "the war, becomes a focal point for citizens to pay their respect. People from",
+      "bbox": {
+        "x": 172,
+        "y": 205,
+        "width": 861,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-004",
+      "lineNumber": 4,
+      "text": "all walks of life gather to offer flowers, recite patriotic songs, and recall the",
+      "bbox": {
+        "x": 172,
+        "y": 240,
+        "width": 861,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-005",
+      "lineNumber": 5,
+      "text": "sacrifices made by the nation’s heroes.",
+      "bbox": {
+        "x": 173,
+        "y": 284,
+        "width": 438,
+        "height": 26
+      },
+      "confidence": 96.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-006",
+      "lineNumber": 6,
+      "text": "Write the meanings of the following words:",
+      "bbox": {
+        "x": 174,
+        "y": 338,
+        "width": 524,
+        "height": 25
+      },
+      "confidence": 96.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-007",
+      "lineNumber": 7,
+      "text": "Homage, Martyrs, Dedicate, Patriotic, Sacrifice, Commemorate",
+      "bbox": {
+        "x": 173,
+        "y": 389,
+        "width": 727,
+        "height": 26
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-009",
+      "lineNumber": 9,
+      "text": "What is the significance of our Victory Day?",
+      "bbox": {
+        "x": 172,
+        "y": 496,
+        "width": 544,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-010",
+      "lineNumber": 10,
+      "text": "Why do we pay homage to our martyrs?",
+      "bbox": {
+        "x": 172,
+        "y": 535,
+        "width": 487,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-011",
+      "lineNumber": 11,
+      "text": "What is the name of the monument situated at Savar?",
+      "bbox": {
+        "x": 172,
+        "y": 575,
+        "width": 636,
+        "height": 20
+      },
+      "confidence": 94.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-012",
+      "lineNumber": 12,
+      "text": "How many pcople have sacrificed their lives for our country’s liberation?",
+      "bbox": {
+        "x": 172,
+        "y": 615,
+        "width": 861,
+        "height": 26
+      },
+      "confidence": 94.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-013",
+      "lineNumber": 13,
+      "text": "Make a list of the patriotic songs that encouraged our people during",
+      "bbox": {
+        "x": 175,
+        "y": 671,
+        "width": 827,
+        "height": 33
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-014",
+      "lineNumber": 14,
+      "text": "the Liberation War of Bangladesh.",
+      "bbox": {
+        "x": 176,
+        "y": 714,
+        "width": 421,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-016",
+      "lineNumber": 16,
+      "text": "and fill in the gaps.",
+      "bbox": {
+        "x": 184,
+        "y": 812,
+        "width": 243,
+        "height": 27
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-017",
+      "lineNumber": 17,
+      "text": "Teacher Well students, how do we",
+      "bbox": {
+        "x": 185,
+        "y": 870,
+        "width": 431,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-018",
+      "lineNumber": 18,
+      "text": "celebrate our national days?",
+      "bbox": {
+        "x": 328,
+        "y": 910,
+        "width": 318,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-019",
+      "lineNumber": 19,
+      "text": "Shanta We go to the .......",
+      "bbox": {
+        "x": 186,
+        "y": 946,
+        "width": 351,
+        "height": 33
+      },
+      "confidence": 90.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-020",
+      "lineNumber": 20,
+      "text": "We go to the Jatiya",
+      "bbox": {
+        "x": 328,
+        "y": 989,
+        "width": 218,
+        "height": 26
+      },
+      "confidence": 94.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-021",
+      "lineNumber": 21,
+      "text": "Smritisaudha at",
+      "bbox": {
+        "x": 329,
+        "y": 1029,
+        "width": 180,
+        "height": 20
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-022",
+      "lineNumber": 22,
+      "text": "Teacher Great! But do you know the English of Jatiya",
+      "bbox": {
+        "x": 190,
+        "y": 1130,
+        "width": 661,
+        "height": 26
+      },
+      "confidence": 93.7,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-023",
+      "lineNumber": 23,
+      "text": "Smriti Saudha?",
+      "bbox": {
+        "x": 332,
+        "y": 1176,
+        "width": 177,
+        "height": 20
+      },
+      "confidence": 91.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-024",
+      "lineNumber": 24,
+      "text": "Shanta Yes, sir/ma'am. It's ............ Mausoleum.",
+      "bbox": {
+        "x": 191,
+        "y": 1218,
+        "width": 633,
+        "height": 31
+      },
+      "confidence": 83.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-025",
+      "lineNumber": 25,
+      "text": "Teacher = Very good. Have you ever been",
+      "bbox": {
+        "x": 190,
+        "y": 1263,
+        "width": 498,
+        "height": 34
+      },
+      "confidence": 85.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-026",
+      "lineNumber": 26,
+      "text": "to our National ?",
+      "bbox": {
+        "x": 332,
+        "y": 1313,
+        "width": 349,
+        "height": 20
+      },
+      "confidence": 93.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-027",
+      "lineNumber": 27,
+      "text": "Shanta Oh yes, I went there last year on the",
+      "bbox": {
+        "x": 191,
+        "y": 1355,
+        "width": 551,
+        "height": 34
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-028",
+      "lineNumber": 28,
+      "text": "on 16 December.",
+      "bbox": {
+        "x": 333,
+        "y": 1405,
+        "width": 192,
+        "height": 19
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 43\nmonument dedicated to the soldiers and civilians who lost their lives during\nthe war, becomes a focal point for citizens to pay their respect. People from\nall walks of life gather to offer flowers, recite patriotic songs, and recall the\nsacrifices made by the nation’s heroes.\nWrite the meanings of the following words:\nHomage, Martyrs, Dedicate, Patriotic, Sacrifice, Commemorate\nAnswer the following questions:\na. What is the significance of our Victory Day?\nb. Why do we pay homage to our martyrs?\nc. What is the name of the monument situated at Savar?\nd. How many pcople have sacrificed their lives for our country’s liberation?\nMake a list of the patriotic songs that encouraged our people during\nthe Liberation War of Bangladesh.\nListen to the dialogue from a CD or as your teacher reads it out\nand fill in the gaps.\nTeacher Well students, how do we\ncelebrate our national days?\nShanta We go to the .......\nWe go to the Jatiya\nSmritisaudha at\nTeacher Great! But do you know the English of Jatiya\nSmriti Saudha?\nShanta Yes, sir/ma'am. It's ............ Mausoleum.\nTeacher = Very good. Have you ever been\nto our National ?\nShanta Oh yes, I went there last year on the\non 16 December.",
+  "cleanText": "English For Today 43\nmonument dedicated to the soldiers and civilians who lost their lives during\nthe war, becomes a focal point for citizens to pay their respect. People from\nall walks of life gather to offer flowers, recite patriotic songs, and recall the\nsacrifices made by the nation’s heroes.\nWrite the meanings of the following words:\nHomage, Martyrs, Dedicate, Patriotic, Sacrifice, Commemorate\nAnswer the following questions:\nWhat is the significance of our Victory Day?\nWhy do we pay homage to our martyrs?\nWhat is the name of the monument situated at Savar?\nHow many pcople have sacrificed their lives for our country’s liberation?\nMake a list of the patriotic songs that encouraged our people during\nthe Liberation War of Bangladesh.\nListen to the dialogue from a CD or as your teacher reads it out\nand fill in the gaps.\nTeacher Well students, how do we\ncelebrate our national days?\nShanta We go to the .......\nWe go to the Jatiya\nSmritisaudha at\nTeacher Great! But do you know the English of Jatiya\nSmriti Saudha?\nShanta Yes, sir/ma'am. It's ............ Mausoleum.\nTeacher = Very good. Have you ever been\nto our National ?\nShanta Oh yes, I went there last year on the\non 16 December.",
+  "aiReadyText": "English For Today 43\nmonument dedicated to the soldiers and civilians who lost their lives during\nthe war, becomes a focal point for citizens to pay their respect. People from\nall walks of life gather to offer flowers, recite patriotic songs, and recall the\nsacrifices made by the nation’s heroes.\nWrite the meanings of the following words:\nHomage, Martyrs, Dedicate, Patriotic, Sacrifice, Commemorate\nWhat is the significance of our Victory Day?\nWhy do we pay homage to our martyrs?\nWhat is the name of the monument situated at Savar?\nHow many pcople have sacrificed their lives for our country’s liberation?\nMake a list of the patriotic songs that encouraged our people during\nthe Liberation War of Bangladesh.\nand fill in the gaps.\nTeacher Well students, how do we\ncelebrate our national days?\nShanta We go to the .......\nWe go to the Jatiya\nSmritisaudha at\nTeacher Great! But do you know the English of Jatiya\nSmriti Saudha?\nShanta Yes, sir/ma'am. It's ............ Mausoleum.\nTeacher = Very good. Have you ever been\nto our National ?\nShanta Oh yes, I went there last year on the\non 16 December."
+}

@@ -1,0 +1,172 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 115,
+  "image": "/ocr/books/class6-english/page-images/page-115.png",
+  "width": 1152,
+  "height": 1555,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "2026 Academic Year",
+      "cleanText": "2026 Academic Year",
+      "bbox": {
+        "x": 305,
+        "y": 163,
+        "width": 560,
+        "height": 47
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Class Six : English For Today",
+      "cleanText": "Class Six : English For Today",
+      "bbox": {
+        "x": 271,
+        "y": 235,
+        "width": 628,
+        "height": 48
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "United we stand, divided we fall.",
+      "cleanText": "United we stand, divided we fall.",
+      "bbox": {
+        "x": 297,
+        "y": 460,
+        "width": 578,
+        "height": 37
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "VE ALMAYS",
+      "cleanText": "VE ALMAYS",
+      "bbox": {
+        "x": 298,
+        "y": 1071,
+        "width": 253,
+        "height": 86
+      },
+      "confidence": 72.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-115-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "FOUCIIT FO",
+      "cleanText": "FOUCIIT FO",
+      "bbox": {
+        "x": 286,
+        "y": 1119,
+        "width": 226,
+        "height": 41
+      },
+      "confidence": 86.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-115-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "OUR RIGHT",
+      "cleanText": "OUR RIGHT",
+      "bbox": {
+        "x": 302,
+        "y": 1155,
+        "width": 274,
+        "height": 49
+      },
+      "confidence": 79.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-115-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "For free distribution by the Government of the People’s Republic of Bangladesh.",
+      "cleanText": "For free distribution by the Government of the People’s Republic of Bangladesh.",
+      "bbox": {
+        "x": 117,
+        "y": 1416,
+        "width": 937,
+        "height": 26
+      },
+      "confidence": 95.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-007",
+      "lineNumber": 7
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-115-line-001",
+      "lineNumber": 1,
+      "text": "2026 Academic Year",
+      "bbox": {
+        "x": 305,
+        "y": 163,
+        "width": 560,
+        "height": 47
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-002",
+      "lineNumber": 2,
+      "text": "Class Six : English For Today",
+      "bbox": {
+        "x": 271,
+        "y": 235,
+        "width": 628,
+        "height": 48
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-003",
+      "lineNumber": 3,
+      "text": "United we stand, divided we fall.",
+      "bbox": {
+        "x": 297,
+        "y": 460,
+        "width": 578,
+        "height": 37
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-007",
+      "lineNumber": 7,
+      "text": "For free distribution by the Government of the People’s Republic of Bangladesh.",
+      "bbox": {
+        "x": 117,
+        "y": 1416,
+        "width": 937,
+        "height": 26
+      },
+      "confidence": 95.58,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "2026 Academic Year\nClass Six : English For Today\nUnited we stand, divided we fall.\nVE ALMAYS\nFOUCIIT FO\nOUR RIGHT\nFor free distribution by the Government of the People’s Republic of Bangladesh.",
+  "cleanText": "2026 Academic Year\nClass Six : English For Today\nUnited we stand, divided we fall.\nVE ALMAYS\nFOUCIIT FO\nOUR RIGHT\nFor free distribution by the Government of the People’s Republic of Bangladesh.",
+  "aiReadyText": "2026 Academic Year\nClass Six : English For Today\nUnited we stand, divided we fall.\nFor free distribution by the Government of the People’s Republic of Bangladesh."
+}

@@ -1,0 +1,848 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 97,
+  "image": "/ocr/books/class6-english/page-images/page-097.png",
+  "width": 1149,
+  "height": 1525,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 32 An Invitation for Robin",
+      "cleanText": "Lesson 32 An Invitation for Robin",
+      "bbox": {
+        "x": 239,
+        "y": 181,
+        "width": 732,
+        "height": 31
+      },
+      "confidence": 90.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 183,
+        "y": 246,
+        "width": 569,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-097-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "read and understand texts",
+      "cleanText": "read and understand texts",
+      "bbox": {
+        "x": 222,
+        "y": 277,
+        "width": 266,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "* ask and answer questions",
+      "cleanText": "* ask and answer questions",
+      "bbox": {
+        "x": 203,
+        "y": 308,
+        "width": 284,
+        "height": 23
+      },
+      "confidence": 90.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "* write short paragraphs",
+      "cleanText": "* write short paragraphs",
+      "bbox": {
+        "x": 203,
+        "y": 338,
+        "width": 253,
+        "height": 24
+      },
+      "confidence": 87.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "write simple informal letters",
+      "cleanText": "write simple informal letters",
+      "bbox": {
+        "x": 222,
+        "y": 376,
+        "width": 298,
+        "height": 23
+      },
+      "confidence": 96.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Read the following passage and the letter.",
+      "cleanText": "Read the following passage and the letter.",
+      "bbox": {
+        "x": 180,
+        "y": 409,
+        "width": 521,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-097-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Robin received a letter. He read the letter over and over. He was very",
+      "cleanText": "Robin received a letter. He read the letter over and over. He was very",
+      "bbox": {
+        "x": 177,
+        "y": 444,
+        "width": 844,
+        "height": 26
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "excited, It came from his aunt Amina. Aunt Amina and her family live in",
+      "cleanText": "excited, It came from his aunt Amina. Aunt Amina and her family live in",
+      "bbox": {
+        "x": 176,
+        "y": 477,
+        "width": 847,
+        "height": 26
+      },
+      "confidence": 93.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "the countryside forty miles away from Dhaka. Robin ran to his mother",
+      "cleanText": "the countryside forty miles away from Dhaka. Robin ran to his mother",
+      "bbox": {
+        "x": 174,
+        "y": 510,
+        "width": 849,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "and said, \"Mom, listen to this letter.\" He then read it to her.",
+      "cleanText": "and said, \"Mom, listen to this letter.\" He then read it to her.",
+      "bbox": {
+        "x": 175,
+        "y": 539,
+        "width": 675,
+        "height": 34
+      },
+      "confidence": 95.46,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Master Bari",
+      "cleanText": "Master Bari",
+      "bbox": {
+        "x": 668,
+        "y": 635,
+        "width": 106,
+        "height": 12
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-097-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Banchharampur",
+      "cleanText": "Banchharampur",
+      "bbox": {
+        "x": 668,
+        "y": 656,
+        "width": 145,
+        "height": 16
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-097-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "B. Baria",
+      "cleanText": "Baria",
+      "bbox": {
+        "x": 668,
+        "y": 677,
+        "width": 74,
+        "height": 12
+      },
+      "confidence": 88.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-097-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Dear Robin, “ae",
+      "cleanText": "Dear Robin, “ae",
+      "bbox": {
+        "x": 283,
+        "y": 702,
+        "width": 453,
+        "height": 27
+      },
+      "confidence": 80.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "We are happy to know that your summer holiday is",
+      "cleanText": "We are happy to know that your summer holiday is",
+      "bbox": {
+        "x": 283,
+        "y": 744,
+        "width": 516,
+        "height": 22
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "starting from the next week. We would like you to",
+      "cleanText": "starting from the next week. We would like you to",
+      "bbox": {
+        "x": 282,
+        "y": 772,
+        "width": 517,
+        "height": 22
+      },
+      "confidence": 93.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "come and stay with us for a few days.",
+      "cleanText": "come and stay with us for a few days.",
+      "bbox": {
+        "x": 283,
+        "y": 799,
+        "width": 369,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "We know you'll like the country. We have four",
+      "cleanText": "We know you'll like the country. We have four",
+      "bbox": {
+        "x": 283,
+        "y": 834,
+        "width": 517,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "ducks, six chickens and a cow that gives fresh",
+      "cleanText": "ducks, six chickens and a cow that gives fresh",
+      "bbox": {
+        "x": 283,
+        "y": 862,
+        "width": 516,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "milk every day.",
+      "cleanText": "milk every day.",
+      "bbox": {
+        "x": 283,
+        "y": 890,
+        "width": 152,
+        "height": 22
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Your cousin Maher is just about your age. He's",
+      "cleanText": "Your cousin Maher is just about your age. He's",
+      "bbox": {
+        "x": 282,
+        "y": 923,
+        "width": 518,
+        "height": 22
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "very excited and is making a lot of plans to do",
+      "cleanText": "very excited and is making a lot of plans to do",
+      "bbox": {
+        "x": 282,
+        "y": 951,
+        "width": 518,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "together.",
+      "cleanText": "together.",
+      "bbox": {
+        "x": 282,
+        "y": 978,
+        "width": 96,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-097-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Let us know when you will arrive. We have already",
+      "cleanText": "Let us know when you will arrive. We have already",
+      "bbox": {
+        "x": 283,
+        "y": 1007,
+        "width": 517,
+        "height": 22
+      },
+      "confidence": 95.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "talked to your parents. Tell them not to worry. We'll",
+      "cleanText": "talked to your parents. Tell them not to worry. We'll",
+      "bbox": {
+        "x": 282,
+        "y": 1034,
+        "width": 517,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "be at the bus station to receive you.",
+      "cleanText": "be at the bus station to receive you.",
+      "bbox": {
+        "x": 283,
+        "y": 1063,
+        "width": 341,
+        "height": 21
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "Your Aunt Amina and",
+      "cleanText": "Your Aunt Amina and",
+      "bbox": {
+        "x": 281,
+        "y": 1100,
+        "width": 216,
+        "height": 17
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "Uncle Karim",
+      "cleanText": "Uncle Karim",
+      "bbox": {
+        "x": 284,
+        "y": 1134,
+        "width": 122,
+        "height": 17
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-097-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "Language Focus",
+      "cleanText": "Language Focus",
+      "bbox": {
+        "x": 182,
+        "y": 1218,
+        "width": 205,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "For requests and invitations we often use the following expressions:",
+      "cleanText": "For requests and invitations we often use the following expressions:",
+      "bbox": {
+        "x": 205,
+        "y": 1276,
+        "width": 772,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "\"Would like you to’ to mean, \"Would you please’ or just 'Please do’",
+      "cleanText": "\"Would like you to’ to mean, \"Would you please’ or just 'Please do’",
+      "bbox": {
+        "x": 205,
+        "y": 1316,
+        "width": 746,
+        "height": 33
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "‘Let us to mean, ‘inform us’, or simply ‘tell us’",
+      "cleanText": "‘Let us to mean, ‘inform us’, or simply ‘tell us’",
+      "bbox": {
+        "x": 204,
+        "y": 1359,
+        "width": 592,
+        "height": 26
+      },
+      "confidence": 91.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-033",
+      "lineNumber": 33
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-097-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 32 An Invitation for Robin",
+      "bbox": {
+        "x": 239,
+        "y": 181,
+        "width": 732,
+        "height": 31
+      },
+      "confidence": 90.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-003",
+      "lineNumber": 3,
+      "text": "read and understand texts",
+      "bbox": {
+        "x": 222,
+        "y": 277,
+        "width": 266,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-004",
+      "lineNumber": 4,
+      "text": "* ask and answer questions",
+      "bbox": {
+        "x": 203,
+        "y": 308,
+        "width": 284,
+        "height": 23
+      },
+      "confidence": 90.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-005",
+      "lineNumber": 5,
+      "text": "* write short paragraphs",
+      "bbox": {
+        "x": 203,
+        "y": 338,
+        "width": 253,
+        "height": 24
+      },
+      "confidence": 87.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-006",
+      "lineNumber": 6,
+      "text": "write simple informal letters",
+      "bbox": {
+        "x": 222,
+        "y": 376,
+        "width": 298,
+        "height": 23
+      },
+      "confidence": 96.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-008",
+      "lineNumber": 8,
+      "text": "Robin received a letter. He read the letter over and over. He was very",
+      "bbox": {
+        "x": 177,
+        "y": 444,
+        "width": 844,
+        "height": 26
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-009",
+      "lineNumber": 9,
+      "text": "excited, It came from his aunt Amina. Aunt Amina and her family live in",
+      "bbox": {
+        "x": 176,
+        "y": 477,
+        "width": 847,
+        "height": 26
+      },
+      "confidence": 93.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-010",
+      "lineNumber": 10,
+      "text": "the countryside forty miles away from Dhaka. Robin ran to his mother",
+      "bbox": {
+        "x": 174,
+        "y": 510,
+        "width": 849,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-011",
+      "lineNumber": 11,
+      "text": "and said, \"Mom, listen to this letter.\" He then read it to her.",
+      "bbox": {
+        "x": 175,
+        "y": 539,
+        "width": 675,
+        "height": 34
+      },
+      "confidence": 95.46,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-015",
+      "lineNumber": 15,
+      "text": "Dear Robin, “ae",
+      "bbox": {
+        "x": 283,
+        "y": 702,
+        "width": 453,
+        "height": 27
+      },
+      "confidence": 80.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-016",
+      "lineNumber": 16,
+      "text": "We are happy to know that your summer holiday is",
+      "bbox": {
+        "x": 283,
+        "y": 744,
+        "width": 516,
+        "height": 22
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-017",
+      "lineNumber": 17,
+      "text": "starting from the next week. We would like you to",
+      "bbox": {
+        "x": 282,
+        "y": 772,
+        "width": 517,
+        "height": 22
+      },
+      "confidence": 93.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-018",
+      "lineNumber": 18,
+      "text": "come and stay with us for a few days.",
+      "bbox": {
+        "x": 283,
+        "y": 799,
+        "width": 369,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-019",
+      "lineNumber": 19,
+      "text": "We know you'll like the country. We have four",
+      "bbox": {
+        "x": 283,
+        "y": 834,
+        "width": 517,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-020",
+      "lineNumber": 20,
+      "text": "ducks, six chickens and a cow that gives fresh",
+      "bbox": {
+        "x": 283,
+        "y": 862,
+        "width": 516,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-021",
+      "lineNumber": 21,
+      "text": "milk every day.",
+      "bbox": {
+        "x": 283,
+        "y": 890,
+        "width": 152,
+        "height": 22
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-022",
+      "lineNumber": 22,
+      "text": "Your cousin Maher is just about your age. He's",
+      "bbox": {
+        "x": 282,
+        "y": 923,
+        "width": 518,
+        "height": 22
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-023",
+      "lineNumber": 23,
+      "text": "very excited and is making a lot of plans to do",
+      "bbox": {
+        "x": 282,
+        "y": 951,
+        "width": 518,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-025",
+      "lineNumber": 25,
+      "text": "Let us know when you will arrive. We have already",
+      "bbox": {
+        "x": 283,
+        "y": 1007,
+        "width": 517,
+        "height": 22
+      },
+      "confidence": 95.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-026",
+      "lineNumber": 26,
+      "text": "talked to your parents. Tell them not to worry. We'll",
+      "bbox": {
+        "x": 282,
+        "y": 1034,
+        "width": 517,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-027",
+      "lineNumber": 27,
+      "text": "be at the bus station to receive you.",
+      "bbox": {
+        "x": 283,
+        "y": 1063,
+        "width": 341,
+        "height": 21
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-028",
+      "lineNumber": 28,
+      "text": "Your Aunt Amina and",
+      "bbox": {
+        "x": 281,
+        "y": 1100,
+        "width": 216,
+        "height": 17
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-030",
+      "lineNumber": 30,
+      "text": "Language Focus",
+      "bbox": {
+        "x": 182,
+        "y": 1218,
+        "width": 205,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-031",
+      "lineNumber": 31,
+      "text": "For requests and invitations we often use the following expressions:",
+      "bbox": {
+        "x": 205,
+        "y": 1276,
+        "width": 772,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-032",
+      "lineNumber": 32,
+      "text": "\"Would like you to’ to mean, \"Would you please’ or just 'Please do’",
+      "bbox": {
+        "x": 205,
+        "y": 1316,
+        "width": 746,
+        "height": 33
+      },
+      "confidence": 89.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-033",
+      "lineNumber": 33,
+      "text": "‘Let us to mean, ‘inform us’, or simply ‘tell us’",
+      "bbox": {
+        "x": 204,
+        "y": 1359,
+        "width": 592,
+        "height": 26
+      },
+      "confidence": 91.1,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 32 An Invitation for Robin\nAfter completing the lesson students will be able to\nread and understand texts\n* ask and answer questions\n* write short paragraphs\nwrite simple informal letters\nRead the following passage and the letter.\nRobin received a letter. He read the letter over and over. He was very\nexcited, It came from his aunt Amina. Aunt Amina and her family live in\nthe countryside forty miles away from Dhaka. Robin ran to his mother\nand said, \"Mom, listen to this letter.\" He then read it to her.\nMaster Bari\nBanchharampur\nB. Baria\nDear Robin, “ae\nWe are happy to know that your summer holiday is\nstarting from the next week. We would like you to\ncome and stay with us for a few days.\nWe know you'll like the country. We have four\nducks, six chickens and a cow that gives fresh\nmilk every day.\nYour cousin Maher is just about your age. He's\nvery excited and is making a lot of plans to do\ntogether.\nLet us know when you will arrive. We have already\ntalked to your parents. Tell them not to worry. We'll\nbe at the bus station to receive you.\nYour Aunt Amina and\nUncle Karim\nLanguage Focus\nFor requests and invitations we often use the following expressions:\n\"Would like you to’ to mean, \"Would you please’ or just 'Please do’\n‘Let us to mean, ‘inform us’, or simply ‘tell us’",
+  "cleanText": "Lesson 32 An Invitation for Robin\nAfter completing the lesson students will be able to\nread and understand texts\n* ask and answer questions\n* write short paragraphs\nwrite simple informal letters\nRead the following passage and the letter.\nRobin received a letter. He read the letter over and over. He was very\nexcited, It came from his aunt Amina. Aunt Amina and her family live in\nthe countryside forty miles away from Dhaka. Robin ran to his mother\nand said, \"Mom, listen to this letter.\" He then read it to her.\nMaster Bari\nBanchharampur\nBaria\nDear Robin, “ae\nWe are happy to know that your summer holiday is\nstarting from the next week. We would like you to\ncome and stay with us for a few days.\nWe know you'll like the country. We have four\nducks, six chickens and a cow that gives fresh\nmilk every day.\nYour cousin Maher is just about your age. He's\nvery excited and is making a lot of plans to do\ntogether.\nLet us know when you will arrive. We have already\ntalked to your parents. Tell them not to worry. We'll\nbe at the bus station to receive you.\nYour Aunt Amina and\nUncle Karim\nLanguage Focus\nFor requests and invitations we often use the following expressions:\n\"Would like you to’ to mean, \"Would you please’ or just 'Please do’\n‘Let us to mean, ‘inform us’, or simply ‘tell us’",
+  "aiReadyText": "Lesson 32 An Invitation for Robin\nread and understand texts\n* ask and answer questions\n* write short paragraphs\nwrite simple informal letters\nRobin received a letter. He read the letter over and over. He was very\nexcited, It came from his aunt Amina. Aunt Amina and her family live in\nthe countryside forty miles away from Dhaka. Robin ran to his mother\nand said, \"Mom, listen to this letter.\" He then read it to her.\nDear Robin, “ae\nWe are happy to know that your summer holiday is\nstarting from the next week. We would like you to\ncome and stay with us for a few days.\nWe know you'll like the country. We have four\nducks, six chickens and a cow that gives fresh\nmilk every day.\nYour cousin Maher is just about your age. He's\nvery excited and is making a lot of plans to do\nLet us know when you will arrive. We have already\ntalked to your parents. Tell them not to worry. We'll\nbe at the bus station to receive you.\nYour Aunt Amina and\nLanguage Focus\nFor requests and invitations we often use the following expressions:\n\"Would like you to’ to mean, \"Would you please’ or just 'Please do’\n‘Let us to mean, ‘inform us’, or simply ‘tell us’"
+}

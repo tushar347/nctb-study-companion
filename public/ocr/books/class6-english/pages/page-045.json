@@ -1,0 +1,842 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 45,
+  "image": "/ocr/books/class6-english/page-images/page-045.png",
+  "width": 1160,
+  "height": 1510,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "mountain-valley, the modest movement of the river Someshwari, and the",
+      "cleanText": "mountain-valley, the modest movement of the river Someshwari, and the",
+      "bbox": {
+        "x": 177,
+        "y": 157,
+        "width": 844,
+        "height": 27
+      },
+      "confidence": 94.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "abandoned coal mines. There is another river here called Kangsa",
+      "cleanText": "abandoned coal mines. There is another river here called Kangsa",
+      "bbox": {
+        "x": 177,
+        "y": 191,
+        "width": 847,
+        "height": 27
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "which is also known as old Someshwari.",
+      "cleanText": "which is also known as old Someshwari.",
+      "bbox": {
+        "x": 180,
+        "y": 228,
+        "width": 500,
+        "height": 20
+      },
+      "confidence": 93.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Shusong Durgapur is",
+      "cleanText": "Shusong Durgapur is",
+      "bbox": {
+        "x": 181,
+        "y": 274,
+        "width": 316,
+        "height": 26
+      },
+      "confidence": 70.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "located under Netrokona",
+      "cleanText": "located under Netrokona",
+      "bbox": {
+        "x": 182,
+        "y": 310,
+        "width": 315,
+        "height": 20
+      },
+      "confidence": 91.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "district about 170 km north",
+      "cleanText": "district about 170 km north",
+      "bbox": {
+        "x": 181,
+        "y": 345,
+        "width": 316,
+        "height": 20
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "from Dhaka. Along with its",
+      "cleanText": "from Dhaka. Along with its",
+      "bbox": {
+        "x": 181,
+        "y": 380,
+        "width": 316,
+        "height": 26
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "scenic beauty this place is",
+      "cleanText": "scenic beauty this place is",
+      "bbox": {
+        "x": 181,
+        "y": 415,
+        "width": 316,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "home to diverse indigenous",
+      "cleanText": "home to diverse indigenous",
+      "bbox": {
+        "x": 181,
+        "y": 450,
+        "width": 316,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "groups: Hajong, Garo,",
+      "cleanText": "groups: Hajong, Garo,",
+      "bbox": {
+        "x": 181,
+        "y": 486,
+        "width": 315,
+        "height": 26
+      },
+      "confidence": 82.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Achik and Mandi. The",
+      "cleanText": "Achik and Mandi. The",
+      "bbox": {
+        "x": 180,
+        "y": 521,
+        "width": 317,
+        "height": 20
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "cultural academy in",
+      "cleanText": "cultural academy in",
+      "bbox": {
+        "x": 181,
+        "y": 552,
+        "width": 316,
+        "height": 34
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Durgapur is responsible for",
+      "cleanText": "Durgapur is responsible for",
+      "bbox": {
+        "x": 181,
+        "y": 591,
+        "width": 317,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "preserving and promoting",
+      "cleanText": "preserving and promoting",
+      "bbox": {
+        "x": 180,
+        "y": 626,
+        "width": 317,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "the culture and traditions of",
+      "cleanText": "the culture and traditions of",
+      "bbox": {
+        "x": 180,
+        "y": 662,
+        "width": 320,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "these indigenous groups.",
+      "cleanText": "these indigenous groups.",
+      "bbox": {
+        "x": 180,
+        "y": 697,
+        "width": 281,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "The main attraction of Birishiri is the ceramic hill of Durgapur and",
+      "cleanText": "The main attraction of Birishiri is the ceramic hill of Durgapur and",
+      "bbox": {
+        "x": 181,
+        "y": 754,
+        "width": 833,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "the charming landscape along the Shomeshwari River. The river changes",
+      "cleanText": "the charming landscape along the Shomeshwari River. The river changes",
+      "bbox": {
+        "x": 182,
+        "y": 793,
+        "width": 835,
+        "height": 26
+      },
+      "confidence": 95.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "its colour as the seasons change. Among other attractions are the palace of",
+      "cleanText": "its colour as the seasons change. Among other attractions are the palace of",
+      "bbox": {
+        "x": 182,
+        "y": 833,
+        "width": 840,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "the Susang king, the Dasha Busha Temple, Orange Gardens, Shal forests",
+      "cleanText": "the Susang king, the Dasha Busha Temple, Orange Gardens, Shal forests",
+      "bbox": {
+        "x": 182,
+        "y": 872,
+        "width": 835,
+        "height": 27
+      },
+      "confidence": 94.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "and the Ramkrisna and Loknath Baba Temples.",
+      "cleanText": "and the Ramkrisna and Loknath Baba Temples.",
+      "bbox": {
+        "x": 182,
+        "y": 912,
+        "width": 531,
+        "height": 26
+      },
+      "confidence": 93.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "The best way to get to Birishiri is by road from Dhaka. You can find",
+      "cleanText": "The best way to get to Birishiri is by road from Dhaka. You can find",
+      "bbox": {
+        "x": 181,
+        "y": 967,
+        "width": 835,
+        "height": 26
+      },
+      "confidence": 95.13,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "direct bus to Birishiri from Mohakhali bus stand, Dhaka. It usually takes",
+      "cleanText": "direct bus to Birishiri from Mohakhali bus stand, Dhaka. It usually takes",
+      "bbox": {
+        "x": 178,
+        "y": 1007,
+        "width": 838,
+        "height": 26
+      },
+      "confidence": 93.42,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "5 to 6 hours to get there. When you are there, you can go around the",
+      "cleanText": "5 to 6 hours to get there. When you are there, you can go around the",
+      "bbox": {
+        "x": 180,
+        "y": 1045,
+        "width": 837,
+        "height": 27
+      },
+      "confidence": 93.06,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "town by rickshaws. The rickshaw- pullers know all the places very well.",
+      "cleanText": "town by rickshaws. The rickshaw- pullers know all the places very well.",
+      "bbox": {
+        "x": 179,
+        "y": 1086,
+        "width": 838,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Complete the dialogue below and act it out in pairs.",
+      "cleanText": "Complete the dialogue below and act it out in pairs.",
+      "bbox": {
+        "x": 181,
+        "y": 1142,
+        "width": 648,
+        "height": 27
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-045-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "A: Are there any rivers in Birishiri?",
+      "cleanText": "A: Are there any rivers in Birishiri?",
+      "bbox": {
+        "x": 180,
+        "y": 1194,
+        "width": 441,
+        "height": 26
+      },
+      "confidence": 87.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": ": Yes, there are. There are two rivers, the Shomeshwari and Kangsa.",
+      "cleanText": ": Yes, there are. There are two rivers, the Shomeshwari and Kangsa.",
+      "bbox": {
+        "x": 223,
+        "y": 1242,
+        "width": 786,
+        "height": 35
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "A: Are there any hills in Birishiri?",
+      "cleanText": "A: Are there any hills in Birishiri?",
+      "bbox": {
+        "x": 181,
+        "y": 1299,
+        "width": 424,
+        "height": 26
+      },
+      "confidence": 88.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "2 Ves, is. It’s called ....",
+      "cleanText": "2 Ves, is. It’s called ....",
+      "bbox": {
+        "x": 237,
+        "y": 1352,
+        "width": 326,
+        "height": 24
+      },
+      "confidence": 77.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-030",
+      "lineNumber": 30
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-045-line-001",
+      "lineNumber": 1,
+      "text": "mountain-valley, the modest movement of the river Someshwari, and the",
+      "bbox": {
+        "x": 177,
+        "y": 157,
+        "width": 844,
+        "height": 27
+      },
+      "confidence": 94.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-002",
+      "lineNumber": 2,
+      "text": "abandoned coal mines. There is another river here called Kangsa",
+      "bbox": {
+        "x": 177,
+        "y": 191,
+        "width": 847,
+        "height": 27
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-003",
+      "lineNumber": 3,
+      "text": "which is also known as old Someshwari.",
+      "bbox": {
+        "x": 180,
+        "y": 228,
+        "width": 500,
+        "height": 20
+      },
+      "confidence": 93.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-004",
+      "lineNumber": 4,
+      "text": "Shusong Durgapur is",
+      "bbox": {
+        "x": 181,
+        "y": 274,
+        "width": 316,
+        "height": 26
+      },
+      "confidence": 70.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-005",
+      "lineNumber": 5,
+      "text": "located under Netrokona",
+      "bbox": {
+        "x": 182,
+        "y": 310,
+        "width": 315,
+        "height": 20
+      },
+      "confidence": 91.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-006",
+      "lineNumber": 6,
+      "text": "district about 170 km north",
+      "bbox": {
+        "x": 181,
+        "y": 345,
+        "width": 316,
+        "height": 20
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-007",
+      "lineNumber": 7,
+      "text": "from Dhaka. Along with its",
+      "bbox": {
+        "x": 181,
+        "y": 380,
+        "width": 316,
+        "height": 26
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-008",
+      "lineNumber": 8,
+      "text": "scenic beauty this place is",
+      "bbox": {
+        "x": 181,
+        "y": 415,
+        "width": 316,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-009",
+      "lineNumber": 9,
+      "text": "home to diverse indigenous",
+      "bbox": {
+        "x": 181,
+        "y": 450,
+        "width": 316,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-010",
+      "lineNumber": 10,
+      "text": "groups: Hajong, Garo,",
+      "bbox": {
+        "x": 181,
+        "y": 486,
+        "width": 315,
+        "height": 26
+      },
+      "confidence": 82.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-011",
+      "lineNumber": 11,
+      "text": "Achik and Mandi. The",
+      "bbox": {
+        "x": 180,
+        "y": 521,
+        "width": 317,
+        "height": 20
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-012",
+      "lineNumber": 12,
+      "text": "cultural academy in",
+      "bbox": {
+        "x": 181,
+        "y": 552,
+        "width": 316,
+        "height": 34
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-013",
+      "lineNumber": 13,
+      "text": "Durgapur is responsible for",
+      "bbox": {
+        "x": 181,
+        "y": 591,
+        "width": 317,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-014",
+      "lineNumber": 14,
+      "text": "preserving and promoting",
+      "bbox": {
+        "x": 180,
+        "y": 626,
+        "width": 317,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-015",
+      "lineNumber": 15,
+      "text": "the culture and traditions of",
+      "bbox": {
+        "x": 180,
+        "y": 662,
+        "width": 320,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-016",
+      "lineNumber": 16,
+      "text": "these indigenous groups.",
+      "bbox": {
+        "x": 180,
+        "y": 697,
+        "width": 281,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-017",
+      "lineNumber": 17,
+      "text": "The main attraction of Birishiri is the ceramic hill of Durgapur and",
+      "bbox": {
+        "x": 181,
+        "y": 754,
+        "width": 833,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-018",
+      "lineNumber": 18,
+      "text": "the charming landscape along the Shomeshwari River. The river changes",
+      "bbox": {
+        "x": 182,
+        "y": 793,
+        "width": 835,
+        "height": 26
+      },
+      "confidence": 95.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-019",
+      "lineNumber": 19,
+      "text": "its colour as the seasons change. Among other attractions are the palace of",
+      "bbox": {
+        "x": 182,
+        "y": 833,
+        "width": 840,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-020",
+      "lineNumber": 20,
+      "text": "the Susang king, the Dasha Busha Temple, Orange Gardens, Shal forests",
+      "bbox": {
+        "x": 182,
+        "y": 872,
+        "width": 835,
+        "height": 27
+      },
+      "confidence": 94.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-021",
+      "lineNumber": 21,
+      "text": "and the Ramkrisna and Loknath Baba Temples.",
+      "bbox": {
+        "x": 182,
+        "y": 912,
+        "width": 531,
+        "height": 26
+      },
+      "confidence": 93.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-022",
+      "lineNumber": 22,
+      "text": "The best way to get to Birishiri is by road from Dhaka. You can find",
+      "bbox": {
+        "x": 181,
+        "y": 967,
+        "width": 835,
+        "height": 26
+      },
+      "confidence": 95.13,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-023",
+      "lineNumber": 23,
+      "text": "direct bus to Birishiri from Mohakhali bus stand, Dhaka. It usually takes",
+      "bbox": {
+        "x": 178,
+        "y": 1007,
+        "width": 838,
+        "height": 26
+      },
+      "confidence": 93.42,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-024",
+      "lineNumber": 24,
+      "text": "5 to 6 hours to get there. When you are there, you can go around the",
+      "bbox": {
+        "x": 180,
+        "y": 1045,
+        "width": 837,
+        "height": 27
+      },
+      "confidence": 93.06,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-025",
+      "lineNumber": 25,
+      "text": "town by rickshaws. The rickshaw- pullers know all the places very well.",
+      "bbox": {
+        "x": 179,
+        "y": 1086,
+        "width": 838,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-027",
+      "lineNumber": 27,
+      "text": "A: Are there any rivers in Birishiri?",
+      "bbox": {
+        "x": 180,
+        "y": 1194,
+        "width": 441,
+        "height": 26
+      },
+      "confidence": 87.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-028",
+      "lineNumber": 28,
+      "text": ": Yes, there are. There are two rivers, the Shomeshwari and Kangsa.",
+      "bbox": {
+        "x": 223,
+        "y": 1242,
+        "width": 786,
+        "height": 35
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-029",
+      "lineNumber": 29,
+      "text": "A: Are there any hills in Birishiri?",
+      "bbox": {
+        "x": 181,
+        "y": 1299,
+        "width": 424,
+        "height": 26
+      },
+      "confidence": 88.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-030",
+      "lineNumber": 30,
+      "text": "2 Ves, is. It’s called ....",
+      "bbox": {
+        "x": 237,
+        "y": 1352,
+        "width": 326,
+        "height": 24
+      },
+      "confidence": 77.67,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "mountain-valley, the modest movement of the river Someshwari, and the\nabandoned coal mines. There is another river here called Kangsa\nwhich is also known as old Someshwari.\nShusong Durgapur is\nlocated under Netrokona\ndistrict about 170 km north\nfrom Dhaka. Along with its\nscenic beauty this place is\nhome to diverse indigenous\ngroups: Hajong, Garo,\nAchik and Mandi. The\ncultural academy in\nDurgapur is responsible for\npreserving and promoting\nthe culture and traditions of\nthese indigenous groups.\nThe main attraction of Birishiri is the ceramic hill of Durgapur and\nthe charming landscape along the Shomeshwari River. The river changes\nits colour as the seasons change. Among other attractions are the palace of\nthe Susang king, the Dasha Busha Temple, Orange Gardens, Shal forests\nand the Ramkrisna and Loknath Baba Temples.\nThe best way to get to Birishiri is by road from Dhaka. You can find\ndirect bus to Birishiri from Mohakhali bus stand, Dhaka. It usually takes\n5 to 6 hours to get there. When you are there, you can go around the\ntown by rickshaws. The rickshaw- pullers know all the places very well.\nComplete the dialogue below and act it out in pairs.\nA: Are there any rivers in Birishiri?\n: Yes, there are. There are two rivers, the Shomeshwari and Kangsa.\nA: Are there any hills in Birishiri?\n2 Ves, is. It’s called ....",
+  "cleanText": "mountain-valley, the modest movement of the river Someshwari, and the\nabandoned coal mines. There is another river here called Kangsa\nwhich is also known as old Someshwari.\nShusong Durgapur is\nlocated under Netrokona\ndistrict about 170 km north\nfrom Dhaka. Along with its\nscenic beauty this place is\nhome to diverse indigenous\ngroups: Hajong, Garo,\nAchik and Mandi. The\ncultural academy in\nDurgapur is responsible for\npreserving and promoting\nthe culture and traditions of\nthese indigenous groups.\nThe main attraction of Birishiri is the ceramic hill of Durgapur and\nthe charming landscape along the Shomeshwari River. The river changes\nits colour as the seasons change. Among other attractions are the palace of\nthe Susang king, the Dasha Busha Temple, Orange Gardens, Shal forests\nand the Ramkrisna and Loknath Baba Temples.\nThe best way to get to Birishiri is by road from Dhaka. You can find\ndirect bus to Birishiri from Mohakhali bus stand, Dhaka. It usually takes\n5 to 6 hours to get there. When you are there, you can go around the\ntown by rickshaws. The rickshaw- pullers know all the places very well.\nComplete the dialogue below and act it out in pairs.\nA: Are there any rivers in Birishiri?\n: Yes, there are. There are two rivers, the Shomeshwari and Kangsa.\nA: Are there any hills in Birishiri?\n2 Ves, is. It’s called ....",
+  "aiReadyText": "mountain-valley, the modest movement of the river Someshwari, and the\nabandoned coal mines. There is another river here called Kangsa\nwhich is also known as old Someshwari.\nShusong Durgapur is\nlocated under Netrokona\ndistrict about 170 km north\nfrom Dhaka. Along with its\nscenic beauty this place is\nhome to diverse indigenous\ngroups: Hajong, Garo,\nAchik and Mandi. The\ncultural academy in\nDurgapur is responsible for\npreserving and promoting\nthe culture and traditions of\nthese indigenous groups.\nThe main attraction of Birishiri is the ceramic hill of Durgapur and\nthe charming landscape along the Shomeshwari River. The river changes\nits colour as the seasons change. Among other attractions are the palace of\nthe Susang king, the Dasha Busha Temple, Orange Gardens, Shal forests\nand the Ramkrisna and Loknath Baba Temples.\nThe best way to get to Birishiri is by road from Dhaka. You can find\ndirect bus to Birishiri from Mohakhali bus stand, Dhaka. It usually takes\n5 to 6 hours to get there. When you are there, you can go around the\ntown by rickshaws. The rickshaw- pullers know all the places very well.\nA: Are there any rivers in Birishiri?\n: Yes, there are. There are two rivers, the Shomeshwari and Kangsa.\nA: Are there any hills in Birishiri?\n2 Ves, is. It’s called ...."
+}

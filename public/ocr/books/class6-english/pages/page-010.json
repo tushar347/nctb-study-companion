@@ -1,0 +1,717 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 10,
+  "image": "/ocr/books/class6-english/page-images/page-010.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 5",
+      "cleanText": "English For Today 5",
+      "bbox": {
+        "x": 120,
+        "y": 76,
+        "width": 910,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Rahul lam happy. I just heard that my new album",
+      "cleanText": "Rahul lam happy. I just heard that my new album",
+      "bbox": {
+        "x": 185,
+        "y": 155,
+        "width": 630,
+        "height": 25
+      },
+      "confidence": 93.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "of Lalon's songs has been a hit!",
+      "cleanText": "of Lalon's songs has been a hit!",
+      "bbox": {
+        "x": 321,
+        "y": 203,
+        "width": 355,
+        "height": 34
+      },
+      "confidence": 92.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Nina Oh, great! Congratulations!",
+      "cleanText": "Nina Oh, great! Congratulations!",
+      "bbox": {
+        "x": 185,
+        "y": 256,
+        "width": 448,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Rahul Thanks, Nina. I can't tell you how happy Tam!",
+      "cleanText": "Rahul Thanks, Nina. I can't tell you how happy Tam!",
+      "bbox": {
+        "x": 185,
+        "y": 309,
+        "width": 665,
+        "height": 34
+      },
+      "confidence": 93.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "iii) Manzoor is a student of class six in a Sovernment high school in",
+      "cleanText": "Manzoor is a student of class six in a Sovernment high school in",
+      "bbox": {
+        "x": 178,
+        "y": 374,
+        "width": 851,
+        "height": 25
+      },
+      "confidence": 89.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Rajbari. Recently there was an inter-school essay competition on the occasion",
+      "cleanText": "Rajbari. Recently there was an inter-school essay competition on the occasion",
+      "bbox": {
+        "x": 175,
+        "y": 407,
+        "width": 858,
+        "height": 27
+      },
+      "confidence": 94.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "of our Independence Day. Manzoor had participated and got a prize.",
+      "cleanText": "of our Independence Day. Manzoor had participated and got a prize.",
+      "bbox": {
+        "x": 177,
+        "y": 444,
+        "width": 736,
+        "height": 27
+      },
+      "confidence": 95.18,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Raj Hello, Manzoor! What's the matter?",
+      "cleanText": "Raj Hello, Manzoor! What's the matter?",
+      "bbox": {
+        "x": 182,
+        "y": 490,
+        "width": 550,
+        "height": 34
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "You look excited!",
+      "cleanText": "You look excited!",
+      "bbox": {
+        "x": 320,
+        "y": 547,
+        "width": 199,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Manzoor Do you remember the competition I took part?",
+      "cleanText": "Manzoor Do you remember the competition I took part?",
+      "bbox": {
+        "x": 186,
+        "y": 593,
+        "width": 676,
+        "height": 26
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Raj Yes, I do. What happened?",
+      "cleanText": "Raj Yes, I do. What happened?",
+      "bbox": {
+        "x": 182,
+        "y": 641,
+        "width": 443,
+        "height": 35
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Manzoor I am happy that I've won the competition!",
+      "cleanText": "Manzoor I am happy that I've won the competition!",
+      "bbox": {
+        "x": 186,
+        "y": 696,
+        "width": 612,
+        "height": 26
+      },
+      "confidence": 89.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "In fact, I've won the first prize!",
+      "cleanText": "In fact, I've won the first prize!",
+      "bbox": {
+        "x": 324,
+        "y": 747,
+        "width": 349,
+        "height": 26
+      },
+      "confidence": 96.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Raj Oh, that's marvelous! Congratulations!",
+      "cleanText": "Raj Oh, that's marvelous! Congratulations!",
+      "bbox": {
+        "x": 182,
+        "y": 795,
+        "width": 582,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Manzoor = Thanks, Raj.",
+      "cleanText": "Manzoor = Thanks, Raj.",
+      "bbox": {
+        "x": 186,
+        "y": 851,
+        "width": 279,
+        "height": 34
+      },
+      "confidence": 80.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Language Focus",
+      "cleanText": "Language Focus",
+      "bbox": {
+        "x": 187,
+        "y": 906,
+        "width": 197,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "When we are glad or happy to hear about any good news, we usually",
+      "cleanText": "When we are glad or happy to hear about any good news, we usually",
+      "bbox": {
+        "x": 205,
+        "y": 959,
+        "width": 830,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "express our happiness with these expressions: Congratulations! Well",
+      "cleanText": "express our happiness with these expressions: Congratulations! Well",
+      "bbox": {
+        "x": 205,
+        "y": 994,
+        "width": 825,
+        "height": 26
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "done! That's marvelous! That's wonderful! Great!, etc. In_ return,",
+      "cleanText": "done! That's marvelous! That's wonderful! Great!, etc. In_ return,",
+      "bbox": {
+        "x": 203,
+        "y": 1032,
+        "width": 834,
+        "height": 23
+      },
+      "confidence": 88.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "the other person usually says, or ‘Thank you’.",
+      "cleanText": "the other person usually says, or ‘Thank you’.",
+      "bbox": {
+        "x": 205,
+        "y": 1070,
+        "width": 636,
+        "height": 25
+      },
+      "confidence": 83.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Discuss the meanings of ‘generation} ‘album,’ and ‘hit’ as they",
+      "cleanText": "Discuss the meanings of ‘generation} ‘album,’ and ‘hit’ as they",
+      "bbox": {
+        "x": 189,
+        "y": 1130,
+        "width": 838,
+        "height": 27
+      },
+      "confidence": 87.6,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-010-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "have been used in the conversations above.",
+      "cleanText": "have been used in the conversations above.",
+      "bbox": {
+        "x": 189,
+        "y": 1167,
+        "width": 558,
+        "height": 21
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "The words a/bum and hit can be used in more than one meaning.",
+      "cleanText": "The words a/bum and hit can be used in more than one meaning.",
+      "bbox": {
+        "x": 187,
+        "y": 1227,
+        "width": 848,
+        "height": 26
+      },
+      "confidence": 91.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Discuss in groups and see if you can guess the other meanings.",
+      "cleanText": "Discuss in groups and see if you can guess the other meanings.",
+      "bbox": {
+        "x": 185,
+        "y": 1265,
+        "width": 758,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-010-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "A2. Practise the conversations above in pairs.",
+      "cleanText": "A2. Practise the conversations above in pairs.",
+      "bbox": {
+        "x": 121,
+        "y": 1321,
+        "width": 587,
+        "height": 27
+      },
+      "confidence": 94.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-026",
+      "lineNumber": 26
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-010-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 5",
+      "bbox": {
+        "x": 120,
+        "y": 76,
+        "width": 910,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-002",
+      "lineNumber": 2,
+      "text": "Rahul lam happy. I just heard that my new album",
+      "bbox": {
+        "x": 185,
+        "y": 155,
+        "width": 630,
+        "height": 25
+      },
+      "confidence": 93.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-003",
+      "lineNumber": 3,
+      "text": "of Lalon's songs has been a hit!",
+      "bbox": {
+        "x": 321,
+        "y": 203,
+        "width": 355,
+        "height": 34
+      },
+      "confidence": 92.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-004",
+      "lineNumber": 4,
+      "text": "Nina Oh, great! Congratulations!",
+      "bbox": {
+        "x": 185,
+        "y": 256,
+        "width": 448,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-005",
+      "lineNumber": 5,
+      "text": "Rahul Thanks, Nina. I can't tell you how happy Tam!",
+      "bbox": {
+        "x": 185,
+        "y": 309,
+        "width": 665,
+        "height": 34
+      },
+      "confidence": 93.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-006",
+      "lineNumber": 6,
+      "text": "Manzoor is a student of class six in a Sovernment high school in",
+      "bbox": {
+        "x": 178,
+        "y": 374,
+        "width": 851,
+        "height": 25
+      },
+      "confidence": 89.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-007",
+      "lineNumber": 7,
+      "text": "Rajbari. Recently there was an inter-school essay competition on the occasion",
+      "bbox": {
+        "x": 175,
+        "y": 407,
+        "width": 858,
+        "height": 27
+      },
+      "confidence": 94.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-008",
+      "lineNumber": 8,
+      "text": "of our Independence Day. Manzoor had participated and got a prize.",
+      "bbox": {
+        "x": 177,
+        "y": 444,
+        "width": 736,
+        "height": 27
+      },
+      "confidence": 95.18,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-009",
+      "lineNumber": 9,
+      "text": "Raj Hello, Manzoor! What's the matter?",
+      "bbox": {
+        "x": 182,
+        "y": 490,
+        "width": 550,
+        "height": 34
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-010",
+      "lineNumber": 10,
+      "text": "You look excited!",
+      "bbox": {
+        "x": 320,
+        "y": 547,
+        "width": 199,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-011",
+      "lineNumber": 11,
+      "text": "Manzoor Do you remember the competition I took part?",
+      "bbox": {
+        "x": 186,
+        "y": 593,
+        "width": 676,
+        "height": 26
+      },
+      "confidence": 93.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-012",
+      "lineNumber": 12,
+      "text": "Raj Yes, I do. What happened?",
+      "bbox": {
+        "x": 182,
+        "y": 641,
+        "width": 443,
+        "height": 35
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-013",
+      "lineNumber": 13,
+      "text": "Manzoor I am happy that I've won the competition!",
+      "bbox": {
+        "x": 186,
+        "y": 696,
+        "width": 612,
+        "height": 26
+      },
+      "confidence": 89.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-014",
+      "lineNumber": 14,
+      "text": "In fact, I've won the first prize!",
+      "bbox": {
+        "x": 324,
+        "y": 747,
+        "width": 349,
+        "height": 26
+      },
+      "confidence": 96.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-015",
+      "lineNumber": 15,
+      "text": "Raj Oh, that's marvelous! Congratulations!",
+      "bbox": {
+        "x": 182,
+        "y": 795,
+        "width": 582,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-016",
+      "lineNumber": 16,
+      "text": "Manzoor = Thanks, Raj.",
+      "bbox": {
+        "x": 186,
+        "y": 851,
+        "width": 279,
+        "height": 34
+      },
+      "confidence": 80.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-017",
+      "lineNumber": 17,
+      "text": "Language Focus",
+      "bbox": {
+        "x": 187,
+        "y": 906,
+        "width": 197,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-018",
+      "lineNumber": 18,
+      "text": "When we are glad or happy to hear about any good news, we usually",
+      "bbox": {
+        "x": 205,
+        "y": 959,
+        "width": 830,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-019",
+      "lineNumber": 19,
+      "text": "express our happiness with these expressions: Congratulations! Well",
+      "bbox": {
+        "x": 205,
+        "y": 994,
+        "width": 825,
+        "height": 26
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-020",
+      "lineNumber": 20,
+      "text": "done! That's marvelous! That's wonderful! Great!, etc. In_ return,",
+      "bbox": {
+        "x": 203,
+        "y": 1032,
+        "width": 834,
+        "height": 23
+      },
+      "confidence": 88.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-021",
+      "lineNumber": 21,
+      "text": "the other person usually says, or ‘Thank you’.",
+      "bbox": {
+        "x": 205,
+        "y": 1070,
+        "width": 636,
+        "height": 25
+      },
+      "confidence": 83.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-023",
+      "lineNumber": 23,
+      "text": "have been used in the conversations above.",
+      "bbox": {
+        "x": 189,
+        "y": 1167,
+        "width": 558,
+        "height": 21
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-024",
+      "lineNumber": 24,
+      "text": "The words a/bum and hit can be used in more than one meaning.",
+      "bbox": {
+        "x": 187,
+        "y": 1227,
+        "width": 848,
+        "height": 26
+      },
+      "confidence": 91.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-026",
+      "lineNumber": 26,
+      "text": "A2. Practise the conversations above in pairs.",
+      "bbox": {
+        "x": 121,
+        "y": 1321,
+        "width": 587,
+        "height": 27
+      },
+      "confidence": 94.86,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 5\nRahul lam happy. I just heard that my new album\nof Lalon's songs has been a hit!\nNina Oh, great! Congratulations!\nRahul Thanks, Nina. I can't tell you how happy Tam!\niii) Manzoor is a student of class six in a Sovernment high school in\nRajbari. Recently there was an inter-school essay competition on the occasion\nof our Independence Day. Manzoor had participated and got a prize.\nRaj Hello, Manzoor! What's the matter?\nYou look excited!\nManzoor Do you remember the competition I took part?\nRaj Yes, I do. What happened?\nManzoor I am happy that I've won the competition!\nIn fact, I've won the first prize!\nRaj Oh, that's marvelous! Congratulations!\nManzoor = Thanks, Raj.\nLanguage Focus\nWhen we are glad or happy to hear about any good news, we usually\nexpress our happiness with these expressions: Congratulations! Well\ndone! That's marvelous! That's wonderful! Great!, etc. In_ return,\nthe other person usually says, or ‘Thank you’.\nDiscuss the meanings of ‘generation} ‘album,’ and ‘hit’ as they\nhave been used in the conversations above.\nThe words a/bum and hit can be used in more than one meaning.\nDiscuss in groups and see if you can guess the other meanings.\nA2. Practise the conversations above in pairs.",
+  "cleanText": "English For Today 5\nRahul lam happy. I just heard that my new album\nof Lalon's songs has been a hit!\nNina Oh, great! Congratulations!\nRahul Thanks, Nina. I can't tell you how happy Tam!\nManzoor is a student of class six in a Sovernment high school in\nRajbari. Recently there was an inter-school essay competition on the occasion\nof our Independence Day. Manzoor had participated and got a prize.\nRaj Hello, Manzoor! What's the matter?\nYou look excited!\nManzoor Do you remember the competition I took part?\nRaj Yes, I do. What happened?\nManzoor I am happy that I've won the competition!\nIn fact, I've won the first prize!\nRaj Oh, that's marvelous! Congratulations!\nManzoor = Thanks, Raj.\nLanguage Focus\nWhen we are glad or happy to hear about any good news, we usually\nexpress our happiness with these expressions: Congratulations! Well\ndone! That's marvelous! That's wonderful! Great!, etc. In_ return,\nthe other person usually says, or ‘Thank you’.\nDiscuss the meanings of ‘generation} ‘album,’ and ‘hit’ as they\nhave been used in the conversations above.\nThe words a/bum and hit can be used in more than one meaning.\nDiscuss in groups and see if you can guess the other meanings.\nA2. Practise the conversations above in pairs.",
+  "aiReadyText": "English For Today 5\nRahul lam happy. I just heard that my new album\nof Lalon's songs has been a hit!\nNina Oh, great! Congratulations!\nRahul Thanks, Nina. I can't tell you how happy Tam!\nManzoor is a student of class six in a Sovernment high school in\nRajbari. Recently there was an inter-school essay competition on the occasion\nof our Independence Day. Manzoor had participated and got a prize.\nRaj Hello, Manzoor! What's the matter?\nYou look excited!\nManzoor Do you remember the competition I took part?\nRaj Yes, I do. What happened?\nManzoor I am happy that I've won the competition!\nIn fact, I've won the first prize!\nRaj Oh, that's marvelous! Congratulations!\nManzoor = Thanks, Raj.\nLanguage Focus\nWhen we are glad or happy to hear about any good news, we usually\nexpress our happiness with these expressions: Congratulations! Well\ndone! That's marvelous! That's wonderful! Great!, etc. In_ return,\nthe other person usually says, or ‘Thank you’.\nhave been used in the conversations above.\nThe words a/bum and hit can be used in more than one meaning.\nA2. Practise the conversations above in pairs."
+}

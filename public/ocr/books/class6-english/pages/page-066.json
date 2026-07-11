@@ -1,0 +1,650 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 66,
+  "image": "/ocr/books/class6-english/page-images/page-066.png",
+  "width": 1149,
+  "height": 1507,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 61",
+      "cleanText": "English For Today 61",
+      "bbox": {
+        "x": 126,
+        "y": 81,
+        "width": 897,
+        "height": 26
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Hason Raja: The Mystic Bard",
+      "cleanText": "Hason Raja: The Mystic Bard",
+      "bbox": {
+        "x": 326,
+        "y": 154,
+        "width": 631,
+        "height": 39
+      },
+      "confidence": 94.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Lesson 20",
+      "cleanText": "Lesson 20",
+      "bbox": {
+        "x": 108,
+        "y": 186,
+        "width": 155,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-066-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "of Bangladesh",
+      "cleanText": "of Bangladesh",
+      "bbox": {
+        "x": 326,
+        "y": 207,
+        "width": 311,
+        "height": 38
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-066-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 188,
+        "y": 256,
+        "width": 569,
+        "height": 24
+      },
+      "confidence": 96.11,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-066-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "¢ read and understand texts",
+      "cleanText": "¢ read and understand texts",
+      "bbox": {
+        "x": 208,
+        "y": 285,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 87.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "© ask and answer questions",
+      "cleanText": "© ask and answer questions",
+      "bbox": {
+        "x": 208,
+        "y": 313,
+        "width": 284,
+        "height": 24
+      },
+      "confidence": 83.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "¢ read aloud with proper pronunciation, stress and intonation",
+      "cleanText": "¢ read aloud with proper pronunciation, stress and intonation",
+      "bbox": {
+        "x": 208,
+        "y": 342,
+        "width": 640,
+        "height": 24
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "A. Look at the pictures below. Do you know who they are or",
+      "cleanText": "Look at the pictures below. Do you know who they are or",
+      "bbox": {
+        "x": 110,
+        "y": 390,
+        "width": 923,
+        "height": 27
+      },
+      "confidence": 94.62,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-066-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "anything about them?",
+      "cleanText": "anything about them?",
+      "bbox": {
+        "x": 179,
+        "y": 429,
+        "width": 286,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "A “bard” is one who writes poems and songs. A “mystic” is one who seeks",
+      "cleanText": "A “bard” is one who writes poems and songs. A “mystic” is one who seeks",
+      "bbox": {
+        "x": 191,
+        "y": 817,
+        "width": 840,
+        "height": 26
+      },
+      "confidence": 87.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "truth and strives to become united with God through prayer and",
+      "cleanText": "truth and strives to become united with God through prayer and",
+      "bbox": {
+        "x": 190,
+        "y": 852,
+        "width": 841,
+        "height": 26
+      },
+      "confidence": 94.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "meditation.",
+      "cleanText": "meditation.",
+      "bbox": {
+        "x": 190,
+        "y": 887,
+        "width": 127,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-066-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "The pictures above are of three renowned mystic bards of Bangladesh:",
+      "cleanText": "The pictures above are of three renowned mystic bards of Bangladesh:",
+      "bbox": {
+        "x": 190,
+        "y": 922,
+        "width": 839,
+        "height": 26
+      },
+      "confidence": 96.09,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Lalon Shah, Hason Raja, and Shah Abdul Karim. They all wrote beautiful",
+      "cleanText": "Lalon Shah, Hason Raja, and Shah Abdul Karim. They all wrote beautiful",
+      "bbox": {
+        "x": 190,
+        "y": 958,
+        "width": 840,
+        "height": 26
+      },
+      "confidence": 94.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "poems and songs to express their deep thoughts and feelings about God,",
+      "cleanText": "poems and songs to express their deep thoughts and feelings about God,",
+      "bbox": {
+        "x": 190,
+        "y": 993,
+        "width": 840,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "life, and love for humankind.",
+      "cleanText": "life, and love for humankind.",
+      "bbox": {
+        "x": 191,
+        "y": 1028,
+        "width": 330,
+        "height": 24
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "B. Let us know more about the mystic poet Hason Raja. Read",
+      "cleanText": "Let us know more about the mystic poet Hason Raja. Read",
+      "bbox": {
+        "x": 111,
+        "y": 1079,
+        "width": 921,
+        "height": 27
+      },
+      "confidence": 93.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "the following text:",
+      "cleanText": "the following text:",
+      "bbox": {
+        "x": 179,
+        "y": 1118,
+        "width": 234,
+        "height": 28
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Hason Raja was born in 1854, into a wealthy landlord family in Sylhet. He",
+      "cleanText": "Hason Raja was born in 1854, into a wealthy landlord family in Sylhet. He",
+      "bbox": {
+        "x": 190,
+        "y": 1171,
+        "width": 841,
+        "height": 26
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "did not receive much formal education as a child. In his youth, he lived a",
+      "cleanText": "did not receive much formal education as a child. In his youth, he lived a",
+      "bbox": {
+        "x": 190,
+        "y": 1206,
+        "width": 841,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "life of luxury. He had everything- money, comfort and pleasure.",
+      "cleanText": "life of luxury. He had everything- money, comfort and pleasure.",
+      "bbox": {
+        "x": 191,
+        "y": 1241,
+        "width": 733,
+        "height": 26
+      },
+      "confidence": 94.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "However, at one point in his life, he began to feel that these material",
+      "cleanText": "However, at one point in his life, he began to feel that these material",
+      "bbox": {
+        "x": 191,
+        "y": 1312,
+        "width": 839,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "possessions were meaningless. He gave away all his property and",
+      "cleanText": "possessions were meaningless. He gave away all his property and",
+      "bbox": {
+        "x": 190,
+        "y": 1347,
+        "width": 841,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "started to think deeply about the creator, life, death and humankind. He",
+      "cleanText": "started to think deeply about the creator, life, death and humankind. He",
+      "bbox": {
+        "x": 191,
+        "y": 1382,
+        "width": 840,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-025",
+      "lineNumber": 25
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-066-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 61",
+      "bbox": {
+        "x": 126,
+        "y": 81,
+        "width": 897,
+        "height": 26
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-002",
+      "lineNumber": 2,
+      "text": "Hason Raja: The Mystic Bard",
+      "bbox": {
+        "x": 326,
+        "y": 154,
+        "width": 631,
+        "height": 39
+      },
+      "confidence": 94.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-006",
+      "lineNumber": 6,
+      "text": "¢ read and understand texts",
+      "bbox": {
+        "x": 208,
+        "y": 285,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 87.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-007",
+      "lineNumber": 7,
+      "text": "© ask and answer questions",
+      "bbox": {
+        "x": 208,
+        "y": 313,
+        "width": 284,
+        "height": 24
+      },
+      "confidence": 83.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-008",
+      "lineNumber": 8,
+      "text": "¢ read aloud with proper pronunciation, stress and intonation",
+      "bbox": {
+        "x": 208,
+        "y": 342,
+        "width": 640,
+        "height": 24
+      },
+      "confidence": 93.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-010",
+      "lineNumber": 10,
+      "text": "anything about them?",
+      "bbox": {
+        "x": 179,
+        "y": 429,
+        "width": 286,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-011",
+      "lineNumber": 11,
+      "text": "A “bard” is one who writes poems and songs. A “mystic” is one who seeks",
+      "bbox": {
+        "x": 191,
+        "y": 817,
+        "width": 840,
+        "height": 26
+      },
+      "confidence": 87.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-012",
+      "lineNumber": 12,
+      "text": "truth and strives to become united with God through prayer and",
+      "bbox": {
+        "x": 190,
+        "y": 852,
+        "width": 841,
+        "height": 26
+      },
+      "confidence": 94.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-014",
+      "lineNumber": 14,
+      "text": "The pictures above are of three renowned mystic bards of Bangladesh:",
+      "bbox": {
+        "x": 190,
+        "y": 922,
+        "width": 839,
+        "height": 26
+      },
+      "confidence": 96.09,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-015",
+      "lineNumber": 15,
+      "text": "Lalon Shah, Hason Raja, and Shah Abdul Karim. They all wrote beautiful",
+      "bbox": {
+        "x": 190,
+        "y": 958,
+        "width": 840,
+        "height": 26
+      },
+      "confidence": 94.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-016",
+      "lineNumber": 16,
+      "text": "poems and songs to express their deep thoughts and feelings about God,",
+      "bbox": {
+        "x": 190,
+        "y": 993,
+        "width": 840,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-017",
+      "lineNumber": 17,
+      "text": "life, and love for humankind.",
+      "bbox": {
+        "x": 191,
+        "y": 1028,
+        "width": 330,
+        "height": 24
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-018",
+      "lineNumber": 18,
+      "text": "Let us know more about the mystic poet Hason Raja. Read",
+      "bbox": {
+        "x": 111,
+        "y": 1079,
+        "width": 921,
+        "height": 27
+      },
+      "confidence": 93.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-019",
+      "lineNumber": 19,
+      "text": "the following text:",
+      "bbox": {
+        "x": 179,
+        "y": 1118,
+        "width": 234,
+        "height": 28
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-020",
+      "lineNumber": 20,
+      "text": "Hason Raja was born in 1854, into a wealthy landlord family in Sylhet. He",
+      "bbox": {
+        "x": 190,
+        "y": 1171,
+        "width": 841,
+        "height": 26
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-021",
+      "lineNumber": 21,
+      "text": "did not receive much formal education as a child. In his youth, he lived a",
+      "bbox": {
+        "x": 190,
+        "y": 1206,
+        "width": 841,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-022",
+      "lineNumber": 22,
+      "text": "life of luxury. He had everything- money, comfort and pleasure.",
+      "bbox": {
+        "x": 191,
+        "y": 1241,
+        "width": 733,
+        "height": 26
+      },
+      "confidence": 94.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-023",
+      "lineNumber": 23,
+      "text": "However, at one point in his life, he began to feel that these material",
+      "bbox": {
+        "x": 191,
+        "y": 1312,
+        "width": 839,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-024",
+      "lineNumber": 24,
+      "text": "possessions were meaningless. He gave away all his property and",
+      "bbox": {
+        "x": 190,
+        "y": 1347,
+        "width": 841,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-025",
+      "lineNumber": 25,
+      "text": "started to think deeply about the creator, life, death and humankind. He",
+      "bbox": {
+        "x": 191,
+        "y": 1382,
+        "width": 840,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 61\nHason Raja: The Mystic Bard\nLesson 20\nof Bangladesh\nAfter completing the lesson students will be able to\n¢ read and understand texts\n© ask and answer questions\n¢ read aloud with proper pronunciation, stress and intonation\nA. Look at the pictures below. Do you know who they are or\nanything about them?\nA “bard” is one who writes poems and songs. A “mystic” is one who seeks\ntruth and strives to become united with God through prayer and\nmeditation.\nThe pictures above are of three renowned mystic bards of Bangladesh:\nLalon Shah, Hason Raja, and Shah Abdul Karim. They all wrote beautiful\npoems and songs to express their deep thoughts and feelings about God,\nlife, and love for humankind.\nB. Let us know more about the mystic poet Hason Raja. Read\nthe following text:\nHason Raja was born in 1854, into a wealthy landlord family in Sylhet. He\ndid not receive much formal education as a child. In his youth, he lived a\nlife of luxury. He had everything- money, comfort and pleasure.\nHowever, at one point in his life, he began to feel that these material\npossessions were meaningless. He gave away all his property and\nstarted to think deeply about the creator, life, death and humankind. He",
+  "cleanText": "English For Today 61\nHason Raja: The Mystic Bard\nLesson 20\nof Bangladesh\nAfter completing the lesson students will be able to\n¢ read and understand texts\n© ask and answer questions\n¢ read aloud with proper pronunciation, stress and intonation\nLook at the pictures below. Do you know who they are or\nanything about them?\nA “bard” is one who writes poems and songs. A “mystic” is one who seeks\ntruth and strives to become united with God through prayer and\nmeditation.\nThe pictures above are of three renowned mystic bards of Bangladesh:\nLalon Shah, Hason Raja, and Shah Abdul Karim. They all wrote beautiful\npoems and songs to express their deep thoughts and feelings about God,\nlife, and love for humankind.\nLet us know more about the mystic poet Hason Raja. Read\nthe following text:\nHason Raja was born in 1854, into a wealthy landlord family in Sylhet. He\ndid not receive much formal education as a child. In his youth, he lived a\nlife of luxury. He had everything- money, comfort and pleasure.\nHowever, at one point in his life, he began to feel that these material\npossessions were meaningless. He gave away all his property and\nstarted to think deeply about the creator, life, death and humankind. He",
+  "aiReadyText": "English For Today 61\nHason Raja: The Mystic Bard\n¢ read and understand texts\n© ask and answer questions\n¢ read aloud with proper pronunciation, stress and intonation\nanything about them?\nA “bard” is one who writes poems and songs. A “mystic” is one who seeks\ntruth and strives to become united with God through prayer and\nThe pictures above are of three renowned mystic bards of Bangladesh:\nLalon Shah, Hason Raja, and Shah Abdul Karim. They all wrote beautiful\npoems and songs to express their deep thoughts and feelings about God,\nlife, and love for humankind.\nLet us know more about the mystic poet Hason Raja. Read\nthe following text:\nHason Raja was born in 1854, into a wealthy landlord family in Sylhet. He\ndid not receive much formal education as a child. In his youth, he lived a\nlife of luxury. He had everything- money, comfort and pleasure.\nHowever, at one point in his life, he began to feel that these material\npossessions were meaningless. He gave away all his property and\nstarted to think deeply about the creator, life, death and humankind. He"
+}

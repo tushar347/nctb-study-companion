@@ -1,0 +1,932 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 69,
+  "image": "/ocr/books/class6-english/page-images/page-069.png",
+  "width": 1149,
+  "height": 1507,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Now, make some questions based on the passage you",
+      "cleanText": "Now, make some questions based on the passage you",
+      "bbox": {
+        "x": 205,
+        "y": 143,
+        "width": 824,
+        "height": 28
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "read, using the cues given below:",
+      "cleanText": "read, using the cues given below:",
+      "bbox": {
+        "x": 206,
+        "y": 176,
+        "width": 426,
+        "height": 28
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "A, What",
+      "cleanText": "A, What",
+      "bbox": {
+        "x": 205,
+        "y": 219,
+        "width": 105,
+        "height": 20
+      },
+      "confidence": 72.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-069-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "b. Where is..",
+      "cleanText": "Where is..",
+      "bbox": {
+        "x": 205,
+        "y": 250,
+        "width": 158,
+        "height": 20
+      },
+      "confidence": 84.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-069-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "c. How much..",
+      "cleanText": "How much..",
+      "bbox": {
+        "x": 205,
+        "y": 281,
+        "width": 181,
+        "height": 20
+      },
+      "confidence": 85.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-069-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Complete the following table with the information given in the passage:",
+      "cleanText": "Complete the following table with the information given in the passage:",
+      "bbox": {
+        "x": 196,
+        "y": 418,
+        "width": 842,
+        "height": 26
+      },
+      "confidence": 96.09,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-069-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Shah Jahan built",
+      "cleanText": "Shah Jahan built",
+      "bbox": {
+        "x": 231,
+        "y": 457,
+        "width": 367,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Taj Mahal is",
+      "cleanText": "Taj Mahal is",
+      "bbox": {
+        "x": 230,
+        "y": 487,
+        "width": 352,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-069-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Tts area is",
+      "cleanText": "Tts area is",
+      "bbox": {
+        "x": 228,
+        "y": 515,
+        "width": 354,
+        "height": 20
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-069-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Mumtaj died",
+      "cleanText": "Mumtaj died",
+      "bbox": {
+        "x": 231,
+        "y": 547,
+        "width": 365,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-069-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "To complete the Taj it took",
+      "cleanText": "To complete the Taj it took",
+      "bbox": {
+        "x": 230,
+        "y": 579,
+        "width": 379,
+        "height": 24
+      },
+      "confidence": 96.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Read the text about one of the wonders of the world, the Eiffel Tower.",
+      "cleanText": "Read the text about one of the wonders of the world, the Eiffel Tower.",
+      "bbox": {
+        "x": 191,
+        "y": 647,
+        "width": 849,
+        "height": 24
+      },
+      "confidence": 95.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Put the verbs in brackets into the correct tense.",
+      "cleanText": "Put the verbs in brackets into the correct tense.",
+      "bbox": {
+        "x": 190,
+        "y": 677,
+        "width": 590,
+        "height": 21
+      },
+      "confidence": 96.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "The Eiffel Tower is a lattice tower in Paris. It (be) built in",
+      "cleanText": "The Eiffel Tower is a lattice tower in Paris. It (be) built in",
+      "bbox": {
+        "x": 194,
+        "y": 716,
+        "width": 845,
+        "height": 24
+      },
+      "confidence": 88.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "1889. Now it i8 (consider) a cultural icon of France. It stands",
+      "cleanText": "Now it i8 (consider) a cultural icon of France. It stands",
+      "bbox": {
+        "x": 196,
+        "y": 750,
+        "width": 842,
+        "height": 25
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "as one of the most recognisable structures in the world too. The tower",
+      "cleanText": "as one of the most recognisable structures in the world too. The tower",
+      "bbox": {
+        "x": 194,
+        "y": 781,
+        "width": 845,
+        "height": 27
+      },
+      "confidence": 91.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "(be) famous as the tallest construction in Paris and the most-",
+      "cleanText": "(be) famous as the tallest construction in Paris and the most-",
+      "bbox": {
+        "x": 370,
+        "y": 814,
+        "width": 668,
+        "height": 25
+      },
+      "confidence": 95.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "visited paid monument in the world. Millions of people ................. (ascend)",
+      "cleanText": "visited paid monument in the world. Millions of people ................. (ascend)",
+      "bbox": {
+        "x": 189,
+        "y": 848,
+        "width": 852,
+        "height": 26
+      },
+      "confidence": 93.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "it every year. It is 320 metres (1,050 ft) tall, about the same height as an 81-",
+      "cleanText": "it every year. It is 320 metres (1,050 ft) tall, about the same height as an 81-",
+      "bbox": {
+        "x": 191,
+        "y": 880,
+        "width": 849,
+        "height": 26
+      },
+      "confidence": 95.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "storey building. The tower ................ (have) three levels for visitors. A",
+      "cleanText": "storey building. The tower ................ (have) three levels for visitors. A",
+      "bbox": {
+        "x": 187,
+        "y": 911,
+        "width": 851,
+        "height": 26
+      },
+      "confidence": 90.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "visitor (have) to walk over 300 steps to go from ground level to",
+      "cleanText": "visitor (have) to walk over 300 steps to go from ground level to",
+      "bbox": {
+        "x": 189,
+        "y": 944,
+        "width": 848,
+        "height": 26
+      },
+      "confidence": 93.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "the first level. The distance (remain) the same between the",
+      "cleanText": "the first level. The distance (remain) the same between the",
+      "bbox": {
+        "x": 195,
+        "y": 976,
+        "width": 843,
+        "height": 26
+      },
+      "confidence": 94.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "first and the second level. The third and highest level can be",
+      "cleanText": "first and the second level. The third and highest level can be",
+      "bbox": {
+        "x": 193,
+        "y": 1009,
+        "width": 681,
+        "height": 26
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "(access) only bya lift. The tower (name) after the",
+      "cleanText": "(access) only bya lift. The tower (name) after the",
+      "bbox": {
+        "x": 191,
+        "y": 1044,
+        "width": 845,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "engineer Gustave Eiffel, whose company (design) and",
+      "cleanText": "engineer Gustave Eiffel, whose company (design) and",
+      "bbox": {
+        "x": 192,
+        "y": 1077,
+        "width": 846,
+        "height": 27
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "(build) the tower.",
+      "cleanText": "(build) the tower.",
+      "bbox": {
+        "x": 398,
+        "y": 1111,
+        "width": 193,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Now, read the dialogue. What is it about?",
+      "cleanText": "Now, read the dialogue. What is it about?",
+      "bbox": {
+        "x": 196,
+        "y": 1152,
+        "width": 520,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "Mong Pru Nira, I'm really surprised to know about these wonders.",
+      "cleanText": "Mong Pru Nira, I'm really surprised to know about these wonders.",
+      "bbox": {
+        "x": 196,
+        "y": 1185,
+        "width": 844,
+        "height": 25
+      },
+      "confidence": 95.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "What do you think?",
+      "cleanText": "What do you think?",
+      "bbox": {
+        "x": 363,
+        "y": 1215,
+        "width": 225,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "Nira They are amazing! But the wonders of the present time are",
+      "cleanText": "Nira They are amazing! But the wonders of the present time are",
+      "bbox": {
+        "x": 196,
+        "y": 1243,
+        "width": 843,
+        "height": 25
+      },
+      "confidence": 95.42,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "also amazing. They are not as huge as the super structures",
+      "cleanText": "also amazing. They are not as huge as the super structures",
+      "bbox": {
+        "x": 361,
+        "y": 1272,
+        "width": 678,
+        "height": 26
+      },
+      "confidence": 94.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "of the past but they are also incredible!",
+      "cleanText": "of the past but they are also incredible!",
+      "bbox": {
+        "x": 362,
+        "y": 1302,
+        "width": 443,
+        "height": 27
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "Mong What do you mean?",
+      "cleanText": "Mong What do you mean?",
+      "bbox": {
+        "x": 189,
+        "y": 1336,
+        "width": 392,
+        "height": 26
+      },
+      "confidence": 93.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "Nira Just wait for now! Let me only say that some of the wonders",
+      "cleanText": "Nira Just wait for now! Let me only say that some of the wonders",
+      "bbox": {
+        "x": 184,
+        "y": 1362,
+        "width": 856,
+        "height": 34
+      },
+      "confidence": 96.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "of the modern world are truly incredible! I mean, they are",
+      "cleanText": "of the modern world are truly incredible! I mean, they are",
+      "bbox": {
+        "x": 352,
+        "y": 1394,
+        "width": 686,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-035",
+      "lineNumber": 35
+    },
+    {
+      "text": "really unbelievable! We'll read about them in the next lesson.",
+      "cleanText": "really unbelievable! We'll read about them in the next lesson.",
+      "bbox": {
+        "x": 354,
+        "y": 1425,
+        "width": 698,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-036",
+      "lineNumber": 36
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-069-line-001",
+      "lineNumber": 1,
+      "text": "Now, make some questions based on the passage you",
+      "bbox": {
+        "x": 205,
+        "y": 143,
+        "width": 824,
+        "height": 28
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-002",
+      "lineNumber": 2,
+      "text": "read, using the cues given below:",
+      "bbox": {
+        "x": 206,
+        "y": 176,
+        "width": 426,
+        "height": 28
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-007",
+      "lineNumber": 7,
+      "text": "Shah Jahan built",
+      "bbox": {
+        "x": 231,
+        "y": 457,
+        "width": 367,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-011",
+      "lineNumber": 11,
+      "text": "To complete the Taj it took",
+      "bbox": {
+        "x": 230,
+        "y": 579,
+        "width": 379,
+        "height": 24
+      },
+      "confidence": 96.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-012",
+      "lineNumber": 12,
+      "text": "Read the text about one of the wonders of the world, the Eiffel Tower.",
+      "bbox": {
+        "x": 191,
+        "y": 647,
+        "width": 849,
+        "height": 24
+      },
+      "confidence": 95.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-013",
+      "lineNumber": 13,
+      "text": "Put the verbs in brackets into the correct tense.",
+      "bbox": {
+        "x": 190,
+        "y": 677,
+        "width": 590,
+        "height": 21
+      },
+      "confidence": 96.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-014",
+      "lineNumber": 14,
+      "text": "The Eiffel Tower is a lattice tower in Paris. It (be) built in",
+      "bbox": {
+        "x": 194,
+        "y": 716,
+        "width": 845,
+        "height": 24
+      },
+      "confidence": 88.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-015",
+      "lineNumber": 15,
+      "text": "Now it i8 (consider) a cultural icon of France. It stands",
+      "bbox": {
+        "x": 196,
+        "y": 750,
+        "width": 842,
+        "height": 25
+      },
+      "confidence": 93.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-016",
+      "lineNumber": 16,
+      "text": "as one of the most recognisable structures in the world too. The tower",
+      "bbox": {
+        "x": 194,
+        "y": 781,
+        "width": 845,
+        "height": 27
+      },
+      "confidence": 91.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-017",
+      "lineNumber": 17,
+      "text": "(be) famous as the tallest construction in Paris and the most-",
+      "bbox": {
+        "x": 370,
+        "y": 814,
+        "width": 668,
+        "height": 25
+      },
+      "confidence": 95.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-018",
+      "lineNumber": 18,
+      "text": "visited paid monument in the world. Millions of people ................. (ascend)",
+      "bbox": {
+        "x": 189,
+        "y": 848,
+        "width": 852,
+        "height": 26
+      },
+      "confidence": 93.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-019",
+      "lineNumber": 19,
+      "text": "it every year. It is 320 metres (1,050 ft) tall, about the same height as an 81-",
+      "bbox": {
+        "x": 191,
+        "y": 880,
+        "width": 849,
+        "height": 26
+      },
+      "confidence": 95.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-020",
+      "lineNumber": 20,
+      "text": "storey building. The tower ................ (have) three levels for visitors. A",
+      "bbox": {
+        "x": 187,
+        "y": 911,
+        "width": 851,
+        "height": 26
+      },
+      "confidence": 90.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-021",
+      "lineNumber": 21,
+      "text": "visitor (have) to walk over 300 steps to go from ground level to",
+      "bbox": {
+        "x": 189,
+        "y": 944,
+        "width": 848,
+        "height": 26
+      },
+      "confidence": 93.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-022",
+      "lineNumber": 22,
+      "text": "the first level. The distance (remain) the same between the",
+      "bbox": {
+        "x": 195,
+        "y": 976,
+        "width": 843,
+        "height": 26
+      },
+      "confidence": 94.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-023",
+      "lineNumber": 23,
+      "text": "first and the second level. The third and highest level can be",
+      "bbox": {
+        "x": 193,
+        "y": 1009,
+        "width": 681,
+        "height": 26
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-024",
+      "lineNumber": 24,
+      "text": "(access) only bya lift. The tower (name) after the",
+      "bbox": {
+        "x": 191,
+        "y": 1044,
+        "width": 845,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-025",
+      "lineNumber": 25,
+      "text": "engineer Gustave Eiffel, whose company (design) and",
+      "bbox": {
+        "x": 192,
+        "y": 1077,
+        "width": 846,
+        "height": 27
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-026",
+      "lineNumber": 26,
+      "text": "(build) the tower.",
+      "bbox": {
+        "x": 398,
+        "y": 1111,
+        "width": 193,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-027",
+      "lineNumber": 27,
+      "text": "Now, read the dialogue. What is it about?",
+      "bbox": {
+        "x": 196,
+        "y": 1152,
+        "width": 520,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-028",
+      "lineNumber": 28,
+      "text": "Mong Pru Nira, I'm really surprised to know about these wonders.",
+      "bbox": {
+        "x": 196,
+        "y": 1185,
+        "width": 844,
+        "height": 25
+      },
+      "confidence": 95.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-029",
+      "lineNumber": 29,
+      "text": "What do you think?",
+      "bbox": {
+        "x": 363,
+        "y": 1215,
+        "width": 225,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-030",
+      "lineNumber": 30,
+      "text": "Nira They are amazing! But the wonders of the present time are",
+      "bbox": {
+        "x": 196,
+        "y": 1243,
+        "width": 843,
+        "height": 25
+      },
+      "confidence": 95.42,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-031",
+      "lineNumber": 31,
+      "text": "also amazing. They are not as huge as the super structures",
+      "bbox": {
+        "x": 361,
+        "y": 1272,
+        "width": 678,
+        "height": 26
+      },
+      "confidence": 94.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-032",
+      "lineNumber": 32,
+      "text": "of the past but they are also incredible!",
+      "bbox": {
+        "x": 362,
+        "y": 1302,
+        "width": 443,
+        "height": 27
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-033",
+      "lineNumber": 33,
+      "text": "Mong What do you mean?",
+      "bbox": {
+        "x": 189,
+        "y": 1336,
+        "width": 392,
+        "height": 26
+      },
+      "confidence": 93.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-034",
+      "lineNumber": 34,
+      "text": "Nira Just wait for now! Let me only say that some of the wonders",
+      "bbox": {
+        "x": 184,
+        "y": 1362,
+        "width": 856,
+        "height": 34
+      },
+      "confidence": 96.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-035",
+      "lineNumber": 35,
+      "text": "of the modern world are truly incredible! I mean, they are",
+      "bbox": {
+        "x": 352,
+        "y": 1394,
+        "width": 686,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-036",
+      "lineNumber": 36,
+      "text": "really unbelievable! We'll read about them in the next lesson.",
+      "bbox": {
+        "x": 354,
+        "y": 1425,
+        "width": 698,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Now, make some questions based on the passage you\nread, using the cues given below:\nA, What\nb. Where is..\nc. How much..\nComplete the following table with the information given in the passage:\nShah Jahan built\nTaj Mahal is\nTts area is\nMumtaj died\nTo complete the Taj it took\nRead the text about one of the wonders of the world, the Eiffel Tower.\nPut the verbs in brackets into the correct tense.\nThe Eiffel Tower is a lattice tower in Paris. It (be) built in\n1889. Now it i8 (consider) a cultural icon of France. It stands\nas one of the most recognisable structures in the world too. The tower\n(be) famous as the tallest construction in Paris and the most-\nvisited paid monument in the world. Millions of people ................. (ascend)\nit every year. It is 320 metres (1,050 ft) tall, about the same height as an 81-\nstorey building. The tower ................ (have) three levels for visitors. A\nvisitor (have) to walk over 300 steps to go from ground level to\nthe first level. The distance (remain) the same between the\nfirst and the second level. The third and highest level can be\n(access) only bya lift. The tower (name) after the\nengineer Gustave Eiffel, whose company (design) and\n(build) the tower.\nNow, read the dialogue. What is it about?\nMong Pru Nira, I'm really surprised to know about these wonders.\nWhat do you think?\nNira They are amazing! But the wonders of the present time are\nalso amazing. They are not as huge as the super structures\nof the past but they are also incredible!\nMong What do you mean?\nNira Just wait for now! Let me only say that some of the wonders\nof the modern world are truly incredible! I mean, they are\nreally unbelievable! We'll read about them in the next lesson.",
+  "cleanText": "Now, make some questions based on the passage you\nread, using the cues given below:\nA, What\nWhere is..\nHow much..\nComplete the following table with the information given in the passage:\nShah Jahan built\nTaj Mahal is\nTts area is\nMumtaj died\nTo complete the Taj it took\nRead the text about one of the wonders of the world, the Eiffel Tower.\nPut the verbs in brackets into the correct tense.\nThe Eiffel Tower is a lattice tower in Paris. It (be) built in\nNow it i8 (consider) a cultural icon of France. It stands\nas one of the most recognisable structures in the world too. The tower\n(be) famous as the tallest construction in Paris and the most-\nvisited paid monument in the world. Millions of people ................. (ascend)\nit every year. It is 320 metres (1,050 ft) tall, about the same height as an 81-\nstorey building. The tower ................ (have) three levels for visitors. A\nvisitor (have) to walk over 300 steps to go from ground level to\nthe first level. The distance (remain) the same between the\nfirst and the second level. The third and highest level can be\n(access) only bya lift. The tower (name) after the\nengineer Gustave Eiffel, whose company (design) and\n(build) the tower.\nNow, read the dialogue. What is it about?\nMong Pru Nira, I'm really surprised to know about these wonders.\nWhat do you think?\nNira They are amazing! But the wonders of the present time are\nalso amazing. They are not as huge as the super structures\nof the past but they are also incredible!\nMong What do you mean?\nNira Just wait for now! Let me only say that some of the wonders\nof the modern world are truly incredible! I mean, they are\nreally unbelievable! We'll read about them in the next lesson.",
+  "aiReadyText": "Now, make some questions based on the passage you\nread, using the cues given below:\nShah Jahan built\nTo complete the Taj it took\nRead the text about one of the wonders of the world, the Eiffel Tower.\nPut the verbs in brackets into the correct tense.\nThe Eiffel Tower is a lattice tower in Paris. It (be) built in\nNow it i8 (consider) a cultural icon of France. It stands\nas one of the most recognisable structures in the world too. The tower\n(be) famous as the tallest construction in Paris and the most-\nvisited paid monument in the world. Millions of people ................. (ascend)\nit every year. It is 320 metres (1,050 ft) tall, about the same height as an 81-\nstorey building. The tower ................ (have) three levels for visitors. A\nvisitor (have) to walk over 300 steps to go from ground level to\nthe first level. The distance (remain) the same between the\nfirst and the second level. The third and highest level can be\n(access) only bya lift. The tower (name) after the\nengineer Gustave Eiffel, whose company (design) and\n(build) the tower.\nNow, read the dialogue. What is it about?\nMong Pru Nira, I'm really surprised to know about these wonders.\nWhat do you think?\nNira They are amazing! But the wonders of the present time are\nalso amazing. They are not as huge as the super structures\nof the past but they are also incredible!\nMong What do you mean?\nNira Just wait for now! Let me only say that some of the wonders\nof the modern world are truly incredible! I mean, they are\nreally unbelievable! We'll read about them in the next lesson."
+}

@@ -1,0 +1,551 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 37,
+  "image": "/ocr/books/class6-english/page-images/page-037.png",
+  "width": 1149,
+  "height": 1518,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Listen to the conversation and fill in the blanks with suitable words.",
+      "cleanText": "Listen to the conversation and fill in the blanks with suitable words.",
+      "bbox": {
+        "x": 198,
+        "y": 167,
+        "width": 842,
+        "height": 21
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-037-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Sohan Hi, Simon! You look so fit! Do you exercise regularly?",
+      "cleanText": "Sohan Hi, Simon! You look so fit! Do you exercise regularly?",
+      "bbox": {
+        "x": 200,
+        "y": 227,
+        "width": 780,
+        "height": 26
+      },
+      "confidence": 95.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Simon Yes, I do. I'm quite .......... about fitness.",
+      "cleanText": "Simon Yes, I do. I'm quite .......... about fitness.",
+      "bbox": {
+        "x": 200,
+        "y": 278,
+        "width": 628,
+        "height": 26
+      },
+      "confidence": 80.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Sohan So, how ......... do you exercise?",
+      "cleanText": "Sohan So, how ......... do you exercise?",
+      "bbox": {
+        "x": 200,
+        "y": 329,
+        "width": 540,
+        "height": 25
+      },
+      "confidence": 94.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Simon Well, | do jogging every day in the Then I play table",
+      "cleanText": "Simon Well, | do jogging every day in the Then I play table",
+      "bbox": {
+        "x": 200,
+        "y": 379,
+        "width": 833,
+        "height": 26
+      },
+      "confidence": 91.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "tennis in the afternoon.",
+      "cleanText": "tennis in the afternoon.",
+      "bbox": {
+        "x": 360,
+        "y": 430,
+        "width": 265,
+        "height": 20
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Sohan table tennis, too.",
+      "cleanText": "Sohan table tennis, too.",
+      "bbox": {
+        "x": 200,
+        "y": 480,
+        "width": 410,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Simon Oh, will you come to play .......... then?",
+      "cleanText": "Simon Oh, will you come to play .......... then?",
+      "bbox": {
+        "x": 200,
+        "y": 531,
+        "width": 623,
+        "height": 26
+      },
+      "confidence": 93.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Sohan Sure. But do you play?",
+      "cleanText": "Sohan Sure. But do you play?",
+      "bbox": {
+        "x": 200,
+        "y": 582,
+        "width": 569,
+        "height": 25
+      },
+      "confidence": 92.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Simon Pretty well, I guess.",
+      "cleanText": "Simon Pretty well, I guess.",
+      "bbox": {
+        "x": 200,
+        "y": 632,
+        "width": 381,
+        "height": 26
+      },
+      "confidence": 92.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Sohan All right. But I'm not very good.",
+      "cleanText": "Sohan All right. But I'm not very good.",
+      "bbox": {
+        "x": 200,
+        "y": 683,
+        "width": 523,
+        "height": 25
+      },
+      "confidence": 94.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Simon No problem, Sohan. I won't play .......... .",
+      "cleanText": "Simon No problem, Sohan. I won't play .......... .",
+      "bbox": {
+        "x": 199,
+        "y": 733,
+        "width": 647,
+        "height": 26
+      },
+      "confidence": 82.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Listen to the conversation again and then practise saying it in pairs.",
+      "cleanText": "Listen to the conversation again and then practise saying it in pairs.",
+      "bbox": {
+        "x": 194,
+        "y": 787,
+        "width": 831,
+        "height": 27
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-037-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Read what Simon says about his physical exercise programme.",
+      "cleanText": "Read what Simon says about his physical exercise programme.",
+      "bbox": {
+        "x": 198,
+        "y": 846,
+        "width": 791,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "I'm Simon. I love to exercise. I usually exercise every day. I get up early in",
+      "cleanText": "I'm Simon. I love to exercise. I usually exercise every day. I get up early in",
+      "bbox": {
+        "x": 197,
+        "y": 916,
+        "width": 816,
+        "height": 24
+      },
+      "confidence": 93.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "the morning and do jogging for half an hour. Almost regularly, T play table",
+      "cleanText": "the morning and do jogging for half an hour. Almost regularly, T play table",
+      "bbox": {
+        "x": 197,
+        "y": 953,
+        "width": 817,
+        "height": 24
+      },
+      "confidence": 89.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "tennis in the afternoon. Sometimes, I play football. Once a week, I do yoga.",
+      "cleanText": "tennis in the afternoon. Sometimes, I play football. Once a week, I do yoga.",
+      "bbox": {
+        "x": 196,
+        "y": 987,
+        "width": 802,
+        "height": 25
+      },
+      "confidence": 92.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Now, write about what you usually do or would like to do to keep",
+      "cleanText": "Now, write about what you usually do or would like to do to keep",
+      "bbox": {
+        "x": 193,
+        "y": 1058,
+        "width": 837,
+        "height": 27
+      },
+      "confidence": 95.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "yourself fit.",
+      "cleanText": "yourself fit.",
+      "bbox": {
+        "x": 196,
+        "y": 1104,
+        "width": 135,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-037-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Write a short paragraph on the rules of good health. Take your cues",
+      "cleanText": "Write a short paragraph on the rules of good health. Take your cues",
+      "bbox": {
+        "x": 191,
+        "y": 1159,
+        "width": 838,
+        "height": 27
+      },
+      "confidence": 94.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "from E.",
+      "cleanText": "from E.",
+      "bbox": {
+        "x": 195,
+        "y": 1207,
+        "width": 91,
+        "height": 21
+      },
+      "confidence": 81.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-037-line-021",
+      "lineNumber": 21
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-037-line-002",
+      "lineNumber": 2,
+      "text": "Sohan Hi, Simon! You look so fit! Do you exercise regularly?",
+      "bbox": {
+        "x": 200,
+        "y": 227,
+        "width": 780,
+        "height": 26
+      },
+      "confidence": 95.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-003",
+      "lineNumber": 3,
+      "text": "Simon Yes, I do. I'm quite .......... about fitness.",
+      "bbox": {
+        "x": 200,
+        "y": 278,
+        "width": 628,
+        "height": 26
+      },
+      "confidence": 80.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-004",
+      "lineNumber": 4,
+      "text": "Sohan So, how ......... do you exercise?",
+      "bbox": {
+        "x": 200,
+        "y": 329,
+        "width": 540,
+        "height": 25
+      },
+      "confidence": 94.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-005",
+      "lineNumber": 5,
+      "text": "Simon Well, | do jogging every day in the Then I play table",
+      "bbox": {
+        "x": 200,
+        "y": 379,
+        "width": 833,
+        "height": 26
+      },
+      "confidence": 91.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-006",
+      "lineNumber": 6,
+      "text": "tennis in the afternoon.",
+      "bbox": {
+        "x": 360,
+        "y": 430,
+        "width": 265,
+        "height": 20
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-007",
+      "lineNumber": 7,
+      "text": "Sohan table tennis, too.",
+      "bbox": {
+        "x": 200,
+        "y": 480,
+        "width": 410,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-008",
+      "lineNumber": 8,
+      "text": "Simon Oh, will you come to play .......... then?",
+      "bbox": {
+        "x": 200,
+        "y": 531,
+        "width": 623,
+        "height": 26
+      },
+      "confidence": 93.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-009",
+      "lineNumber": 9,
+      "text": "Sohan Sure. But do you play?",
+      "bbox": {
+        "x": 200,
+        "y": 582,
+        "width": 569,
+        "height": 25
+      },
+      "confidence": 92.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-010",
+      "lineNumber": 10,
+      "text": "Simon Pretty well, I guess.",
+      "bbox": {
+        "x": 200,
+        "y": 632,
+        "width": 381,
+        "height": 26
+      },
+      "confidence": 92.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-011",
+      "lineNumber": 11,
+      "text": "Sohan All right. But I'm not very good.",
+      "bbox": {
+        "x": 200,
+        "y": 683,
+        "width": 523,
+        "height": 25
+      },
+      "confidence": 94.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-012",
+      "lineNumber": 12,
+      "text": "Simon No problem, Sohan. I won't play .......... .",
+      "bbox": {
+        "x": 199,
+        "y": 733,
+        "width": 647,
+        "height": 26
+      },
+      "confidence": 82.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-014",
+      "lineNumber": 14,
+      "text": "Read what Simon says about his physical exercise programme.",
+      "bbox": {
+        "x": 198,
+        "y": 846,
+        "width": 791,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-015",
+      "lineNumber": 15,
+      "text": "I'm Simon. I love to exercise. I usually exercise every day. I get up early in",
+      "bbox": {
+        "x": 197,
+        "y": 916,
+        "width": 816,
+        "height": 24
+      },
+      "confidence": 93.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-016",
+      "lineNumber": 16,
+      "text": "the morning and do jogging for half an hour. Almost regularly, T play table",
+      "bbox": {
+        "x": 197,
+        "y": 953,
+        "width": 817,
+        "height": 24
+      },
+      "confidence": 89.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-017",
+      "lineNumber": 17,
+      "text": "tennis in the afternoon. Sometimes, I play football. Once a week, I do yoga.",
+      "bbox": {
+        "x": 196,
+        "y": 987,
+        "width": 802,
+        "height": 25
+      },
+      "confidence": 92.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-018",
+      "lineNumber": 18,
+      "text": "Now, write about what you usually do or would like to do to keep",
+      "bbox": {
+        "x": 193,
+        "y": 1058,
+        "width": 837,
+        "height": 27
+      },
+      "confidence": 95.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-020",
+      "lineNumber": 20,
+      "text": "Write a short paragraph on the rules of good health. Take your cues",
+      "bbox": {
+        "x": 191,
+        "y": 1159,
+        "width": 838,
+        "height": 27
+      },
+      "confidence": 94.92,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Listen to the conversation and fill in the blanks with suitable words.\nSohan Hi, Simon! You look so fit! Do you exercise regularly?\nSimon Yes, I do. I'm quite .......... about fitness.\nSohan So, how ......... do you exercise?\nSimon Well, | do jogging every day in the Then I play table\ntennis in the afternoon.\nSohan table tennis, too.\nSimon Oh, will you come to play .......... then?\nSohan Sure. But do you play?\nSimon Pretty well, I guess.\nSohan All right. But I'm not very good.\nSimon No problem, Sohan. I won't play .......... .\nListen to the conversation again and then practise saying it in pairs.\nRead what Simon says about his physical exercise programme.\nI'm Simon. I love to exercise. I usually exercise every day. I get up early in\nthe morning and do jogging for half an hour. Almost regularly, T play table\ntennis in the afternoon. Sometimes, I play football. Once a week, I do yoga.\nNow, write about what you usually do or would like to do to keep\nyourself fit.\nWrite a short paragraph on the rules of good health. Take your cues\nfrom E.",
+  "cleanText": "Listen to the conversation and fill in the blanks with suitable words.\nSohan Hi, Simon! You look so fit! Do you exercise regularly?\nSimon Yes, I do. I'm quite .......... about fitness.\nSohan So, how ......... do you exercise?\nSimon Well, | do jogging every day in the Then I play table\ntennis in the afternoon.\nSohan table tennis, too.\nSimon Oh, will you come to play .......... then?\nSohan Sure. But do you play?\nSimon Pretty well, I guess.\nSohan All right. But I'm not very good.\nSimon No problem, Sohan. I won't play .......... .\nListen to the conversation again and then practise saying it in pairs.\nRead what Simon says about his physical exercise programme.\nI'm Simon. I love to exercise. I usually exercise every day. I get up early in\nthe morning and do jogging for half an hour. Almost regularly, T play table\ntennis in the afternoon. Sometimes, I play football. Once a week, I do yoga.\nNow, write about what you usually do or would like to do to keep\nyourself fit.\nWrite a short paragraph on the rules of good health. Take your cues\nfrom E.",
+  "aiReadyText": "Sohan Hi, Simon! You look so fit! Do you exercise regularly?\nSimon Yes, I do. I'm quite .......... about fitness.\nSohan So, how ......... do you exercise?\nSimon Well, | do jogging every day in the Then I play table\ntennis in the afternoon.\nSohan table tennis, too.\nSimon Oh, will you come to play .......... then?\nSohan Sure. But do you play?\nSimon Pretty well, I guess.\nSohan All right. But I'm not very good.\nSimon No problem, Sohan. I won't play .......... .\nRead what Simon says about his physical exercise programme.\nI'm Simon. I love to exercise. I usually exercise every day. I get up early in\nthe morning and do jogging for half an hour. Almost regularly, T play table\ntennis in the afternoon. Sometimes, I play football. Once a week, I do yoga.\nNow, write about what you usually do or would like to do to keep\nWrite a short paragraph on the rules of good health. Take your cues"
+}

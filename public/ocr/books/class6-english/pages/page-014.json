@@ -1,0 +1,693 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 14,
+  "image": "/ocr/books/class6-english/page-images/page-014.png",
+  "width": 1176,
+  "height": 1527,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 4 Where are You From?",
+      "cleanText": "Lesson 4 Where are You From?",
+      "bbox": {
+        "x": 232,
+        "y": 190,
+        "width": 670,
+        "height": 35
+      },
+      "confidence": 87.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 182,
+        "y": 287,
+        "width": 569,
+        "height": 24
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-014-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "® recognise words and stress on words in sentences",
+      "cleanText": "® recognise words and stress on words in sentences",
+      "bbox": {
+        "x": 203,
+        "y": 321,
+        "width": 541,
+        "height": 23
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "talk about people, places and familiar objects in short and simple sentences",
+      "cleanText": "talk about people, places and familiar objects in short and simple sentences",
+      "bbox": {
+        "x": 221,
+        "y": 354,
+        "width": 791,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-014-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "© ask and answer questions",
+      "cleanText": "© ask and answer questions",
+      "bbox": {
+        "x": 203,
+        "y": 387,
+        "width": 284,
+        "height": 23
+      },
+      "confidence": 83.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "It is natural that when two persons meet they would engage",
+      "cleanText": "It is natural that when two persons meet they would engage",
+      "bbox": {
+        "x": 181,
+        "y": 428,
+        "width": 850,
+        "height": 27
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "in a_ conversation. They may want to know where the other comes",
+      "cleanText": "in a_ conversation. They may want to know where the other comes",
+      "bbox": {
+        "x": 182,
+        "y": 460,
+        "width": 867,
+        "height": 28
+      },
+      "confidence": 87.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "from, or what the other person does and so on. Here are some",
+      "cleanText": "from, or what the other person does and so on. Here are some",
+      "bbox": {
+        "x": 179,
+        "y": 494,
+        "width": 868,
+        "height": 27
+      },
+      "confidence": 95.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "conversations in such everyday situations.",
+      "cleanText": "conversations in such everyday situations.",
+      "bbox": {
+        "x": 178,
+        "y": 527,
+        "width": 534,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Listen to and then practise the conversations below with your",
+      "cleanText": "Listen to and then practise the conversations below with your",
+      "bbox": {
+        "x": 183,
+        "y": 580,
+        "width": 862,
+        "height": 27
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-014-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "class friends.",
+      "cleanText": "class friends.",
+      "bbox": {
+        "x": 180,
+        "y": 610,
+        "width": 166,
+        "height": 22
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "i) Mamun and his friend Akash have gone to a book fair. A lot of people",
+      "cleanText": "Mamun and his friend Akash have gone to a book fair. A lot of people",
+      "bbox": {
+        "x": 182,
+        "y": 643,
+        "width": 865,
+        "height": 33
+      },
+      "confidence": 93.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "have also come. They are all talking, laughing and buying books. Mamun",
+      "cleanText": "have also come. They are all talking, laughing and buying books. Mamun",
+      "bbox": {
+        "x": 182,
+        "y": 678,
+        "width": 862,
+        "height": 25
+      },
+      "confidence": 93.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "introduces Akash to someone. Akash cannot hear his name because of the",
+      "cleanText": "introduces Akash to someone. Akash cannot hear his name because of the",
+      "bbox": {
+        "x": 179,
+        "y": 708,
+        "width": 866,
+        "height": 26
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "noise around.",
+      "cleanText": "noise around.",
+      "bbox": {
+        "x": 178,
+        "y": 739,
+        "width": 155,
+        "height": 20
+      },
+      "confidence": 91.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-014-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Mamun Akash, I'd like you",
+      "cleanText": "Mamun Akash, I'd like you",
+      "bbox": {
+        "x": 183,
+        "y": 776,
+        "width": 383,
+        "height": 34
+      },
+      "confidence": 94.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Akash Hello! My name is | a uy |",
+      "cleanText": "Akash Hello! My name is | a uy |",
+      "bbox": {
+        "x": 182,
+        "y": 826,
+        "width": 827,
+        "height": 71
+      },
+      "confidence": 76.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "couldn't catch your",
+      "cleanText": "couldn't catch your",
+      "bbox": {
+        "x": 355,
+        "y": 939,
+        "width": 218,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "The stranger James. James",
+      "cleanText": "The stranger James. James",
+      "bbox": {
+        "x": 182,
+        "y": 1018,
+        "width": 324,
+        "height": 25
+      },
+      "confidence": 85.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Collins. Nice to",
+      "cleanText": "Collins. Nice to",
+      "bbox": {
+        "x": 355,
+        "y": 1056,
+        "width": 179,
+        "height": 20
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "meet you.",
+      "cleanText": "meet you.",
+      "bbox": {
+        "x": 356,
+        "y": 1098,
+        "width": 109,
+        "height": 22
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-014-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Akash Nice to meet you, too. Where are you from, James?",
+      "cleanText": "Akash Nice to meet you, too. Where are you from, James?",
+      "bbox": {
+        "x": 182,
+        "y": 1144,
+        "width": 760,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "James I'm from England.",
+      "cleanText": "James I'm from England.",
+      "bbox": {
+        "x": 182,
+        "y": 1188,
+        "width": 377,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Imagine that you are at a bus/railway station. A friend introduces you",
+      "cleanText": "Imagine that you are at a bus/railway station. A friend introduces you",
+      "bbox": {
+        "x": 181,
+        "y": 1247,
+        "width": 867,
+        "height": 26
+      },
+      "confidence": 95.08,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-014-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "to somebody. You couldn't hear his/her name properly for the",
+      "cleanText": "to somebody. You couldn't hear his/her name properly for the",
+      "bbox": {
+        "x": 180,
+        "y": 1284,
+        "width": 864,
+        "height": 27
+      },
+      "confidence": 93.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "sound around. Now, make a conversation among you, your friend",
+      "cleanText": "sound around. Now, make a conversation among you, your friend",
+      "bbox": {
+        "x": 182,
+        "y": 1321,
+        "width": 865,
+        "height": 27
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "and the new person.",
+      "cleanText": "and the new person.",
+      "bbox": {
+        "x": 182,
+        "y": 1358,
+        "width": 253,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-014-line-027",
+      "lineNumber": 27
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-014-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 4 Where are You From?",
+      "bbox": {
+        "x": 232,
+        "y": 190,
+        "width": 670,
+        "height": 35
+      },
+      "confidence": 87.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-003",
+      "lineNumber": 3,
+      "text": "® recognise words and stress on words in sentences",
+      "bbox": {
+        "x": 203,
+        "y": 321,
+        "width": 541,
+        "height": 23
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-005",
+      "lineNumber": 5,
+      "text": "© ask and answer questions",
+      "bbox": {
+        "x": 203,
+        "y": 387,
+        "width": 284,
+        "height": 23
+      },
+      "confidence": 83.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-006",
+      "lineNumber": 6,
+      "text": "It is natural that when two persons meet they would engage",
+      "bbox": {
+        "x": 181,
+        "y": 428,
+        "width": 850,
+        "height": 27
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-007",
+      "lineNumber": 7,
+      "text": "in a_ conversation. They may want to know where the other comes",
+      "bbox": {
+        "x": 182,
+        "y": 460,
+        "width": 867,
+        "height": 28
+      },
+      "confidence": 87.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-008",
+      "lineNumber": 8,
+      "text": "from, or what the other person does and so on. Here are some",
+      "bbox": {
+        "x": 179,
+        "y": 494,
+        "width": 868,
+        "height": 27
+      },
+      "confidence": 95.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-009",
+      "lineNumber": 9,
+      "text": "conversations in such everyday situations.",
+      "bbox": {
+        "x": 178,
+        "y": 527,
+        "width": 534,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-011",
+      "lineNumber": 11,
+      "text": "class friends.",
+      "bbox": {
+        "x": 180,
+        "y": 610,
+        "width": 166,
+        "height": 22
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-012",
+      "lineNumber": 12,
+      "text": "Mamun and his friend Akash have gone to a book fair. A lot of people",
+      "bbox": {
+        "x": 182,
+        "y": 643,
+        "width": 865,
+        "height": 33
+      },
+      "confidence": 93.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-013",
+      "lineNumber": 13,
+      "text": "have also come. They are all talking, laughing and buying books. Mamun",
+      "bbox": {
+        "x": 182,
+        "y": 678,
+        "width": 862,
+        "height": 25
+      },
+      "confidence": 93.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-014",
+      "lineNumber": 14,
+      "text": "introduces Akash to someone. Akash cannot hear his name because of the",
+      "bbox": {
+        "x": 179,
+        "y": 708,
+        "width": 866,
+        "height": 26
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-016",
+      "lineNumber": 16,
+      "text": "Mamun Akash, I'd like you",
+      "bbox": {
+        "x": 183,
+        "y": 776,
+        "width": 383,
+        "height": 34
+      },
+      "confidence": 94.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-017",
+      "lineNumber": 17,
+      "text": "Akash Hello! My name is | a uy |",
+      "bbox": {
+        "x": 182,
+        "y": 826,
+        "width": 827,
+        "height": 71
+      },
+      "confidence": 76.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-018",
+      "lineNumber": 18,
+      "text": "couldn't catch your",
+      "bbox": {
+        "x": 355,
+        "y": 939,
+        "width": 218,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-019",
+      "lineNumber": 19,
+      "text": "The stranger James. James",
+      "bbox": {
+        "x": 182,
+        "y": 1018,
+        "width": 324,
+        "height": 25
+      },
+      "confidence": 85.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-020",
+      "lineNumber": 20,
+      "text": "Collins. Nice to",
+      "bbox": {
+        "x": 355,
+        "y": 1056,
+        "width": 179,
+        "height": 20
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-022",
+      "lineNumber": 22,
+      "text": "Akash Nice to meet you, too. Where are you from, James?",
+      "bbox": {
+        "x": 182,
+        "y": 1144,
+        "width": 760,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-023",
+      "lineNumber": 23,
+      "text": "James I'm from England.",
+      "bbox": {
+        "x": 182,
+        "y": 1188,
+        "width": 377,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-025",
+      "lineNumber": 25,
+      "text": "to somebody. You couldn't hear his/her name properly for the",
+      "bbox": {
+        "x": 180,
+        "y": 1284,
+        "width": 864,
+        "height": 27
+      },
+      "confidence": 93.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-026",
+      "lineNumber": 26,
+      "text": "sound around. Now, make a conversation among you, your friend",
+      "bbox": {
+        "x": 182,
+        "y": 1321,
+        "width": 865,
+        "height": 27
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-014-line-027",
+      "lineNumber": 27,
+      "text": "and the new person.",
+      "bbox": {
+        "x": 182,
+        "y": 1358,
+        "width": 253,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 4 Where are You From?\nAfter completing the lesson students will be able to\n® recognise words and stress on words in sentences\ntalk about people, places and familiar objects in short and simple sentences\n© ask and answer questions\nIt is natural that when two persons meet they would engage\nin a_ conversation. They may want to know where the other comes\nfrom, or what the other person does and so on. Here are some\nconversations in such everyday situations.\nListen to and then practise the conversations below with your\nclass friends.\ni) Mamun and his friend Akash have gone to a book fair. A lot of people\nhave also come. They are all talking, laughing and buying books. Mamun\nintroduces Akash to someone. Akash cannot hear his name because of the\nnoise around.\nMamun Akash, I'd like you\nAkash Hello! My name is | a uy |\ncouldn't catch your\nThe stranger James. James\nCollins. Nice to\nmeet you.\nAkash Nice to meet you, too. Where are you from, James?\nJames I'm from England.\nImagine that you are at a bus/railway station. A friend introduces you\nto somebody. You couldn't hear his/her name properly for the\nsound around. Now, make a conversation among you, your friend\nand the new person.",
+  "cleanText": "Lesson 4 Where are You From?\nAfter completing the lesson students will be able to\n® recognise words and stress on words in sentences\ntalk about people, places and familiar objects in short and simple sentences\n© ask and answer questions\nIt is natural that when two persons meet they would engage\nin a_ conversation. They may want to know where the other comes\nfrom, or what the other person does and so on. Here are some\nconversations in such everyday situations.\nListen to and then practise the conversations below with your\nclass friends.\nMamun and his friend Akash have gone to a book fair. A lot of people\nhave also come. They are all talking, laughing and buying books. Mamun\nintroduces Akash to someone. Akash cannot hear his name because of the\nnoise around.\nMamun Akash, I'd like you\nAkash Hello! My name is | a uy |\ncouldn't catch your\nThe stranger James. James\nCollins. Nice to\nmeet you.\nAkash Nice to meet you, too. Where are you from, James?\nJames I'm from England.\nImagine that you are at a bus/railway station. A friend introduces you\nto somebody. You couldn't hear his/her name properly for the\nsound around. Now, make a conversation among you, your friend\nand the new person.",
+  "aiReadyText": "Lesson 4 Where are You From?\n® recognise words and stress on words in sentences\n© ask and answer questions\nIt is natural that when two persons meet they would engage\nin a_ conversation. They may want to know where the other comes\nfrom, or what the other person does and so on. Here are some\nconversations in such everyday situations.\nclass friends.\nMamun and his friend Akash have gone to a book fair. A lot of people\nhave also come. They are all talking, laughing and buying books. Mamun\nintroduces Akash to someone. Akash cannot hear his name because of the\nMamun Akash, I'd like you\nAkash Hello! My name is | a uy |\ncouldn't catch your\nThe stranger James. James\nCollins. Nice to\nAkash Nice to meet you, too. Where are you from, James?\nJames I'm from England.\nto somebody. You couldn't hear his/her name properly for the\nsound around. Now, make a conversation among you, your friend\nand the new person."
+}

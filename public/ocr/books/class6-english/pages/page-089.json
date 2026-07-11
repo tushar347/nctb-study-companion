@@ -1,0 +1,284 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 89,
+  "image": "/ocr/books/class6-english/page-images/page-089.png",
+  "width": 1149,
+  "height": 1514,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 28 Arve you Listening?-3",
+      "cleanText": "Lesson 28 Arve you Listening?-3",
+      "bbox": {
+        "x": 251,
+        "y": 184,
+        "width": 660,
+        "height": 39
+      },
+      "confidence": 87.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 180,
+        "y": 265,
+        "width": 569,
+        "height": 24
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-089-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "© recognise English sounds",
+      "cleanText": "© recognise English sounds",
+      "bbox": {
+        "x": 200,
+        "y": 296,
+        "width": 286,
+        "height": 24
+      },
+      "confidence": 83.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "© recognise word and stress on words in sentences",
+      "cleanText": "© recognise word and stress on words in sentences",
+      "bbox": {
+        "x": 200,
+        "y": 329,
+        "width": 528,
+        "height": 24
+      },
+      "confidence": 91.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "read aloud with proper pronunciation, stress and intonation",
+      "cleanText": "read aloud with proper pronunciation, stress and intonation",
+      "bbox": {
+        "x": 218,
+        "y": 365,
+        "width": 621,
+        "height": 23
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "A, Listen to and say the following words. Notice how the letter ‘O’ is",
+      "cleanText": "A, Listen to and say the following words. Notice how the letter ‘O’ is",
+      "bbox": {
+        "x": 120,
+        "y": 403,
+        "width": 919,
+        "height": 27
+      },
+      "confidence": 90.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "pronounced in words in List 1 and List 2",
+      "cleanText": "pronounced in words in List 1 and List 2",
+      "bbox": {
+        "x": 180,
+        "y": 441,
+        "width": 527,
+        "height": 28
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "List 1",
+      "cleanText": "List 1",
+      "bbox": {
+        "x": 373,
+        "y": 481,
+        "width": 65,
+        "height": 19
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-089-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "List 2",
+      "cleanText": "List 2",
+      "bbox": {
+        "x": 566,
+        "y": 481,
+        "width": 67,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-089-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "AL. Listen to and practise saying some more words with the two vowel",
+      "cleanText": "AL. Listen to and practise saying some more words with the two vowel",
+      "bbox": {
+        "x": 120,
+        "y": 657,
+        "width": 917,
+        "height": 27
+      },
+      "confidence": 94.15,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "sounds together (dipthong) as in the word ‘hope' or",
+      "cleanText": "sounds together (dipthong) as in the word ‘hope' or",
+      "bbox": {
+        "x": 181,
+        "y": 692,
+        "width": 647,
+        "height": 27
+      },
+      "confidence": 93.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-011",
+      "lineNumber": 11
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-089-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 28 Arve you Listening?-3",
+      "bbox": {
+        "x": 251,
+        "y": 184,
+        "width": 660,
+        "height": 39
+      },
+      "confidence": 87.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-003",
+      "lineNumber": 3,
+      "text": "© recognise English sounds",
+      "bbox": {
+        "x": 200,
+        "y": 296,
+        "width": 286,
+        "height": 24
+      },
+      "confidence": 83.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-004",
+      "lineNumber": 4,
+      "text": "© recognise word and stress on words in sentences",
+      "bbox": {
+        "x": 200,
+        "y": 329,
+        "width": 528,
+        "height": 24
+      },
+      "confidence": 91.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-005",
+      "lineNumber": 5,
+      "text": "read aloud with proper pronunciation, stress and intonation",
+      "bbox": {
+        "x": 218,
+        "y": 365,
+        "width": 621,
+        "height": 23
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-006",
+      "lineNumber": 6,
+      "text": "A, Listen to and say the following words. Notice how the letter ‘O’ is",
+      "bbox": {
+        "x": 120,
+        "y": 403,
+        "width": 919,
+        "height": 27
+      },
+      "confidence": 90.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-007",
+      "lineNumber": 7,
+      "text": "pronounced in words in List 1 and List 2",
+      "bbox": {
+        "x": 180,
+        "y": 441,
+        "width": 527,
+        "height": 28
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-010",
+      "lineNumber": 10,
+      "text": "AL. Listen to and practise saying some more words with the two vowel",
+      "bbox": {
+        "x": 120,
+        "y": 657,
+        "width": 917,
+        "height": 27
+      },
+      "confidence": 94.15,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-011",
+      "lineNumber": 11,
+      "text": "sounds together (dipthong) as in the word ‘hope' or",
+      "bbox": {
+        "x": 181,
+        "y": 692,
+        "width": 647,
+        "height": 27
+      },
+      "confidence": 93.89,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 28 Arve you Listening?-3\nAfter completing the lesson students will be able to\n© recognise English sounds\n© recognise word and stress on words in sentences\nread aloud with proper pronunciation, stress and intonation\nA, Listen to and say the following words. Notice how the letter ‘O’ is\npronounced in words in List 1 and List 2\nList 1\nList 2\nAL. Listen to and practise saying some more words with the two vowel\nsounds together (dipthong) as in the word ‘hope' or",
+  "cleanText": "Lesson 28 Arve you Listening?-3\nAfter completing the lesson students will be able to\n© recognise English sounds\n© recognise word and stress on words in sentences\nread aloud with proper pronunciation, stress and intonation\nA, Listen to and say the following words. Notice how the letter ‘O’ is\npronounced in words in List 1 and List 2\nList 1\nList 2\nAL. Listen to and practise saying some more words with the two vowel\nsounds together (dipthong) as in the word ‘hope' or",
+  "aiReadyText": "Lesson 28 Arve you Listening?-3\n© recognise English sounds\n© recognise word and stress on words in sentences\nread aloud with proper pronunciation, stress and intonation\nA, Listen to and say the following words. Notice how the letter ‘O’ is\npronounced in words in List 1 and List 2\nAL. Listen to and practise saying some more words with the two vowel\nsounds together (dipthong) as in the word ‘hope' or"
+}

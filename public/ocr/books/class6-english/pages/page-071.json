@@ -1,0 +1,689 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 71,
+  "image": "/ocr/books/class6-english/page-images/page-071.png",
+  "width": 1149,
+  "height": 1507,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "travel much faster and higher than birds. Not only do we travel from one",
+      "cleanText": "travel much faster and higher than birds. Not only do we travel from one",
+      "bbox": {
+        "x": 189,
+        "y": 149,
+        "width": 844,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "country to another, but we have also invented spacecraft that can travel",
+      "cleanText": "country to another, but we have also invented spacecraft that can travel",
+      "bbox": {
+        "x": 190,
+        "y": 186,
+        "width": 842,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "from one planet to another Humans have set foot on the moon, and are even",
+      "cleanText": "from one planet to another Humans have set foot on the moon, and are even",
+      "bbox": {
+        "x": 190,
+        "y": 224,
+        "width": 846,
+        "height": 25
+      },
+      "confidence": 95.87,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "exploring Mars! Advancements in space travel technology have enabled",
+      "cleanText": "exploring Mars! Advancements in space travel technology have enabled",
+      "bbox": {
+        "x": 189,
+        "y": 261,
+        "width": 845,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "scientists and astronauts to explore distant planets and moons. Who knows,",
+      "cleanText": "scientists and astronauts to explore distant planets and moons. Who knows,",
+      "bbox": {
+        "x": 188,
+        "y": 295,
+        "width": 848,
+        "height": 33
+      },
+      "confidence": 92.09,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "maybe one day we'll be able to spend a vacation on a planet in a different",
+      "cleanText": "maybe one day we'll be able to spend a vacation on a planet in a different",
+      "bbox": {
+        "x": 188,
+        "y": 332,
+        "width": 850,
+        "height": 34
+      },
+      "confidence": 93.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "galaxy, several thousand light-years away!",
+      "cleanText": "galaxy, several thousand light-years away!",
+      "bbox": {
+        "x": 184,
+        "y": 373,
+        "width": 483,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Mobile phones",
+      "cleanText": "Mobile phones",
+      "bbox": {
+        "x": 193,
+        "y": 452,
+        "width": 183,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-071-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Mobile phone is another useful invention of the world.",
+      "cleanText": "Mobile phone is another useful invention of the world.",
+      "bbox": {
+        "x": 193,
+        "y": 495,
+        "width": 658,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Like computers mobile phones help us greatly in our",
+      "cleanText": "Like computers mobile phones help us greatly in our",
+      "bbox": {
+        "x": 192,
+        "y": 541,
+        "width": 658,
+        "height": 27
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "daily life. Through mobiles we can connect the whole",
+      "cleanText": "daily life. Through mobiles we can connect the whole",
+      "bbox": {
+        "x": 190,
+        "y": 587,
+        "width": 657,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "world. Only a few years ago we had difficulty to contact",
+      "cleanText": "world. Only a few years ago we had difficulty to contact",
+      "bbox": {
+        "x": 190,
+        "y": 633,
+        "width": 660,
+        "height": 27
+      },
+      "confidence": 95.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "our near and dear ones. That was very costly too. Mobile",
+      "cleanText": "our near and dear ones. That was very costly too. Mobile",
+      "bbox": {
+        "x": 191,
+        "y": 678,
+        "width": 657,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "phones are very handy and we can use them for communication with",
+      "cleanText": "phones are very handy and we can use them for communication with",
+      "bbox": {
+        "x": 190,
+        "y": 726,
+        "width": 837,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "people at a very low cost. Mobile phones have different functions such",
+      "cleanText": "people at a very low cost. Mobile phones have different functions such",
+      "bbox": {
+        "x": 191,
+        "y": 772,
+        "width": 833,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "as making calls, listening to music, taking photographs, storing",
+      "cleanText": "as making calls, listening to music, taking photographs, storing",
+      "bbox": {
+        "x": 190,
+        "y": 819,
+        "width": 838,
+        "height": 26
+      },
+      "confidence": 94.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "information,etc. Even it can be used for distance learning.",
+      "cleanText": "information,etc. Even it can be used for distance learning.",
+      "bbox": {
+        "x": 191,
+        "y": 864,
+        "width": 663,
+        "height": 26
+      },
+      "confidence": 92.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Read the words in Column A and match them with the meanings",
+      "cleanText": "Read the words in Column A and match them with the meanings",
+      "bbox": {
+        "x": 193,
+        "y": 915,
+        "width": 841,
+        "height": 27
+      },
+      "confidence": 95.42,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "in Column B.",
+      "cleanText": "in Column B.",
+      "bbox": {
+        "x": 193,
+        "y": 955,
+        "width": 173,
+        "height": 21
+      },
+      "confidence": 86.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-071-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Column A Column B",
+      "cleanText": "Column A Column B",
+      "bbox": {
+        "x": 241,
+        "y": 1016,
+        "width": 348,
+        "height": 21
+      },
+      "confidence": 92.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "lonely influence",
+      "cleanText": "lonely influence",
+      "bbox": {
+        "x": 242,
+        "y": 1087,
+        "width": 317,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "sphere a vehicle that travels in space",
+      "cleanText": "sphere a vehicle that travels in space",
+      "bbox": {
+        "x": 242,
+        "y": 1130,
+        "width": 545,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "impact surprise",
+      "cleanText": "impact surprise",
+      "bbox": {
+        "x": 242,
+        "y": 1176,
+        "width": 301,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "wonder feeling alone",
+      "cleanText": "wonder feeling alone",
+      "bbox": {
+        "x": 241,
+        "y": 1226,
+        "width": 359,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "spacecraft area",
+      "cleanText": "spacecraft area",
+      "bbox": {
+        "x": 242,
+        "y": 1268,
+        "width": 259,
+        "height": 34
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-025",
+      "lineNumber": 25
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-071-line-001",
+      "lineNumber": 1,
+      "text": "travel much faster and higher than birds. Not only do we travel from one",
+      "bbox": {
+        "x": 189,
+        "y": 149,
+        "width": 844,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-002",
+      "lineNumber": 2,
+      "text": "country to another, but we have also invented spacecraft that can travel",
+      "bbox": {
+        "x": 190,
+        "y": 186,
+        "width": 842,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-003",
+      "lineNumber": 3,
+      "text": "from one planet to another Humans have set foot on the moon, and are even",
+      "bbox": {
+        "x": 190,
+        "y": 224,
+        "width": 846,
+        "height": 25
+      },
+      "confidence": 95.87,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-004",
+      "lineNumber": 4,
+      "text": "exploring Mars! Advancements in space travel technology have enabled",
+      "bbox": {
+        "x": 189,
+        "y": 261,
+        "width": 845,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-005",
+      "lineNumber": 5,
+      "text": "scientists and astronauts to explore distant planets and moons. Who knows,",
+      "bbox": {
+        "x": 188,
+        "y": 295,
+        "width": 848,
+        "height": 33
+      },
+      "confidence": 92.09,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-006",
+      "lineNumber": 6,
+      "text": "maybe one day we'll be able to spend a vacation on a planet in a different",
+      "bbox": {
+        "x": 188,
+        "y": 332,
+        "width": 850,
+        "height": 34
+      },
+      "confidence": 93.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-007",
+      "lineNumber": 7,
+      "text": "galaxy, several thousand light-years away!",
+      "bbox": {
+        "x": 184,
+        "y": 373,
+        "width": 483,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-009",
+      "lineNumber": 9,
+      "text": "Mobile phone is another useful invention of the world.",
+      "bbox": {
+        "x": 193,
+        "y": 495,
+        "width": 658,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-010",
+      "lineNumber": 10,
+      "text": "Like computers mobile phones help us greatly in our",
+      "bbox": {
+        "x": 192,
+        "y": 541,
+        "width": 658,
+        "height": 27
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-011",
+      "lineNumber": 11,
+      "text": "daily life. Through mobiles we can connect the whole",
+      "bbox": {
+        "x": 190,
+        "y": 587,
+        "width": 657,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-012",
+      "lineNumber": 12,
+      "text": "world. Only a few years ago we had difficulty to contact",
+      "bbox": {
+        "x": 190,
+        "y": 633,
+        "width": 660,
+        "height": 27
+      },
+      "confidence": 95.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-013",
+      "lineNumber": 13,
+      "text": "our near and dear ones. That was very costly too. Mobile",
+      "bbox": {
+        "x": 191,
+        "y": 678,
+        "width": 657,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-014",
+      "lineNumber": 14,
+      "text": "phones are very handy and we can use them for communication with",
+      "bbox": {
+        "x": 190,
+        "y": 726,
+        "width": 837,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-015",
+      "lineNumber": 15,
+      "text": "people at a very low cost. Mobile phones have different functions such",
+      "bbox": {
+        "x": 191,
+        "y": 772,
+        "width": 833,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-016",
+      "lineNumber": 16,
+      "text": "as making calls, listening to music, taking photographs, storing",
+      "bbox": {
+        "x": 190,
+        "y": 819,
+        "width": 838,
+        "height": 26
+      },
+      "confidence": 94.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-017",
+      "lineNumber": 17,
+      "text": "information,etc. Even it can be used for distance learning.",
+      "bbox": {
+        "x": 191,
+        "y": 864,
+        "width": 663,
+        "height": 26
+      },
+      "confidence": 92.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-018",
+      "lineNumber": 18,
+      "text": "Read the words in Column A and match them with the meanings",
+      "bbox": {
+        "x": 193,
+        "y": 915,
+        "width": 841,
+        "height": 27
+      },
+      "confidence": 95.42,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-020",
+      "lineNumber": 20,
+      "text": "Column A Column B",
+      "bbox": {
+        "x": 241,
+        "y": 1016,
+        "width": 348,
+        "height": 21
+      },
+      "confidence": 92.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-021",
+      "lineNumber": 21,
+      "text": "lonely influence",
+      "bbox": {
+        "x": 242,
+        "y": 1087,
+        "width": 317,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-022",
+      "lineNumber": 22,
+      "text": "sphere a vehicle that travels in space",
+      "bbox": {
+        "x": 242,
+        "y": 1130,
+        "width": 545,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-023",
+      "lineNumber": 23,
+      "text": "impact surprise",
+      "bbox": {
+        "x": 242,
+        "y": 1176,
+        "width": 301,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-024",
+      "lineNumber": 24,
+      "text": "wonder feeling alone",
+      "bbox": {
+        "x": 241,
+        "y": 1226,
+        "width": 359,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-025",
+      "lineNumber": 25,
+      "text": "spacecraft area",
+      "bbox": {
+        "x": 242,
+        "y": 1268,
+        "width": 259,
+        "height": 34
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "travel much faster and higher than birds. Not only do we travel from one\ncountry to another, but we have also invented spacecraft that can travel\nfrom one planet to another Humans have set foot on the moon, and are even\nexploring Mars! Advancements in space travel technology have enabled\nscientists and astronauts to explore distant planets and moons. Who knows,\nmaybe one day we'll be able to spend a vacation on a planet in a different\ngalaxy, several thousand light-years away!\nMobile phones\nMobile phone is another useful invention of the world.\nLike computers mobile phones help us greatly in our\ndaily life. Through mobiles we can connect the whole\nworld. Only a few years ago we had difficulty to contact\nour near and dear ones. That was very costly too. Mobile\nphones are very handy and we can use them for communication with\npeople at a very low cost. Mobile phones have different functions such\nas making calls, listening to music, taking photographs, storing\ninformation,etc. Even it can be used for distance learning.\nRead the words in Column A and match them with the meanings\nin Column B.\nColumn A Column B\nlonely influence\nsphere a vehicle that travels in space\nimpact surprise\nwonder feeling alone\nspacecraft area",
+  "cleanText": "travel much faster and higher than birds. Not only do we travel from one\ncountry to another, but we have also invented spacecraft that can travel\nfrom one planet to another Humans have set foot on the moon, and are even\nexploring Mars! Advancements in space travel technology have enabled\nscientists and astronauts to explore distant planets and moons. Who knows,\nmaybe one day we'll be able to spend a vacation on a planet in a different\ngalaxy, several thousand light-years away!\nMobile phones\nMobile phone is another useful invention of the world.\nLike computers mobile phones help us greatly in our\ndaily life. Through mobiles we can connect the whole\nworld. Only a few years ago we had difficulty to contact\nour near and dear ones. That was very costly too. Mobile\nphones are very handy and we can use them for communication with\npeople at a very low cost. Mobile phones have different functions such\nas making calls, listening to music, taking photographs, storing\ninformation,etc. Even it can be used for distance learning.\nRead the words in Column A and match them with the meanings\nin Column B.\nColumn A Column B\nlonely influence\nsphere a vehicle that travels in space\nimpact surprise\nwonder feeling alone\nspacecraft area",
+  "aiReadyText": "travel much faster and higher than birds. Not only do we travel from one\ncountry to another, but we have also invented spacecraft that can travel\nfrom one planet to another Humans have set foot on the moon, and are even\nexploring Mars! Advancements in space travel technology have enabled\nscientists and astronauts to explore distant planets and moons. Who knows,\nmaybe one day we'll be able to spend a vacation on a planet in a different\ngalaxy, several thousand light-years away!\nMobile phone is another useful invention of the world.\nLike computers mobile phones help us greatly in our\ndaily life. Through mobiles we can connect the whole\nworld. Only a few years ago we had difficulty to contact\nour near and dear ones. That was very costly too. Mobile\nphones are very handy and we can use them for communication with\npeople at a very low cost. Mobile phones have different functions such\nas making calls, listening to music, taking photographs, storing\ninformation,etc. Even it can be used for distance learning.\nRead the words in Column A and match them with the meanings\nColumn A Column B\nlonely influence\nsphere a vehicle that travels in space\nimpact surprise\nwonder feeling alone\nspacecraft area"
+}

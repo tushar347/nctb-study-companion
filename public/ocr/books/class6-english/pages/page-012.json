@@ -1,0 +1,654 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 12,
+  "image": "/ocr/books/class6-english/page-images/page-012.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 3) Atta Railway Station",
+      "cleanText": "Lesson 3) Atta Railway Station",
+      "bbox": {
+        "x": 237,
+        "y": 181,
+        "width": 665,
+        "height": 38
+      },
+      "confidence": 75.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 175,
+        "y": 265,
+        "width": 569,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-012-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "talk about people, places and familiar objects in short and simple sentences",
+      "cleanText": "talk about people, places and familiar objects in short and simple sentences",
+      "bbox": {
+        "x": 213,
+        "y": 296,
+        "width": 791,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-012-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "read and understand texts",
+      "cleanText": "read and understand texts",
+      "bbox": {
+        "x": 213,
+        "y": 327,
+        "width": 267,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "A. Read the following passage.",
+      "cleanText": "Read the following passage.",
+      "bbox": {
+        "x": 124,
+        "y": 379,
+        "width": 409,
+        "height": 27
+      },
+      "confidence": 83.2,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-012-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "My friend Sajjad and I were sitting at the railway station. I came to see him",
+      "cleanText": "My friend Sajjad and I were sitting at the railway station. I came to see him",
+      "bbox": {
+        "x": 175,
+        "y": 435,
+        "width": 856,
+        "height": 26
+      },
+      "confidence": 95.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "off. Sajjad was going to Dhaka to his elder sister's It was very crowded",
+      "cleanText": "off. Sajjad was going to Dhaka to his elder sister's It was very crowded",
+      "bbox": {
+        "x": 173,
+        "y": 473,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 93.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "in the station. There was a long line of people at the ticket counter. A",
+      "cleanText": "in the station. There was a long line of people at the ticket counter. A",
+      "bbox": {
+        "x": 176,
+        "y": 510,
+        "width": 855,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "woman was standing in the queue. She was holding her child's hand",
+      "cleanText": "woman was standing in the queue. She was holding her child's hand",
+      "bbox": {
+        "x": 174,
+        "y": 547,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "tightly. A group of young people was talking loudly and drinking tea in",
+      "cleanText": "tightly. A group of young people was talking loudly and drinking tea in",
+      "bbox": {
+        "x": 172,
+        "y": 584,
+        "width": 860,
+        "height": 27
+      },
+      "confidence": 86.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "front of a tea stall. An old couple was trying to find a quiet place to sit",
+      "cleanText": "front of a tea stall. An old couple was trying to find a quiet place to sit",
+      "bbox": {
+        "x": 174,
+        "y": 622,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 95.24,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "down and rest. The waiting room was crowded, too. | saw a man who was",
+      "cleanText": "down and rest. The waiting room was crowded, too. | saw a man who was",
+      "bbox": {
+        "x": 169,
+        "y": 660,
+        "width": 864,
+        "height": 26
+      },
+      "confidence": 93.53,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "trying to carry three heavy suitcases. A young lady was sitting on a bench",
+      "cleanText": "trying to carry three heavy suitcases. A young lady was sitting on a bench",
+      "bbox": {
+        "x": 172,
+        "y": 696,
+        "width": 862,
+        "height": 27
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "with her luggage at one corner. She was reading a magazine.",
+      "cleanText": "with her luggage at one corner. She was reading a magazine.",
+      "bbox": {
+        "x": 172,
+        "y": 734,
+        "width": 708,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "My friend and I stood near a newspaper stall talking and watching the",
+      "cleanText": "My friend and I stood near a newspaper stall talking and watching the",
+      "bbox": {
+        "x": 175,
+        "y": 789,
+        "width": 855,
+        "height": 26
+      },
+      "confidence": 93.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "crowd around. Soon my friend's train started to leave. As the train whistled,",
+      "cleanText": "crowd around. Soon my friend's train started to leave. As the train whistled,",
+      "bbox": {
+        "x": 171,
+        "y": 827,
+        "width": 864,
+        "height": 26
+      },
+      "confidence": 94.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "he picked up his suitcase and we said goodbye to each other.",
+      "cleanText": "he picked up his suitcase and we said goodbye to each other.",
+      "bbox": {
+        "x": 173,
+        "y": 864,
+        "width": 693,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Al. Talk about what the speaker saw and did at the railway station. Use",
+      "cleanText": "Al. Talk about what the speaker saw and did at the railway station. Use",
+      "bbox": {
+        "x": 124,
+        "y": 923,
+        "width": 908,
+        "height": 27
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "your own words.",
+      "cleanText": "your own words.",
+      "bbox": {
+        "x": 188,
+        "y": 961,
+        "width": 212,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "A2. Match a word from Column A with a word in Column B that has",
+      "cleanText": "A2. Match a word from Column A with a word in Column B that has",
+      "bbox": {
+        "x": 124,
+        "y": 1011,
+        "width": 908,
+        "height": 21
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "an opposite meaning. One is done for you.",
+      "cleanText": "an opposite meaning. One is done for you.",
+      "bbox": {
+        "x": 190,
+        "y": 1055,
+        "width": 527,
+        "height": 27
+      },
+      "confidence": 93.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Column B",
+      "cleanText": "Column B",
+      "bbox": {
+        "x": 785,
+        "y": 1122,
+        "width": 121,
+        "height": 20
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-012-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "see off light",
+      "cleanText": "see off light",
+      "bbox": {
+        "x": 347,
+        "y": 1188,
+        "width": 488,
+        "height": 26
+      },
+      "confidence": 96.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-012-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "long busy",
+      "cleanText": "long busy",
+      "bbox": {
+        "x": 347,
+        "y": 1226,
+        "width": 489,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-012-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "quiet receive",
+      "cleanText": "quiet receive",
+      "bbox": {
+        "x": 346,
+        "y": 1257,
+        "width": 518,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-012-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "heavy drop",
+      "cleanText": "heavy drop",
+      "bbox": {
+        "x": 346,
+        "y": 1298,
+        "width": 489,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-012-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "pick up short",
+      "cleanText": "pick up short",
+      "bbox": {
+        "x": 346,
+        "y": 1331,
+        "width": 495,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-012-line-027",
+      "lineNumber": 27
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-012-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 3) Atta Railway Station",
+      "bbox": {
+        "x": 237,
+        "y": 181,
+        "width": 665,
+        "height": 38
+      },
+      "confidence": 75.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-004",
+      "lineNumber": 4,
+      "text": "read and understand texts",
+      "bbox": {
+        "x": 213,
+        "y": 327,
+        "width": 267,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-006",
+      "lineNumber": 6,
+      "text": "My friend Sajjad and I were sitting at the railway station. I came to see him",
+      "bbox": {
+        "x": 175,
+        "y": 435,
+        "width": 856,
+        "height": 26
+      },
+      "confidence": 95.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-007",
+      "lineNumber": 7,
+      "text": "off. Sajjad was going to Dhaka to his elder sister's It was very crowded",
+      "bbox": {
+        "x": 173,
+        "y": 473,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 93.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-008",
+      "lineNumber": 8,
+      "text": "in the station. There was a long line of people at the ticket counter. A",
+      "bbox": {
+        "x": 176,
+        "y": 510,
+        "width": 855,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-009",
+      "lineNumber": 9,
+      "text": "woman was standing in the queue. She was holding her child's hand",
+      "bbox": {
+        "x": 174,
+        "y": 547,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-010",
+      "lineNumber": 10,
+      "text": "tightly. A group of young people was talking loudly and drinking tea in",
+      "bbox": {
+        "x": 172,
+        "y": 584,
+        "width": 860,
+        "height": 27
+      },
+      "confidence": 86.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-011",
+      "lineNumber": 11,
+      "text": "front of a tea stall. An old couple was trying to find a quiet place to sit",
+      "bbox": {
+        "x": 174,
+        "y": 622,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 95.24,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-012",
+      "lineNumber": 12,
+      "text": "down and rest. The waiting room was crowded, too. | saw a man who was",
+      "bbox": {
+        "x": 169,
+        "y": 660,
+        "width": 864,
+        "height": 26
+      },
+      "confidence": 93.53,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-013",
+      "lineNumber": 13,
+      "text": "trying to carry three heavy suitcases. A young lady was sitting on a bench",
+      "bbox": {
+        "x": 172,
+        "y": 696,
+        "width": 862,
+        "height": 27
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-014",
+      "lineNumber": 14,
+      "text": "with her luggage at one corner. She was reading a magazine.",
+      "bbox": {
+        "x": 172,
+        "y": 734,
+        "width": 708,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-015",
+      "lineNumber": 15,
+      "text": "My friend and I stood near a newspaper stall talking and watching the",
+      "bbox": {
+        "x": 175,
+        "y": 789,
+        "width": 855,
+        "height": 26
+      },
+      "confidence": 93.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-016",
+      "lineNumber": 16,
+      "text": "crowd around. Soon my friend's train started to leave. As the train whistled,",
+      "bbox": {
+        "x": 171,
+        "y": 827,
+        "width": 864,
+        "height": 26
+      },
+      "confidence": 94.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-017",
+      "lineNumber": 17,
+      "text": "he picked up his suitcase and we said goodbye to each other.",
+      "bbox": {
+        "x": 173,
+        "y": 864,
+        "width": 693,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-018",
+      "lineNumber": 18,
+      "text": "Al. Talk about what the speaker saw and did at the railway station. Use",
+      "bbox": {
+        "x": 124,
+        "y": 923,
+        "width": 908,
+        "height": 27
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-019",
+      "lineNumber": 19,
+      "text": "your own words.",
+      "bbox": {
+        "x": 188,
+        "y": 961,
+        "width": 212,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-020",
+      "lineNumber": 20,
+      "text": "A2. Match a word from Column A with a word in Column B that has",
+      "bbox": {
+        "x": 124,
+        "y": 1011,
+        "width": 908,
+        "height": 21
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-021",
+      "lineNumber": 21,
+      "text": "an opposite meaning. One is done for you.",
+      "bbox": {
+        "x": 190,
+        "y": 1055,
+        "width": 527,
+        "height": 27
+      },
+      "confidence": 93.75,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 3) Atta Railway Station\nAfter completing the lesson students will be able to\ntalk about people, places and familiar objects in short and simple sentences\nread and understand texts\nA. Read the following passage.\nMy friend Sajjad and I were sitting at the railway station. I came to see him\noff. Sajjad was going to Dhaka to his elder sister's It was very crowded\nin the station. There was a long line of people at the ticket counter. A\nwoman was standing in the queue. She was holding her child's hand\ntightly. A group of young people was talking loudly and drinking tea in\nfront of a tea stall. An old couple was trying to find a quiet place to sit\ndown and rest. The waiting room was crowded, too. | saw a man who was\ntrying to carry three heavy suitcases. A young lady was sitting on a bench\nwith her luggage at one corner. She was reading a magazine.\nMy friend and I stood near a newspaper stall talking and watching the\ncrowd around. Soon my friend's train started to leave. As the train whistled,\nhe picked up his suitcase and we said goodbye to each other.\nAl. Talk about what the speaker saw and did at the railway station. Use\nyour own words.\nA2. Match a word from Column A with a word in Column B that has\nan opposite meaning. One is done for you.\nColumn B\nsee off light\nlong busy\nquiet receive\nheavy drop\npick up short",
+  "cleanText": "Lesson 3) Atta Railway Station\nAfter completing the lesson students will be able to\ntalk about people, places and familiar objects in short and simple sentences\nread and understand texts\nRead the following passage.\nMy friend Sajjad and I were sitting at the railway station. I came to see him\noff. Sajjad was going to Dhaka to his elder sister's It was very crowded\nin the station. There was a long line of people at the ticket counter. A\nwoman was standing in the queue. She was holding her child's hand\ntightly. A group of young people was talking loudly and drinking tea in\nfront of a tea stall. An old couple was trying to find a quiet place to sit\ndown and rest. The waiting room was crowded, too. | saw a man who was\ntrying to carry three heavy suitcases. A young lady was sitting on a bench\nwith her luggage at one corner. She was reading a magazine.\nMy friend and I stood near a newspaper stall talking and watching the\ncrowd around. Soon my friend's train started to leave. As the train whistled,\nhe picked up his suitcase and we said goodbye to each other.\nAl. Talk about what the speaker saw and did at the railway station. Use\nyour own words.\nA2. Match a word from Column A with a word in Column B that has\nan opposite meaning. One is done for you.\nColumn B\nsee off light\nlong busy\nquiet receive\nheavy drop\npick up short",
+  "aiReadyText": "Lesson 3) Atta Railway Station\nread and understand texts\nMy friend Sajjad and I were sitting at the railway station. I came to see him\noff. Sajjad was going to Dhaka to his elder sister's It was very crowded\nin the station. There was a long line of people at the ticket counter. A\nwoman was standing in the queue. She was holding her child's hand\ntightly. A group of young people was talking loudly and drinking tea in\nfront of a tea stall. An old couple was trying to find a quiet place to sit\ndown and rest. The waiting room was crowded, too. | saw a man who was\ntrying to carry three heavy suitcases. A young lady was sitting on a bench\nwith her luggage at one corner. She was reading a magazine.\nMy friend and I stood near a newspaper stall talking and watching the\ncrowd around. Soon my friend's train started to leave. As the train whistled,\nhe picked up his suitcase and we said goodbye to each other.\nAl. Talk about what the speaker saw and did at the railway station. Use\nyour own words.\nA2. Match a word from Column A with a word in Column B that has\nan opposite meaning. One is done for you."
+}

@@ -1,0 +1,906 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 106,
+  "image": "/ocr/books/class6-english/page-images/page-106.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 101",
+      "cleanText": "English For Today 101",
+      "bbox": {
+        "x": 117,
+        "y": 82,
+        "width": 916,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Sample Question",
+      "cleanText": "Sample Question",
+      "bbox": {
+        "x": 440,
+        "y": 167,
+        "width": 268,
+        "height": 36
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Subject: English First Paper",
+      "cleanText": "Subject: English First Paper",
+      "bbox": {
+        "x": 356,
+        "y": 214,
+        "width": 441,
+        "height": 36
+      },
+      "confidence": 96.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Class: Six",
+      "cleanText": "Class: Six",
+      "bbox": {
+        "x": 501,
+        "y": 262,
+        "width": 156,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-106-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Time: 3 hours Marks: 100",
+      "cleanText": "Time: 3 hours Marks: 100",
+      "bbox": {
+        "x": 119,
+        "y": 334,
+        "width": 887,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "[Marks for individual items are mentioned next to the test items]",
+      "cleanText": "[Marks for individual items are mentioned next to the test items]",
+      "bbox": {
+        "x": 183,
+        "y": 368,
+        "width": 781,
+        "height": 24
+      },
+      "confidence": 95.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Part A - Reading (Marks: 70)",
+      "cleanText": "Part A - Reading (Marks: 70)",
+      "bbox": {
+        "x": 397,
+        "y": 410,
+        "width": 354,
+        "height": 26
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Read the text and answer the questions 1 & 2:",
+      "cleanText": "Read the text and answer the questions 1 & 2:",
+      "bbox": {
+        "x": 120,
+        "y": 456,
+        "width": 556,
+        "height": 26
+      },
+      "confidence": 94.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Bulbul collects rubbish from the Sankar area in Dhaka. Every morning, he wakes",
+      "cleanText": "Bulbul collects rubbish from the Sankar area in Dhaka. Every morning, he wakes",
+      "bbox": {
+        "x": 120,
+        "y": 500,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 93.46,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "up at 5 o'clock and walks along the streets of Sankar to collect rubbish. People",
+      "cleanText": "up at 5 o'clock and walks along the streets of Sankar to collect rubbish. People",
+      "bbox": {
+        "x": 120,
+        "y": 531,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 96.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "of Sankar put their rubbish in plastic bins and leave them in front of their houses.",
+      "cleanText": "of Sankar put their rubbish in plastic bins and leave them in front of their houses.",
+      "bbox": {
+        "x": 119,
+        "y": 558,
+        "width": 908,
+        "height": 35
+      },
+      "confidence": 92.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Bulbul walks from door to door to collect them. Sometimes the bins are very",
+      "cleanText": "Bulbul walks from door to door to collect them. Sometimes the bins are very",
+      "bbox": {
+        "x": 119,
+        "y": 592,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "dirty and they smell bad. But Bulbul does not mind. He takes out everything",
+      "cleanText": "dirty and they smell bad. But Bulbul does not mind. He takes out everything",
+      "bbox": {
+        "x": 119,
+        "y": 623,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "from the bins and puts them in his van. He believes that all jobs are important.",
+      "cleanText": "from the bins and puts them in his van. He believes that all jobs are important.",
+      "bbox": {
+        "x": 120,
+        "y": 654,
+        "width": 907,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "He works hard every day to keep this area clean.Last month Bulbul was sick for",
+      "cleanText": "He works hard every day to keep this area clean.Last month Bulbul was sick for",
+      "bbox": {
+        "x": 120,
+        "y": 685,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 95.47,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "two days. So, he could not come to collect the rubbish. The people of Sankar",
+      "cleanText": "two days. So, he could not come to collect the rubbish. The people of Sankar",
+      "bbox": {
+        "x": 119,
+        "y": 716,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 95.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "were in great trouble. They got piles of rubbish waiting in front of their houses.",
+      "cleanText": "were in great trouble. They got piles of rubbish waiting in front of their houses.",
+      "bbox": {
+        "x": 119,
+        "y": 746,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "The whole area became dirty and unhygienic. When Bulbul got well, he came",
+      "cleanText": "The whole area became dirty and unhygienic. When Bulbul got well, he came",
+      "bbox": {
+        "x": 119,
+        "y": 777,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 95.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "back to Sanker. He collected everything from all the bins. Bulbul does not want",
+      "cleanText": "back to Sanker. He collected everything from all the bins. Bulbul does not want",
+      "bbox": {
+        "x": 119,
+        "y": 808,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "to fall sick again. He realises, if he stops working even for a few days only, the",
+      "cleanText": "to fall sick again. He realises, if he stops working even for a few days only, the",
+      "bbox": {
+        "x": 119,
+        "y": 839,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "whole area will turn into a big dustbin.",
+      "cleanText": "whole area will turn into a big dustbin.",
+      "bbox": {
+        "x": 119,
+        "y": 870,
+        "width": 440,
+        "height": 26
+      },
+      "confidence": 94.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "1. Choose the best answer from the alternatives: 1x7=7",
+      "cleanText": "Choose the best answer from the alternatives: 1x7=7",
+      "bbox": {
+        "x": 121,
+        "y": 921,
+        "width": 875,
+        "height": 18
+      },
+      "confidence": 94.11,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-106-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "a) What time does Bulbul wake up every morning?",
+      "cleanText": "What time does Bulbul wake up every morning?",
+      "bbox": {
+        "x": 199,
+        "y": 964,
+        "width": 621,
+        "height": 23
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "ii. 5 o’clock",
+      "cleanText": "5 o’clock",
+      "bbox": {
+        "x": 278,
+        "y": 1027,
+        "width": 176,
+        "height": 18
+      },
+      "confidence": 77.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-106-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "iii. 6 o'clock",
+      "cleanText": "6 o'clock",
+      "bbox": {
+        "x": 274,
+        "y": 1054,
+        "width": 179,
+        "height": 32
+      },
+      "confidence": 77.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-106-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "iv. 7 o’clock",
+      "cleanText": "7 o’clock",
+      "bbox": {
+        "x": 278,
+        "y": 1090,
+        "width": 176,
+        "height": 18
+      },
+      "confidence": 88.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-106-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "b) Where does Bulbul collect rubbish from?",
+      "cleanText": "Where does Bulbul collect rubbish from?",
+      "bbox": {
+        "x": 198,
+        "y": 1122,
+        "width": 540,
+        "height": 23
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "i. Gulshan",
+      "cleanText": "Gulshan",
+      "bbox": {
+        "x": 278,
+        "y": 1153,
+        "width": 164,
+        "height": 19
+      },
+      "confidence": 75.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-106-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "ii. Mirpur",
+      "cleanText": "Mirpur",
+      "bbox": {
+        "x": 278,
+        "y": 1185,
+        "width": 153,
+        "height": 24
+      },
+      "confidence": 91.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-106-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "iii. Sankar",
+      "cleanText": "Sankar",
+      "bbox": {
+        "x": 274,
+        "y": 1213,
+        "width": 155,
+        "height": 32
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-106-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "iv. Banani",
+      "cleanText": "Banani",
+      "bbox": {
+        "x": 278,
+        "y": 1248,
+        "width": 151,
+        "height": 19
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-106-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "c) How do the people of Sankar dispose of their rubbish?",
+      "cleanText": "How do the people of Sankar dispose of their rubbish?",
+      "bbox": {
+        "x": 199,
+        "y": 1280,
+        "width": 688,
+        "height": 24
+      },
+      "confidence": 90.18,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "i. They throw it on the streets.",
+      "cleanText": "They throw it on the streets.",
+      "bbox": {
+        "x": 278,
+        "y": 1312,
+        "width": 373,
+        "height": 24
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "ii. They keep it inside their homes.",
+      "cleanText": "They keep it inside their homes.",
+      "bbox": {
+        "x": 278,
+        "y": 1343,
+        "width": 415,
+        "height": 24
+      },
+      "confidence": 94.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "iit. They burn it in their yards.",
+      "cleanText": "iit. They burn it in their yards.",
+      "bbox": {
+        "x": 274,
+        "y": 1371,
+        "width": 365,
+        "height": 33
+      },
+      "confidence": 89.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-035",
+      "lineNumber": 35
+    },
+    {
+      "text": "iv. They put it in plastic bins and leave them in front of their houses,",
+      "cleanText": "They put it in plastic bins and leave them in front of their houses,",
+      "bbox": {
+        "x": 278,
+        "y": 1403,
+        "width": 717,
+        "height": 31
+      },
+      "confidence": 94.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-036",
+      "lineNumber": 36
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-106-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 101",
+      "bbox": {
+        "x": 117,
+        "y": 82,
+        "width": 916,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-002",
+      "lineNumber": 2,
+      "text": "Sample Question",
+      "bbox": {
+        "x": 440,
+        "y": 167,
+        "width": 268,
+        "height": 36
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-003",
+      "lineNumber": 3,
+      "text": "Subject: English First Paper",
+      "bbox": {
+        "x": 356,
+        "y": 214,
+        "width": 441,
+        "height": 36
+      },
+      "confidence": 96.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-005",
+      "lineNumber": 5,
+      "text": "Time: 3 hours Marks: 100",
+      "bbox": {
+        "x": 119,
+        "y": 334,
+        "width": 887,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-006",
+      "lineNumber": 6,
+      "text": "[Marks for individual items are mentioned next to the test items]",
+      "bbox": {
+        "x": 183,
+        "y": 368,
+        "width": 781,
+        "height": 24
+      },
+      "confidence": 95.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-007",
+      "lineNumber": 7,
+      "text": "Part A - Reading (Marks: 70)",
+      "bbox": {
+        "x": 397,
+        "y": 410,
+        "width": 354,
+        "height": 26
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-008",
+      "lineNumber": 8,
+      "text": "Read the text and answer the questions 1 & 2:",
+      "bbox": {
+        "x": 120,
+        "y": 456,
+        "width": 556,
+        "height": 26
+      },
+      "confidence": 94.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-009",
+      "lineNumber": 9,
+      "text": "Bulbul collects rubbish from the Sankar area in Dhaka. Every morning, he wakes",
+      "bbox": {
+        "x": 120,
+        "y": 500,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 93.46,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-010",
+      "lineNumber": 10,
+      "text": "up at 5 o'clock and walks along the streets of Sankar to collect rubbish. People",
+      "bbox": {
+        "x": 120,
+        "y": 531,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 96.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-011",
+      "lineNumber": 11,
+      "text": "of Sankar put their rubbish in plastic bins and leave them in front of their houses.",
+      "bbox": {
+        "x": 119,
+        "y": 558,
+        "width": 908,
+        "height": 35
+      },
+      "confidence": 92.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-012",
+      "lineNumber": 12,
+      "text": "Bulbul walks from door to door to collect them. Sometimes the bins are very",
+      "bbox": {
+        "x": 119,
+        "y": 592,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-013",
+      "lineNumber": 13,
+      "text": "dirty and they smell bad. But Bulbul does not mind. He takes out everything",
+      "bbox": {
+        "x": 119,
+        "y": 623,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-014",
+      "lineNumber": 14,
+      "text": "from the bins and puts them in his van. He believes that all jobs are important.",
+      "bbox": {
+        "x": 120,
+        "y": 654,
+        "width": 907,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-015",
+      "lineNumber": 15,
+      "text": "He works hard every day to keep this area clean.Last month Bulbul was sick for",
+      "bbox": {
+        "x": 120,
+        "y": 685,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 95.47,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-016",
+      "lineNumber": 16,
+      "text": "two days. So, he could not come to collect the rubbish. The people of Sankar",
+      "bbox": {
+        "x": 119,
+        "y": 716,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 95.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-017",
+      "lineNumber": 17,
+      "text": "were in great trouble. They got piles of rubbish waiting in front of their houses.",
+      "bbox": {
+        "x": 119,
+        "y": 746,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-018",
+      "lineNumber": 18,
+      "text": "The whole area became dirty and unhygienic. When Bulbul got well, he came",
+      "bbox": {
+        "x": 119,
+        "y": 777,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 95.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-019",
+      "lineNumber": 19,
+      "text": "back to Sanker. He collected everything from all the bins. Bulbul does not want",
+      "bbox": {
+        "x": 119,
+        "y": 808,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-020",
+      "lineNumber": 20,
+      "text": "to fall sick again. He realises, if he stops working even for a few days only, the",
+      "bbox": {
+        "x": 119,
+        "y": 839,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-021",
+      "lineNumber": 21,
+      "text": "whole area will turn into a big dustbin.",
+      "bbox": {
+        "x": 119,
+        "y": 870,
+        "width": 440,
+        "height": 26
+      },
+      "confidence": 94.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-023",
+      "lineNumber": 23,
+      "text": "What time does Bulbul wake up every morning?",
+      "bbox": {
+        "x": 199,
+        "y": 964,
+        "width": 621,
+        "height": 23
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-027",
+      "lineNumber": 27,
+      "text": "Where does Bulbul collect rubbish from?",
+      "bbox": {
+        "x": 198,
+        "y": 1122,
+        "width": 540,
+        "height": 23
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-032",
+      "lineNumber": 32,
+      "text": "How do the people of Sankar dispose of their rubbish?",
+      "bbox": {
+        "x": 199,
+        "y": 1280,
+        "width": 688,
+        "height": 24
+      },
+      "confidence": 90.18,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-033",
+      "lineNumber": 33,
+      "text": "They throw it on the streets.",
+      "bbox": {
+        "x": 278,
+        "y": 1312,
+        "width": 373,
+        "height": 24
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-034",
+      "lineNumber": 34,
+      "text": "They keep it inside their homes.",
+      "bbox": {
+        "x": 278,
+        "y": 1343,
+        "width": 415,
+        "height": 24
+      },
+      "confidence": 94.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-035",
+      "lineNumber": 35,
+      "text": "iit. They burn it in their yards.",
+      "bbox": {
+        "x": 274,
+        "y": 1371,
+        "width": 365,
+        "height": 33
+      },
+      "confidence": 89.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-036",
+      "lineNumber": 36,
+      "text": "They put it in plastic bins and leave them in front of their houses,",
+      "bbox": {
+        "x": 278,
+        "y": 1403,
+        "width": 717,
+        "height": 31
+      },
+      "confidence": 94.27,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 101\nSample Question\nSubject: English First Paper\nClass: Six\nTime: 3 hours Marks: 100\n[Marks for individual items are mentioned next to the test items]\nPart A - Reading (Marks: 70)\nRead the text and answer the questions 1 & 2:\nBulbul collects rubbish from the Sankar area in Dhaka. Every morning, he wakes\nup at 5 o'clock and walks along the streets of Sankar to collect rubbish. People\nof Sankar put their rubbish in plastic bins and leave them in front of their houses.\nBulbul walks from door to door to collect them. Sometimes the bins are very\ndirty and they smell bad. But Bulbul does not mind. He takes out everything\nfrom the bins and puts them in his van. He believes that all jobs are important.\nHe works hard every day to keep this area clean.Last month Bulbul was sick for\ntwo days. So, he could not come to collect the rubbish. The people of Sankar\nwere in great trouble. They got piles of rubbish waiting in front of their houses.\nThe whole area became dirty and unhygienic. When Bulbul got well, he came\nback to Sanker. He collected everything from all the bins. Bulbul does not want\nto fall sick again. He realises, if he stops working even for a few days only, the\nwhole area will turn into a big dustbin.\n1. Choose the best answer from the alternatives: 1x7=7\na) What time does Bulbul wake up every morning?\nii. 5 o’clock\niii. 6 o'clock\niv. 7 o’clock\nb) Where does Bulbul collect rubbish from?\ni. Gulshan\nii. Mirpur\niii. Sankar\niv. Banani\nc) How do the people of Sankar dispose of their rubbish?\ni. They throw it on the streets.\nii. They keep it inside their homes.\niit. They burn it in their yards.\niv. They put it in plastic bins and leave them in front of their houses,",
+  "cleanText": "English For Today 101\nSample Question\nSubject: English First Paper\nClass: Six\nTime: 3 hours Marks: 100\n[Marks for individual items are mentioned next to the test items]\nPart A - Reading (Marks: 70)\nRead the text and answer the questions 1 & 2:\nBulbul collects rubbish from the Sankar area in Dhaka. Every morning, he wakes\nup at 5 o'clock and walks along the streets of Sankar to collect rubbish. People\nof Sankar put their rubbish in plastic bins and leave them in front of their houses.\nBulbul walks from door to door to collect them. Sometimes the bins are very\ndirty and they smell bad. But Bulbul does not mind. He takes out everything\nfrom the bins and puts them in his van. He believes that all jobs are important.\nHe works hard every day to keep this area clean.Last month Bulbul was sick for\ntwo days. So, he could not come to collect the rubbish. The people of Sankar\nwere in great trouble. They got piles of rubbish waiting in front of their houses.\nThe whole area became dirty and unhygienic. When Bulbul got well, he came\nback to Sanker. He collected everything from all the bins. Bulbul does not want\nto fall sick again. He realises, if he stops working even for a few days only, the\nwhole area will turn into a big dustbin.\nChoose the best answer from the alternatives: 1x7=7\nWhat time does Bulbul wake up every morning?\n5 o’clock\n6 o'clock\n7 o’clock\nWhere does Bulbul collect rubbish from?\nGulshan\nMirpur\nSankar\nBanani\nHow do the people of Sankar dispose of their rubbish?\nThey throw it on the streets.\nThey keep it inside their homes.\niit. They burn it in their yards.\nThey put it in plastic bins and leave them in front of their houses,",
+  "aiReadyText": "English For Today 101\nSample Question\nSubject: English First Paper\nTime: 3 hours Marks: 100\n[Marks for individual items are mentioned next to the test items]\nPart A - Reading (Marks: 70)\nRead the text and answer the questions 1 & 2:\nBulbul collects rubbish from the Sankar area in Dhaka. Every morning, he wakes\nup at 5 o'clock and walks along the streets of Sankar to collect rubbish. People\nof Sankar put their rubbish in plastic bins and leave them in front of their houses.\nBulbul walks from door to door to collect them. Sometimes the bins are very\ndirty and they smell bad. But Bulbul does not mind. He takes out everything\nfrom the bins and puts them in his van. He believes that all jobs are important.\nHe works hard every day to keep this area clean.Last month Bulbul was sick for\ntwo days. So, he could not come to collect the rubbish. The people of Sankar\nwere in great trouble. They got piles of rubbish waiting in front of their houses.\nThe whole area became dirty and unhygienic. When Bulbul got well, he came\nback to Sanker. He collected everything from all the bins. Bulbul does not want\nto fall sick again. He realises, if he stops working even for a few days only, the\nwhole area will turn into a big dustbin.\nWhat time does Bulbul wake up every morning?\nWhere does Bulbul collect rubbish from?\nHow do the people of Sankar dispose of their rubbish?\nThey throw it on the streets.\nThey keep it inside their homes.\niit. They burn it in their yards.\nThey put it in plastic bins and leave them in front of their houses,"
+}

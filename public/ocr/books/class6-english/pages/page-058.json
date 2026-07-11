@@ -1,0 +1,887 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 58,
+  "image": "/ocr/books/class6-english/page-images/page-058.png",
+  "width": 1149,
+  "height": 1504,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 17 Ave You Listening?-2",
+      "cleanText": "Lesson 17 Ave You Listening?-2",
+      "bbox": {
+        "x": 242,
+        "y": 125,
+        "width": 672,
+        "height": 38
+      },
+      "confidence": 91.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 166,
+        "y": 214,
+        "width": 570,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-058-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "recognise English sounds",
+      "cleanText": "recognise English sounds",
+      "bbox": {
+        "x": 206,
+        "y": 241,
+        "width": 266,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "* recognise word stress and stress on words in sentences",
+      "cleanText": "* recognise word stress and stress on words in sentences",
+      "bbox": {
+        "x": 187,
+        "y": 267,
+        "width": 593,
+        "height": 24
+      },
+      "confidence": 93.7,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "recognise intonation in sentences",
+      "cleanText": "recognise intonation in sentences",
+      "bbox": {
+        "x": 205,
+        "y": 293,
+        "width": 349,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "¢ use English sounds appropriately",
+      "cleanText": "¢ use English sounds appropriately",
+      "bbox": {
+        "x": 187,
+        "y": 320,
+        "width": 366,
+        "height": 23
+      },
+      "confidence": 92.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "© use proper intonation in sentences",
+      "cleanText": "© use proper intonation in sentences",
+      "bbox": {
+        "x": 187,
+        "y": 346,
+        "width": 375,
+        "height": 24
+      },
+      "confidence": 91.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "¢ read aloud texts with proper pronunciation, stress and intonation",
+      "cleanText": "¢ read aloud texts with proper pronunciation, stress and intonation",
+      "bbox": {
+        "x": 187,
+        "y": 375,
+        "width": 696,
+        "height": 23
+      },
+      "confidence": 94.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "A. Read the following poem out loud. Be careful about how you",
+      "cleanText": "Read the following poem out loud. Be careful about how you",
+      "bbox": {
+        "x": 122,
+        "y": 417,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-058-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "pronounce each word, as the spellings and sounds can be quite tricky!",
+      "cleanText": "pronounce each word, as the spellings and sounds can be quite tricky!",
+      "bbox": {
+        "x": 165,
+        "y": 452,
+        "width": 846,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "The Chaos",
+      "cleanText": "The Chaos",
+      "bbox": {
+        "x": 419,
+        "y": 504,
+        "width": 129,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-058-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "I take it you already know",
+      "cleanText": "I take it you already know",
+      "bbox": {
+        "x": 316,
+        "y": 555,
+        "width": 297,
+        "height": 26
+      },
+      "confidence": 94.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Of tough and bough and cough and dough?",
+      "cleanText": "Of tough and bough and cough and dough?",
+      "bbox": {
+        "x": 315,
+        "y": 586,
+        "width": 493,
+        "height": 34
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Others may stumble, but not you",
+      "cleanText": "Others may stumble, but not you",
+      "bbox": {
+        "x": 315,
+        "y": 631,
+        "width": 374,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "On hiccough, thorough, slough and through",
+      "cleanText": "On hiccough, thorough, slough and through",
+      "bbox": {
+        "x": 315,
+        "y": 665,
+        "width": 510,
+        "height": 27
+      },
+      "confidence": 93.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Beware of heard, a dreadful word",
+      "cleanText": "Beware of heard, a dreadful word",
+      "bbox": {
+        "x": 316,
+        "y": 704,
+        "width": 382,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "That looks like beard and sounds like bird.",
+      "cleanText": "That looks like beard and sounds like bird.",
+      "bbox": {
+        "x": 315,
+        "y": 738,
+        "width": 486,
+        "height": 21
+      },
+      "confidence": 96.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "And dead: it’s said like bed, not bead --",
+      "cleanText": "And dead: it’s said like bed, not bead --",
+      "bbox": {
+        "x": 315,
+        "y": 786,
+        "width": 450,
+        "height": 24
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "For goodness’ sake, don’t call it ‘deed’!",
+      "cleanText": "For goodness’ sake, don’t call it ‘deed’!",
+      "bbox": {
+        "x": 315,
+        "y": 818,
+        "width": 442,
+        "height": 28
+      },
+      "confidence": 91.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Watch out for meat and great and threat,",
+      "cleanText": "Watch out for meat and great and threat,",
+      "bbox": {
+        "x": 315,
+        "y": 864,
+        "width": 458,
+        "height": 26
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "They rhyme with suite and straight and debt,",
+      "cleanText": "They rhyme with suite and straight and debt,",
+      "bbox": {
+        "x": 315,
+        "y": 898,
+        "width": 509,
+        "height": 27
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "A moth is not the moth in mother,",
+      "cleanText": "A moth is not the moth in mother,",
+      "bbox": {
+        "x": 316,
+        "y": 940,
+        "width": 383,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Nor both in bother, broth, or brother.",
+      "cleanText": "Nor both in bother, broth, or brother.",
+      "bbox": {
+        "x": 315,
+        "y": 974,
+        "width": 410,
+        "height": 24
+      },
+      "confidence": 96.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "And here is not a match for there,",
+      "cleanText": "And here is not a match for there,",
+      "bbox": {
+        "x": 316,
+        "y": 1015,
+        "width": 381,
+        "height": 24
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Nor dear and fear for bear and pear.",
+      "cleanText": "Nor dear and fear for bear and pear.",
+      "bbox": {
+        "x": 316,
+        "y": 1050,
+        "width": 404,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "And then there’s dose and rose and lose -",
+      "cleanText": "And then there’s dose and rose and lose -",
+      "bbox": {
+        "x": 315,
+        "y": 1086,
+        "width": 468,
+        "height": 20
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Just look them up -- and goose and choose.",
+      "cleanText": "Just look them up -- and goose and choose.",
+      "bbox": {
+        "x": 315,
+        "y": 1120,
+        "width": 491,
+        "height": 26
+      },
+      "confidence": 94.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "A dreadful language? Why, sakes alive!",
+      "cleanText": "A dreadful language? Why, sakes alive!",
+      "bbox": {
+        "x": 316,
+        "y": 1156,
+        "width": 449,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "I'd learned to speak it when I was five.",
+      "cleanText": "I'd learned to speak it when I was five.",
+      "bbox": {
+        "x": 316,
+        "y": 1189,
+        "width": 443,
+        "height": 27
+      },
+      "confidence": 91.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "And yet, to write it, the more I tried,",
+      "cleanText": "And yet, to write it, the more I tried,",
+      "bbox": {
+        "x": 315,
+        "y": 1231,
+        "width": 413,
+        "height": 26
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "learned it at fifty-five.",
+      "cleanText": "learned it at fifty-five.",
+      "bbox": {
+        "x": 413,
+        "y": 1266,
+        "width": 248,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "Gerard Nolst Trenité",
+      "cleanText": "Gerard Nolst Trenité",
+      "bbox": {
+        "x": 613,
+        "y": 1338,
+        "width": 236,
+        "height": 20
+      },
+      "confidence": 92.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-058-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "(Abridged)",
+      "cleanText": "(Abridged)",
+      "bbox": {
+        "x": 669,
+        "y": 1373,
+        "width": 125,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-058-line-033",
+      "lineNumber": 33
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-058-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 17 Ave You Listening?-2",
+      "bbox": {
+        "x": 242,
+        "y": 125,
+        "width": 672,
+        "height": 38
+      },
+      "confidence": 91.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-003",
+      "lineNumber": 3,
+      "text": "recognise English sounds",
+      "bbox": {
+        "x": 206,
+        "y": 241,
+        "width": 266,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-004",
+      "lineNumber": 4,
+      "text": "* recognise word stress and stress on words in sentences",
+      "bbox": {
+        "x": 187,
+        "y": 267,
+        "width": 593,
+        "height": 24
+      },
+      "confidence": 93.7,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-005",
+      "lineNumber": 5,
+      "text": "recognise intonation in sentences",
+      "bbox": {
+        "x": 205,
+        "y": 293,
+        "width": 349,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-006",
+      "lineNumber": 6,
+      "text": "¢ use English sounds appropriately",
+      "bbox": {
+        "x": 187,
+        "y": 320,
+        "width": 366,
+        "height": 23
+      },
+      "confidence": 92.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-007",
+      "lineNumber": 7,
+      "text": "© use proper intonation in sentences",
+      "bbox": {
+        "x": 187,
+        "y": 346,
+        "width": 375,
+        "height": 24
+      },
+      "confidence": 91.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-008",
+      "lineNumber": 8,
+      "text": "¢ read aloud texts with proper pronunciation, stress and intonation",
+      "bbox": {
+        "x": 187,
+        "y": 375,
+        "width": 696,
+        "height": 23
+      },
+      "confidence": 94.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-010",
+      "lineNumber": 10,
+      "text": "pronounce each word, as the spellings and sounds can be quite tricky!",
+      "bbox": {
+        "x": 165,
+        "y": 452,
+        "width": 846,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-012",
+      "lineNumber": 12,
+      "text": "I take it you already know",
+      "bbox": {
+        "x": 316,
+        "y": 555,
+        "width": 297,
+        "height": 26
+      },
+      "confidence": 94.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-013",
+      "lineNumber": 13,
+      "text": "Of tough and bough and cough and dough?",
+      "bbox": {
+        "x": 315,
+        "y": 586,
+        "width": 493,
+        "height": 34
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-014",
+      "lineNumber": 14,
+      "text": "Others may stumble, but not you",
+      "bbox": {
+        "x": 315,
+        "y": 631,
+        "width": 374,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-015",
+      "lineNumber": 15,
+      "text": "On hiccough, thorough, slough and through",
+      "bbox": {
+        "x": 315,
+        "y": 665,
+        "width": 510,
+        "height": 27
+      },
+      "confidence": 93.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-016",
+      "lineNumber": 16,
+      "text": "Beware of heard, a dreadful word",
+      "bbox": {
+        "x": 316,
+        "y": 704,
+        "width": 382,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-017",
+      "lineNumber": 17,
+      "text": "That looks like beard and sounds like bird.",
+      "bbox": {
+        "x": 315,
+        "y": 738,
+        "width": 486,
+        "height": 21
+      },
+      "confidence": 96.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-018",
+      "lineNumber": 18,
+      "text": "And dead: it’s said like bed, not bead --",
+      "bbox": {
+        "x": 315,
+        "y": 786,
+        "width": 450,
+        "height": 24
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-019",
+      "lineNumber": 19,
+      "text": "For goodness’ sake, don’t call it ‘deed’!",
+      "bbox": {
+        "x": 315,
+        "y": 818,
+        "width": 442,
+        "height": 28
+      },
+      "confidence": 91.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-020",
+      "lineNumber": 20,
+      "text": "Watch out for meat and great and threat,",
+      "bbox": {
+        "x": 315,
+        "y": 864,
+        "width": 458,
+        "height": 26
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-021",
+      "lineNumber": 21,
+      "text": "They rhyme with suite and straight and debt,",
+      "bbox": {
+        "x": 315,
+        "y": 898,
+        "width": 509,
+        "height": 27
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-022",
+      "lineNumber": 22,
+      "text": "A moth is not the moth in mother,",
+      "bbox": {
+        "x": 316,
+        "y": 940,
+        "width": 383,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-023",
+      "lineNumber": 23,
+      "text": "Nor both in bother, broth, or brother.",
+      "bbox": {
+        "x": 315,
+        "y": 974,
+        "width": 410,
+        "height": 24
+      },
+      "confidence": 96.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-024",
+      "lineNumber": 24,
+      "text": "And here is not a match for there,",
+      "bbox": {
+        "x": 316,
+        "y": 1015,
+        "width": 381,
+        "height": 24
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-025",
+      "lineNumber": 25,
+      "text": "Nor dear and fear for bear and pear.",
+      "bbox": {
+        "x": 316,
+        "y": 1050,
+        "width": 404,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-026",
+      "lineNumber": 26,
+      "text": "And then there’s dose and rose and lose -",
+      "bbox": {
+        "x": 315,
+        "y": 1086,
+        "width": 468,
+        "height": 20
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-027",
+      "lineNumber": 27,
+      "text": "Just look them up -- and goose and choose.",
+      "bbox": {
+        "x": 315,
+        "y": 1120,
+        "width": 491,
+        "height": 26
+      },
+      "confidence": 94.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-028",
+      "lineNumber": 28,
+      "text": "A dreadful language? Why, sakes alive!",
+      "bbox": {
+        "x": 316,
+        "y": 1156,
+        "width": 449,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-029",
+      "lineNumber": 29,
+      "text": "I'd learned to speak it when I was five.",
+      "bbox": {
+        "x": 316,
+        "y": 1189,
+        "width": 443,
+        "height": 27
+      },
+      "confidence": 91.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-030",
+      "lineNumber": 30,
+      "text": "And yet, to write it, the more I tried,",
+      "bbox": {
+        "x": 315,
+        "y": 1231,
+        "width": 413,
+        "height": 26
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-031",
+      "lineNumber": 31,
+      "text": "learned it at fifty-five.",
+      "bbox": {
+        "x": 413,
+        "y": 1266,
+        "width": 248,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-058-line-032",
+      "lineNumber": 32,
+      "text": "Gerard Nolst Trenité",
+      "bbox": {
+        "x": 613,
+        "y": 1338,
+        "width": 236,
+        "height": 20
+      },
+      "confidence": 92.33,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 17 Ave You Listening?-2\nAfter completing the lesson students will be able to\nrecognise English sounds\n* recognise word stress and stress on words in sentences\nrecognise intonation in sentences\n¢ use English sounds appropriately\n© use proper intonation in sentences\n¢ read aloud texts with proper pronunciation, stress and intonation\nA. Read the following poem out loud. Be careful about how you\npronounce each word, as the spellings and sounds can be quite tricky!\nThe Chaos\nI take it you already know\nOf tough and bough and cough and dough?\nOthers may stumble, but not you\nOn hiccough, thorough, slough and through\nBeware of heard, a dreadful word\nThat looks like beard and sounds like bird.\nAnd dead: it’s said like bed, not bead --\nFor goodness’ sake, don’t call it ‘deed’!\nWatch out for meat and great and threat,\nThey rhyme with suite and straight and debt,\nA moth is not the moth in mother,\nNor both in bother, broth, or brother.\nAnd here is not a match for there,\nNor dear and fear for bear and pear.\nAnd then there’s dose and rose and lose -\nJust look them up -- and goose and choose.\nA dreadful language? Why, sakes alive!\nI'd learned to speak it when I was five.\nAnd yet, to write it, the more I tried,\nlearned it at fifty-five.\nGerard Nolst Trenité\n(Abridged)",
+  "cleanText": "Lesson 17 Ave You Listening?-2\nAfter completing the lesson students will be able to\nrecognise English sounds\n* recognise word stress and stress on words in sentences\nrecognise intonation in sentences\n¢ use English sounds appropriately\n© use proper intonation in sentences\n¢ read aloud texts with proper pronunciation, stress and intonation\nRead the following poem out loud. Be careful about how you\npronounce each word, as the spellings and sounds can be quite tricky!\nThe Chaos\nI take it you already know\nOf tough and bough and cough and dough?\nOthers may stumble, but not you\nOn hiccough, thorough, slough and through\nBeware of heard, a dreadful word\nThat looks like beard and sounds like bird.\nAnd dead: it’s said like bed, not bead --\nFor goodness’ sake, don’t call it ‘deed’!\nWatch out for meat and great and threat,\nThey rhyme with suite and straight and debt,\nA moth is not the moth in mother,\nNor both in bother, broth, or brother.\nAnd here is not a match for there,\nNor dear and fear for bear and pear.\nAnd then there’s dose and rose and lose -\nJust look them up -- and goose and choose.\nA dreadful language? Why, sakes alive!\nI'd learned to speak it when I was five.\nAnd yet, to write it, the more I tried,\nlearned it at fifty-five.\nGerard Nolst Trenité\n(Abridged)",
+  "aiReadyText": "Lesson 17 Ave You Listening?-2\nrecognise English sounds\n* recognise word stress and stress on words in sentences\nrecognise intonation in sentences\n¢ use English sounds appropriately\n© use proper intonation in sentences\n¢ read aloud texts with proper pronunciation, stress and intonation\npronounce each word, as the spellings and sounds can be quite tricky!\nI take it you already know\nOf tough and bough and cough and dough?\nOthers may stumble, but not you\nOn hiccough, thorough, slough and through\nBeware of heard, a dreadful word\nThat looks like beard and sounds like bird.\nAnd dead: it’s said like bed, not bead --\nFor goodness’ sake, don’t call it ‘deed’!\nWatch out for meat and great and threat,\nThey rhyme with suite and straight and debt,\nA moth is not the moth in mother,\nNor both in bother, broth, or brother.\nAnd here is not a match for there,\nNor dear and fear for bear and pear.\nAnd then there’s dose and rose and lose -\nJust look them up -- and goose and choose.\nA dreadful language? Why, sakes alive!\nI'd learned to speak it when I was five.\nAnd yet, to write it, the more I tried,\nlearned it at fifty-five.\nGerard Nolst Trenité"
+}

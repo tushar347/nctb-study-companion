@@ -1,0 +1,299 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 95,
+  "image": "/ocr/books/class6-english/page-images/page-095.png",
+  "width": 1149,
+  "height": 1525,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 31 Too Much Little Water",
+      "cleanText": "Lesson 31 Too Much Little Water",
+      "bbox": {
+        "x": 159,
+        "y": 178,
+        "width": 838,
+        "height": 32
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-095-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 173,
+        "y": 266,
+        "width": 569,
+        "height": 24
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-095-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "read and understand texts",
+      "cleanText": "read and understand texts",
+      "bbox": {
+        "x": 212,
+        "y": 298,
+        "width": 267,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-095-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "© write short paragraphs",
+      "cleanText": "© write short paragraphs",
+      "bbox": {
+        "x": 194,
+        "y": 339,
+        "width": 252,
+        "height": 24
+      },
+      "confidence": 90.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-095-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "A. Look at the pictures.",
+      "cleanText": "Look at the pictures.",
+      "bbox": {
+        "x": 109,
+        "y": 396,
+        "width": 318,
+        "height": 27
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-095-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Al, Discuss in groups what you see in the pictures.",
+      "cleanText": "Al, Discuss in groups what you see in the pictures.",
+      "bbox": {
+        "x": 109,
+        "y": 1121,
+        "width": 617,
+        "height": 25
+      },
+      "confidence": 94.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-095-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "A2, Read the following passage:",
+      "cleanText": "A2, Read the following passage:",
+      "bbox": {
+        "x": 110,
+        "y": 1166,
+        "width": 406,
+        "height": 27
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-095-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Sometimes it rains so heavily that floods occur. Because of heavy rainfall,",
+      "cleanText": "Sometimes it rains so heavily that floods occur. Because of heavy rainfall,",
+      "bbox": {
+        "x": 173,
+        "y": 1213,
+        "width": 861,
+        "height": 26
+      },
+      "confidence": 95.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-095-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "river water overflows its banks and floods vast areas of land, towns and",
+      "cleanText": "river water overflows its banks and floods vast areas of land, towns and",
+      "bbox": {
+        "x": 173,
+        "y": 1255,
+        "width": 862,
+        "height": 23
+      },
+      "confidence": 95.54,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-095-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "villages.",
+      "cleanText": "villages.",
+      "bbox": {
+        "x": 173,
+        "y": 1291,
+        "width": 93,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-095-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "A3. Write down a few sentences about how people suffer if there is too",
+      "cleanText": "A3. Write down a few sentences about how people suffer if there is too",
+      "bbox": {
+        "x": 110,
+        "y": 1343,
+        "width": 903,
+        "height": 25
+      },
+      "confidence": 95.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-095-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "much water.",
+      "cleanText": "much water.",
+      "bbox": {
+        "x": 172,
+        "y": 1375,
+        "width": 152,
+        "height": 21
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-095-line-012",
+      "lineNumber": 12
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-095-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 31 Too Much Little Water",
+      "bbox": {
+        "x": 159,
+        "y": 178,
+        "width": 838,
+        "height": 32
+      },
+      "confidence": 93.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-095-line-003",
+      "lineNumber": 3,
+      "text": "read and understand texts",
+      "bbox": {
+        "x": 212,
+        "y": 298,
+        "width": 267,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-095-line-004",
+      "lineNumber": 4,
+      "text": "© write short paragraphs",
+      "bbox": {
+        "x": 194,
+        "y": 339,
+        "width": 252,
+        "height": 24
+      },
+      "confidence": 90.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-095-line-006",
+      "lineNumber": 6,
+      "text": "Al, Discuss in groups what you see in the pictures.",
+      "bbox": {
+        "x": 109,
+        "y": 1121,
+        "width": 617,
+        "height": 25
+      },
+      "confidence": 94.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-095-line-007",
+      "lineNumber": 7,
+      "text": "A2, Read the following passage:",
+      "bbox": {
+        "x": 110,
+        "y": 1166,
+        "width": 406,
+        "height": 27
+      },
+      "confidence": 91.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-095-line-008",
+      "lineNumber": 8,
+      "text": "Sometimes it rains so heavily that floods occur. Because of heavy rainfall,",
+      "bbox": {
+        "x": 173,
+        "y": 1213,
+        "width": 861,
+        "height": 26
+      },
+      "confidence": 95.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-095-line-009",
+      "lineNumber": 9,
+      "text": "river water overflows its banks and floods vast areas of land, towns and",
+      "bbox": {
+        "x": 173,
+        "y": 1255,
+        "width": 862,
+        "height": 23
+      },
+      "confidence": 95.54,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-095-line-011",
+      "lineNumber": 11,
+      "text": "A3. Write down a few sentences about how people suffer if there is too",
+      "bbox": {
+        "x": 110,
+        "y": 1343,
+        "width": 903,
+        "height": 25
+      },
+      "confidence": 95.14,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 31 Too Much Little Water\nAfter completing the lesson students will be able to\nread and understand texts\n© write short paragraphs\nA. Look at the pictures.\nAl, Discuss in groups what you see in the pictures.\nA2, Read the following passage:\nSometimes it rains so heavily that floods occur. Because of heavy rainfall,\nriver water overflows its banks and floods vast areas of land, towns and\nvillages.\nA3. Write down a few sentences about how people suffer if there is too\nmuch water.",
+  "cleanText": "Lesson 31 Too Much Little Water\nAfter completing the lesson students will be able to\nread and understand texts\n© write short paragraphs\nLook at the pictures.\nAl, Discuss in groups what you see in the pictures.\nA2, Read the following passage:\nSometimes it rains so heavily that floods occur. Because of heavy rainfall,\nriver water overflows its banks and floods vast areas of land, towns and\nvillages.\nA3. Write down a few sentences about how people suffer if there is too\nmuch water.",
+  "aiReadyText": "Lesson 31 Too Much Little Water\nread and understand texts\n© write short paragraphs\nAl, Discuss in groups what you see in the pictures.\nA2, Read the following passage:\nSometimes it rains so heavily that floods occur. Because of heavy rainfall,\nriver water overflows its banks and floods vast areas of land, towns and\nA3. Write down a few sentences about how people suffer if there is too"
+}

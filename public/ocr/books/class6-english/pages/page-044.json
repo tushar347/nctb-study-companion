@@ -1,0 +1,648 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 44,
+  "image": "/ocr/books/class6-english/page-images/page-044.png",
+  "width": 1160,
+  "height": 1510,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 12 An Unseen Beauty of Bangladesh",
+      "cleanText": "Lesson 12 An Unseen Beauty of Bangladesh",
+      "bbox": {
+        "x": 115,
+        "y": 187,
+        "width": 830,
+        "height": 39
+      },
+      "confidence": 89.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 159,
+        "y": 283,
+        "width": 569,
+        "height": 23
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-044-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "© ask and answer questions",
+      "cleanText": "© ask and answer questions",
+      "bbox": {
+        "x": 180,
+        "y": 314,
+        "width": 284,
+        "height": 24
+      },
+      "confidence": 84.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "read and understand texts",
+      "cleanText": "read and understand texts",
+      "bbox": {
+        "x": 198,
+        "y": 345,
+        "width": 267,
+        "height": 18
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "© write short paragraphs",
+      "cleanText": "© write short paragraphs",
+      "bbox": {
+        "x": 180,
+        "y": 376,
+        "width": 252,
+        "height": 23
+      },
+      "confidence": 82.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "A. Discuss the following questions in pairs.",
+      "cleanText": "Discuss the following questions in pairs.",
+      "bbox": {
+        "x": 112,
+        "y": 435,
+        "width": 551,
+        "height": 26
+      },
+      "confidence": 95.14,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-044-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "1, Have you ever visited any interesting tourist spot in Bangladesh?",
+      "cleanText": "1, Have you ever visited any interesting tourist spot in Bangladesh?",
+      "bbox": {
+        "x": 163,
+        "y": 484,
+        "width": 765,
+        "height": 26
+      },
+      "confidence": 95.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Tf you have, what was that place. What special attractions did you see",
+      "cleanText": "Tf you have, what was that place. What special attractions did you see",
+      "bbox": {
+        "x": 192,
+        "y": 537,
+        "width": 792,
+        "height": 25
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "If you haven't, what places do you wish to visit? What special attractions",
+      "cleanText": "If you haven't, what places do you wish to visit? What special attractions",
+      "bbox": {
+        "x": 193,
+        "y": 631,
+        "width": 829,
+        "height": 26
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "will you see there?",
+      "cleanText": "will you see there?",
+      "bbox": {
+        "x": 191,
+        "y": 676,
+        "width": 217,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "2. Which of the following activities would you like to do while visiting a",
+      "cleanText": "Which of the following activities would you like to do while visiting a",
+      "bbox": {
+        "x": 167,
+        "y": 730,
+        "width": 830,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "tourist spot?",
+      "cleanText": "tourist spot?",
+      "bbox": {
+        "x": 192,
+        "y": 777,
+        "width": 139,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-044-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "sight-seeing, taking photos, having picnic, shopping, collecting souvenirs,",
+      "cleanText": "sight-seeing, taking photos, having picnic, shopping, collecting souvenirs,",
+      "bbox": {
+        "x": 193,
+        "y": 829,
+        "width": 843,
+        "height": 26
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "B. Now, read the text on Birishiri, a quiet and less known tourist spot",
+      "cleanText": "Now, read the text on Birishiri, a quiet and less known tourist spot",
+      "bbox": {
+        "x": 112,
+        "y": 945,
+        "width": 925,
+        "height": 27
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "located in the north-eastern border of Bangladesh.",
+      "cleanText": "located in the north-eastern border of Bangladesh.",
+      "bbox": {
+        "x": 162,
+        "y": 985,
+        "width": 669,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Bangladesh is a small country but it is gifted with unlimited natural attractions.",
+      "cleanText": "Bangladesh is a small country but it is gifted with unlimited natural attractions.",
+      "bbox": {
+        "x": 161,
+        "y": 1045,
+        "width": 868,
+        "height": 26
+      },
+      "confidence": 95.31,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Only some of these eye-catching destinations are known to us. But there",
+      "cleanText": "Only some of these eye-catching destinations are known to us. But there",
+      "bbox": {
+        "x": 160,
+        "y": 1080,
+        "width": 871,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "are many other areas lying in the green, remote countryside that are less-",
+      "cleanText": "are many other areas lying in the green, remote countryside that are less-",
+      "bbox": {
+        "x": 161,
+        "y": 1115,
+        "width": 867,
+        "height": 26
+      },
+      "confidence": 95.31,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "known to us. Shusong Durgapur of Birishiri is one such place.",
+      "cleanText": "known to us. Shusong Durgapur of Birishiri is one such place.",
+      "bbox": {
+        "x": 162,
+        "y": 1151,
+        "width": 713,
+        "height": 25
+      },
+      "confidence": 94.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Shusong Durgapur has an amazing landscape. It is located on the bank",
+      "cleanText": "Shusong Durgapur has an amazing landscape. It is located on the bank",
+      "bbox": {
+        "x": 160,
+        "y": 1203,
+        "width": 869,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "of crystal clear Someshwari river and is close to the Garo Hills. You can",
+      "cleanText": "of crystal clear Someshwari river and is close to the Garo Hills. You can",
+      "bbox": {
+        "x": 159,
+        "y": 1237,
+        "width": 871,
+        "height": 27
+      },
+      "confidence": 95.21,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "see the hills of Indian state of Meghalaya from here. The nature has",
+      "cleanText": "see the hills of Indian state of Meghalaya from here. The nature has",
+      "bbox": {
+        "x": 157,
+        "y": 1273,
+        "width": 873,
+        "height": 26
+      },
+      "confidence": 95.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "unfolded its glory in this small, rural landscape. Here you can see the",
+      "cleanText": "unfolded its glory in this small, rural landscape. Here you can see the",
+      "bbox": {
+        "x": 156,
+        "y": 1309,
+        "width": 872,
+        "height": 26
+      },
+      "confidence": 92.46,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "ceramic mountain leaning against the sky, the blue water of the pictorial",
+      "cleanText": "ceramic mountain leaning against the sky, the blue water of the pictorial",
+      "bbox": {
+        "x": 159,
+        "y": 1344,
+        "width": 869,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-024",
+      "lineNumber": 24
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-044-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 12 An Unseen Beauty of Bangladesh",
+      "bbox": {
+        "x": 115,
+        "y": 187,
+        "width": 830,
+        "height": 39
+      },
+      "confidence": 89.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-003",
+      "lineNumber": 3,
+      "text": "© ask and answer questions",
+      "bbox": {
+        "x": 180,
+        "y": 314,
+        "width": 284,
+        "height": 24
+      },
+      "confidence": 84.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-004",
+      "lineNumber": 4,
+      "text": "read and understand texts",
+      "bbox": {
+        "x": 198,
+        "y": 345,
+        "width": 267,
+        "height": 18
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-005",
+      "lineNumber": 5,
+      "text": "© write short paragraphs",
+      "bbox": {
+        "x": 180,
+        "y": 376,
+        "width": 252,
+        "height": 23
+      },
+      "confidence": 82.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-007",
+      "lineNumber": 7,
+      "text": "1, Have you ever visited any interesting tourist spot in Bangladesh?",
+      "bbox": {
+        "x": 163,
+        "y": 484,
+        "width": 765,
+        "height": 26
+      },
+      "confidence": 95.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-008",
+      "lineNumber": 8,
+      "text": "Tf you have, what was that place. What special attractions did you see",
+      "bbox": {
+        "x": 192,
+        "y": 537,
+        "width": 792,
+        "height": 25
+      },
+      "confidence": 95.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-009",
+      "lineNumber": 9,
+      "text": "If you haven't, what places do you wish to visit? What special attractions",
+      "bbox": {
+        "x": 193,
+        "y": 631,
+        "width": 829,
+        "height": 26
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-010",
+      "lineNumber": 10,
+      "text": "will you see there?",
+      "bbox": {
+        "x": 191,
+        "y": 676,
+        "width": 217,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-011",
+      "lineNumber": 11,
+      "text": "Which of the following activities would you like to do while visiting a",
+      "bbox": {
+        "x": 167,
+        "y": 730,
+        "width": 830,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-013",
+      "lineNumber": 13,
+      "text": "sight-seeing, taking photos, having picnic, shopping, collecting souvenirs,",
+      "bbox": {
+        "x": 193,
+        "y": 829,
+        "width": 843,
+        "height": 26
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-014",
+      "lineNumber": 14,
+      "text": "Now, read the text on Birishiri, a quiet and less known tourist spot",
+      "bbox": {
+        "x": 112,
+        "y": 945,
+        "width": 925,
+        "height": 27
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-015",
+      "lineNumber": 15,
+      "text": "located in the north-eastern border of Bangladesh.",
+      "bbox": {
+        "x": 162,
+        "y": 985,
+        "width": 669,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-016",
+      "lineNumber": 16,
+      "text": "Bangladesh is a small country but it is gifted with unlimited natural attractions.",
+      "bbox": {
+        "x": 161,
+        "y": 1045,
+        "width": 868,
+        "height": 26
+      },
+      "confidence": 95.31,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-017",
+      "lineNumber": 17,
+      "text": "Only some of these eye-catching destinations are known to us. But there",
+      "bbox": {
+        "x": 160,
+        "y": 1080,
+        "width": 871,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-018",
+      "lineNumber": 18,
+      "text": "are many other areas lying in the green, remote countryside that are less-",
+      "bbox": {
+        "x": 161,
+        "y": 1115,
+        "width": 867,
+        "height": 26
+      },
+      "confidence": 95.31,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-019",
+      "lineNumber": 19,
+      "text": "known to us. Shusong Durgapur of Birishiri is one such place.",
+      "bbox": {
+        "x": 162,
+        "y": 1151,
+        "width": 713,
+        "height": 25
+      },
+      "confidence": 94.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-020",
+      "lineNumber": 20,
+      "text": "Shusong Durgapur has an amazing landscape. It is located on the bank",
+      "bbox": {
+        "x": 160,
+        "y": 1203,
+        "width": 869,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-021",
+      "lineNumber": 21,
+      "text": "of crystal clear Someshwari river and is close to the Garo Hills. You can",
+      "bbox": {
+        "x": 159,
+        "y": 1237,
+        "width": 871,
+        "height": 27
+      },
+      "confidence": 95.21,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-022",
+      "lineNumber": 22,
+      "text": "see the hills of Indian state of Meghalaya from here. The nature has",
+      "bbox": {
+        "x": 157,
+        "y": 1273,
+        "width": 873,
+        "height": 26
+      },
+      "confidence": 95.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-023",
+      "lineNumber": 23,
+      "text": "unfolded its glory in this small, rural landscape. Here you can see the",
+      "bbox": {
+        "x": 156,
+        "y": 1309,
+        "width": 872,
+        "height": 26
+      },
+      "confidence": 92.46,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-024",
+      "lineNumber": 24,
+      "text": "ceramic mountain leaning against the sky, the blue water of the pictorial",
+      "bbox": {
+        "x": 159,
+        "y": 1344,
+        "width": 869,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 12 An Unseen Beauty of Bangladesh\nAfter completing the lesson students will be able to\n© ask and answer questions\nread and understand texts\n© write short paragraphs\nA. Discuss the following questions in pairs.\n1, Have you ever visited any interesting tourist spot in Bangladesh?\nTf you have, what was that place. What special attractions did you see\nIf you haven't, what places do you wish to visit? What special attractions\nwill you see there?\n2. Which of the following activities would you like to do while visiting a\ntourist spot?\nsight-seeing, taking photos, having picnic, shopping, collecting souvenirs,\nB. Now, read the text on Birishiri, a quiet and less known tourist spot\nlocated in the north-eastern border of Bangladesh.\nBangladesh is a small country but it is gifted with unlimited natural attractions.\nOnly some of these eye-catching destinations are known to us. But there\nare many other areas lying in the green, remote countryside that are less-\nknown to us. Shusong Durgapur of Birishiri is one such place.\nShusong Durgapur has an amazing landscape. It is located on the bank\nof crystal clear Someshwari river and is close to the Garo Hills. You can\nsee the hills of Indian state of Meghalaya from here. The nature has\nunfolded its glory in this small, rural landscape. Here you can see the\nceramic mountain leaning against the sky, the blue water of the pictorial",
+  "cleanText": "Lesson 12 An Unseen Beauty of Bangladesh\nAfter completing the lesson students will be able to\n© ask and answer questions\nread and understand texts\n© write short paragraphs\nDiscuss the following questions in pairs.\n1, Have you ever visited any interesting tourist spot in Bangladesh?\nTf you have, what was that place. What special attractions did you see\nIf you haven't, what places do you wish to visit? What special attractions\nwill you see there?\nWhich of the following activities would you like to do while visiting a\ntourist spot?\nsight-seeing, taking photos, having picnic, shopping, collecting souvenirs,\nNow, read the text on Birishiri, a quiet and less known tourist spot\nlocated in the north-eastern border of Bangladesh.\nBangladesh is a small country but it is gifted with unlimited natural attractions.\nOnly some of these eye-catching destinations are known to us. But there\nare many other areas lying in the green, remote countryside that are less-\nknown to us. Shusong Durgapur of Birishiri is one such place.\nShusong Durgapur has an amazing landscape. It is located on the bank\nof crystal clear Someshwari river and is close to the Garo Hills. You can\nsee the hills of Indian state of Meghalaya from here. The nature has\nunfolded its glory in this small, rural landscape. Here you can see the\nceramic mountain leaning against the sky, the blue water of the pictorial",
+  "aiReadyText": "Lesson 12 An Unseen Beauty of Bangladesh\n© ask and answer questions\nread and understand texts\n© write short paragraphs\n1, Have you ever visited any interesting tourist spot in Bangladesh?\nTf you have, what was that place. What special attractions did you see\nIf you haven't, what places do you wish to visit? What special attractions\nwill you see there?\nWhich of the following activities would you like to do while visiting a\nsight-seeing, taking photos, having picnic, shopping, collecting souvenirs,\nNow, read the text on Birishiri, a quiet and less known tourist spot\nlocated in the north-eastern border of Bangladesh.\nBangladesh is a small country but it is gifted with unlimited natural attractions.\nOnly some of these eye-catching destinations are known to us. But there\nare many other areas lying in the green, remote countryside that are less-\nknown to us. Shusong Durgapur of Birishiri is one such place.\nShusong Durgapur has an amazing landscape. It is located on the bank\nof crystal clear Someshwari river and is close to the Garo Hills. You can\nsee the hills of Indian state of Meghalaya from here. The nature has\nunfolded its glory in this small, rural landscape. Here you can see the\nceramic mountain leaning against the sky, the blue water of the pictorial"
+}

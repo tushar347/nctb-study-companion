@@ -1,0 +1,146 @@
+{
+  "lessonNo": 3,
+  "title": "At a Railway Station",
+  "lessonTitle": "At a Railway Station",
+  "textbookPageStart": 7,
+  "textbookPageEnd": 8,
+  "pdfPageStart": 12,
+  "pdfPageEnd": 13,
+  "lines": [
+    {
+      "id": "lesson-03-line-001",
+      "lineNumber": 1,
+      "paragraphNo": 1,
+      "text": "Read the following passage."
+    },
+    {
+      "id": "lesson-03-line-002",
+      "lineNumber": 2,
+      "paragraphNo": 2,
+      "text": "My friend Sajjad and I were sitting at the railway station."
+    },
+    {
+      "id": "lesson-03-line-003",
+      "lineNumber": 3,
+      "paragraphNo": 3,
+      "text": "I came to see him off."
+    },
+    {
+      "id": "lesson-03-line-004",
+      "lineNumber": 4,
+      "paragraphNo": 4,
+      "text": "Sajjad was going to Dhaka to his elder sister's house."
+    },
+    {
+      "id": "lesson-03-line-005",
+      "lineNumber": 5,
+      "paragraphNo": 5,
+      "text": "It was very crowded in the station."
+    },
+    {
+      "id": "lesson-03-line-006",
+      "lineNumber": 6,
+      "paragraphNo": 6,
+      "text": "There was a long line of people at the ticket counter."
+    },
+    {
+      "id": "lesson-03-line-007",
+      "lineNumber": 7,
+      "paragraphNo": 7,
+      "text": "A woman was standing in the queue."
+    },
+    {
+      "id": "lesson-03-line-008",
+      "lineNumber": 8,
+      "paragraphNo": 8,
+      "text": "She was holding her child's hand tightly."
+    },
+    {
+      "id": "lesson-03-line-009",
+      "lineNumber": 9,
+      "paragraphNo": 9,
+      "text": "A group of young people was talking loudly and drinking tea in front of a tea stall."
+    },
+    {
+      "id": "lesson-03-line-010",
+      "lineNumber": 10,
+      "paragraphNo": 10,
+      "text": "An old couple was trying to find a quiet place to sit down and rest."
+    },
+    {
+      "id": "lesson-03-line-011",
+      "lineNumber": 11,
+      "paragraphNo": 11,
+      "text": "The waiting room was crowded, too."
+    },
+    {
+      "id": "lesson-03-line-012",
+      "lineNumber": 12,
+      "paragraphNo": 12,
+      "text": "Soon my friend's train started to leave."
+    },
+    {
+      "id": "lesson-03-line-013",
+      "lineNumber": 13,
+      "paragraphNo": 13,
+      "text": "As the train whistled, he picked up his suitcase and we said goodbye to each other."
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "lesson-03-ai-line-001",
+      "text": "Read the following passage."
+    },
+    {
+      "id": "lesson-03-ai-line-002",
+      "text": "My friend Sajjad and I were sitting at the railway station."
+    },
+    {
+      "id": "lesson-03-ai-line-003",
+      "text": "I came to see him off."
+    },
+    {
+      "id": "lesson-03-ai-line-004",
+      "text": "Sajjad was going to Dhaka to his elder sister's house."
+    },
+    {
+      "id": "lesson-03-ai-line-005",
+      "text": "It was very crowded in the station."
+    },
+    {
+      "id": "lesson-03-ai-line-006",
+      "text": "There was a long line of people at the ticket counter."
+    },
+    {
+      "id": "lesson-03-ai-line-007",
+      "text": "A woman was standing in the queue."
+    },
+    {
+      "id": "lesson-03-ai-line-008",
+      "text": "She was holding her child's hand tightly."
+    },
+    {
+      "id": "lesson-03-ai-line-009",
+      "text": "A group of young people was talking loudly and drinking tea in front of a tea stall."
+    },
+    {
+      "id": "lesson-03-ai-line-010",
+      "text": "An old couple was trying to find a quiet place to sit down and rest."
+    },
+    {
+      "id": "lesson-03-ai-line-011",
+      "text": "The waiting room was crowded, too."
+    },
+    {
+      "id": "lesson-03-ai-line-012",
+      "text": "Soon my friend's train started to leave."
+    },
+    {
+      "id": "lesson-03-ai-line-013",
+      "text": "As the train whistled, he picked up his suitcase and we said goodbye to each other."
+    }
+  ],
+  "rawText": "Read the following passage.\nMy friend Sajjad and I were sitting at the railway station.\nI came to see him off.\nSajjad was going to Dhaka to his elder sister's house.\nIt was very crowded in the station.\nThere was a long line of people at the ticket counter.\nA woman was standing in the queue.\nShe was holding her child's hand tightly.\nA group of young people was talking loudly and drinking tea in front of a tea stall.\nAn old couple was trying to find a quiet place to sit down and rest.\nThe waiting room was crowded, too.\nSoon my friend's train started to leave.\nAs the train whistled, he picked up his suitcase and we said goodbye to each other.",
+  "cleanText": "Read the following passage.\nMy friend Sajjad and I were sitting at the railway station.\nI came to see him off.\nSajjad was going to Dhaka to his elder sister's house.\nIt was very crowded in the station.\nThere was a long line of people at the ticket counter.\nA woman was standing in the queue.\nShe was holding her child's hand tightly.\nA group of young people was talking loudly and drinking tea in front of a tea stall.\nAn old couple was trying to find a quiet place to sit down and rest.\nThe waiting room was crowded, too.\nSoon my friend's train started to leave.\nAs the train whistled, he picked up his suitcase and we said goodbye to each other.",
+  "aiReadyText": "Read the following passage.\nMy friend Sajjad and I were sitting at the railway station.\nI came to see him off.\nSajjad was going to Dhaka to his elder sister's house.\nIt was very crowded in the station.\nThere was a long line of people at the ticket counter.\nA woman was standing in the queue.\nShe was holding her child's hand tightly.\nA group of young people was talking loudly and drinking tea in front of a tea stall.\nAn old couple was trying to find a quiet place to sit down and rest.\nThe waiting room was crowded, too.\nSoon my friend's train started to leave.\nAs the train whistled, he picked up his suitcase and we said goodbye to each other."
+}

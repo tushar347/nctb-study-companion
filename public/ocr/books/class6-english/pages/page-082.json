@@ -1,0 +1,911 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 82,
+  "image": "/ocr/books/class6-english/page-images/page-082.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 7",
+      "cleanText": "English For Today 7",
+      "bbox": {
+        "x": 124,
+        "y": 86,
+        "width": 909,
+        "height": 25
+      },
+      "confidence": 92.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Bangladesh, Bangladesh",
+      "cleanText": "Bangladesh, Bangladesh",
+      "bbox": {
+        "x": 201,
+        "y": 153,
+        "width": 279,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Where so many people are dying fast",
+      "cleanText": "Where so many people are dying fast",
+      "bbox": {
+        "x": 201,
+        "y": 186,
+        "width": 423,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "And it sure looks like a mess",
+      "cleanText": "And it sure looks like a mess",
+      "bbox": {
+        "x": 201,
+        "y": 219,
+        "width": 328,
+        "height": 21
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "I've never seen such distress",
+      "cleanText": "I've never seen such distress",
+      "bbox": {
+        "x": 201,
+        "y": 252,
+        "width": 319,
+        "height": 21
+      },
+      "confidence": 93.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Now, won't you lend your hand and understand",
+      "cleanText": "Now, won't you lend your hand and understand",
+      "bbox": {
+        "x": 200,
+        "y": 298,
+        "width": 537,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Relieve the people of Bangladesh",
+      "cleanText": "Relieve the people of Bangladesh",
+      "bbox": {
+        "x": 201,
+        "y": 331,
+        "width": 381,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Bangladesh, Bangladesh",
+      "cleanText": "Bangladesh, Bangladesh",
+      "bbox": {
+        "x": 199,
+        "y": 381,
+        "width": 280,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Such a great disaster - I don't understand",
+      "cleanText": "Such a great disaster - I don't understand",
+      "bbox": {
+        "x": 200,
+        "y": 421,
+        "width": 462,
+        "height": 25
+      },
+      "confidence": 92.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "But it sure looks like a mess",
+      "cleanText": "But it sure looks like a mess",
+      "bbox": {
+        "x": 199,
+        "y": 460,
+        "width": 320,
+        "height": 20
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "I've never known such distress",
+      "cleanText": "I've never known such distress",
+      "bbox": {
+        "x": 200,
+        "y": 500,
+        "width": 345,
+        "height": 20
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Now, please don't turn away, I want to hear you say",
+      "cleanText": "Now, please don't turn away, I want to hear you say",
+      "bbox": {
+        "x": 198,
+        "y": 539,
+        "width": 586,
+        "height": 26
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Relieve the people of Bangladesh",
+      "cleanText": "Relieve the people of Bangladesh",
+      "bbox": {
+        "x": 199,
+        "y": 579,
+        "width": 382,
+        "height": 26
+      },
+      "confidence": 96.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Relieve Bangladesh.",
+      "cleanText": "Relieve Bangladesh.",
+      "bbox": {
+        "x": 199,
+        "y": 614,
+        "width": 231,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Now, complete the summary of the first three stanzas of the song",
+      "cleanText": "Now, complete the summary of the first three stanzas of the song",
+      "bbox": {
+        "x": 201,
+        "y": 669,
+        "width": 834,
+        "height": 27
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "\"Bangladesh' with suitable words from the box below the passage.",
+      "cleanText": "\"Bangladesh' with suitable words from the box below the passage.",
+      "bbox": {
+        "x": 202,
+        "y": 708,
+        "width": 837,
+        "height": 27
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "My fricnd came to me with sad cyes and requested me to help his",
+      "cleanText": "My fricnd came to me with sad cyes and requested me to help his",
+      "bbox": {
+        "x": 199,
+        "y": 784,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 93.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "country before it died. Though I could not feel the pain, but I think I",
+      "cleanText": "country before it died. Though I could not feel the pain, but I think I",
+      "bbox": {
+        "x": 197,
+        "y": 819,
+        "width": 833,
+        "height": 26
+      },
+      "confidence": 93.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "should try to help. I also appeal to you all to (1) us to save",
+      "cleanText": "should try to help. I also appeal to you all to (1) us to save",
+      "bbox": {
+        "x": 199,
+        "y": 853,
+        "width": 835,
+        "height": 27
+      },
+      "confidence": 91.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "the lives of those people. The country is facing (2) and",
+      "cleanText": "the lives of those people. The country is facing (2) and",
+      "bbox": {
+        "x": 198,
+        "y": 888,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "I have never seen such sufferings. Now, won't you (3)",
+      "cleanText": "I have never seen such sufferings. Now, won't you (3)",
+      "bbox": {
+        "x": 200,
+        "y": 924,
+        "width": 660,
+        "height": 26
+      },
+      "confidence": 92.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "beside the people of Bangladesh and (4) forward to reduce",
+      "cleanText": "beside the people of Bangladesh and (4) forward to reduce",
+      "bbox": {
+        "x": 197,
+        "y": 959,
+        "width": 838,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "their sufferings?",
+      "cleanText": "their sufferings?",
+      "bbox": {
+        "x": 197,
+        "y": 1000,
+        "width": 191,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "support stand come problems",
+      "cleanText": "support stand come problems",
+      "bbox": {
+        "x": 314,
+        "y": 1064,
+        "width": 568,
+        "height": 33
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Doe you know any Bangla song that inspired the people of",
+      "cleanText": "Doe you know any Bangla song that inspired the people of",
+      "bbox": {
+        "x": 201,
+        "y": 1140,
+        "width": 821,
+        "height": 26
+      },
+      "confidence": 93.18,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Bangladesh during the war of liberation in 1971? Discuss in groups",
+      "cleanText": "Bangladesh during the war of liberation in 1971? Discuss in groups",
+      "bbox": {
+        "x": 201,
+        "y": 1177,
+        "width": 831,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "and write down the first line or a few lines of the song in Bangla.",
+      "cleanText": "and write down the first line or a few lines of the song in Bangla.",
+      "bbox": {
+        "x": 201,
+        "y": 1213,
+        "width": 798,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "a) What is the first line of the song?",
+      "cleanText": "What is the first line of the song?",
+      "bbox": {
+        "x": 199,
+        "y": 1254,
+        "width": 422,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "b) What is the song about?",
+      "cleanText": "What is the song about?",
+      "bbox": {
+        "x": 199,
+        "y": 1294,
+        "width": 317,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "c) Who is the singer of the song?",
+      "cleanText": "Who is the singer of the song?",
+      "bbox": {
+        "x": 199,
+        "y": 1334,
+        "width": 390,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "d) Where did you hear the song first?",
+      "cleanText": "Where did you hear the song first?",
+      "bbox": {
+        "x": 199,
+        "y": 1373,
+        "width": 437,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "e) How do you feel when you listen to this song?",
+      "cleanText": "e) How do you feel when you listen to this song?",
+      "bbox": {
+        "x": 199,
+        "y": 1411,
+        "width": 565,
+        "height": 26
+      },
+      "confidence": 92.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-032",
+      "lineNumber": 32
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-082-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 7",
+      "bbox": {
+        "x": 124,
+        "y": 86,
+        "width": 909,
+        "height": 25
+      },
+      "confidence": 92.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-002",
+      "lineNumber": 2,
+      "text": "Bangladesh, Bangladesh",
+      "bbox": {
+        "x": 201,
+        "y": 153,
+        "width": 279,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-003",
+      "lineNumber": 3,
+      "text": "Where so many people are dying fast",
+      "bbox": {
+        "x": 201,
+        "y": 186,
+        "width": 423,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-004",
+      "lineNumber": 4,
+      "text": "And it sure looks like a mess",
+      "bbox": {
+        "x": 201,
+        "y": 219,
+        "width": 328,
+        "height": 21
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-005",
+      "lineNumber": 5,
+      "text": "I've never seen such distress",
+      "bbox": {
+        "x": 201,
+        "y": 252,
+        "width": 319,
+        "height": 21
+      },
+      "confidence": 93.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-006",
+      "lineNumber": 6,
+      "text": "Now, won't you lend your hand and understand",
+      "bbox": {
+        "x": 200,
+        "y": 298,
+        "width": 537,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-007",
+      "lineNumber": 7,
+      "text": "Relieve the people of Bangladesh",
+      "bbox": {
+        "x": 201,
+        "y": 331,
+        "width": 381,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-008",
+      "lineNumber": 8,
+      "text": "Bangladesh, Bangladesh",
+      "bbox": {
+        "x": 199,
+        "y": 381,
+        "width": 280,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-009",
+      "lineNumber": 9,
+      "text": "Such a great disaster - I don't understand",
+      "bbox": {
+        "x": 200,
+        "y": 421,
+        "width": 462,
+        "height": 25
+      },
+      "confidence": 92.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-010",
+      "lineNumber": 10,
+      "text": "But it sure looks like a mess",
+      "bbox": {
+        "x": 199,
+        "y": 460,
+        "width": 320,
+        "height": 20
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-011",
+      "lineNumber": 11,
+      "text": "I've never known such distress",
+      "bbox": {
+        "x": 200,
+        "y": 500,
+        "width": 345,
+        "height": 20
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-012",
+      "lineNumber": 12,
+      "text": "Now, please don't turn away, I want to hear you say",
+      "bbox": {
+        "x": 198,
+        "y": 539,
+        "width": 586,
+        "height": 26
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-013",
+      "lineNumber": 13,
+      "text": "Relieve the people of Bangladesh",
+      "bbox": {
+        "x": 199,
+        "y": 579,
+        "width": 382,
+        "height": 26
+      },
+      "confidence": 96.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-014",
+      "lineNumber": 14,
+      "text": "Relieve Bangladesh.",
+      "bbox": {
+        "x": 199,
+        "y": 614,
+        "width": 231,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-015",
+      "lineNumber": 15,
+      "text": "Now, complete the summary of the first three stanzas of the song",
+      "bbox": {
+        "x": 201,
+        "y": 669,
+        "width": 834,
+        "height": 27
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-016",
+      "lineNumber": 16,
+      "text": "\"Bangladesh' with suitable words from the box below the passage.",
+      "bbox": {
+        "x": 202,
+        "y": 708,
+        "width": 837,
+        "height": 27
+      },
+      "confidence": 91.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-017",
+      "lineNumber": 17,
+      "text": "My fricnd came to me with sad cyes and requested me to help his",
+      "bbox": {
+        "x": 199,
+        "y": 784,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 93.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-018",
+      "lineNumber": 18,
+      "text": "country before it died. Though I could not feel the pain, but I think I",
+      "bbox": {
+        "x": 197,
+        "y": 819,
+        "width": 833,
+        "height": 26
+      },
+      "confidence": 93.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-019",
+      "lineNumber": 19,
+      "text": "should try to help. I also appeal to you all to (1) us to save",
+      "bbox": {
+        "x": 199,
+        "y": 853,
+        "width": 835,
+        "height": 27
+      },
+      "confidence": 91.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-020",
+      "lineNumber": 20,
+      "text": "the lives of those people. The country is facing (2) and",
+      "bbox": {
+        "x": 198,
+        "y": 888,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-021",
+      "lineNumber": 21,
+      "text": "I have never seen such sufferings. Now, won't you (3)",
+      "bbox": {
+        "x": 200,
+        "y": 924,
+        "width": 660,
+        "height": 26
+      },
+      "confidence": 92.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-022",
+      "lineNumber": 22,
+      "text": "beside the people of Bangladesh and (4) forward to reduce",
+      "bbox": {
+        "x": 197,
+        "y": 959,
+        "width": 838,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-023",
+      "lineNumber": 23,
+      "text": "their sufferings?",
+      "bbox": {
+        "x": 197,
+        "y": 1000,
+        "width": 191,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-024",
+      "lineNumber": 24,
+      "text": "support stand come problems",
+      "bbox": {
+        "x": 314,
+        "y": 1064,
+        "width": 568,
+        "height": 33
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-025",
+      "lineNumber": 25,
+      "text": "Doe you know any Bangla song that inspired the people of",
+      "bbox": {
+        "x": 201,
+        "y": 1140,
+        "width": 821,
+        "height": 26
+      },
+      "confidence": 93.18,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-026",
+      "lineNumber": 26,
+      "text": "Bangladesh during the war of liberation in 1971? Discuss in groups",
+      "bbox": {
+        "x": 201,
+        "y": 1177,
+        "width": 831,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-027",
+      "lineNumber": 27,
+      "text": "and write down the first line or a few lines of the song in Bangla.",
+      "bbox": {
+        "x": 201,
+        "y": 1213,
+        "width": 798,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-028",
+      "lineNumber": 28,
+      "text": "What is the first line of the song?",
+      "bbox": {
+        "x": 199,
+        "y": 1254,
+        "width": 422,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-029",
+      "lineNumber": 29,
+      "text": "What is the song about?",
+      "bbox": {
+        "x": 199,
+        "y": 1294,
+        "width": 317,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-030",
+      "lineNumber": 30,
+      "text": "Who is the singer of the song?",
+      "bbox": {
+        "x": 199,
+        "y": 1334,
+        "width": 390,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-031",
+      "lineNumber": 31,
+      "text": "Where did you hear the song first?",
+      "bbox": {
+        "x": 199,
+        "y": 1373,
+        "width": 437,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-032",
+      "lineNumber": 32,
+      "text": "e) How do you feel when you listen to this song?",
+      "bbox": {
+        "x": 199,
+        "y": 1411,
+        "width": 565,
+        "height": 26
+      },
+      "confidence": 92.82,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 7\nBangladesh, Bangladesh\nWhere so many people are dying fast\nAnd it sure looks like a mess\nI've never seen such distress\nNow, won't you lend your hand and understand\nRelieve the people of Bangladesh\nBangladesh, Bangladesh\nSuch a great disaster - I don't understand\nBut it sure looks like a mess\nI've never known such distress\nNow, please don't turn away, I want to hear you say\nRelieve the people of Bangladesh\nRelieve Bangladesh.\nNow, complete the summary of the first three stanzas of the song\n\"Bangladesh' with suitable words from the box below the passage.\nMy fricnd came to me with sad cyes and requested me to help his\ncountry before it died. Though I could not feel the pain, but I think I\nshould try to help. I also appeal to you all to (1) us to save\nthe lives of those people. The country is facing (2) and\nI have never seen such sufferings. Now, won't you (3)\nbeside the people of Bangladesh and (4) forward to reduce\ntheir sufferings?\nsupport stand come problems\nDoe you know any Bangla song that inspired the people of\nBangladesh during the war of liberation in 1971? Discuss in groups\nand write down the first line or a few lines of the song in Bangla.\na) What is the first line of the song?\nb) What is the song about?\nc) Who is the singer of the song?\nd) Where did you hear the song first?\ne) How do you feel when you listen to this song?",
+  "cleanText": "English For Today 7\nBangladesh, Bangladesh\nWhere so many people are dying fast\nAnd it sure looks like a mess\nI've never seen such distress\nNow, won't you lend your hand and understand\nRelieve the people of Bangladesh\nBangladesh, Bangladesh\nSuch a great disaster - I don't understand\nBut it sure looks like a mess\nI've never known such distress\nNow, please don't turn away, I want to hear you say\nRelieve the people of Bangladesh\nRelieve Bangladesh.\nNow, complete the summary of the first three stanzas of the song\n\"Bangladesh' with suitable words from the box below the passage.\nMy fricnd came to me with sad cyes and requested me to help his\ncountry before it died. Though I could not feel the pain, but I think I\nshould try to help. I also appeal to you all to (1) us to save\nthe lives of those people. The country is facing (2) and\nI have never seen such sufferings. Now, won't you (3)\nbeside the people of Bangladesh and (4) forward to reduce\ntheir sufferings?\nsupport stand come problems\nDoe you know any Bangla song that inspired the people of\nBangladesh during the war of liberation in 1971? Discuss in groups\nand write down the first line or a few lines of the song in Bangla.\nWhat is the first line of the song?\nWhat is the song about?\nWho is the singer of the song?\nWhere did you hear the song first?\ne) How do you feel when you listen to this song?",
+  "aiReadyText": "English For Today 7\nBangladesh, Bangladesh\nWhere so many people are dying fast\nAnd it sure looks like a mess\nI've never seen such distress\nNow, won't you lend your hand and understand\nRelieve the people of Bangladesh\nBangladesh, Bangladesh\nSuch a great disaster - I don't understand\nBut it sure looks like a mess\nI've never known such distress\nNow, please don't turn away, I want to hear you say\nRelieve the people of Bangladesh\nRelieve Bangladesh.\nNow, complete the summary of the first three stanzas of the song\n\"Bangladesh' with suitable words from the box below the passage.\nMy fricnd came to me with sad cyes and requested me to help his\ncountry before it died. Though I could not feel the pain, but I think I\nshould try to help. I also appeal to you all to (1) us to save\nthe lives of those people. The country is facing (2) and\nI have never seen such sufferings. Now, won't you (3)\nbeside the people of Bangladesh and (4) forward to reduce\ntheir sufferings?\nsupport stand come problems\nDoe you know any Bangla song that inspired the people of\nBangladesh during the war of liberation in 1971? Discuss in groups\nand write down the first line or a few lines of the song in Bangla.\nWhat is the first line of the song?\nWhat is the song about?\nWho is the singer of the song?\nWhere did you hear the song first?\ne) How do you feel when you listen to this song?"
+}

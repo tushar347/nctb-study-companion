@@ -1,0 +1,267 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 60,
+  "image": "/ocr/books/class6-english/page-images/page-060.png",
+  "width": 1149,
+  "height": 1504,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Read the sentences below and choose the right words from the list of",
+      "cleanText": "Read the sentences below and choose the right words from the list of",
+      "bbox": {
+        "x": 199,
+        "y": 150,
+        "width": 840,
+        "height": 26
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-060-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "words in the box to fill in the blanks.",
+      "cleanText": "words in the box to fill in the blanks.",
+      "bbox": {
+        "x": 199,
+        "y": 193,
+        "width": 450,
+        "height": 21
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-060-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "nine time fine five ride shore bicycle night tide rise",
+      "cleanText": "nine time fine five ride shore bicycle night tide rise",
+      "bbox": {
+        "x": 216,
+        "y": 273,
+        "width": 808,
+        "height": 26
+      },
+      "confidence": 88.7,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-060-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Mike is a young accountant. He works from to",
+      "cleanText": "Mike is a young accountant. He works from to",
+      "bbox": {
+        "x": 191,
+        "y": 354,
+        "width": 761,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-060-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "in a government office. In his free he loves to his",
+      "cleanText": "in a government office. In his free he loves to his",
+      "bbox": {
+        "x": 189,
+        "y": 403,
+        "width": 749,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-060-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "along the sea . He often comes to the sea beach at . He",
+      "cleanText": "along the sea . He often comes to the sea beach at . He",
+      "bbox": {
+        "x": 188,
+        "y": 451,
+        "width": 818,
+        "height": 27
+      },
+      "confidence": 95.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-060-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "loves to watch the moon in the sky and the come in.",
+      "cleanText": "loves to watch the moon in the sky and the come in.",
+      "bbox": {
+        "x": 188,
+        "y": 516,
+        "width": 810,
+        "height": 27
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-060-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Read the sentences in the passage above loudly. Pay careful attention",
+      "cleanText": "Read the sentences in the passage above loudly. Pay careful attention",
+      "bbox": {
+        "x": 205,
+        "y": 1127,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 95.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-060-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "to the vowel sounds.",
+      "cleanText": "to the vowel sounds.",
+      "bbox": {
+        "x": 203,
+        "y": 1171,
+        "width": 242,
+        "height": 20
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-060-line-009",
+      "lineNumber": 9
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-060-line-001",
+      "lineNumber": 1,
+      "text": "Read the sentences below and choose the right words from the list of",
+      "bbox": {
+        "x": 199,
+        "y": 150,
+        "width": 840,
+        "height": 26
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-060-line-002",
+      "lineNumber": 2,
+      "text": "words in the box to fill in the blanks.",
+      "bbox": {
+        "x": 199,
+        "y": 193,
+        "width": 450,
+        "height": 21
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-060-line-003",
+      "lineNumber": 3,
+      "text": "nine time fine five ride shore bicycle night tide rise",
+      "bbox": {
+        "x": 216,
+        "y": 273,
+        "width": 808,
+        "height": 26
+      },
+      "confidence": 88.7,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-060-line-004",
+      "lineNumber": 4,
+      "text": "Mike is a young accountant. He works from to",
+      "bbox": {
+        "x": 191,
+        "y": 354,
+        "width": 761,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-060-line-005",
+      "lineNumber": 5,
+      "text": "in a government office. In his free he loves to his",
+      "bbox": {
+        "x": 189,
+        "y": 403,
+        "width": 749,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-060-line-006",
+      "lineNumber": 6,
+      "text": "along the sea . He often comes to the sea beach at . He",
+      "bbox": {
+        "x": 188,
+        "y": 451,
+        "width": 818,
+        "height": 27
+      },
+      "confidence": 95.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-060-line-007",
+      "lineNumber": 7,
+      "text": "loves to watch the moon in the sky and the come in.",
+      "bbox": {
+        "x": 188,
+        "y": 516,
+        "width": 810,
+        "height": 27
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-060-line-008",
+      "lineNumber": 8,
+      "text": "Read the sentences in the passage above loudly. Pay careful attention",
+      "bbox": {
+        "x": 205,
+        "y": 1127,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 95.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-060-line-009",
+      "lineNumber": 9,
+      "text": "to the vowel sounds.",
+      "bbox": {
+        "x": 203,
+        "y": 1171,
+        "width": 242,
+        "height": 20
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Read the sentences below and choose the right words from the list of\nwords in the box to fill in the blanks.\nnine time fine five ride shore bicycle night tide rise\nMike is a young accountant. He works from to\nin a government office. In his free he loves to his\nalong the sea . He often comes to the sea beach at . He\nloves to watch the moon in the sky and the come in.\nRead the sentences in the passage above loudly. Pay careful attention\nto the vowel sounds.",
+  "cleanText": "Read the sentences below and choose the right words from the list of\nwords in the box to fill in the blanks.\nnine time fine five ride shore bicycle night tide rise\nMike is a young accountant. He works from to\nin a government office. In his free he loves to his\nalong the sea . He often comes to the sea beach at . He\nloves to watch the moon in the sky and the come in.\nRead the sentences in the passage above loudly. Pay careful attention\nto the vowel sounds.",
+  "aiReadyText": "Read the sentences below and choose the right words from the list of\nwords in the box to fill in the blanks.\nnine time fine five ride shore bicycle night tide rise\nMike is a young accountant. He works from to\nin a government office. In his free he loves to his\nalong the sea . He often comes to the sea beach at . He\nloves to watch the moon in the sky and the come in.\nRead the sentences in the passage above loudly. Pay careful attention\nto the vowel sounds."
+}

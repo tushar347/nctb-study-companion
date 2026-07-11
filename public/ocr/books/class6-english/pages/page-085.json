@@ -1,0 +1,508 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 85,
+  "image": "/ocr/books/class6-english/page-images/page-085.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "C2. Look at the useful expressions that Imran uses at the shop. Use the",
+      "cleanText": "C2. Look at the useful expressions that Imran uses at the shop. Use the",
+      "bbox": {
+        "x": 123,
+        "y": 172,
+        "width": 897,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "words below for each incomplete sentence to make a complete sentence.",
+      "cleanText": "words below for each incomplete sentence to make a complete sentence.",
+      "bbox": {
+        "x": 189,
+        "y": 211,
+        "width": 851,
+        "height": 26
+      },
+      "confidence": 95.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Excuse me, where are the ?",
+      "cleanText": "Excuse me, where are the ?",
+      "bbox": {
+        "x": 256,
+        "y": 258,
+        "width": 490,
+        "height": 21
+      },
+      "confidence": 94.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "polo shirts/trousers/socks/shoes",
+      "cleanText": "polo shirts/trousers/socks/shoes",
+      "bbox": {
+        "x": 256,
+        "y": 295,
+        "width": 360,
+        "height": 25
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "2. Do you have the kinds without .............. ?",
+      "cleanText": "Do you have the kinds without .............. ?",
+      "bbox": {
+        "x": 202,
+        "y": 341,
+        "width": 552,
+        "height": 26
+      },
+      "confidence": 90.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "buttons/lace/hooks",
+      "cleanText": "buttons/lace/hooks",
+      "bbox": {
+        "x": 256,
+        "y": 379,
+        "width": 212,
+        "height": 19
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "3. Do you have these in a different ?",
+      "cleanText": "Do you have these in a different ?",
+      "bbox": {
+        "x": 202,
+        "y": 421,
+        "width": 595,
+        "height": 33
+      },
+      "confidence": 87.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "colour/size/design",
+      "cleanText": "colour/size/design",
+      "bbox": {
+        "x": 256,
+        "y": 462,
+        "width": 206,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "4. How much ?",
+      "cleanText": "How much ?",
+      "bbox": {
+        "x": 201,
+        "y": 508,
+        "width": 411,
+        "height": 20
+      },
+      "confidence": 75.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-085-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "this/these/the shirt/these socks/the trousers, etc.",
+      "cleanText": "this/these/the shirt/these socks/the trousers, etc.",
+      "bbox": {
+        "x": 256,
+        "y": 552,
+        "width": 539,
+        "height": 23
+      },
+      "confidence": 93.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "D. Read the conversations between Karim and Imran. Which",
+      "cleanText": "Read the conversations between Karim and Imran. Which",
+      "bbox": {
+        "x": 123,
+        "y": 590,
+        "width": 910,
+        "height": 21
+      },
+      "confidence": 89.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "clothes do they choose? Tick the correct picture for each conversation.",
+      "cleanText": "clothes do they choose? Tick the correct picture for each conversation.",
+      "bbox": {
+        "x": 202,
+        "y": 621,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Dialogue 1:",
+      "cleanText": "Dialogue 1:",
+      "bbox": {
+        "x": 202,
+        "y": 656,
+        "width": 137,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-085-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Mrs.Karim Look at these jeans.",
+      "cleanText": "Mrs.Karim Look at these jeans.",
+      "bbox": {
+        "x": 201,
+        "y": 955,
+        "width": 436,
+        "height": 35
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Imran No, mom. That is too narrow. I want some baggy ones.",
+      "cleanText": "Imran No, mom. That is too narrow. I want some baggy ones.",
+      "bbox": {
+        "x": 202,
+        "y": 1003,
+        "width": 835,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Mrs. Karim Flat, you mean?",
+      "cleanText": "Mrs. Karim Flat, you mean?",
+      "bbox": {
+        "x": 201,
+        "y": 1047,
+        "width": 393,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Imran No, not flat. Just baggy, you know, loose fitting with",
+      "cleanText": "Imran No, not flat. Just baggy, you know, loose fitting with",
+      "bbox": {
+        "x": 202,
+        "y": 1091,
+        "width": 808,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "pockets on the sides.",
+      "cleanText": "pockets on the sides.",
+      "bbox": {
+        "x": 412,
+        "y": 1135,
+        "width": 234,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Dialogue 2:",
+      "cleanText": "Dialogue 2:",
+      "bbox": {
+        "x": 202,
+        "y": 1182,
+        "width": 138,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-085-line-019",
+      "lineNumber": 19
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-085-line-001",
+      "lineNumber": 1,
+      "text": "C2. Look at the useful expressions that Imran uses at the shop. Use the",
+      "bbox": {
+        "x": 123,
+        "y": 172,
+        "width": 897,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-002",
+      "lineNumber": 2,
+      "text": "words below for each incomplete sentence to make a complete sentence.",
+      "bbox": {
+        "x": 189,
+        "y": 211,
+        "width": 851,
+        "height": 26
+      },
+      "confidence": 95.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-003",
+      "lineNumber": 3,
+      "text": "Excuse me, where are the ?",
+      "bbox": {
+        "x": 256,
+        "y": 258,
+        "width": 490,
+        "height": 21
+      },
+      "confidence": 94.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-004",
+      "lineNumber": 4,
+      "text": "polo shirts/trousers/socks/shoes",
+      "bbox": {
+        "x": 256,
+        "y": 295,
+        "width": 360,
+        "height": 25
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-005",
+      "lineNumber": 5,
+      "text": "Do you have the kinds without .............. ?",
+      "bbox": {
+        "x": 202,
+        "y": 341,
+        "width": 552,
+        "height": 26
+      },
+      "confidence": 90.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-006",
+      "lineNumber": 6,
+      "text": "buttons/lace/hooks",
+      "bbox": {
+        "x": 256,
+        "y": 379,
+        "width": 212,
+        "height": 19
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-007",
+      "lineNumber": 7,
+      "text": "Do you have these in a different ?",
+      "bbox": {
+        "x": 202,
+        "y": 421,
+        "width": 595,
+        "height": 33
+      },
+      "confidence": 87.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-008",
+      "lineNumber": 8,
+      "text": "colour/size/design",
+      "bbox": {
+        "x": 256,
+        "y": 462,
+        "width": 206,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-010",
+      "lineNumber": 10,
+      "text": "this/these/the shirt/these socks/the trousers, etc.",
+      "bbox": {
+        "x": 256,
+        "y": 552,
+        "width": 539,
+        "height": 23
+      },
+      "confidence": 93.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-011",
+      "lineNumber": 11,
+      "text": "Read the conversations between Karim and Imran. Which",
+      "bbox": {
+        "x": 123,
+        "y": 590,
+        "width": 910,
+        "height": 21
+      },
+      "confidence": 89.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-012",
+      "lineNumber": 12,
+      "text": "clothes do they choose? Tick the correct picture for each conversation.",
+      "bbox": {
+        "x": 202,
+        "y": 621,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-014",
+      "lineNumber": 14,
+      "text": "Mrs.Karim Look at these jeans.",
+      "bbox": {
+        "x": 201,
+        "y": 955,
+        "width": 436,
+        "height": 35
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-015",
+      "lineNumber": 15,
+      "text": "Imran No, mom. That is too narrow. I want some baggy ones.",
+      "bbox": {
+        "x": 202,
+        "y": 1003,
+        "width": 835,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-016",
+      "lineNumber": 16,
+      "text": "Mrs. Karim Flat, you mean?",
+      "bbox": {
+        "x": 201,
+        "y": 1047,
+        "width": 393,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-017",
+      "lineNumber": 17,
+      "text": "Imran No, not flat. Just baggy, you know, loose fitting with",
+      "bbox": {
+        "x": 202,
+        "y": 1091,
+        "width": 808,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-018",
+      "lineNumber": 18,
+      "text": "pockets on the sides.",
+      "bbox": {
+        "x": 412,
+        "y": 1135,
+        "width": 234,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "C2. Look at the useful expressions that Imran uses at the shop. Use the\nwords below for each incomplete sentence to make a complete sentence.\nExcuse me, where are the ?\npolo shirts/trousers/socks/shoes\n2. Do you have the kinds without .............. ?\nbuttons/lace/hooks\n3. Do you have these in a different ?\ncolour/size/design\n4. How much ?\nthis/these/the shirt/these socks/the trousers, etc.\nD. Read the conversations between Karim and Imran. Which\nclothes do they choose? Tick the correct picture for each conversation.\nDialogue 1:\nMrs.Karim Look at these jeans.\nImran No, mom. That is too narrow. I want some baggy ones.\nMrs. Karim Flat, you mean?\nImran No, not flat. Just baggy, you know, loose fitting with\npockets on the sides.\nDialogue 2:",
+  "cleanText": "C2. Look at the useful expressions that Imran uses at the shop. Use the\nwords below for each incomplete sentence to make a complete sentence.\nExcuse me, where are the ?\npolo shirts/trousers/socks/shoes\nDo you have the kinds without .............. ?\nbuttons/lace/hooks\nDo you have these in a different ?\ncolour/size/design\nHow much ?\nthis/these/the shirt/these socks/the trousers, etc.\nRead the conversations between Karim and Imran. Which\nclothes do they choose? Tick the correct picture for each conversation.\nDialogue 1:\nMrs.Karim Look at these jeans.\nImran No, mom. That is too narrow. I want some baggy ones.\nMrs. Karim Flat, you mean?\nImran No, not flat. Just baggy, you know, loose fitting with\npockets on the sides.\nDialogue 2:",
+  "aiReadyText": "C2. Look at the useful expressions that Imran uses at the shop. Use the\nwords below for each incomplete sentence to make a complete sentence.\nExcuse me, where are the ?\npolo shirts/trousers/socks/shoes\nDo you have the kinds without .............. ?\nbuttons/lace/hooks\nDo you have these in a different ?\ncolour/size/design\nthis/these/the shirt/these socks/the trousers, etc.\nRead the conversations between Karim and Imran. Which\nclothes do they choose? Tick the correct picture for each conversation.\nMrs.Karim Look at these jeans.\nImran No, mom. That is too narrow. I want some baggy ones.\nMrs. Karim Flat, you mean?\nImran No, not flat. Just baggy, you know, loose fitting with\npockets on the sides."
+}

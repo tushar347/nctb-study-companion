@@ -1,0 +1,930 @@
+{
+  "bookId": "class6-english",
+  "title": "English For Today — Class Six",
+  "sourcePdf": "/books/class6-english-for-today.pdf",
+  "totalPdfPages": 115,
+  "startPage": 1,
+  "endPage": 115,
+  "pages": [
+    {
+      "pageNumber": 1,
+      "json": "/ocr/books/class6-english/pages/page-001.json",
+      "image": "/ocr/books/class6-english/page-images/page-001.png",
+      "lineCount": 0,
+      "aiReadyLineCount": 0,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 2,
+      "json": "/ocr/books/class6-english/pages/page-002.json",
+      "image": "/ocr/books/class6-english/page-images/page-002.png",
+      "lineCount": 3,
+      "aiReadyLineCount": 3,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 3,
+      "json": "/ocr/books/class6-english/pages/page-003.json",
+      "image": "/ocr/books/class6-english/page-images/page-003.png",
+      "lineCount": 15,
+      "aiReadyLineCount": 11,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 4,
+      "json": "/ocr/books/class6-english/pages/page-004.json",
+      "image": "/ocr/books/class6-english/page-images/page-004.png",
+      "lineCount": 41,
+      "aiReadyLineCount": 40,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 5,
+      "json": "/ocr/books/class6-english/pages/page-005.json",
+      "image": "/ocr/books/class6-english/page-images/page-005.png",
+      "lineCount": 35,
+      "aiReadyLineCount": 34,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 6,
+      "json": "/ocr/books/class6-english/pages/page-006.json",
+      "image": "/ocr/books/class6-english/page-images/page-006.png",
+      "lineCount": 19,
+      "aiReadyLineCount": 13,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 7,
+      "json": "/ocr/books/class6-english/pages/page-007.json",
+      "image": "/ocr/books/class6-english/page-images/page-007.png",
+      "lineCount": 21,
+      "aiReadyLineCount": 16,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 8,
+      "json": "/ocr/books/class6-english/pages/page-008.json",
+      "image": "/ocr/books/class6-english/page-images/page-008.png",
+      "lineCount": 28,
+      "aiReadyLineCount": 19,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 9,
+      "json": "/ocr/books/class6-english/pages/page-009.json",
+      "image": "/ocr/books/class6-english/page-images/page-009.png",
+      "lineCount": 25,
+      "aiReadyLineCount": 18,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 10,
+      "json": "/ocr/books/class6-english/pages/page-010.json",
+      "image": "/ocr/books/class6-english/page-images/page-010.png",
+      "lineCount": 26,
+      "aiReadyLineCount": 24,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 11,
+      "json": "/ocr/books/class6-english/pages/page-011.json",
+      "image": "/ocr/books/class6-english/page-images/page-011.png",
+      "lineCount": 34,
+      "aiReadyLineCount": 32,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 12,
+      "json": "/ocr/books/class6-english/pages/page-012.json",
+      "image": "/ocr/books/class6-english/page-images/page-012.png",
+      "lineCount": 27,
+      "aiReadyLineCount": 18,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 13,
+      "json": "/ocr/books/class6-english/pages/page-013.json",
+      "image": "/ocr/books/class6-english/page-images/page-013.png",
+      "lineCount": 8,
+      "aiReadyLineCount": 6,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 14,
+      "json": "/ocr/books/class6-english/pages/page-014.json",
+      "image": "/ocr/books/class6-english/page-images/page-014.png",
+      "lineCount": 27,
+      "aiReadyLineCount": 21,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 15,
+      "json": "/ocr/books/class6-english/pages/page-015.json",
+      "image": "/ocr/books/class6-english/page-images/page-015.png",
+      "lineCount": 38,
+      "aiReadyLineCount": 28,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 16,
+      "json": "/ocr/books/class6-english/pages/page-016.json",
+      "image": "/ocr/books/class6-english/page-images/page-016.png",
+      "lineCount": 32,
+      "aiReadyLineCount": 28,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 17,
+      "json": "/ocr/books/class6-english/pages/page-017.json",
+      "image": "/ocr/books/class6-english/page-images/page-017.png",
+      "lineCount": 18,
+      "aiReadyLineCount": 16,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 18,
+      "json": "/ocr/books/class6-english/pages/page-018.json",
+      "image": "/ocr/books/class6-english/page-images/page-018.png",
+      "lineCount": 10,
+      "aiReadyLineCount": 8,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 19,
+      "json": "/ocr/books/class6-english/pages/page-019.json",
+      "image": "/ocr/books/class6-english/page-images/page-019.png",
+      "lineCount": 29,
+      "aiReadyLineCount": 29,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 20,
+      "json": "/ocr/books/class6-english/pages/page-020.json",
+      "image": "/ocr/books/class6-english/page-images/page-020.png",
+      "lineCount": 24,
+      "aiReadyLineCount": 24,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 21,
+      "json": "/ocr/books/class6-english/pages/page-021.json",
+      "image": "/ocr/books/class6-english/page-images/page-021.png",
+      "lineCount": 17,
+      "aiReadyLineCount": 15,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 22,
+      "json": "/ocr/books/class6-english/pages/page-022.json",
+      "image": "/ocr/books/class6-english/page-images/page-022.png",
+      "lineCount": 26,
+      "aiReadyLineCount": 23,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 23,
+      "json": "/ocr/books/class6-english/pages/page-023.json",
+      "image": "/ocr/books/class6-english/page-images/page-023.png",
+      "lineCount": 26,
+      "aiReadyLineCount": 24,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 24,
+      "json": "/ocr/books/class6-english/pages/page-024.json",
+      "image": "/ocr/books/class6-english/page-images/page-024.png",
+      "lineCount": 22,
+      "aiReadyLineCount": 18,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 25,
+      "json": "/ocr/books/class6-english/pages/page-025.json",
+      "image": "/ocr/books/class6-english/page-images/page-025.png",
+      "lineCount": 13,
+      "aiReadyLineCount": 12,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 26,
+      "json": "/ocr/books/class6-english/pages/page-026.json",
+      "image": "/ocr/books/class6-english/page-images/page-026.png",
+      "lineCount": 24,
+      "aiReadyLineCount": 22,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 27,
+      "json": "/ocr/books/class6-english/pages/page-027.json",
+      "image": "/ocr/books/class6-english/page-images/page-027.png",
+      "lineCount": 14,
+      "aiReadyLineCount": 10,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 28,
+      "json": "/ocr/books/class6-english/pages/page-028.json",
+      "image": "/ocr/books/class6-english/page-images/page-028.png",
+      "lineCount": 25,
+      "aiReadyLineCount": 24,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 29,
+      "json": "/ocr/books/class6-english/pages/page-029.json",
+      "image": "/ocr/books/class6-english/page-images/page-029.png",
+      "lineCount": 15,
+      "aiReadyLineCount": 12,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 30,
+      "json": "/ocr/books/class6-english/pages/page-030.json",
+      "image": "/ocr/books/class6-english/page-images/page-030.png",
+      "lineCount": 20,
+      "aiReadyLineCount": 14,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 31,
+      "json": "/ocr/books/class6-english/pages/page-031.json",
+      "image": "/ocr/books/class6-english/page-images/page-031.png",
+      "lineCount": 19,
+      "aiReadyLineCount": 17,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 32,
+      "json": "/ocr/books/class6-english/pages/page-032.json",
+      "image": "/ocr/books/class6-english/page-images/page-032.png",
+      "lineCount": 16,
+      "aiReadyLineCount": 12,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 33,
+      "json": "/ocr/books/class6-english/pages/page-033.json",
+      "image": "/ocr/books/class6-english/page-images/page-033.png",
+      "lineCount": 16,
+      "aiReadyLineCount": 15,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 34,
+      "json": "/ocr/books/class6-english/pages/page-034.json",
+      "image": "/ocr/books/class6-english/page-images/page-034.png",
+      "lineCount": 23,
+      "aiReadyLineCount": 21,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 35,
+      "json": "/ocr/books/class6-english/pages/page-035.json",
+      "image": "/ocr/books/class6-english/page-images/page-035.png",
+      "lineCount": 21,
+      "aiReadyLineCount": 19,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 36,
+      "json": "/ocr/books/class6-english/pages/page-036.json",
+      "image": "/ocr/books/class6-english/page-images/page-036.png",
+      "lineCount": 22,
+      "aiReadyLineCount": 20,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 37,
+      "json": "/ocr/books/class6-english/pages/page-037.json",
+      "image": "/ocr/books/class6-english/page-images/page-037.png",
+      "lineCount": 21,
+      "aiReadyLineCount": 17,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 38,
+      "json": "/ocr/books/class6-english/pages/page-038.json",
+      "image": "/ocr/books/class6-english/page-images/page-038.png",
+      "lineCount": 11,
+      "aiReadyLineCount": 10,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 39,
+      "json": "/ocr/books/class6-english/pages/page-039.json",
+      "image": "/ocr/books/class6-english/page-images/page-039.png",
+      "lineCount": 28,
+      "aiReadyLineCount": 27,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 40,
+      "json": "/ocr/books/class6-english/pages/page-040.json",
+      "image": "/ocr/books/class6-english/page-images/page-040.png",
+      "lineCount": 32,
+      "aiReadyLineCount": 24,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 41,
+      "json": "/ocr/books/class6-english/pages/page-041.json",
+      "image": "/ocr/books/class6-english/page-images/page-041.png",
+      "lineCount": 27,
+      "aiReadyLineCount": 24,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 42,
+      "json": "/ocr/books/class6-english/pages/page-042.json",
+      "image": "/ocr/books/class6-english/page-images/page-042.png",
+      "lineCount": 12,
+      "aiReadyLineCount": 6,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 43,
+      "json": "/ocr/books/class6-english/pages/page-043.json",
+      "image": "/ocr/books/class6-english/page-images/page-043.png",
+      "lineCount": 27,
+      "aiReadyLineCount": 16,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 44,
+      "json": "/ocr/books/class6-english/pages/page-044.json",
+      "image": "/ocr/books/class6-english/page-images/page-044.png",
+      "lineCount": 24,
+      "aiReadyLineCount": 21,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 45,
+      "json": "/ocr/books/class6-english/pages/page-045.json",
+      "image": "/ocr/books/class6-english/page-images/page-045.png",
+      "lineCount": 30,
+      "aiReadyLineCount": 29,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 46,
+      "json": "/ocr/books/class6-english/pages/page-046.json",
+      "image": "/ocr/books/class6-english/page-images/page-046.png",
+      "lineCount": 26,
+      "aiReadyLineCount": 24,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 47,
+      "json": "/ocr/books/class6-english/pages/page-047.json",
+      "image": "/ocr/books/class6-english/page-images/page-047.png",
+      "lineCount": 27,
+      "aiReadyLineCount": 25,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 48,
+      "json": "/ocr/books/class6-english/pages/page-048.json",
+      "image": "/ocr/books/class6-english/page-images/page-048.png",
+      "lineCount": 28,
+      "aiReadyLineCount": 26,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 49,
+      "json": "/ocr/books/class6-english/pages/page-049.json",
+      "image": "/ocr/books/class6-english/page-images/page-049.png",
+      "lineCount": 22,
+      "aiReadyLineCount": 21,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 50,
+      "json": "/ocr/books/class6-english/pages/page-050.json",
+      "image": "/ocr/books/class6-english/page-images/page-050.png",
+      "lineCount": 21,
+      "aiReadyLineCount": 20,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 51,
+      "json": "/ocr/books/class6-english/pages/page-051.json",
+      "image": "/ocr/books/class6-english/page-images/page-051.png",
+      "lineCount": 13,
+      "aiReadyLineCount": 11,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 52,
+      "json": "/ocr/books/class6-english/pages/page-052.json",
+      "image": "/ocr/books/class6-english/page-images/page-052.png",
+      "lineCount": 25,
+      "aiReadyLineCount": 23,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 53,
+      "json": "/ocr/books/class6-english/pages/page-053.json",
+      "image": "/ocr/books/class6-english/page-images/page-053.png",
+      "lineCount": 19,
+      "aiReadyLineCount": 14,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 54,
+      "json": "/ocr/books/class6-english/pages/page-054.json",
+      "image": "/ocr/books/class6-english/page-images/page-054.png",
+      "lineCount": 31,
+      "aiReadyLineCount": 30,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 55,
+      "json": "/ocr/books/class6-english/pages/page-055.json",
+      "image": "/ocr/books/class6-english/page-images/page-055.png",
+      "lineCount": 24,
+      "aiReadyLineCount": 20,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 56,
+      "json": "/ocr/books/class6-english/pages/page-056.json",
+      "image": "/ocr/books/class6-english/page-images/page-056.png",
+      "lineCount": 24,
+      "aiReadyLineCount": 21,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 57,
+      "json": "/ocr/books/class6-english/pages/page-057.json",
+      "image": "/ocr/books/class6-english/page-images/page-057.png",
+      "lineCount": 20,
+      "aiReadyLineCount": 18,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 58,
+      "json": "/ocr/books/class6-english/pages/page-058.json",
+      "image": "/ocr/books/class6-english/page-images/page-058.png",
+      "lineCount": 33,
+      "aiReadyLineCount": 29,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 59,
+      "json": "/ocr/books/class6-english/pages/page-059.json",
+      "image": "/ocr/books/class6-english/page-images/page-059.png",
+      "lineCount": 11,
+      "aiReadyLineCount": 9,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 60,
+      "json": "/ocr/books/class6-english/pages/page-060.json",
+      "image": "/ocr/books/class6-english/page-images/page-060.png",
+      "lineCount": 9,
+      "aiReadyLineCount": 9,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 61,
+      "json": "/ocr/books/class6-english/pages/page-061.json",
+      "image": "/ocr/books/class6-english/page-images/page-061.png",
+      "lineCount": 26,
+      "aiReadyLineCount": 24,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 62,
+      "json": "/ocr/books/class6-english/pages/page-062.json",
+      "image": "/ocr/books/class6-english/page-images/page-062.png",
+      "lineCount": 18,
+      "aiReadyLineCount": 15,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 63,
+      "json": "/ocr/books/class6-english/pages/page-063.json",
+      "image": "/ocr/books/class6-english/page-images/page-063.png",
+      "lineCount": 21,
+      "aiReadyLineCount": 18,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 64,
+      "json": "/ocr/books/class6-english/pages/page-064.json",
+      "image": "/ocr/books/class6-english/page-images/page-064.png",
+      "lineCount": 16,
+      "aiReadyLineCount": 12,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 65,
+      "json": "/ocr/books/class6-english/pages/page-065.json",
+      "image": "/ocr/books/class6-english/page-images/page-065.png",
+      "lineCount": 24,
+      "aiReadyLineCount": 22,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 66,
+      "json": "/ocr/books/class6-english/pages/page-066.json",
+      "image": "/ocr/books/class6-english/page-images/page-066.png",
+      "lineCount": 25,
+      "aiReadyLineCount": 20,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 67,
+      "json": "/ocr/books/class6-english/pages/page-067.json",
+      "image": "/ocr/books/class6-english/page-images/page-067.png",
+      "lineCount": 24,
+      "aiReadyLineCount": 23,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 68,
+      "json": "/ocr/books/class6-english/pages/page-068.json",
+      "image": "/ocr/books/class6-english/page-images/page-068.png",
+      "lineCount": 26,
+      "aiReadyLineCount": 23,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 69,
+      "json": "/ocr/books/class6-english/pages/page-069.json",
+      "image": "/ocr/books/class6-english/page-images/page-069.png",
+      "lineCount": 36,
+      "aiReadyLineCount": 29,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 70,
+      "json": "/ocr/books/class6-english/pages/page-070.json",
+      "image": "/ocr/books/class6-english/page-images/page-070.png",
+      "lineCount": 31,
+      "aiReadyLineCount": 28,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 71,
+      "json": "/ocr/books/class6-english/pages/page-071.json",
+      "image": "/ocr/books/class6-english/page-images/page-071.png",
+      "lineCount": 25,
+      "aiReadyLineCount": 23,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 72,
+      "json": "/ocr/books/class6-english/pages/page-072.json",
+      "image": "/ocr/books/class6-english/page-images/page-072.png",
+      "lineCount": 36,
+      "aiReadyLineCount": 30,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 73,
+      "json": "/ocr/books/class6-english/pages/page-073.json",
+      "image": "/ocr/books/class6-english/page-images/page-073.png",
+      "lineCount": 22,
+      "aiReadyLineCount": 20,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 74,
+      "json": "/ocr/books/class6-english/pages/page-074.json",
+      "image": "/ocr/books/class6-english/page-images/page-074.png",
+      "lineCount": 28,
+      "aiReadyLineCount": 25,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 75,
+      "json": "/ocr/books/class6-english/pages/page-075.json",
+      "image": "/ocr/books/class6-english/page-images/page-075.png",
+      "lineCount": 19,
+      "aiReadyLineCount": 17,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 76,
+      "json": "/ocr/books/class6-english/pages/page-076.json",
+      "image": "/ocr/books/class6-english/page-images/page-076.png",
+      "lineCount": 24,
+      "aiReadyLineCount": 22,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 77,
+      "json": "/ocr/books/class6-english/pages/page-077.json",
+      "image": "/ocr/books/class6-english/page-images/page-077.png",
+      "lineCount": 27,
+      "aiReadyLineCount": 21,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 78,
+      "json": "/ocr/books/class6-english/pages/page-078.json",
+      "image": "/ocr/books/class6-english/page-images/page-078.png",
+      "lineCount": 18,
+      "aiReadyLineCount": 16,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 79,
+      "json": "/ocr/books/class6-english/pages/page-079.json",
+      "image": "/ocr/books/class6-english/page-images/page-079.png",
+      "lineCount": 28,
+      "aiReadyLineCount": 22,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 80,
+      "json": "/ocr/books/class6-english/pages/page-080.json",
+      "image": "/ocr/books/class6-english/page-images/page-080.png",
+      "lineCount": 35,
+      "aiReadyLineCount": 28,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 81,
+      "json": "/ocr/books/class6-english/pages/page-081.json",
+      "image": "/ocr/books/class6-english/page-images/page-081.png",
+      "lineCount": 33,
+      "aiReadyLineCount": 31,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 82,
+      "json": "/ocr/books/class6-english/pages/page-082.json",
+      "image": "/ocr/books/class6-english/page-images/page-082.png",
+      "lineCount": 32,
+      "aiReadyLineCount": 32,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 83,
+      "json": "/ocr/books/class6-english/pages/page-083.json",
+      "image": "/ocr/books/class6-english/page-images/page-083.png",
+      "lineCount": 18,
+      "aiReadyLineCount": 13,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 84,
+      "json": "/ocr/books/class6-english/pages/page-084.json",
+      "image": "/ocr/books/class6-english/page-images/page-084.png",
+      "lineCount": 30,
+      "aiReadyLineCount": 29,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 85,
+      "json": "/ocr/books/class6-english/pages/page-085.json",
+      "image": "/ocr/books/class6-english/page-images/page-085.png",
+      "lineCount": 19,
+      "aiReadyLineCount": 16,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 86,
+      "json": "/ocr/books/class6-english/pages/page-086.json",
+      "image": "/ocr/books/class6-english/page-images/page-086.png",
+      "lineCount": 18,
+      "aiReadyLineCount": 11,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 87,
+      "json": "/ocr/books/class6-english/pages/page-087.json",
+      "image": "/ocr/books/class6-english/page-images/page-087.png",
+      "lineCount": 23,
+      "aiReadyLineCount": 19,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 88,
+      "json": "/ocr/books/class6-english/pages/page-088.json",
+      "image": "/ocr/books/class6-english/page-images/page-088.png",
+      "lineCount": 24,
+      "aiReadyLineCount": 21,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 89,
+      "json": "/ocr/books/class6-english/pages/page-089.json",
+      "image": "/ocr/books/class6-english/page-images/page-089.png",
+      "lineCount": 11,
+      "aiReadyLineCount": 8,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 90,
+      "json": "/ocr/books/class6-english/pages/page-090.json",
+      "image": "/ocr/books/class6-english/page-images/page-090.png",
+      "lineCount": 21,
+      "aiReadyLineCount": 18,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 91,
+      "json": "/ocr/books/class6-english/pages/page-091.json",
+      "image": "/ocr/books/class6-english/page-images/page-091.png",
+      "lineCount": 26,
+      "aiReadyLineCount": 20,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 92,
+      "json": "/ocr/books/class6-english/pages/page-092.json",
+      "image": "/ocr/books/class6-english/page-images/page-092.png",
+      "lineCount": 12,
+      "aiReadyLineCount": 8,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 93,
+      "json": "/ocr/books/class6-english/pages/page-093.json",
+      "image": "/ocr/books/class6-english/page-images/page-093.png",
+      "lineCount": 27,
+      "aiReadyLineCount": 23,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 94,
+      "json": "/ocr/books/class6-english/pages/page-094.json",
+      "image": "/ocr/books/class6-english/page-images/page-094.png",
+      "lineCount": 18,
+      "aiReadyLineCount": 17,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 95,
+      "json": "/ocr/books/class6-english/pages/page-095.json",
+      "image": "/ocr/books/class6-english/page-images/page-095.png",
+      "lineCount": 12,
+      "aiReadyLineCount": 8,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 96,
+      "json": "/ocr/books/class6-english/pages/page-096.json",
+      "image": "/ocr/books/class6-english/page-images/page-096.png",
+      "lineCount": 9,
+      "aiReadyLineCount": 8,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 97,
+      "json": "/ocr/books/class6-english/pages/page-097.json",
+      "image": "/ocr/books/class6-english/page-images/page-097.png",
+      "lineCount": 33,
+      "aiReadyLineCount": 26,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 98,
+      "json": "/ocr/books/class6-english/pages/page-098.json",
+      "image": "/ocr/books/class6-english/page-images/page-098.png",
+      "lineCount": 26,
+      "aiReadyLineCount": 25,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 99,
+      "json": "/ocr/books/class6-english/pages/page-099.json",
+      "image": "/ocr/books/class6-english/page-images/page-099.png",
+      "lineCount": 19,
+      "aiReadyLineCount": 15,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 100,
+      "json": "/ocr/books/class6-english/pages/page-100.json",
+      "image": "/ocr/books/class6-english/page-images/page-100.png",
+      "lineCount": 7,
+      "aiReadyLineCount": 7,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 101,
+      "json": "/ocr/books/class6-english/pages/page-101.json",
+      "image": "/ocr/books/class6-english/page-images/page-101.png",
+      "lineCount": 13,
+      "aiReadyLineCount": 12,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 102,
+      "json": "/ocr/books/class6-english/pages/page-102.json",
+      "image": "/ocr/books/class6-english/page-images/page-102.png",
+      "lineCount": 12,
+      "aiReadyLineCount": 11,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 103,
+      "json": "/ocr/books/class6-english/pages/page-103.json",
+      "image": "/ocr/books/class6-english/page-images/page-103.png",
+      "lineCount": 6,
+      "aiReadyLineCount": 6,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 104,
+      "json": "/ocr/books/class6-english/pages/page-104.json",
+      "image": "/ocr/books/class6-english/page-images/page-104.png",
+      "lineCount": 10,
+      "aiReadyLineCount": 10,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 105,
+      "json": "/ocr/books/class6-english/pages/page-105.json",
+      "image": "/ocr/books/class6-english/page-images/page-105.png",
+      "lineCount": 28,
+      "aiReadyLineCount": 20,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 106,
+      "json": "/ocr/books/class6-english/pages/page-106.json",
+      "image": "/ocr/books/class6-english/page-images/page-106.png",
+      "lineCount": 36,
+      "aiReadyLineCount": 27,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 107,
+      "json": "/ocr/books/class6-english/pages/page-107.json",
+      "image": "/ocr/books/class6-english/page-images/page-107.png",
+      "lineCount": 36,
+      "aiReadyLineCount": 35,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 108,
+      "json": "/ocr/books/class6-english/pages/page-108.json",
+      "image": "/ocr/books/class6-english/page-images/page-108.png",
+      "lineCount": 37,
+      "aiReadyLineCount": 35,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 109,
+      "json": "/ocr/books/class6-english/pages/page-109.json",
+      "image": "/ocr/books/class6-english/page-images/page-109.png",
+      "lineCount": 23,
+      "aiReadyLineCount": 23,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 110,
+      "json": "/ocr/books/class6-english/pages/page-110.json",
+      "image": "/ocr/books/class6-english/page-images/page-110.png",
+      "lineCount": 23,
+      "aiReadyLineCount": 22,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 111,
+      "json": "/ocr/books/class6-english/pages/page-111.json",
+      "image": "/ocr/books/class6-english/page-images/page-111.png",
+      "lineCount": 33,
+      "aiReadyLineCount": 24,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 112,
+      "json": "/ocr/books/class6-english/pages/page-112.json",
+      "image": "/ocr/books/class6-english/page-images/page-112.png",
+      "lineCount": 36,
+      "aiReadyLineCount": 33,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 113,
+      "json": "/ocr/books/class6-english/pages/page-113.json",
+      "image": "/ocr/books/class6-english/page-images/page-113.png",
+      "lineCount": 36,
+      "aiReadyLineCount": 35,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 114,
+      "json": "/ocr/books/class6-english/pages/page-114.json",
+      "image": "/ocr/books/class6-english/page-images/page-114.png",
+      "lineCount": 0,
+      "aiReadyLineCount": 0,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 115,
+      "json": "/ocr/books/class6-english/pages/page-115.json",
+      "image": "/ocr/books/class6-english/page-images/page-115.png",
+      "lineCount": 7,
+      "aiReadyLineCount": 4,
+      "source": "tesseract"
+    }
+  ]
+}

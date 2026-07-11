@@ -1,0 +1,822 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 111,
+  "image": "/ocr/books/class6-english/page-images/page-111.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Suggested Answers",
+      "cleanText": "Suggested Answers",
+      "bbox": {
+        "x": 444,
+        "y": 145,
+        "width": 266,
+        "height": 30
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "li) 5 o’clock",
+      "cleanText": "5 o’clock",
+      "bbox": {
+        "x": 281,
+        "y": 199,
+        "width": 127,
+        "height": 24
+      },
+      "confidence": 82.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-111-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "iii) Sankar",
+      "cleanText": "Sankar",
+      "bbox": {
+        "x": 281,
+        "y": 231,
+        "width": 109,
+        "height": 23
+      },
+      "confidence": 84.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-111-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "iv. They put it in plastic bins and leave them in front of their houses.",
+      "cleanText": "They put it in plastic bins and leave them in front of their houses.",
+      "bbox": {
+        "x": 281,
+        "y": 259,
+        "width": 719,
+        "height": 32
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "iii. Bulbul was sick for two days and could not collect the rubbish.",
+      "cleanText": "Bulbul was sick for two days and could not collect the rubbish.",
+      "bbox": {
+        "x": 281,
+        "y": 294,
+        "width": 699,
+        "height": 24
+      },
+      "confidence": 94.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "iii. All jobs are important.",
+      "cleanText": "All jobs are important.",
+      "bbox": {
+        "x": 281,
+        "y": 326,
+        "width": 270,
+        "height": 24
+      },
+      "confidence": 91.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "ii. The whole area became dirty and unhygienic.",
+      "cleanText": "The whole area became dirty and unhygienic.",
+      "bbox": {
+        "x": 281,
+        "y": 358,
+        "width": 506,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "iv. He knows the area will turn into a big dustbin if he stops working.",
+      "cleanText": "He knows the area will turn into a big dustbin if he stops working.",
+      "bbox": {
+        "x": 281,
+        "y": 389,
+        "width": 729,
+        "height": 24
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Bulbul wakes up early in the morning to collect rubbish from the",
+      "cleanText": "Bulbul wakes up early in the morning to collect rubbish from the",
+      "bbox": {
+        "x": 281,
+        "y": 437,
+        "width": 683,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Sankar area and keep it clean.",
+      "cleanText": "Sankar area and keep it clean.",
+      "bbox": {
+        "x": 281,
+        "y": 469,
+        "width": 312,
+        "height": 24
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "The people of Sankar suffered because piles of rubbish gathered in",
+      "cleanText": "The people of Sankar suffered because piles of rubbish gathered in",
+      "bbox": {
+        "x": 280,
+        "y": 500,
+        "width": 703,
+        "height": 24
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "front of their houses, making the area dirty and unhygienic.",
+      "cleanText": "front of their houses, making the area dirty and unhygienic.",
+      "bbox": {
+        "x": 281,
+        "y": 532,
+        "width": 623,
+        "height": 24
+      },
+      "confidence": 95.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "The story teaches us that every job is important, and workers like",
+      "cleanText": "The story teaches us that every job is important, and workers like",
+      "bbox": {
+        "x": 280,
+        "y": 560,
+        "width": 688,
+        "height": 32
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Bulbul play a crucial role in keeping the environment clean and healthy",
+      "cleanText": "Bulbul play a crucial role in keeping the environment clean and healthy",
+      "bbox": {
+        "x": 281,
+        "y": 595,
+        "width": 753,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "They leave their rubbish in plastic bins in front of their houses.",
+      "cleanText": "They leave their rubbish in plastic bins in front of their houses.",
+      "bbox": {
+        "x": 280,
+        "y": 627,
+        "width": 662,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Bulbul stopped working because he was sick.",
+      "cleanText": "Bulbul stopped working because he was sick.",
+      "bbox": {
+        "x": 283,
+        "y": 659,
+        "width": 477,
+        "height": 24
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "active b) help",
+      "cleanText": "active b) help",
+      "bbox": {
+        "x": 280,
+        "y": 709,
+        "width": 257,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "practices) physical",
+      "cleanText": "practices) physical",
+      "bbox": {
+        "x": 280,
+        "y": 754,
+        "width": 293,
+        "height": 26
+      },
+      "confidence": 78.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-111-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "prosperity",
+      "cleanText": "prosperity",
+      "bbox": {
+        "x": 280,
+        "y": 846,
+        "width": 105,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-111-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "preserve",
+      "cleanText": "preserve",
+      "bbox": {
+        "x": 281,
+        "y": 916,
+        "width": 87,
+        "height": 17
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-111-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "unnecessary",
+      "cleanText": "unnecessary",
+      "bbox": {
+        "x": 281,
+        "y": 947,
+        "width": 126,
+        "height": 18
+      },
+      "confidence": 87.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-111-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "improper",
+      "cleanText": "improper",
+      "bbox": {
+        "x": 281,
+        "y": 973,
+        "width": 95,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-111-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Farmers, fishermen, and craftsmen",
+      "cleanText": "Farmers, fishermen, and craftsmen",
+      "bbox": {
+        "x": 281,
+        "y": 1010,
+        "width": 365,
+        "height": 22
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "The air in villages is fresh",
+      "cleanText": "The air in villages is fresh",
+      "bbox": {
+        "x": 280,
+        "y": 1041,
+        "width": 274,
+        "height": 24
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Rice, jute and vegetables",
+      "cleanText": "Rice, jute and vegetables",
+      "bbox": {
+        "x": 277,
+        "y": 1069,
+        "width": 272,
+        "height": 33
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Mango, jackfruit and banana",
+      "cleanText": "Mango, jackfruit and banana",
+      "bbox": {
+        "x": 281,
+        "y": 1105,
+        "width": 307,
+        "height": 24
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Pahcla Boishakh and Nabanna Utsab",
+      "cleanText": "Pahcla Boishakh and Nabanna Utsab",
+      "bbox": {
+        "x": 281,
+        "y": 1137,
+        "width": 388,
+        "height": 18
+      },
+      "confidence": 87.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "Tre b) False",
+      "cleanText": "Tre b) False",
+      "bbox": {
+        "x": 280,
+        "y": 1179,
+        "width": 207,
+        "height": 22
+      },
+      "confidence": 82.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-111-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "Correct Answer- Most villagers in Bangladesh work as farmers, fishermen, or",
+      "cleanText": "Correct Answer- Most villagers in Bangladesh work as farmers, fishermen, or",
+      "bbox": {
+        "x": 125,
+        "y": 1226,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 95.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "craftsmen, not in factories.",
+      "cleanText": "craftsmen, not in factories.",
+      "bbox": {
+        "x": 125,
+        "y": 1258,
+        "width": 279,
+        "height": 21
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "True d) False",
+      "cleanText": "True d) False",
+      "bbox": {
+        "x": 283,
+        "y": 1296,
+        "width": 206,
+        "height": 22
+      },
+      "confidence": 82.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-111-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "Correct Answer- Many houses in villages have gardens with fruit trees like mango,",
+      "cleanText": "Correct Answer- Many houses in villages have gardens with fruit trees like mango,",
+      "bbox": {
+        "x": 125,
+        "y": 1330,
+        "width": 907,
+        "height": 24
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "jackfruit and banana.",
+      "cleanText": "jackfruit and banana.",
+      "bbox": {
+        "x": 122,
+        "y": 1362,
+        "width": 228,
+        "height": 24
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-033",
+      "lineNumber": 33
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-111-line-001",
+      "lineNumber": 1,
+      "text": "Suggested Answers",
+      "bbox": {
+        "x": 444,
+        "y": 145,
+        "width": 266,
+        "height": 30
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-004",
+      "lineNumber": 4,
+      "text": "They put it in plastic bins and leave them in front of their houses.",
+      "bbox": {
+        "x": 281,
+        "y": 259,
+        "width": 719,
+        "height": 32
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-005",
+      "lineNumber": 5,
+      "text": "Bulbul was sick for two days and could not collect the rubbish.",
+      "bbox": {
+        "x": 281,
+        "y": 294,
+        "width": 699,
+        "height": 24
+      },
+      "confidence": 94.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-006",
+      "lineNumber": 6,
+      "text": "All jobs are important.",
+      "bbox": {
+        "x": 281,
+        "y": 326,
+        "width": 270,
+        "height": 24
+      },
+      "confidence": 91.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-007",
+      "lineNumber": 7,
+      "text": "The whole area became dirty and unhygienic.",
+      "bbox": {
+        "x": 281,
+        "y": 358,
+        "width": 506,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-008",
+      "lineNumber": 8,
+      "text": "He knows the area will turn into a big dustbin if he stops working.",
+      "bbox": {
+        "x": 281,
+        "y": 389,
+        "width": 729,
+        "height": 24
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-009",
+      "lineNumber": 9,
+      "text": "Bulbul wakes up early in the morning to collect rubbish from the",
+      "bbox": {
+        "x": 281,
+        "y": 437,
+        "width": 683,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-010",
+      "lineNumber": 10,
+      "text": "Sankar area and keep it clean.",
+      "bbox": {
+        "x": 281,
+        "y": 469,
+        "width": 312,
+        "height": 24
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-011",
+      "lineNumber": 11,
+      "text": "The people of Sankar suffered because piles of rubbish gathered in",
+      "bbox": {
+        "x": 280,
+        "y": 500,
+        "width": 703,
+        "height": 24
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-012",
+      "lineNumber": 12,
+      "text": "front of their houses, making the area dirty and unhygienic.",
+      "bbox": {
+        "x": 281,
+        "y": 532,
+        "width": 623,
+        "height": 24
+      },
+      "confidence": 95.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-013",
+      "lineNumber": 13,
+      "text": "The story teaches us that every job is important, and workers like",
+      "bbox": {
+        "x": 280,
+        "y": 560,
+        "width": 688,
+        "height": 32
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-014",
+      "lineNumber": 14,
+      "text": "Bulbul play a crucial role in keeping the environment clean and healthy",
+      "bbox": {
+        "x": 281,
+        "y": 595,
+        "width": 753,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-015",
+      "lineNumber": 15,
+      "text": "They leave their rubbish in plastic bins in front of their houses.",
+      "bbox": {
+        "x": 280,
+        "y": 627,
+        "width": 662,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-016",
+      "lineNumber": 16,
+      "text": "Bulbul stopped working because he was sick.",
+      "bbox": {
+        "x": 283,
+        "y": 659,
+        "width": 477,
+        "height": 24
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-017",
+      "lineNumber": 17,
+      "text": "active b) help",
+      "bbox": {
+        "x": 280,
+        "y": 709,
+        "width": 257,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-023",
+      "lineNumber": 23,
+      "text": "Farmers, fishermen, and craftsmen",
+      "bbox": {
+        "x": 281,
+        "y": 1010,
+        "width": 365,
+        "height": 22
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-024",
+      "lineNumber": 24,
+      "text": "The air in villages is fresh",
+      "bbox": {
+        "x": 280,
+        "y": 1041,
+        "width": 274,
+        "height": 24
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-025",
+      "lineNumber": 25,
+      "text": "Rice, jute and vegetables",
+      "bbox": {
+        "x": 277,
+        "y": 1069,
+        "width": 272,
+        "height": 33
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-026",
+      "lineNumber": 26,
+      "text": "Mango, jackfruit and banana",
+      "bbox": {
+        "x": 281,
+        "y": 1105,
+        "width": 307,
+        "height": 24
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-027",
+      "lineNumber": 27,
+      "text": "Pahcla Boishakh and Nabanna Utsab",
+      "bbox": {
+        "x": 281,
+        "y": 1137,
+        "width": 388,
+        "height": 18
+      },
+      "confidence": 87.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-029",
+      "lineNumber": 29,
+      "text": "Correct Answer- Most villagers in Bangladesh work as farmers, fishermen, or",
+      "bbox": {
+        "x": 125,
+        "y": 1226,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 95.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-030",
+      "lineNumber": 30,
+      "text": "craftsmen, not in factories.",
+      "bbox": {
+        "x": 125,
+        "y": 1258,
+        "width": 279,
+        "height": 21
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-032",
+      "lineNumber": 32,
+      "text": "Correct Answer- Many houses in villages have gardens with fruit trees like mango,",
+      "bbox": {
+        "x": 125,
+        "y": 1330,
+        "width": 907,
+        "height": 24
+      },
+      "confidence": 95.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-033",
+      "lineNumber": 33,
+      "text": "jackfruit and banana.",
+      "bbox": {
+        "x": 122,
+        "y": 1362,
+        "width": 228,
+        "height": 24
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Suggested Answers\nli) 5 o’clock\niii) Sankar\niv. They put it in plastic bins and leave them in front of their houses.\niii. Bulbul was sick for two days and could not collect the rubbish.\niii. All jobs are important.\nii. The whole area became dirty and unhygienic.\niv. He knows the area will turn into a big dustbin if he stops working.\nBulbul wakes up early in the morning to collect rubbish from the\nSankar area and keep it clean.\nThe people of Sankar suffered because piles of rubbish gathered in\nfront of their houses, making the area dirty and unhygienic.\nThe story teaches us that every job is important, and workers like\nBulbul play a crucial role in keeping the environment clean and healthy\nThey leave their rubbish in plastic bins in front of their houses.\nBulbul stopped working because he was sick.\nactive b) help\npractices) physical\nprosperity\npreserve\nunnecessary\nimproper\nFarmers, fishermen, and craftsmen\nThe air in villages is fresh\nRice, jute and vegetables\nMango, jackfruit and banana\nPahcla Boishakh and Nabanna Utsab\nTre b) False\nCorrect Answer- Most villagers in Bangladesh work as farmers, fishermen, or\ncraftsmen, not in factories.\nTrue d) False\nCorrect Answer- Many houses in villages have gardens with fruit trees like mango,\njackfruit and banana.",
+  "cleanText": "Suggested Answers\n5 o’clock\nSankar\nThey put it in plastic bins and leave them in front of their houses.\nBulbul was sick for two days and could not collect the rubbish.\nAll jobs are important.\nThe whole area became dirty and unhygienic.\nHe knows the area will turn into a big dustbin if he stops working.\nBulbul wakes up early in the morning to collect rubbish from the\nSankar area and keep it clean.\nThe people of Sankar suffered because piles of rubbish gathered in\nfront of their houses, making the area dirty and unhygienic.\nThe story teaches us that every job is important, and workers like\nBulbul play a crucial role in keeping the environment clean and healthy\nThey leave their rubbish in plastic bins in front of their houses.\nBulbul stopped working because he was sick.\nactive b) help\npractices) physical\nprosperity\npreserve\nunnecessary\nimproper\nFarmers, fishermen, and craftsmen\nThe air in villages is fresh\nRice, jute and vegetables\nMango, jackfruit and banana\nPahcla Boishakh and Nabanna Utsab\nTre b) False\nCorrect Answer- Most villagers in Bangladesh work as farmers, fishermen, or\ncraftsmen, not in factories.\nTrue d) False\nCorrect Answer- Many houses in villages have gardens with fruit trees like mango,\njackfruit and banana.",
+  "aiReadyText": "Suggested Answers\nThey put it in plastic bins and leave them in front of their houses.\nBulbul was sick for two days and could not collect the rubbish.\nAll jobs are important.\nThe whole area became dirty and unhygienic.\nHe knows the area will turn into a big dustbin if he stops working.\nBulbul wakes up early in the morning to collect rubbish from the\nSankar area and keep it clean.\nThe people of Sankar suffered because piles of rubbish gathered in\nfront of their houses, making the area dirty and unhygienic.\nThe story teaches us that every job is important, and workers like\nBulbul play a crucial role in keeping the environment clean and healthy\nThey leave their rubbish in plastic bins in front of their houses.\nBulbul stopped working because he was sick.\nactive b) help\nFarmers, fishermen, and craftsmen\nThe air in villages is fresh\nRice, jute and vegetables\nMango, jackfruit and banana\nPahcla Boishakh and Nabanna Utsab\nCorrect Answer- Most villagers in Bangladesh work as farmers, fishermen, or\ncraftsmen, not in factories.\nCorrect Answer- Many houses in villages have gardens with fruit trees like mango,\njackfruit and banana."
+}

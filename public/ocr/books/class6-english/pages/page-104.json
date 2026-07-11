@@ -1,0 +1,295 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 104,
+  "image": "/ocr/books/class6-english/page-images/page-104.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 99",
+      "cleanText": "English For Today 99",
+      "bbox": {
+        "x": 123,
+        "y": 79,
+        "width": 906,
+        "height": 28
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "“And now you will have a nice garden,",
+      "cleanText": "“And now you will have a nice garden,",
+      "bbox": {
+        "x": 199,
+        "y": 470,
+        "width": 441,
+        "height": 25
+      },
+      "confidence": 93.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "too,” said Frog.",
+      "cleanText": "too,” said Frog.",
+      "bbox": {
+        "x": 197,
+        "y": 509,
+        "width": 175,
+        "height": 26
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "\"Yes,\" said Toad, \"but you were right, Frog. It was very hard work.\"",
+      "cleanText": "\"Yes,\" said Toad, \"but you were right, Frog. It was very hard work.\"",
+      "bbox": {
+        "x": 199,
+        "y": 957,
+        "width": 778,
+        "height": 26
+      },
+      "confidence": 93.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Al, Choose the right answer.",
+      "cleanText": "Al, Choose the right answer.",
+      "bbox": {
+        "x": 122,
+        "y": 1073,
+        "width": 383,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "The first thing Toad did was he ------------",
+      "cleanText": "The first thing Toad did was he ------------",
+      "bbox": {
+        "x": 197,
+        "y": 1151,
+        "width": 475,
+        "height": 25
+      },
+      "confidence": 94.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "a. watered the seeds",
+      "cleanText": "watered the seeds",
+      "bbox": {
+        "x": 198,
+        "y": 1232,
+        "width": 253,
+        "height": 20
+      },
+      "confidence": 79.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "b. kept the seeds in the sun",
+      "cleanText": "kept the seeds in the sun",
+      "bbox": {
+        "x": 197,
+        "y": 1276,
+        "width": 330,
+        "height": 26
+      },
+      "confidence": 88.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "c. planted the seeds",
+      "cleanText": "planted the seeds",
+      "bbox": {
+        "x": 197,
+        "y": 1320,
+        "width": 248,
+        "height": 26
+      },
+      "confidence": 90.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "d. put the seeds in a box",
+      "cleanText": "put the seeds in a box",
+      "bbox": {
+        "x": 197,
+        "y": 1364,
+        "width": 299,
+        "height": 26
+      },
+      "confidence": 86.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-010",
+      "lineNumber": 10
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-104-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 99",
+      "bbox": {
+        "x": 123,
+        "y": 79,
+        "width": 906,
+        "height": 28
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-002",
+      "lineNumber": 2,
+      "text": "“And now you will have a nice garden,",
+      "bbox": {
+        "x": 199,
+        "y": 470,
+        "width": 441,
+        "height": 25
+      },
+      "confidence": 93.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-003",
+      "lineNumber": 3,
+      "text": "too,” said Frog.",
+      "bbox": {
+        "x": 197,
+        "y": 509,
+        "width": 175,
+        "height": 26
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-004",
+      "lineNumber": 4,
+      "text": "\"Yes,\" said Toad, \"but you were right, Frog. It was very hard work.\"",
+      "bbox": {
+        "x": 199,
+        "y": 957,
+        "width": 778,
+        "height": 26
+      },
+      "confidence": 93.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-005",
+      "lineNumber": 5,
+      "text": "Al, Choose the right answer.",
+      "bbox": {
+        "x": 122,
+        "y": 1073,
+        "width": 383,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-006",
+      "lineNumber": 6,
+      "text": "The first thing Toad did was he ------------",
+      "bbox": {
+        "x": 197,
+        "y": 1151,
+        "width": 475,
+        "height": 25
+      },
+      "confidence": 94.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-007",
+      "lineNumber": 7,
+      "text": "watered the seeds",
+      "bbox": {
+        "x": 198,
+        "y": 1232,
+        "width": 253,
+        "height": 20
+      },
+      "confidence": 79.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-008",
+      "lineNumber": 8,
+      "text": "kept the seeds in the sun",
+      "bbox": {
+        "x": 197,
+        "y": 1276,
+        "width": 330,
+        "height": 26
+      },
+      "confidence": 88.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-009",
+      "lineNumber": 9,
+      "text": "planted the seeds",
+      "bbox": {
+        "x": 197,
+        "y": 1320,
+        "width": 248,
+        "height": 26
+      },
+      "confidence": 90.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-010",
+      "lineNumber": 10,
+      "text": "put the seeds in a box",
+      "bbox": {
+        "x": 197,
+        "y": 1364,
+        "width": 299,
+        "height": 26
+      },
+      "confidence": 86.86,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 99\n“And now you will have a nice garden,\ntoo,” said Frog.\n\"Yes,\" said Toad, \"but you were right, Frog. It was very hard work.\"\nAl, Choose the right answer.\nThe first thing Toad did was he ------------\na. watered the seeds\nb. kept the seeds in the sun\nc. planted the seeds\nd. put the seeds in a box",
+  "cleanText": "English For Today 99\n“And now you will have a nice garden,\ntoo,” said Frog.\n\"Yes,\" said Toad, \"but you were right, Frog. It was very hard work.\"\nAl, Choose the right answer.\nThe first thing Toad did was he ------------\nwatered the seeds\nkept the seeds in the sun\nplanted the seeds\nput the seeds in a box",
+  "aiReadyText": "English For Today 99\n“And now you will have a nice garden,\ntoo,” said Frog.\n\"Yes,\" said Toad, \"but you were right, Frog. It was very hard work.\"\nAl, Choose the right answer.\nThe first thing Toad did was he ------------\nwatered the seeds\nkept the seeds in the sun\nplanted the seeds\nput the seeds in a box"
+}

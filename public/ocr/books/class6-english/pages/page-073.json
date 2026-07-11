@@ -1,0 +1,605 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 73,
+  "image": "/ocr/books/class6-english/page-images/page-073.png",
+  "width": 1149,
+  "height": 1507,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 23 We Live in a Global Village",
+      "cleanText": "Lesson 23 We Live in a Global Village",
+      "bbox": {
+        "x": 176,
+        "y": 186,
+        "width": 806,
+        "height": 38
+      },
+      "confidence": 88.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 166,
+        "y": 264,
+        "width": 569,
+        "height": 24
+      },
+      "confidence": 96.11,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-073-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "e read and understand the texts",
+      "cleanText": "e read and understand the texts",
+      "bbox": {
+        "x": 187,
+        "y": 296,
+        "width": 324,
+        "height": 18
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "¢ follow instructions, commands, request and act accordingly",
+      "cleanText": "¢ follow instructions, commands, request and act accordingly",
+      "bbox": {
+        "x": 187,
+        "y": 326,
+        "width": 644,
+        "height": 24
+      },
+      "confidence": 90.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "© understand and enjoy stories and poems",
+      "cleanText": "© understand and enjoy stories and poems",
+      "bbox": {
+        "x": 187,
+        "y": 357,
+        "width": 437,
+        "height": 24
+      },
+      "confidence": 91.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "A, Look at the pictures and discuss with your partner what you see in",
+      "cleanText": "A, Look at the pictures and discuss with your partner what you see in",
+      "bbox": {
+        "x": 110,
+        "y": 403,
+        "width": 916,
+        "height": 27
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": ". Sohan has received a letter from his uncle, who is a captain in",
+      "cleanText": ". Sohan has received a letter from his uncle, who is a captain in",
+      "bbox": {
+        "x": 134,
+        "y": 720,
+        "width": 898,
+        "height": 27
+      },
+      "confidence": 91.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "the Bangladesh Army. At present, he is in Congo on a US",
+      "cleanText": "the Bangladesh Army. At present, he is in Congo on a US",
+      "bbox": {
+        "x": 159,
+        "y": 757,
+        "width": 874,
+        "height": 27
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Peacekeeping Mission. Read his letter and do the activities that",
+      "cleanText": "Peacekeeping Mission. Read his letter and do the activities that",
+      "bbox": {
+        "x": 160,
+        "y": 794,
+        "width": 874,
+        "height": 27
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Dear Sohan,",
+      "cleanText": "Dear Sohan,",
+      "bbox": {
+        "x": 165,
+        "y": 883,
+        "width": 138,
+        "height": 24
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-073-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "| hope you are doing well and focusing on your studies. | received your letter",
+      "cleanText": "| hope you are doing well and focusing on your studies. | received your letter",
+      "bbox": {
+        "x": 166,
+        "y": 921,
+        "width": 869,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "last week, but did not have the time to write back. Things are really busy here",
+      "cleanText": "last week, but did not have the time to write back. Things are really busy here",
+      "bbox": {
+        "x": 165,
+        "y": 958,
+        "width": 869,
+        "height": 26
+      },
+      "confidence": 96.06,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "in Congo. I am glad to know that you read up about this country. You’re",
+      "cleanText": "in Congo. I am glad to know that you read up about this country. You’re",
+      "bbox": {
+        "x": 165,
+        "y": 995,
+        "width": 869,
+        "height": 26
+      },
+      "confidence": 93.87,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "right— Congo is a country in Central Africa. It is rich in natural resources and",
+      "cleanText": "right— Congo is a country in Central Africa. It is rich in natural resources and",
+      "bbox": {
+        "x": 164,
+        "y": 1033,
+        "width": 871,
+        "height": 26
+      },
+      "confidence": 94.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "its people are incredible. However, there are several regions in this country",
+      "cleanText": "its people are incredible. However, there are several regions in this country",
+      "bbox": {
+        "x": 165,
+        "y": 1070,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "which face problems like political and ethnic conflict, often resulting in",
+      "cleanText": "which face problems like political and ethnic conflict, often resulting in",
+      "bbox": {
+        "x": 164,
+        "y": 1108,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "violent incidents. We try to maintain peace and security in those areas. We",
+      "cleanText": "violent incidents. We try to maintain peace and security in those areas. We",
+      "bbox": {
+        "x": 164,
+        "y": 1145,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "distribute food, water and medicine to people, and sometimes even build",
+      "cleanText": "distribute food, water and medicine to people, and sometimes even build",
+      "bbox": {
+        "x": 164,
+        "y": 1182,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "houses for them. We also teach children in small schools.",
+      "cleanText": "houses for them. We also teach children in small schools.",
+      "bbox": {
+        "x": 164,
+        "y": 1220,
+        "width": 652,
+        "height": 20
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Enough about the work I do here. Today, I’d like to tell you about an",
+      "cleanText": "Enough about the work I do here. Today, I’d like to tell you about an",
+      "bbox": {
+        "x": 165,
+        "y": 1301,
+        "width": 869,
+        "height": 26
+      },
+      "confidence": 94.53,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "interesting young man I met here. His name is Ashar Santoso. He was born",
+      "cleanText": "interesting young man I met here. His name is Ashar Santoso. He was born",
+      "bbox": {
+        "x": 165,
+        "y": 1339,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 94.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "in Indonesia. When he was eight, he moved to Singapore with his parents and",
+      "cleanText": "in Indonesia. When he was eight, he moved to Singapore with his parents and",
+      "bbox": {
+        "x": 165,
+        "y": 1376,
+        "width": 869,
+        "height": 26
+      },
+      "confidence": 96.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-022",
+      "lineNumber": 22
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-073-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 23 We Live in a Global Village",
+      "bbox": {
+        "x": 176,
+        "y": 186,
+        "width": 806,
+        "height": 38
+      },
+      "confidence": 88.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-003",
+      "lineNumber": 3,
+      "text": "e read and understand the texts",
+      "bbox": {
+        "x": 187,
+        "y": 296,
+        "width": 324,
+        "height": 18
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-004",
+      "lineNumber": 4,
+      "text": "¢ follow instructions, commands, request and act accordingly",
+      "bbox": {
+        "x": 187,
+        "y": 326,
+        "width": 644,
+        "height": 24
+      },
+      "confidence": 90.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-005",
+      "lineNumber": 5,
+      "text": "© understand and enjoy stories and poems",
+      "bbox": {
+        "x": 187,
+        "y": 357,
+        "width": 437,
+        "height": 24
+      },
+      "confidence": 91.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-006",
+      "lineNumber": 6,
+      "text": "A, Look at the pictures and discuss with your partner what you see in",
+      "bbox": {
+        "x": 110,
+        "y": 403,
+        "width": 916,
+        "height": 27
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-007",
+      "lineNumber": 7,
+      "text": ". Sohan has received a letter from his uncle, who is a captain in",
+      "bbox": {
+        "x": 134,
+        "y": 720,
+        "width": 898,
+        "height": 27
+      },
+      "confidence": 91.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-008",
+      "lineNumber": 8,
+      "text": "the Bangladesh Army. At present, he is in Congo on a US",
+      "bbox": {
+        "x": 159,
+        "y": 757,
+        "width": 874,
+        "height": 27
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-009",
+      "lineNumber": 9,
+      "text": "Peacekeeping Mission. Read his letter and do the activities that",
+      "bbox": {
+        "x": 160,
+        "y": 794,
+        "width": 874,
+        "height": 27
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-011",
+      "lineNumber": 11,
+      "text": "| hope you are doing well and focusing on your studies. | received your letter",
+      "bbox": {
+        "x": 166,
+        "y": 921,
+        "width": 869,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-012",
+      "lineNumber": 12,
+      "text": "last week, but did not have the time to write back. Things are really busy here",
+      "bbox": {
+        "x": 165,
+        "y": 958,
+        "width": 869,
+        "height": 26
+      },
+      "confidence": 96.06,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-013",
+      "lineNumber": 13,
+      "text": "in Congo. I am glad to know that you read up about this country. You’re",
+      "bbox": {
+        "x": 165,
+        "y": 995,
+        "width": 869,
+        "height": 26
+      },
+      "confidence": 93.87,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-014",
+      "lineNumber": 14,
+      "text": "right— Congo is a country in Central Africa. It is rich in natural resources and",
+      "bbox": {
+        "x": 164,
+        "y": 1033,
+        "width": 871,
+        "height": 26
+      },
+      "confidence": 94.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-015",
+      "lineNumber": 15,
+      "text": "its people are incredible. However, there are several regions in this country",
+      "bbox": {
+        "x": 165,
+        "y": 1070,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-016",
+      "lineNumber": 16,
+      "text": "which face problems like political and ethnic conflict, often resulting in",
+      "bbox": {
+        "x": 164,
+        "y": 1108,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-017",
+      "lineNumber": 17,
+      "text": "violent incidents. We try to maintain peace and security in those areas. We",
+      "bbox": {
+        "x": 164,
+        "y": 1145,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-018",
+      "lineNumber": 18,
+      "text": "distribute food, water and medicine to people, and sometimes even build",
+      "bbox": {
+        "x": 164,
+        "y": 1182,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-019",
+      "lineNumber": 19,
+      "text": "houses for them. We also teach children in small schools.",
+      "bbox": {
+        "x": 164,
+        "y": 1220,
+        "width": 652,
+        "height": 20
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-020",
+      "lineNumber": 20,
+      "text": "Enough about the work I do here. Today, I’d like to tell you about an",
+      "bbox": {
+        "x": 165,
+        "y": 1301,
+        "width": 869,
+        "height": 26
+      },
+      "confidence": 94.53,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-021",
+      "lineNumber": 21,
+      "text": "interesting young man I met here. His name is Ashar Santoso. He was born",
+      "bbox": {
+        "x": 165,
+        "y": 1339,
+        "width": 870,
+        "height": 26
+      },
+      "confidence": 94.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-022",
+      "lineNumber": 22,
+      "text": "in Indonesia. When he was eight, he moved to Singapore with his parents and",
+      "bbox": {
+        "x": 165,
+        "y": 1376,
+        "width": 869,
+        "height": 26
+      },
+      "confidence": 96.07,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 23 We Live in a Global Village\nAfter completing the lesson students will be able to\ne read and understand the texts\n¢ follow instructions, commands, request and act accordingly\n© understand and enjoy stories and poems\nA, Look at the pictures and discuss with your partner what you see in\n. Sohan has received a letter from his uncle, who is a captain in\nthe Bangladesh Army. At present, he is in Congo on a US\nPeacekeeping Mission. Read his letter and do the activities that\nDear Sohan,\n| hope you are doing well and focusing on your studies. | received your letter\nlast week, but did not have the time to write back. Things are really busy here\nin Congo. I am glad to know that you read up about this country. You’re\nright— Congo is a country in Central Africa. It is rich in natural resources and\nits people are incredible. However, there are several regions in this country\nwhich face problems like political and ethnic conflict, often resulting in\nviolent incidents. We try to maintain peace and security in those areas. We\ndistribute food, water and medicine to people, and sometimes even build\nhouses for them. We also teach children in small schools.\nEnough about the work I do here. Today, I’d like to tell you about an\ninteresting young man I met here. His name is Ashar Santoso. He was born\nin Indonesia. When he was eight, he moved to Singapore with his parents and",
+  "cleanText": "Lesson 23 We Live in a Global Village\nAfter completing the lesson students will be able to\ne read and understand the texts\n¢ follow instructions, commands, request and act accordingly\n© understand and enjoy stories and poems\nA, Look at the pictures and discuss with your partner what you see in\n. Sohan has received a letter from his uncle, who is a captain in\nthe Bangladesh Army. At present, he is in Congo on a US\nPeacekeeping Mission. Read his letter and do the activities that\nDear Sohan,\n| hope you are doing well and focusing on your studies. | received your letter\nlast week, but did not have the time to write back. Things are really busy here\nin Congo. I am glad to know that you read up about this country. You’re\nright— Congo is a country in Central Africa. It is rich in natural resources and\nits people are incredible. However, there are several regions in this country\nwhich face problems like political and ethnic conflict, often resulting in\nviolent incidents. We try to maintain peace and security in those areas. We\ndistribute food, water and medicine to people, and sometimes even build\nhouses for them. We also teach children in small schools.\nEnough about the work I do here. Today, I’d like to tell you about an\ninteresting young man I met here. His name is Ashar Santoso. He was born\nin Indonesia. When he was eight, he moved to Singapore with his parents and",
+  "aiReadyText": "Lesson 23 We Live in a Global Village\ne read and understand the texts\n¢ follow instructions, commands, request and act accordingly\n© understand and enjoy stories and poems\nA, Look at the pictures and discuss with your partner what you see in\n. Sohan has received a letter from his uncle, who is a captain in\nthe Bangladesh Army. At present, he is in Congo on a US\nPeacekeeping Mission. Read his letter and do the activities that\n| hope you are doing well and focusing on your studies. | received your letter\nlast week, but did not have the time to write back. Things are really busy here\nin Congo. I am glad to know that you read up about this country. You’re\nright— Congo is a country in Central Africa. It is rich in natural resources and\nits people are incredible. However, there are several regions in this country\nwhich face problems like political and ethnic conflict, often resulting in\nviolent incidents. We try to maintain peace and security in those areas. We\ndistribute food, water and medicine to people, and sometimes even build\nhouses for them. We also teach children in small schools.\nEnough about the work I do here. Today, I’d like to tell you about an\ninteresting young man I met here. His name is Ashar Santoso. He was born\nin Indonesia. When he was eight, he moved to Singapore with his parents and"
+}

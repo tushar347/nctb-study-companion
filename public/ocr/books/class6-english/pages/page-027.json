@@ -1,0 +1,355 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 27,
+  "image": "/ocr/books/class6-english/page-images/page-027.png",
+  "width": 1169,
+  "height": 1521,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": ": There are only three eggs. Maybe I'll buy a dozen more?",
+      "cleanText": ": There are only three eggs. Maybe I'll buy a dozen more?",
+      "bbox": {
+        "x": 293,
+        "y": 159,
+        "width": 661,
+        "height": 26
+      },
+      "confidence": 94.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": ": Humm..... oh, yes.... get some sugar and milk and one litre of oil,",
+      "cleanText": ": Humm..... oh, yes.... get some sugar and milk and one litre of oil,",
+      "bbox": {
+        "x": 293,
+        "y": 203,
+        "width": 761,
+        "height": 25
+      },
+      "confidence": 91.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": ": OK. One litre of milk and.... one kg. of sugar.",
+      "cleanText": ": OK. One litre of milk and.... one kg. of sugar.",
+      "bbox": {
+        "x": 293,
+        "y": 271,
+        "width": 532,
+        "height": 34
+      },
+      "confidence": 92.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": ": One more thing, dear. You are forgetting your list! Here it is.",
+      "cleanText": ": One more thing, dear. You are forgetting your list! Here it is.",
+      "bbox": {
+        "x": 293,
+        "y": 319,
+        "width": 702,
+        "height": 26
+      },
+      "confidence": 95.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": ": Oh! Thanks, Maa.",
+      "cleanText": ": Oh! Thanks, Maa.",
+      "bbox": {
+        "x": 293,
+        "y": 364,
+        "width": 218,
+        "height": 22
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "You have read the conversation above. Now, put a tick mark",
+      "cleanText": "You have read the conversation above. Now, put a tick mark",
+      "bbox": {
+        "x": 197,
+        "y": 425,
+        "width": 799,
+        "height": 29
+      },
+      "confidence": 95.09,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "against the items that Imran will buy and put a cross mark (X)",
+      "cleanText": "against the items that Imran will buy and put a cross mark (X)",
+      "bbox": {
+        "x": 199,
+        "y": 469,
+        "width": 851,
+        "height": 27
+      },
+      "confidence": 94.15,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "against the items he won’t. Write the quantity of the items in",
+      "cleanText": "against the items he won’t. Write the quantity of the items in",
+      "bbox": {
+        "x": 198,
+        "y": 514,
+        "width": 851,
+        "height": 26
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "the last column, (The first one is done for you.)",
+      "cleanText": "the last column, (The first one is done for you.)",
+      "bbox": {
+        "x": 198,
+        "y": 557,
+        "width": 613,
+        "height": 27
+      },
+      "confidence": 94.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Items Wx Quantity",
+      "cleanText": "Items Wx Quantity",
+      "bbox": {
+        "x": 441,
+        "y": 622,
+        "width": 579,
+        "height": 33
+      },
+      "confidence": 84.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Potatoes v",
+      "cleanText": "Potatoes v",
+      "bbox": {
+        "x": 320,
+        "y": 676,
+        "width": 458,
+        "height": 34
+      },
+      "confidence": 69.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-027-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Tomatoes",
+      "cleanText": "Tomatoes",
+      "bbox": {
+        "x": 319,
+        "y": 730,
+        "width": 109,
+        "height": 19
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-027-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Eggplants",
+      "cleanText": "Eggplants",
+      "bbox": {
+        "x": 320,
+        "y": 927,
+        "width": 112,
+        "height": 26
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-027-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Cucumber",
+      "cleanText": "Cucumber",
+      "bbox": {
+        "x": 320,
+        "y": 1286,
+        "width": 118,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-027-line-014",
+      "lineNumber": 14
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-027-line-001",
+      "lineNumber": 1,
+      "text": ": There are only three eggs. Maybe I'll buy a dozen more?",
+      "bbox": {
+        "x": 293,
+        "y": 159,
+        "width": 661,
+        "height": 26
+      },
+      "confidence": 94.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-002",
+      "lineNumber": 2,
+      "text": ": Humm..... oh, yes.... get some sugar and milk and one litre of oil,",
+      "bbox": {
+        "x": 293,
+        "y": 203,
+        "width": 761,
+        "height": 25
+      },
+      "confidence": 91.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-003",
+      "lineNumber": 3,
+      "text": ": OK. One litre of milk and.... one kg. of sugar.",
+      "bbox": {
+        "x": 293,
+        "y": 271,
+        "width": 532,
+        "height": 34
+      },
+      "confidence": 92.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-004",
+      "lineNumber": 4,
+      "text": ": One more thing, dear. You are forgetting your list! Here it is.",
+      "bbox": {
+        "x": 293,
+        "y": 319,
+        "width": 702,
+        "height": 26
+      },
+      "confidence": 95.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-005",
+      "lineNumber": 5,
+      "text": ": Oh! Thanks, Maa.",
+      "bbox": {
+        "x": 293,
+        "y": 364,
+        "width": 218,
+        "height": 22
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-006",
+      "lineNumber": 6,
+      "text": "You have read the conversation above. Now, put a tick mark",
+      "bbox": {
+        "x": 197,
+        "y": 425,
+        "width": 799,
+        "height": 29
+      },
+      "confidence": 95.09,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-007",
+      "lineNumber": 7,
+      "text": "against the items that Imran will buy and put a cross mark (X)",
+      "bbox": {
+        "x": 199,
+        "y": 469,
+        "width": 851,
+        "height": 27
+      },
+      "confidence": 94.15,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-008",
+      "lineNumber": 8,
+      "text": "against the items he won’t. Write the quantity of the items in",
+      "bbox": {
+        "x": 198,
+        "y": 514,
+        "width": 851,
+        "height": 26
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-009",
+      "lineNumber": 9,
+      "text": "the last column, (The first one is done for you.)",
+      "bbox": {
+        "x": 198,
+        "y": 557,
+        "width": 613,
+        "height": 27
+      },
+      "confidence": 94.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-010",
+      "lineNumber": 10,
+      "text": "Items Wx Quantity",
+      "bbox": {
+        "x": 441,
+        "y": 622,
+        "width": 579,
+        "height": 33
+      },
+      "confidence": 84.33,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": ": There are only three eggs. Maybe I'll buy a dozen more?\n: Humm..... oh, yes.... get some sugar and milk and one litre of oil,\n: OK. One litre of milk and.... one kg. of sugar.\n: One more thing, dear. You are forgetting your list! Here it is.\n: Oh! Thanks, Maa.\nYou have read the conversation above. Now, put a tick mark\nagainst the items that Imran will buy and put a cross mark (X)\nagainst the items he won’t. Write the quantity of the items in\nthe last column, (The first one is done for you.)\nItems Wx Quantity\nPotatoes v\nTomatoes\nEggplants\nCucumber",
+  "cleanText": ": There are only three eggs. Maybe I'll buy a dozen more?\n: Humm..... oh, yes.... get some sugar and milk and one litre of oil,\n: OK. One litre of milk and.... one kg. of sugar.\n: One more thing, dear. You are forgetting your list! Here it is.\n: Oh! Thanks, Maa.\nYou have read the conversation above. Now, put a tick mark\nagainst the items that Imran will buy and put a cross mark (X)\nagainst the items he won’t. Write the quantity of the items in\nthe last column, (The first one is done for you.)\nItems Wx Quantity\nPotatoes v\nTomatoes\nEggplants\nCucumber",
+  "aiReadyText": ": There are only three eggs. Maybe I'll buy a dozen more?\n: Humm..... oh, yes.... get some sugar and milk and one litre of oil,\n: OK. One litre of milk and.... one kg. of sugar.\n: One more thing, dear. You are forgetting your list! Here it is.\n: Oh! Thanks, Maa.\nYou have read the conversation above. Now, put a tick mark\nagainst the items that Imran will buy and put a cross mark (X)\nagainst the items he won’t. Write the quantity of the items in\nthe last column, (The first one is done for you.)\nItems Wx Quantity"
+}

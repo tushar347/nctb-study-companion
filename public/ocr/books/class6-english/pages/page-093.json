@@ -1,0 +1,719 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 93,
+  "image": "/ocr/books/class6-english/page-images/page-093.png",
+  "width": 1149,
+  "height": 1514,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 30 What Should WeDo?",
+      "cleanText": "Lesson 30 What Should WeDo?",
+      "bbox": {
+        "x": 254,
+        "y": 193,
+        "width": 658,
+        "height": 31
+      },
+      "confidence": 85.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 187,
+        "y": 278,
+        "width": 569,
+        "height": 23
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-093-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "¢rcad and understand texts",
+      "cleanText": "¢rcad and understand texts",
+      "bbox": {
+        "x": 207,
+        "y": 309,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 85.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "«read and understand written instructions",
+      "cleanText": "«read and understand written instructions",
+      "bbox": {
+        "x": 207,
+        "y": 340,
+        "width": 440,
+        "height": 18
+      },
+      "confidence": 84.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "write questions and answers",
+      "cleanText": "write questions and answers",
+      "bbox": {
+        "x": 226,
+        "y": 370,
+        "width": 295,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "© write short paragraphs",
+      "cleanText": "© write short paragraphs",
+      "bbox": {
+        "x": 207,
+        "y": 401,
+        "width": 253,
+        "height": 24
+      },
+      "confidence": 83.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Read the following dialogue:",
+      "cleanText": "Read the following dialogue:",
+      "bbox": {
+        "x": 181,
+        "y": 440,
+        "width": 359,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-093-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Bahar, Azim, Joseph and Shujan are classmates, They are planning a",
+      "cleanText": "Bahar, Azim, Joseph and Shujan are classmates, They are planning a",
+      "bbox": {
+        "x": 186,
+        "y": 490,
+        "width": 848,
+        "height": 26
+      },
+      "confidence": 94.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "vacation.",
+      "cleanText": "vacation.",
+      "bbox": {
+        "x": 186,
+        "y": 524,
+        "width": 101,
+        "height": 20
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-093-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Bahar We have a week's vacation next week.",
+      "cleanText": "Bahar We have a week's vacation next week.",
+      "bbox": {
+        "x": 186,
+        "y": 585,
+        "width": 560,
+        "height": 19
+      },
+      "confidence": 95.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "What should we do?",
+      "cleanText": "What should we do?",
+      "bbox": {
+        "x": 306,
+        "y": 622,
+        "width": 233,
+        "height": 20
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Azim Let's go somewhere we haven't been before.",
+      "cleanText": "Azim Let's go somewhere we haven't been before.",
+      "bbox": {
+        "x": 186,
+        "y": 659,
+        "width": 629,
+        "height": 26
+      },
+      "confidence": 94.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Joseph Right! T saw an ad for an interesting place.",
+      "cleanText": "Joseph Right! T saw an ad for an interesting place.",
+      "bbox": {
+        "x": 185,
+        "y": 697,
+        "width": 613,
+        "height": 25
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Hmm... well, here it is!",
+      "cleanText": "Hmm... well, here it is!",
+      "bbox": {
+        "x": 309,
+        "y": 734,
+        "width": 267,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Bahar Let me see! Ah! A two day trip to Kuakata!",
+      "cleanText": "Bahar Let me see! Ah! A two day trip to Kuakata!",
+      "bbox": {
+        "x": 186,
+        "y": 772,
+        "width": 620,
+        "height": 25
+      },
+      "confidence": 95.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "That sounds interesting! Look at the picture of",
+      "cleanText": "That sounds interesting! Look at the picture of",
+      "bbox": {
+        "x": 307,
+        "y": 809,
+        "width": 532,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "the sea- beach and the sunrise! It looks fantastic!",
+      "cleanText": "the sea- beach and the sunrise! It looks fantastic!",
+      "bbox": {
+        "x": 307,
+        "y": 846,
+        "width": 558,
+        "height": 20
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Azim Well, I've always wanted to climb a mountain.",
+      "cleanText": "Azim Well, I've always wanted to climb a mountain.",
+      "bbox": {
+        "x": 186,
+        "y": 884,
+        "width": 653,
+        "height": 25
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Why don’t we go to the Chimbuk Mountains",
+      "cleanText": "Why don’t we go to the Chimbuk Mountains",
+      "bbox": {
+        "x": 307,
+        "y": 921,
+        "width": 506,
+        "height": 26
+      },
+      "confidence": 93.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "in Bandarban?",
+      "cleanText": "in Bandarban?",
+      "bbox": {
+        "x": 308,
+        "y": 959,
+        "width": 164,
+        "height": 19
+      },
+      "confidence": 91.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-093-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Shujan an idea! How about going to the Sunderbans?",
+      "cleanText": "Shujan an idea! How about going to the Sunderbans?",
+      "bbox": {
+        "x": 186,
+        "y": 996,
+        "width": 696,
+        "height": 26
+      },
+      "confidence": 89.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "We can see some wild animals and can also",
+      "cleanText": "We can see some wild animals and can also",
+      "bbox": {
+        "x": 307,
+        "y": 1033,
+        "width": 496,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "take pictures of the forests and the sea.",
+      "cleanText": "take pictures of the forests and the sea.",
+      "bbox": {
+        "x": 308,
+        "y": 1071,
+        "width": 439,
+        "height": 25
+      },
+      "confidence": 96.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Bahar Well... well... calm down everybody!",
+      "cleanText": "Bahar Well... well... calm down everybody!",
+      "bbox": {
+        "x": 187,
+        "y": 1104,
+        "width": 559,
+        "height": 35
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "We can't go to all the places and do all",
+      "cleanText": "We can't go to all the places and do all",
+      "bbox": {
+        "x": 306,
+        "y": 1146,
+        "width": 437,
+        "height": 25
+      },
+      "confidence": 93.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "the things at a time, right?",
+      "cleanText": "the things at a time, right?",
+      "bbox": {
+        "x": 308,
+        "y": 1183,
+        "width": 296,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Joseph — Yeah. Let's think about all the options and then decide.",
+      "cleanText": "Joseph — Yeah. Let's think about all the options and then decide.",
+      "bbox": {
+        "x": 186,
+        "y": 1223,
+        "width": 749,
+        "height": 35
+      },
+      "confidence": 88.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-027",
+      "lineNumber": 27
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-093-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 30 What Should WeDo?",
+      "bbox": {
+        "x": 254,
+        "y": 193,
+        "width": 658,
+        "height": 31
+      },
+      "confidence": 85.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-003",
+      "lineNumber": 3,
+      "text": "¢rcad and understand texts",
+      "bbox": {
+        "x": 207,
+        "y": 309,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 85.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-004",
+      "lineNumber": 4,
+      "text": "«read and understand written instructions",
+      "bbox": {
+        "x": 207,
+        "y": 340,
+        "width": 440,
+        "height": 18
+      },
+      "confidence": 84.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-005",
+      "lineNumber": 5,
+      "text": "write questions and answers",
+      "bbox": {
+        "x": 226,
+        "y": 370,
+        "width": 295,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-006",
+      "lineNumber": 6,
+      "text": "© write short paragraphs",
+      "bbox": {
+        "x": 207,
+        "y": 401,
+        "width": 253,
+        "height": 24
+      },
+      "confidence": 83.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-008",
+      "lineNumber": 8,
+      "text": "Bahar, Azim, Joseph and Shujan are classmates, They are planning a",
+      "bbox": {
+        "x": 186,
+        "y": 490,
+        "width": 848,
+        "height": 26
+      },
+      "confidence": 94.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-010",
+      "lineNumber": 10,
+      "text": "Bahar We have a week's vacation next week.",
+      "bbox": {
+        "x": 186,
+        "y": 585,
+        "width": 560,
+        "height": 19
+      },
+      "confidence": 95.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-011",
+      "lineNumber": 11,
+      "text": "What should we do?",
+      "bbox": {
+        "x": 306,
+        "y": 622,
+        "width": 233,
+        "height": 20
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-012",
+      "lineNumber": 12,
+      "text": "Azim Let's go somewhere we haven't been before.",
+      "bbox": {
+        "x": 186,
+        "y": 659,
+        "width": 629,
+        "height": 26
+      },
+      "confidence": 94.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-013",
+      "lineNumber": 13,
+      "text": "Joseph Right! T saw an ad for an interesting place.",
+      "bbox": {
+        "x": 185,
+        "y": 697,
+        "width": 613,
+        "height": 25
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-014",
+      "lineNumber": 14,
+      "text": "Hmm... well, here it is!",
+      "bbox": {
+        "x": 309,
+        "y": 734,
+        "width": 267,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-015",
+      "lineNumber": 15,
+      "text": "Bahar Let me see! Ah! A two day trip to Kuakata!",
+      "bbox": {
+        "x": 186,
+        "y": 772,
+        "width": 620,
+        "height": 25
+      },
+      "confidence": 95.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-016",
+      "lineNumber": 16,
+      "text": "That sounds interesting! Look at the picture of",
+      "bbox": {
+        "x": 307,
+        "y": 809,
+        "width": 532,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-017",
+      "lineNumber": 17,
+      "text": "the sea- beach and the sunrise! It looks fantastic!",
+      "bbox": {
+        "x": 307,
+        "y": 846,
+        "width": 558,
+        "height": 20
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-018",
+      "lineNumber": 18,
+      "text": "Azim Well, I've always wanted to climb a mountain.",
+      "bbox": {
+        "x": 186,
+        "y": 884,
+        "width": 653,
+        "height": 25
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-019",
+      "lineNumber": 19,
+      "text": "Why don’t we go to the Chimbuk Mountains",
+      "bbox": {
+        "x": 307,
+        "y": 921,
+        "width": 506,
+        "height": 26
+      },
+      "confidence": 93.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-021",
+      "lineNumber": 21,
+      "text": "Shujan an idea! How about going to the Sunderbans?",
+      "bbox": {
+        "x": 186,
+        "y": 996,
+        "width": 696,
+        "height": 26
+      },
+      "confidence": 89.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-022",
+      "lineNumber": 22,
+      "text": "We can see some wild animals and can also",
+      "bbox": {
+        "x": 307,
+        "y": 1033,
+        "width": 496,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-023",
+      "lineNumber": 23,
+      "text": "take pictures of the forests and the sea.",
+      "bbox": {
+        "x": 308,
+        "y": 1071,
+        "width": 439,
+        "height": 25
+      },
+      "confidence": 96.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-024",
+      "lineNumber": 24,
+      "text": "Bahar Well... well... calm down everybody!",
+      "bbox": {
+        "x": 187,
+        "y": 1104,
+        "width": 559,
+        "height": 35
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-025",
+      "lineNumber": 25,
+      "text": "We can't go to all the places and do all",
+      "bbox": {
+        "x": 306,
+        "y": 1146,
+        "width": 437,
+        "height": 25
+      },
+      "confidence": 93.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-026",
+      "lineNumber": 26,
+      "text": "the things at a time, right?",
+      "bbox": {
+        "x": 308,
+        "y": 1183,
+        "width": 296,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-027",
+      "lineNumber": 27,
+      "text": "Joseph — Yeah. Let's think about all the options and then decide.",
+      "bbox": {
+        "x": 186,
+        "y": 1223,
+        "width": 749,
+        "height": 35
+      },
+      "confidence": 88.75,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 30 What Should WeDo?\nAfter completing the lesson students will be able to\n¢rcad and understand texts\n«read and understand written instructions\nwrite questions and answers\n© write short paragraphs\nRead the following dialogue:\nBahar, Azim, Joseph and Shujan are classmates, They are planning a\nvacation.\nBahar We have a week's vacation next week.\nWhat should we do?\nAzim Let's go somewhere we haven't been before.\nJoseph Right! T saw an ad for an interesting place.\nHmm... well, here it is!\nBahar Let me see! Ah! A two day trip to Kuakata!\nThat sounds interesting! Look at the picture of\nthe sea- beach and the sunrise! It looks fantastic!\nAzim Well, I've always wanted to climb a mountain.\nWhy don’t we go to the Chimbuk Mountains\nin Bandarban?\nShujan an idea! How about going to the Sunderbans?\nWe can see some wild animals and can also\ntake pictures of the forests and the sea.\nBahar Well... well... calm down everybody!\nWe can't go to all the places and do all\nthe things at a time, right?\nJoseph — Yeah. Let's think about all the options and then decide.",
+  "cleanText": "Lesson 30 What Should WeDo?\nAfter completing the lesson students will be able to\n¢rcad and understand texts\n«read and understand written instructions\nwrite questions and answers\n© write short paragraphs\nRead the following dialogue:\nBahar, Azim, Joseph and Shujan are classmates, They are planning a\nvacation.\nBahar We have a week's vacation next week.\nWhat should we do?\nAzim Let's go somewhere we haven't been before.\nJoseph Right! T saw an ad for an interesting place.\nHmm... well, here it is!\nBahar Let me see! Ah! A two day trip to Kuakata!\nThat sounds interesting! Look at the picture of\nthe sea- beach and the sunrise! It looks fantastic!\nAzim Well, I've always wanted to climb a mountain.\nWhy don’t we go to the Chimbuk Mountains\nin Bandarban?\nShujan an idea! How about going to the Sunderbans?\nWe can see some wild animals and can also\ntake pictures of the forests and the sea.\nBahar Well... well... calm down everybody!\nWe can't go to all the places and do all\nthe things at a time, right?\nJoseph — Yeah. Let's think about all the options and then decide.",
+  "aiReadyText": "Lesson 30 What Should WeDo?\n¢rcad and understand texts\n«read and understand written instructions\nwrite questions and answers\n© write short paragraphs\nBahar, Azim, Joseph and Shujan are classmates, They are planning a\nBahar We have a week's vacation next week.\nWhat should we do?\nAzim Let's go somewhere we haven't been before.\nJoseph Right! T saw an ad for an interesting place.\nHmm... well, here it is!\nBahar Let me see! Ah! A two day trip to Kuakata!\nThat sounds interesting! Look at the picture of\nthe sea- beach and the sunrise! It looks fantastic!\nAzim Well, I've always wanted to climb a mountain.\nWhy don’t we go to the Chimbuk Mountains\nShujan an idea! How about going to the Sunderbans?\nWe can see some wild animals and can also\ntake pictures of the forests and the sea.\nBahar Well... well... calm down everybody!\nWe can't go to all the places and do all\nthe things at a time, right?\nJoseph — Yeah. Let's think about all the options and then decide."
+}

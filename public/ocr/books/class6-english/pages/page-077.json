@@ -1,0 +1,693 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 77,
+  "image": "/ocr/books/class6-english/page-images/page-077.png",
+  "width": 1149,
+  "height": 1507,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "B1.Complete column B of the table below with information from the",
+      "cleanText": "B1.Complete column B of the table below with information from the",
+      "bbox": {
+        "x": 122,
+        "y": 146,
+        "width": 911,
+        "height": 35
+      },
+      "confidence": 92.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "text you have read.",
+      "cleanText": "text you have read.",
+      "bbox": {
+        "x": 168,
+        "y": 187,
+        "width": 247,
+        "height": 27
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Column A Column B",
+      "cleanText": "Column A Column B",
+      "bbox": {
+        "x": 348,
+        "y": 251,
+        "width": 549,
+        "height": 20
+      },
+      "confidence": 94.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Countries which prefer Bangladeshi",
+      "cleanText": "Countries which prefer Bangladeshi",
+      "bbox": {
+        "x": 210,
+        "y": 311,
+        "width": 409,
+        "height": 26
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Skills required for good jobs abroad",
+      "cleanText": "Skills required for good jobs abroad",
+      "bbox": {
+        "x": 211,
+        "y": 419,
+        "width": 410,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Advantages of developing language",
+      "cleanText": "Advantages of developing language",
+      "bbox": {
+        "x": 210,
+        "y": 497,
+        "width": 409,
+        "height": 26
+      },
+      "confidence": 96.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Advantages of getting better jobs",
+      "cleanText": "Advantages of getting better jobs",
+      "bbox": {
+        "x": 210,
+        "y": 606,
+        "width": 378,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Sohan had a conversation with a Bangladeshi doctor, Mr Arman",
+      "cleanText": "Sohan had a conversation with a Bangladeshi doctor, Mr Arman",
+      "bbox": {
+        "x": 197,
+        "y": 689,
+        "width": 829,
+        "height": 27
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "who works in a hospital in Cairo, Egypt. Read and practise the",
+      "cleanText": "who works in a hospital in Cairo, Egypt. Read and practise the",
+      "bbox": {
+        "x": 194,
+        "y": 729,
+        "width": 834,
+        "height": 27
+      },
+      "confidence": 95.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "dialogue in pairs.",
+      "cleanText": "dialogue in pairs.",
+      "bbox": {
+        "x": 200,
+        "y": 771,
+        "width": 221,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Can you tell me a little about Cairo?",
+      "cleanText": "Can you tell me a little about Cairo?",
+      "bbox": {
+        "x": 360,
+        "y": 828,
+        "width": 413,
+        "height": 26
+      },
+      "confidence": 91.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Sure. What would you like to know?",
+      "cleanText": "Sure. What would you like to know?",
+      "bbox": {
+        "x": 361,
+        "y": 877,
+        "width": 415,
+        "height": 26
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Dr. Arman",
+      "cleanText": "Dr. Arman",
+      "bbox": {
+        "x": 196,
+        "y": 878,
+        "width": 114,
+        "height": 20
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-077-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Well, what's a good time to visit there?",
+      "cleanText": "Well, what's a good time to visit there?",
+      "bbox": {
+        "x": 359,
+        "y": 925,
+        "width": 442,
+        "height": 26
+      },
+      "confidence": 96.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Dr. Arman",
+      "cleanText": "Dr. Arman",
+      "bbox": {
+        "x": 195,
+        "y": 974,
+        "width": 115,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-077-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "T think you can visit any time, The weather is more or less",
+      "cleanText": "T think you can visit any time, The weather is more or less",
+      "bbox": {
+        "x": 360,
+        "y": 974,
+        "width": 666,
+        "height": 25
+      },
+      "confidence": 92.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "the same.",
+      "cleanText": "the same.",
+      "bbox": {
+        "x": 357,
+        "y": 1023,
+        "width": 110,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-077-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Good! And what should T see there?",
+      "cleanText": "Good! And what should T see there?",
+      "bbox": {
+        "x": 360,
+        "y": 1070,
+        "width": 409,
+        "height": 21
+      },
+      "confidence": 94.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Dr. Arman",
+      "cleanText": "Dr. Arman",
+      "bbox": {
+        "x": 196,
+        "y": 1119,
+        "width": 115,
+        "height": 20
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-077-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Well, you can visit the Cairo Museum and you should see",
+      "cleanText": "Well, you can visit the Cairo Museum and you should see",
+      "bbox": {
+        "x": 361,
+        "y": 1119,
+        "width": 666,
+        "height": 26
+      },
+      "confidence": 92.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "the mummies. And you mustn't leave Cairo without visiting",
+      "cleanText": "the mummies. And you mustn't leave Cairo without visiting",
+      "bbox": {
+        "x": 364,
+        "y": 1167,
+        "width": 664,
+        "height": 26
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "the Pyramids.",
+      "cleanText": "the Pyramids.",
+      "bbox": {
+        "x": 364,
+        "y": 1215,
+        "width": 155,
+        "height": 26
+      },
+      "confidence": 85.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-077-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Anything else?",
+      "cleanText": "Anything else?",
+      "bbox": {
+        "x": 360,
+        "y": 1264,
+        "width": 170,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Oh yes. If you have time, you may visit Port Suez. You could",
+      "cleanText": "Oh yes. If you have time, you may visit Port Suez. You could",
+      "bbox": {
+        "x": 360,
+        "y": 1312,
+        "width": 672,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Dr, Arman",
+      "cleanText": "Dr, Arman",
+      "bbox": {
+        "x": 195,
+        "y": 1313,
+        "width": 116,
+        "height": 21
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-077-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "have an excellent night view of the Red Sea.",
+      "cleanText": "have an excellent night view of the Red Sea.",
+      "bbox": {
+        "x": 364,
+        "y": 1361,
+        "width": 504,
+        "height": 26
+      },
+      "confidence": 96.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "It all sounds exciting! Thank you very much.",
+      "cleanText": "It all sounds exciting! Thank you very much.",
+      "bbox": {
+        "x": 360,
+        "y": 1409,
+        "width": 510,
+        "height": 26
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-077-line-027",
+      "lineNumber": 27
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-077-line-001",
+      "lineNumber": 1,
+      "text": "B1.Complete column B of the table below with information from the",
+      "bbox": {
+        "x": 122,
+        "y": 146,
+        "width": 911,
+        "height": 35
+      },
+      "confidence": 92.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-002",
+      "lineNumber": 2,
+      "text": "text you have read.",
+      "bbox": {
+        "x": 168,
+        "y": 187,
+        "width": 247,
+        "height": 27
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-003",
+      "lineNumber": 3,
+      "text": "Column A Column B",
+      "bbox": {
+        "x": 348,
+        "y": 251,
+        "width": 549,
+        "height": 20
+      },
+      "confidence": 94.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-004",
+      "lineNumber": 4,
+      "text": "Countries which prefer Bangladeshi",
+      "bbox": {
+        "x": 210,
+        "y": 311,
+        "width": 409,
+        "height": 26
+      },
+      "confidence": 89.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-005",
+      "lineNumber": 5,
+      "text": "Skills required for good jobs abroad",
+      "bbox": {
+        "x": 211,
+        "y": 419,
+        "width": 410,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-006",
+      "lineNumber": 6,
+      "text": "Advantages of developing language",
+      "bbox": {
+        "x": 210,
+        "y": 497,
+        "width": 409,
+        "height": 26
+      },
+      "confidence": 96.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-007",
+      "lineNumber": 7,
+      "text": "Advantages of getting better jobs",
+      "bbox": {
+        "x": 210,
+        "y": 606,
+        "width": 378,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-008",
+      "lineNumber": 8,
+      "text": "Sohan had a conversation with a Bangladeshi doctor, Mr Arman",
+      "bbox": {
+        "x": 197,
+        "y": 689,
+        "width": 829,
+        "height": 27
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-009",
+      "lineNumber": 9,
+      "text": "who works in a hospital in Cairo, Egypt. Read and practise the",
+      "bbox": {
+        "x": 194,
+        "y": 729,
+        "width": 834,
+        "height": 27
+      },
+      "confidence": 95.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-010",
+      "lineNumber": 10,
+      "text": "dialogue in pairs.",
+      "bbox": {
+        "x": 200,
+        "y": 771,
+        "width": 221,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-011",
+      "lineNumber": 11,
+      "text": "Can you tell me a little about Cairo?",
+      "bbox": {
+        "x": 360,
+        "y": 828,
+        "width": 413,
+        "height": 26
+      },
+      "confidence": 91.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-012",
+      "lineNumber": 12,
+      "text": "Sure. What would you like to know?",
+      "bbox": {
+        "x": 361,
+        "y": 877,
+        "width": 415,
+        "height": 26
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-014",
+      "lineNumber": 14,
+      "text": "Well, what's a good time to visit there?",
+      "bbox": {
+        "x": 359,
+        "y": 925,
+        "width": 442,
+        "height": 26
+      },
+      "confidence": 96.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-016",
+      "lineNumber": 16,
+      "text": "T think you can visit any time, The weather is more or less",
+      "bbox": {
+        "x": 360,
+        "y": 974,
+        "width": 666,
+        "height": 25
+      },
+      "confidence": 92.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-018",
+      "lineNumber": 18,
+      "text": "Good! And what should T see there?",
+      "bbox": {
+        "x": 360,
+        "y": 1070,
+        "width": 409,
+        "height": 21
+      },
+      "confidence": 94.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-020",
+      "lineNumber": 20,
+      "text": "Well, you can visit the Cairo Museum and you should see",
+      "bbox": {
+        "x": 361,
+        "y": 1119,
+        "width": 666,
+        "height": 26
+      },
+      "confidence": 92.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-021",
+      "lineNumber": 21,
+      "text": "the mummies. And you mustn't leave Cairo without visiting",
+      "bbox": {
+        "x": 364,
+        "y": 1167,
+        "width": 664,
+        "height": 26
+      },
+      "confidence": 93.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-023",
+      "lineNumber": 23,
+      "text": "Anything else?",
+      "bbox": {
+        "x": 360,
+        "y": 1264,
+        "width": 170,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-024",
+      "lineNumber": 24,
+      "text": "Oh yes. If you have time, you may visit Port Suez. You could",
+      "bbox": {
+        "x": 360,
+        "y": 1312,
+        "width": 672,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-026",
+      "lineNumber": 26,
+      "text": "have an excellent night view of the Red Sea.",
+      "bbox": {
+        "x": 364,
+        "y": 1361,
+        "width": 504,
+        "height": 26
+      },
+      "confidence": 96.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-077-line-027",
+      "lineNumber": 27,
+      "text": "It all sounds exciting! Thank you very much.",
+      "bbox": {
+        "x": 360,
+        "y": 1409,
+        "width": 510,
+        "height": 26
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "B1.Complete column B of the table below with information from the\ntext you have read.\nColumn A Column B\nCountries which prefer Bangladeshi\nSkills required for good jobs abroad\nAdvantages of developing language\nAdvantages of getting better jobs\nSohan had a conversation with a Bangladeshi doctor, Mr Arman\nwho works in a hospital in Cairo, Egypt. Read and practise the\ndialogue in pairs.\nCan you tell me a little about Cairo?\nSure. What would you like to know?\nDr. Arman\nWell, what's a good time to visit there?\nDr. Arman\nT think you can visit any time, The weather is more or less\nthe same.\nGood! And what should T see there?\nDr. Arman\nWell, you can visit the Cairo Museum and you should see\nthe mummies. And you mustn't leave Cairo without visiting\nthe Pyramids.\nAnything else?\nOh yes. If you have time, you may visit Port Suez. You could\nDr, Arman\nhave an excellent night view of the Red Sea.\nIt all sounds exciting! Thank you very much.",
+  "cleanText": "B1.Complete column B of the table below with information from the\ntext you have read.\nColumn A Column B\nCountries which prefer Bangladeshi\nSkills required for good jobs abroad\nAdvantages of developing language\nAdvantages of getting better jobs\nSohan had a conversation with a Bangladeshi doctor, Mr Arman\nwho works in a hospital in Cairo, Egypt. Read and practise the\ndialogue in pairs.\nCan you tell me a little about Cairo?\nSure. What would you like to know?\nDr. Arman\nWell, what's a good time to visit there?\nDr. Arman\nT think you can visit any time, The weather is more or less\nthe same.\nGood! And what should T see there?\nDr. Arman\nWell, you can visit the Cairo Museum and you should see\nthe mummies. And you mustn't leave Cairo without visiting\nthe Pyramids.\nAnything else?\nOh yes. If you have time, you may visit Port Suez. You could\nDr, Arman\nhave an excellent night view of the Red Sea.\nIt all sounds exciting! Thank you very much.",
+  "aiReadyText": "B1.Complete column B of the table below with information from the\ntext you have read.\nColumn A Column B\nCountries which prefer Bangladeshi\nSkills required for good jobs abroad\nAdvantages of developing language\nAdvantages of getting better jobs\nSohan had a conversation with a Bangladeshi doctor, Mr Arman\nwho works in a hospital in Cairo, Egypt. Read and practise the\ndialogue in pairs.\nCan you tell me a little about Cairo?\nSure. What would you like to know?\nWell, what's a good time to visit there?\nT think you can visit any time, The weather is more or less\nGood! And what should T see there?\nWell, you can visit the Cairo Museum and you should see\nthe mummies. And you mustn't leave Cairo without visiting\nAnything else?\nOh yes. If you have time, you may visit Port Suez. You could\nhave an excellent night view of the Red Sea.\nIt all sounds exciting! Thank you very much."
+}

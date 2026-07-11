@@ -1,0 +1,633 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 34,
+  "image": "/ocr/books/class6-english/page-images/page-034.png",
+  "width": 1149,
+  "height": 1518,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 29",
+      "cleanText": "English For Today 29",
+      "bbox": {
+        "x": 123,
+        "y": 93,
+        "width": 911,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "B. Look at some health problems. Choose several pieces of good advice",
+      "cleanText": "Look at some health problems. Choose several pieces of good advice",
+      "bbox": {
+        "x": 120,
+        "y": 167,
+        "width": 911,
+        "height": 27
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "for each problem. There are more pieces of advice than problems.",
+      "cleanText": "for each problem. There are more pieces of advice than problems.",
+      "bbox": {
+        "x": 175,
+        "y": 211,
+        "width": 837,
+        "height": 27
+      },
+      "confidence": 95.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Problems Advice",
+      "cleanText": "Problems Advice",
+      "bbox": {
+        "x": 175,
+        "y": 274,
+        "width": 507,
+        "height": 20
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "I. a, take some vitamin C",
+      "cleanText": "a, take some vitamin C",
+      "bbox": {
+        "x": 180,
+        "y": 318,
+        "width": 685,
+        "height": 20
+      },
+      "confidence": 87.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "2. b. put some ointment on it",
+      "cleanText": "put some ointment on it",
+      "bbox": {
+        "x": 176,
+        "y": 362,
+        "width": 726,
+        "height": 26
+      },
+      "confidence": 92.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "3. a c. drink lots of liquid",
+      "cleanText": "a c. drink lots of liquid",
+      "bbox": {
+        "x": 176,
+        "y": 406,
+        "width": 667,
+        "height": 26
+      },
+      "confidence": 83.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "4. d. take enough rest",
+      "cleanText": "take enough rest",
+      "bbox": {
+        "x": 175,
+        "y": 450,
+        "width": 649,
+        "height": 26
+      },
+      "confidence": 88.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "5. aheadache e, put a heating pad on it",
+      "cleanText": "aheadache e, put a heating pad on it",
+      "bbox": {
+        "x": 176,
+        "y": 494,
+        "width": 709,
+        "height": 26
+      },
+      "confidence": 88.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "6. f. put it under cold water",
+      "cleanText": "f. put it under cold water",
+      "bbox": {
+        "x": 176,
+        "y": 538,
+        "width": 713,
+        "height": 26
+      },
+      "confidence": 89.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "7. the g. take some paracetamol",
+      "cleanText": "the g. take some paracetamol",
+      "bbox": {
+        "x": 176,
+        "y": 582,
+        "width": 714,
+        "height": 26
+      },
+      "confidence": 86.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "h. gurgle with warm and salt water",
+      "cleanText": "h. gurgle with warm and salt water",
+      "bbox": {
+        "x": 605,
+        "y": 626,
+        "width": 396,
+        "height": 26
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "i, see a dentist",
+      "cleanText": "i, see a dentist",
+      "bbox": {
+        "x": 605,
+        "y": 670,
+        "width": 163,
+        "height": 20
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "j. see a doctor",
+      "cleanText": "j. see a doctor",
+      "bbox": {
+        "x": 602,
+        "y": 714,
+        "width": 164,
+        "height": 26
+      },
+      "confidence": 92.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Work in groups. Talk about the problems in section B and give advice.",
+      "cleanText": "Work in groups. Talk about the problems in section B and give advice.",
+      "bbox": {
+        "x": 178,
+        "y": 760,
+        "width": 860,
+        "height": 25
+      },
+      "confidence": 95.46,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-034-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Try to give more than one piece of advice for each problem. Follow the",
+      "cleanText": "Try to give more than one piece of advice for each problem. Follow the",
+      "bbox": {
+        "x": 182,
+        "y": 805,
+        "width": 847,
+        "height": 27
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "model shown.",
+      "cleanText": "model shown.",
+      "bbox": {
+        "x": 185,
+        "y": 852,
+        "width": 158,
+        "height": 20
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-034-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "What should you do for a cough?",
+      "cleanText": "What should you do for a cough?",
+      "bbox": {
+        "x": 280,
+        "y": 894,
+        "width": 380,
+        "height": 26
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "You should gurgle with warm water.",
+      "cleanText": "You should gurgle with warm water.",
+      "bbox": {
+        "x": 279,
+        "y": 943,
+        "width": 410,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "It's a good idea to take some vitamin C.",
+      "cleanText": "It's a good idea to take some vitamin C.",
+      "bbox": {
+        "x": 281,
+        "y": 993,
+        "width": 449,
+        "height": 26
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Yes. And if it continues for long, you should see a doctor.",
+      "cleanText": "Yes. And if it continues for long, you should see a doctor.",
+      "bbox": {
+        "x": 279,
+        "y": 1044,
+        "width": 653,
+        "height": 26
+      },
+      "confidence": 95.42,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Well, I think it's good to avoid cold drink or ice-cream.",
+      "cleanText": "Well, I think it's good to avoid cold drink or ice-cream.",
+      "bbox": {
+        "x": 280,
+        "y": 1092,
+        "width": 625,
+        "height": 26
+      },
+      "confidence": 94.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Sometimes it helps to ......",
+      "cleanText": "Sometimes it helps to ......",
+      "bbox": {
+        "x": 282,
+        "y": 1141,
+        "width": 306,
+        "height": 25
+      },
+      "confidence": 92.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-034-line-023",
+      "lineNumber": 23
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-034-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 29",
+      "bbox": {
+        "x": 123,
+        "y": 93,
+        "width": 911,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-002",
+      "lineNumber": 2,
+      "text": "Look at some health problems. Choose several pieces of good advice",
+      "bbox": {
+        "x": 120,
+        "y": 167,
+        "width": 911,
+        "height": 27
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-003",
+      "lineNumber": 3,
+      "text": "for each problem. There are more pieces of advice than problems.",
+      "bbox": {
+        "x": 175,
+        "y": 211,
+        "width": 837,
+        "height": 27
+      },
+      "confidence": 95.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-004",
+      "lineNumber": 4,
+      "text": "Problems Advice",
+      "bbox": {
+        "x": 175,
+        "y": 274,
+        "width": 507,
+        "height": 20
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-005",
+      "lineNumber": 5,
+      "text": "a, take some vitamin C",
+      "bbox": {
+        "x": 180,
+        "y": 318,
+        "width": 685,
+        "height": 20
+      },
+      "confidence": 87.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-006",
+      "lineNumber": 6,
+      "text": "put some ointment on it",
+      "bbox": {
+        "x": 176,
+        "y": 362,
+        "width": 726,
+        "height": 26
+      },
+      "confidence": 92.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-007",
+      "lineNumber": 7,
+      "text": "a c. drink lots of liquid",
+      "bbox": {
+        "x": 176,
+        "y": 406,
+        "width": 667,
+        "height": 26
+      },
+      "confidence": 83.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-008",
+      "lineNumber": 8,
+      "text": "take enough rest",
+      "bbox": {
+        "x": 175,
+        "y": 450,
+        "width": 649,
+        "height": 26
+      },
+      "confidence": 88.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-009",
+      "lineNumber": 9,
+      "text": "aheadache e, put a heating pad on it",
+      "bbox": {
+        "x": 176,
+        "y": 494,
+        "width": 709,
+        "height": 26
+      },
+      "confidence": 88.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-010",
+      "lineNumber": 10,
+      "text": "f. put it under cold water",
+      "bbox": {
+        "x": 176,
+        "y": 538,
+        "width": 713,
+        "height": 26
+      },
+      "confidence": 89.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-011",
+      "lineNumber": 11,
+      "text": "the g. take some paracetamol",
+      "bbox": {
+        "x": 176,
+        "y": 582,
+        "width": 714,
+        "height": 26
+      },
+      "confidence": 86.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-012",
+      "lineNumber": 12,
+      "text": "h. gurgle with warm and salt water",
+      "bbox": {
+        "x": 605,
+        "y": 626,
+        "width": 396,
+        "height": 26
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-013",
+      "lineNumber": 13,
+      "text": "i, see a dentist",
+      "bbox": {
+        "x": 605,
+        "y": 670,
+        "width": 163,
+        "height": 20
+      },
+      "confidence": 91.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-014",
+      "lineNumber": 14,
+      "text": "j. see a doctor",
+      "bbox": {
+        "x": 602,
+        "y": 714,
+        "width": 164,
+        "height": 26
+      },
+      "confidence": 92.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-016",
+      "lineNumber": 16,
+      "text": "Try to give more than one piece of advice for each problem. Follow the",
+      "bbox": {
+        "x": 182,
+        "y": 805,
+        "width": 847,
+        "height": 27
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-018",
+      "lineNumber": 18,
+      "text": "What should you do for a cough?",
+      "bbox": {
+        "x": 280,
+        "y": 894,
+        "width": 380,
+        "height": 26
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-019",
+      "lineNumber": 19,
+      "text": "You should gurgle with warm water.",
+      "bbox": {
+        "x": 279,
+        "y": 943,
+        "width": 410,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-020",
+      "lineNumber": 20,
+      "text": "It's a good idea to take some vitamin C.",
+      "bbox": {
+        "x": 281,
+        "y": 993,
+        "width": 449,
+        "height": 26
+      },
+      "confidence": 93.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-021",
+      "lineNumber": 21,
+      "text": "Yes. And if it continues for long, you should see a doctor.",
+      "bbox": {
+        "x": 279,
+        "y": 1044,
+        "width": 653,
+        "height": 26
+      },
+      "confidence": 95.42,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-022",
+      "lineNumber": 22,
+      "text": "Well, I think it's good to avoid cold drink or ice-cream.",
+      "bbox": {
+        "x": 280,
+        "y": 1092,
+        "width": 625,
+        "height": 26
+      },
+      "confidence": 94.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-034-line-023",
+      "lineNumber": 23,
+      "text": "Sometimes it helps to ......",
+      "bbox": {
+        "x": 282,
+        "y": 1141,
+        "width": 306,
+        "height": 25
+      },
+      "confidence": 92.2,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 29\nB. Look at some health problems. Choose several pieces of good advice\nfor each problem. There are more pieces of advice than problems.\nProblems Advice\nI. a, take some vitamin C\n2. b. put some ointment on it\n3. a c. drink lots of liquid\n4. d. take enough rest\n5. aheadache e, put a heating pad on it\n6. f. put it under cold water\n7. the g. take some paracetamol\nh. gurgle with warm and salt water\ni, see a dentist\nj. see a doctor\nWork in groups. Talk about the problems in section B and give advice.\nTry to give more than one piece of advice for each problem. Follow the\nmodel shown.\nWhat should you do for a cough?\nYou should gurgle with warm water.\nIt's a good idea to take some vitamin C.\nYes. And if it continues for long, you should see a doctor.\nWell, I think it's good to avoid cold drink or ice-cream.\nSometimes it helps to ......",
+  "cleanText": "English For Today 29\nLook at some health problems. Choose several pieces of good advice\nfor each problem. There are more pieces of advice than problems.\nProblems Advice\na, take some vitamin C\nput some ointment on it\na c. drink lots of liquid\ntake enough rest\naheadache e, put a heating pad on it\nf. put it under cold water\nthe g. take some paracetamol\nh. gurgle with warm and salt water\ni, see a dentist\nj. see a doctor\nWork in groups. Talk about the problems in section B and give advice.\nTry to give more than one piece of advice for each problem. Follow the\nmodel shown.\nWhat should you do for a cough?\nYou should gurgle with warm water.\nIt's a good idea to take some vitamin C.\nYes. And if it continues for long, you should see a doctor.\nWell, I think it's good to avoid cold drink or ice-cream.\nSometimes it helps to ......",
+  "aiReadyText": "English For Today 29\nLook at some health problems. Choose several pieces of good advice\nfor each problem. There are more pieces of advice than problems.\nProblems Advice\na, take some vitamin C\nput some ointment on it\na c. drink lots of liquid\ntake enough rest\naheadache e, put a heating pad on it\nf. put it under cold water\nthe g. take some paracetamol\nh. gurgle with warm and salt water\ni, see a dentist\nj. see a doctor\nTry to give more than one piece of advice for each problem. Follow the\nWhat should you do for a cough?\nYou should gurgle with warm water.\nIt's a good idea to take some vitamin C.\nYes. And if it continues for long, you should see a doctor.\nWell, I think it's good to avoid cold drink or ice-cream.\nSometimes it helps to ......"
+}

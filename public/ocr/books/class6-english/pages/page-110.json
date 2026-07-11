@@ -1,0 +1,646 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 110,
+  "image": "/ocr/books/class6-english/page-images/page-110.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 105",
+      "cleanText": "English For Today 105",
+      "bbox": {
+        "x": 122,
+        "y": 79,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Answer any five of the following questions from the poems in your text-",
+      "cleanText": "Answer any five of the following questions from the poems in your text-",
+      "bbox": {
+        "x": 201,
+        "y": 158,
+        "width": 801,
+        "height": 24
+      },
+      "confidence": 95.31,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "What is the main idea of the poem “Holding Hands”?",
+      "cleanText": "What is the main idea of the poem “Holding Hands”?",
+      "bbox": {
+        "x": 281,
+        "y": 253,
+        "width": 563,
+        "height": 24
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "What does the poet say about trunks and tails in the poem “Holding",
+      "cleanText": "What does the poet say about trunks and tails in the poem “Holding",
+      "bbox": {
+        "x": 280,
+        "y": 284,
+        "width": 713,
+        "height": 24
+      },
+      "confidence": 95.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "What does the line \"But bows cannot be built in heaven\" suggest in the",
+      "cleanText": "What does the line \"But bows cannot be built in heaven\" suggest in the",
+      "bbox": {
+        "x": 281,
+        "y": 348,
+        "width": 747,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "poem “Boats sail on the",
+      "cleanText": "poem “Boats sail on the",
+      "bbox": {
+        "x": 281,
+        "y": 379,
+        "width": 250,
+        "height": 24
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "What is the overall theme of the poem “Boats sail on the rivers”?",
+      "cleanText": "What is the overall theme of the poem “Boats sail on the rivers”?",
+      "bbox": {
+        "x": 281,
+        "y": 411,
+        "width": 685,
+        "height": 24
+      },
+      "confidence": 95.15,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "How does the poem “The Chaos” highlight the challenges of English",
+      "cleanText": "How does the poem “The Chaos” highlight the challenges of English",
+      "bbox": {
+        "x": 281,
+        "y": 443,
+        "width": 726,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "pronunciation and spelling?",
+      "cleanText": "pronunciation and spelling?",
+      "bbox": {
+        "x": 281,
+        "y": 474,
+        "width": 291,
+        "height": 24
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "What is the main theme or purpose of the poem \"The Chaos\"?",
+      "cleanText": "What is the main theme or purpose of the poem \"The Chaos\"?",
+      "bbox": {
+        "x": 281,
+        "y": 506,
+        "width": 653,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Who is the central character in the poem “Andre\", and what is his",
+      "cleanText": "Who is the central character in the poem “Andre\", and what is his",
+      "bbox": {
+        "x": 281,
+        "y": 538,
+        "width": 690,
+        "height": 24
+      },
+      "confidence": 94.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "What lesson do you learn from the poem \"Andre\"?",
+      "cleanText": "What lesson do you learn from the poem \"Andre\"?",
+      "bbox": {
+        "x": 281,
+        "y": 601,
+        "width": 534,
+        "height": 24
+      },
+      "confidence": 95.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Part B - Writing (Marks: 30)",
+      "cleanText": "Part B - Writing (Marks: 30)",
+      "bbox": {
+        "x": 375,
+        "y": 737,
+        "width": 403,
+        "height": 29
+      },
+      "confidence": 94.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Read the opening of a story below and complete it in at least ten new",
+      "cleanText": "Read the opening of a story below and complete it in at least ten new",
+      "bbox": {
+        "x": 202,
+        "y": 803,
+        "width": 726,
+        "height": 32
+      },
+      "confidence": 94.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "sentences. Give a suitable title to it. 10",
+      "cleanText": "sentences. Give a suitable title to it. 10",
+      "bbox": {
+        "x": 202,
+        "y": 839,
+        "width": 775,
+        "height": 18
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Once upon a time, there was a boy named Mamun. He was a student of class",
+      "cleanText": "Once upon a time, there was a boy named Mamun. He was a student of class",
+      "bbox": {
+        "x": 202,
+        "y": 886,
+        "width": 808,
+        "height": 24
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "6. One day, while he was returning from school, he found a purse on the road.",
+      "cleanText": "One day, while he was returning from school, he found a purse on the road.",
+      "bbox": {
+        "x": 202,
+        "y": 917,
+        "width": 818,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "As he was honest,",
+      "cleanText": "As he was honest,",
+      "bbox": {
+        "x": 200,
+        "y": 949,
+        "width": 184,
+        "height": 21
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Write a paragraph on ‘Your First Day at School’ in 120 words. 10",
+      "cleanText": "Write a paragraph on ‘Your First Day at School’ in 120 words. 10",
+      "bbox": {
+        "x": 201,
+        "y": 1013,
+        "width": 789,
+        "height": 24
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-110-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Suppose, you are Nadim/Nadia, you have a friend named Fahim/Fahima who",
+      "cleanText": "Suppose, you are Nadim/Nadia, you have a friend named Fahim/Fahima who",
+      "bbox": {
+        "x": 202,
+        "y": 1104,
+        "width": 814,
+        "height": 32
+      },
+      "confidence": 93.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "does not read newspaper.",
+      "cleanText": "does not read newspaper.",
+      "bbox": {
+        "x": 201,
+        "y": 1139,
+        "width": 263,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Now, write a dialogue between you and your friend about the importance of",
+      "cleanText": "Now, write a dialogue between you and your friend about the importance of",
+      "bbox": {
+        "x": 207,
+        "y": 1189,
+        "width": 803,
+        "height": 24
+      },
+      "confidence": 96.15,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "reading newspaper. 10",
+      "cleanText": "reading newspaper. 10",
+      "bbox": {
+        "x": 208,
+        "y": 1220,
+        "width": 789,
+        "height": 24
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-023",
+      "lineNumber": 23
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-110-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 105",
+      "bbox": {
+        "x": 122,
+        "y": 79,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-002",
+      "lineNumber": 2,
+      "text": "Answer any five of the following questions from the poems in your text-",
+      "bbox": {
+        "x": 201,
+        "y": 158,
+        "width": 801,
+        "height": 24
+      },
+      "confidence": 95.31,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-003",
+      "lineNumber": 3,
+      "text": "What is the main idea of the poem “Holding Hands”?",
+      "bbox": {
+        "x": 281,
+        "y": 253,
+        "width": 563,
+        "height": 24
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-004",
+      "lineNumber": 4,
+      "text": "What does the poet say about trunks and tails in the poem “Holding",
+      "bbox": {
+        "x": 280,
+        "y": 284,
+        "width": 713,
+        "height": 24
+      },
+      "confidence": 95.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-005",
+      "lineNumber": 5,
+      "text": "What does the line \"But bows cannot be built in heaven\" suggest in the",
+      "bbox": {
+        "x": 281,
+        "y": 348,
+        "width": 747,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-006",
+      "lineNumber": 6,
+      "text": "poem “Boats sail on the",
+      "bbox": {
+        "x": 281,
+        "y": 379,
+        "width": 250,
+        "height": 24
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-007",
+      "lineNumber": 7,
+      "text": "What is the overall theme of the poem “Boats sail on the rivers”?",
+      "bbox": {
+        "x": 281,
+        "y": 411,
+        "width": 685,
+        "height": 24
+      },
+      "confidence": 95.15,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-008",
+      "lineNumber": 8,
+      "text": "How does the poem “The Chaos” highlight the challenges of English",
+      "bbox": {
+        "x": 281,
+        "y": 443,
+        "width": 726,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-009",
+      "lineNumber": 9,
+      "text": "pronunciation and spelling?",
+      "bbox": {
+        "x": 281,
+        "y": 474,
+        "width": 291,
+        "height": 24
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-010",
+      "lineNumber": 10,
+      "text": "What is the main theme or purpose of the poem \"The Chaos\"?",
+      "bbox": {
+        "x": 281,
+        "y": 506,
+        "width": 653,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-011",
+      "lineNumber": 11,
+      "text": "Who is the central character in the poem “Andre\", and what is his",
+      "bbox": {
+        "x": 281,
+        "y": 538,
+        "width": 690,
+        "height": 24
+      },
+      "confidence": 94.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-012",
+      "lineNumber": 12,
+      "text": "What lesson do you learn from the poem \"Andre\"?",
+      "bbox": {
+        "x": 281,
+        "y": 601,
+        "width": 534,
+        "height": 24
+      },
+      "confidence": 95.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-013",
+      "lineNumber": 13,
+      "text": "Part B - Writing (Marks: 30)",
+      "bbox": {
+        "x": 375,
+        "y": 737,
+        "width": 403,
+        "height": 29
+      },
+      "confidence": 94.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-014",
+      "lineNumber": 14,
+      "text": "Read the opening of a story below and complete it in at least ten new",
+      "bbox": {
+        "x": 202,
+        "y": 803,
+        "width": 726,
+        "height": 32
+      },
+      "confidence": 94.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-015",
+      "lineNumber": 15,
+      "text": "sentences. Give a suitable title to it. 10",
+      "bbox": {
+        "x": 202,
+        "y": 839,
+        "width": 775,
+        "height": 18
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-016",
+      "lineNumber": 16,
+      "text": "Once upon a time, there was a boy named Mamun. He was a student of class",
+      "bbox": {
+        "x": 202,
+        "y": 886,
+        "width": 808,
+        "height": 24
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-017",
+      "lineNumber": 17,
+      "text": "One day, while he was returning from school, he found a purse on the road.",
+      "bbox": {
+        "x": 202,
+        "y": 917,
+        "width": 818,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-018",
+      "lineNumber": 18,
+      "text": "As he was honest,",
+      "bbox": {
+        "x": 200,
+        "y": 949,
+        "width": 184,
+        "height": 21
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-020",
+      "lineNumber": 20,
+      "text": "Suppose, you are Nadim/Nadia, you have a friend named Fahim/Fahima who",
+      "bbox": {
+        "x": 202,
+        "y": 1104,
+        "width": 814,
+        "height": 32
+      },
+      "confidence": 93.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-021",
+      "lineNumber": 21,
+      "text": "does not read newspaper.",
+      "bbox": {
+        "x": 201,
+        "y": 1139,
+        "width": 263,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-022",
+      "lineNumber": 22,
+      "text": "Now, write a dialogue between you and your friend about the importance of",
+      "bbox": {
+        "x": 207,
+        "y": 1189,
+        "width": 803,
+        "height": 24
+      },
+      "confidence": 96.15,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-023",
+      "lineNumber": 23,
+      "text": "reading newspaper. 10",
+      "bbox": {
+        "x": 208,
+        "y": 1220,
+        "width": 789,
+        "height": 24
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 105\nAnswer any five of the following questions from the poems in your text-\nWhat is the main idea of the poem “Holding Hands”?\nWhat does the poet say about trunks and tails in the poem “Holding\nWhat does the line \"But bows cannot be built in heaven\" suggest in the\npoem “Boats sail on the\nWhat is the overall theme of the poem “Boats sail on the rivers”?\nHow does the poem “The Chaos” highlight the challenges of English\npronunciation and spelling?\nWhat is the main theme or purpose of the poem \"The Chaos\"?\nWho is the central character in the poem “Andre\", and what is his\nWhat lesson do you learn from the poem \"Andre\"?\nPart B - Writing (Marks: 30)\nRead the opening of a story below and complete it in at least ten new\nsentences. Give a suitable title to it. 10\nOnce upon a time, there was a boy named Mamun. He was a student of class\n6. One day, while he was returning from school, he found a purse on the road.\nAs he was honest,\nWrite a paragraph on ‘Your First Day at School’ in 120 words. 10\nSuppose, you are Nadim/Nadia, you have a friend named Fahim/Fahima who\ndoes not read newspaper.\nNow, write a dialogue between you and your friend about the importance of\nreading newspaper. 10",
+  "cleanText": "English For Today 105\nAnswer any five of the following questions from the poems in your text-\nWhat is the main idea of the poem “Holding Hands”?\nWhat does the poet say about trunks and tails in the poem “Holding\nWhat does the line \"But bows cannot be built in heaven\" suggest in the\npoem “Boats sail on the\nWhat is the overall theme of the poem “Boats sail on the rivers”?\nHow does the poem “The Chaos” highlight the challenges of English\npronunciation and spelling?\nWhat is the main theme or purpose of the poem \"The Chaos\"?\nWho is the central character in the poem “Andre\", and what is his\nWhat lesson do you learn from the poem \"Andre\"?\nPart B - Writing (Marks: 30)\nRead the opening of a story below and complete it in at least ten new\nsentences. Give a suitable title to it. 10\nOnce upon a time, there was a boy named Mamun. He was a student of class\nOne day, while he was returning from school, he found a purse on the road.\nAs he was honest,\nWrite a paragraph on ‘Your First Day at School’ in 120 words. 10\nSuppose, you are Nadim/Nadia, you have a friend named Fahim/Fahima who\ndoes not read newspaper.\nNow, write a dialogue between you and your friend about the importance of\nreading newspaper. 10",
+  "aiReadyText": "English For Today 105\nAnswer any five of the following questions from the poems in your text-\nWhat is the main idea of the poem “Holding Hands”?\nWhat does the poet say about trunks and tails in the poem “Holding\nWhat does the line \"But bows cannot be built in heaven\" suggest in the\npoem “Boats sail on the\nWhat is the overall theme of the poem “Boats sail on the rivers”?\nHow does the poem “The Chaos” highlight the challenges of English\npronunciation and spelling?\nWhat is the main theme or purpose of the poem \"The Chaos\"?\nWho is the central character in the poem “Andre\", and what is his\nWhat lesson do you learn from the poem \"Andre\"?\nPart B - Writing (Marks: 30)\nRead the opening of a story below and complete it in at least ten new\nsentences. Give a suitable title to it. 10\nOnce upon a time, there was a boy named Mamun. He was a student of class\nOne day, while he was returning from school, he found a purse on the road.\nAs he was honest,\nSuppose, you are Nadim/Nadia, you have a friend named Fahim/Fahima who\ndoes not read newspaper.\nNow, write a dialogue between you and your friend about the importance of\nreading newspaper. 10"
+}

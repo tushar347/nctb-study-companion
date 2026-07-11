@@ -1,0 +1,99 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 2,
+  "image": "/ocr/books/class6-english/page-images/page-002.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Prescribed by the National Curriculum and Textbook Board, Bangladesh",
+      "cleanText": "Prescribed by the National Curriculum and Textbook Board, Bangladesh",
+      "bbox": {
+        "x": 145,
+        "y": 97,
+        "width": 829,
+        "height": 32
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-002-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "as a textbook for Class Six from the academic year 2023",
+      "cleanText": "as a textbook for Class Six from the academic year 2023",
+      "bbox": {
+        "x": 227,
+        "y": 139,
+        "width": 667,
+        "height": 33
+      },
+      "confidence": 94.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-002-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Revised for the year 2026",
+      "cleanText": "Revised for the year 2026",
+      "bbox": {
+        "x": 386,
+        "y": 737,
+        "width": 374,
+        "height": 32
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-002-line-003",
+      "lineNumber": 3
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-002-line-001",
+      "lineNumber": 1,
+      "text": "Prescribed by the National Curriculum and Textbook Board, Bangladesh",
+      "bbox": {
+        "x": 145,
+        "y": 97,
+        "width": 829,
+        "height": 32
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-002-line-002",
+      "lineNumber": 2,
+      "text": "as a textbook for Class Six from the academic year 2023",
+      "bbox": {
+        "x": 227,
+        "y": 139,
+        "width": 667,
+        "height": 33
+      },
+      "confidence": 94.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-002-line-003",
+      "lineNumber": 3,
+      "text": "Revised for the year 2026",
+      "bbox": {
+        "x": 386,
+        "y": 737,
+        "width": 374,
+        "height": 32
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Prescribed by the National Curriculum and Textbook Board, Bangladesh\nas a textbook for Class Six from the academic year 2023\nRevised for the year 2026",
+  "cleanText": "Prescribed by the National Curriculum and Textbook Board, Bangladesh\nas a textbook for Class Six from the academic year 2023\nRevised for the year 2026",
+  "aiReadyText": "Prescribed by the National Curriculum and Textbook Board, Bangladesh\nas a textbook for Class Six from the academic year 2023\nRevised for the year 2026"
+}

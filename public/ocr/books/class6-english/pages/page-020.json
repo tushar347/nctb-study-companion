@@ -1,0 +1,687 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 20,
+  "image": "/ocr/books/class6-english/page-images/page-020.png",
+  "width": 1176,
+  "height": 1527,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 15",
+      "cleanText": "English For Today 15",
+      "bbox": {
+        "x": 136,
+        "y": 92,
+        "width": 912,
+        "height": 26
+      },
+      "confidence": 89.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Last month Bulbul was sick for two days. So, he could not come to collect",
+      "cleanText": "Last month Bulbul was sick for two days. So, he could not come to collect",
+      "bbox": {
+        "x": 198,
+        "y": 157,
+        "width": 851,
+        "height": 26
+      },
+      "confidence": 94.47,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "the rubbish. The people of Sankar were in great trouble. They got piles of",
+      "cleanText": "the rubbish. The people of Sankar were in great trouble. They got piles of",
+      "bbox": {
+        "x": 193,
+        "y": 204,
+        "width": 857,
+        "height": 25
+      },
+      "confidence": 96.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "waiting in front of their houses. The whole area became dirty and",
+      "cleanText": "waiting in front of their houses. The whole area became dirty and",
+      "bbox": {
+        "x": 288,
+        "y": 250,
+        "width": 760,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "unhygienic. When Bulbul got well, he came back to Sankar. He collected",
+      "cleanText": "unhygienic. When Bulbul got well, he came back to Sankar. He collected",
+      "bbox": {
+        "x": 194,
+        "y": 295,
+        "width": 852,
+        "height": 27
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "everything from all the bins. Bulbul does not want to fall sick again. He",
+      "cleanText": "everything from all the bins. Bulbul does not want to fall sick again. He",
+      "bbox": {
+        "x": 191,
+        "y": 339,
+        "width": 855,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "realises, if he stops working even for a few days only, the whole area will",
+      "cleanText": "realises, if he stops working even for a few days only, the whole area will",
+      "bbox": {
+        "x": 193,
+        "y": 381,
+        "width": 853,
+        "height": 26
+      },
+      "confidence": 95.53,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "turn into a big dustbin.",
+      "cleanText": "turn into a big dustbin.",
+      "bbox": {
+        "x": 192,
+        "y": 419,
+        "width": 257,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Now, ask and answer the questions in pairs.",
+      "cleanText": "Now, ask and answer the questions in pairs.",
+      "bbox": {
+        "x": 198,
+        "y": 475,
+        "width": 550,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "What time does Bulbul wake up?",
+      "cleanText": "What time does Bulbul wake up?",
+      "bbox": {
+        "x": 250,
+        "y": 549,
+        "width": 377,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Where do the people of Sankar put their rubbish?",
+      "cleanText": "Where do the people of Sankar put their rubbish?",
+      "bbox": {
+        "x": 250,
+        "y": 617,
+        "width": 561,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Why does Bulbul think that all jobs are important?",
+      "cleanText": "Why does Bulbul think that all jobs are important?",
+      "bbox": {
+        "x": 250,
+        "y": 683,
+        "width": 577,
+        "height": 26
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "What happened when Bulbul became sick?",
+      "cleanText": "What happened when Bulbul became sick?",
+      "bbox": {
+        "x": 249,
+        "y": 751,
+        "width": 491,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "What will happen if Bulbul falls sick again?",
+      "cleanText": "What will happen if Bulbul falls sick again?",
+      "bbox": {
+        "x": 249,
+        "y": 820,
+        "width": 502,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "What will you say to Bulbul if you meet him?",
+      "cleanText": "What will you say to Bulbul if you meet him?",
+      "bbox": {
+        "x": 250,
+        "y": 890,
+        "width": 529,
+        "height": 26
+      },
+      "confidence": 93.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Think of a person who helps you live well. Write a composition on",
+      "cleanText": "Think of a person who helps you live well. Write a composition on",
+      "bbox": {
+        "x": 199,
+        "y": 948,
+        "width": 849,
+        "height": 27
+      },
+      "confidence": 95.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "this person. Now, answer the following questions :",
+      "cleanText": "this person. Now, answer the following questions :",
+      "bbox": {
+        "x": 201,
+        "y": 997,
+        "width": 631,
+        "height": 26
+      },
+      "confidence": 89.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "What does he/she do?",
+      "cleanText": "What does he/she do?",
+      "bbox": {
+        "x": 247,
+        "y": 1066,
+        "width": 248,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "How docs his work help you live well?",
+      "cleanText": "How docs his work help you live well?",
+      "bbox": {
+        "x": 251,
+        "y": 1115,
+        "width": 444,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "What time does he/she start his/her work?",
+      "cleanText": "What time does he/she start his/her work?",
+      "bbox": {
+        "x": 246,
+        "y": 1161,
+        "width": 479,
+        "height": 19
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "How does he/she do the work?",
+      "cleanText": "How does he/she do the work?",
+      "bbox": {
+        "x": 247,
+        "y": 1207,
+        "width": 349,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Does he/she like the job? Why/why not?",
+      "cleanText": "Does he/she like the job? Why/why not?",
+      "bbox": {
+        "x": 247,
+        "y": 1253,
+        "width": 461,
+        "height": 26
+      },
+      "confidence": 95.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "What will happen if he/she stops working?",
+      "cleanText": "What will happen if he/she stops working?",
+      "bbox": {
+        "x": 247,
+        "y": 1303,
+        "width": 487,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "What do you think about his/her job?",
+      "cleanText": "What do you think about his/her job?",
+      "bbox": {
+        "x": 247,
+        "y": 1350,
+        "width": 424,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-024",
+      "lineNumber": 24
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-020-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 15",
+      "bbox": {
+        "x": 136,
+        "y": 92,
+        "width": 912,
+        "height": 26
+      },
+      "confidence": 89.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-002",
+      "lineNumber": 2,
+      "text": "Last month Bulbul was sick for two days. So, he could not come to collect",
+      "bbox": {
+        "x": 198,
+        "y": 157,
+        "width": 851,
+        "height": 26
+      },
+      "confidence": 94.47,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-003",
+      "lineNumber": 3,
+      "text": "the rubbish. The people of Sankar were in great trouble. They got piles of",
+      "bbox": {
+        "x": 193,
+        "y": 204,
+        "width": 857,
+        "height": 25
+      },
+      "confidence": 96.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-004",
+      "lineNumber": 4,
+      "text": "waiting in front of their houses. The whole area became dirty and",
+      "bbox": {
+        "x": 288,
+        "y": 250,
+        "width": 760,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-005",
+      "lineNumber": 5,
+      "text": "unhygienic. When Bulbul got well, he came back to Sankar. He collected",
+      "bbox": {
+        "x": 194,
+        "y": 295,
+        "width": 852,
+        "height": 27
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-006",
+      "lineNumber": 6,
+      "text": "everything from all the bins. Bulbul does not want to fall sick again. He",
+      "bbox": {
+        "x": 191,
+        "y": 339,
+        "width": 855,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-007",
+      "lineNumber": 7,
+      "text": "realises, if he stops working even for a few days only, the whole area will",
+      "bbox": {
+        "x": 193,
+        "y": 381,
+        "width": 853,
+        "height": 26
+      },
+      "confidence": 95.53,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-008",
+      "lineNumber": 8,
+      "text": "turn into a big dustbin.",
+      "bbox": {
+        "x": 192,
+        "y": 419,
+        "width": 257,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-009",
+      "lineNumber": 9,
+      "text": "Now, ask and answer the questions in pairs.",
+      "bbox": {
+        "x": 198,
+        "y": 475,
+        "width": 550,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-010",
+      "lineNumber": 10,
+      "text": "What time does Bulbul wake up?",
+      "bbox": {
+        "x": 250,
+        "y": 549,
+        "width": 377,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-011",
+      "lineNumber": 11,
+      "text": "Where do the people of Sankar put their rubbish?",
+      "bbox": {
+        "x": 250,
+        "y": 617,
+        "width": 561,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-012",
+      "lineNumber": 12,
+      "text": "Why does Bulbul think that all jobs are important?",
+      "bbox": {
+        "x": 250,
+        "y": 683,
+        "width": 577,
+        "height": 26
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-013",
+      "lineNumber": 13,
+      "text": "What happened when Bulbul became sick?",
+      "bbox": {
+        "x": 249,
+        "y": 751,
+        "width": 491,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-014",
+      "lineNumber": 14,
+      "text": "What will happen if Bulbul falls sick again?",
+      "bbox": {
+        "x": 249,
+        "y": 820,
+        "width": 502,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-015",
+      "lineNumber": 15,
+      "text": "What will you say to Bulbul if you meet him?",
+      "bbox": {
+        "x": 250,
+        "y": 890,
+        "width": 529,
+        "height": 26
+      },
+      "confidence": 93.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-016",
+      "lineNumber": 16,
+      "text": "Think of a person who helps you live well. Write a composition on",
+      "bbox": {
+        "x": 199,
+        "y": 948,
+        "width": 849,
+        "height": 27
+      },
+      "confidence": 95.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-017",
+      "lineNumber": 17,
+      "text": "this person. Now, answer the following questions :",
+      "bbox": {
+        "x": 201,
+        "y": 997,
+        "width": 631,
+        "height": 26
+      },
+      "confidence": 89.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-018",
+      "lineNumber": 18,
+      "text": "What does he/she do?",
+      "bbox": {
+        "x": 247,
+        "y": 1066,
+        "width": 248,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-019",
+      "lineNumber": 19,
+      "text": "How docs his work help you live well?",
+      "bbox": {
+        "x": 251,
+        "y": 1115,
+        "width": 444,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-020",
+      "lineNumber": 20,
+      "text": "What time does he/she start his/her work?",
+      "bbox": {
+        "x": 246,
+        "y": 1161,
+        "width": 479,
+        "height": 19
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-021",
+      "lineNumber": 21,
+      "text": "How does he/she do the work?",
+      "bbox": {
+        "x": 247,
+        "y": 1207,
+        "width": 349,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-022",
+      "lineNumber": 22,
+      "text": "Does he/she like the job? Why/why not?",
+      "bbox": {
+        "x": 247,
+        "y": 1253,
+        "width": 461,
+        "height": 26
+      },
+      "confidence": 95.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-023",
+      "lineNumber": 23,
+      "text": "What will happen if he/she stops working?",
+      "bbox": {
+        "x": 247,
+        "y": 1303,
+        "width": 487,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-024",
+      "lineNumber": 24,
+      "text": "What do you think about his/her job?",
+      "bbox": {
+        "x": 247,
+        "y": 1350,
+        "width": 424,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 15\nLast month Bulbul was sick for two days. So, he could not come to collect\nthe rubbish. The people of Sankar were in great trouble. They got piles of\nwaiting in front of their houses. The whole area became dirty and\nunhygienic. When Bulbul got well, he came back to Sankar. He collected\neverything from all the bins. Bulbul does not want to fall sick again. He\nrealises, if he stops working even for a few days only, the whole area will\nturn into a big dustbin.\nNow, ask and answer the questions in pairs.\nWhat time does Bulbul wake up?\nWhere do the people of Sankar put their rubbish?\nWhy does Bulbul think that all jobs are important?\nWhat happened when Bulbul became sick?\nWhat will happen if Bulbul falls sick again?\nWhat will you say to Bulbul if you meet him?\nThink of a person who helps you live well. Write a composition on\nthis person. Now, answer the following questions :\nWhat does he/she do?\nHow docs his work help you live well?\nWhat time does he/she start his/her work?\nHow does he/she do the work?\nDoes he/she like the job? Why/why not?\nWhat will happen if he/she stops working?\nWhat do you think about his/her job?",
+  "cleanText": "English For Today 15\nLast month Bulbul was sick for two days. So, he could not come to collect\nthe rubbish. The people of Sankar were in great trouble. They got piles of\nwaiting in front of their houses. The whole area became dirty and\nunhygienic. When Bulbul got well, he came back to Sankar. He collected\neverything from all the bins. Bulbul does not want to fall sick again. He\nrealises, if he stops working even for a few days only, the whole area will\nturn into a big dustbin.\nNow, ask and answer the questions in pairs.\nWhat time does Bulbul wake up?\nWhere do the people of Sankar put their rubbish?\nWhy does Bulbul think that all jobs are important?\nWhat happened when Bulbul became sick?\nWhat will happen if Bulbul falls sick again?\nWhat will you say to Bulbul if you meet him?\nThink of a person who helps you live well. Write a composition on\nthis person. Now, answer the following questions :\nWhat does he/she do?\nHow docs his work help you live well?\nWhat time does he/she start his/her work?\nHow does he/she do the work?\nDoes he/she like the job? Why/why not?\nWhat will happen if he/she stops working?\nWhat do you think about his/her job?",
+  "aiReadyText": "English For Today 15\nLast month Bulbul was sick for two days. So, he could not come to collect\nthe rubbish. The people of Sankar were in great trouble. They got piles of\nwaiting in front of their houses. The whole area became dirty and\nunhygienic. When Bulbul got well, he came back to Sankar. He collected\neverything from all the bins. Bulbul does not want to fall sick again. He\nrealises, if he stops working even for a few days only, the whole area will\nturn into a big dustbin.\nNow, ask and answer the questions in pairs.\nWhat time does Bulbul wake up?\nWhere do the people of Sankar put their rubbish?\nWhy does Bulbul think that all jobs are important?\nWhat happened when Bulbul became sick?\nWhat will happen if Bulbul falls sick again?\nWhat will you say to Bulbul if you meet him?\nThink of a person who helps you live well. Write a composition on\nthis person. Now, answer the following questions :\nWhat does he/she do?\nHow docs his work help you live well?\nWhat time does he/she start his/her work?\nHow does he/she do the work?\nDoes he/she like the job? Why/why not?\nWhat will happen if he/she stops working?\nWhat do you think about his/her job?"
+}

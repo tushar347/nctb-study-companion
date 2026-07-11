@@ -1,0 +1,579 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 24,
+  "image": "/ocr/books/class6-english/page-images/page-024.png",
+  "width": 1169,
+  "height": 1521,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 7 Holding Hands",
+      "cleanText": "Lesson 7 Holding Hands",
+      "bbox": {
+        "x": 326,
+        "y": 201,
+        "width": 529,
+        "height": 39
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 210,
+        "y": 293,
+        "width": 570,
+        "height": 23
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-024-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "© recognise word and stress on words in sentences",
+      "cleanText": "© recognise word and stress on words in sentences",
+      "bbox": {
+        "x": 231,
+        "y": 326,
+        "width": 528,
+        "height": 24
+      },
+      "confidence": 90.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "© recognise intonation in sentences",
+      "cleanText": "© recognise intonation in sentences",
+      "bbox": {
+        "x": 231,
+        "y": 359,
+        "width": 367,
+        "height": 24
+      },
+      "confidence": 87.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "© understand and enjoy stories and poems",
+      "cleanText": "© understand and enjoy stories and poems",
+      "bbox": {
+        "x": 231,
+        "y": 392,
+        "width": 437,
+        "height": 24
+      },
+      "confidence": 92.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Listen and read.",
+      "cleanText": "Listen and read.",
+      "bbox": {
+        "x": 213,
+        "y": 440,
+        "width": 204,
+        "height": 21
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-024-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Holding Hands",
+      "cleanText": "Holding Hands",
+      "bbox": {
+        "x": 490,
+        "y": 486,
+        "width": 198,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-024-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "-Leonore M Link",
+      "cleanText": "-Leonore M Link",
+      "bbox": {
+        "x": 715,
+        "y": 545,
+        "width": 190,
+        "height": 19
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Elephants walking",
+      "cleanText": "Elephants walking",
+      "bbox": {
+        "x": 491,
+        "y": 584,
+        "width": 209,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Along the trails",
+      "cleanText": "Along the trails",
+      "bbox": {
+        "x": 490,
+        "y": 624,
+        "width": 176,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Are holding hands",
+      "cleanText": "Are holding hands",
+      "bbox": {
+        "x": 490,
+        "y": 663,
+        "width": 209,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "By holding tails.",
+      "cleanText": "By holding tails.",
+      "bbox": {
+        "x": 490,
+        "y": 703,
+        "width": 188,
+        "height": 26
+      },
+      "confidence": 88.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Trunks and tails",
+      "cleanText": "Trunks and tails",
+      "bbox": {
+        "x": 490,
+        "y": 743,
+        "width": 181,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Are handy things",
+      "cleanText": "Are handy things",
+      "bbox": {
+        "x": 490,
+        "y": 782,
+        "width": 195,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "When elephants walk",
+      "cleanText": "When elephants walk",
+      "bbox": {
+        "x": 490,
+        "y": 822,
+        "width": 244,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "In Circus rings.",
+      "cleanText": "In Circus rings.",
+      "bbox": {
+        "x": 490,
+        "y": 861,
+        "width": 174,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "And when they walk —",
+      "cleanText": "And when they walk —",
+      "bbox": {
+        "x": 491,
+        "y": 897,
+        "width": 256,
+        "height": 35
+      },
+      "confidence": 93.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "It never fails",
+      "cleanText": "It never fails",
+      "bbox": {
+        "x": 490,
+        "y": 941,
+        "width": 141,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "They're holding hands",
+      "cleanText": "They're holding hands",
+      "bbox": {
+        "x": 490,
+        "y": 998,
+        "width": 252,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "By holding tails.",
+      "cleanText": "By holding tails.",
+      "bbox": {
+        "x": 490,
+        "y": 1037,
+        "width": 187,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "(Abridged)",
+      "cleanText": "(Abridged)",
+      "bbox": {
+        "x": 766,
+        "y": 1081,
+        "width": 135,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-024-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Recite the poem in groups, in pairs and then individually.",
+      "cleanText": "Recite the poem in groups, in pairs and then individually.",
+      "bbox": {
+        "x": 213,
+        "y": 1381,
+        "width": 721,
+        "height": 27
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-022",
+      "lineNumber": 22
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-024-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 7 Holding Hands",
+      "bbox": {
+        "x": 326,
+        "y": 201,
+        "width": 529,
+        "height": 39
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-003",
+      "lineNumber": 3,
+      "text": "© recognise word and stress on words in sentences",
+      "bbox": {
+        "x": 231,
+        "y": 326,
+        "width": 528,
+        "height": 24
+      },
+      "confidence": 90.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-004",
+      "lineNumber": 4,
+      "text": "© recognise intonation in sentences",
+      "bbox": {
+        "x": 231,
+        "y": 359,
+        "width": 367,
+        "height": 24
+      },
+      "confidence": 87.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-005",
+      "lineNumber": 5,
+      "text": "© understand and enjoy stories and poems",
+      "bbox": {
+        "x": 231,
+        "y": 392,
+        "width": 437,
+        "height": 24
+      },
+      "confidence": 92.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-008",
+      "lineNumber": 8,
+      "text": "-Leonore M Link",
+      "bbox": {
+        "x": 715,
+        "y": 545,
+        "width": 190,
+        "height": 19
+      },
+      "confidence": 93.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-009",
+      "lineNumber": 9,
+      "text": "Elephants walking",
+      "bbox": {
+        "x": 491,
+        "y": 584,
+        "width": 209,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-010",
+      "lineNumber": 10,
+      "text": "Along the trails",
+      "bbox": {
+        "x": 490,
+        "y": 624,
+        "width": 176,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-011",
+      "lineNumber": 11,
+      "text": "Are holding hands",
+      "bbox": {
+        "x": 490,
+        "y": 663,
+        "width": 209,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-012",
+      "lineNumber": 12,
+      "text": "By holding tails.",
+      "bbox": {
+        "x": 490,
+        "y": 703,
+        "width": 188,
+        "height": 26
+      },
+      "confidence": 88.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-013",
+      "lineNumber": 13,
+      "text": "Trunks and tails",
+      "bbox": {
+        "x": 490,
+        "y": 743,
+        "width": 181,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-014",
+      "lineNumber": 14,
+      "text": "Are handy things",
+      "bbox": {
+        "x": 490,
+        "y": 782,
+        "width": 195,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-015",
+      "lineNumber": 15,
+      "text": "When elephants walk",
+      "bbox": {
+        "x": 490,
+        "y": 822,
+        "width": 244,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-016",
+      "lineNumber": 16,
+      "text": "In Circus rings.",
+      "bbox": {
+        "x": 490,
+        "y": 861,
+        "width": 174,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-017",
+      "lineNumber": 17,
+      "text": "And when they walk —",
+      "bbox": {
+        "x": 491,
+        "y": 897,
+        "width": 256,
+        "height": 35
+      },
+      "confidence": 93.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-018",
+      "lineNumber": 18,
+      "text": "It never fails",
+      "bbox": {
+        "x": 490,
+        "y": 941,
+        "width": 141,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-019",
+      "lineNumber": 19,
+      "text": "They're holding hands",
+      "bbox": {
+        "x": 490,
+        "y": 998,
+        "width": 252,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-020",
+      "lineNumber": 20,
+      "text": "By holding tails.",
+      "bbox": {
+        "x": 490,
+        "y": 1037,
+        "width": 187,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-022",
+      "lineNumber": 22,
+      "text": "Recite the poem in groups, in pairs and then individually.",
+      "bbox": {
+        "x": 213,
+        "y": 1381,
+        "width": 721,
+        "height": 27
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 7 Holding Hands\nAfter completing the lesson students will be able to\n© recognise word and stress on words in sentences\n© recognise intonation in sentences\n© understand and enjoy stories and poems\nListen and read.\nHolding Hands\n-Leonore M Link\nElephants walking\nAlong the trails\nAre holding hands\nBy holding tails.\nTrunks and tails\nAre handy things\nWhen elephants walk\nIn Circus rings.\nAnd when they walk —\nIt never fails\nThey're holding hands\nBy holding tails.\n(Abridged)\nRecite the poem in groups, in pairs and then individually.",
+  "cleanText": "Lesson 7 Holding Hands\nAfter completing the lesson students will be able to\n© recognise word and stress on words in sentences\n© recognise intonation in sentences\n© understand and enjoy stories and poems\nListen and read.\nHolding Hands\n-Leonore M Link\nElephants walking\nAlong the trails\nAre holding hands\nBy holding tails.\nTrunks and tails\nAre handy things\nWhen elephants walk\nIn Circus rings.\nAnd when they walk —\nIt never fails\nThey're holding hands\nBy holding tails.\n(Abridged)\nRecite the poem in groups, in pairs and then individually.",
+  "aiReadyText": "Lesson 7 Holding Hands\n© recognise word and stress on words in sentences\n© recognise intonation in sentences\n© understand and enjoy stories and poems\n-Leonore M Link\nElephants walking\nAlong the trails\nAre holding hands\nBy holding tails.\nTrunks and tails\nAre handy things\nWhen elephants walk\nIn Circus rings.\nAnd when they walk —\nIt never fails\nThey're holding hands\nBy holding tails.\nRecite the poem in groups, in pairs and then individually."
+}

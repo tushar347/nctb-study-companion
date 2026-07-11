@@ -1,0 +1,904 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 80,
+  "image": "/ocr/books/class6-english/page-images/page-080.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "The Concert for Bangladesh",
+      "cleanText": "The Concert for Bangladesh",
+      "bbox": {
+        "x": 359,
+        "y": 188,
+        "width": 618,
+        "height": 38
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 25",
+      "cleanText": "Lesson 25",
+      "bbox": {
+        "x": 156,
+        "y": 195,
+        "width": 154,
+        "height": 23
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-080-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "After completing the lesson students will be able to",
+      "cleanText": "After completing the lesson students will be able to",
+      "bbox": {
+        "x": 160,
+        "y": 269,
+        "width": 569,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-080-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "¢ read and understand texts",
+      "cleanText": "¢ read and understand texts",
+      "bbox": {
+        "x": 180,
+        "y": 300,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 86.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "¢ ask and answer questions",
+      "cleanText": "¢ ask and answer questions",
+      "bbox": {
+        "x": 180,
+        "y": 331,
+        "width": 284,
+        "height": 23
+      },
+      "confidence": 88.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "© participate in short dialogues and conversations on familiar topics",
+      "cleanText": "© participate in short dialogues and conversations on familiar topics",
+      "bbox": {
+        "x": 180,
+        "y": 361,
+        "width": 710,
+        "height": 24
+      },
+      "confidence": 91.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "It’s Friday evening. Mr. Farhad is watching television in the sitting",
+      "cleanText": "It’s Friday evening. Mr. Farhad is watching television in the sitting",
+      "bbox": {
+        "x": 170,
+        "y": 408,
+        "width": 861,
+        "height": 25
+      },
+      "confidence": 95.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "room. His daughter Fahmida comes in. A tall, bearded man with long",
+      "cleanText": "room. His daughter Fahmida comes in. A tall, bearded man with long",
+      "bbox": {
+        "x": 170,
+        "y": 442,
+        "width": 861,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "hair is playing a guitar and singing a song, “Bangladesh, Bangladesh...”",
+      "cleanText": "hair is playing a guitar and singing a song, “Bangladesh, Bangladesh...”",
+      "bbox": {
+        "x": 170,
+        "y": 477,
+        "width": 858,
+        "height": 25
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "on the television screen. Fahmida is thrilled to watch a foreigner singing",
+      "cleanText": "on the television screen. Fahmida is thrilled to watch a foreigner singing",
+      "bbox": {
+        "x": 170,
+        "y": 511,
+        "width": 861,
+        "height": 25
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "a song on Bangladesh. She has the following conversation with her",
+      "cleanText": "a song on Bangladesh. She has the following conversation with her",
+      "bbox": {
+        "x": 170,
+        "y": 545,
+        "width": 861,
+        "height": 26
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "father about the song and the singer:",
+      "cleanText": "father about the song and the singer:",
+      "bbox": {
+        "x": 170,
+        "y": 579,
+        "width": 446,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Father, who is this singer? He is",
+      "cleanText": "Father, who is this singer? He is",
+      "bbox": {
+        "x": 325,
+        "y": 676,
+        "width": 365,
+        "height": 26
+      },
+      "confidence": 96.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "not a Bangladeshi, is he?",
+      "cleanText": "not a Bangladeshi, is he?",
+      "bbox": {
+        "x": 325,
+        "y": 712,
+        "width": 290,
+        "height": 26
+      },
+      "confidence": 91.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Mr. Farhad",
+      "cleanText": "Mr. Farhad",
+      "bbox": {
+        "x": 159,
+        "y": 749,
+        "width": 125,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-080-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "You are right! He is not. He is a",
+      "cleanText": "You are right! He is not. He is a",
+      "bbox": {
+        "x": 325,
+        "y": 749,
+        "width": 367,
+        "height": 26
+      },
+      "confidence": 95.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "famous singer from",
+      "cleanText": "famous singer from",
+      "bbox": {
+        "x": 325,
+        "y": 784,
+        "width": 229,
+        "height": 26
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "England. His name is George",
+      "cleanText": "England. His name is George",
+      "bbox": {
+        "x": 325,
+        "y": 820,
+        "width": 341,
+        "height": 25
+      },
+      "confidence": 93.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Harrison.",
+      "cleanText": "Harrison.",
+      "bbox": {
+        "x": 327,
+        "y": 855,
+        "width": 102,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-080-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "George Harrison! Why did he",
+      "cleanText": "George Harrison! Why did he",
+      "bbox": {
+        "x": 325,
+        "y": 890,
+        "width": 343,
+        "height": 26
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "sing the song on Bangladesh?",
+      "cleanText": "sing the song on Bangladesh?",
+      "bbox": {
+        "x": 326,
+        "y": 925,
+        "width": 337,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Mr. Farhad",
+      "cleanText": "Mr. Farhad",
+      "bbox": {
+        "x": 159,
+        "y": 960,
+        "width": 124,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-080-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "That's a huge story. Harrison",
+      "cleanText": "That's a huge story. Harrison",
+      "bbox": {
+        "x": 328,
+        "y": 960,
+        "width": 331,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "was not only a famous singer",
+      "cleanText": "was not only a famous singer",
+      "bbox": {
+        "x": 325,
+        "y": 995,
+        "width": 333,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "but also a great humanist. He helped us during our Liberation",
+      "cleanText": "but also a great humanist. He helped us during our Liberation",
+      "bbox": {
+        "x": 324,
+        "y": 1031,
+        "width": 705,
+        "height": 26
+      },
+      "confidence": 96.09,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "War of 1971.",
+      "cleanText": "War of 1971.",
+      "bbox": {
+        "x": 323,
+        "y": 1061,
+        "width": 147,
+        "height": 21
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-080-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Did he come to Bangladesh to",
+      "cleanText": "Did he come to Bangladesh to",
+      "bbox": {
+        "x": 324,
+        "y": 1116,
+        "width": 344,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "take part in the Liberation War?",
+      "cleanText": "take part in the Liberation War?",
+      "bbox": {
+        "x": 326,
+        "y": 1152,
+        "width": 362,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "Mr. Farhad",
+      "cleanText": "Mr. Farhad",
+      "bbox": {
+        "x": 159,
+        "y": 1187,
+        "width": 125,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-080-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "No, my child, he didn’t come to",
+      "cleanText": "No, my child, he didn’t come to",
+      "bbox": {
+        "x": 326,
+        "y": 1187,
+        "width": 359,
+        "height": 26
+      },
+      "confidence": 94.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "Bangladesh, but he fought for",
+      "cleanText": "Bangladesh, but he fought for",
+      "bbox": {
+        "x": 325,
+        "y": 1222,
+        "width": 339,
+        "height": 26
+      },
+      "confidence": 96.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "our cause by organising the",
+      "cleanText": "our cause by organising the",
+      "bbox": {
+        "x": 325,
+        "y": 1257,
+        "width": 312,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "historic Concert for Bangladesh.",
+      "cleanText": "historic Concert for Bangladesh.",
+      "bbox": {
+        "x": 325,
+        "y": 1292,
+        "width": 371,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "Concert for Bangladesh! Please,",
+      "cleanText": "Concert for Bangladesh! Please,",
+      "bbox": {
+        "x": 326,
+        "y": 1324,
+        "width": 350,
+        "height": 34
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "father. Tell me more about it.",
+      "cleanText": "father. Tell me more about it.",
+      "bbox": {
+        "x": 325,
+        "y": 1363,
+        "width": 326,
+        "height": 20
+      },
+      "confidence": 94.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-080-line-035",
+      "lineNumber": 35
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-080-line-001",
+      "lineNumber": 1,
+      "text": "The Concert for Bangladesh",
+      "bbox": {
+        "x": 359,
+        "y": 188,
+        "width": 618,
+        "height": 38
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-004",
+      "lineNumber": 4,
+      "text": "¢ read and understand texts",
+      "bbox": {
+        "x": 180,
+        "y": 300,
+        "width": 285,
+        "height": 18
+      },
+      "confidence": 86.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-005",
+      "lineNumber": 5,
+      "text": "¢ ask and answer questions",
+      "bbox": {
+        "x": 180,
+        "y": 331,
+        "width": 284,
+        "height": 23
+      },
+      "confidence": 88.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-006",
+      "lineNumber": 6,
+      "text": "© participate in short dialogues and conversations on familiar topics",
+      "bbox": {
+        "x": 180,
+        "y": 361,
+        "width": 710,
+        "height": 24
+      },
+      "confidence": 91.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-007",
+      "lineNumber": 7,
+      "text": "It’s Friday evening. Mr. Farhad is watching television in the sitting",
+      "bbox": {
+        "x": 170,
+        "y": 408,
+        "width": 861,
+        "height": 25
+      },
+      "confidence": 95.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-008",
+      "lineNumber": 8,
+      "text": "room. His daughter Fahmida comes in. A tall, bearded man with long",
+      "bbox": {
+        "x": 170,
+        "y": 442,
+        "width": 861,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-009",
+      "lineNumber": 9,
+      "text": "hair is playing a guitar and singing a song, “Bangladesh, Bangladesh...”",
+      "bbox": {
+        "x": 170,
+        "y": 477,
+        "width": 858,
+        "height": 25
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-010",
+      "lineNumber": 10,
+      "text": "on the television screen. Fahmida is thrilled to watch a foreigner singing",
+      "bbox": {
+        "x": 170,
+        "y": 511,
+        "width": 861,
+        "height": 25
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-011",
+      "lineNumber": 11,
+      "text": "a song on Bangladesh. She has the following conversation with her",
+      "bbox": {
+        "x": 170,
+        "y": 545,
+        "width": 861,
+        "height": 26
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-012",
+      "lineNumber": 12,
+      "text": "father about the song and the singer:",
+      "bbox": {
+        "x": 170,
+        "y": 579,
+        "width": 446,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-013",
+      "lineNumber": 13,
+      "text": "Father, who is this singer? He is",
+      "bbox": {
+        "x": 325,
+        "y": 676,
+        "width": 365,
+        "height": 26
+      },
+      "confidence": 96.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-014",
+      "lineNumber": 14,
+      "text": "not a Bangladeshi, is he?",
+      "bbox": {
+        "x": 325,
+        "y": 712,
+        "width": 290,
+        "height": 26
+      },
+      "confidence": 91.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-016",
+      "lineNumber": 16,
+      "text": "You are right! He is not. He is a",
+      "bbox": {
+        "x": 325,
+        "y": 749,
+        "width": 367,
+        "height": 26
+      },
+      "confidence": 95.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-017",
+      "lineNumber": 17,
+      "text": "famous singer from",
+      "bbox": {
+        "x": 325,
+        "y": 784,
+        "width": 229,
+        "height": 26
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-018",
+      "lineNumber": 18,
+      "text": "England. His name is George",
+      "bbox": {
+        "x": 325,
+        "y": 820,
+        "width": 341,
+        "height": 25
+      },
+      "confidence": 93.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-020",
+      "lineNumber": 20,
+      "text": "George Harrison! Why did he",
+      "bbox": {
+        "x": 325,
+        "y": 890,
+        "width": 343,
+        "height": 26
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-021",
+      "lineNumber": 21,
+      "text": "sing the song on Bangladesh?",
+      "bbox": {
+        "x": 326,
+        "y": 925,
+        "width": 337,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-023",
+      "lineNumber": 23,
+      "text": "That's a huge story. Harrison",
+      "bbox": {
+        "x": 328,
+        "y": 960,
+        "width": 331,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-024",
+      "lineNumber": 24,
+      "text": "was not only a famous singer",
+      "bbox": {
+        "x": 325,
+        "y": 995,
+        "width": 333,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-025",
+      "lineNumber": 25,
+      "text": "but also a great humanist. He helped us during our Liberation",
+      "bbox": {
+        "x": 324,
+        "y": 1031,
+        "width": 705,
+        "height": 26
+      },
+      "confidence": 96.09,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-027",
+      "lineNumber": 27,
+      "text": "Did he come to Bangladesh to",
+      "bbox": {
+        "x": 324,
+        "y": 1116,
+        "width": 344,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-028",
+      "lineNumber": 28,
+      "text": "take part in the Liberation War?",
+      "bbox": {
+        "x": 326,
+        "y": 1152,
+        "width": 362,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-030",
+      "lineNumber": 30,
+      "text": "No, my child, he didn’t come to",
+      "bbox": {
+        "x": 326,
+        "y": 1187,
+        "width": 359,
+        "height": 26
+      },
+      "confidence": 94.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-031",
+      "lineNumber": 31,
+      "text": "Bangladesh, but he fought for",
+      "bbox": {
+        "x": 325,
+        "y": 1222,
+        "width": 339,
+        "height": 26
+      },
+      "confidence": 96.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-032",
+      "lineNumber": 32,
+      "text": "our cause by organising the",
+      "bbox": {
+        "x": 325,
+        "y": 1257,
+        "width": 312,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-033",
+      "lineNumber": 33,
+      "text": "historic Concert for Bangladesh.",
+      "bbox": {
+        "x": 325,
+        "y": 1292,
+        "width": 371,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-034",
+      "lineNumber": 34,
+      "text": "Concert for Bangladesh! Please,",
+      "bbox": {
+        "x": 326,
+        "y": 1324,
+        "width": 350,
+        "height": 34
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-080-line-035",
+      "lineNumber": 35,
+      "text": "father. Tell me more about it.",
+      "bbox": {
+        "x": 325,
+        "y": 1363,
+        "width": 326,
+        "height": 20
+      },
+      "confidence": 94.17,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "The Concert for Bangladesh\nLesson 25\nAfter completing the lesson students will be able to\n¢ read and understand texts\n¢ ask and answer questions\n© participate in short dialogues and conversations on familiar topics\nIt’s Friday evening. Mr. Farhad is watching television in the sitting\nroom. His daughter Fahmida comes in. A tall, bearded man with long\nhair is playing a guitar and singing a song, “Bangladesh, Bangladesh...”\non the television screen. Fahmida is thrilled to watch a foreigner singing\na song on Bangladesh. She has the following conversation with her\nfather about the song and the singer:\nFather, who is this singer? He is\nnot a Bangladeshi, is he?\nMr. Farhad\nYou are right! He is not. He is a\nfamous singer from\nEngland. His name is George\nHarrison.\nGeorge Harrison! Why did he\nsing the song on Bangladesh?\nMr. Farhad\nThat's a huge story. Harrison\nwas not only a famous singer\nbut also a great humanist. He helped us during our Liberation\nWar of 1971.\nDid he come to Bangladesh to\ntake part in the Liberation War?\nMr. Farhad\nNo, my child, he didn’t come to\nBangladesh, but he fought for\nour cause by organising the\nhistoric Concert for Bangladesh.\nConcert for Bangladesh! Please,\nfather. Tell me more about it.",
+  "cleanText": "The Concert for Bangladesh\nLesson 25\nAfter completing the lesson students will be able to\n¢ read and understand texts\n¢ ask and answer questions\n© participate in short dialogues and conversations on familiar topics\nIt’s Friday evening. Mr. Farhad is watching television in the sitting\nroom. His daughter Fahmida comes in. A tall, bearded man with long\nhair is playing a guitar and singing a song, “Bangladesh, Bangladesh...”\non the television screen. Fahmida is thrilled to watch a foreigner singing\na song on Bangladesh. She has the following conversation with her\nfather about the song and the singer:\nFather, who is this singer? He is\nnot a Bangladeshi, is he?\nMr. Farhad\nYou are right! He is not. He is a\nfamous singer from\nEngland. His name is George\nHarrison.\nGeorge Harrison! Why did he\nsing the song on Bangladesh?\nMr. Farhad\nThat's a huge story. Harrison\nwas not only a famous singer\nbut also a great humanist. He helped us during our Liberation\nWar of 1971.\nDid he come to Bangladesh to\ntake part in the Liberation War?\nMr. Farhad\nNo, my child, he didn’t come to\nBangladesh, but he fought for\nour cause by organising the\nhistoric Concert for Bangladesh.\nConcert for Bangladesh! Please,\nfather. Tell me more about it.",
+  "aiReadyText": "The Concert for Bangladesh\n¢ read and understand texts\n¢ ask and answer questions\n© participate in short dialogues and conversations on familiar topics\nIt’s Friday evening. Mr. Farhad is watching television in the sitting\nroom. His daughter Fahmida comes in. A tall, bearded man with long\nhair is playing a guitar and singing a song, “Bangladesh, Bangladesh...”\non the television screen. Fahmida is thrilled to watch a foreigner singing\na song on Bangladesh. She has the following conversation with her\nfather about the song and the singer:\nFather, who is this singer? He is\nnot a Bangladeshi, is he?\nYou are right! He is not. He is a\nfamous singer from\nEngland. His name is George\nGeorge Harrison! Why did he\nsing the song on Bangladesh?\nThat's a huge story. Harrison\nwas not only a famous singer\nbut also a great humanist. He helped us during our Liberation\nDid he come to Bangladesh to\ntake part in the Liberation War?\nNo, my child, he didn’t come to\nBangladesh, but he fought for\nour cause by organising the\nhistoric Concert for Bangladesh.\nConcert for Bangladesh! Please,\nfather. Tell me more about it."
+}

@@ -1,0 +1,366 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 25,
+  "image": "/ocr/books/class6-english/page-images/page-025.png",
+  "width": 1169,
+  "height": 1521,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Look at the following words.",
+      "cleanText": "Look at the following words.",
+      "bbox": {
+        "x": 210,
+        "y": 174,
+        "width": 372,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Each word has more than one meaning. The meaning in which a",
+      "cleanText": "Each word has more than one meaning. The meaning in which a",
+      "bbox": {
+        "x": 210,
+        "y": 214,
+        "width": 832,
+        "height": 28
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "word has been used in the poem is given. Can you think of",
+      "cleanText": "word has been used in the poem is given. Can you think of",
+      "bbox": {
+        "x": 209,
+        "y": 253,
+        "width": 830,
+        "height": 28
+      },
+      "confidence": 95.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "any other meaning or meanings?",
+      "cleanText": "any other meaning or meanings?",
+      "bbox": {
+        "x": 207,
+        "y": 293,
+        "width": 437,
+        "height": 28
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Trunk The long nose of an elephant",
+      "cleanText": "Trunk The long nose of an elephant",
+      "bbox": {
+        "x": 211,
+        "y": 354,
+        "width": 424,
+        "height": 26
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Ring : A round confined area in which",
+      "cleanText": "Ring : A round confined area in which",
+      "bbox": {
+        "x": 209,
+        "y": 420,
+        "width": 462,
+        "height": 26
+      },
+      "confidence": 92.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "animals or people perform or",
+      "cleanText": "animals or people perform or",
+      "bbox": {
+        "x": 301,
+        "y": 458,
+        "width": 370,
+        "height": 25
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "compete. There are seats around",
+      "cleanText": "compete. There are seats around",
+      "bbox": {
+        "x": 301,
+        "y": 495,
+        "width": 371,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "the outside of the ring for the",
+      "cleanText": "the outside of the ring for the",
+      "bbox": {
+        "x": 301,
+        "y": 532,
+        "width": 366,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "audience.",
+      "cleanText": "audience.",
+      "bbox": {
+        "x": 303,
+        "y": 567,
+        "width": 106,
+        "height": 20
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-025-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "For example : a circus ring or a boxing ring.",
+      "cleanText": "For example : a circus ring or a boxing ring.",
+      "bbox": {
+        "x": 209,
+        "y": 651,
+        "width": 507,
+        "height": 26
+      },
+      "confidence": 93.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Now, match the words above with the picture below.",
+      "cleanText": "Now, match the words above with the picture below.",
+      "bbox": {
+        "x": 210,
+        "y": 846,
+        "width": 655,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Make sentences with each of the words.",
+      "cleanText": "Make sentences with each of the words.",
+      "bbox": {
+        "x": 213,
+        "y": 1403,
+        "width": 478,
+        "height": 19
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-013",
+      "lineNumber": 13
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-025-line-001",
+      "lineNumber": 1,
+      "text": "Look at the following words.",
+      "bbox": {
+        "x": 210,
+        "y": 174,
+        "width": 372,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-002",
+      "lineNumber": 2,
+      "text": "Each word has more than one meaning. The meaning in which a",
+      "bbox": {
+        "x": 210,
+        "y": 214,
+        "width": 832,
+        "height": 28
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-003",
+      "lineNumber": 3,
+      "text": "word has been used in the poem is given. Can you think of",
+      "bbox": {
+        "x": 209,
+        "y": 253,
+        "width": 830,
+        "height": 28
+      },
+      "confidence": 95.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-004",
+      "lineNumber": 4,
+      "text": "any other meaning or meanings?",
+      "bbox": {
+        "x": 207,
+        "y": 293,
+        "width": 437,
+        "height": 28
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-005",
+      "lineNumber": 5,
+      "text": "Trunk The long nose of an elephant",
+      "bbox": {
+        "x": 211,
+        "y": 354,
+        "width": 424,
+        "height": 26
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-006",
+      "lineNumber": 6,
+      "text": "Ring : A round confined area in which",
+      "bbox": {
+        "x": 209,
+        "y": 420,
+        "width": 462,
+        "height": 26
+      },
+      "confidence": 92.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-007",
+      "lineNumber": 7,
+      "text": "animals or people perform or",
+      "bbox": {
+        "x": 301,
+        "y": 458,
+        "width": 370,
+        "height": 25
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-008",
+      "lineNumber": 8,
+      "text": "compete. There are seats around",
+      "bbox": {
+        "x": 301,
+        "y": 495,
+        "width": 371,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-009",
+      "lineNumber": 9,
+      "text": "the outside of the ring for the",
+      "bbox": {
+        "x": 301,
+        "y": 532,
+        "width": 366,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-011",
+      "lineNumber": 11,
+      "text": "For example : a circus ring or a boxing ring.",
+      "bbox": {
+        "x": 209,
+        "y": 651,
+        "width": 507,
+        "height": 26
+      },
+      "confidence": 93.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-012",
+      "lineNumber": 12,
+      "text": "Now, match the words above with the picture below.",
+      "bbox": {
+        "x": 210,
+        "y": 846,
+        "width": 655,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-013",
+      "lineNumber": 13,
+      "text": "Make sentences with each of the words.",
+      "bbox": {
+        "x": 213,
+        "y": 1403,
+        "width": 478,
+        "height": 19
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Look at the following words.\nEach word has more than one meaning. The meaning in which a\nword has been used in the poem is given. Can you think of\nany other meaning or meanings?\nTrunk The long nose of an elephant\nRing : A round confined area in which\nanimals or people perform or\ncompete. There are seats around\nthe outside of the ring for the\naudience.\nFor example : a circus ring or a boxing ring.\nNow, match the words above with the picture below.\nMake sentences with each of the words.",
+  "cleanText": "Look at the following words.\nEach word has more than one meaning. The meaning in which a\nword has been used in the poem is given. Can you think of\nany other meaning or meanings?\nTrunk The long nose of an elephant\nRing : A round confined area in which\nanimals or people perform or\ncompete. There are seats around\nthe outside of the ring for the\naudience.\nFor example : a circus ring or a boxing ring.\nNow, match the words above with the picture below.\nMake sentences with each of the words.",
+  "aiReadyText": "Look at the following words.\nEach word has more than one meaning. The meaning in which a\nword has been used in the poem is given. Can you think of\nany other meaning or meanings?\nTrunk The long nose of an elephant\nRing : A round confined area in which\nanimals or people perform or\ncompete. There are seats around\nthe outside of the ring for the\nFor example : a circus ring or a boxing ring.\nNow, match the words above with the picture below.\nMake sentences with each of the words."
+}

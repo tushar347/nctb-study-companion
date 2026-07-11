@@ -1,0 +1,208 @@
+⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+⨯ Error: Failed to load external module @prisma/client-2c3a283f134fdcb6: Error: Cannot find module '.prisma/client/default'
+Require stack:
+- D:\nctb-study-companion-starter\node_modules\@prisma\client\default.js
+- D:\nctb-study-companion-starter\.next\dev\server\chunks\[root-of-the-server]__0ichpnm._.js
+- D:\nctb-study-companion-starter\.next\dev\server\chunks\[turbopack]_runtime.js
+- D:\nctb-study-companion-starter\.next\dev\server\app\api\books\class6\index\route.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\require.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\load-components.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\build\utils.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\router-server.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\start-server.js
+    at module evaluation (lib\prisma.ts:1:1)
+    at module evaluation (lib\rewardSystem.ts:1:1)
+    at module evaluation (app\api\agent\learning-loop\route.ts:1:1)
+    at Object.<anonymous> (D:\nctb-study-companion-starter\.next\dev\server\app\api\agent\learning-loop\route.js:6:3)
+> 1 | import { PrismaClient } from "@prisma/client";
+    | ^
+  2 |
+  3 | const globalForPrisma = globalThis as unknown as {
+  4 |   prisma?: PrismaClient; {
+  page: '/api/agent/learning-loop'
+}
+⨯ Error: Failed to load external module @prisma/client-2c3a283f134fdcb6: Error: Cannot find module '.prisma/client/default'
+Require stack:
+- D:\nctb-study-companion-starter\node_modules\@prisma\client\default.js
+- D:\nctb-study-companion-starter\.next\dev\server\chunks\[root-of-the-server]__0ichpnm._.js
+- D:\nctb-study-companion-starter\.next\dev\server\chunks\[turbopack]_runtime.js
+- D:\nctb-study-companion-starter\.next\dev\server\app\api\books\class6\index\route.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\require.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\load-components.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\build\utils.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\router-server.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\start-server.js
+    at module evaluation (lib\prisma.ts:1:1)
+    at module evaluation (lib\rewardSystem.ts:1:1)
+    at module evaluation (app\api\agent\learning-loop\route.ts:1:1)
+    at Object.<anonymous> (D:\nctb-study-companion-starter\.next\dev\server\app\api\agent\learning-loop\route.js:6:3)
+> 1 | import { PrismaClient } from "@prisma/client";
+    | ^
+  2 |
+  3 | const globalForPrisma = globalThis as unknown as {
+  4 |   prisma?: PrismaClient; {
+  page: '/api/agent/learning-loop'
+}
+⨯ Error: Failed to load external module @prisma/client-2c3a283f134fdcb6: Error: Cannot find module '.prisma/client/default'
+Require stack:
+- D:\nctb-study-companion-starter\node_modules\@prisma\client\default.js
+- D:\nctb-study-companion-starter\.next\dev\server\chunks\[root-of-the-server]__0ichpnm._.js
+- D:\nctb-study-companion-starter\.next\dev\server\chunks\[turbopack]_runtime.js
+- D:\nctb-study-companion-starter\.next\dev\server\app\api\books\class6\index\route.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\require.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\load-components.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\build\utils.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\router-server.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\start-server.js
+    at module evaluation (lib\prisma.ts:1:1)
+    at module evaluation (lib\rewardSystem.ts:1:1)
+    at module evaluation (app\api\agent\learning-loop\route.ts:1:1)
+    at Object.<anonymous> (D:\nctb-study-companion-starter\.next\dev\server\app\api\agent\learning-loop\route.js:6:3)
+> 1 | import { PrismaClient } from "@prisma/client";
+    | ^
+  2 |
+  3 | const globalForPrisma = globalThis as unknown as {
+  4 |   prisma?: PrismaClient; {
+  page: '/api/agent/learning-loop'
+}
+⨯ Error: Failed to load external module @prisma/client-2c3a283f134fdcb6: Error: Cannot find module '.prisma/client/default'
+Require stack:
+- D:\nctb-study-companion-starter\node_modules\@prisma\client\default.js
+- D:\nctb-study-companion-starter\.next\dev\server\chunks\[root-of-the-server]__0ichpnm._.js
+- D:\nctb-study-companion-starter\.next\dev\server\chunks\[turbopack]_runtime.js
+- D:\nctb-study-companion-starter\.next\dev\server\app\api\books\class6\index\route.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\require.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\load-components.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\build\utils.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\router-server.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\start-server.js
+    at module evaluation (lib\prisma.ts:1:1)
+    at module evaluation (lib\rewardSystem.ts:1:1)
+    at module evaluation (app\api\agent\learning-loop\route.ts:1:1)
+    at Object.<anonymous> (D:\nctb-study-companion-starter\.next\dev\server\app\api\agent\learning-loop\route.js:6:3)
+> 1 | import { PrismaClient } from "@prisma/client";
+    | ^
+  2 |
+  3 | const globalForPrisma = globalThis as unknown as {
+  4 |   prisma?: PrismaClient; {
+  page: '/api/agent/learning-loop'
+}
+⨯ Error: Failed to load external module @prisma/client-2c3a283f134fdcb6: Error: Cannot find module '.prisma/client/default'
+Require stack:
+- D:\nctb-study-companion-starter\node_modules\@prisma\client\default.js
+- D:\nctb-study-companion-starter\.next\dev\server\chunks\[root-of-the-server]__0ichpnm._.js
+- D:\nctb-study-companion-starter\.next\dev\server\chunks\[turbopack]_runtime.js
+- D:\nctb-study-companion-starter\.next\dev\server\app\api\books\class6\index\route.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\require.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\load-components.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\build\utils.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\router-server.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\start-server.js
+    at module evaluation (lib\prisma.ts:1:1)
+    at module evaluation (lib\rewardSystem.ts:1:1)
+    at module evaluation (app\api\agent\learning-loop\route.ts:1:1)
+    at Object.<anonymous> (D:\nctb-study-companion-starter\.next\dev\server\app\api\agent\learning-loop\route.js:6:3)
+> 1 | import { PrismaClient } from "@prisma/client";
+    | ^
+  2 |
+  3 | const globalForPrisma = globalThis as unknown as {
+  4 |   prisma?: PrismaClient; {
+  page: '/api/agent/learning-loop'
+}
+⨯ Error: Failed to load external module @prisma/client-2c3a283f134fdcb6: Error: Cannot find module '.prisma/client/default'
+Require stack:
+- D:\nctb-study-companion-starter\node_modules\@prisma\client\default.js
+- D:\nctb-study-companion-starter\.next\dev\server\chunks\[root-of-the-server]__0ichpnm._.js
+- D:\nctb-study-companion-starter\.next\dev\server\chunks\[turbopack]_runtime.js
+- D:\nctb-study-companion-starter\.next\dev\server\app\api\books\class6\index\route.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\require.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\load-components.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\build\utils.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\router-server.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\start-server.js
+    at module evaluation (lib\prisma.ts:1:1)
+    at module evaluation (lib\rewardSystem.ts:1:1)
+    at module evaluation (app\api\agent\learning-loop\route.ts:1:1)
+    at Object.<anonymous> (D:\nctb-study-companion-starter\.next\dev\server\app\api\agent\learning-loop\route.js:6:3)
+> 1 | import { PrismaClient } from "@prisma/client";
+    | ^
+  2 |
+  3 | const globalForPrisma = globalThis as unknown as {
+  4 |   prisma?: PrismaClient; {
+  page: '/api/agent/learning-loop'
+}
+⨯ Error: Failed to load external module @prisma/client-2c3a283f134fdcb6: Error: Cannot find module '.prisma/client/default'
+Require stack:
+- D:\nctb-study-companion-starter\node_modules\@prisma\client\default.js
+- D:\nctb-study-companion-starter\.next\dev\server\chunks\[root-of-the-server]__0ichpnm._.js
+- D:\nctb-study-companion-starter\.next\dev\server\chunks\[turbopack]_runtime.js
+- D:\nctb-study-companion-starter\.next\dev\server\app\api\books\class6\index\route.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\require.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\load-components.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\build\utils.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\router-server.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\start-server.js
+    at module evaluation (lib\prisma.ts:1:1)
+    at module evaluation (lib\rewardSystem.ts:1:1)
+    at module evaluation (app\api\agent\learning-loop\route.ts:1:1)
+    at Object.<anonymous> (D:\nctb-study-companion-starter\.next\dev\server\app\api\agent\learning-loop\route.js:6:3)
+> 1 | import { PrismaClient } from "@prisma/client";
+    | ^
+  2 |
+  3 | const globalForPrisma = globalThis as unknown as {
+  4 |   prisma?: PrismaClient; {
+  page: '/api/agent/learning-loop'
+}
+⨯ Error: Failed to load external module @prisma/client-2c3a283f134fdcb6: Error: Cannot find module '.prisma/client/default'
+Require stack:
+- D:\nctb-study-companion-starter\node_modules\@prisma\client\default.js
+- D:\nctb-study-companion-starter\.next\dev\server\chunks\[root-of-the-server]__0ichpnm._.js
+- D:\nctb-study-companion-starter\.next\dev\server\chunks\[turbopack]_runtime.js
+- D:\nctb-study-companion-starter\.next\dev\server\app\api\books\class6\index\route.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\require.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\load-components.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\build\utils.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\router-server.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\start-server.js
+    at module evaluation (lib\prisma.ts:1:1)
+    at module evaluation (lib\rewardSystem.ts:1:1)
+    at module evaluation (app\api\agent\learning-loop\route.ts:1:1)
+    at Object.<anonymous> (D:\nctb-study-companion-starter\.next\dev\server\app\api\agent\learning-loop\route.js:6:3)
+> 1 | import { PrismaClient } from "@prisma/client";
+    | ^
+  2 |
+  3 | const globalForPrisma = globalThis as unknown as {
+  4 |   prisma?: PrismaClient; {
+  page: '/api/agent/learning-loop'
+}
+⨯ Error: Failed to load external module @prisma/client-2c3a283f134fdcb6: Error: Cannot find module '.prisma/client/default'
+Require stack:
+- D:\nctb-study-companion-starter\node_modules\@prisma\client\default.js
+- D:\nctb-study-companion-starter\.next\dev\server\chunks\[root-of-the-server]__0ichpnm._.js
+- D:\nctb-study-companion-starter\.next\dev\server\chunks\[turbopack]_runtime.js
+- D:\nctb-study-companion-starter\.next\dev\server\app\api\books\class6\index\route.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\require.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\load-components.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\build\utils.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\router-server.js
+- D:\nctb-study-companion-starter\node_modules\next\dist\server\lib\start-server.js
+    at module evaluation (lib\prisma.ts:1:1)
+    at module evaluation (lib\rewardSystem.ts:1:1)
+    at module evaluation (app\api\agent\learning-loop\route.ts:1:1)
+    at Object.<anonymous> (D:\nctb-study-companion-starter\.next\dev\server\app\api\agent\learning-loop\route.js:6:3)
+> 1 | import { PrismaClient } from "@prisma/client";
+    | ^
+  2 |
+  3 | const globalForPrisma = globalThis as unknown as {
+  4 |   prisma?: PrismaClient; {
+  page: '/api/agent/learning-loop'
+}

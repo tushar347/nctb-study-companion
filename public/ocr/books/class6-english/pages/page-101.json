@@ -1,0 +1,366 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 101,
+  "image": "/ocr/books/class6-english/page-images/page-101.png",
+  "width": 1149,
+  "height": 1525,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Frog ran up the path. “What is going on?” he asked.",
+      "cleanText": "Frog ran up the path. “What is going on?” he asked.",
+      "bbox": {
+        "x": 197,
+        "y": 173,
+        "width": 589,
+        "height": 26
+      },
+      "confidence": 93.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "\"My seeds will not grow,\" said Toad.",
+      "cleanText": "\"My seeds will not grow,\" said Toad.",
+      "bbox": {
+        "x": 199,
+        "y": 252,
+        "width": 417,
+        "height": 26
+      },
+      "confidence": 95.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "\"You are shouting too much,” said Frog.",
+      "cleanText": "\"You are shouting too much,” said Frog.",
+      "bbox": {
+        "x": 199,
+        "y": 331,
+        "width": 456,
+        "height": 26
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "\"These poor seeds are afraid to grow.”",
+      "cleanText": "\"These poor seeds are afraid to grow.”",
+      "bbox": {
+        "x": 199,
+        "y": 371,
+        "width": 431,
+        "height": 26
+      },
+      "confidence": 91.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "\"My seeds are afraid to grow?\" asked",
+      "cleanText": "\"My seeds are afraid to grow?\" asked",
+      "bbox": {
+        "x": 199,
+        "y": 450,
+        "width": 424,
+        "height": 26
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "\"Yes,\" said Frog. \"Leave them alone for",
+      "cleanText": "\"Yes,\" said Frog. \"Leave them alone for",
+      "bbox": {
+        "x": 541,
+        "y": 886,
+        "width": 453,
+        "height": 25
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "a few days. Let the sun shine on them, let",
+      "cleanText": "a few days. Let the sun shine on them, let",
+      "bbox": {
+        "x": 540,
+        "y": 925,
+        "width": 471,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "the rain fall on them. Soon your seeds will",
+      "cleanText": "the rain fall on them. Soon your seeds will",
+      "bbox": {
+        "x": 540,
+        "y": 965,
+        "width": 481,
+        "height": 26
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "start to grow.”",
+      "cleanText": "start to grow.”",
+      "bbox": {
+        "x": 540,
+        "y": 1005,
+        "width": 157,
+        "height": 25
+      },
+      "confidence": 90.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "That night Toad looked out his window.",
+      "cleanText": "That night Toad looked out his window.",
+      "bbox": {
+        "x": 539,
+        "y": 1084,
+        "width": 452,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "\"Oh, no!” cried Toad. \"My seeds have",
+      "cleanText": "\"Oh, no!” cried Toad. \"My seeds have",
+      "bbox": {
+        "x": 541,
+        "y": 1163,
+        "width": 430,
+        "height": 26
+      },
+      "confidence": 92.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "not started to grow. They must be afraid of",
+      "cleanText": "not started to grow. They must be afraid of",
+      "bbox": {
+        "x": 540,
+        "y": 1202,
+        "width": 486,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "the dark.”",
+      "cleanText": "the dark.”",
+      "bbox": {
+        "x": 539,
+        "y": 1242,
+        "width": 109,
+        "height": 20
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-101-line-013",
+      "lineNumber": 13
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-101-line-001",
+      "lineNumber": 1,
+      "text": "Frog ran up the path. “What is going on?” he asked.",
+      "bbox": {
+        "x": 197,
+        "y": 173,
+        "width": 589,
+        "height": 26
+      },
+      "confidence": 93.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-002",
+      "lineNumber": 2,
+      "text": "\"My seeds will not grow,\" said Toad.",
+      "bbox": {
+        "x": 199,
+        "y": 252,
+        "width": 417,
+        "height": 26
+      },
+      "confidence": 95.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-003",
+      "lineNumber": 3,
+      "text": "\"You are shouting too much,” said Frog.",
+      "bbox": {
+        "x": 199,
+        "y": 331,
+        "width": 456,
+        "height": 26
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-004",
+      "lineNumber": 4,
+      "text": "\"These poor seeds are afraid to grow.”",
+      "bbox": {
+        "x": 199,
+        "y": 371,
+        "width": 431,
+        "height": 26
+      },
+      "confidence": 91.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-005",
+      "lineNumber": 5,
+      "text": "\"My seeds are afraid to grow?\" asked",
+      "bbox": {
+        "x": 199,
+        "y": 450,
+        "width": 424,
+        "height": 26
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-006",
+      "lineNumber": 6,
+      "text": "\"Yes,\" said Frog. \"Leave them alone for",
+      "bbox": {
+        "x": 541,
+        "y": 886,
+        "width": 453,
+        "height": 25
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-007",
+      "lineNumber": 7,
+      "text": "a few days. Let the sun shine on them, let",
+      "bbox": {
+        "x": 540,
+        "y": 925,
+        "width": 471,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-008",
+      "lineNumber": 8,
+      "text": "the rain fall on them. Soon your seeds will",
+      "bbox": {
+        "x": 540,
+        "y": 965,
+        "width": 481,
+        "height": 26
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-009",
+      "lineNumber": 9,
+      "text": "start to grow.”",
+      "bbox": {
+        "x": 540,
+        "y": 1005,
+        "width": 157,
+        "height": 25
+      },
+      "confidence": 90.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-010",
+      "lineNumber": 10,
+      "text": "That night Toad looked out his window.",
+      "bbox": {
+        "x": 539,
+        "y": 1084,
+        "width": 452,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-011",
+      "lineNumber": 11,
+      "text": "\"Oh, no!” cried Toad. \"My seeds have",
+      "bbox": {
+        "x": 541,
+        "y": 1163,
+        "width": 430,
+        "height": 26
+      },
+      "confidence": 92.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-012",
+      "lineNumber": 12,
+      "text": "not started to grow. They must be afraid of",
+      "bbox": {
+        "x": 540,
+        "y": 1202,
+        "width": 486,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Frog ran up the path. “What is going on?” he asked.\n\"My seeds will not grow,\" said Toad.\n\"You are shouting too much,” said Frog.\n\"These poor seeds are afraid to grow.”\n\"My seeds are afraid to grow?\" asked\n\"Yes,\" said Frog. \"Leave them alone for\na few days. Let the sun shine on them, let\nthe rain fall on them. Soon your seeds will\nstart to grow.”\nThat night Toad looked out his window.\n\"Oh, no!” cried Toad. \"My seeds have\nnot started to grow. They must be afraid of\nthe dark.”",
+  "cleanText": "Frog ran up the path. “What is going on?” he asked.\n\"My seeds will not grow,\" said Toad.\n\"You are shouting too much,” said Frog.\n\"These poor seeds are afraid to grow.”\n\"My seeds are afraid to grow?\" asked\n\"Yes,\" said Frog. \"Leave them alone for\na few days. Let the sun shine on them, let\nthe rain fall on them. Soon your seeds will\nstart to grow.”\nThat night Toad looked out his window.\n\"Oh, no!” cried Toad. \"My seeds have\nnot started to grow. They must be afraid of\nthe dark.”",
+  "aiReadyText": "Frog ran up the path. “What is going on?” he asked.\n\"My seeds will not grow,\" said Toad.\n\"You are shouting too much,” said Frog.\n\"These poor seeds are afraid to grow.”\n\"My seeds are afraid to grow?\" asked\n\"Yes,\" said Frog. \"Leave them alone for\na few days. Let the sun shine on them, let\nthe rain fall on them. Soon your seeds will\nstart to grow.”\nThat night Toad looked out his window.\n\"Oh, no!” cried Toad. \"My seeds have\nnot started to grow. They must be afraid of"
+}

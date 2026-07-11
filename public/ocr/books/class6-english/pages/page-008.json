@@ -1,0 +1,682 @@
+{
+  "bookId": "class6-english",
+  "pageNumber": 8,
+  "image": "/ocr/books/class6-english/page-images/page-008.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "English For Today 3",
+      "cleanText": "English For Today 3",
+      "bbox": {
+        "x": 122,
+        "y": 76,
+        "width": 910,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "B2. Match a word from Column A with a word (or words) from",
+      "cleanText": "B2. Match a word from Column A with a word (or words) from",
+      "bbox": {
+        "x": 122,
+        "y": 146,
+        "width": 877,
+        "height": 25
+      },
+      "confidence": 95.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Column B that has (or have) similar meaning.",
+      "cleanText": "Column B that has (or have) similar meaning.",
+      "bbox": {
+        "x": 182,
+        "y": 184,
+        "width": 578,
+        "height": 36
+      },
+      "confidence": 93.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Column A Column B",
+      "cleanText": "Column A Column B",
+      "bbox": {
+        "x": 194,
+        "y": 252,
+        "width": 640,
+        "height": 20
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "interesting lovingly",
+      "cleanText": "interesting lovingly",
+      "bbox": {
+        "x": 194,
+        "y": 314,
+        "width": 552,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "frightened amusing",
+      "cleanText": "frightened amusing",
+      "bbox": {
+        "x": 193,
+        "y": 357,
+        "width": 554,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "happy afraid",
+      "cleanText": "happy afraid",
+      "bbox": {
+        "x": 194,
+        "y": 403,
+        "width": 522,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-008-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "excited glad",
+      "cleanText": "excited glad",
+      "bbox": {
+        "x": 193,
+        "y": 444,
+        "width": 506,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-008-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "warmly thrilled",
+      "cleanText": "warmly thrilled",
+      "bbox": {
+        "x": 193,
+        "y": 490,
+        "width": 541,
+        "height": 26
+      },
+      "confidence": 96.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "B3. Talk about your first day at school and how you felt-happy, frightened,",
+      "cleanText": "B3. Talk about your first day at school and how you felt-happy, frightened,",
+      "bbox": {
+        "x": 123,
+        "y": 545,
+        "width": 932,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "thrilled or shy. Work in groups.",
+      "cleanText": "thrilled or shy. Work in groups.",
+      "bbox": {
+        "x": 184,
+        "y": 586,
+        "width": 399,
+        "height": 27
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "B4. Now, write a paragraph on how you felt on your first day at school",
+      "cleanText": "B4. Now, write a paragraph on how you felt on your first day at school",
+      "bbox": {
+        "x": 123,
+        "y": 637,
+        "width": 913,
+        "height": 27
+      },
+      "confidence": 95.47,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "and why you felt so.",
+      "cleanText": "and why you felt so.",
+      "bbox": {
+        "x": 187,
+        "y": 676,
+        "width": 252,
+        "height": 27
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "C. Read the following poem and complete this lesson with fun and",
+      "cleanText": "Read the following poem and complete this lesson with fun and",
+      "bbox": {
+        "x": 124,
+        "y": 725,
+        "width": 908,
+        "height": 27
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-008-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "laughter.",
+      "cleanText": "laughter.",
+      "bbox": {
+        "x": 186,
+        "y": 774,
+        "width": 110,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-008-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Let’s Play",
+      "cleanText": "Let’s Play",
+      "bbox": {
+        "x": 286,
+        "y": 814,
+        "width": 120,
+        "height": 25
+      },
+      "confidence": 90.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-008-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "- Kate Greenaway",
+      "cleanText": "- Kate Greenaway",
+      "bbox": {
+        "x": 331,
+        "y": 855,
+        "width": 207,
+        "height": 25
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "School is over,",
+      "cleanText": "School is over,",
+      "bbox": {
+        "x": 203,
+        "y": 904,
+        "width": 173,
+        "height": 23
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Oh, what fun!",
+      "cleanText": "Oh, what fun!",
+      "bbox": {
+        "x": 268,
+        "y": 947,
+        "width": 156,
+        "height": 23
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-008-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Lessons finished,",
+      "cleanText": "Lessons finished,",
+      "bbox": {
+        "x": 202,
+        "y": 990,
+        "width": 196,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Play begun.",
+      "cleanText": "Play begun.",
+      "bbox": {
+        "x": 267,
+        "y": 1039,
+        "width": 132,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-008-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Who'll run fastest,",
+      "cleanText": "Who'll run fastest,",
+      "bbox": {
+        "x": 202,
+        "y": 1084,
+        "width": 207,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "You or I?",
+      "cleanText": "You or I?",
+      "bbox": {
+        "x": 268,
+        "y": 1133,
+        "width": 104,
+        "height": 20
+      },
+      "confidence": 80.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-008-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Who'll laugh loudest?",
+      "cleanText": "Who'll laugh loudest?",
+      "bbox": {
+        "x": 202,
+        "y": 1181,
+        "width": 248,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Let us try.",
+      "cleanText": "Let us try.",
+      "bbox": {
+        "x": 274,
+        "y": 1232,
+        "width": 114,
+        "height": 26
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-008-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "C1. Notice the use of punctuation marks in the poem. Why are the",
+      "cleanText": "C1. Notice the use of punctuation marks in the poem. Why are the",
+      "bbox": {
+        "x": 124,
+        "y": 1303,
+        "width": 908,
+        "height": 27
+      },
+      "confidence": 95.46,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "exclamation marks (!), the question marks (?), and the full stops (.)",
+      "cleanText": "exclamation marks (!), the question marks (?), and the full stops (.)",
+      "bbox": {
+        "x": 186,
+        "y": 1343,
+        "width": 849,
+        "height": 27
+      },
+      "confidence": 94.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "used in these places?",
+      "cleanText": "used in these places?",
+      "bbox": {
+        "x": 185,
+        "y": 1383,
+        "width": 263,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-028",
+      "lineNumber": 28
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-008-line-001",
+      "lineNumber": 1,
+      "text": "English For Today 3",
+      "bbox": {
+        "x": 122,
+        "y": 76,
+        "width": 910,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-002",
+      "lineNumber": 2,
+      "text": "B2. Match a word from Column A with a word (or words) from",
+      "bbox": {
+        "x": 122,
+        "y": 146,
+        "width": 877,
+        "height": 25
+      },
+      "confidence": 95.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-003",
+      "lineNumber": 3,
+      "text": "Column B that has (or have) similar meaning.",
+      "bbox": {
+        "x": 182,
+        "y": 184,
+        "width": 578,
+        "height": 36
+      },
+      "confidence": 93.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-004",
+      "lineNumber": 4,
+      "text": "Column A Column B",
+      "bbox": {
+        "x": 194,
+        "y": 252,
+        "width": 640,
+        "height": 20
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-005",
+      "lineNumber": 5,
+      "text": "interesting lovingly",
+      "bbox": {
+        "x": 194,
+        "y": 314,
+        "width": 552,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-006",
+      "lineNumber": 6,
+      "text": "frightened amusing",
+      "bbox": {
+        "x": 193,
+        "y": 357,
+        "width": 554,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-009",
+      "lineNumber": 9,
+      "text": "warmly thrilled",
+      "bbox": {
+        "x": 193,
+        "y": 490,
+        "width": 541,
+        "height": 26
+      },
+      "confidence": 96.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-010",
+      "lineNumber": 10,
+      "text": "B3. Talk about your first day at school and how you felt-happy, frightened,",
+      "bbox": {
+        "x": 123,
+        "y": 545,
+        "width": 932,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-011",
+      "lineNumber": 11,
+      "text": "thrilled or shy. Work in groups.",
+      "bbox": {
+        "x": 184,
+        "y": 586,
+        "width": 399,
+        "height": 27
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-012",
+      "lineNumber": 12,
+      "text": "B4. Now, write a paragraph on how you felt on your first day at school",
+      "bbox": {
+        "x": 123,
+        "y": 637,
+        "width": 913,
+        "height": 27
+      },
+      "confidence": 95.47,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-013",
+      "lineNumber": 13,
+      "text": "and why you felt so.",
+      "bbox": {
+        "x": 187,
+        "y": 676,
+        "width": 252,
+        "height": 27
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-017",
+      "lineNumber": 17,
+      "text": "- Kate Greenaway",
+      "bbox": {
+        "x": 331,
+        "y": 855,
+        "width": 207,
+        "height": 25
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-018",
+      "lineNumber": 18,
+      "text": "School is over,",
+      "bbox": {
+        "x": 203,
+        "y": 904,
+        "width": 173,
+        "height": 23
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-020",
+      "lineNumber": 20,
+      "text": "Lessons finished,",
+      "bbox": {
+        "x": 202,
+        "y": 990,
+        "width": 196,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-022",
+      "lineNumber": 22,
+      "text": "Who'll run fastest,",
+      "bbox": {
+        "x": 202,
+        "y": 1084,
+        "width": 207,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-024",
+      "lineNumber": 24,
+      "text": "Who'll laugh loudest?",
+      "bbox": {
+        "x": 202,
+        "y": 1181,
+        "width": 248,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-026",
+      "lineNumber": 26,
+      "text": "C1. Notice the use of punctuation marks in the poem. Why are the",
+      "bbox": {
+        "x": 124,
+        "y": 1303,
+        "width": 908,
+        "height": 27
+      },
+      "confidence": 95.46,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-027",
+      "lineNumber": 27,
+      "text": "exclamation marks (!), the question marks (?), and the full stops (.)",
+      "bbox": {
+        "x": 186,
+        "y": 1343,
+        "width": 849,
+        "height": 27
+      },
+      "confidence": 94.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-028",
+      "lineNumber": 28,
+      "text": "used in these places?",
+      "bbox": {
+        "x": 185,
+        "y": 1383,
+        "width": 263,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "English For Today 3\nB2. Match a word from Column A with a word (or words) from\nColumn B that has (or have) similar meaning.\nColumn A Column B\ninteresting lovingly\nfrightened amusing\nhappy afraid\nexcited glad\nwarmly thrilled\nB3. Talk about your first day at school and how you felt-happy, frightened,\nthrilled or shy. Work in groups.\nB4. Now, write a paragraph on how you felt on your first day at school\nand why you felt so.\nC. Read the following poem and complete this lesson with fun and\nlaughter.\nLet’s Play\n- Kate Greenaway\nSchool is over,\nOh, what fun!\nLessons finished,\nPlay begun.\nWho'll run fastest,\nYou or I?\nWho'll laugh loudest?\nLet us try.\nC1. Notice the use of punctuation marks in the poem. Why are the\nexclamation marks (!), the question marks (?), and the full stops (.)\nused in these places?",
+  "cleanText": "English For Today 3\nB2. Match a word from Column A with a word (or words) from\nColumn B that has (or have) similar meaning.\nColumn A Column B\ninteresting lovingly\nfrightened amusing\nhappy afraid\nexcited glad\nwarmly thrilled\nB3. Talk about your first day at school and how you felt-happy, frightened,\nthrilled or shy. Work in groups.\nB4. Now, write a paragraph on how you felt on your first day at school\nand why you felt so.\nRead the following poem and complete this lesson with fun and\nlaughter.\nLet’s Play\n- Kate Greenaway\nSchool is over,\nOh, what fun!\nLessons finished,\nPlay begun.\nWho'll run fastest,\nYou or I?\nWho'll laugh loudest?\nLet us try.\nC1. Notice the use of punctuation marks in the poem. Why are the\nexclamation marks (!), the question marks (?), and the full stops (.)\nused in these places?",
+  "aiReadyText": "English For Today 3\nB2. Match a word from Column A with a word (or words) from\nColumn B that has (or have) similar meaning.\nColumn A Column B\ninteresting lovingly\nfrightened amusing\nwarmly thrilled\nB3. Talk about your first day at school and how you felt-happy, frightened,\nthrilled or shy. Work in groups.\nB4. Now, write a paragraph on how you felt on your first day at school\nand why you felt so.\n- Kate Greenaway\nSchool is over,\nLessons finished,\nWho'll run fastest,\nWho'll laugh loudest?\nC1. Notice the use of punctuation marks in the poem. Why are the\nexclamation marks (!), the question marks (?), and the full stops (.)\nused in these places?"
+}
