@@ -31,3 +31,9 @@ prisma/dev.db
 prisma/dev.db-journal
 tsconfig.tsbuildinfo
 components/*.backup.*.tsx
+.vercel
+.env*
+.vercel/
+.env.vercel.production
+.env*.backup
+prisma/*.backup.prisma
