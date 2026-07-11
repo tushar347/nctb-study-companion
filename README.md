@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # NCTB Study Companion
+=======
+# NCTB Study Companion — Week 1 Starter
+>>>>>>> 7beeaf3bff21d425e83515865d4bc760b1f240d5
 
 A course-project prototype for Class 6 English for Today Line-by-line Study Companion.
 
@@ -47,3 +51,15 @@ The project now has a working frontend demo and a mock backend API layer. The AP
 npm install
 npm run dev
 ```
+<<<<<<< HEAD
+=======
+
+Then open the local URL shown in the terminal.
+
+## Week 1 rule
+
+Keep everything local and mock-data based. Backend, database, and AI API are Week 2+ tasks.
+
+# nctb-study-companion
+
+>>>>>>> 7beeaf3bff21d425e83515865d4bc760b1f240d5

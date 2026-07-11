@@ -1,3 +1,4 @@
+import { NextResponse } from "next/server";
 import { lesson, quizQuestions } from "@/data/lesson1";
 
 type QuizAttemptBody = {
@@ -8,22 +9,31 @@ type QuizAttemptBody = {
 
 export async function POST(request: Request) {
   try {
-    const body = (await request.json()) as QuizAttemptBody;
+    const body: QuizAttemptBody = await request.json();
+
     const answers = body.answers ?? {};
 
     const totalMarks = quizQuestions.reduce(
-      (total, question) => total + question.mark,
-      0,
+      (sum, question) => sum + question.mark,
+      0
     );
 
     const checkedAnswers = quizQuestions.map((question) => {
-      const studentAnswer = answers[question.id] ?? "";
-      const isCorrect = studentAnswer === question.answer;
+      const studentAnswer =
+        answers[question.id]?.trim() ?? "";
+
+      const correctAnswer =
+        question.answer.trim();
+
+      const isCorrect =
+        studentAnswer.toLowerCase() ===
+        correctAnswer.toLowerCase();
 
       return {
         questionId: question.id,
+        question: question.question,
         studentAnswer,
-        correctAnswer: question.answer,
+        correctAnswer,
         isCorrect,
         mark: question.mark,
         earnedMark: isCorrect ? question.mark : 0,
@@ -31,29 +41,56 @@ export async function POST(request: Request) {
     });
 
     const score = checkedAnswers.reduce(
-      (total, item) => total + item.earnedMark,
-      0,
+      (sum, item) => sum + item.earnedMark,
+      0
     );
-    const accuracy =
-      totalMarks > 0 ? Math.round((score / totalMarks) * 100) : 0;
 
-    return Response.json({
-      studentId: body.studentId ?? "demo-student-rafi",
-      lessonId: body.lessonId ?? lesson.id,
+    const accuracy =
+      totalMarks > 0
+        ? Math.round((score / totalMarks) * 100)
+        : 0;
+
+
+    return NextResponse.json({
+      success: true,
+
+      studentId:
+        body.studentId ?? "demo-student-rafi",
+
+      lessonId:
+        body.lessonId ?? lesson.id,
+
       score,
+
       totalMarks,
+
       accuracy,
+
       checkedAnswers,
-      submittedAt: new Date().toISOString(),
+
+      submittedAt:
+        new Date().toISOString(),
+
       message:
-        "Quiz attempt calculated successfully. Database saving will be added later.",
+        "Quiz attempt calculated successfully",
     });
-  } catch {
-    return Response.json(
+
+  } catch (error) {
+
+    console.error(
+      "Quiz attempt error:",
+      error
+    );
+
+    return NextResponse.json(
       {
-        error: "Invalid quiz attempt request body",
+        success: false,
+        error:
+          "Invalid quiz attempt request body",
       },
-      { status: 400 },
+      {
+        status: 400,
+      }
     );
   }
 }
