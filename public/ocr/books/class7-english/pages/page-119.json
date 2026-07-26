@@ -1,0 +1,969 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 119,
+  "image": "/ocr/books/class7-english/page-images/page-119.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Suggested Answers",
+      "cleanText": "Suggested Answers",
+      "bbox": {
+        "x": 471,
+        "y": 337,
+        "width": 358,
+        "height": 40
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "ii. Anne Sullivan",
+      "cleanText": "Anne Sullivan",
+      "bbox": {
+        "x": 351,
+        "y": 411,
+        "width": 173,
+        "height": 16
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-119-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "i. Cotton plantation",
+      "cleanText": "Cotton plantation",
+      "bbox": {
+        "x": 352,
+        "y": 444,
+        "width": 199,
+        "height": 21
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "iii. Horace Mann School for the Deaf",
+      "cleanText": "Horace Mann School for the Deaf",
+      "bbox": {
+        "x": 352,
+        "y": 477,
+        "width": 388,
+        "height": 16
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "iv. from her father hearing about it",
+      "cleanText": "from her father hearing about it",
+      "bbox": {
+        "x": 352,
+        "y": 513,
+        "width": 355,
+        "height": 21
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "ii. Through a special technique called Braille",
+      "cleanText": "Through a special technique called Braille",
+      "bbox": {
+        "x": 352,
+        "y": 547,
+        "width": 464,
+        "height": 30
+      },
+      "confidence": 93.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "i. Anne Sullivan",
+      "cleanText": "Anne Sullivan",
+      "bbox": {
+        "x": 352,
+        "y": 585,
+        "width": 165,
+        "height": 16
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-119-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "iii. Both Physical and mental disability",
+      "cleanText": "Both Physical and mental disability",
+      "bbox": {
+        "x": 352,
+        "y": 620,
+        "width": 402,
+        "height": 22
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Helen Keller’s father heard about Perkins School for the Blind and",
+      "cleanText": "Helen Keller’s father heard about Perkins School for the Blind and",
+      "bbox": {
+        "x": 328,
+        "y": 667,
+        "width": 691,
+        "height": 16
+      },
+      "confidence": 95.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "contacted the Director there.",
+      "cleanText": "contacted the Director there.",
+      "bbox": {
+        "x": 328,
+        "y": 692,
+        "width": 293,
+        "height": 17
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Helen Keller began her formal education at Horace Mann School for the Deaf in Boston.",
+      "cleanText": "Helen Keller began her formal education at Horace Mann School for the Deaf in Boston.",
+      "bbox": {
+        "x": 327,
+        "y": 730,
+        "width": 775,
+        "height": 22
+      },
+      "confidence": 94.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "The turning point in Helen Keller’s life was when she became deaf,",
+      "cleanText": "The turning point in Helen Keller’s life was when she became deaf,",
+      "bbox": {
+        "x": 327,
+        "y": 778,
+        "width": 700,
+        "height": 22
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "dumb, and blind after a high fever in 1882.",
+      "cleanText": "dumb, and blind after a high fever in 1882.",
+      "bbox": {
+        "x": 334,
+        "y": 820,
+        "width": 443,
+        "height": 21
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Anne Sullivan was sent by the Director of Perkins School for the Blind",
+      "cleanText": "Anne Sullivan was sent by the Director of Perkins School for the Blind",
+      "bbox": {
+        "x": 327,
+        "y": 861,
+        "width": 739,
+        "height": 21
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "to help Helen Keller communicate. She worked hard to teach Helen and",
+      "cleanText": "to help Helen Keller communicate. She worked hard to teach Helen and",
+      "bbox": {
+        "x": 333,
+        "y": 892,
+        "width": 733,
+        "height": 21
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "stayed with her throughout her education.",
+      "cleanText": "stayed with her throughout her education.",
+      "bbox": {
+        "x": 334,
+        "y": 923,
+        "width": 430,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Yes, Helen Keller’s decision to pursue higher education was a turning",
+      "cleanText": "Yes, Helen Keller’s decision to pursue higher education was a turning",
+      "bbox": {
+        "x": 327,
+        "y": 964,
+        "width": 739,
+        "height": 22
+      },
+      "confidence": 95.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "point in her life. It allowed her to gain knowledge, develop her commu-",
+      "cleanText": "point in her life. It allowed her to gain knowledge, develop her commu-",
+      "bbox": {
+        "x": 333,
+        "y": 996,
+        "width": 733,
+        "height": 21
+      },
+      "confidence": 95.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "nication skills, and earn a BA degree with honors, which empowered",
+      "cleanText": "nication skills, and earn a BA degree with honors, which empowered",
+      "bbox": {
+        "x": 334,
+        "y": 1027,
+        "width": 732,
+        "height": 21
+      },
+      "confidence": 95.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "her to become a humanitarian and advocate for the disabled.",
+      "cleanText": "her to become a humanitarian and advocate for the disabled.",
+      "bbox": {
+        "x": 333,
+        "y": 1058,
+        "width": 624,
+        "height": 17
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "became (b) balancing (c) guidance (d) efforts (c) who",
+      "cleanText": "became (b) balancing (c) guidance (d) efforts (c) who",
+      "bbox": {
+        "x": 317,
+        "y": 1094,
+        "width": 705,
+        "height": 27
+      },
+      "confidence": 90.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Neglect (b) Strive (c) Grounds (d) Passage e) Disregard",
+      "cleanText": "Neglect (b) Strive (c) Grounds (d) Passage e) Disregard",
+      "bbox": {
+        "x": 319,
+        "y": 1134,
+        "width": 755,
+        "height": 30
+      },
+      "confidence": 80.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Reached the summit of Everest (ii) Co-climber",
+      "cleanText": "Reached the summit of Everest (ii) Co-climber",
+      "bbox": {
+        "x": 336,
+        "y": 1177,
+        "width": 522,
+        "height": 25
+      },
+      "confidence": 88.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Hillary and Tenzing (iv) Knighted by Queen Elizabeth IT",
+      "cleanText": "Hillary and Tenzing (iv) Knighted by Queen Elizabeth IT",
+      "bbox": {
+        "x": 328,
+        "y": 1221,
+        "width": 722,
+        "height": 25
+      },
+      "confidence": 86.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Celebrated worldwide",
+      "cleanText": "Celebrated worldwide",
+      "bbox": {
+        "x": 326,
+        "y": 1259,
+        "width": 229,
+        "height": 17
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "True (b) False. C. A. - The expedition was led by John Hunt.",
+      "cleanText": "True (b) False. C. A. - The expedition was led by John Hunt.",
+      "bbox": {
+        "x": 309,
+        "y": 1305,
+        "width": 664,
+        "height": 21
+      },
+      "confidence": 91.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "c) True False. C. A. - They climbed Mount Everest on foot.",
+      "cleanText": "True False. C. A. - They climbed Mount Everest on foot.",
+      "bbox": {
+        "x": 260,
+        "y": 1335,
+        "width": 708,
+        "height": 22
+      },
+      "confidence": 89.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "(e) False. C. A. - They did not spend the whole night at the summit.",
+      "cleanText": "(e) False. C. A. - They did not spend the whole night at the summit.",
+      "bbox": {
+        "x": 251,
+        "y": 1365,
+        "width": 724,
+        "height": 22
+      },
+      "confidence": 90.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "7. On May 29, 1953, Sir Edmund Hillary and Tenzing Norgay became the first",
+      "cleanText": "On May 29, 1953, Sir Edmund Hillary and Tenzing Norgay became the first",
+      "bbox": {
+        "x": 194,
+        "y": 1413,
+        "width": 906,
+        "height": 22
+      },
+      "confidence": 94.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "people to reach the summit of Mount Everest, the world’s highest peak. Their climb",
+      "cleanText": "people to reach the summit of Mount Everest, the world’s highest peak. Their climb",
+      "bbox": {
+        "x": 193,
+        "y": 1446,
+        "width": 907,
+        "height": 22
+      },
+      "confidence": 95.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "was part of a British expedition led by John Hunt. Despite harsh weather, freezing",
+      "cleanText": "was part of a British expedition led by John Hunt. Despite harsh weather, freezing",
+      "bbox": {
+        "x": 193,
+        "y": 1478,
+        "width": 907,
+        "height": 22
+      },
+      "confidence": 92.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "temperatures, and thin air, they succeeded through determination and teamwork. Their",
+      "cleanText": "temperatures, and thin air, they succeeded through determination and teamwork. Their",
+      "bbox": {
+        "x": 193,
+        "y": 1511,
+        "width": 908,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "achievement was celebrated worldwide, and both climbers became herocs. Their climb",
+      "cleanText": "achievement was celebrated worldwide, and both climbers became herocs. Their climb",
+      "bbox": {
+        "x": 193,
+        "y": 1543,
+        "width": 907,
+        "height": 21
+      },
+      "confidence": 85.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "remains an inspiration, proving that courage and perseverance can overcome even the",
+      "cleanText": "remains an inspiration, proving that courage and perseverance can overcome even the",
+      "bbox": {
+        "x": 193,
+        "y": 1576,
+        "width": 907,
+        "height": 22
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "greatest challenges",
+      "cleanText": "greatest challenges",
+      "bbox": {
+        "x": 193,
+        "y": 1608,
+        "width": 198,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-119-line-035",
+      "lineNumber": 35
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-119-line-001",
+      "lineNumber": 1,
+      "text": "Suggested Answers",
+      "bbox": {
+        "x": 471,
+        "y": 337,
+        "width": 358,
+        "height": 40
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-003",
+      "lineNumber": 3,
+      "text": "Cotton plantation",
+      "bbox": {
+        "x": 352,
+        "y": 444,
+        "width": 199,
+        "height": 21
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-004",
+      "lineNumber": 4,
+      "text": "Horace Mann School for the Deaf",
+      "bbox": {
+        "x": 352,
+        "y": 477,
+        "width": 388,
+        "height": 16
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-005",
+      "lineNumber": 5,
+      "text": "from her father hearing about it",
+      "bbox": {
+        "x": 352,
+        "y": 513,
+        "width": 355,
+        "height": 21
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-006",
+      "lineNumber": 6,
+      "text": "Through a special technique called Braille",
+      "bbox": {
+        "x": 352,
+        "y": 547,
+        "width": 464,
+        "height": 30
+      },
+      "confidence": 93.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-008",
+      "lineNumber": 8,
+      "text": "Both Physical and mental disability",
+      "bbox": {
+        "x": 352,
+        "y": 620,
+        "width": 402,
+        "height": 22
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-009",
+      "lineNumber": 9,
+      "text": "Helen Keller’s father heard about Perkins School for the Blind and",
+      "bbox": {
+        "x": 328,
+        "y": 667,
+        "width": 691,
+        "height": 16
+      },
+      "confidence": 95.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-010",
+      "lineNumber": 10,
+      "text": "contacted the Director there.",
+      "bbox": {
+        "x": 328,
+        "y": 692,
+        "width": 293,
+        "height": 17
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-011",
+      "lineNumber": 11,
+      "text": "Helen Keller began her formal education at Horace Mann School for the Deaf in Boston.",
+      "bbox": {
+        "x": 327,
+        "y": 730,
+        "width": 775,
+        "height": 22
+      },
+      "confidence": 94.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-012",
+      "lineNumber": 12,
+      "text": "The turning point in Helen Keller’s life was when she became deaf,",
+      "bbox": {
+        "x": 327,
+        "y": 778,
+        "width": 700,
+        "height": 22
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-013",
+      "lineNumber": 13,
+      "text": "dumb, and blind after a high fever in 1882.",
+      "bbox": {
+        "x": 334,
+        "y": 820,
+        "width": 443,
+        "height": 21
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-014",
+      "lineNumber": 14,
+      "text": "Anne Sullivan was sent by the Director of Perkins School for the Blind",
+      "bbox": {
+        "x": 327,
+        "y": 861,
+        "width": 739,
+        "height": 21
+      },
+      "confidence": 95.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-015",
+      "lineNumber": 15,
+      "text": "to help Helen Keller communicate. She worked hard to teach Helen and",
+      "bbox": {
+        "x": 333,
+        "y": 892,
+        "width": 733,
+        "height": 21
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-016",
+      "lineNumber": 16,
+      "text": "stayed with her throughout her education.",
+      "bbox": {
+        "x": 334,
+        "y": 923,
+        "width": 430,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-017",
+      "lineNumber": 17,
+      "text": "Yes, Helen Keller’s decision to pursue higher education was a turning",
+      "bbox": {
+        "x": 327,
+        "y": 964,
+        "width": 739,
+        "height": 22
+      },
+      "confidence": 95.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-018",
+      "lineNumber": 18,
+      "text": "point in her life. It allowed her to gain knowledge, develop her commu-",
+      "bbox": {
+        "x": 333,
+        "y": 996,
+        "width": 733,
+        "height": 21
+      },
+      "confidence": 95.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-019",
+      "lineNumber": 19,
+      "text": "nication skills, and earn a BA degree with honors, which empowered",
+      "bbox": {
+        "x": 334,
+        "y": 1027,
+        "width": 732,
+        "height": 21
+      },
+      "confidence": 95.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-020",
+      "lineNumber": 20,
+      "text": "her to become a humanitarian and advocate for the disabled.",
+      "bbox": {
+        "x": 333,
+        "y": 1058,
+        "width": 624,
+        "height": 17
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-021",
+      "lineNumber": 21,
+      "text": "became (b) balancing (c) guidance (d) efforts (c) who",
+      "bbox": {
+        "x": 317,
+        "y": 1094,
+        "width": 705,
+        "height": 27
+      },
+      "confidence": 90.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-022",
+      "lineNumber": 22,
+      "text": "Neglect (b) Strive (c) Grounds (d) Passage e) Disregard",
+      "bbox": {
+        "x": 319,
+        "y": 1134,
+        "width": 755,
+        "height": 30
+      },
+      "confidence": 80.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-023",
+      "lineNumber": 23,
+      "text": "Reached the summit of Everest (ii) Co-climber",
+      "bbox": {
+        "x": 336,
+        "y": 1177,
+        "width": 522,
+        "height": 25
+      },
+      "confidence": 88.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-024",
+      "lineNumber": 24,
+      "text": "Hillary and Tenzing (iv) Knighted by Queen Elizabeth IT",
+      "bbox": {
+        "x": 328,
+        "y": 1221,
+        "width": 722,
+        "height": 25
+      },
+      "confidence": 86.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-025",
+      "lineNumber": 25,
+      "text": "Celebrated worldwide",
+      "bbox": {
+        "x": 326,
+        "y": 1259,
+        "width": 229,
+        "height": 17
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-026",
+      "lineNumber": 26,
+      "text": "True (b) False. C. A. - The expedition was led by John Hunt.",
+      "bbox": {
+        "x": 309,
+        "y": 1305,
+        "width": 664,
+        "height": 21
+      },
+      "confidence": 91.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-027",
+      "lineNumber": 27,
+      "text": "True False. C. A. - They climbed Mount Everest on foot.",
+      "bbox": {
+        "x": 260,
+        "y": 1335,
+        "width": 708,
+        "height": 22
+      },
+      "confidence": 89.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-028",
+      "lineNumber": 28,
+      "text": "(e) False. C. A. - They did not spend the whole night at the summit.",
+      "bbox": {
+        "x": 251,
+        "y": 1365,
+        "width": 724,
+        "height": 22
+      },
+      "confidence": 90.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-029",
+      "lineNumber": 29,
+      "text": "On May 29, 1953, Sir Edmund Hillary and Tenzing Norgay became the first",
+      "bbox": {
+        "x": 194,
+        "y": 1413,
+        "width": 906,
+        "height": 22
+      },
+      "confidence": 94.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-030",
+      "lineNumber": 30,
+      "text": "people to reach the summit of Mount Everest, the world’s highest peak. Their climb",
+      "bbox": {
+        "x": 193,
+        "y": 1446,
+        "width": 907,
+        "height": 22
+      },
+      "confidence": 95.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-031",
+      "lineNumber": 31,
+      "text": "was part of a British expedition led by John Hunt. Despite harsh weather, freezing",
+      "bbox": {
+        "x": 193,
+        "y": 1478,
+        "width": 907,
+        "height": 22
+      },
+      "confidence": 92.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-032",
+      "lineNumber": 32,
+      "text": "temperatures, and thin air, they succeeded through determination and teamwork. Their",
+      "bbox": {
+        "x": 193,
+        "y": 1511,
+        "width": 908,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-033",
+      "lineNumber": 33,
+      "text": "achievement was celebrated worldwide, and both climbers became herocs. Their climb",
+      "bbox": {
+        "x": 193,
+        "y": 1543,
+        "width": 907,
+        "height": 21
+      },
+      "confidence": 85.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-034",
+      "lineNumber": 34,
+      "text": "remains an inspiration, proving that courage and perseverance can overcome even the",
+      "bbox": {
+        "x": 193,
+        "y": 1576,
+        "width": 907,
+        "height": 22
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-119-line-035",
+      "lineNumber": 35,
+      "text": "greatest challenges",
+      "bbox": {
+        "x": 193,
+        "y": 1608,
+        "width": 198,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Suggested Answers\nii. Anne Sullivan\ni. Cotton plantation\niii. Horace Mann School for the Deaf\niv. from her father hearing about it\nii. Through a special technique called Braille\ni. Anne Sullivan\niii. Both Physical and mental disability\nHelen Keller’s father heard about Perkins School for the Blind and\ncontacted the Director there.\nHelen Keller began her formal education at Horace Mann School for the Deaf in Boston.\nThe turning point in Helen Keller’s life was when she became deaf,\ndumb, and blind after a high fever in 1882.\nAnne Sullivan was sent by the Director of Perkins School for the Blind\nto help Helen Keller communicate. She worked hard to teach Helen and\nstayed with her throughout her education.\nYes, Helen Keller’s decision to pursue higher education was a turning\npoint in her life. It allowed her to gain knowledge, develop her commu-\nnication skills, and earn a BA degree with honors, which empowered\nher to become a humanitarian and advocate for the disabled.\nbecame (b) balancing (c) guidance (d) efforts (c) who\nNeglect (b) Strive (c) Grounds (d) Passage e) Disregard\nReached the summit of Everest (ii) Co-climber\nHillary and Tenzing (iv) Knighted by Queen Elizabeth IT\nCelebrated worldwide\nTrue (b) False. C. A. - The expedition was led by John Hunt.\nc) True False. C. A. - They climbed Mount Everest on foot.\n(e) False. C. A. - They did not spend the whole night at the summit.\n7. On May 29, 1953, Sir Edmund Hillary and Tenzing Norgay became the first\npeople to reach the summit of Mount Everest, the world’s highest peak. Their climb\nwas part of a British expedition led by John Hunt. Despite harsh weather, freezing\ntemperatures, and thin air, they succeeded through determination and teamwork. Their\nachievement was celebrated worldwide, and both climbers became herocs. Their climb\nremains an inspiration, proving that courage and perseverance can overcome even the\ngreatest challenges",
+  "cleanText": "Suggested Answers\nAnne Sullivan\nCotton plantation\nHorace Mann School for the Deaf\nfrom her father hearing about it\nThrough a special technique called Braille\nAnne Sullivan\nBoth Physical and mental disability\nHelen Keller’s father heard about Perkins School for the Blind and\ncontacted the Director there.\nHelen Keller began her formal education at Horace Mann School for the Deaf in Boston.\nThe turning point in Helen Keller’s life was when she became deaf,\ndumb, and blind after a high fever in 1882.\nAnne Sullivan was sent by the Director of Perkins School for the Blind\nto help Helen Keller communicate. She worked hard to teach Helen and\nstayed with her throughout her education.\nYes, Helen Keller’s decision to pursue higher education was a turning\npoint in her life. It allowed her to gain knowledge, develop her commu-\nnication skills, and earn a BA degree with honors, which empowered\nher to become a humanitarian and advocate for the disabled.\nbecame (b) balancing (c) guidance (d) efforts (c) who\nNeglect (b) Strive (c) Grounds (d) Passage e) Disregard\nReached the summit of Everest (ii) Co-climber\nHillary and Tenzing (iv) Knighted by Queen Elizabeth IT\nCelebrated worldwide\nTrue (b) False. C. A. - The expedition was led by John Hunt.\nTrue False. C. A. - They climbed Mount Everest on foot.\n(e) False. C. A. - They did not spend the whole night at the summit.\nOn May 29, 1953, Sir Edmund Hillary and Tenzing Norgay became the first\npeople to reach the summit of Mount Everest, the world’s highest peak. Their climb\nwas part of a British expedition led by John Hunt. Despite harsh weather, freezing\ntemperatures, and thin air, they succeeded through determination and teamwork. Their\nachievement was celebrated worldwide, and both climbers became herocs. Their climb\nremains an inspiration, proving that courage and perseverance can overcome even the\ngreatest challenges",
+  "aiReadyText": "Suggested Answers\nCotton plantation\nHorace Mann School for the Deaf\nfrom her father hearing about it\nThrough a special technique called Braille\nBoth Physical and mental disability\nHelen Keller’s father heard about Perkins School for the Blind and\ncontacted the Director there.\nHelen Keller began her formal education at Horace Mann School for the Deaf in Boston.\nThe turning point in Helen Keller’s life was when she became deaf,\ndumb, and blind after a high fever in 1882.\nAnne Sullivan was sent by the Director of Perkins School for the Blind\nto help Helen Keller communicate. She worked hard to teach Helen and\nstayed with her throughout her education.\nYes, Helen Keller’s decision to pursue higher education was a turning\npoint in her life. It allowed her to gain knowledge, develop her commu-\nnication skills, and earn a BA degree with honors, which empowered\nher to become a humanitarian and advocate for the disabled.\nbecame (b) balancing (c) guidance (d) efforts (c) who\nNeglect (b) Strive (c) Grounds (d) Passage e) Disregard\nReached the summit of Everest (ii) Co-climber\nHillary and Tenzing (iv) Knighted by Queen Elizabeth IT\nCelebrated worldwide\nTrue (b) False. C. A. - The expedition was led by John Hunt.\nTrue False. C. A. - They climbed Mount Everest on foot.\n(e) False. C. A. - They did not spend the whole night at the summit.\nOn May 29, 1953, Sir Edmund Hillary and Tenzing Norgay became the first\npeople to reach the summit of Mount Everest, the world’s highest peak. Their climb\nwas part of a British expedition led by John Hunt. Despite harsh weather, freezing\ntemperatures, and thin air, they succeeded through determination and teamwork. Their\nachievement was celebrated worldwide, and both climbers became herocs. Their climb\nremains an inspiration, proving that courage and perseverance can overcome even the\ngreatest challenges"
+}

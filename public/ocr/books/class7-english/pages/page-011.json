@@ -1,0 +1,452 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 11,
+  "image": "/ocr/books/class7-english/page-images/page-011.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "6 ENGLISH FOR TODAY",
+      "cleanText": "6 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 206,
+        "y": 248,
+        "width": 897,
+        "height": 18
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Asif : Go along---come to crossroads---turn left---go about two hundred",
+      "cleanText": "Asif : Go along---come to crossroads---turn left---go about two hundred",
+      "bbox": {
+        "x": 199,
+        "y": 307,
+        "width": 915,
+        "height": 33
+      },
+      "confidence": 91.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "metres-tall building --station on the right. Thank you very much.",
+      "cleanText": "metres-tall building --station on the right. Thank you very much.",
+      "bbox": {
+        "x": 359,
+        "y": 344,
+        "width": 716,
+        "height": 25
+      },
+      "confidence": 94.7,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Passer-by : It’s OK.",
+      "cleanText": "Passer-by : It’s OK.",
+      "bbox": {
+        "x": 204,
+        "y": 390,
+        "width": 248,
+        "height": 25
+      },
+      "confidence": 80.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": ": ‘Excuse me’ is a polite way of drawing somebody’s attention.",
+      "cleanText": ": ‘Excuse me’ is a polite way of drawing somebody’s attention.",
+      "bbox": {
+        "x": 352,
+        "y": 456,
+        "width": 697,
+        "height": 25
+      },
+      "confidence": 94.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "‘It’s OK’: You can also say, ‘You're welcome’.",
+      "cleanText": "‘It’s OK’: You can also say, ‘You're welcome’.",
+      "bbox": {
+        "x": 372,
+        "y": 489,
+        "width": 528,
+        "height": 25
+      },
+      "confidence": 88.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "B. Look at the map. Suppose, you are now on Park Road and you want to",
+      "cleanText": "Look at the map. Suppose, you are now on Park Road and you want to",
+      "bbox": {
+        "x": 203,
+        "y": 582,
+        "width": 911,
+        "height": 24
+      },
+      "confidence": 95.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "go to Mosque Road or Zilla School. Ask your partner how you can go",
+      "cleanText": "go to Mosque Road or Zilla School. Ask your partner how you can go",
+      "bbox": {
+        "x": 257,
+        "y": 611,
+        "width": 856,
+        "height": 33
+      },
+      "confidence": 95.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "there. Start like this:",
+      "cleanText": "there. Start like this:",
+      "bbox": {
+        "x": 257,
+        "y": 648,
+        "width": 246,
+        "height": 19
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Sl: Excuse me. How can I go to Mosque Road?",
+      "cleanText": "Sl: Excuse me. How can I go to Mosque Road?",
+      "bbox": {
+        "x": 362,
+        "y": 706,
+        "width": 560,
+        "height": 25
+      },
+      "confidence": 92.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Oh, it’s quite far",
+      "cleanText": "Oh, it’s quite far",
+      "bbox": {
+        "x": 441,
+        "y": 739,
+        "width": 180,
+        "height": 25
+      },
+      "confidence": 87.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "North Road.",
+      "cleanText": "North Road.",
+      "bbox": {
+        "x": 481,
+        "y": 845,
+        "width": 91,
+        "height": 14
+      },
+      "confidence": 85.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-011-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "ila School",
+      "cleanText": "ila School",
+      "bbox": {
+        "x": 486,
+        "y": 886,
+        "width": 77,
+        "height": 14
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-011-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Work in pairs. Ask for and give directions to a place in your own",
+      "cleanText": "Work in pairs. Ask for and give directions to a place in your own",
+      "bbox": {
+        "x": 281,
+        "y": 1430,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 91.21,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "upazila, town or city.",
+      "cleanText": "upazila, town or city.",
+      "bbox": {
+        "x": 284,
+        "y": 1462,
+        "width": 245,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "D. Listen and practise saying these words.",
+      "cleanText": "Listen and practise saying these words.",
+      "bbox": {
+        "x": 203,
+        "y": 1522,
+        "width": 534,
+        "height": 25
+      },
+      "confidence": 91.14,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-011-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "station building crossroads",
+      "cleanText": "station building crossroads",
+      "bbox": {
+        "x": 282,
+        "y": 1563,
+        "width": 433,
+        "height": 32
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-011-line-017",
+      "lineNumber": 17
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-011-line-001",
+      "lineNumber": 1,
+      "text": "6 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 206,
+        "y": 248,
+        "width": 897,
+        "height": 18
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-002",
+      "lineNumber": 2,
+      "text": "Asif : Go along---come to crossroads---turn left---go about two hundred",
+      "bbox": {
+        "x": 199,
+        "y": 307,
+        "width": 915,
+        "height": 33
+      },
+      "confidence": 91.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-003",
+      "lineNumber": 3,
+      "text": "metres-tall building --station on the right. Thank you very much.",
+      "bbox": {
+        "x": 359,
+        "y": 344,
+        "width": 716,
+        "height": 25
+      },
+      "confidence": 94.7,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-004",
+      "lineNumber": 4,
+      "text": "Passer-by : It’s OK.",
+      "bbox": {
+        "x": 204,
+        "y": 390,
+        "width": 248,
+        "height": 25
+      },
+      "confidence": 80.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-005",
+      "lineNumber": 5,
+      "text": ": ‘Excuse me’ is a polite way of drawing somebody’s attention.",
+      "bbox": {
+        "x": 352,
+        "y": 456,
+        "width": 697,
+        "height": 25
+      },
+      "confidence": 94.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-006",
+      "lineNumber": 6,
+      "text": "‘It’s OK’: You can also say, ‘You're welcome’.",
+      "bbox": {
+        "x": 372,
+        "y": 489,
+        "width": 528,
+        "height": 25
+      },
+      "confidence": 88.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-007",
+      "lineNumber": 7,
+      "text": "Look at the map. Suppose, you are now on Park Road and you want to",
+      "bbox": {
+        "x": 203,
+        "y": 582,
+        "width": 911,
+        "height": 24
+      },
+      "confidence": 95.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-008",
+      "lineNumber": 8,
+      "text": "go to Mosque Road or Zilla School. Ask your partner how you can go",
+      "bbox": {
+        "x": 257,
+        "y": 611,
+        "width": 856,
+        "height": 33
+      },
+      "confidence": 95.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-009",
+      "lineNumber": 9,
+      "text": "there. Start like this:",
+      "bbox": {
+        "x": 257,
+        "y": 648,
+        "width": 246,
+        "height": 19
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-010",
+      "lineNumber": 10,
+      "text": "Sl: Excuse me. How can I go to Mosque Road?",
+      "bbox": {
+        "x": 362,
+        "y": 706,
+        "width": 560,
+        "height": 25
+      },
+      "confidence": 92.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-011",
+      "lineNumber": 11,
+      "text": "Oh, it’s quite far",
+      "bbox": {
+        "x": 441,
+        "y": 739,
+        "width": 180,
+        "height": 25
+      },
+      "confidence": 87.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-014",
+      "lineNumber": 14,
+      "text": "Work in pairs. Ask for and give directions to a place in your own",
+      "bbox": {
+        "x": 281,
+        "y": 1430,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 91.21,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-015",
+      "lineNumber": 15,
+      "text": "upazila, town or city.",
+      "bbox": {
+        "x": 284,
+        "y": 1462,
+        "width": 245,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-011-line-017",
+      "lineNumber": 17,
+      "text": "station building crossroads",
+      "bbox": {
+        "x": 282,
+        "y": 1563,
+        "width": 433,
+        "height": 32
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "6 ENGLISH FOR TODAY\nAsif : Go along---come to crossroads---turn left---go about two hundred\nmetres-tall building --station on the right. Thank you very much.\nPasser-by : It’s OK.\n: ‘Excuse me’ is a polite way of drawing somebody’s attention.\n‘It’s OK’: You can also say, ‘You're welcome’.\nB. Look at the map. Suppose, you are now on Park Road and you want to\ngo to Mosque Road or Zilla School. Ask your partner how you can go\nthere. Start like this:\nSl: Excuse me. How can I go to Mosque Road?\nOh, it’s quite far\nNorth Road.\nila School\nWork in pairs. Ask for and give directions to a place in your own\nupazila, town or city.\nD. Listen and practise saying these words.\nstation building crossroads",
+  "cleanText": "6 ENGLISH FOR TODAY\nAsif : Go along---come to crossroads---turn left---go about two hundred\nmetres-tall building --station on the right. Thank you very much.\nPasser-by : It’s OK.\n: ‘Excuse me’ is a polite way of drawing somebody’s attention.\n‘It’s OK’: You can also say, ‘You're welcome’.\nLook at the map. Suppose, you are now on Park Road and you want to\ngo to Mosque Road or Zilla School. Ask your partner how you can go\nthere. Start like this:\nSl: Excuse me. How can I go to Mosque Road?\nOh, it’s quite far\nNorth Road.\nila School\nWork in pairs. Ask for and give directions to a place in your own\nupazila, town or city.\nListen and practise saying these words.\nstation building crossroads",
+  "aiReadyText": "6 ENGLISH FOR TODAY\nAsif : Go along---come to crossroads---turn left---go about two hundred\nmetres-tall building --station on the right. Thank you very much.\nPasser-by : It’s OK.\n: ‘Excuse me’ is a polite way of drawing somebody’s attention.\n‘It’s OK’: You can also say, ‘You're welcome’.\nLook at the map. Suppose, you are now on Park Road and you want to\ngo to Mosque Road or Zilla School. Ask your partner how you can go\nthere. Start like this:\nSl: Excuse me. How can I go to Mosque Road?\nOh, it’s quite far\nWork in pairs. Ask for and give directions to a place in your own\nupazila, town or city.\nstation building crossroads"
+}

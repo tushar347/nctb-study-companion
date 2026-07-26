@@ -1,0 +1,997 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 47,
+  "image": "/ocr/books/class7-english/page-images/page-047.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "42 ENGLISH FOR TODAY",
+      "cleanText": "42 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 195,
+        "y": 227,
+        "width": 908,
+        "height": 20
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "7. What do you think Joynul should do from now?",
+      "cleanText": "What do you think Joynul should do from now?",
+      "bbox": {
+        "x": 271,
+        "y": 291,
+        "width": 638,
+        "height": 24
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "He should",
+      "cleanText": "He should",
+      "bbox": {
+        "x": 351,
+        "y": 322,
+        "width": 109,
+        "height": 19
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-047-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "a. work harder to earn more money.",
+      "cleanText": "work harder to earn more money.",
+      "bbox": {
+        "x": 350,
+        "y": 353,
+        "width": 398,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "b. not waste any time doing housework.",
+      "cleanText": "not waste any time doing housework.",
+      "bbox": {
+        "x": 349,
+        "y": 385,
+        "width": 443,
+        "height": 25
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "c. help Nazma with her work when he can.",
+      "cleanText": "help Nazma with her work when he can.",
+      "bbox": {
+        "x": 350,
+        "y": 417,
+        "width": 474,
+        "height": 25
+      },
+      "confidence": 90.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "8. Why does Joynul finally look at Nazma with deep admiration",
+      "cleanText": "Why does Joynul finally look at Nazma with deep admiration",
+      "bbox": {
+        "x": 271,
+        "y": 465,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 94.18,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "and gratitude?",
+      "cleanText": "and gratitude?",
+      "bbox": {
+        "x": 352,
+        "y": 496,
+        "width": 171,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "a. he is not sorry for what he has done to Nazma.",
+      "cleanText": "he is not sorry for what he has done to Nazma.",
+      "bbox": {
+        "x": 350,
+        "y": 559,
+        "width": 542,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "b. he has understood the value of sharing work in the family.",
+      "cleanText": "he has understood the value of sharing work in the family.",
+      "bbox": {
+        "x": 350,
+        "y": 591,
+        "width": 672,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "c. Nazma is willing to do all the housework in the family.",
+      "cleanText": "Nazma is willing to do all the housework in the family.",
+      "bbox": {
+        "x": 350,
+        "y": 622,
+        "width": 636,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Cc. Project work: Think of a family you know in your neighbourhood.",
+      "cleanText": "Project work: Think of a family you know in your neighbourhood.",
+      "bbox": {
+        "x": 188,
+        "y": 673,
+        "width": 913,
+        "height": 33
+      },
+      "confidence": 90.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Answer the following questions and write a short composition about the",
+      "cleanText": "Answer the following questions and write a short composition about the",
+      "bbox": {
+        "x": 266,
+        "y": 707,
+        "width": 837,
+        "height": 26
+      },
+      "confidence": 96.09,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-047-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "1. How many members are there in the family?",
+      "cleanText": "How many members are there in the family?",
+      "bbox": {
+        "x": 274,
+        "y": 790,
+        "width": 564,
+        "height": 25
+      },
+      "confidence": 93.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "2. Get each member’s name, age and work.",
+      "cleanText": "Get each member’s name, age and work.",
+      "bbox": {
+        "x": 271,
+        "y": 821,
+        "width": 525,
+        "height": 25
+      },
+      "confidence": 93.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "3. Do the family members share each other’s work? Describe who shares",
+      "cleanText": "Do the family members share each other’s work? Describe who shares",
+      "bbox": {
+        "x": 271,
+        "y": 853,
+        "width": 852,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "what, where and who with.",
+      "cleanText": "what, where and who with.",
+      "bbox": {
+        "x": 349,
+        "y": 885,
+        "width": 295,
+        "height": 22
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Lesson 9: Hridoy Gets a Letter from his Cousin",
+      "cleanText": "Lesson 9: Hridoy Gets a Letter from his Cousin",
+      "bbox": {
+        "x": 192,
+        "y": 944,
+        "width": 613,
+        "height": 27
+      },
+      "confidence": 95.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "A. Read the letter Hridoy got from his cousin Riah.",
+      "cleanText": "Read the letter Hridoy got from his cousin Riah.",
+      "bbox": {
+        "x": 191,
+        "y": 989,
+        "width": 646,
+        "height": 25
+      },
+      "confidence": 94.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Jonakipur High School",
+      "cleanText": "Jonakipur High School",
+      "bbox": {
+        "x": 850,
+        "y": 1025,
+        "width": 251,
+        "height": 25
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "P. O, Jonakipur",
+      "cleanText": "P. O, Jonakipur",
+      "bbox": {
+        "x": 850,
+        "y": 1056,
+        "width": 170,
+        "height": 25
+      },
+      "confidence": 88.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Dist. Nilphamari",
+      "cleanText": "Dist. Nilphamari",
+      "bbox": {
+        "x": 851,
+        "y": 1088,
+        "width": 188,
+        "height": 25
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Dear Hridoy ay",
+      "cleanText": "Dear Hridoy ay",
+      "bbox": {
+        "x": 191,
+        "y": 1126,
+        "width": 742,
+        "height": 38
+      },
+      "confidence": 89.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Thank you for your letter of 1“ May. It gives us such an exciting piece of news! T",
+      "cleanText": "Thank you for your letter of 1“ May. It gives us such an exciting piece of news! T",
+      "bbox": {
+        "x": 192,
+        "y": 1164,
+        "width": 909,
+        "height": 36
+      },
+      "confidence": 92.61,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "cannot still that there could be a shop without a shopkceper. J talked",
+      "cleanText": "cannot still that there could be a shop without a shopkceper. J talked",
+      "bbox": {
+        "x": 192,
+        "y": 1202,
+        "width": 910,
+        "height": 25
+      },
+      "confidence": 92.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "about it with my relatives, friends, classmates and, of course, my teacher, Miss",
+      "cleanText": "about it with my relatives, friends, classmates and, of course, my teacher, Miss",
+      "bbox": {
+        "x": 190,
+        "y": 1227,
+        "width": 910,
+        "height": 36
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Nishat. Everybody was surprised. Miss Nishat liked the idea so much that she",
+      "cleanText": "Nishat. Everybody was surprised. Miss Nishat liked the idea so much that she",
+      "bbox": {
+        "x": 193,
+        "y": 1265,
+        "width": 907,
+        "height": 25
+      },
+      "confidence": 95.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "immediately talked about it to our Headteacher. We had a meeting in our",
+      "cleanText": "immediately talked about it to our Headteacher. We had a meeting in our",
+      "bbox": {
+        "x": 191,
+        "y": 1296,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 94.46,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "school with teachers and students, At the beginning of the the Headteacher",
+      "cleanText": "school with teachers and students, At the beginning of the the Headteacher",
+      "bbox": {
+        "x": 191,
+        "y": 1328,
+        "width": 912,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "asked me to talk about the Morality Shop in your school. At first I read out the part",
+      "cleanText": "asked me to talk about the Morality Shop in your school. At first I read out the part",
+      "bbox": {
+        "x": 191,
+        "y": 1356,
+        "width": 910,
+        "height": 34
+      },
+      "confidence": 94.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "of your letter and then I explained how such a shop in your school is greatly helping",
+      "cleanText": "of your letter and then I explained how such a shop in your school is greatly helping",
+      "bbox": {
+        "x": 190,
+        "y": 1391,
+        "width": 912,
+        "height": 26
+      },
+      "confidence": 95.06,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "you - the students, teachers and the community at large. The Headteacher was quite",
+      "cleanText": "you - the students, teachers and the community at large. The Headteacher was quite",
+      "bbox": {
+        "x": 191,
+        "y": 1422,
+        "width": 915,
+        "height": 26
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "positive about the usefulness of such a shop. He formed a committee with",
+      "cleanText": "positive about the usefulness of such a shop. He formed a committee with",
+      "bbox": {
+        "x": 191,
+        "y": 1455,
+        "width": 911,
+        "height": 25
+      },
+      "confidence": 95.15,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "Miss Nishat and two other teachers and some senior students to draw up a plan",
+      "cleanText": "Miss Nishat and two other teachers and some senior students to draw up a plan",
+      "bbox": {
+        "x": 191,
+        "y": 1486,
+        "width": 911,
+        "height": 26
+      },
+      "confidence": 95.13,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "for opening a morality shop in our school. Isn’t it great? You will be glad to know",
+      "cleanText": "for opening a morality shop in our school. Isn’t it great? You will be glad to know",
+      "bbox": {
+        "x": 192,
+        "y": 1517,
+        "width": 913,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-035",
+      "lineNumber": 35
+    },
+    {
+      "text": "that I am on the committee too.",
+      "cleanText": "that I am on the committee too.",
+      "bbox": {
+        "x": 191,
+        "y": 1547,
+        "width": 341,
+        "height": 20
+      },
+      "confidence": 94.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-047-line-036",
+      "lineNumber": 36
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-047-line-001",
+      "lineNumber": 1,
+      "text": "42 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 195,
+        "y": 227,
+        "width": 908,
+        "height": 20
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-002",
+      "lineNumber": 2,
+      "text": "What do you think Joynul should do from now?",
+      "bbox": {
+        "x": 271,
+        "y": 291,
+        "width": 638,
+        "height": 24
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-004",
+      "lineNumber": 4,
+      "text": "work harder to earn more money.",
+      "bbox": {
+        "x": 350,
+        "y": 353,
+        "width": 398,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-005",
+      "lineNumber": 5,
+      "text": "not waste any time doing housework.",
+      "bbox": {
+        "x": 349,
+        "y": 385,
+        "width": 443,
+        "height": 25
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-006",
+      "lineNumber": 6,
+      "text": "help Nazma with her work when he can.",
+      "bbox": {
+        "x": 350,
+        "y": 417,
+        "width": 474,
+        "height": 25
+      },
+      "confidence": 90.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-007",
+      "lineNumber": 7,
+      "text": "Why does Joynul finally look at Nazma with deep admiration",
+      "bbox": {
+        "x": 271,
+        "y": 465,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 94.18,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-008",
+      "lineNumber": 8,
+      "text": "and gratitude?",
+      "bbox": {
+        "x": 352,
+        "y": 496,
+        "width": 171,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-009",
+      "lineNumber": 9,
+      "text": "he is not sorry for what he has done to Nazma.",
+      "bbox": {
+        "x": 350,
+        "y": 559,
+        "width": 542,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-010",
+      "lineNumber": 10,
+      "text": "he has understood the value of sharing work in the family.",
+      "bbox": {
+        "x": 350,
+        "y": 591,
+        "width": 672,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-011",
+      "lineNumber": 11,
+      "text": "Nazma is willing to do all the housework in the family.",
+      "bbox": {
+        "x": 350,
+        "y": 622,
+        "width": 636,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-012",
+      "lineNumber": 12,
+      "text": "Project work: Think of a family you know in your neighbourhood.",
+      "bbox": {
+        "x": 188,
+        "y": 673,
+        "width": 913,
+        "height": 33
+      },
+      "confidence": 90.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-014",
+      "lineNumber": 14,
+      "text": "How many members are there in the family?",
+      "bbox": {
+        "x": 274,
+        "y": 790,
+        "width": 564,
+        "height": 25
+      },
+      "confidence": 93.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-015",
+      "lineNumber": 15,
+      "text": "Get each member’s name, age and work.",
+      "bbox": {
+        "x": 271,
+        "y": 821,
+        "width": 525,
+        "height": 25
+      },
+      "confidence": 93.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-016",
+      "lineNumber": 16,
+      "text": "Do the family members share each other’s work? Describe who shares",
+      "bbox": {
+        "x": 271,
+        "y": 853,
+        "width": 852,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-017",
+      "lineNumber": 17,
+      "text": "what, where and who with.",
+      "bbox": {
+        "x": 349,
+        "y": 885,
+        "width": 295,
+        "height": 22
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-018",
+      "lineNumber": 18,
+      "text": "Lesson 9: Hridoy Gets a Letter from his Cousin",
+      "bbox": {
+        "x": 192,
+        "y": 944,
+        "width": 613,
+        "height": 27
+      },
+      "confidence": 95.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-019",
+      "lineNumber": 19,
+      "text": "Read the letter Hridoy got from his cousin Riah.",
+      "bbox": {
+        "x": 191,
+        "y": 989,
+        "width": 646,
+        "height": 25
+      },
+      "confidence": 94.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-020",
+      "lineNumber": 20,
+      "text": "Jonakipur High School",
+      "bbox": {
+        "x": 850,
+        "y": 1025,
+        "width": 251,
+        "height": 25
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-021",
+      "lineNumber": 21,
+      "text": "P. O, Jonakipur",
+      "bbox": {
+        "x": 850,
+        "y": 1056,
+        "width": 170,
+        "height": 25
+      },
+      "confidence": 88.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-022",
+      "lineNumber": 22,
+      "text": "Dist. Nilphamari",
+      "bbox": {
+        "x": 851,
+        "y": 1088,
+        "width": 188,
+        "height": 25
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-023",
+      "lineNumber": 23,
+      "text": "Dear Hridoy ay",
+      "bbox": {
+        "x": 191,
+        "y": 1126,
+        "width": 742,
+        "height": 38
+      },
+      "confidence": 89.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-024",
+      "lineNumber": 24,
+      "text": "Thank you for your letter of 1“ May. It gives us such an exciting piece of news! T",
+      "bbox": {
+        "x": 192,
+        "y": 1164,
+        "width": 909,
+        "height": 36
+      },
+      "confidence": 92.61,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-025",
+      "lineNumber": 25,
+      "text": "cannot still that there could be a shop without a shopkceper. J talked",
+      "bbox": {
+        "x": 192,
+        "y": 1202,
+        "width": 910,
+        "height": 25
+      },
+      "confidence": 92.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-026",
+      "lineNumber": 26,
+      "text": "about it with my relatives, friends, classmates and, of course, my teacher, Miss",
+      "bbox": {
+        "x": 190,
+        "y": 1227,
+        "width": 910,
+        "height": 36
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-027",
+      "lineNumber": 27,
+      "text": "Nishat. Everybody was surprised. Miss Nishat liked the idea so much that she",
+      "bbox": {
+        "x": 193,
+        "y": 1265,
+        "width": 907,
+        "height": 25
+      },
+      "confidence": 95.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-028",
+      "lineNumber": 28,
+      "text": "immediately talked about it to our Headteacher. We had a meeting in our",
+      "bbox": {
+        "x": 191,
+        "y": 1296,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 94.46,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-029",
+      "lineNumber": 29,
+      "text": "school with teachers and students, At the beginning of the the Headteacher",
+      "bbox": {
+        "x": 191,
+        "y": 1328,
+        "width": 912,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-030",
+      "lineNumber": 30,
+      "text": "asked me to talk about the Morality Shop in your school. At first I read out the part",
+      "bbox": {
+        "x": 191,
+        "y": 1356,
+        "width": 910,
+        "height": 34
+      },
+      "confidence": 94.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-031",
+      "lineNumber": 31,
+      "text": "of your letter and then I explained how such a shop in your school is greatly helping",
+      "bbox": {
+        "x": 190,
+        "y": 1391,
+        "width": 912,
+        "height": 26
+      },
+      "confidence": 95.06,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-032",
+      "lineNumber": 32,
+      "text": "you - the students, teachers and the community at large. The Headteacher was quite",
+      "bbox": {
+        "x": 191,
+        "y": 1422,
+        "width": 915,
+        "height": 26
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-033",
+      "lineNumber": 33,
+      "text": "positive about the usefulness of such a shop. He formed a committee with",
+      "bbox": {
+        "x": 191,
+        "y": 1455,
+        "width": 911,
+        "height": 25
+      },
+      "confidence": 95.15,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-034",
+      "lineNumber": 34,
+      "text": "Miss Nishat and two other teachers and some senior students to draw up a plan",
+      "bbox": {
+        "x": 191,
+        "y": 1486,
+        "width": 911,
+        "height": 26
+      },
+      "confidence": 95.13,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-035",
+      "lineNumber": 35,
+      "text": "for opening a morality shop in our school. Isn’t it great? You will be glad to know",
+      "bbox": {
+        "x": 192,
+        "y": 1517,
+        "width": 913,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-047-line-036",
+      "lineNumber": 36,
+      "text": "that I am on the committee too.",
+      "bbox": {
+        "x": 191,
+        "y": 1547,
+        "width": 341,
+        "height": 20
+      },
+      "confidence": 94.57,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "42 ENGLISH FOR TODAY\n7. What do you think Joynul should do from now?\nHe should\na. work harder to earn more money.\nb. not waste any time doing housework.\nc. help Nazma with her work when he can.\n8. Why does Joynul finally look at Nazma with deep admiration\nand gratitude?\na. he is not sorry for what he has done to Nazma.\nb. he has understood the value of sharing work in the family.\nc. Nazma is willing to do all the housework in the family.\nCc. Project work: Think of a family you know in your neighbourhood.\nAnswer the following questions and write a short composition about the\n1. How many members are there in the family?\n2. Get each member’s name, age and work.\n3. Do the family members share each other’s work? Describe who shares\nwhat, where and who with.\nLesson 9: Hridoy Gets a Letter from his Cousin\nA. Read the letter Hridoy got from his cousin Riah.\nJonakipur High School\nP. O, Jonakipur\nDist. Nilphamari\nDear Hridoy ay\nThank you for your letter of 1“ May. It gives us such an exciting piece of news! T\ncannot still that there could be a shop without a shopkceper. J talked\nabout it with my relatives, friends, classmates and, of course, my teacher, Miss\nNishat. Everybody was surprised. Miss Nishat liked the idea so much that she\nimmediately talked about it to our Headteacher. We had a meeting in our\nschool with teachers and students, At the beginning of the the Headteacher\nasked me to talk about the Morality Shop in your school. At first I read out the part\nof your letter and then I explained how such a shop in your school is greatly helping\nyou - the students, teachers and the community at large. The Headteacher was quite\npositive about the usefulness of such a shop. He formed a committee with\nMiss Nishat and two other teachers and some senior students to draw up a plan\nfor opening a morality shop in our school. Isn’t it great? You will be glad to know\nthat I am on the committee too.",
+  "cleanText": "42 ENGLISH FOR TODAY\nWhat do you think Joynul should do from now?\nHe should\nwork harder to earn more money.\nnot waste any time doing housework.\nhelp Nazma with her work when he can.\nWhy does Joynul finally look at Nazma with deep admiration\nand gratitude?\nhe is not sorry for what he has done to Nazma.\nhe has understood the value of sharing work in the family.\nNazma is willing to do all the housework in the family.\nProject work: Think of a family you know in your neighbourhood.\nAnswer the following questions and write a short composition about the\nHow many members are there in the family?\nGet each member’s name, age and work.\nDo the family members share each other’s work? Describe who shares\nwhat, where and who with.\nLesson 9: Hridoy Gets a Letter from his Cousin\nRead the letter Hridoy got from his cousin Riah.\nJonakipur High School\nP. O, Jonakipur\nDist. Nilphamari\nDear Hridoy ay\nThank you for your letter of 1“ May. It gives us such an exciting piece of news! T\ncannot still that there could be a shop without a shopkceper. J talked\nabout it with my relatives, friends, classmates and, of course, my teacher, Miss\nNishat. Everybody was surprised. Miss Nishat liked the idea so much that she\nimmediately talked about it to our Headteacher. We had a meeting in our\nschool with teachers and students, At the beginning of the the Headteacher\nasked me to talk about the Morality Shop in your school. At first I read out the part\nof your letter and then I explained how such a shop in your school is greatly helping\nyou - the students, teachers and the community at large. The Headteacher was quite\npositive about the usefulness of such a shop. He formed a committee with\nMiss Nishat and two other teachers and some senior students to draw up a plan\nfor opening a morality shop in our school. Isn’t it great? You will be glad to know\nthat I am on the committee too.",
+  "aiReadyText": "42 ENGLISH FOR TODAY\nWhat do you think Joynul should do from now?\nwork harder to earn more money.\nnot waste any time doing housework.\nhelp Nazma with her work when he can.\nWhy does Joynul finally look at Nazma with deep admiration\nand gratitude?\nhe is not sorry for what he has done to Nazma.\nhe has understood the value of sharing work in the family.\nNazma is willing to do all the housework in the family.\nProject work: Think of a family you know in your neighbourhood.\nHow many members are there in the family?\nGet each member’s name, age and work.\nDo the family members share each other’s work? Describe who shares\nwhat, where and who with.\nLesson 9: Hridoy Gets a Letter from his Cousin\nRead the letter Hridoy got from his cousin Riah.\nJonakipur High School\nP. O, Jonakipur\nDist. Nilphamari\nDear Hridoy ay\nThank you for your letter of 1“ May. It gives us such an exciting piece of news! T\ncannot still that there could be a shop without a shopkceper. J talked\nabout it with my relatives, friends, classmates and, of course, my teacher, Miss\nNishat. Everybody was surprised. Miss Nishat liked the idea so much that she\nimmediately talked about it to our Headteacher. We had a meeting in our\nschool with teachers and students, At the beginning of the the Headteacher\nasked me to talk about the Morality Shop in your school. At first I read out the part\nof your letter and then I explained how such a shop in your school is greatly helping\nyou - the students, teachers and the community at large. The Headteacher was quite\npositive about the usefulness of such a shop. He formed a committee with\nMiss Nishat and two other teachers and some senior students to draw up a plan\nfor opening a morality shop in our school. Isn’t it great? You will be glad to know\nthat I am on the committee too."
+}

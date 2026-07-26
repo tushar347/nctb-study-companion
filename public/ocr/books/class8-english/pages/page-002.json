@@ -1,0 +1,114 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 2,
+  "image": "/ocr/books/class8-english/page-images/page-002.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Prescribed by the National Curriculum and Textbook Board",
+      "cleanText": "Prescribed by the National Curriculum and Textbook Board",
+      "bbox": {
+        "x": 173,
+        "y": 105,
+        "width": 795,
+        "height": 32
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-002-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "asa textbook for class eight from the academic year 2013",
+      "cleanText": "asa textbook for class eight from the academic year 2013",
+      "bbox": {
+        "x": 205,
+        "y": 152,
+        "width": 729,
+        "height": 30
+      },
+      "confidence": 94.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-002-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Class Eight",
+      "cleanText": "Class Eight",
+      "bbox": {
+        "x": 483,
+        "y": 375,
+        "width": 175,
+        "height": 34
+      },
+      "confidence": 90.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-002-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Revised for the year 2026",
+      "cleanText": "Revised for the year 2026",
+      "bbox": {
+        "x": 386,
+        "y": 736,
+        "width": 381,
+        "height": 33
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-002-line-004",
+      "lineNumber": 4
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-002-line-001",
+      "lineNumber": 1,
+      "text": "Prescribed by the National Curriculum and Textbook Board",
+      "bbox": {
+        "x": 173,
+        "y": 105,
+        "width": 795,
+        "height": 32
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-002-line-002",
+      "lineNumber": 2,
+      "text": "asa textbook for class eight from the academic year 2013",
+      "bbox": {
+        "x": 205,
+        "y": 152,
+        "width": 729,
+        "height": 30
+      },
+      "confidence": 94.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-002-line-004",
+      "lineNumber": 4,
+      "text": "Revised for the year 2026",
+      "bbox": {
+        "x": 386,
+        "y": 736,
+        "width": 381,
+        "height": 33
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Prescribed by the National Curriculum and Textbook Board\nasa textbook for class eight from the academic year 2013\nClass Eight\nRevised for the year 2026",
+  "cleanText": "Prescribed by the National Curriculum and Textbook Board\nasa textbook for class eight from the academic year 2013\nClass Eight\nRevised for the year 2026",
+  "aiReadyText": "Prescribed by the National Curriculum and Textbook Board\nasa textbook for class eight from the academic year 2013\nRevised for the year 2026"
+}

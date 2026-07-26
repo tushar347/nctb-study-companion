@@ -1,0 +1,801 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 72,
+  "image": "/ocr/books/class7-english/page-images/page-072.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Six : Leisure 67",
+      "cleanText": "Unit Six : Leisure 67",
+      "bbox": {
+        "x": 212,
+        "y": 258,
+        "width": 906,
+        "height": 21
+      },
+      "confidence": 94.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 9: The Selfish Giant (2)",
+      "cleanText": "Lesson 9: The Selfish Giant (2)",
+      "bbox": {
+        "x": 205,
+        "y": 328,
+        "width": 402,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Keyword : castle",
+      "cleanText": "Keyword : castle",
+      "bbox": {
+        "x": 340,
+        "y": 379,
+        "width": 202,
+        "height": 26
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "A. Continue reading the story.",
+      "cleanText": "Continue reading the story.",
+      "bbox": {
+        "x": 204,
+        "y": 462,
+        "width": 381,
+        "height": 25
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "The children had now nowhere to play.",
+      "cleanText": "The children had now nowhere to play.",
+      "bbox": {
+        "x": 265,
+        "y": 499,
+        "width": 432,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "There were no gardens around and the",
+      "cleanText": "There were no gardens around and the",
+      "bbox": {
+        "x": 265,
+        "y": 536,
+        "width": 434,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "roads were busy and crowded. After",
+      "cleanText": "roads were busy and crowded. After",
+      "bbox": {
+        "x": 265,
+        "y": 574,
+        "width": 435,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "school they used to go round the high",
+      "cleanText": "school they used to go round the high",
+      "bbox": {
+        "x": 266,
+        "y": 611,
+        "width": 432,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "wall and talk about the beautiful >",
+      "cleanText": "wall and talk about the beautiful >",
+      "bbox": {
+        "x": 265,
+        "y": 649,
+        "width": 455,
+        "height": 26
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "garden inside. “How happy we were",
+      "cleanText": "garden inside. “How happy we were",
+      "bbox": {
+        "x": 265,
+        "y": 686,
+        "width": 433,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "there!” they said to one another.",
+      "cleanText": "there!” they said to one another.",
+      "bbox": {
+        "x": 265,
+        "y": 724,
+        "width": 350,
+        "height": 24
+      },
+      "confidence": 91.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Q. 1. What do you think the children would do now?",
+      "cleanText": "Q. 1. What do you think the children would do now?",
+      "bbox": {
+        "x": 273,
+        "y": 816,
+        "width": 668,
+        "height": 28
+      },
+      "confidence": 94.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Then came the spring. And all over the country",
+      "cleanText": "Then came the spring. And all over the country",
+      "bbox": {
+        "x": 271,
+        "y": 877,
+        "width": 566,
+        "height": 25
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "there were flowers and there were birds. Only in",
+      "cleanText": "there were flowers and there were birds. Only in",
+      "bbox": {
+        "x": 271,
+        "y": 915,
+        "width": 565,
+        "height": 25
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "the garden of the Giant it was still winter.",
+      "cleanText": "the garden of the Giant it was still winter.",
+      "bbox": {
+        "x": 271,
+        "y": 952,
+        "width": 545,
+        "height": 25
+      },
+      "confidence": 92.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Here no birds were singing and no flowers",
+      "cleanText": "Here no birds were singing and no flowers",
+      "bbox": {
+        "x": 270,
+        "y": 990,
+        "width": 555,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "blossoming. There were only snow and frost and",
+      "cleanText": "blossoming. There were only snow and frost and",
+      "bbox": {
+        "x": 269,
+        "y": 1027,
+        "width": 558,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "north wind in it.",
+      "cleanText": "north wind in it.",
+      "bbox": {
+        "x": 270,
+        "y": 1060,
+        "width": 178,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "“T cannot understand why the spring is so late in",
+      "cleanText": "“T cannot understand why the spring is so late in",
+      "bbox": {
+        "x": 271,
+        "y": 1115,
+        "width": 565,
+        "height": 25
+      },
+      "confidence": 93.7,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "coming,” said the Giant. He was sitting at the",
+      "cleanText": "coming,” said the Giant. He was sitting at the",
+      "bbox": {
+        "x": 271,
+        "y": 1152,
+        "width": 565,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "window of his big castle and looking out at his cold, dry and lifeless garden.",
+      "cleanText": "window of his big castle and looking out at his cold, dry and lifeless garden.",
+      "bbox": {
+        "x": 271,
+        "y": 1190,
+        "width": 826,
+        "height": 25
+      },
+      "confidence": 95.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "“L hope there will be a change in the weather.”",
+      "cleanText": "“L hope there will be a change in the weather.”",
+      "bbox": {
+        "x": 271,
+        "y": 1227,
+        "width": 518,
+        "height": 25
+      },
+      "confidence": 90.7,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "But neither spring nor summer came to his garden.",
+      "cleanText": "But neither spring nor summer came to his garden.",
+      "bbox": {
+        "x": 272,
+        "y": 1269,
+        "width": 554,
+        "height": 25
+      },
+      "confidence": 96.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Discuss in groups and write an answer to this question:",
+      "cleanText": "Discuss in groups and write an answer to this question:",
+      "bbox": {
+        "x": 271,
+        "y": 1320,
+        "width": 642,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-072-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "What happens in a garden in winter?",
+      "cleanText": "What happens in a garden in winter?",
+      "bbox": {
+        "x": 271,
+        "y": 1366,
+        "width": 401,
+        "height": 25
+      },
+      "confidence": 94.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Cc. Suppose you are one of the children who were not allowed to play",
+      "cleanText": "Suppose you are one of the children who were not allowed to play",
+      "bbox": {
+        "x": 188,
+        "y": 1411,
+        "width": 909,
+        "height": 32
+      },
+      "confidence": 92.57,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-072-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "in the Giant’s garden. In this situation:",
+      "cleanText": "in the Giant’s garden. In this situation:",
+      "bbox": {
+        "x": 273,
+        "y": 1451,
+        "width": 463,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "1. What would you like to tell the Giant?",
+      "cleanText": "What would you like to tell the Giant?",
+      "bbox": {
+        "x": 274,
+        "y": 1498,
+        "width": 451,
+        "height": 25
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "2. What do you think the Giant would tell you?",
+      "cleanText": "What do you think the Giant would tell you?",
+      "bbox": {
+        "x": 271,
+        "y": 1535,
+        "width": 524,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-072-line-029",
+      "lineNumber": 29
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-072-line-001",
+      "lineNumber": 1,
+      "text": "Unit Six : Leisure 67",
+      "bbox": {
+        "x": 212,
+        "y": 258,
+        "width": 906,
+        "height": 21
+      },
+      "confidence": 94.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 9: The Selfish Giant (2)",
+      "bbox": {
+        "x": 205,
+        "y": 328,
+        "width": 402,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-003",
+      "lineNumber": 3,
+      "text": "Keyword : castle",
+      "bbox": {
+        "x": 340,
+        "y": 379,
+        "width": 202,
+        "height": 26
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-004",
+      "lineNumber": 4,
+      "text": "Continue reading the story.",
+      "bbox": {
+        "x": 204,
+        "y": 462,
+        "width": 381,
+        "height": 25
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-005",
+      "lineNumber": 5,
+      "text": "The children had now nowhere to play.",
+      "bbox": {
+        "x": 265,
+        "y": 499,
+        "width": 432,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-006",
+      "lineNumber": 6,
+      "text": "There were no gardens around and the",
+      "bbox": {
+        "x": 265,
+        "y": 536,
+        "width": 434,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-007",
+      "lineNumber": 7,
+      "text": "roads were busy and crowded. After",
+      "bbox": {
+        "x": 265,
+        "y": 574,
+        "width": 435,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-008",
+      "lineNumber": 8,
+      "text": "school they used to go round the high",
+      "bbox": {
+        "x": 266,
+        "y": 611,
+        "width": 432,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-009",
+      "lineNumber": 9,
+      "text": "wall and talk about the beautiful >",
+      "bbox": {
+        "x": 265,
+        "y": 649,
+        "width": 455,
+        "height": 26
+      },
+      "confidence": 89.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-010",
+      "lineNumber": 10,
+      "text": "garden inside. “How happy we were",
+      "bbox": {
+        "x": 265,
+        "y": 686,
+        "width": 433,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-011",
+      "lineNumber": 11,
+      "text": "there!” they said to one another.",
+      "bbox": {
+        "x": 265,
+        "y": 724,
+        "width": 350,
+        "height": 24
+      },
+      "confidence": 91.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-012",
+      "lineNumber": 12,
+      "text": "Q. 1. What do you think the children would do now?",
+      "bbox": {
+        "x": 273,
+        "y": 816,
+        "width": 668,
+        "height": 28
+      },
+      "confidence": 94.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-013",
+      "lineNumber": 13,
+      "text": "Then came the spring. And all over the country",
+      "bbox": {
+        "x": 271,
+        "y": 877,
+        "width": 566,
+        "height": 25
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-014",
+      "lineNumber": 14,
+      "text": "there were flowers and there were birds. Only in",
+      "bbox": {
+        "x": 271,
+        "y": 915,
+        "width": 565,
+        "height": 25
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-015",
+      "lineNumber": 15,
+      "text": "the garden of the Giant it was still winter.",
+      "bbox": {
+        "x": 271,
+        "y": 952,
+        "width": 545,
+        "height": 25
+      },
+      "confidence": 92.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-016",
+      "lineNumber": 16,
+      "text": "Here no birds were singing and no flowers",
+      "bbox": {
+        "x": 270,
+        "y": 990,
+        "width": 555,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-017",
+      "lineNumber": 17,
+      "text": "blossoming. There were only snow and frost and",
+      "bbox": {
+        "x": 269,
+        "y": 1027,
+        "width": 558,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-018",
+      "lineNumber": 18,
+      "text": "north wind in it.",
+      "bbox": {
+        "x": 270,
+        "y": 1060,
+        "width": 178,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-019",
+      "lineNumber": 19,
+      "text": "“T cannot understand why the spring is so late in",
+      "bbox": {
+        "x": 271,
+        "y": 1115,
+        "width": 565,
+        "height": 25
+      },
+      "confidence": 93.7,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-020",
+      "lineNumber": 20,
+      "text": "coming,” said the Giant. He was sitting at the",
+      "bbox": {
+        "x": 271,
+        "y": 1152,
+        "width": 565,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-021",
+      "lineNumber": 21,
+      "text": "window of his big castle and looking out at his cold, dry and lifeless garden.",
+      "bbox": {
+        "x": 271,
+        "y": 1190,
+        "width": 826,
+        "height": 25
+      },
+      "confidence": 95.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-022",
+      "lineNumber": 22,
+      "text": "“L hope there will be a change in the weather.”",
+      "bbox": {
+        "x": 271,
+        "y": 1227,
+        "width": 518,
+        "height": 25
+      },
+      "confidence": 90.7,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-023",
+      "lineNumber": 23,
+      "text": "But neither spring nor summer came to his garden.",
+      "bbox": {
+        "x": 272,
+        "y": 1269,
+        "width": 554,
+        "height": 25
+      },
+      "confidence": 96.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-025",
+      "lineNumber": 25,
+      "text": "What happens in a garden in winter?",
+      "bbox": {
+        "x": 271,
+        "y": 1366,
+        "width": 401,
+        "height": 25
+      },
+      "confidence": 94.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-027",
+      "lineNumber": 27,
+      "text": "in the Giant’s garden. In this situation:",
+      "bbox": {
+        "x": 273,
+        "y": 1451,
+        "width": 463,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-028",
+      "lineNumber": 28,
+      "text": "What would you like to tell the Giant?",
+      "bbox": {
+        "x": 274,
+        "y": 1498,
+        "width": 451,
+        "height": 25
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-072-line-029",
+      "lineNumber": 29,
+      "text": "What do you think the Giant would tell you?",
+      "bbox": {
+        "x": 271,
+        "y": 1535,
+        "width": 524,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Six : Leisure 67\nLesson 9: The Selfish Giant (2)\nKeyword : castle\nA. Continue reading the story.\nThe children had now nowhere to play.\nThere were no gardens around and the\nroads were busy and crowded. After\nschool they used to go round the high\nwall and talk about the beautiful >\ngarden inside. “How happy we were\nthere!” they said to one another.\nQ. 1. What do you think the children would do now?\nThen came the spring. And all over the country\nthere were flowers and there were birds. Only in\nthe garden of the Giant it was still winter.\nHere no birds were singing and no flowers\nblossoming. There were only snow and frost and\nnorth wind in it.\n“T cannot understand why the spring is so late in\ncoming,” said the Giant. He was sitting at the\nwindow of his big castle and looking out at his cold, dry and lifeless garden.\n“L hope there will be a change in the weather.”\nBut neither spring nor summer came to his garden.\nDiscuss in groups and write an answer to this question:\nWhat happens in a garden in winter?\nCc. Suppose you are one of the children who were not allowed to play\nin the Giant’s garden. In this situation:\n1. What would you like to tell the Giant?\n2. What do you think the Giant would tell you?",
+  "cleanText": "Unit Six : Leisure 67\nLesson 9: The Selfish Giant (2)\nKeyword : castle\nContinue reading the story.\nThe children had now nowhere to play.\nThere were no gardens around and the\nroads were busy and crowded. After\nschool they used to go round the high\nwall and talk about the beautiful >\ngarden inside. “How happy we were\nthere!” they said to one another.\nQ. 1. What do you think the children would do now?\nThen came the spring. And all over the country\nthere were flowers and there were birds. Only in\nthe garden of the Giant it was still winter.\nHere no birds were singing and no flowers\nblossoming. There were only snow and frost and\nnorth wind in it.\n“T cannot understand why the spring is so late in\ncoming,” said the Giant. He was sitting at the\nwindow of his big castle and looking out at his cold, dry and lifeless garden.\n“L hope there will be a change in the weather.”\nBut neither spring nor summer came to his garden.\nDiscuss in groups and write an answer to this question:\nWhat happens in a garden in winter?\nSuppose you are one of the children who were not allowed to play\nin the Giant’s garden. In this situation:\nWhat would you like to tell the Giant?\nWhat do you think the Giant would tell you?",
+  "aiReadyText": "Unit Six : Leisure 67\nLesson 9: The Selfish Giant (2)\nKeyword : castle\nContinue reading the story.\nThe children had now nowhere to play.\nThere were no gardens around and the\nroads were busy and crowded. After\nschool they used to go round the high\nwall and talk about the beautiful >\ngarden inside. “How happy we were\nthere!” they said to one another.\nQ. 1. What do you think the children would do now?\nThen came the spring. And all over the country\nthere were flowers and there were birds. Only in\nthe garden of the Giant it was still winter.\nHere no birds were singing and no flowers\nblossoming. There were only snow and frost and\nnorth wind in it.\n“T cannot understand why the spring is so late in\ncoming,” said the Giant. He was sitting at the\nwindow of his big castle and looking out at his cold, dry and lifeless garden.\n“L hope there will be a change in the weather.”\nBut neither spring nor summer came to his garden.\nWhat happens in a garden in winter?\nin the Giant’s garden. In this situation:\nWhat would you like to tell the Giant?\nWhat do you think the Giant would tell you?"
+}

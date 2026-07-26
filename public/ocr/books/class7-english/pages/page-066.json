@@ -1,0 +1,702 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 66,
+  "image": "/ocr/books/class7-english/page-images/page-066.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Six : Leisure 61",
+      "cleanText": "Unit Six : Leisure 61",
+      "bbox": {
+        "x": 200,
+        "y": 262,
+        "width": 904,
+        "height": 21
+      },
+      "confidence": 91.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 5: Travelling by Train (2)",
+      "cleanText": "Lesson 5: Travelling by Train (2)",
+      "bbox": {
+        "x": 202,
+        "y": 325,
+        "width": 432,
+        "height": 28
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Keywords : departure, empty, printout",
+      "cleanText": "Keywords : departure, empty, printout",
+      "bbox": {
+        "x": 317,
+        "y": 367,
+        "width": 450,
+        "height": 34
+      },
+      "confidence": 88.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "A. Ask and answer this question:",
+      "cleanText": "Ask and answer this question:",
+      "bbox": {
+        "x": 202,
+        "y": 416,
+        "width": 428,
+        "height": 24
+      },
+      "confidence": 86.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Have you ever looked through the window from a running train? If",
+      "cleanText": "Have you ever looked through the window from a running train? If",
+      "bbox": {
+        "x": 281,
+        "y": 449,
+        "width": 829,
+        "height": 24
+      },
+      "confidence": 95.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "you have, what did you see?",
+      "cleanText": "you have, what did you see?",
+      "bbox": {
+        "x": 279,
+        "y": 482,
+        "width": 326,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Read about a train journey.",
+      "cleanText": "Read about a train journey.",
+      "bbox": {
+        "x": 277,
+        "y": 915,
+        "width": 323,
+        "height": 33
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Zishan, Julie and their parents Mr and Mrs Arif Khan got into a 1*",
+      "cleanText": "Zishan, Julie and their parents Mr and Mrs Arif Khan got into a 1*",
+      "bbox": {
+        "x": 276,
+        "y": 950,
+        "width": 829,
+        "height": 27
+      },
+      "confidence": 83.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "class compartment at Kamalapur Railway Station. It was the Dewanganj-",
+      "cleanText": "class compartment at Kamalapur Railway Station. It was the Dewanganj-",
+      "bbox": {
+        "x": 273,
+        "y": 985,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "bound Tista Express. Zishan saw that the departure time on the big time",
+      "cleanText": "bound Tista Express. Zishan saw that the departure time on the big time",
+      "bbox": {
+        "x": 274,
+        "y": 1018,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 95.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "table of the station was 7:30 am, but the train left at 8 o’clock. However,",
+      "cleanText": "table of the station was 7:30 am, but the train left at 8 o’clock. However,",
+      "bbox": {
+        "x": 275,
+        "y": 1047,
+        "width": 834,
+        "height": 33
+      },
+      "confidence": 95.13,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "the train was running quite fast. The children sat by the window beside",
+      "cleanText": "the train was running quite fast. The children sat by the window beside",
+      "bbox": {
+        "x": 277,
+        "y": 1083,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "their parents. The compartment was half empty.",
+      "cleanText": "their parents. The compartment was half empty.",
+      "bbox": {
+        "x": 275,
+        "y": 1110,
+        "width": 523,
+        "height": 34
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Yesterday Julie had downloaded a beautiful poem on a train journey by",
+      "cleanText": "Yesterday Julie had downloaded a beautiful poem on a train journey by",
+      "bbox": {
+        "x": 277,
+        "y": 1161,
+        "width": 832,
+        "height": 33
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Robert Louis Stevenson, and printed out a copy of the poem. She took a",
+      "cleanText": "Robert Louis Stevenson, and printed out a copy of the poem. She took a",
+      "bbox": {
+        "x": 276,
+        "y": 1194,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 95.79,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "printout of the poem. Now while looking out of the windows, she found",
+      "cleanText": "printout of the poem. Now while looking out of the windows, she found",
+      "bbox": {
+        "x": 275,
+        "y": 1223,
+        "width": 833,
+        "height": 29
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "similarities between the poem and real scenery. She took out the poem",
+      "cleanText": "similarities between the poem and real scenery. She took out the poem",
+      "bbox": {
+        "x": 276,
+        "y": 1254,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "and began to read.",
+      "cleanText": "and began to read.",
+      "bbox": {
+        "x": 275,
+        "y": 1283,
+        "width": 186,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Questions",
+      "cleanText": "Questions",
+      "bbox": {
+        "x": 277,
+        "y": 1333,
+        "width": 114,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-066-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Were all the seats in the compartment taken?",
+      "cleanText": "Were all the seats in the compartment taken?",
+      "bbox": {
+        "x": 317,
+        "y": 1379,
+        "width": 491,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Where did Zishan sit?",
+      "cleanText": "Where did Zishan sit?",
+      "bbox": {
+        "x": 317,
+        "y": 1416,
+        "width": 239,
+        "height": 19
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Where was the train going?",
+      "cleanText": "Where was the train going?",
+      "bbox": {
+        "x": 316,
+        "y": 1453,
+        "width": 301,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Did the train leave Kamalapur Station late or on time?",
+      "cleanText": "Did the train leave Kamalapur Station late or on time?",
+      "bbox": {
+        "x": 316,
+        "y": 1489,
+        "width": 595,
+        "height": 25
+      },
+      "confidence": 95.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Where did Julie get the poem from?",
+      "cleanText": "Where did Julie get the poem from?",
+      "bbox": {
+        "x": 316,
+        "y": 1526,
+        "width": 394,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "What was Julie doing from her seat?",
+      "cleanText": "What was Julie doing from her seat?",
+      "bbox": {
+        "x": 316,
+        "y": 1566,
+        "width": 400,
+        "height": 25
+      },
+      "confidence": 92.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-066-line-025",
+      "lineNumber": 25
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-066-line-001",
+      "lineNumber": 1,
+      "text": "Unit Six : Leisure 61",
+      "bbox": {
+        "x": 200,
+        "y": 262,
+        "width": 904,
+        "height": 21
+      },
+      "confidence": 91.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 5: Travelling by Train (2)",
+      "bbox": {
+        "x": 202,
+        "y": 325,
+        "width": 432,
+        "height": 28
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-003",
+      "lineNumber": 3,
+      "text": "Keywords : departure, empty, printout",
+      "bbox": {
+        "x": 317,
+        "y": 367,
+        "width": 450,
+        "height": 34
+      },
+      "confidence": 88.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-004",
+      "lineNumber": 4,
+      "text": "Ask and answer this question:",
+      "bbox": {
+        "x": 202,
+        "y": 416,
+        "width": 428,
+        "height": 24
+      },
+      "confidence": 86.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-005",
+      "lineNumber": 5,
+      "text": "Have you ever looked through the window from a running train? If",
+      "bbox": {
+        "x": 281,
+        "y": 449,
+        "width": 829,
+        "height": 24
+      },
+      "confidence": 95.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-006",
+      "lineNumber": 6,
+      "text": "you have, what did you see?",
+      "bbox": {
+        "x": 279,
+        "y": 482,
+        "width": 326,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-007",
+      "lineNumber": 7,
+      "text": "Read about a train journey.",
+      "bbox": {
+        "x": 277,
+        "y": 915,
+        "width": 323,
+        "height": 33
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-008",
+      "lineNumber": 8,
+      "text": "Zishan, Julie and their parents Mr and Mrs Arif Khan got into a 1*",
+      "bbox": {
+        "x": 276,
+        "y": 950,
+        "width": 829,
+        "height": 27
+      },
+      "confidence": 83.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-009",
+      "lineNumber": 9,
+      "text": "class compartment at Kamalapur Railway Station. It was the Dewanganj-",
+      "bbox": {
+        "x": 273,
+        "y": 985,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-010",
+      "lineNumber": 10,
+      "text": "bound Tista Express. Zishan saw that the departure time on the big time",
+      "bbox": {
+        "x": 274,
+        "y": 1018,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 95.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-011",
+      "lineNumber": 11,
+      "text": "table of the station was 7:30 am, but the train left at 8 o’clock. However,",
+      "bbox": {
+        "x": 275,
+        "y": 1047,
+        "width": 834,
+        "height": 33
+      },
+      "confidence": 95.13,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-012",
+      "lineNumber": 12,
+      "text": "the train was running quite fast. The children sat by the window beside",
+      "bbox": {
+        "x": 277,
+        "y": 1083,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-013",
+      "lineNumber": 13,
+      "text": "their parents. The compartment was half empty.",
+      "bbox": {
+        "x": 275,
+        "y": 1110,
+        "width": 523,
+        "height": 34
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-014",
+      "lineNumber": 14,
+      "text": "Yesterday Julie had downloaded a beautiful poem on a train journey by",
+      "bbox": {
+        "x": 277,
+        "y": 1161,
+        "width": 832,
+        "height": 33
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-015",
+      "lineNumber": 15,
+      "text": "Robert Louis Stevenson, and printed out a copy of the poem. She took a",
+      "bbox": {
+        "x": 276,
+        "y": 1194,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 95.79,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-016",
+      "lineNumber": 16,
+      "text": "printout of the poem. Now while looking out of the windows, she found",
+      "bbox": {
+        "x": 275,
+        "y": 1223,
+        "width": 833,
+        "height": 29
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-017",
+      "lineNumber": 17,
+      "text": "similarities between the poem and real scenery. She took out the poem",
+      "bbox": {
+        "x": 276,
+        "y": 1254,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-018",
+      "lineNumber": 18,
+      "text": "and began to read.",
+      "bbox": {
+        "x": 275,
+        "y": 1283,
+        "width": 186,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-020",
+      "lineNumber": 20,
+      "text": "Were all the seats in the compartment taken?",
+      "bbox": {
+        "x": 317,
+        "y": 1379,
+        "width": 491,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-021",
+      "lineNumber": 21,
+      "text": "Where did Zishan sit?",
+      "bbox": {
+        "x": 317,
+        "y": 1416,
+        "width": 239,
+        "height": 19
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-022",
+      "lineNumber": 22,
+      "text": "Where was the train going?",
+      "bbox": {
+        "x": 316,
+        "y": 1453,
+        "width": 301,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-023",
+      "lineNumber": 23,
+      "text": "Did the train leave Kamalapur Station late or on time?",
+      "bbox": {
+        "x": 316,
+        "y": 1489,
+        "width": 595,
+        "height": 25
+      },
+      "confidence": 95.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-024",
+      "lineNumber": 24,
+      "text": "Where did Julie get the poem from?",
+      "bbox": {
+        "x": 316,
+        "y": 1526,
+        "width": 394,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-066-line-025",
+      "lineNumber": 25,
+      "text": "What was Julie doing from her seat?",
+      "bbox": {
+        "x": 316,
+        "y": 1566,
+        "width": 400,
+        "height": 25
+      },
+      "confidence": 92.57,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Six : Leisure 61\nLesson 5: Travelling by Train (2)\nKeywords : departure, empty, printout\nA. Ask and answer this question:\nHave you ever looked through the window from a running train? If\nyou have, what did you see?\nRead about a train journey.\nZishan, Julie and their parents Mr and Mrs Arif Khan got into a 1*\nclass compartment at Kamalapur Railway Station. It was the Dewanganj-\nbound Tista Express. Zishan saw that the departure time on the big time\ntable of the station was 7:30 am, but the train left at 8 o’clock. However,\nthe train was running quite fast. The children sat by the window beside\ntheir parents. The compartment was half empty.\nYesterday Julie had downloaded a beautiful poem on a train journey by\nRobert Louis Stevenson, and printed out a copy of the poem. She took a\nprintout of the poem. Now while looking out of the windows, she found\nsimilarities between the poem and real scenery. She took out the poem\nand began to read.\nQuestions\nWere all the seats in the compartment taken?\nWhere did Zishan sit?\nWhere was the train going?\nDid the train leave Kamalapur Station late or on time?\nWhere did Julie get the poem from?\nWhat was Julie doing from her seat?",
+  "cleanText": "Unit Six : Leisure 61\nLesson 5: Travelling by Train (2)\nKeywords : departure, empty, printout\nAsk and answer this question:\nHave you ever looked through the window from a running train? If\nyou have, what did you see?\nRead about a train journey.\nZishan, Julie and their parents Mr and Mrs Arif Khan got into a 1*\nclass compartment at Kamalapur Railway Station. It was the Dewanganj-\nbound Tista Express. Zishan saw that the departure time on the big time\ntable of the station was 7:30 am, but the train left at 8 o’clock. However,\nthe train was running quite fast. The children sat by the window beside\ntheir parents. The compartment was half empty.\nYesterday Julie had downloaded a beautiful poem on a train journey by\nRobert Louis Stevenson, and printed out a copy of the poem. She took a\nprintout of the poem. Now while looking out of the windows, she found\nsimilarities between the poem and real scenery. She took out the poem\nand began to read.\nQuestions\nWere all the seats in the compartment taken?\nWhere did Zishan sit?\nWhere was the train going?\nDid the train leave Kamalapur Station late or on time?\nWhere did Julie get the poem from?\nWhat was Julie doing from her seat?",
+  "aiReadyText": "Unit Six : Leisure 61\nLesson 5: Travelling by Train (2)\nKeywords : departure, empty, printout\nAsk and answer this question:\nHave you ever looked through the window from a running train? If\nyou have, what did you see?\nRead about a train journey.\nZishan, Julie and their parents Mr and Mrs Arif Khan got into a 1*\nclass compartment at Kamalapur Railway Station. It was the Dewanganj-\nbound Tista Express. Zishan saw that the departure time on the big time\ntable of the station was 7:30 am, but the train left at 8 o’clock. However,\nthe train was running quite fast. The children sat by the window beside\ntheir parents. The compartment was half empty.\nYesterday Julie had downloaded a beautiful poem on a train journey by\nRobert Louis Stevenson, and printed out a copy of the poem. She took a\nprintout of the poem. Now while looking out of the windows, she found\nsimilarities between the poem and real scenery. She took out the poem\nand began to read.\nWere all the seats in the compartment taken?\nWhere did Zishan sit?\nWhere was the train going?\nDid the train leave Kamalapur Station late or on time?\nWhere did Julie get the poem from?\nWhat was Julie doing from her seat?"
+}

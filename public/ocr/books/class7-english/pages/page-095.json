@@ -1,0 +1,323 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 95,
+  "image": "/ocr/books/class7-english/page-images/page-095.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "90 ENGLISH FOR TODAY",
+      "cleanText": "90 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 199,
+        "y": 270,
+        "width": 907,
+        "height": 18
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-095-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "C. at the food that Kobita usually eats at home. In pairs match the",
+      "cleanText": "at the food that Kobita usually eats at home. In pairs match the",
+      "bbox": {
+        "x": 203,
+        "y": 334,
+        "width": 907,
+        "height": 25
+      },
+      "confidence": 94.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-095-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "names of the food items given below with the pictures.",
+      "cleanText": "names of the food items given below with the pictures.",
+      "bbox": {
+        "x": 283,
+        "y": 367,
+        "width": 634,
+        "height": 25
+      },
+      "confidence": 96.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-095-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "bitter gourd fish fry chapatti",
+      "cleanText": "bitter gourd fish fry chapatti",
+      "bbox": {
+        "x": 342,
+        "y": 1081,
+        "width": 552,
+        "height": 25
+      },
+      "confidence": 94.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-095-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "singara egg fry mashed potato",
+      "cleanText": "singara egg fry mashed potato",
+      "bbox": {
+        "x": 342,
+        "y": 1129,
+        "width": 626,
+        "height": 25
+      },
+      "confidence": 94.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-095-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "D. Now, discuss which of the foods above you like or dislike. Follow the",
+      "cleanText": "Now, discuss which of the foods above you like or dislike. Follow the",
+      "bbox": {
+        "x": 203,
+        "y": 1203,
+        "width": 908,
+        "height": 25
+      },
+      "confidence": 91.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-095-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "example below:",
+      "cleanText": "example below:",
+      "bbox": {
+        "x": 280,
+        "y": 1237,
+        "width": 182,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-095-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "A: Do you like French fries?",
+      "cleanText": "A: Do you like French fries?",
+      "bbox": {
+        "x": 361,
+        "y": 1306,
+        "width": 316,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-095-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "B. Yes, I do. They’re delicious.",
+      "cleanText": "Yes, I do. They’re delicious.",
+      "bbox": {
+        "x": 361,
+        "y": 1344,
+        "width": 340,
+        "height": 24
+      },
+      "confidence": 91.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-095-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "A: Do you like dried fish?",
+      "cleanText": "A: Do you like dried fish?",
+      "bbox": {
+        "x": 360,
+        "y": 1381,
+        "width": 286,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-095-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "B: No, I don’t. I can’t stand the smell.",
+      "cleanText": "B: No, I don’t. I can’t stand the smell.",
+      "bbox": {
+        "x": 361,
+        "y": 1418,
+        "width": 424,
+        "height": 24
+      },
+      "confidence": 92.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-095-line-011",
+      "lineNumber": 11
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-095-line-001",
+      "lineNumber": 1,
+      "text": "90 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 199,
+        "y": 270,
+        "width": 907,
+        "height": 18
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-095-line-002",
+      "lineNumber": 2,
+      "text": "at the food that Kobita usually eats at home. In pairs match the",
+      "bbox": {
+        "x": 203,
+        "y": 334,
+        "width": 907,
+        "height": 25
+      },
+      "confidence": 94.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-095-line-003",
+      "lineNumber": 3,
+      "text": "names of the food items given below with the pictures.",
+      "bbox": {
+        "x": 283,
+        "y": 367,
+        "width": 634,
+        "height": 25
+      },
+      "confidence": 96.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-095-line-004",
+      "lineNumber": 4,
+      "text": "bitter gourd fish fry chapatti",
+      "bbox": {
+        "x": 342,
+        "y": 1081,
+        "width": 552,
+        "height": 25
+      },
+      "confidence": 94.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-095-line-005",
+      "lineNumber": 5,
+      "text": "singara egg fry mashed potato",
+      "bbox": {
+        "x": 342,
+        "y": 1129,
+        "width": 626,
+        "height": 25
+      },
+      "confidence": 94.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-095-line-006",
+      "lineNumber": 6,
+      "text": "Now, discuss which of the foods above you like or dislike. Follow the",
+      "bbox": {
+        "x": 203,
+        "y": 1203,
+        "width": 908,
+        "height": 25
+      },
+      "confidence": 91.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-095-line-007",
+      "lineNumber": 7,
+      "text": "example below:",
+      "bbox": {
+        "x": 280,
+        "y": 1237,
+        "width": 182,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-095-line-008",
+      "lineNumber": 8,
+      "text": "A: Do you like French fries?",
+      "bbox": {
+        "x": 361,
+        "y": 1306,
+        "width": 316,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-095-line-009",
+      "lineNumber": 9,
+      "text": "Yes, I do. They’re delicious.",
+      "bbox": {
+        "x": 361,
+        "y": 1344,
+        "width": 340,
+        "height": 24
+      },
+      "confidence": 91.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-095-line-010",
+      "lineNumber": 10,
+      "text": "A: Do you like dried fish?",
+      "bbox": {
+        "x": 360,
+        "y": 1381,
+        "width": 286,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-095-line-011",
+      "lineNumber": 11,
+      "text": "B: No, I don’t. I can’t stand the smell.",
+      "bbox": {
+        "x": 361,
+        "y": 1418,
+        "width": 424,
+        "height": 24
+      },
+      "confidence": 92.11,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "90 ENGLISH FOR TODAY\nC. at the food that Kobita usually eats at home. In pairs match the\nnames of the food items given below with the pictures.\nbitter gourd fish fry chapatti\nsingara egg fry mashed potato\nD. Now, discuss which of the foods above you like or dislike. Follow the\nexample below:\nA: Do you like French fries?\nB. Yes, I do. They’re delicious.\nA: Do you like dried fish?\nB: No, I don’t. I can’t stand the smell.",
+  "cleanText": "90 ENGLISH FOR TODAY\nat the food that Kobita usually eats at home. In pairs match the\nnames of the food items given below with the pictures.\nbitter gourd fish fry chapatti\nsingara egg fry mashed potato\nNow, discuss which of the foods above you like or dislike. Follow the\nexample below:\nA: Do you like French fries?\nYes, I do. They’re delicious.\nA: Do you like dried fish?\nB: No, I don’t. I can’t stand the smell.",
+  "aiReadyText": "90 ENGLISH FOR TODAY\nat the food that Kobita usually eats at home. In pairs match the\nnames of the food items given below with the pictures.\nbitter gourd fish fry chapatti\nsingara egg fry mashed potato\nNow, discuss which of the foods above you like or dislike. Follow the\nexample below:\nA: Do you like French fries?\nYes, I do. They’re delicious.\nA: Do you like dried fish?\nB: No, I don’t. I can’t stand the smell."
+}

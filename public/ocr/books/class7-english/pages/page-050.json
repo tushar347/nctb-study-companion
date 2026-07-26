@@ -1,0 +1,992 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 50,
+  "image": "/ocr/books/class7-english/page-images/page-050.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Four : People Who Make a Difference 45",
+      "cleanText": "Unit Four : People Who Make a Difference 45",
+      "bbox": {
+        "x": 193,
+        "y": 223,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 92.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 11: Waiting for a Torch Bearer",
+      "cleanText": "Lesson 11: Waiting for a Torch Bearer",
+      "bbox": {
+        "x": 202,
+        "y": 293,
+        "width": 506,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Keywords: poverty torch responsibility",
+      "cleanText": "Keywords: poverty torch responsibility",
+      "bbox": {
+        "x": 277,
+        "y": 354,
+        "width": 479,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "A. Look at the picture and guess what they are",
+      "cleanText": "Look at the picture and guess what they are",
+      "bbox": {
+        "x": 202,
+        "y": 469,
+        "width": 590,
+        "height": 24
+      },
+      "confidence": 88.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-050-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "talking about.",
+      "cleanText": "talking about.",
+      "bbox": {
+        "x": 281,
+        "y": 502,
+        "width": 161,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "B. ATV reporter is interviewing Dr Mahmud",
+      "cleanText": "ATV reporter is interviewing Dr Mahmud",
+      "bbox": {
+        "x": 199,
+        "y": 607,
+        "width": 580,
+        "height": 24
+      },
+      "confidence": 93.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Hasan about his dream. Read the interview.",
+      "cleanText": "Hasan about his dream. Read the interview.",
+      "bbox": {
+        "x": 278,
+        "y": 640,
+        "width": 512,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Why have you chosen this",
+      "cleanText": "Why have you chosen this",
+      "bbox": {
+        "x": 516,
+        "y": 677,
+        "width": 308,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Reporter:",
+      "cleanText": "Reporter:",
+      "bbox": {
+        "x": 316,
+        "y": 678,
+        "width": 101,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-050-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "village for your work?",
+      "cleanText": "village for your work?",
+      "bbox": {
+        "x": 515,
+        "y": 713,
+        "width": 244,
+        "height": 25
+      },
+      "confidence": 96.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Dr Mahmud:",
+      "cleanText": "Dr Mahmud:",
+      "bbox": {
+        "x": 278,
+        "y": 747,
+        "width": 139,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-050-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "The people of my village do not get proper healthcare",
+      "cleanText": "The people of my village do not get proper healthcare",
+      "bbox": {
+        "x": 515,
+        "y": 747,
+        "width": 589,
+        "height": 25
+      },
+      "confidence": 92.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "support because of poverty. I have chosen the village",
+      "cleanText": "support because of poverty. I have chosen the village",
+      "bbox": {
+        "x": 516,
+        "y": 782,
+        "width": 586,
+        "height": 25
+      },
+      "confidence": 94.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "to give them a little healthcare support.",
+      "cleanText": "to give them a little healthcare support.",
+      "bbox": {
+        "x": 514,
+        "y": 813,
+        "width": 429,
+        "height": 34
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "How much does a patient pay for the support?",
+      "cleanText": "How much does a patient pay for the support?",
+      "bbox": {
+        "x": 515,
+        "y": 854,
+        "width": 505,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Reporter:",
+      "cleanText": "Reporter:",
+      "bbox": {
+        "x": 316,
+        "y": 855,
+        "width": 101,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-050-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Dr Mahmud:",
+      "cleanText": "Dr Mahmud:",
+      "bbox": {
+        "x": 278,
+        "y": 890,
+        "width": 139,
+        "height": 19
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-050-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "They pay very little. And very poor people get",
+      "cleanText": "They pay very little. And very poor people get",
+      "bbox": {
+        "x": 515,
+        "y": 890,
+        "width": 587,
+        "height": 25
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "free treatment.",
+      "cleanText": "free treatment.",
+      "bbox": {
+        "x": 516,
+        "y": 924,
+        "width": 166,
+        "height": 21
+      },
+      "confidence": 81.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Isn°t the work very hard’?",
+      "cleanText": "Isn°t the work very hard’?",
+      "bbox": {
+        "x": 515,
+        "y": 958,
+        "width": 276,
+        "height": 25
+      },
+      "confidence": 78.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Reporter:",
+      "cleanText": "Reporter:",
+      "bbox": {
+        "x": 317,
+        "y": 959,
+        "width": 100,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-050-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Dr Mahmud:",
+      "cleanText": "Dr Mahmud:",
+      "bbox": {
+        "x": 278,
+        "y": 997,
+        "width": 139,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-050-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Yes, it is. But | do it with pleasure.",
+      "cleanText": "Yes, it is. But | do it with pleasure.",
+      "bbox": {
+        "x": 515,
+        "y": 997,
+        "width": 381,
+        "height": 25
+      },
+      "confidence": 92.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "What is your future plan for the centre?",
+      "cleanText": "What is your future plan for the centre?",
+      "bbox": {
+        "x": 515,
+        "y": 1036,
+        "width": 432,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Reporter:",
+      "cleanText": "Reporter:",
+      "bbox": {
+        "x": 316,
+        "y": 1037,
+        "width": 101,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-050-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Dr Mahmud:",
+      "cleanText": "Dr Mahmud:",
+      "bbox": {
+        "x": 280,
+        "y": 1074,
+        "width": 138,
+        "height": 20
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-050-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "You see, I’m getting old. So, I’m waiting for a torch",
+      "cleanText": "You see, I’m getting old. So, I’m waiting for a torch",
+      "bbox": {
+        "x": 516,
+        "y": 1074,
+        "width": 587,
+        "height": 25
+      },
+      "confidence": 94.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "bearer. Many students get MBBS degree in the",
+      "cleanText": "bearer. Many students get MBBS degree in the",
+      "bbox": {
+        "x": 515,
+        "y": 1107,
+        "width": 586,
+        "height": 25
+      },
+      "confidence": 88.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "country every year. 'm waiting for one of them. He",
+      "cleanText": "country every year. 'm waiting for one of them. He",
+      "bbox": {
+        "x": 516,
+        "y": 1140,
+        "width": 586,
+        "height": 26
+      },
+      "confidence": 90.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "or she’ll take responsibility for the treatment of the",
+      "cleanText": "or she’ll take responsibility for the treatment of the",
+      "bbox": {
+        "x": 516,
+        "y": 1173,
+        "width": 587,
+        "height": 25
+      },
+      "confidence": 94.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "poor in this area.",
+      "cleanText": "poor in this area.",
+      "bbox": {
+        "x": 518,
+        "y": 1204,
+        "width": 183,
+        "height": 26
+      },
+      "confidence": 92.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "(Note: MBBS= Bachelor of Medicine and Bachelor of Surgery)",
+      "cleanText": "(Note: MBBS= Bachelor of Medicine and Bachelor of Surgery)",
+      "bbox": {
+        "x": 279,
+        "y": 1270,
+        "width": 701,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "C. Match the words with their meanings.",
+      "cleanText": "Match the words with their meanings.",
+      "bbox": {
+        "x": 194,
+        "y": 1324,
+        "width": 522,
+        "height": 25
+      },
+      "confidence": 87.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "Meanings",
+      "cleanText": "Meanings",
+      "bbox": {
+        "x": 730,
+        "y": 1372,
+        "width": 113,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-050-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "take charge of",
+      "cleanText": "take charge of",
+      "bbox": {
+        "x": 284,
+        "y": 1408,
+        "width": 158,
+        "height": 24
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-035",
+      "lineNumber": 35
+    },
+    {
+      "text": "the feeling of happiness",
+      "cleanText": "the feeling of happiness",
+      "bbox": {
+        "x": 542,
+        "y": 1408,
+        "width": 260,
+        "height": 24
+      },
+      "confidence": 96.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-036",
+      "lineNumber": 36
+    },
+    {
+      "text": "have control over",
+      "cleanText": "have control over",
+      "bbox": {
+        "x": 542,
+        "y": 1446,
+        "width": 191,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-037",
+      "lineNumber": 37
+    },
+    {
+      "text": "pleasure",
+      "cleanText": "pleasure",
+      "bbox": {
+        "x": 284,
+        "y": 1485,
+        "width": 90,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-050-line-038",
+      "lineNumber": 38
+    },
+    {
+      "text": "responsibility",
+      "cleanText": "responsibility",
+      "bbox": {
+        "x": 285,
+        "y": 1523,
+        "width": 147,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-039",
+      "lineNumber": 39
+    },
+    {
+      "text": "the situation of being poor",
+      "cleanText": "the situation of being poor",
+      "bbox": {
+        "x": 541,
+        "y": 1523,
+        "width": 290,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-050-line-040",
+      "lineNumber": 40
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-050-line-001",
+      "lineNumber": 1,
+      "text": "Unit Four : People Who Make a Difference 45",
+      "bbox": {
+        "x": 193,
+        "y": 223,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 92.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 11: Waiting for a Torch Bearer",
+      "bbox": {
+        "x": 202,
+        "y": 293,
+        "width": 506,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-003",
+      "lineNumber": 3,
+      "text": "Keywords: poverty torch responsibility",
+      "bbox": {
+        "x": 277,
+        "y": 354,
+        "width": 479,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-005",
+      "lineNumber": 5,
+      "text": "talking about.",
+      "bbox": {
+        "x": 281,
+        "y": 502,
+        "width": 161,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-006",
+      "lineNumber": 6,
+      "text": "ATV reporter is interviewing Dr Mahmud",
+      "bbox": {
+        "x": 199,
+        "y": 607,
+        "width": 580,
+        "height": 24
+      },
+      "confidence": 93.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-007",
+      "lineNumber": 7,
+      "text": "Hasan about his dream. Read the interview.",
+      "bbox": {
+        "x": 278,
+        "y": 640,
+        "width": 512,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-008",
+      "lineNumber": 8,
+      "text": "Why have you chosen this",
+      "bbox": {
+        "x": 516,
+        "y": 677,
+        "width": 308,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-010",
+      "lineNumber": 10,
+      "text": "village for your work?",
+      "bbox": {
+        "x": 515,
+        "y": 713,
+        "width": 244,
+        "height": 25
+      },
+      "confidence": 96.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-012",
+      "lineNumber": 12,
+      "text": "The people of my village do not get proper healthcare",
+      "bbox": {
+        "x": 515,
+        "y": 747,
+        "width": 589,
+        "height": 25
+      },
+      "confidence": 92.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-013",
+      "lineNumber": 13,
+      "text": "support because of poverty. I have chosen the village",
+      "bbox": {
+        "x": 516,
+        "y": 782,
+        "width": 586,
+        "height": 25
+      },
+      "confidence": 94.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-014",
+      "lineNumber": 14,
+      "text": "to give them a little healthcare support.",
+      "bbox": {
+        "x": 514,
+        "y": 813,
+        "width": 429,
+        "height": 34
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-015",
+      "lineNumber": 15,
+      "text": "How much does a patient pay for the support?",
+      "bbox": {
+        "x": 515,
+        "y": 854,
+        "width": 505,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-018",
+      "lineNumber": 18,
+      "text": "They pay very little. And very poor people get",
+      "bbox": {
+        "x": 515,
+        "y": 890,
+        "width": 587,
+        "height": 25
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-019",
+      "lineNumber": 19,
+      "text": "free treatment.",
+      "bbox": {
+        "x": 516,
+        "y": 924,
+        "width": 166,
+        "height": 21
+      },
+      "confidence": 81.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-020",
+      "lineNumber": 20,
+      "text": "Isn°t the work very hard’?",
+      "bbox": {
+        "x": 515,
+        "y": 958,
+        "width": 276,
+        "height": 25
+      },
+      "confidence": 78.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-023",
+      "lineNumber": 23,
+      "text": "Yes, it is. But | do it with pleasure.",
+      "bbox": {
+        "x": 515,
+        "y": 997,
+        "width": 381,
+        "height": 25
+      },
+      "confidence": 92.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-024",
+      "lineNumber": 24,
+      "text": "What is your future plan for the centre?",
+      "bbox": {
+        "x": 515,
+        "y": 1036,
+        "width": 432,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-027",
+      "lineNumber": 27,
+      "text": "You see, I’m getting old. So, I’m waiting for a torch",
+      "bbox": {
+        "x": 516,
+        "y": 1074,
+        "width": 587,
+        "height": 25
+      },
+      "confidence": 94.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-028",
+      "lineNumber": 28,
+      "text": "bearer. Many students get MBBS degree in the",
+      "bbox": {
+        "x": 515,
+        "y": 1107,
+        "width": 586,
+        "height": 25
+      },
+      "confidence": 88.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-029",
+      "lineNumber": 29,
+      "text": "country every year. 'm waiting for one of them. He",
+      "bbox": {
+        "x": 516,
+        "y": 1140,
+        "width": 586,
+        "height": 26
+      },
+      "confidence": 90.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-030",
+      "lineNumber": 30,
+      "text": "or she’ll take responsibility for the treatment of the",
+      "bbox": {
+        "x": 516,
+        "y": 1173,
+        "width": 587,
+        "height": 25
+      },
+      "confidence": 94.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-031",
+      "lineNumber": 31,
+      "text": "poor in this area.",
+      "bbox": {
+        "x": 518,
+        "y": 1204,
+        "width": 183,
+        "height": 26
+      },
+      "confidence": 92.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-032",
+      "lineNumber": 32,
+      "text": "(Note: MBBS= Bachelor of Medicine and Bachelor of Surgery)",
+      "bbox": {
+        "x": 279,
+        "y": 1270,
+        "width": 701,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-033",
+      "lineNumber": 33,
+      "text": "Match the words with their meanings.",
+      "bbox": {
+        "x": 194,
+        "y": 1324,
+        "width": 522,
+        "height": 25
+      },
+      "confidence": 87.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-035",
+      "lineNumber": 35,
+      "text": "take charge of",
+      "bbox": {
+        "x": 284,
+        "y": 1408,
+        "width": 158,
+        "height": 24
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-036",
+      "lineNumber": 36,
+      "text": "the feeling of happiness",
+      "bbox": {
+        "x": 542,
+        "y": 1408,
+        "width": 260,
+        "height": 24
+      },
+      "confidence": 96.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-037",
+      "lineNumber": 37,
+      "text": "have control over",
+      "bbox": {
+        "x": 542,
+        "y": 1446,
+        "width": 191,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-039",
+      "lineNumber": 39,
+      "text": "responsibility",
+      "bbox": {
+        "x": 285,
+        "y": 1523,
+        "width": 147,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-050-line-040",
+      "lineNumber": 40,
+      "text": "the situation of being poor",
+      "bbox": {
+        "x": 541,
+        "y": 1523,
+        "width": 290,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Four : People Who Make a Difference 45\nLesson 11: Waiting for a Torch Bearer\nKeywords: poverty torch responsibility\nA. Look at the picture and guess what they are\ntalking about.\nB. ATV reporter is interviewing Dr Mahmud\nHasan about his dream. Read the interview.\nWhy have you chosen this\nReporter:\nvillage for your work?\nDr Mahmud:\nThe people of my village do not get proper healthcare\nsupport because of poverty. I have chosen the village\nto give them a little healthcare support.\nHow much does a patient pay for the support?\nReporter:\nDr Mahmud:\nThey pay very little. And very poor people get\nfree treatment.\nIsn°t the work very hard’?\nReporter:\nDr Mahmud:\nYes, it is. But | do it with pleasure.\nWhat is your future plan for the centre?\nReporter:\nDr Mahmud:\nYou see, I’m getting old. So, I’m waiting for a torch\nbearer. Many students get MBBS degree in the\ncountry every year. 'm waiting for one of them. He\nor she’ll take responsibility for the treatment of the\npoor in this area.\n(Note: MBBS= Bachelor of Medicine and Bachelor of Surgery)\nC. Match the words with their meanings.\nMeanings\ntake charge of\nthe feeling of happiness\nhave control over\npleasure\nresponsibility\nthe situation of being poor",
+  "cleanText": "Unit Four : People Who Make a Difference 45\nLesson 11: Waiting for a Torch Bearer\nKeywords: poverty torch responsibility\nLook at the picture and guess what they are\ntalking about.\nATV reporter is interviewing Dr Mahmud\nHasan about his dream. Read the interview.\nWhy have you chosen this\nReporter:\nvillage for your work?\nDr Mahmud:\nThe people of my village do not get proper healthcare\nsupport because of poverty. I have chosen the village\nto give them a little healthcare support.\nHow much does a patient pay for the support?\nReporter:\nDr Mahmud:\nThey pay very little. And very poor people get\nfree treatment.\nIsn°t the work very hard’?\nReporter:\nDr Mahmud:\nYes, it is. But | do it with pleasure.\nWhat is your future plan for the centre?\nReporter:\nDr Mahmud:\nYou see, I’m getting old. So, I’m waiting for a torch\nbearer. Many students get MBBS degree in the\ncountry every year. 'm waiting for one of them. He\nor she’ll take responsibility for the treatment of the\npoor in this area.\n(Note: MBBS= Bachelor of Medicine and Bachelor of Surgery)\nMatch the words with their meanings.\nMeanings\ntake charge of\nthe feeling of happiness\nhave control over\npleasure\nresponsibility\nthe situation of being poor",
+  "aiReadyText": "Unit Four : People Who Make a Difference 45\nLesson 11: Waiting for a Torch Bearer\nKeywords: poverty torch responsibility\ntalking about.\nATV reporter is interviewing Dr Mahmud\nHasan about his dream. Read the interview.\nWhy have you chosen this\nvillage for your work?\nThe people of my village do not get proper healthcare\nsupport because of poverty. I have chosen the village\nto give them a little healthcare support.\nHow much does a patient pay for the support?\nThey pay very little. And very poor people get\nfree treatment.\nIsn°t the work very hard’?\nYes, it is. But | do it with pleasure.\nWhat is your future plan for the centre?\nYou see, I’m getting old. So, I’m waiting for a torch\nbearer. Many students get MBBS degree in the\ncountry every year. 'm waiting for one of them. He\nor she’ll take responsibility for the treatment of the\npoor in this area.\n(Note: MBBS= Bachelor of Medicine and Bachelor of Surgery)\nMatch the words with their meanings.\ntake charge of\nthe feeling of happiness\nhave control over\nresponsibility\nthe situation of being poor"
+}

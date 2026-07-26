@@ -1,0 +1,833 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 64,
+  "image": "/ocr/books/class7-english/page-images/page-064.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Six : Leisure 59",
+      "cleanText": "Unit Six : Leisure 59",
+      "bbox": {
+        "x": 207,
+        "y": 262,
+        "width": 904,
+        "height": 21
+      },
+      "confidence": 92.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Discuss in pairs and answer this question orally.",
+      "cleanText": "Discuss in pairs and answer this question orally.",
+      "bbox": {
+        "x": 272,
+        "y": 334,
+        "width": 559,
+        "height": 24
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-064-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Which activities mainly take place in cities and which activities mainly take",
+      "cleanText": "Which activities mainly take place in cities and which activities mainly take",
+      "bbox": {
+        "x": 272,
+        "y": 378,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "place in villages? Also say which activity or activities can take place both",
+      "cleanText": "place in villages? Also say which activity or activities can take place both",
+      "bbox": {
+        "x": 272,
+        "y": 408,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 95.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "in cities and villages.",
+      "cleanText": "in cities and villages.",
+      "bbox": {
+        "x": 274,
+        "y": 441,
+        "width": 233,
+        "height": 25
+      },
+      "confidence": 91.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Work in groups. Here is a list of children’s activities. Which of them are",
+      "cleanText": "Work in groups. Here is a list of children’s activities. Which of them are",
+      "bbox": {
+        "x": 267,
+        "y": 492,
+        "width": 836,
+        "height": 25
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-064-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "free-time or leisure activities and which are not? Why are they so?",
+      "cleanText": "free-time or leisure activities and which are not? Why are they so?",
+      "bbox": {
+        "x": 271,
+        "y": 522,
+        "width": 777,
+        "height": 26
+      },
+      "confidence": 95.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "© studying for exams",
+      "cleanText": "© studying for exams",
+      "bbox": {
+        "x": 311,
+        "y": 563,
+        "width": 246,
+        "height": 25
+      },
+      "confidence": 83.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "e listening to music",
+      "cleanText": "e listening to music",
+      "bbox": {
+        "x": 311,
+        "y": 599,
+        "width": 234,
+        "height": 25
+      },
+      "confidence": 82.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "¢ visiting relatives on weekends",
+      "cleanText": "¢ visiting relatives on weekends",
+      "bbox": {
+        "x": 311,
+        "y": 635,
+        "width": 370,
+        "height": 25
+      },
+      "confidence": 85.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "¢ attending music lessons",
+      "cleanText": "¢ attending music lessons",
+      "bbox": {
+        "x": 311,
+        "y": 671,
+        "width": 299,
+        "height": 25
+      },
+      "confidence": 81.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "reading story books",
+      "cleanText": "reading story books",
+      "bbox": {
+        "x": 351,
+        "y": 706,
+        "width": 215,
+        "height": 25
+      },
+      "confidence": 92.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "® going to movies",
+      "cleanText": "® going to movies",
+      "bbox": {
+        "x": 311,
+        "y": 742,
+        "width": 215,
+        "height": 25
+      },
+      "confidence": 82.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "helping parents with housework",
+      "cleanText": "helping parents with housework",
+      "bbox": {
+        "x": 351,
+        "y": 778,
+        "width": 350,
+        "height": 25
+      },
+      "confidence": 90.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "¢ going on a picnic with family or friends",
+      "cleanText": "¢ going on a picnic with family or friends",
+      "bbox": {
+        "x": 311,
+        "y": 810,
+        "width": 476,
+        "height": 33
+      },
+      "confidence": 85.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "e walking in the park on holidays",
+      "cleanText": "e walking in the park on holidays",
+      "bbox": {
+        "x": 311,
+        "y": 850,
+        "width": 386,
+        "height": 24
+      },
+      "confidence": 89.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Write answers to these questions.",
+      "cleanText": "Write answers to these questions.",
+      "bbox": {
+        "x": 271,
+        "y": 889,
+        "width": 388,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "1, What free-time / leisure activities do you do?",
+      "cleanText": "1, What free-time / leisure activities do you do?",
+      "bbox": {
+        "x": 274,
+        "y": 928,
+        "width": 526,
+        "height": 25
+      },
+      "confidence": 93.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "2, Where and with whom do you do your Icisure activitics?",
+      "cleanText": "2, Where and with whom do you do your Icisure activitics?",
+      "bbox": {
+        "x": 271,
+        "y": 968,
+        "width": 680,
+        "height": 25
+      },
+      "confidence": 93.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "3, Why do you like or dislike to do your free-time activitics?",
+      "cleanText": "3, Why do you like or dislike to do your free-time activitics?",
+      "bbox": {
+        "x": 272,
+        "y": 1009,
+        "width": 670,
+        "height": 25
+      },
+      "confidence": 91.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "4, Do you face any problems or difficulties in doing your leisure activities?",
+      "cleanText": "4, Do you face any problems or difficulties in doing your leisure activities?",
+      "bbox": {
+        "x": 271,
+        "y": 1046,
+        "width": 862,
+        "height": 26
+      },
+      "confidence": 95.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Lesson 4: Travelling by train (1)",
+      "cleanText": "Lesson 4: Travelling by train (1)",
+      "bbox": {
+        "x": 192,
+        "y": 1140,
+        "width": 422,
+        "height": 27
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Ask and answer these questions.",
+      "cleanText": "Ask and answer these questions.",
+      "bbox": {
+        "x": 271,
+        "y": 1184,
+        "width": 376,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "1, Have you ever travelled by train?",
+      "cleanText": "1, Have you ever travelled by train?",
+      "bbox": {
+        "x": 274,
+        "y": 1219,
+        "width": 402,
+        "height": 25
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "2, If you have, when, where, with whom, and why did you go?",
+      "cleanText": "2, If you have, when, where, with whom, and why did you go?",
+      "bbox": {
+        "x": 271,
+        "y": 1254,
+        "width": 725,
+        "height": 26
+      },
+      "confidence": 93.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Listen to the teacher /audio and answer the following questions.",
+      "cleanText": "Listen to the teacher /audio and answer the following questions.",
+      "bbox": {
+        "x": 272,
+        "y": 1291,
+        "width": 760,
+        "height": 26
+      },
+      "confidence": 94.9,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-064-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Listening text: 7",
+      "cleanText": "Listening text: 7",
+      "bbox": {
+        "x": 294,
+        "y": 1362,
+        "width": 211,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "Tick the best answer.",
+      "cleanText": "Tick the best answer.",
+      "bbox": {
+        "x": 192,
+        "y": 1430,
+        "width": 246,
+        "height": 19
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "1, The school is closed for",
+      "cleanText": "1, The school is closed for",
+      "bbox": {
+        "x": 273,
+        "y": 1469,
+        "width": 308,
+        "height": 21
+      },
+      "confidence": 94.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-064-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "a. winter.",
+      "cleanText": "winter.",
+      "bbox": {
+        "x": 311,
+        "y": 1504,
+        "width": 107,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-064-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "b. summer.",
+      "cleanText": "summer.",
+      "bbox": {
+        "x": 310,
+        "y": 1539,
+        "width": 126,
+        "height": 19
+      },
+      "confidence": 91.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-064-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "c. autumn.",
+      "cleanText": "autumn.",
+      "bbox": {
+        "x": 311,
+        "y": 1578,
+        "width": 119,
+        "height": 16
+      },
+      "confidence": 88.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-064-line-032",
+      "lineNumber": 32
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-064-line-001",
+      "lineNumber": 1,
+      "text": "Unit Six : Leisure 59",
+      "bbox": {
+        "x": 207,
+        "y": 262,
+        "width": 904,
+        "height": 21
+      },
+      "confidence": 92.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-003",
+      "lineNumber": 3,
+      "text": "Which activities mainly take place in cities and which activities mainly take",
+      "bbox": {
+        "x": 272,
+        "y": 378,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-004",
+      "lineNumber": 4,
+      "text": "place in villages? Also say which activity or activities can take place both",
+      "bbox": {
+        "x": 272,
+        "y": 408,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 95.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-005",
+      "lineNumber": 5,
+      "text": "in cities and villages.",
+      "bbox": {
+        "x": 274,
+        "y": 441,
+        "width": 233,
+        "height": 25
+      },
+      "confidence": 91.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-007",
+      "lineNumber": 7,
+      "text": "free-time or leisure activities and which are not? Why are they so?",
+      "bbox": {
+        "x": 271,
+        "y": 522,
+        "width": 777,
+        "height": 26
+      },
+      "confidence": 95.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-008",
+      "lineNumber": 8,
+      "text": "© studying for exams",
+      "bbox": {
+        "x": 311,
+        "y": 563,
+        "width": 246,
+        "height": 25
+      },
+      "confidence": 83.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-009",
+      "lineNumber": 9,
+      "text": "e listening to music",
+      "bbox": {
+        "x": 311,
+        "y": 599,
+        "width": 234,
+        "height": 25
+      },
+      "confidence": 82.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-010",
+      "lineNumber": 10,
+      "text": "¢ visiting relatives on weekends",
+      "bbox": {
+        "x": 311,
+        "y": 635,
+        "width": 370,
+        "height": 25
+      },
+      "confidence": 85.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-011",
+      "lineNumber": 11,
+      "text": "¢ attending music lessons",
+      "bbox": {
+        "x": 311,
+        "y": 671,
+        "width": 299,
+        "height": 25
+      },
+      "confidence": 81.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-012",
+      "lineNumber": 12,
+      "text": "reading story books",
+      "bbox": {
+        "x": 351,
+        "y": 706,
+        "width": 215,
+        "height": 25
+      },
+      "confidence": 92.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-013",
+      "lineNumber": 13,
+      "text": "® going to movies",
+      "bbox": {
+        "x": 311,
+        "y": 742,
+        "width": 215,
+        "height": 25
+      },
+      "confidence": 82.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-014",
+      "lineNumber": 14,
+      "text": "helping parents with housework",
+      "bbox": {
+        "x": 351,
+        "y": 778,
+        "width": 350,
+        "height": 25
+      },
+      "confidence": 90.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-015",
+      "lineNumber": 15,
+      "text": "¢ going on a picnic with family or friends",
+      "bbox": {
+        "x": 311,
+        "y": 810,
+        "width": 476,
+        "height": 33
+      },
+      "confidence": 85.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-016",
+      "lineNumber": 16,
+      "text": "e walking in the park on holidays",
+      "bbox": {
+        "x": 311,
+        "y": 850,
+        "width": 386,
+        "height": 24
+      },
+      "confidence": 89.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-017",
+      "lineNumber": 17,
+      "text": "Write answers to these questions.",
+      "bbox": {
+        "x": 271,
+        "y": 889,
+        "width": 388,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-018",
+      "lineNumber": 18,
+      "text": "1, What free-time / leisure activities do you do?",
+      "bbox": {
+        "x": 274,
+        "y": 928,
+        "width": 526,
+        "height": 25
+      },
+      "confidence": 93.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-019",
+      "lineNumber": 19,
+      "text": "2, Where and with whom do you do your Icisure activitics?",
+      "bbox": {
+        "x": 271,
+        "y": 968,
+        "width": 680,
+        "height": 25
+      },
+      "confidence": 93.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-020",
+      "lineNumber": 20,
+      "text": "3, Why do you like or dislike to do your free-time activitics?",
+      "bbox": {
+        "x": 272,
+        "y": 1009,
+        "width": 670,
+        "height": 25
+      },
+      "confidence": 91.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-021",
+      "lineNumber": 21,
+      "text": "4, Do you face any problems or difficulties in doing your leisure activities?",
+      "bbox": {
+        "x": 271,
+        "y": 1046,
+        "width": 862,
+        "height": 26
+      },
+      "confidence": 95.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-022",
+      "lineNumber": 22,
+      "text": "Lesson 4: Travelling by train (1)",
+      "bbox": {
+        "x": 192,
+        "y": 1140,
+        "width": 422,
+        "height": 27
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-023",
+      "lineNumber": 23,
+      "text": "Ask and answer these questions.",
+      "bbox": {
+        "x": 271,
+        "y": 1184,
+        "width": 376,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-024",
+      "lineNumber": 24,
+      "text": "1, Have you ever travelled by train?",
+      "bbox": {
+        "x": 274,
+        "y": 1219,
+        "width": 402,
+        "height": 25
+      },
+      "confidence": 91.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-025",
+      "lineNumber": 25,
+      "text": "2, If you have, when, where, with whom, and why did you go?",
+      "bbox": {
+        "x": 271,
+        "y": 1254,
+        "width": 725,
+        "height": 26
+      },
+      "confidence": 93.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-027",
+      "lineNumber": 27,
+      "text": "Listening text: 7",
+      "bbox": {
+        "x": 294,
+        "y": 1362,
+        "width": 211,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-028",
+      "lineNumber": 28,
+      "text": "Tick the best answer.",
+      "bbox": {
+        "x": 192,
+        "y": 1430,
+        "width": 246,
+        "height": 19
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-064-line-029",
+      "lineNumber": 29,
+      "text": "1, The school is closed for",
+      "bbox": {
+        "x": 273,
+        "y": 1469,
+        "width": 308,
+        "height": 21
+      },
+      "confidence": 94.17,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Six : Leisure 59\nDiscuss in pairs and answer this question orally.\nWhich activities mainly take place in cities and which activities mainly take\nplace in villages? Also say which activity or activities can take place both\nin cities and villages.\nWork in groups. Here is a list of children’s activities. Which of them are\nfree-time or leisure activities and which are not? Why are they so?\n© studying for exams\ne listening to music\n¢ visiting relatives on weekends\n¢ attending music lessons\nreading story books\n® going to movies\nhelping parents with housework\n¢ going on a picnic with family or friends\ne walking in the park on holidays\nWrite answers to these questions.\n1, What free-time / leisure activities do you do?\n2, Where and with whom do you do your Icisure activitics?\n3, Why do you like or dislike to do your free-time activitics?\n4, Do you face any problems or difficulties in doing your leisure activities?\nLesson 4: Travelling by train (1)\nAsk and answer these questions.\n1, Have you ever travelled by train?\n2, If you have, when, where, with whom, and why did you go?\nListen to the teacher /audio and answer the following questions.\nListening text: 7\nTick the best answer.\n1, The school is closed for\na. winter.\nb. summer.\nc. autumn.",
+  "cleanText": "Unit Six : Leisure 59\nDiscuss in pairs and answer this question orally.\nWhich activities mainly take place in cities and which activities mainly take\nplace in villages? Also say which activity or activities can take place both\nin cities and villages.\nWork in groups. Here is a list of children’s activities. Which of them are\nfree-time or leisure activities and which are not? Why are they so?\n© studying for exams\ne listening to music\n¢ visiting relatives on weekends\n¢ attending music lessons\nreading story books\n® going to movies\nhelping parents with housework\n¢ going on a picnic with family or friends\ne walking in the park on holidays\nWrite answers to these questions.\n1, What free-time / leisure activities do you do?\n2, Where and with whom do you do your Icisure activitics?\n3, Why do you like or dislike to do your free-time activitics?\n4, Do you face any problems or difficulties in doing your leisure activities?\nLesson 4: Travelling by train (1)\nAsk and answer these questions.\n1, Have you ever travelled by train?\n2, If you have, when, where, with whom, and why did you go?\nListen to the teacher /audio and answer the following questions.\nListening text: 7\nTick the best answer.\n1, The school is closed for\nwinter.\nsummer.\nautumn.",
+  "aiReadyText": "Unit Six : Leisure 59\nWhich activities mainly take place in cities and which activities mainly take\nplace in villages? Also say which activity or activities can take place both\nin cities and villages.\nfree-time or leisure activities and which are not? Why are they so?\n© studying for exams\ne listening to music\n¢ visiting relatives on weekends\n¢ attending music lessons\nreading story books\n® going to movies\nhelping parents with housework\n¢ going on a picnic with family or friends\ne walking in the park on holidays\nWrite answers to these questions.\n1, What free-time / leisure activities do you do?\n2, Where and with whom do you do your Icisure activitics?\n3, Why do you like or dislike to do your free-time activitics?\n4, Do you face any problems or difficulties in doing your leisure activities?\nLesson 4: Travelling by train (1)\nAsk and answer these questions.\n1, Have you ever travelled by train?\n2, If you have, when, where, with whom, and why did you go?\nListening text: 7\nTick the best answer.\n1, The school is closed for"
+}

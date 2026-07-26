@@ -1,0 +1,889 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 69,
+  "image": "/ocr/books/class7-english/page-images/page-069.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "“What sports do you take part in, Zishan?” asked Jahid. Zishan could not",
+      "cleanText": "“What sports do you take part in, Zishan?” asked Jahid. Zishan could not",
+      "bbox": {
+        "x": 282,
+        "y": 321,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 94.15,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "answer. There was no playground in his school and around his house.",
+      "cleanText": "answer. There was no playground in his school and around his house.",
+      "bbox": {
+        "x": 282,
+        "y": 363,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Shima also told them how she won the first prize for 100 metre sprint in",
+      "cleanText": "Shima also told them how she won the first prize for 100 metre sprint in",
+      "bbox": {
+        "x": 282,
+        "y": 404,
+        "width": 830,
+        "height": 25
+      },
+      "confidence": 94.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "her school annual sports. She sang a heart touching Bhawaiya song.",
+      "cleanText": "her school annual sports. She sang a heart touching Bhawaiya song.",
+      "bbox": {
+        "x": 282,
+        "y": 446,
+        "width": 752,
+        "height": 26
+      },
+      "confidence": 92.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Everybody clapped their hand in delight.",
+      "cleanText": "Everybody clapped their hand in delight.",
+      "bbox": {
+        "x": 282,
+        "y": 479,
+        "width": 446,
+        "height": 27
+      },
+      "confidence": 91.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Julie’s aunt Mrs Jahanara Khan told some funny jokes that made them",
+      "cleanText": "Julie’s aunt Mrs Jahanara Khan told some funny jokes that made them",
+      "bbox": {
+        "x": 282,
+        "y": 517,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "laugh their heads off. The family gathering went on far into the night.",
+      "cleanText": "laugh their heads off. The family gathering went on far into the night.",
+      "bbox": {
+        "x": 285,
+        "y": 558,
+        "width": 773,
+        "height": 26
+      },
+      "confidence": 95.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Tick the best answer.",
+      "cleanText": "Tick the best answer.",
+      "bbox": {
+        "x": 288,
+        "y": 609,
+        "width": 246,
+        "height": 19
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "1. What made Jahid and Shima excited?",
+      "cleanText": "What made Jahid and Shima excited?",
+      "bbox": {
+        "x": 369,
+        "y": 644,
+        "width": 474,
+        "height": 19
+      },
+      "confidence": 93.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "the shining of the full moon",
+      "cleanText": "the shining of the full moon",
+      "bbox": {
+        "x": 446,
+        "y": 683,
+        "width": 310,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "b. meeting with their cousins",
+      "cleanText": "meeting with their cousins",
+      "bbox": {
+        "x": 401,
+        "y": 716,
+        "width": 334,
+        "height": 25
+      },
+      "confidence": 84.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "sitting on the mats",
+      "cleanText": "sitting on the mats",
+      "bbox": {
+        "x": 446,
+        "y": 749,
+        "width": 200,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "the delicious sup",
+      "cleanText": "the delicious sup",
+      "bbox": {
+        "x": 446,
+        "y": 784,
+        "width": 186,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "2, Everybody was feeling relaxed. This means everybody was",
+      "cleanText": "2, Everybody was feeling relaxed. This means everybody was",
+      "bbox": {
+        "x": 367,
+        "y": 822,
+        "width": 723,
+        "height": 25
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "wearing nice clothes",
+      "cleanText": "wearing nice clothes",
+      "bbox": {
+        "x": 446,
+        "y": 861,
+        "width": 224,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "talking and enjoying themselves",
+      "cleanText": "talking and enjoying themselves",
+      "bbox": {
+        "x": 446,
+        "y": 896,
+        "width": 353,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "having no work to do",
+      "cleanText": "having no work to do",
+      "bbox": {
+        "x": 446,
+        "y": 932,
+        "width": 233,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "sitting under the",
+      "cleanText": "sitting under the",
+      "bbox": {
+        "x": 447,
+        "y": 967,
+        "width": 176,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "ull moon",
+      "cleanText": "ull moon",
+      "bbox": {
+        "x": 641,
+        "y": 967,
+        "width": 96,
+        "height": 19
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-069-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "3. Zishan could not reply to Jahid’s question, “What sports",
+      "cleanText": "Zishan could not reply to Jahid’s question, “What sports",
+      "bbox": {
+        "x": 367,
+        "y": 1013,
+        "width": 750,
+        "height": 25
+      },
+      "confidence": 94.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "do you take part in?” because",
+      "cleanText": "do you take part in?” because",
+      "bbox": {
+        "x": 404,
+        "y": 1049,
+        "width": 354,
+        "height": 24
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": ". he does not like sports.",
+      "cleanText": ". he does not like sports.",
+      "bbox": {
+        "x": 422,
+        "y": 1096,
+        "width": 274,
+        "height": 20
+      },
+      "confidence": 93.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "- his school does not organize any sports.",
+      "cleanText": "- his school does not organize any sports.",
+      "bbox": {
+        "x": 422,
+        "y": 1132,
+        "width": 458,
+        "height": 24
+      },
+      "confidence": 88.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "sports are not part of examinations.",
+      "cleanText": "sports are not part of examinations.",
+      "bbox": {
+        "x": 447,
+        "y": 1167,
+        "width": 383,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": ". his parents don’t",
+      "cleanText": ". his parents don’t",
+      "bbox": {
+        "x": 424,
+        "y": 1202,
+        "width": 204,
+        "height": 25
+      },
+      "confidence": 85.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "ike sports.",
+      "cleanText": "ike sports.",
+      "bbox": {
+        "x": 644,
+        "y": 1202,
+        "width": 110,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-069-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "4. Julie’s aunt’s funny jokes made everybody laugh their head off.",
+      "cleanText": "Julie’s aunt’s funny jokes made everybody laugh their head off.",
+      "bbox": {
+        "x": 366,
+        "y": 1249,
+        "width": 753,
+        "height": 24
+      },
+      "confidence": 93.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "Here “laugh their head off” means laughing",
+      "cleanText": "Here “laugh their head off” means laughing",
+      "bbox": {
+        "x": 401,
+        "y": 1293,
+        "width": 521,
+        "height": 24
+      },
+      "confidence": 93.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "moving their heads.",
+      "cleanText": "moving their heads.",
+      "bbox": {
+        "x": 453,
+        "y": 1363,
+        "width": 214,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "with a headache.",
+      "cleanText": "with a headache.",
+      "bbox": {
+        "x": 452,
+        "y": 1429,
+        "width": 181,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-069-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "D. Listen and say these words.",
+      "cleanText": "Listen and say these words.",
+      "bbox": {
+        "x": 209,
+        "y": 1466,
+        "width": 398,
+        "height": 25
+      },
+      "confidence": 89.17,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-069-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "witch ditch",
+      "cleanText": "witch ditch",
+      "bbox": {
+        "x": 403,
+        "y": 1504,
+        "width": 217,
+        "height": 33
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-069-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "each lunch",
+      "cleanText": "each lunch",
+      "bbox": {
+        "x": 408,
+        "y": 1540,
+        "width": 218,
+        "height": 33
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-069-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "touch much",
+      "cleanText": "touch much",
+      "bbox": {
+        "x": 407,
+        "y": 1576,
+        "width": 219,
+        "height": 31
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-069-line-034",
+      "lineNumber": 34
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-069-line-001",
+      "lineNumber": 1,
+      "text": "“What sports do you take part in, Zishan?” asked Jahid. Zishan could not",
+      "bbox": {
+        "x": 282,
+        "y": 321,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 94.15,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-002",
+      "lineNumber": 2,
+      "text": "answer. There was no playground in his school and around his house.",
+      "bbox": {
+        "x": 282,
+        "y": 363,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 93.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-003",
+      "lineNumber": 3,
+      "text": "Shima also told them how she won the first prize for 100 metre sprint in",
+      "bbox": {
+        "x": 282,
+        "y": 404,
+        "width": 830,
+        "height": 25
+      },
+      "confidence": 94.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-004",
+      "lineNumber": 4,
+      "text": "her school annual sports. She sang a heart touching Bhawaiya song.",
+      "bbox": {
+        "x": 282,
+        "y": 446,
+        "width": 752,
+        "height": 26
+      },
+      "confidence": 92.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-005",
+      "lineNumber": 5,
+      "text": "Everybody clapped their hand in delight.",
+      "bbox": {
+        "x": 282,
+        "y": 479,
+        "width": 446,
+        "height": 27
+      },
+      "confidence": 91.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-006",
+      "lineNumber": 6,
+      "text": "Julie’s aunt Mrs Jahanara Khan told some funny jokes that made them",
+      "bbox": {
+        "x": 282,
+        "y": 517,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-007",
+      "lineNumber": 7,
+      "text": "laugh their heads off. The family gathering went on far into the night.",
+      "bbox": {
+        "x": 285,
+        "y": 558,
+        "width": 773,
+        "height": 26
+      },
+      "confidence": 95.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-008",
+      "lineNumber": 8,
+      "text": "Tick the best answer.",
+      "bbox": {
+        "x": 288,
+        "y": 609,
+        "width": 246,
+        "height": 19
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-009",
+      "lineNumber": 9,
+      "text": "What made Jahid and Shima excited?",
+      "bbox": {
+        "x": 369,
+        "y": 644,
+        "width": 474,
+        "height": 19
+      },
+      "confidence": 93.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-010",
+      "lineNumber": 10,
+      "text": "the shining of the full moon",
+      "bbox": {
+        "x": 446,
+        "y": 683,
+        "width": 310,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-011",
+      "lineNumber": 11,
+      "text": "meeting with their cousins",
+      "bbox": {
+        "x": 401,
+        "y": 716,
+        "width": 334,
+        "height": 25
+      },
+      "confidence": 84.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-012",
+      "lineNumber": 12,
+      "text": "sitting on the mats",
+      "bbox": {
+        "x": 446,
+        "y": 749,
+        "width": 200,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-013",
+      "lineNumber": 13,
+      "text": "the delicious sup",
+      "bbox": {
+        "x": 446,
+        "y": 784,
+        "width": 186,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-014",
+      "lineNumber": 14,
+      "text": "2, Everybody was feeling relaxed. This means everybody was",
+      "bbox": {
+        "x": 367,
+        "y": 822,
+        "width": 723,
+        "height": 25
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-015",
+      "lineNumber": 15,
+      "text": "wearing nice clothes",
+      "bbox": {
+        "x": 446,
+        "y": 861,
+        "width": 224,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-016",
+      "lineNumber": 16,
+      "text": "talking and enjoying themselves",
+      "bbox": {
+        "x": 446,
+        "y": 896,
+        "width": 353,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-017",
+      "lineNumber": 17,
+      "text": "having no work to do",
+      "bbox": {
+        "x": 446,
+        "y": 932,
+        "width": 233,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-018",
+      "lineNumber": 18,
+      "text": "sitting under the",
+      "bbox": {
+        "x": 447,
+        "y": 967,
+        "width": 176,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-020",
+      "lineNumber": 20,
+      "text": "Zishan could not reply to Jahid’s question, “What sports",
+      "bbox": {
+        "x": 367,
+        "y": 1013,
+        "width": 750,
+        "height": 25
+      },
+      "confidence": 94.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-021",
+      "lineNumber": 21,
+      "text": "do you take part in?” because",
+      "bbox": {
+        "x": 404,
+        "y": 1049,
+        "width": 354,
+        "height": 24
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-022",
+      "lineNumber": 22,
+      "text": ". he does not like sports.",
+      "bbox": {
+        "x": 422,
+        "y": 1096,
+        "width": 274,
+        "height": 20
+      },
+      "confidence": 93.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-023",
+      "lineNumber": 23,
+      "text": "- his school does not organize any sports.",
+      "bbox": {
+        "x": 422,
+        "y": 1132,
+        "width": 458,
+        "height": 24
+      },
+      "confidence": 88.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-024",
+      "lineNumber": 24,
+      "text": "sports are not part of examinations.",
+      "bbox": {
+        "x": 447,
+        "y": 1167,
+        "width": 383,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-025",
+      "lineNumber": 25,
+      "text": ". his parents don’t",
+      "bbox": {
+        "x": 424,
+        "y": 1202,
+        "width": 204,
+        "height": 25
+      },
+      "confidence": 85.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-027",
+      "lineNumber": 27,
+      "text": "Julie’s aunt’s funny jokes made everybody laugh their head off.",
+      "bbox": {
+        "x": 366,
+        "y": 1249,
+        "width": 753,
+        "height": 24
+      },
+      "confidence": 93.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-028",
+      "lineNumber": 28,
+      "text": "Here “laugh their head off” means laughing",
+      "bbox": {
+        "x": 401,
+        "y": 1293,
+        "width": 521,
+        "height": 24
+      },
+      "confidence": 93.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-029",
+      "lineNumber": 29,
+      "text": "moving their heads.",
+      "bbox": {
+        "x": 453,
+        "y": 1363,
+        "width": 214,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-069-line-030",
+      "lineNumber": 30,
+      "text": "with a headache.",
+      "bbox": {
+        "x": 452,
+        "y": 1429,
+        "width": 181,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "“What sports do you take part in, Zishan?” asked Jahid. Zishan could not\nanswer. There was no playground in his school and around his house.\nShima also told them how she won the first prize for 100 metre sprint in\nher school annual sports. She sang a heart touching Bhawaiya song.\nEverybody clapped their hand in delight.\nJulie’s aunt Mrs Jahanara Khan told some funny jokes that made them\nlaugh their heads off. The family gathering went on far into the night.\nTick the best answer.\n1. What made Jahid and Shima excited?\nthe shining of the full moon\nb. meeting with their cousins\nsitting on the mats\nthe delicious sup\n2, Everybody was feeling relaxed. This means everybody was\nwearing nice clothes\ntalking and enjoying themselves\nhaving no work to do\nsitting under the\null moon\n3. Zishan could not reply to Jahid’s question, “What sports\ndo you take part in?” because\n. he does not like sports.\n- his school does not organize any sports.\nsports are not part of examinations.\n. his parents don’t\nike sports.\n4. Julie’s aunt’s funny jokes made everybody laugh their head off.\nHere “laugh their head off” means laughing\nmoving their heads.\nwith a headache.\nD. Listen and say these words.\nwitch ditch\neach lunch\ntouch much",
+  "cleanText": "“What sports do you take part in, Zishan?” asked Jahid. Zishan could not\nanswer. There was no playground in his school and around his house.\nShima also told them how she won the first prize for 100 metre sprint in\nher school annual sports. She sang a heart touching Bhawaiya song.\nEverybody clapped their hand in delight.\nJulie’s aunt Mrs Jahanara Khan told some funny jokes that made them\nlaugh their heads off. The family gathering went on far into the night.\nTick the best answer.\nWhat made Jahid and Shima excited?\nthe shining of the full moon\nmeeting with their cousins\nsitting on the mats\nthe delicious sup\n2, Everybody was feeling relaxed. This means everybody was\nwearing nice clothes\ntalking and enjoying themselves\nhaving no work to do\nsitting under the\null moon\nZishan could not reply to Jahid’s question, “What sports\ndo you take part in?” because\n. he does not like sports.\n- his school does not organize any sports.\nsports are not part of examinations.\n. his parents don’t\nike sports.\nJulie’s aunt’s funny jokes made everybody laugh their head off.\nHere “laugh their head off” means laughing\nmoving their heads.\nwith a headache.\nListen and say these words.\nwitch ditch\neach lunch\ntouch much",
+  "aiReadyText": "“What sports do you take part in, Zishan?” asked Jahid. Zishan could not\nanswer. There was no playground in his school and around his house.\nShima also told them how she won the first prize for 100 metre sprint in\nher school annual sports. She sang a heart touching Bhawaiya song.\nEverybody clapped their hand in delight.\nJulie’s aunt Mrs Jahanara Khan told some funny jokes that made them\nlaugh their heads off. The family gathering went on far into the night.\nTick the best answer.\nWhat made Jahid and Shima excited?\nthe shining of the full moon\nmeeting with their cousins\nsitting on the mats\nthe delicious sup\n2, Everybody was feeling relaxed. This means everybody was\nwearing nice clothes\ntalking and enjoying themselves\nhaving no work to do\nsitting under the\nZishan could not reply to Jahid’s question, “What sports\ndo you take part in?” because\n. he does not like sports.\n- his school does not organize any sports.\nsports are not part of examinations.\n. his parents don’t\nJulie’s aunt’s funny jokes made everybody laugh their head off.\nHere “laugh their head off” means laughing\nmoving their heads.\nwith a headache."
+}

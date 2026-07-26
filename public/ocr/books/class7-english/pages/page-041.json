@@ -1,0 +1,603 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 41,
+  "image": "/ocr/books/class7-english/page-images/page-041.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 5: Fixed Price Shop",
+      "cleanText": "Lesson 5: Fixed Price Shop",
+      "bbox": {
+        "x": 199,
+        "y": 328,
+        "width": 352,
+        "height": 28
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Keywords: bargain, haggle, offer, agree on",
+      "cleanText": "Keywords: bargain, haggle, offer, agree on",
+      "bbox": {
+        "x": 294,
+        "y": 385,
+        "width": 675,
+        "height": 35
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Look at the shop and answer these questions.",
+      "cleanText": "Look at the shop and answer these questions.",
+      "bbox": {
+        "x": 278,
+        "y": 456,
+        "width": 526,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "1. What kinds of things do you find in the shop?",
+      "cleanText": "What kinds of things do you find in the shop?",
+      "bbox": {
+        "x": 280,
+        "y": 946,
+        "width": 578,
+        "height": 33
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "2. What are the students doing?",
+      "cleanText": "What are the students doing?",
+      "bbox": {
+        "x": 277,
+        "y": 983,
+        "width": 397,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "3. Who is the shopkeeper?",
+      "cleanText": "Who is the shopkeeper?",
+      "bbox": {
+        "x": 278,
+        "y": 1016,
+        "width": 340,
+        "height": 25
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Read the text and answer the following questions.",
+      "cleanText": "Read the text and answer the following questions.",
+      "bbox": {
+        "x": 275,
+        "y": 1068,
+        "width": 579,
+        "height": 25
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Ms Shahana Huda is talking to the students about a new kind of shop.",
+      "cleanText": "Ms Shahana Huda is talking to the students about a new kind of shop.",
+      "bbox": {
+        "x": 275,
+        "y": 1114,
+        "width": 764,
+        "height": 25
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Shahana ~- You can buy any stationery items here, like pens, pencils,",
+      "cleanText": "Shahana ~- You can buy any stationery items here, like pens, pencils,",
+      "bbox": {
+        "x": 276,
+        "y": 1160,
+        "width": 830,
+        "height": 25
+      },
+      "confidence": 89.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "notebooks, coloured paper, in fact, everything you need for",
+      "cleanText": "notebooks, coloured paper, in fact, everything you need for",
+      "bbox": {
+        "x": 434,
+        "y": 1193,
+        "width": 672,
+        "height": 25
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "writing and drawing. You can also buy some food items, like",
+      "cleanText": "writing and drawing. You can also buy some food items, like",
+      "bbox": {
+        "x": 431,
+        "y": 1222,
+        "width": 675,
+        "height": 33
+      },
+      "confidence": 95.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "biscuits, buns, bananas, bottles of mineral water and some",
+      "cleanText": "biscuits, buns, bananas, bottles of mineral water and some",
+      "bbox": {
+        "x": 432,
+        "y": 1259,
+        "width": 675,
+        "height": 23
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "other necessary things. You can also buy your school uniform",
+      "cleanText": "other necessary things. You can also buy your school uniform",
+      "bbox": {
+        "x": 432,
+        "y": 1292,
+        "width": 673,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "and other clothes. There are a number of benefits of this",
+      "cleanText": "and other clothes. There are a number of benefits of this",
+      "bbox": {
+        "x": 431,
+        "y": 1324,
+        "width": 674,
+        "height": 20
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "shop. You don’t have to bargain or haggle with the",
+      "cleanText": "shop. You don’t have to bargain or haggle with the",
+      "bbox": {
+        "x": 433,
+        "y": 1358,
+        "width": 674,
+        "height": 25
+      },
+      "confidence": 95.7,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "shopkeeper over the prices of anything.",
+      "cleanText": "shopkeeper over the prices of anything.",
+      "bbox": {
+        "x": 431,
+        "y": 1393,
+        "width": 430,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Hridoy What is ‘haggle’ teacher?",
+      "cleanText": "Hridoy What is ‘haggle’ teacher?",
+      "bbox": {
+        "x": 296,
+        "y": 1431,
+        "width": 527,
+        "height": 26
+      },
+      "confidence": 80.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Shahana : Suppose, you want to buy a shirt or a dress in a shop in the",
+      "cleanText": "Shahana : Suppose, you want to buy a shirt or a dress in a shop in the",
+      "bbox": {
+        "x": 295,
+        "y": 1470,
+        "width": 810,
+        "height": 34
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "market. You ask, “How much is this?” The shopkeeper",
+      "cleanText": "market. You ask, “How much is this?” The shopkeeper",
+      "bbox": {
+        "x": 433,
+        "y": 1507,
+        "width": 674,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "says, “300 taka.” But in many cases, this price is more",
+      "cleanText": "says, “300 taka.” But in many cases, this price is more",
+      "bbox": {
+        "x": 433,
+        "y": 1540,
+        "width": 672,
+        "height": 26
+      },
+      "confidence": 94.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "than the real price. So you offer 200 taka or even less. The",
+      "cleanText": "than the real price. So you offer 200 taka or even less. The",
+      "bbox": {
+        "x": 433,
+        "y": 1573,
+        "width": 674,
+        "height": 25
+      },
+      "confidence": 95.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-041-line-021",
+      "lineNumber": 21
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-041-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 5: Fixed Price Shop",
+      "bbox": {
+        "x": 199,
+        "y": 328,
+        "width": 352,
+        "height": 28
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-002",
+      "lineNumber": 2,
+      "text": "Keywords: bargain, haggle, offer, agree on",
+      "bbox": {
+        "x": 294,
+        "y": 385,
+        "width": 675,
+        "height": 35
+      },
+      "confidence": 89.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-003",
+      "lineNumber": 3,
+      "text": "Look at the shop and answer these questions.",
+      "bbox": {
+        "x": 278,
+        "y": 456,
+        "width": 526,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-004",
+      "lineNumber": 4,
+      "text": "What kinds of things do you find in the shop?",
+      "bbox": {
+        "x": 280,
+        "y": 946,
+        "width": 578,
+        "height": 33
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-005",
+      "lineNumber": 5,
+      "text": "What are the students doing?",
+      "bbox": {
+        "x": 277,
+        "y": 983,
+        "width": 397,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-006",
+      "lineNumber": 6,
+      "text": "Who is the shopkeeper?",
+      "bbox": {
+        "x": 278,
+        "y": 1016,
+        "width": 340,
+        "height": 25
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-007",
+      "lineNumber": 7,
+      "text": "Read the text and answer the following questions.",
+      "bbox": {
+        "x": 275,
+        "y": 1068,
+        "width": 579,
+        "height": 25
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-008",
+      "lineNumber": 8,
+      "text": "Ms Shahana Huda is talking to the students about a new kind of shop.",
+      "bbox": {
+        "x": 275,
+        "y": 1114,
+        "width": 764,
+        "height": 25
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-009",
+      "lineNumber": 9,
+      "text": "Shahana ~- You can buy any stationery items here, like pens, pencils,",
+      "bbox": {
+        "x": 276,
+        "y": 1160,
+        "width": 830,
+        "height": 25
+      },
+      "confidence": 89.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-010",
+      "lineNumber": 10,
+      "text": "notebooks, coloured paper, in fact, everything you need for",
+      "bbox": {
+        "x": 434,
+        "y": 1193,
+        "width": 672,
+        "height": 25
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-011",
+      "lineNumber": 11,
+      "text": "writing and drawing. You can also buy some food items, like",
+      "bbox": {
+        "x": 431,
+        "y": 1222,
+        "width": 675,
+        "height": 33
+      },
+      "confidence": 95.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-012",
+      "lineNumber": 12,
+      "text": "biscuits, buns, bananas, bottles of mineral water and some",
+      "bbox": {
+        "x": 432,
+        "y": 1259,
+        "width": 675,
+        "height": 23
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-013",
+      "lineNumber": 13,
+      "text": "other necessary things. You can also buy your school uniform",
+      "bbox": {
+        "x": 432,
+        "y": 1292,
+        "width": 673,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-014",
+      "lineNumber": 14,
+      "text": "and other clothes. There are a number of benefits of this",
+      "bbox": {
+        "x": 431,
+        "y": 1324,
+        "width": 674,
+        "height": 20
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-015",
+      "lineNumber": 15,
+      "text": "shop. You don’t have to bargain or haggle with the",
+      "bbox": {
+        "x": 433,
+        "y": 1358,
+        "width": 674,
+        "height": 25
+      },
+      "confidence": 95.7,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-016",
+      "lineNumber": 16,
+      "text": "shopkeeper over the prices of anything.",
+      "bbox": {
+        "x": 431,
+        "y": 1393,
+        "width": 430,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-017",
+      "lineNumber": 17,
+      "text": "Hridoy What is ‘haggle’ teacher?",
+      "bbox": {
+        "x": 296,
+        "y": 1431,
+        "width": 527,
+        "height": 26
+      },
+      "confidence": 80.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-018",
+      "lineNumber": 18,
+      "text": "Shahana : Suppose, you want to buy a shirt or a dress in a shop in the",
+      "bbox": {
+        "x": 295,
+        "y": 1470,
+        "width": 810,
+        "height": 34
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-019",
+      "lineNumber": 19,
+      "text": "market. You ask, “How much is this?” The shopkeeper",
+      "bbox": {
+        "x": 433,
+        "y": 1507,
+        "width": 674,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-020",
+      "lineNumber": 20,
+      "text": "says, “300 taka.” But in many cases, this price is more",
+      "bbox": {
+        "x": 433,
+        "y": 1540,
+        "width": 672,
+        "height": 26
+      },
+      "confidence": 94.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-041-line-021",
+      "lineNumber": 21,
+      "text": "than the real price. So you offer 200 taka or even less. The",
+      "bbox": {
+        "x": 433,
+        "y": 1573,
+        "width": 674,
+        "height": 25
+      },
+      "confidence": 95.85,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 5: Fixed Price Shop\nKeywords: bargain, haggle, offer, agree on\nLook at the shop and answer these questions.\n1. What kinds of things do you find in the shop?\n2. What are the students doing?\n3. Who is the shopkeeper?\nRead the text and answer the following questions.\nMs Shahana Huda is talking to the students about a new kind of shop.\nShahana ~- You can buy any stationery items here, like pens, pencils,\nnotebooks, coloured paper, in fact, everything you need for\nwriting and drawing. You can also buy some food items, like\nbiscuits, buns, bananas, bottles of mineral water and some\nother necessary things. You can also buy your school uniform\nand other clothes. There are a number of benefits of this\nshop. You don’t have to bargain or haggle with the\nshopkeeper over the prices of anything.\nHridoy What is ‘haggle’ teacher?\nShahana : Suppose, you want to buy a shirt or a dress in a shop in the\nmarket. You ask, “How much is this?” The shopkeeper\nsays, “300 taka.” But in many cases, this price is more\nthan the real price. So you offer 200 taka or even less. The",
+  "cleanText": "Lesson 5: Fixed Price Shop\nKeywords: bargain, haggle, offer, agree on\nLook at the shop and answer these questions.\nWhat kinds of things do you find in the shop?\nWhat are the students doing?\nWho is the shopkeeper?\nRead the text and answer the following questions.\nMs Shahana Huda is talking to the students about a new kind of shop.\nShahana ~- You can buy any stationery items here, like pens, pencils,\nnotebooks, coloured paper, in fact, everything you need for\nwriting and drawing. You can also buy some food items, like\nbiscuits, buns, bananas, bottles of mineral water and some\nother necessary things. You can also buy your school uniform\nand other clothes. There are a number of benefits of this\nshop. You don’t have to bargain or haggle with the\nshopkeeper over the prices of anything.\nHridoy What is ‘haggle’ teacher?\nShahana : Suppose, you want to buy a shirt or a dress in a shop in the\nmarket. You ask, “How much is this?” The shopkeeper\nsays, “300 taka.” But in many cases, this price is more\nthan the real price. So you offer 200 taka or even less. The",
+  "aiReadyText": "Lesson 5: Fixed Price Shop\nKeywords: bargain, haggle, offer, agree on\nLook at the shop and answer these questions.\nWhat kinds of things do you find in the shop?\nWhat are the students doing?\nWho is the shopkeeper?\nRead the text and answer the following questions.\nMs Shahana Huda is talking to the students about a new kind of shop.\nShahana ~- You can buy any stationery items here, like pens, pencils,\nnotebooks, coloured paper, in fact, everything you need for\nwriting and drawing. You can also buy some food items, like\nbiscuits, buns, bananas, bottles of mineral water and some\nother necessary things. You can also buy your school uniform\nand other clothes. There are a number of benefits of this\nshop. You don’t have to bargain or haggle with the\nshopkeeper over the prices of anything.\nHridoy What is ‘haggle’ teacher?\nShahana : Suppose, you want to buy a shirt or a dress in a shop in the\nmarket. You ask, “How much is this?” The shopkeeper\nsays, “300 taka.” But in many cases, this price is more\nthan the real price. So you offer 200 taka or even less. The"
+}

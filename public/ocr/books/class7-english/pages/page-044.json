@@ -1,0 +1,422 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 44,
+  "image": "/ocr/books/class7-english/page-images/page-044.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Four : People Who Make a Difference 39",
+      "cleanText": "Unit Four : People Who Make a Difference 39",
+      "bbox": {
+        "x": 196,
+        "y": 255,
+        "width": 907,
+        "height": 25
+      },
+      "confidence": 94.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 7: The Homemaker (1)",
+      "cleanText": "Lesson 7: The Homemaker (1)",
+      "bbox": {
+        "x": 193,
+        "y": 325,
+        "width": 394,
+        "height": 28
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Look at the pictures and discuss the following question in pairs.",
+      "cleanText": "Look at the pictures and discuss the following question in pairs.",
+      "bbox": {
+        "x": 272,
+        "y": 387,
+        "width": 742,
+        "height": 24
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-044-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Where do you think the family lives?",
+      "cleanText": "Where do you think the family lives?",
+      "bbox": {
+        "x": 261,
+        "y": 1045,
+        "width": 407,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Ask and answer the question in pairs: What do you see in picture 1 / 2/",
+      "cleanText": "Ask and answer the question in pairs: What do you see in picture 1 / 2/",
+      "bbox": {
+        "x": 272,
+        "y": 1091,
+        "width": 825,
+        "height": 24
+      },
+      "confidence": 93.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Read about the family.",
+      "cleanText": "Read about the family.",
+      "bbox": {
+        "x": 272,
+        "y": 1170,
+        "width": 265,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Mrs Nazma and Mr Joynul Ali live in a small village with their daughters,",
+      "cleanText": "Mrs Nazma and Mr Joynul Ali live in a small village with their daughters,",
+      "bbox": {
+        "x": 272,
+        "y": 1201,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 93.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Mitu aged 7 and Nitu aged 5. Joynul is a carpenter. He is hired by the",
+      "cleanText": "Mitu aged 7 and Nitu aged 5. Joynul is a carpenter. He is hired by the",
+      "bbox": {
+        "x": 272,
+        "y": 1232,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 94.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "villagers to make chairs, tables, pira (low stool) and other furniture. He",
+      "cleanText": "villagers to make chairs, tables, pira (low stool) and other furniture. He",
+      "bbox": {
+        "x": 270,
+        "y": 1264,
+        "width": 828,
+        "height": 26
+      },
+      "confidence": 95.42,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "is also asked to do small repair work. But Joynul does not find work",
+      "cleanText": "is also asked to do small repair work. But Joynul does not find work",
+      "bbox": {
+        "x": 274,
+        "y": 1295,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 95.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "every day. He lives from hand to mouth.",
+      "cleanText": "every day. He lives from hand to mouth.",
+      "bbox": {
+        "x": 271,
+        "y": 1327,
+        "width": 474,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Nazma does all the work at home from morning to night, rain or shine.",
+      "cleanText": "Nazma does all the work at home from morning to night, rain or shine.",
+      "bbox": {
+        "x": 271,
+        "y": 1374,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Sometimes she sits with Mitu and Nitu, and teaches them Bangla and",
+      "cleanText": "Sometimes she sits with Mitu and Nitu, and teaches them Bangla and",
+      "bbox": {
+        "x": 272,
+        "y": 1406,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 94.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "English alphabets and some numbers. They do not go to school. Nazma",
+      "cleanText": "English alphabets and some numbers. They do not go to school. Nazma",
+      "bbox": {
+        "x": 270,
+        "y": 1437,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "could study only up to class 5. Joynul could not study.",
+      "cleanText": "could study only up to class 5. Joynul could not study.",
+      "bbox": {
+        "x": 270,
+        "y": 1469,
+        "width": 618,
+        "height": 26
+      },
+      "confidence": 95.18,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-044-line-015",
+      "lineNumber": 15
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-044-line-001",
+      "lineNumber": 1,
+      "text": "Unit Four : People Who Make a Difference 39",
+      "bbox": {
+        "x": 196,
+        "y": 255,
+        "width": 907,
+        "height": 25
+      },
+      "confidence": 94.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 7: The Homemaker (1)",
+      "bbox": {
+        "x": 193,
+        "y": 325,
+        "width": 394,
+        "height": 28
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-004",
+      "lineNumber": 4,
+      "text": "Where do you think the family lives?",
+      "bbox": {
+        "x": 261,
+        "y": 1045,
+        "width": 407,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-005",
+      "lineNumber": 5,
+      "text": "Ask and answer the question in pairs: What do you see in picture 1 / 2/",
+      "bbox": {
+        "x": 272,
+        "y": 1091,
+        "width": 825,
+        "height": 24
+      },
+      "confidence": 93.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-006",
+      "lineNumber": 6,
+      "text": "Read about the family.",
+      "bbox": {
+        "x": 272,
+        "y": 1170,
+        "width": 265,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-007",
+      "lineNumber": 7,
+      "text": "Mrs Nazma and Mr Joynul Ali live in a small village with their daughters,",
+      "bbox": {
+        "x": 272,
+        "y": 1201,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 93.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-008",
+      "lineNumber": 8,
+      "text": "Mitu aged 7 and Nitu aged 5. Joynul is a carpenter. He is hired by the",
+      "bbox": {
+        "x": 272,
+        "y": 1232,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 94.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-009",
+      "lineNumber": 9,
+      "text": "villagers to make chairs, tables, pira (low stool) and other furniture. He",
+      "bbox": {
+        "x": 270,
+        "y": 1264,
+        "width": 828,
+        "height": 26
+      },
+      "confidence": 95.42,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-010",
+      "lineNumber": 10,
+      "text": "is also asked to do small repair work. But Joynul does not find work",
+      "bbox": {
+        "x": 274,
+        "y": 1295,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 95.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-011",
+      "lineNumber": 11,
+      "text": "every day. He lives from hand to mouth.",
+      "bbox": {
+        "x": 271,
+        "y": 1327,
+        "width": 474,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-012",
+      "lineNumber": 12,
+      "text": "Nazma does all the work at home from morning to night, rain or shine.",
+      "bbox": {
+        "x": 271,
+        "y": 1374,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-013",
+      "lineNumber": 13,
+      "text": "Sometimes she sits with Mitu and Nitu, and teaches them Bangla and",
+      "bbox": {
+        "x": 272,
+        "y": 1406,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 94.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-014",
+      "lineNumber": 14,
+      "text": "English alphabets and some numbers. They do not go to school. Nazma",
+      "bbox": {
+        "x": 270,
+        "y": 1437,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-044-line-015",
+      "lineNumber": 15,
+      "text": "could study only up to class 5. Joynul could not study.",
+      "bbox": {
+        "x": 270,
+        "y": 1469,
+        "width": 618,
+        "height": 26
+      },
+      "confidence": 95.18,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Four : People Who Make a Difference 39\nLesson 7: The Homemaker (1)\nLook at the pictures and discuss the following question in pairs.\nWhere do you think the family lives?\nAsk and answer the question in pairs: What do you see in picture 1 / 2/\nRead about the family.\nMrs Nazma and Mr Joynul Ali live in a small village with their daughters,\nMitu aged 7 and Nitu aged 5. Joynul is a carpenter. He is hired by the\nvillagers to make chairs, tables, pira (low stool) and other furniture. He\nis also asked to do small repair work. But Joynul does not find work\nevery day. He lives from hand to mouth.\nNazma does all the work at home from morning to night, rain or shine.\nSometimes she sits with Mitu and Nitu, and teaches them Bangla and\nEnglish alphabets and some numbers. They do not go to school. Nazma\ncould study only up to class 5. Joynul could not study.",
+  "cleanText": "Unit Four : People Who Make a Difference 39\nLesson 7: The Homemaker (1)\nLook at the pictures and discuss the following question in pairs.\nWhere do you think the family lives?\nAsk and answer the question in pairs: What do you see in picture 1 / 2/\nRead about the family.\nMrs Nazma and Mr Joynul Ali live in a small village with their daughters,\nMitu aged 7 and Nitu aged 5. Joynul is a carpenter. He is hired by the\nvillagers to make chairs, tables, pira (low stool) and other furniture. He\nis also asked to do small repair work. But Joynul does not find work\nevery day. He lives from hand to mouth.\nNazma does all the work at home from morning to night, rain or shine.\nSometimes she sits with Mitu and Nitu, and teaches them Bangla and\nEnglish alphabets and some numbers. They do not go to school. Nazma\ncould study only up to class 5. Joynul could not study.",
+  "aiReadyText": "Unit Four : People Who Make a Difference 39\nLesson 7: The Homemaker (1)\nWhere do you think the family lives?\nAsk and answer the question in pairs: What do you see in picture 1 / 2/\nRead about the family.\nMrs Nazma and Mr Joynul Ali live in a small village with their daughters,\nMitu aged 7 and Nitu aged 5. Joynul is a carpenter. He is hired by the\nvillagers to make chairs, tables, pira (low stool) and other furniture. He\nis also asked to do small repair work. But Joynul does not find work\nevery day. He lives from hand to mouth.\nNazma does all the work at home from morning to night, rain or shine.\nSometimes she sits with Mitu and Nitu, and teaches them Bangla and\nEnglish alphabets and some numbers. They do not go to school. Nazma\ncould study only up to class 5. Joynul could not study."
+}

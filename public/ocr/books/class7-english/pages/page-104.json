@@ -1,0 +1,857 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 104,
+  "image": "/ocr/books/class7-english/page-images/page-104.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Nine : Climate Change 99",
+      "cleanText": "Unit Nine : Climate Change 99",
+      "bbox": {
+        "x": 196,
+        "y": 264,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 1: Planet Earth in Crisis",
+      "cleanText": "Lesson 1: Planet Earth in Crisis",
+      "bbox": {
+        "x": 193,
+        "y": 321,
+        "width": 429,
+        "height": 22
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Keywords : uncomfortable, idle , all day long , climate ,",
+      "cleanText": "Keywords : uncomfortable, idle , all day long , climate ,",
+      "bbox": {
+        "x": 216,
+        "y": 376,
+        "width": 861,
+        "height": 34
+      },
+      "confidence": 81.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "shift (v) , temperature , climb (v), survive (v)",
+      "cleanText": "shift (v) , temperature , climb (v), survive (v)",
+      "bbox": {
+        "x": 374,
+        "y": 423,
+        "width": 721,
+        "height": 26
+      },
+      "confidence": 87.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Read the text and the conversation.",
+      "cleanText": "Read the text and the conversation.",
+      "bbox": {
+        "x": 272,
+        "y": 489,
+        "width": 411,
+        "height": 19
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Samina is in class 7 and Arif in class 6, They both felt very uncomfortable",
+      "cleanText": "Samina is in class 7 and Arif in class 6, They both felt very uncomfortable",
+      "bbox": {
+        "x": 273,
+        "y": 528,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 94.53,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "the other day. It was just the beginning of March and the day was very",
+      "cleanText": "the other day. It was just the beginning of March and the day was very",
+      "bbox": {
+        "x": 271,
+        "y": 568,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 95.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "hot. In the small town of Sherpur, summer had come with all its heat",
+      "cleanText": "hot. In the small town of Sherpur, summer had come with all its heat",
+      "bbox": {
+        "x": 270,
+        "y": 608,
+        "width": 828,
+        "height": 24
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "and warmth, Samina and Arif had nothing much to do. While sitting idle",
+      "cleanText": "and warmth, Samina and Arif had nothing much to do. While sitting idle",
+      "bbox": {
+        "x": 268,
+        "y": 643,
+        "width": 831,
+        "height": 34
+      },
+      "confidence": 91.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "on the veranda, they saw their uncle, Anwar coming to them. Anwar works",
+      "cleanText": "on the veranda, they saw their uncle, Anwar coming to them. Anwar works",
+      "bbox": {
+        "x": 268,
+        "y": 686,
+        "width": 832,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "at an NGO called Save the Earth. Samina and Arif started talking to",
+      "cleanText": "at an NGO called Save the Earth. Samina and Arif started talking to",
+      "bbox": {
+        "x": 270,
+        "y": 725,
+        "width": 829,
+        "height": 26
+      },
+      "confidence": 88.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "theiruncle about weather and climate.",
+      "cleanText": "theiruncle about weather and climate.",
+      "bbox": {
+        "x": 266,
+        "y": 764,
+        "width": 414,
+        "height": 20
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": ": Children, why are you sitting idle here? You look very",
+      "cleanText": ": Children, why are you sitting idle here? You look very",
+      "bbox": {
+        "x": 442,
+        "y": 813,
+        "width": 653,
+        "height": 25
+      },
+      "confidence": 94.18,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "unhappy!",
+      "cleanText": "unhappy!",
+      "bbox": {
+        "x": 459,
+        "y": 851,
+        "width": 99,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-104-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": ": Uncle, it’s so hot all day long.",
+      "cleanText": ": Uncle, it’s so hot all day long.",
+      "bbox": {
+        "x": 442,
+        "y": 897,
+        "width": 341,
+        "height": 25
+      },
+      "confidence": 94.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": ": And there is no electricity. We can’t use fans.",
+      "cleanText": ": And there is no electricity. We can’t use fans.",
+      "bbox": {
+        "x": 442,
+        "y": 943,
+        "width": 511,
+        "height": 25
+      },
+      "confidence": 92.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": ": We can’t watch television either. Uncle, why is it so hot",
+      "cleanText": ": We can’t watch television either. Uncle, why is it so hot",
+      "bbox": {
+        "x": 441,
+        "y": 983,
+        "width": 657,
+        "height": 25
+      },
+      "confidence": 95.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": ": In fact, we’ve an early summer this year. It’s been happening",
+      "cleanText": ": In fact, we’ve an early summer this year. It’s been happening",
+      "bbox": {
+        "x": 442,
+        "y": 1060,
+        "width": 656,
+        "height": 25
+      },
+      "confidence": 94.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "for the last four or five years. Seasons are shifting.",
+      "cleanText": "for the last four or five years. Seasons are shifting.",
+      "bbox": {
+        "x": 456,
+        "y": 1090,
+        "width": 557,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": ": What’s shifting, Uncle?",
+      "cleanText": ": What’s shifting, Uncle?",
+      "bbox": {
+        "x": 442,
+        "y": 1133,
+        "width": 272,
+        "height": 25
+      },
+      "confidence": 91.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": ": Summer usually starts from April. But this year it has",
+      "cleanText": ": Summer usually starts from April. But this year it has",
+      "bbox": {
+        "x": 442,
+        "y": 1166,
+        "width": 656,
+        "height": 25
+      },
+      "confidence": 93.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "started in moving from April to March is a shift",
+      "cleanText": "started in moving from April to March is a shift",
+      "bbox": {
+        "x": 452,
+        "y": 1205,
+        "width": 655,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "or change.",
+      "cleanText": "or change.",
+      "bbox": {
+        "x": 450,
+        "y": 1240,
+        "width": 113,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-104-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": ": Why do seasons shift, Uncle?",
+      "cleanText": ": Why do seasons shift, Uncle?",
+      "bbox": {
+        "x": 441,
+        "y": 1277,
+        "width": 337,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": ": Well, it is because of climate change. And many things are",
+      "cleanText": ": Well, it is because of climate change. And many things are",
+      "bbox": {
+        "x": 442,
+        "y": 1317,
+        "width": 658,
+        "height": 25
+      },
+      "confidence": 94.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "happening on this earth due to climate change. For",
+      "cleanText": "happening on this earth due to climate change. For",
+      "bbox": {
+        "x": 457,
+        "y": 1355,
+        "width": 642,
+        "height": 26
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "example, seasons are shifting, temperatures are climbing,",
+      "cleanText": "example, seasons are shifting, temperatures are climbing,",
+      "bbox": {
+        "x": 455,
+        "y": 1396,
+        "width": 648,
+        "height": 26
+      },
+      "confidence": 91.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "and sea levels are rising. If things go on like this, our",
+      "cleanText": "and sea levels are rising. If things go on like this, our",
+      "bbox": {
+        "x": 452,
+        "y": 1433,
+        "width": 646,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "Planet Earth will be in danger.",
+      "cleanText": "Planet Earth will be in danger.",
+      "bbox": {
+        "x": 455,
+        "y": 1474,
+        "width": 338,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "what will happen if the carth is in danger? How will",
+      "cleanText": "what will happen if the carth is in danger? How will",
+      "bbox": {
+        "x": 527,
+        "y": 1521,
+        "width": 570,
+        "height": 25
+      },
+      "confidence": 95.18,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "we survive on this earth?",
+      "cleanText": "we survive on this earth?",
+      "bbox": {
+        "x": 449,
+        "y": 1561,
+        "width": 272,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-104-line-031",
+      "lineNumber": 31
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-104-line-001",
+      "lineNumber": 1,
+      "text": "Unit Nine : Climate Change 99",
+      "bbox": {
+        "x": 196,
+        "y": 264,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 1: Planet Earth in Crisis",
+      "bbox": {
+        "x": 193,
+        "y": 321,
+        "width": 429,
+        "height": 22
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-003",
+      "lineNumber": 3,
+      "text": "Keywords : uncomfortable, idle , all day long , climate ,",
+      "bbox": {
+        "x": 216,
+        "y": 376,
+        "width": 861,
+        "height": 34
+      },
+      "confidence": 81.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-004",
+      "lineNumber": 4,
+      "text": "shift (v) , temperature , climb (v), survive (v)",
+      "bbox": {
+        "x": 374,
+        "y": 423,
+        "width": 721,
+        "height": 26
+      },
+      "confidence": 87.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-005",
+      "lineNumber": 5,
+      "text": "Read the text and the conversation.",
+      "bbox": {
+        "x": 272,
+        "y": 489,
+        "width": 411,
+        "height": 19
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-006",
+      "lineNumber": 6,
+      "text": "Samina is in class 7 and Arif in class 6, They both felt very uncomfortable",
+      "bbox": {
+        "x": 273,
+        "y": 528,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 94.53,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-007",
+      "lineNumber": 7,
+      "text": "the other day. It was just the beginning of March and the day was very",
+      "bbox": {
+        "x": 271,
+        "y": 568,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 95.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-008",
+      "lineNumber": 8,
+      "text": "hot. In the small town of Sherpur, summer had come with all its heat",
+      "bbox": {
+        "x": 270,
+        "y": 608,
+        "width": 828,
+        "height": 24
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-009",
+      "lineNumber": 9,
+      "text": "and warmth, Samina and Arif had nothing much to do. While sitting idle",
+      "bbox": {
+        "x": 268,
+        "y": 643,
+        "width": 831,
+        "height": 34
+      },
+      "confidence": 91.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-010",
+      "lineNumber": 10,
+      "text": "on the veranda, they saw their uncle, Anwar coming to them. Anwar works",
+      "bbox": {
+        "x": 268,
+        "y": 686,
+        "width": 832,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-011",
+      "lineNumber": 11,
+      "text": "at an NGO called Save the Earth. Samina and Arif started talking to",
+      "bbox": {
+        "x": 270,
+        "y": 725,
+        "width": 829,
+        "height": 26
+      },
+      "confidence": 88.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-012",
+      "lineNumber": 12,
+      "text": "theiruncle about weather and climate.",
+      "bbox": {
+        "x": 266,
+        "y": 764,
+        "width": 414,
+        "height": 20
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-013",
+      "lineNumber": 13,
+      "text": ": Children, why are you sitting idle here? You look very",
+      "bbox": {
+        "x": 442,
+        "y": 813,
+        "width": 653,
+        "height": 25
+      },
+      "confidence": 94.18,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-015",
+      "lineNumber": 15,
+      "text": ": Uncle, it’s so hot all day long.",
+      "bbox": {
+        "x": 442,
+        "y": 897,
+        "width": 341,
+        "height": 25
+      },
+      "confidence": 94.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-016",
+      "lineNumber": 16,
+      "text": ": And there is no electricity. We can’t use fans.",
+      "bbox": {
+        "x": 442,
+        "y": 943,
+        "width": 511,
+        "height": 25
+      },
+      "confidence": 92.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-017",
+      "lineNumber": 17,
+      "text": ": We can’t watch television either. Uncle, why is it so hot",
+      "bbox": {
+        "x": 441,
+        "y": 983,
+        "width": 657,
+        "height": 25
+      },
+      "confidence": 95.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-018",
+      "lineNumber": 18,
+      "text": ": In fact, we’ve an early summer this year. It’s been happening",
+      "bbox": {
+        "x": 442,
+        "y": 1060,
+        "width": 656,
+        "height": 25
+      },
+      "confidence": 94.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-019",
+      "lineNumber": 19,
+      "text": "for the last four or five years. Seasons are shifting.",
+      "bbox": {
+        "x": 456,
+        "y": 1090,
+        "width": 557,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-020",
+      "lineNumber": 20,
+      "text": ": What’s shifting, Uncle?",
+      "bbox": {
+        "x": 442,
+        "y": 1133,
+        "width": 272,
+        "height": 25
+      },
+      "confidence": 91.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-021",
+      "lineNumber": 21,
+      "text": ": Summer usually starts from April. But this year it has",
+      "bbox": {
+        "x": 442,
+        "y": 1166,
+        "width": 656,
+        "height": 25
+      },
+      "confidence": 93.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-022",
+      "lineNumber": 22,
+      "text": "started in moving from April to March is a shift",
+      "bbox": {
+        "x": 452,
+        "y": 1205,
+        "width": 655,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-024",
+      "lineNumber": 24,
+      "text": ": Why do seasons shift, Uncle?",
+      "bbox": {
+        "x": 441,
+        "y": 1277,
+        "width": 337,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-025",
+      "lineNumber": 25,
+      "text": ": Well, it is because of climate change. And many things are",
+      "bbox": {
+        "x": 442,
+        "y": 1317,
+        "width": 658,
+        "height": 25
+      },
+      "confidence": 94.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-026",
+      "lineNumber": 26,
+      "text": "happening on this earth due to climate change. For",
+      "bbox": {
+        "x": 457,
+        "y": 1355,
+        "width": 642,
+        "height": 26
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-027",
+      "lineNumber": 27,
+      "text": "example, seasons are shifting, temperatures are climbing,",
+      "bbox": {
+        "x": 455,
+        "y": 1396,
+        "width": 648,
+        "height": 26
+      },
+      "confidence": 91.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-028",
+      "lineNumber": 28,
+      "text": "and sea levels are rising. If things go on like this, our",
+      "bbox": {
+        "x": 452,
+        "y": 1433,
+        "width": 646,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-029",
+      "lineNumber": 29,
+      "text": "Planet Earth will be in danger.",
+      "bbox": {
+        "x": 455,
+        "y": 1474,
+        "width": 338,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-030",
+      "lineNumber": 30,
+      "text": "what will happen if the carth is in danger? How will",
+      "bbox": {
+        "x": 527,
+        "y": 1521,
+        "width": 570,
+        "height": 25
+      },
+      "confidence": 95.18,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-104-line-031",
+      "lineNumber": 31,
+      "text": "we survive on this earth?",
+      "bbox": {
+        "x": 449,
+        "y": 1561,
+        "width": 272,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Nine : Climate Change 99\nLesson 1: Planet Earth in Crisis\nKeywords : uncomfortable, idle , all day long , climate ,\nshift (v) , temperature , climb (v), survive (v)\nRead the text and the conversation.\nSamina is in class 7 and Arif in class 6, They both felt very uncomfortable\nthe other day. It was just the beginning of March and the day was very\nhot. In the small town of Sherpur, summer had come with all its heat\nand warmth, Samina and Arif had nothing much to do. While sitting idle\non the veranda, they saw their uncle, Anwar coming to them. Anwar works\nat an NGO called Save the Earth. Samina and Arif started talking to\ntheiruncle about weather and climate.\n: Children, why are you sitting idle here? You look very\nunhappy!\n: Uncle, it’s so hot all day long.\n: And there is no electricity. We can’t use fans.\n: We can’t watch television either. Uncle, why is it so hot\n: In fact, we’ve an early summer this year. It’s been happening\nfor the last four or five years. Seasons are shifting.\n: What’s shifting, Uncle?\n: Summer usually starts from April. But this year it has\nstarted in moving from April to March is a shift\nor change.\n: Why do seasons shift, Uncle?\n: Well, it is because of climate change. And many things are\nhappening on this earth due to climate change. For\nexample, seasons are shifting, temperatures are climbing,\nand sea levels are rising. If things go on like this, our\nPlanet Earth will be in danger.\nwhat will happen if the carth is in danger? How will\nwe survive on this earth?",
+  "cleanText": "Unit Nine : Climate Change 99\nLesson 1: Planet Earth in Crisis\nKeywords : uncomfortable, idle , all day long , climate ,\nshift (v) , temperature , climb (v), survive (v)\nRead the text and the conversation.\nSamina is in class 7 and Arif in class 6, They both felt very uncomfortable\nthe other day. It was just the beginning of March and the day was very\nhot. In the small town of Sherpur, summer had come with all its heat\nand warmth, Samina and Arif had nothing much to do. While sitting idle\non the veranda, they saw their uncle, Anwar coming to them. Anwar works\nat an NGO called Save the Earth. Samina and Arif started talking to\ntheiruncle about weather and climate.\n: Children, why are you sitting idle here? You look very\nunhappy!\n: Uncle, it’s so hot all day long.\n: And there is no electricity. We can’t use fans.\n: We can’t watch television either. Uncle, why is it so hot\n: In fact, we’ve an early summer this year. It’s been happening\nfor the last four or five years. Seasons are shifting.\n: What’s shifting, Uncle?\n: Summer usually starts from April. But this year it has\nstarted in moving from April to March is a shift\nor change.\n: Why do seasons shift, Uncle?\n: Well, it is because of climate change. And many things are\nhappening on this earth due to climate change. For\nexample, seasons are shifting, temperatures are climbing,\nand sea levels are rising. If things go on like this, our\nPlanet Earth will be in danger.\nwhat will happen if the carth is in danger? How will\nwe survive on this earth?",
+  "aiReadyText": "Unit Nine : Climate Change 99\nLesson 1: Planet Earth in Crisis\nKeywords : uncomfortable, idle , all day long , climate ,\nshift (v) , temperature , climb (v), survive (v)\nRead the text and the conversation.\nSamina is in class 7 and Arif in class 6, They both felt very uncomfortable\nthe other day. It was just the beginning of March and the day was very\nhot. In the small town of Sherpur, summer had come with all its heat\nand warmth, Samina and Arif had nothing much to do. While sitting idle\non the veranda, they saw their uncle, Anwar coming to them. Anwar works\nat an NGO called Save the Earth. Samina and Arif started talking to\ntheiruncle about weather and climate.\n: Children, why are you sitting idle here? You look very\n: Uncle, it’s so hot all day long.\n: And there is no electricity. We can’t use fans.\n: We can’t watch television either. Uncle, why is it so hot\n: In fact, we’ve an early summer this year. It’s been happening\nfor the last four or five years. Seasons are shifting.\n: What’s shifting, Uncle?\n: Summer usually starts from April. But this year it has\nstarted in moving from April to March is a shift\n: Why do seasons shift, Uncle?\n: Well, it is because of climate change. And many things are\nhappening on this earth due to climate change. For\nexample, seasons are shifting, temperatures are climbing,\nand sea levels are rising. If things go on like this, our\nPlanet Earth will be in danger.\nwhat will happen if the carth is in danger? How will\nwe survive on this earth?"
+}

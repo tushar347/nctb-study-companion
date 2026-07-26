@@ -1,0 +1,538 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 9,
+  "image": "/ocr/books/class7-english/page-images/page-009.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 3 : In the House",
+      "cleanText": "Lesson 3 : In the House",
+      "bbox": {
+        "x": 198,
+        "y": 311,
+        "width": 300,
+        "height": 21
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Keywords : mop (v), mop (n), detergent",
+      "cleanText": "Keywords : mop (v), mop (n), detergent",
+      "bbox": {
+        "x": 199,
+        "y": 357,
+        "width": 460,
+        "height": 25
+      },
+      "confidence": 91.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "A. and read the dialogue.",
+      "cleanText": "and read the dialogue.",
+      "bbox": {
+        "x": 202,
+        "y": 459,
+        "width": 412,
+        "height": 25
+      },
+      "confidence": 91.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": ": Reza, will you come",
+      "cleanText": ": Reza, will you come",
+      "bbox": {
+        "x": 389,
+        "y": 534,
+        "width": 244,
+        "height": 25
+      },
+      "confidence": 87.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "here, please?",
+      "cleanText": "here, please?",
+      "bbox": {
+        "x": 408,
+        "y": 575,
+        "width": 140,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-009-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": ": Yes, Maa.",
+      "cleanText": ": Yes, Maa.",
+      "bbox": {
+        "x": 389,
+        "y": 617,
+        "width": 125,
+        "height": 23
+      },
+      "confidence": 91.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-009-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": ": Look, the kitchen is",
+      "cleanText": ": Look, the kitchen is",
+      "bbox": {
+        "x": 389,
+        "y": 659,
+        "width": 232,
+        "height": 22
+      },
+      "confidence": 94.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "very untidy. I want to",
+      "cleanText": "very untidy. I want to",
+      "bbox": {
+        "x": 401,
+        "y": 701,
+        "width": 242,
+        "height": 24
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "make it neat and tidy.",
+      "cleanText": "make it neat and tidy.",
+      "bbox": {
+        "x": 401,
+        "y": 742,
+        "width": 241,
+        "height": 25
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Would you give me a hand?",
+      "cleanText": "Would you give me a hand?",
+      "bbox": {
+        "x": 402,
+        "y": 783,
+        "width": 306,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": ": Sure.",
+      "cleanText": ": Sure.",
+      "bbox": {
+        "x": 389,
+        "y": 825,
+        "width": 67,
+        "height": 19
+      },
+      "confidence": 79.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-009-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": ": Could you take the pots and plates from the table and put them",
+      "cleanText": ": Could you take the pots and plates from the table and put them",
+      "bbox": {
+        "x": 389,
+        "y": 869,
+        "width": 719,
+        "height": 25
+      },
+      "confidence": 93.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "in the cupboard?",
+      "cleanText": "in the cupboard?",
+      "bbox": {
+        "x": 403,
+        "y": 914,
+        "width": 188,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": ": First sweep the floor. Will you bring me a broom, please?",
+      "cleanText": ": First sweep the floor. Will you bring me a broom, please?",
+      "bbox": {
+        "x": 389,
+        "y": 1004,
+        "width": 686,
+        "height": 24
+      },
+      "confidence": 95.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": ": Here it is.",
+      "cleanText": ": Here it is.",
+      "bbox": {
+        "x": 389,
+        "y": 1049,
+        "width": 117,
+        "height": 19
+      },
+      "confidence": 91.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-009-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": ": Thank you. Now I’m going to mop the floor. Could you get me",
+      "cleanText": ": Thank you. Now I’m going to mop the floor. Could you get me",
+      "bbox": {
+        "x": 389,
+        "y": 1093,
+        "width": 720,
+        "height": 25
+      },
+      "confidence": 89.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "a mop and bucket and some detergent?",
+      "cleanText": "a mop and bucket and some detergent?",
+      "bbox": {
+        "x": 404,
+        "y": 1138,
+        "width": 428,
+        "height": 25
+      },
+      "confidence": 85.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": ": No problem. Here they are.",
+      "cleanText": ": No problem. Here they are.",
+      "bbox": {
+        "x": 389,
+        "y": 1183,
+        "width": 310,
+        "height": 25
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": ": Thanks, dear.",
+      "cleanText": ": Thanks, dear.",
+      "bbox": {
+        "x": 389,
+        "y": 1228,
+        "width": 158,
+        "height": 23
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": ": Welcome.",
+      "cleanText": ": Welcome.",
+      "bbox": {
+        "x": 389,
+        "y": 1273,
+        "width": 122,
+        "height": 19
+      },
+      "confidence": 86.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-009-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "B. Act out the dialogue.",
+      "cleanText": "Act out the dialogue.",
+      "bbox": {
+        "x": 201,
+        "y": 1357,
+        "width": 306,
+        "height": 25
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-009-line-021",
+      "lineNumber": 21
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-009-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 3 : In the House",
+      "bbox": {
+        "x": 198,
+        "y": 311,
+        "width": 300,
+        "height": 21
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-002",
+      "lineNumber": 2,
+      "text": "Keywords : mop (v), mop (n), detergent",
+      "bbox": {
+        "x": 199,
+        "y": 357,
+        "width": 460,
+        "height": 25
+      },
+      "confidence": 91.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-003",
+      "lineNumber": 3,
+      "text": "and read the dialogue.",
+      "bbox": {
+        "x": 202,
+        "y": 459,
+        "width": 412,
+        "height": 25
+      },
+      "confidence": 91.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-004",
+      "lineNumber": 4,
+      "text": ": Reza, will you come",
+      "bbox": {
+        "x": 389,
+        "y": 534,
+        "width": 244,
+        "height": 25
+      },
+      "confidence": 87.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-007",
+      "lineNumber": 7,
+      "text": ": Look, the kitchen is",
+      "bbox": {
+        "x": 389,
+        "y": 659,
+        "width": 232,
+        "height": 22
+      },
+      "confidence": 94.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-008",
+      "lineNumber": 8,
+      "text": "very untidy. I want to",
+      "bbox": {
+        "x": 401,
+        "y": 701,
+        "width": 242,
+        "height": 24
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-009",
+      "lineNumber": 9,
+      "text": "make it neat and tidy.",
+      "bbox": {
+        "x": 401,
+        "y": 742,
+        "width": 241,
+        "height": 25
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-010",
+      "lineNumber": 10,
+      "text": "Would you give me a hand?",
+      "bbox": {
+        "x": 402,
+        "y": 783,
+        "width": 306,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-012",
+      "lineNumber": 12,
+      "text": ": Could you take the pots and plates from the table and put them",
+      "bbox": {
+        "x": 389,
+        "y": 869,
+        "width": 719,
+        "height": 25
+      },
+      "confidence": 93.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-013",
+      "lineNumber": 13,
+      "text": "in the cupboard?",
+      "bbox": {
+        "x": 403,
+        "y": 914,
+        "width": 188,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-014",
+      "lineNumber": 14,
+      "text": ": First sweep the floor. Will you bring me a broom, please?",
+      "bbox": {
+        "x": 389,
+        "y": 1004,
+        "width": 686,
+        "height": 24
+      },
+      "confidence": 95.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-016",
+      "lineNumber": 16,
+      "text": ": Thank you. Now I’m going to mop the floor. Could you get me",
+      "bbox": {
+        "x": 389,
+        "y": 1093,
+        "width": 720,
+        "height": 25
+      },
+      "confidence": 89.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-017",
+      "lineNumber": 17,
+      "text": "a mop and bucket and some detergent?",
+      "bbox": {
+        "x": 404,
+        "y": 1138,
+        "width": 428,
+        "height": 25
+      },
+      "confidence": 85.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-018",
+      "lineNumber": 18,
+      "text": ": No problem. Here they are.",
+      "bbox": {
+        "x": 389,
+        "y": 1183,
+        "width": 310,
+        "height": 25
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-019",
+      "lineNumber": 19,
+      "text": ": Thanks, dear.",
+      "bbox": {
+        "x": 389,
+        "y": 1228,
+        "width": 158,
+        "height": 23
+      },
+      "confidence": 93.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-009-line-021",
+      "lineNumber": 21,
+      "text": "Act out the dialogue.",
+      "bbox": {
+        "x": 201,
+        "y": 1357,
+        "width": 306,
+        "height": 25
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 3 : In the House\nKeywords : mop (v), mop (n), detergent\nA. and read the dialogue.\n: Reza, will you come\nhere, please?\n: Yes, Maa.\n: Look, the kitchen is\nvery untidy. I want to\nmake it neat and tidy.\nWould you give me a hand?\n: Sure.\n: Could you take the pots and plates from the table and put them\nin the cupboard?\n: First sweep the floor. Will you bring me a broom, please?\n: Here it is.\n: Thank you. Now I’m going to mop the floor. Could you get me\na mop and bucket and some detergent?\n: No problem. Here they are.\n: Thanks, dear.\n: Welcome.\nB. Act out the dialogue.",
+  "cleanText": "Lesson 3 : In the House\nKeywords : mop (v), mop (n), detergent\nand read the dialogue.\n: Reza, will you come\nhere, please?\n: Yes, Maa.\n: Look, the kitchen is\nvery untidy. I want to\nmake it neat and tidy.\nWould you give me a hand?\n: Sure.\n: Could you take the pots and plates from the table and put them\nin the cupboard?\n: First sweep the floor. Will you bring me a broom, please?\n: Here it is.\n: Thank you. Now I’m going to mop the floor. Could you get me\na mop and bucket and some detergent?\n: No problem. Here they are.\n: Thanks, dear.\n: Welcome.\nAct out the dialogue.",
+  "aiReadyText": "Lesson 3 : In the House\nKeywords : mop (v), mop (n), detergent\nand read the dialogue.\n: Reza, will you come\n: Look, the kitchen is\nvery untidy. I want to\nmake it neat and tidy.\nWould you give me a hand?\n: Could you take the pots and plates from the table and put them\nin the cupboard?\n: First sweep the floor. Will you bring me a broom, please?\n: Thank you. Now I’m going to mop the floor. Could you get me\na mop and bucket and some detergent?\n: No problem. Here they are.\n: Thanks, dear.\nAct out the dialogue."
+}

@@ -1,0 +1,995 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 120,
+  "image": "/ocr/books/class7-english/page-images/page-120.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Sample Question 115",
+      "cleanText": "Sample Question 115",
+      "bbox": {
+        "x": 205,
+        "y": 274,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "8. (ativ) Greenhouse gas contributes to global warming.",
+      "cleanText": "(ativ) Greenhouse gas contributes to global warming.",
+      "bbox": {
+        "x": 204,
+        "y": 340,
+        "width": 651,
+        "height": 22
+      },
+      "confidence": 90.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "(b+i) Due to human activities the average temperature of the Earth is increas-",
+      "cleanText": "(b+i) Due to human activities the average temperature of the Earth is increas-",
+      "bbox": {
+        "x": 282,
+        "y": 374,
+        "width": 826,
+        "height": 30
+      },
+      "confidence": 94.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "(c+v) The result of rising global temperatures causes sea levels to rise.",
+      "cleanText": "(c+v) The result of rising global temperatures causes sea levels to rise.",
+      "bbox": {
+        "x": 282,
+        "y": 445,
+        "width": 754,
+        "height": 22
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "(d+iii) Due to environmental changes the variety of plant and animal species is",
+      "cleanText": "(d+iii) Due to environmental changes the variety of plant and animal species is",
+      "bbox": {
+        "x": 282,
+        "y": 482,
+        "width": 827,
+        "height": 22
+      },
+      "confidence": 94.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "... decreasing. . .",
+      "cleanText": "... decreasing. . .",
+      "bbox": {
+        "x": 319,
+        "y": 511,
+        "width": 569,
+        "height": 22
+      },
+      "confidence": 59.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "(ctii) To reduce’ global warming and protect the cnvironment some steps",
+      "cleanText": "(ctii) To reduce’ global warming and protect the cnvironment some steps",
+      "bbox": {
+        "x": 282,
+        "y": 528,
+        "width": 827,
+        "height": 22
+      },
+      "confidence": 85.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "should be taken by the authority.",
+      "cleanText": "should be taken by the authority.",
+      "bbox": {
+        "x": 368,
+        "y": 558,
+        "width": 340,
+        "height": 22
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "10. (a) The two people claiming responsibility for the child in the poem",
+      "cleanText": "(a) The two people claiming responsibility for the child in the poem",
+      "bbox": {
+        "x": 210,
+        "y": 718,
+        "width": 903,
+        "height": 22
+      },
+      "confidence": 93.15,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Child is This?” are the parent and the teacher.",
+      "cleanText": "Child is This?” are the parent and the teacher.",
+      "bbox": {
+        "x": 461,
+        "y": 747,
+        "width": 476,
+        "height": 22
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "(b) The poem suggests that both parents and teachers share the responsibili-",
+      "cleanText": "(b) The poem suggests that both parents and teachers share the responsibili-",
+      "bbox": {
+        "x": 275,
+        "y": 785,
+        "width": 837,
+        "height": 22
+      },
+      "confidence": 93.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "ty of nurturing and educating the child.",
+      "cleanText": "ty of nurturing and educating the child.",
+      "bbox": {
+        "x": 370,
+        "y": 814,
+        "width": 409,
+        "height": 22
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "(c) In the poem \"From a Railway Carriage,\" the poct bridges, houses,",
+      "cleanText": "(c) In the poem \"From a Railway Carriage,\" the poct bridges, houses,",
+      "bbox": {
+        "x": 276,
+        "y": 851,
+        "width": 836,
+        "height": 22
+      },
+      "confidence": 94.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "meadows, horses, cattle, and a child gathering brambles.",
+      "cleanText": "meadows, horses, cattle, and a child gathering brambles.",
+      "bbox": {
+        "x": 370,
+        "y": 881,
+        "width": 592,
+        "height": 22
+      },
+      "confidence": 94.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "(d) The “painted station\" in the poem refers to a colorful and decorated",
+      "cleanText": "(d) The “painted station\" in the poem refers to a colorful and decorated",
+      "bbox": {
+        "x": 276,
+        "y": 918,
+        "width": 836,
+        "height": 22
+      },
+      "confidence": 94.54,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "railway station.",
+      "cleanText": "railway station.",
+      "bbox": {
+        "x": 371,
+        "y": 947,
+        "width": 159,
+        "height": 22
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "(e) The poet compares the speed of the train to fairies and witches because",
+      "cleanText": "(e) The poet compares the speed of the train to fairies and witches because",
+      "bbox": {
+        "x": 275,
+        "y": 981,
+        "width": 838,
+        "height": 30
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "it moves swiftly and smoothly.",
+      "cleanText": "it moves swiftly and smoothly.",
+      "bbox": {
+        "x": 371,
+        "y": 1014,
+        "width": 320,
+        "height": 22
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "(f) “Leisure” in the pocm means taking time to appreciate the beauty of",
+      "cleanText": "(f) “Leisure” in the pocm means taking time to appreciate the beauty of",
+      "bbox": {
+        "x": 275,
+        "y": 1047,
+        "width": 841,
+        "height": 31
+      },
+      "confidence": 93.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "nature and life,",
+      "cleanText": "nature and life,",
+      "bbox": {
+        "x": 370,
+        "y": 1081,
+        "width": 156,
+        "height": 17
+      },
+      "confidence": 89.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "(g) The main theme of the poem \"Leisure\" is the importance of slowing",
+      "cleanText": "(g) The main theme of the poem \"Leisure\" is the importance of slowing",
+      "bbox": {
+        "x": 275,
+        "y": 1118,
+        "width": 838,
+        "height": 24
+      },
+      "confidence": 90.15,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "down and enjoying the simple pleasures of life.",
+      "cleanText": "down and enjoying the simple pleasures of life.",
+      "bbox": {
+        "x": 370,
+        "y": 1147,
+        "width": 496,
+        "height": 22
+      },
+      "confidence": 90.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "ch) In the poem \"Under the Full Moon,” the poet describes the moon as",
+      "cleanText": "ch) In the poem \"Under the Full Moon,” the poet describes the moon as",
+      "bbox": {
+        "x": 274,
+        "y": 1185,
+        "width": 839,
+        "height": 22
+      },
+      "confidence": 92.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "serene, luminous, and casting a magical light over the landscape.",
+      "cleanText": "serene, luminous, and casting a magical light over the landscape.",
+      "bbox": {
+        "x": 371,
+        "y": 1214,
+        "width": 679,
+        "height": 22
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "ll. The Greedy Farmer’s Lesson",
+      "cleanText": "The Greedy Farmer’s Lesson",
+      "bbox": {
+        "x": 217,
+        "y": 1253,
+        "width": 428,
+        "height": 24
+      },
+      "confidence": 81.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "In a small village, there lived a greedy farmer named Alam. He had plenty of land and",
+      "cleanText": "In a small village, there lived a greedy farmer named Alam. He had plenty of land and",
+      "bbox": {
+        "x": 216,
+        "y": 1287,
+        "width": 900,
+        "height": 22
+      },
+      "confidence": 94.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "cattle, but he always wanted more. One day, a wise old man told him about a magical",
+      "cleanText": "cattle, but he always wanted more. One day, a wise old man told him about a magical",
+      "bbox": {
+        "x": 214,
+        "y": 1320,
+        "width": 902,
+        "height": 22
+      },
+      "confidence": 95.41,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "offer. \"If you run from sunrise to sunset, all the land you cover will be yours,” he said.",
+      "cleanText": "offer. \"If you run from sunrise to sunset, all the land you cover will be yours,” he said.",
+      "bbox": {
+        "x": 214,
+        "y": 1353,
+        "width": 902,
+        "height": 22
+      },
+      "confidence": 94.61,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "Alam, driven by greed, decided to take the challenge. The next morning, he started",
+      "cleanText": "Alam, driven by greed, decided to take the challenge. The next morning, he started",
+      "bbox": {
+        "x": 214,
+        "y": 1386,
+        "width": 903,
+        "height": 22
+      },
+      "confidence": 95.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "running as fast as he could, marking the land he covered. By midday, he was exhausted",
+      "cleanText": "running as fast as he could, marking the land he covered. By midday, he was exhausted",
+      "bbox": {
+        "x": 214,
+        "y": 1419,
+        "width": 903,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "but continued running, thinking of the wealth he would gain. As the sun began to set,",
+      "cleanText": "but continued running, thinking of the wealth he would gain. As the sun began to set,",
+      "bbox": {
+        "x": 211,
+        "y": 1468,
+        "width": 902,
+        "height": 22
+      },
+      "confidence": 95.94,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "Alam collapsed from exhaustion, realizing he had covered far more land than he could",
+      "cleanText": "Alam collapsed from exhaustion, realizing he had covered far more land than he could",
+      "bbox": {
+        "x": 211,
+        "y": 1501,
+        "width": 902,
+        "height": 22
+      },
+      "confidence": 95.79,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "ever manage. The wise old man appeared and said, \"Greed leads to destruction. Be",
+      "cleanText": "ever manage. The wise old man appeared and said, \"Greed leads to destruction. Be",
+      "bbox": {
+        "x": 211,
+        "y": 1534,
+        "width": 902,
+        "height": 22
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "content with what you have.” Alam learned his lesson and returned to his village, shar-",
+      "cleanText": "content with what you have.” Alam learned his lesson and returned to his village, shar-",
+      "bbox": {
+        "x": 211,
+        "y": 1567,
+        "width": 902,
+        "height": 22
+      },
+      "confidence": 94.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "ing his newfound wisdom with others.",
+      "cleanText": "ing his newfound wisdom with others.",
+      "bbox": {
+        "x": 212,
+        "y": 1600,
+        "width": 398,
+        "height": 22
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-120-line-035",
+      "lineNumber": 35
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-120-line-001",
+      "lineNumber": 1,
+      "text": "Sample Question 115",
+      "bbox": {
+        "x": 205,
+        "y": 274,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-002",
+      "lineNumber": 2,
+      "text": "(ativ) Greenhouse gas contributes to global warming.",
+      "bbox": {
+        "x": 204,
+        "y": 340,
+        "width": 651,
+        "height": 22
+      },
+      "confidence": 90.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-003",
+      "lineNumber": 3,
+      "text": "(b+i) Due to human activities the average temperature of the Earth is increas-",
+      "bbox": {
+        "x": 282,
+        "y": 374,
+        "width": 826,
+        "height": 30
+      },
+      "confidence": 94.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-004",
+      "lineNumber": 4,
+      "text": "(c+v) The result of rising global temperatures causes sea levels to rise.",
+      "bbox": {
+        "x": 282,
+        "y": 445,
+        "width": 754,
+        "height": 22
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-005",
+      "lineNumber": 5,
+      "text": "(d+iii) Due to environmental changes the variety of plant and animal species is",
+      "bbox": {
+        "x": 282,
+        "y": 482,
+        "width": 827,
+        "height": 22
+      },
+      "confidence": 94.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-006",
+      "lineNumber": 6,
+      "text": "... decreasing. . .",
+      "bbox": {
+        "x": 319,
+        "y": 511,
+        "width": 569,
+        "height": 22
+      },
+      "confidence": 59.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-007",
+      "lineNumber": 7,
+      "text": "(ctii) To reduce’ global warming and protect the cnvironment some steps",
+      "bbox": {
+        "x": 282,
+        "y": 528,
+        "width": 827,
+        "height": 22
+      },
+      "confidence": 85.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-008",
+      "lineNumber": 8,
+      "text": "should be taken by the authority.",
+      "bbox": {
+        "x": 368,
+        "y": 558,
+        "width": 340,
+        "height": 22
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-009",
+      "lineNumber": 9,
+      "text": "(a) The two people claiming responsibility for the child in the poem",
+      "bbox": {
+        "x": 210,
+        "y": 718,
+        "width": 903,
+        "height": 22
+      },
+      "confidence": 93.15,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-010",
+      "lineNumber": 10,
+      "text": "Child is This?” are the parent and the teacher.",
+      "bbox": {
+        "x": 461,
+        "y": 747,
+        "width": 476,
+        "height": 22
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-011",
+      "lineNumber": 11,
+      "text": "(b) The poem suggests that both parents and teachers share the responsibili-",
+      "bbox": {
+        "x": 275,
+        "y": 785,
+        "width": 837,
+        "height": 22
+      },
+      "confidence": 93.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-012",
+      "lineNumber": 12,
+      "text": "ty of nurturing and educating the child.",
+      "bbox": {
+        "x": 370,
+        "y": 814,
+        "width": 409,
+        "height": 22
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-013",
+      "lineNumber": 13,
+      "text": "(c) In the poem \"From a Railway Carriage,\" the poct bridges, houses,",
+      "bbox": {
+        "x": 276,
+        "y": 851,
+        "width": 836,
+        "height": 22
+      },
+      "confidence": 94.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-014",
+      "lineNumber": 14,
+      "text": "meadows, horses, cattle, and a child gathering brambles.",
+      "bbox": {
+        "x": 370,
+        "y": 881,
+        "width": 592,
+        "height": 22
+      },
+      "confidence": 94.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-015",
+      "lineNumber": 15,
+      "text": "(d) The “painted station\" in the poem refers to a colorful and decorated",
+      "bbox": {
+        "x": 276,
+        "y": 918,
+        "width": 836,
+        "height": 22
+      },
+      "confidence": 94.54,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-016",
+      "lineNumber": 16,
+      "text": "railway station.",
+      "bbox": {
+        "x": 371,
+        "y": 947,
+        "width": 159,
+        "height": 22
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-017",
+      "lineNumber": 17,
+      "text": "(e) The poet compares the speed of the train to fairies and witches because",
+      "bbox": {
+        "x": 275,
+        "y": 981,
+        "width": 838,
+        "height": 30
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-018",
+      "lineNumber": 18,
+      "text": "it moves swiftly and smoothly.",
+      "bbox": {
+        "x": 371,
+        "y": 1014,
+        "width": 320,
+        "height": 22
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-019",
+      "lineNumber": 19,
+      "text": "(f) “Leisure” in the pocm means taking time to appreciate the beauty of",
+      "bbox": {
+        "x": 275,
+        "y": 1047,
+        "width": 841,
+        "height": 31
+      },
+      "confidence": 93.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-020",
+      "lineNumber": 20,
+      "text": "nature and life,",
+      "bbox": {
+        "x": 370,
+        "y": 1081,
+        "width": 156,
+        "height": 17
+      },
+      "confidence": 89.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-021",
+      "lineNumber": 21,
+      "text": "(g) The main theme of the poem \"Leisure\" is the importance of slowing",
+      "bbox": {
+        "x": 275,
+        "y": 1118,
+        "width": 838,
+        "height": 24
+      },
+      "confidence": 90.15,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-022",
+      "lineNumber": 22,
+      "text": "down and enjoying the simple pleasures of life.",
+      "bbox": {
+        "x": 370,
+        "y": 1147,
+        "width": 496,
+        "height": 22
+      },
+      "confidence": 90.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-023",
+      "lineNumber": 23,
+      "text": "ch) In the poem \"Under the Full Moon,” the poet describes the moon as",
+      "bbox": {
+        "x": 274,
+        "y": 1185,
+        "width": 839,
+        "height": 22
+      },
+      "confidence": 92.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-024",
+      "lineNumber": 24,
+      "text": "serene, luminous, and casting a magical light over the landscape.",
+      "bbox": {
+        "x": 371,
+        "y": 1214,
+        "width": 679,
+        "height": 22
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-025",
+      "lineNumber": 25,
+      "text": "The Greedy Farmer’s Lesson",
+      "bbox": {
+        "x": 217,
+        "y": 1253,
+        "width": 428,
+        "height": 24
+      },
+      "confidence": 81.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-026",
+      "lineNumber": 26,
+      "text": "In a small village, there lived a greedy farmer named Alam. He had plenty of land and",
+      "bbox": {
+        "x": 216,
+        "y": 1287,
+        "width": 900,
+        "height": 22
+      },
+      "confidence": 94.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-027",
+      "lineNumber": 27,
+      "text": "cattle, but he always wanted more. One day, a wise old man told him about a magical",
+      "bbox": {
+        "x": 214,
+        "y": 1320,
+        "width": 902,
+        "height": 22
+      },
+      "confidence": 95.41,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-028",
+      "lineNumber": 28,
+      "text": "offer. \"If you run from sunrise to sunset, all the land you cover will be yours,” he said.",
+      "bbox": {
+        "x": 214,
+        "y": 1353,
+        "width": 902,
+        "height": 22
+      },
+      "confidence": 94.61,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-029",
+      "lineNumber": 29,
+      "text": "Alam, driven by greed, decided to take the challenge. The next morning, he started",
+      "bbox": {
+        "x": 214,
+        "y": 1386,
+        "width": 903,
+        "height": 22
+      },
+      "confidence": 95.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-030",
+      "lineNumber": 30,
+      "text": "running as fast as he could, marking the land he covered. By midday, he was exhausted",
+      "bbox": {
+        "x": 214,
+        "y": 1419,
+        "width": 903,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-031",
+      "lineNumber": 31,
+      "text": "but continued running, thinking of the wealth he would gain. As the sun began to set,",
+      "bbox": {
+        "x": 211,
+        "y": 1468,
+        "width": 902,
+        "height": 22
+      },
+      "confidence": 95.94,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-032",
+      "lineNumber": 32,
+      "text": "Alam collapsed from exhaustion, realizing he had covered far more land than he could",
+      "bbox": {
+        "x": 211,
+        "y": 1501,
+        "width": 902,
+        "height": 22
+      },
+      "confidence": 95.79,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-033",
+      "lineNumber": 33,
+      "text": "ever manage. The wise old man appeared and said, \"Greed leads to destruction. Be",
+      "bbox": {
+        "x": 211,
+        "y": 1534,
+        "width": 902,
+        "height": 22
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-034",
+      "lineNumber": 34,
+      "text": "content with what you have.” Alam learned his lesson and returned to his village, shar-",
+      "bbox": {
+        "x": 211,
+        "y": 1567,
+        "width": 902,
+        "height": 22
+      },
+      "confidence": 94.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-120-line-035",
+      "lineNumber": 35,
+      "text": "ing his newfound wisdom with others.",
+      "bbox": {
+        "x": 212,
+        "y": 1600,
+        "width": 398,
+        "height": 22
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Sample Question 115\n8. (ativ) Greenhouse gas contributes to global warming.\n(b+i) Due to human activities the average temperature of the Earth is increas-\n(c+v) The result of rising global temperatures causes sea levels to rise.\n(d+iii) Due to environmental changes the variety of plant and animal species is\n... decreasing. . .\n(ctii) To reduce’ global warming and protect the cnvironment some steps\nshould be taken by the authority.\n10. (a) The two people claiming responsibility for the child in the poem\nChild is This?” are the parent and the teacher.\n(b) The poem suggests that both parents and teachers share the responsibili-\nty of nurturing and educating the child.\n(c) In the poem \"From a Railway Carriage,\" the poct bridges, houses,\nmeadows, horses, cattle, and a child gathering brambles.\n(d) The “painted station\" in the poem refers to a colorful and decorated\nrailway station.\n(e) The poet compares the speed of the train to fairies and witches because\nit moves swiftly and smoothly.\n(f) “Leisure” in the pocm means taking time to appreciate the beauty of\nnature and life,\n(g) The main theme of the poem \"Leisure\" is the importance of slowing\ndown and enjoying the simple pleasures of life.\nch) In the poem \"Under the Full Moon,” the poet describes the moon as\nserene, luminous, and casting a magical light over the landscape.\nll. The Greedy Farmer’s Lesson\nIn a small village, there lived a greedy farmer named Alam. He had plenty of land and\ncattle, but he always wanted more. One day, a wise old man told him about a magical\noffer. \"If you run from sunrise to sunset, all the land you cover will be yours,” he said.\nAlam, driven by greed, decided to take the challenge. The next morning, he started\nrunning as fast as he could, marking the land he covered. By midday, he was exhausted\nbut continued running, thinking of the wealth he would gain. As the sun began to set,\nAlam collapsed from exhaustion, realizing he had covered far more land than he could\never manage. The wise old man appeared and said, \"Greed leads to destruction. Be\ncontent with what you have.” Alam learned his lesson and returned to his village, shar-\ning his newfound wisdom with others.",
+  "cleanText": "Sample Question 115\n(ativ) Greenhouse gas contributes to global warming.\n(b+i) Due to human activities the average temperature of the Earth is increas-\n(c+v) The result of rising global temperatures causes sea levels to rise.\n(d+iii) Due to environmental changes the variety of plant and animal species is\n... decreasing. . .\n(ctii) To reduce’ global warming and protect the cnvironment some steps\nshould be taken by the authority.\n(a) The two people claiming responsibility for the child in the poem\nChild is This?” are the parent and the teacher.\n(b) The poem suggests that both parents and teachers share the responsibili-\nty of nurturing and educating the child.\n(c) In the poem \"From a Railway Carriage,\" the poct bridges, houses,\nmeadows, horses, cattle, and a child gathering brambles.\n(d) The “painted station\" in the poem refers to a colorful and decorated\nrailway station.\n(e) The poet compares the speed of the train to fairies and witches because\nit moves swiftly and smoothly.\n(f) “Leisure” in the pocm means taking time to appreciate the beauty of\nnature and life,\n(g) The main theme of the poem \"Leisure\" is the importance of slowing\ndown and enjoying the simple pleasures of life.\nch) In the poem \"Under the Full Moon,” the poet describes the moon as\nserene, luminous, and casting a magical light over the landscape.\nThe Greedy Farmer’s Lesson\nIn a small village, there lived a greedy farmer named Alam. He had plenty of land and\ncattle, but he always wanted more. One day, a wise old man told him about a magical\noffer. \"If you run from sunrise to sunset, all the land you cover will be yours,” he said.\nAlam, driven by greed, decided to take the challenge. The next morning, he started\nrunning as fast as he could, marking the land he covered. By midday, he was exhausted\nbut continued running, thinking of the wealth he would gain. As the sun began to set,\nAlam collapsed from exhaustion, realizing he had covered far more land than he could\never manage. The wise old man appeared and said, \"Greed leads to destruction. Be\ncontent with what you have.” Alam learned his lesson and returned to his village, shar-\ning his newfound wisdom with others.",
+  "aiReadyText": "Sample Question 115\n(ativ) Greenhouse gas contributes to global warming.\n(b+i) Due to human activities the average temperature of the Earth is increas-\n(c+v) The result of rising global temperatures causes sea levels to rise.\n(d+iii) Due to environmental changes the variety of plant and animal species is\n... decreasing. . .\n(ctii) To reduce’ global warming and protect the cnvironment some steps\nshould be taken by the authority.\n(a) The two people claiming responsibility for the child in the poem\nChild is This?” are the parent and the teacher.\n(b) The poem suggests that both parents and teachers share the responsibili-\nty of nurturing and educating the child.\n(c) In the poem \"From a Railway Carriage,\" the poct bridges, houses,\nmeadows, horses, cattle, and a child gathering brambles.\n(d) The “painted station\" in the poem refers to a colorful and decorated\nrailway station.\n(e) The poet compares the speed of the train to fairies and witches because\nit moves swiftly and smoothly.\n(f) “Leisure” in the pocm means taking time to appreciate the beauty of\nnature and life,\n(g) The main theme of the poem \"Leisure\" is the importance of slowing\ndown and enjoying the simple pleasures of life.\nch) In the poem \"Under the Full Moon,” the poet describes the moon as\nserene, luminous, and casting a magical light over the landscape.\nThe Greedy Farmer’s Lesson\nIn a small village, there lived a greedy farmer named Alam. He had plenty of land and\ncattle, but he always wanted more. One day, a wise old man told him about a magical\noffer. \"If you run from sunrise to sunset, all the land you cover will be yours,” he said.\nAlam, driven by greed, decided to take the challenge. The next morning, he started\nrunning as fast as he could, marking the land he covered. By midday, he was exhausted\nbut continued running, thinking of the wealth he would gain. As the sun began to set,\nAlam collapsed from exhaustion, realizing he had covered far more land than he could\never manage. The wise old man appeared and said, \"Greed leads to destruction. Be\ncontent with what you have.” Alam learned his lesson and returned to his village, shar-\ning his newfound wisdom with others."
+}

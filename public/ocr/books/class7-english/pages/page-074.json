@@ -1,0 +1,379 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 74,
+  "image": "/ocr/books/class7-english/page-images/page-074.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Six : Leisure 69",
+      "cleanText": "Unit Six : Leisure 69",
+      "bbox": {
+        "x": 196,
+        "y": 256,
+        "width": 912,
+        "height": 21
+      },
+      "confidence": 94.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "B. Match the words with their meanings.",
+      "cleanText": "Match the words with their meanings.",
+      "bbox": {
+        "x": 200,
+        "y": 340,
+        "width": 523,
+        "height": 24
+      },
+      "confidence": 94.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Words Meanings",
+      "cleanText": "Words Meanings",
+      "bbox": {
+        "x": 360,
+        "y": 426,
+        "width": 511,
+        "height": 33
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "1. awake (a) sweet smell",
+      "cleanText": "awake (a) sweet smell",
+      "bbox": {
+        "x": 337,
+        "y": 504,
+        "width": 481,
+        "height": 24
+      },
+      "confidence": 92.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "2. perfume (b) sing in a delightful voice",
+      "cleanText": "perfume (b) sing in a delightful voice",
+      "bbox": {
+        "x": 334,
+        "y": 559,
+        "width": 628,
+        "height": 25
+      },
+      "confidence": 91.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "3. sight (c) not sleeping",
+      "cleanText": "sight (c) not sleeping",
+      "bbox": {
+        "x": 334,
+        "y": 614,
+        "width": 489,
+        "height": 25
+      },
+      "confidence": 87.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "4. twitter (d) things / objects that you see",
+      "cleanText": "twitter (d) things / objects that you see",
+      "bbox": {
+        "x": 333,
+        "y": 665,
+        "width": 660,
+        "height": 33
+      },
+      "confidence": 92.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "C. in groups or pairs and answer these questions.",
+      "cleanText": "in groups or pairs and answer these questions.",
+      "bbox": {
+        "x": 200,
+        "y": 765,
+        "width": 713,
+        "height": 25
+      },
+      "confidence": 94.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "1. Why was the little bird singing outside the window of the Giant’s",
+      "cleanText": "Why was the little bird singing outside the window of the Giant’s",
+      "bbox": {
+        "x": 282,
+        "y": 819,
+        "width": 750,
+        "height": 26
+      },
+      "confidence": 95.15,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "2. What happened to the garden when the spring came at last?",
+      "cleanText": "What happened to the garden when the spring came at last?",
+      "bbox": {
+        "x": 279,
+        "y": 923,
+        "width": 686,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "3. Why did one comer of the garden still have winter? What happened there?",
+      "cleanText": "Why did one comer of the garden still have winter? What happened there?",
+      "bbox": {
+        "x": 280,
+        "y": 978,
+        "width": 833,
+        "height": 25
+      },
+      "confidence": 94.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Lesson11: The Selfish Giant (4)",
+      "cleanText": "Lesson11: The Selfish Giant (4)",
+      "bbox": {
+        "x": 194,
+        "y": 1035,
+        "width": 410,
+        "height": 27
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Keywords : frightened, stretch out, knock down, fling",
+      "cleanText": "Keywords : frightened, stretch out, knock down, fling",
+      "bbox": {
+        "x": 289,
+        "y": 1073,
+        "width": 617,
+        "height": 33
+      },
+      "confidence": 94.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-074-line-013",
+      "lineNumber": 13
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-074-line-001",
+      "lineNumber": 1,
+      "text": "Unit Six : Leisure 69",
+      "bbox": {
+        "x": 196,
+        "y": 256,
+        "width": 912,
+        "height": 21
+      },
+      "confidence": 94.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-002",
+      "lineNumber": 2,
+      "text": "Match the words with their meanings.",
+      "bbox": {
+        "x": 200,
+        "y": 340,
+        "width": 523,
+        "height": 24
+      },
+      "confidence": 94.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-003",
+      "lineNumber": 3,
+      "text": "Words Meanings",
+      "bbox": {
+        "x": 360,
+        "y": 426,
+        "width": 511,
+        "height": 33
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-004",
+      "lineNumber": 4,
+      "text": "awake (a) sweet smell",
+      "bbox": {
+        "x": 337,
+        "y": 504,
+        "width": 481,
+        "height": 24
+      },
+      "confidence": 92.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-005",
+      "lineNumber": 5,
+      "text": "perfume (b) sing in a delightful voice",
+      "bbox": {
+        "x": 334,
+        "y": 559,
+        "width": 628,
+        "height": 25
+      },
+      "confidence": 91.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-006",
+      "lineNumber": 6,
+      "text": "sight (c) not sleeping",
+      "bbox": {
+        "x": 334,
+        "y": 614,
+        "width": 489,
+        "height": 25
+      },
+      "confidence": 87.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-007",
+      "lineNumber": 7,
+      "text": "twitter (d) things / objects that you see",
+      "bbox": {
+        "x": 333,
+        "y": 665,
+        "width": 660,
+        "height": 33
+      },
+      "confidence": 92.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-008",
+      "lineNumber": 8,
+      "text": "in groups or pairs and answer these questions.",
+      "bbox": {
+        "x": 200,
+        "y": 765,
+        "width": 713,
+        "height": 25
+      },
+      "confidence": 94.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-009",
+      "lineNumber": 9,
+      "text": "Why was the little bird singing outside the window of the Giant’s",
+      "bbox": {
+        "x": 282,
+        "y": 819,
+        "width": 750,
+        "height": 26
+      },
+      "confidence": 95.15,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-010",
+      "lineNumber": 10,
+      "text": "What happened to the garden when the spring came at last?",
+      "bbox": {
+        "x": 279,
+        "y": 923,
+        "width": 686,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-011",
+      "lineNumber": 11,
+      "text": "Why did one comer of the garden still have winter? What happened there?",
+      "bbox": {
+        "x": 280,
+        "y": 978,
+        "width": 833,
+        "height": 25
+      },
+      "confidence": 94.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-012",
+      "lineNumber": 12,
+      "text": "Lesson11: The Selfish Giant (4)",
+      "bbox": {
+        "x": 194,
+        "y": 1035,
+        "width": 410,
+        "height": 27
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-074-line-013",
+      "lineNumber": 13,
+      "text": "Keywords : frightened, stretch out, knock down, fling",
+      "bbox": {
+        "x": 289,
+        "y": 1073,
+        "width": 617,
+        "height": 33
+      },
+      "confidence": 94.12,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Six : Leisure 69\nB. Match the words with their meanings.\nWords Meanings\n1. awake (a) sweet smell\n2. perfume (b) sing in a delightful voice\n3. sight (c) not sleeping\n4. twitter (d) things / objects that you see\nC. in groups or pairs and answer these questions.\n1. Why was the little bird singing outside the window of the Giant’s\n2. What happened to the garden when the spring came at last?\n3. Why did one comer of the garden still have winter? What happened there?\nLesson11: The Selfish Giant (4)\nKeywords : frightened, stretch out, knock down, fling",
+  "cleanText": "Unit Six : Leisure 69\nMatch the words with their meanings.\nWords Meanings\nawake (a) sweet smell\nperfume (b) sing in a delightful voice\nsight (c) not sleeping\ntwitter (d) things / objects that you see\nin groups or pairs and answer these questions.\nWhy was the little bird singing outside the window of the Giant’s\nWhat happened to the garden when the spring came at last?\nWhy did one comer of the garden still have winter? What happened there?\nLesson11: The Selfish Giant (4)\nKeywords : frightened, stretch out, knock down, fling",
+  "aiReadyText": "Unit Six : Leisure 69\nMatch the words with their meanings.\nWords Meanings\nawake (a) sweet smell\nperfume (b) sing in a delightful voice\nsight (c) not sleeping\ntwitter (d) things / objects that you see\nin groups or pairs and answer these questions.\nWhy was the little bird singing outside the window of the Giant’s\nWhat happened to the garden when the spring came at last?\nWhy did one comer of the garden still have winter? What happened there?\nLesson11: The Selfish Giant (4)\nKeywords : frightened, stretch out, knock down, fling"
+}

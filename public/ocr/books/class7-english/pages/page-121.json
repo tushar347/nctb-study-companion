@@ -1,0 +1,956 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 121,
+  "image": "/ocr/books/class7-english/page-images/page-121.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "116 ENGLISH FOR TODAY",
+      "cleanText": "116 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 210,
+        "y": 275,
+        "width": 906,
+        "height": 21
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "12. Patriotism",
+      "cleanText": "Patriotism",
+      "bbox": {
+        "x": 214,
+        "y": 337,
+        "width": 554,
+        "height": 20
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-121-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Patriotism is the love and devotion for one’s country. It inspires individuals to work for",
+      "cleanText": "Patriotism is the love and devotion for one’s country. It inspires individuals to work for",
+      "bbox": {
+        "x": 211,
+        "y": 380,
+        "width": 903,
+        "height": 23
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "the betterment of their nation and uphold its values. A true patriot respects the country’s",
+      "cleanText": "the betterment of their nation and uphold its values. A true patriot respects the country’s",
+      "bbox": {
+        "x": 211,
+        "y": 413,
+        "width": 902,
+        "height": 23
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "history, culture, and traditions while striving to contribute to its progress. Patriotism is",
+      "cleanText": "history, culture, and traditions while striving to contribute to its progress. Patriotism is",
+      "bbox": {
+        "x": 211,
+        "y": 446,
+        "width": 902,
+        "height": 23
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "not just about celebrating national holidays or waving flags; it is about taking responsi-",
+      "cleanText": "not just about celebrating national holidays or waving flags; it is about taking responsi-",
+      "bbox": {
+        "x": 211,
+        "y": 475,
+        "width": 902,
+        "height": 32
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "bility for the nation’s welfare. Patriots are willing to make sacrifices for their country,",
+      "cleanText": "bility for the nation’s welfare. Patriots are willing to make sacrifices for their country,",
+      "bbox": {
+        "x": 210,
+        "y": 512,
+        "width": 902,
+        "height": 22
+      },
+      "confidence": 96.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "whether by serving in the military, participating in community service, or simply being",
+      "cleanText": "whether by serving in the military, participating in community service, or simply being",
+      "bbox": {
+        "x": 210,
+        "y": 545,
+        "width": 903,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "responsible citizens. Patriotism fosters unity and strengthens the bond among people,",
+      "cleanText": "responsible citizens. Patriotism fosters unity and strengthens the bond among people,",
+      "bbox": {
+        "x": 211,
+        "y": 578,
+        "width": 901,
+        "height": 22
+      },
+      "confidence": 95.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "regardless of their differences. It encourages us to protect our country’s sovereignty",
+      "cleanText": "regardless of their differences. It encourages us to protect our country’s sovereignty",
+      "bbox": {
+        "x": 202,
+        "y": 644,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "and work towards peace and prosperity. In times of crisis, patriots stand together to",
+      "cleanText": "and work towards peace and prosperity. In times of crisis, patriots stand together to",
+      "bbox": {
+        "x": 202,
+        "y": 679,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 95.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "overcome challenges. True patriotism is selfless and rooted in a genuine desire to see",
+      "cleanText": "overcome challenges. True patriotism is selfless and rooted in a genuine desire to see",
+      "bbox": {
+        "x": 202,
+        "y": 715,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 93.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "the nation thrive. It is a virtue that every citizen should cherish and practice.",
+      "cleanText": "the nation thrive. It is a virtue that every citizen should cherish and practice.",
+      "bbox": {
+        "x": 202,
+        "y": 750,
+        "width": 800,
+        "height": 24
+      },
+      "confidence": 95.79,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "13. Alpona: Hey Jamil, what’s your favourite sport?",
+      "cleanText": "Alpona: Hey Jamil, what’s your favourite sport?",
+      "bbox": {
+        "x": 205,
+        "y": 803,
+        "width": 569,
+        "height": 24
+      },
+      "confidence": 87.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Jamil: Hi Alpona! My favourite sport is cricket. I love everything aboutit",
+      "cleanText": "Jamil: Hi Alpona! My favourite sport is cricket. I love everything aboutit",
+      "bbox": {
+        "x": 270,
+        "y": 843,
+        "width": 782,
+        "height": 24
+      },
+      "confidence": 90.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "thrill of hitting a six, the excitement of taking a wicket, and the strategy",
+      "cleanText": "thrill of hitting a six, the excitement of taking a wicket, and the strategy",
+      "bbox": {
+        "x": 362,
+        "y": 871,
+        "width": 749,
+        "height": 32
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "involved in the game. What about you?",
+      "cleanText": "involved in the game. What about you?",
+      "bbox": {
+        "x": 363,
+        "y": 906,
+        "width": 413,
+        "height": 24
+      },
+      "confidence": 93.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Alpona: I’m a big fan of football. 1 love how it’s all about teamwork, speed, and",
+      "cleanText": "Alpona: I’m a big fan of football. 1 love how it’s all about teamwork, speed, and",
+      "bbox": {
+        "x": 271,
+        "y": 943,
+        "width": 840,
+        "height": 32
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "precision. There’s nothing like the feeling of scoring a goal",
+      "cleanText": "precision. There’s nothing like the feeling of scoring a goal",
+      "bbox": {
+        "x": 366,
+        "y": 979,
+        "width": 619,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Jamil: That’s awesome! Do you play football regularly?",
+      "cleanText": "Jamil: That’s awesome! Do you play football regularly?",
+      "bbox": {
+        "x": 270,
+        "y": 1019,
+        "width": 608,
+        "height": 24
+      },
+      "confidence": 84.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Alpona: Yes, I play with my friends every weekend. We have a small team, and",
+      "cleanText": "Alpona: Yes, I play with my friends every weekend. We have a small team, and",
+      "bbox": {
+        "x": 270,
+        "y": 1060,
+        "width": 841,
+        "height": 24
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "we even participate in local tournaments sometimes. It’s a great way to",
+      "cleanText": "we even participate in local tournaments sometimes. It’s a great way to",
+      "bbox": {
+        "x": 363,
+        "y": 1091,
+        "width": 748,
+        "height": 24
+      },
+      "confidence": 95.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "stay fit and have fun. What about you? Do you play cricket often?",
+      "cleanText": "stay fit and have fun. What about you? Do you play cricket often?",
+      "bbox": {
+        "x": 363,
+        "y": 1123,
+        "width": 694,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Jamil: Definitely! I play cricket with my cousins and friends whenever we get",
+      "cleanText": "Jamil: Definitely! I play cricket with my cousins and friends whenever we get",
+      "bbox": {
+        "x": 270,
+        "y": 1163,
+        "width": 841,
+        "height": 24
+      },
+      "confidence": 93.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "the chance. We even have a small ground near our house where we play",
+      "cleanText": "the chance. We even have a small ground near our house where we play",
+      "bbox": {
+        "x": 363,
+        "y": 1195,
+        "width": 748,
+        "height": 24
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "matches. It’s so much fun, especially when we have competitive games.",
+      "cleanText": "matches. It’s so much fun, especially when we have competitive games.",
+      "bbox": {
+        "x": 363,
+        "y": 1227,
+        "width": 755,
+        "height": 24
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Alpona: That sounds like a lot of fun! You know, we should organize a friendly",
+      "cleanText": "Alpona: That sounds like a lot of fun! You know, we should organize a friendly",
+      "bbox": {
+        "x": 271,
+        "y": 1263,
+        "width": 840,
+        "height": 33
+      },
+      "confidence": 95.53,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "match sometime—your cricket team against my football team. It would",
+      "cleanText": "match sometime—your cricket team against my football team. It would",
+      "bbox": {
+        "x": 363,
+        "y": 1299,
+        "width": 748,
+        "height": 24
+      },
+      "confidence": 94.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "be interesting to see how we do in cach other’s favourite sports.",
+      "cleanText": "be interesting to see how we do in cach other’s favourite sports.",
+      "bbox": {
+        "x": 363,
+        "y": 1331,
+        "width": 669,
+        "height": 24
+      },
+      "confidence": 95.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "Jamil: That's a fantastic idea! It would be a great way to learn something new",
+      "cleanText": "Jamil: That's a fantastic idea! It would be a great way to learn something new",
+      "bbox": {
+        "x": 270,
+        "y": 1371,
+        "width": 841,
+        "height": 24
+      },
+      "confidence": 93.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "and have fun together. Let’s plan it soon!",
+      "cleanText": "and have fun together. Let’s plan it soon!",
+      "bbox": {
+        "x": 363,
+        "y": 1403,
+        "width": 428,
+        "height": 24
+      },
+      "confidence": 95.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "Alpona: Absolutely! talk to my team, and we can set a date. It’s going to be",
+      "cleanText": "Alpona: Absolutely! talk to my team, and we can set a date. It’s going to be",
+      "bbox": {
+        "x": 271,
+        "y": 1443,
+        "width": 840,
+        "height": 24
+      },
+      "confidence": 95.19,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "so much fun!",
+      "cleanText": "so much fun!",
+      "bbox": {
+        "x": 363,
+        "y": 1475,
+        "width": 135,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-121-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "Jamil: I can’t wait! Let’s make it happen.",
+      "cleanText": "Jamil: I can’t wait! Let’s make it happen.",
+      "bbox": {
+        "x": 270,
+        "y": 1515,
+        "width": 451,
+        "height": 24
+      },
+      "confidence": 86.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-121-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "THE END",
+      "cleanText": "THE END",
+      "bbox": {
+        "x": 534,
+        "y": 1596,
+        "width": 116,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-121-line-035",
+      "lineNumber": 35
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-121-line-001",
+      "lineNumber": 1,
+      "text": "116 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 210,
+        "y": 275,
+        "width": 906,
+        "height": 21
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-003",
+      "lineNumber": 3,
+      "text": "Patriotism is the love and devotion for one’s country. It inspires individuals to work for",
+      "bbox": {
+        "x": 211,
+        "y": 380,
+        "width": 903,
+        "height": 23
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-004",
+      "lineNumber": 4,
+      "text": "the betterment of their nation and uphold its values. A true patriot respects the country’s",
+      "bbox": {
+        "x": 211,
+        "y": 413,
+        "width": 902,
+        "height": 23
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-005",
+      "lineNumber": 5,
+      "text": "history, culture, and traditions while striving to contribute to its progress. Patriotism is",
+      "bbox": {
+        "x": 211,
+        "y": 446,
+        "width": 902,
+        "height": 23
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-006",
+      "lineNumber": 6,
+      "text": "not just about celebrating national holidays or waving flags; it is about taking responsi-",
+      "bbox": {
+        "x": 211,
+        "y": 475,
+        "width": 902,
+        "height": 32
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-007",
+      "lineNumber": 7,
+      "text": "bility for the nation’s welfare. Patriots are willing to make sacrifices for their country,",
+      "bbox": {
+        "x": 210,
+        "y": 512,
+        "width": 902,
+        "height": 22
+      },
+      "confidence": 96.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-008",
+      "lineNumber": 8,
+      "text": "whether by serving in the military, participating in community service, or simply being",
+      "bbox": {
+        "x": 210,
+        "y": 545,
+        "width": 903,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-009",
+      "lineNumber": 9,
+      "text": "responsible citizens. Patriotism fosters unity and strengthens the bond among people,",
+      "bbox": {
+        "x": 211,
+        "y": 578,
+        "width": 901,
+        "height": 22
+      },
+      "confidence": 95.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-010",
+      "lineNumber": 10,
+      "text": "regardless of their differences. It encourages us to protect our country’s sovereignty",
+      "bbox": {
+        "x": 202,
+        "y": 644,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-011",
+      "lineNumber": 11,
+      "text": "and work towards peace and prosperity. In times of crisis, patriots stand together to",
+      "bbox": {
+        "x": 202,
+        "y": 679,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 95.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-012",
+      "lineNumber": 12,
+      "text": "overcome challenges. True patriotism is selfless and rooted in a genuine desire to see",
+      "bbox": {
+        "x": 202,
+        "y": 715,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 93.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-013",
+      "lineNumber": 13,
+      "text": "the nation thrive. It is a virtue that every citizen should cherish and practice.",
+      "bbox": {
+        "x": 202,
+        "y": 750,
+        "width": 800,
+        "height": 24
+      },
+      "confidence": 95.79,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-014",
+      "lineNumber": 14,
+      "text": "Alpona: Hey Jamil, what’s your favourite sport?",
+      "bbox": {
+        "x": 205,
+        "y": 803,
+        "width": 569,
+        "height": 24
+      },
+      "confidence": 87.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-015",
+      "lineNumber": 15,
+      "text": "Jamil: Hi Alpona! My favourite sport is cricket. I love everything aboutit",
+      "bbox": {
+        "x": 270,
+        "y": 843,
+        "width": 782,
+        "height": 24
+      },
+      "confidence": 90.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-016",
+      "lineNumber": 16,
+      "text": "thrill of hitting a six, the excitement of taking a wicket, and the strategy",
+      "bbox": {
+        "x": 362,
+        "y": 871,
+        "width": 749,
+        "height": 32
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-017",
+      "lineNumber": 17,
+      "text": "involved in the game. What about you?",
+      "bbox": {
+        "x": 363,
+        "y": 906,
+        "width": 413,
+        "height": 24
+      },
+      "confidence": 93.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-018",
+      "lineNumber": 18,
+      "text": "Alpona: I’m a big fan of football. 1 love how it’s all about teamwork, speed, and",
+      "bbox": {
+        "x": 271,
+        "y": 943,
+        "width": 840,
+        "height": 32
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-019",
+      "lineNumber": 19,
+      "text": "precision. There’s nothing like the feeling of scoring a goal",
+      "bbox": {
+        "x": 366,
+        "y": 979,
+        "width": 619,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-020",
+      "lineNumber": 20,
+      "text": "Jamil: That’s awesome! Do you play football regularly?",
+      "bbox": {
+        "x": 270,
+        "y": 1019,
+        "width": 608,
+        "height": 24
+      },
+      "confidence": 84.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-021",
+      "lineNumber": 21,
+      "text": "Alpona: Yes, I play with my friends every weekend. We have a small team, and",
+      "bbox": {
+        "x": 270,
+        "y": 1060,
+        "width": 841,
+        "height": 24
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-022",
+      "lineNumber": 22,
+      "text": "we even participate in local tournaments sometimes. It’s a great way to",
+      "bbox": {
+        "x": 363,
+        "y": 1091,
+        "width": 748,
+        "height": 24
+      },
+      "confidence": 95.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-023",
+      "lineNumber": 23,
+      "text": "stay fit and have fun. What about you? Do you play cricket often?",
+      "bbox": {
+        "x": 363,
+        "y": 1123,
+        "width": 694,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-024",
+      "lineNumber": 24,
+      "text": "Jamil: Definitely! I play cricket with my cousins and friends whenever we get",
+      "bbox": {
+        "x": 270,
+        "y": 1163,
+        "width": 841,
+        "height": 24
+      },
+      "confidence": 93.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-025",
+      "lineNumber": 25,
+      "text": "the chance. We even have a small ground near our house where we play",
+      "bbox": {
+        "x": 363,
+        "y": 1195,
+        "width": 748,
+        "height": 24
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-026",
+      "lineNumber": 26,
+      "text": "matches. It’s so much fun, especially when we have competitive games.",
+      "bbox": {
+        "x": 363,
+        "y": 1227,
+        "width": 755,
+        "height": 24
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-027",
+      "lineNumber": 27,
+      "text": "Alpona: That sounds like a lot of fun! You know, we should organize a friendly",
+      "bbox": {
+        "x": 271,
+        "y": 1263,
+        "width": 840,
+        "height": 33
+      },
+      "confidence": 95.53,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-028",
+      "lineNumber": 28,
+      "text": "match sometime—your cricket team against my football team. It would",
+      "bbox": {
+        "x": 363,
+        "y": 1299,
+        "width": 748,
+        "height": 24
+      },
+      "confidence": 94.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-029",
+      "lineNumber": 29,
+      "text": "be interesting to see how we do in cach other’s favourite sports.",
+      "bbox": {
+        "x": 363,
+        "y": 1331,
+        "width": 669,
+        "height": 24
+      },
+      "confidence": 95.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-030",
+      "lineNumber": 30,
+      "text": "Jamil: That's a fantastic idea! It would be a great way to learn something new",
+      "bbox": {
+        "x": 270,
+        "y": 1371,
+        "width": 841,
+        "height": 24
+      },
+      "confidence": 93.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-031",
+      "lineNumber": 31,
+      "text": "and have fun together. Let’s plan it soon!",
+      "bbox": {
+        "x": 363,
+        "y": 1403,
+        "width": 428,
+        "height": 24
+      },
+      "confidence": 95.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-032",
+      "lineNumber": 32,
+      "text": "Alpona: Absolutely! talk to my team, and we can set a date. It’s going to be",
+      "bbox": {
+        "x": 271,
+        "y": 1443,
+        "width": 840,
+        "height": 24
+      },
+      "confidence": 95.19,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-121-line-034",
+      "lineNumber": 34,
+      "text": "Jamil: I can’t wait! Let’s make it happen.",
+      "bbox": {
+        "x": 270,
+        "y": 1515,
+        "width": 451,
+        "height": 24
+      },
+      "confidence": 86.5,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "116 ENGLISH FOR TODAY\n12. Patriotism\nPatriotism is the love and devotion for one’s country. It inspires individuals to work for\nthe betterment of their nation and uphold its values. A true patriot respects the country’s\nhistory, culture, and traditions while striving to contribute to its progress. Patriotism is\nnot just about celebrating national holidays or waving flags; it is about taking responsi-\nbility for the nation’s welfare. Patriots are willing to make sacrifices for their country,\nwhether by serving in the military, participating in community service, or simply being\nresponsible citizens. Patriotism fosters unity and strengthens the bond among people,\nregardless of their differences. It encourages us to protect our country’s sovereignty\nand work towards peace and prosperity. In times of crisis, patriots stand together to\novercome challenges. True patriotism is selfless and rooted in a genuine desire to see\nthe nation thrive. It is a virtue that every citizen should cherish and practice.\n13. Alpona: Hey Jamil, what’s your favourite sport?\nJamil: Hi Alpona! My favourite sport is cricket. I love everything aboutit\nthrill of hitting a six, the excitement of taking a wicket, and the strategy\ninvolved in the game. What about you?\nAlpona: I’m a big fan of football. 1 love how it’s all about teamwork, speed, and\nprecision. There’s nothing like the feeling of scoring a goal\nJamil: That’s awesome! Do you play football regularly?\nAlpona: Yes, I play with my friends every weekend. We have a small team, and\nwe even participate in local tournaments sometimes. It’s a great way to\nstay fit and have fun. What about you? Do you play cricket often?\nJamil: Definitely! I play cricket with my cousins and friends whenever we get\nthe chance. We even have a small ground near our house where we play\nmatches. It’s so much fun, especially when we have competitive games.\nAlpona: That sounds like a lot of fun! You know, we should organize a friendly\nmatch sometime—your cricket team against my football team. It would\nbe interesting to see how we do in cach other’s favourite sports.\nJamil: That's a fantastic idea! It would be a great way to learn something new\nand have fun together. Let’s plan it soon!\nAlpona: Absolutely! talk to my team, and we can set a date. It’s going to be\nso much fun!\nJamil: I can’t wait! Let’s make it happen.\nTHE END",
+  "cleanText": "116 ENGLISH FOR TODAY\nPatriotism\nPatriotism is the love and devotion for one’s country. It inspires individuals to work for\nthe betterment of their nation and uphold its values. A true patriot respects the country’s\nhistory, culture, and traditions while striving to contribute to its progress. Patriotism is\nnot just about celebrating national holidays or waving flags; it is about taking responsi-\nbility for the nation’s welfare. Patriots are willing to make sacrifices for their country,\nwhether by serving in the military, participating in community service, or simply being\nresponsible citizens. Patriotism fosters unity and strengthens the bond among people,\nregardless of their differences. It encourages us to protect our country’s sovereignty\nand work towards peace and prosperity. In times of crisis, patriots stand together to\novercome challenges. True patriotism is selfless and rooted in a genuine desire to see\nthe nation thrive. It is a virtue that every citizen should cherish and practice.\nAlpona: Hey Jamil, what’s your favourite sport?\nJamil: Hi Alpona! My favourite sport is cricket. I love everything aboutit\nthrill of hitting a six, the excitement of taking a wicket, and the strategy\ninvolved in the game. What about you?\nAlpona: I’m a big fan of football. 1 love how it’s all about teamwork, speed, and\nprecision. There’s nothing like the feeling of scoring a goal\nJamil: That’s awesome! Do you play football regularly?\nAlpona: Yes, I play with my friends every weekend. We have a small team, and\nwe even participate in local tournaments sometimes. It’s a great way to\nstay fit and have fun. What about you? Do you play cricket often?\nJamil: Definitely! I play cricket with my cousins and friends whenever we get\nthe chance. We even have a small ground near our house where we play\nmatches. It’s so much fun, especially when we have competitive games.\nAlpona: That sounds like a lot of fun! You know, we should organize a friendly\nmatch sometime—your cricket team against my football team. It would\nbe interesting to see how we do in cach other’s favourite sports.\nJamil: That's a fantastic idea! It would be a great way to learn something new\nand have fun together. Let’s plan it soon!\nAlpona: Absolutely! talk to my team, and we can set a date. It’s going to be\nso much fun!\nJamil: I can’t wait! Let’s make it happen.\nTHE END",
+  "aiReadyText": "116 ENGLISH FOR TODAY\nPatriotism is the love and devotion for one’s country. It inspires individuals to work for\nthe betterment of their nation and uphold its values. A true patriot respects the country’s\nhistory, culture, and traditions while striving to contribute to its progress. Patriotism is\nnot just about celebrating national holidays or waving flags; it is about taking responsi-\nbility for the nation’s welfare. Patriots are willing to make sacrifices for their country,\nwhether by serving in the military, participating in community service, or simply being\nresponsible citizens. Patriotism fosters unity and strengthens the bond among people,\nregardless of their differences. It encourages us to protect our country’s sovereignty\nand work towards peace and prosperity. In times of crisis, patriots stand together to\novercome challenges. True patriotism is selfless and rooted in a genuine desire to see\nthe nation thrive. It is a virtue that every citizen should cherish and practice.\nAlpona: Hey Jamil, what’s your favourite sport?\nJamil: Hi Alpona! My favourite sport is cricket. I love everything aboutit\nthrill of hitting a six, the excitement of taking a wicket, and the strategy\ninvolved in the game. What about you?\nAlpona: I’m a big fan of football. 1 love how it’s all about teamwork, speed, and\nprecision. There’s nothing like the feeling of scoring a goal\nJamil: That’s awesome! Do you play football regularly?\nAlpona: Yes, I play with my friends every weekend. We have a small team, and\nwe even participate in local tournaments sometimes. It’s a great way to\nstay fit and have fun. What about you? Do you play cricket often?\nJamil: Definitely! I play cricket with my cousins and friends whenever we get\nthe chance. We even have a small ground near our house where we play\nmatches. It’s so much fun, especially when we have competitive games.\nAlpona: That sounds like a lot of fun! You know, we should organize a friendly\nmatch sometime—your cricket team against my football team. It would\nbe interesting to see how we do in cach other’s favourite sports.\nJamil: That's a fantastic idea! It would be a great way to learn something new\nand have fun together. Let’s plan it soon!\nAlpona: Absolutely! talk to my team, and we can set a date. It’s going to be\nJamil: I can’t wait! Let’s make it happen."
+}

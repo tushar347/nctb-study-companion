@@ -1,0 +1,312 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 48,
+  "image": "/ocr/books/class7-english/page-images/page-048.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Four : People Who Make a Difference 43",
+      "cleanText": "Unit Four : People Who Make a Difference 43",
+      "bbox": {
+        "x": 197,
+        "y": 228,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 91.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "I’m coming to see your Morality Shop with a friend of mine next weekend. See",
+      "cleanText": "I’m coming to see your Morality Shop with a friend of mine next weekend. See",
+      "bbox": {
+        "x": 200,
+        "y": 291,
+        "width": 908,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "you then. Give my regards to Aunt and Uncle.",
+      "cleanText": "you then. Give my regards to Aunt and Uncle.",
+      "bbox": {
+        "x": 200,
+        "y": 323,
+        "width": 504,
+        "height": 25
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "All the best.",
+      "cleanText": "All the best.",
+      "bbox": {
+        "x": 202,
+        "y": 373,
+        "width": 131,
+        "height": 19
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-048-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "B.- Imagine you are Hridoy. Write a reply to Riah’s letter.",
+      "cleanText": "B.- Imagine you are Hridoy. Write a reply to Riah’s letter.",
+      "bbox": {
+        "x": 202,
+        "y": 472,
+        "width": 719,
+        "height": 24
+      },
+      "confidence": 91.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Lesson 10: A Friend of the Poor",
+      "cleanText": "Lesson 10: A Friend of the Poor",
+      "bbox": {
+        "x": 199,
+        "y": 532,
+        "width": 412,
+        "height": 22
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "A- you ever visited any hospital or healthcare centre? If yes, fill",
+      "cleanText": "A- you ever visited any hospital or healthcare centre? If yes, fill",
+      "bbox": {
+        "x": 199,
+        "y": 611,
+        "width": 907,
+        "height": 24
+      },
+      "confidence": 94.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "in the circles for a healthcare centre. One is done for you.",
+      "cleanText": "in the circles for a healthcare centre. One is done for you.",
+      "bbox": {
+        "x": 277,
+        "y": 642,
+        "width": 677,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "treatment",
+      "cleanText": "treatment",
+      "bbox": {
+        "x": 612,
+        "y": 732,
+        "width": 99,
+        "height": 15
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-048-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Healthcare",
+      "cleanText": "Healthcare",
+      "bbox": {
+        "x": 612,
+        "y": 969,
+        "width": 122,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-048-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "B.- Listen to the teacher /audio and answer the following questions",
+      "cleanText": "B.- Listen to the teacher /audio and answer the following questions",
+      "bbox": {
+        "x": 199,
+        "y": 1357,
+        "width": 814,
+        "height": 24
+      },
+      "confidence": 92.09,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Listening text: 5",
+      "cleanText": "Listening text: 5",
+      "bbox": {
+        "x": 295,
+        "y": 1432,
+        "width": 227,
+        "height": 30
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-048-line-012",
+      "lineNumber": 12
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-048-line-001",
+      "lineNumber": 1,
+      "text": "Unit Four : People Who Make a Difference 43",
+      "bbox": {
+        "x": 197,
+        "y": 228,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 91.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-002",
+      "lineNumber": 2,
+      "text": "I’m coming to see your Morality Shop with a friend of mine next weekend. See",
+      "bbox": {
+        "x": 200,
+        "y": 291,
+        "width": 908,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-003",
+      "lineNumber": 3,
+      "text": "you then. Give my regards to Aunt and Uncle.",
+      "bbox": {
+        "x": 200,
+        "y": 323,
+        "width": 504,
+        "height": 25
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-005",
+      "lineNumber": 5,
+      "text": "B.- Imagine you are Hridoy. Write a reply to Riah’s letter.",
+      "bbox": {
+        "x": 202,
+        "y": 472,
+        "width": 719,
+        "height": 24
+      },
+      "confidence": 91.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-006",
+      "lineNumber": 6,
+      "text": "Lesson 10: A Friend of the Poor",
+      "bbox": {
+        "x": 199,
+        "y": 532,
+        "width": 412,
+        "height": 22
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-007",
+      "lineNumber": 7,
+      "text": "A- you ever visited any hospital or healthcare centre? If yes, fill",
+      "bbox": {
+        "x": 199,
+        "y": 611,
+        "width": 907,
+        "height": 24
+      },
+      "confidence": 94.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-008",
+      "lineNumber": 8,
+      "text": "in the circles for a healthcare centre. One is done for you.",
+      "bbox": {
+        "x": 277,
+        "y": 642,
+        "width": 677,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-011",
+      "lineNumber": 11,
+      "text": "B.- Listen to the teacher /audio and answer the following questions",
+      "bbox": {
+        "x": 199,
+        "y": 1357,
+        "width": 814,
+        "height": 24
+      },
+      "confidence": 92.09,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-048-line-012",
+      "lineNumber": 12,
+      "text": "Listening text: 5",
+      "bbox": {
+        "x": 295,
+        "y": 1432,
+        "width": 227,
+        "height": 30
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Four : People Who Make a Difference 43\nI’m coming to see your Morality Shop with a friend of mine next weekend. See\nyou then. Give my regards to Aunt and Uncle.\nAll the best.\nB.- Imagine you are Hridoy. Write a reply to Riah’s letter.\nLesson 10: A Friend of the Poor\nA- you ever visited any hospital or healthcare centre? If yes, fill\nin the circles for a healthcare centre. One is done for you.\ntreatment\nHealthcare\nB.- Listen to the teacher /audio and answer the following questions\nListening text: 5",
+  "cleanText": "Unit Four : People Who Make a Difference 43\nI’m coming to see your Morality Shop with a friend of mine next weekend. See\nyou then. Give my regards to Aunt and Uncle.\nAll the best.\nB.- Imagine you are Hridoy. Write a reply to Riah’s letter.\nLesson 10: A Friend of the Poor\nA- you ever visited any hospital or healthcare centre? If yes, fill\nin the circles for a healthcare centre. One is done for you.\ntreatment\nHealthcare\nB.- Listen to the teacher /audio and answer the following questions\nListening text: 5",
+  "aiReadyText": "Unit Four : People Who Make a Difference 43\nI’m coming to see your Morality Shop with a friend of mine next weekend. See\nyou then. Give my regards to Aunt and Uncle.\nB.- Imagine you are Hridoy. Write a reply to Riah’s letter.\nLesson 10: A Friend of the Poor\nA- you ever visited any hospital or healthcare centre? If yes, fill\nin the circles for a healthcare centre. One is done for you.\nB.- Listen to the teacher /audio and answer the following questions\nListening text: 5"
+}

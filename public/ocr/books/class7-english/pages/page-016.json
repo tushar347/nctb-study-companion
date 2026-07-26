@@ -1,0 +1,465 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 16,
+  "image": "/ocr/books/class7-english/page-images/page-016.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit 2 : My Study Guide 11",
+      "cleanText": "Unit 2 : My Study Guide 11",
+      "bbox": {
+        "x": 191,
+        "y": 253,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 88.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 1: Find Your Word",
+      "cleanText": "Lesson 1: Find Your Word",
+      "bbox": {
+        "x": 192,
+        "y": 316,
+        "width": 336,
+        "height": 35
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "A. Read the dialogue.",
+      "cleanText": "Read the dialogue.",
+      "bbox": {
+        "x": 192,
+        "y": 406,
+        "width": 294,
+        "height": 25
+      },
+      "confidence": 80.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": ": Students, do you have a dictionary?",
+      "cleanText": ": Students, do you have a dictionary?",
+      "bbox": {
+        "x": 421,
+        "y": 494,
+        "width": 403,
+        "height": 25
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": ": Yes miss. I have one.",
+      "cleanText": ": Yes miss. I have one.",
+      "bbox": {
+        "x": 421,
+        "y": 549,
+        "width": 252,
+        "height": 19
+      },
+      "confidence": 93.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": ": [have one, too.",
+      "cleanText": ": [have one, too.",
+      "bbox": {
+        "x": 421,
+        "y": 604,
+        "width": 181,
+        "height": 22
+      },
+      "confidence": 93.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": ": Do you know how to look up a word in a dictionary?",
+      "cleanText": ": Do you know how to look up a word in a dictionary?",
+      "bbox": {
+        "x": 421,
+        "y": 659,
+        "width": 594,
+        "height": 25
+      },
+      "confidence": 94.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": ": Not really. It often takes a long time to find the meaning of a",
+      "cleanText": ": Not really. It often takes a long time to find the meaning of a",
+      "bbox": {
+        "x": 421,
+        "y": 710,
+        "width": 684,
+        "height": 32
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "word ina dictionary.",
+      "cleanText": "word ina dictionary.",
+      "bbox": {
+        "x": 436,
+        "y": 762,
+        "width": 231,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": ": How about you, Ananda?",
+      "cleanText": ": How about you, Ananda?",
+      "bbox": {
+        "x": 421,
+        "y": 817,
+        "width": 292,
+        "height": 25
+      },
+      "confidence": 94.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": ": Same with me. I often get confused. So many words, so many",
+      "cleanText": ": Same with me. I often get confused. So many words, so many",
+      "bbox": {
+        "x": 421,
+        "y": 872,
+        "width": 682,
+        "height": 25
+      },
+      "confidence": 92.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "signs, ooh!",
+      "cleanText": "signs, ooh!",
+      "bbox": {
+        "x": 434,
+        "y": 927,
+        "width": 116,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-016-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "because you haven’t lcarned how to look up a word",
+      "cleanText": "because you haven’t lcarned how to look up a word",
+      "bbox": {
+        "x": 483,
+        "y": 982,
+        "width": 618,
+        "height": 25
+      },
+      "confidence": 89.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "quickly in a dictionary.",
+      "cleanText": "quickly in a dictionary.",
+      "bbox": {
+        "x": 434,
+        "y": 1029,
+        "width": 255,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": ": How can we do it, teacher?",
+      "cleanText": ": How can we do it, teacher?",
+      "bbox": {
+        "x": 414,
+        "y": 1085,
+        "width": 310,
+        "height": 23
+      },
+      "confidence": 94.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Rupa, Ananda",
+      "cleanText": "Rupa, Ananda",
+      "bbox": {
+        "x": 194,
+        "y": 1086,
+        "width": 155,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-016-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": ": Ok, let’s start with a page from a dictionary.",
+      "cleanText": ": Ok, let’s start with a page from a dictionary.",
+      "bbox": {
+        "x": 413,
+        "y": 1136,
+        "width": 497,
+        "height": 33
+      },
+      "confidence": 94.7,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-016-line-017",
+      "lineNumber": 17
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-016-line-001",
+      "lineNumber": 1,
+      "text": "Unit 2 : My Study Guide 11",
+      "bbox": {
+        "x": 191,
+        "y": 253,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 88.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 1: Find Your Word",
+      "bbox": {
+        "x": 192,
+        "y": 316,
+        "width": 336,
+        "height": 35
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-003",
+      "lineNumber": 3,
+      "text": "Read the dialogue.",
+      "bbox": {
+        "x": 192,
+        "y": 406,
+        "width": 294,
+        "height": 25
+      },
+      "confidence": 80.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-004",
+      "lineNumber": 4,
+      "text": ": Students, do you have a dictionary?",
+      "bbox": {
+        "x": 421,
+        "y": 494,
+        "width": 403,
+        "height": 25
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-005",
+      "lineNumber": 5,
+      "text": ": Yes miss. I have one.",
+      "bbox": {
+        "x": 421,
+        "y": 549,
+        "width": 252,
+        "height": 19
+      },
+      "confidence": 93.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-006",
+      "lineNumber": 6,
+      "text": ": [have one, too.",
+      "bbox": {
+        "x": 421,
+        "y": 604,
+        "width": 181,
+        "height": 22
+      },
+      "confidence": 93.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-007",
+      "lineNumber": 7,
+      "text": ": Do you know how to look up a word in a dictionary?",
+      "bbox": {
+        "x": 421,
+        "y": 659,
+        "width": 594,
+        "height": 25
+      },
+      "confidence": 94.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-008",
+      "lineNumber": 8,
+      "text": ": Not really. It often takes a long time to find the meaning of a",
+      "bbox": {
+        "x": 421,
+        "y": 710,
+        "width": 684,
+        "height": 32
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-009",
+      "lineNumber": 9,
+      "text": "word ina dictionary.",
+      "bbox": {
+        "x": 436,
+        "y": 762,
+        "width": 231,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-010",
+      "lineNumber": 10,
+      "text": ": How about you, Ananda?",
+      "bbox": {
+        "x": 421,
+        "y": 817,
+        "width": 292,
+        "height": 25
+      },
+      "confidence": 94.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-011",
+      "lineNumber": 11,
+      "text": ": Same with me. I often get confused. So many words, so many",
+      "bbox": {
+        "x": 421,
+        "y": 872,
+        "width": 682,
+        "height": 25
+      },
+      "confidence": 92.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-013",
+      "lineNumber": 13,
+      "text": "because you haven’t lcarned how to look up a word",
+      "bbox": {
+        "x": 483,
+        "y": 982,
+        "width": 618,
+        "height": 25
+      },
+      "confidence": 89.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-014",
+      "lineNumber": 14,
+      "text": "quickly in a dictionary.",
+      "bbox": {
+        "x": 434,
+        "y": 1029,
+        "width": 255,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-015",
+      "lineNumber": 15,
+      "text": ": How can we do it, teacher?",
+      "bbox": {
+        "x": 414,
+        "y": 1085,
+        "width": 310,
+        "height": 23
+      },
+      "confidence": 94.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-016-line-017",
+      "lineNumber": 17,
+      "text": ": Ok, let’s start with a page from a dictionary.",
+      "bbox": {
+        "x": 413,
+        "y": 1136,
+        "width": 497,
+        "height": 33
+      },
+      "confidence": 94.7,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit 2 : My Study Guide 11\nLesson 1: Find Your Word\nA. Read the dialogue.\n: Students, do you have a dictionary?\n: Yes miss. I have one.\n: [have one, too.\n: Do you know how to look up a word in a dictionary?\n: Not really. It often takes a long time to find the meaning of a\nword ina dictionary.\n: How about you, Ananda?\n: Same with me. I often get confused. So many words, so many\nsigns, ooh!\nbecause you haven’t lcarned how to look up a word\nquickly in a dictionary.\n: How can we do it, teacher?\nRupa, Ananda\n: Ok, let’s start with a page from a dictionary.",
+  "cleanText": "Unit 2 : My Study Guide 11\nLesson 1: Find Your Word\nRead the dialogue.\n: Students, do you have a dictionary?\n: Yes miss. I have one.\n: [have one, too.\n: Do you know how to look up a word in a dictionary?\n: Not really. It often takes a long time to find the meaning of a\nword ina dictionary.\n: How about you, Ananda?\n: Same with me. I often get confused. So many words, so many\nsigns, ooh!\nbecause you haven’t lcarned how to look up a word\nquickly in a dictionary.\n: How can we do it, teacher?\nRupa, Ananda\n: Ok, let’s start with a page from a dictionary.",
+  "aiReadyText": "Unit 2 : My Study Guide 11\nLesson 1: Find Your Word\nRead the dialogue.\n: Students, do you have a dictionary?\n: Yes miss. I have one.\n: [have one, too.\n: Do you know how to look up a word in a dictionary?\n: Not really. It often takes a long time to find the meaning of a\nword ina dictionary.\n: How about you, Ananda?\n: Same with me. I often get confused. So many words, so many\nbecause you haven’t lcarned how to look up a word\nquickly in a dictionary.\n: How can we do it, teacher?\n: Ok, let’s start with a page from a dictionary."
+}

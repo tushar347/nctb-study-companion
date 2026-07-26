@@ -1,0 +1,669 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 105,
+  "image": "/ocr/books/class7-english/page-images/page-105.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Anwar lam going to give you a booklet now. Please read",
+      "cleanText": "Anwar lam going to give you a booklet now. Please read",
+      "bbox": {
+        "x": 276,
+        "y": 317,
+        "width": 828,
+        "height": 34
+      },
+      "confidence": 93.09,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "it and you’ll know more about climate change.",
+      "cleanText": "it and you’ll know more about climate change.",
+      "bbox": {
+        "x": 461,
+        "y": 361,
+        "width": 512,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Samina & Arif :Thank you, Uncle. We will certainly read it.",
+      "cleanText": "Samina & Arif :Thank you, Uncle. We will certainly read it.",
+      "bbox": {
+        "x": 276,
+        "y": 405,
+        "width": 659,
+        "height": 24
+      },
+      "confidence": 93.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Choose the right answer.",
+      "cleanText": "Choose the right answer.",
+      "bbox": {
+        "x": 279,
+        "y": 454,
+        "width": 289,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "1 Which one of these is an example of climate change?",
+      "cleanText": "1 Which one of these is an example of climate change?",
+      "bbox": {
+        "x": 274,
+        "y": 501,
+        "width": 633,
+        "height": 24
+      },
+      "confidence": 92.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "a. along day",
+      "cleanText": "along day",
+      "bbox": {
+        "x": 351,
+        "y": 542,
+        "width": 160,
+        "height": 25
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-105-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "b. day",
+      "cleanText": "day",
+      "bbox": {
+        "x": 352,
+        "y": 584,
+        "width": 180,
+        "height": 24
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-105-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "c. a hot summer day",
+      "cleanText": "a hot summer day",
+      "bbox": {
+        "x": 351,
+        "y": 625,
+        "width": 248,
+        "height": 25
+      },
+      "confidence": 92.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "d. asunny day",
+      "cleanText": "asunny day",
+      "bbox": {
+        "x": 351,
+        "y": 667,
+        "width": 178,
+        "height": 25
+      },
+      "confidence": 68.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-105-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "2 What does ‘climbing’ mean in the statement “temperatures are",
+      "cleanText": "2 What does ‘climbing’ mean in the statement “temperatures are",
+      "bbox": {
+        "x": 274,
+        "y": 718,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "climbing”?",
+      "cleanText": "climbing”?",
+      "bbox": {
+        "x": 300,
+        "y": 756,
+        "width": 127,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-105-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "a. shifting",
+      "cleanText": "shifting",
+      "bbox": {
+        "x": 351,
+        "y": 806,
+        "width": 129,
+        "height": 24
+      },
+      "confidence": 77.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-105-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "b. up",
+      "cleanText": "up",
+      "bbox": {
+        "x": 351,
+        "y": 847,
+        "width": 143,
+        "height": 25
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-105-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "being in crisis",
+      "cleanText": "being in crisis",
+      "bbox": {
+        "x": 397,
+        "y": 889,
+        "width": 153,
+        "height": 25
+      },
+      "confidence": 89.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "d. surviving",
+      "cleanText": "surviving",
+      "bbox": {
+        "x": 351,
+        "y": 931,
+        "width": 151,
+        "height": 25
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-105-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "3. If things go on like this... In this sentence ‘go on’ means",
+      "cleanText": "If things go on like this... In this sentence ‘go on’ means",
+      "bbox": {
+        "x": 267,
+        "y": 979,
+        "width": 688,
+        "height": 25
+      },
+      "confidence": 95.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "a. to go places",
+      "cleanText": "to go places",
+      "bbox": {
+        "x": 351,
+        "y": 1026,
+        "width": 176,
+        "height": 25
+      },
+      "confidence": 91.75,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-105-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "b. to change times",
+      "cleanText": "to change times",
+      "bbox": {
+        "x": 352,
+        "y": 1068,
+        "width": 218,
+        "height": 24
+      },
+      "confidence": 89.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "c. to walk fast",
+      "cleanText": "to walk fast",
+      "bbox": {
+        "x": 351,
+        "y": 1109,
+        "width": 173,
+        "height": 20
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-105-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "d. to",
+      "cleanText": "to",
+      "bbox": {
+        "x": 351,
+        "y": 1151,
+        "width": 68,
+        "height": 19
+      },
+      "confidence": 67.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-105-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "4. How did Samina and Arif react to what Anwar said about climate",
+      "cleanText": "How did Samina and Arif react to what Anwar said about climate",
+      "bbox": {
+        "x": 266,
+        "y": 1199,
+        "width": 836,
+        "height": 19
+      },
+      "confidence": 95.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "a. They showed no interest.",
+      "cleanText": "They showed no interest.",
+      "bbox": {
+        "x": 365,
+        "y": 1283,
+        "width": 327,
+        "height": 25
+      },
+      "confidence": 86.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "b. They became afraid of going out alone.",
+      "cleanText": "They became afraid of going out alone.",
+      "bbox": {
+        "x": 365,
+        "y": 1325,
+        "width": 478,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "They wanted to know more about climate change.",
+      "cleanText": "They wanted to know more about climate change.",
+      "bbox": {
+        "x": 419,
+        "y": 1367,
+        "width": 546,
+        "height": 24
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "They agreed to attend a lecture on climate change.",
+      "cleanText": "They agreed to attend a lecture on climate change.",
+      "bbox": {
+        "x": 413,
+        "y": 1408,
+        "width": 560,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Now look at the six pictures that Samina and Arif saw in the",
+      "cleanText": "Now look at the six pictures that Samina and Arif saw in the",
+      "bbox": {
+        "x": 284,
+        "y": 1497,
+        "width": 816,
+        "height": 24
+      },
+      "confidence": 94.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "booklet. All these pictures are about the dangers caused by climate",
+      "cleanText": "booklet. All these pictures are about the dangers caused by climate",
+      "bbox": {
+        "x": 283,
+        "y": 1530,
+        "width": 819,
+        "height": 24
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "change. Choose a caption given in the box to match each picture.",
+      "cleanText": "change. Choose a caption given in the box to match each picture.",
+      "bbox": {
+        "x": 283,
+        "y": 1561,
+        "width": 777,
+        "height": 26
+      },
+      "confidence": 93.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-105-line-028",
+      "lineNumber": 28
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-105-line-001",
+      "lineNumber": 1,
+      "text": "Anwar lam going to give you a booklet now. Please read",
+      "bbox": {
+        "x": 276,
+        "y": 317,
+        "width": 828,
+        "height": 34
+      },
+      "confidence": 93.09,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-002",
+      "lineNumber": 2,
+      "text": "it and you’ll know more about climate change.",
+      "bbox": {
+        "x": 461,
+        "y": 361,
+        "width": 512,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-003",
+      "lineNumber": 3,
+      "text": "Samina & Arif :Thank you, Uncle. We will certainly read it.",
+      "bbox": {
+        "x": 276,
+        "y": 405,
+        "width": 659,
+        "height": 24
+      },
+      "confidence": 93.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-004",
+      "lineNumber": 4,
+      "text": "Choose the right answer.",
+      "bbox": {
+        "x": 279,
+        "y": 454,
+        "width": 289,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-005",
+      "lineNumber": 5,
+      "text": "1 Which one of these is an example of climate change?",
+      "bbox": {
+        "x": 274,
+        "y": 501,
+        "width": 633,
+        "height": 24
+      },
+      "confidence": 92.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-008",
+      "lineNumber": 8,
+      "text": "a hot summer day",
+      "bbox": {
+        "x": 351,
+        "y": 625,
+        "width": 248,
+        "height": 25
+      },
+      "confidence": 92.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-010",
+      "lineNumber": 10,
+      "text": "2 What does ‘climbing’ mean in the statement “temperatures are",
+      "bbox": {
+        "x": 274,
+        "y": 718,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-014",
+      "lineNumber": 14,
+      "text": "being in crisis",
+      "bbox": {
+        "x": 397,
+        "y": 889,
+        "width": 153,
+        "height": 25
+      },
+      "confidence": 89.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-016",
+      "lineNumber": 16,
+      "text": "If things go on like this... In this sentence ‘go on’ means",
+      "bbox": {
+        "x": 267,
+        "y": 979,
+        "width": 688,
+        "height": 25
+      },
+      "confidence": 95.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-018",
+      "lineNumber": 18,
+      "text": "to change times",
+      "bbox": {
+        "x": 352,
+        "y": 1068,
+        "width": 218,
+        "height": 24
+      },
+      "confidence": 89.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-021",
+      "lineNumber": 21,
+      "text": "How did Samina and Arif react to what Anwar said about climate",
+      "bbox": {
+        "x": 266,
+        "y": 1199,
+        "width": 836,
+        "height": 19
+      },
+      "confidence": 95.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-022",
+      "lineNumber": 22,
+      "text": "They showed no interest.",
+      "bbox": {
+        "x": 365,
+        "y": 1283,
+        "width": 327,
+        "height": 25
+      },
+      "confidence": 86.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-023",
+      "lineNumber": 23,
+      "text": "They became afraid of going out alone.",
+      "bbox": {
+        "x": 365,
+        "y": 1325,
+        "width": 478,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-024",
+      "lineNumber": 24,
+      "text": "They wanted to know more about climate change.",
+      "bbox": {
+        "x": 419,
+        "y": 1367,
+        "width": 546,
+        "height": 24
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-025",
+      "lineNumber": 25,
+      "text": "They agreed to attend a lecture on climate change.",
+      "bbox": {
+        "x": 413,
+        "y": 1408,
+        "width": 560,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-026",
+      "lineNumber": 26,
+      "text": "Now look at the six pictures that Samina and Arif saw in the",
+      "bbox": {
+        "x": 284,
+        "y": 1497,
+        "width": 816,
+        "height": 24
+      },
+      "confidence": 94.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-027",
+      "lineNumber": 27,
+      "text": "booklet. All these pictures are about the dangers caused by climate",
+      "bbox": {
+        "x": 283,
+        "y": 1530,
+        "width": 819,
+        "height": 24
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-105-line-028",
+      "lineNumber": 28,
+      "text": "change. Choose a caption given in the box to match each picture.",
+      "bbox": {
+        "x": 283,
+        "y": 1561,
+        "width": 777,
+        "height": 26
+      },
+      "confidence": 93.83,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Anwar lam going to give you a booklet now. Please read\nit and you’ll know more about climate change.\nSamina & Arif :Thank you, Uncle. We will certainly read it.\nChoose the right answer.\n1 Which one of these is an example of climate change?\na. along day\nb. day\nc. a hot summer day\nd. asunny day\n2 What does ‘climbing’ mean in the statement “temperatures are\nclimbing”?\na. shifting\nb. up\nbeing in crisis\nd. surviving\n3. If things go on like this... In this sentence ‘go on’ means\na. to go places\nb. to change times\nc. to walk fast\nd. to\n4. How did Samina and Arif react to what Anwar said about climate\na. They showed no interest.\nb. They became afraid of going out alone.\nThey wanted to know more about climate change.\nThey agreed to attend a lecture on climate change.\nNow look at the six pictures that Samina and Arif saw in the\nbooklet. All these pictures are about the dangers caused by climate\nchange. Choose a caption given in the box to match each picture.",
+  "cleanText": "Anwar lam going to give you a booklet now. Please read\nit and you’ll know more about climate change.\nSamina & Arif :Thank you, Uncle. We will certainly read it.\nChoose the right answer.\n1 Which one of these is an example of climate change?\nalong day\nday\na hot summer day\nasunny day\n2 What does ‘climbing’ mean in the statement “temperatures are\nclimbing”?\nshifting\nup\nbeing in crisis\nsurviving\nIf things go on like this... In this sentence ‘go on’ means\nto go places\nto change times\nto walk fast\nto\nHow did Samina and Arif react to what Anwar said about climate\nThey showed no interest.\nThey became afraid of going out alone.\nThey wanted to know more about climate change.\nThey agreed to attend a lecture on climate change.\nNow look at the six pictures that Samina and Arif saw in the\nbooklet. All these pictures are about the dangers caused by climate\nchange. Choose a caption given in the box to match each picture.",
+  "aiReadyText": "Anwar lam going to give you a booklet now. Please read\nit and you’ll know more about climate change.\nSamina & Arif :Thank you, Uncle. We will certainly read it.\nChoose the right answer.\n1 Which one of these is an example of climate change?\na hot summer day\n2 What does ‘climbing’ mean in the statement “temperatures are\nbeing in crisis\nIf things go on like this... In this sentence ‘go on’ means\nto change times\nHow did Samina and Arif react to what Anwar said about climate\nThey showed no interest.\nThey became afraid of going out alone.\nThey wanted to know more about climate change.\nThey agreed to attend a lecture on climate change.\nNow look at the six pictures that Samina and Arif saw in the\nbooklet. All these pictures are about the dangers caused by climate\nchange. Choose a caption given in the box to match each picture."
+}

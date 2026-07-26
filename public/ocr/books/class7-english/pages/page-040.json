@@ -1,0 +1,816 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 40,
+  "image": "/ocr/books/class7-english/page-images/page-040.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Four : People Who Make a Difference 35",
+      "cleanText": "Unit Four : People Who Make a Difference 35",
+      "bbox": {
+        "x": 197,
+        "y": 256,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "“Mine to keep just for a little while,",
+      "cleanText": "“Mine to keep just for a little while,",
+      "bbox": {
+        "x": 275,
+        "y": 318,
+        "width": 410,
+        "height": 33
+      },
+      "confidence": 87.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "To teach him how to be gentle and kind,",
+      "cleanText": "To teach him how to be gentle and kind,",
+      "bbox": {
+        "x": 275,
+        "y": 359,
+        "width": 441,
+        "height": 25
+      },
+      "confidence": 96.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "To train and direct his dear little mind,",
+      "cleanText": "To train and direct his dear little mind,",
+      "bbox": {
+        "x": 275,
+        "y": 398,
+        "width": 422,
+        "height": 22
+      },
+      "confidence": 96.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "To help him live by every rule",
+      "cleanText": "To help him live by every rule",
+      "bbox": {
+        "x": 275,
+        "y": 435,
+        "width": 332,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "And get the best he can from school.”",
+      "cleanText": "And get the best he can from school.”",
+      "bbox": {
+        "x": 274,
+        "y": 473,
+        "width": 414,
+        "height": 24
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "“Whose child is this?” I ask once more,",
+      "cleanText": "“Whose child is this?” I ask once more,",
+      "bbox": {
+        "x": 275,
+        "y": 519,
+        "width": 432,
+        "height": 21
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Just as the little one entered the door.",
+      "cleanText": "Just as the little one entered the door.",
+      "bbox": {
+        "x": 274,
+        "y": 556,
+        "width": 406,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "said the parent and the teacher as they smiled,",
+      "cleanText": "said the parent and the teacher as they smiled,",
+      "bbox": {
+        "x": 367,
+        "y": 594,
+        "width": 501,
+        "height": 25
+      },
+      "confidence": 96.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "And cach took the hand of the little child.",
+      "cleanText": "And cach took the hand of the little child.",
+      "bbox": {
+        "x": 274,
+        "y": 631,
+        "width": 454,
+        "height": 19
+      },
+      "confidence": 95.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "“Qurs to love and train together",
+      "cleanText": "“Qurs to love and train together",
+      "bbox": {
+        "x": 275,
+        "y": 668,
+        "width": 347,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Ours this blessed task forever.” [Anonymous]",
+      "cleanText": "Ours this blessed task forever.” [Anonymous]",
+      "bbox": {
+        "x": 275,
+        "y": 706,
+        "width": 636,
+        "height": 25
+      },
+      "confidence": 85.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "tender = kind; gentle; loving",
+      "cleanText": "tender = kind; gentle; loving",
+      "bbox": {
+        "x": 370,
+        "y": 791,
+        "width": 335,
+        "height": 25
+      },
+      "confidence": 92.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "to bathe = to wash",
+      "cleanText": "to bathe = to wash",
+      "bbox": {
+        "x": 369,
+        "y": 822,
+        "width": 207,
+        "height": 20
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "to train= to teach",
+      "cleanText": "to train= to teach",
+      "bbox": {
+        "x": 369,
+        "y": 854,
+        "width": 207,
+        "height": 19
+      },
+      "confidence": 81.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "blessed = noble",
+      "cleanText": "blessed = noble",
+      "bbox": {
+        "x": 369,
+        "y": 886,
+        "width": 184,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "B. Read the poem silently and answer these questions:",
+      "cleanText": "Read the poem silently and answer these questions:",
+      "bbox": {
+        "x": 196,
+        "y": 931,
+        "width": 677,
+        "height": 24
+      },
+      "confidence": 92.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "1 Who asked the question, “Whose Child is This?” in the poem?",
+      "cleanText": "1 Who asked the question, “Whose Child is This?” in the poem?",
+      "bbox": {
+        "x": 278,
+        "y": 972,
+        "width": 712,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "2 How many times did he / she ask the question, “Whose child is this?”",
+      "cleanText": "2 How many times did he / she ask the question, “Whose child is this?”",
+      "bbox": {
+        "x": 274,
+        "y": 1005,
+        "width": 791,
+        "height": 25
+      },
+      "confidence": 91.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "3 Who answered the question in stanzas 1, 2, and 3?",
+      "cleanText": "3 Who answered the question in stanzas 1, 2, and 3?",
+      "bbox": {
+        "x": 275,
+        "y": 1038,
+        "width": 578,
+        "height": 25
+      },
+      "confidence": 91.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Cc. Read the poem silently again and list the things or activities both the",
+      "cleanText": "Read the poem silently again and list the things or activities both the",
+      "bbox": {
+        "x": 192,
+        "y": 1086,
+        "width": 911,
+        "height": 33
+      },
+      "confidence": 92.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "parent and the teacher do individually and together. One is done for",
+      "cleanText": "parent and the teacher do individually and together. One is done for",
+      "bbox": {
+        "x": 275,
+        "y": 1123,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "What the parent does What the teacher does What both the",
+      "cleanText": "What the parent does What the teacher does What both the",
+      "bbox": {
+        "x": 278,
+        "y": 1209,
+        "width": 759,
+        "height": 25
+      },
+      "confidence": 96.18,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "parent and the",
+      "cleanText": "parent and the",
+      "bbox": {
+        "x": 882,
+        "y": 1242,
+        "width": 155,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "teacher do",
+      "cleanText": "teacher do",
+      "bbox": {
+        "x": 883,
+        "y": 1275,
+        "width": 112,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-040-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "1. gives a bath 1. teaches him how to 1.",
+      "cleanText": "gives a bath 1. teaches him how to 1.",
+      "bbox": {
+        "x": 280,
+        "y": 1309,
+        "width": 621,
+        "height": 25
+      },
+      "confidence": 93.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "be kind",
+      "cleanText": "be kind",
+      "bbox": {
+        "x": 601,
+        "y": 1342,
+        "width": 80,
+        "height": 19
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-040-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "D. Discuss in groups and write an answer to this question:",
+      "cleanText": "Discuss in groups and write an answer to this question:",
+      "bbox": {
+        "x": 197,
+        "y": 1515,
+        "width": 721,
+        "height": 25
+      },
+      "confidence": 94.55,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-040-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "Why do both parent and teacher smile and answer the question, “Whose",
+      "cleanText": "Why do both parent and teacher smile and answer the question, “Whose",
+      "bbox": {
+        "x": 275,
+        "y": 1552,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "child is this?” by saying “Minc” and “Ours”?",
+      "cleanText": "child is this?” by saying “Minc” and “Ours”?",
+      "bbox": {
+        "x": 276,
+        "y": 1583,
+        "width": 500,
+        "height": 26
+      },
+      "confidence": 93.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-040-line-030",
+      "lineNumber": 30
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-040-line-001",
+      "lineNumber": 1,
+      "text": "Unit Four : People Who Make a Difference 35",
+      "bbox": {
+        "x": 197,
+        "y": 256,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-002",
+      "lineNumber": 2,
+      "text": "“Mine to keep just for a little while,",
+      "bbox": {
+        "x": 275,
+        "y": 318,
+        "width": 410,
+        "height": 33
+      },
+      "confidence": 87.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-003",
+      "lineNumber": 3,
+      "text": "To teach him how to be gentle and kind,",
+      "bbox": {
+        "x": 275,
+        "y": 359,
+        "width": 441,
+        "height": 25
+      },
+      "confidence": 96.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-004",
+      "lineNumber": 4,
+      "text": "To train and direct his dear little mind,",
+      "bbox": {
+        "x": 275,
+        "y": 398,
+        "width": 422,
+        "height": 22
+      },
+      "confidence": 96.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-005",
+      "lineNumber": 5,
+      "text": "To help him live by every rule",
+      "bbox": {
+        "x": 275,
+        "y": 435,
+        "width": 332,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-006",
+      "lineNumber": 6,
+      "text": "And get the best he can from school.”",
+      "bbox": {
+        "x": 274,
+        "y": 473,
+        "width": 414,
+        "height": 24
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-007",
+      "lineNumber": 7,
+      "text": "“Whose child is this?” I ask once more,",
+      "bbox": {
+        "x": 275,
+        "y": 519,
+        "width": 432,
+        "height": 21
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-008",
+      "lineNumber": 8,
+      "text": "Just as the little one entered the door.",
+      "bbox": {
+        "x": 274,
+        "y": 556,
+        "width": 406,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-009",
+      "lineNumber": 9,
+      "text": "said the parent and the teacher as they smiled,",
+      "bbox": {
+        "x": 367,
+        "y": 594,
+        "width": 501,
+        "height": 25
+      },
+      "confidence": 96.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-010",
+      "lineNumber": 10,
+      "text": "And cach took the hand of the little child.",
+      "bbox": {
+        "x": 274,
+        "y": 631,
+        "width": 454,
+        "height": 19
+      },
+      "confidence": 95.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-011",
+      "lineNumber": 11,
+      "text": "“Qurs to love and train together",
+      "bbox": {
+        "x": 275,
+        "y": 668,
+        "width": 347,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-012",
+      "lineNumber": 12,
+      "text": "Ours this blessed task forever.” [Anonymous]",
+      "bbox": {
+        "x": 275,
+        "y": 706,
+        "width": 636,
+        "height": 25
+      },
+      "confidence": 85.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-013",
+      "lineNumber": 13,
+      "text": "tender = kind; gentle; loving",
+      "bbox": {
+        "x": 370,
+        "y": 791,
+        "width": 335,
+        "height": 25
+      },
+      "confidence": 92.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-014",
+      "lineNumber": 14,
+      "text": "to bathe = to wash",
+      "bbox": {
+        "x": 369,
+        "y": 822,
+        "width": 207,
+        "height": 20
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-015",
+      "lineNumber": 15,
+      "text": "to train= to teach",
+      "bbox": {
+        "x": 369,
+        "y": 854,
+        "width": 207,
+        "height": 19
+      },
+      "confidence": 81.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-016",
+      "lineNumber": 16,
+      "text": "blessed = noble",
+      "bbox": {
+        "x": 369,
+        "y": 886,
+        "width": 184,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-017",
+      "lineNumber": 17,
+      "text": "Read the poem silently and answer these questions:",
+      "bbox": {
+        "x": 196,
+        "y": 931,
+        "width": 677,
+        "height": 24
+      },
+      "confidence": 92.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-018",
+      "lineNumber": 18,
+      "text": "1 Who asked the question, “Whose Child is This?” in the poem?",
+      "bbox": {
+        "x": 278,
+        "y": 972,
+        "width": 712,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-019",
+      "lineNumber": 19,
+      "text": "2 How many times did he / she ask the question, “Whose child is this?”",
+      "bbox": {
+        "x": 274,
+        "y": 1005,
+        "width": 791,
+        "height": 25
+      },
+      "confidence": 91.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-020",
+      "lineNumber": 20,
+      "text": "3 Who answered the question in stanzas 1, 2, and 3?",
+      "bbox": {
+        "x": 275,
+        "y": 1038,
+        "width": 578,
+        "height": 25
+      },
+      "confidence": 91.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-021",
+      "lineNumber": 21,
+      "text": "Read the poem silently again and list the things or activities both the",
+      "bbox": {
+        "x": 192,
+        "y": 1086,
+        "width": 911,
+        "height": 33
+      },
+      "confidence": 92.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-022",
+      "lineNumber": 22,
+      "text": "parent and the teacher do individually and together. One is done for",
+      "bbox": {
+        "x": 275,
+        "y": 1123,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-023",
+      "lineNumber": 23,
+      "text": "What the parent does What the teacher does What both the",
+      "bbox": {
+        "x": 278,
+        "y": 1209,
+        "width": 759,
+        "height": 25
+      },
+      "confidence": 96.18,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-024",
+      "lineNumber": 24,
+      "text": "parent and the",
+      "bbox": {
+        "x": 882,
+        "y": 1242,
+        "width": 155,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-026",
+      "lineNumber": 26,
+      "text": "gives a bath 1. teaches him how to 1.",
+      "bbox": {
+        "x": 280,
+        "y": 1309,
+        "width": 621,
+        "height": 25
+      },
+      "confidence": 93.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-029",
+      "lineNumber": 29,
+      "text": "Why do both parent and teacher smile and answer the question, “Whose",
+      "bbox": {
+        "x": 275,
+        "y": 1552,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-040-line-030",
+      "lineNumber": 30,
+      "text": "child is this?” by saying “Minc” and “Ours”?",
+      "bbox": {
+        "x": 276,
+        "y": 1583,
+        "width": 500,
+        "height": 26
+      },
+      "confidence": 93.75,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Four : People Who Make a Difference 35\n“Mine to keep just for a little while,\nTo teach him how to be gentle and kind,\nTo train and direct his dear little mind,\nTo help him live by every rule\nAnd get the best he can from school.”\n“Whose child is this?” I ask once more,\nJust as the little one entered the door.\nsaid the parent and the teacher as they smiled,\nAnd cach took the hand of the little child.\n“Qurs to love and train together\nOurs this blessed task forever.” [Anonymous]\ntender = kind; gentle; loving\nto bathe = to wash\nto train= to teach\nblessed = noble\nB. Read the poem silently and answer these questions:\n1 Who asked the question, “Whose Child is This?” in the poem?\n2 How many times did he / she ask the question, “Whose child is this?”\n3 Who answered the question in stanzas 1, 2, and 3?\nCc. Read the poem silently again and list the things or activities both the\nparent and the teacher do individually and together. One is done for\nWhat the parent does What the teacher does What both the\nparent and the\nteacher do\n1. gives a bath 1. teaches him how to 1.\nbe kind\nD. Discuss in groups and write an answer to this question:\nWhy do both parent and teacher smile and answer the question, “Whose\nchild is this?” by saying “Minc” and “Ours”?",
+  "cleanText": "Unit Four : People Who Make a Difference 35\n“Mine to keep just for a little while,\nTo teach him how to be gentle and kind,\nTo train and direct his dear little mind,\nTo help him live by every rule\nAnd get the best he can from school.”\n“Whose child is this?” I ask once more,\nJust as the little one entered the door.\nsaid the parent and the teacher as they smiled,\nAnd cach took the hand of the little child.\n“Qurs to love and train together\nOurs this blessed task forever.” [Anonymous]\ntender = kind; gentle; loving\nto bathe = to wash\nto train= to teach\nblessed = noble\nRead the poem silently and answer these questions:\n1 Who asked the question, “Whose Child is This?” in the poem?\n2 How many times did he / she ask the question, “Whose child is this?”\n3 Who answered the question in stanzas 1, 2, and 3?\nRead the poem silently again and list the things or activities both the\nparent and the teacher do individually and together. One is done for\nWhat the parent does What the teacher does What both the\nparent and the\nteacher do\ngives a bath 1. teaches him how to 1.\nbe kind\nDiscuss in groups and write an answer to this question:\nWhy do both parent and teacher smile and answer the question, “Whose\nchild is this?” by saying “Minc” and “Ours”?",
+  "aiReadyText": "Unit Four : People Who Make a Difference 35\n“Mine to keep just for a little while,\nTo teach him how to be gentle and kind,\nTo train and direct his dear little mind,\nTo help him live by every rule\nAnd get the best he can from school.”\n“Whose child is this?” I ask once more,\nJust as the little one entered the door.\nsaid the parent and the teacher as they smiled,\nAnd cach took the hand of the little child.\n“Qurs to love and train together\nOurs this blessed task forever.” [Anonymous]\ntender = kind; gentle; loving\nto bathe = to wash\nto train= to teach\nblessed = noble\nRead the poem silently and answer these questions:\n1 Who asked the question, “Whose Child is This?” in the poem?\n2 How many times did he / she ask the question, “Whose child is this?”\n3 Who answered the question in stanzas 1, 2, and 3?\nRead the poem silently again and list the things or activities both the\nparent and the teacher do individually and together. One is done for\nWhat the parent does What the teacher does What both the\nparent and the\ngives a bath 1. teaches him how to 1.\nWhy do both parent and teacher smile and answer the question, “Whose\nchild is this?” by saying “Minc” and “Ours”?"
+}

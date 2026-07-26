@@ -1,0 +1,861 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 28,
+  "image": "/ocr/books/class7-english/page-images/page-028.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Three : What are Friends for? 23",
+      "cleanText": "Unit Three : What are Friends for? 23",
+      "bbox": {
+        "x": 198,
+        "y": 250,
+        "width": 906,
+        "height": 19
+      },
+      "confidence": 93.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 4: A Sad Day for Farabi",
+      "cleanText": "Lesson 4: A Sad Day for Farabi",
+      "bbox": {
+        "x": 193,
+        "y": 316,
+        "width": 428,
+        "height": 28
+      },
+      "confidence": 94.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Keywords: ruffled insist",
+      "cleanText": "Keywords: ruffled insist",
+      "bbox": {
+        "x": 287,
+        "y": 360,
+        "width": 315,
+        "height": 25
+      },
+      "confidence": 78.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Discuss and answer these questions.",
+      "cleanText": "Discuss and answer these questions.",
+      "bbox": {
+        "x": 276,
+        "y": 413,
+        "width": 431,
+        "height": 24
+      },
+      "confidence": 92.4,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-028-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "1. What will you do if your parents do not",
+      "cleanText": "What will you do if your parents do not",
+      "bbox": {
+        "x": 279,
+        "y": 458,
+        "width": 481,
+        "height": 25
+      },
+      "confidence": 94.7,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "want you to go on a picnic with your",
+      "cleanText": "want you to go on a picnic with your",
+      "bbox": {
+        "x": 307,
+        "y": 491,
+        "width": 454,
+        "height": 25
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "friends?",
+      "cleanText": "friends?",
+      "bbox": {
+        "x": 308,
+        "y": 524,
+        "width": 86,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-028-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "2. What will you do if you miss the picnic bus?",
+      "cleanText": "What will you do if you miss the picnic bus?",
+      "bbox": {
+        "x": 276,
+        "y": 560,
+        "width": 488,
+        "height": 25
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Read about what happened to Farabi",
+      "cleanText": "Read about what happened to Farabi",
+      "bbox": {
+        "x": 276,
+        "y": 613,
+        "width": 483,
+        "height": 24
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "yesterday and answer the following",
+      "cleanText": "yesterday and answer the following",
+      "bbox": {
+        "x": 275,
+        "y": 646,
+        "width": 486,
+        "height": 24
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "questions.",
+      "cleanText": "questions.",
+      "bbox": {
+        "x": 276,
+        "y": 679,
+        "width": 114,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-028-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Farabi was sitting with his head down. He looked sad. His hair was",
+      "cleanText": "Farabi was sitting with his head down. He looked sad. His hair was",
+      "bbox": {
+        "x": 276,
+        "y": 738,
+        "width": 827,
+        "height": 24
+      },
+      "confidence": 95.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "untidy and ruffled. It was clear he did not brush it at all.",
+      "cleanText": "untidy and ruffled. It was clear he did not brush it at all.",
+      "bbox": {
+        "x": 276,
+        "y": 770,
+        "width": 626,
+        "height": 25
+      },
+      "confidence": 95.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "“What happened, Farabi? Are you okay?” asked Flora.",
+      "cleanText": "“What happened, Farabi? Are you okay?” asked Flora.",
+      "bbox": {
+        "x": 276,
+        "y": 817,
+        "width": 599,
+        "height": 25
+      },
+      "confidence": 94.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "“I’m so shocked, Flora. I don’t want to talk,” said Farabi.",
+      "cleanText": "“I’m so shocked, Flora. I don’t want to talk,” said Farabi.",
+      "bbox": {
+        "x": 276,
+        "y": 863,
+        "width": 627,
+        "height": 23
+      },
+      "confidence": 92.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "“But you have to. Any pain or sorrow is like a load in the mind. If you tell",
+      "cleanText": "“But you have to. Any pain or sorrow is like a load in the mind. If you tell",
+      "bbox": {
+        "x": 276,
+        "y": 909,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "or share it with your parents or friends, it will be lighter. On the other",
+      "cleanText": "or share it with your parents or friends, it will be lighter. On the other",
+      "bbox": {
+        "x": 275,
+        "y": 941,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 95.53,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "hand, if you don’t share it, the load will become heavier and more",
+      "cleanText": "hand, if you don’t share it, the load will become heavier and more",
+      "bbox": {
+        "x": 276,
+        "y": 974,
+        "width": 827,
+        "height": 24
+      },
+      "confidence": 93.46,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "painful. So, please tell me what’s wrong,” Flora insisted.",
+      "cleanText": "painful. So, please tell me what’s wrong,” Flora insisted.",
+      "bbox": {
+        "x": 276,
+        "y": 1007,
+        "width": 629,
+        "height": 26
+      },
+      "confidence": 93.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Farabi looked at Flora and said, “One of my friends Harun is our school",
+      "cleanText": "Farabi looked at Flora and said, “One of my friends Harun is our school",
+      "bbox": {
+        "x": 276,
+        "y": 1054,
+        "width": 826,
+        "height": 25
+      },
+      "confidence": 94.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "football team leader. Yesterday he just dropped my name from the",
+      "cleanText": "football team leader. Yesterday he just dropped my name from the",
+      "bbox": {
+        "x": 274,
+        "y": 1087,
+        "width": 830,
+        "height": 25
+      },
+      "confidence": 88.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "coming Interclass Football Tournament. I wanted to know why, but he",
+      "cleanText": "coming Interclass Football Tournament. I wanted to know why, but he",
+      "bbox": {
+        "x": 275,
+        "y": 1120,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 94.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "didn’t even talk to me about it.”",
+      "cleanText": "didn’t even talk to me about it.”",
+      "bbox": {
+        "x": 275,
+        "y": 1151,
+        "width": 361,
+        "height": 22
+      },
+      "confidence": 95.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Tick the best answer.",
+      "cleanText": "Tick the best answer.",
+      "bbox": {
+        "x": 197,
+        "y": 1199,
+        "width": 246,
+        "height": 19
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "1. Which is the correct statement?",
+      "cleanText": "Which is the correct statement?",
+      "bbox": {
+        "x": 277,
+        "y": 1245,
+        "width": 408,
+        "height": 19
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Farabi was",
+      "cleanText": "Farabi was",
+      "bbox": {
+        "x": 317,
+        "y": 1278,
+        "width": 118,
+        "height": 19
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-028-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "a. standing up.",
+      "cleanText": "standing up.",
+      "bbox": {
+        "x": 317,
+        "y": 1311,
+        "width": 169,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-028-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "b. looking down.",
+      "cleanText": "looking down.",
+      "bbox": {
+        "x": 317,
+        "y": 1344,
+        "width": 193,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-028-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "c. looking happy.",
+      "cleanText": "looking happy.",
+      "bbox": {
+        "x": 317,
+        "y": 1377,
+        "width": 200,
+        "height": 25
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "2. Why was Farabi with his head down?",
+      "cleanText": "Why was Farabi with his head down?",
+      "bbox": {
+        "x": 276,
+        "y": 1433,
+        "width": 483,
+        "height": 24
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "a. he was unhappy.",
+      "cleanText": "he was unhappy.",
+      "bbox": {
+        "x": 317,
+        "y": 1505,
+        "width": 219,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "b. it was his habit.",
+      "cleanText": "it was his habit.",
+      "bbox": {
+        "x": 316,
+        "y": 1538,
+        "width": 209,
+        "height": 19
+      },
+      "confidence": 94.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "c. he had a headache.",
+      "cleanText": "he had a headache.",
+      "bbox": {
+        "x": 317,
+        "y": 1571,
+        "width": 242,
+        "height": 19
+      },
+      "confidence": 94.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-028-line-033",
+      "lineNumber": 33
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-028-line-001",
+      "lineNumber": 1,
+      "text": "Unit Three : What are Friends for? 23",
+      "bbox": {
+        "x": 198,
+        "y": 250,
+        "width": 906,
+        "height": 19
+      },
+      "confidence": 93.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 4: A Sad Day for Farabi",
+      "bbox": {
+        "x": 193,
+        "y": 316,
+        "width": 428,
+        "height": 28
+      },
+      "confidence": 94.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-003",
+      "lineNumber": 3,
+      "text": "Keywords: ruffled insist",
+      "bbox": {
+        "x": 287,
+        "y": 360,
+        "width": 315,
+        "height": 25
+      },
+      "confidence": 78.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-005",
+      "lineNumber": 5,
+      "text": "What will you do if your parents do not",
+      "bbox": {
+        "x": 279,
+        "y": 458,
+        "width": 481,
+        "height": 25
+      },
+      "confidence": 94.7,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-006",
+      "lineNumber": 6,
+      "text": "want you to go on a picnic with your",
+      "bbox": {
+        "x": 307,
+        "y": 491,
+        "width": 454,
+        "height": 25
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-008",
+      "lineNumber": 8,
+      "text": "What will you do if you miss the picnic bus?",
+      "bbox": {
+        "x": 276,
+        "y": 560,
+        "width": 488,
+        "height": 25
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-009",
+      "lineNumber": 9,
+      "text": "Read about what happened to Farabi",
+      "bbox": {
+        "x": 276,
+        "y": 613,
+        "width": 483,
+        "height": 24
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-010",
+      "lineNumber": 10,
+      "text": "yesterday and answer the following",
+      "bbox": {
+        "x": 275,
+        "y": 646,
+        "width": 486,
+        "height": 24
+      },
+      "confidence": 91.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-012",
+      "lineNumber": 12,
+      "text": "Farabi was sitting with his head down. He looked sad. His hair was",
+      "bbox": {
+        "x": 276,
+        "y": 738,
+        "width": 827,
+        "height": 24
+      },
+      "confidence": 95.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-013",
+      "lineNumber": 13,
+      "text": "untidy and ruffled. It was clear he did not brush it at all.",
+      "bbox": {
+        "x": 276,
+        "y": 770,
+        "width": 626,
+        "height": 25
+      },
+      "confidence": 95.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-014",
+      "lineNumber": 14,
+      "text": "“What happened, Farabi? Are you okay?” asked Flora.",
+      "bbox": {
+        "x": 276,
+        "y": 817,
+        "width": 599,
+        "height": 25
+      },
+      "confidence": 94.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-015",
+      "lineNumber": 15,
+      "text": "“I’m so shocked, Flora. I don’t want to talk,” said Farabi.",
+      "bbox": {
+        "x": 276,
+        "y": 863,
+        "width": 627,
+        "height": 23
+      },
+      "confidence": 92.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-016",
+      "lineNumber": 16,
+      "text": "“But you have to. Any pain or sorrow is like a load in the mind. If you tell",
+      "bbox": {
+        "x": 276,
+        "y": 909,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-017",
+      "lineNumber": 17,
+      "text": "or share it with your parents or friends, it will be lighter. On the other",
+      "bbox": {
+        "x": 275,
+        "y": 941,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 95.53,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-018",
+      "lineNumber": 18,
+      "text": "hand, if you don’t share it, the load will become heavier and more",
+      "bbox": {
+        "x": 276,
+        "y": 974,
+        "width": 827,
+        "height": 24
+      },
+      "confidence": 93.46,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-019",
+      "lineNumber": 19,
+      "text": "painful. So, please tell me what’s wrong,” Flora insisted.",
+      "bbox": {
+        "x": 276,
+        "y": 1007,
+        "width": 629,
+        "height": 26
+      },
+      "confidence": 93.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-020",
+      "lineNumber": 20,
+      "text": "Farabi looked at Flora and said, “One of my friends Harun is our school",
+      "bbox": {
+        "x": 276,
+        "y": 1054,
+        "width": 826,
+        "height": 25
+      },
+      "confidence": 94.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-021",
+      "lineNumber": 21,
+      "text": "football team leader. Yesterday he just dropped my name from the",
+      "bbox": {
+        "x": 274,
+        "y": 1087,
+        "width": 830,
+        "height": 25
+      },
+      "confidence": 88.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-022",
+      "lineNumber": 22,
+      "text": "coming Interclass Football Tournament. I wanted to know why, but he",
+      "bbox": {
+        "x": 275,
+        "y": 1120,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 94.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-023",
+      "lineNumber": 23,
+      "text": "didn’t even talk to me about it.”",
+      "bbox": {
+        "x": 275,
+        "y": 1151,
+        "width": 361,
+        "height": 22
+      },
+      "confidence": 95.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-024",
+      "lineNumber": 24,
+      "text": "Tick the best answer.",
+      "bbox": {
+        "x": 197,
+        "y": 1199,
+        "width": 246,
+        "height": 19
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-025",
+      "lineNumber": 25,
+      "text": "Which is the correct statement?",
+      "bbox": {
+        "x": 277,
+        "y": 1245,
+        "width": 408,
+        "height": 19
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-029",
+      "lineNumber": 29,
+      "text": "looking happy.",
+      "bbox": {
+        "x": 317,
+        "y": 1377,
+        "width": 200,
+        "height": 25
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-030",
+      "lineNumber": 30,
+      "text": "Why was Farabi with his head down?",
+      "bbox": {
+        "x": 276,
+        "y": 1433,
+        "width": 483,
+        "height": 24
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-031",
+      "lineNumber": 31,
+      "text": "he was unhappy.",
+      "bbox": {
+        "x": 317,
+        "y": 1505,
+        "width": 219,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-032",
+      "lineNumber": 32,
+      "text": "it was his habit.",
+      "bbox": {
+        "x": 316,
+        "y": 1538,
+        "width": 209,
+        "height": 19
+      },
+      "confidence": 94.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-028-line-033",
+      "lineNumber": 33,
+      "text": "he had a headache.",
+      "bbox": {
+        "x": 317,
+        "y": 1571,
+        "width": 242,
+        "height": 19
+      },
+      "confidence": 94.6,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Three : What are Friends for? 23\nLesson 4: A Sad Day for Farabi\nKeywords: ruffled insist\nDiscuss and answer these questions.\n1. What will you do if your parents do not\nwant you to go on a picnic with your\nfriends?\n2. What will you do if you miss the picnic bus?\nRead about what happened to Farabi\nyesterday and answer the following\nquestions.\nFarabi was sitting with his head down. He looked sad. His hair was\nuntidy and ruffled. It was clear he did not brush it at all.\n“What happened, Farabi? Are you okay?” asked Flora.\n“I’m so shocked, Flora. I don’t want to talk,” said Farabi.\n“But you have to. Any pain or sorrow is like a load in the mind. If you tell\nor share it with your parents or friends, it will be lighter. On the other\nhand, if you don’t share it, the load will become heavier and more\npainful. So, please tell me what’s wrong,” Flora insisted.\nFarabi looked at Flora and said, “One of my friends Harun is our school\nfootball team leader. Yesterday he just dropped my name from the\ncoming Interclass Football Tournament. I wanted to know why, but he\ndidn’t even talk to me about it.”\nTick the best answer.\n1. Which is the correct statement?\nFarabi was\na. standing up.\nb. looking down.\nc. looking happy.\n2. Why was Farabi with his head down?\na. he was unhappy.\nb. it was his habit.\nc. he had a headache.",
+  "cleanText": "Unit Three : What are Friends for? 23\nLesson 4: A Sad Day for Farabi\nKeywords: ruffled insist\nDiscuss and answer these questions.\nWhat will you do if your parents do not\nwant you to go on a picnic with your\nfriends?\nWhat will you do if you miss the picnic bus?\nRead about what happened to Farabi\nyesterday and answer the following\nquestions.\nFarabi was sitting with his head down. He looked sad. His hair was\nuntidy and ruffled. It was clear he did not brush it at all.\n“What happened, Farabi? Are you okay?” asked Flora.\n“I’m so shocked, Flora. I don’t want to talk,” said Farabi.\n“But you have to. Any pain or sorrow is like a load in the mind. If you tell\nor share it with your parents or friends, it will be lighter. On the other\nhand, if you don’t share it, the load will become heavier and more\npainful. So, please tell me what’s wrong,” Flora insisted.\nFarabi looked at Flora and said, “One of my friends Harun is our school\nfootball team leader. Yesterday he just dropped my name from the\ncoming Interclass Football Tournament. I wanted to know why, but he\ndidn’t even talk to me about it.”\nTick the best answer.\nWhich is the correct statement?\nFarabi was\nstanding up.\nlooking down.\nlooking happy.\nWhy was Farabi with his head down?\nhe was unhappy.\nit was his habit.\nhe had a headache.",
+  "aiReadyText": "Unit Three : What are Friends for? 23\nLesson 4: A Sad Day for Farabi\nKeywords: ruffled insist\nWhat will you do if your parents do not\nwant you to go on a picnic with your\nWhat will you do if you miss the picnic bus?\nRead about what happened to Farabi\nyesterday and answer the following\nFarabi was sitting with his head down. He looked sad. His hair was\nuntidy and ruffled. It was clear he did not brush it at all.\n“What happened, Farabi? Are you okay?” asked Flora.\n“I’m so shocked, Flora. I don’t want to talk,” said Farabi.\n“But you have to. Any pain or sorrow is like a load in the mind. If you tell\nor share it with your parents or friends, it will be lighter. On the other\nhand, if you don’t share it, the load will become heavier and more\npainful. So, please tell me what’s wrong,” Flora insisted.\nFarabi looked at Flora and said, “One of my friends Harun is our school\nfootball team leader. Yesterday he just dropped my name from the\ncoming Interclass Football Tournament. I wanted to know why, but he\ndidn’t even talk to me about it.”\nTick the best answer.\nWhich is the correct statement?\nlooking happy.\nWhy was Farabi with his head down?\nhe was unhappy.\nit was his habit.\nhe had a headache."
+}

@@ -1,0 +1,239 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 109,
+  "image": "/ocr/books/class7-english/page-images/page-109.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "In small groups discuss these questions.",
+      "cleanText": "In small groups discuss these questions.",
+      "bbox": {
+        "x": 270,
+        "y": 335,
+        "width": 460,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "1. Which animals in Bangladesh are in danger of extinction? What do you",
+      "cleanText": "Which animals in Bangladesh are in danger of extinction? What do you",
+      "bbox": {
+        "x": 273,
+        "y": 392,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 94.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "think we should do to protect these animals?",
+      "cleanText": "think we should do to protect these animals?",
+      "bbox": {
+        "x": 312,
+        "y": 436,
+        "width": 492,
+        "height": 24
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "2. What problems do you think deforestation can cause in Bangladesh?",
+      "cleanText": "What problems do you think deforestation can cause in Bangladesh?",
+      "bbox": {
+        "x": 269,
+        "y": 480,
+        "width": 792,
+        "height": 25
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Write five slogans to make people aware of the problems of climate",
+      "cleanText": "Write five slogans to make people aware of the problems of climate",
+      "bbox": {
+        "x": 270,
+        "y": 553,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "change. Two are done for you.",
+      "cleanText": "change. Two are done for you.",
+      "bbox": {
+        "x": 270,
+        "y": 596,
+        "width": 355,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "1, Good environment is good health",
+      "cleanText": "1, Good environment is good health",
+      "bbox": {
+        "x": 293,
+        "y": 651,
+        "width": 402,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "2. Air pollution causes health hazards.",
+      "cleanText": "Air pollution causes health hazards.",
+      "bbox": {
+        "x": 290,
+        "y": 695,
+        "width": 430,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-109-line-008",
+      "lineNumber": 8
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-109-line-001",
+      "lineNumber": 1,
+      "text": "In small groups discuss these questions.",
+      "bbox": {
+        "x": 270,
+        "y": 335,
+        "width": 460,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-002",
+      "lineNumber": 2,
+      "text": "Which animals in Bangladesh are in danger of extinction? What do you",
+      "bbox": {
+        "x": 273,
+        "y": 392,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 94.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-003",
+      "lineNumber": 3,
+      "text": "think we should do to protect these animals?",
+      "bbox": {
+        "x": 312,
+        "y": 436,
+        "width": 492,
+        "height": 24
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-004",
+      "lineNumber": 4,
+      "text": "What problems do you think deforestation can cause in Bangladesh?",
+      "bbox": {
+        "x": 269,
+        "y": 480,
+        "width": 792,
+        "height": 25
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-005",
+      "lineNumber": 5,
+      "text": "Write five slogans to make people aware of the problems of climate",
+      "bbox": {
+        "x": 270,
+        "y": 553,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-006",
+      "lineNumber": 6,
+      "text": "change. Two are done for you.",
+      "bbox": {
+        "x": 270,
+        "y": 596,
+        "width": 355,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-007",
+      "lineNumber": 7,
+      "text": "1, Good environment is good health",
+      "bbox": {
+        "x": 293,
+        "y": 651,
+        "width": 402,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-109-line-008",
+      "lineNumber": 8,
+      "text": "Air pollution causes health hazards.",
+      "bbox": {
+        "x": 290,
+        "y": 695,
+        "width": 430,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "In small groups discuss these questions.\n1. Which animals in Bangladesh are in danger of extinction? What do you\nthink we should do to protect these animals?\n2. What problems do you think deforestation can cause in Bangladesh?\nWrite five slogans to make people aware of the problems of climate\nchange. Two are done for you.\n1, Good environment is good health\n2. Air pollution causes health hazards.",
+  "cleanText": "In small groups discuss these questions.\nWhich animals in Bangladesh are in danger of extinction? What do you\nthink we should do to protect these animals?\nWhat problems do you think deforestation can cause in Bangladesh?\nWrite five slogans to make people aware of the problems of climate\nchange. Two are done for you.\n1, Good environment is good health\nAir pollution causes health hazards.",
+  "aiReadyText": "In small groups discuss these questions.\nWhich animals in Bangladesh are in danger of extinction? What do you\nthink we should do to protect these animals?\nWhat problems do you think deforestation can cause in Bangladesh?\nWrite five slogans to make people aware of the problems of climate\nchange. Two are done for you.\n1, Good environment is good health\nAir pollution causes health hazards."
+}

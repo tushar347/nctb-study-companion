@@ -1,0 +1,732 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 81,
+  "image": "/ocr/books/class7-english/page-images/page-081.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "76 ENGLISH FOR TODAY",
+      "cleanText": "76 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 203,
+        "y": 245,
+        "width": 909,
+        "height": 19
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 2: Tales of two players (2)",
+      "cleanText": "Lesson 2: Tales of two players (2)",
+      "bbox": {
+        "x": 205,
+        "y": 304,
+        "width": 435,
+        "height": 28
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Keywords : practise, weight lifter, opportunity, school compound,",
+      "cleanText": "Keywords : practise, weight lifter, opportunity, school compound,",
+      "bbox": {
+        "x": 266,
+        "y": 362,
+        "width": 804,
+        "height": 33
+      },
+      "confidence": 91.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "A. Read the text below aloud.",
+      "cleanText": "Read the text below aloud.",
+      "bbox": {
+        "x": 205,
+        "y": 424,
+        "width": 368,
+        "height": 19
+      },
+      "confidence": 88.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Ashish and Arun are two players. | have known them for a long time. They are both very",
+      "cleanText": "Ashish and Arun are two players. | have known them for a long time. They are both very",
+      "bbox": {
+        "x": 204,
+        "y": 472,
+        "width": 910,
+        "height": 25
+      },
+      "confidence": 93.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "close to my family. Ashish is from a village. Arun lives in a small town. Ashish",
+      "cleanText": "close to my family. Ashish is from a village. Arun lives in a small town. Ashish",
+      "bbox": {
+        "x": 205,
+        "y": 505,
+        "width": 909,
+        "height": 25
+      },
+      "confidence": 95.19,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "plays football. He doesn’t play tennis. Arun practises cricket but he loves athletics",
+      "cleanText": "plays football. He doesn’t play tennis. Arun practises cricket but he loves athletics",
+      "bbox": {
+        "x": 205,
+        "y": 538,
+        "width": 908,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "as well. Arun goes to a local school. He has opportunities to practise in his school",
+      "cleanText": "as well. Arun goes to a local school. He has opportunities to practise in his school",
+      "bbox": {
+        "x": 204,
+        "y": 570,
+        "width": 911,
+        "height": 26
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "compound. Arun practises in his club field. Ashish has one brother. His name is",
+      "cleanText": "compound. Arun practises in his club field. Ashish has one brother. His name is",
+      "bbox": {
+        "x": 203,
+        "y": 603,
+        "width": 911,
+        "height": 25
+      },
+      "confidence": 95.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Abir. He is a weight lifter. Arun has no brother. He has a sister. Her name is",
+      "cleanText": "Abir. He is a weight lifter. Arun has no brother. He has a sister. Her name is",
+      "bbox": {
+        "x": 206,
+        "y": 633,
+        "width": 909,
+        "height": 32
+      },
+      "confidence": 95.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Apala. She doesn’t like cricket. She is a swimmer.",
+      "cleanText": "Apala. She doesn’t like cricket. She is a swimmer.",
+      "bbox": {
+        "x": 204,
+        "y": 670,
+        "width": 605,
+        "height": 25
+      },
+      "confidence": 94.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "B .Work in pairs. Make questions for Asish, Apala, Arun, and Abir using",
+      "cleanText": "B .Work in pairs. Make questions for Asish, Apala, Arun, and Abir using",
+      "bbox": {
+        "x": 205,
+        "y": 732,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 92.46,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "the table below. Then ask and answer the questions. Also ask these questions",
+      "cleanText": "the table below. Then ask and answer the questions. Also ask these questions",
+      "bbox": {
+        "x": 203,
+        "y": 767,
+        "width": 913,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "toyourpartner. Use the words in italics to complete the sentences.",
+      "cleanText": "toyourpartner. Use the words in italics to complete the sentences.",
+      "bbox": {
+        "x": 205,
+        "y": 801,
+        "width": 799,
+        "height": 25
+      },
+      "confidence": 91.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "you she they he do does",
+      "cleanText": "you she they he do does",
+      "bbox": {
+        "x": 359,
+        "y": 850,
+        "width": 527,
+        "height": 25
+      },
+      "confidence": 84.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "live in a city?",
+      "cleanText": "live in a city?",
+      "bbox": {
+        "x": 839,
+        "y": 930,
+        "width": 146,
+        "height": 25
+      },
+      "confidence": 81.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "play tennis?",
+      "cleanText": "play tennis?",
+      "bbox": {
+        "x": 838,
+        "y": 996,
+        "width": 130,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-081-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "like athletics?",
+      "cleanText": "like athletics?",
+      "bbox": {
+        "x": 839,
+        "y": 1062,
+        "width": 149,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "go to school?",
+      "cleanText": "go to school?",
+      "bbox": {
+        "x": 838,
+        "y": 1128,
+        "width": 144,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-081-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "C. Change your partner. Ask and answer questions about _ his/her",
+      "cleanText": "Change your partner. Ask and answer questions about _ his/her",
+      "bbox": {
+        "x": 204,
+        "y": 1287,
+        "width": 909,
+        "height": 33
+      },
+      "confidence": 88.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "previous partner’s sports habit and routine.",
+      "cleanText": "previous partner’s sports habit and routine.",
+      "bbox": {
+        "x": 283,
+        "y": 1323,
+        "width": 517,
+        "height": 26
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Example:",
+      "cleanText": "Example:",
+      "bbox": {
+        "x": 284,
+        "y": 1372,
+        "width": 101,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-081-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Does Emil play cricket’?",
+      "cleanText": "Does Emil play cricket’?",
+      "bbox": {
+        "x": 284,
+        "y": 1405,
+        "width": 262,
+        "height": 25
+      },
+      "confidence": 90.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Does he practise regularly?",
+      "cleanText": "Does he practise regularly?",
+      "bbox": {
+        "x": 284,
+        "y": 1438,
+        "width": 297,
+        "height": 25
+      },
+      "confidence": 96.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "D. Do you remember Ashish Biswash, the footballer in the previous lesson?",
+      "cleanText": "Do you remember Ashish Biswash, the footballer in the previous lesson?",
+      "bbox": {
+        "x": 204,
+        "y": 1485,
+        "width": 914,
+        "height": 24
+      },
+      "confidence": 91.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Here is an interview with him. Complete the questions. Use the",
+      "cleanText": "Here is an interview with him. Complete the questions. Use the",
+      "bbox": {
+        "x": 282,
+        "y": 1518,
+        "width": 832,
+        "height": 24
+      },
+      "confidence": 95.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "verbs in the brackets.",
+      "cleanText": "verbs in the brackets.",
+      "bbox": {
+        "x": 279,
+        "y": 1550,
+        "width": 269,
+        "height": 20
+      },
+      "confidence": 94.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-081-line-027",
+      "lineNumber": 27
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-081-line-001",
+      "lineNumber": 1,
+      "text": "76 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 203,
+        "y": 245,
+        "width": 909,
+        "height": 19
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 2: Tales of two players (2)",
+      "bbox": {
+        "x": 205,
+        "y": 304,
+        "width": 435,
+        "height": 28
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-003",
+      "lineNumber": 3,
+      "text": "Keywords : practise, weight lifter, opportunity, school compound,",
+      "bbox": {
+        "x": 266,
+        "y": 362,
+        "width": 804,
+        "height": 33
+      },
+      "confidence": 91.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-004",
+      "lineNumber": 4,
+      "text": "Read the text below aloud.",
+      "bbox": {
+        "x": 205,
+        "y": 424,
+        "width": 368,
+        "height": 19
+      },
+      "confidence": 88.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-005",
+      "lineNumber": 5,
+      "text": "Ashish and Arun are two players. | have known them for a long time. They are both very",
+      "bbox": {
+        "x": 204,
+        "y": 472,
+        "width": 910,
+        "height": 25
+      },
+      "confidence": 93.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-006",
+      "lineNumber": 6,
+      "text": "close to my family. Ashish is from a village. Arun lives in a small town. Ashish",
+      "bbox": {
+        "x": 205,
+        "y": 505,
+        "width": 909,
+        "height": 25
+      },
+      "confidence": 95.19,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-007",
+      "lineNumber": 7,
+      "text": "plays football. He doesn’t play tennis. Arun practises cricket but he loves athletics",
+      "bbox": {
+        "x": 205,
+        "y": 538,
+        "width": 908,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-008",
+      "lineNumber": 8,
+      "text": "as well. Arun goes to a local school. He has opportunities to practise in his school",
+      "bbox": {
+        "x": 204,
+        "y": 570,
+        "width": 911,
+        "height": 26
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-009",
+      "lineNumber": 9,
+      "text": "compound. Arun practises in his club field. Ashish has one brother. His name is",
+      "bbox": {
+        "x": 203,
+        "y": 603,
+        "width": 911,
+        "height": 25
+      },
+      "confidence": 95.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-010",
+      "lineNumber": 10,
+      "text": "Abir. He is a weight lifter. Arun has no brother. He has a sister. Her name is",
+      "bbox": {
+        "x": 206,
+        "y": 633,
+        "width": 909,
+        "height": 32
+      },
+      "confidence": 95.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-011",
+      "lineNumber": 11,
+      "text": "Apala. She doesn’t like cricket. She is a swimmer.",
+      "bbox": {
+        "x": 204,
+        "y": 670,
+        "width": 605,
+        "height": 25
+      },
+      "confidence": 94.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-012",
+      "lineNumber": 12,
+      "text": "B .Work in pairs. Make questions for Asish, Apala, Arun, and Abir using",
+      "bbox": {
+        "x": 205,
+        "y": 732,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 92.46,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-013",
+      "lineNumber": 13,
+      "text": "the table below. Then ask and answer the questions. Also ask these questions",
+      "bbox": {
+        "x": 203,
+        "y": 767,
+        "width": 913,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-014",
+      "lineNumber": 14,
+      "text": "toyourpartner. Use the words in italics to complete the sentences.",
+      "bbox": {
+        "x": 205,
+        "y": 801,
+        "width": 799,
+        "height": 25
+      },
+      "confidence": 91.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-015",
+      "lineNumber": 15,
+      "text": "you she they he do does",
+      "bbox": {
+        "x": 359,
+        "y": 850,
+        "width": 527,
+        "height": 25
+      },
+      "confidence": 84.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-016",
+      "lineNumber": 16,
+      "text": "live in a city?",
+      "bbox": {
+        "x": 839,
+        "y": 930,
+        "width": 146,
+        "height": 25
+      },
+      "confidence": 81.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-018",
+      "lineNumber": 18,
+      "text": "like athletics?",
+      "bbox": {
+        "x": 839,
+        "y": 1062,
+        "width": 149,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-020",
+      "lineNumber": 20,
+      "text": "Change your partner. Ask and answer questions about _ his/her",
+      "bbox": {
+        "x": 204,
+        "y": 1287,
+        "width": 909,
+        "height": 33
+      },
+      "confidence": 88.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-021",
+      "lineNumber": 21,
+      "text": "previous partner’s sports habit and routine.",
+      "bbox": {
+        "x": 283,
+        "y": 1323,
+        "width": 517,
+        "height": 26
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-023",
+      "lineNumber": 23,
+      "text": "Does Emil play cricket’?",
+      "bbox": {
+        "x": 284,
+        "y": 1405,
+        "width": 262,
+        "height": 25
+      },
+      "confidence": 90.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-024",
+      "lineNumber": 24,
+      "text": "Does he practise regularly?",
+      "bbox": {
+        "x": 284,
+        "y": 1438,
+        "width": 297,
+        "height": 25
+      },
+      "confidence": 96.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-025",
+      "lineNumber": 25,
+      "text": "Do you remember Ashish Biswash, the footballer in the previous lesson?",
+      "bbox": {
+        "x": 204,
+        "y": 1485,
+        "width": 914,
+        "height": 24
+      },
+      "confidence": 91.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-026",
+      "lineNumber": 26,
+      "text": "Here is an interview with him. Complete the questions. Use the",
+      "bbox": {
+        "x": 282,
+        "y": 1518,
+        "width": 832,
+        "height": 24
+      },
+      "confidence": 95.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-081-line-027",
+      "lineNumber": 27,
+      "text": "verbs in the brackets.",
+      "bbox": {
+        "x": 279,
+        "y": 1550,
+        "width": 269,
+        "height": 20
+      },
+      "confidence": 94.25,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "76 ENGLISH FOR TODAY\nLesson 2: Tales of two players (2)\nKeywords : practise, weight lifter, opportunity, school compound,\nA. Read the text below aloud.\nAshish and Arun are two players. | have known them for a long time. They are both very\nclose to my family. Ashish is from a village. Arun lives in a small town. Ashish\nplays football. He doesn’t play tennis. Arun practises cricket but he loves athletics\nas well. Arun goes to a local school. He has opportunities to practise in his school\ncompound. Arun practises in his club field. Ashish has one brother. His name is\nAbir. He is a weight lifter. Arun has no brother. He has a sister. Her name is\nApala. She doesn’t like cricket. She is a swimmer.\nB .Work in pairs. Make questions for Asish, Apala, Arun, and Abir using\nthe table below. Then ask and answer the questions. Also ask these questions\ntoyourpartner. Use the words in italics to complete the sentences.\nyou she they he do does\nlive in a city?\nplay tennis?\nlike athletics?\ngo to school?\nC. Change your partner. Ask and answer questions about _ his/her\nprevious partner’s sports habit and routine.\nExample:\nDoes Emil play cricket’?\nDoes he practise regularly?\nD. Do you remember Ashish Biswash, the footballer in the previous lesson?\nHere is an interview with him. Complete the questions. Use the\nverbs in the brackets.",
+  "cleanText": "76 ENGLISH FOR TODAY\nLesson 2: Tales of two players (2)\nKeywords : practise, weight lifter, opportunity, school compound,\nRead the text below aloud.\nAshish and Arun are two players. | have known them for a long time. They are both very\nclose to my family. Ashish is from a village. Arun lives in a small town. Ashish\nplays football. He doesn’t play tennis. Arun practises cricket but he loves athletics\nas well. Arun goes to a local school. He has opportunities to practise in his school\ncompound. Arun practises in his club field. Ashish has one brother. His name is\nAbir. He is a weight lifter. Arun has no brother. He has a sister. Her name is\nApala. She doesn’t like cricket. She is a swimmer.\nB .Work in pairs. Make questions for Asish, Apala, Arun, and Abir using\nthe table below. Then ask and answer the questions. Also ask these questions\ntoyourpartner. Use the words in italics to complete the sentences.\nyou she they he do does\nlive in a city?\nplay tennis?\nlike athletics?\ngo to school?\nChange your partner. Ask and answer questions about _ his/her\nprevious partner’s sports habit and routine.\nExample:\nDoes Emil play cricket’?\nDoes he practise regularly?\nDo you remember Ashish Biswash, the footballer in the previous lesson?\nHere is an interview with him. Complete the questions. Use the\nverbs in the brackets.",
+  "aiReadyText": "76 ENGLISH FOR TODAY\nLesson 2: Tales of two players (2)\nKeywords : practise, weight lifter, opportunity, school compound,\nRead the text below aloud.\nAshish and Arun are two players. | have known them for a long time. They are both very\nclose to my family. Ashish is from a village. Arun lives in a small town. Ashish\nplays football. He doesn’t play tennis. Arun practises cricket but he loves athletics\nas well. Arun goes to a local school. He has opportunities to practise in his school\ncompound. Arun practises in his club field. Ashish has one brother. His name is\nAbir. He is a weight lifter. Arun has no brother. He has a sister. Her name is\nApala. She doesn’t like cricket. She is a swimmer.\nB .Work in pairs. Make questions for Asish, Apala, Arun, and Abir using\nthe table below. Then ask and answer the questions. Also ask these questions\ntoyourpartner. Use the words in italics to complete the sentences.\nyou she they he do does\nlive in a city?\nlike athletics?\nChange your partner. Ask and answer questions about _ his/her\nprevious partner’s sports habit and routine.\nDoes Emil play cricket’?\nDoes he practise regularly?\nDo you remember Ashish Biswash, the footballer in the previous lesson?\nHere is an interview with him. Complete the questions. Use the\nverbs in the brackets."
+}

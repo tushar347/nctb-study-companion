@@ -1,0 +1,607 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 71,
+  "image": "/ocr/books/class7-english/page-images/page-071.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "with sweet fruit. The birds sat on the trees and sang so sweetly that the",
+      "cleanText": "with sweet fruit. The birds sat on the trees and sang so sweetly that the",
+      "bbox": {
+        "x": 291,
+        "y": 328,
+        "width": 825,
+        "height": 26
+      },
+      "confidence": 92.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "children used to stop their games in order to listen to them. 'How happy",
+      "cleanText": "children used to stop their games in order to listen to them. 'How happy",
+      "bbox": {
+        "x": 291,
+        "y": 362,
+        "width": 825,
+        "height": 26
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "we are here!’ they cried to each other.",
+      "cleanText": "we are here!’ they cried to each other.",
+      "bbox": {
+        "x": 290,
+        "y": 396,
+        "width": 425,
+        "height": 26
+      },
+      "confidence": 93.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "One day the Giant came back. He had been to visit his friend in a distant",
+      "cleanText": "One day the Giant came back. He had been to visit his friend in a distant",
+      "bbox": {
+        "x": 291,
+        "y": 444,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "land and had stayed with him for seven years. When he arrived, he saw",
+      "cleanText": "land and had stayed with him for seven years. When he arrived, he saw",
+      "bbox": {
+        "x": 291,
+        "y": 478,
+        "width": 825,
+        "height": 26
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "the children playing in his garden.",
+      "cleanText": "the children playing in his garden.",
+      "bbox": {
+        "x": 291,
+        "y": 512,
+        "width": 387,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "\"What are you doing here? cried the Giant in a very gruff voice. The",
+      "cleanText": "\"What are you doing here? cried the Giant in a very gruff voice. The",
+      "bbox": {
+        "x": 291,
+        "y": 560,
+        "width": 825,
+        "height": 26
+      },
+      "confidence": 92.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "children ran away in fear.",
+      "cleanText": "children ran away in fear.",
+      "bbox": {
+        "x": 291,
+        "y": 594,
+        "width": 288,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "\"My own garden is my own said the Giant. “I will allow nobody",
+      "cleanText": "\"My own garden is my own said the Giant. “I will allow nobody",
+      "bbox": {
+        "x": 291,
+        "y": 642,
+        "width": 825,
+        "height": 26
+      },
+      "confidence": 92.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "to play in it but myself.” So, he built a high wall all round the garden, and",
+      "cleanText": "to play in it but myself.” So, he built a high wall all round the garden, and",
+      "bbox": {
+        "x": 291,
+        "y": 676,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 95.76,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "put up a notice:",
+      "cleanText": "put up a notice:",
+      "bbox": {
+        "x": 291,
+        "y": 711,
+        "width": 174,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "TRESPASSERS WILL BE PUNISHED",
+      "cleanText": "TRESPASSERS WILL BE PUNISHED",
+      "bbox": {
+        "x": 441,
+        "y": 797,
+        "width": 520,
+        "height": 21
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Discuss in groups and answer this question:",
+      "cleanText": "Discuss in groups and answer this question:",
+      "bbox": {
+        "x": 287,
+        "y": 867,
+        "width": 508,
+        "height": 24
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-071-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "How do you know that the giant is selfish?",
+      "cleanText": "How do you know that the giant is selfish?",
+      "bbox": {
+        "x": 287,
+        "y": 901,
+        "width": 468,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Have you ever seen any garden or park? Where is it? Describe it",
+      "cleanText": "Have you ever seen any garden or park? Where is it? Describe it",
+      "bbox": {
+        "x": 288,
+        "y": 964,
+        "width": 829,
+        "height": 24
+      },
+      "confidence": 93.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "using the following clues:",
+      "cleanText": "using the following clues:",
+      "bbox": {
+        "x": 286,
+        "y": 999,
+        "width": 302,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "© how big",
+      "cleanText": "© how big",
+      "bbox": {
+        "x": 327,
+        "y": 1053,
+        "width": 127,
+        "height": 25
+      },
+      "confidence": 82.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-071-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "© trees- flowers and fruits",
+      "cleanText": "© trees- flowers and fruits",
+      "bbox": {
+        "x": 327,
+        "y": 1097,
+        "width": 297,
+        "height": 20
+      },
+      "confidence": 78.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "© play corner",
+      "cleanText": "© play corner",
+      "bbox": {
+        "x": 327,
+        "y": 1141,
+        "width": 163,
+        "height": 25
+      },
+      "confidence": 75.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-071-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "© any other attractions",
+      "cleanText": "© any other attractions",
+      "bbox": {
+        "x": 327,
+        "y": 1185,
+        "width": 262,
+        "height": 25
+      },
+      "confidence": 79.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Note: trespasser: a person who enters somebody’s land without their",
+      "cleanText": "Note: trespasser: a person who enters somebody’s land without their",
+      "bbox": {
+        "x": 343,
+        "y": 1268,
+        "width": 775,
+        "height": 25
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "permission",
+      "cleanText": "permission",
+      "bbox": {
+        "x": 550,
+        "y": 1300,
+        "width": 119,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-071-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "gruff : harsh; unfriendly",
+      "cleanText": "gruff : harsh; unfriendly",
+      "bbox": {
+        "x": 414,
+        "y": 1340,
+        "width": 323,
+        "height": 34
+      },
+      "confidence": 88.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-071-line-023",
+      "lineNumber": 23
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-071-line-001",
+      "lineNumber": 1,
+      "text": "with sweet fruit. The birds sat on the trees and sang so sweetly that the",
+      "bbox": {
+        "x": 291,
+        "y": 328,
+        "width": 825,
+        "height": 26
+      },
+      "confidence": 92.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-002",
+      "lineNumber": 2,
+      "text": "children used to stop their games in order to listen to them. 'How happy",
+      "bbox": {
+        "x": 291,
+        "y": 362,
+        "width": 825,
+        "height": 26
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-003",
+      "lineNumber": 3,
+      "text": "we are here!’ they cried to each other.",
+      "bbox": {
+        "x": 290,
+        "y": 396,
+        "width": 425,
+        "height": 26
+      },
+      "confidence": 93.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-004",
+      "lineNumber": 4,
+      "text": "One day the Giant came back. He had been to visit his friend in a distant",
+      "bbox": {
+        "x": 291,
+        "y": 444,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-005",
+      "lineNumber": 5,
+      "text": "land and had stayed with him for seven years. When he arrived, he saw",
+      "bbox": {
+        "x": 291,
+        "y": 478,
+        "width": 825,
+        "height": 26
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-006",
+      "lineNumber": 6,
+      "text": "the children playing in his garden.",
+      "bbox": {
+        "x": 291,
+        "y": 512,
+        "width": 387,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-007",
+      "lineNumber": 7,
+      "text": "\"What are you doing here? cried the Giant in a very gruff voice. The",
+      "bbox": {
+        "x": 291,
+        "y": 560,
+        "width": 825,
+        "height": 26
+      },
+      "confidence": 92.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-008",
+      "lineNumber": 8,
+      "text": "children ran away in fear.",
+      "bbox": {
+        "x": 291,
+        "y": 594,
+        "width": 288,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-009",
+      "lineNumber": 9,
+      "text": "\"My own garden is my own said the Giant. “I will allow nobody",
+      "bbox": {
+        "x": 291,
+        "y": 642,
+        "width": 825,
+        "height": 26
+      },
+      "confidence": 92.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-010",
+      "lineNumber": 10,
+      "text": "to play in it but myself.” So, he built a high wall all round the garden, and",
+      "bbox": {
+        "x": 291,
+        "y": 676,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 95.76,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-011",
+      "lineNumber": 11,
+      "text": "put up a notice:",
+      "bbox": {
+        "x": 291,
+        "y": 711,
+        "width": 174,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-012",
+      "lineNumber": 12,
+      "text": "TRESPASSERS WILL BE PUNISHED",
+      "bbox": {
+        "x": 441,
+        "y": 797,
+        "width": 520,
+        "height": 21
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-014",
+      "lineNumber": 14,
+      "text": "How do you know that the giant is selfish?",
+      "bbox": {
+        "x": 287,
+        "y": 901,
+        "width": 468,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-015",
+      "lineNumber": 15,
+      "text": "Have you ever seen any garden or park? Where is it? Describe it",
+      "bbox": {
+        "x": 288,
+        "y": 964,
+        "width": 829,
+        "height": 24
+      },
+      "confidence": 93.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-016",
+      "lineNumber": 16,
+      "text": "using the following clues:",
+      "bbox": {
+        "x": 286,
+        "y": 999,
+        "width": 302,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-018",
+      "lineNumber": 18,
+      "text": "© trees- flowers and fruits",
+      "bbox": {
+        "x": 327,
+        "y": 1097,
+        "width": 297,
+        "height": 20
+      },
+      "confidence": 78.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-020",
+      "lineNumber": 20,
+      "text": "© any other attractions",
+      "bbox": {
+        "x": 327,
+        "y": 1185,
+        "width": 262,
+        "height": 25
+      },
+      "confidence": 79.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-021",
+      "lineNumber": 21,
+      "text": "Note: trespasser: a person who enters somebody’s land without their",
+      "bbox": {
+        "x": 343,
+        "y": 1268,
+        "width": 775,
+        "height": 25
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-071-line-023",
+      "lineNumber": 23,
+      "text": "gruff : harsh; unfriendly",
+      "bbox": {
+        "x": 414,
+        "y": 1340,
+        "width": 323,
+        "height": 34
+      },
+      "confidence": 88.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "with sweet fruit. The birds sat on the trees and sang so sweetly that the\nchildren used to stop their games in order to listen to them. 'How happy\nwe are here!’ they cried to each other.\nOne day the Giant came back. He had been to visit his friend in a distant\nland and had stayed with him for seven years. When he arrived, he saw\nthe children playing in his garden.\n\"What are you doing here? cried the Giant in a very gruff voice. The\nchildren ran away in fear.\n\"My own garden is my own said the Giant. “I will allow nobody\nto play in it but myself.” So, he built a high wall all round the garden, and\nput up a notice:\nTRESPASSERS WILL BE PUNISHED\nDiscuss in groups and answer this question:\nHow do you know that the giant is selfish?\nHave you ever seen any garden or park? Where is it? Describe it\nusing the following clues:\n© how big\n© trees- flowers and fruits\n© play corner\n© any other attractions\nNote: trespasser: a person who enters somebody’s land without their\npermission\ngruff : harsh; unfriendly",
+  "cleanText": "with sweet fruit. The birds sat on the trees and sang so sweetly that the\nchildren used to stop their games in order to listen to them. 'How happy\nwe are here!’ they cried to each other.\nOne day the Giant came back. He had been to visit his friend in a distant\nland and had stayed with him for seven years. When he arrived, he saw\nthe children playing in his garden.\n\"What are you doing here? cried the Giant in a very gruff voice. The\nchildren ran away in fear.\n\"My own garden is my own said the Giant. “I will allow nobody\nto play in it but myself.” So, he built a high wall all round the garden, and\nput up a notice:\nTRESPASSERS WILL BE PUNISHED\nDiscuss in groups and answer this question:\nHow do you know that the giant is selfish?\nHave you ever seen any garden or park? Where is it? Describe it\nusing the following clues:\n© how big\n© trees- flowers and fruits\n© play corner\n© any other attractions\nNote: trespasser: a person who enters somebody’s land without their\npermission\ngruff : harsh; unfriendly",
+  "aiReadyText": "with sweet fruit. The birds sat on the trees and sang so sweetly that the\nchildren used to stop their games in order to listen to them. 'How happy\nwe are here!’ they cried to each other.\nOne day the Giant came back. He had been to visit his friend in a distant\nland and had stayed with him for seven years. When he arrived, he saw\nthe children playing in his garden.\n\"What are you doing here? cried the Giant in a very gruff voice. The\nchildren ran away in fear.\n\"My own garden is my own said the Giant. “I will allow nobody\nto play in it but myself.” So, he built a high wall all round the garden, and\nput up a notice:\nTRESPASSERS WILL BE PUNISHED\nHow do you know that the giant is selfish?\nHave you ever seen any garden or park? Where is it? Describe it\nusing the following clues:\n© trees- flowers and fruits\n© any other attractions\nNote: trespasser: a person who enters somebody’s land without their\ngruff : harsh; unfriendly"
+}

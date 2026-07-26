@@ -1,0 +1,706 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 8,
+  "image": "/ocr/books/class7-english/page-images/page-008.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit one : Attention, Please 3",
+      "cleanText": "Unit one : Attention, Please 3",
+      "bbox": {
+        "x": 202,
+        "y": 249,
+        "width": 905,
+        "height": 22
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 2: Outside School",
+      "cleanText": "Lesson 2: Outside School",
+      "bbox": {
+        "x": 198,
+        "y": 314,
+        "width": 323,
+        "height": 21
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Listen and read these short conversations.",
+      "cleanText": "Listen and read these short conversations.",
+      "bbox": {
+        "x": 277,
+        "y": 385,
+        "width": 491,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-008-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Fahim : Can I borrow your pen, please?",
+      "cleanText": "Fahim : Can I borrow your pen, please?",
+      "bbox": {
+        "x": 357,
+        "y": 417,
+        "width": 515,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Tamim : Yes, of course, you can. Here it is.",
+      "cleanText": "Tamim : Yes, of course, you can. Here it is.",
+      "bbox": {
+        "x": 356,
+        "y": 451,
+        "width": 549,
+        "height": 24
+      },
+      "confidence": 95.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Radif : Could you please help me with my maths?",
+      "cleanText": "Radif : Could you please help me with my maths?",
+      "bbox": {
+        "x": 360,
+        "y": 480,
+        "width": 635,
+        "height": 32
+      },
+      "confidence": 94.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Rahin : Sorry, | can’t. [’m not good at maths.",
+      "cleanText": "Rahin : Sorry, | can’t. [’m not good at maths.",
+      "bbox": {
+        "x": 357,
+        "y": 562,
+        "width": 578,
+        "height": 33
+      },
+      "confidence": 89.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Sister : Would you turn the television off? I'm doing my",
+      "cleanText": "Sister : Would you turn the television off? I'm doing my",
+      "bbox": {
+        "x": 353,
+        "y": 599,
+        "width": 717,
+        "height": 25
+      },
+      "confidence": 92.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "homework.",
+      "cleanText": "homework.",
+      "bbox": {
+        "x": 528,
+        "y": 632,
+        "width": 121,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-008-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Brother : Sorry, | didn’t notice that. Please go on with",
+      "cleanText": "Brother : Sorry, | didn’t notice that. Please go on with",
+      "bbox": {
+        "x": 357,
+        "y": 661,
+        "width": 657,
+        "height": 33
+      },
+      "confidence": 94.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "your studies.",
+      "cleanText": "your studies.",
+      "bbox": {
+        "x": 528,
+        "y": 698,
+        "width": 137,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-008-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Complete these dialogues using suitable words.",
+      "cleanText": "Complete these dialogues using suitable words.",
+      "bbox": {
+        "x": 277,
+        "y": 744,
+        "width": 558,
+        "height": 25
+      },
+      "confidence": 91.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-008-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "you lend me your English book for a day?",
+      "cleanText": "you lend me your English book for a day?",
+      "bbox": {
+        "x": 486,
+        "y": 790,
+        "width": 461,
+        "height": 25
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": ": Sorry, I . | need to read it tonight.",
+      "cleanText": ": Sorry, I . | need to read it tonight.",
+      "bbox": {
+        "x": 344,
+        "y": 836,
+        "width": 508,
+        "height": 25
+      },
+      "confidence": 87.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": ": Could you give me 50 taka?",
+      "cleanText": ": Could you give me 50 taka?",
+      "bbox": {
+        "x": 346,
+        "y": 881,
+        "width": 330,
+        "height": 26
+      },
+      "confidence": 92.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Sorry, I have only 20 taka with me.",
+      "cleanText": "Sorry, I have only 20 taka with me.",
+      "bbox": {
+        "x": 363,
+        "y": 928,
+        "width": 554,
+        "height": 25
+      },
+      "confidence": 95.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "you give me your calculator, please?",
+      "cleanText": "you give me your calculator, please?",
+      "bbox": {
+        "x": 530,
+        "y": 974,
+        "width": 401,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "you get me a notebook and a ballpen from the stationer’s?",
+      "cleanText": "you get me a notebook and a ballpen from the stationer’s?",
+      "bbox": {
+        "x": 491,
+        "y": 1067,
+        "width": 618,
+        "height": 25
+      },
+      "confidence": 94.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Yes. Of course, I",
+      "cleanText": "Yes. Of course, I",
+      "bbox": {
+        "x": 363,
+        "y": 1113,
+        "width": 184,
+        "height": 21
+      },
+      "confidence": 91.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": ": Can you put my box in the car, please?",
+      "cleanText": ": Can you put my box in the car, please?",
+      "bbox": {
+        "x": 346,
+        "y": 1159,
+        "width": 443,
+        "height": 25
+      },
+      "confidence": 93.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Yes, . Twill.",
+      "cleanText": "Yes, . Twill.",
+      "bbox": {
+        "x": 362,
+        "y": 1202,
+        "width": 271,
+        "height": 31
+      },
+      "confidence": 65.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-008-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "requests using the clues.",
+      "cleanText": "requests using the clues.",
+      "bbox": {
+        "x": 352,
+        "y": 1284,
+        "width": 285,
+        "height": 24
+      },
+      "confidence": 96.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "1. You want to help you with the washing.",
+      "cleanText": "You want to help you with the washing.",
+      "bbox": {
+        "x": 280,
+        "y": 1338,
+        "width": 586,
+        "height": 25
+      },
+      "confidence": 91.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "2. You want someone to give you change for a one hundred taka note.",
+      "cleanText": "You want someone to give you change for a one hundred taka note.",
+      "bbox": {
+        "x": 277,
+        "y": 1378,
+        "width": 787,
+        "height": 24
+      },
+      "confidence": 95.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "3. You want someone to wait a minute.",
+      "cleanText": "You want someone to wait a minute.",
+      "bbox": {
+        "x": 277,
+        "y": 1417,
+        "width": 449,
+        "height": 20
+      },
+      "confidence": 94.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "4. You want someone to carry your bag.",
+      "cleanText": "You want someone to carry your bag.",
+      "bbox": {
+        "x": 276,
+        "y": 1457,
+        "width": 460,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "5. You want someone to call you a rickshaw.",
+      "cleanText": "You want someone to call you a rickshaw.",
+      "bbox": {
+        "x": 277,
+        "y": 1498,
+        "width": 513,
+        "height": 25
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-008-line-027",
+      "lineNumber": 27
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-008-line-001",
+      "lineNumber": 1,
+      "text": "Unit one : Attention, Please 3",
+      "bbox": {
+        "x": 202,
+        "y": 249,
+        "width": 905,
+        "height": 22
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 2: Outside School",
+      "bbox": {
+        "x": 198,
+        "y": 314,
+        "width": 323,
+        "height": 21
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-004",
+      "lineNumber": 4,
+      "text": "Fahim : Can I borrow your pen, please?",
+      "bbox": {
+        "x": 357,
+        "y": 417,
+        "width": 515,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-005",
+      "lineNumber": 5,
+      "text": "Tamim : Yes, of course, you can. Here it is.",
+      "bbox": {
+        "x": 356,
+        "y": 451,
+        "width": 549,
+        "height": 24
+      },
+      "confidence": 95.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-006",
+      "lineNumber": 6,
+      "text": "Radif : Could you please help me with my maths?",
+      "bbox": {
+        "x": 360,
+        "y": 480,
+        "width": 635,
+        "height": 32
+      },
+      "confidence": 94.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-007",
+      "lineNumber": 7,
+      "text": "Rahin : Sorry, | can’t. [’m not good at maths.",
+      "bbox": {
+        "x": 357,
+        "y": 562,
+        "width": 578,
+        "height": 33
+      },
+      "confidence": 89.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-008",
+      "lineNumber": 8,
+      "text": "Sister : Would you turn the television off? I'm doing my",
+      "bbox": {
+        "x": 353,
+        "y": 599,
+        "width": 717,
+        "height": 25
+      },
+      "confidence": 92.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-010",
+      "lineNumber": 10,
+      "text": "Brother : Sorry, | didn’t notice that. Please go on with",
+      "bbox": {
+        "x": 357,
+        "y": 661,
+        "width": 657,
+        "height": 33
+      },
+      "confidence": 94.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-013",
+      "lineNumber": 13,
+      "text": "you lend me your English book for a day?",
+      "bbox": {
+        "x": 486,
+        "y": 790,
+        "width": 461,
+        "height": 25
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-014",
+      "lineNumber": 14,
+      "text": ": Sorry, I . | need to read it tonight.",
+      "bbox": {
+        "x": 344,
+        "y": 836,
+        "width": 508,
+        "height": 25
+      },
+      "confidence": 87.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-015",
+      "lineNumber": 15,
+      "text": ": Could you give me 50 taka?",
+      "bbox": {
+        "x": 346,
+        "y": 881,
+        "width": 330,
+        "height": 26
+      },
+      "confidence": 92.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-016",
+      "lineNumber": 16,
+      "text": "Sorry, I have only 20 taka with me.",
+      "bbox": {
+        "x": 363,
+        "y": 928,
+        "width": 554,
+        "height": 25
+      },
+      "confidence": 95.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-017",
+      "lineNumber": 17,
+      "text": "you give me your calculator, please?",
+      "bbox": {
+        "x": 530,
+        "y": 974,
+        "width": 401,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-018",
+      "lineNumber": 18,
+      "text": "you get me a notebook and a ballpen from the stationer’s?",
+      "bbox": {
+        "x": 491,
+        "y": 1067,
+        "width": 618,
+        "height": 25
+      },
+      "confidence": 94.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-019",
+      "lineNumber": 19,
+      "text": "Yes. Of course, I",
+      "bbox": {
+        "x": 363,
+        "y": 1113,
+        "width": 184,
+        "height": 21
+      },
+      "confidence": 91.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-020",
+      "lineNumber": 20,
+      "text": ": Can you put my box in the car, please?",
+      "bbox": {
+        "x": 346,
+        "y": 1159,
+        "width": 443,
+        "height": 25
+      },
+      "confidence": 93.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-022",
+      "lineNumber": 22,
+      "text": "requests using the clues.",
+      "bbox": {
+        "x": 352,
+        "y": 1284,
+        "width": 285,
+        "height": 24
+      },
+      "confidence": 96.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-023",
+      "lineNumber": 23,
+      "text": "You want to help you with the washing.",
+      "bbox": {
+        "x": 280,
+        "y": 1338,
+        "width": 586,
+        "height": 25
+      },
+      "confidence": 91.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-024",
+      "lineNumber": 24,
+      "text": "You want someone to give you change for a one hundred taka note.",
+      "bbox": {
+        "x": 277,
+        "y": 1378,
+        "width": 787,
+        "height": 24
+      },
+      "confidence": 95.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-025",
+      "lineNumber": 25,
+      "text": "You want someone to wait a minute.",
+      "bbox": {
+        "x": 277,
+        "y": 1417,
+        "width": 449,
+        "height": 20
+      },
+      "confidence": 94.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-026",
+      "lineNumber": 26,
+      "text": "You want someone to carry your bag.",
+      "bbox": {
+        "x": 276,
+        "y": 1457,
+        "width": 460,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-008-line-027",
+      "lineNumber": 27,
+      "text": "You want someone to call you a rickshaw.",
+      "bbox": {
+        "x": 277,
+        "y": 1498,
+        "width": 513,
+        "height": 25
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit one : Attention, Please 3\nLesson 2: Outside School\nListen and read these short conversations.\nFahim : Can I borrow your pen, please?\nTamim : Yes, of course, you can. Here it is.\nRadif : Could you please help me with my maths?\nRahin : Sorry, | can’t. [’m not good at maths.\nSister : Would you turn the television off? I'm doing my\nhomework.\nBrother : Sorry, | didn’t notice that. Please go on with\nyour studies.\nComplete these dialogues using suitable words.\nyou lend me your English book for a day?\n: Sorry, I . | need to read it tonight.\n: Could you give me 50 taka?\nSorry, I have only 20 taka with me.\nyou give me your calculator, please?\nyou get me a notebook and a ballpen from the stationer’s?\nYes. Of course, I\n: Can you put my box in the car, please?\nYes, . Twill.\nrequests using the clues.\n1. You want to help you with the washing.\n2. You want someone to give you change for a one hundred taka note.\n3. You want someone to wait a minute.\n4. You want someone to carry your bag.\n5. You want someone to call you a rickshaw.",
+  "cleanText": "Unit one : Attention, Please 3\nLesson 2: Outside School\nListen and read these short conversations.\nFahim : Can I borrow your pen, please?\nTamim : Yes, of course, you can. Here it is.\nRadif : Could you please help me with my maths?\nRahin : Sorry, | can’t. [’m not good at maths.\nSister : Would you turn the television off? I'm doing my\nhomework.\nBrother : Sorry, | didn’t notice that. Please go on with\nyour studies.\nComplete these dialogues using suitable words.\nyou lend me your English book for a day?\n: Sorry, I . | need to read it tonight.\n: Could you give me 50 taka?\nSorry, I have only 20 taka with me.\nyou give me your calculator, please?\nyou get me a notebook and a ballpen from the stationer’s?\nYes. Of course, I\n: Can you put my box in the car, please?\nYes, . Twill.\nrequests using the clues.\nYou want to help you with the washing.\nYou want someone to give you change for a one hundred taka note.\nYou want someone to wait a minute.\nYou want someone to carry your bag.\nYou want someone to call you a rickshaw.",
+  "aiReadyText": "Unit one : Attention, Please 3\nLesson 2: Outside School\nFahim : Can I borrow your pen, please?\nTamim : Yes, of course, you can. Here it is.\nRadif : Could you please help me with my maths?\nRahin : Sorry, | can’t. [’m not good at maths.\nSister : Would you turn the television off? I'm doing my\nBrother : Sorry, | didn’t notice that. Please go on with\nyou lend me your English book for a day?\n: Sorry, I . | need to read it tonight.\n: Could you give me 50 taka?\nSorry, I have only 20 taka with me.\nyou give me your calculator, please?\nyou get me a notebook and a ballpen from the stationer’s?\nYes. Of course, I\n: Can you put my box in the car, please?\nrequests using the clues.\nYou want to help you with the washing.\nYou want someone to give you change for a one hundred taka note.\nYou want someone to wait a minute.\nYou want someone to carry your bag.\nYou want someone to call you a rickshaw."
+}

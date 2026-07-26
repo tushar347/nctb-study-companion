@@ -1,0 +1,577 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 70,
+  "image": "/ocr/books/class7-english/page-images/page-070.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Six : Leisure 65",
+      "cleanText": "Unit Six : Leisure 65",
+      "bbox": {
+        "x": 210,
+        "y": 257,
+        "width": 906,
+        "height": 19
+      },
+      "confidence": 94.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-070-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Discuss in groups. Write a paragraph about leisure activities at your",
+      "cleanText": "Discuss in groups. Write a paragraph about leisure activities at your",
+      "bbox": {
+        "x": 283,
+        "y": 320,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 95.27,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-070-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "school and home. Also write who helps you with these activities. If",
+      "cleanText": "school and home. Also write who helps you with these activities. If",
+      "bbox": {
+        "x": 281,
+        "y": 358,
+        "width": 834,
+        "height": 24
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-070-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "you cannot do any of these activities, write why.",
+      "cleanText": "you cannot do any of these activities, write why.",
+      "bbox": {
+        "x": 278,
+        "y": 391,
+        "width": 567,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-070-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Lesson 8: The Selfish Giant (1)",
+      "cleanText": "Lesson 8: The Selfish Giant (1)",
+      "bbox": {
+        "x": 210,
+        "y": 460,
+        "width": 402,
+        "height": 27
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-070-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Keywords: selfish, giant, gruff, trespasser",
+      "cleanText": "Keywords: selfish, giant, gruff, trespasser",
+      "bbox": {
+        "x": 344,
+        "y": 507,
+        "width": 515,
+        "height": 25
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-070-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Look at the picture. Answer these questions.",
+      "cleanText": "Look at the picture. Answer these questions.",
+      "bbox": {
+        "x": 289,
+        "y": 554,
+        "width": 517,
+        "height": 24
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-070-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "1. Who do you think these people are?",
+      "cleanText": "Who do you think these people are?",
+      "bbox": {
+        "x": 292,
+        "y": 596,
+        "width": 430,
+        "height": 25
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-070-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "2. Where do you think they are?",
+      "cleanText": "Where do you think they are?",
+      "bbox": {
+        "x": 289,
+        "y": 629,
+        "width": 376,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-070-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "3. Can you guess what they are doing?",
+      "cleanText": "Can you guess what they are doing?",
+      "bbox": {
+        "x": 290,
+        "y": 662,
+        "width": 433,
+        "height": 25
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-070-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Read the story silently.",
+      "cleanText": "Read the story silently.",
+      "bbox": {
+        "x": 289,
+        "y": 1166,
+        "width": 267,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-070-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "The family gathering in the yard carried on with laughter and",
+      "cleanText": "The family gathering in the yard carried on with laughter and",
+      "bbox": {
+        "x": 288,
+        "y": 1219,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-070-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "conversations. At one point, the children asked their grandfather to tell",
+      "cleanText": "conversations. At one point, the children asked their grandfather to tell",
+      "bbox": {
+        "x": 288,
+        "y": 1253,
+        "width": 825,
+        "height": 26
+      },
+      "confidence": 96.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-070-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "them a story. So, he began to tell the tale of a selfish giant who had a",
+      "cleanText": "them a story. So, he began to tell the tale of a selfish giant who had a",
+      "bbox": {
+        "x": 288,
+        "y": 1288,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 95.59,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-070-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "beautiful garden.",
+      "cleanText": "beautiful garden.",
+      "bbox": {
+        "x": 287,
+        "y": 1322,
+        "width": 192,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-070-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "The Selfish Giant",
+      "cleanText": "The Selfish Giant",
+      "bbox": {
+        "x": 609,
+        "y": 1387,
+        "width": 228,
+        "height": 21
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-070-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Every afternoon, as they were coming from school, the children used to",
+      "cleanText": "Every afternoon, as they were coming from school, the children used to",
+      "bbox": {
+        "x": 288,
+        "y": 1432,
+        "width": 825,
+        "height": 27
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-070-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "go and play in the Giant's garden.",
+      "cleanText": "go and play in the Giant's garden.",
+      "bbox": {
+        "x": 288,
+        "y": 1467,
+        "width": 381,
+        "height": 26
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-070-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Tt was a large lovely garden, with soft green grass. Here and there over",
+      "cleanText": "Tt was a large lovely garden, with soft green grass. Here and there over",
+      "bbox": {
+        "x": 288,
+        "y": 1514,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-070-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "the grass stood beautiful flowers. All around the garden were trees filled",
+      "cleanText": "the grass stood beautiful flowers. All around the garden were trees filled",
+      "bbox": {
+        "x": 288,
+        "y": 1549,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 96.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-070-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Class 7 English Forma-09",
+      "cleanText": "Class 7 English Forma-09",
+      "bbox": {
+        "x": 206,
+        "y": 1623,
+        "width": 279,
+        "height": 24
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-070-line-021",
+      "lineNumber": 21
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-070-line-001",
+      "lineNumber": 1,
+      "text": "Unit Six : Leisure 65",
+      "bbox": {
+        "x": 210,
+        "y": 257,
+        "width": 906,
+        "height": 19
+      },
+      "confidence": 94.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-070-line-003",
+      "lineNumber": 3,
+      "text": "school and home. Also write who helps you with these activities. If",
+      "bbox": {
+        "x": 281,
+        "y": 358,
+        "width": 834,
+        "height": 24
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-070-line-004",
+      "lineNumber": 4,
+      "text": "you cannot do any of these activities, write why.",
+      "bbox": {
+        "x": 278,
+        "y": 391,
+        "width": 567,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-070-line-005",
+      "lineNumber": 5,
+      "text": "Lesson 8: The Selfish Giant (1)",
+      "bbox": {
+        "x": 210,
+        "y": 460,
+        "width": 402,
+        "height": 27
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-070-line-006",
+      "lineNumber": 6,
+      "text": "Keywords: selfish, giant, gruff, trespasser",
+      "bbox": {
+        "x": 344,
+        "y": 507,
+        "width": 515,
+        "height": 25
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-070-line-008",
+      "lineNumber": 8,
+      "text": "Who do you think these people are?",
+      "bbox": {
+        "x": 292,
+        "y": 596,
+        "width": 430,
+        "height": 25
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-070-line-009",
+      "lineNumber": 9,
+      "text": "Where do you think they are?",
+      "bbox": {
+        "x": 289,
+        "y": 629,
+        "width": 376,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-070-line-010",
+      "lineNumber": 10,
+      "text": "Can you guess what they are doing?",
+      "bbox": {
+        "x": 290,
+        "y": 662,
+        "width": 433,
+        "height": 25
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-070-line-011",
+      "lineNumber": 11,
+      "text": "Read the story silently.",
+      "bbox": {
+        "x": 289,
+        "y": 1166,
+        "width": 267,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-070-line-012",
+      "lineNumber": 12,
+      "text": "The family gathering in the yard carried on with laughter and",
+      "bbox": {
+        "x": 288,
+        "y": 1219,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-070-line-013",
+      "lineNumber": 13,
+      "text": "conversations. At one point, the children asked their grandfather to tell",
+      "bbox": {
+        "x": 288,
+        "y": 1253,
+        "width": 825,
+        "height": 26
+      },
+      "confidence": 96.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-070-line-014",
+      "lineNumber": 14,
+      "text": "them a story. So, he began to tell the tale of a selfish giant who had a",
+      "bbox": {
+        "x": 288,
+        "y": 1288,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 95.59,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-070-line-015",
+      "lineNumber": 15,
+      "text": "beautiful garden.",
+      "bbox": {
+        "x": 287,
+        "y": 1322,
+        "width": 192,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-070-line-016",
+      "lineNumber": 16,
+      "text": "The Selfish Giant",
+      "bbox": {
+        "x": 609,
+        "y": 1387,
+        "width": 228,
+        "height": 21
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-070-line-017",
+      "lineNumber": 17,
+      "text": "Every afternoon, as they were coming from school, the children used to",
+      "bbox": {
+        "x": 288,
+        "y": 1432,
+        "width": 825,
+        "height": 27
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-070-line-018",
+      "lineNumber": 18,
+      "text": "go and play in the Giant's garden.",
+      "bbox": {
+        "x": 288,
+        "y": 1467,
+        "width": 381,
+        "height": 26
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-070-line-019",
+      "lineNumber": 19,
+      "text": "Tt was a large lovely garden, with soft green grass. Here and there over",
+      "bbox": {
+        "x": 288,
+        "y": 1514,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-070-line-020",
+      "lineNumber": 20,
+      "text": "the grass stood beautiful flowers. All around the garden were trees filled",
+      "bbox": {
+        "x": 288,
+        "y": 1549,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 96.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-070-line-021",
+      "lineNumber": 21,
+      "text": "Class 7 English Forma-09",
+      "bbox": {
+        "x": 206,
+        "y": 1623,
+        "width": 279,
+        "height": 24
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Six : Leisure 65\nDiscuss in groups. Write a paragraph about leisure activities at your\nschool and home. Also write who helps you with these activities. If\nyou cannot do any of these activities, write why.\nLesson 8: The Selfish Giant (1)\nKeywords: selfish, giant, gruff, trespasser\nLook at the picture. Answer these questions.\n1. Who do you think these people are?\n2. Where do you think they are?\n3. Can you guess what they are doing?\nRead the story silently.\nThe family gathering in the yard carried on with laughter and\nconversations. At one point, the children asked their grandfather to tell\nthem a story. So, he began to tell the tale of a selfish giant who had a\nbeautiful garden.\nThe Selfish Giant\nEvery afternoon, as they were coming from school, the children used to\ngo and play in the Giant's garden.\nTt was a large lovely garden, with soft green grass. Here and there over\nthe grass stood beautiful flowers. All around the garden were trees filled\nClass 7 English Forma-09",
+  "cleanText": "Unit Six : Leisure 65\nDiscuss in groups. Write a paragraph about leisure activities at your\nschool and home. Also write who helps you with these activities. If\nyou cannot do any of these activities, write why.\nLesson 8: The Selfish Giant (1)\nKeywords: selfish, giant, gruff, trespasser\nLook at the picture. Answer these questions.\nWho do you think these people are?\nWhere do you think they are?\nCan you guess what they are doing?\nRead the story silently.\nThe family gathering in the yard carried on with laughter and\nconversations. At one point, the children asked their grandfather to tell\nthem a story. So, he began to tell the tale of a selfish giant who had a\nbeautiful garden.\nThe Selfish Giant\nEvery afternoon, as they were coming from school, the children used to\ngo and play in the Giant's garden.\nTt was a large lovely garden, with soft green grass. Here and there over\nthe grass stood beautiful flowers. All around the garden were trees filled\nClass 7 English Forma-09",
+  "aiReadyText": "Unit Six : Leisure 65\nschool and home. Also write who helps you with these activities. If\nyou cannot do any of these activities, write why.\nLesson 8: The Selfish Giant (1)\nKeywords: selfish, giant, gruff, trespasser\nWho do you think these people are?\nWhere do you think they are?\nCan you guess what they are doing?\nRead the story silently.\nThe family gathering in the yard carried on with laughter and\nconversations. At one point, the children asked their grandfather to tell\nthem a story. So, he began to tell the tale of a selfish giant who had a\nbeautiful garden.\nThe Selfish Giant\nEvery afternoon, as they were coming from school, the children used to\ngo and play in the Giant's garden.\nTt was a large lovely garden, with soft green grass. Here and there over\nthe grass stood beautiful flowers. All around the garden were trees filled\nClass 7 English Forma-09"
+}

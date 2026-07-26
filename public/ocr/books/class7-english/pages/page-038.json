@@ -1,0 +1,971 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 38,
+  "image": "/ocr/books/class7-english/page-images/page-038.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Four : People Who Make a Difference 33",
+      "cleanText": "Unit Four : People Who Make a Difference 33",
+      "bbox": {
+        "x": 197,
+        "y": 255,
+        "width": 906,
+        "height": 24
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "the ineffectiveness of political",
+      "cleanText": "the ineffectiveness of political",
+      "bbox": {
+        "x": 194,
+        "y": 321,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 81.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "establishments and grew increasingly",
+      "cleanText": "establishments and grew increasingly",
+      "bbox": {
+        "x": 195,
+        "y": 361,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "frustrated with the status quo.",
+      "cleanText": "frustrated with the status quo.",
+      "bbox": {
+        "x": 195,
+        "y": 400,
+        "width": 335,
+        "height": 26
+      },
+      "confidence": 96.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "The July Uprising of 2024 signals an",
+      "cleanText": "The July Uprising of 2024 signals an",
+      "bbox": {
+        "x": 194,
+        "y": 461,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "urgent call for adaptation. Outdated",
+      "cleanText": "urgent call for adaptation. Outdated",
+      "bbox": {
+        "x": 194,
+        "y": 501,
+        "width": 440,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "methods can no longer meet the",
+      "cleanText": "methods can no longer meet the",
+      "bbox": {
+        "x": 195,
+        "y": 541,
+        "width": 438,
+        "height": 26
+      },
+      "confidence": 88.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "challenges of today’s world. To support",
+      "cleanText": "challenges of today’s world. To support",
+      "bbox": {
+        "x": 194,
+        "y": 580,
+        "width": 455,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Gen Z’s ambitions truly, we need concrete",
+      "cleanText": "Gen Z’s ambitions truly, we need concrete",
+      "bbox": {
+        "x": 198,
+        "y": 622,
+        "width": 444,
+        "height": 24
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "steps as political rhetoric has made them",
+      "cleanText": "steps as political rhetoric has made them",
+      "bbox": {
+        "x": 196,
+        "y": 659,
+        "width": 434,
+        "height": 24
+      },
+      "confidence": 87.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "failed. Only with this commitment to",
+      "cleanText": "failed. Only with this commitment to",
+      "bbox": {
+        "x": 199,
+        "y": 696,
+        "width": 418,
+        "height": 24
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "support the vision and energy of this",
+      "cleanText": "support the vision and energy of this",
+      "bbox": {
+        "x": 197,
+        "y": 731,
+        "width": 418,
+        "height": 24
+      },
+      "confidence": 93.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "generation can be achieved.",
+      "cleanText": "generation can be achieved.",
+      "bbox": {
+        "x": 198,
+        "y": 768,
+        "width": 290,
+        "height": 23
+      },
+      "confidence": 91.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "A schoolchild with \"Swoirachar Nipat Jaak\"",
+      "cleanText": "A schoolchild with \"Swoirachar Nipat Jaak\"",
+      "bbox": {
+        "x": 669,
+        "y": 780,
+        "width": 431,
+        "height": 22
+      },
+      "confidence": 88.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "(Down with Autocracy) painted on his body,",
+      "cleanText": "(Down with Autocracy) painted on his body,",
+      "bbox": {
+        "x": 672,
+        "y": 809,
+        "width": 423,
+        "height": 22
+      },
+      "confidence": 94.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "echoing Noor Hossain, during the July protests",
+      "cleanText": "echoing Noor Hossain, during the July protests",
+      "bbox": {
+        "x": 656,
+        "y": 838,
+        "width": 456,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "A. Answer the following questions based on your reading of the passage:",
+      "cleanText": "Answer the following questions based on your reading of the passage:",
+      "bbox": {
+        "x": 194,
+        "y": 879,
+        "width": 879,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-038-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "1, What does gencrational naming refer to? Why do people name different",
+      "cleanText": "1, What does gencrational naming refer to? Why do people name different",
+      "bbox": {
+        "x": 198,
+        "y": 912,
+        "width": 866,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "generations?",
+      "cleanText": "generations?",
+      "bbox": {
+        "x": 243,
+        "y": 945,
+        "width": 142,
+        "height": 26
+      },
+      "confidence": 65.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-038-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "2. Describe one unique characteristic or challenge of the current gencration.",
+      "cleanText": "Describe one unique characteristic or challenge of the current gencration.",
+      "bbox": {
+        "x": 194,
+        "y": 978,
+        "width": 885,
+        "height": 26
+      },
+      "confidence": 93.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "3. What do you know about the legacy of struggles in",
+      "cleanText": "What do you know about the legacy of struggles in",
+      "bbox": {
+        "x": 194,
+        "y": 1011,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 93.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Bangladesh? Write in bricf.",
+      "cleanText": "Bangladesh? Write in bricf.",
+      "bbox": {
+        "x": 245,
+        "y": 1042,
+        "width": 312,
+        "height": 28
+      },
+      "confidence": 91.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "4. Why is good governance important for mecting the needs of new",
+      "cleanText": "Why is good governance important for mecting the needs of new",
+      "bbox": {
+        "x": 194,
+        "y": 1077,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 94.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "generations?",
+      "cleanText": "generations?",
+      "bbox": {
+        "x": 244,
+        "y": 1110,
+        "width": 142,
+        "height": 26
+      },
+      "confidence": 70.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-038-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "B. Vocabulary Test",
+      "cleanText": "Vocabulary Test",
+      "bbox": {
+        "x": 194,
+        "y": 1174,
+        "width": 229,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Match the words with their correct definitions:",
+      "cleanText": "Match the words with their correct definitions:",
+      "bbox": {
+        "x": 194,
+        "y": 1222,
+        "width": 530,
+        "height": 20
+      },
+      "confidence": 96.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Given Word Correct Definition",
+      "cleanText": "Given Word Correct Definition",
+      "bbox": {
+        "x": 254,
+        "y": 1289,
+        "width": 464,
+        "height": 20
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "1. Rhetoric a. A paradoxical situation where two opposite",
+      "cleanText": "Rhetoric a. A paradoxical situation where two opposite",
+      "bbox": {
+        "x": 257,
+        "y": 1347,
+        "width": 759,
+        "height": 30
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "conditions exist simultaneously.",
+      "cleanText": "conditions exist simultaneously.",
+      "bbox": {
+        "x": 495,
+        "y": 1380,
+        "width": 363,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "b. The use of language to persuade or influence,",
+      "cleanText": "The use of language to persuade or influence,",
+      "bbox": {
+        "x": 494,
+        "y": 1435,
+        "width": 548,
+        "height": 26
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "2. Autocracy",
+      "cleanText": "Autocracy",
+      "bbox": {
+        "x": 254,
+        "y": 1448,
+        "width": 146,
+        "height": 25
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-038-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "often in a manipulative way.",
+      "cleanText": "often in a manipulative way.",
+      "bbox": {
+        "x": 495,
+        "y": 1468,
+        "width": 321,
+        "height": 26
+      },
+      "confidence": 94.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "c. A system of government where power is held by",
+      "cleanText": "A system of government where power is held by",
+      "bbox": {
+        "x": 495,
+        "y": 1523,
+        "width": 579,
+        "height": 26
+      },
+      "confidence": 90.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "3. Consciousness :",
+      "cleanText": "Consciousness :",
+      "bbox": {
+        "x": 254,
+        "y": 1538,
+        "width": 398,
+        "height": 20
+      },
+      "confidence": 83.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "one person with absolute authority.",
+      "cleanText": "one person with absolute authority.",
+      "bbox": {
+        "x": 495,
+        "y": 1556,
+        "width": 398,
+        "height": 26
+      },
+      "confidence": 93.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-035",
+      "lineNumber": 35
+    },
+    {
+      "text": "Class 7 English Forma-05",
+      "cleanText": "Class 7 English Forma-05",
+      "bbox": {
+        "x": 191,
+        "y": 1620,
+        "width": 276,
+        "height": 23
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-038-line-036",
+      "lineNumber": 36
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-038-line-001",
+      "lineNumber": 1,
+      "text": "Unit Four : People Who Make a Difference 33",
+      "bbox": {
+        "x": 197,
+        "y": 255,
+        "width": 906,
+        "height": 24
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-002",
+      "lineNumber": 2,
+      "text": "the ineffectiveness of political",
+      "bbox": {
+        "x": 194,
+        "y": 321,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 81.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-003",
+      "lineNumber": 3,
+      "text": "establishments and grew increasingly",
+      "bbox": {
+        "x": 195,
+        "y": 361,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-004",
+      "lineNumber": 4,
+      "text": "frustrated with the status quo.",
+      "bbox": {
+        "x": 195,
+        "y": 400,
+        "width": 335,
+        "height": 26
+      },
+      "confidence": 96.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-005",
+      "lineNumber": 5,
+      "text": "The July Uprising of 2024 signals an",
+      "bbox": {
+        "x": 194,
+        "y": 461,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-006",
+      "lineNumber": 6,
+      "text": "urgent call for adaptation. Outdated",
+      "bbox": {
+        "x": 194,
+        "y": 501,
+        "width": 440,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-007",
+      "lineNumber": 7,
+      "text": "methods can no longer meet the",
+      "bbox": {
+        "x": 195,
+        "y": 541,
+        "width": 438,
+        "height": 26
+      },
+      "confidence": 88.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-008",
+      "lineNumber": 8,
+      "text": "challenges of today’s world. To support",
+      "bbox": {
+        "x": 194,
+        "y": 580,
+        "width": 455,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-009",
+      "lineNumber": 9,
+      "text": "Gen Z’s ambitions truly, we need concrete",
+      "bbox": {
+        "x": 198,
+        "y": 622,
+        "width": 444,
+        "height": 24
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-010",
+      "lineNumber": 10,
+      "text": "steps as political rhetoric has made them",
+      "bbox": {
+        "x": 196,
+        "y": 659,
+        "width": 434,
+        "height": 24
+      },
+      "confidence": 87.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-011",
+      "lineNumber": 11,
+      "text": "failed. Only with this commitment to",
+      "bbox": {
+        "x": 199,
+        "y": 696,
+        "width": 418,
+        "height": 24
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-012",
+      "lineNumber": 12,
+      "text": "support the vision and energy of this",
+      "bbox": {
+        "x": 197,
+        "y": 731,
+        "width": 418,
+        "height": 24
+      },
+      "confidence": 93.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-013",
+      "lineNumber": 13,
+      "text": "generation can be achieved.",
+      "bbox": {
+        "x": 198,
+        "y": 768,
+        "width": 290,
+        "height": 23
+      },
+      "confidence": 91.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-014",
+      "lineNumber": 14,
+      "text": "A schoolchild with \"Swoirachar Nipat Jaak\"",
+      "bbox": {
+        "x": 669,
+        "y": 780,
+        "width": 431,
+        "height": 22
+      },
+      "confidence": 88.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-015",
+      "lineNumber": 15,
+      "text": "(Down with Autocracy) painted on his body,",
+      "bbox": {
+        "x": 672,
+        "y": 809,
+        "width": 423,
+        "height": 22
+      },
+      "confidence": 94.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-016",
+      "lineNumber": 16,
+      "text": "echoing Noor Hossain, during the July protests",
+      "bbox": {
+        "x": 656,
+        "y": 838,
+        "width": 456,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-018",
+      "lineNumber": 18,
+      "text": "1, What does gencrational naming refer to? Why do people name different",
+      "bbox": {
+        "x": 198,
+        "y": 912,
+        "width": 866,
+        "height": 26
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-020",
+      "lineNumber": 20,
+      "text": "Describe one unique characteristic or challenge of the current gencration.",
+      "bbox": {
+        "x": 194,
+        "y": 978,
+        "width": 885,
+        "height": 26
+      },
+      "confidence": 93.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-021",
+      "lineNumber": 21,
+      "text": "What do you know about the legacy of struggles in",
+      "bbox": {
+        "x": 194,
+        "y": 1011,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 93.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-022",
+      "lineNumber": 22,
+      "text": "Bangladesh? Write in bricf.",
+      "bbox": {
+        "x": 245,
+        "y": 1042,
+        "width": 312,
+        "height": 28
+      },
+      "confidence": 91.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-023",
+      "lineNumber": 23,
+      "text": "Why is good governance important for mecting the needs of new",
+      "bbox": {
+        "x": 194,
+        "y": 1077,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 94.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-025",
+      "lineNumber": 25,
+      "text": "Vocabulary Test",
+      "bbox": {
+        "x": 194,
+        "y": 1174,
+        "width": 229,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-026",
+      "lineNumber": 26,
+      "text": "Match the words with their correct definitions:",
+      "bbox": {
+        "x": 194,
+        "y": 1222,
+        "width": 530,
+        "height": 20
+      },
+      "confidence": 96.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-027",
+      "lineNumber": 27,
+      "text": "Given Word Correct Definition",
+      "bbox": {
+        "x": 254,
+        "y": 1289,
+        "width": 464,
+        "height": 20
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-028",
+      "lineNumber": 28,
+      "text": "Rhetoric a. A paradoxical situation where two opposite",
+      "bbox": {
+        "x": 257,
+        "y": 1347,
+        "width": 759,
+        "height": 30
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-029",
+      "lineNumber": 29,
+      "text": "conditions exist simultaneously.",
+      "bbox": {
+        "x": 495,
+        "y": 1380,
+        "width": 363,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-030",
+      "lineNumber": 30,
+      "text": "The use of language to persuade or influence,",
+      "bbox": {
+        "x": 494,
+        "y": 1435,
+        "width": 548,
+        "height": 26
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-032",
+      "lineNumber": 32,
+      "text": "often in a manipulative way.",
+      "bbox": {
+        "x": 495,
+        "y": 1468,
+        "width": 321,
+        "height": 26
+      },
+      "confidence": 94.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-033",
+      "lineNumber": 33,
+      "text": "A system of government where power is held by",
+      "bbox": {
+        "x": 495,
+        "y": 1523,
+        "width": 579,
+        "height": 26
+      },
+      "confidence": 90.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-034",
+      "lineNumber": 34,
+      "text": "Consciousness :",
+      "bbox": {
+        "x": 254,
+        "y": 1538,
+        "width": 398,
+        "height": 20
+      },
+      "confidence": 83.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-035",
+      "lineNumber": 35,
+      "text": "one person with absolute authority.",
+      "bbox": {
+        "x": 495,
+        "y": 1556,
+        "width": 398,
+        "height": 26
+      },
+      "confidence": 93.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-038-line-036",
+      "lineNumber": 36,
+      "text": "Class 7 English Forma-05",
+      "bbox": {
+        "x": 191,
+        "y": 1620,
+        "width": 276,
+        "height": 23
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Four : People Who Make a Difference 33\nthe ineffectiveness of political\nestablishments and grew increasingly\nfrustrated with the status quo.\nThe July Uprising of 2024 signals an\nurgent call for adaptation. Outdated\nmethods can no longer meet the\nchallenges of today’s world. To support\nGen Z’s ambitions truly, we need concrete\nsteps as political rhetoric has made them\nfailed. Only with this commitment to\nsupport the vision and energy of this\ngeneration can be achieved.\nA schoolchild with \"Swoirachar Nipat Jaak\"\n(Down with Autocracy) painted on his body,\nechoing Noor Hossain, during the July protests\nA. Answer the following questions based on your reading of the passage:\n1, What does gencrational naming refer to? Why do people name different\ngenerations?\n2. Describe one unique characteristic or challenge of the current gencration.\n3. What do you know about the legacy of struggles in\nBangladesh? Write in bricf.\n4. Why is good governance important for mecting the needs of new\ngenerations?\nB. Vocabulary Test\nMatch the words with their correct definitions:\nGiven Word Correct Definition\n1. Rhetoric a. A paradoxical situation where two opposite\nconditions exist simultaneously.\nb. The use of language to persuade or influence,\n2. Autocracy\noften in a manipulative way.\nc. A system of government where power is held by\n3. Consciousness :\none person with absolute authority.\nClass 7 English Forma-05",
+  "cleanText": "Unit Four : People Who Make a Difference 33\nthe ineffectiveness of political\nestablishments and grew increasingly\nfrustrated with the status quo.\nThe July Uprising of 2024 signals an\nurgent call for adaptation. Outdated\nmethods can no longer meet the\nchallenges of today’s world. To support\nGen Z’s ambitions truly, we need concrete\nsteps as political rhetoric has made them\nfailed. Only with this commitment to\nsupport the vision and energy of this\ngeneration can be achieved.\nA schoolchild with \"Swoirachar Nipat Jaak\"\n(Down with Autocracy) painted on his body,\nechoing Noor Hossain, during the July protests\nAnswer the following questions based on your reading of the passage:\n1, What does gencrational naming refer to? Why do people name different\ngenerations?\nDescribe one unique characteristic or challenge of the current gencration.\nWhat do you know about the legacy of struggles in\nBangladesh? Write in bricf.\nWhy is good governance important for mecting the needs of new\ngenerations?\nVocabulary Test\nMatch the words with their correct definitions:\nGiven Word Correct Definition\nRhetoric a. A paradoxical situation where two opposite\nconditions exist simultaneously.\nThe use of language to persuade or influence,\nAutocracy\noften in a manipulative way.\nA system of government where power is held by\nConsciousness :\none person with absolute authority.\nClass 7 English Forma-05",
+  "aiReadyText": "Unit Four : People Who Make a Difference 33\nthe ineffectiveness of political\nestablishments and grew increasingly\nfrustrated with the status quo.\nThe July Uprising of 2024 signals an\nurgent call for adaptation. Outdated\nmethods can no longer meet the\nchallenges of today’s world. To support\nGen Z’s ambitions truly, we need concrete\nsteps as political rhetoric has made them\nfailed. Only with this commitment to\nsupport the vision and energy of this\ngeneration can be achieved.\nA schoolchild with \"Swoirachar Nipat Jaak\"\n(Down with Autocracy) painted on his body,\nechoing Noor Hossain, during the July protests\n1, What does gencrational naming refer to? Why do people name different\nDescribe one unique characteristic or challenge of the current gencration.\nWhat do you know about the legacy of struggles in\nBangladesh? Write in bricf.\nWhy is good governance important for mecting the needs of new\nVocabulary Test\nMatch the words with their correct definitions:\nGiven Word Correct Definition\nRhetoric a. A paradoxical situation where two opposite\nconditions exist simultaneously.\nThe use of language to persuade or influence,\noften in a manipulative way.\nA system of government where power is held by\nConsciousness :\none person with absolute authority.\nClass 7 English Forma-05"
+}

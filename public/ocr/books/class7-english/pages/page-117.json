@@ -1,0 +1,241 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 117,
+  "image": "/ocr/books/class7-english/page-images/page-117.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "pdf-text",
+  "lines": [
+    {
+      "text": "Column B",
+      "cleanText": "Column B",
+      "bbox": {
+        "x": 846,
+        "y": 624,
+        "width": 124,
+        "height": 39
+      },
+      "confidence": 99.0,
+      "source": "pdf-text",
+      "aiReady": false,
+      "id": "page-117-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "i) the average temperature of the Earth",
+      "cleanText": "the average temperature of the Earth",
+      "bbox": {
+        "x": 666,
+        "y": 669,
+        "width": 408,
+        "height": 35
+      },
+      "confidence": 99.0,
+      "source": "pdf-text",
+      "aiReady": true,
+      "id": "page-117-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "is increasing.",
+      "cleanText": "is increasing.",
+      "bbox": {
+        "x": 666,
+        "y": 701,
+        "width": 139,
+        "height": 35
+      },
+      "confidence": 99.0,
+      "source": "pdf-text",
+      "aiReady": true,
+      "id": "page-117-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "ii) some ﬆeps should be taken by the",
+      "cleanText": "some ﬆeps should be taken by the",
+      "bbox": {
+        "x": 666,
+        "y": 744,
+        "width": 389,
+        "height": 35
+      },
+      "confidence": 99.0,
+      "source": "pdf-text",
+      "aiReady": true,
+      "id": "page-117-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "authority.",
+      "cleanText": "authority.",
+      "bbox": {
+        "x": 666,
+        "y": 775,
+        "width": 100,
+        "height": 35
+      },
+      "confidence": 99.0,
+      "source": "pdf-text",
+      "aiReady": false,
+      "id": "page-117-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "iii) the variety of plant and animal",
+      "cleanText": "the variety of plant and animal",
+      "bbox": {
+        "x": 666,
+        "y": 818,
+        "width": 360,
+        "height": 35
+      },
+      "confidence": 99.0,
+      "source": "pdf-text",
+      "aiReady": true,
+      "id": "page-117-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "species is decreasing",
+      "cleanText": "species is decreasing",
+      "bbox": {
+        "x": 666,
+        "y": 850,
+        "width": 219,
+        "height": 35
+      },
+      "confidence": 99.0,
+      "source": "pdf-text",
+      "aiReady": true,
+      "id": "page-117-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "iv) contributes to global warming.",
+      "cleanText": "contributes to global warming.",
+      "bbox": {
+        "x": 666,
+        "y": 903,
+        "width": 360,
+        "height": 35
+      },
+      "confidence": 99.0,
+      "source": "pdf-text",
+      "aiReady": true,
+      "id": "page-117-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "v) causes sea levels to rise",
+      "cleanText": "causes sea levels to rise",
+      "bbox": {
+        "x": 666,
+        "y": 971,
+        "width": 278,
+        "height": 35
+      },
+      "confidence": 99.0,
+      "source": "pdf-text",
+      "aiReady": true,
+      "id": "page-117-line-009",
+      "lineNumber": 9
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-117-line-002",
+      "lineNumber": 2,
+      "text": "the average temperature of the Earth",
+      "bbox": {
+        "x": 666,
+        "y": 669,
+        "width": 408,
+        "height": 35
+      },
+      "confidence": 99.0,
+      "source": "pdf-text"
+    },
+    {
+      "id": "page-117-line-003",
+      "lineNumber": 3,
+      "text": "is increasing.",
+      "bbox": {
+        "x": 666,
+        "y": 701,
+        "width": 139,
+        "height": 35
+      },
+      "confidence": 99.0,
+      "source": "pdf-text"
+    },
+    {
+      "id": "page-117-line-004",
+      "lineNumber": 4,
+      "text": "some ﬆeps should be taken by the",
+      "bbox": {
+        "x": 666,
+        "y": 744,
+        "width": 389,
+        "height": 35
+      },
+      "confidence": 99.0,
+      "source": "pdf-text"
+    },
+    {
+      "id": "page-117-line-006",
+      "lineNumber": 6,
+      "text": "the variety of plant and animal",
+      "bbox": {
+        "x": 666,
+        "y": 818,
+        "width": 360,
+        "height": 35
+      },
+      "confidence": 99.0,
+      "source": "pdf-text"
+    },
+    {
+      "id": "page-117-line-007",
+      "lineNumber": 7,
+      "text": "species is decreasing",
+      "bbox": {
+        "x": 666,
+        "y": 850,
+        "width": 219,
+        "height": 35
+      },
+      "confidence": 99.0,
+      "source": "pdf-text"
+    },
+    {
+      "id": "page-117-line-008",
+      "lineNumber": 8,
+      "text": "contributes to global warming.",
+      "bbox": {
+        "x": 666,
+        "y": 903,
+        "width": 360,
+        "height": 35
+      },
+      "confidence": 99.0,
+      "source": "pdf-text"
+    },
+    {
+      "id": "page-117-line-009",
+      "lineNumber": 9,
+      "text": "causes sea levels to rise",
+      "bbox": {
+        "x": 666,
+        "y": 971,
+        "width": 278,
+        "height": 35
+      },
+      "confidence": 99.0,
+      "source": "pdf-text"
+    }
+  ],
+  "rawText": "Column B\ni) the average temperature of the Earth\nis increasing.\nii) some ﬆeps should be taken by the\nauthority.\niii) the variety of plant and animal\nspecies is decreasing\niv) contributes to global warming.\nv) causes sea levels to rise",
+  "cleanText": "Column B\nthe average temperature of the Earth\nis increasing.\nsome ﬆeps should be taken by the\nauthority.\nthe variety of plant and animal\nspecies is decreasing\ncontributes to global warming.\ncauses sea levels to rise",
+  "aiReadyText": "the average temperature of the Earth\nis increasing.\nsome ﬆeps should be taken by the\nthe variety of plant and animal\nspecies is decreasing\ncontributes to global warming.\ncauses sea levels to rise"
+}

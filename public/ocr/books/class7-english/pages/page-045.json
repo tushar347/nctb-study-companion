@@ -1,0 +1,799 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 45,
+  "image": "/ocr/books/class7-english/page-images/page-045.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Make two lists of what Nazma and Joynul do in the table below.",
+      "cleanText": "Make two lists of what Nazma and Joynul do in the table below.",
+      "bbox": {
+        "x": 268,
+        "y": 326,
+        "width": 745,
+        "height": 25
+      },
+      "confidence": 93.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "List A (Nazma) List B (Joynul)",
+      "cleanText": "List A (Nazma) List B (Joynul)",
+      "bbox": {
+        "x": 385,
+        "y": 377,
+        "width": 590,
+        "height": 24
+      },
+      "confidence": 90.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "© cooks makes stools",
+      "cleanText": "© cooks makes stools",
+      "bbox": {
+        "x": 320,
+        "y": 443,
+        "width": 596,
+        "height": 20
+      },
+      "confidence": 76.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "e washes clothes",
+      "cleanText": "e washes clothes",
+      "bbox": {
+        "x": 320,
+        "y": 478,
+        "width": 201,
+        "height": 19
+      },
+      "confidence": 90.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Continue ..... Continue ......",
+      "cleanText": "Continue ..... Continue ......",
+      "bbox": {
+        "x": 280,
+        "y": 577,
+        "width": 559,
+        "height": 20
+      },
+      "confidence": 75.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Match the phrases/words with their meanings.",
+      "cleanText": "Match the phrases/words with their meanings.",
+      "bbox": {
+        "x": 268,
+        "y": 666,
+        "width": 541,
+        "height": 24
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Phrases / Words Meanings",
+      "cleanText": "Phrases / Words Meanings",
+      "bbox": {
+        "x": 280,
+        "y": 717,
+        "width": 641,
+        "height": 25
+      },
+      "confidence": 93.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "live from hand to mouth all the letters in a language",
+      "cleanText": "live from hand to mouth all the letters in a language",
+      "bbox": {
+        "x": 280,
+        "y": 751,
+        "width": 643,
+        "height": 25
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "a person who does not know how to read",
+      "cleanText": "a person who does not know how to read",
+      "bbox": {
+        "x": 630,
+        "y": 819,
+        "width": 448,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "rain or shine and write",
+      "cleanText": "rain or shine and write",
+      "bbox": {
+        "x": 279,
+        "y": 852,
+        "width": 452,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "spend all the moncy you carn on basic",
+      "cleanText": "spend all the moncy you carn on basic",
+      "bbox": {
+        "x": 630,
+        "y": 886,
+        "width": 418,
+        "height": 25
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "alphabet needs, ¢.g. food and clothes—you cannot",
+      "cleanText": "alphabet needs, ¢.g. food and clothes—you cannot",
+      "bbox": {
+        "x": 280,
+        "y": 915,
+        "width": 801,
+        "height": 33
+      },
+      "confidence": 85.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "save any money",
+      "cleanText": "save any money",
+      "bbox": {
+        "x": 630,
+        "y": 958,
+        "width": 175,
+        "height": 20
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "illiterate in good or bad weather",
+      "cleanText": "illiterate in good or bad weather",
+      "bbox": {
+        "x": 281,
+        "y": 986,
+        "width": 601,
+        "height": 27
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "First discuss in groups and then write an answer to this question.",
+      "cleanText": "First discuss in groups and then write an answer to this question.",
+      "bbox": {
+        "x": 269,
+        "y": 1042,
+        "width": 758,
+        "height": 24
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "What do you think is the reason why Mitu and Nitu do not go to school?",
+      "cleanText": "What do you think is the reason why Mitu and Nitu do not go to school?",
+      "bbox": {
+        "x": 262,
+        "y": 1093,
+        "width": 794,
+        "height": 25
+      },
+      "confidence": 95.19,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Lesson 8: The Homemaker (2)",
+      "cleanText": "Lesson 8: The Homemaker (2)",
+      "bbox": {
+        "x": 189,
+        "y": 1143,
+        "width": 392,
+        "height": 28
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Keywords: favour wildly gratitude",
+      "cleanText": "Keywords: favour wildly gratitude",
+      "bbox": {
+        "x": 303,
+        "y": 1189,
+        "width": 431,
+        "height": 25
+      },
+      "confidence": 91.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Read and try to find out why Nazma and Joynul are quarrelling.",
+      "cleanText": "Read and try to find out why Nazma and Joynul are quarrelling.",
+      "bbox": {
+        "x": 268,
+        "y": 1239,
+        "width": 754,
+        "height": 25
+      },
+      "confidence": 94.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "One day Joynul looked for work in his village and in the next village. But",
+      "cleanText": "One day Joynul looked for work in his village and in the next village. But",
+      "bbox": {
+        "x": 268,
+        "y": 1283,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 95.13,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "his luck did not favour him. He was angry—angry with everybody.",
+      "cleanText": "his luck did not favour him. He was angry—angry with everybody.",
+      "bbox": {
+        "x": 268,
+        "y": 1315,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 92.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "When he was back home, Nazma failed to serve his meal. That made him",
+      "cleanText": "When he was back home, Nazma failed to serve his meal. That made him",
+      "bbox": {
+        "x": 267,
+        "y": 1347,
+        "width": 827,
+        "height": 22
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "shout at Nazima.",
+      "cleanText": "shout at Nazima.",
+      "bbox": {
+        "x": 270,
+        "y": 1376,
+        "width": 174,
+        "height": 19
+      },
+      "confidence": 84.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "“T had a severe headache and a fever,” said Nazma.",
+      "cleanText": "“T had a severe headache and a fever,” said Nazma.",
+      "bbox": {
+        "x": 268,
+        "y": 1413,
+        "width": 560,
+        "height": 21
+      },
+      "confidence": 92.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Joynul was trembling with anger.",
+      "cleanText": "Joynul was trembling with anger.",
+      "bbox": {
+        "x": 267,
+        "y": 1454,
+        "width": 366,
+        "height": 26
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "“The cooking is almost done. Wash your hands and feet. Ill bring the food",
+      "cleanText": "“The cooking is almost done. Wash your hands and feet. Ill bring the food",
+      "bbox": {
+        "x": 268,
+        "y": 1500,
+        "width": 830,
+        "height": 24
+      },
+      "confidence": 92.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "soon,” she said.",
+      "cleanText": "soon,” she said.",
+      "bbox": {
+        "x": 268,
+        "y": 1534,
+        "width": 172,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "“Soon! It will take ages!” Joynul shouted wildly.",
+      "cleanText": "“Soon! It will take ages!” Joynul shouted wildly.",
+      "bbox": {
+        "x": 268,
+        "y": 1576,
+        "width": 534,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-045-line-028",
+      "lineNumber": 28
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-045-line-001",
+      "lineNumber": 1,
+      "text": "Make two lists of what Nazma and Joynul do in the table below.",
+      "bbox": {
+        "x": 268,
+        "y": 326,
+        "width": 745,
+        "height": 25
+      },
+      "confidence": 93.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-002",
+      "lineNumber": 2,
+      "text": "List A (Nazma) List B (Joynul)",
+      "bbox": {
+        "x": 385,
+        "y": 377,
+        "width": 590,
+        "height": 24
+      },
+      "confidence": 90.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-003",
+      "lineNumber": 3,
+      "text": "© cooks makes stools",
+      "bbox": {
+        "x": 320,
+        "y": 443,
+        "width": 596,
+        "height": 20
+      },
+      "confidence": 76.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-004",
+      "lineNumber": 4,
+      "text": "e washes clothes",
+      "bbox": {
+        "x": 320,
+        "y": 478,
+        "width": 201,
+        "height": 19
+      },
+      "confidence": 90.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-005",
+      "lineNumber": 5,
+      "text": "Continue ..... Continue ......",
+      "bbox": {
+        "x": 280,
+        "y": 577,
+        "width": 559,
+        "height": 20
+      },
+      "confidence": 75.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-006",
+      "lineNumber": 6,
+      "text": "Match the phrases/words with their meanings.",
+      "bbox": {
+        "x": 268,
+        "y": 666,
+        "width": 541,
+        "height": 24
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-007",
+      "lineNumber": 7,
+      "text": "Phrases / Words Meanings",
+      "bbox": {
+        "x": 280,
+        "y": 717,
+        "width": 641,
+        "height": 25
+      },
+      "confidence": 93.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-008",
+      "lineNumber": 8,
+      "text": "live from hand to mouth all the letters in a language",
+      "bbox": {
+        "x": 280,
+        "y": 751,
+        "width": 643,
+        "height": 25
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-009",
+      "lineNumber": 9,
+      "text": "a person who does not know how to read",
+      "bbox": {
+        "x": 630,
+        "y": 819,
+        "width": 448,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-010",
+      "lineNumber": 10,
+      "text": "rain or shine and write",
+      "bbox": {
+        "x": 279,
+        "y": 852,
+        "width": 452,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-011",
+      "lineNumber": 11,
+      "text": "spend all the moncy you carn on basic",
+      "bbox": {
+        "x": 630,
+        "y": 886,
+        "width": 418,
+        "height": 25
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-012",
+      "lineNumber": 12,
+      "text": "alphabet needs, ¢.g. food and clothes—you cannot",
+      "bbox": {
+        "x": 280,
+        "y": 915,
+        "width": 801,
+        "height": 33
+      },
+      "confidence": 85.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-013",
+      "lineNumber": 13,
+      "text": "save any money",
+      "bbox": {
+        "x": 630,
+        "y": 958,
+        "width": 175,
+        "height": 20
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-014",
+      "lineNumber": 14,
+      "text": "illiterate in good or bad weather",
+      "bbox": {
+        "x": 281,
+        "y": 986,
+        "width": 601,
+        "height": 27
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-015",
+      "lineNumber": 15,
+      "text": "First discuss in groups and then write an answer to this question.",
+      "bbox": {
+        "x": 269,
+        "y": 1042,
+        "width": 758,
+        "height": 24
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-016",
+      "lineNumber": 16,
+      "text": "What do you think is the reason why Mitu and Nitu do not go to school?",
+      "bbox": {
+        "x": 262,
+        "y": 1093,
+        "width": 794,
+        "height": 25
+      },
+      "confidence": 95.19,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-017",
+      "lineNumber": 17,
+      "text": "Lesson 8: The Homemaker (2)",
+      "bbox": {
+        "x": 189,
+        "y": 1143,
+        "width": 392,
+        "height": 28
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-018",
+      "lineNumber": 18,
+      "text": "Keywords: favour wildly gratitude",
+      "bbox": {
+        "x": 303,
+        "y": 1189,
+        "width": 431,
+        "height": 25
+      },
+      "confidence": 91.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-019",
+      "lineNumber": 19,
+      "text": "Read and try to find out why Nazma and Joynul are quarrelling.",
+      "bbox": {
+        "x": 268,
+        "y": 1239,
+        "width": 754,
+        "height": 25
+      },
+      "confidence": 94.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-020",
+      "lineNumber": 20,
+      "text": "One day Joynul looked for work in his village and in the next village. But",
+      "bbox": {
+        "x": 268,
+        "y": 1283,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 95.13,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-021",
+      "lineNumber": 21,
+      "text": "his luck did not favour him. He was angry—angry with everybody.",
+      "bbox": {
+        "x": 268,
+        "y": 1315,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 92.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-022",
+      "lineNumber": 22,
+      "text": "When he was back home, Nazma failed to serve his meal. That made him",
+      "bbox": {
+        "x": 267,
+        "y": 1347,
+        "width": 827,
+        "height": 22
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-023",
+      "lineNumber": 23,
+      "text": "shout at Nazima.",
+      "bbox": {
+        "x": 270,
+        "y": 1376,
+        "width": 174,
+        "height": 19
+      },
+      "confidence": 84.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-024",
+      "lineNumber": 24,
+      "text": "“T had a severe headache and a fever,” said Nazma.",
+      "bbox": {
+        "x": 268,
+        "y": 1413,
+        "width": 560,
+        "height": 21
+      },
+      "confidence": 92.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-025",
+      "lineNumber": 25,
+      "text": "Joynul was trembling with anger.",
+      "bbox": {
+        "x": 267,
+        "y": 1454,
+        "width": 366,
+        "height": 26
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-026",
+      "lineNumber": 26,
+      "text": "“The cooking is almost done. Wash your hands and feet. Ill bring the food",
+      "bbox": {
+        "x": 268,
+        "y": 1500,
+        "width": 830,
+        "height": 24
+      },
+      "confidence": 92.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-027",
+      "lineNumber": 27,
+      "text": "soon,” she said.",
+      "bbox": {
+        "x": 268,
+        "y": 1534,
+        "width": 172,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-045-line-028",
+      "lineNumber": 28,
+      "text": "“Soon! It will take ages!” Joynul shouted wildly.",
+      "bbox": {
+        "x": 268,
+        "y": 1576,
+        "width": 534,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Make two lists of what Nazma and Joynul do in the table below.\nList A (Nazma) List B (Joynul)\n© cooks makes stools\ne washes clothes\nContinue ..... Continue ......\nMatch the phrases/words with their meanings.\nPhrases / Words Meanings\nlive from hand to mouth all the letters in a language\na person who does not know how to read\nrain or shine and write\nspend all the moncy you carn on basic\nalphabet needs, ¢.g. food and clothes—you cannot\nsave any money\nilliterate in good or bad weather\nFirst discuss in groups and then write an answer to this question.\nWhat do you think is the reason why Mitu and Nitu do not go to school?\nLesson 8: The Homemaker (2)\nKeywords: favour wildly gratitude\nRead and try to find out why Nazma and Joynul are quarrelling.\nOne day Joynul looked for work in his village and in the next village. But\nhis luck did not favour him. He was angry—angry with everybody.\nWhen he was back home, Nazma failed to serve his meal. That made him\nshout at Nazima.\n“T had a severe headache and a fever,” said Nazma.\nJoynul was trembling with anger.\n“The cooking is almost done. Wash your hands and feet. Ill bring the food\nsoon,” she said.\n“Soon! It will take ages!” Joynul shouted wildly.",
+  "cleanText": "Make two lists of what Nazma and Joynul do in the table below.\nList A (Nazma) List B (Joynul)\n© cooks makes stools\ne washes clothes\nContinue ..... Continue ......\nMatch the phrases/words with their meanings.\nPhrases / Words Meanings\nlive from hand to mouth all the letters in a language\na person who does not know how to read\nrain or shine and write\nspend all the moncy you carn on basic\nalphabet needs, ¢.g. food and clothes—you cannot\nsave any money\nilliterate in good or bad weather\nFirst discuss in groups and then write an answer to this question.\nWhat do you think is the reason why Mitu and Nitu do not go to school?\nLesson 8: The Homemaker (2)\nKeywords: favour wildly gratitude\nRead and try to find out why Nazma and Joynul are quarrelling.\nOne day Joynul looked for work in his village and in the next village. But\nhis luck did not favour him. He was angry—angry with everybody.\nWhen he was back home, Nazma failed to serve his meal. That made him\nshout at Nazima.\n“T had a severe headache and a fever,” said Nazma.\nJoynul was trembling with anger.\n“The cooking is almost done. Wash your hands and feet. Ill bring the food\nsoon,” she said.\n“Soon! It will take ages!” Joynul shouted wildly.",
+  "aiReadyText": "Make two lists of what Nazma and Joynul do in the table below.\nList A (Nazma) List B (Joynul)\n© cooks makes stools\ne washes clothes\nContinue ..... Continue ......\nMatch the phrases/words with their meanings.\nPhrases / Words Meanings\nlive from hand to mouth all the letters in a language\na person who does not know how to read\nrain or shine and write\nspend all the moncy you carn on basic\nalphabet needs, ¢.g. food and clothes—you cannot\nsave any money\nilliterate in good or bad weather\nFirst discuss in groups and then write an answer to this question.\nWhat do you think is the reason why Mitu and Nitu do not go to school?\nLesson 8: The Homemaker (2)\nKeywords: favour wildly gratitude\nRead and try to find out why Nazma and Joynul are quarrelling.\nOne day Joynul looked for work in his village and in the next village. But\nhis luck did not favour him. He was angry—angry with everybody.\nWhen he was back home, Nazma failed to serve his meal. That made him\nshout at Nazima.\n“T had a severe headache and a fever,” said Nazma.\nJoynul was trembling with anger.\n“The cooking is almost done. Wash your hands and feet. Ill bring the food\nsoon,” she said.\n“Soon! It will take ages!” Joynul shouted wildly."
+}

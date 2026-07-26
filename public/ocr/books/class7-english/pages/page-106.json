@@ -1,0 +1,323 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 106,
+  "image": "/ocr/books/class7-english/page-images/page-106.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Nine : Climate Change 101",
+      "cleanText": "Unit Nine : Climate Change 101",
+      "bbox": {
+        "x": 191,
+        "y": 264,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Drought in north Bengal",
+      "cleanText": "Drought in north Bengal",
+      "bbox": {
+        "x": 377,
+        "y": 1192,
+        "width": 299,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Wildlife at risk of extinction",
+      "cleanText": "Wildlife at risk of extinction",
+      "bbox": {
+        "x": 377,
+        "y": 1234,
+        "width": 348,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Stronger cyclone and tornados",
+      "cleanText": "Stronger cyclone and tornados",
+      "bbox": {
+        "x": 378,
+        "y": 1271,
+        "width": 372,
+        "height": 29
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Rising sea-level at Cox’s Bazar",
+      "cleanText": "Rising sea-level at Cox’s Bazar",
+      "bbox": {
+        "x": 377,
+        "y": 1314,
+        "width": 387,
+        "height": 28
+      },
+      "confidence": 94.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Flooding of rivers in monsoon",
+      "cleanText": "Flooding of rivers in monsoon",
+      "bbox": {
+        "x": 377,
+        "y": 1356,
+        "width": 372,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Higher temperature",
+      "cleanText": "Higher temperature",
+      "bbox": {
+        "x": 378,
+        "y": 1398,
+        "width": 237,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "D. _ Discuss this question in pairs.",
+      "cleanText": "_ Discuss this question in pairs.",
+      "bbox": {
+        "x": 192,
+        "y": 1452,
+        "width": 423,
+        "height": 33
+      },
+      "confidence": 85.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Which of the above dangers are you afraid of the most? Why?",
+      "cleanText": "Which of the above dangers are you afraid of the most? Why?",
+      "bbox": {
+        "x": 271,
+        "y": 1495,
+        "width": 682,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "E. Make a list of two other dangers of climate change that might occur in",
+      "cleanText": "E. Make a list of two other dangers of climate change that might occur in",
+      "bbox": {
+        "x": 192,
+        "y": 1532,
+        "width": 905,
+        "height": 34
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "your locality.",
+      "cleanText": "your locality.",
+      "bbox": {
+        "x": 269,
+        "y": 1569,
+        "width": 161,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-106-line-011",
+      "lineNumber": 11
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-106-line-001",
+      "lineNumber": 1,
+      "text": "Unit Nine : Climate Change 101",
+      "bbox": {
+        "x": 191,
+        "y": 264,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-002",
+      "lineNumber": 2,
+      "text": "Drought in north Bengal",
+      "bbox": {
+        "x": 377,
+        "y": 1192,
+        "width": 299,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-003",
+      "lineNumber": 3,
+      "text": "Wildlife at risk of extinction",
+      "bbox": {
+        "x": 377,
+        "y": 1234,
+        "width": 348,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-004",
+      "lineNumber": 4,
+      "text": "Stronger cyclone and tornados",
+      "bbox": {
+        "x": 378,
+        "y": 1271,
+        "width": 372,
+        "height": 29
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-005",
+      "lineNumber": 5,
+      "text": "Rising sea-level at Cox’s Bazar",
+      "bbox": {
+        "x": 377,
+        "y": 1314,
+        "width": 387,
+        "height": 28
+      },
+      "confidence": 94.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-006",
+      "lineNumber": 6,
+      "text": "Flooding of rivers in monsoon",
+      "bbox": {
+        "x": 377,
+        "y": 1356,
+        "width": 372,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-007",
+      "lineNumber": 7,
+      "text": "Higher temperature",
+      "bbox": {
+        "x": 378,
+        "y": 1398,
+        "width": 237,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-008",
+      "lineNumber": 8,
+      "text": "_ Discuss this question in pairs.",
+      "bbox": {
+        "x": 192,
+        "y": 1452,
+        "width": 423,
+        "height": 33
+      },
+      "confidence": 85.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-009",
+      "lineNumber": 9,
+      "text": "Which of the above dangers are you afraid of the most? Why?",
+      "bbox": {
+        "x": 271,
+        "y": 1495,
+        "width": 682,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-010",
+      "lineNumber": 10,
+      "text": "E. Make a list of two other dangers of climate change that might occur in",
+      "bbox": {
+        "x": 192,
+        "y": 1532,
+        "width": 905,
+        "height": 34
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-106-line-011",
+      "lineNumber": 11,
+      "text": "your locality.",
+      "bbox": {
+        "x": 269,
+        "y": 1569,
+        "width": 161,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Nine : Climate Change 101\nDrought in north Bengal\nWildlife at risk of extinction\nStronger cyclone and tornados\nRising sea-level at Cox’s Bazar\nFlooding of rivers in monsoon\nHigher temperature\nD. _ Discuss this question in pairs.\nWhich of the above dangers are you afraid of the most? Why?\nE. Make a list of two other dangers of climate change that might occur in\nyour locality.",
+  "cleanText": "Unit Nine : Climate Change 101\nDrought in north Bengal\nWildlife at risk of extinction\nStronger cyclone and tornados\nRising sea-level at Cox’s Bazar\nFlooding of rivers in monsoon\nHigher temperature\n_ Discuss this question in pairs.\nWhich of the above dangers are you afraid of the most? Why?\nE. Make a list of two other dangers of climate change that might occur in\nyour locality.",
+  "aiReadyText": "Unit Nine : Climate Change 101\nDrought in north Bengal\nWildlife at risk of extinction\nStronger cyclone and tornados\nRising sea-level at Cox’s Bazar\nFlooding of rivers in monsoon\nHigher temperature\n_ Discuss this question in pairs.\nWhich of the above dangers are you afraid of the most? Why?\nE. Make a list of two other dangers of climate change that might occur in\nyour locality."
+}

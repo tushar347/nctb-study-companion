@@ -1,0 +1,450 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 12,
+  "image": "/ocr/books/class7-english/page-images/page-012.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit one : Attention, Please 7",
+      "cleanText": "Unit one : Attention, Please 7",
+      "bbox": {
+        "x": 202,
+        "y": 249,
+        "width": 905,
+        "height": 23
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 5: At a Bookshop",
+      "cleanText": "Lesson 5: At a Bookshop",
+      "bbox": {
+        "x": 198,
+        "y": 312,
+        "width": 319,
+        "height": 28
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "A. Look at the picture and answer these questions.",
+      "cleanText": "Look at the picture and answer these questions.",
+      "bbox": {
+        "x": 198,
+        "y": 371,
+        "width": 634,
+        "height": 25
+      },
+      "confidence": 90.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-012-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "1, What is it?",
+      "cleanText": "1, What is it?",
+      "bbox": {
+        "x": 280,
+        "y": 412,
+        "width": 154,
+        "height": 20
+      },
+      "confidence": 88.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "2. Where can you find it?",
+      "cleanText": "Where can you find it?",
+      "bbox": {
+        "x": 277,
+        "y": 454,
+        "width": 290,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "3. Is there a bookshop near your house or school or in your upazilla/town?",
+      "cleanText": "Is there a bookshop near your house or school or in your upazilla/town?",
+      "bbox": {
+        "x": 278,
+        "y": 496,
+        "width": 833,
+        "height": 25
+      },
+      "confidence": 94.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Tell us about it.",
+      "cleanText": "Tell us about it.",
+      "bbox": {
+        "x": 314,
+        "y": 532,
+        "width": 173,
+        "height": 20
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "4. Can you guess what these two persons in the picture are talking about?",
+      "cleanText": "Can you guess what these two persons in the picture are talking about?",
+      "bbox": {
+        "x": 277,
+        "y": 571,
+        "width": 823,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "B. to the teacher / audio and answer the following questions.",
+      "cleanText": "to the teacher / audio and answer the following questions.",
+      "bbox": {
+        "x": 198,
+        "y": 1205,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 90.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Listening text: 1",
+      "cleanText": "Listening text: 1",
+      "bbox": {
+        "x": 215,
+        "y": 1293,
+        "width": 187,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "What do you mean by ‘in stock’ and ‘out of stock’?",
+      "cleanText": "What do you mean by ‘in stock’ and ‘out of stock’?",
+      "bbox": {
+        "x": 356,
+        "y": 1375,
+        "width": 566,
+        "height": 25
+      },
+      "confidence": 95.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Who are talking in this conversation?",
+      "cleanText": "Who are talking in this conversation?",
+      "bbox": {
+        "x": 356,
+        "y": 1411,
+        "width": 410,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Where is the conversation taking place?",
+      "cleanText": "Where is the conversation taking place?",
+      "bbox": {
+        "x": 357,
+        "y": 1447,
+        "width": 436,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "How many books does the student want?",
+      "cleanText": "How many books does the student want?",
+      "bbox": {
+        "x": 357,
+        "y": 1483,
+        "width": 448,
+        "height": 25
+      },
+      "confidence": 96.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "What books does she want to buy?",
+      "cleanText": "What books does she want to buy?",
+      "bbox": {
+        "x": 356,
+        "y": 1519,
+        "width": 387,
+        "height": 25
+      },
+      "confidence": 94.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "How much do the books cost?",
+      "cleanText": "How much do the books cost?",
+      "bbox": {
+        "x": 356,
+        "y": 1555,
+        "width": 330,
+        "height": 20
+      },
+      "confidence": 96.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-012-line-016",
+      "lineNumber": 16
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-012-line-001",
+      "lineNumber": 1,
+      "text": "Unit one : Attention, Please 7",
+      "bbox": {
+        "x": 202,
+        "y": 249,
+        "width": 905,
+        "height": 23
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 5: At a Bookshop",
+      "bbox": {
+        "x": 198,
+        "y": 312,
+        "width": 319,
+        "height": 28
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-004",
+      "lineNumber": 4,
+      "text": "1, What is it?",
+      "bbox": {
+        "x": 280,
+        "y": 412,
+        "width": 154,
+        "height": 20
+      },
+      "confidence": 88.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-005",
+      "lineNumber": 5,
+      "text": "Where can you find it?",
+      "bbox": {
+        "x": 277,
+        "y": 454,
+        "width": 290,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-006",
+      "lineNumber": 6,
+      "text": "Is there a bookshop near your house or school or in your upazilla/town?",
+      "bbox": {
+        "x": 278,
+        "y": 496,
+        "width": 833,
+        "height": 25
+      },
+      "confidence": 94.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-007",
+      "lineNumber": 7,
+      "text": "Tell us about it.",
+      "bbox": {
+        "x": 314,
+        "y": 532,
+        "width": 173,
+        "height": 20
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-008",
+      "lineNumber": 8,
+      "text": "Can you guess what these two persons in the picture are talking about?",
+      "bbox": {
+        "x": 277,
+        "y": 571,
+        "width": 823,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-009",
+      "lineNumber": 9,
+      "text": "to the teacher / audio and answer the following questions.",
+      "bbox": {
+        "x": 198,
+        "y": 1205,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 90.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-010",
+      "lineNumber": 10,
+      "text": "Listening text: 1",
+      "bbox": {
+        "x": 215,
+        "y": 1293,
+        "width": 187,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-011",
+      "lineNumber": 11,
+      "text": "What do you mean by ‘in stock’ and ‘out of stock’?",
+      "bbox": {
+        "x": 356,
+        "y": 1375,
+        "width": 566,
+        "height": 25
+      },
+      "confidence": 95.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-012",
+      "lineNumber": 12,
+      "text": "Who are talking in this conversation?",
+      "bbox": {
+        "x": 356,
+        "y": 1411,
+        "width": 410,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-013",
+      "lineNumber": 13,
+      "text": "Where is the conversation taking place?",
+      "bbox": {
+        "x": 357,
+        "y": 1447,
+        "width": 436,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-014",
+      "lineNumber": 14,
+      "text": "How many books does the student want?",
+      "bbox": {
+        "x": 357,
+        "y": 1483,
+        "width": 448,
+        "height": 25
+      },
+      "confidence": 96.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-015",
+      "lineNumber": 15,
+      "text": "What books does she want to buy?",
+      "bbox": {
+        "x": 356,
+        "y": 1519,
+        "width": 387,
+        "height": 25
+      },
+      "confidence": 94.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-012-line-016",
+      "lineNumber": 16,
+      "text": "How much do the books cost?",
+      "bbox": {
+        "x": 356,
+        "y": 1555,
+        "width": 330,
+        "height": 20
+      },
+      "confidence": 96.17,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit one : Attention, Please 7\nLesson 5: At a Bookshop\nA. Look at the picture and answer these questions.\n1, What is it?\n2. Where can you find it?\n3. Is there a bookshop near your house or school or in your upazilla/town?\nTell us about it.\n4. Can you guess what these two persons in the picture are talking about?\nB. to the teacher / audio and answer the following questions.\nListening text: 1\nWhat do you mean by ‘in stock’ and ‘out of stock’?\nWho are talking in this conversation?\nWhere is the conversation taking place?\nHow many books does the student want?\nWhat books does she want to buy?\nHow much do the books cost?",
+  "cleanText": "Unit one : Attention, Please 7\nLesson 5: At a Bookshop\nLook at the picture and answer these questions.\n1, What is it?\nWhere can you find it?\nIs there a bookshop near your house or school or in your upazilla/town?\nTell us about it.\nCan you guess what these two persons in the picture are talking about?\nto the teacher / audio and answer the following questions.\nListening text: 1\nWhat do you mean by ‘in stock’ and ‘out of stock’?\nWho are talking in this conversation?\nWhere is the conversation taking place?\nHow many books does the student want?\nWhat books does she want to buy?\nHow much do the books cost?",
+  "aiReadyText": "Unit one : Attention, Please 7\nLesson 5: At a Bookshop\n1, What is it?\nWhere can you find it?\nIs there a bookshop near your house or school or in your upazilla/town?\nTell us about it.\nCan you guess what these two persons in the picture are talking about?\nto the teacher / audio and answer the following questions.\nListening text: 1\nWhat do you mean by ‘in stock’ and ‘out of stock’?\nWho are talking in this conversation?\nWhere is the conversation taking place?\nHow many books does the student want?\nWhat books does she want to buy?\nHow much do the books cost?"
+}

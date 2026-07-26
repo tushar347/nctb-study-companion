@@ -1,0 +1,590 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 24,
+  "image": "/ocr/books/class7-english/page-images/page-024.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Three :What are Friends for? 19",
+      "cleanText": "Unit Three :What are Friends for? 19",
+      "bbox": {
+        "x": 197,
+        "y": 250,
+        "width": 913,
+        "height": 19
+      },
+      "confidence": 94.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 2: Flora’s First Day at School (1)",
+      "cleanText": "Lesson 2: Flora’s First Day at School (1)",
+      "bbox": {
+        "x": 203,
+        "y": 318,
+        "width": 527,
+        "height": 27
+      },
+      "confidence": 94.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Keywords: recall add chat",
+      "cleanText": "Keywords: recall add chat",
+      "bbox": {
+        "x": 302,
+        "y": 387,
+        "width": 367,
+        "height": 25
+      },
+      "confidence": 85.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Talk about the picture and read the story.",
+      "cleanText": "Talk about the picture and read the story.",
+      "bbox": {
+        "x": 285,
+        "y": 452,
+        "width": 489,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-024-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Next week Farabi comes to visit Flora in her house. They are having a chat.",
+      "cleanText": "Next week Farabi comes to visit Flora in her house. They are having a chat.",
+      "bbox": {
+        "x": 264,
+        "y": 929,
+        "width": 847,
+        "height": 25
+      },
+      "confidence": 95.47,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "“Can you remember your first day at school, Flora?” Farabi asks.",
+      "cleanText": "“Can you remember your first day at school, Flora?” Farabi asks.",
+      "bbox": {
+        "x": 263,
+        "y": 971,
+        "width": 715,
+        "height": 24
+      },
+      "confidence": 95.18,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "“Oh, yes, I can,” Flora says. “‘] can recall exactly what happened. Would you",
+      "cleanText": "“Oh, yes, I can,” Flora says. “‘] can recall exactly what happened. Would you",
+      "bbox": {
+        "x": 263,
+        "y": 1017,
+        "width": 850,
+        "height": 25
+      },
+      "confidence": 92.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "like to hear it?”",
+      "cleanText": "like to hear it?”",
+      "bbox": {
+        "x": 264,
+        "y": 1050,
+        "width": 172,
+        "height": 20
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "love to,” says Farabi. “Please, tell me.”",
+      "cleanText": "love to,” says Farabi. “Please, tell me.”",
+      "bbox": {
+        "x": 315,
+        "y": 1092,
+        "width": 430,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "“Okay,” says Flora. “Tt was 2006. I was then 6 years One day my mother",
+      "cleanText": "“Okay,” says Flora. “Tt was 2006. I was then 6 years One day my mother",
+      "bbox": {
+        "x": 263,
+        "y": 1133,
+        "width": 854,
+        "height": 25
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "said, you’re going to start your school tomorrow.”",
+      "cleanText": "said, you’re going to start your school tomorrow.”",
+      "bbox": {
+        "x": 263,
+        "y": 1166,
+        "width": 635,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "I was very excited. I couldn’t think of anything else. 1 was always thinking",
+      "cleanText": "I was very excited. I couldn’t think of anything else. 1 was always thinking",
+      "bbox": {
+        "x": 264,
+        "y": 1213,
+        "width": 848,
+        "height": 25
+      },
+      "confidence": 91.79,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "about the school, the teachers and the students of our school. I couldn’t even",
+      "cleanText": "about the school, the teachers and the students of our school. I couldn’t even",
+      "bbox": {
+        "x": 260,
+        "y": 1246,
+        "width": 854,
+        "height": 22
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "sleep well that night.",
+      "cleanText": "sleep well that night.",
+      "bbox": {
+        "x": 260,
+        "y": 1278,
+        "width": 230,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "The next morning my mother woke me up early in the morning. | had a bath",
+      "cleanText": "The next morning my mother woke me up early in the morning. | had a bath",
+      "bbox": {
+        "x": 263,
+        "y": 1325,
+        "width": 851,
+        "height": 25
+      },
+      "confidence": 92.94,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "and put on my best clothes. Then | had breakfast and started for the school",
+      "cleanText": "and put on my best clothes. Then | had breakfast and started for the school",
+      "bbox": {
+        "x": 262,
+        "y": 1358,
+        "width": 850,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "with my mother.",
+      "cleanText": "with my mother.",
+      "bbox": {
+        "x": 263,
+        "y": 1391,
+        "width": 186,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "The school was not very far from our home. So, we walked all the way.",
+      "cleanText": "The school was not very far from our home. So, we walked all the way.",
+      "bbox": {
+        "x": 263,
+        "y": 1433,
+        "width": 779,
+        "height": 24
+      },
+      "confidence": 93.53,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Say whether the following statements are true or false. If false, give the",
+      "cleanText": "Say whether the following statements are true or false. If false, give the",
+      "bbox": {
+        "x": 282,
+        "y": 1490,
+        "width": 830,
+        "height": 24
+      },
+      "confidence": 95.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "correct information.",
+      "cleanText": "correct information.",
+      "bbox": {
+        "x": 282,
+        "y": 1526,
+        "width": 236,
+        "height": 19
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "1 Farabi and Flora are talking at school.",
+      "cleanText": "1 Farabi and Flora are talking at school.",
+      "bbox": {
+        "x": 266,
+        "y": 1569,
+        "width": 446,
+        "height": 24
+      },
+      "confidence": 92.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-024-line-021",
+      "lineNumber": 21
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-024-line-001",
+      "lineNumber": 1,
+      "text": "Unit Three :What are Friends for? 19",
+      "bbox": {
+        "x": 197,
+        "y": 250,
+        "width": 913,
+        "height": 19
+      },
+      "confidence": 94.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 2: Flora’s First Day at School (1)",
+      "bbox": {
+        "x": 203,
+        "y": 318,
+        "width": 527,
+        "height": 27
+      },
+      "confidence": 94.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-003",
+      "lineNumber": 3,
+      "text": "Keywords: recall add chat",
+      "bbox": {
+        "x": 302,
+        "y": 387,
+        "width": 367,
+        "height": 25
+      },
+      "confidence": 85.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-005",
+      "lineNumber": 5,
+      "text": "Next week Farabi comes to visit Flora in her house. They are having a chat.",
+      "bbox": {
+        "x": 264,
+        "y": 929,
+        "width": 847,
+        "height": 25
+      },
+      "confidence": 95.47,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-006",
+      "lineNumber": 6,
+      "text": "“Can you remember your first day at school, Flora?” Farabi asks.",
+      "bbox": {
+        "x": 263,
+        "y": 971,
+        "width": 715,
+        "height": 24
+      },
+      "confidence": 95.18,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-007",
+      "lineNumber": 7,
+      "text": "“Oh, yes, I can,” Flora says. “‘] can recall exactly what happened. Would you",
+      "bbox": {
+        "x": 263,
+        "y": 1017,
+        "width": 850,
+        "height": 25
+      },
+      "confidence": 92.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-008",
+      "lineNumber": 8,
+      "text": "like to hear it?”",
+      "bbox": {
+        "x": 264,
+        "y": 1050,
+        "width": 172,
+        "height": 20
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-009",
+      "lineNumber": 9,
+      "text": "love to,” says Farabi. “Please, tell me.”",
+      "bbox": {
+        "x": 315,
+        "y": 1092,
+        "width": 430,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-010",
+      "lineNumber": 10,
+      "text": "“Okay,” says Flora. “Tt was 2006. I was then 6 years One day my mother",
+      "bbox": {
+        "x": 263,
+        "y": 1133,
+        "width": 854,
+        "height": 25
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-011",
+      "lineNumber": 11,
+      "text": "said, you’re going to start your school tomorrow.”",
+      "bbox": {
+        "x": 263,
+        "y": 1166,
+        "width": 635,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-012",
+      "lineNumber": 12,
+      "text": "I was very excited. I couldn’t think of anything else. 1 was always thinking",
+      "bbox": {
+        "x": 264,
+        "y": 1213,
+        "width": 848,
+        "height": 25
+      },
+      "confidence": 91.79,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-013",
+      "lineNumber": 13,
+      "text": "about the school, the teachers and the students of our school. I couldn’t even",
+      "bbox": {
+        "x": 260,
+        "y": 1246,
+        "width": 854,
+        "height": 22
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-014",
+      "lineNumber": 14,
+      "text": "sleep well that night.",
+      "bbox": {
+        "x": 260,
+        "y": 1278,
+        "width": 230,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-015",
+      "lineNumber": 15,
+      "text": "The next morning my mother woke me up early in the morning. | had a bath",
+      "bbox": {
+        "x": 263,
+        "y": 1325,
+        "width": 851,
+        "height": 25
+      },
+      "confidence": 92.94,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-016",
+      "lineNumber": 16,
+      "text": "and put on my best clothes. Then | had breakfast and started for the school",
+      "bbox": {
+        "x": 262,
+        "y": 1358,
+        "width": 850,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-017",
+      "lineNumber": 17,
+      "text": "with my mother.",
+      "bbox": {
+        "x": 263,
+        "y": 1391,
+        "width": 186,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-018",
+      "lineNumber": 18,
+      "text": "The school was not very far from our home. So, we walked all the way.",
+      "bbox": {
+        "x": 263,
+        "y": 1433,
+        "width": 779,
+        "height": 24
+      },
+      "confidence": 93.53,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-019",
+      "lineNumber": 19,
+      "text": "Say whether the following statements are true or false. If false, give the",
+      "bbox": {
+        "x": 282,
+        "y": 1490,
+        "width": 830,
+        "height": 24
+      },
+      "confidence": 95.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-020",
+      "lineNumber": 20,
+      "text": "correct information.",
+      "bbox": {
+        "x": 282,
+        "y": 1526,
+        "width": 236,
+        "height": 19
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-024-line-021",
+      "lineNumber": 21,
+      "text": "1 Farabi and Flora are talking at school.",
+      "bbox": {
+        "x": 266,
+        "y": 1569,
+        "width": 446,
+        "height": 24
+      },
+      "confidence": 92.75,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Three :What are Friends for? 19\nLesson 2: Flora’s First Day at School (1)\nKeywords: recall add chat\nTalk about the picture and read the story.\nNext week Farabi comes to visit Flora in her house. They are having a chat.\n“Can you remember your first day at school, Flora?” Farabi asks.\n“Oh, yes, I can,” Flora says. “‘] can recall exactly what happened. Would you\nlike to hear it?”\nlove to,” says Farabi. “Please, tell me.”\n“Okay,” says Flora. “Tt was 2006. I was then 6 years One day my mother\nsaid, you’re going to start your school tomorrow.”\nI was very excited. I couldn’t think of anything else. 1 was always thinking\nabout the school, the teachers and the students of our school. I couldn’t even\nsleep well that night.\nThe next morning my mother woke me up early in the morning. | had a bath\nand put on my best clothes. Then | had breakfast and started for the school\nwith my mother.\nThe school was not very far from our home. So, we walked all the way.\nSay whether the following statements are true or false. If false, give the\ncorrect information.\n1 Farabi and Flora are talking at school.",
+  "cleanText": "Unit Three :What are Friends for? 19\nLesson 2: Flora’s First Day at School (1)\nKeywords: recall add chat\nTalk about the picture and read the story.\nNext week Farabi comes to visit Flora in her house. They are having a chat.\n“Can you remember your first day at school, Flora?” Farabi asks.\n“Oh, yes, I can,” Flora says. “‘] can recall exactly what happened. Would you\nlike to hear it?”\nlove to,” says Farabi. “Please, tell me.”\n“Okay,” says Flora. “Tt was 2006. I was then 6 years One day my mother\nsaid, you’re going to start your school tomorrow.”\nI was very excited. I couldn’t think of anything else. 1 was always thinking\nabout the school, the teachers and the students of our school. I couldn’t even\nsleep well that night.\nThe next morning my mother woke me up early in the morning. | had a bath\nand put on my best clothes. Then | had breakfast and started for the school\nwith my mother.\nThe school was not very far from our home. So, we walked all the way.\nSay whether the following statements are true or false. If false, give the\ncorrect information.\n1 Farabi and Flora are talking at school.",
+  "aiReadyText": "Unit Three :What are Friends for? 19\nLesson 2: Flora’s First Day at School (1)\nKeywords: recall add chat\nNext week Farabi comes to visit Flora in her house. They are having a chat.\n“Can you remember your first day at school, Flora?” Farabi asks.\n“Oh, yes, I can,” Flora says. “‘] can recall exactly what happened. Would you\nlike to hear it?”\nlove to,” says Farabi. “Please, tell me.”\n“Okay,” says Flora. “Tt was 2006. I was then 6 years One day my mother\nsaid, you’re going to start your school tomorrow.”\nI was very excited. I couldn’t think of anything else. 1 was always thinking\nabout the school, the teachers and the students of our school. I couldn’t even\nsleep well that night.\nThe next morning my mother woke me up early in the morning. | had a bath\nand put on my best clothes. Then | had breakfast and started for the school\nwith my mother.\nThe school was not very far from our home. So, we walked all the way.\nSay whether the following statements are true or false. If false, give the\ncorrect information.\n1 Farabi and Flora are talking at school."
+}

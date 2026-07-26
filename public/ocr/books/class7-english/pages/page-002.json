@@ -1,0 +1,114 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 2,
+  "image": "/ocr/books/class7-english/page-images/page-002.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Prescribed by the National Curriculum and Textbook Board, Bangladesh",
+      "cleanText": "Prescribed by the National Curriculum and Textbook Board, Bangladesh",
+      "bbox": {
+        "x": 174,
+        "y": 121,
+        "width": 829,
+        "height": 39
+      },
+      "confidence": 95.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-002-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "as a textbook for Class Seven from the academic year 2023",
+      "cleanText": "as a textbook for Class Seven from the academic year 2023",
+      "bbox": {
+        "x": 257,
+        "y": 166,
+        "width": 713,
+        "height": 32
+      },
+      "confidence": 91.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-002-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Class Seven",
+      "cleanText": "Class Seven",
+      "bbox": {
+        "x": 449,
+        "y": 390,
+        "width": 244,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-002-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Revised for the year 2026",
+      "cleanText": "Revised for the year 2026",
+      "bbox": {
+        "x": 381,
+        "y": 774,
+        "width": 374,
+        "height": 31
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-002-line-004",
+      "lineNumber": 4
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-002-line-001",
+      "lineNumber": 1,
+      "text": "Prescribed by the National Curriculum and Textbook Board, Bangladesh",
+      "bbox": {
+        "x": 174,
+        "y": 121,
+        "width": 829,
+        "height": 39
+      },
+      "confidence": 95.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-002-line-002",
+      "lineNumber": 2,
+      "text": "as a textbook for Class Seven from the academic year 2023",
+      "bbox": {
+        "x": 257,
+        "y": 166,
+        "width": 713,
+        "height": 32
+      },
+      "confidence": 91.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-002-line-004",
+      "lineNumber": 4,
+      "text": "Revised for the year 2026",
+      "bbox": {
+        "x": 381,
+        "y": 774,
+        "width": 374,
+        "height": 31
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Prescribed by the National Curriculum and Textbook Board, Bangladesh\nas a textbook for Class Seven from the academic year 2023\nClass Seven\nRevised for the year 2026",
+  "cleanText": "Prescribed by the National Curriculum and Textbook Board, Bangladesh\nas a textbook for Class Seven from the academic year 2023\nClass Seven\nRevised for the year 2026",
+  "aiReadyText": "Prescribed by the National Curriculum and Textbook Board, Bangladesh\nas a textbook for Class Seven from the academic year 2023\nRevised for the year 2026"
+}

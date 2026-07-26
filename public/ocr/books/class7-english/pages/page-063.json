@@ -1,0 +1,562 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 63,
+  "image": "/ocr/books/class7-english/page-images/page-063.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "58 ENGLISH FOR TODAY",
+      "cleanText": "58 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 198,
+        "y": 261,
+        "width": 911,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 3: What are They Doing?",
+      "cleanText": "Lesson 3: What are They Doing?",
+      "bbox": {
+        "x": 198,
+        "y": 324,
+        "width": 426,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Keywords : glued to, upload, download, messages",
+      "cleanText": "Keywords : glued to, upload, download, messages",
+      "bbox": {
+        "x": 273,
+        "y": 386,
+        "width": 577,
+        "height": 33
+      },
+      "confidence": 89.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "A- Work in groups. Look at the pictures and talk about what the boys",
+      "cleanText": "A- Work in groups. Look at the pictures and talk about what the boys",
+      "bbox": {
+        "x": 198,
+        "y": 451,
+        "width": 909,
+        "height": 25
+      },
+      "confidence": 93.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "and girls are doing.",
+      "cleanText": "and girls are doing.",
+      "bbox": {
+        "x": 277,
+        "y": 484,
+        "width": 228,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "B. Nowread the paragraphs and match them with the pictures.",
+      "cleanText": "Nowread the paragraphs and match them with the pictures.",
+      "bbox": {
+        "x": 198,
+        "y": 1048,
+        "width": 786,
+        "height": 25
+      },
+      "confidence": 87.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "1, Young children play this game on the ground. The ground is marked",
+      "cleanText": "1, Young children play this game on the ground. The ground is marked",
+      "bbox": {
+        "x": 280,
+        "y": 1092,
+        "width": 824,
+        "height": 25
+      },
+      "confidence": 93.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "by a set of joined squares. Each child throws a stone into a square, then",
+      "cleanText": "by a set of joined squares. Each child throws a stone into a square, then",
+      "bbox": {
+        "x": 314,
+        "y": 1120,
+        "width": 796,
+        "height": 34
+      },
+      "confidence": 93.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "hops (jumps on one leg) and jumps along the empty squares to pick up",
+      "cleanText": "hops (jumps on one leg) and jumps along the empty squares to pick up",
+      "bbox": {
+        "x": 313,
+        "y": 1155,
+        "width": 794,
+        "height": 26
+      },
+      "confidence": 92.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "the stone again. They play this game in turn.",
+      "cleanText": "the stone again. They play this game in turn.",
+      "bbox": {
+        "x": 313,
+        "y": 1186,
+        "width": 497,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "2. Some children are often glued to computers. They download games",
+      "cleanText": "Some children are often glued to computers. They download games",
+      "bbox": {
+        "x": 277,
+        "y": 1232,
+        "width": 825,
+        "height": 26
+      },
+      "confidence": 94.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "to play on them. Some also share personal updates on Facebook by",
+      "cleanText": "to play on them. Some also share personal updates on Facebook by",
+      "bbox": {
+        "x": 317,
+        "y": 1266,
+        "width": 786,
+        "height": 26
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "uploading posts and pictures.",
+      "cleanText": "uploading posts and pictures.",
+      "bbox": {
+        "x": 316,
+        "y": 1300,
+        "width": 332,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "3, Children often watch football matches of both national and international",
+      "cleanText": "3, Children often watch football matches of both national and international",
+      "bbox": {
+        "x": 277,
+        "y": 1350,
+        "width": 831,
+        "height": 22
+      },
+      "confidence": 92.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "teams on TV.",
+      "cleanText": "teams on TV.",
+      "bbox": {
+        "x": 317,
+        "y": 1382,
+        "width": 149,
+        "height": 19
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-063-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "4, Children often play football in the school playground.",
+      "cleanText": "4, Children often play football in the school playground.",
+      "bbox": {
+        "x": 277,
+        "y": 1426,
+        "width": 629,
+        "height": 25
+      },
+      "confidence": 95.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Note: glued to : giving all your attention to something",
+      "cleanText": "Note: glued to : giving all your attention to something",
+      "bbox": {
+        "x": 298,
+        "y": 1477,
+        "width": 683,
+        "height": 26
+      },
+      "confidence": 94.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "upload : transfer information, data to a computer system",
+      "cleanText": "upload : transfer information, data to a computer system",
+      "bbox": {
+        "x": 370,
+        "y": 1516,
+        "width": 721,
+        "height": 27
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "download : copy data, information, etc from one computer",
+      "cleanText": "download : copy data, information, etc from one computer",
+      "bbox": {
+        "x": 369,
+        "y": 1546,
+        "width": 737,
+        "height": 34
+      },
+      "confidence": 94.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "system to another or to a disk",
+      "cleanText": "system to another or to a disk",
+      "bbox": {
+        "x": 552,
+        "y": 1581,
+        "width": 334,
+        "height": 26
+      },
+      "confidence": 93.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-063-line-020",
+      "lineNumber": 20
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-063-line-001",
+      "lineNumber": 1,
+      "text": "58 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 198,
+        "y": 261,
+        "width": 911,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 3: What are They Doing?",
+      "bbox": {
+        "x": 198,
+        "y": 324,
+        "width": 426,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-003",
+      "lineNumber": 3,
+      "text": "Keywords : glued to, upload, download, messages",
+      "bbox": {
+        "x": 273,
+        "y": 386,
+        "width": 577,
+        "height": 33
+      },
+      "confidence": 89.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-004",
+      "lineNumber": 4,
+      "text": "A- Work in groups. Look at the pictures and talk about what the boys",
+      "bbox": {
+        "x": 198,
+        "y": 451,
+        "width": 909,
+        "height": 25
+      },
+      "confidence": 93.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-005",
+      "lineNumber": 5,
+      "text": "and girls are doing.",
+      "bbox": {
+        "x": 277,
+        "y": 484,
+        "width": 228,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-006",
+      "lineNumber": 6,
+      "text": "Nowread the paragraphs and match them with the pictures.",
+      "bbox": {
+        "x": 198,
+        "y": 1048,
+        "width": 786,
+        "height": 25
+      },
+      "confidence": 87.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-007",
+      "lineNumber": 7,
+      "text": "1, Young children play this game on the ground. The ground is marked",
+      "bbox": {
+        "x": 280,
+        "y": 1092,
+        "width": 824,
+        "height": 25
+      },
+      "confidence": 93.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-008",
+      "lineNumber": 8,
+      "text": "by a set of joined squares. Each child throws a stone into a square, then",
+      "bbox": {
+        "x": 314,
+        "y": 1120,
+        "width": 796,
+        "height": 34
+      },
+      "confidence": 93.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-009",
+      "lineNumber": 9,
+      "text": "hops (jumps on one leg) and jumps along the empty squares to pick up",
+      "bbox": {
+        "x": 313,
+        "y": 1155,
+        "width": 794,
+        "height": 26
+      },
+      "confidence": 92.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-010",
+      "lineNumber": 10,
+      "text": "the stone again. They play this game in turn.",
+      "bbox": {
+        "x": 313,
+        "y": 1186,
+        "width": 497,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-011",
+      "lineNumber": 11,
+      "text": "Some children are often glued to computers. They download games",
+      "bbox": {
+        "x": 277,
+        "y": 1232,
+        "width": 825,
+        "height": 26
+      },
+      "confidence": 94.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-012",
+      "lineNumber": 12,
+      "text": "to play on them. Some also share personal updates on Facebook by",
+      "bbox": {
+        "x": 317,
+        "y": 1266,
+        "width": 786,
+        "height": 26
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-013",
+      "lineNumber": 13,
+      "text": "uploading posts and pictures.",
+      "bbox": {
+        "x": 316,
+        "y": 1300,
+        "width": 332,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-014",
+      "lineNumber": 14,
+      "text": "3, Children often watch football matches of both national and international",
+      "bbox": {
+        "x": 277,
+        "y": 1350,
+        "width": 831,
+        "height": 22
+      },
+      "confidence": 92.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-016",
+      "lineNumber": 16,
+      "text": "4, Children often play football in the school playground.",
+      "bbox": {
+        "x": 277,
+        "y": 1426,
+        "width": 629,
+        "height": 25
+      },
+      "confidence": 95.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-017",
+      "lineNumber": 17,
+      "text": "Note: glued to : giving all your attention to something",
+      "bbox": {
+        "x": 298,
+        "y": 1477,
+        "width": 683,
+        "height": 26
+      },
+      "confidence": 94.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-018",
+      "lineNumber": 18,
+      "text": "upload : transfer information, data to a computer system",
+      "bbox": {
+        "x": 370,
+        "y": 1516,
+        "width": 721,
+        "height": 27
+      },
+      "confidence": 93.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-019",
+      "lineNumber": 19,
+      "text": "download : copy data, information, etc from one computer",
+      "bbox": {
+        "x": 369,
+        "y": 1546,
+        "width": 737,
+        "height": 34
+      },
+      "confidence": 94.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-063-line-020",
+      "lineNumber": 20,
+      "text": "system to another or to a disk",
+      "bbox": {
+        "x": 552,
+        "y": 1581,
+        "width": 334,
+        "height": 26
+      },
+      "confidence": 93.71,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "58 ENGLISH FOR TODAY\nLesson 3: What are They Doing?\nKeywords : glued to, upload, download, messages\nA- Work in groups. Look at the pictures and talk about what the boys\nand girls are doing.\nB. Nowread the paragraphs and match them with the pictures.\n1, Young children play this game on the ground. The ground is marked\nby a set of joined squares. Each child throws a stone into a square, then\nhops (jumps on one leg) and jumps along the empty squares to pick up\nthe stone again. They play this game in turn.\n2. Some children are often glued to computers. They download games\nto play on them. Some also share personal updates on Facebook by\nuploading posts and pictures.\n3, Children often watch football matches of both national and international\nteams on TV.\n4, Children often play football in the school playground.\nNote: glued to : giving all your attention to something\nupload : transfer information, data to a computer system\ndownload : copy data, information, etc from one computer\nsystem to another or to a disk",
+  "cleanText": "58 ENGLISH FOR TODAY\nLesson 3: What are They Doing?\nKeywords : glued to, upload, download, messages\nA- Work in groups. Look at the pictures and talk about what the boys\nand girls are doing.\nNowread the paragraphs and match them with the pictures.\n1, Young children play this game on the ground. The ground is marked\nby a set of joined squares. Each child throws a stone into a square, then\nhops (jumps on one leg) and jumps along the empty squares to pick up\nthe stone again. They play this game in turn.\nSome children are often glued to computers. They download games\nto play on them. Some also share personal updates on Facebook by\nuploading posts and pictures.\n3, Children often watch football matches of both national and international\nteams on TV.\n4, Children often play football in the school playground.\nNote: glued to : giving all your attention to something\nupload : transfer information, data to a computer system\ndownload : copy data, information, etc from one computer\nsystem to another or to a disk",
+  "aiReadyText": "58 ENGLISH FOR TODAY\nLesson 3: What are They Doing?\nKeywords : glued to, upload, download, messages\nA- Work in groups. Look at the pictures and talk about what the boys\nand girls are doing.\nNowread the paragraphs and match them with the pictures.\n1, Young children play this game on the ground. The ground is marked\nby a set of joined squares. Each child throws a stone into a square, then\nhops (jumps on one leg) and jumps along the empty squares to pick up\nthe stone again. They play this game in turn.\nSome children are often glued to computers. They download games\nto play on them. Some also share personal updates on Facebook by\nuploading posts and pictures.\n3, Children often watch football matches of both national and international\n4, Children often play football in the school playground.\nNote: glued to : giving all your attention to something\nupload : transfer information, data to a computer system\ndownload : copy data, information, etc from one computer\nsystem to another or to a disk"
+}

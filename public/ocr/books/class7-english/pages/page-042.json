@@ -1,0 +1,885 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 42,
+  "image": "/ocr/books/class7-english/page-images/page-042.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Four : People Who Make a Difference 37",
+      "cleanText": "Unit Four : People Who Make a Difference 37",
+      "bbox": {
+        "x": 197,
+        "y": 256,
+        "width": 904,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "shopkeeper says, “No, I can’t sell it for 200 taka.” Then you",
+      "cleanText": "shopkeeper says, “No, I can’t sell it for 200 taka.” Then you",
+      "bbox": {
+        "x": 437,
+        "y": 318,
+        "width": 663,
+        "height": 25
+      },
+      "confidence": 92.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "offer 225 taka and he may still say, “No, it’ll be a loss for",
+      "cleanText": "offer 225 taka and he may still say, “No, it’ll be a loss for",
+      "bbox": {
+        "x": 435,
+        "y": 350,
+        "width": 665,
+        "height": 25
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "me.” This process of asking for and offering more and",
+      "cleanText": "me.” This process of asking for and offering more and",
+      "bbox": {
+        "x": 434,
+        "y": 386,
+        "width": 667,
+        "height": 25
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "less money is called ‘bargaining’ or ‘haggling’. lt goes on",
+      "cleanText": "less money is called ‘bargaining’ or ‘haggling’. lt goes on",
+      "bbox": {
+        "x": 433,
+        "y": 419,
+        "width": 668,
+        "height": 25
+      },
+      "confidence": 93.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "until you both (buyer and seller) agree on a price, say 250",
+      "cleanText": "until you both (buyer and seller) agree on a price, say 250",
+      "bbox": {
+        "x": 430,
+        "y": 452,
+        "width": 673,
+        "height": 25
+      },
+      "confidence": 95.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "taka in this case. This price is acceptable to both of you.",
+      "cleanText": "taka in this case. This price is acceptable to both of you.",
+      "bbox": {
+        "x": 431,
+        "y": 484,
+        "width": 625,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Sazia : If there is no bargaining, how are we going to buy things?",
+      "cleanText": "Sazia : If there is no bargaining, how are we going to buy things?",
+      "bbox": {
+        "x": 225,
+        "y": 527,
+        "width": 841,
+        "height": 33
+      },
+      "confidence": 94.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Shahana : Tf you don’t need to bargain, it will be a fixed-price shop.",
+      "cleanText": "Shahana : Tf you don’t need to bargain, it will be a fixed-price shop.",
+      "bbox": {
+        "x": 191,
+        "y": 577,
+        "width": 887,
+        "height": 26
+      },
+      "confidence": 94.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Questions",
+      "cleanText": "Questions",
+      "bbox": {
+        "x": 273,
+        "y": 618,
+        "width": 114,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-042-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "1. Do you go shopping? Where is the shop?",
+      "cleanText": "Do you go shopping? Where is the shop?",
+      "bbox": {
+        "x": 356,
+        "y": 651,
+        "width": 526,
+        "height": 25
+      },
+      "confidence": 92.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "2. What do you usually buy?",
+      "cleanText": "What do you usually buy?",
+      "bbox": {
+        "x": 352,
+        "y": 684,
+        "width": 366,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "3. Do you bargain? Why do you do that?",
+      "cleanText": "Do you bargain? Why do you do that?",
+      "bbox": {
+        "x": 353,
+        "y": 717,
+        "width": 497,
+        "height": 25
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "4. Do you know about a ‘Fixed-price’ shop? Where is it? What",
+      "cleanText": "Do you know about a ‘Fixed-price’ shop? Where is it? What",
+      "bbox": {
+        "x": 352,
+        "y": 748,
+        "width": 748,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "does it sell?",
+      "cleanText": "does it sell?",
+      "bbox": {
+        "x": 427,
+        "y": 780,
+        "width": 131,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-042-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Lesson 6: Morality Shop",
+      "cleanText": "Lesson 6: Morality Shop",
+      "bbox": {
+        "x": 194,
+        "y": 828,
+        "width": 320,
+        "height": 28
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Keywords : conscience, prick",
+      "cleanText": "Keywords : conscience, prick",
+      "bbox": {
+        "x": 294,
+        "y": 881,
+        "width": 537,
+        "height": 25
+      },
+      "confidence": 74.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "A. Read the conversation to know about the ‘Morality Shop’. Then answer",
+      "cleanText": "Read the conversation to know about the ‘Morality Shop’. Then answer",
+      "bbox": {
+        "x": 194,
+        "y": 936,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 94.42,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "the following questions :",
+      "cleanText": "the following questions :",
+      "bbox": {
+        "x": 272,
+        "y": 969,
+        "width": 275,
+        "height": 24
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": ": Today I’m going to tell you about a new kind of shop, where there",
+      "cleanText": ": Today I’m going to tell you about a new kind of shop, where there",
+      "bbox": {
+        "x": 315,
+        "y": 1014,
+        "width": 786,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "will be no shopkeeper. The price of each item or thing will be",
+      "cleanText": "will be no shopkeeper. The price of each item or thing will be",
+      "bbox": {
+        "x": 336,
+        "y": 1047,
+        "width": 765,
+        "height": 25
+      },
+      "confidence": 95.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "written on a small piece of paper. This price tag will be attached to",
+      "cleanText": "written on a small piece of paper. This price tag will be attached to",
+      "bbox": {
+        "x": 338,
+        "y": 1078,
+        "width": 763,
+        "height": 25
+      },
+      "confidence": 95.79,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "the item or items. You will pick an item you like, look at the price",
+      "cleanText": "the item or items. You will pick an item you like, look at the price",
+      "bbox": {
+        "x": 339,
+        "y": 1110,
+        "width": 763,
+        "height": 26
+      },
+      "confidence": 95.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "tag and put the money in the box kept there. And the thing is now",
+      "cleanText": "tag and put the money in the box kept there. And the thing is now",
+      "bbox": {
+        "x": 338,
+        "y": 1145,
+        "width": 764,
+        "height": 25
+      },
+      "confidence": 95.87,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "The students are not clear about this kind of shop. They know",
+      "cleanText": "The students are not clear about this kind of shop. They know",
+      "bbox": {
+        "x": 338,
+        "y": 1224,
+        "width": 763,
+        "height": 26
+      },
+      "confidence": 93.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "that a shop always has a shopkeeper . So, they are confused.",
+      "cleanText": "that a shop always has a shopkeeper . So, they are confused.",
+      "bbox": {
+        "x": 331,
+        "y": 1253,
+        "width": 693,
+        "height": 34
+      },
+      "confidence": 91.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": ": case, someone may take a thing and go away without paying.",
+      "cleanText": ": case, someone may take a thing and go away without paying.",
+      "bbox": {
+        "x": 316,
+        "y": 1307,
+        "width": 789,
+        "height": 25
+      },
+      "confidence": 89.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": ": Nobody will do it. If anybody does, it will be stealing.",
+      "cleanText": ": Nobody will do it. If anybody does, it will be stealing.",
+      "bbox": {
+        "x": 316,
+        "y": 1360,
+        "width": 611,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": ": Who’ll see them stealing?",
+      "cleanText": ": Who’ll see them stealing?",
+      "bbox": {
+        "x": 315,
+        "y": 1410,
+        "width": 303,
+        "height": 24
+      },
+      "confidence": 93.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": ": Conscience. Do you know what conscience is? OK. There is something",
+      "cleanText": ": Conscience. Do you know what conscience is? OK. There is something",
+      "bbox": {
+        "x": 315,
+        "y": 1453,
+        "width": 789,
+        "height": 25
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "in your mind called conscience. It tells you whether your actions are",
+      "cleanText": "in your mind called conscience. It tells you whether your actions are",
+      "bbox": {
+        "x": 336,
+        "y": 1485,
+        "width": 767,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "right or wrong. Ts stealing a right thing or a wrong thing?",
+      "cleanText": "right or wrong. Ts stealing a right thing or a wrong thing?",
+      "bbox": {
+        "x": 335,
+        "y": 1515,
+        "width": 663,
+        "height": 30
+      },
+      "confidence": 93.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-042-line-032",
+      "lineNumber": 32
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-042-line-001",
+      "lineNumber": 1,
+      "text": "Unit Four : People Who Make a Difference 37",
+      "bbox": {
+        "x": 197,
+        "y": 256,
+        "width": 904,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-002",
+      "lineNumber": 2,
+      "text": "shopkeeper says, “No, I can’t sell it for 200 taka.” Then you",
+      "bbox": {
+        "x": 437,
+        "y": 318,
+        "width": 663,
+        "height": 25
+      },
+      "confidence": 92.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-003",
+      "lineNumber": 3,
+      "text": "offer 225 taka and he may still say, “No, it’ll be a loss for",
+      "bbox": {
+        "x": 435,
+        "y": 350,
+        "width": 665,
+        "height": 25
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-004",
+      "lineNumber": 4,
+      "text": "me.” This process of asking for and offering more and",
+      "bbox": {
+        "x": 434,
+        "y": 386,
+        "width": 667,
+        "height": 25
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-005",
+      "lineNumber": 5,
+      "text": "less money is called ‘bargaining’ or ‘haggling’. lt goes on",
+      "bbox": {
+        "x": 433,
+        "y": 419,
+        "width": 668,
+        "height": 25
+      },
+      "confidence": 93.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-006",
+      "lineNumber": 6,
+      "text": "until you both (buyer and seller) agree on a price, say 250",
+      "bbox": {
+        "x": 430,
+        "y": 452,
+        "width": 673,
+        "height": 25
+      },
+      "confidence": 95.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-007",
+      "lineNumber": 7,
+      "text": "taka in this case. This price is acceptable to both of you.",
+      "bbox": {
+        "x": 431,
+        "y": 484,
+        "width": 625,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-008",
+      "lineNumber": 8,
+      "text": "Sazia : If there is no bargaining, how are we going to buy things?",
+      "bbox": {
+        "x": 225,
+        "y": 527,
+        "width": 841,
+        "height": 33
+      },
+      "confidence": 94.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-009",
+      "lineNumber": 9,
+      "text": "Shahana : Tf you don’t need to bargain, it will be a fixed-price shop.",
+      "bbox": {
+        "x": 191,
+        "y": 577,
+        "width": 887,
+        "height": 26
+      },
+      "confidence": 94.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-011",
+      "lineNumber": 11,
+      "text": "Do you go shopping? Where is the shop?",
+      "bbox": {
+        "x": 356,
+        "y": 651,
+        "width": 526,
+        "height": 25
+      },
+      "confidence": 92.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-012",
+      "lineNumber": 12,
+      "text": "What do you usually buy?",
+      "bbox": {
+        "x": 352,
+        "y": 684,
+        "width": 366,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-013",
+      "lineNumber": 13,
+      "text": "Do you bargain? Why do you do that?",
+      "bbox": {
+        "x": 353,
+        "y": 717,
+        "width": 497,
+        "height": 25
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-014",
+      "lineNumber": 14,
+      "text": "Do you know about a ‘Fixed-price’ shop? Where is it? What",
+      "bbox": {
+        "x": 352,
+        "y": 748,
+        "width": 748,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-016",
+      "lineNumber": 16,
+      "text": "Lesson 6: Morality Shop",
+      "bbox": {
+        "x": 194,
+        "y": 828,
+        "width": 320,
+        "height": 28
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-017",
+      "lineNumber": 17,
+      "text": "Keywords : conscience, prick",
+      "bbox": {
+        "x": 294,
+        "y": 881,
+        "width": 537,
+        "height": 25
+      },
+      "confidence": 74.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-018",
+      "lineNumber": 18,
+      "text": "Read the conversation to know about the ‘Morality Shop’. Then answer",
+      "bbox": {
+        "x": 194,
+        "y": 936,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 94.42,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-019",
+      "lineNumber": 19,
+      "text": "the following questions :",
+      "bbox": {
+        "x": 272,
+        "y": 969,
+        "width": 275,
+        "height": 24
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-020",
+      "lineNumber": 20,
+      "text": ": Today I’m going to tell you about a new kind of shop, where there",
+      "bbox": {
+        "x": 315,
+        "y": 1014,
+        "width": 786,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-021",
+      "lineNumber": 21,
+      "text": "will be no shopkeeper. The price of each item or thing will be",
+      "bbox": {
+        "x": 336,
+        "y": 1047,
+        "width": 765,
+        "height": 25
+      },
+      "confidence": 95.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-022",
+      "lineNumber": 22,
+      "text": "written on a small piece of paper. This price tag will be attached to",
+      "bbox": {
+        "x": 338,
+        "y": 1078,
+        "width": 763,
+        "height": 25
+      },
+      "confidence": 95.79,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-023",
+      "lineNumber": 23,
+      "text": "the item or items. You will pick an item you like, look at the price",
+      "bbox": {
+        "x": 339,
+        "y": 1110,
+        "width": 763,
+        "height": 26
+      },
+      "confidence": 95.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-024",
+      "lineNumber": 24,
+      "text": "tag and put the money in the box kept there. And the thing is now",
+      "bbox": {
+        "x": 338,
+        "y": 1145,
+        "width": 764,
+        "height": 25
+      },
+      "confidence": 95.87,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-025",
+      "lineNumber": 25,
+      "text": "The students are not clear about this kind of shop. They know",
+      "bbox": {
+        "x": 338,
+        "y": 1224,
+        "width": 763,
+        "height": 26
+      },
+      "confidence": 93.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-026",
+      "lineNumber": 26,
+      "text": "that a shop always has a shopkeeper . So, they are confused.",
+      "bbox": {
+        "x": 331,
+        "y": 1253,
+        "width": 693,
+        "height": 34
+      },
+      "confidence": 91.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-027",
+      "lineNumber": 27,
+      "text": ": case, someone may take a thing and go away without paying.",
+      "bbox": {
+        "x": 316,
+        "y": 1307,
+        "width": 789,
+        "height": 25
+      },
+      "confidence": 89.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-028",
+      "lineNumber": 28,
+      "text": ": Nobody will do it. If anybody does, it will be stealing.",
+      "bbox": {
+        "x": 316,
+        "y": 1360,
+        "width": 611,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-029",
+      "lineNumber": 29,
+      "text": ": Who’ll see them stealing?",
+      "bbox": {
+        "x": 315,
+        "y": 1410,
+        "width": 303,
+        "height": 24
+      },
+      "confidence": 93.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-030",
+      "lineNumber": 30,
+      "text": ": Conscience. Do you know what conscience is? OK. There is something",
+      "bbox": {
+        "x": 315,
+        "y": 1453,
+        "width": 789,
+        "height": 25
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-031",
+      "lineNumber": 31,
+      "text": "in your mind called conscience. It tells you whether your actions are",
+      "bbox": {
+        "x": 336,
+        "y": 1485,
+        "width": 767,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-042-line-032",
+      "lineNumber": 32,
+      "text": "right or wrong. Ts stealing a right thing or a wrong thing?",
+      "bbox": {
+        "x": 335,
+        "y": 1515,
+        "width": 663,
+        "height": 30
+      },
+      "confidence": 93.08,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Four : People Who Make a Difference 37\nshopkeeper says, “No, I can’t sell it for 200 taka.” Then you\noffer 225 taka and he may still say, “No, it’ll be a loss for\nme.” This process of asking for and offering more and\nless money is called ‘bargaining’ or ‘haggling’. lt goes on\nuntil you both (buyer and seller) agree on a price, say 250\ntaka in this case. This price is acceptable to both of you.\nSazia : If there is no bargaining, how are we going to buy things?\nShahana : Tf you don’t need to bargain, it will be a fixed-price shop.\nQuestions\n1. Do you go shopping? Where is the shop?\n2. What do you usually buy?\n3. Do you bargain? Why do you do that?\n4. Do you know about a ‘Fixed-price’ shop? Where is it? What\ndoes it sell?\nLesson 6: Morality Shop\nKeywords : conscience, prick\nA. Read the conversation to know about the ‘Morality Shop’. Then answer\nthe following questions :\n: Today I’m going to tell you about a new kind of shop, where there\nwill be no shopkeeper. The price of each item or thing will be\nwritten on a small piece of paper. This price tag will be attached to\nthe item or items. You will pick an item you like, look at the price\ntag and put the money in the box kept there. And the thing is now\nThe students are not clear about this kind of shop. They know\nthat a shop always has a shopkeeper . So, they are confused.\n: case, someone may take a thing and go away without paying.\n: Nobody will do it. If anybody does, it will be stealing.\n: Who’ll see them stealing?\n: Conscience. Do you know what conscience is? OK. There is something\nin your mind called conscience. It tells you whether your actions are\nright or wrong. Ts stealing a right thing or a wrong thing?",
+  "cleanText": "Unit Four : People Who Make a Difference 37\nshopkeeper says, “No, I can’t sell it for 200 taka.” Then you\noffer 225 taka and he may still say, “No, it’ll be a loss for\nme.” This process of asking for and offering more and\nless money is called ‘bargaining’ or ‘haggling’. lt goes on\nuntil you both (buyer and seller) agree on a price, say 250\ntaka in this case. This price is acceptable to both of you.\nSazia : If there is no bargaining, how are we going to buy things?\nShahana : Tf you don’t need to bargain, it will be a fixed-price shop.\nQuestions\nDo you go shopping? Where is the shop?\nWhat do you usually buy?\nDo you bargain? Why do you do that?\nDo you know about a ‘Fixed-price’ shop? Where is it? What\ndoes it sell?\nLesson 6: Morality Shop\nKeywords : conscience, prick\nRead the conversation to know about the ‘Morality Shop’. Then answer\nthe following questions :\n: Today I’m going to tell you about a new kind of shop, where there\nwill be no shopkeeper. The price of each item or thing will be\nwritten on a small piece of paper. This price tag will be attached to\nthe item or items. You will pick an item you like, look at the price\ntag and put the money in the box kept there. And the thing is now\nThe students are not clear about this kind of shop. They know\nthat a shop always has a shopkeeper . So, they are confused.\n: case, someone may take a thing and go away without paying.\n: Nobody will do it. If anybody does, it will be stealing.\n: Who’ll see them stealing?\n: Conscience. Do you know what conscience is? OK. There is something\nin your mind called conscience. It tells you whether your actions are\nright or wrong. Ts stealing a right thing or a wrong thing?",
+  "aiReadyText": "Unit Four : People Who Make a Difference 37\nshopkeeper says, “No, I can’t sell it for 200 taka.” Then you\noffer 225 taka and he may still say, “No, it’ll be a loss for\nme.” This process of asking for and offering more and\nless money is called ‘bargaining’ or ‘haggling’. lt goes on\nuntil you both (buyer and seller) agree on a price, say 250\ntaka in this case. This price is acceptable to both of you.\nSazia : If there is no bargaining, how are we going to buy things?\nShahana : Tf you don’t need to bargain, it will be a fixed-price shop.\nDo you go shopping? Where is the shop?\nWhat do you usually buy?\nDo you bargain? Why do you do that?\nDo you know about a ‘Fixed-price’ shop? Where is it? What\nLesson 6: Morality Shop\nKeywords : conscience, prick\nRead the conversation to know about the ‘Morality Shop’. Then answer\nthe following questions :\n: Today I’m going to tell you about a new kind of shop, where there\nwill be no shopkeeper. The price of each item or thing will be\nwritten on a small piece of paper. This price tag will be attached to\nthe item or items. You will pick an item you like, look at the price\ntag and put the money in the box kept there. And the thing is now\nThe students are not clear about this kind of shop. They know\nthat a shop always has a shopkeeper . So, they are confused.\n: case, someone may take a thing and go away without paying.\n: Nobody will do it. If anybody does, it will be stealing.\n: Who’ll see them stealing?\n: Conscience. Do you know what conscience is? OK. There is something\nin your mind called conscience. It tells you whether your actions are\nright or wrong. Ts stealing a right thing or a wrong thing?"
+}

@@ -1,0 +1,254 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 103,
+  "image": "/ocr/books/class7-english/page-images/page-103.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Nine",
+      "cleanText": "Unit Nine",
+      "bbox": {
+        "x": 638,
+        "y": 252,
+        "width": 126,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-103-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Climate Change",
+      "cleanText": "Climate Change",
+      "bbox": {
+        "x": 564,
+        "y": 331,
+        "width": 271,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-103-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Learning outcomes",
+      "cleanText": "Learning outcomes",
+      "bbox": {
+        "x": 207,
+        "y": 1159,
+        "width": 223,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-103-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "bbox": {
+        "x": 207,
+        "y": 1222,
+        "width": 545,
+        "height": 23
+      },
+      "confidence": 95.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-103-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "read and understand texts",
+      "cleanText": "read and understand texts",
+      "bbox": {
+        "x": 286,
+        "y": 1287,
+        "width": 278,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-103-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "e talk about climate and environment",
+      "cleanText": "e talk about climate and environment",
+      "bbox": {
+        "x": 247,
+        "y": 1336,
+        "width": 428,
+        "height": 20
+      },
+      "confidence": 88.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-103-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "ask and answer questions",
+      "cleanText": "ask and answer questions",
+      "bbox": {
+        "x": 286,
+        "y": 1386,
+        "width": 277,
+        "height": 25
+      },
+      "confidence": 90.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-103-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "e take part in role-plays",
+      "cleanText": "e take part in role-plays",
+      "bbox": {
+        "x": 247,
+        "y": 1435,
+        "width": 278,
+        "height": 25
+      },
+      "confidence": 78.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-103-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "write short guided and semi-guided sentences and passages",
+      "cleanText": "write short guided and semi-guided sentences and passages",
+      "bbox": {
+        "x": 286,
+        "y": 1488,
+        "width": 649,
+        "height": 25
+      },
+      "confidence": 94.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-103-line-009",
+      "lineNumber": 9
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-103-line-002",
+      "lineNumber": 2,
+      "text": "Climate Change",
+      "bbox": {
+        "x": 564,
+        "y": 331,
+        "width": 271,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-103-line-003",
+      "lineNumber": 3,
+      "text": "Learning outcomes",
+      "bbox": {
+        "x": 207,
+        "y": 1159,
+        "width": 223,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-103-line-004",
+      "lineNumber": 4,
+      "text": "After we have studied this unit, we will be able to",
+      "bbox": {
+        "x": 207,
+        "y": 1222,
+        "width": 545,
+        "height": 23
+      },
+      "confidence": 95.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-103-line-005",
+      "lineNumber": 5,
+      "text": "read and understand texts",
+      "bbox": {
+        "x": 286,
+        "y": 1287,
+        "width": 278,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-103-line-006",
+      "lineNumber": 6,
+      "text": "e talk about climate and environment",
+      "bbox": {
+        "x": 247,
+        "y": 1336,
+        "width": 428,
+        "height": 20
+      },
+      "confidence": 88.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-103-line-007",
+      "lineNumber": 7,
+      "text": "ask and answer questions",
+      "bbox": {
+        "x": 286,
+        "y": 1386,
+        "width": 277,
+        "height": 25
+      },
+      "confidence": 90.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-103-line-008",
+      "lineNumber": 8,
+      "text": "e take part in role-plays",
+      "bbox": {
+        "x": 247,
+        "y": 1435,
+        "width": 278,
+        "height": 25
+      },
+      "confidence": 78.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-103-line-009",
+      "lineNumber": 9,
+      "text": "write short guided and semi-guided sentences and passages",
+      "bbox": {
+        "x": 286,
+        "y": 1488,
+        "width": 649,
+        "height": 25
+      },
+      "confidence": 94.62,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Nine\nClimate Change\nLearning outcomes\nAfter we have studied this unit, we will be able to\nread and understand texts\ne talk about climate and environment\nask and answer questions\ne take part in role-plays\nwrite short guided and semi-guided sentences and passages",
+  "cleanText": "Unit Nine\nClimate Change\nLearning outcomes\nAfter we have studied this unit, we will be able to\nread and understand texts\ne talk about climate and environment\nask and answer questions\ne take part in role-plays\nwrite short guided and semi-guided sentences and passages",
+  "aiReadyText": "Climate Change\nLearning outcomes\nAfter we have studied this unit, we will be able to\nread and understand texts\ne talk about climate and environment\nask and answer questions\ne take part in role-plays\nwrite short guided and semi-guided sentences and passages"
+}

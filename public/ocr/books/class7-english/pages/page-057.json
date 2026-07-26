@@ -1,0 +1,786 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 57,
+  "image": "/ocr/books/class7-english/page-images/page-057.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "§2 ENGLISH FOR TODAY",
+      "cleanText": "§2 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 196,
+        "y": 253,
+        "width": 907,
+        "height": 22
+      },
+      "confidence": 91.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Helen was born in 1880 in Alabama, USA. Her parents were Captain Arthur",
+      "cleanText": "Helen was born in 1880 in Alabama, USA. Her parents were Captain Arthur",
+      "bbox": {
+        "x": 201,
+        "y": 319,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 95.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Keller and Katherine Adams Keller. Her family was not rich. Their main source",
+      "cleanText": "Keller and Katherine Adams Keller. Her family was not rich. Their main source",
+      "bbox": {
+        "x": 200,
+        "y": 353,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 95.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "of income was cotton plantation.",
+      "cleanText": "of income was cotton plantation.",
+      "bbox": {
+        "x": 200,
+        "y": 388,
+        "width": 371,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Helen was born healthy, but in 1882 she became deaf, dumb and blind after a",
+      "cleanText": "Helen was born healthy, but in 1882 she became deaf, dumb and blind after a",
+      "bbox": {
+        "x": 200,
+        "y": 437,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "high fever. Her father heard about Perkins School for the Blind in Boston and",
+      "cleanText": "high fever. Her father heard about Perkins School for the Blind in Boston and",
+      "bbox": {
+        "x": 200,
+        "y": 472,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "contacted the Director there. In 1887 the Director sent one of his best students,",
+      "cleanText": "contacted the Director there. In 1887 the Director sent one of his best students,",
+      "bbox": {
+        "x": 200,
+        "y": 506,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 96.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Anne Sullivan, to help Helen. Anne worked hard to enable her to communicate.",
+      "cleanText": "Anne Sullivan, to help Helen. Anne worked hard to enable her to communicate.",
+      "bbox": {
+        "x": 200,
+        "y": 540,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 95.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "In 1890 Helen’s formal education started at Horace Mann School for the deaf in",
+      "cleanText": "In 1890 Helen’s formal education started at Horace Mann School for the deaf in",
+      "bbox": {
+        "x": 200,
+        "y": 590,
+        "width": 909,
+        "height": 20
+      },
+      "confidence": 94.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Boston. In 1892 she went to Wright Humason School for the deaf in New York.",
+      "cleanText": "Boston. In 1892 she went to Wright Humason School for the deaf in New York.",
+      "bbox": {
+        "x": 201,
+        "y": 624,
+        "width": 907,
+        "height": 26
+      },
+      "confidence": 93.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Helen improved her communication skills and studied regular academic sub-",
+      "cleanText": "Helen improved her communication skills and studied regular academic sub-",
+      "bbox": {
+        "x": 201,
+        "y": 659,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 94.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "jects. She then decided to go to college, and attended Cambridge School for",
+      "cleanText": "jects. She then decided to go to college, and attended Cambridge School for",
+      "bbox": {
+        "x": 197,
+        "y": 693,
+        "width": 913,
+        "height": 26
+      },
+      "confidence": 96.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Young Ladies in 1896. Later she studied at Radcliffe College. Here she learnt",
+      "cleanText": "Young Ladies in 1896. Later she studied at Radcliffe College. Here she learnt",
+      "bbox": {
+        "x": 200,
+        "y": 727,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Braille, which was a new technique for reading. She also learnt how to type.",
+      "cleanText": "Braille, which was a new technique for reading. She also learnt how to type.",
+      "bbox": {
+        "x": 201,
+        "y": 762,
+        "width": 907,
+        "height": 26
+      },
+      "confidence": 95.79,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Anne Sullivan was always with Helen. She sat with Helen in class and helped",
+      "cleanText": "Anne Sullivan was always with Helen. She sat with Helen in class and helped",
+      "bbox": {
+        "x": 200,
+        "y": 796,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "her by interpreting lectures and texts. In 1904 Helen received her BA degree",
+      "cleanText": "her by interpreting lectures and texts. In 1904 Helen received her BA degree",
+      "bbox": {
+        "x": 201,
+        "y": 830,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 95.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "with Honours from Radcliffe College.",
+      "cleanText": "with Honours from Radcliffe College.",
+      "bbox": {
+        "x": 200,
+        "y": 865,
+        "width": 433,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Helen spent her life helping disabled people to learn. She died on June 1, 1968.",
+      "cleanText": "Helen spent her life helping disabled people to learn. She died on June 1, 1968.",
+      "bbox": {
+        "x": 200,
+        "y": 914,
+        "width": 903,
+        "height": 26
+      },
+      "confidence": 96.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Match the words with the meanings:",
+      "cleanText": "Match the words with the meanings:",
+      "bbox": {
+        "x": 200,
+        "y": 966,
+        "width": 448,
+        "height": 25
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Words Meanings",
+      "cleanText": "Words Meanings",
+      "bbox": {
+        "x": 252,
+        "y": 1007,
+        "width": 532,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "humanitarian | a large area of land where crops like sugarcane, banana,",
+      "cleanText": "humanitarian | a large area of land where crops like sugarcane, banana,",
+      "bbox": {
+        "x": 212,
+        "y": 1045,
+        "width": 868,
+        "height": 34
+      },
+      "confidence": 87.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "etc. are grown",
+      "cleanText": "etc. are grown",
+      "bbox": {
+        "x": 405,
+        "y": 1087,
+        "width": 161,
+        "height": 22
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "disabled the ability to do something well",
+      "cleanText": "disabled the ability to do something well",
+      "bbox": {
+        "x": 213,
+        "y": 1126,
+        "width": 555,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "plantation unable to use a part of the body easily or completely",
+      "cleanText": "plantation unable to use a part of the body easily or completely",
+      "bbox": {
+        "x": 212,
+        "y": 1161,
+        "width": 869,
+        "height": 34
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "because of illness, injury, etc.",
+      "cleanText": "because of illness, injury, etc.",
+      "bbox": {
+        "x": 406,
+        "y": 1195,
+        "width": 337,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "interpret making people’s suffering less and improving their living",
+      "cleanText": "interpret making people’s suffering less and improving their living",
+      "bbox": {
+        "x": 213,
+        "y": 1242,
+        "width": 875,
+        "height": 26
+      },
+      "confidence": 95.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "conditions",
+      "cleanText": "conditions",
+      "bbox": {
+        "x": 407,
+        "y": 1276,
+        "width": 117,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-057-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "skills explain the meaning of a text or translate a language",
+      "cleanText": "skills explain the meaning of a text or translate a language",
+      "bbox": {
+        "x": 213,
+        "y": 1314,
+        "width": 791,
+        "height": 35
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-057-line-028",
+      "lineNumber": 28
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-057-line-001",
+      "lineNumber": 1,
+      "text": "§2 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 196,
+        "y": 253,
+        "width": 907,
+        "height": 22
+      },
+      "confidence": 91.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-002",
+      "lineNumber": 2,
+      "text": "Helen was born in 1880 in Alabama, USA. Her parents were Captain Arthur",
+      "bbox": {
+        "x": 201,
+        "y": 319,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 95.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-003",
+      "lineNumber": 3,
+      "text": "Keller and Katherine Adams Keller. Her family was not rich. Their main source",
+      "bbox": {
+        "x": 200,
+        "y": 353,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 95.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-004",
+      "lineNumber": 4,
+      "text": "of income was cotton plantation.",
+      "bbox": {
+        "x": 200,
+        "y": 388,
+        "width": 371,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-005",
+      "lineNumber": 5,
+      "text": "Helen was born healthy, but in 1882 she became deaf, dumb and blind after a",
+      "bbox": {
+        "x": 200,
+        "y": 437,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-006",
+      "lineNumber": 6,
+      "text": "high fever. Her father heard about Perkins School for the Blind in Boston and",
+      "bbox": {
+        "x": 200,
+        "y": 472,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-007",
+      "lineNumber": 7,
+      "text": "contacted the Director there. In 1887 the Director sent one of his best students,",
+      "bbox": {
+        "x": 200,
+        "y": 506,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 96.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-008",
+      "lineNumber": 8,
+      "text": "Anne Sullivan, to help Helen. Anne worked hard to enable her to communicate.",
+      "bbox": {
+        "x": 200,
+        "y": 540,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 95.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-009",
+      "lineNumber": 9,
+      "text": "In 1890 Helen’s formal education started at Horace Mann School for the deaf in",
+      "bbox": {
+        "x": 200,
+        "y": 590,
+        "width": 909,
+        "height": 20
+      },
+      "confidence": 94.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-010",
+      "lineNumber": 10,
+      "text": "Boston. In 1892 she went to Wright Humason School for the deaf in New York.",
+      "bbox": {
+        "x": 201,
+        "y": 624,
+        "width": 907,
+        "height": 26
+      },
+      "confidence": 93.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-011",
+      "lineNumber": 11,
+      "text": "Helen improved her communication skills and studied regular academic sub-",
+      "bbox": {
+        "x": 201,
+        "y": 659,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 94.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-012",
+      "lineNumber": 12,
+      "text": "jects. She then decided to go to college, and attended Cambridge School for",
+      "bbox": {
+        "x": 197,
+        "y": 693,
+        "width": 913,
+        "height": 26
+      },
+      "confidence": 96.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-013",
+      "lineNumber": 13,
+      "text": "Young Ladies in 1896. Later she studied at Radcliffe College. Here she learnt",
+      "bbox": {
+        "x": 200,
+        "y": 727,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-014",
+      "lineNumber": 14,
+      "text": "Braille, which was a new technique for reading. She also learnt how to type.",
+      "bbox": {
+        "x": 201,
+        "y": 762,
+        "width": 907,
+        "height": 26
+      },
+      "confidence": 95.79,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-015",
+      "lineNumber": 15,
+      "text": "Anne Sullivan was always with Helen. She sat with Helen in class and helped",
+      "bbox": {
+        "x": 200,
+        "y": 796,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-016",
+      "lineNumber": 16,
+      "text": "her by interpreting lectures and texts. In 1904 Helen received her BA degree",
+      "bbox": {
+        "x": 201,
+        "y": 830,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 95.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-017",
+      "lineNumber": 17,
+      "text": "with Honours from Radcliffe College.",
+      "bbox": {
+        "x": 200,
+        "y": 865,
+        "width": 433,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-018",
+      "lineNumber": 18,
+      "text": "Helen spent her life helping disabled people to learn. She died on June 1, 1968.",
+      "bbox": {
+        "x": 200,
+        "y": 914,
+        "width": 903,
+        "height": 26
+      },
+      "confidence": 96.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-019",
+      "lineNumber": 19,
+      "text": "Match the words with the meanings:",
+      "bbox": {
+        "x": 200,
+        "y": 966,
+        "width": 448,
+        "height": 25
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-020",
+      "lineNumber": 20,
+      "text": "Words Meanings",
+      "bbox": {
+        "x": 252,
+        "y": 1007,
+        "width": 532,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-021",
+      "lineNumber": 21,
+      "text": "humanitarian | a large area of land where crops like sugarcane, banana,",
+      "bbox": {
+        "x": 212,
+        "y": 1045,
+        "width": 868,
+        "height": 34
+      },
+      "confidence": 87.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-022",
+      "lineNumber": 22,
+      "text": "etc. are grown",
+      "bbox": {
+        "x": 405,
+        "y": 1087,
+        "width": 161,
+        "height": 22
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-023",
+      "lineNumber": 23,
+      "text": "disabled the ability to do something well",
+      "bbox": {
+        "x": 213,
+        "y": 1126,
+        "width": 555,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-024",
+      "lineNumber": 24,
+      "text": "plantation unable to use a part of the body easily or completely",
+      "bbox": {
+        "x": 212,
+        "y": 1161,
+        "width": 869,
+        "height": 34
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-025",
+      "lineNumber": 25,
+      "text": "because of illness, injury, etc.",
+      "bbox": {
+        "x": 406,
+        "y": 1195,
+        "width": 337,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-026",
+      "lineNumber": 26,
+      "text": "interpret making people’s suffering less and improving their living",
+      "bbox": {
+        "x": 213,
+        "y": 1242,
+        "width": 875,
+        "height": 26
+      },
+      "confidence": 95.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-057-line-028",
+      "lineNumber": 28,
+      "text": "skills explain the meaning of a text or translate a language",
+      "bbox": {
+        "x": 213,
+        "y": 1314,
+        "width": 791,
+        "height": 35
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "§2 ENGLISH FOR TODAY\nHelen was born in 1880 in Alabama, USA. Her parents were Captain Arthur\nKeller and Katherine Adams Keller. Her family was not rich. Their main source\nof income was cotton plantation.\nHelen was born healthy, but in 1882 she became deaf, dumb and blind after a\nhigh fever. Her father heard about Perkins School for the Blind in Boston and\ncontacted the Director there. In 1887 the Director sent one of his best students,\nAnne Sullivan, to help Helen. Anne worked hard to enable her to communicate.\nIn 1890 Helen’s formal education started at Horace Mann School for the deaf in\nBoston. In 1892 she went to Wright Humason School for the deaf in New York.\nHelen improved her communication skills and studied regular academic sub-\njects. She then decided to go to college, and attended Cambridge School for\nYoung Ladies in 1896. Later she studied at Radcliffe College. Here she learnt\nBraille, which was a new technique for reading. She also learnt how to type.\nAnne Sullivan was always with Helen. She sat with Helen in class and helped\nher by interpreting lectures and texts. In 1904 Helen received her BA degree\nwith Honours from Radcliffe College.\nHelen spent her life helping disabled people to learn. She died on June 1, 1968.\nMatch the words with the meanings:\nWords Meanings\nhumanitarian | a large area of land where crops like sugarcane, banana,\netc. are grown\ndisabled the ability to do something well\nplantation unable to use a part of the body easily or completely\nbecause of illness, injury, etc.\ninterpret making people’s suffering less and improving their living\nconditions\nskills explain the meaning of a text or translate a language",
+  "cleanText": "§2 ENGLISH FOR TODAY\nHelen was born in 1880 in Alabama, USA. Her parents were Captain Arthur\nKeller and Katherine Adams Keller. Her family was not rich. Their main source\nof income was cotton plantation.\nHelen was born healthy, but in 1882 she became deaf, dumb and blind after a\nhigh fever. Her father heard about Perkins School for the Blind in Boston and\ncontacted the Director there. In 1887 the Director sent one of his best students,\nAnne Sullivan, to help Helen. Anne worked hard to enable her to communicate.\nIn 1890 Helen’s formal education started at Horace Mann School for the deaf in\nBoston. In 1892 she went to Wright Humason School for the deaf in New York.\nHelen improved her communication skills and studied regular academic sub-\njects. She then decided to go to college, and attended Cambridge School for\nYoung Ladies in 1896. Later she studied at Radcliffe College. Here she learnt\nBraille, which was a new technique for reading. She also learnt how to type.\nAnne Sullivan was always with Helen. She sat with Helen in class and helped\nher by interpreting lectures and texts. In 1904 Helen received her BA degree\nwith Honours from Radcliffe College.\nHelen spent her life helping disabled people to learn. She died on June 1, 1968.\nMatch the words with the meanings:\nWords Meanings\nhumanitarian | a large area of land where crops like sugarcane, banana,\netc. are grown\ndisabled the ability to do something well\nplantation unable to use a part of the body easily or completely\nbecause of illness, injury, etc.\ninterpret making people’s suffering less and improving their living\nconditions\nskills explain the meaning of a text or translate a language",
+  "aiReadyText": "§2 ENGLISH FOR TODAY\nHelen was born in 1880 in Alabama, USA. Her parents were Captain Arthur\nKeller and Katherine Adams Keller. Her family was not rich. Their main source\nof income was cotton plantation.\nHelen was born healthy, but in 1882 she became deaf, dumb and blind after a\nhigh fever. Her father heard about Perkins School for the Blind in Boston and\ncontacted the Director there. In 1887 the Director sent one of his best students,\nAnne Sullivan, to help Helen. Anne worked hard to enable her to communicate.\nIn 1890 Helen’s formal education started at Horace Mann School for the deaf in\nBoston. In 1892 she went to Wright Humason School for the deaf in New York.\nHelen improved her communication skills and studied regular academic sub-\njects. She then decided to go to college, and attended Cambridge School for\nYoung Ladies in 1896. Later she studied at Radcliffe College. Here she learnt\nBraille, which was a new technique for reading. She also learnt how to type.\nAnne Sullivan was always with Helen. She sat with Helen in class and helped\nher by interpreting lectures and texts. In 1904 Helen received her BA degree\nwith Honours from Radcliffe College.\nHelen spent her life helping disabled people to learn. She died on June 1, 1968.\nMatch the words with the meanings:\nWords Meanings\nhumanitarian | a large area of land where crops like sugarcane, banana,\netc. are grown\ndisabled the ability to do something well\nplantation unable to use a part of the body easily or completely\nbecause of illness, injury, etc.\ninterpret making people’s suffering less and improving their living\nskills explain the meaning of a text or translate a language"
+}

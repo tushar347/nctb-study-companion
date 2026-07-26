@@ -1,0 +1,437 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 76,
+  "image": "/ocr/books/class7-english/page-images/page-076.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Six : Leisure 71",
+      "cleanText": "Unit Six : Leisure 71",
+      "bbox": {
+        "x": 189,
+        "y": 254,
+        "width": 904,
+        "height": 22
+      },
+      "confidence": 87.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Fill in the blanks with the right form of the verbs given in the box.",
+      "cleanText": "Fill in the blanks with the right form of the verbs given in the box.",
+      "bbox": {
+        "x": 266,
+        "y": 324,
+        "width": 770,
+        "height": 24
+      },
+      "confidence": 95.93,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-076-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "smile, open, see, stretch out (2), surprise, understand, meet",
+      "cleanText": "smile, open, see, stretch out (2), surprise, understand, meet",
+      "bbox": {
+        "x": 293,
+        "y": 401,
+        "width": 767,
+        "height": 26
+      },
+      "confidence": 87.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Yesterday, 1 ... . a really tall man in our office lift. He was",
+      "cleanText": "Yesterday, 1 ... . a really tall man in our office lift. He was",
+      "bbox": {
+        "x": 262,
+        "y": 501,
+        "width": 833,
+        "height": 26
+      },
+      "confidence": 88.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "almost seven feet tall— the tallest man I had ever seen. I was",
+      "cleanText": "almost seven feet tall— the tallest man I had ever seen. I was",
+      "bbox": {
+        "x": 261,
+        "y": 549,
+        "width": 834,
+        "height": 20
+      },
+      "confidence": 92.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "to see such a tall man, and didn’t say anything",
+      "cleanText": "to see such a tall man, and didn’t say anything",
+      "bbox": {
+        "x": 569,
+        "y": 594,
+        "width": 527,
+        "height": 35
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "to him, but he looked at me and politely. Then he",
+      "cleanText": "to him, but he looked at me and politely. Then he",
+      "bbox": {
+        "x": 261,
+        "y": 646,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 93.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "his hands and said hello. I also mine,",
+      "cleanText": "his hands and said hello. I also mine,",
+      "bbox": {
+        "x": 458,
+        "y": 694,
+        "width": 637,
+        "height": 23
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "and we shook hands. When the doors of the lift he got",
+      "cleanText": "and we shook hands. When the doors of the lift he got",
+      "bbox": {
+        "x": 261,
+        "y": 743,
+        "width": 835,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "out and went towards the manager’s office. Later on,",
+      "cleanText": "out and went towards the manager’s office. Later on,",
+      "bbox": {
+        "x": 261,
+        "y": 791,
+        "width": 620,
+        "height": 26
+      },
+      "confidence": 94.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "him sitting on the manager’s chair. That’s when that he",
+      "cleanText": "him sitting on the manager’s chair. That’s when that he",
+      "bbox": {
+        "x": 261,
+        "y": 840,
+        "width": 835,
+        "height": 26
+      },
+      "confidence": 94.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "was our new manager. What a nice and humble man he is!",
+      "cleanText": "was our new manager. What a nice and humble man he is!",
+      "bbox": {
+        "x": 261,
+        "y": 888,
+        "width": 663,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Work in pairs to retell the story to each other.",
+      "cleanText": "Work in pairs to retell the story to each other.",
+      "bbox": {
+        "x": 255,
+        "y": 958,
+        "width": 597,
+        "height": 28
+      },
+      "confidence": 96.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "What do you think is the moral of the story “The Selfish",
+      "cleanText": "What do you think is the moral of the story “The Selfish",
+      "bbox": {
+        "x": 261,
+        "y": 1038,
+        "width": 833,
+        "height": 27
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Giant”? Discuss in groups and write the moral in one or two",
+      "cleanText": "Giant”? Discuss in groups and write the moral in one or two",
+      "bbox": {
+        "x": 261,
+        "y": 1077,
+        "width": 834,
+        "height": 28
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-076-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "sentences,",
+      "cleanText": "sentences,",
+      "bbox": {
+        "x": 261,
+        "y": 1119,
+        "width": 129,
+        "height": 19
+      },
+      "confidence": 82.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-076-line-016",
+      "lineNumber": 16
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-076-line-001",
+      "lineNumber": 1,
+      "text": "Unit Six : Leisure 71",
+      "bbox": {
+        "x": 189,
+        "y": 254,
+        "width": 904,
+        "height": 22
+      },
+      "confidence": 87.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-003",
+      "lineNumber": 3,
+      "text": "smile, open, see, stretch out (2), surprise, understand, meet",
+      "bbox": {
+        "x": 293,
+        "y": 401,
+        "width": 767,
+        "height": 26
+      },
+      "confidence": 87.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-004",
+      "lineNumber": 4,
+      "text": "Yesterday, 1 ... . a really tall man in our office lift. He was",
+      "bbox": {
+        "x": 262,
+        "y": 501,
+        "width": 833,
+        "height": 26
+      },
+      "confidence": 88.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-005",
+      "lineNumber": 5,
+      "text": "almost seven feet tall— the tallest man I had ever seen. I was",
+      "bbox": {
+        "x": 261,
+        "y": 549,
+        "width": 834,
+        "height": 20
+      },
+      "confidence": 92.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-006",
+      "lineNumber": 6,
+      "text": "to see such a tall man, and didn’t say anything",
+      "bbox": {
+        "x": 569,
+        "y": 594,
+        "width": 527,
+        "height": 35
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-007",
+      "lineNumber": 7,
+      "text": "to him, but he looked at me and politely. Then he",
+      "bbox": {
+        "x": 261,
+        "y": 646,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 93.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-008",
+      "lineNumber": 8,
+      "text": "his hands and said hello. I also mine,",
+      "bbox": {
+        "x": 458,
+        "y": 694,
+        "width": 637,
+        "height": 23
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-009",
+      "lineNumber": 9,
+      "text": "and we shook hands. When the doors of the lift he got",
+      "bbox": {
+        "x": 261,
+        "y": 743,
+        "width": 835,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-010",
+      "lineNumber": 10,
+      "text": "out and went towards the manager’s office. Later on,",
+      "bbox": {
+        "x": 261,
+        "y": 791,
+        "width": 620,
+        "height": 26
+      },
+      "confidence": 94.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-011",
+      "lineNumber": 11,
+      "text": "him sitting on the manager’s chair. That’s when that he",
+      "bbox": {
+        "x": 261,
+        "y": 840,
+        "width": 835,
+        "height": 26
+      },
+      "confidence": 94.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-012",
+      "lineNumber": 12,
+      "text": "was our new manager. What a nice and humble man he is!",
+      "bbox": {
+        "x": 261,
+        "y": 888,
+        "width": 663,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-013",
+      "lineNumber": 13,
+      "text": "Work in pairs to retell the story to each other.",
+      "bbox": {
+        "x": 255,
+        "y": 958,
+        "width": 597,
+        "height": 28
+      },
+      "confidence": 96.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-014",
+      "lineNumber": 14,
+      "text": "What do you think is the moral of the story “The Selfish",
+      "bbox": {
+        "x": 261,
+        "y": 1038,
+        "width": 833,
+        "height": 27
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-076-line-015",
+      "lineNumber": 15,
+      "text": "Giant”? Discuss in groups and write the moral in one or two",
+      "bbox": {
+        "x": 261,
+        "y": 1077,
+        "width": 834,
+        "height": 28
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Six : Leisure 71\nFill in the blanks with the right form of the verbs given in the box.\nsmile, open, see, stretch out (2), surprise, understand, meet\nYesterday, 1 ... . a really tall man in our office lift. He was\nalmost seven feet tall— the tallest man I had ever seen. I was\nto see such a tall man, and didn’t say anything\nto him, but he looked at me and politely. Then he\nhis hands and said hello. I also mine,\nand we shook hands. When the doors of the lift he got\nout and went towards the manager’s office. Later on,\nhim sitting on the manager’s chair. That’s when that he\nwas our new manager. What a nice and humble man he is!\nWork in pairs to retell the story to each other.\nWhat do you think is the moral of the story “The Selfish\nGiant”? Discuss in groups and write the moral in one or two\nsentences,",
+  "cleanText": "Unit Six : Leisure 71\nFill in the blanks with the right form of the verbs given in the box.\nsmile, open, see, stretch out (2), surprise, understand, meet\nYesterday, 1 ... . a really tall man in our office lift. He was\nalmost seven feet tall— the tallest man I had ever seen. I was\nto see such a tall man, and didn’t say anything\nto him, but he looked at me and politely. Then he\nhis hands and said hello. I also mine,\nand we shook hands. When the doors of the lift he got\nout and went towards the manager’s office. Later on,\nhim sitting on the manager’s chair. That’s when that he\nwas our new manager. What a nice and humble man he is!\nWork in pairs to retell the story to each other.\nWhat do you think is the moral of the story “The Selfish\nGiant”? Discuss in groups and write the moral in one or two\nsentences,",
+  "aiReadyText": "Unit Six : Leisure 71\nsmile, open, see, stretch out (2), surprise, understand, meet\nYesterday, 1 ... . a really tall man in our office lift. He was\nalmost seven feet tall— the tallest man I had ever seen. I was\nto see such a tall man, and didn’t say anything\nto him, but he looked at me and politely. Then he\nhis hands and said hello. I also mine,\nand we shook hands. When the doors of the lift he got\nout and went towards the manager’s office. Later on,\nhim sitting on the manager’s chair. That’s when that he\nwas our new manager. What a nice and humble man he is!\nWork in pairs to retell the story to each other.\nWhat do you think is the moral of the story “The Selfish\nGiant”? Discuss in groups and write the moral in one or two"
+}

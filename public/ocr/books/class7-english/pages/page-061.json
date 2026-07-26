@@ -1,0 +1,717 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 61,
+  "image": "/ocr/books/class7-english/page-images/page-061.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 1: A Day in Zishan’s Life",
+      "cleanText": "Lesson 1: A Day in Zishan’s Life",
+      "bbox": {
+        "x": 263,
+        "y": 319,
+        "width": 425,
+        "height": 28
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "A. Read about Zishan’s daily routine.",
+      "cleanText": "Read about Zishan’s daily routine.",
+      "bbox": {
+        "x": 262,
+        "y": 383,
+        "width": 487,
+        "height": 25
+      },
+      "confidence": 84.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "6:30 am : wake up",
+      "cleanText": "6:30 am : wake up",
+      "bbox": {
+        "x": 288,
+        "y": 427,
+        "width": 356,
+        "height": 25
+      },
+      "confidence": 91.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "7:00 am : breakfast",
+      "cleanText": "7:00 am : breakfast",
+      "bbox": {
+        "x": 288,
+        "y": 471,
+        "width": 365,
+        "height": 19
+      },
+      "confidence": 94.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "8:30 am—3:00 pm school",
+      "cleanText": "8:30 am—3:00 pm school",
+      "bbox": {
+        "x": 288,
+        "y": 515,
+        "width": 335,
+        "height": 25
+      },
+      "confidence": 87.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-061-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "4:00 pm—S.00 pm snack and free time",
+      "cleanText": "4:00 pm—S.00 pm snack and free time",
+      "bbox": {
+        "x": 287,
+        "y": 559,
+        "width": 480,
+        "height": 25
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "5.00 pm—6.00 pm study with maths /",
+      "cleanText": "5.00 pm—6.00 pm study with maths /",
+      "bbox": {
+        "x": 288,
+        "y": 603,
+        "width": 467,
+        "height": 25
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "science teacher",
+      "cleanText": "science teacher",
+      "bbox": {
+        "x": 554,
+        "y": 647,
+        "width": 166,
+        "height": 19
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "6:15 pm—7:15 pm study with English /",
+      "cleanText": "6:15 pm—7:15 pm study with English /",
+      "bbox": {
+        "x": 288,
+        "y": 687,
+        "width": 489,
+        "height": 33
+      },
+      "confidence": 86.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Social Science teacher",
+      "cleanText": "Social Science teacher",
+      "bbox": {
+        "x": 551,
+        "y": 735,
+        "width": 246,
+        "height": 20
+      },
+      "confidence": 96.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "7:30 pm—8:30 pm homework",
+      "cleanText": "7:30 pm—8:30 pm homework",
+      "bbox": {
+        "x": 288,
+        "y": 779,
+        "width": 382,
+        "height": 25
+      },
+      "confidence": 78.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "8:30 pm : supper",
+      "cleanText": "8:30 pm : supper",
+      "bbox": {
+        "x": 288,
+        "y": 823,
+        "width": 338,
+        "height": 25
+      },
+      "confidence": 86.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "10:30 pm : go to bed",
+      "cleanText": "10:30 pm : go to bed",
+      "bbox": {
+        "x": 290,
+        "y": 911,
+        "width": 365,
+        "height": 25
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "On Fridays Zishan does not go to school. But he studies for one hour with",
+      "cleanText": "On Fridays Zishan does not go to school. But he studies for one hour with",
+      "bbox": {
+        "x": 342,
+        "y": 965,
+        "width": 829,
+        "height": 26
+      },
+      "confidence": 95.47,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "his teacher of religious studies. He also studies his school subjects by",
+      "cleanText": "his teacher of religious studies. He also studies his school subjects by",
+      "bbox": {
+        "x": 341,
+        "y": 1007,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "himself. Often he goes to visit his relatives with his parents.",
+      "cleanText": "himself. Often he goes to visit his relatives with his parents.",
+      "bbox": {
+        "x": 339,
+        "y": 1048,
+        "width": 670,
+        "height": 26
+      },
+      "confidence": 94.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Discuss in groups or pairs and answer these questions.",
+      "cleanText": "Discuss in groups or pairs and answer these questions.",
+      "bbox": {
+        "x": 342,
+        "y": 1108,
+        "width": 634,
+        "height": 24
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-061-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "1. How much time does Zishan spend on his studies?",
+      "cleanText": "How much time does Zishan spend on his studies?",
+      "bbox": {
+        "x": 345,
+        "y": 1165,
+        "width": 585,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "(hints: too much / too little / the right amount of time)",
+      "cleanText": "(hints: too much / too little / the right amount of time)",
+      "bbox": {
+        "x": 376,
+        "y": 1218,
+        "width": 589,
+        "height": 34
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "2. Why do you think he spends too much / too little / the right amount of",
+      "cleanText": "Why do you think he spends too much / too little / the right amount of",
+      "bbox": {
+        "x": 342,
+        "y": 1276,
+        "width": 830,
+        "height": 33
+      },
+      "confidence": 94.59,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "time on his studies?",
+      "cleanText": "time on his studies?",
+      "bbox": {
+        "x": 381,
+        "y": 1320,
+        "width": 222,
+        "height": 21
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "3. Whatdoes Zishan study on Fridays?",
+      "cleanText": "Whatdoes Zishan study on Fridays?",
+      "bbox": {
+        "x": 342,
+        "y": 1378,
+        "width": 434,
+        "height": 28
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Look at Zishan’s daily routine again and give your opinion about",
+      "cleanText": "Look at Zishan’s daily routine again and give your opinion about",
+      "bbox": {
+        "x": 339,
+        "y": 1438,
+        "width": 831,
+        "height": 24
+      },
+      "confidence": 95.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "this statement, “All work and no play will make Zishan a dull boy.”",
+      "cleanText": "this statement, “All work and no play will make Zishan a dull boy.”",
+      "bbox": {
+        "x": 340,
+        "y": 1480,
+        "width": 794,
+        "height": 24
+      },
+      "confidence": 94.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Make your own daily routine. Show in it your free time and the activities.",
+      "cleanText": "Make your own daily routine. Show in it your free time and the activities.",
+      "bbox": {
+        "x": 337,
+        "y": 1531,
+        "width": 845,
+        "height": 53
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "you do in that time.",
+      "cleanText": "you do in that time.",
+      "bbox": {
+        "x": 338,
+        "y": 1564,
+        "width": 231,
+        "height": 34
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-061-line-026",
+      "lineNumber": 26
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-061-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 1: A Day in Zishan’s Life",
+      "bbox": {
+        "x": 263,
+        "y": 319,
+        "width": 425,
+        "height": 28
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-002",
+      "lineNumber": 2,
+      "text": "Read about Zishan’s daily routine.",
+      "bbox": {
+        "x": 262,
+        "y": 383,
+        "width": 487,
+        "height": 25
+      },
+      "confidence": 84.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-003",
+      "lineNumber": 3,
+      "text": "6:30 am : wake up",
+      "bbox": {
+        "x": 288,
+        "y": 427,
+        "width": 356,
+        "height": 25
+      },
+      "confidence": 91.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-004",
+      "lineNumber": 4,
+      "text": "7:00 am : breakfast",
+      "bbox": {
+        "x": 288,
+        "y": 471,
+        "width": 365,
+        "height": 19
+      },
+      "confidence": 94.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-006",
+      "lineNumber": 6,
+      "text": "4:00 pm—S.00 pm snack and free time",
+      "bbox": {
+        "x": 287,
+        "y": 559,
+        "width": 480,
+        "height": 25
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-007",
+      "lineNumber": 7,
+      "text": "5.00 pm—6.00 pm study with maths /",
+      "bbox": {
+        "x": 288,
+        "y": 603,
+        "width": 467,
+        "height": 25
+      },
+      "confidence": 89.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-008",
+      "lineNumber": 8,
+      "text": "science teacher",
+      "bbox": {
+        "x": 554,
+        "y": 647,
+        "width": 166,
+        "height": 19
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-009",
+      "lineNumber": 9,
+      "text": "6:15 pm—7:15 pm study with English /",
+      "bbox": {
+        "x": 288,
+        "y": 687,
+        "width": 489,
+        "height": 33
+      },
+      "confidence": 86.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-010",
+      "lineNumber": 10,
+      "text": "Social Science teacher",
+      "bbox": {
+        "x": 551,
+        "y": 735,
+        "width": 246,
+        "height": 20
+      },
+      "confidence": 96.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-011",
+      "lineNumber": 11,
+      "text": "7:30 pm—8:30 pm homework",
+      "bbox": {
+        "x": 288,
+        "y": 779,
+        "width": 382,
+        "height": 25
+      },
+      "confidence": 78.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-012",
+      "lineNumber": 12,
+      "text": "8:30 pm : supper",
+      "bbox": {
+        "x": 288,
+        "y": 823,
+        "width": 338,
+        "height": 25
+      },
+      "confidence": 86.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-013",
+      "lineNumber": 13,
+      "text": "10:30 pm : go to bed",
+      "bbox": {
+        "x": 290,
+        "y": 911,
+        "width": 365,
+        "height": 25
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-014",
+      "lineNumber": 14,
+      "text": "On Fridays Zishan does not go to school. But he studies for one hour with",
+      "bbox": {
+        "x": 342,
+        "y": 965,
+        "width": 829,
+        "height": 26
+      },
+      "confidence": 95.47,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-015",
+      "lineNumber": 15,
+      "text": "his teacher of religious studies. He also studies his school subjects by",
+      "bbox": {
+        "x": 341,
+        "y": 1007,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-016",
+      "lineNumber": 16,
+      "text": "himself. Often he goes to visit his relatives with his parents.",
+      "bbox": {
+        "x": 339,
+        "y": 1048,
+        "width": 670,
+        "height": 26
+      },
+      "confidence": 94.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-018",
+      "lineNumber": 18,
+      "text": "How much time does Zishan spend on his studies?",
+      "bbox": {
+        "x": 345,
+        "y": 1165,
+        "width": 585,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-019",
+      "lineNumber": 19,
+      "text": "(hints: too much / too little / the right amount of time)",
+      "bbox": {
+        "x": 376,
+        "y": 1218,
+        "width": 589,
+        "height": 34
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-020",
+      "lineNumber": 20,
+      "text": "Why do you think he spends too much / too little / the right amount of",
+      "bbox": {
+        "x": 342,
+        "y": 1276,
+        "width": 830,
+        "height": 33
+      },
+      "confidence": 94.59,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-021",
+      "lineNumber": 21,
+      "text": "time on his studies?",
+      "bbox": {
+        "x": 381,
+        "y": 1320,
+        "width": 222,
+        "height": 21
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-022",
+      "lineNumber": 22,
+      "text": "Whatdoes Zishan study on Fridays?",
+      "bbox": {
+        "x": 342,
+        "y": 1378,
+        "width": 434,
+        "height": 28
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-023",
+      "lineNumber": 23,
+      "text": "Look at Zishan’s daily routine again and give your opinion about",
+      "bbox": {
+        "x": 339,
+        "y": 1438,
+        "width": 831,
+        "height": 24
+      },
+      "confidence": 95.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-024",
+      "lineNumber": 24,
+      "text": "this statement, “All work and no play will make Zishan a dull boy.”",
+      "bbox": {
+        "x": 340,
+        "y": 1480,
+        "width": 794,
+        "height": 24
+      },
+      "confidence": 94.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-025",
+      "lineNumber": 25,
+      "text": "Make your own daily routine. Show in it your free time and the activities.",
+      "bbox": {
+        "x": 337,
+        "y": 1531,
+        "width": 845,
+        "height": 53
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-061-line-026",
+      "lineNumber": 26,
+      "text": "you do in that time.",
+      "bbox": {
+        "x": 338,
+        "y": 1564,
+        "width": 231,
+        "height": 34
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 1: A Day in Zishan’s Life\nA. Read about Zishan’s daily routine.\n6:30 am : wake up\n7:00 am : breakfast\n8:30 am—3:00 pm school\n4:00 pm—S.00 pm snack and free time\n5.00 pm—6.00 pm study with maths /\nscience teacher\n6:15 pm—7:15 pm study with English /\nSocial Science teacher\n7:30 pm—8:30 pm homework\n8:30 pm : supper\n10:30 pm : go to bed\nOn Fridays Zishan does not go to school. But he studies for one hour with\nhis teacher of religious studies. He also studies his school subjects by\nhimself. Often he goes to visit his relatives with his parents.\nDiscuss in groups or pairs and answer these questions.\n1. How much time does Zishan spend on his studies?\n(hints: too much / too little / the right amount of time)\n2. Why do you think he spends too much / too little / the right amount of\ntime on his studies?\n3. Whatdoes Zishan study on Fridays?\nLook at Zishan’s daily routine again and give your opinion about\nthis statement, “All work and no play will make Zishan a dull boy.”\nMake your own daily routine. Show in it your free time and the activities.\nyou do in that time.",
+  "cleanText": "Lesson 1: A Day in Zishan’s Life\nRead about Zishan’s daily routine.\n6:30 am : wake up\n7:00 am : breakfast\n8:30 am—3:00 pm school\n4:00 pm—S.00 pm snack and free time\n5.00 pm—6.00 pm study with maths /\nscience teacher\n6:15 pm—7:15 pm study with English /\nSocial Science teacher\n7:30 pm—8:30 pm homework\n8:30 pm : supper\n10:30 pm : go to bed\nOn Fridays Zishan does not go to school. But he studies for one hour with\nhis teacher of religious studies. He also studies his school subjects by\nhimself. Often he goes to visit his relatives with his parents.\nDiscuss in groups or pairs and answer these questions.\nHow much time does Zishan spend on his studies?\n(hints: too much / too little / the right amount of time)\nWhy do you think he spends too much / too little / the right amount of\ntime on his studies?\nWhatdoes Zishan study on Fridays?\nLook at Zishan’s daily routine again and give your opinion about\nthis statement, “All work and no play will make Zishan a dull boy.”\nMake your own daily routine. Show in it your free time and the activities.\nyou do in that time.",
+  "aiReadyText": "Lesson 1: A Day in Zishan’s Life\nRead about Zishan’s daily routine.\n6:30 am : wake up\n7:00 am : breakfast\n4:00 pm—S.00 pm snack and free time\n5.00 pm—6.00 pm study with maths /\nscience teacher\n6:15 pm—7:15 pm study with English /\nSocial Science teacher\n7:30 pm—8:30 pm homework\n8:30 pm : supper\n10:30 pm : go to bed\nOn Fridays Zishan does not go to school. But he studies for one hour with\nhis teacher of religious studies. He also studies his school subjects by\nhimself. Often he goes to visit his relatives with his parents.\nHow much time does Zishan spend on his studies?\n(hints: too much / too little / the right amount of time)\nWhy do you think he spends too much / too little / the right amount of\ntime on his studies?\nWhatdoes Zishan study on Fridays?\nLook at Zishan’s daily routine again and give your opinion about\nthis statement, “All work and no play will make Zishan a dull boy.”\nMake your own daily routine. Show in it your free time and the activities.\nyou do in that time."
+}

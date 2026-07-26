@@ -1,0 +1,646 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 25,
+  "image": "/ocr/books/class7-english/page-images/page-025.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "2 Flora is talking about her school.",
+      "cleanText": "2 Flora is talking about her school.",
+      "bbox": {
+        "x": 286,
+        "y": 317,
+        "width": 393,
+        "height": 24
+      },
+      "confidence": 88.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "3 Flora first went to school at the age of 6.",
+      "cleanText": "3 Flora first went to school at the age of 6.",
+      "bbox": {
+        "x": 286,
+        "y": 350,
+        "width": 476,
+        "height": 24
+      },
+      "confidence": 93.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "4 Her mother dressed her in her best clothes.",
+      "cleanText": "4 Her mother dressed her in her best clothes.",
+      "bbox": {
+        "x": 285,
+        "y": 383,
+        "width": 502,
+        "height": 19
+      },
+      "confidence": 92.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "5 Flora walked to school.",
+      "cleanText": "5 Flora walked to school.",
+      "bbox": {
+        "x": 286,
+        "y": 416,
+        "width": 289,
+        "height": 19
+      },
+      "confidence": 88.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Fill in the blanks with suitable words.",
+      "cleanText": "Fill in the blanks with suitable words.",
+      "bbox": {
+        "x": 286,
+        "y": 476,
+        "width": 438,
+        "height": 19
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-025-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Flora is a student. She is class 7. She can",
+      "cleanText": "Flora is a student. She is class 7. She can",
+      "bbox": {
+        "x": 286,
+        "y": 521,
+        "width": 830,
+        "height": 20
+      },
+      "confidence": 80.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "remember her day at school even today. She",
+      "cleanText": "remember her day at school even today. She",
+      "bbox": {
+        "x": 287,
+        "y": 560,
+        "width": 673,
+        "height": 25
+      },
+      "confidence": 96.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "to school in 2006. Her mother her to school.",
+      "cleanText": "to school in 2006. Her mother her to school.",
+      "bbox": {
+        "x": 285,
+        "y": 602,
+        "width": 830,
+        "height": 20
+      },
+      "confidence": 88.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "The school was a long way from their house.",
+      "cleanText": "The school was a long way from their house.",
+      "bbox": {
+        "x": 284,
+        "y": 638,
+        "width": 832,
+        "height": 26
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Flora walked to school her mother.",
+      "cleanText": "Flora walked to school her mother.",
+      "bbox": {
+        "x": 525,
+        "y": 678,
+        "width": 592,
+        "height": 20
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Match the words with their meanings.",
+      "cleanText": "Match the words with their meanings.",
+      "bbox": {
+        "x": 286,
+        "y": 735,
+        "width": 443,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Words Meanings",
+      "cleanText": "Words Meanings",
+      "bbox": {
+        "x": 364,
+        "y": 785,
+        "width": 462,
+        "height": 34
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "chat precisely",
+      "cleanText": "chat precisely",
+      "bbox": {
+        "x": 297,
+        "y": 818,
+        "width": 336,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "recall feeling happiness",
+      "cleanText": "recall feeling happiness",
+      "bbox": {
+        "x": 298,
+        "y": 851,
+        "width": 426,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "exactly a friendly conversation",
+      "cleanText": "exactly a friendly conversation",
+      "bbox": {
+        "x": 297,
+        "y": 888,
+        "width": 489,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "excited remember",
+      "cleanText": "excited remember",
+      "bbox": {
+        "x": 297,
+        "y": 917,
+        "width": 348,
+        "height": 35
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Do you remember your first day at school? Write a short composition",
+      "cleanText": "Do you remember your first day at school? Write a short composition",
+      "bbox": {
+        "x": 287,
+        "y": 989,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "about it answering the questions below.",
+      "cleanText": "about it answering the questions below.",
+      "bbox": {
+        "x": 287,
+        "y": 1022,
+        "width": 462,
+        "height": 25
+      },
+      "confidence": 96.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "1 How old were you at that time?",
+      "cleanText": "1 How old were you at that time?",
+      "bbox": {
+        "x": 290,
+        "y": 1096,
+        "width": 381,
+        "height": 25
+      },
+      "confidence": 90.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "What is the name of the school you went to?",
+      "cleanText": "What is the name of the school you went to?",
+      "bbox": {
+        "x": 326,
+        "y": 1138,
+        "width": 487,
+        "height": 25
+      },
+      "confidence": 95.7,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "What did you put on?",
+      "cleanText": "What did you put on?",
+      "bbox": {
+        "x": 327,
+        "y": 1180,
+        "width": 235,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "How did you feel before you started for the school?",
+      "cleanText": "How did you feel before you started for the school?",
+      "bbox": {
+        "x": 326,
+        "y": 1222,
+        "width": 565,
+        "height": 25
+      },
+      "confidence": 96.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Who did you go with?",
+      "cleanText": "Who did you go with?",
+      "bbox": {
+        "x": 326,
+        "y": 1264,
+        "width": 244,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-025-line-023",
+      "lineNumber": 23
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-025-line-001",
+      "lineNumber": 1,
+      "text": "2 Flora is talking about her school.",
+      "bbox": {
+        "x": 286,
+        "y": 317,
+        "width": 393,
+        "height": 24
+      },
+      "confidence": 88.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-002",
+      "lineNumber": 2,
+      "text": "3 Flora first went to school at the age of 6.",
+      "bbox": {
+        "x": 286,
+        "y": 350,
+        "width": 476,
+        "height": 24
+      },
+      "confidence": 93.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-003",
+      "lineNumber": 3,
+      "text": "4 Her mother dressed her in her best clothes.",
+      "bbox": {
+        "x": 285,
+        "y": 383,
+        "width": 502,
+        "height": 19
+      },
+      "confidence": 92.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-004",
+      "lineNumber": 4,
+      "text": "5 Flora walked to school.",
+      "bbox": {
+        "x": 286,
+        "y": 416,
+        "width": 289,
+        "height": 19
+      },
+      "confidence": 88.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-006",
+      "lineNumber": 6,
+      "text": "Flora is a student. She is class 7. She can",
+      "bbox": {
+        "x": 286,
+        "y": 521,
+        "width": 830,
+        "height": 20
+      },
+      "confidence": 80.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-007",
+      "lineNumber": 7,
+      "text": "remember her day at school even today. She",
+      "bbox": {
+        "x": 287,
+        "y": 560,
+        "width": 673,
+        "height": 25
+      },
+      "confidence": 96.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-008",
+      "lineNumber": 8,
+      "text": "to school in 2006. Her mother her to school.",
+      "bbox": {
+        "x": 285,
+        "y": 602,
+        "width": 830,
+        "height": 20
+      },
+      "confidence": 88.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-009",
+      "lineNumber": 9,
+      "text": "The school was a long way from their house.",
+      "bbox": {
+        "x": 284,
+        "y": 638,
+        "width": 832,
+        "height": 26
+      },
+      "confidence": 93.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-010",
+      "lineNumber": 10,
+      "text": "Flora walked to school her mother.",
+      "bbox": {
+        "x": 525,
+        "y": 678,
+        "width": 592,
+        "height": 20
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-011",
+      "lineNumber": 11,
+      "text": "Match the words with their meanings.",
+      "bbox": {
+        "x": 286,
+        "y": 735,
+        "width": 443,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-012",
+      "lineNumber": 12,
+      "text": "Words Meanings",
+      "bbox": {
+        "x": 364,
+        "y": 785,
+        "width": 462,
+        "height": 34
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-013",
+      "lineNumber": 13,
+      "text": "chat precisely",
+      "bbox": {
+        "x": 297,
+        "y": 818,
+        "width": 336,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-014",
+      "lineNumber": 14,
+      "text": "recall feeling happiness",
+      "bbox": {
+        "x": 298,
+        "y": 851,
+        "width": 426,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-015",
+      "lineNumber": 15,
+      "text": "exactly a friendly conversation",
+      "bbox": {
+        "x": 297,
+        "y": 888,
+        "width": 489,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-016",
+      "lineNumber": 16,
+      "text": "excited remember",
+      "bbox": {
+        "x": 297,
+        "y": 917,
+        "width": 348,
+        "height": 35
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-017",
+      "lineNumber": 17,
+      "text": "Do you remember your first day at school? Write a short composition",
+      "bbox": {
+        "x": 287,
+        "y": 989,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-018",
+      "lineNumber": 18,
+      "text": "about it answering the questions below.",
+      "bbox": {
+        "x": 287,
+        "y": 1022,
+        "width": 462,
+        "height": 25
+      },
+      "confidence": 96.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-019",
+      "lineNumber": 19,
+      "text": "1 How old were you at that time?",
+      "bbox": {
+        "x": 290,
+        "y": 1096,
+        "width": 381,
+        "height": 25
+      },
+      "confidence": 90.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-020",
+      "lineNumber": 20,
+      "text": "What is the name of the school you went to?",
+      "bbox": {
+        "x": 326,
+        "y": 1138,
+        "width": 487,
+        "height": 25
+      },
+      "confidence": 95.7,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-021",
+      "lineNumber": 21,
+      "text": "What did you put on?",
+      "bbox": {
+        "x": 327,
+        "y": 1180,
+        "width": 235,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-022",
+      "lineNumber": 22,
+      "text": "How did you feel before you started for the school?",
+      "bbox": {
+        "x": 326,
+        "y": 1222,
+        "width": 565,
+        "height": 25
+      },
+      "confidence": 96.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-025-line-023",
+      "lineNumber": 23,
+      "text": "Who did you go with?",
+      "bbox": {
+        "x": 326,
+        "y": 1264,
+        "width": 244,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "2 Flora is talking about her school.\n3 Flora first went to school at the age of 6.\n4 Her mother dressed her in her best clothes.\n5 Flora walked to school.\nFill in the blanks with suitable words.\nFlora is a student. She is class 7. She can\nremember her day at school even today. She\nto school in 2006. Her mother her to school.\nThe school was a long way from their house.\nFlora walked to school her mother.\nMatch the words with their meanings.\nWords Meanings\nchat precisely\nrecall feeling happiness\nexactly a friendly conversation\nexcited remember\nDo you remember your first day at school? Write a short composition\nabout it answering the questions below.\n1 How old were you at that time?\nWhat is the name of the school you went to?\nWhat did you put on?\nHow did you feel before you started for the school?\nWho did you go with?",
+  "cleanText": "2 Flora is talking about her school.\n3 Flora first went to school at the age of 6.\n4 Her mother dressed her in her best clothes.\n5 Flora walked to school.\nFill in the blanks with suitable words.\nFlora is a student. She is class 7. She can\nremember her day at school even today. She\nto school in 2006. Her mother her to school.\nThe school was a long way from their house.\nFlora walked to school her mother.\nMatch the words with their meanings.\nWords Meanings\nchat precisely\nrecall feeling happiness\nexactly a friendly conversation\nexcited remember\nDo you remember your first day at school? Write a short composition\nabout it answering the questions below.\n1 How old were you at that time?\nWhat is the name of the school you went to?\nWhat did you put on?\nHow did you feel before you started for the school?\nWho did you go with?",
+  "aiReadyText": "2 Flora is talking about her school.\n3 Flora first went to school at the age of 6.\n4 Her mother dressed her in her best clothes.\n5 Flora walked to school.\nFlora is a student. She is class 7. She can\nremember her day at school even today. She\nto school in 2006. Her mother her to school.\nThe school was a long way from their house.\nFlora walked to school her mother.\nMatch the words with their meanings.\nWords Meanings\nchat precisely\nrecall feeling happiness\nexactly a friendly conversation\nexcited remember\nDo you remember your first day at school? Write a short composition\nabout it answering the questions below.\n1 How old were you at that time?\nWhat is the name of the school you went to?\nWhat did you put on?\nHow did you feel before you started for the school?\nWho did you go with?"
+}

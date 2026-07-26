@@ -1,0 +1,400 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 101,
+  "image": "/ocr/books/class7-english/page-images/page-101.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "5. Your sister watches films.",
+      "cleanText": "Your sister watches films.",
+      "bbox": {
+        "x": 253,
+        "y": 333,
+        "width": 340,
+        "height": 19
+      },
+      "confidence": 94.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Q: (Like) ?",
+      "cleanText": "Q: (Like) ?",
+      "bbox": {
+        "x": 293,
+        "y": 378,
+        "width": 635,
+        "height": 24
+      },
+      "confidence": 89.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-101-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "6. We waste our time.",
+      "cleanText": "We waste our time.",
+      "bbox": {
+        "x": 257,
+        "y": 491,
+        "width": 263,
+        "height": 19
+      },
+      "confidence": 94.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "(LiKe) ?",
+      "cleanText": "(LiKe) ?",
+      "bbox": {
+        "x": 331,
+        "y": 536,
+        "width": 626,
+        "height": 25
+      },
+      "confidence": 63.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-101-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "A: (No, hate)",
+      "cleanText": "A: (No, hate)",
+      "bbox": {
+        "x": 296,
+        "y": 583,
+        "width": 144,
+        "height": 24
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-101-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "7, They donate money to the poor.",
+      "cleanText": "7, They donate money to the poor.",
+      "bbox": {
+        "x": 257,
+        "y": 643,
+        "width": 410,
+        "height": 24
+      },
+      "confidence": 91.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Q: (like) 4",
+      "cleanText": "Q: (like) 4",
+      "bbox": {
+        "x": 297,
+        "y": 688,
+        "width": 667,
+        "height": 24
+      },
+      "confidence": 52.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-101-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "AL (YeS,",
+      "cleanText": "AL (YeS,",
+      "bbox": {
+        "x": 297,
+        "y": 735,
+        "width": 90,
+        "height": 24
+      },
+      "confidence": 66.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-101-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Look at the grid below. It shows the likes and dislikes of four people.",
+      "cleanText": "Look at the grid below. It shows the likes and dislikes of four people.",
+      "bbox": {
+        "x": 250,
+        "y": 817,
+        "width": 838,
+        "height": 25
+      },
+      "confidence": 94.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "First tick the boxes to show your liking. Now write sentences about",
+      "cleanText": "First tick the boxes to show your liking. Now write sentences about",
+      "bbox": {
+        "x": 251,
+        "y": 850,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "what you and the people in the grid like and don’t like. One is done",
+      "cleanText": "what you and the people in the grid like and don’t like. One is done",
+      "bbox": {
+        "x": 251,
+        "y": 883,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "for you.",
+      "cleanText": "for you.",
+      "bbox": {
+        "x": 251,
+        "y": 918,
+        "width": 90,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-101-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Rubana | Roxana | Tumpa You",
+      "cleanText": "Rubana | Roxana | Tumpa You",
+      "bbox": {
+        "x": 592,
+        "y": 1078,
+        "width": 437,
+        "height": 33
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Listen to music v v v",
+      "cleanText": "Listen to music v v v",
+      "bbox": {
+        "x": 238,
+        "y": 1179,
+        "width": 607,
+        "height": 20
+      },
+      "confidence": 81.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-101-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Study English v v",
+      "cleanText": "Study English v v",
+      "bbox": {
+        "x": 238,
+        "y": 1277,
+        "width": 485,
+        "height": 26
+      },
+      "confidence": 85.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Draw pictures v v",
+      "cleanText": "Draw pictures v v",
+      "bbox": {
+        "x": 237,
+        "y": 1376,
+        "width": 608,
+        "height": 26
+      },
+      "confidence": 85.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Read story books | v",
+      "cleanText": "Read story books | v",
+      "bbox": {
+        "x": 237,
+        "y": 1469,
+        "width": 487,
+        "height": 35
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-101-line-017",
+      "lineNumber": 17
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-101-line-001",
+      "lineNumber": 1,
+      "text": "Your sister watches films.",
+      "bbox": {
+        "x": 253,
+        "y": 333,
+        "width": 340,
+        "height": 19
+      },
+      "confidence": 94.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-003",
+      "lineNumber": 3,
+      "text": "We waste our time.",
+      "bbox": {
+        "x": 257,
+        "y": 491,
+        "width": 263,
+        "height": 19
+      },
+      "confidence": 94.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-006",
+      "lineNumber": 6,
+      "text": "7, They donate money to the poor.",
+      "bbox": {
+        "x": 257,
+        "y": 643,
+        "width": 410,
+        "height": 24
+      },
+      "confidence": 91.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-009",
+      "lineNumber": 9,
+      "text": "Look at the grid below. It shows the likes and dislikes of four people.",
+      "bbox": {
+        "x": 250,
+        "y": 817,
+        "width": 838,
+        "height": 25
+      },
+      "confidence": 94.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-010",
+      "lineNumber": 10,
+      "text": "First tick the boxes to show your liking. Now write sentences about",
+      "bbox": {
+        "x": 251,
+        "y": 850,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-011",
+      "lineNumber": 11,
+      "text": "what you and the people in the grid like and don’t like. One is done",
+      "bbox": {
+        "x": 251,
+        "y": 883,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-013",
+      "lineNumber": 13,
+      "text": "Rubana | Roxana | Tumpa You",
+      "bbox": {
+        "x": 592,
+        "y": 1078,
+        "width": 437,
+        "height": 33
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-015",
+      "lineNumber": 15,
+      "text": "Study English v v",
+      "bbox": {
+        "x": 238,
+        "y": 1277,
+        "width": 485,
+        "height": 26
+      },
+      "confidence": 85.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-016",
+      "lineNumber": 16,
+      "text": "Draw pictures v v",
+      "bbox": {
+        "x": 237,
+        "y": 1376,
+        "width": 608,
+        "height": 26
+      },
+      "confidence": 85.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-101-line-017",
+      "lineNumber": 17,
+      "text": "Read story books | v",
+      "bbox": {
+        "x": 237,
+        "y": 1469,
+        "width": 487,
+        "height": 35
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "5. Your sister watches films.\nQ: (Like) ?\n6. We waste our time.\n(LiKe) ?\nA: (No, hate)\n7, They donate money to the poor.\nQ: (like) 4\nAL (YeS,\nLook at the grid below. It shows the likes and dislikes of four people.\nFirst tick the boxes to show your liking. Now write sentences about\nwhat you and the people in the grid like and don’t like. One is done\nfor you.\nRubana | Roxana | Tumpa You\nListen to music v v v\nStudy English v v\nDraw pictures v v\nRead story books | v",
+  "cleanText": "Your sister watches films.\nQ: (Like) ?\nWe waste our time.\n(LiKe) ?\nA: (No, hate)\n7, They donate money to the poor.\nQ: (like) 4\nAL (YeS,\nLook at the grid below. It shows the likes and dislikes of four people.\nFirst tick the boxes to show your liking. Now write sentences about\nwhat you and the people in the grid like and don’t like. One is done\nfor you.\nRubana | Roxana | Tumpa You\nListen to music v v v\nStudy English v v\nDraw pictures v v\nRead story books | v",
+  "aiReadyText": "Your sister watches films.\nWe waste our time.\n7, They donate money to the poor.\nLook at the grid below. It shows the likes and dislikes of four people.\nFirst tick the boxes to show your liking. Now write sentences about\nwhat you and the people in the grid like and don’t like. One is done\nRubana | Roxana | Tumpa You\nStudy English v v\nDraw pictures v v\nRead story books | v"
+}

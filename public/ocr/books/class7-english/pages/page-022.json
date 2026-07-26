@@ -1,0 +1,801 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 22,
+  "image": "/ocr/books/class7-english/page-images/page-022.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Three :What are Friends for? 17",
+      "cleanText": "Unit Three :What are Friends for? 17",
+      "bbox": {
+        "x": 198,
+        "y": 249,
+        "width": 907,
+        "height": 19
+      },
+      "confidence": 94.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 1: Prize-giving Day at School",
+      "cleanText": "Lesson 1: Prize-giving Day at School",
+      "bbox": {
+        "x": 198,
+        "y": 318,
+        "width": 486,
+        "height": 28
+      },
+      "confidence": 94.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Key words: eminent outstanding performance",
+      "cleanText": "Key words: eminent outstanding performance",
+      "bbox": {
+        "x": 278,
+        "y": 394,
+        "width": 604,
+        "height": 25
+      },
+      "confidence": 93.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "A. Look at the picture and discuss the",
+      "cleanText": "Look at the picture and discuss the",
+      "bbox": {
+        "x": 198,
+        "y": 473,
+        "width": 486,
+        "height": 24
+      },
+      "confidence": 87.25,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-022-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "following questions.",
+      "cleanText": "following questions.",
+      "bbox": {
+        "x": 277,
+        "y": 506,
+        "width": 230,
+        "height": 24
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "1. Whom can you see in the picture’?",
+      "cleanText": "Whom can you see in the picture’?",
+      "bbox": {
+        "x": 280,
+        "y": 551,
+        "width": 400,
+        "height": 25
+      },
+      "confidence": 91.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "2. What are they doing?",
+      "cleanText": "What are they doing?",
+      "bbox": {
+        "x": 277,
+        "y": 597,
+        "width": 261,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "B. Read the text about a prize-giving",
+      "cleanText": "Read the text about a prize-giving",
+      "bbox": {
+        "x": 198,
+        "y": 644,
+        "width": 475,
+        "height": 25
+      },
+      "confidence": 94.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "ceremony.",
+      "cleanText": "ceremony.",
+      "bbox": {
+        "x": 277,
+        "y": 683,
+        "width": 119,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-022-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Farabi is Flora’s best friend. They live in",
+      "cleanText": "Farabi is Flora’s best friend. They live in",
+      "bbox": {
+        "x": 277,
+        "y": 721,
+        "width": 452,
+        "height": 27
+      },
+      "confidence": 94.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "the same area. Also they both are in class 7. But they go to different schools.",
+      "cleanText": "the same area. Also they both are in class 7. But they go to different schools.",
+      "bbox": {
+        "x": 277,
+        "y": 756,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 95.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "It is a school holiday. Flora has come to visit Farabi. They are talking. Flora",
+      "cleanText": "It is a school holiday. Flora has come to visit Farabi. They are talking. Flora",
+      "bbox": {
+        "x": 278,
+        "y": 802,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "wants to know about the prize-giving ceremony of Farabi’s school.",
+      "cleanText": "wants to know about the prize-giving ceremony of Farabi’s school.",
+      "bbox": {
+        "x": 277,
+        "y": 835,
+        "width": 741,
+        "height": 25
+      },
+      "confidence": 93.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "“Yesterday was our school prize-giving day,” Farabi says. “On this occasion",
+      "cleanText": "“Yesterday was our school prize-giving day,” Farabi says. “On this occasion",
+      "bbox": {
+        "x": 277,
+        "y": 881,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 94.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "our school auditorium and its dais were brightly decorated. Prizes were",
+      "cleanText": "our school auditorium and its dais were brightly decorated. Prizes were",
+      "bbox": {
+        "x": 278,
+        "y": 914,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 95.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "also neatly displayed on a table on the dais. All the students",
+      "cleanText": "also neatly displayed on a table on the dais. All the students",
+      "bbox": {
+        "x": 276,
+        "y": 947,
+        "width": 829,
+        "height": 27
+      },
+      "confidence": 92.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "were present at the function. Among others, the guardians and some",
+      "cleanText": "were present at the function. Among others, the guardians and some",
+      "bbox": {
+        "x": 275,
+        "y": 980,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 95.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "eminent persons of the locality attended the function,” Farabi continues.",
+      "cleanText": "eminent persons of the locality attended the function,” Farabi continues.",
+      "bbox": {
+        "x": 275,
+        "y": 1012,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "“The Principal of PN College was the chicf guest.”",
+      "cleanText": "“The Principal of PN College was the chicf guest.”",
+      "bbox": {
+        "x": 273,
+        "y": 1042,
+        "width": 584,
+        "height": 34
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "“When did the function start?” Flora asked.",
+      "cleanText": "“When did the function start?” Flora asked.",
+      "bbox": {
+        "x": 277,
+        "y": 1092,
+        "width": 475,
+        "height": 20
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "“Oh, it started on time—just at 4 pm,” Farabi says. “Our Head Teacher",
+      "cleanText": "“Oh, it started on time—just at 4 pm,” Farabi says. “Our Head Teacher",
+      "bbox": {
+        "x": 277,
+        "y": 1139,
+        "width": 830,
+        "height": 24
+      },
+      "confidence": 94.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "first read out the annual report. Then the chief guest delivered a short speech.",
+      "cleanText": "first read out the annual report. Then the chief guest delivered a short speech.",
+      "bbox": {
+        "x": 277,
+        "y": 1172,
+        "width": 834,
+        "height": 24
+      },
+      "confidence": 93.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "He highly praised the overall performance of the school and its excellent",
+      "cleanText": "He highly praised the overall performance of the school and its excellent",
+      "bbox": {
+        "x": 275,
+        "y": 1205,
+        "width": 830,
+        "height": 25
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "JSC and SSC Exam. results. Then he gave away the prizes among the students",
+      "cleanText": "JSC and SSC Exam. results. Then he gave away the prizes among the students",
+      "bbox": {
+        "x": 272,
+        "y": 1238,
+        "width": 838,
+        "height": 24
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "for their outstanding activities.”",
+      "cleanText": "for their outstanding activities.”",
+      "bbox": {
+        "x": 271,
+        "y": 1272,
+        "width": 347,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "“Did you get any prize, Farabi?” Flora enquires.",
+      "cleanText": "“Did you get any prize, Farabi?” Flora enquires.",
+      "bbox": {
+        "x": 277,
+        "y": 1324,
+        "width": 527,
+        "height": 25
+      },
+      "confidence": 94.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "“Yes, I did,” Farabi replies. “I’ve got two prizes—one for regular attendance",
+      "cleanText": "“Yes, I did,” Farabi replies. “I’ve got two prizes—one for regular attendance",
+      "bbox": {
+        "x": 277,
+        "y": 1370,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "and the other for good results in the last annual exams.”",
+      "cleanText": "and the other for good results in the last annual exams.”",
+      "bbox": {
+        "x": 278,
+        "y": 1403,
+        "width": 618,
+        "height": 25
+      },
+      "confidence": 93.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "Class 7 English Forma-03",
+      "cleanText": "Class 7 English Forma-03",
+      "bbox": {
+        "x": 194,
+        "y": 1610,
+        "width": 278,
+        "height": 24
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-022-line-029",
+      "lineNumber": 29
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-022-line-001",
+      "lineNumber": 1,
+      "text": "Unit Three :What are Friends for? 17",
+      "bbox": {
+        "x": 198,
+        "y": 249,
+        "width": 907,
+        "height": 19
+      },
+      "confidence": 94.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 1: Prize-giving Day at School",
+      "bbox": {
+        "x": 198,
+        "y": 318,
+        "width": 486,
+        "height": 28
+      },
+      "confidence": 94.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-003",
+      "lineNumber": 3,
+      "text": "Key words: eminent outstanding performance",
+      "bbox": {
+        "x": 278,
+        "y": 394,
+        "width": 604,
+        "height": 25
+      },
+      "confidence": 93.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-005",
+      "lineNumber": 5,
+      "text": "following questions.",
+      "bbox": {
+        "x": 277,
+        "y": 506,
+        "width": 230,
+        "height": 24
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-006",
+      "lineNumber": 6,
+      "text": "Whom can you see in the picture’?",
+      "bbox": {
+        "x": 280,
+        "y": 551,
+        "width": 400,
+        "height": 25
+      },
+      "confidence": 91.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-007",
+      "lineNumber": 7,
+      "text": "What are they doing?",
+      "bbox": {
+        "x": 277,
+        "y": 597,
+        "width": 261,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-008",
+      "lineNumber": 8,
+      "text": "Read the text about a prize-giving",
+      "bbox": {
+        "x": 198,
+        "y": 644,
+        "width": 475,
+        "height": 25
+      },
+      "confidence": 94.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-010",
+      "lineNumber": 10,
+      "text": "Farabi is Flora’s best friend. They live in",
+      "bbox": {
+        "x": 277,
+        "y": 721,
+        "width": 452,
+        "height": 27
+      },
+      "confidence": 94.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-011",
+      "lineNumber": 11,
+      "text": "the same area. Also they both are in class 7. But they go to different schools.",
+      "bbox": {
+        "x": 277,
+        "y": 756,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 95.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-012",
+      "lineNumber": 12,
+      "text": "It is a school holiday. Flora has come to visit Farabi. They are talking. Flora",
+      "bbox": {
+        "x": 278,
+        "y": 802,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-013",
+      "lineNumber": 13,
+      "text": "wants to know about the prize-giving ceremony of Farabi’s school.",
+      "bbox": {
+        "x": 277,
+        "y": 835,
+        "width": 741,
+        "height": 25
+      },
+      "confidence": 93.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-014",
+      "lineNumber": 14,
+      "text": "“Yesterday was our school prize-giving day,” Farabi says. “On this occasion",
+      "bbox": {
+        "x": 277,
+        "y": 881,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 94.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-015",
+      "lineNumber": 15,
+      "text": "our school auditorium and its dais were brightly decorated. Prizes were",
+      "bbox": {
+        "x": 278,
+        "y": 914,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 95.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-016",
+      "lineNumber": 16,
+      "text": "also neatly displayed on a table on the dais. All the students",
+      "bbox": {
+        "x": 276,
+        "y": 947,
+        "width": 829,
+        "height": 27
+      },
+      "confidence": 92.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-017",
+      "lineNumber": 17,
+      "text": "were present at the function. Among others, the guardians and some",
+      "bbox": {
+        "x": 275,
+        "y": 980,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 95.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-018",
+      "lineNumber": 18,
+      "text": "eminent persons of the locality attended the function,” Farabi continues.",
+      "bbox": {
+        "x": 275,
+        "y": 1012,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-019",
+      "lineNumber": 19,
+      "text": "“The Principal of PN College was the chicf guest.”",
+      "bbox": {
+        "x": 273,
+        "y": 1042,
+        "width": 584,
+        "height": 34
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-020",
+      "lineNumber": 20,
+      "text": "“When did the function start?” Flora asked.",
+      "bbox": {
+        "x": 277,
+        "y": 1092,
+        "width": 475,
+        "height": 20
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-021",
+      "lineNumber": 21,
+      "text": "“Oh, it started on time—just at 4 pm,” Farabi says. “Our Head Teacher",
+      "bbox": {
+        "x": 277,
+        "y": 1139,
+        "width": 830,
+        "height": 24
+      },
+      "confidence": 94.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-022",
+      "lineNumber": 22,
+      "text": "first read out the annual report. Then the chief guest delivered a short speech.",
+      "bbox": {
+        "x": 277,
+        "y": 1172,
+        "width": 834,
+        "height": 24
+      },
+      "confidence": 93.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-023",
+      "lineNumber": 23,
+      "text": "He highly praised the overall performance of the school and its excellent",
+      "bbox": {
+        "x": 275,
+        "y": 1205,
+        "width": 830,
+        "height": 25
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-024",
+      "lineNumber": 24,
+      "text": "JSC and SSC Exam. results. Then he gave away the prizes among the students",
+      "bbox": {
+        "x": 272,
+        "y": 1238,
+        "width": 838,
+        "height": 24
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-025",
+      "lineNumber": 25,
+      "text": "for their outstanding activities.”",
+      "bbox": {
+        "x": 271,
+        "y": 1272,
+        "width": 347,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-026",
+      "lineNumber": 26,
+      "text": "“Did you get any prize, Farabi?” Flora enquires.",
+      "bbox": {
+        "x": 277,
+        "y": 1324,
+        "width": 527,
+        "height": 25
+      },
+      "confidence": 94.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-027",
+      "lineNumber": 27,
+      "text": "“Yes, I did,” Farabi replies. “I’ve got two prizes—one for regular attendance",
+      "bbox": {
+        "x": 277,
+        "y": 1370,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-028",
+      "lineNumber": 28,
+      "text": "and the other for good results in the last annual exams.”",
+      "bbox": {
+        "x": 278,
+        "y": 1403,
+        "width": 618,
+        "height": 25
+      },
+      "confidence": 93.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-022-line-029",
+      "lineNumber": 29,
+      "text": "Class 7 English Forma-03",
+      "bbox": {
+        "x": 194,
+        "y": 1610,
+        "width": 278,
+        "height": 24
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Three :What are Friends for? 17\nLesson 1: Prize-giving Day at School\nKey words: eminent outstanding performance\nA. Look at the picture and discuss the\nfollowing questions.\n1. Whom can you see in the picture’?\n2. What are they doing?\nB. Read the text about a prize-giving\nceremony.\nFarabi is Flora’s best friend. They live in\nthe same area. Also they both are in class 7. But they go to different schools.\nIt is a school holiday. Flora has come to visit Farabi. They are talking. Flora\nwants to know about the prize-giving ceremony of Farabi’s school.\n“Yesterday was our school prize-giving day,” Farabi says. “On this occasion\nour school auditorium and its dais were brightly decorated. Prizes were\nalso neatly displayed on a table on the dais. All the students\nwere present at the function. Among others, the guardians and some\neminent persons of the locality attended the function,” Farabi continues.\n“The Principal of PN College was the chicf guest.”\n“When did the function start?” Flora asked.\n“Oh, it started on time—just at 4 pm,” Farabi says. “Our Head Teacher\nfirst read out the annual report. Then the chief guest delivered a short speech.\nHe highly praised the overall performance of the school and its excellent\nJSC and SSC Exam. results. Then he gave away the prizes among the students\nfor their outstanding activities.”\n“Did you get any prize, Farabi?” Flora enquires.\n“Yes, I did,” Farabi replies. “I’ve got two prizes—one for regular attendance\nand the other for good results in the last annual exams.”\nClass 7 English Forma-03",
+  "cleanText": "Unit Three :What are Friends for? 17\nLesson 1: Prize-giving Day at School\nKey words: eminent outstanding performance\nLook at the picture and discuss the\nfollowing questions.\nWhom can you see in the picture’?\nWhat are they doing?\nRead the text about a prize-giving\nceremony.\nFarabi is Flora’s best friend. They live in\nthe same area. Also they both are in class 7. But they go to different schools.\nIt is a school holiday. Flora has come to visit Farabi. They are talking. Flora\nwants to know about the prize-giving ceremony of Farabi’s school.\n“Yesterday was our school prize-giving day,” Farabi says. “On this occasion\nour school auditorium and its dais were brightly decorated. Prizes were\nalso neatly displayed on a table on the dais. All the students\nwere present at the function. Among others, the guardians and some\neminent persons of the locality attended the function,” Farabi continues.\n“The Principal of PN College was the chicf guest.”\n“When did the function start?” Flora asked.\n“Oh, it started on time—just at 4 pm,” Farabi says. “Our Head Teacher\nfirst read out the annual report. Then the chief guest delivered a short speech.\nHe highly praised the overall performance of the school and its excellent\nJSC and SSC Exam. results. Then he gave away the prizes among the students\nfor their outstanding activities.”\n“Did you get any prize, Farabi?” Flora enquires.\n“Yes, I did,” Farabi replies. “I’ve got two prizes—one for regular attendance\nand the other for good results in the last annual exams.”\nClass 7 English Forma-03",
+  "aiReadyText": "Unit Three :What are Friends for? 17\nLesson 1: Prize-giving Day at School\nKey words: eminent outstanding performance\nfollowing questions.\nWhom can you see in the picture’?\nWhat are they doing?\nRead the text about a prize-giving\nFarabi is Flora’s best friend. They live in\nthe same area. Also they both are in class 7. But they go to different schools.\nIt is a school holiday. Flora has come to visit Farabi. They are talking. Flora\nwants to know about the prize-giving ceremony of Farabi’s school.\n“Yesterday was our school prize-giving day,” Farabi says. “On this occasion\nour school auditorium and its dais were brightly decorated. Prizes were\nalso neatly displayed on a table on the dais. All the students\nwere present at the function. Among others, the guardians and some\neminent persons of the locality attended the function,” Farabi continues.\n“The Principal of PN College was the chicf guest.”\n“When did the function start?” Flora asked.\n“Oh, it started on time—just at 4 pm,” Farabi says. “Our Head Teacher\nfirst read out the annual report. Then the chief guest delivered a short speech.\nHe highly praised the overall performance of the school and its excellent\nJSC and SSC Exam. results. Then he gave away the prizes among the students\nfor their outstanding activities.”\n“Did you get any prize, Farabi?” Flora enquires.\n“Yes, I did,” Farabi replies. “I’ve got two prizes—one for regular attendance\nand the other for good results in the last annual exams.”\nClass 7 English Forma-03"
+}

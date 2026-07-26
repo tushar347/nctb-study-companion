@@ -1,0 +1,758 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 118,
+  "image": "/ocr/books/class7-english/page-images/page-118.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Sample Question 113",
+      "cleanText": "Sample Question 113",
+      "bbox": {
+        "x": 203,
+        "y": 273,
+        "width": 912,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "10. Answer any five of the following questions from the poems in",
+      "cleanText": "Answer any five of the following questions from the poems in",
+      "bbox": {
+        "x": 250,
+        "y": 348,
+        "width": 865,
+        "height": 28
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "your textbook. 2x5=10",
+      "cleanText": "your textbook. 2x5=10",
+      "bbox": {
+        "x": 286,
+        "y": 385,
+        "width": 830,
+        "height": 28
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "(a) Who are the two people claiming responsibility for the child in the",
+      "cleanText": "(a) Who are the two people claiming responsibility for the child in the",
+      "bbox": {
+        "x": 320,
+        "y": 445,
+        "width": 796,
+        "height": 24
+      },
+      "confidence": 95.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "poem \"Whose Child is This?\"?",
+      "cleanText": "poem \"Whose Child is This?\"?",
+      "bbox": {
+        "x": 365,
+        "y": 485,
+        "width": 325,
+        "height": 24
+      },
+      "confidence": 94.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "(b) What does the poem \"Whose Child is This?” suggest about the responsi-",
+      "cleanText": "(b) What does the poem \"Whose Child is This?” suggest about the responsi-",
+      "bbox": {
+        "x": 317,
+        "y": 524,
+        "width": 799,
+        "height": 24
+      },
+      "confidence": 93.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "bilities of parents and teachers?",
+      "cleanText": "bilities of parents and teachers?",
+      "bbox": {
+        "x": 365,
+        "y": 564,
+        "width": 331,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "(c) What are some of the things the poct sees while traveling on the train in",
+      "cleanText": "(c) What are some of the things the poct sees while traveling on the train in",
+      "bbox": {
+        "x": 319,
+        "y": 600,
+        "width": 797,
+        "height": 32
+      },
+      "confidence": 89.94,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "the poem \" From a Railway Carriage’?",
+      "cleanText": "the poem \" From a Railway Carriage’?",
+      "bbox": {
+        "x": 366,
+        "y": 643,
+        "width": 403,
+        "height": 24
+      },
+      "confidence": 85.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "(d) What is meant by painted station in the poem \"From a Railway",
+      "cleanText": "(d) What is meant by painted station in the poem \"From a Railway",
+      "bbox": {
+        "x": 320,
+        "y": 683,
+        "width": 797,
+        "height": 24
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Carriage\"?",
+      "cleanText": "Carriage\"?",
+      "bbox": {
+        "x": 366,
+        "y": 722,
+        "width": 111,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-118-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "(e) What does the poet compare the speed of the train to, and why in the",
+      "cleanText": "(e) What does the poet compare the speed of the train to, and why in the",
+      "bbox": {
+        "x": 320,
+        "y": 762,
+        "width": 796,
+        "height": 25
+      },
+      "confidence": 95.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "poem \"From a Railway Carriage\"?",
+      "cleanText": "poem \"From a Railway Carriage\"?",
+      "bbox": {
+        "x": 366,
+        "y": 802,
+        "width": 364,
+        "height": 23
+      },
+      "confidence": 94.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "(f) What does Leisure mean in the poem\" Leisure\"?",
+      "cleanText": "(f) What does Leisure mean in the poem\" Leisure\"?",
+      "bbox": {
+        "x": 319,
+        "y": 841,
+        "width": 557,
+        "height": 24
+      },
+      "confidence": 93.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "(g) What is the main theme of the poem \"Leisure\"?",
+      "cleanText": "(g) What is the main theme of the poem \"Leisure\"?",
+      "bbox": {
+        "x": 320,
+        "y": 881,
+        "width": 546,
+        "height": 25
+      },
+      "confidence": 94.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "(h) How does the poet describe the moon in the poem “Under the Full",
+      "cleanText": "(h) How does the poet describe the moon in the poem “Under the Full",
+      "bbox": {
+        "x": 317,
+        "y": 920,
+        "width": 799,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Part B - Writing (Marks: 30)",
+      "cleanText": "Part B - Writing (Marks: 30)",
+      "bbox": {
+        "x": 478,
+        "y": 1039,
+        "width": 631,
+        "height": 27
+      },
+      "confidence": 93.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "11. Read the opening of a story below and complete it in at least ten",
+      "cleanText": "Read the opening of a story below and complete it in at least ten",
+      "bbox": {
+        "x": 249,
+        "y": 1130,
+        "width": 867,
+        "height": 36
+      },
+      "confidence": 95.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "new sentences. Give a suitable title toit. 10",
+      "cleanText": "new sentences. Give a suitable title toit. 10",
+      "bbox": {
+        "x": 248,
+        "y": 1193,
+        "width": 580,
+        "height": 22
+      },
+      "confidence": 93.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Ina small village, there lived a greedy farmer named Alam. He had plenty of land and",
+      "cleanText": "Ina small village, there lived a greedy farmer named Alam. He had plenty of land and",
+      "bbox": {
+        "x": 207,
+        "y": 1236,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "cattle, but he always wanted more. One day, a wise old man told him about a magical",
+      "cleanText": "cattle, but he always wanted more. One day, a wise old man told him about a magical",
+      "bbox": {
+        "x": 207,
+        "y": 1268,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 94.35,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "offer. \"If you run from sunrise to sunset, all the land you cover will be yours,\" he said.",
+      "cleanText": "offer. \"If you run from sunrise to sunset, all the land you cover will be yours,\" he said.",
+      "bbox": {
+        "x": 207,
+        "y": 1300,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 95.28,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "12.Write a paragraph on “Patriotism” in 150 words. 10",
+      "cleanText": "12.Write a paragraph on “Patriotism” in 150 words. 10",
+      "bbox": {
+        "x": 249,
+        "y": 1356,
+        "width": 818,
+        "height": 27
+      },
+      "confidence": 95.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "13.Suppose you are Alpona. You are having a chat with your friend,",
+      "cleanText": "13.Suppose you are Alpona. You are having a chat with your friend,",
+      "bbox": {
+        "x": 249,
+        "y": 1415,
+        "width": 867,
+        "height": 27
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Jamil about both of your favourite sports.",
+      "cleanText": "Jamil about both of your favourite sports.",
+      "bbox": {
+        "x": 286,
+        "y": 1452,
+        "width": 548,
+        "height": 27
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Now, write a dialogue between you and your friend on your favourite sports. 10",
+      "cleanText": "Now, write a dialogue between you and your friend on your favourite sports. 10",
+      "bbox": {
+        "x": 208,
+        "y": 1518,
+        "width": 879,
+        "height": 24
+      },
+      "confidence": 95.79,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Class 7 English Forma-15",
+      "cleanText": "Class 7 English Forma-15",
+      "bbox": {
+        "x": 203,
+        "y": 1632,
+        "width": 274,
+        "height": 24
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-118-line-027",
+      "lineNumber": 27
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-118-line-001",
+      "lineNumber": 1,
+      "text": "Sample Question 113",
+      "bbox": {
+        "x": 203,
+        "y": 273,
+        "width": 912,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-002",
+      "lineNumber": 2,
+      "text": "Answer any five of the following questions from the poems in",
+      "bbox": {
+        "x": 250,
+        "y": 348,
+        "width": 865,
+        "height": 28
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-003",
+      "lineNumber": 3,
+      "text": "your textbook. 2x5=10",
+      "bbox": {
+        "x": 286,
+        "y": 385,
+        "width": 830,
+        "height": 28
+      },
+      "confidence": 93.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-004",
+      "lineNumber": 4,
+      "text": "(a) Who are the two people claiming responsibility for the child in the",
+      "bbox": {
+        "x": 320,
+        "y": 445,
+        "width": 796,
+        "height": 24
+      },
+      "confidence": 95.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-005",
+      "lineNumber": 5,
+      "text": "poem \"Whose Child is This?\"?",
+      "bbox": {
+        "x": 365,
+        "y": 485,
+        "width": 325,
+        "height": 24
+      },
+      "confidence": 94.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-006",
+      "lineNumber": 6,
+      "text": "(b) What does the poem \"Whose Child is This?” suggest about the responsi-",
+      "bbox": {
+        "x": 317,
+        "y": 524,
+        "width": 799,
+        "height": 24
+      },
+      "confidence": 93.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-007",
+      "lineNumber": 7,
+      "text": "bilities of parents and teachers?",
+      "bbox": {
+        "x": 365,
+        "y": 564,
+        "width": 331,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-008",
+      "lineNumber": 8,
+      "text": "(c) What are some of the things the poct sees while traveling on the train in",
+      "bbox": {
+        "x": 319,
+        "y": 600,
+        "width": 797,
+        "height": 32
+      },
+      "confidence": 89.94,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-009",
+      "lineNumber": 9,
+      "text": "the poem \" From a Railway Carriage’?",
+      "bbox": {
+        "x": 366,
+        "y": 643,
+        "width": 403,
+        "height": 24
+      },
+      "confidence": 85.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-010",
+      "lineNumber": 10,
+      "text": "(d) What is meant by painted station in the poem \"From a Railway",
+      "bbox": {
+        "x": 320,
+        "y": 683,
+        "width": 797,
+        "height": 24
+      },
+      "confidence": 95.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-012",
+      "lineNumber": 12,
+      "text": "(e) What does the poet compare the speed of the train to, and why in the",
+      "bbox": {
+        "x": 320,
+        "y": 762,
+        "width": 796,
+        "height": 25
+      },
+      "confidence": 95.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-013",
+      "lineNumber": 13,
+      "text": "poem \"From a Railway Carriage\"?",
+      "bbox": {
+        "x": 366,
+        "y": 802,
+        "width": 364,
+        "height": 23
+      },
+      "confidence": 94.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-014",
+      "lineNumber": 14,
+      "text": "(f) What does Leisure mean in the poem\" Leisure\"?",
+      "bbox": {
+        "x": 319,
+        "y": 841,
+        "width": 557,
+        "height": 24
+      },
+      "confidence": 93.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-015",
+      "lineNumber": 15,
+      "text": "(g) What is the main theme of the poem \"Leisure\"?",
+      "bbox": {
+        "x": 320,
+        "y": 881,
+        "width": 546,
+        "height": 25
+      },
+      "confidence": 94.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-016",
+      "lineNumber": 16,
+      "text": "(h) How does the poet describe the moon in the poem “Under the Full",
+      "bbox": {
+        "x": 317,
+        "y": 920,
+        "width": 799,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-017",
+      "lineNumber": 17,
+      "text": "Part B - Writing (Marks: 30)",
+      "bbox": {
+        "x": 478,
+        "y": 1039,
+        "width": 631,
+        "height": 27
+      },
+      "confidence": 93.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-018",
+      "lineNumber": 18,
+      "text": "Read the opening of a story below and complete it in at least ten",
+      "bbox": {
+        "x": 249,
+        "y": 1130,
+        "width": 867,
+        "height": 36
+      },
+      "confidence": 95.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-019",
+      "lineNumber": 19,
+      "text": "new sentences. Give a suitable title toit. 10",
+      "bbox": {
+        "x": 248,
+        "y": 1193,
+        "width": 580,
+        "height": 22
+      },
+      "confidence": 93.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-020",
+      "lineNumber": 20,
+      "text": "Ina small village, there lived a greedy farmer named Alam. He had plenty of land and",
+      "bbox": {
+        "x": 207,
+        "y": 1236,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 95.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-021",
+      "lineNumber": 21,
+      "text": "cattle, but he always wanted more. One day, a wise old man told him about a magical",
+      "bbox": {
+        "x": 207,
+        "y": 1268,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 94.35,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-022",
+      "lineNumber": 22,
+      "text": "offer. \"If you run from sunrise to sunset, all the land you cover will be yours,\" he said.",
+      "bbox": {
+        "x": 207,
+        "y": 1300,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 95.28,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-023",
+      "lineNumber": 23,
+      "text": "12.Write a paragraph on “Patriotism” in 150 words. 10",
+      "bbox": {
+        "x": 249,
+        "y": 1356,
+        "width": 818,
+        "height": 27
+      },
+      "confidence": 95.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-024",
+      "lineNumber": 24,
+      "text": "13.Suppose you are Alpona. You are having a chat with your friend,",
+      "bbox": {
+        "x": 249,
+        "y": 1415,
+        "width": 867,
+        "height": 27
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-025",
+      "lineNumber": 25,
+      "text": "Jamil about both of your favourite sports.",
+      "bbox": {
+        "x": 286,
+        "y": 1452,
+        "width": 548,
+        "height": 27
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-026",
+      "lineNumber": 26,
+      "text": "Now, write a dialogue between you and your friend on your favourite sports. 10",
+      "bbox": {
+        "x": 208,
+        "y": 1518,
+        "width": 879,
+        "height": 24
+      },
+      "confidence": 95.79,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-118-line-027",
+      "lineNumber": 27,
+      "text": "Class 7 English Forma-15",
+      "bbox": {
+        "x": 203,
+        "y": 1632,
+        "width": 274,
+        "height": 24
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Sample Question 113\n10. Answer any five of the following questions from the poems in\nyour textbook. 2x5=10\n(a) Who are the two people claiming responsibility for the child in the\npoem \"Whose Child is This?\"?\n(b) What does the poem \"Whose Child is This?” suggest about the responsi-\nbilities of parents and teachers?\n(c) What are some of the things the poct sees while traveling on the train in\nthe poem \" From a Railway Carriage’?\n(d) What is meant by painted station in the poem \"From a Railway\nCarriage\"?\n(e) What does the poet compare the speed of the train to, and why in the\npoem \"From a Railway Carriage\"?\n(f) What does Leisure mean in the poem\" Leisure\"?\n(g) What is the main theme of the poem \"Leisure\"?\n(h) How does the poet describe the moon in the poem “Under the Full\nPart B - Writing (Marks: 30)\n11. Read the opening of a story below and complete it in at least ten\nnew sentences. Give a suitable title toit. 10\nIna small village, there lived a greedy farmer named Alam. He had plenty of land and\ncattle, but he always wanted more. One day, a wise old man told him about a magical\noffer. \"If you run from sunrise to sunset, all the land you cover will be yours,\" he said.\n12.Write a paragraph on “Patriotism” in 150 words. 10\n13.Suppose you are Alpona. You are having a chat with your friend,\nJamil about both of your favourite sports.\nNow, write a dialogue between you and your friend on your favourite sports. 10\nClass 7 English Forma-15",
+  "cleanText": "Sample Question 113\nAnswer any five of the following questions from the poems in\nyour textbook. 2x5=10\n(a) Who are the two people claiming responsibility for the child in the\npoem \"Whose Child is This?\"?\n(b) What does the poem \"Whose Child is This?” suggest about the responsi-\nbilities of parents and teachers?\n(c) What are some of the things the poct sees while traveling on the train in\nthe poem \" From a Railway Carriage’?\n(d) What is meant by painted station in the poem \"From a Railway\nCarriage\"?\n(e) What does the poet compare the speed of the train to, and why in the\npoem \"From a Railway Carriage\"?\n(f) What does Leisure mean in the poem\" Leisure\"?\n(g) What is the main theme of the poem \"Leisure\"?\n(h) How does the poet describe the moon in the poem “Under the Full\nPart B - Writing (Marks: 30)\nRead the opening of a story below and complete it in at least ten\nnew sentences. Give a suitable title toit. 10\nIna small village, there lived a greedy farmer named Alam. He had plenty of land and\ncattle, but he always wanted more. One day, a wise old man told him about a magical\noffer. \"If you run from sunrise to sunset, all the land you cover will be yours,\" he said.\n12.Write a paragraph on “Patriotism” in 150 words. 10\n13.Suppose you are Alpona. You are having a chat with your friend,\nJamil about both of your favourite sports.\nNow, write a dialogue between you and your friend on your favourite sports. 10\nClass 7 English Forma-15",
+  "aiReadyText": "Sample Question 113\nAnswer any five of the following questions from the poems in\nyour textbook. 2x5=10\n(a) Who are the two people claiming responsibility for the child in the\npoem \"Whose Child is This?\"?\n(b) What does the poem \"Whose Child is This?” suggest about the responsi-\nbilities of parents and teachers?\n(c) What are some of the things the poct sees while traveling on the train in\nthe poem \" From a Railway Carriage’?\n(d) What is meant by painted station in the poem \"From a Railway\n(e) What does the poet compare the speed of the train to, and why in the\npoem \"From a Railway Carriage\"?\n(f) What does Leisure mean in the poem\" Leisure\"?\n(g) What is the main theme of the poem \"Leisure\"?\n(h) How does the poet describe the moon in the poem “Under the Full\nPart B - Writing (Marks: 30)\nRead the opening of a story below and complete it in at least ten\nnew sentences. Give a suitable title toit. 10\nIna small village, there lived a greedy farmer named Alam. He had plenty of land and\ncattle, but he always wanted more. One day, a wise old man told him about a magical\noffer. \"If you run from sunrise to sunset, all the land you cover will be yours,\" he said.\n12.Write a paragraph on “Patriotism” in 150 words. 10\n13.Suppose you are Alpona. You are having a chat with your friend,\nJamil about both of your favourite sports.\nNow, write a dialogue between you and your friend on your favourite sports. 10\nClass 7 English Forma-15"
+}

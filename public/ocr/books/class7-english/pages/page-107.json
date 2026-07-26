@@ -1,0 +1,814 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 107,
+  "image": "/ocr/books/class7-english/page-images/page-107.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "102 ENGLISH FOR TODAY",
+      "cleanText": "102 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 194,
+        "y": 262,
+        "width": 910,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 2: What Happens in Bangladesh?",
+      "cleanText": "Lesson 2: What Happens in Bangladesh?",
+      "bbox": {
+        "x": 190,
+        "y": 324,
+        "width": 540,
+        "height": 28
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Keywords: prolonged, adverse, waterlogging, landslide, spell ,",
+      "cleanText": "Keywords: prolonged, adverse, waterlogging, landslide, spell ,",
+      "bbox": {
+        "x": 207,
+        "y": 408,
+        "width": 845,
+        "height": 35
+      },
+      "confidence": 81.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "crop, salinity, coastal, deforestation",
+      "cleanText": "crop, salinity, coastal, deforestation",
+      "bbox": {
+        "x": 370,
+        "y": 458,
+        "width": 610,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "A. Samina and Arif are very upset to read about the effects of climate",
+      "cleanText": "Samina and Arif are very upset to read about the effects of climate",
+      "bbox": {
+        "x": 190,
+        "y": 522,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "change. They are more curious to know what will happen in",
+      "cleanText": "change. They are more curious to know what will happen in",
+      "bbox": {
+        "x": 268,
+        "y": 555,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Bangladesh. Read the following text to know about this.",
+      "cleanText": "Bangladesh. Read the following text to know about this.",
+      "bbox": {
+        "x": 268,
+        "y": 588,
+        "width": 661,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Bangladesh is already experiencing",
+      "cleanText": "Bangladesh is already experiencing",
+      "bbox": {
+        "x": 271,
+        "y": 653,
+        "width": 363,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "the adverse impacts of global",
+      "cleanText": "the adverse impacts of global",
+      "bbox": {
+        "x": 270,
+        "y": 686,
+        "width": 355,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "warming and climate change.",
+      "cleanText": "warming and climate change.",
+      "bbox": {
+        "x": 270,
+        "y": 719,
+        "width": 354,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Summers are becoming hotter and",
+      "cleanText": "Summers are becoming hotter and",
+      "bbox": {
+        "x": 268,
+        "y": 752,
+        "width": 364,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "the monsoon is irregular. There",
+      "cleanText": "the monsoon is irregular. There",
+      "bbox": {
+        "x": 268,
+        "y": 785,
+        "width": 358,
+        "height": 25
+      },
+      "confidence": 94.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "are untimely heavy rainfalls causing",
+      "cleanText": "are untimely heavy rainfalls causing",
+      "bbox": {
+        "x": 268,
+        "y": 818,
+        "width": 369,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "water logging",
+      "cleanText": "water logging",
+      "bbox": {
+        "x": 270,
+        "y": 853,
+        "width": 164,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-107-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Among other impacts there are",
+      "cleanText": "Among other impacts there are",
+      "bbox": {
+        "x": 270,
+        "y": 885,
+        "width": 361,
+        "height": 26
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "frequent floods, river erosion and",
+      "cleanText": "frequent floods, river erosion and",
+      "bbox": {
+        "x": 270,
+        "y": 919,
+        "width": 362,
+        "height": 25
+      },
+      "confidence": 93.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "crop damage duc to drought,",
+      "cleanText": "crop damage duc to drought,",
+      "bbox": {
+        "x": 270,
+        "y": 952,
+        "width": 361,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "prolonged cold spells, salinity of",
+      "cleanText": "prolonged cold spells, salinity of",
+      "bbox": {
+        "x": 270,
+        "y": 985,
+        "width": 365,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "water in the coastal arcas etc.",
+      "cleanText": "water in the coastal arcas etc.",
+      "bbox": {
+        "x": 270,
+        "y": 1018,
+        "width": 318,
+        "height": 19
+      },
+      "confidence": 88.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Climate change has already started bringing disasters to Bangladesh.",
+      "cleanText": "Climate change has already started bringing disasters to Bangladesh.",
+      "bbox": {
+        "x": 268,
+        "y": 1108,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "We remember the damage caused by the Aila in 2009. Climate change",
+      "cleanText": "We remember the damage caused by the Aila in 2009. Climate change",
+      "bbox": {
+        "x": 267,
+        "y": 1141,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "victims are increasing in number every day. The number of families",
+      "cleanText": "victims are increasing in number every day. The number of families",
+      "bbox": {
+        "x": 270,
+        "y": 1174,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 95.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "and villages that lose their homes permanently to rivers every year is one",
+      "cleanText": "and villages that lose their homes permanently to rivers every year is one",
+      "bbox": {
+        "x": 270,
+        "y": 1207,
+        "width": 828,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "of the highest in Bangladesh. An increasing number of people are suffering",
+      "cleanText": "of the highest in Bangladesh. An increasing number of people are suffering",
+      "bbox": {
+        "x": 269,
+        "y": 1240,
+        "width": 833,
+        "height": 26
+      },
+      "confidence": 94.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "damage or loss to their property and some time life due to disasters caused",
+      "cleanText": "damage or loss to their property and some time life due to disasters caused",
+      "bbox": {
+        "x": 265,
+        "y": 1272,
+        "width": 836,
+        "height": 26
+      },
+      "confidence": 95.79,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "by climate change. Following the climate change, the river bank and coastal",
+      "cleanText": "by climate change. Following the climate change, the river bank and coastal",
+      "bbox": {
+        "x": 267,
+        "y": 1308,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "erosion are increasing at an alarming rate. It is estimated that a 45 -centimetre",
+      "cleanText": "erosion are increasing at an alarming rate. It is estimated that a 45 -centimetre",
+      "bbox": {
+        "x": 266,
+        "y": 1341,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "rise of sea-level will flood almost 10.9 percent of our territory and will",
+      "cleanText": "rise of sea-level will flood almost 10.9 percent of our territory and will",
+      "bbox": {
+        "x": 268,
+        "y": 1373,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 95.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "make 5.5 million people of our coastal regions homeless.",
+      "cleanText": "make 5.5 million people of our coastal regions homeless.",
+      "bbox": {
+        "x": 267,
+        "y": 1409,
+        "width": 628,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-107-line-029",
+      "lineNumber": 29
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-107-line-001",
+      "lineNumber": 1,
+      "text": "102 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 194,
+        "y": 262,
+        "width": 910,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 2: What Happens in Bangladesh?",
+      "bbox": {
+        "x": 190,
+        "y": 324,
+        "width": 540,
+        "height": 28
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-003",
+      "lineNumber": 3,
+      "text": "Keywords: prolonged, adverse, waterlogging, landslide, spell ,",
+      "bbox": {
+        "x": 207,
+        "y": 408,
+        "width": 845,
+        "height": 35
+      },
+      "confidence": 81.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-004",
+      "lineNumber": 4,
+      "text": "crop, salinity, coastal, deforestation",
+      "bbox": {
+        "x": 370,
+        "y": 458,
+        "width": 610,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-005",
+      "lineNumber": 5,
+      "text": "Samina and Arif are very upset to read about the effects of climate",
+      "bbox": {
+        "x": 190,
+        "y": 522,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-006",
+      "lineNumber": 6,
+      "text": "change. They are more curious to know what will happen in",
+      "bbox": {
+        "x": 268,
+        "y": 555,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-007",
+      "lineNumber": 7,
+      "text": "Bangladesh. Read the following text to know about this.",
+      "bbox": {
+        "x": 268,
+        "y": 588,
+        "width": 661,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-008",
+      "lineNumber": 8,
+      "text": "Bangladesh is already experiencing",
+      "bbox": {
+        "x": 271,
+        "y": 653,
+        "width": 363,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-009",
+      "lineNumber": 9,
+      "text": "the adverse impacts of global",
+      "bbox": {
+        "x": 270,
+        "y": 686,
+        "width": 355,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-010",
+      "lineNumber": 10,
+      "text": "warming and climate change.",
+      "bbox": {
+        "x": 270,
+        "y": 719,
+        "width": 354,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-011",
+      "lineNumber": 11,
+      "text": "Summers are becoming hotter and",
+      "bbox": {
+        "x": 268,
+        "y": 752,
+        "width": 364,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-012",
+      "lineNumber": 12,
+      "text": "the monsoon is irregular. There",
+      "bbox": {
+        "x": 268,
+        "y": 785,
+        "width": 358,
+        "height": 25
+      },
+      "confidence": 94.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-013",
+      "lineNumber": 13,
+      "text": "are untimely heavy rainfalls causing",
+      "bbox": {
+        "x": 268,
+        "y": 818,
+        "width": 369,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-015",
+      "lineNumber": 15,
+      "text": "Among other impacts there are",
+      "bbox": {
+        "x": 270,
+        "y": 885,
+        "width": 361,
+        "height": 26
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-016",
+      "lineNumber": 16,
+      "text": "frequent floods, river erosion and",
+      "bbox": {
+        "x": 270,
+        "y": 919,
+        "width": 362,
+        "height": 25
+      },
+      "confidence": 93.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-017",
+      "lineNumber": 17,
+      "text": "crop damage duc to drought,",
+      "bbox": {
+        "x": 270,
+        "y": 952,
+        "width": 361,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-018",
+      "lineNumber": 18,
+      "text": "prolonged cold spells, salinity of",
+      "bbox": {
+        "x": 270,
+        "y": 985,
+        "width": 365,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-019",
+      "lineNumber": 19,
+      "text": "water in the coastal arcas etc.",
+      "bbox": {
+        "x": 270,
+        "y": 1018,
+        "width": 318,
+        "height": 19
+      },
+      "confidence": 88.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-020",
+      "lineNumber": 20,
+      "text": "Climate change has already started bringing disasters to Bangladesh.",
+      "bbox": {
+        "x": 268,
+        "y": 1108,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-021",
+      "lineNumber": 21,
+      "text": "We remember the damage caused by the Aila in 2009. Climate change",
+      "bbox": {
+        "x": 267,
+        "y": 1141,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-022",
+      "lineNumber": 22,
+      "text": "victims are increasing in number every day. The number of families",
+      "bbox": {
+        "x": 270,
+        "y": 1174,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 95.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-023",
+      "lineNumber": 23,
+      "text": "and villages that lose their homes permanently to rivers every year is one",
+      "bbox": {
+        "x": 270,
+        "y": 1207,
+        "width": 828,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-024",
+      "lineNumber": 24,
+      "text": "of the highest in Bangladesh. An increasing number of people are suffering",
+      "bbox": {
+        "x": 269,
+        "y": 1240,
+        "width": 833,
+        "height": 26
+      },
+      "confidence": 94.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-025",
+      "lineNumber": 25,
+      "text": "damage or loss to their property and some time life due to disasters caused",
+      "bbox": {
+        "x": 265,
+        "y": 1272,
+        "width": 836,
+        "height": 26
+      },
+      "confidence": 95.79,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-026",
+      "lineNumber": 26,
+      "text": "by climate change. Following the climate change, the river bank and coastal",
+      "bbox": {
+        "x": 267,
+        "y": 1308,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-027",
+      "lineNumber": 27,
+      "text": "erosion are increasing at an alarming rate. It is estimated that a 45 -centimetre",
+      "bbox": {
+        "x": 266,
+        "y": 1341,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-028",
+      "lineNumber": 28,
+      "text": "rise of sea-level will flood almost 10.9 percent of our territory and will",
+      "bbox": {
+        "x": 268,
+        "y": 1373,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 95.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-107-line-029",
+      "lineNumber": 29,
+      "text": "make 5.5 million people of our coastal regions homeless.",
+      "bbox": {
+        "x": 267,
+        "y": 1409,
+        "width": 628,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "102 ENGLISH FOR TODAY\nLesson 2: What Happens in Bangladesh?\nKeywords: prolonged, adverse, waterlogging, landslide, spell ,\ncrop, salinity, coastal, deforestation\nA. Samina and Arif are very upset to read about the effects of climate\nchange. They are more curious to know what will happen in\nBangladesh. Read the following text to know about this.\nBangladesh is already experiencing\nthe adverse impacts of global\nwarming and climate change.\nSummers are becoming hotter and\nthe monsoon is irregular. There\nare untimely heavy rainfalls causing\nwater logging\nAmong other impacts there are\nfrequent floods, river erosion and\ncrop damage duc to drought,\nprolonged cold spells, salinity of\nwater in the coastal arcas etc.\nClimate change has already started bringing disasters to Bangladesh.\nWe remember the damage caused by the Aila in 2009. Climate change\nvictims are increasing in number every day. The number of families\nand villages that lose their homes permanently to rivers every year is one\nof the highest in Bangladesh. An increasing number of people are suffering\ndamage or loss to their property and some time life due to disasters caused\nby climate change. Following the climate change, the river bank and coastal\nerosion are increasing at an alarming rate. It is estimated that a 45 -centimetre\nrise of sea-level will flood almost 10.9 percent of our territory and will\nmake 5.5 million people of our coastal regions homeless.",
+  "cleanText": "102 ENGLISH FOR TODAY\nLesson 2: What Happens in Bangladesh?\nKeywords: prolonged, adverse, waterlogging, landslide, spell ,\ncrop, salinity, coastal, deforestation\nSamina and Arif are very upset to read about the effects of climate\nchange. They are more curious to know what will happen in\nBangladesh. Read the following text to know about this.\nBangladesh is already experiencing\nthe adverse impacts of global\nwarming and climate change.\nSummers are becoming hotter and\nthe monsoon is irregular. There\nare untimely heavy rainfalls causing\nwater logging\nAmong other impacts there are\nfrequent floods, river erosion and\ncrop damage duc to drought,\nprolonged cold spells, salinity of\nwater in the coastal arcas etc.\nClimate change has already started bringing disasters to Bangladesh.\nWe remember the damage caused by the Aila in 2009. Climate change\nvictims are increasing in number every day. The number of families\nand villages that lose their homes permanently to rivers every year is one\nof the highest in Bangladesh. An increasing number of people are suffering\ndamage or loss to their property and some time life due to disasters caused\nby climate change. Following the climate change, the river bank and coastal\nerosion are increasing at an alarming rate. It is estimated that a 45 -centimetre\nrise of sea-level will flood almost 10.9 percent of our territory and will\nmake 5.5 million people of our coastal regions homeless.",
+  "aiReadyText": "102 ENGLISH FOR TODAY\nLesson 2: What Happens in Bangladesh?\nKeywords: prolonged, adverse, waterlogging, landslide, spell ,\ncrop, salinity, coastal, deforestation\nSamina and Arif are very upset to read about the effects of climate\nchange. They are more curious to know what will happen in\nBangladesh. Read the following text to know about this.\nBangladesh is already experiencing\nthe adverse impacts of global\nwarming and climate change.\nSummers are becoming hotter and\nthe monsoon is irregular. There\nare untimely heavy rainfalls causing\nAmong other impacts there are\nfrequent floods, river erosion and\ncrop damage duc to drought,\nprolonged cold spells, salinity of\nwater in the coastal arcas etc.\nClimate change has already started bringing disasters to Bangladesh.\nWe remember the damage caused by the Aila in 2009. Climate change\nvictims are increasing in number every day. The number of families\nand villages that lose their homes permanently to rivers every year is one\nof the highest in Bangladesh. An increasing number of people are suffering\ndamage or loss to their property and some time life due to disasters caused\nby climate change. Following the climate change, the river bank and coastal\nerosion are increasing at an alarming rate. It is estimated that a 45 -centimetre\nrise of sea-level will flood almost 10.9 percent of our territory and will\nmake 5.5 million people of our coastal regions homeless."
+}

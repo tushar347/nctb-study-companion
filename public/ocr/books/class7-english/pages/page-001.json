@@ -1,0 +1,86 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 1,
+  "image": "/ocr/books/class7-english/page-images/page-001.png",
+  "width": 1213,
+  "height": 1546,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "@® ENGLISH FOR TODAY",
+      "cleanText": "@® ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 39,
+        "y": 130,
+        "width": 965,
+        "height": 53
+      },
+      "confidence": 83.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-001-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Class Seven",
+      "cleanText": "Class Seven",
+      "bbox": {
+        "x": 465,
+        "y": 234,
+        "width": 295,
+        "height": 43
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-001-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "G US: National Curriculum and Textbook Board, Bangladesh",
+      "cleanText": "G US: National Curriculum and Textbook Board, Bangladesh",
+      "bbox": {
+        "x": 133,
+        "y": 1351,
+        "width": 966,
+        "height": 72
+      },
+      "confidence": 90.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-001-line-003",
+      "lineNumber": 3
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-001-line-001",
+      "lineNumber": 1,
+      "text": "@® ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 39,
+        "y": 130,
+        "width": 965,
+        "height": 53
+      },
+      "confidence": 83.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-001-line-003",
+      "lineNumber": 3,
+      "text": "G US: National Curriculum and Textbook Board, Bangladesh",
+      "bbox": {
+        "x": 133,
+        "y": 1351,
+        "width": 966,
+        "height": 72
+      },
+      "confidence": 90.62,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "@® ENGLISH FOR TODAY\nClass Seven\nG US: National Curriculum and Textbook Board, Bangladesh",
+  "cleanText": "@® ENGLISH FOR TODAY\nClass Seven\nG US: National Curriculum and Textbook Board, Bangladesh",
+  "aiReadyText": "@® ENGLISH FOR TODAY\nG US: National Curriculum and Textbook Board, Bangladesh"
+}

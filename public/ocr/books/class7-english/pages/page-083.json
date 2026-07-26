@@ -1,0 +1,493 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 83,
+  "image": "/ocr/books/class7-english/page-images/page-083.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "8. What is the first thing you do when you get back home?",
+      "cleanText": "What is the first thing you do when you get back home?",
+      "bbox": {
+        "x": 350,
+        "y": 316,
+        "width": 692,
+        "height": 25
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "9. How long do you watch television each day?",
+      "cleanText": "How long do you watch television each day?",
+      "bbox": {
+        "x": 349,
+        "y": 355,
+        "width": 571,
+        "height": 25
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "10. your favourite programme?",
+      "cleanText": "your favourite programme?",
+      "bbox": {
+        "x": 352,
+        "y": 395,
+        "width": 463,
+        "height": 25
+      },
+      "confidence": 91.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "11. How often do you go out with your friends?",
+      "cleanText": "How often do you go out with your friends?",
+      "bbox": {
+        "x": 352,
+        "y": 435,
+        "width": 558,
+        "height": 24
+      },
+      "confidence": 89.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "12. Where do you go? What do you do together?",
+      "cleanText": "Where do you go? What do you do together?",
+      "bbox": {
+        "x": 352,
+        "y": 474,
+        "width": 569,
+        "height": 25
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "13. What time do you go to bed?",
+      "cleanText": "What time do you go to bed?",
+      "bbox": {
+        "x": 352,
+        "y": 514,
+        "width": 393,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "14. What is your dream for the future?",
+      "cleanText": "What is your dream for the future?",
+      "bbox": {
+        "x": 353,
+        "y": 553,
+        "width": 458,
+        "height": 25
+      },
+      "confidence": 89.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "H. Work in pairs. Ask and answer the above questions. Keep a record of",
+      "cleanText": "H. Work in pairs. Ask and answer the above questions. Keep a record of",
+      "bbox": {
+        "x": 203,
+        "y": 634,
+        "width": 905,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "your partner’s answers and write a paragraph about him or her on the",
+      "cleanText": "your partner’s answers and write a paragraph about him or her on the",
+      "bbox": {
+        "x": 247,
+        "y": 674,
+        "width": 860,
+        "height": 24
+      },
+      "confidence": 94.31,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "basis of your record. Start like this ....",
+      "cleanText": "basis of your record. Start like this ....",
+      "bbox": {
+        "x": 245,
+        "y": 713,
+        "width": 445,
+        "height": 24
+      },
+      "confidence": 94.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Moon (partner’s name) gets up at 7 o’clock in the morning. Then",
+      "cleanText": "Moon (partner’s name) gets up at 7 o’clock in the morning. Then",
+      "bbox": {
+        "x": 282,
+        "y": 765,
+        "width": 826,
+        "height": 25
+      },
+      "confidence": 93.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "has breakfast. She eats two pieces of chapati and a portion of",
+      "cleanText": "has breakfast. She eats two pieces of chapati and a portion of",
+      "bbox": {
+        "x": 331,
+        "y": 805,
+        "width": 778,
+        "height": 25
+      },
+      "confidence": 93.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "vegetables. Sometimes she eatsa banana and drinks a glass of milk.",
+      "cleanText": "vegetables. Sometimes she eatsa banana and drinks a glass of milk.",
+      "bbox": {
+        "x": 280,
+        "y": 845,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 95.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Lesson 3: What Games and Sports do You Like?",
+      "cleanText": "Lesson 3: What Games and Sports do You Like?",
+      "bbox": {
+        "x": 201,
+        "y": 965,
+        "width": 633,
+        "height": 27
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Keywords: aerobics, yoga, jogging, middle-aged",
+      "cleanText": "Keywords: aerobics, yoga, jogging, middle-aged",
+      "bbox": {
+        "x": 199,
+        "y": 1025,
+        "width": 605,
+        "height": 27
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "a. b. | d.",
+      "cleanText": "b. | d.",
+      "bbox": {
+        "x": 201,
+        "y": 1233,
+        "width": 681,
+        "height": 18
+      },
+      "confidence": 84.25,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-083-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Talk about these questions.",
+      "cleanText": "Talk about these questions.",
+      "bbox": {
+        "x": 282,
+        "y": 1511,
+        "width": 319,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-083-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Do you know what games and sports these are?",
+      "cleanText": "Do you know what games and sports these are?",
+      "bbox": {
+        "x": 322,
+        "y": 1566,
+        "width": 520,
+        "height": 25
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-083-line-018",
+      "lineNumber": 18
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-083-line-001",
+      "lineNumber": 1,
+      "text": "What is the first thing you do when you get back home?",
+      "bbox": {
+        "x": 350,
+        "y": 316,
+        "width": 692,
+        "height": 25
+      },
+      "confidence": 95.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-002",
+      "lineNumber": 2,
+      "text": "How long do you watch television each day?",
+      "bbox": {
+        "x": 349,
+        "y": 355,
+        "width": 571,
+        "height": 25
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-003",
+      "lineNumber": 3,
+      "text": "your favourite programme?",
+      "bbox": {
+        "x": 352,
+        "y": 395,
+        "width": 463,
+        "height": 25
+      },
+      "confidence": 91.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-004",
+      "lineNumber": 4,
+      "text": "How often do you go out with your friends?",
+      "bbox": {
+        "x": 352,
+        "y": 435,
+        "width": 558,
+        "height": 24
+      },
+      "confidence": 89.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-005",
+      "lineNumber": 5,
+      "text": "Where do you go? What do you do together?",
+      "bbox": {
+        "x": 352,
+        "y": 474,
+        "width": 569,
+        "height": 25
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-006",
+      "lineNumber": 6,
+      "text": "What time do you go to bed?",
+      "bbox": {
+        "x": 352,
+        "y": 514,
+        "width": 393,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-007",
+      "lineNumber": 7,
+      "text": "What is your dream for the future?",
+      "bbox": {
+        "x": 353,
+        "y": 553,
+        "width": 458,
+        "height": 25
+      },
+      "confidence": 89.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-008",
+      "lineNumber": 8,
+      "text": "H. Work in pairs. Ask and answer the above questions. Keep a record of",
+      "bbox": {
+        "x": 203,
+        "y": 634,
+        "width": 905,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-009",
+      "lineNumber": 9,
+      "text": "your partner’s answers and write a paragraph about him or her on the",
+      "bbox": {
+        "x": 247,
+        "y": 674,
+        "width": 860,
+        "height": 24
+      },
+      "confidence": 94.31,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-010",
+      "lineNumber": 10,
+      "text": "basis of your record. Start like this ....",
+      "bbox": {
+        "x": 245,
+        "y": 713,
+        "width": 445,
+        "height": 24
+      },
+      "confidence": 94.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-011",
+      "lineNumber": 11,
+      "text": "Moon (partner’s name) gets up at 7 o’clock in the morning. Then",
+      "bbox": {
+        "x": 282,
+        "y": 765,
+        "width": 826,
+        "height": 25
+      },
+      "confidence": 93.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-012",
+      "lineNumber": 12,
+      "text": "has breakfast. She eats two pieces of chapati and a portion of",
+      "bbox": {
+        "x": 331,
+        "y": 805,
+        "width": 778,
+        "height": 25
+      },
+      "confidence": 93.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-013",
+      "lineNumber": 13,
+      "text": "vegetables. Sometimes she eatsa banana and drinks a glass of milk.",
+      "bbox": {
+        "x": 280,
+        "y": 845,
+        "width": 826,
+        "height": 26
+      },
+      "confidence": 95.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-014",
+      "lineNumber": 14,
+      "text": "Lesson 3: What Games and Sports do You Like?",
+      "bbox": {
+        "x": 201,
+        "y": 965,
+        "width": 633,
+        "height": 27
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-015",
+      "lineNumber": 15,
+      "text": "Keywords: aerobics, yoga, jogging, middle-aged",
+      "bbox": {
+        "x": 199,
+        "y": 1025,
+        "width": 605,
+        "height": 27
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-083-line-018",
+      "lineNumber": 18,
+      "text": "Do you know what games and sports these are?",
+      "bbox": {
+        "x": 322,
+        "y": 1566,
+        "width": 520,
+        "height": 25
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "8. What is the first thing you do when you get back home?\n9. How long do you watch television each day?\n10. your favourite programme?\n11. How often do you go out with your friends?\n12. Where do you go? What do you do together?\n13. What time do you go to bed?\n14. What is your dream for the future?\nH. Work in pairs. Ask and answer the above questions. Keep a record of\nyour partner’s answers and write a paragraph about him or her on the\nbasis of your record. Start like this ....\nMoon (partner’s name) gets up at 7 o’clock in the morning. Then\nhas breakfast. She eats two pieces of chapati and a portion of\nvegetables. Sometimes she eatsa banana and drinks a glass of milk.\nLesson 3: What Games and Sports do You Like?\nKeywords: aerobics, yoga, jogging, middle-aged\na. b. | d.\nTalk about these questions.\nDo you know what games and sports these are?",
+  "cleanText": "What is the first thing you do when you get back home?\nHow long do you watch television each day?\nyour favourite programme?\nHow often do you go out with your friends?\nWhere do you go? What do you do together?\nWhat time do you go to bed?\nWhat is your dream for the future?\nH. Work in pairs. Ask and answer the above questions. Keep a record of\nyour partner’s answers and write a paragraph about him or her on the\nbasis of your record. Start like this ....\nMoon (partner’s name) gets up at 7 o’clock in the morning. Then\nhas breakfast. She eats two pieces of chapati and a portion of\nvegetables. Sometimes she eatsa banana and drinks a glass of milk.\nLesson 3: What Games and Sports do You Like?\nKeywords: aerobics, yoga, jogging, middle-aged\nb. | d.\nTalk about these questions.\nDo you know what games and sports these are?",
+  "aiReadyText": "What is the first thing you do when you get back home?\nHow long do you watch television each day?\nyour favourite programme?\nHow often do you go out with your friends?\nWhere do you go? What do you do together?\nWhat time do you go to bed?\nWhat is your dream for the future?\nH. Work in pairs. Ask and answer the above questions. Keep a record of\nyour partner’s answers and write a paragraph about him or her on the\nbasis of your record. Start like this ....\nMoon (partner’s name) gets up at 7 o’clock in the morning. Then\nhas breakfast. She eats two pieces of chapati and a portion of\nvegetables. Sometimes she eatsa banana and drinks a glass of milk.\nLesson 3: What Games and Sports do You Like?\nKeywords: aerobics, yoga, jogging, middle-aged\nDo you know what games and sports these are?"
+}

@@ -1,0 +1,745 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 19,
+  "image": "/ocr/books/class7-english/page-images/page-019.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "14 ENGLISH FOR TODAY",
+      "cleanText": "14 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 193,
+        "y": 254,
+        "width": 912,
+        "height": 18
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Rupa : She is! I also like her very much. And she is very organised. She",
+      "cleanText": "Rupa : She is! I also like her very much. And she is very organised. She",
+      "bbox": {
+        "x": 270,
+        "y": 319,
+        "width": 832,
+        "height": 24
+      },
+      "confidence": 89.06,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "knows how to make us work in groups and pairs. So we are never",
+      "cleanText": "knows how to make us work in groups and pairs. So we are never",
+      "bbox": {
+        "x": 394,
+        "y": 350,
+        "width": 709,
+        "height": 25
+      },
+      "confidence": 96.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Ananda: By the way, I’ve another problem. Do you understand the",
+      "cleanText": "Ananda: By the way, I’ve another problem. Do you understand the",
+      "bbox": {
+        "x": 269,
+        "y": 420,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 92.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "‘Table of Contents’ at the beginning of a book?",
+      "cleanText": "‘Table of Contents’ at the beginning of a book?",
+      "bbox": {
+        "x": 386,
+        "y": 450,
+        "width": 530,
+        "height": 34
+      },
+      "confidence": 95.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Rupa : Hmmm...yes, I’ve learnt it from my elder can try to",
+      "cleanText": "Rupa : Hmmm...yes, I’ve learnt it from my elder can try to",
+      "bbox": {
+        "x": 270,
+        "y": 496,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 90.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "explain it to you if you like.",
+      "cleanText": "explain it to you if you like.",
+      "bbox": {
+        "x": 390,
+        "y": 528,
+        "width": 312,
+        "height": 26
+      },
+      "confidence": 95.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Ananda: So,nice of you. I really need it.",
+      "cleanText": "Ananda: So,nice of you. I really need it.",
+      "bbox": {
+        "x": 269,
+        "y": 573,
+        "width": 460,
+        "height": 25
+      },
+      "confidence": 91.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "B. Work in pairs. Discuss when and how you can help each other with",
+      "cleanText": "Work in pairs. Discuss when and how you can help each other with",
+      "bbox": {
+        "x": 194,
+        "y": 618,
+        "width": 909,
+        "height": 25
+      },
+      "confidence": 95.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "anything difficult in a lesson.",
+      "cleanText": "anything difficult in a lesson.",
+      "bbox": {
+        "x": 276,
+        "y": 649,
+        "width": 340,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "C. Read a content page of a book below individually and work in pairs to",
+      "cleanText": "Read a content page of a book below individually and work in pairs to",
+      "bbox": {
+        "x": 193,
+        "y": 691,
+        "width": 908,
+        "height": 34
+      },
+      "confidence": 91.47,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "answer the questions that follow.",
+      "cleanText": "answer the questions that follow.",
+      "bbox": {
+        "x": 273,
+        "y": 728,
+        "width": 386,
+        "height": 24
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Table of Contents",
+      "cleanText": "Table of Contents",
+      "bbox": {
+        "x": 392,
+        "y": 817,
+        "width": 503,
+        "height": 42
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Introduction: An American Time Capsule 6",
+      "cleanText": "Introduction: An American Time Capsule 6",
+      "bbox": {
+        "x": 371,
+        "y": 965,
+        "width": 546,
+        "height": 24
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Hearth & Home 15",
+      "cleanText": "Hearth & Home 15",
+      "bbox": {
+        "x": 456,
+        "y": 1016,
+        "width": 376,
+        "height": 34
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "by Robert Olen Butler",
+      "cleanText": "by Robert Olen Butler",
+      "bbox": {
+        "x": 571,
+        "y": 1057,
+        "width": 199,
+        "height": 14
+      },
+      "confidence": 90.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Hard at Work 37",
+      "cleanText": "Hard at Work 37",
+      "bbox": {
+        "x": 480,
+        "y": 1109,
+        "width": 329,
+        "height": 35
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Essay by",
+      "cleanText": "Essay by",
+      "bbox": {
+        "x": 528,
+        "y": 1151,
+        "width": 72,
+        "height": 14
+      },
+      "confidence": 64.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-019-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Ametica at Play 57",
+      "cleanText": "Ametica at Play 57",
+      "bbox": {
+        "x": 456,
+        "y": 1203,
+        "width": 373,
+        "height": 37
+      },
+      "confidence": 84.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "by Sean T Kelly",
+      "cleanText": "by Sean T Kelly",
+      "bbox": {
+        "x": 600,
+        "y": 1245,
+        "width": 137,
+        "height": 15
+      },
+      "confidence": 87.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Reason to Believe 83",
+      "cleanText": "Reason to Believe 83",
+      "bbox": {
+        "x": 438,
+        "y": 1297,
+        "width": 411,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Fesay by Roger",
+      "cleanText": "Fesay by Roger",
+      "bbox": {
+        "x": 522,
+        "y": 1338,
+        "width": 132,
+        "height": 14
+      },
+      "confidence": 87.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Our Town 101",
+      "cleanText": "Our Town 101",
+      "bbox": {
+        "x": 505,
+        "y": 1392,
+        "width": 273,
+        "height": 26
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-019-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Fssoy by Nuwr Npe",
+      "cleanText": "Fssoy by Nuwr Npe",
+      "bbox": {
+        "x": 514,
+        "y": 1433,
+        "width": 257,
+        "height": 14
+      },
+      "confidence": 53.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Sea to Shining Sea",
+      "cleanText": "Sea to Shining Sea",
+      "bbox": {
+        "x": 425,
+        "y": 1484,
+        "width": 356,
+        "height": 37
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Essay by Barbara Kingstone",
+      "cleanText": "Essay by Barbara Kingstone",
+      "bbox": {
+        "x": 518,
+        "y": 1528,
+        "width": 217,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "(taken from America 24/7)",
+      "cleanText": "(taken from America 24/7)",
+      "bbox": {
+        "x": 834,
+        "y": 1576,
+        "width": 265,
+        "height": 20
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-019-line-027",
+      "lineNumber": 27
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-019-line-001",
+      "lineNumber": 1,
+      "text": "14 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 193,
+        "y": 254,
+        "width": 912,
+        "height": 18
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-002",
+      "lineNumber": 2,
+      "text": "Rupa : She is! I also like her very much. And she is very organised. She",
+      "bbox": {
+        "x": 270,
+        "y": 319,
+        "width": 832,
+        "height": 24
+      },
+      "confidence": 89.06,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-003",
+      "lineNumber": 3,
+      "text": "knows how to make us work in groups and pairs. So we are never",
+      "bbox": {
+        "x": 394,
+        "y": 350,
+        "width": 709,
+        "height": 25
+      },
+      "confidence": 96.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-004",
+      "lineNumber": 4,
+      "text": "Ananda: By the way, I’ve another problem. Do you understand the",
+      "bbox": {
+        "x": 269,
+        "y": 420,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 92.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-005",
+      "lineNumber": 5,
+      "text": "‘Table of Contents’ at the beginning of a book?",
+      "bbox": {
+        "x": 386,
+        "y": 450,
+        "width": 530,
+        "height": 34
+      },
+      "confidence": 95.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-006",
+      "lineNumber": 6,
+      "text": "Rupa : Hmmm...yes, I’ve learnt it from my elder can try to",
+      "bbox": {
+        "x": 270,
+        "y": 496,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 90.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-007",
+      "lineNumber": 7,
+      "text": "explain it to you if you like.",
+      "bbox": {
+        "x": 390,
+        "y": 528,
+        "width": 312,
+        "height": 26
+      },
+      "confidence": 95.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-008",
+      "lineNumber": 8,
+      "text": "Ananda: So,nice of you. I really need it.",
+      "bbox": {
+        "x": 269,
+        "y": 573,
+        "width": 460,
+        "height": 25
+      },
+      "confidence": 91.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-009",
+      "lineNumber": 9,
+      "text": "Work in pairs. Discuss when and how you can help each other with",
+      "bbox": {
+        "x": 194,
+        "y": 618,
+        "width": 909,
+        "height": 25
+      },
+      "confidence": 95.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-010",
+      "lineNumber": 10,
+      "text": "anything difficult in a lesson.",
+      "bbox": {
+        "x": 276,
+        "y": 649,
+        "width": 340,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-011",
+      "lineNumber": 11,
+      "text": "Read a content page of a book below individually and work in pairs to",
+      "bbox": {
+        "x": 193,
+        "y": 691,
+        "width": 908,
+        "height": 34
+      },
+      "confidence": 91.47,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-012",
+      "lineNumber": 12,
+      "text": "answer the questions that follow.",
+      "bbox": {
+        "x": 273,
+        "y": 728,
+        "width": 386,
+        "height": 24
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-013",
+      "lineNumber": 13,
+      "text": "Table of Contents",
+      "bbox": {
+        "x": 392,
+        "y": 817,
+        "width": 503,
+        "height": 42
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-014",
+      "lineNumber": 14,
+      "text": "Introduction: An American Time Capsule 6",
+      "bbox": {
+        "x": 371,
+        "y": 965,
+        "width": 546,
+        "height": 24
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-015",
+      "lineNumber": 15,
+      "text": "Hearth & Home 15",
+      "bbox": {
+        "x": 456,
+        "y": 1016,
+        "width": 376,
+        "height": 34
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-016",
+      "lineNumber": 16,
+      "text": "by Robert Olen Butler",
+      "bbox": {
+        "x": 571,
+        "y": 1057,
+        "width": 199,
+        "height": 14
+      },
+      "confidence": 90.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-017",
+      "lineNumber": 17,
+      "text": "Hard at Work 37",
+      "bbox": {
+        "x": 480,
+        "y": 1109,
+        "width": 329,
+        "height": 35
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-019",
+      "lineNumber": 19,
+      "text": "Ametica at Play 57",
+      "bbox": {
+        "x": 456,
+        "y": 1203,
+        "width": 373,
+        "height": 37
+      },
+      "confidence": 84.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-020",
+      "lineNumber": 20,
+      "text": "by Sean T Kelly",
+      "bbox": {
+        "x": 600,
+        "y": 1245,
+        "width": 137,
+        "height": 15
+      },
+      "confidence": 87.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-021",
+      "lineNumber": 21,
+      "text": "Reason to Believe 83",
+      "bbox": {
+        "x": 438,
+        "y": 1297,
+        "width": 411,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-022",
+      "lineNumber": 22,
+      "text": "Fesay by Roger",
+      "bbox": {
+        "x": 522,
+        "y": 1338,
+        "width": 132,
+        "height": 14
+      },
+      "confidence": 87.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-024",
+      "lineNumber": 24,
+      "text": "Fssoy by Nuwr Npe",
+      "bbox": {
+        "x": 514,
+        "y": 1433,
+        "width": 257,
+        "height": 14
+      },
+      "confidence": 53.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-025",
+      "lineNumber": 25,
+      "text": "Sea to Shining Sea",
+      "bbox": {
+        "x": 425,
+        "y": 1484,
+        "width": 356,
+        "height": 37
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-026",
+      "lineNumber": 26,
+      "text": "Essay by Barbara Kingstone",
+      "bbox": {
+        "x": 518,
+        "y": 1528,
+        "width": 217,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-019-line-027",
+      "lineNumber": 27,
+      "text": "(taken from America 24/7)",
+      "bbox": {
+        "x": 834,
+        "y": 1576,
+        "width": 265,
+        "height": 20
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "14 ENGLISH FOR TODAY\nRupa : She is! I also like her very much. And she is very organised. She\nknows how to make us work in groups and pairs. So we are never\nAnanda: By the way, I’ve another problem. Do you understand the\n‘Table of Contents’ at the beginning of a book?\nRupa : Hmmm...yes, I’ve learnt it from my elder can try to\nexplain it to you if you like.\nAnanda: So,nice of you. I really need it.\nB. Work in pairs. Discuss when and how you can help each other with\nanything difficult in a lesson.\nC. Read a content page of a book below individually and work in pairs to\nanswer the questions that follow.\nTable of Contents\nIntroduction: An American Time Capsule 6\nHearth & Home 15\nby Robert Olen Butler\nHard at Work 37\nEssay by\nAmetica at Play 57\nby Sean T Kelly\nReason to Believe 83\nFesay by Roger\nOur Town 101\nFssoy by Nuwr Npe\nSea to Shining Sea\nEssay by Barbara Kingstone\n(taken from America 24/7)",
+  "cleanText": "14 ENGLISH FOR TODAY\nRupa : She is! I also like her very much. And she is very organised. She\nknows how to make us work in groups and pairs. So we are never\nAnanda: By the way, I’ve another problem. Do you understand the\n‘Table of Contents’ at the beginning of a book?\nRupa : Hmmm...yes, I’ve learnt it from my elder can try to\nexplain it to you if you like.\nAnanda: So,nice of you. I really need it.\nWork in pairs. Discuss when and how you can help each other with\nanything difficult in a lesson.\nRead a content page of a book below individually and work in pairs to\nanswer the questions that follow.\nTable of Contents\nIntroduction: An American Time Capsule 6\nHearth & Home 15\nby Robert Olen Butler\nHard at Work 37\nEssay by\nAmetica at Play 57\nby Sean T Kelly\nReason to Believe 83\nFesay by Roger\nOur Town 101\nFssoy by Nuwr Npe\nSea to Shining Sea\nEssay by Barbara Kingstone\n(taken from America 24/7)",
+  "aiReadyText": "14 ENGLISH FOR TODAY\nRupa : She is! I also like her very much. And she is very organised. She\nknows how to make us work in groups and pairs. So we are never\nAnanda: By the way, I’ve another problem. Do you understand the\n‘Table of Contents’ at the beginning of a book?\nRupa : Hmmm...yes, I’ve learnt it from my elder can try to\nexplain it to you if you like.\nAnanda: So,nice of you. I really need it.\nWork in pairs. Discuss when and how you can help each other with\nanything difficult in a lesson.\nRead a content page of a book below individually and work in pairs to\nanswer the questions that follow.\nTable of Contents\nIntroduction: An American Time Capsule 6\nHearth & Home 15\nby Robert Olen Butler\nHard at Work 37\nAmetica at Play 57\nby Sean T Kelly\nReason to Believe 83\nFesay by Roger\nFssoy by Nuwr Npe\nSea to Shining Sea\nEssay by Barbara Kingstone\n(taken from America 24/7)"
+}

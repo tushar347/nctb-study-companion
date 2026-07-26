@@ -1,0 +1,661 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 49,
+  "image": "/ocr/books/class7-english/page-images/page-049.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Dr Mahmud Hasan was born in",
+      "cleanText": "Dr Mahmud Hasan was born in",
+      "bbox": {
+        "x": 275,
+        "y": 295,
+        "width": 370,
+        "height": 19
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "a. a village.",
+      "cleanText": "a village.",
+      "bbox": {
+        "x": 274,
+        "y": 328,
+        "width": 177,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-049-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "b. Mymensingh town.",
+      "cleanText": "Mymensingh town.",
+      "bbox": {
+        "x": 277,
+        "y": 361,
+        "width": 294,
+        "height": 25
+      },
+      "confidence": 92.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "c. Dhaka.",
+      "cleanText": "Dhaka.",
+      "bbox": {
+        "x": 274,
+        "y": 394,
+        "width": 155,
+        "height": 19
+      },
+      "confidence": 85.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-049-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "What did Mr Hasan do during the Liberation War?",
+      "cleanText": "What did Mr Hasan do during the Liberation War?",
+      "bbox": {
+        "x": 274,
+        "y": 441,
+        "width": 606,
+        "height": 24
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "a. He took part in the battle.",
+      "cleanText": "He took part in the battle.",
+      "bbox": {
+        "x": 274,
+        "y": 473,
+        "width": 357,
+        "height": 25
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "b. He worked for the government.",
+      "cleanText": "He worked for the government.",
+      "bbox": {
+        "x": 277,
+        "y": 506,
+        "width": 419,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "c. He set up a hospital.",
+      "cleanText": "He set up a hospital.",
+      "bbox": {
+        "x": 274,
+        "y": 539,
+        "width": 300,
+        "height": 25
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "The sufferings of the poor people",
+      "cleanText": "The sufferings of the poor people",
+      "bbox": {
+        "x": 274,
+        "y": 586,
+        "width": 385,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "a. made him work in a Red Crescent Hospital.",
+      "cleanText": "made him work in a Red Crescent Hospital.",
+      "bbox": {
+        "x": 274,
+        "y": 622,
+        "width": 564,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "b. changed his mind for working for the poor.",
+      "cleanText": "changed his mind for working for the poor.",
+      "bbox": {
+        "x": 277,
+        "y": 660,
+        "width": 548,
+        "height": 25
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "c. made him join the Liberation War.",
+      "cleanText": "made him join the Liberation War.",
+      "bbox": {
+        "x": 274,
+        "y": 697,
+        "width": 458,
+        "height": 25
+      },
+      "confidence": 91.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Dr Hasan went to his village",
+      "cleanText": "Dr Hasan went to his village",
+      "bbox": {
+        "x": 276,
+        "y": 749,
+        "width": 328,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "a. before he gave up his job.",
+      "cleanText": "before he gave up his job.",
+      "bbox": {
+        "x": 275,
+        "y": 791,
+        "width": 360,
+        "height": 33
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "b. after he gave up his job.",
+      "cleanText": "after he gave up his job.",
+      "bbox": {
+        "x": 275,
+        "y": 824,
+        "width": 340,
+        "height": 33
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "c. before the war finished.",
+      "cleanText": "before the war finished.",
+      "bbox": {
+        "x": 275,
+        "y": 861,
+        "width": 338,
+        "height": 19
+      },
+      "confidence": 90.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Dr Hasan set up a healthcare centre",
+      "cleanText": "Dr Hasan set up a healthcare centre",
+      "bbox": {
+        "x": 275,
+        "y": 908,
+        "width": 420,
+        "height": 24
+      },
+      "confidence": 93.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "a. with the money of the villagers.",
+      "cleanText": "with the money of the villagers.",
+      "bbox": {
+        "x": 275,
+        "y": 949,
+        "width": 426,
+        "height": 34
+      },
+      "confidence": 90.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "b. with government grants.",
+      "cleanText": "with government grants.",
+      "bbox": {
+        "x": 275,
+        "y": 986,
+        "width": 344,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "c. with his own money.",
+      "cleanText": "with his own money.",
+      "bbox": {
+        "x": 275,
+        "y": 1019,
+        "width": 307,
+        "height": 25
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "The health assistants give treatment to the sick people",
+      "cleanText": "The health assistants give treatment to the sick people",
+      "bbox": {
+        "x": 275,
+        "y": 1066,
+        "width": 629,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "a- in and outside the centre.",
+      "cleanText": "a- in and outside the centre.",
+      "bbox": {
+        "x": 275,
+        "y": 1112,
+        "width": 352,
+        "height": 19
+      },
+      "confidence": 92.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "b. only in the doctor’s village.",
+      "cleanText": "only in the doctor’s village.",
+      "bbox": {
+        "x": 276,
+        "y": 1145,
+        "width": 379,
+        "height": 25
+      },
+      "confidence": 94.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "c. only in the neighbouring villages.",
+      "cleanText": "only in the neighbouring villages.",
+      "bbox": {
+        "x": 275,
+        "y": 1176,
+        "width": 446,
+        "height": 25
+      },
+      "confidence": 90.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-049-line-024",
+      "lineNumber": 24
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-049-line-001",
+      "lineNumber": 1,
+      "text": "Dr Mahmud Hasan was born in",
+      "bbox": {
+        "x": 275,
+        "y": 295,
+        "width": 370,
+        "height": 19
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-003",
+      "lineNumber": 3,
+      "text": "Mymensingh town.",
+      "bbox": {
+        "x": 277,
+        "y": 361,
+        "width": 294,
+        "height": 25
+      },
+      "confidence": 92.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-005",
+      "lineNumber": 5,
+      "text": "What did Mr Hasan do during the Liberation War?",
+      "bbox": {
+        "x": 274,
+        "y": 441,
+        "width": 606,
+        "height": 24
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-006",
+      "lineNumber": 6,
+      "text": "He took part in the battle.",
+      "bbox": {
+        "x": 274,
+        "y": 473,
+        "width": 357,
+        "height": 25
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-007",
+      "lineNumber": 7,
+      "text": "He worked for the government.",
+      "bbox": {
+        "x": 277,
+        "y": 506,
+        "width": 419,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-008",
+      "lineNumber": 8,
+      "text": "He set up a hospital.",
+      "bbox": {
+        "x": 274,
+        "y": 539,
+        "width": 300,
+        "height": 25
+      },
+      "confidence": 93.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-009",
+      "lineNumber": 9,
+      "text": "The sufferings of the poor people",
+      "bbox": {
+        "x": 274,
+        "y": 586,
+        "width": 385,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-010",
+      "lineNumber": 10,
+      "text": "made him work in a Red Crescent Hospital.",
+      "bbox": {
+        "x": 274,
+        "y": 622,
+        "width": 564,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-011",
+      "lineNumber": 11,
+      "text": "changed his mind for working for the poor.",
+      "bbox": {
+        "x": 277,
+        "y": 660,
+        "width": 548,
+        "height": 25
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-012",
+      "lineNumber": 12,
+      "text": "made him join the Liberation War.",
+      "bbox": {
+        "x": 274,
+        "y": 697,
+        "width": 458,
+        "height": 25
+      },
+      "confidence": 91.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-013",
+      "lineNumber": 13,
+      "text": "Dr Hasan went to his village",
+      "bbox": {
+        "x": 276,
+        "y": 749,
+        "width": 328,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-014",
+      "lineNumber": 14,
+      "text": "before he gave up his job.",
+      "bbox": {
+        "x": 275,
+        "y": 791,
+        "width": 360,
+        "height": 33
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-015",
+      "lineNumber": 15,
+      "text": "after he gave up his job.",
+      "bbox": {
+        "x": 275,
+        "y": 824,
+        "width": 340,
+        "height": 33
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-016",
+      "lineNumber": 16,
+      "text": "before the war finished.",
+      "bbox": {
+        "x": 275,
+        "y": 861,
+        "width": 338,
+        "height": 19
+      },
+      "confidence": 90.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-017",
+      "lineNumber": 17,
+      "text": "Dr Hasan set up a healthcare centre",
+      "bbox": {
+        "x": 275,
+        "y": 908,
+        "width": 420,
+        "height": 24
+      },
+      "confidence": 93.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-018",
+      "lineNumber": 18,
+      "text": "with the money of the villagers.",
+      "bbox": {
+        "x": 275,
+        "y": 949,
+        "width": 426,
+        "height": 34
+      },
+      "confidence": 90.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-019",
+      "lineNumber": 19,
+      "text": "with government grants.",
+      "bbox": {
+        "x": 275,
+        "y": 986,
+        "width": 344,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-020",
+      "lineNumber": 20,
+      "text": "with his own money.",
+      "bbox": {
+        "x": 275,
+        "y": 1019,
+        "width": 307,
+        "height": 25
+      },
+      "confidence": 89.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-021",
+      "lineNumber": 21,
+      "text": "The health assistants give treatment to the sick people",
+      "bbox": {
+        "x": 275,
+        "y": 1066,
+        "width": 629,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-022",
+      "lineNumber": 22,
+      "text": "a- in and outside the centre.",
+      "bbox": {
+        "x": 275,
+        "y": 1112,
+        "width": 352,
+        "height": 19
+      },
+      "confidence": 92.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-023",
+      "lineNumber": 23,
+      "text": "only in the doctor’s village.",
+      "bbox": {
+        "x": 276,
+        "y": 1145,
+        "width": 379,
+        "height": 25
+      },
+      "confidence": 94.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-049-line-024",
+      "lineNumber": 24,
+      "text": "only in the neighbouring villages.",
+      "bbox": {
+        "x": 275,
+        "y": 1176,
+        "width": 446,
+        "height": 25
+      },
+      "confidence": 90.17,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Dr Mahmud Hasan was born in\na. a village.\nb. Mymensingh town.\nc. Dhaka.\nWhat did Mr Hasan do during the Liberation War?\na. He took part in the battle.\nb. He worked for the government.\nc. He set up a hospital.\nThe sufferings of the poor people\na. made him work in a Red Crescent Hospital.\nb. changed his mind for working for the poor.\nc. made him join the Liberation War.\nDr Hasan went to his village\na. before he gave up his job.\nb. after he gave up his job.\nc. before the war finished.\nDr Hasan set up a healthcare centre\na. with the money of the villagers.\nb. with government grants.\nc. with his own money.\nThe health assistants give treatment to the sick people\na- in and outside the centre.\nb. only in the doctor’s village.\nc. only in the neighbouring villages.",
+  "cleanText": "Dr Mahmud Hasan was born in\na village.\nMymensingh town.\nDhaka.\nWhat did Mr Hasan do during the Liberation War?\nHe took part in the battle.\nHe worked for the government.\nHe set up a hospital.\nThe sufferings of the poor people\nmade him work in a Red Crescent Hospital.\nchanged his mind for working for the poor.\nmade him join the Liberation War.\nDr Hasan went to his village\nbefore he gave up his job.\nafter he gave up his job.\nbefore the war finished.\nDr Hasan set up a healthcare centre\nwith the money of the villagers.\nwith government grants.\nwith his own money.\nThe health assistants give treatment to the sick people\na- in and outside the centre.\nonly in the doctor’s village.\nonly in the neighbouring villages.",
+  "aiReadyText": "Dr Mahmud Hasan was born in\nMymensingh town.\nWhat did Mr Hasan do during the Liberation War?\nHe took part in the battle.\nHe worked for the government.\nHe set up a hospital.\nThe sufferings of the poor people\nmade him work in a Red Crescent Hospital.\nchanged his mind for working for the poor.\nmade him join the Liberation War.\nDr Hasan went to his village\nbefore he gave up his job.\nafter he gave up his job.\nbefore the war finished.\nDr Hasan set up a healthcare centre\nwith the money of the villagers.\nwith government grants.\nwith his own money.\nThe health assistants give treatment to the sick people\na- in and outside the centre.\nonly in the doctor’s village.\nonly in the neighbouring villages."
+}

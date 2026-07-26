@@ -1,0 +1,885 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 52,
+  "image": "/ocr/books/class7-english/page-images/page-052.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Four : People Who Make a Difference 47",
+      "cleanText": "Unit Four : People Who Make a Difference 47",
+      "bbox": {
+        "x": 186,
+        "y": 223,
+        "width": 910,
+        "height": 25
+      },
+      "confidence": 93.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Q Can you guess why they talk about all these things?",
+      "cleanText": "Q Can you guess why they talk about all these things?",
+      "bbox": {
+        "x": 290,
+        "y": 309,
+        "width": 644,
+        "height": 25
+      },
+      "confidence": 95.18,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Every afternoon the man in the bed by the window would sit up and talk",
+      "cleanText": "Every afternoon the man in the bed by the window would sit up and talk",
+      "bbox": {
+        "x": 280,
+        "y": 365,
+        "width": 820,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "to his roommate about all the things he could see outside the window.",
+      "cleanText": "to his roommate about all the things he could see outside the window.",
+      "bbox": {
+        "x": 277,
+        "y": 398,
+        "width": 820,
+        "height": 25
+      },
+      "confidence": 95.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "The man on the other bed eagerly waited for this speaking and listening",
+      "cleanText": "The man on the other bed eagerly waited for this speaking and listening",
+      "bbox": {
+        "x": 275,
+        "y": 431,
+        "width": 823,
+        "height": 25
+      },
+      "confidence": 95.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "time. His friend’s vivid descriptions of passing things seen through the",
+      "cleanText": "time. His friend’s vivid descriptions of passing things seen through the",
+      "bbox": {
+        "x": 275,
+        "y": 463,
+        "width": 823,
+        "height": 26
+      },
+      "confidence": 95.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "window inspired him to live.",
+      "cleanText": "window inspired him to live.",
+      "bbox": {
+        "x": 277,
+        "y": 495,
+        "width": 320,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Q.2, Can you guess what the man near the window talked about",
+      "cleanText": "Q.2, Can you guess what the man near the window talked about",
+      "bbox": {
+        "x": 284,
+        "y": 558,
+        "width": 806,
+        "height": 26
+      },
+      "confidence": 94.42,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "to his friend?",
+      "cleanText": "to his friend?",
+      "bbox": {
+        "x": 360,
+        "y": 596,
+        "width": 160,
+        "height": 24
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "The window overlooked a park with a lovely lake. Ducks and swans",
+      "cleanText": "The window overlooked a park with a lovely lake. Ducks and swans",
+      "bbox": {
+        "x": 275,
+        "y": 664,
+        "width": 823,
+        "height": 25
+      },
+      "confidence": 92.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "played on the water, while children floated their paper boats. A wonderfu",
+      "cleanText": "played on the water, while children floated their paper boats. A wonderfu",
+      "bbox": {
+        "x": 276,
+        "y": 695,
+        "width": 817,
+        "height": 27
+      },
+      "confidence": 90.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "view of the skyline could be seen in the distance.",
+      "cleanText": "view of the skyline could be seen in the distance.",
+      "bbox": {
+        "x": 277,
+        "y": 730,
+        "width": 550,
+        "height": 25
+      },
+      "confidence": 90.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "The man by the window told his friend all this in detail. The listener",
+      "cleanText": "The man by the window told his friend all this in detail. The listener",
+      "bbox": {
+        "x": 276,
+        "y": 767,
+        "width": 824,
+        "height": 25
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "would close his eyes and see everything in his mind’s eye.",
+      "cleanText": "would close his eyes and see everything in his mind’s eye.",
+      "bbox": {
+        "x": 276,
+        "y": 800,
+        "width": 647,
+        "height": 25
+      },
+      "confidence": 92.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "What would the listener feel and do if one day his friend could not",
+      "cleanText": "What would the listener feel and do if one day his friend could not",
+      "bbox": {
+        "x": 337,
+        "y": 855,
+        "width": 761,
+        "height": 24
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "sit up and talk?",
+      "cleanText": "sit up and talk?",
+      "bbox": {
+        "x": 321,
+        "y": 890,
+        "width": 175,
+        "height": 24
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Days and weeks passed. One morning the doctor came to the room on his",
+      "cleanText": "Days and weeks passed. One morning the doctor came to the room on his",
+      "bbox": {
+        "x": 277,
+        "y": 953,
+        "width": 823,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "daily round. He found the lifeless body of the man by the window. He",
+      "cleanText": "daily round. He found the lifeless body of the man by the window. He",
+      "bbox": {
+        "x": 277,
+        "y": 985,
+        "width": 822,
+        "height": 26
+      },
+      "confidence": 96.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "died peacefully in his sleep. The doctor made all the arrangements to take",
+      "cleanText": "died peacefully in his sleep. The doctor made all the arrangements to take",
+      "bbox": {
+        "x": 275,
+        "y": 1017,
+        "width": 814,
+        "height": 27
+      },
+      "confidence": 95.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "the body away.",
+      "cleanText": "the body away.",
+      "bbox": {
+        "x": 277,
+        "y": 1050,
+        "width": 164,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "The sad friend wanted to move to the empty bed next to the window. The",
+      "cleanText": "The sad friend wanted to move to the empty bed next to the window. The",
+      "bbox": {
+        "x": 276,
+        "y": 1090,
+        "width": 824,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "doctor allowed him.",
+      "cleanText": "doctor allowed him.",
+      "bbox": {
+        "x": 275,
+        "y": 1122,
+        "width": 223,
+        "height": 20
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "On his new bed the man painfully propped himself up. He was very excited.",
+      "cleanText": "On his new bed the man painfully propped himself up. He was very excited.",
+      "bbox": {
+        "x": 276,
+        "y": 1157,
+        "width": 826,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "He slowly looked through the window to see the real world outside. What",
+      "cleanText": "He slowly looked through the window to see the real world outside. What",
+      "bbox": {
+        "x": 277,
+        "y": 1189,
+        "width": 820,
+        "height": 26
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "did he see?",
+      "cleanText": "did he see?",
+      "bbox": {
+        "x": 277,
+        "y": 1227,
+        "width": 120,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-052-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Q. 4. Can you guess what he saw?",
+      "cleanText": "Q. 4. Can you guess what he saw?",
+      "bbox": {
+        "x": 283,
+        "y": 1280,
+        "width": 424,
+        "height": 28
+      },
+      "confidence": 94.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "The window just faced a blank wall. He asked the doctor, “Doctor, I sec",
+      "cleanText": "The window just faced a blank wall. He asked the doctor, “Doctor, I sec",
+      "bbox": {
+        "x": 276,
+        "y": 1345,
+        "width": 822,
+        "height": 25
+      },
+      "confidence": 92.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "nothing but a blank wall. How could my friend describe so many",
+      "cleanText": "nothing but a blank wall. How could my friend describe so many",
+      "bbox": {
+        "x": 277,
+        "y": 1377,
+        "width": 819,
+        "height": 26
+      },
+      "confidence": 94.42,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "wonderful things outside the window?”",
+      "cleanText": "wonderful things outside the window?”",
+      "bbox": {
+        "x": 276,
+        "y": 1411,
+        "width": 447,
+        "height": 25
+      },
+      "confidence": 94.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "The doctor replied, “Did he? The man was completely blind !”",
+      "cleanText": "The doctor replied, “Did he? The man was completely blind !”",
+      "bbox": {
+        "x": 276,
+        "y": 1444,
+        "width": 688,
+        "height": 25
+      },
+      "confidence": 89.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "Discuss in groups and write an answer to this question:",
+      "cleanText": "Discuss in groups and write an answer to this question:",
+      "bbox": {
+        "x": 276,
+        "y": 1479,
+        "width": 642,
+        "height": 25
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-052-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "Why did the blind man describe all those wonderful things outside the",
+      "cleanText": "Why did the blind man describe all those wonderful things outside the",
+      "bbox": {
+        "x": 276,
+        "y": 1513,
+        "width": 823,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-052-line-032",
+      "lineNumber": 32
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-052-line-001",
+      "lineNumber": 1,
+      "text": "Unit Four : People Who Make a Difference 47",
+      "bbox": {
+        "x": 186,
+        "y": 223,
+        "width": 910,
+        "height": 25
+      },
+      "confidence": 93.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-002",
+      "lineNumber": 2,
+      "text": "Q Can you guess why they talk about all these things?",
+      "bbox": {
+        "x": 290,
+        "y": 309,
+        "width": 644,
+        "height": 25
+      },
+      "confidence": 95.18,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-003",
+      "lineNumber": 3,
+      "text": "Every afternoon the man in the bed by the window would sit up and talk",
+      "bbox": {
+        "x": 280,
+        "y": 365,
+        "width": 820,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-004",
+      "lineNumber": 4,
+      "text": "to his roommate about all the things he could see outside the window.",
+      "bbox": {
+        "x": 277,
+        "y": 398,
+        "width": 820,
+        "height": 25
+      },
+      "confidence": 95.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-005",
+      "lineNumber": 5,
+      "text": "The man on the other bed eagerly waited for this speaking and listening",
+      "bbox": {
+        "x": 275,
+        "y": 431,
+        "width": 823,
+        "height": 25
+      },
+      "confidence": 95.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-006",
+      "lineNumber": 6,
+      "text": "time. His friend’s vivid descriptions of passing things seen through the",
+      "bbox": {
+        "x": 275,
+        "y": 463,
+        "width": 823,
+        "height": 26
+      },
+      "confidence": 95.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-007",
+      "lineNumber": 7,
+      "text": "window inspired him to live.",
+      "bbox": {
+        "x": 277,
+        "y": 495,
+        "width": 320,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-008",
+      "lineNumber": 8,
+      "text": "Q.2, Can you guess what the man near the window talked about",
+      "bbox": {
+        "x": 284,
+        "y": 558,
+        "width": 806,
+        "height": 26
+      },
+      "confidence": 94.42,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-009",
+      "lineNumber": 9,
+      "text": "to his friend?",
+      "bbox": {
+        "x": 360,
+        "y": 596,
+        "width": 160,
+        "height": 24
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-010",
+      "lineNumber": 10,
+      "text": "The window overlooked a park with a lovely lake. Ducks and swans",
+      "bbox": {
+        "x": 275,
+        "y": 664,
+        "width": 823,
+        "height": 25
+      },
+      "confidence": 92.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-011",
+      "lineNumber": 11,
+      "text": "played on the water, while children floated their paper boats. A wonderfu",
+      "bbox": {
+        "x": 276,
+        "y": 695,
+        "width": 817,
+        "height": 27
+      },
+      "confidence": 90.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-012",
+      "lineNumber": 12,
+      "text": "view of the skyline could be seen in the distance.",
+      "bbox": {
+        "x": 277,
+        "y": 730,
+        "width": 550,
+        "height": 25
+      },
+      "confidence": 90.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-013",
+      "lineNumber": 13,
+      "text": "The man by the window told his friend all this in detail. The listener",
+      "bbox": {
+        "x": 276,
+        "y": 767,
+        "width": 824,
+        "height": 25
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-014",
+      "lineNumber": 14,
+      "text": "would close his eyes and see everything in his mind’s eye.",
+      "bbox": {
+        "x": 276,
+        "y": 800,
+        "width": 647,
+        "height": 25
+      },
+      "confidence": 92.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-015",
+      "lineNumber": 15,
+      "text": "What would the listener feel and do if one day his friend could not",
+      "bbox": {
+        "x": 337,
+        "y": 855,
+        "width": 761,
+        "height": 24
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-016",
+      "lineNumber": 16,
+      "text": "sit up and talk?",
+      "bbox": {
+        "x": 321,
+        "y": 890,
+        "width": 175,
+        "height": 24
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-017",
+      "lineNumber": 17,
+      "text": "Days and weeks passed. One morning the doctor came to the room on his",
+      "bbox": {
+        "x": 277,
+        "y": 953,
+        "width": 823,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-018",
+      "lineNumber": 18,
+      "text": "daily round. He found the lifeless body of the man by the window. He",
+      "bbox": {
+        "x": 277,
+        "y": 985,
+        "width": 822,
+        "height": 26
+      },
+      "confidence": 96.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-019",
+      "lineNumber": 19,
+      "text": "died peacefully in his sleep. The doctor made all the arrangements to take",
+      "bbox": {
+        "x": 275,
+        "y": 1017,
+        "width": 814,
+        "height": 27
+      },
+      "confidence": 95.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-020",
+      "lineNumber": 20,
+      "text": "the body away.",
+      "bbox": {
+        "x": 277,
+        "y": 1050,
+        "width": 164,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-021",
+      "lineNumber": 21,
+      "text": "The sad friend wanted to move to the empty bed next to the window. The",
+      "bbox": {
+        "x": 276,
+        "y": 1090,
+        "width": 824,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-022",
+      "lineNumber": 22,
+      "text": "doctor allowed him.",
+      "bbox": {
+        "x": 275,
+        "y": 1122,
+        "width": 223,
+        "height": 20
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-023",
+      "lineNumber": 23,
+      "text": "On his new bed the man painfully propped himself up. He was very excited.",
+      "bbox": {
+        "x": 276,
+        "y": 1157,
+        "width": 826,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-024",
+      "lineNumber": 24,
+      "text": "He slowly looked through the window to see the real world outside. What",
+      "bbox": {
+        "x": 277,
+        "y": 1189,
+        "width": 820,
+        "height": 26
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-026",
+      "lineNumber": 26,
+      "text": "Q. 4. Can you guess what he saw?",
+      "bbox": {
+        "x": 283,
+        "y": 1280,
+        "width": 424,
+        "height": 28
+      },
+      "confidence": 94.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-027",
+      "lineNumber": 27,
+      "text": "The window just faced a blank wall. He asked the doctor, “Doctor, I sec",
+      "bbox": {
+        "x": 276,
+        "y": 1345,
+        "width": 822,
+        "height": 25
+      },
+      "confidence": 92.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-028",
+      "lineNumber": 28,
+      "text": "nothing but a blank wall. How could my friend describe so many",
+      "bbox": {
+        "x": 277,
+        "y": 1377,
+        "width": 819,
+        "height": 26
+      },
+      "confidence": 94.42,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-029",
+      "lineNumber": 29,
+      "text": "wonderful things outside the window?”",
+      "bbox": {
+        "x": 276,
+        "y": 1411,
+        "width": 447,
+        "height": 25
+      },
+      "confidence": 94.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-030",
+      "lineNumber": 30,
+      "text": "The doctor replied, “Did he? The man was completely blind !”",
+      "bbox": {
+        "x": 276,
+        "y": 1444,
+        "width": 688,
+        "height": 25
+      },
+      "confidence": 89.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-052-line-032",
+      "lineNumber": 32,
+      "text": "Why did the blind man describe all those wonderful things outside the",
+      "bbox": {
+        "x": 276,
+        "y": 1513,
+        "width": 823,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Four : People Who Make a Difference 47\nQ Can you guess why they talk about all these things?\nEvery afternoon the man in the bed by the window would sit up and talk\nto his roommate about all the things he could see outside the window.\nThe man on the other bed eagerly waited for this speaking and listening\ntime. His friend’s vivid descriptions of passing things seen through the\nwindow inspired him to live.\nQ.2, Can you guess what the man near the window talked about\nto his friend?\nThe window overlooked a park with a lovely lake. Ducks and swans\nplayed on the water, while children floated their paper boats. A wonderfu\nview of the skyline could be seen in the distance.\nThe man by the window told his friend all this in detail. The listener\nwould close his eyes and see everything in his mind’s eye.\nWhat would the listener feel and do if one day his friend could not\nsit up and talk?\nDays and weeks passed. One morning the doctor came to the room on his\ndaily round. He found the lifeless body of the man by the window. He\ndied peacefully in his sleep. The doctor made all the arrangements to take\nthe body away.\nThe sad friend wanted to move to the empty bed next to the window. The\ndoctor allowed him.\nOn his new bed the man painfully propped himself up. He was very excited.\nHe slowly looked through the window to see the real world outside. What\ndid he see?\nQ. 4. Can you guess what he saw?\nThe window just faced a blank wall. He asked the doctor, “Doctor, I sec\nnothing but a blank wall. How could my friend describe so many\nwonderful things outside the window?”\nThe doctor replied, “Did he? The man was completely blind !”\nDiscuss in groups and write an answer to this question:\nWhy did the blind man describe all those wonderful things outside the",
+  "cleanText": "Unit Four : People Who Make a Difference 47\nQ Can you guess why they talk about all these things?\nEvery afternoon the man in the bed by the window would sit up and talk\nto his roommate about all the things he could see outside the window.\nThe man on the other bed eagerly waited for this speaking and listening\ntime. His friend’s vivid descriptions of passing things seen through the\nwindow inspired him to live.\nQ.2, Can you guess what the man near the window talked about\nto his friend?\nThe window overlooked a park with a lovely lake. Ducks and swans\nplayed on the water, while children floated their paper boats. A wonderfu\nview of the skyline could be seen in the distance.\nThe man by the window told his friend all this in detail. The listener\nwould close his eyes and see everything in his mind’s eye.\nWhat would the listener feel and do if one day his friend could not\nsit up and talk?\nDays and weeks passed. One morning the doctor came to the room on his\ndaily round. He found the lifeless body of the man by the window. He\ndied peacefully in his sleep. The doctor made all the arrangements to take\nthe body away.\nThe sad friend wanted to move to the empty bed next to the window. The\ndoctor allowed him.\nOn his new bed the man painfully propped himself up. He was very excited.\nHe slowly looked through the window to see the real world outside. What\ndid he see?\nQ. 4. Can you guess what he saw?\nThe window just faced a blank wall. He asked the doctor, “Doctor, I sec\nnothing but a blank wall. How could my friend describe so many\nwonderful things outside the window?”\nThe doctor replied, “Did he? The man was completely blind !”\nDiscuss in groups and write an answer to this question:\nWhy did the blind man describe all those wonderful things outside the",
+  "aiReadyText": "Unit Four : People Who Make a Difference 47\nQ Can you guess why they talk about all these things?\nEvery afternoon the man in the bed by the window would sit up and talk\nto his roommate about all the things he could see outside the window.\nThe man on the other bed eagerly waited for this speaking and listening\ntime. His friend’s vivid descriptions of passing things seen through the\nwindow inspired him to live.\nQ.2, Can you guess what the man near the window talked about\nto his friend?\nThe window overlooked a park with a lovely lake. Ducks and swans\nplayed on the water, while children floated their paper boats. A wonderfu\nview of the skyline could be seen in the distance.\nThe man by the window told his friend all this in detail. The listener\nwould close his eyes and see everything in his mind’s eye.\nWhat would the listener feel and do if one day his friend could not\nsit up and talk?\nDays and weeks passed. One morning the doctor came to the room on his\ndaily round. He found the lifeless body of the man by the window. He\ndied peacefully in his sleep. The doctor made all the arrangements to take\nthe body away.\nThe sad friend wanted to move to the empty bed next to the window. The\ndoctor allowed him.\nOn his new bed the man painfully propped himself up. He was very excited.\nHe slowly looked through the window to see the real world outside. What\nQ. 4. Can you guess what he saw?\nThe window just faced a blank wall. He asked the doctor, “Doctor, I sec\nnothing but a blank wall. How could my friend describe so many\nwonderful things outside the window?”\nThe doctor replied, “Did he? The man was completely blind !”\nWhy did the blind man describe all those wonderful things outside the"
+}

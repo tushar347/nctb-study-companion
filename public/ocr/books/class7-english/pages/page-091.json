@@ -1,0 +1,271 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 91,
+  "image": "/ocr/books/class7-english/page-images/page-091.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Eight",
+      "cleanText": "Unit Eight",
+      "bbox": {
+        "x": 579,
+        "y": 266,
+        "width": 136,
+        "height": 27
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-091-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Likes and Dislikes",
+      "cleanText": "Likes and Dislikes",
+      "bbox": {
+        "x": 503,
+        "y": 343,
+        "width": 312,
+        "height": 28
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "| i I",
+      "cleanText": "| i I",
+      "bbox": {
+        "x": 272,
+        "y": 822,
+        "width": 667,
+        "height": 45
+      },
+      "confidence": 61.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-091-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "2 ) (ial a =I",
+      "cleanText": "2 ) (ial a =I",
+      "bbox": {
+        "x": 272,
+        "y": 828,
+        "width": 667,
+        "height": 120
+      },
+      "confidence": 53.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-091-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Learning outcomes",
+      "cleanText": "Learning outcomes",
+      "bbox": {
+        "x": 199,
+        "y": 1044,
+        "width": 260,
+        "height": 28
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "bbox": {
+        "x": 200,
+        "y": 1116,
+        "width": 633,
+        "height": 27
+      },
+      "confidence": 95.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "take part in simple language games",
+      "cleanText": "take part in simple language games",
+      "bbox": {
+        "x": 276,
+        "y": 1186,
+        "width": 414,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "read and understand texts and dialogues",
+      "cleanText": "read and understand texts and dialogues",
+      "bbox": {
+        "x": 275,
+        "y": 1239,
+        "width": 471,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "listen to and understand conversations on familiar and everyday topics",
+      "cleanText": "listen to and understand conversations on familiar and everyday topics",
+      "bbox": {
+        "x": 276,
+        "y": 1292,
+        "width": 810,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-091-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "ask and answer questions about likes/dislikes",
+      "cleanText": "ask and answer questions about likes/dislikes",
+      "bbox": {
+        "x": 276,
+        "y": 1345,
+        "width": 535,
+        "height": 27
+      },
+      "confidence": 94.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "complete guided and semi-guided writing tasks",
+      "cleanText": "complete guided and semi-guided writing tasks",
+      "bbox": {
+        "x": 276,
+        "y": 1398,
+        "width": 557,
+        "height": 27
+      },
+      "confidence": 94.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-091-line-011",
+      "lineNumber": 11
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-091-line-002",
+      "lineNumber": 2,
+      "text": "Likes and Dislikes",
+      "bbox": {
+        "x": 503,
+        "y": 343,
+        "width": 312,
+        "height": 28
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-005",
+      "lineNumber": 5,
+      "text": "Learning outcomes",
+      "bbox": {
+        "x": 199,
+        "y": 1044,
+        "width": 260,
+        "height": 28
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-006",
+      "lineNumber": 6,
+      "text": "After we have studied this unit, we will be able to",
+      "bbox": {
+        "x": 200,
+        "y": 1116,
+        "width": 633,
+        "height": 27
+      },
+      "confidence": 95.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-007",
+      "lineNumber": 7,
+      "text": "take part in simple language games",
+      "bbox": {
+        "x": 276,
+        "y": 1186,
+        "width": 414,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-008",
+      "lineNumber": 8,
+      "text": "read and understand texts and dialogues",
+      "bbox": {
+        "x": 275,
+        "y": 1239,
+        "width": 471,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-010",
+      "lineNumber": 10,
+      "text": "ask and answer questions about likes/dislikes",
+      "bbox": {
+        "x": 276,
+        "y": 1345,
+        "width": 535,
+        "height": 27
+      },
+      "confidence": 94.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-091-line-011",
+      "lineNumber": 11,
+      "text": "complete guided and semi-guided writing tasks",
+      "bbox": {
+        "x": 276,
+        "y": 1398,
+        "width": 557,
+        "height": 27
+      },
+      "confidence": 94.83,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Eight\nLikes and Dislikes\n| i I\n2 ) (ial a =I\nLearning outcomes\nAfter we have studied this unit, we will be able to\ntake part in simple language games\nread and understand texts and dialogues\nlisten to and understand conversations on familiar and everyday topics\nask and answer questions about likes/dislikes\ncomplete guided and semi-guided writing tasks",
+  "cleanText": "Unit Eight\nLikes and Dislikes\n| i I\n2 ) (ial a =I\nLearning outcomes\nAfter we have studied this unit, we will be able to\ntake part in simple language games\nread and understand texts and dialogues\nlisten to and understand conversations on familiar and everyday topics\nask and answer questions about likes/dislikes\ncomplete guided and semi-guided writing tasks",
+  "aiReadyText": "Likes and Dislikes\nLearning outcomes\nAfter we have studied this unit, we will be able to\ntake part in simple language games\nread and understand texts and dialogues\nask and answer questions about likes/dislikes\ncomplete guided and semi-guided writing tasks"
+}

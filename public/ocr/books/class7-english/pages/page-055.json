@@ -1,0 +1,658 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 55,
+  "image": "/ocr/books/class7-english/page-images/page-055.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Shakhawat Hossain’s working place was",
+      "cleanText": "Shakhawat Hossain’s working place was",
+      "bbox": {
+        "x": 277,
+        "y": 328,
+        "width": 491,
+        "height": 25
+      },
+      "confidence": 94.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "a. Pairabandh",
+      "cleanText": "Pairabandh",
+      "bbox": {
+        "x": 280,
+        "y": 373,
+        "width": 153,
+        "height": 20
+      },
+      "confidence": 91.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-055-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "b. Bhagalpur",
+      "cleanText": "Bhagalpur",
+      "bbox": {
+        "x": 279,
+        "y": 406,
+        "width": 148,
+        "height": 25
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-055-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "c. Rangpur",
+      "cleanText": "Rangpur",
+      "bbox": {
+        "x": 279,
+        "y": 440,
+        "width": 132,
+        "height": 25
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-055-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Bhagalpur is a district in",
+      "cleanText": "Bhagalpur is a district in",
+      "bbox": {
+        "x": 279,
+        "y": 481,
+        "width": 289,
+        "height": 24
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "a. Bangladesh.",
+      "cleanText": "Bangladesh.",
+      "bbox": {
+        "x": 280,
+        "y": 526,
+        "width": 164,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-055-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "b. West Bengal.",
+      "cleanText": "West Bengal.",
+      "bbox": {
+        "x": 279,
+        "y": 559,
+        "width": 180,
+        "height": 25
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-055-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "c. Bihar.",
+      "cleanText": "Bihar.",
+      "bbox": {
+        "x": 279,
+        "y": 592,
+        "width": 98,
+        "height": 19
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-055-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Complete the following chart with information from the text. One is",
+      "cleanText": "Complete the following chart with information from the text. One is",
+      "bbox": {
+        "x": 280,
+        "y": 639,
+        "width": 829,
+        "height": 24
+      },
+      "confidence": 95.18,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-055-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "done for you.",
+      "cleanText": "done for you.",
+      "bbox": {
+        "x": 277,
+        "y": 672,
+        "width": 156,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-055-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Begum Rokeya",
+      "cleanText": "Begum Rokeya",
+      "bbox": {
+        "x": 606,
+        "y": 731,
+        "width": 176,
+        "height": 24
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-055-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "occupation born in married in family language",
+      "cleanText": "occupation born in married in family language",
+      "bbox": {
+        "x": 303,
+        "y": 763,
+        "width": 772,
+        "height": 34
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Writer = and",
+      "cleanText": "Writer = and",
+      "bbox": {
+        "x": 291,
+        "y": 796,
+        "width": 150,
+        "height": 35
+      },
+      "confidence": 61.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-055-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "social worker",
+      "cleanText": "social worker",
+      "bbox": {
+        "x": 292,
+        "y": 833,
+        "width": 147,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-055-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Answer these questions.",
+      "cleanText": "Answer these questions.",
+      "bbox": {
+        "x": 279,
+        "y": 879,
+        "width": 278,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "I. What was Begum Rokeya’s belief?",
+      "cleanText": "What was Begum Rokeya’s belief?",
+      "bbox": {
+        "x": 283,
+        "y": 912,
+        "width": 461,
+        "height": 25
+      },
+      "confidence": 85.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "2. What did she fight for?",
+      "cleanText": "What did she fight for?",
+      "bbox": {
+        "x": 280,
+        "y": 945,
+        "width": 331,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "3. What kind of family did she come from?",
+      "cleanText": "What kind of family did she come from?",
+      "bbox": {
+        "x": 280,
+        "y": 978,
+        "width": 525,
+        "height": 25
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "4. Why did many upper-class Muslims learn Arabic and Persian at",
+      "cleanText": "Why did many upper-class Muslims learn Arabic and Persian at",
+      "bbox": {
+        "x": 279,
+        "y": 1011,
+        "width": 779,
+        "height": 24
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "that time?",
+      "cleanText": "that time?",
+      "bbox": {
+        "x": 359,
+        "y": 1044,
+        "width": 107,
+        "height": 19
+      },
+      "confidence": 96.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-055-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "5. Why did Rokeya learn Bangla?",
+      "cleanText": "Why did Rokeya learn Bangla?",
+      "bbox": {
+        "x": 280,
+        "y": 1077,
+        "width": 421,
+        "height": 25
+      },
+      "confidence": 94.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Lesson 2: Begum Rokeya (2)",
+      "cleanText": "Lesson 2: Begum Rokeya (2)",
+      "bbox": {
+        "x": 201,
+        "y": 1128,
+        "width": 371,
+        "height": 27
+      },
+      "confidence": 94.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Read these questions first. Then listen to the teacher / audio and",
+      "cleanText": "Read these questions first. Then listen to the teacher / audio and",
+      "bbox": {
+        "x": 279,
+        "y": 1169,
+        "width": 782,
+        "height": 34
+      },
+      "confidence": 91.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "answer the questions.",
+      "cleanText": "answer the questions.",
+      "bbox": {
+        "x": 280,
+        "y": 1208,
+        "width": 253,
+        "height": 24
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "1. What did Begum Rokeya do to make people remember her husband?",
+      "cleanText": "What did Begum Rokeya do to make people remember her husband?",
+      "bbox": {
+        "x": 283,
+        "y": 1253,
+        "width": 812,
+        "height": 25
+      },
+      "confidence": 90.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "2. Do you know what kind of books she wrote?",
+      "cleanText": "Do you know what kind of books she wrote?",
+      "bbox": {
+        "x": 279,
+        "y": 1300,
+        "width": 539,
+        "height": 25
+      },
+      "confidence": 92.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Listening",
+      "cleanText": "Listening",
+      "bbox": {
+        "x": 305,
+        "y": 1373,
+        "width": 121,
+        "height": 27
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-055-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "Listen again and tick the best answer.",
+      "cleanText": "Listen again and tick the best answer.",
+      "bbox": {
+        "x": 279,
+        "y": 1426,
+        "width": 440,
+        "height": 24
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "1. Sakhawat Hossain died in",
+      "cleanText": "Sakhawat Hossain died in",
+      "bbox": {
+        "x": 282,
+        "y": 1485,
+        "width": 378,
+        "height": 19
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-055-line-029",
+      "lineNumber": 29
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-055-line-001",
+      "lineNumber": 1,
+      "text": "Shakhawat Hossain’s working place was",
+      "bbox": {
+        "x": 277,
+        "y": 328,
+        "width": 491,
+        "height": 25
+      },
+      "confidence": 94.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-005",
+      "lineNumber": 5,
+      "text": "Bhagalpur is a district in",
+      "bbox": {
+        "x": 279,
+        "y": 481,
+        "width": 289,
+        "height": 24
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-012",
+      "lineNumber": 12,
+      "text": "occupation born in married in family language",
+      "bbox": {
+        "x": 303,
+        "y": 763,
+        "width": 772,
+        "height": 34
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-015",
+      "lineNumber": 15,
+      "text": "Answer these questions.",
+      "bbox": {
+        "x": 279,
+        "y": 879,
+        "width": 278,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-016",
+      "lineNumber": 16,
+      "text": "What was Begum Rokeya’s belief?",
+      "bbox": {
+        "x": 283,
+        "y": 912,
+        "width": 461,
+        "height": 25
+      },
+      "confidence": 85.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-017",
+      "lineNumber": 17,
+      "text": "What did she fight for?",
+      "bbox": {
+        "x": 280,
+        "y": 945,
+        "width": 331,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-018",
+      "lineNumber": 18,
+      "text": "What kind of family did she come from?",
+      "bbox": {
+        "x": 280,
+        "y": 978,
+        "width": 525,
+        "height": 25
+      },
+      "confidence": 93.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-019",
+      "lineNumber": 19,
+      "text": "Why did many upper-class Muslims learn Arabic and Persian at",
+      "bbox": {
+        "x": 279,
+        "y": 1011,
+        "width": 779,
+        "height": 24
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-021",
+      "lineNumber": 21,
+      "text": "Why did Rokeya learn Bangla?",
+      "bbox": {
+        "x": 280,
+        "y": 1077,
+        "width": 421,
+        "height": 25
+      },
+      "confidence": 94.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-022",
+      "lineNumber": 22,
+      "text": "Lesson 2: Begum Rokeya (2)",
+      "bbox": {
+        "x": 201,
+        "y": 1128,
+        "width": 371,
+        "height": 27
+      },
+      "confidence": 94.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-023",
+      "lineNumber": 23,
+      "text": "Read these questions first. Then listen to the teacher / audio and",
+      "bbox": {
+        "x": 279,
+        "y": 1169,
+        "width": 782,
+        "height": 34
+      },
+      "confidence": 91.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-024",
+      "lineNumber": 24,
+      "text": "answer the questions.",
+      "bbox": {
+        "x": 280,
+        "y": 1208,
+        "width": 253,
+        "height": 24
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-025",
+      "lineNumber": 25,
+      "text": "What did Begum Rokeya do to make people remember her husband?",
+      "bbox": {
+        "x": 283,
+        "y": 1253,
+        "width": 812,
+        "height": 25
+      },
+      "confidence": 90.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-026",
+      "lineNumber": 26,
+      "text": "Do you know what kind of books she wrote?",
+      "bbox": {
+        "x": 279,
+        "y": 1300,
+        "width": 539,
+        "height": 25
+      },
+      "confidence": 92.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-028",
+      "lineNumber": 28,
+      "text": "Listen again and tick the best answer.",
+      "bbox": {
+        "x": 279,
+        "y": 1426,
+        "width": 440,
+        "height": 24
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-055-line-029",
+      "lineNumber": 29,
+      "text": "Sakhawat Hossain died in",
+      "bbox": {
+        "x": 282,
+        "y": 1485,
+        "width": 378,
+        "height": 19
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Shakhawat Hossain’s working place was\na. Pairabandh\nb. Bhagalpur\nc. Rangpur\nBhagalpur is a district in\na. Bangladesh.\nb. West Bengal.\nc. Bihar.\nComplete the following chart with information from the text. One is\ndone for you.\nBegum Rokeya\noccupation born in married in family language\nWriter = and\nsocial worker\nAnswer these questions.\nI. What was Begum Rokeya’s belief?\n2. What did she fight for?\n3. What kind of family did she come from?\n4. Why did many upper-class Muslims learn Arabic and Persian at\nthat time?\n5. Why did Rokeya learn Bangla?\nLesson 2: Begum Rokeya (2)\nRead these questions first. Then listen to the teacher / audio and\nanswer the questions.\n1. What did Begum Rokeya do to make people remember her husband?\n2. Do you know what kind of books she wrote?\nListening\nListen again and tick the best answer.\n1. Sakhawat Hossain died in",
+  "cleanText": "Shakhawat Hossain’s working place was\nPairabandh\nBhagalpur\nRangpur\nBhagalpur is a district in\nBangladesh.\nWest Bengal.\nBihar.\nComplete the following chart with information from the text. One is\ndone for you.\nBegum Rokeya\noccupation born in married in family language\nWriter = and\nsocial worker\nAnswer these questions.\nWhat was Begum Rokeya’s belief?\nWhat did she fight for?\nWhat kind of family did she come from?\nWhy did many upper-class Muslims learn Arabic and Persian at\nthat time?\nWhy did Rokeya learn Bangla?\nLesson 2: Begum Rokeya (2)\nRead these questions first. Then listen to the teacher / audio and\nanswer the questions.\nWhat did Begum Rokeya do to make people remember her husband?\nDo you know what kind of books she wrote?\nListening\nListen again and tick the best answer.\nSakhawat Hossain died in",
+  "aiReadyText": "Shakhawat Hossain’s working place was\nBhagalpur is a district in\noccupation born in married in family language\nAnswer these questions.\nWhat was Begum Rokeya’s belief?\nWhat did she fight for?\nWhat kind of family did she come from?\nWhy did many upper-class Muslims learn Arabic and Persian at\nWhy did Rokeya learn Bangla?\nLesson 2: Begum Rokeya (2)\nRead these questions first. Then listen to the teacher / audio and\nanswer the questions.\nWhat did Begum Rokeya do to make people remember her husband?\nDo you know what kind of books she wrote?\nListen again and tick the best answer.\nSakhawat Hossain died in"
+}

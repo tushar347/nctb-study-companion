@@ -1,0 +1,816 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 39,
+  "image": "/ocr/books/class7-english/page-images/page-039.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "d. Awareness or understanding of something,",
+      "cleanText": "Awareness or understanding of something,",
+      "bbox": {
+        "x": 498,
+        "y": 349,
+        "width": 513,
+        "height": 26
+      },
+      "confidence": 94.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "4. Paradox",
+      "cleanText": "Paradox",
+      "bbox": {
+        "x": 256,
+        "y": 367,
+        "width": 121,
+        "height": 20
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-039-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "especially the state of one’s mind.",
+      "cleanText": "especially the state of one’s mind.",
+      "bbox": {
+        "x": 498,
+        "y": 382,
+        "width": 384,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "e. The feeling of being upset or annoyed, especially",
+      "cleanText": "e. The feeling of being upset or annoyed, especially",
+      "bbox": {
+        "x": 498,
+        "y": 437,
+        "width": 539,
+        "height": 26
+      },
+      "confidence": 95.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "5. Frustration because of an inability to change or achieve something.",
+      "cleanText": "Frustration because of an inability to change or achieve something.",
+      "bbox": {
+        "x": 257,
+        "y": 458,
+        "width": 818,
+        "height": 38
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "C. Fill in the Gaps",
+      "cleanText": "Fill in the Gaps",
+      "bbox": {
+        "x": 199,
+        "y": 565,
+        "width": 221,
+        "height": 26
+      },
+      "confidence": 92.8,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-039-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Fill in the blanks using the words from the list below:",
+      "cleanText": "Fill in the blanks using the words from the list below:",
+      "bbox": {
+        "x": 237,
+        "y": 598,
+        "width": 610,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-039-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "(Lost Generation, Gen Z, political, digital, connected)",
+      "cleanText": "(Lost Generation, Gen Z, political, digital, connected)",
+      "bbox": {
+        "x": 238,
+        "y": 631,
+        "width": 614,
+        "height": 26
+      },
+      "confidence": 94.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "1, The term “ \" refers to the generation affected by the aftermath",
+      "cleanText": "1, The term “ \" refers to the generation affected by the aftermath",
+      "bbox": {
+        "x": 250,
+        "y": 664,
+        "width": 854,
+        "height": 26
+      },
+      "confidence": 92.54,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "of World War | and the Great Depression.",
+      "cleanText": "of World War | and the Great Depression.",
+      "bbox": {
+        "x": 278,
+        "y": 697,
+        "width": 473,
+        "height": 26
+      },
+      "confidence": 93.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "2. is the first generation to grow up entirely in the digital age.",
+      "cleanText": "is the first generation to grow up entirely in the digital age.",
+      "bbox": {
+        "x": 246,
+        "y": 730,
+        "width": 838,
+        "height": 26
+      },
+      "confidence": 95.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "3. The 2018 road safety protests marked a shift in awareness",
+      "cleanText": "The 2018 road safety protests marked a shift in awareness",
+      "bbox": {
+        "x": 247,
+        "y": 763,
+        "width": 828,
+        "height": 26
+      },
+      "confidence": 95.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "for Generation Z.",
+      "cleanText": "for Generation Z.",
+      "bbox": {
+        "x": 267,
+        "y": 796,
+        "width": 197,
+        "height": 21
+      },
+      "confidence": 92.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "4. The July Uprising of 2024 called for new methods to address the",
+      "cleanText": "The July Uprising of 2024 called for new methods to address the",
+      "bbox": {
+        "x": 246,
+        "y": 829,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "challenges of today’s world.",
+      "cleanText": "challenges of today’s world.",
+      "bbox": {
+        "x": 278,
+        "y": 862,
+        "width": 455,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "5. Gen Z experiences a paradox of being both hyperconnected yet often",
+      "cleanText": "Gen Z experiences a paradox of being both hyperconnected yet often",
+      "bbox": {
+        "x": 247,
+        "y": 895,
+        "width": 818,
+        "height": 26
+      },
+      "confidence": 94.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Lesson 4: Whose Child is This?",
+      "cleanText": "Lesson 4: Whose Child is This?",
+      "bbox": {
+        "x": 198,
+        "y": 1064,
+        "width": 408,
+        "height": 35
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Read the poem aloud and then recite it to the class:",
+      "cleanText": "Read the poem aloud and then recite it to the class:",
+      "bbox": {
+        "x": 277,
+        "y": 1115,
+        "width": 598,
+        "height": 25
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Whose Child is This?",
+      "cleanText": "Whose Child is This?",
+      "bbox": {
+        "x": 277,
+        "y": 1156,
+        "width": 256,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "“Whose child is this?” I asked one day",
+      "cleanText": "“Whose child is this?” I asked one day",
+      "bbox": {
+        "x": 277,
+        "y": 1202,
+        "width": 503,
+        "height": 25
+      },
+      "confidence": 94.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Seeing a little one out at play.",
+      "cleanText": "Seeing a little one out at play.",
+      "bbox": {
+        "x": 278,
+        "y": 1231,
+        "width": 323,
+        "height": 33
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "“Mine”, said the parent with a tender smile.",
+      "cleanText": "“Mine”, said the parent with a tender smile.",
+      "bbox": {
+        "x": 277,
+        "y": 1268,
+        "width": 477,
+        "height": 25
+      },
+      "confidence": 95.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "“Mine to keep a little while",
+      "cleanText": "“Mine to keep a little while",
+      "bbox": {
+        "x": 277,
+        "y": 1311,
+        "width": 299,
+        "height": 32
+      },
+      "confidence": 96.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "To bathe his hands and comb his hair,",
+      "cleanText": "To bathe his hands and comb his hair,",
+      "bbox": {
+        "x": 277,
+        "y": 1348,
+        "width": 414,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "To tell him what he is to wear,",
+      "cleanText": "To tell him what he is to wear,",
+      "bbox": {
+        "x": 277,
+        "y": 1381,
+        "width": 333,
+        "height": 22
+      },
+      "confidence": 96.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "To prepare him that he may always be good.",
+      "cleanText": "To prepare him that he may always be good.",
+      "bbox": {
+        "x": 277,
+        "y": 1427,
+        "width": 481,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "And each day do the things he should.”",
+      "cleanText": "And each day do the things he should.”",
+      "bbox": {
+        "x": 277,
+        "y": 1460,
+        "width": 430,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "“Whose child is this?” I asked again,",
+      "cleanText": "“Whose child is this?” I asked again,",
+      "bbox": {
+        "x": 277,
+        "y": 1506,
+        "width": 403,
+        "height": 25
+      },
+      "confidence": 94.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "As the door opened and someone came in",
+      "cleanText": "As the door opened and someone came in",
+      "bbox": {
+        "x": 277,
+        "y": 1543,
+        "width": 456,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "said the teacher with the same tender smile.",
+      "cleanText": "said the teacher with the same tender smile.",
+      "bbox": {
+        "x": 374,
+        "y": 1581,
+        "width": 478,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-039-line-030",
+      "lineNumber": 30
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-039-line-001",
+      "lineNumber": 1,
+      "text": "Awareness or understanding of something,",
+      "bbox": {
+        "x": 498,
+        "y": 349,
+        "width": 513,
+        "height": 26
+      },
+      "confidence": 94.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-003",
+      "lineNumber": 3,
+      "text": "especially the state of one’s mind.",
+      "bbox": {
+        "x": 498,
+        "y": 382,
+        "width": 384,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-004",
+      "lineNumber": 4,
+      "text": "e. The feeling of being upset or annoyed, especially",
+      "bbox": {
+        "x": 498,
+        "y": 437,
+        "width": 539,
+        "height": 26
+      },
+      "confidence": 95.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-005",
+      "lineNumber": 5,
+      "text": "Frustration because of an inability to change or achieve something.",
+      "bbox": {
+        "x": 257,
+        "y": 458,
+        "width": 818,
+        "height": 38
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-008",
+      "lineNumber": 8,
+      "text": "(Lost Generation, Gen Z, political, digital, connected)",
+      "bbox": {
+        "x": 238,
+        "y": 631,
+        "width": 614,
+        "height": 26
+      },
+      "confidence": 94.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-009",
+      "lineNumber": 9,
+      "text": "1, The term “ \" refers to the generation affected by the aftermath",
+      "bbox": {
+        "x": 250,
+        "y": 664,
+        "width": 854,
+        "height": 26
+      },
+      "confidence": 92.54,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-010",
+      "lineNumber": 10,
+      "text": "of World War | and the Great Depression.",
+      "bbox": {
+        "x": 278,
+        "y": 697,
+        "width": 473,
+        "height": 26
+      },
+      "confidence": 93.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-011",
+      "lineNumber": 11,
+      "text": "is the first generation to grow up entirely in the digital age.",
+      "bbox": {
+        "x": 246,
+        "y": 730,
+        "width": 838,
+        "height": 26
+      },
+      "confidence": 95.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-012",
+      "lineNumber": 12,
+      "text": "The 2018 road safety protests marked a shift in awareness",
+      "bbox": {
+        "x": 247,
+        "y": 763,
+        "width": 828,
+        "height": 26
+      },
+      "confidence": 95.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-013",
+      "lineNumber": 13,
+      "text": "for Generation Z.",
+      "bbox": {
+        "x": 267,
+        "y": 796,
+        "width": 197,
+        "height": 21
+      },
+      "confidence": 92.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-014",
+      "lineNumber": 14,
+      "text": "The July Uprising of 2024 called for new methods to address the",
+      "bbox": {
+        "x": 246,
+        "y": 829,
+        "width": 858,
+        "height": 26
+      },
+      "confidence": 95.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-015",
+      "lineNumber": 15,
+      "text": "challenges of today’s world.",
+      "bbox": {
+        "x": 278,
+        "y": 862,
+        "width": 455,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-016",
+      "lineNumber": 16,
+      "text": "Gen Z experiences a paradox of being both hyperconnected yet often",
+      "bbox": {
+        "x": 247,
+        "y": 895,
+        "width": 818,
+        "height": 26
+      },
+      "confidence": 94.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-017",
+      "lineNumber": 17,
+      "text": "Lesson 4: Whose Child is This?",
+      "bbox": {
+        "x": 198,
+        "y": 1064,
+        "width": 408,
+        "height": 35
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-018",
+      "lineNumber": 18,
+      "text": "Read the poem aloud and then recite it to the class:",
+      "bbox": {
+        "x": 277,
+        "y": 1115,
+        "width": 598,
+        "height": 25
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-019",
+      "lineNumber": 19,
+      "text": "Whose Child is This?",
+      "bbox": {
+        "x": 277,
+        "y": 1156,
+        "width": 256,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-020",
+      "lineNumber": 20,
+      "text": "“Whose child is this?” I asked one day",
+      "bbox": {
+        "x": 277,
+        "y": 1202,
+        "width": 503,
+        "height": 25
+      },
+      "confidence": 94.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-021",
+      "lineNumber": 21,
+      "text": "Seeing a little one out at play.",
+      "bbox": {
+        "x": 278,
+        "y": 1231,
+        "width": 323,
+        "height": 33
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-022",
+      "lineNumber": 22,
+      "text": "“Mine”, said the parent with a tender smile.",
+      "bbox": {
+        "x": 277,
+        "y": 1268,
+        "width": 477,
+        "height": 25
+      },
+      "confidence": 95.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-023",
+      "lineNumber": 23,
+      "text": "“Mine to keep a little while",
+      "bbox": {
+        "x": 277,
+        "y": 1311,
+        "width": 299,
+        "height": 32
+      },
+      "confidence": 96.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-024",
+      "lineNumber": 24,
+      "text": "To bathe his hands and comb his hair,",
+      "bbox": {
+        "x": 277,
+        "y": 1348,
+        "width": 414,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-025",
+      "lineNumber": 25,
+      "text": "To tell him what he is to wear,",
+      "bbox": {
+        "x": 277,
+        "y": 1381,
+        "width": 333,
+        "height": 22
+      },
+      "confidence": 96.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-026",
+      "lineNumber": 26,
+      "text": "To prepare him that he may always be good.",
+      "bbox": {
+        "x": 277,
+        "y": 1427,
+        "width": 481,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-027",
+      "lineNumber": 27,
+      "text": "And each day do the things he should.”",
+      "bbox": {
+        "x": 277,
+        "y": 1460,
+        "width": 430,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-028",
+      "lineNumber": 28,
+      "text": "“Whose child is this?” I asked again,",
+      "bbox": {
+        "x": 277,
+        "y": 1506,
+        "width": 403,
+        "height": 25
+      },
+      "confidence": 94.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-029",
+      "lineNumber": 29,
+      "text": "As the door opened and someone came in",
+      "bbox": {
+        "x": 277,
+        "y": 1543,
+        "width": 456,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-039-line-030",
+      "lineNumber": 30,
+      "text": "said the teacher with the same tender smile.",
+      "bbox": {
+        "x": 374,
+        "y": 1581,
+        "width": 478,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "d. Awareness or understanding of something,\n4. Paradox\nespecially the state of one’s mind.\ne. The feeling of being upset or annoyed, especially\n5. Frustration because of an inability to change or achieve something.\nC. Fill in the Gaps\nFill in the blanks using the words from the list below:\n(Lost Generation, Gen Z, political, digital, connected)\n1, The term “ \" refers to the generation affected by the aftermath\nof World War | and the Great Depression.\n2. is the first generation to grow up entirely in the digital age.\n3. The 2018 road safety protests marked a shift in awareness\nfor Generation Z.\n4. The July Uprising of 2024 called for new methods to address the\nchallenges of today’s world.\n5. Gen Z experiences a paradox of being both hyperconnected yet often\nLesson 4: Whose Child is This?\nRead the poem aloud and then recite it to the class:\nWhose Child is This?\n“Whose child is this?” I asked one day\nSeeing a little one out at play.\n“Mine”, said the parent with a tender smile.\n“Mine to keep a little while\nTo bathe his hands and comb his hair,\nTo tell him what he is to wear,\nTo prepare him that he may always be good.\nAnd each day do the things he should.”\n“Whose child is this?” I asked again,\nAs the door opened and someone came in\nsaid the teacher with the same tender smile.",
+  "cleanText": "Awareness or understanding of something,\nParadox\nespecially the state of one’s mind.\ne. The feeling of being upset or annoyed, especially\nFrustration because of an inability to change or achieve something.\nFill in the Gaps\nFill in the blanks using the words from the list below:\n(Lost Generation, Gen Z, political, digital, connected)\n1, The term “ \" refers to the generation affected by the aftermath\nof World War | and the Great Depression.\nis the first generation to grow up entirely in the digital age.\nThe 2018 road safety protests marked a shift in awareness\nfor Generation Z.\nThe July Uprising of 2024 called for new methods to address the\nchallenges of today’s world.\nGen Z experiences a paradox of being both hyperconnected yet often\nLesson 4: Whose Child is This?\nRead the poem aloud and then recite it to the class:\nWhose Child is This?\n“Whose child is this?” I asked one day\nSeeing a little one out at play.\n“Mine”, said the parent with a tender smile.\n“Mine to keep a little while\nTo bathe his hands and comb his hair,\nTo tell him what he is to wear,\nTo prepare him that he may always be good.\nAnd each day do the things he should.”\n“Whose child is this?” I asked again,\nAs the door opened and someone came in\nsaid the teacher with the same tender smile.",
+  "aiReadyText": "Awareness or understanding of something,\nespecially the state of one’s mind.\ne. The feeling of being upset or annoyed, especially\nFrustration because of an inability to change or achieve something.\n(Lost Generation, Gen Z, political, digital, connected)\n1, The term “ \" refers to the generation affected by the aftermath\nof World War | and the Great Depression.\nis the first generation to grow up entirely in the digital age.\nThe 2018 road safety protests marked a shift in awareness\nfor Generation Z.\nThe July Uprising of 2024 called for new methods to address the\nchallenges of today’s world.\nGen Z experiences a paradox of being both hyperconnected yet often\nLesson 4: Whose Child is This?\nRead the poem aloud and then recite it to the class:\nWhose Child is This?\n“Whose child is this?” I asked one day\nSeeing a little one out at play.\n“Mine”, said the parent with a tender smile.\n“Mine to keep a little while\nTo bathe his hands and comb his hair,\nTo tell him what he is to wear,\nTo prepare him that he may always be good.\nAnd each day do the things he should.”\n“Whose child is this?” I asked again,\nAs the door opened and someone came in\nsaid the teacher with the same tender smile."
+}

@@ -1,0 +1,745 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 112,
+  "image": "/ocr/books/class7-english/page-images/page-112.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Nine : Climate Change 107",
+      "cleanText": "Unit Nine : Climate Change 107",
+      "bbox": {
+        "x": 202,
+        "y": 222,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 94.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Look at the list of Dos and Don’ts to keep the environment safe. Then",
+      "cleanText": "Look at the list of Dos and Don’ts to keep the environment safe. Then",
+      "bbox": {
+        "x": 290,
+        "y": 289,
+        "width": 827,
+        "height": 24
+      },
+      "confidence": 95.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "make a poster in groups on what you can/can’t do to save the",
+      "cleanText": "make a poster in groups on what you can/can’t do to save the",
+      "bbox": {
+        "x": 289,
+        "y": 320,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 94.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "environment in your city, town or village.",
+      "cleanText": "environment in your city, town or village.",
+      "bbox": {
+        "x": 288,
+        "y": 357,
+        "width": 491,
+        "height": 25
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Walk to your school and shops.",
+      "cleanText": "Walk to your school and shops.",
+      "bbox": {
+        "x": 306,
+        "y": 485,
+        "width": 344,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Don’t use cars if you can walk,",
+      "cleanText": "Don’t use cars if you can walk,",
+      "bbox": {
+        "x": 743,
+        "y": 486,
+        "width": 339,
+        "height": 24
+      },
+      "confidence": 92.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Dry your clothes and hair in the",
+      "cleanText": "Dry your clothes and hair in the",
+      "bbox": {
+        "x": 308,
+        "y": 523,
+        "width": 349,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Don’t keep your lights and fans",
+      "cleanText": "Don’t keep your lights and fans",
+      "bbox": {
+        "x": 743,
+        "y": 523,
+        "width": 360,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "switched on all the time.",
+      "cleanText": "switched on all the time.",
+      "bbox": {
+        "x": 743,
+        "y": 561,
+        "width": 265,
+        "height": 19
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "* Plant trees. Don’t use hose pipes for",
+      "cleanText": "* Plant trees. Don’t use hose pipes for",
+      "bbox": {
+        "x": 268,
+        "y": 590,
+        "width": 836,
+        "height": 34
+      },
+      "confidence": 80.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "+ Use water from a bucket to wash washing cars and watering",
+      "cleanText": "+ Use water from a bucket to wash washing cars and watering",
+      "bbox": {
+        "x": 268,
+        "y": 627,
+        "width": 836,
+        "height": 34
+      },
+      "confidence": 87.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "your things. plants.",
+      "cleanText": "your things. plants.",
+      "bbox": {
+        "x": 307,
+        "y": 665,
+        "width": 505,
+        "height": 34
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "+ Use jute or paper made bags for Don’t throw away your wastes",
+      "cleanText": "+ Use jute or paper made bags for Don’t throw away your wastes",
+      "bbox": {
+        "x": 268,
+        "y": 703,
+        "width": 835,
+        "height": 34
+      },
+      "confidence": 93.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "shopping. here and there.",
+      "cleanText": "shopping. here and there.",
+      "bbox": {
+        "x": 307,
+        "y": 737,
+        "width": 595,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Use rechargeable batteries.",
+      "cleanText": "Use rechargeable batteries.",
+      "bbox": {
+        "x": 306,
+        "y": 778,
+        "width": 294,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Don’t use plastic bags.",
+      "cleanText": "Don’t use plastic bags.",
+      "bbox": {
+        "x": 742,
+        "y": 788,
+        "width": 247,
+        "height": 24
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Switch off your lights and fans",
+      "cleanText": "Switch off your lights and fans",
+      "bbox": {
+        "x": 307,
+        "y": 816,
+        "width": 369,
+        "height": 25
+      },
+      "confidence": 92.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Don’t use electric dryers.",
+      "cleanText": "Don’t use electric dryers.",
+      "bbox": {
+        "x": 743,
+        "y": 825,
+        "width": 274,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "when not in use.",
+      "cleanText": "when not in use.",
+      "bbox": {
+        "x": 307,
+        "y": 854,
+        "width": 177,
+        "height": 19
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Don’t cut down trees.",
+      "cleanText": "Don’t cut down trees.",
+      "bbox": {
+        "x": 743,
+        "y": 863,
+        "width": 234,
+        "height": 19
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Now write a few slogans for a poster using the following clues:",
+      "cleanText": "Now write a few slogans for a poster using the following clues:",
+      "bbox": {
+        "x": 210,
+        "y": 935,
+        "width": 724,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Don’t throw your wastes ...........",
+      "cleanText": "Don’t throw your wastes ...........",
+      "bbox": {
+        "x": 329,
+        "y": 992,
+        "width": 376,
+        "height": 24
+      },
+      "confidence": 83.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "bags while shopping.",
+      "cleanText": "bags while shopping.",
+      "bbox": {
+        "x": 819,
+        "y": 1035,
+        "width": 230,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Do not USE",
+      "cleanText": "Do not USE",
+      "bbox": {
+        "x": 329,
+        "y": 1036,
+        "width": 117,
+        "height": 19
+      },
+      "confidence": 78.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-112-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "You can not use too much water for ...",
+      "cleanText": "You can not use too much water for ...",
+      "bbox": {
+        "x": 328,
+        "y": 1079,
+        "width": 425,
+        "height": 20
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "People must use",
+      "cleanText": "People must use",
+      "bbox": {
+        "x": 329,
+        "y": 1124,
+        "width": 176,
+        "height": 24
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-112-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "(Continue)",
+      "cleanText": "(Continue)",
+      "bbox": {
+        "x": 336,
+        "y": 1168,
+        "width": 116,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-112-line-027",
+      "lineNumber": 27
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-112-line-001",
+      "lineNumber": 1,
+      "text": "Unit Nine : Climate Change 107",
+      "bbox": {
+        "x": 202,
+        "y": 222,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 94.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-002",
+      "lineNumber": 2,
+      "text": "Look at the list of Dos and Don’ts to keep the environment safe. Then",
+      "bbox": {
+        "x": 290,
+        "y": 289,
+        "width": 827,
+        "height": 24
+      },
+      "confidence": 95.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-003",
+      "lineNumber": 3,
+      "text": "make a poster in groups on what you can/can’t do to save the",
+      "bbox": {
+        "x": 289,
+        "y": 320,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 94.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-004",
+      "lineNumber": 4,
+      "text": "environment in your city, town or village.",
+      "bbox": {
+        "x": 288,
+        "y": 357,
+        "width": 491,
+        "height": 25
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-005",
+      "lineNumber": 5,
+      "text": "Walk to your school and shops.",
+      "bbox": {
+        "x": 306,
+        "y": 485,
+        "width": 344,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-006",
+      "lineNumber": 6,
+      "text": "Don’t use cars if you can walk,",
+      "bbox": {
+        "x": 743,
+        "y": 486,
+        "width": 339,
+        "height": 24
+      },
+      "confidence": 92.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-007",
+      "lineNumber": 7,
+      "text": "Dry your clothes and hair in the",
+      "bbox": {
+        "x": 308,
+        "y": 523,
+        "width": 349,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-008",
+      "lineNumber": 8,
+      "text": "Don’t keep your lights and fans",
+      "bbox": {
+        "x": 743,
+        "y": 523,
+        "width": 360,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-009",
+      "lineNumber": 9,
+      "text": "switched on all the time.",
+      "bbox": {
+        "x": 743,
+        "y": 561,
+        "width": 265,
+        "height": 19
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-010",
+      "lineNumber": 10,
+      "text": "* Plant trees. Don’t use hose pipes for",
+      "bbox": {
+        "x": 268,
+        "y": 590,
+        "width": 836,
+        "height": 34
+      },
+      "confidence": 80.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-011",
+      "lineNumber": 11,
+      "text": "+ Use water from a bucket to wash washing cars and watering",
+      "bbox": {
+        "x": 268,
+        "y": 627,
+        "width": 836,
+        "height": 34
+      },
+      "confidence": 87.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-012",
+      "lineNumber": 12,
+      "text": "your things. plants.",
+      "bbox": {
+        "x": 307,
+        "y": 665,
+        "width": 505,
+        "height": 34
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-013",
+      "lineNumber": 13,
+      "text": "+ Use jute or paper made bags for Don’t throw away your wastes",
+      "bbox": {
+        "x": 268,
+        "y": 703,
+        "width": 835,
+        "height": 34
+      },
+      "confidence": 93.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-014",
+      "lineNumber": 14,
+      "text": "shopping. here and there.",
+      "bbox": {
+        "x": 307,
+        "y": 737,
+        "width": 595,
+        "height": 34
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-015",
+      "lineNumber": 15,
+      "text": "Use rechargeable batteries.",
+      "bbox": {
+        "x": 306,
+        "y": 778,
+        "width": 294,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-016",
+      "lineNumber": 16,
+      "text": "Don’t use plastic bags.",
+      "bbox": {
+        "x": 742,
+        "y": 788,
+        "width": 247,
+        "height": 24
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-017",
+      "lineNumber": 17,
+      "text": "Switch off your lights and fans",
+      "bbox": {
+        "x": 307,
+        "y": 816,
+        "width": 369,
+        "height": 25
+      },
+      "confidence": 92.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-018",
+      "lineNumber": 18,
+      "text": "Don’t use electric dryers.",
+      "bbox": {
+        "x": 743,
+        "y": 825,
+        "width": 274,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-019",
+      "lineNumber": 19,
+      "text": "when not in use.",
+      "bbox": {
+        "x": 307,
+        "y": 854,
+        "width": 177,
+        "height": 19
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-020",
+      "lineNumber": 20,
+      "text": "Don’t cut down trees.",
+      "bbox": {
+        "x": 743,
+        "y": 863,
+        "width": 234,
+        "height": 19
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-021",
+      "lineNumber": 21,
+      "text": "Now write a few slogans for a poster using the following clues:",
+      "bbox": {
+        "x": 210,
+        "y": 935,
+        "width": 724,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-022",
+      "lineNumber": 22,
+      "text": "Don’t throw your wastes ...........",
+      "bbox": {
+        "x": 329,
+        "y": 992,
+        "width": 376,
+        "height": 24
+      },
+      "confidence": 83.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-023",
+      "lineNumber": 23,
+      "text": "bags while shopping.",
+      "bbox": {
+        "x": 819,
+        "y": 1035,
+        "width": 230,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-025",
+      "lineNumber": 25,
+      "text": "You can not use too much water for ...",
+      "bbox": {
+        "x": 328,
+        "y": 1079,
+        "width": 425,
+        "height": 20
+      },
+      "confidence": 93.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-112-line-026",
+      "lineNumber": 26,
+      "text": "People must use",
+      "bbox": {
+        "x": 329,
+        "y": 1124,
+        "width": 176,
+        "height": 24
+      },
+      "confidence": 93.67,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Nine : Climate Change 107\nLook at the list of Dos and Don’ts to keep the environment safe. Then\nmake a poster in groups on what you can/can’t do to save the\nenvironment in your city, town or village.\nWalk to your school and shops.\nDon’t use cars if you can walk,\nDry your clothes and hair in the\nDon’t keep your lights and fans\nswitched on all the time.\n* Plant trees. Don’t use hose pipes for\n+ Use water from a bucket to wash washing cars and watering\nyour things. plants.\n+ Use jute or paper made bags for Don’t throw away your wastes\nshopping. here and there.\nUse rechargeable batteries.\nDon’t use plastic bags.\nSwitch off your lights and fans\nDon’t use electric dryers.\nwhen not in use.\nDon’t cut down trees.\nNow write a few slogans for a poster using the following clues:\nDon’t throw your wastes ...........\nbags while shopping.\nDo not USE\nYou can not use too much water for ...\nPeople must use\n(Continue)",
+  "cleanText": "Unit Nine : Climate Change 107\nLook at the list of Dos and Don’ts to keep the environment safe. Then\nmake a poster in groups on what you can/can’t do to save the\nenvironment in your city, town or village.\nWalk to your school and shops.\nDon’t use cars if you can walk,\nDry your clothes and hair in the\nDon’t keep your lights and fans\nswitched on all the time.\n* Plant trees. Don’t use hose pipes for\n+ Use water from a bucket to wash washing cars and watering\nyour things. plants.\n+ Use jute or paper made bags for Don’t throw away your wastes\nshopping. here and there.\nUse rechargeable batteries.\nDon’t use plastic bags.\nSwitch off your lights and fans\nDon’t use electric dryers.\nwhen not in use.\nDon’t cut down trees.\nNow write a few slogans for a poster using the following clues:\nDon’t throw your wastes ...........\nbags while shopping.\nDo not USE\nYou can not use too much water for ...\nPeople must use\n(Continue)",
+  "aiReadyText": "Unit Nine : Climate Change 107\nLook at the list of Dos and Don’ts to keep the environment safe. Then\nmake a poster in groups on what you can/can’t do to save the\nenvironment in your city, town or village.\nWalk to your school and shops.\nDon’t use cars if you can walk,\nDry your clothes and hair in the\nDon’t keep your lights and fans\nswitched on all the time.\n* Plant trees. Don’t use hose pipes for\n+ Use water from a bucket to wash washing cars and watering\nyour things. plants.\n+ Use jute or paper made bags for Don’t throw away your wastes\nshopping. here and there.\nUse rechargeable batteries.\nDon’t use plastic bags.\nSwitch off your lights and fans\nDon’t use electric dryers.\nwhen not in use.\nDon’t cut down trees.\nNow write a few slogans for a poster using the following clues:\nDon’t throw your wastes ...........\nbags while shopping.\nYou can not use too much water for ...\nPeople must use"
+}

@@ -1,0 +1,1072 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 113,
+  "image": "/ocr/books/class7-english/page-images/page-113.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Sample Question",
+      "cleanText": "Sample Question",
+      "bbox": {
+        "x": 565,
+        "y": 299,
+        "width": 179,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Subject: English 1st Paper",
+      "cleanText": "Subject: English 1st Paper",
+      "bbox": {
+        "x": 517,
+        "y": 331,
+        "width": 276,
+        "height": 24
+      },
+      "confidence": 94.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Grade: Seven",
+      "cleanText": "Grade: Seven",
+      "bbox": {
+        "x": 583,
+        "y": 363,
+        "width": 142,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-113-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Time: 3 hours",
+      "cleanText": "Time: 3 hours",
+      "bbox": {
+        "x": 951,
+        "y": 394,
+        "width": 146,
+        "height": 19
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-113-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Marks: 100",
+      "cleanText": "Marks: 100",
+      "bbox": {
+        "x": 200,
+        "y": 426,
+        "width": 119,
+        "height": 19
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-113-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "[Marks for individual items are mentioned next to the test items]",
+      "cleanText": "[Marks for individual items are mentioned next to the test items]",
+      "bbox": {
+        "x": 315,
+        "y": 458,
+        "width": 678,
+        "height": 23
+      },
+      "confidence": 96.18,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Part A - Reading (Marks: 70}",
+      "cleanText": "Part A - Reading (Marks: 70}",
+      "bbox": {
+        "x": 502,
+        "y": 521,
+        "width": 305,
+        "height": 24
+      },
+      "confidence": 91.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Read the text and answer the questions | & 2",
+      "cleanText": "Read the text and answer the questions | & 2",
+      "bbox": {
+        "x": 200,
+        "y": 553,
+        "width": 504,
+        "height": 24
+      },
+      "confidence": 94.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "en Keller was a great humanitarian",
+      "cleanText": "en Keller was a great humanitarian",
+      "bbox": {
+        "x": 238,
+        "y": 584,
+        "width": 386,
+        "height": 24
+      },
+      "confidence": 93.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": ". She cared deeply for the sick. Injured and",
+      "cleanText": ". She cared deeply for the sick. Injured and",
+      "bbox": {
+        "x": 627,
+        "y": 585,
+        "width": 482,
+        "height": 23
+      },
+      "confidence": 90.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "disabled people. The disabled people have physical or mental problems that limit their",
+      "cleanText": "disabled people. The disabled people have physical or mental problems that limit their",
+      "bbox": {
+        "x": 199,
+        "y": 616,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 95.15,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "activities or senses. Helen devoted her life to help them.",
+      "cleanText": "activities or senses. Helen devoted her life to help them.",
+      "bbox": {
+        "x": 200,
+        "y": 648,
+        "width": 588,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "cn was born in 1880 in Alabama, USA. Her parents were Captain Arthur Keller and",
+      "cleanText": "cn was born in 1880 in Alabama, USA. Her parents were Captain Arthur Keller and",
+      "bbox": {
+        "x": 238,
+        "y": 679,
+        "width": 871,
+        "height": 24
+      },
+      "confidence": 94.87,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Katherine Adams Keller.",
+      "cleanText": "Katherine Adams Keller.",
+      "bbox": {
+        "x": 200,
+        "y": 711,
+        "width": 262,
+        "height": 19
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Her family was not rich. Their main source of income was",
+      "cleanText": "Her family was not rich. Their main source of income was",
+      "bbox": {
+        "x": 478,
+        "y": 711,
+        "width": 630,
+        "height": 24
+      },
+      "confidence": 95.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "ton plantation.",
+      "cleanText": "ton plantation.",
+      "bbox": {
+        "x": 232,
+        "y": 743,
+        "width": 149,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "en was born healthy, but in 1882 she became deaf, dumb and blind after a high",
+      "cleanText": "en was born healthy, but in 1882 she became deaf, dumb and blind after a high",
+      "bbox": {
+        "x": 238,
+        "y": 775,
+        "width": 871,
+        "height": 23
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "er. Her father heard about Perkins Sc",
+      "cleanText": "er. Her father heard about Perkins Sc",
+      "bbox": {
+        "x": 233,
+        "y": 806,
+        "width": 387,
+        "height": 19
+      },
+      "confidence": 93.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "ool for the Blind in Boston and contacted the",
+      "cleanText": "ool for the Blind in Boston and contacted the",
+      "bbox": {
+        "x": 636,
+        "y": 806,
+        "width": 473,
+        "height": 19
+      },
+      "confidence": 88.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Director there. In 1887, the Director sent one of his best students, Anne Sullivan, to",
+      "cleanText": "Director there. In 1887, the Director sent one of his best students, Anne Sullivan, to",
+      "bbox": {
+        "x": 201,
+        "y": 838,
+        "width": 907,
+        "height": 22
+      },
+      "confidence": 95.87,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "p Helen. Anne worked hard to enable",
+      "cleanText": "p Helen. Anne worked hard to enable",
+      "bbox": {
+        "x": 235,
+        "y": 870,
+        "width": 389,
+        "height": 18
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "her to communicate.",
+      "cleanText": "her to communicate.",
+      "bbox": {
+        "x": 632,
+        "y": 870,
+        "width": 213,
+        "height": 18
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "1890, Helen's formal education started at Horace Mann School for the deaf in",
+      "cleanText": "1890, Helen's formal education started at Horace Mann School for the deaf in",
+      "bbox": {
+        "x": 236,
+        "y": 901,
+        "width": 872,
+        "height": 22
+      },
+      "confidence": 95.31,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Boston. In 1892, she went to Wright Humason School for the deaf in New York. Helen",
+      "cleanText": "Boston. In 1892, she went to Wright Humason School for the deaf in New York. Helen",
+      "bbox": {
+        "x": 201,
+        "y": 929,
+        "width": 907,
+        "height": 32
+      },
+      "confidence": 95.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "improved her communication skills an",
+      "cleanText": "improved her communication skills an",
+      "bbox": {
+        "x": 200,
+        "y": 965,
+        "width": 414,
+        "height": 24
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "studied regular academic subjects. She then",
+      "cleanText": "studied regular academic subjects. She then",
+      "bbox": {
+        "x": 638,
+        "y": 965,
+        "width": 470,
+        "height": 24
+      },
+      "confidence": 96.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "to go to college, and attended Cambridge School for Young Ladies in 1896.",
+      "cleanText": "to go to college, and attended Cambridge School for Young Ladies in 1896.",
+      "bbox": {
+        "x": 290,
+        "y": 996,
+        "width": 817,
+        "height": 24
+      },
+      "confidence": 95.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "Later, she studied at Radcliffe College. Here she learnt Braille, which was a new",
+      "cleanText": "Later, she studied at Radcliffe College. Here she learnt Braille, which was a new",
+      "bbox": {
+        "x": 201,
+        "y": 1028,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 95.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "technique for reading. She also learnt how to type. Anne Sullivan was always with",
+      "cleanText": "technique for reading. She also learnt how to type. Anne Sullivan was always with",
+      "bbox": {
+        "x": 199,
+        "y": 1060,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "Helen. She sat with Helen in class and hi",
+      "cleanText": "Helen. She sat with Helen in class and hi",
+      "bbox": {
+        "x": 200,
+        "y": 1091,
+        "width": 423,
+        "height": 19
+      },
+      "confidence": 93.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "elped her by interpreting lectures and texts. In",
+      "cleanText": "elped her by interpreting lectures and texts. In",
+      "bbox": {
+        "x": 625,
+        "y": 1091,
+        "width": 484,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "1904, Helen received her BA degree witl",
+      "cleanText": "1904, Helen received her BA degree witl",
+      "bbox": {
+        "x": 202,
+        "y": 1123,
+        "width": 421,
+        "height": 24
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "h Honours from Radcliffe College.",
+      "cleanText": "h Honours from Radcliffe College.",
+      "bbox": {
+        "x": 627,
+        "y": 1123,
+        "width": 361,
+        "height": 24
+      },
+      "confidence": 94.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "Helen spent her life helping disabled people to leai.11. She died on June 1, 1968.",
+      "cleanText": "Helen spent her life helping disabled people to leai.11. She died on June 1, 1968.",
+      "bbox": {
+        "x": 200,
+        "y": 1155,
+        "width": 850,
+        "height": 24
+      },
+      "confidence": 93.87,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "1. Choose the best answer from the alternatives:",
+      "cleanText": "Choose the best answer from the alternatives:",
+      "bbox": {
+        "x": 202,
+        "y": 1221,
+        "width": 631,
+        "height": 21
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-113-line-035",
+      "lineNumber": 35
+    },
+    {
+      "text": "(a) Who helped Helen Keller communicate after she lost her senses?",
+      "cleanText": "(a) Who helped Helen Keller communicate after she lost her senses?",
+      "bbox": {
+        "x": 232,
+        "y": 1287,
+        "width": 764,
+        "height": 24
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-036",
+      "lineNumber": 36
+    },
+    {
+      "text": "i. Her parents",
+      "cleanText": "Her parents",
+      "bbox": {
+        "x": 321,
+        "y": 1340,
+        "width": 153,
+        "height": 23
+      },
+      "confidence": 90.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-113-line-037",
+      "lineNumber": 37
+    },
+    {
+      "text": "ii. Anne Sullivan",
+      "cleanText": "Anne Sullivan",
+      "bbox": {
+        "x": 320,
+        "y": 1379,
+        "width": 182,
+        "height": 19
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-113-line-038",
+      "lineNumber": 38
+    },
+    {
+      "text": "iii. A doctor",
+      "cleanText": "A doctor",
+      "bbox": {
+        "x": 320,
+        "y": 1419,
+        "width": 124,
+        "height": 18
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-113-line-039",
+      "lineNumber": 39
+    },
+    {
+      "text": "iv. A school teacher",
+      "cleanText": "A school teacher",
+      "bbox": {
+        "x": 321,
+        "y": 1458,
+        "width": 211,
+        "height": 19
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-040",
+      "lineNumber": 40
+    },
+    {
+      "text": "(b) What was Helen Keller’s family’s primary source of income?",
+      "cleanText": "(b) What was Helen Keller’s family’s primary source of income?",
+      "bbox": {
+        "x": 229,
+        "y": 1512,
+        "width": 730,
+        "height": 24
+      },
+      "confidence": 94.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-113-line-041",
+      "lineNumber": 41
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-113-line-001",
+      "lineNumber": 1,
+      "text": "Sample Question",
+      "bbox": {
+        "x": 565,
+        "y": 299,
+        "width": 179,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-002",
+      "lineNumber": 2,
+      "text": "Subject: English 1st Paper",
+      "bbox": {
+        "x": 517,
+        "y": 331,
+        "width": 276,
+        "height": 24
+      },
+      "confidence": 94.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-006",
+      "lineNumber": 6,
+      "text": "[Marks for individual items are mentioned next to the test items]",
+      "bbox": {
+        "x": 315,
+        "y": 458,
+        "width": 678,
+        "height": 23
+      },
+      "confidence": 96.18,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-007",
+      "lineNumber": 7,
+      "text": "Part A - Reading (Marks: 70}",
+      "bbox": {
+        "x": 502,
+        "y": 521,
+        "width": 305,
+        "height": 24
+      },
+      "confidence": 91.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-008",
+      "lineNumber": 8,
+      "text": "Read the text and answer the questions | & 2",
+      "bbox": {
+        "x": 200,
+        "y": 553,
+        "width": 504,
+        "height": 24
+      },
+      "confidence": 94.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-009",
+      "lineNumber": 9,
+      "text": "en Keller was a great humanitarian",
+      "bbox": {
+        "x": 238,
+        "y": 584,
+        "width": 386,
+        "height": 24
+      },
+      "confidence": 93.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-010",
+      "lineNumber": 10,
+      "text": ". She cared deeply for the sick. Injured and",
+      "bbox": {
+        "x": 627,
+        "y": 585,
+        "width": 482,
+        "height": 23
+      },
+      "confidence": 90.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-011",
+      "lineNumber": 11,
+      "text": "disabled people. The disabled people have physical or mental problems that limit their",
+      "bbox": {
+        "x": 199,
+        "y": 616,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 95.15,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-012",
+      "lineNumber": 12,
+      "text": "activities or senses. Helen devoted her life to help them.",
+      "bbox": {
+        "x": 200,
+        "y": 648,
+        "width": 588,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-013",
+      "lineNumber": 13,
+      "text": "cn was born in 1880 in Alabama, USA. Her parents were Captain Arthur Keller and",
+      "bbox": {
+        "x": 238,
+        "y": 679,
+        "width": 871,
+        "height": 24
+      },
+      "confidence": 94.87,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-014",
+      "lineNumber": 14,
+      "text": "Katherine Adams Keller.",
+      "bbox": {
+        "x": 200,
+        "y": 711,
+        "width": 262,
+        "height": 19
+      },
+      "confidence": 93.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-015",
+      "lineNumber": 15,
+      "text": "Her family was not rich. Their main source of income was",
+      "bbox": {
+        "x": 478,
+        "y": 711,
+        "width": 630,
+        "height": 24
+      },
+      "confidence": 95.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-016",
+      "lineNumber": 16,
+      "text": "ton plantation.",
+      "bbox": {
+        "x": 232,
+        "y": 743,
+        "width": 149,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-017",
+      "lineNumber": 17,
+      "text": "en was born healthy, but in 1882 she became deaf, dumb and blind after a high",
+      "bbox": {
+        "x": 238,
+        "y": 775,
+        "width": 871,
+        "height": 23
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-018",
+      "lineNumber": 18,
+      "text": "er. Her father heard about Perkins Sc",
+      "bbox": {
+        "x": 233,
+        "y": 806,
+        "width": 387,
+        "height": 19
+      },
+      "confidence": 93.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-019",
+      "lineNumber": 19,
+      "text": "ool for the Blind in Boston and contacted the",
+      "bbox": {
+        "x": 636,
+        "y": 806,
+        "width": 473,
+        "height": 19
+      },
+      "confidence": 88.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-020",
+      "lineNumber": 20,
+      "text": "Director there. In 1887, the Director sent one of his best students, Anne Sullivan, to",
+      "bbox": {
+        "x": 201,
+        "y": 838,
+        "width": 907,
+        "height": 22
+      },
+      "confidence": 95.87,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-021",
+      "lineNumber": 21,
+      "text": "p Helen. Anne worked hard to enable",
+      "bbox": {
+        "x": 235,
+        "y": 870,
+        "width": 389,
+        "height": 18
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-022",
+      "lineNumber": 22,
+      "text": "her to communicate.",
+      "bbox": {
+        "x": 632,
+        "y": 870,
+        "width": 213,
+        "height": 18
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-023",
+      "lineNumber": 23,
+      "text": "1890, Helen's formal education started at Horace Mann School for the deaf in",
+      "bbox": {
+        "x": 236,
+        "y": 901,
+        "width": 872,
+        "height": 22
+      },
+      "confidence": 95.31,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-024",
+      "lineNumber": 24,
+      "text": "Boston. In 1892, she went to Wright Humason School for the deaf in New York. Helen",
+      "bbox": {
+        "x": 201,
+        "y": 929,
+        "width": 907,
+        "height": 32
+      },
+      "confidence": 95.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-025",
+      "lineNumber": 25,
+      "text": "improved her communication skills an",
+      "bbox": {
+        "x": 200,
+        "y": 965,
+        "width": 414,
+        "height": 24
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-026",
+      "lineNumber": 26,
+      "text": "studied regular academic subjects. She then",
+      "bbox": {
+        "x": 638,
+        "y": 965,
+        "width": 470,
+        "height": 24
+      },
+      "confidence": 96.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-027",
+      "lineNumber": 27,
+      "text": "to go to college, and attended Cambridge School for Young Ladies in 1896.",
+      "bbox": {
+        "x": 290,
+        "y": 996,
+        "width": 817,
+        "height": 24
+      },
+      "confidence": 95.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-028",
+      "lineNumber": 28,
+      "text": "Later, she studied at Radcliffe College. Here she learnt Braille, which was a new",
+      "bbox": {
+        "x": 201,
+        "y": 1028,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 95.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-029",
+      "lineNumber": 29,
+      "text": "technique for reading. She also learnt how to type. Anne Sullivan was always with",
+      "bbox": {
+        "x": 199,
+        "y": 1060,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-030",
+      "lineNumber": 30,
+      "text": "Helen. She sat with Helen in class and hi",
+      "bbox": {
+        "x": 200,
+        "y": 1091,
+        "width": 423,
+        "height": 19
+      },
+      "confidence": 93.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-031",
+      "lineNumber": 31,
+      "text": "elped her by interpreting lectures and texts. In",
+      "bbox": {
+        "x": 625,
+        "y": 1091,
+        "width": 484,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-032",
+      "lineNumber": 32,
+      "text": "1904, Helen received her BA degree witl",
+      "bbox": {
+        "x": 202,
+        "y": 1123,
+        "width": 421,
+        "height": 24
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-033",
+      "lineNumber": 33,
+      "text": "h Honours from Radcliffe College.",
+      "bbox": {
+        "x": 627,
+        "y": 1123,
+        "width": 361,
+        "height": 24
+      },
+      "confidence": 94.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-034",
+      "lineNumber": 34,
+      "text": "Helen spent her life helping disabled people to leai.11. She died on June 1, 1968.",
+      "bbox": {
+        "x": 200,
+        "y": 1155,
+        "width": 850,
+        "height": 24
+      },
+      "confidence": 93.87,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-036",
+      "lineNumber": 36,
+      "text": "(a) Who helped Helen Keller communicate after she lost her senses?",
+      "bbox": {
+        "x": 232,
+        "y": 1287,
+        "width": 764,
+        "height": 24
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-040",
+      "lineNumber": 40,
+      "text": "A school teacher",
+      "bbox": {
+        "x": 321,
+        "y": 1458,
+        "width": 211,
+        "height": 19
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-113-line-041",
+      "lineNumber": 41,
+      "text": "(b) What was Helen Keller’s family’s primary source of income?",
+      "bbox": {
+        "x": 229,
+        "y": 1512,
+        "width": 730,
+        "height": 24
+      },
+      "confidence": 94.8,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Sample Question\nSubject: English 1st Paper\nGrade: Seven\nTime: 3 hours\nMarks: 100\n[Marks for individual items are mentioned next to the test items]\nPart A - Reading (Marks: 70}\nRead the text and answer the questions | & 2\nen Keller was a great humanitarian\n. She cared deeply for the sick. Injured and\ndisabled people. The disabled people have physical or mental problems that limit their\nactivities or senses. Helen devoted her life to help them.\ncn was born in 1880 in Alabama, USA. Her parents were Captain Arthur Keller and\nKatherine Adams Keller.\nHer family was not rich. Their main source of income was\nton plantation.\nen was born healthy, but in 1882 she became deaf, dumb and blind after a high\ner. Her father heard about Perkins Sc\nool for the Blind in Boston and contacted the\nDirector there. In 1887, the Director sent one of his best students, Anne Sullivan, to\np Helen. Anne worked hard to enable\nher to communicate.\n1890, Helen's formal education started at Horace Mann School for the deaf in\nBoston. In 1892, she went to Wright Humason School for the deaf in New York. Helen\nimproved her communication skills an\nstudied regular academic subjects. She then\nto go to college, and attended Cambridge School for Young Ladies in 1896.\nLater, she studied at Radcliffe College. Here she learnt Braille, which was a new\ntechnique for reading. She also learnt how to type. Anne Sullivan was always with\nHelen. She sat with Helen in class and hi\nelped her by interpreting lectures and texts. In\n1904, Helen received her BA degree witl\nh Honours from Radcliffe College.\nHelen spent her life helping disabled people to leai.11. She died on June 1, 1968.\n1. Choose the best answer from the alternatives:\n(a) Who helped Helen Keller communicate after she lost her senses?\ni. Her parents\nii. Anne Sullivan\niii. A doctor\niv. A school teacher\n(b) What was Helen Keller’s family’s primary source of income?",
+  "cleanText": "Sample Question\nSubject: English 1st Paper\nGrade: Seven\nTime: 3 hours\nMarks: 100\n[Marks for individual items are mentioned next to the test items]\nPart A - Reading (Marks: 70}\nRead the text and answer the questions | & 2\nen Keller was a great humanitarian\n. She cared deeply for the sick. Injured and\ndisabled people. The disabled people have physical or mental problems that limit their\nactivities or senses. Helen devoted her life to help them.\ncn was born in 1880 in Alabama, USA. Her parents were Captain Arthur Keller and\nKatherine Adams Keller.\nHer family was not rich. Their main source of income was\nton plantation.\nen was born healthy, but in 1882 she became deaf, dumb and blind after a high\ner. Her father heard about Perkins Sc\nool for the Blind in Boston and contacted the\nDirector there. In 1887, the Director sent one of his best students, Anne Sullivan, to\np Helen. Anne worked hard to enable\nher to communicate.\n1890, Helen's formal education started at Horace Mann School for the deaf in\nBoston. In 1892, she went to Wright Humason School for the deaf in New York. Helen\nimproved her communication skills an\nstudied regular academic subjects. She then\nto go to college, and attended Cambridge School for Young Ladies in 1896.\nLater, she studied at Radcliffe College. Here she learnt Braille, which was a new\ntechnique for reading. She also learnt how to type. Anne Sullivan was always with\nHelen. She sat with Helen in class and hi\nelped her by interpreting lectures and texts. In\n1904, Helen received her BA degree witl\nh Honours from Radcliffe College.\nHelen spent her life helping disabled people to leai.11. She died on June 1, 1968.\nChoose the best answer from the alternatives:\n(a) Who helped Helen Keller communicate after she lost her senses?\nHer parents\nAnne Sullivan\nA doctor\nA school teacher\n(b) What was Helen Keller’s family’s primary source of income?",
+  "aiReadyText": "Sample Question\nSubject: English 1st Paper\n[Marks for individual items are mentioned next to the test items]\nPart A - Reading (Marks: 70}\nRead the text and answer the questions | & 2\nen Keller was a great humanitarian\n. She cared deeply for the sick. Injured and\ndisabled people. The disabled people have physical or mental problems that limit their\nactivities or senses. Helen devoted her life to help them.\ncn was born in 1880 in Alabama, USA. Her parents were Captain Arthur Keller and\nKatherine Adams Keller.\nHer family was not rich. Their main source of income was\nton plantation.\nen was born healthy, but in 1882 she became deaf, dumb and blind after a high\ner. Her father heard about Perkins Sc\nool for the Blind in Boston and contacted the\nDirector there. In 1887, the Director sent one of his best students, Anne Sullivan, to\np Helen. Anne worked hard to enable\nher to communicate.\n1890, Helen's formal education started at Horace Mann School for the deaf in\nBoston. In 1892, she went to Wright Humason School for the deaf in New York. Helen\nimproved her communication skills an\nstudied regular academic subjects. She then\nto go to college, and attended Cambridge School for Young Ladies in 1896.\nLater, she studied at Radcliffe College. Here she learnt Braille, which was a new\ntechnique for reading. She also learnt how to type. Anne Sullivan was always with\nHelen. She sat with Helen in class and hi\nelped her by interpreting lectures and texts. In\n1904, Helen received her BA degree witl\nh Honours from Radcliffe College.\nHelen spent her life helping disabled people to leai.11. She died on June 1, 1968.\n(a) Who helped Helen Keller communicate after she lost her senses?\nA school teacher\n(b) What was Helen Keller’s family’s primary source of income?"
+}

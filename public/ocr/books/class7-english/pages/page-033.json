@@ -1,0 +1,803 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 33,
+  "image": "/ocr/books/class7-english/page-images/page-033.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "4. She got GPA 4 in her",
+      "cleanText": "She got GPA 4 in her",
+      "bbox": {
+        "x": 270,
+        "y": 333,
+        "width": 326,
+        "height": 25
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "a. SSC exam.",
+      "cleanText": "SSC exam.",
+      "bbox": {
+        "x": 350,
+        "y": 379,
+        "width": 152,
+        "height": 19
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-033-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "b. HSC exam.",
+      "cleanText": "HSC exam.",
+      "bbox": {
+        "x": 350,
+        "y": 412,
+        "width": 157,
+        "height": 19
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-033-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "c. BA exam.",
+      "cleanText": "BA exam.",
+      "bbox": {
+        "x": 350,
+        "y": 445,
+        "width": 140,
+        "height": 19
+      },
+      "confidence": 92.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-033-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "5. She took a break of one year",
+      "cleanText": "She took a break of one year",
+      "bbox": {
+        "x": 270,
+        "y": 500,
+        "width": 412,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "a. to get training to become a teacher.",
+      "cleanText": "to get training to become a teacher.",
+      "bbox": {
+        "x": 349,
+        "y": 532,
+        "width": 413,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "b. to take care of her daughter.",
+      "cleanText": "to take care of her daughter.",
+      "bbox": {
+        "x": 349,
+        "y": 565,
+        "width": 339,
+        "height": 25
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "c. to take a BA degree.",
+      "cleanText": "to take a BA degree.",
+      "bbox": {
+        "x": 349,
+        "y": 598,
+        "width": 255,
+        "height": 25
+      },
+      "confidence": 88.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "6. Why did Shahana’s husband want her to work in an office?",
+      "cleanText": "Why did Shahana’s husband want her to work in an office?",
+      "bbox": {
+        "x": 270,
+        "y": 645,
+        "width": 774,
+        "height": 24
+      },
+      "confidence": 94.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Because he thought",
+      "cleanText": "Because he thought",
+      "bbox": {
+        "x": 349,
+        "y": 690,
+        "width": 214,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "a. teaching was not a job.",
+      "cleanText": "teaching was not a job.",
+      "bbox": {
+        "x": 349,
+        "y": 723,
+        "width": 282,
+        "height": 25
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "b. teaching was less paid.",
+      "cleanText": "teaching was less paid.",
+      "bbox": {
+        "x": 349,
+        "y": 756,
+        "width": 283,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "c. people did not like teaching.",
+      "cleanText": "people did not like teaching.",
+      "bbox": {
+        "x": 349,
+        "y": 789,
+        "width": 342,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Discuss with your partner why Shahana wanted to be a teacher and",
+      "cleanText": "Discuss with your partner why Shahana wanted to be a teacher and",
+      "bbox": {
+        "x": 280,
+        "y": 869,
+        "width": 830,
+        "height": 25
+      },
+      "confidence": 95.42,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-033-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "write a short composition about it.",
+      "cleanText": "write a short composition about it.",
+      "bbox": {
+        "x": 279,
+        "y": 902,
+        "width": 415,
+        "height": 25
+      },
+      "confidence": 93.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Lesson 2: A Teacher(2)",
+      "cleanText": "Lesson 2: A Teacher(2)",
+      "bbox": {
+        "x": 200,
+        "y": 981,
+        "width": 300,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Keywords: company, vacant, status, respect, in-laws",
+      "cleanText": "Keywords: company, vacant, status, respect, in-laws",
+      "bbox": {
+        "x": 292,
+        "y": 1047,
+        "width": 816,
+        "height": 26
+      },
+      "confidence": 84.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "academic, admire, demonstrate, inspire, corridor",
+      "cleanText": "academic, admire, demonstrate, inspire, corridor",
+      "bbox": {
+        "x": 457,
+        "y": 1094,
+        "width": 650,
+        "height": 25
+      },
+      "confidence": 90.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Read about Ms Shahana Huda.",
+      "cleanText": "Read about Ms Shahana Huda.",
+      "bbox": {
+        "x": 280,
+        "y": 1166,
+        "width": 364,
+        "height": 19
+      },
+      "confidence": 94.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Shahana’s husband, Mr Zamil Huda, works ina company office. His firm",
+      "cleanText": "Shahana’s husband, Mr Zamil Huda, works ina company office. His firm",
+      "bbox": {
+        "x": 280,
+        "y": 1210,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 94.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "has a vacant position. On several days he told Shahana, “1 want you to",
+      "cleanText": "has a vacant position. On several days he told Shahana, “1 want you to",
+      "bbox": {
+        "x": 279,
+        "y": 1242,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 91.21,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "apply for the post.” But Shahana said, “Please don’t insist. I’m joining the",
+      "cleanText": "apply for the post.” But Shahana said, “Please don’t insist. I’m joining the",
+      "bbox": {
+        "x": 277,
+        "y": 1273,
+        "width": 830,
+        "height": 26
+      },
+      "confidence": 93.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "local high school as a teacher.” “What do you find in a teaching job,",
+      "cleanText": "local high school as a teacher.” “What do you find in a teaching job,",
+      "bbox": {
+        "x": 279,
+        "y": 1305,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Shahana? I don’t want you to do it.” Her in-laws were also on his side.",
+      "cleanText": "Shahana? I don’t want you to do it.” Her in-laws were also on his side.",
+      "bbox": {
+        "x": 278,
+        "y": 1337,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 92.47,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Yet Shahana joined the school against the will of the family.",
+      "cleanText": "Yet Shahana joined the school against the will of the family.",
+      "bbox": {
+        "x": 275,
+        "y": 1368,
+        "width": 680,
+        "height": 26
+      },
+      "confidence": 95.18,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Weeks and months went by. Every day Shahana helps in household works.",
+      "cleanText": "Weeks and months went by. Every day Shahana helps in household works.",
+      "bbox": {
+        "x": 276,
+        "y": 1413,
+        "width": 825,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Every day she works hard to prepare her lessons. Every day she goes",
+      "cleanText": "Every day she works hard to prepare her lessons. Every day she goes",
+      "bbox": {
+        "x": 280,
+        "y": 1445,
+        "width": 824,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "to school, teaches her students and helps both weak and bright ones. They",
+      "cleanText": "to school, teaches her students and helps both weak and bright ones. They",
+      "bbox": {
+        "x": 281,
+        "y": 1476,
+        "width": 833,
+        "height": 26
+      },
+      "confidence": 91.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "often come to her in the teachers’ room, in the corridor and even on the",
+      "cleanText": "often come to her in the teachers’ room, in the corridor and even on the",
+      "bbox": {
+        "x": 281,
+        "y": 1508,
+        "width": 819,
+        "height": 21
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "road, and talk to her about any academic or personal problems.",
+      "cleanText": "road, and talk to her about any academic or personal problems.",
+      "bbox": {
+        "x": 284,
+        "y": 1540,
+        "width": 705,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-033-line-030",
+      "lineNumber": 30
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-033-line-001",
+      "lineNumber": 1,
+      "text": "She got GPA 4 in her",
+      "bbox": {
+        "x": 270,
+        "y": 333,
+        "width": 326,
+        "height": 25
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-005",
+      "lineNumber": 5,
+      "text": "She took a break of one year",
+      "bbox": {
+        "x": 270,
+        "y": 500,
+        "width": 412,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-006",
+      "lineNumber": 6,
+      "text": "to get training to become a teacher.",
+      "bbox": {
+        "x": 349,
+        "y": 532,
+        "width": 413,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-007",
+      "lineNumber": 7,
+      "text": "to take care of her daughter.",
+      "bbox": {
+        "x": 349,
+        "y": 565,
+        "width": 339,
+        "height": 25
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-008",
+      "lineNumber": 8,
+      "text": "to take a BA degree.",
+      "bbox": {
+        "x": 349,
+        "y": 598,
+        "width": 255,
+        "height": 25
+      },
+      "confidence": 88.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-009",
+      "lineNumber": 9,
+      "text": "Why did Shahana’s husband want her to work in an office?",
+      "bbox": {
+        "x": 270,
+        "y": 645,
+        "width": 774,
+        "height": 24
+      },
+      "confidence": 94.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-010",
+      "lineNumber": 10,
+      "text": "Because he thought",
+      "bbox": {
+        "x": 349,
+        "y": 690,
+        "width": 214,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-011",
+      "lineNumber": 11,
+      "text": "teaching was not a job.",
+      "bbox": {
+        "x": 349,
+        "y": 723,
+        "width": 282,
+        "height": 25
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-012",
+      "lineNumber": 12,
+      "text": "teaching was less paid.",
+      "bbox": {
+        "x": 349,
+        "y": 756,
+        "width": 283,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-013",
+      "lineNumber": 13,
+      "text": "people did not like teaching.",
+      "bbox": {
+        "x": 349,
+        "y": 789,
+        "width": 342,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-015",
+      "lineNumber": 15,
+      "text": "write a short composition about it.",
+      "bbox": {
+        "x": 279,
+        "y": 902,
+        "width": 415,
+        "height": 25
+      },
+      "confidence": 93.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-016",
+      "lineNumber": 16,
+      "text": "Lesson 2: A Teacher(2)",
+      "bbox": {
+        "x": 200,
+        "y": 981,
+        "width": 300,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-017",
+      "lineNumber": 17,
+      "text": "Keywords: company, vacant, status, respect, in-laws",
+      "bbox": {
+        "x": 292,
+        "y": 1047,
+        "width": 816,
+        "height": 26
+      },
+      "confidence": 84.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-018",
+      "lineNumber": 18,
+      "text": "academic, admire, demonstrate, inspire, corridor",
+      "bbox": {
+        "x": 457,
+        "y": 1094,
+        "width": 650,
+        "height": 25
+      },
+      "confidence": 90.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-019",
+      "lineNumber": 19,
+      "text": "Read about Ms Shahana Huda.",
+      "bbox": {
+        "x": 280,
+        "y": 1166,
+        "width": 364,
+        "height": 19
+      },
+      "confidence": 94.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-020",
+      "lineNumber": 20,
+      "text": "Shahana’s husband, Mr Zamil Huda, works ina company office. His firm",
+      "bbox": {
+        "x": 280,
+        "y": 1210,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 94.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-021",
+      "lineNumber": 21,
+      "text": "has a vacant position. On several days he told Shahana, “1 want you to",
+      "bbox": {
+        "x": 279,
+        "y": 1242,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 91.21,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-022",
+      "lineNumber": 22,
+      "text": "apply for the post.” But Shahana said, “Please don’t insist. I’m joining the",
+      "bbox": {
+        "x": 277,
+        "y": 1273,
+        "width": 830,
+        "height": 26
+      },
+      "confidence": 93.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-023",
+      "lineNumber": 23,
+      "text": "local high school as a teacher.” “What do you find in a teaching job,",
+      "bbox": {
+        "x": 279,
+        "y": 1305,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-024",
+      "lineNumber": 24,
+      "text": "Shahana? I don’t want you to do it.” Her in-laws were also on his side.",
+      "bbox": {
+        "x": 278,
+        "y": 1337,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 92.47,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-025",
+      "lineNumber": 25,
+      "text": "Yet Shahana joined the school against the will of the family.",
+      "bbox": {
+        "x": 275,
+        "y": 1368,
+        "width": 680,
+        "height": 26
+      },
+      "confidence": 95.18,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-026",
+      "lineNumber": 26,
+      "text": "Weeks and months went by. Every day Shahana helps in household works.",
+      "bbox": {
+        "x": 276,
+        "y": 1413,
+        "width": 825,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-027",
+      "lineNumber": 27,
+      "text": "Every day she works hard to prepare her lessons. Every day she goes",
+      "bbox": {
+        "x": 280,
+        "y": 1445,
+        "width": 824,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-028",
+      "lineNumber": 28,
+      "text": "to school, teaches her students and helps both weak and bright ones. They",
+      "bbox": {
+        "x": 281,
+        "y": 1476,
+        "width": 833,
+        "height": 26
+      },
+      "confidence": 91.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-029",
+      "lineNumber": 29,
+      "text": "often come to her in the teachers’ room, in the corridor and even on the",
+      "bbox": {
+        "x": 281,
+        "y": 1508,
+        "width": 819,
+        "height": 21
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-033-line-030",
+      "lineNumber": 30,
+      "text": "road, and talk to her about any academic or personal problems.",
+      "bbox": {
+        "x": 284,
+        "y": 1540,
+        "width": 705,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "4. She got GPA 4 in her\na. SSC exam.\nb. HSC exam.\nc. BA exam.\n5. She took a break of one year\na. to get training to become a teacher.\nb. to take care of her daughter.\nc. to take a BA degree.\n6. Why did Shahana’s husband want her to work in an office?\nBecause he thought\na. teaching was not a job.\nb. teaching was less paid.\nc. people did not like teaching.\nDiscuss with your partner why Shahana wanted to be a teacher and\nwrite a short composition about it.\nLesson 2: A Teacher(2)\nKeywords: company, vacant, status, respect, in-laws\nacademic, admire, demonstrate, inspire, corridor\nRead about Ms Shahana Huda.\nShahana’s husband, Mr Zamil Huda, works ina company office. His firm\nhas a vacant position. On several days he told Shahana, “1 want you to\napply for the post.” But Shahana said, “Please don’t insist. I’m joining the\nlocal high school as a teacher.” “What do you find in a teaching job,\nShahana? I don’t want you to do it.” Her in-laws were also on his side.\nYet Shahana joined the school against the will of the family.\nWeeks and months went by. Every day Shahana helps in household works.\nEvery day she works hard to prepare her lessons. Every day she goes\nto school, teaches her students and helps both weak and bright ones. They\noften come to her in the teachers’ room, in the corridor and even on the\nroad, and talk to her about any academic or personal problems.",
+  "cleanText": "She got GPA 4 in her\nSSC exam.\nHSC exam.\nBA exam.\nShe took a break of one year\nto get training to become a teacher.\nto take care of her daughter.\nto take a BA degree.\nWhy did Shahana’s husband want her to work in an office?\nBecause he thought\nteaching was not a job.\nteaching was less paid.\npeople did not like teaching.\nDiscuss with your partner why Shahana wanted to be a teacher and\nwrite a short composition about it.\nLesson 2: A Teacher(2)\nKeywords: company, vacant, status, respect, in-laws\nacademic, admire, demonstrate, inspire, corridor\nRead about Ms Shahana Huda.\nShahana’s husband, Mr Zamil Huda, works ina company office. His firm\nhas a vacant position. On several days he told Shahana, “1 want you to\napply for the post.” But Shahana said, “Please don’t insist. I’m joining the\nlocal high school as a teacher.” “What do you find in a teaching job,\nShahana? I don’t want you to do it.” Her in-laws were also on his side.\nYet Shahana joined the school against the will of the family.\nWeeks and months went by. Every day Shahana helps in household works.\nEvery day she works hard to prepare her lessons. Every day she goes\nto school, teaches her students and helps both weak and bright ones. They\noften come to her in the teachers’ room, in the corridor and even on the\nroad, and talk to her about any academic or personal problems.",
+  "aiReadyText": "She got GPA 4 in her\nShe took a break of one year\nto get training to become a teacher.\nto take care of her daughter.\nto take a BA degree.\nWhy did Shahana’s husband want her to work in an office?\nBecause he thought\nteaching was not a job.\nteaching was less paid.\npeople did not like teaching.\nwrite a short composition about it.\nLesson 2: A Teacher(2)\nKeywords: company, vacant, status, respect, in-laws\nacademic, admire, demonstrate, inspire, corridor\nRead about Ms Shahana Huda.\nShahana’s husband, Mr Zamil Huda, works ina company office. His firm\nhas a vacant position. On several days he told Shahana, “1 want you to\napply for the post.” But Shahana said, “Please don’t insist. I’m joining the\nlocal high school as a teacher.” “What do you find in a teaching job,\nShahana? I don’t want you to do it.” Her in-laws were also on his side.\nYet Shahana joined the school against the will of the family.\nWeeks and months went by. Every day Shahana helps in household works.\nEvery day she works hard to prepare her lessons. Every day she goes\nto school, teaches her students and helps both weak and bright ones. They\noften come to her in the teachers’ room, in the corridor and even on the\nroad, and talk to her about any academic or personal problems."
+}

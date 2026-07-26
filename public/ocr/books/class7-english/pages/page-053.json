@@ -1,0 +1,269 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 53,
+  "image": "/ocr/books/class7-english/page-images/page-053.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Five",
+      "cleanText": "Unit Five",
+      "bbox": {
+        "x": 620,
+        "y": 233,
+        "width": 120,
+        "height": 21
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-053-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Great Women to Remember",
+      "cleanText": "Great Women to Remember",
+      "bbox": {
+        "x": 453,
+        "y": 297,
+        "width": 462,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-053-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Learning outcomes",
+      "cleanText": "Learning outcomes",
+      "bbox": {
+        "x": 187,
+        "y": 1223,
+        "width": 222,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-053-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "bbox": {
+        "x": 266,
+        "y": 1269,
+        "width": 572,
+        "height": 23
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-053-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "ask and answer questions",
+      "cleanText": "ask and answer questions",
+      "bbox": {
+        "x": 345,
+        "y": 1315,
+        "width": 276,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-053-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "talk about people",
+      "cleanText": "talk about people",
+      "bbox": {
+        "x": 345,
+        "y": 1362,
+        "width": 187,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-053-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "read and understand texts",
+      "cleanText": "read and understand texts",
+      "bbox": {
+        "x": 345,
+        "y": 1408,
+        "width": 277,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-053-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "write answers to questions",
+      "cleanText": "write answers to questions",
+      "bbox": {
+        "x": 344,
+        "y": 1455,
+        "width": 289,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-053-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "write short paragraphs and compositions",
+      "cleanText": "write short paragraphs and compositions",
+      "bbox": {
+        "x": 345,
+        "y": 1502,
+        "width": 443,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-053-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "understand and enjoy stories, poems, and other text materials",
+      "cleanText": "understand and enjoy stories, poems, and other text materials",
+      "bbox": {
+        "x": 349,
+        "y": 1543,
+        "width": 703,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-053-line-010",
+      "lineNumber": 10
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-053-line-002",
+      "lineNumber": 2,
+      "text": "Great Women to Remember",
+      "bbox": {
+        "x": 453,
+        "y": 297,
+        "width": 462,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-053-line-003",
+      "lineNumber": 3,
+      "text": "Learning outcomes",
+      "bbox": {
+        "x": 187,
+        "y": 1223,
+        "width": 222,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-053-line-004",
+      "lineNumber": 4,
+      "text": "After we have studied this unit, we will be able to",
+      "bbox": {
+        "x": 266,
+        "y": 1269,
+        "width": 572,
+        "height": 23
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-053-line-005",
+      "lineNumber": 5,
+      "text": "ask and answer questions",
+      "bbox": {
+        "x": 345,
+        "y": 1315,
+        "width": 276,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-053-line-007",
+      "lineNumber": 7,
+      "text": "read and understand texts",
+      "bbox": {
+        "x": 345,
+        "y": 1408,
+        "width": 277,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-053-line-008",
+      "lineNumber": 8,
+      "text": "write answers to questions",
+      "bbox": {
+        "x": 344,
+        "y": 1455,
+        "width": 289,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-053-line-009",
+      "lineNumber": 9,
+      "text": "write short paragraphs and compositions",
+      "bbox": {
+        "x": 345,
+        "y": 1502,
+        "width": 443,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-053-line-010",
+      "lineNumber": 10,
+      "text": "understand and enjoy stories, poems, and other text materials",
+      "bbox": {
+        "x": 349,
+        "y": 1543,
+        "width": 703,
+        "height": 26
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Five\nGreat Women to Remember\nLearning outcomes\nAfter we have studied this unit, we will be able to\nask and answer questions\ntalk about people\nread and understand texts\nwrite answers to questions\nwrite short paragraphs and compositions\nunderstand and enjoy stories, poems, and other text materials",
+  "cleanText": "Unit Five\nGreat Women to Remember\nLearning outcomes\nAfter we have studied this unit, we will be able to\nask and answer questions\ntalk about people\nread and understand texts\nwrite answers to questions\nwrite short paragraphs and compositions\nunderstand and enjoy stories, poems, and other text materials",
+  "aiReadyText": "Great Women to Remember\nLearning outcomes\nAfter we have studied this unit, we will be able to\nask and answer questions\nread and understand texts\nwrite answers to questions\nwrite short paragraphs and compositions\nunderstand and enjoy stories, poems, and other text materials"
+}

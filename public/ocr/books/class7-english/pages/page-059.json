@@ -1,0 +1,831 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 59,
+  "image": "/ocr/books/class7-english/page-images/page-059.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "§ education self educated, learnt Bangla and",
+      "cleanText": "§ education self educated, learnt Bangla and",
+      "bbox": {
+        "x": 293,
+        "y": 328,
+        "width": 583,
+        "height": 23
+      },
+      "confidence": 91.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "English from brother",
+      "cleanText": "English from brother",
+      "bbox": {
+        "x": 541,
+        "y": 358,
+        "width": 219,
+        "height": 23
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "6 aim in life to help disabled people",
+      "cleanText": "6 aim in life to help disabled people",
+      "bbox": {
+        "x": 293,
+        "y": 388,
+        "width": 840,
+        "height": 24
+      },
+      "confidence": 95.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "to learn",
+      "cleanText": "to learn",
+      "bbox": {
+        "x": 897,
+        "y": 418,
+        "width": 79,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-059-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "7 achievements",
+      "cleanText": "7 achievements",
+      "bbox": {
+        "x": 293,
+        "y": 451,
+        "width": 175,
+        "height": 18
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "8 death",
+      "cleanText": "8 death",
+      "bbox": {
+        "x": 293,
+        "y": 486,
+        "width": 87,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-059-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Now read the completed chart and write one or two sentences for each",
+      "cleanText": "Now read the completed chart and write one or two sentences for each",
+      "bbox": {
+        "x": 333,
+        "y": 561,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "of the 8 points in the chart. Look at the examples.",
+      "cleanText": "of the 8 points in the chart. Look at the examples.",
+      "bbox": {
+        "x": 330,
+        "y": 594,
+        "width": 580,
+        "height": 25
+      },
+      "confidence": 95.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Point I: Begum Rokeya was born in 1880. Helen Keller was also",
+      "cleanText": "Point I: Begum Rokeya was born in 1880. Helen Keller was also",
+      "bbox": {
+        "x": 333,
+        "y": 652,
+        "width": 824,
+        "height": 25
+      },
+      "confidence": 92.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "born in 1880.",
+      "cleanText": "born in 1880.",
+      "bbox": {
+        "x": 491,
+        "y": 684,
+        "width": 146,
+        "height": 21
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-059-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Begum Rokeya was self educated and learnt Bangla and",
+      "cleanText": "Begum Rokeya was self educated and learnt Bangla and",
+      "bbox": {
+        "x": 491,
+        "y": 732,
+        "width": 667,
+        "height": 24
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "English from her brother. But Helen Keller got formal",
+      "cleanText": "English from her brother. But Helen Keller got formal",
+      "bbox": {
+        "x": 489,
+        "y": 764,
+        "width": 671,
+        "height": 25
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "education from school and college.",
+      "cleanText": "education from school and college.",
+      "bbox": {
+        "x": 491,
+        "y": 797,
+        "width": 392,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Notice: In point 1, is used when the same information is used.",
+      "cleanText": "Notice: In point 1, is used when the same information is used.",
+      "bbox": {
+        "x": 366,
+        "y": 858,
+        "width": 737,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "In 5, but is used when different pieces of information are used.",
+      "cleanText": "In 5, but is used when different pieces of information are used.",
+      "bbox": {
+        "x": 460,
+        "y": 905,
+        "width": 687,
+        "height": 24
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Use the information / facts about Florence Nightingale and write",
+      "cleanText": "Use the information / facts about Florence Nightingale and write",
+      "bbox": {
+        "x": 334,
+        "y": 977,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 94.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "a composition about her.",
+      "cleanText": "a composition about her.",
+      "bbox": {
+        "x": 333,
+        "y": 1010,
+        "width": 289,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "¢ Bom-1820, Florence, Italy",
+      "cleanText": "¢ Bom-1820, Florence, Italy",
+      "bbox": {
+        "x": 334,
+        "y": 1065,
+        "width": 335,
+        "height": 25
+      },
+      "confidence": 80.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "¢ Parents - rich - father landlord",
+      "cleanText": "¢ Parents - rich - father landlord",
+      "bbox": {
+        "x": 334,
+        "y": 1107,
+        "width": 365,
+        "height": 20
+      },
+      "confidence": 84.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "¢ Studied nursing at Nurses’ Training",
+      "cleanText": "¢ Studied nursing at Nurses’ Training",
+      "bbox": {
+        "x": 334,
+        "y": 1150,
+        "width": 430,
+        "height": 25
+      },
+      "confidence": 91.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Institute, Germany",
+      "cleanText": "Institute, Germany",
+      "bbox": {
+        "x": 372,
+        "y": 1183,
+        "width": 204,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "First job - in a London hospital",
+      "cleanText": "First job - in a London hospital",
+      "bbox": {
+        "x": 361,
+        "y": 1221,
+        "width": 349,
+        "height": 34
+      },
+      "confidence": 90.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "¢ Went to Turkey with a group of 38 nurses",
+      "cleanText": "¢ Went to Turkey with a group of 38 nurses",
+      "bbox": {
+        "x": 334,
+        "y": 1268,
+        "width": 497,
+        "height": 24
+      },
+      "confidence": 90.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "to work for the sick British soldiers during",
+      "cleanText": "to work for the sick British soldiers during",
+      "bbox": {
+        "x": 372,
+        "y": 1301,
+        "width": 467,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "the Crimean War (1853-56)",
+      "cleanText": "the Crimean War (1853-56)",
+      "bbox": {
+        "x": 372,
+        "y": 1334,
+        "width": 310,
+        "height": 24
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "¢ Worked day and night to help the wounded",
+      "cleanText": "¢ Worked day and night to help the wounded",
+      "bbox": {
+        "x": 334,
+        "y": 1376,
+        "width": 511,
+        "height": 25
+      },
+      "confidence": 87.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "soldiers",
+      "cleanText": "soldiers",
+      "bbox": {
+        "x": 373,
+        "y": 1409,
+        "width": 83,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-059-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "¢ Returned to England :the Lady with",
+      "cleanText": "¢ Returned to England :the Lady with",
+      "bbox": {
+        "x": 334,
+        "y": 1451,
+        "width": 498,
+        "height": 25
+      },
+      "confidence": 83.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "the Lamp by the Times - role in nursing",
+      "cleanText": "the Lamp by the Times - role in nursing",
+      "bbox": {
+        "x": 371,
+        "y": 1484,
+        "width": 444,
+        "height": 26
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "¢ Set up Nightingale School for nurses in London",
+      "cleanText": "¢ Set up Nightingale School for nurses in London",
+      "bbox": {
+        "x": 334,
+        "y": 1527,
+        "width": 562,
+        "height": 25
+      },
+      "confidence": 91.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "Died-13 August 1910",
+      "cleanText": "Died-13 August 1910",
+      "bbox": {
+        "x": 373,
+        "y": 1569,
+        "width": 242,
+        "height": 25
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-059-line-031",
+      "lineNumber": 31
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-059-line-001",
+      "lineNumber": 1,
+      "text": "§ education self educated, learnt Bangla and",
+      "bbox": {
+        "x": 293,
+        "y": 328,
+        "width": 583,
+        "height": 23
+      },
+      "confidence": 91.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-002",
+      "lineNumber": 2,
+      "text": "English from brother",
+      "bbox": {
+        "x": 541,
+        "y": 358,
+        "width": 219,
+        "height": 23
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-003",
+      "lineNumber": 3,
+      "text": "6 aim in life to help disabled people",
+      "bbox": {
+        "x": 293,
+        "y": 388,
+        "width": 840,
+        "height": 24
+      },
+      "confidence": 95.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-005",
+      "lineNumber": 5,
+      "text": "7 achievements",
+      "bbox": {
+        "x": 293,
+        "y": 451,
+        "width": 175,
+        "height": 18
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-007",
+      "lineNumber": 7,
+      "text": "Now read the completed chart and write one or two sentences for each",
+      "bbox": {
+        "x": 333,
+        "y": 561,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-008",
+      "lineNumber": 8,
+      "text": "of the 8 points in the chart. Look at the examples.",
+      "bbox": {
+        "x": 330,
+        "y": 594,
+        "width": 580,
+        "height": 25
+      },
+      "confidence": 95.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-009",
+      "lineNumber": 9,
+      "text": "Point I: Begum Rokeya was born in 1880. Helen Keller was also",
+      "bbox": {
+        "x": 333,
+        "y": 652,
+        "width": 824,
+        "height": 25
+      },
+      "confidence": 92.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-011",
+      "lineNumber": 11,
+      "text": "Begum Rokeya was self educated and learnt Bangla and",
+      "bbox": {
+        "x": 491,
+        "y": 732,
+        "width": 667,
+        "height": 24
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-012",
+      "lineNumber": 12,
+      "text": "English from her brother. But Helen Keller got formal",
+      "bbox": {
+        "x": 489,
+        "y": 764,
+        "width": 671,
+        "height": 25
+      },
+      "confidence": 93.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-013",
+      "lineNumber": 13,
+      "text": "education from school and college.",
+      "bbox": {
+        "x": 491,
+        "y": 797,
+        "width": 392,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-014",
+      "lineNumber": 14,
+      "text": "Notice: In point 1, is used when the same information is used.",
+      "bbox": {
+        "x": 366,
+        "y": 858,
+        "width": 737,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-015",
+      "lineNumber": 15,
+      "text": "In 5, but is used when different pieces of information are used.",
+      "bbox": {
+        "x": 460,
+        "y": 905,
+        "width": 687,
+        "height": 24
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-016",
+      "lineNumber": 16,
+      "text": "Use the information / facts about Florence Nightingale and write",
+      "bbox": {
+        "x": 334,
+        "y": 977,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 94.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-017",
+      "lineNumber": 17,
+      "text": "a composition about her.",
+      "bbox": {
+        "x": 333,
+        "y": 1010,
+        "width": 289,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-018",
+      "lineNumber": 18,
+      "text": "¢ Bom-1820, Florence, Italy",
+      "bbox": {
+        "x": 334,
+        "y": 1065,
+        "width": 335,
+        "height": 25
+      },
+      "confidence": 80.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-019",
+      "lineNumber": 19,
+      "text": "¢ Parents - rich - father landlord",
+      "bbox": {
+        "x": 334,
+        "y": 1107,
+        "width": 365,
+        "height": 20
+      },
+      "confidence": 84.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-020",
+      "lineNumber": 20,
+      "text": "¢ Studied nursing at Nurses’ Training",
+      "bbox": {
+        "x": 334,
+        "y": 1150,
+        "width": 430,
+        "height": 25
+      },
+      "confidence": 91.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-021",
+      "lineNumber": 21,
+      "text": "Institute, Germany",
+      "bbox": {
+        "x": 372,
+        "y": 1183,
+        "width": 204,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-022",
+      "lineNumber": 22,
+      "text": "First job - in a London hospital",
+      "bbox": {
+        "x": 361,
+        "y": 1221,
+        "width": 349,
+        "height": 34
+      },
+      "confidence": 90.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-023",
+      "lineNumber": 23,
+      "text": "¢ Went to Turkey with a group of 38 nurses",
+      "bbox": {
+        "x": 334,
+        "y": 1268,
+        "width": 497,
+        "height": 24
+      },
+      "confidence": 90.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-024",
+      "lineNumber": 24,
+      "text": "to work for the sick British soldiers during",
+      "bbox": {
+        "x": 372,
+        "y": 1301,
+        "width": 467,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-025",
+      "lineNumber": 25,
+      "text": "the Crimean War (1853-56)",
+      "bbox": {
+        "x": 372,
+        "y": 1334,
+        "width": 310,
+        "height": 24
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-026",
+      "lineNumber": 26,
+      "text": "¢ Worked day and night to help the wounded",
+      "bbox": {
+        "x": 334,
+        "y": 1376,
+        "width": 511,
+        "height": 25
+      },
+      "confidence": 87.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-028",
+      "lineNumber": 28,
+      "text": "¢ Returned to England :the Lady with",
+      "bbox": {
+        "x": 334,
+        "y": 1451,
+        "width": 498,
+        "height": 25
+      },
+      "confidence": 83.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-029",
+      "lineNumber": 29,
+      "text": "the Lamp by the Times - role in nursing",
+      "bbox": {
+        "x": 371,
+        "y": 1484,
+        "width": 444,
+        "height": 26
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-030",
+      "lineNumber": 30,
+      "text": "¢ Set up Nightingale School for nurses in London",
+      "bbox": {
+        "x": 334,
+        "y": 1527,
+        "width": 562,
+        "height": 25
+      },
+      "confidence": 91.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-059-line-031",
+      "lineNumber": 31,
+      "text": "Died-13 August 1910",
+      "bbox": {
+        "x": 373,
+        "y": 1569,
+        "width": 242,
+        "height": 25
+      },
+      "confidence": 93.67,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "§ education self educated, learnt Bangla and\nEnglish from brother\n6 aim in life to help disabled people\nto learn\n7 achievements\n8 death\nNow read the completed chart and write one or two sentences for each\nof the 8 points in the chart. Look at the examples.\nPoint I: Begum Rokeya was born in 1880. Helen Keller was also\nborn in 1880.\nBegum Rokeya was self educated and learnt Bangla and\nEnglish from her brother. But Helen Keller got formal\neducation from school and college.\nNotice: In point 1, is used when the same information is used.\nIn 5, but is used when different pieces of information are used.\nUse the information / facts about Florence Nightingale and write\na composition about her.\n¢ Bom-1820, Florence, Italy\n¢ Parents - rich - father landlord\n¢ Studied nursing at Nurses’ Training\nInstitute, Germany\nFirst job - in a London hospital\n¢ Went to Turkey with a group of 38 nurses\nto work for the sick British soldiers during\nthe Crimean War (1853-56)\n¢ Worked day and night to help the wounded\nsoldiers\n¢ Returned to England :the Lady with\nthe Lamp by the Times - role in nursing\n¢ Set up Nightingale School for nurses in London\nDied-13 August 1910",
+  "cleanText": "§ education self educated, learnt Bangla and\nEnglish from brother\n6 aim in life to help disabled people\nto learn\n7 achievements\n8 death\nNow read the completed chart and write one or two sentences for each\nof the 8 points in the chart. Look at the examples.\nPoint I: Begum Rokeya was born in 1880. Helen Keller was also\nborn in 1880.\nBegum Rokeya was self educated and learnt Bangla and\nEnglish from her brother. But Helen Keller got formal\neducation from school and college.\nNotice: In point 1, is used when the same information is used.\nIn 5, but is used when different pieces of information are used.\nUse the information / facts about Florence Nightingale and write\na composition about her.\n¢ Bom-1820, Florence, Italy\n¢ Parents - rich - father landlord\n¢ Studied nursing at Nurses’ Training\nInstitute, Germany\nFirst job - in a London hospital\n¢ Went to Turkey with a group of 38 nurses\nto work for the sick British soldiers during\nthe Crimean War (1853-56)\n¢ Worked day and night to help the wounded\nsoldiers\n¢ Returned to England :the Lady with\nthe Lamp by the Times - role in nursing\n¢ Set up Nightingale School for nurses in London\nDied-13 August 1910",
+  "aiReadyText": "§ education self educated, learnt Bangla and\nEnglish from brother\n6 aim in life to help disabled people\n7 achievements\nNow read the completed chart and write one or two sentences for each\nof the 8 points in the chart. Look at the examples.\nPoint I: Begum Rokeya was born in 1880. Helen Keller was also\nBegum Rokeya was self educated and learnt Bangla and\nEnglish from her brother. But Helen Keller got formal\neducation from school and college.\nNotice: In point 1, is used when the same information is used.\nIn 5, but is used when different pieces of information are used.\nUse the information / facts about Florence Nightingale and write\na composition about her.\n¢ Bom-1820, Florence, Italy\n¢ Parents - rich - father landlord\n¢ Studied nursing at Nurses’ Training\nInstitute, Germany\nFirst job - in a London hospital\n¢ Went to Turkey with a group of 38 nurses\nto work for the sick British soldiers during\nthe Crimean War (1853-56)\n¢ Worked day and night to help the wounded\n¢ Returned to England :the Lady with\nthe Lamp by the Times - role in nursing\n¢ Set up Nightingale School for nurses in London\nDied-13 August 1910"
+}

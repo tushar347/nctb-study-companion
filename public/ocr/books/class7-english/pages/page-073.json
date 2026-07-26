@@ -1,0 +1,743 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 73,
+  "image": "/ocr/books/class7-english/page-images/page-073.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "68 ENGLISH FOR TODAY",
+      "cleanText": "68 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 202,
+        "y": 259,
+        "width": 917,
+        "height": 18
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 10: The Selfish Giant (3)",
+      "cleanText": "Lesson 10: The Selfish Giant (3)",
+      "bbox": {
+        "x": 201,
+        "y": 331,
+        "width": 418,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Keywords : perfume, sight, twitter",
+      "cleanText": "Keywords : perfume, sight, twitter",
+      "bbox": {
+        "x": 316,
+        "y": 383,
+        "width": 409,
+        "height": 25
+      },
+      "confidence": 92.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "A. Continue reading the story.",
+      "cleanText": "Continue reading the story.",
+      "bbox": {
+        "x": 202,
+        "y": 460,
+        "width": 398,
+        "height": 24
+      },
+      "confidence": 87.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "One morning, while the Giant was",
+      "cleanText": "One morning, while the Giant was",
+      "bbox": {
+        "x": 282,
+        "y": 509,
+        "width": 362,
+        "height": 24
+      },
+      "confidence": 96.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "lying awake on bed, he heard some",
+      "cleanText": "lying awake on bed, he heard some",
+      "bbox": {
+        "x": 282,
+        "y": 541,
+        "width": 376,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "lovely music. It was so sweet to",
+      "cleanText": "lovely music. It was so sweet to",
+      "bbox": {
+        "x": 281,
+        "y": 576,
+        "width": 380,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "his ears that he thought it must be",
+      "cleanText": "his ears that he thought it must be",
+      "bbox": {
+        "x": 281,
+        "y": 615,
+        "width": 381,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "the King’s musicians passing by.",
+      "cleanText": "the King’s musicians passing by.",
+      "bbox": {
+        "x": 280,
+        "y": 653,
+        "width": 381,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "But in fact, it was only a little bird",
+      "cleanText": "But in fact, it was only a little bird",
+      "bbox": {
+        "x": 281,
+        "y": 688,
+        "width": 381,
+        "height": 33
+      },
+      "confidence": 94.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "singing outside his window. Then",
+      "cleanText": "singing outside his window. Then",
+      "bbox": {
+        "x": 281,
+        "y": 731,
+        "width": 381,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "the north wind stopped and a",
+      "cleanText": "the north wind stopped and a",
+      "bbox": {
+        "x": 280,
+        "y": 766,
+        "width": 382,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "delicious perfume came to him",
+      "cleanText": "delicious perfume came to him",
+      "bbox": {
+        "x": 281,
+        "y": 799,
+        "width": 381,
+        "height": 25
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "through the open window. “I believe the spring came at last,” said the",
+      "cleanText": "through the open window. “I believe the spring came at last,” said the",
+      "bbox": {
+        "x": 279,
+        "y": 841,
+        "width": 785,
+        "height": 25
+      },
+      "confidence": 95.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Giant. He jumped out of bed and looked out. What did he see?",
+      "cleanText": "Giant. He jumped out of bed and looked out. What did he see?",
+      "bbox": {
+        "x": 278,
+        "y": 883,
+        "width": 689,
+        "height": 25
+      },
+      "confidence": 95.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "He saw the most wonderful sight. Through a little hole in the wall the",
+      "cleanText": "He saw the most wonderful sight. Through a little hole in the wall the",
+      "bbox": {
+        "x": 280,
+        "y": 948,
+        "width": 826,
+        "height": 33
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "children crept in and they were sitting on the branches of the trees. In every",
+      "cleanText": "children crept in and they were sitting on the branches of the trees. In every",
+      "bbox": {
+        "x": 277,
+        "y": 994,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "tree there was a little child. And the trees were so delighted to have the",
+      "cleanText": "tree there was a little child. And the trees were so delighted to have the",
+      "bbox": {
+        "x": 279,
+        "y": 1035,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 95.53,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "children back again that they covered themselves with blossoms. They",
+      "cleanText": "children back again that they covered themselves with blossoms. They",
+      "bbox": {
+        "x": 277,
+        "y": 1077,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "were waving their arms gently above the children’s heads. The birds",
+      "cleanText": "were waving their arms gently above the children’s heads. The birds",
+      "bbox": {
+        "x": 274,
+        "y": 1118,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "were flying about and twittering delightfully. The flowers were looking",
+      "cleanText": "were flying about and twittering delightfully. The flowers were looking",
+      "bbox": {
+        "x": 278,
+        "y": 1160,
+        "width": 830,
+        "height": 26
+      },
+      "confidence": 90.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "up through the green grass and laughing.",
+      "cleanText": "up through the green grass and laughing.",
+      "bbox": {
+        "x": 279,
+        "y": 1197,
+        "width": 445,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "But only in one corner of the garden, it was still winter. There, under a tree,",
+      "cleanText": "But only in one corner of the garden, it was still winter. There, under a tree,",
+      "bbox": {
+        "x": 279,
+        "y": 1257,
+        "width": 835,
+        "height": 33
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "a little Boy was crying standing alone. He was so small that he could not",
+      "cleanText": "a little Boy was crying standing alone. He was so small that he could not",
+      "bbox": {
+        "x": 278,
+        "y": 1303,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 93.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "reach up to the branches of the tree. The poor tree was still covered",
+      "cleanText": "reach up to the branches of the tree. The poor tree was still covered",
+      "bbox": {
+        "x": 277,
+        "y": 1345,
+        "width": 830,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "with snow, and the north wind was blowing above it.",
+      "cleanText": "with snow, and the north wind was blowing above it.",
+      "bbox": {
+        "x": 278,
+        "y": 1385,
+        "width": 600,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-073-line-026",
+      "lineNumber": 26
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-073-line-001",
+      "lineNumber": 1,
+      "text": "68 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 202,
+        "y": 259,
+        "width": 917,
+        "height": 18
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 10: The Selfish Giant (3)",
+      "bbox": {
+        "x": 201,
+        "y": 331,
+        "width": 418,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-003",
+      "lineNumber": 3,
+      "text": "Keywords : perfume, sight, twitter",
+      "bbox": {
+        "x": 316,
+        "y": 383,
+        "width": 409,
+        "height": 25
+      },
+      "confidence": 92.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-004",
+      "lineNumber": 4,
+      "text": "Continue reading the story.",
+      "bbox": {
+        "x": 202,
+        "y": 460,
+        "width": 398,
+        "height": 24
+      },
+      "confidence": 87.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-005",
+      "lineNumber": 5,
+      "text": "One morning, while the Giant was",
+      "bbox": {
+        "x": 282,
+        "y": 509,
+        "width": 362,
+        "height": 24
+      },
+      "confidence": 96.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-006",
+      "lineNumber": 6,
+      "text": "lying awake on bed, he heard some",
+      "bbox": {
+        "x": 282,
+        "y": 541,
+        "width": 376,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-007",
+      "lineNumber": 7,
+      "text": "lovely music. It was so sweet to",
+      "bbox": {
+        "x": 281,
+        "y": 576,
+        "width": 380,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-008",
+      "lineNumber": 8,
+      "text": "his ears that he thought it must be",
+      "bbox": {
+        "x": 281,
+        "y": 615,
+        "width": 381,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-009",
+      "lineNumber": 9,
+      "text": "the King’s musicians passing by.",
+      "bbox": {
+        "x": 280,
+        "y": 653,
+        "width": 381,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-010",
+      "lineNumber": 10,
+      "text": "But in fact, it was only a little bird",
+      "bbox": {
+        "x": 281,
+        "y": 688,
+        "width": 381,
+        "height": 33
+      },
+      "confidence": 94.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-011",
+      "lineNumber": 11,
+      "text": "singing outside his window. Then",
+      "bbox": {
+        "x": 281,
+        "y": 731,
+        "width": 381,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-012",
+      "lineNumber": 12,
+      "text": "the north wind stopped and a",
+      "bbox": {
+        "x": 280,
+        "y": 766,
+        "width": 382,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-013",
+      "lineNumber": 13,
+      "text": "delicious perfume came to him",
+      "bbox": {
+        "x": 281,
+        "y": 799,
+        "width": 381,
+        "height": 25
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-014",
+      "lineNumber": 14,
+      "text": "through the open window. “I believe the spring came at last,” said the",
+      "bbox": {
+        "x": 279,
+        "y": 841,
+        "width": 785,
+        "height": 25
+      },
+      "confidence": 95.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-015",
+      "lineNumber": 15,
+      "text": "Giant. He jumped out of bed and looked out. What did he see?",
+      "bbox": {
+        "x": 278,
+        "y": 883,
+        "width": 689,
+        "height": 25
+      },
+      "confidence": 95.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-016",
+      "lineNumber": 16,
+      "text": "He saw the most wonderful sight. Through a little hole in the wall the",
+      "bbox": {
+        "x": 280,
+        "y": 948,
+        "width": 826,
+        "height": 33
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-017",
+      "lineNumber": 17,
+      "text": "children crept in and they were sitting on the branches of the trees. In every",
+      "bbox": {
+        "x": 277,
+        "y": 994,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-018",
+      "lineNumber": 18,
+      "text": "tree there was a little child. And the trees were so delighted to have the",
+      "bbox": {
+        "x": 279,
+        "y": 1035,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 95.53,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-019",
+      "lineNumber": 19,
+      "text": "children back again that they covered themselves with blossoms. They",
+      "bbox": {
+        "x": 277,
+        "y": 1077,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-020",
+      "lineNumber": 20,
+      "text": "were waving their arms gently above the children’s heads. The birds",
+      "bbox": {
+        "x": 274,
+        "y": 1118,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-021",
+      "lineNumber": 21,
+      "text": "were flying about and twittering delightfully. The flowers were looking",
+      "bbox": {
+        "x": 278,
+        "y": 1160,
+        "width": 830,
+        "height": 26
+      },
+      "confidence": 90.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-022",
+      "lineNumber": 22,
+      "text": "up through the green grass and laughing.",
+      "bbox": {
+        "x": 279,
+        "y": 1197,
+        "width": 445,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-023",
+      "lineNumber": 23,
+      "text": "But only in one corner of the garden, it was still winter. There, under a tree,",
+      "bbox": {
+        "x": 279,
+        "y": 1257,
+        "width": 835,
+        "height": 33
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-024",
+      "lineNumber": 24,
+      "text": "a little Boy was crying standing alone. He was so small that he could not",
+      "bbox": {
+        "x": 278,
+        "y": 1303,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 93.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-025",
+      "lineNumber": 25,
+      "text": "reach up to the branches of the tree. The poor tree was still covered",
+      "bbox": {
+        "x": 277,
+        "y": 1345,
+        "width": 830,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-073-line-026",
+      "lineNumber": 26,
+      "text": "with snow, and the north wind was blowing above it.",
+      "bbox": {
+        "x": 278,
+        "y": 1385,
+        "width": 600,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "68 ENGLISH FOR TODAY\nLesson 10: The Selfish Giant (3)\nKeywords : perfume, sight, twitter\nA. Continue reading the story.\nOne morning, while the Giant was\nlying awake on bed, he heard some\nlovely music. It was so sweet to\nhis ears that he thought it must be\nthe King’s musicians passing by.\nBut in fact, it was only a little bird\nsinging outside his window. Then\nthe north wind stopped and a\ndelicious perfume came to him\nthrough the open window. “I believe the spring came at last,” said the\nGiant. He jumped out of bed and looked out. What did he see?\nHe saw the most wonderful sight. Through a little hole in the wall the\nchildren crept in and they were sitting on the branches of the trees. In every\ntree there was a little child. And the trees were so delighted to have the\nchildren back again that they covered themselves with blossoms. They\nwere waving their arms gently above the children’s heads. The birds\nwere flying about and twittering delightfully. The flowers were looking\nup through the green grass and laughing.\nBut only in one corner of the garden, it was still winter. There, under a tree,\na little Boy was crying standing alone. He was so small that he could not\nreach up to the branches of the tree. The poor tree was still covered\nwith snow, and the north wind was blowing above it.",
+  "cleanText": "68 ENGLISH FOR TODAY\nLesson 10: The Selfish Giant (3)\nKeywords : perfume, sight, twitter\nContinue reading the story.\nOne morning, while the Giant was\nlying awake on bed, he heard some\nlovely music. It was so sweet to\nhis ears that he thought it must be\nthe King’s musicians passing by.\nBut in fact, it was only a little bird\nsinging outside his window. Then\nthe north wind stopped and a\ndelicious perfume came to him\nthrough the open window. “I believe the spring came at last,” said the\nGiant. He jumped out of bed and looked out. What did he see?\nHe saw the most wonderful sight. Through a little hole in the wall the\nchildren crept in and they were sitting on the branches of the trees. In every\ntree there was a little child. And the trees were so delighted to have the\nchildren back again that they covered themselves with blossoms. They\nwere waving their arms gently above the children’s heads. The birds\nwere flying about and twittering delightfully. The flowers were looking\nup through the green grass and laughing.\nBut only in one corner of the garden, it was still winter. There, under a tree,\na little Boy was crying standing alone. He was so small that he could not\nreach up to the branches of the tree. The poor tree was still covered\nwith snow, and the north wind was blowing above it.",
+  "aiReadyText": "68 ENGLISH FOR TODAY\nLesson 10: The Selfish Giant (3)\nKeywords : perfume, sight, twitter\nContinue reading the story.\nOne morning, while the Giant was\nlying awake on bed, he heard some\nlovely music. It was so sweet to\nhis ears that he thought it must be\nthe King’s musicians passing by.\nBut in fact, it was only a little bird\nsinging outside his window. Then\nthe north wind stopped and a\ndelicious perfume came to him\nthrough the open window. “I believe the spring came at last,” said the\nGiant. He jumped out of bed and looked out. What did he see?\nHe saw the most wonderful sight. Through a little hole in the wall the\nchildren crept in and they were sitting on the branches of the trees. In every\ntree there was a little child. And the trees were so delighted to have the\nchildren back again that they covered themselves with blossoms. They\nwere waving their arms gently above the children’s heads. The birds\nwere flying about and twittering delightfully. The flowers were looking\nup through the green grass and laughing.\nBut only in one corner of the garden, it was still winter. There, under a tree,\na little Boy was crying standing alone. He was so small that he could not\nreach up to the branches of the tree. The poor tree was still covered\nwith snow, and the north wind was blowing above it."
+}

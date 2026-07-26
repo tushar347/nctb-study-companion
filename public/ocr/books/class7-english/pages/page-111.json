@@ -1,0 +1,775 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 111,
+  "image": "/ocr/books/class7-english/page-images/page-111.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Match the sentence parts in A with those in B.",
+      "cleanText": "Match the sentence parts in A with those in B.",
+      "bbox": {
+        "x": 281,
+        "y": 290,
+        "width": 622,
+        "height": 29
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "If I have shorter showers I will",
+      "cleanText": "If I have shorter showers I will",
+      "bbox": {
+        "x": 324,
+        "y": 384,
+        "width": 322,
+        "height": 32
+      },
+      "confidence": 92.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "will keep me warm in winter.",
+      "cleanText": "will keep me warm in winter.",
+      "bbox": {
+        "x": 778,
+        "y": 388,
+        "width": 308,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "1 can help keep cars off the road",
+      "cleanText": "1 can help keep cars off the road",
+      "bbox": {
+        "x": 324,
+        "y": 432,
+        "width": 336,
+        "height": 24
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "the waste I make.",
+      "cleanText": "the waste I make.",
+      "bbox": {
+        "x": 778,
+        "y": 432,
+        "width": 182,
+        "height": 19
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "When I leave a room [ can save",
+      "cleanText": "When I leave a room [ can save",
+      "bbox": {
+        "x": 323,
+        "y": 476,
+        "width": 331,
+        "height": 19
+      },
+      "confidence": 92.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "choose products with less",
+      "cleanText": "choose products with less",
+      "bbox": {
+        "x": 778,
+        "y": 476,
+        "width": 291,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "packaging.",
+      "cleanText": "packaging.",
+      "bbox": {
+        "x": 779,
+        "y": 518,
+        "width": 113,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-111-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "energy by",
+      "cleanText": "energy by",
+      "bbox": {
+        "x": 323,
+        "y": 520,
+        "width": 103,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-111-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Putting on a jumper instead of the",
+      "cleanText": "Putting on a jumper instead of the",
+      "bbox": {
+        "x": 324,
+        "y": 564,
+        "width": 355,
+        "height": 24
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "plants that are good for",
+      "cleanText": "plants that are good for",
+      "bbox": {
+        "x": 778,
+        "y": 567,
+        "width": 244,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "environment.",
+      "cleanText": "environment.",
+      "bbox": {
+        "x": 778,
+        "y": 611,
+        "width": 137,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-111-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Plastic bags harm wildlife, instead I",
+      "cleanText": "Plastic bags harm wildlife, instead I",
+      "bbox": {
+        "x": 324,
+        "y": 652,
+        "width": 374,
+        "height": 24
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "use rechargeable ones.",
+      "cleanText": "use rechargeable ones.",
+      "bbox": {
+        "x": 778,
+        "y": 655,
+        "width": 235,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "use bags made of jute or paper.",
+      "cleanText": "use bags made of jute or paper.",
+      "bbox": {
+        "x": 778,
+        "y": 695,
+        "width": 326,
+        "height": 32
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "1 can dry my hair in the sun",
+      "cleanText": "1 can dry my hair in the sun",
+      "bbox": {
+        "x": 324,
+        "y": 740,
+        "width": 287,
+        "height": 24
+      },
+      "confidence": 84.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "turning the light off.",
+      "cleanText": "turning the light off.",
+      "bbox": {
+        "x": 778,
+        "y": 743,
+        "width": 211,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "1 can reduce, reuse, and recycle",
+      "cleanText": "1 can reduce, reuse, and recycle",
+      "bbox": {
+        "x": 324,
+        "y": 784,
+        "width": 329,
+        "height": 24
+      },
+      "confidence": 86.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "help save water at home.",
+      "cleanText": "help save water at home.",
+      "bbox": {
+        "x": 778,
+        "y": 787,
+        "width": 258,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "In my garden, | should plant",
+      "cleanText": "In my garden, | should plant",
+      "bbox": {
+        "x": 324,
+        "y": 828,
+        "width": 296,
+        "height": 24
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "by walking to school and shops.",
+      "cleanText": "by walking to school and shops.",
+      "bbox": {
+        "x": 778,
+        "y": 831,
+        "width": 336,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "without using a hair dryer.",
+      "cleanText": "without using a hair dryer.",
+      "bbox": {
+        "x": 778,
+        "y": 871,
+        "width": 277,
+        "height": 32
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "When [ am shopping, I should",
+      "cleanText": "When [ am shopping, I should",
+      "bbox": {
+        "x": 323,
+        "y": 872,
+        "width": 318,
+        "height": 24
+      },
+      "confidence": 88.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Batteries are highly toxic, if] need",
+      "cleanText": "Batteries are highly toxic, if] need",
+      "bbox": {
+        "x": 324,
+        "y": 916,
+        "width": 364,
+        "height": 24
+      },
+      "confidence": 89.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "to use batteries I can",
+      "cleanText": "to use batteries I can",
+      "bbox": {
+        "x": 323,
+        "y": 960,
+        "width": 215,
+        "height": 19
+      },
+      "confidence": 93.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "The people below are taking care of their home and car, but they are",
+      "cleanText": "The people below are taking care of their home and car, but they are",
+      "bbox": {
+        "x": 285,
+        "y": 1022,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "doing many things that can damage the environment, especially our",
+      "cleanText": "doing many things that can damage the environment, especially our",
+      "bbox": {
+        "x": 286,
+        "y": 1060,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "water. Identify the activities which you think may damage our",
+      "cleanText": "water. Identify the activities which you think may damage our",
+      "bbox": {
+        "x": 285,
+        "y": 1092,
+        "width": 830,
+        "height": 25
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-111-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "environment.",
+      "cleanText": "environment.",
+      "bbox": {
+        "x": 285,
+        "y": 1123,
+        "width": 155,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-111-line-029",
+      "lineNumber": 29
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-111-line-001",
+      "lineNumber": 1,
+      "text": "Match the sentence parts in A with those in B.",
+      "bbox": {
+        "x": 281,
+        "y": 290,
+        "width": 622,
+        "height": 29
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-002",
+      "lineNumber": 2,
+      "text": "If I have shorter showers I will",
+      "bbox": {
+        "x": 324,
+        "y": 384,
+        "width": 322,
+        "height": 32
+      },
+      "confidence": 92.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-003",
+      "lineNumber": 3,
+      "text": "will keep me warm in winter.",
+      "bbox": {
+        "x": 778,
+        "y": 388,
+        "width": 308,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-004",
+      "lineNumber": 4,
+      "text": "1 can help keep cars off the road",
+      "bbox": {
+        "x": 324,
+        "y": 432,
+        "width": 336,
+        "height": 24
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-005",
+      "lineNumber": 5,
+      "text": "the waste I make.",
+      "bbox": {
+        "x": 778,
+        "y": 432,
+        "width": 182,
+        "height": 19
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-006",
+      "lineNumber": 6,
+      "text": "When I leave a room [ can save",
+      "bbox": {
+        "x": 323,
+        "y": 476,
+        "width": 331,
+        "height": 19
+      },
+      "confidence": 92.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-007",
+      "lineNumber": 7,
+      "text": "choose products with less",
+      "bbox": {
+        "x": 778,
+        "y": 476,
+        "width": 291,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-010",
+      "lineNumber": 10,
+      "text": "Putting on a jumper instead of the",
+      "bbox": {
+        "x": 324,
+        "y": 564,
+        "width": 355,
+        "height": 24
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-011",
+      "lineNumber": 11,
+      "text": "plants that are good for",
+      "bbox": {
+        "x": 778,
+        "y": 567,
+        "width": 244,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-013",
+      "lineNumber": 13,
+      "text": "Plastic bags harm wildlife, instead I",
+      "bbox": {
+        "x": 324,
+        "y": 652,
+        "width": 374,
+        "height": 24
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-014",
+      "lineNumber": 14,
+      "text": "use rechargeable ones.",
+      "bbox": {
+        "x": 778,
+        "y": 655,
+        "width": 235,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-015",
+      "lineNumber": 15,
+      "text": "use bags made of jute or paper.",
+      "bbox": {
+        "x": 778,
+        "y": 695,
+        "width": 326,
+        "height": 32
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-016",
+      "lineNumber": 16,
+      "text": "1 can dry my hair in the sun",
+      "bbox": {
+        "x": 324,
+        "y": 740,
+        "width": 287,
+        "height": 24
+      },
+      "confidence": 84.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-017",
+      "lineNumber": 17,
+      "text": "turning the light off.",
+      "bbox": {
+        "x": 778,
+        "y": 743,
+        "width": 211,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-018",
+      "lineNumber": 18,
+      "text": "1 can reduce, reuse, and recycle",
+      "bbox": {
+        "x": 324,
+        "y": 784,
+        "width": 329,
+        "height": 24
+      },
+      "confidence": 86.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-019",
+      "lineNumber": 19,
+      "text": "help save water at home.",
+      "bbox": {
+        "x": 778,
+        "y": 787,
+        "width": 258,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-020",
+      "lineNumber": 20,
+      "text": "In my garden, | should plant",
+      "bbox": {
+        "x": 324,
+        "y": 828,
+        "width": 296,
+        "height": 24
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-021",
+      "lineNumber": 21,
+      "text": "by walking to school and shops.",
+      "bbox": {
+        "x": 778,
+        "y": 831,
+        "width": 336,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-022",
+      "lineNumber": 22,
+      "text": "without using a hair dryer.",
+      "bbox": {
+        "x": 778,
+        "y": 871,
+        "width": 277,
+        "height": 32
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-023",
+      "lineNumber": 23,
+      "text": "When [ am shopping, I should",
+      "bbox": {
+        "x": 323,
+        "y": 872,
+        "width": 318,
+        "height": 24
+      },
+      "confidence": 88.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-024",
+      "lineNumber": 24,
+      "text": "Batteries are highly toxic, if] need",
+      "bbox": {
+        "x": 324,
+        "y": 916,
+        "width": 364,
+        "height": 24
+      },
+      "confidence": 89.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-025",
+      "lineNumber": 25,
+      "text": "to use batteries I can",
+      "bbox": {
+        "x": 323,
+        "y": 960,
+        "width": 215,
+        "height": 19
+      },
+      "confidence": 93.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-026",
+      "lineNumber": 26,
+      "text": "The people below are taking care of their home and car, but they are",
+      "bbox": {
+        "x": 285,
+        "y": 1022,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-027",
+      "lineNumber": 27,
+      "text": "doing many things that can damage the environment, especially our",
+      "bbox": {
+        "x": 286,
+        "y": 1060,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-111-line-028",
+      "lineNumber": 28,
+      "text": "water. Identify the activities which you think may damage our",
+      "bbox": {
+        "x": 285,
+        "y": 1092,
+        "width": 830,
+        "height": 25
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Match the sentence parts in A with those in B.\nIf I have shorter showers I will\nwill keep me warm in winter.\n1 can help keep cars off the road\nthe waste I make.\nWhen I leave a room [ can save\nchoose products with less\npackaging.\nenergy by\nPutting on a jumper instead of the\nplants that are good for\nenvironment.\nPlastic bags harm wildlife, instead I\nuse rechargeable ones.\nuse bags made of jute or paper.\n1 can dry my hair in the sun\nturning the light off.\n1 can reduce, reuse, and recycle\nhelp save water at home.\nIn my garden, | should plant\nby walking to school and shops.\nwithout using a hair dryer.\nWhen [ am shopping, I should\nBatteries are highly toxic, if] need\nto use batteries I can\nThe people below are taking care of their home and car, but they are\ndoing many things that can damage the environment, especially our\nwater. Identify the activities which you think may damage our\nenvironment.",
+  "cleanText": "Match the sentence parts in A with those in B.\nIf I have shorter showers I will\nwill keep me warm in winter.\n1 can help keep cars off the road\nthe waste I make.\nWhen I leave a room [ can save\nchoose products with less\npackaging.\nenergy by\nPutting on a jumper instead of the\nplants that are good for\nenvironment.\nPlastic bags harm wildlife, instead I\nuse rechargeable ones.\nuse bags made of jute or paper.\n1 can dry my hair in the sun\nturning the light off.\n1 can reduce, reuse, and recycle\nhelp save water at home.\nIn my garden, | should plant\nby walking to school and shops.\nwithout using a hair dryer.\nWhen [ am shopping, I should\nBatteries are highly toxic, if] need\nto use batteries I can\nThe people below are taking care of their home and car, but they are\ndoing many things that can damage the environment, especially our\nwater. Identify the activities which you think may damage our\nenvironment.",
+  "aiReadyText": "Match the sentence parts in A with those in B.\nIf I have shorter showers I will\nwill keep me warm in winter.\n1 can help keep cars off the road\nthe waste I make.\nWhen I leave a room [ can save\nchoose products with less\nPutting on a jumper instead of the\nplants that are good for\nPlastic bags harm wildlife, instead I\nuse rechargeable ones.\nuse bags made of jute or paper.\n1 can dry my hair in the sun\nturning the light off.\n1 can reduce, reuse, and recycle\nhelp save water at home.\nIn my garden, | should plant\nby walking to school and shops.\nwithout using a hair dryer.\nWhen [ am shopping, I should\nBatteries are highly toxic, if] need\nto use batteries I can\nThe people below are taking care of their home and car, but they are\ndoing many things that can damage the environment, especially our\nwater. Identify the activities which you think may damage our"
+}

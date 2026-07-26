@@ -1,0 +1,760 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 116,
+  "image": "/ocr/books/class7-english/page-images/page-116.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Sample Question lil",
+      "cleanText": "Sample Question lil",
+      "bbox": {
+        "x": 198,
+        "y": 222,
+        "width": 907,
+        "height": 23
+      },
+      "confidence": 91.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Read the text and answer the questions 5, 6 & 7",
+      "cleanText": "Read the text and answer the questions 5, 6 & 7",
+      "bbox": {
+        "x": 239,
+        "y": 310,
+        "width": 620,
+        "height": 27
+      },
+      "confidence": 94.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "On May 29, 1953, Sir Edmund Hillary from New Zealand and Tenzing Norgay, a",
+      "cleanText": "On May 29, 1953, Sir Edmund Hillary from New Zealand and Tenzing Norgay, a",
+      "bbox": {
+        "x": 198,
+        "y": 353,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 95.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Sherpa climber from Nepal, became the first to successfully reach the summit of",
+      "cleanText": "Sherpa climber from Nepal, became the first to successfully reach the summit of",
+      "bbox": {
+        "x": 199,
+        "y": 384,
+        "width": 912,
+        "height": 24
+      },
+      "confidence": 95.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Mount Everest, the world's highest peak at 8,848 meters (29,029 feet). Their historic",
+      "cleanText": "Mount Everest, the world's highest peak at 8,848 meters (29,029 feet). Their historic",
+      "bbox": {
+        "x": 199,
+        "y": 416,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "climb was part of a British expedition led by John Hunt.",
+      "cleanText": "climb was part of a British expedition led by John Hunt.",
+      "bbox": {
+        "x": 198,
+        "y": 444,
+        "width": 591,
+        "height": 33
+      },
+      "confidence": 95.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "The journey to the top of Everest was extremely challenging. Harsh weather, freezing",
+      "cleanText": "The journey to the top of Everest was extremely challenging. Harsh weather, freezing",
+      "bbox": {
+        "x": 198,
+        "y": 480,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 95.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "temperatures, and thin air made the climb dangerous. However, with determination and",
+      "cleanText": "temperatures, and thin air made the climb dangerous. However, with determination and",
+      "bbox": {
+        "x": 198,
+        "y": 511,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "teamwork, Hillary and Tenzing managed to overcome these obstacles. Finally, after",
+      "cleanText": "teamwork, Hillary and Tenzing managed to overcome these obstacles. Finally, after",
+      "bbox": {
+        "x": 198,
+        "y": 543,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 95.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "weeks of climbing, they stood at the summit, becoming the first humans to conquer",
+      "cleanText": "weeks of climbing, they stood at the summit, becoming the first humans to conquer",
+      "bbox": {
+        "x": 198,
+        "y": 575,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Everest.",
+      "cleanText": "Everest.",
+      "bbox": {
+        "x": 199,
+        "y": 606,
+        "width": 82,
+        "height": 19
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-116-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Their achievement was celebrated worldwide. Edmund Hillary was later knighted by",
+      "cleanText": "Their achievement was celebrated worldwide. Edmund Hillary was later knighted by",
+      "bbox": {
+        "x": 198,
+        "y": 638,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Queen Elizabeth II, and Tenzing Norgay became an international hero. Their climb",
+      "cleanText": "Queen Elizabeth II, and Tenzing Norgay became an international hero. Their climb",
+      "bbox": {
+        "x": 198,
+        "y": 670,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "remains an inspiration for adventurers and mountaineers across the globe, proving that",
+      "cleanText": "remains an inspiration for adventurers and mountaineers across the globe, proving that",
+      "bbox": {
+        "x": 198,
+        "y": 701,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "with courage and perseverance, even the greatest heights can be reached.",
+      "cleanText": "with courage and perseverance, even the greatest heights can be reached.",
+      "bbox": {
+        "x": 198,
+        "y": 733,
+        "width": 767,
+        "height": 24
+      },
+      "confidence": 96.09,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "5. Complete the table with information from the passage.",
+      "cleanText": "Complete the table with information from the passage.",
+      "bbox": {
+        "x": 239,
+        "y": 789,
+        "width": 753,
+        "height": 28
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-116-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Who? Event When/where?",
+      "cleanText": "Who? Event When/where?",
+      "bbox": {
+        "x": 272,
+        "y": 935,
+        "width": 759,
+        "height": 33
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Sir Edmund Hillary G) on May 29, 1953.",
+      "cleanText": "Sir Edmund Hillary G) on May 29, 1953.",
+      "bbox": {
+        "x": 225,
+        "y": 1003,
+        "width": 784,
+        "height": 24
+      },
+      "confidence": 91.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "was his co-climber",
+      "cleanText": "was his co-climber",
+      "bbox": {
+        "x": 535,
+        "y": 1067,
+        "width": 198,
+        "height": 18
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "(ii)Finally ......... stood at the summit After weeks of climbing.",
+      "cleanText": "(ii)Finally ......... stood at the summit After weeks of climbing.",
+      "bbox": {
+        "x": 225,
+        "y": 1126,
+        "width": 845,
+        "height": 33
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Sir Edmund Hillary",
+      "cleanText": "Sir Edmund Hillary",
+      "bbox": {
+        "x": 239,
+        "y": 1193,
+        "width": 205,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Their achievement",
+      "cleanText": "Their achievement",
+      "bbox": {
+        "x": 237,
+        "y": 1257,
+        "width": 437,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "6. Read the statements below. Write ‘True’ if the statement is",
+      "cleanText": "Read the statements below. Write ‘True’ if the statement is",
+      "bbox": {
+        "x": 239,
+        "y": 1313,
+        "width": 868,
+        "height": 21
+      },
+      "confidence": 95.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "correct and ‘False’ if it is incorrect. If false, write the correct",
+      "cleanText": "correct and ‘False’ if it is incorrect. If false, write the correct",
+      "bbox": {
+        "x": 278,
+        "y": 1350,
+        "width": 830,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "answer. 1x5=5",
+      "cleanText": "answer. 1x5=5",
+      "bbox": {
+        "x": 278,
+        "y": 1384,
+        "width": 828,
+        "height": 34
+      },
+      "confidence": 90.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-116-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "(a) Mount Everest is 8,848 meters high.",
+      "cleanText": "(a) Mount Everest is 8,848 meters high.",
+      "bbox": {
+        "x": 308,
+        "y": 1429,
+        "width": 429,
+        "height": 24
+      },
+      "confidence": 94.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "(b) The expedition was led by Sir Edmund Hillary.",
+      "cleanText": "(b) The expedition was led by Sir Edmund Hillary.",
+      "bbox": {
+        "x": 305,
+        "y": 1468,
+        "width": 547,
+        "height": 25
+      },
+      "confidence": 95.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "(c) The climbers faced harsh weather, freezing temperatures, and thin air.",
+      "cleanText": "(c) The climbers faced harsh weather, freezing temperatures, and thin air.",
+      "bbox": {
+        "x": 310,
+        "y": 1508,
+        "width": 780,
+        "height": 24
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-116-line-028",
+      "lineNumber": 28
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-116-line-001",
+      "lineNumber": 1,
+      "text": "Sample Question lil",
+      "bbox": {
+        "x": 198,
+        "y": 222,
+        "width": 907,
+        "height": 23
+      },
+      "confidence": 91.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-002",
+      "lineNumber": 2,
+      "text": "Read the text and answer the questions 5, 6 & 7",
+      "bbox": {
+        "x": 239,
+        "y": 310,
+        "width": 620,
+        "height": 27
+      },
+      "confidence": 94.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-003",
+      "lineNumber": 3,
+      "text": "On May 29, 1953, Sir Edmund Hillary from New Zealand and Tenzing Norgay, a",
+      "bbox": {
+        "x": 198,
+        "y": 353,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 95.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-004",
+      "lineNumber": 4,
+      "text": "Sherpa climber from Nepal, became the first to successfully reach the summit of",
+      "bbox": {
+        "x": 199,
+        "y": 384,
+        "width": 912,
+        "height": 24
+      },
+      "confidence": 95.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-005",
+      "lineNumber": 5,
+      "text": "Mount Everest, the world's highest peak at 8,848 meters (29,029 feet). Their historic",
+      "bbox": {
+        "x": 199,
+        "y": 416,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-006",
+      "lineNumber": 6,
+      "text": "climb was part of a British expedition led by John Hunt.",
+      "bbox": {
+        "x": 198,
+        "y": 444,
+        "width": 591,
+        "height": 33
+      },
+      "confidence": 95.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-007",
+      "lineNumber": 7,
+      "text": "The journey to the top of Everest was extremely challenging. Harsh weather, freezing",
+      "bbox": {
+        "x": 198,
+        "y": 480,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 95.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-008",
+      "lineNumber": 8,
+      "text": "temperatures, and thin air made the climb dangerous. However, with determination and",
+      "bbox": {
+        "x": 198,
+        "y": 511,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-009",
+      "lineNumber": 9,
+      "text": "teamwork, Hillary and Tenzing managed to overcome these obstacles. Finally, after",
+      "bbox": {
+        "x": 198,
+        "y": 543,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 95.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-010",
+      "lineNumber": 10,
+      "text": "weeks of climbing, they stood at the summit, becoming the first humans to conquer",
+      "bbox": {
+        "x": 198,
+        "y": 575,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-012",
+      "lineNumber": 12,
+      "text": "Their achievement was celebrated worldwide. Edmund Hillary was later knighted by",
+      "bbox": {
+        "x": 198,
+        "y": 638,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-013",
+      "lineNumber": 13,
+      "text": "Queen Elizabeth II, and Tenzing Norgay became an international hero. Their climb",
+      "bbox": {
+        "x": 198,
+        "y": 670,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-014",
+      "lineNumber": 14,
+      "text": "remains an inspiration for adventurers and mountaineers across the globe, proving that",
+      "bbox": {
+        "x": 198,
+        "y": 701,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-015",
+      "lineNumber": 15,
+      "text": "with courage and perseverance, even the greatest heights can be reached.",
+      "bbox": {
+        "x": 198,
+        "y": 733,
+        "width": 767,
+        "height": 24
+      },
+      "confidence": 96.09,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-017",
+      "lineNumber": 17,
+      "text": "Who? Event When/where?",
+      "bbox": {
+        "x": 272,
+        "y": 935,
+        "width": 759,
+        "height": 33
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-018",
+      "lineNumber": 18,
+      "text": "Sir Edmund Hillary G) on May 29, 1953.",
+      "bbox": {
+        "x": 225,
+        "y": 1003,
+        "width": 784,
+        "height": 24
+      },
+      "confidence": 91.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-019",
+      "lineNumber": 19,
+      "text": "was his co-climber",
+      "bbox": {
+        "x": 535,
+        "y": 1067,
+        "width": 198,
+        "height": 18
+      },
+      "confidence": 93.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-020",
+      "lineNumber": 20,
+      "text": "(ii)Finally ......... stood at the summit After weeks of climbing.",
+      "bbox": {
+        "x": 225,
+        "y": 1126,
+        "width": 845,
+        "height": 33
+      },
+      "confidence": 89.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-021",
+      "lineNumber": 21,
+      "text": "Sir Edmund Hillary",
+      "bbox": {
+        "x": 239,
+        "y": 1193,
+        "width": 205,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-022",
+      "lineNumber": 22,
+      "text": "Their achievement",
+      "bbox": {
+        "x": 237,
+        "y": 1257,
+        "width": 437,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-023",
+      "lineNumber": 23,
+      "text": "Read the statements below. Write ‘True’ if the statement is",
+      "bbox": {
+        "x": 239,
+        "y": 1313,
+        "width": 868,
+        "height": 21
+      },
+      "confidence": 95.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-024",
+      "lineNumber": 24,
+      "text": "correct and ‘False’ if it is incorrect. If false, write the correct",
+      "bbox": {
+        "x": 278,
+        "y": 1350,
+        "width": 830,
+        "height": 26
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-026",
+      "lineNumber": 26,
+      "text": "(a) Mount Everest is 8,848 meters high.",
+      "bbox": {
+        "x": 308,
+        "y": 1429,
+        "width": 429,
+        "height": 24
+      },
+      "confidence": 94.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-027",
+      "lineNumber": 27,
+      "text": "(b) The expedition was led by Sir Edmund Hillary.",
+      "bbox": {
+        "x": 305,
+        "y": 1468,
+        "width": 547,
+        "height": 25
+      },
+      "confidence": 95.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-116-line-028",
+      "lineNumber": 28,
+      "text": "(c) The climbers faced harsh weather, freezing temperatures, and thin air.",
+      "bbox": {
+        "x": 310,
+        "y": 1508,
+        "width": 780,
+        "height": 24
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Sample Question lil\nRead the text and answer the questions 5, 6 & 7\nOn May 29, 1953, Sir Edmund Hillary from New Zealand and Tenzing Norgay, a\nSherpa climber from Nepal, became the first to successfully reach the summit of\nMount Everest, the world's highest peak at 8,848 meters (29,029 feet). Their historic\nclimb was part of a British expedition led by John Hunt.\nThe journey to the top of Everest was extremely challenging. Harsh weather, freezing\ntemperatures, and thin air made the climb dangerous. However, with determination and\nteamwork, Hillary and Tenzing managed to overcome these obstacles. Finally, after\nweeks of climbing, they stood at the summit, becoming the first humans to conquer\nEverest.\nTheir achievement was celebrated worldwide. Edmund Hillary was later knighted by\nQueen Elizabeth II, and Tenzing Norgay became an international hero. Their climb\nremains an inspiration for adventurers and mountaineers across the globe, proving that\nwith courage and perseverance, even the greatest heights can be reached.\n5. Complete the table with information from the passage.\nWho? Event When/where?\nSir Edmund Hillary G) on May 29, 1953.\nwas his co-climber\n(ii)Finally ......... stood at the summit After weeks of climbing.\nSir Edmund Hillary\nTheir achievement\n6. Read the statements below. Write ‘True’ if the statement is\ncorrect and ‘False’ if it is incorrect. If false, write the correct\nanswer. 1x5=5\n(a) Mount Everest is 8,848 meters high.\n(b) The expedition was led by Sir Edmund Hillary.\n(c) The climbers faced harsh weather, freezing temperatures, and thin air.",
+  "cleanText": "Sample Question lil\nRead the text and answer the questions 5, 6 & 7\nOn May 29, 1953, Sir Edmund Hillary from New Zealand and Tenzing Norgay, a\nSherpa climber from Nepal, became the first to successfully reach the summit of\nMount Everest, the world's highest peak at 8,848 meters (29,029 feet). Their historic\nclimb was part of a British expedition led by John Hunt.\nThe journey to the top of Everest was extremely challenging. Harsh weather, freezing\ntemperatures, and thin air made the climb dangerous. However, with determination and\nteamwork, Hillary and Tenzing managed to overcome these obstacles. Finally, after\nweeks of climbing, they stood at the summit, becoming the first humans to conquer\nEverest.\nTheir achievement was celebrated worldwide. Edmund Hillary was later knighted by\nQueen Elizabeth II, and Tenzing Norgay became an international hero. Their climb\nremains an inspiration for adventurers and mountaineers across the globe, proving that\nwith courage and perseverance, even the greatest heights can be reached.\nComplete the table with information from the passage.\nWho? Event When/where?\nSir Edmund Hillary G) on May 29, 1953.\nwas his co-climber\n(ii)Finally ......... stood at the summit After weeks of climbing.\nSir Edmund Hillary\nTheir achievement\nRead the statements below. Write ‘True’ if the statement is\ncorrect and ‘False’ if it is incorrect. If false, write the correct\nanswer. 1x5=5\n(a) Mount Everest is 8,848 meters high.\n(b) The expedition was led by Sir Edmund Hillary.\n(c) The climbers faced harsh weather, freezing temperatures, and thin air.",
+  "aiReadyText": "Sample Question lil\nRead the text and answer the questions 5, 6 & 7\nOn May 29, 1953, Sir Edmund Hillary from New Zealand and Tenzing Norgay, a\nSherpa climber from Nepal, became the first to successfully reach the summit of\nMount Everest, the world's highest peak at 8,848 meters (29,029 feet). Their historic\nclimb was part of a British expedition led by John Hunt.\nThe journey to the top of Everest was extremely challenging. Harsh weather, freezing\ntemperatures, and thin air made the climb dangerous. However, with determination and\nteamwork, Hillary and Tenzing managed to overcome these obstacles. Finally, after\nweeks of climbing, they stood at the summit, becoming the first humans to conquer\nTheir achievement was celebrated worldwide. Edmund Hillary was later knighted by\nQueen Elizabeth II, and Tenzing Norgay became an international hero. Their climb\nremains an inspiration for adventurers and mountaineers across the globe, proving that\nwith courage and perseverance, even the greatest heights can be reached.\nWho? Event When/where?\nSir Edmund Hillary G) on May 29, 1953.\nwas his co-climber\n(ii)Finally ......... stood at the summit After weeks of climbing.\nSir Edmund Hillary\nTheir achievement\nRead the statements below. Write ‘True’ if the statement is\ncorrect and ‘False’ if it is incorrect. If false, write the correct\n(a) Mount Everest is 8,848 meters high.\n(b) The expedition was led by Sir Edmund Hillary.\n(c) The climbers faced harsh weather, freezing temperatures, and thin air."
+}

@@ -1,0 +1,939 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 67,
+  "image": "/ocr/books/class7-english/page-images/page-067.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Lesson 6: From a Railway Carriage",
+      "cleanText": "Lesson 6: From a Railway Carriage",
+      "bbox": {
+        "x": 198,
+        "y": 325,
+        "width": 467,
+        "height": 27
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Keywords : hedge, ditch, charge, wink, bramble,",
+      "cleanText": "Keywords : hedge, ditch, charge, wink, bramble,",
+      "bbox": {
+        "x": 293,
+        "y": 365,
+        "width": 696,
+        "height": 26
+      },
+      "confidence": 82.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "tramp, stringing, lump, glimpse",
+      "cleanText": "tramp, stringing, lump, glimpse",
+      "bbox": {
+        "x": 437,
+        "y": 399,
+        "width": 434,
+        "height": 27
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "A. Listen, read aloud and recite the poem.",
+      "cleanText": "Listen, read aloud and recite the poem.",
+      "bbox": {
+        "x": 202,
+        "y": 442,
+        "width": 535,
+        "height": 24
+      },
+      "confidence": 88.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "From a Railway Carriage",
+      "cleanText": "From a Railway Carriage",
+      "bbox": {
+        "x": 361,
+        "y": 486,
+        "width": 299,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Faster than fairies, faster than witches,",
+      "cleanText": "Faster than fairies, faster than witches,",
+      "bbox": {
+        "x": 361,
+        "y": 528,
+        "width": 420,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Bridges and houses, hedges and ditches;",
+      "cleanText": "Bridges and houses, hedges and ditches;",
+      "bbox": {
+        "x": 360,
+        "y": 562,
+        "width": 440,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "And charging along like troops in a battle",
+      "cleanText": "And charging along like troops in a battle",
+      "bbox": {
+        "x": 360,
+        "y": 597,
+        "width": 455,
+        "height": 25
+      },
+      "confidence": 94.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "All through the meadows the horses and cattle:",
+      "cleanText": "All through the meadows the horses and cattle:",
+      "bbox": {
+        "x": 360,
+        "y": 631,
+        "width": 513,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "All of the sights of the hill and the plain",
+      "cleanText": "All of the sights of the hill and the plain",
+      "bbox": {
+        "x": 360,
+        "y": 665,
+        "width": 437,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Fly as thick as driving rain;",
+      "cleanText": "Fly as thick as driving rain;",
+      "bbox": {
+        "x": 360,
+        "y": 699,
+        "width": 299,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "And ever again, in the wink of an eye,",
+      "cleanText": "And ever again, in the wink of an eye,",
+      "bbox": {
+        "x": 361,
+        "y": 729,
+        "width": 417,
+        "height": 33
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Painted stations whistle by.",
+      "cleanText": "Painted stations whistle by.",
+      "bbox": {
+        "x": 360,
+        "y": 767,
+        "width": 298,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Here is achild who clambers and scrambles,",
+      "cleanText": "Here is achild who clambers and scrambles,",
+      "bbox": {
+        "x": 360,
+        "y": 801,
+        "width": 483,
+        "height": 23
+      },
+      "confidence": 93.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "All by himself and gathering brambles;",
+      "cleanText": "All by himself and gathering brambles;",
+      "bbox": {
+        "x": 360,
+        "y": 836,
+        "width": 429,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Here is a tramp who stands and gazes;",
+      "cleanText": "Here is a tramp who stands and gazes;",
+      "bbox": {
+        "x": 360,
+        "y": 869,
+        "width": 418,
+        "height": 24
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "And here is the green for stringing daisies!",
+      "cleanText": "And here is the green for stringing daisies!",
+      "bbox": {
+        "x": 360,
+        "y": 904,
+        "width": 465,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Here is a cart runaway in the road",
+      "cleanText": "Here is a cart runaway in the road",
+      "bbox": {
+        "x": 361,
+        "y": 938,
+        "width": 369,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Lumping along with man and load;",
+      "cleanText": "Lumping along with man and load;",
+      "bbox": {
+        "x": 361,
+        "y": 972,
+        "width": 383,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "And here is a mill, and there is a river:",
+      "cleanText": "And here is a mill, and there is a river:",
+      "bbox": {
+        "x": 360,
+        "y": 1006,
+        "width": 419,
+        "height": 23
+      },
+      "confidence": 94.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Each a glimpse and gone forever!",
+      "cleanText": "Each a glimpse and gone forever!",
+      "bbox": {
+        "x": 361,
+        "y": 1040,
+        "width": 365,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "[Robert Louis Stevenson]",
+      "cleanText": "[Robert Louis Stevenson]",
+      "bbox": {
+        "x": 600,
+        "y": 1089,
+        "width": 280,
+        "height": 24
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "B. Read the poem silently and match the words with their meanings.",
+      "cleanText": "Read the poem silently and match the words with their meanings.",
+      "bbox": {
+        "x": 201,
+        "y": 1133,
+        "width": 843,
+        "height": 24
+      },
+      "confidence": 95.42,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Words Meanings",
+      "cleanText": "Words Meanings",
+      "bbox": {
+        "x": 290,
+        "y": 1182,
+        "width": 301,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "hedge attack or rush",
+      "cleanText": "hedge attack or rush",
+      "bbox": {
+        "x": 291,
+        "y": 1217,
+        "width": 340,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "ditch a signal made quickly by closing and opening an eye",
+      "cleanText": "ditch a signal made quickly by closing and opening an eye",
+      "bbox": {
+        "x": 291,
+        "y": 1263,
+        "width": 767,
+        "height": 25
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "charge hanging",
+      "cleanText": "charge hanging",
+      "bbox": {
+        "x": 291,
+        "y": 1302,
+        "width": 275,
+        "height": 33
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "wink a prickly bush",
+      "cleanText": "wink a prickly bush",
+      "bbox": {
+        "x": 290,
+        "y": 1351,
+        "width": 342,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "stringing a row of bushes or small trees",
+      "cleanText": "stringing a row of bushes or small trees",
+      "bbox": {
+        "x": 298,
+        "y": 1392,
+        "width": 507,
+        "height": 33
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "lump a look at something for a very short time",
+      "cleanText": "lump a look at something for a very short time",
+      "bbox": {
+        "x": 291,
+        "y": 1439,
+        "width": 633,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "bramble a canal or drain",
+      "cleanText": "bramble a canal or drain",
+      "bbox": {
+        "x": 291,
+        "y": 1480,
+        "width": 356,
+        "height": 33
+      },
+      "confidence": 83.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "tramp move heavily along",
+      "cleanText": "tramp move heavily along",
+      "bbox": {
+        "x": 291,
+        "y": 1529,
+        "width": 403,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "glimpse a homeless and jobless person",
+      "cleanText": "glimpse a homeless and jobless person",
+      "bbox": {
+        "x": 291,
+        "y": 1572,
+        "width": 517,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-067-line-033",
+      "lineNumber": 33
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-067-line-001",
+      "lineNumber": 1,
+      "text": "Lesson 6: From a Railway Carriage",
+      "bbox": {
+        "x": 198,
+        "y": 325,
+        "width": 467,
+        "height": 27
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-002",
+      "lineNumber": 2,
+      "text": "Keywords : hedge, ditch, charge, wink, bramble,",
+      "bbox": {
+        "x": 293,
+        "y": 365,
+        "width": 696,
+        "height": 26
+      },
+      "confidence": 82.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-003",
+      "lineNumber": 3,
+      "text": "tramp, stringing, lump, glimpse",
+      "bbox": {
+        "x": 437,
+        "y": 399,
+        "width": 434,
+        "height": 27
+      },
+      "confidence": 89.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-004",
+      "lineNumber": 4,
+      "text": "Listen, read aloud and recite the poem.",
+      "bbox": {
+        "x": 202,
+        "y": 442,
+        "width": 535,
+        "height": 24
+      },
+      "confidence": 88.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-005",
+      "lineNumber": 5,
+      "text": "From a Railway Carriage",
+      "bbox": {
+        "x": 361,
+        "y": 486,
+        "width": 299,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-006",
+      "lineNumber": 6,
+      "text": "Faster than fairies, faster than witches,",
+      "bbox": {
+        "x": 361,
+        "y": 528,
+        "width": 420,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-007",
+      "lineNumber": 7,
+      "text": "Bridges and houses, hedges and ditches;",
+      "bbox": {
+        "x": 360,
+        "y": 562,
+        "width": 440,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-008",
+      "lineNumber": 8,
+      "text": "And charging along like troops in a battle",
+      "bbox": {
+        "x": 360,
+        "y": 597,
+        "width": 455,
+        "height": 25
+      },
+      "confidence": 94.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-009",
+      "lineNumber": 9,
+      "text": "All through the meadows the horses and cattle:",
+      "bbox": {
+        "x": 360,
+        "y": 631,
+        "width": 513,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-010",
+      "lineNumber": 10,
+      "text": "All of the sights of the hill and the plain",
+      "bbox": {
+        "x": 360,
+        "y": 665,
+        "width": 437,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-011",
+      "lineNumber": 11,
+      "text": "Fly as thick as driving rain;",
+      "bbox": {
+        "x": 360,
+        "y": 699,
+        "width": 299,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-012",
+      "lineNumber": 12,
+      "text": "And ever again, in the wink of an eye,",
+      "bbox": {
+        "x": 361,
+        "y": 729,
+        "width": 417,
+        "height": 33
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-013",
+      "lineNumber": 13,
+      "text": "Painted stations whistle by.",
+      "bbox": {
+        "x": 360,
+        "y": 767,
+        "width": 298,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-014",
+      "lineNumber": 14,
+      "text": "Here is achild who clambers and scrambles,",
+      "bbox": {
+        "x": 360,
+        "y": 801,
+        "width": 483,
+        "height": 23
+      },
+      "confidence": 93.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-015",
+      "lineNumber": 15,
+      "text": "All by himself and gathering brambles;",
+      "bbox": {
+        "x": 360,
+        "y": 836,
+        "width": 429,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-016",
+      "lineNumber": 16,
+      "text": "Here is a tramp who stands and gazes;",
+      "bbox": {
+        "x": 360,
+        "y": 869,
+        "width": 418,
+        "height": 24
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-017",
+      "lineNumber": 17,
+      "text": "And here is the green for stringing daisies!",
+      "bbox": {
+        "x": 360,
+        "y": 904,
+        "width": 465,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-018",
+      "lineNumber": 18,
+      "text": "Here is a cart runaway in the road",
+      "bbox": {
+        "x": 361,
+        "y": 938,
+        "width": 369,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-019",
+      "lineNumber": 19,
+      "text": "Lumping along with man and load;",
+      "bbox": {
+        "x": 361,
+        "y": 972,
+        "width": 383,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-020",
+      "lineNumber": 20,
+      "text": "And here is a mill, and there is a river:",
+      "bbox": {
+        "x": 360,
+        "y": 1006,
+        "width": 419,
+        "height": 23
+      },
+      "confidence": 94.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-021",
+      "lineNumber": 21,
+      "text": "Each a glimpse and gone forever!",
+      "bbox": {
+        "x": 361,
+        "y": 1040,
+        "width": 365,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-022",
+      "lineNumber": 22,
+      "text": "[Robert Louis Stevenson]",
+      "bbox": {
+        "x": 600,
+        "y": 1089,
+        "width": 280,
+        "height": 24
+      },
+      "confidence": 91.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-023",
+      "lineNumber": 23,
+      "text": "Read the poem silently and match the words with their meanings.",
+      "bbox": {
+        "x": 201,
+        "y": 1133,
+        "width": 843,
+        "height": 24
+      },
+      "confidence": 95.42,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-024",
+      "lineNumber": 24,
+      "text": "Words Meanings",
+      "bbox": {
+        "x": 290,
+        "y": 1182,
+        "width": 301,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-025",
+      "lineNumber": 25,
+      "text": "hedge attack or rush",
+      "bbox": {
+        "x": 291,
+        "y": 1217,
+        "width": 340,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-026",
+      "lineNumber": 26,
+      "text": "ditch a signal made quickly by closing and opening an eye",
+      "bbox": {
+        "x": 291,
+        "y": 1263,
+        "width": 767,
+        "height": 25
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-027",
+      "lineNumber": 27,
+      "text": "charge hanging",
+      "bbox": {
+        "x": 291,
+        "y": 1302,
+        "width": 275,
+        "height": 33
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-028",
+      "lineNumber": 28,
+      "text": "wink a prickly bush",
+      "bbox": {
+        "x": 290,
+        "y": 1351,
+        "width": 342,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-029",
+      "lineNumber": 29,
+      "text": "stringing a row of bushes or small trees",
+      "bbox": {
+        "x": 298,
+        "y": 1392,
+        "width": 507,
+        "height": 33
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-030",
+      "lineNumber": 30,
+      "text": "lump a look at something for a very short time",
+      "bbox": {
+        "x": 291,
+        "y": 1439,
+        "width": 633,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-031",
+      "lineNumber": 31,
+      "text": "bramble a canal or drain",
+      "bbox": {
+        "x": 291,
+        "y": 1480,
+        "width": 356,
+        "height": 33
+      },
+      "confidence": 83.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-032",
+      "lineNumber": 32,
+      "text": "tramp move heavily along",
+      "bbox": {
+        "x": 291,
+        "y": 1529,
+        "width": 403,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-067-line-033",
+      "lineNumber": 33,
+      "text": "glimpse a homeless and jobless person",
+      "bbox": {
+        "x": 291,
+        "y": 1572,
+        "width": 517,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Lesson 6: From a Railway Carriage\nKeywords : hedge, ditch, charge, wink, bramble,\ntramp, stringing, lump, glimpse\nA. Listen, read aloud and recite the poem.\nFrom a Railway Carriage\nFaster than fairies, faster than witches,\nBridges and houses, hedges and ditches;\nAnd charging along like troops in a battle\nAll through the meadows the horses and cattle:\nAll of the sights of the hill and the plain\nFly as thick as driving rain;\nAnd ever again, in the wink of an eye,\nPainted stations whistle by.\nHere is achild who clambers and scrambles,\nAll by himself and gathering brambles;\nHere is a tramp who stands and gazes;\nAnd here is the green for stringing daisies!\nHere is a cart runaway in the road\nLumping along with man and load;\nAnd here is a mill, and there is a river:\nEach a glimpse and gone forever!\n[Robert Louis Stevenson]\nB. Read the poem silently and match the words with their meanings.\nWords Meanings\nhedge attack or rush\nditch a signal made quickly by closing and opening an eye\ncharge hanging\nwink a prickly bush\nstringing a row of bushes or small trees\nlump a look at something for a very short time\nbramble a canal or drain\ntramp move heavily along\nglimpse a homeless and jobless person",
+  "cleanText": "Lesson 6: From a Railway Carriage\nKeywords : hedge, ditch, charge, wink, bramble,\ntramp, stringing, lump, glimpse\nListen, read aloud and recite the poem.\nFrom a Railway Carriage\nFaster than fairies, faster than witches,\nBridges and houses, hedges and ditches;\nAnd charging along like troops in a battle\nAll through the meadows the horses and cattle:\nAll of the sights of the hill and the plain\nFly as thick as driving rain;\nAnd ever again, in the wink of an eye,\nPainted stations whistle by.\nHere is achild who clambers and scrambles,\nAll by himself and gathering brambles;\nHere is a tramp who stands and gazes;\nAnd here is the green for stringing daisies!\nHere is a cart runaway in the road\nLumping along with man and load;\nAnd here is a mill, and there is a river:\nEach a glimpse and gone forever!\n[Robert Louis Stevenson]\nRead the poem silently and match the words with their meanings.\nWords Meanings\nhedge attack or rush\nditch a signal made quickly by closing and opening an eye\ncharge hanging\nwink a prickly bush\nstringing a row of bushes or small trees\nlump a look at something for a very short time\nbramble a canal or drain\ntramp move heavily along\nglimpse a homeless and jobless person",
+  "aiReadyText": "Lesson 6: From a Railway Carriage\nKeywords : hedge, ditch, charge, wink, bramble,\ntramp, stringing, lump, glimpse\nListen, read aloud and recite the poem.\nFrom a Railway Carriage\nFaster than fairies, faster than witches,\nBridges and houses, hedges and ditches;\nAnd charging along like troops in a battle\nAll through the meadows the horses and cattle:\nAll of the sights of the hill and the plain\nFly as thick as driving rain;\nAnd ever again, in the wink of an eye,\nPainted stations whistle by.\nHere is achild who clambers and scrambles,\nAll by himself and gathering brambles;\nHere is a tramp who stands and gazes;\nAnd here is the green for stringing daisies!\nHere is a cart runaway in the road\nLumping along with man and load;\nAnd here is a mill, and there is a river:\nEach a glimpse and gone forever!\n[Robert Louis Stevenson]\nRead the poem silently and match the words with their meanings.\nWords Meanings\nhedge attack or rush\nditch a signal made quickly by closing and opening an eye\ncharge hanging\nwink a prickly bush\nstringing a row of bushes or small trees\nlump a look at something for a very short time\nbramble a canal or drain\ntramp move heavily along\nglimpse a homeless and jobless person"
+}

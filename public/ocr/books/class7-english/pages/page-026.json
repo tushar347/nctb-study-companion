@@ -1,0 +1,1012 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 26,
+  "image": "/ocr/books/class7-english/page-images/page-026.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Three : What are Friends for? 21",
+      "cleanText": "Unit Three : What are Friends for? 21",
+      "bbox": {
+        "x": 198,
+        "y": 249,
+        "width": 906,
+        "height": 20
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 3: Flora’s First Day at School (2)",
+      "cleanText": "Lesson 3: Flora’s First Day at School (2)",
+      "bbox": {
+        "x": 194,
+        "y": 313,
+        "width": 527,
+        "height": 28
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Keywords : intelligent, stare, nervous",
+      "cleanText": "Keywords : intelligent, stare, nervous",
+      "bbox": {
+        "x": 309,
+        "y": 352,
+        "width": 438,
+        "height": 24
+      },
+      "confidence": 93.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Read the text to know more about Flora’s first day at school.",
+      "cleanText": "Read the text to know more about Flora’s first day at school.",
+      "bbox": {
+        "x": 278,
+        "y": 403,
+        "width": 709,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Flora continues her story. °",
+      "cleanText": "Flora continues her story. °",
+      "bbox": {
+        "x": 277,
+        "y": 439,
+        "width": 458,
+        "height": 25
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "It took us half an hour to reach the",
+      "cleanText": "It took us half an hour to reach the",
+      "bbox": {
+        "x": 279,
+        "y": 478,
+        "width": 433,
+        "height": 20
+      },
+      "confidence": 95.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "school. | saw many students on the",
+      "cleanText": "school. | saw many students on the",
+      "bbox": {
+        "x": 279,
+        "y": 510,
+        "width": 433,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "school campus. Some were playing and",
+      "cleanText": "school campus. Some were playing and",
+      "bbox": {
+        "x": 279,
+        "y": 541,
+        "width": 433,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "some were talking to each other. |",
+      "cleanText": "some were talking to each other. |",
+      "bbox": {
+        "x": 279,
+        "y": 573,
+        "width": 432,
+        "height": 25
+      },
+      "confidence": 93.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "didn’t know anyone. So I was a little",
+      "cleanText": "didn’t know anyone. So I was a little",
+      "bbox": {
+        "x": 278,
+        "y": 601,
+        "width": 433,
+        "height": 33
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "bit afraid.",
+      "cleanText": "bit afraid.",
+      "bbox": {
+        "x": 278,
+        "y": 636,
+        "width": 106,
+        "height": 20
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-026-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "My mother soon took me to the",
+      "cleanText": "My mother soon took me to the",
+      "bbox": {
+        "x": 279,
+        "y": 681,
+        "width": 433,
+        "height": 25
+      },
+      "confidence": 94.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Head Teacher. He asked me a few",
+      "cleanText": "Head Teacher. He asked me a few",
+      "bbox": {
+        "x": 279,
+        "y": 713,
+        "width": 433,
+        "height": 20
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "questions and I answered them intelligently.",
+      "cleanText": "questions and I answered them intelligently.",
+      "bbox": {
+        "x": 278,
+        "y": 744,
+        "width": 482,
+        "height": 25
+      },
+      "confidence": 91.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "The Head Teacher was very pleased. He put his hand on my shoulder",
+      "cleanText": "The Head Teacher was very pleased. He put his hand on my shoulder",
+      "bbox": {
+        "x": 278,
+        "y": 789,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "and said, “Good! You’re a highly intelligent child. You know a lot. I’ll take",
+      "cleanText": "and said, “Good! You’re a highly intelligent child. You know a lot. I’ll take",
+      "bbox": {
+        "x": 279,
+        "y": 816,
+        "width": 826,
+        "height": 34
+      },
+      "confidence": 91.79,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "you in my school. I hope be happy here.”",
+      "cleanText": "you in my school. I hope be happy here.”",
+      "bbox": {
+        "x": 279,
+        "y": 851,
+        "width": 524,
+        "height": 25
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "T was admitted to class 1. The Head Teacher was a very nice person. He",
+      "cleanText": "T was admitted to class 1. The Head Teacher was a very nice person. He",
+      "bbox": {
+        "x": 278,
+        "y": 896,
+        "width": 831,
+        "height": 35
+      },
+      "confidence": 94.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "called a teacher and said to her, “Ms Laila, this is Flora. She is a new",
+      "cleanText": "called a teacher and said to her, “Ms Laila, this is Flora. She is a new",
+      "bbox": {
+        "x": 277,
+        "y": 932,
+        "width": 829,
+        "height": 23
+      },
+      "confidence": 93.19,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "student in class one . Take her to the class, please.”",
+      "cleanText": "student in class one . Take her to the class, please.”",
+      "bbox": {
+        "x": 276,
+        "y": 963,
+        "width": 564,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Ms Laila took me to the class. The class teacher welcomed me and gave me",
+      "cleanText": "Ms Laila took me to the class. The class teacher welcomed me and gave me",
+      "bbox": {
+        "x": 278,
+        "y": 1009,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 96.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "a seat. All the students in the class were staring at me. | felt a bit nervous",
+      "cleanText": "a seat. All the students in the class were staring at me. | felt a bit nervous",
+      "bbox": {
+        "x": 276,
+        "y": 1036,
+        "width": 829,
+        "height": 33
+      },
+      "confidence": 90.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "to see all the new faces. But soon I felt easy. 1 could make friends",
+      "cleanText": "to see all the new faces. But soon I felt easy. 1 could make friends",
+      "bbox": {
+        "x": 275,
+        "y": 1071,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 91.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "with two or three students sitting close to me.",
+      "cleanText": "with two or three students sitting close to me.",
+      "bbox": {
+        "x": 274,
+        "y": 1103,
+        "width": 530,
+        "height": 25
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "A new place is a new experience. So my first day at school is a new",
+      "cleanText": "A new place is a new experience. So my first day at school is a new",
+      "bbox": {
+        "x": 278,
+        "y": 1148,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 95.06,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "experience in my life. | will remember the day as long as | live.",
+      "cleanText": "experience in my life. | will remember the day as long as | live.",
+      "bbox": {
+        "x": 273,
+        "y": 1175,
+        "width": 698,
+        "height": 34
+      },
+      "confidence": 94.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Choose the correct answer.",
+      "cleanText": "Choose the correct answer.",
+      "bbox": {
+        "x": 275,
+        "y": 1227,
+        "width": 315,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "1. How long did it take Flora to reach the school?",
+      "cleanText": "How long did it take Flora to reach the school?",
+      "bbox": {
+        "x": 260,
+        "y": 1269,
+        "width": 579,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "a. an hour",
+      "cleanText": "an hour",
+      "bbox": {
+        "x": 309,
+        "y": 1302,
+        "width": 127,
+        "height": 19
+      },
+      "confidence": 66.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-026-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "b. half an hour",
+      "cleanText": "half an hour",
+      "bbox": {
+        "x": 309,
+        "y": 1335,
+        "width": 177,
+        "height": 19
+      },
+      "confidence": 80.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-026-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "c. less than half an hour",
+      "cleanText": "less than half an hour",
+      "bbox": {
+        "x": 309,
+        "y": 1368,
+        "width": 279,
+        "height": 19
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "d. one and a half hours",
+      "cleanText": "one and a half hours",
+      "bbox": {
+        "x": 309,
+        "y": 1397,
+        "width": 266,
+        "height": 33
+      },
+      "confidence": 88.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "2. Flora was a little bit afraid when she reached the school campus because",
+      "cleanText": "Flora was a little bit afraid when she reached the school campus because",
+      "bbox": {
+        "x": 244,
+        "y": 1440,
+        "width": 868,
+        "height": 34
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "a. the campus was full of students.",
+      "cleanText": "the campus was full of students.",
+      "bbox": {
+        "x": 314,
+        "y": 1476,
+        "width": 389,
+        "height": 25
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "b. it was the first time she went there.",
+      "cleanText": "it was the first time she went there.",
+      "bbox": {
+        "x": 314,
+        "y": 1509,
+        "width": 422,
+        "height": 20
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-035",
+      "lineNumber": 35
+    },
+    {
+      "text": "c. all the people there were unknown.",
+      "cleanText": "all the people there were unknown.",
+      "bbox": {
+        "x": 314,
+        "y": 1542,
+        "width": 423,
+        "height": 25
+      },
+      "confidence": 93.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-036",
+      "lineNumber": 36
+    },
+    {
+      "text": "d. the school was a long way from home.",
+      "cleanText": "the school was a long way from home.",
+      "bbox": {
+        "x": 310,
+        "y": 1575,
+        "width": 465,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-026-line-037",
+      "lineNumber": 37
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-026-line-001",
+      "lineNumber": 1,
+      "text": "Unit Three : What are Friends for? 21",
+      "bbox": {
+        "x": 198,
+        "y": 249,
+        "width": 906,
+        "height": 20
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 3: Flora’s First Day at School (2)",
+      "bbox": {
+        "x": 194,
+        "y": 313,
+        "width": 527,
+        "height": 28
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-003",
+      "lineNumber": 3,
+      "text": "Keywords : intelligent, stare, nervous",
+      "bbox": {
+        "x": 309,
+        "y": 352,
+        "width": 438,
+        "height": 24
+      },
+      "confidence": 93.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-004",
+      "lineNumber": 4,
+      "text": "Read the text to know more about Flora’s first day at school.",
+      "bbox": {
+        "x": 278,
+        "y": 403,
+        "width": 709,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-005",
+      "lineNumber": 5,
+      "text": "Flora continues her story. °",
+      "bbox": {
+        "x": 277,
+        "y": 439,
+        "width": 458,
+        "height": 25
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-006",
+      "lineNumber": 6,
+      "text": "It took us half an hour to reach the",
+      "bbox": {
+        "x": 279,
+        "y": 478,
+        "width": 433,
+        "height": 20
+      },
+      "confidence": 95.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-007",
+      "lineNumber": 7,
+      "text": "school. | saw many students on the",
+      "bbox": {
+        "x": 279,
+        "y": 510,
+        "width": 433,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-008",
+      "lineNumber": 8,
+      "text": "school campus. Some were playing and",
+      "bbox": {
+        "x": 279,
+        "y": 541,
+        "width": 433,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-009",
+      "lineNumber": 9,
+      "text": "some were talking to each other. |",
+      "bbox": {
+        "x": 279,
+        "y": 573,
+        "width": 432,
+        "height": 25
+      },
+      "confidence": 93.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-010",
+      "lineNumber": 10,
+      "text": "didn’t know anyone. So I was a little",
+      "bbox": {
+        "x": 278,
+        "y": 601,
+        "width": 433,
+        "height": 33
+      },
+      "confidence": 95.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-012",
+      "lineNumber": 12,
+      "text": "My mother soon took me to the",
+      "bbox": {
+        "x": 279,
+        "y": 681,
+        "width": 433,
+        "height": 25
+      },
+      "confidence": 94.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-013",
+      "lineNumber": 13,
+      "text": "Head Teacher. He asked me a few",
+      "bbox": {
+        "x": 279,
+        "y": 713,
+        "width": 433,
+        "height": 20
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-014",
+      "lineNumber": 14,
+      "text": "questions and I answered them intelligently.",
+      "bbox": {
+        "x": 278,
+        "y": 744,
+        "width": 482,
+        "height": 25
+      },
+      "confidence": 91.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-015",
+      "lineNumber": 15,
+      "text": "The Head Teacher was very pleased. He put his hand on my shoulder",
+      "bbox": {
+        "x": 278,
+        "y": 789,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-016",
+      "lineNumber": 16,
+      "text": "and said, “Good! You’re a highly intelligent child. You know a lot. I’ll take",
+      "bbox": {
+        "x": 279,
+        "y": 816,
+        "width": 826,
+        "height": 34
+      },
+      "confidence": 91.79,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-017",
+      "lineNumber": 17,
+      "text": "you in my school. I hope be happy here.”",
+      "bbox": {
+        "x": 279,
+        "y": 851,
+        "width": 524,
+        "height": 25
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-018",
+      "lineNumber": 18,
+      "text": "T was admitted to class 1. The Head Teacher was a very nice person. He",
+      "bbox": {
+        "x": 278,
+        "y": 896,
+        "width": 831,
+        "height": 35
+      },
+      "confidence": 94.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-019",
+      "lineNumber": 19,
+      "text": "called a teacher and said to her, “Ms Laila, this is Flora. She is a new",
+      "bbox": {
+        "x": 277,
+        "y": 932,
+        "width": 829,
+        "height": 23
+      },
+      "confidence": 93.19,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-020",
+      "lineNumber": 20,
+      "text": "student in class one . Take her to the class, please.”",
+      "bbox": {
+        "x": 276,
+        "y": 963,
+        "width": 564,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-021",
+      "lineNumber": 21,
+      "text": "Ms Laila took me to the class. The class teacher welcomed me and gave me",
+      "bbox": {
+        "x": 278,
+        "y": 1009,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 96.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-022",
+      "lineNumber": 22,
+      "text": "a seat. All the students in the class were staring at me. | felt a bit nervous",
+      "bbox": {
+        "x": 276,
+        "y": 1036,
+        "width": 829,
+        "height": 33
+      },
+      "confidence": 90.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-023",
+      "lineNumber": 23,
+      "text": "to see all the new faces. But soon I felt easy. 1 could make friends",
+      "bbox": {
+        "x": 275,
+        "y": 1071,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 91.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-024",
+      "lineNumber": 24,
+      "text": "with two or three students sitting close to me.",
+      "bbox": {
+        "x": 274,
+        "y": 1103,
+        "width": 530,
+        "height": 25
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-025",
+      "lineNumber": 25,
+      "text": "A new place is a new experience. So my first day at school is a new",
+      "bbox": {
+        "x": 278,
+        "y": 1148,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 95.06,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-026",
+      "lineNumber": 26,
+      "text": "experience in my life. | will remember the day as long as | live.",
+      "bbox": {
+        "x": 273,
+        "y": 1175,
+        "width": 698,
+        "height": 34
+      },
+      "confidence": 94.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-027",
+      "lineNumber": 27,
+      "text": "Choose the correct answer.",
+      "bbox": {
+        "x": 275,
+        "y": 1227,
+        "width": 315,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-028",
+      "lineNumber": 28,
+      "text": "How long did it take Flora to reach the school?",
+      "bbox": {
+        "x": 260,
+        "y": 1269,
+        "width": 579,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-031",
+      "lineNumber": 31,
+      "text": "less than half an hour",
+      "bbox": {
+        "x": 309,
+        "y": 1368,
+        "width": 279,
+        "height": 19
+      },
+      "confidence": 91.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-032",
+      "lineNumber": 32,
+      "text": "one and a half hours",
+      "bbox": {
+        "x": 309,
+        "y": 1397,
+        "width": 266,
+        "height": 33
+      },
+      "confidence": 88.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-033",
+      "lineNumber": 33,
+      "text": "Flora was a little bit afraid when she reached the school campus because",
+      "bbox": {
+        "x": 244,
+        "y": 1440,
+        "width": 868,
+        "height": 34
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-034",
+      "lineNumber": 34,
+      "text": "the campus was full of students.",
+      "bbox": {
+        "x": 314,
+        "y": 1476,
+        "width": 389,
+        "height": 25
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-035",
+      "lineNumber": 35,
+      "text": "it was the first time she went there.",
+      "bbox": {
+        "x": 314,
+        "y": 1509,
+        "width": 422,
+        "height": 20
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-036",
+      "lineNumber": 36,
+      "text": "all the people there were unknown.",
+      "bbox": {
+        "x": 314,
+        "y": 1542,
+        "width": 423,
+        "height": 25
+      },
+      "confidence": 93.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-026-line-037",
+      "lineNumber": 37,
+      "text": "the school was a long way from home.",
+      "bbox": {
+        "x": 310,
+        "y": 1575,
+        "width": 465,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Three : What are Friends for? 21\nLesson 3: Flora’s First Day at School (2)\nKeywords : intelligent, stare, nervous\nRead the text to know more about Flora’s first day at school.\nFlora continues her story. °\nIt took us half an hour to reach the\nschool. | saw many students on the\nschool campus. Some were playing and\nsome were talking to each other. |\ndidn’t know anyone. So I was a little\nbit afraid.\nMy mother soon took me to the\nHead Teacher. He asked me a few\nquestions and I answered them intelligently.\nThe Head Teacher was very pleased. He put his hand on my shoulder\nand said, “Good! You’re a highly intelligent child. You know a lot. I’ll take\nyou in my school. I hope be happy here.”\nT was admitted to class 1. The Head Teacher was a very nice person. He\ncalled a teacher and said to her, “Ms Laila, this is Flora. She is a new\nstudent in class one . Take her to the class, please.”\nMs Laila took me to the class. The class teacher welcomed me and gave me\na seat. All the students in the class were staring at me. | felt a bit nervous\nto see all the new faces. But soon I felt easy. 1 could make friends\nwith two or three students sitting close to me.\nA new place is a new experience. So my first day at school is a new\nexperience in my life. | will remember the day as long as | live.\nChoose the correct answer.\n1. How long did it take Flora to reach the school?\na. an hour\nb. half an hour\nc. less than half an hour\nd. one and a half hours\n2. Flora was a little bit afraid when she reached the school campus because\na. the campus was full of students.\nb. it was the first time she went there.\nc. all the people there were unknown.\nd. the school was a long way from home.",
+  "cleanText": "Unit Three : What are Friends for? 21\nLesson 3: Flora’s First Day at School (2)\nKeywords : intelligent, stare, nervous\nRead the text to know more about Flora’s first day at school.\nFlora continues her story. °\nIt took us half an hour to reach the\nschool. | saw many students on the\nschool campus. Some were playing and\nsome were talking to each other. |\ndidn’t know anyone. So I was a little\nbit afraid.\nMy mother soon took me to the\nHead Teacher. He asked me a few\nquestions and I answered them intelligently.\nThe Head Teacher was very pleased. He put his hand on my shoulder\nand said, “Good! You’re a highly intelligent child. You know a lot. I’ll take\nyou in my school. I hope be happy here.”\nT was admitted to class 1. The Head Teacher was a very nice person. He\ncalled a teacher and said to her, “Ms Laila, this is Flora. She is a new\nstudent in class one . Take her to the class, please.”\nMs Laila took me to the class. The class teacher welcomed me and gave me\na seat. All the students in the class were staring at me. | felt a bit nervous\nto see all the new faces. But soon I felt easy. 1 could make friends\nwith two or three students sitting close to me.\nA new place is a new experience. So my first day at school is a new\nexperience in my life. | will remember the day as long as | live.\nChoose the correct answer.\nHow long did it take Flora to reach the school?\nan hour\nhalf an hour\nless than half an hour\none and a half hours\nFlora was a little bit afraid when she reached the school campus because\nthe campus was full of students.\nit was the first time she went there.\nall the people there were unknown.\nthe school was a long way from home.",
+  "aiReadyText": "Unit Three : What are Friends for? 21\nLesson 3: Flora’s First Day at School (2)\nKeywords : intelligent, stare, nervous\nRead the text to know more about Flora’s first day at school.\nFlora continues her story. °\nIt took us half an hour to reach the\nschool. | saw many students on the\nschool campus. Some were playing and\nsome were talking to each other. |\ndidn’t know anyone. So I was a little\nMy mother soon took me to the\nHead Teacher. He asked me a few\nquestions and I answered them intelligently.\nThe Head Teacher was very pleased. He put his hand on my shoulder\nand said, “Good! You’re a highly intelligent child. You know a lot. I’ll take\nyou in my school. I hope be happy here.”\nT was admitted to class 1. The Head Teacher was a very nice person. He\ncalled a teacher and said to her, “Ms Laila, this is Flora. She is a new\nstudent in class one . Take her to the class, please.”\nMs Laila took me to the class. The class teacher welcomed me and gave me\na seat. All the students in the class were staring at me. | felt a bit nervous\nto see all the new faces. But soon I felt easy. 1 could make friends\nwith two or three students sitting close to me.\nA new place is a new experience. So my first day at school is a new\nexperience in my life. | will remember the day as long as | live.\nChoose the correct answer.\nHow long did it take Flora to reach the school?\nless than half an hour\none and a half hours\nFlora was a little bit afraid when she reached the school campus because\nthe campus was full of students.\nit was the first time she went there.\nall the people there were unknown.\nthe school was a long way from home."
+}

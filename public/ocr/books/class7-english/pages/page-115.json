@@ -1,0 +1,842 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 115,
+  "image": "/ocr/books/class7-english/page-images/page-115.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "110 ENGLISH FOR TODAY",
+      "cleanText": "110 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 208,
+        "y": 223,
+        "width": 902,
+        "height": 23
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "2. Write short answers to the following questions: 5x2=10",
+      "cleanText": "Write short answers to the following questions: 5x2=10",
+      "bbox": {
+        "x": 245,
+        "y": 288,
+        "width": 843,
+        "height": 27
+      },
+      "confidence": 95.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "(a) How did Helen Keller’s father learn about Perkins School for the",
+      "cleanText": "(a) How did Helen Keller’s father learn about Perkins School for the",
+      "bbox": {
+        "x": 318,
+        "y": 330,
+        "width": 730,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Where did Helen Keller begin her formal education?",
+      "cleanText": "Where did Helen Keller begin her formal education?",
+      "bbox": {
+        "x": 363,
+        "y": 409,
+        "width": 554,
+        "height": 24
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "(c) What was the turning point in Helen Keller's life that affected her",
+      "cleanText": "(c) What was the turning point in Helen Keller's life that affected her",
+      "bbox": {
+        "x": 318,
+        "y": 449,
+        "width": 733,
+        "height": 24
+      },
+      "confidence": 92.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "(d) Describe how Anne Sullivan became involved in Helen Keller’s life.",
+      "cleanText": "(d) Describe how Anne Sullivan became involved in Helen Keller’s life.",
+      "bbox": {
+        "x": 318,
+        "y": 528,
+        "width": 767,
+        "height": 23
+      },
+      "confidence": 94.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "(c} Was Helen Keller’s decision to pursuc education a turning point",
+      "cleanText": "(c} Was Helen Keller’s decision to pursuc education a turning point",
+      "bbox": {
+        "x": 317,
+        "y": 568,
+        "width": 793,
+        "height": 23
+      },
+      "confidence": 89.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "in her life? Argue your point.",
+      "cleanText": "in her life? Argue your point.",
+      "bbox": {
+        "x": 363,
+        "y": 607,
+        "width": 304,
+        "height": 24
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Read the text and answer the questions 3 & 4",
+      "cleanText": "Read the text and answer the questions 3 & 4",
+      "bbox": {
+        "x": 245,
+        "y": 663,
+        "width": 588,
+        "height": 28
+      },
+      "confidence": 94.7,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Over time, Shahana grew more devoted to her responsibilitics. She managed her house-",
+      "cleanText": "Over time, Shahana grew more devoted to her responsibilitics. She managed her house-",
+      "bbox": {
+        "x": 204,
+        "y": 707,
+        "width": 909,
+        "height": 23
+      },
+      "confidence": 93.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "hold duties while excelling in her studies. At school, she gave her best effort in teach-",
+      "cleanText": "hold duties while excelling in her studies. At school, she gave her best effort in teach-",
+      "bbox": {
+        "x": 204,
+        "y": 738,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "ing, ensuring that all students, whether struggling or excelling, received her guidance.",
+      "cleanText": "ing, ensuring that all students, whether struggling or excelling, received her guidance.",
+      "bbox": {
+        "x": 204,
+        "y": 770,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Her students frequently sought her advice, not just in the classroom but also outside in",
+      "cleanText": "Her students frequently sought her advice, not just in the classroom but also outside in",
+      "bbox": {
+        "x": 204,
+        "y": 802,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "the corridors and even beyond school premises. Before long, Shahana earned a reputa-",
+      "cleanText": "the corridors and even beyond school premises. Before long, Shahana earned a reputa-",
+      "bbox": {
+        "x": 204,
+        "y": 833,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 94.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "tion as an outstanding teacher. Students greeted her warmly, and fellow teachers, includ-",
+      "cleanText": "tion as an outstanding teacher. Students greeted her warmly, and fellow teachers, includ-",
+      "bbox": {
+        "x": 204,
+        "y": 865,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 94.46,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "ing the Head Teacher, valued her contributions. Parents and community members recog-",
+      "cleanText": "ing the Head Teacher, valued her contributions. Parents and community members recog-",
+      "bbox": {
+        "x": 205,
+        "y": 897,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "nized her dedication and often approached her with appreciation and respect.",
+      "cleanText": "nized her dedication and often approached her with appreciation and respect.",
+      "bbox": {
+        "x": 204,
+        "y": 928,
+        "width": 809,
+        "height": 24
+      },
+      "confidence": 96.18,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "3. Complete the passage with suitable words: 1x5=5",
+      "cleanText": "Complete the passage with suitable words: 1x5=5",
+      "bbox": {
+        "x": 244,
+        "y": 985,
+        "width": 829,
+        "height": 27
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-115-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Shahana(a) increasingly dedicated to her responsibilities, (b) house-",
+      "cleanText": "Shahana(a) increasingly dedicated to her responsibilities, (b) house-",
+      "bbox": {
+        "x": 205,
+        "y": 1028,
+        "width": 908,
+        "height": 32
+      },
+      "confidence": 93.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "hold duties with her studies and excelling as a teacher. She provided (c) to all",
+      "cleanText": "hold duties with her studies and excelling as a teacher. She provided (c) to all",
+      "bbox": {
+        "x": 204,
+        "y": 1064,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 92.13,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "her students, both inside and outside the classroom, carning a reputation as an outstand-",
+      "cleanText": "her students, both inside and outside the classroom, carning a reputation as an outstand-",
+      "bbox": {
+        "x": 204,
+        "y": 1095,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 94.21,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "ing educator. Her (d) were appreciated by students, colleagues, the Head Teach-",
+      "cleanText": "ing educator. Her (d) were appreciated by students, colleagues, the Head Teach-",
+      "bbox": {
+        "x": 205,
+        "y": 1127,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "er, and the community, (e) respected and admired her dedication.",
+      "cleanText": "er, and the community, (e) respected and admired her dedication.",
+      "bbox": {
+        "x": 204,
+        "y": 1159,
+        "width": 746,
+        "height": 24
+      },
+      "confidence": 94.7,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "4. Read the passage carefully and replace the following words",
+      "cleanText": "Read the passage carefully and replace the following words",
+      "bbox": {
+        "x": 244,
+        "y": 1215,
+        "width": 813,
+        "height": 28
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "with their suitable synonyms or antonyms. 1x5=5",
+      "cleanText": "with their suitable synonyms or antonyms. 1x5=5",
+      "bbox": {
+        "x": 280,
+        "y": 1252,
+        "width": 819,
+        "height": 28
+      },
+      "confidence": 94.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "(a} Devote (Antonym)",
+      "cleanText": "(a} Devote (Antonym)",
+      "bbox": {
+        "x": 317,
+        "y": 1295,
+        "width": 243,
+        "height": 23
+      },
+      "confidence": 88.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "(b) Struggle (Synonym)",
+      "cleanText": "(b) Struggle (Synonym)",
+      "bbox": {
+        "x": 314,
+        "y": 1334,
+        "width": 261,
+        "height": 24
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "(c) Premises (Synonym)",
+      "cleanText": "(c) Premises (Synonym)",
+      "bbox": {
+        "x": 317,
+        "y": 1374,
+        "width": 264,
+        "height": 24
+      },
+      "confidence": 78.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "(d) Corridor (Synonym)",
+      "cleanText": "(d) Corridor (Synonym)",
+      "bbox": {
+        "x": 316,
+        "y": 1413,
+        "width": 261,
+        "height": 24
+      },
+      "confidence": 76.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "(e) Appreciate (Antonym)",
+      "cleanText": "(e) Appreciate (Antonym)",
+      "bbox": {
+        "x": 318,
+        "y": 1453,
+        "width": 282,
+        "height": 24
+      },
+      "confidence": 87.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-115-line-030",
+      "lineNumber": 30
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-115-line-001",
+      "lineNumber": 1,
+      "text": "110 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 208,
+        "y": 223,
+        "width": 902,
+        "height": 23
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-002",
+      "lineNumber": 2,
+      "text": "Write short answers to the following questions: 5x2=10",
+      "bbox": {
+        "x": 245,
+        "y": 288,
+        "width": 843,
+        "height": 27
+      },
+      "confidence": 95.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-003",
+      "lineNumber": 3,
+      "text": "(a) How did Helen Keller’s father learn about Perkins School for the",
+      "bbox": {
+        "x": 318,
+        "y": 330,
+        "width": 730,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-004",
+      "lineNumber": 4,
+      "text": "Where did Helen Keller begin her formal education?",
+      "bbox": {
+        "x": 363,
+        "y": 409,
+        "width": 554,
+        "height": 24
+      },
+      "confidence": 95.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-005",
+      "lineNumber": 5,
+      "text": "(c) What was the turning point in Helen Keller's life that affected her",
+      "bbox": {
+        "x": 318,
+        "y": 449,
+        "width": 733,
+        "height": 24
+      },
+      "confidence": 92.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-006",
+      "lineNumber": 6,
+      "text": "(d) Describe how Anne Sullivan became involved in Helen Keller’s life.",
+      "bbox": {
+        "x": 318,
+        "y": 528,
+        "width": 767,
+        "height": 23
+      },
+      "confidence": 94.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-007",
+      "lineNumber": 7,
+      "text": "(c} Was Helen Keller’s decision to pursuc education a turning point",
+      "bbox": {
+        "x": 317,
+        "y": 568,
+        "width": 793,
+        "height": 23
+      },
+      "confidence": 89.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-008",
+      "lineNumber": 8,
+      "text": "in her life? Argue your point.",
+      "bbox": {
+        "x": 363,
+        "y": 607,
+        "width": 304,
+        "height": 24
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-009",
+      "lineNumber": 9,
+      "text": "Read the text and answer the questions 3 & 4",
+      "bbox": {
+        "x": 245,
+        "y": 663,
+        "width": 588,
+        "height": 28
+      },
+      "confidence": 94.7,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-010",
+      "lineNumber": 10,
+      "text": "Over time, Shahana grew more devoted to her responsibilitics. She managed her house-",
+      "bbox": {
+        "x": 204,
+        "y": 707,
+        "width": 909,
+        "height": 23
+      },
+      "confidence": 93.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-011",
+      "lineNumber": 11,
+      "text": "hold duties while excelling in her studies. At school, she gave her best effort in teach-",
+      "bbox": {
+        "x": 204,
+        "y": 738,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-012",
+      "lineNumber": 12,
+      "text": "ing, ensuring that all students, whether struggling or excelling, received her guidance.",
+      "bbox": {
+        "x": 204,
+        "y": 770,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-013",
+      "lineNumber": 13,
+      "text": "Her students frequently sought her advice, not just in the classroom but also outside in",
+      "bbox": {
+        "x": 204,
+        "y": 802,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-014",
+      "lineNumber": 14,
+      "text": "the corridors and even beyond school premises. Before long, Shahana earned a reputa-",
+      "bbox": {
+        "x": 204,
+        "y": 833,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 94.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-015",
+      "lineNumber": 15,
+      "text": "tion as an outstanding teacher. Students greeted her warmly, and fellow teachers, includ-",
+      "bbox": {
+        "x": 204,
+        "y": 865,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 94.46,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-016",
+      "lineNumber": 16,
+      "text": "ing the Head Teacher, valued her contributions. Parents and community members recog-",
+      "bbox": {
+        "x": 205,
+        "y": 897,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-017",
+      "lineNumber": 17,
+      "text": "nized her dedication and often approached her with appreciation and respect.",
+      "bbox": {
+        "x": 204,
+        "y": 928,
+        "width": 809,
+        "height": 24
+      },
+      "confidence": 96.18,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-019",
+      "lineNumber": 19,
+      "text": "Shahana(a) increasingly dedicated to her responsibilities, (b) house-",
+      "bbox": {
+        "x": 205,
+        "y": 1028,
+        "width": 908,
+        "height": 32
+      },
+      "confidence": 93.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-020",
+      "lineNumber": 20,
+      "text": "hold duties with her studies and excelling as a teacher. She provided (c) to all",
+      "bbox": {
+        "x": 204,
+        "y": 1064,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 92.13,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-021",
+      "lineNumber": 21,
+      "text": "her students, both inside and outside the classroom, carning a reputation as an outstand-",
+      "bbox": {
+        "x": 204,
+        "y": 1095,
+        "width": 909,
+        "height": 24
+      },
+      "confidence": 94.21,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-022",
+      "lineNumber": 22,
+      "text": "ing educator. Her (d) were appreciated by students, colleagues, the Head Teach-",
+      "bbox": {
+        "x": 205,
+        "y": 1127,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-023",
+      "lineNumber": 23,
+      "text": "er, and the community, (e) respected and admired her dedication.",
+      "bbox": {
+        "x": 204,
+        "y": 1159,
+        "width": 746,
+        "height": 24
+      },
+      "confidence": 94.7,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-024",
+      "lineNumber": 24,
+      "text": "Read the passage carefully and replace the following words",
+      "bbox": {
+        "x": 244,
+        "y": 1215,
+        "width": 813,
+        "height": 28
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-025",
+      "lineNumber": 25,
+      "text": "with their suitable synonyms or antonyms. 1x5=5",
+      "bbox": {
+        "x": 280,
+        "y": 1252,
+        "width": 819,
+        "height": 28
+      },
+      "confidence": 94.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-026",
+      "lineNumber": 26,
+      "text": "(a} Devote (Antonym)",
+      "bbox": {
+        "x": 317,
+        "y": 1295,
+        "width": 243,
+        "height": 23
+      },
+      "confidence": 88.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-027",
+      "lineNumber": 27,
+      "text": "(b) Struggle (Synonym)",
+      "bbox": {
+        "x": 314,
+        "y": 1334,
+        "width": 261,
+        "height": 24
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-028",
+      "lineNumber": 28,
+      "text": "(c) Premises (Synonym)",
+      "bbox": {
+        "x": 317,
+        "y": 1374,
+        "width": 264,
+        "height": 24
+      },
+      "confidence": 78.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-029",
+      "lineNumber": 29,
+      "text": "(d) Corridor (Synonym)",
+      "bbox": {
+        "x": 316,
+        "y": 1413,
+        "width": 261,
+        "height": 24
+      },
+      "confidence": 76.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-115-line-030",
+      "lineNumber": 30,
+      "text": "(e) Appreciate (Antonym)",
+      "bbox": {
+        "x": 318,
+        "y": 1453,
+        "width": 282,
+        "height": 24
+      },
+      "confidence": 87.33,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "110 ENGLISH FOR TODAY\n2. Write short answers to the following questions: 5x2=10\n(a) How did Helen Keller’s father learn about Perkins School for the\nWhere did Helen Keller begin her formal education?\n(c) What was the turning point in Helen Keller's life that affected her\n(d) Describe how Anne Sullivan became involved in Helen Keller’s life.\n(c} Was Helen Keller’s decision to pursuc education a turning point\nin her life? Argue your point.\nRead the text and answer the questions 3 & 4\nOver time, Shahana grew more devoted to her responsibilitics. She managed her house-\nhold duties while excelling in her studies. At school, she gave her best effort in teach-\ning, ensuring that all students, whether struggling or excelling, received her guidance.\nHer students frequently sought her advice, not just in the classroom but also outside in\nthe corridors and even beyond school premises. Before long, Shahana earned a reputa-\ntion as an outstanding teacher. Students greeted her warmly, and fellow teachers, includ-\ning the Head Teacher, valued her contributions. Parents and community members recog-\nnized her dedication and often approached her with appreciation and respect.\n3. Complete the passage with suitable words: 1x5=5\nShahana(a) increasingly dedicated to her responsibilities, (b) house-\nhold duties with her studies and excelling as a teacher. She provided (c) to all\nher students, both inside and outside the classroom, carning a reputation as an outstand-\ning educator. Her (d) were appreciated by students, colleagues, the Head Teach-\ner, and the community, (e) respected and admired her dedication.\n4. Read the passage carefully and replace the following words\nwith their suitable synonyms or antonyms. 1x5=5\n(a} Devote (Antonym)\n(b) Struggle (Synonym)\n(c) Premises (Synonym)\n(d) Corridor (Synonym)\n(e) Appreciate (Antonym)",
+  "cleanText": "110 ENGLISH FOR TODAY\nWrite short answers to the following questions: 5x2=10\n(a) How did Helen Keller’s father learn about Perkins School for the\nWhere did Helen Keller begin her formal education?\n(c) What was the turning point in Helen Keller's life that affected her\n(d) Describe how Anne Sullivan became involved in Helen Keller’s life.\n(c} Was Helen Keller’s decision to pursuc education a turning point\nin her life? Argue your point.\nRead the text and answer the questions 3 & 4\nOver time, Shahana grew more devoted to her responsibilitics. She managed her house-\nhold duties while excelling in her studies. At school, she gave her best effort in teach-\ning, ensuring that all students, whether struggling or excelling, received her guidance.\nHer students frequently sought her advice, not just in the classroom but also outside in\nthe corridors and even beyond school premises. Before long, Shahana earned a reputa-\ntion as an outstanding teacher. Students greeted her warmly, and fellow teachers, includ-\ning the Head Teacher, valued her contributions. Parents and community members recog-\nnized her dedication and often approached her with appreciation and respect.\nComplete the passage with suitable words: 1x5=5\nShahana(a) increasingly dedicated to her responsibilities, (b) house-\nhold duties with her studies and excelling as a teacher. She provided (c) to all\nher students, both inside and outside the classroom, carning a reputation as an outstand-\ning educator. Her (d) were appreciated by students, colleagues, the Head Teach-\ner, and the community, (e) respected and admired her dedication.\nRead the passage carefully and replace the following words\nwith their suitable synonyms or antonyms. 1x5=5\n(a} Devote (Antonym)\n(b) Struggle (Synonym)\n(c) Premises (Synonym)\n(d) Corridor (Synonym)\n(e) Appreciate (Antonym)",
+  "aiReadyText": "110 ENGLISH FOR TODAY\nWrite short answers to the following questions: 5x2=10\n(a) How did Helen Keller’s father learn about Perkins School for the\nWhere did Helen Keller begin her formal education?\n(c) What was the turning point in Helen Keller's life that affected her\n(d) Describe how Anne Sullivan became involved in Helen Keller’s life.\n(c} Was Helen Keller’s decision to pursuc education a turning point\nin her life? Argue your point.\nRead the text and answer the questions 3 & 4\nOver time, Shahana grew more devoted to her responsibilitics. She managed her house-\nhold duties while excelling in her studies. At school, she gave her best effort in teach-\ning, ensuring that all students, whether struggling or excelling, received her guidance.\nHer students frequently sought her advice, not just in the classroom but also outside in\nthe corridors and even beyond school premises. Before long, Shahana earned a reputa-\ntion as an outstanding teacher. Students greeted her warmly, and fellow teachers, includ-\ning the Head Teacher, valued her contributions. Parents and community members recog-\nnized her dedication and often approached her with appreciation and respect.\nShahana(a) increasingly dedicated to her responsibilities, (b) house-\nhold duties with her studies and excelling as a teacher. She provided (c) to all\nher students, both inside and outside the classroom, carning a reputation as an outstand-\ning educator. Her (d) were appreciated by students, colleagues, the Head Teach-\ner, and the community, (e) respected and admired her dedication.\nRead the passage carefully and replace the following words\nwith their suitable synonyms or antonyms. 1x5=5\n(a} Devote (Antonym)\n(b) Struggle (Synonym)\n(c) Premises (Synonym)\n(d) Corridor (Synonym)\n(e) Appreciate (Antonym)"
+}

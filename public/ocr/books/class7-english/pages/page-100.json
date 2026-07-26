@@ -1,0 +1,719 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 100,
+  "image": "/ocr/books/class7-english/page-images/page-100.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Eight : Likes and Dislikes",
+      "cleanText": "Unit Eight : Likes and Dislikes",
+      "bbox": {
+        "x": 192,
+        "y": 269,
+        "width": 325,
+        "height": 24
+      },
+      "confidence": 86.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Fill in the table below against each thing/activity. Use the words likes/",
+      "cleanText": "Fill in the table below against each thing/activity. Use the words likes/",
+      "bbox": {
+        "x": 265,
+        "y": 336,
+        "width": 830,
+        "height": 24
+      },
+      "confidence": 91.25,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-100-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "doesn’t appropriately under each member of Paul’s",
+      "cleanText": "doesn’t appropriately under each member of Paul’s",
+      "bbox": {
+        "x": 262,
+        "y": 367,
+        "width": 830,
+        "height": 26
+      },
+      "confidence": 93.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "family. Two are done for you.",
+      "cleanText": "family. Two are done for you.",
+      "bbox": {
+        "x": 261,
+        "y": 402,
+        "width": 362,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Thing/activity Paul Sister",
+      "cleanText": "Thing/activity Paul Sister",
+      "bbox": {
+        "x": 271,
+        "y": 453,
+        "width": 521,
+        "height": 34
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "making sandwiches",
+      "cleanText": "making sandwiches",
+      "bbox": {
+        "x": 271,
+        "y": 491,
+        "width": 214,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "dislikes",
+      "cleanText": "dislikes",
+      "bbox": {
+        "x": 969,
+        "y": 531,
+        "width": 82,
+        "height": 18
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-100-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "watching animals",
+      "cleanText": "watching animals",
+      "bbox": {
+        "x": 271,
+        "y": 570,
+        "width": 191,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "sitting idly on grass",
+      "cleanText": "sitting idly on grass",
+      "bbox": {
+        "x": 271,
+        "y": 672,
+        "width": 212,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "watching others pla’",
+      "cleanText": "watching others pla’",
+      "bbox": {
+        "x": 271,
+        "y": 706,
+        "width": 214,
+        "height": 27
+      },
+      "confidence": 80.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "watching animals",
+      "cleanText": "watching animals",
+      "bbox": {
+        "x": 271,
+        "y": 736,
+        "width": 191,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Now write sentences using the table about people in Paul’s family",
+      "cleanText": "Now write sentences using the table about people in Paul’s family",
+      "bbox": {
+        "x": 260,
+        "y": 785,
+        "width": 832,
+        "height": 24
+      },
+      "confidence": 94.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "and your family. The first two are done for you.",
+      "cleanText": "and your family. The first two are done for you.",
+      "bbox": {
+        "x": 259,
+        "y": 818,
+        "width": 567,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "1, Paul likes watching animals. I like watching animals too.",
+      "cleanText": "1, Paul likes watching animals. I like watching animals too.",
+      "bbox": {
+        "x": 303,
+        "y": 863,
+        "width": 661,
+        "height": 25
+      },
+      "confidence": 92.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "2. His sister hates spiders but my sister does not hate them.",
+      "cleanText": "His sister hates spiders but my sister does not hate them.",
+      "bbox": {
+        "x": 300,
+        "y": 910,
+        "width": 657,
+        "height": 24
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Use the clues to write questions and answers about likes/dislikes.",
+      "cleanText": "Use the clues to write questions and answers about likes/dislikes.",
+      "bbox": {
+        "x": 261,
+        "y": 1005,
+        "width": 751,
+        "height": 24
+      },
+      "confidence": 94.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "1. Mr. Jabbar works with computers.",
+      "cleanText": "Mr. Jabbar works with computers.",
+      "bbox": {
+        "x": 262,
+        "y": 1052,
+        "width": 446,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Q: (like) Does Mr. Jabbar like working with computers?",
+      "cleanText": "Q: (like) Does Mr. Jabbar like working with computers?",
+      "bbox": {
+        "x": 300,
+        "y": 1098,
+        "width": 617,
+        "height": 25
+      },
+      "confidence": 94.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "A: (Yes, love) Yes, he loves working with computers.",
+      "cleanText": "A: (Yes, love) Yes, he loves working with computers.",
+      "bbox": {
+        "x": 300,
+        "y": 1144,
+        "width": 590,
+        "height": 25
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "2. Rabiul goes shopping at the weekend.",
+      "cleanText": "Rabiul goes shopping at the weekend.",
+      "bbox": {
+        "x": 261,
+        "y": 1195,
+        "width": 483,
+        "height": 25
+      },
+      "confidence": 94.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Q: (like) Does Robiul like going shopping at the weekend?",
+      "cleanText": "Q: (like) Does Robiul like going shopping at the weekend?",
+      "bbox": {
+        "x": 300,
+        "y": 1241,
+        "width": 646,
+        "height": 25
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "A: (No, hates) No, he hates going shopping at the weekend.",
+      "cleanText": "A: (No, hates) No, he hates going shopping at the weekend.",
+      "bbox": {
+        "x": 300,
+        "y": 1287,
+        "width": 653,
+        "height": 25
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "3. The students watch cricket.",
+      "cleanText": "The students watch cricket.",
+      "bbox": {
+        "x": 260,
+        "y": 1347,
+        "width": 360,
+        "height": 19
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "A: (Yes,",
+      "cleanText": "A: (Yes,",
+      "bbox": {
+        "x": 300,
+        "y": 1439,
+        "width": 91,
+        "height": 24
+      },
+      "confidence": 87.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-100-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "4. Rezina goes to the doctor.",
+      "cleanText": "Rezina goes to the doctor.",
+      "bbox": {
+        "x": 260,
+        "y": 1490,
+        "width": 346,
+        "height": 24
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Q: (Like)",
+      "cleanText": "Q: (Like)",
+      "bbox": {
+        "x": 300,
+        "y": 1536,
+        "width": 101,
+        "height": 24
+      },
+      "confidence": 72.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-100-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "A: (No, not like)",
+      "cleanText": "A: (No, not like)",
+      "bbox": {
+        "x": 300,
+        "y": 1582,
+        "width": 181,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-100-line-027",
+      "lineNumber": 27
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-100-line-001",
+      "lineNumber": 1,
+      "text": "Unit Eight : Likes and Dislikes",
+      "bbox": {
+        "x": 192,
+        "y": 269,
+        "width": 325,
+        "height": 24
+      },
+      "confidence": 86.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-003",
+      "lineNumber": 3,
+      "text": "doesn’t appropriately under each member of Paul’s",
+      "bbox": {
+        "x": 262,
+        "y": 367,
+        "width": 830,
+        "height": 26
+      },
+      "confidence": 93.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-004",
+      "lineNumber": 4,
+      "text": "family. Two are done for you.",
+      "bbox": {
+        "x": 261,
+        "y": 402,
+        "width": 362,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-005",
+      "lineNumber": 5,
+      "text": "Thing/activity Paul Sister",
+      "bbox": {
+        "x": 271,
+        "y": 453,
+        "width": 521,
+        "height": 34
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-006",
+      "lineNumber": 6,
+      "text": "making sandwiches",
+      "bbox": {
+        "x": 271,
+        "y": 491,
+        "width": 214,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-008",
+      "lineNumber": 8,
+      "text": "watching animals",
+      "bbox": {
+        "x": 271,
+        "y": 570,
+        "width": 191,
+        "height": 26
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-009",
+      "lineNumber": 9,
+      "text": "sitting idly on grass",
+      "bbox": {
+        "x": 271,
+        "y": 672,
+        "width": 212,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-010",
+      "lineNumber": 10,
+      "text": "watching others pla’",
+      "bbox": {
+        "x": 271,
+        "y": 706,
+        "width": 214,
+        "height": 27
+      },
+      "confidence": 80.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-011",
+      "lineNumber": 11,
+      "text": "watching animals",
+      "bbox": {
+        "x": 271,
+        "y": 736,
+        "width": 191,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-012",
+      "lineNumber": 12,
+      "text": "Now write sentences using the table about people in Paul’s family",
+      "bbox": {
+        "x": 260,
+        "y": 785,
+        "width": 832,
+        "height": 24
+      },
+      "confidence": 94.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-013",
+      "lineNumber": 13,
+      "text": "and your family. The first two are done for you.",
+      "bbox": {
+        "x": 259,
+        "y": 818,
+        "width": 567,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-014",
+      "lineNumber": 14,
+      "text": "1, Paul likes watching animals. I like watching animals too.",
+      "bbox": {
+        "x": 303,
+        "y": 863,
+        "width": 661,
+        "height": 25
+      },
+      "confidence": 92.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-015",
+      "lineNumber": 15,
+      "text": "His sister hates spiders but my sister does not hate them.",
+      "bbox": {
+        "x": 300,
+        "y": 910,
+        "width": 657,
+        "height": 24
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-016",
+      "lineNumber": 16,
+      "text": "Use the clues to write questions and answers about likes/dislikes.",
+      "bbox": {
+        "x": 261,
+        "y": 1005,
+        "width": 751,
+        "height": 24
+      },
+      "confidence": 94.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-017",
+      "lineNumber": 17,
+      "text": "Mr. Jabbar works with computers.",
+      "bbox": {
+        "x": 262,
+        "y": 1052,
+        "width": 446,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-018",
+      "lineNumber": 18,
+      "text": "Q: (like) Does Mr. Jabbar like working with computers?",
+      "bbox": {
+        "x": 300,
+        "y": 1098,
+        "width": 617,
+        "height": 25
+      },
+      "confidence": 94.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-019",
+      "lineNumber": 19,
+      "text": "A: (Yes, love) Yes, he loves working with computers.",
+      "bbox": {
+        "x": 300,
+        "y": 1144,
+        "width": 590,
+        "height": 25
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-020",
+      "lineNumber": 20,
+      "text": "Rabiul goes shopping at the weekend.",
+      "bbox": {
+        "x": 261,
+        "y": 1195,
+        "width": 483,
+        "height": 25
+      },
+      "confidence": 94.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-021",
+      "lineNumber": 21,
+      "text": "Q: (like) Does Robiul like going shopping at the weekend?",
+      "bbox": {
+        "x": 300,
+        "y": 1241,
+        "width": 646,
+        "height": 25
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-022",
+      "lineNumber": 22,
+      "text": "A: (No, hates) No, he hates going shopping at the weekend.",
+      "bbox": {
+        "x": 300,
+        "y": 1287,
+        "width": 653,
+        "height": 25
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-023",
+      "lineNumber": 23,
+      "text": "The students watch cricket.",
+      "bbox": {
+        "x": 260,
+        "y": 1347,
+        "width": 360,
+        "height": 19
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-025",
+      "lineNumber": 25,
+      "text": "Rezina goes to the doctor.",
+      "bbox": {
+        "x": 260,
+        "y": 1490,
+        "width": 346,
+        "height": 24
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-100-line-027",
+      "lineNumber": 27,
+      "text": "A: (No, not like)",
+      "bbox": {
+        "x": 300,
+        "y": 1582,
+        "width": 181,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Eight : Likes and Dislikes\nFill in the table below against each thing/activity. Use the words likes/\ndoesn’t appropriately under each member of Paul’s\nfamily. Two are done for you.\nThing/activity Paul Sister\nmaking sandwiches\ndislikes\nwatching animals\nsitting idly on grass\nwatching others pla’\nwatching animals\nNow write sentences using the table about people in Paul’s family\nand your family. The first two are done for you.\n1, Paul likes watching animals. I like watching animals too.\n2. His sister hates spiders but my sister does not hate them.\nUse the clues to write questions and answers about likes/dislikes.\n1. Mr. Jabbar works with computers.\nQ: (like) Does Mr. Jabbar like working with computers?\nA: (Yes, love) Yes, he loves working with computers.\n2. Rabiul goes shopping at the weekend.\nQ: (like) Does Robiul like going shopping at the weekend?\nA: (No, hates) No, he hates going shopping at the weekend.\n3. The students watch cricket.\nA: (Yes,\n4. Rezina goes to the doctor.\nQ: (Like)\nA: (No, not like)",
+  "cleanText": "Unit Eight : Likes and Dislikes\nFill in the table below against each thing/activity. Use the words likes/\ndoesn’t appropriately under each member of Paul’s\nfamily. Two are done for you.\nThing/activity Paul Sister\nmaking sandwiches\ndislikes\nwatching animals\nsitting idly on grass\nwatching others pla’\nwatching animals\nNow write sentences using the table about people in Paul’s family\nand your family. The first two are done for you.\n1, Paul likes watching animals. I like watching animals too.\nHis sister hates spiders but my sister does not hate them.\nUse the clues to write questions and answers about likes/dislikes.\nMr. Jabbar works with computers.\nQ: (like) Does Mr. Jabbar like working with computers?\nA: (Yes, love) Yes, he loves working with computers.\nRabiul goes shopping at the weekend.\nQ: (like) Does Robiul like going shopping at the weekend?\nA: (No, hates) No, he hates going shopping at the weekend.\nThe students watch cricket.\nA: (Yes,\nRezina goes to the doctor.\nQ: (Like)\nA: (No, not like)",
+  "aiReadyText": "Unit Eight : Likes and Dislikes\ndoesn’t appropriately under each member of Paul’s\nfamily. Two are done for you.\nThing/activity Paul Sister\nmaking sandwiches\nwatching animals\nsitting idly on grass\nwatching others pla’\nwatching animals\nNow write sentences using the table about people in Paul’s family\nand your family. The first two are done for you.\n1, Paul likes watching animals. I like watching animals too.\nHis sister hates spiders but my sister does not hate them.\nUse the clues to write questions and answers about likes/dislikes.\nMr. Jabbar works with computers.\nQ: (like) Does Mr. Jabbar like working with computers?\nA: (Yes, love) Yes, he loves working with computers.\nRabiul goes shopping at the weekend.\nQ: (like) Does Robiul like going shopping at the weekend?\nA: (No, hates) No, he hates going shopping at the weekend.\nThe students watch cricket.\nRezina goes to the doctor.\nA: (No, not like)"
+}

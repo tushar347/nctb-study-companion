@@ -1,0 +1,960 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 82,
+  "image": "/ocr/books/class7-english/page-images/page-082.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Seven : Games and Sports 77",
+      "cleanText": "Unit Seven : Games and Sports 77",
+      "bbox": {
+        "x": 206,
+        "y": 244,
+        "width": 905,
+        "height": 25
+      },
+      "confidence": 92.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Interviewer",
+      "cleanText": "Interviewer",
+      "bbox": {
+        "x": 280,
+        "y": 311,
+        "width": 125,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-082-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": ": Do you practise on Fridays and Saturdays?",
+      "cleanText": ": Do you practise on Fridays and Saturdays?",
+      "bbox": {
+        "x": 439,
+        "y": 311,
+        "width": 483,
+        "height": 25
+      },
+      "confidence": 95.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": ": No, I don’t. That’s my",
+      "cleanText": ": No, I don’t. That’s my",
+      "bbox": {
+        "x": 439,
+        "y": 353,
+        "width": 259,
+        "height": 25
+      },
+      "confidence": 90.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Interviewer",
+      "cleanText": "Interviewer",
+      "bbox": {
+        "x": 280,
+        "y": 395,
+        "width": 125,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-082-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "What on Fridays? (do)",
+      "cleanText": "What on Fridays? (do)",
+      "bbox": {
+        "x": 453,
+        "y": 395,
+        "width": 444,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": ": 1 go to my village home.",
+      "cleanText": ": 1 go to my village home.",
+      "bbox": {
+        "x": 439,
+        "y": 437,
+        "width": 281,
+        "height": 25
+      },
+      "confidence": 89.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Interviewer",
+      "cleanText": "Interviewer",
+      "bbox": {
+        "x": 284,
+        "y": 478,
+        "width": 125,
+        "height": 20
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-082-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "aNyONne there now? (live)",
+      "cleanText": "aNyONne there now? (live)",
+      "bbox": {
+        "x": 573,
+        "y": 478,
+        "width": 437,
+        "height": 25
+      },
+      "confidence": 83.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": ": Yes, my mum lives there. She waits for me.",
+      "cleanText": ": Yes, my mum lives there. She waits for me.",
+      "bbox": {
+        "x": 444,
+        "y": 520,
+        "width": 498,
+        "height": 25
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Interviewer",
+      "cleanText": "Interviewer",
+      "bbox": {
+        "x": 285,
+        "y": 562,
+        "width": 125,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-082-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "What she do there? (do)",
+      "cleanText": "What she do there? (do)",
+      "bbox": {
+        "x": 457,
+        "y": 562,
+        "width": 433,
+        "height": 24
+      },
+      "confidence": 94.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": ": She is a social worker.",
+      "cleanText": ": She is a social worker.",
+      "bbox": {
+        "x": 444,
+        "y": 604,
+        "width": 260,
+        "height": 19
+      },
+      "confidence": 94.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Interviewer",
+      "cleanText": "Interviewer",
+      "bbox": {
+        "x": 281,
+        "y": 646,
+        "width": 125,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-082-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": ": practice everyday? (start)",
+      "cleanText": ": practice everyday? (start)",
+      "bbox": {
+        "x": 443,
+        "y": 646,
+        "width": 480,
+        "height": 24
+      },
+      "confidence": 85.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": ": [ start practising at 7 from Sunday to Thursday.",
+      "cleanText": ": [ start practising at 7 from Sunday to Thursday.",
+      "bbox": {
+        "x": 444,
+        "y": 687,
+        "width": 531,
+        "height": 25
+      },
+      "confidence": 90.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Interviewer",
+      "cleanText": "Interviewer",
+      "bbox": {
+        "x": 281,
+        "y": 729,
+        "width": 125,
+        "height": 19
+      },
+      "confidence": 73.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-082-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "How your free time? (spend)",
+      "cleanText": "How your free time? (spend)",
+      "bbox": {
+        "x": 457,
+        "y": 729,
+        "width": 466,
+        "height": 25
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": ": 1 play kabadi, go cycling, or take long walks with my",
+      "cleanText": ": 1 play kabadi, go cycling, or take long walks with my",
+      "bbox": {
+        "x": 444,
+        "y": 771,
+        "width": 599,
+        "height": 25
+      },
+      "confidence": 88.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "friends. Sometimes I chat with my mum.",
+      "cleanText": "friends. Sometimes I chat with my mum.",
+      "bbox": {
+        "x": 452,
+        "y": 813,
+        "width": 446,
+        "height": 24
+      },
+      "confidence": 93.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": ": When back from your village? (come)",
+      "cleanText": ": When back from your village? (come)",
+      "bbox": {
+        "x": 443,
+        "y": 854,
+        "width": 549,
+        "height": 25
+      },
+      "confidence": 90.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Interviewer",
+      "cleanText": "Interviewer",
+      "bbox": {
+        "x": 281,
+        "y": 855,
+        "width": 125,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-082-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Ashish : On Saturday evening.",
+      "cleanText": "Ashish : On Saturday evening.",
+      "bbox": {
+        "x": 280,
+        "y": 892,
+        "width": 412,
+        "height": 34
+      },
+      "confidence": 94.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "E. Make a few more questions and answers for this interview. Work",
+      "cleanText": "E. Make a few more questions and answers for this interview. Work",
+      "bbox": {
+        "x": 206,
+        "y": 952,
+        "width": 905,
+        "height": 25
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "with a partner. Act out the interview.",
+      "cleanText": "with a partner. Act out the interview.",
+      "bbox": {
+        "x": 285,
+        "y": 986,
+        "width": 444,
+        "height": 24
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "F, Choose a sports star. Make six questions to ask him/her. Use the words",
+      "cleanText": "F, Choose a sports star. Make six questions to ask him/her. Use the words",
+      "bbox": {
+        "x": 205,
+        "y": 1032,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 94.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "in the box below. Then act out the interview with a partner.",
+      "cleanText": "in the box below. Then act out the interview with a partner.",
+      "bbox": {
+        "x": 285,
+        "y": 1064,
+        "width": 698,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "How, What , When, . Where, Do. Why,",
+      "cleanText": "How, What , When, . Where, Do. Why,",
+      "bbox": {
+        "x": 316,
+        "y": 1139,
+        "width": 691,
+        "height": 25
+      },
+      "confidence": 91.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "G. Make a personal fact file to talk about a day in your life. Answer",
+      "cleanText": "G. Make a personal fact file to talk about a day in your life. Answer",
+      "bbox": {
+        "x": 205,
+        "y": 1226,
+        "width": 907,
+        "height": 32
+      },
+      "confidence": 88.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "the questions.",
+      "cleanText": "the questions.",
+      "bbox": {
+        "x": 282,
+        "y": 1263,
+        "width": 161,
+        "height": 24
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "What time do you get up?",
+      "cleanText": "What time do you get up?",
+      "bbox": {
+        "x": 443,
+        "y": 1315,
+        "width": 282,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "What do you have for breakfast?",
+      "cleanText": "What do you have for breakfast?",
+      "bbox": {
+        "x": 442,
+        "y": 1355,
+        "width": 357,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "How do you get to school’?",
+      "cleanText": "How do you get to school’?",
+      "bbox": {
+        "x": 443,
+        "y": 1394,
+        "width": 292,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "What games or sports do you play? Why?",
+      "cleanText": "What games or sports do you play? Why?",
+      "bbox": {
+        "x": 443,
+        "y": 1434,
+        "width": 457,
+        "height": 25
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "Who is your favourite sports star?",
+      "cleanText": "Who is your favourite sports star?",
+      "bbox": {
+        "x": 442,
+        "y": 1473,
+        "width": 371,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-035",
+      "lineNumber": 35
+    },
+    {
+      "text": "When do you go home from school?",
+      "cleanText": "When do you go home from school?",
+      "bbox": {
+        "x": 443,
+        "y": 1513,
+        "width": 399,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-036",
+      "lineNumber": 36
+    },
+    {
+      "text": "Do you go home at the same time everyday?",
+      "cleanText": "Do you go home at the same time everyday?",
+      "bbox": {
+        "x": 443,
+        "y": 1553,
+        "width": 487,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-082-line-037",
+      "lineNumber": 37
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-082-line-001",
+      "lineNumber": 1,
+      "text": "Unit Seven : Games and Sports 77",
+      "bbox": {
+        "x": 206,
+        "y": 244,
+        "width": 905,
+        "height": 25
+      },
+      "confidence": 92.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-003",
+      "lineNumber": 3,
+      "text": ": Do you practise on Fridays and Saturdays?",
+      "bbox": {
+        "x": 439,
+        "y": 311,
+        "width": 483,
+        "height": 25
+      },
+      "confidence": 95.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-004",
+      "lineNumber": 4,
+      "text": ": No, I don’t. That’s my",
+      "bbox": {
+        "x": 439,
+        "y": 353,
+        "width": 259,
+        "height": 25
+      },
+      "confidence": 90.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-006",
+      "lineNumber": 6,
+      "text": "What on Fridays? (do)",
+      "bbox": {
+        "x": 453,
+        "y": 395,
+        "width": 444,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-007",
+      "lineNumber": 7,
+      "text": ": 1 go to my village home.",
+      "bbox": {
+        "x": 439,
+        "y": 437,
+        "width": 281,
+        "height": 25
+      },
+      "confidence": 89.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-009",
+      "lineNumber": 9,
+      "text": "aNyONne there now? (live)",
+      "bbox": {
+        "x": 573,
+        "y": 478,
+        "width": 437,
+        "height": 25
+      },
+      "confidence": 83.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-010",
+      "lineNumber": 10,
+      "text": ": Yes, my mum lives there. She waits for me.",
+      "bbox": {
+        "x": 444,
+        "y": 520,
+        "width": 498,
+        "height": 25
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-012",
+      "lineNumber": 12,
+      "text": "What she do there? (do)",
+      "bbox": {
+        "x": 457,
+        "y": 562,
+        "width": 433,
+        "height": 24
+      },
+      "confidence": 94.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-013",
+      "lineNumber": 13,
+      "text": ": She is a social worker.",
+      "bbox": {
+        "x": 444,
+        "y": 604,
+        "width": 260,
+        "height": 19
+      },
+      "confidence": 94.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-015",
+      "lineNumber": 15,
+      "text": ": practice everyday? (start)",
+      "bbox": {
+        "x": 443,
+        "y": 646,
+        "width": 480,
+        "height": 24
+      },
+      "confidence": 85.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-016",
+      "lineNumber": 16,
+      "text": ": [ start practising at 7 from Sunday to Thursday.",
+      "bbox": {
+        "x": 444,
+        "y": 687,
+        "width": 531,
+        "height": 25
+      },
+      "confidence": 90.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-018",
+      "lineNumber": 18,
+      "text": "How your free time? (spend)",
+      "bbox": {
+        "x": 457,
+        "y": 729,
+        "width": 466,
+        "height": 25
+      },
+      "confidence": 91.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-019",
+      "lineNumber": 19,
+      "text": ": 1 play kabadi, go cycling, or take long walks with my",
+      "bbox": {
+        "x": 444,
+        "y": 771,
+        "width": 599,
+        "height": 25
+      },
+      "confidence": 88.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-020",
+      "lineNumber": 20,
+      "text": "friends. Sometimes I chat with my mum.",
+      "bbox": {
+        "x": 452,
+        "y": 813,
+        "width": 446,
+        "height": 24
+      },
+      "confidence": 93.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-021",
+      "lineNumber": 21,
+      "text": ": When back from your village? (come)",
+      "bbox": {
+        "x": 443,
+        "y": 854,
+        "width": 549,
+        "height": 25
+      },
+      "confidence": 90.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-023",
+      "lineNumber": 23,
+      "text": "Ashish : On Saturday evening.",
+      "bbox": {
+        "x": 280,
+        "y": 892,
+        "width": 412,
+        "height": 34
+      },
+      "confidence": 94.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-024",
+      "lineNumber": 24,
+      "text": "E. Make a few more questions and answers for this interview. Work",
+      "bbox": {
+        "x": 206,
+        "y": 952,
+        "width": 905,
+        "height": 25
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-025",
+      "lineNumber": 25,
+      "text": "with a partner. Act out the interview.",
+      "bbox": {
+        "x": 285,
+        "y": 986,
+        "width": 444,
+        "height": 24
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-026",
+      "lineNumber": 26,
+      "text": "F, Choose a sports star. Make six questions to ask him/her. Use the words",
+      "bbox": {
+        "x": 205,
+        "y": 1032,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 94.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-027",
+      "lineNumber": 27,
+      "text": "in the box below. Then act out the interview with a partner.",
+      "bbox": {
+        "x": 285,
+        "y": 1064,
+        "width": 698,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-028",
+      "lineNumber": 28,
+      "text": "How, What , When, . Where, Do. Why,",
+      "bbox": {
+        "x": 316,
+        "y": 1139,
+        "width": 691,
+        "height": 25
+      },
+      "confidence": 91.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-029",
+      "lineNumber": 29,
+      "text": "G. Make a personal fact file to talk about a day in your life. Answer",
+      "bbox": {
+        "x": 205,
+        "y": 1226,
+        "width": 907,
+        "height": 32
+      },
+      "confidence": 88.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-030",
+      "lineNumber": 30,
+      "text": "the questions.",
+      "bbox": {
+        "x": 282,
+        "y": 1263,
+        "width": 161,
+        "height": 24
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-031",
+      "lineNumber": 31,
+      "text": "What time do you get up?",
+      "bbox": {
+        "x": 443,
+        "y": 1315,
+        "width": 282,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-032",
+      "lineNumber": 32,
+      "text": "What do you have for breakfast?",
+      "bbox": {
+        "x": 442,
+        "y": 1355,
+        "width": 357,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-033",
+      "lineNumber": 33,
+      "text": "How do you get to school’?",
+      "bbox": {
+        "x": 443,
+        "y": 1394,
+        "width": 292,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-034",
+      "lineNumber": 34,
+      "text": "What games or sports do you play? Why?",
+      "bbox": {
+        "x": 443,
+        "y": 1434,
+        "width": 457,
+        "height": 25
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-035",
+      "lineNumber": 35,
+      "text": "Who is your favourite sports star?",
+      "bbox": {
+        "x": 442,
+        "y": 1473,
+        "width": 371,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-036",
+      "lineNumber": 36,
+      "text": "When do you go home from school?",
+      "bbox": {
+        "x": 443,
+        "y": 1513,
+        "width": 399,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-082-line-037",
+      "lineNumber": 37,
+      "text": "Do you go home at the same time everyday?",
+      "bbox": {
+        "x": 443,
+        "y": 1553,
+        "width": 487,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Seven : Games and Sports 77\nInterviewer\n: Do you practise on Fridays and Saturdays?\n: No, I don’t. That’s my\nInterviewer\nWhat on Fridays? (do)\n: 1 go to my village home.\nInterviewer\naNyONne there now? (live)\n: Yes, my mum lives there. She waits for me.\nInterviewer\nWhat she do there? (do)\n: She is a social worker.\nInterviewer\n: practice everyday? (start)\n: [ start practising at 7 from Sunday to Thursday.\nInterviewer\nHow your free time? (spend)\n: 1 play kabadi, go cycling, or take long walks with my\nfriends. Sometimes I chat with my mum.\n: When back from your village? (come)\nInterviewer\nAshish : On Saturday evening.\nE. Make a few more questions and answers for this interview. Work\nwith a partner. Act out the interview.\nF, Choose a sports star. Make six questions to ask him/her. Use the words\nin the box below. Then act out the interview with a partner.\nHow, What , When, . Where, Do. Why,\nG. Make a personal fact file to talk about a day in your life. Answer\nthe questions.\nWhat time do you get up?\nWhat do you have for breakfast?\nHow do you get to school’?\nWhat games or sports do you play? Why?\nWho is your favourite sports star?\nWhen do you go home from school?\nDo you go home at the same time everyday?",
+  "cleanText": "Unit Seven : Games and Sports 77\nInterviewer\n: Do you practise on Fridays and Saturdays?\n: No, I don’t. That’s my\nInterviewer\nWhat on Fridays? (do)\n: 1 go to my village home.\nInterviewer\naNyONne there now? (live)\n: Yes, my mum lives there. She waits for me.\nInterviewer\nWhat she do there? (do)\n: She is a social worker.\nInterviewer\n: practice everyday? (start)\n: [ start practising at 7 from Sunday to Thursday.\nInterviewer\nHow your free time? (spend)\n: 1 play kabadi, go cycling, or take long walks with my\nfriends. Sometimes I chat with my mum.\n: When back from your village? (come)\nInterviewer\nAshish : On Saturday evening.\nE. Make a few more questions and answers for this interview. Work\nwith a partner. Act out the interview.\nF, Choose a sports star. Make six questions to ask him/her. Use the words\nin the box below. Then act out the interview with a partner.\nHow, What , When, . Where, Do. Why,\nG. Make a personal fact file to talk about a day in your life. Answer\nthe questions.\nWhat time do you get up?\nWhat do you have for breakfast?\nHow do you get to school’?\nWhat games or sports do you play? Why?\nWho is your favourite sports star?\nWhen do you go home from school?\nDo you go home at the same time everyday?",
+  "aiReadyText": "Unit Seven : Games and Sports 77\n: Do you practise on Fridays and Saturdays?\n: No, I don’t. That’s my\nWhat on Fridays? (do)\n: 1 go to my village home.\naNyONne there now? (live)\n: Yes, my mum lives there. She waits for me.\nWhat she do there? (do)\n: She is a social worker.\n: practice everyday? (start)\n: [ start practising at 7 from Sunday to Thursday.\nHow your free time? (spend)\n: 1 play kabadi, go cycling, or take long walks with my\nfriends. Sometimes I chat with my mum.\n: When back from your village? (come)\nAshish : On Saturday evening.\nE. Make a few more questions and answers for this interview. Work\nwith a partner. Act out the interview.\nF, Choose a sports star. Make six questions to ask him/her. Use the words\nin the box below. Then act out the interview with a partner.\nHow, What , When, . Where, Do. Why,\nG. Make a personal fact file to talk about a day in your life. Answer\nthe questions.\nWhat time do you get up?\nWhat do you have for breakfast?\nHow do you get to school’?\nWhat games or sports do you play? Why?\nWho is your favourite sports star?\nWhen do you go home from school?\nDo you go home at the same time everyday?"
+}

@@ -1,0 +1,650 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 65,
+  "image": "/ocr/books/class7-english/page-images/page-065.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "2, Julie is Zishan’s sister.",
+      "cleanText": "2, Julie is Zishan’s sister.",
+      "bbox": {
+        "x": 265,
+        "y": 334,
+        "width": 400,
+        "height": 20
+      },
+      "confidence": 89.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "a- older",
+      "cleanText": "a- older",
+      "bbox": {
+        "x": 304,
+        "y": 366,
+        "width": 89,
+        "height": 20
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-065-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "b. younger",
+      "cleanText": "younger",
+      "bbox": {
+        "x": 304,
+        "y": 397,
+        "width": 122,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-065-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "c. cousin",
+      "cleanText": "cousin",
+      "bbox": {
+        "x": 304,
+        "y": 428,
+        "width": 104,
+        "height": 19
+      },
+      "confidence": 76.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-065-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "3. Zishan and Julie have finished their exam.",
+      "cleanText": "Zishan and Julie have finished their exam.",
+      "bbox": {
+        "x": 263,
+        "y": 477,
+        "width": 707,
+        "height": 19
+      },
+      "confidence": 93.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "a. annual",
+      "cleanText": "annual",
+      "bbox": {
+        "x": 303,
+        "y": 514,
+        "width": 103,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-065-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "c. second terminal",
+      "cleanText": "second terminal",
+      "bbox": {
+        "x": 303,
+        "y": 571,
+        "width": 211,
+        "height": 33
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "4. Zishan and Julie chat online. This means they talk to their",
+      "cleanText": "Zishan and Julie chat online. This means they talk to their",
+      "bbox": {
+        "x": 263,
+        "y": 622,
+        "width": 728,
+        "height": 25
+      },
+      "confidence": 91.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "a. on the internet.",
+      "cleanText": "on the internet.",
+      "bbox": {
+        "x": 304,
+        "y": 690,
+        "width": 201,
+        "height": 19
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "b. on the telephone.",
+      "cleanText": "on the telephone.",
+      "bbox": {
+        "x": 304,
+        "y": 720,
+        "width": 223,
+        "height": 25
+      },
+      "confidence": 93.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "c. inthe classroom.",
+      "cleanText": "inthe classroom.",
+      "bbox": {
+        "x": 304,
+        "y": 749,
+        "width": 222,
+        "height": 20
+      },
+      "confidence": 87.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "5, Zishan and Julie are getting bored. The underlined words mean",
+      "cleanText": "5, Zishan and Julie are getting bored. The underlined words mean",
+      "bbox": {
+        "x": 263,
+        "y": 792,
+        "width": 786,
+        "height": 25
+      },
+      "confidence": 94.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "a. making friends.",
+      "cleanText": "making friends.",
+      "bbox": {
+        "x": 303,
+        "y": 831,
+        "width": 209,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "b. becoming angry",
+      "cleanText": "becoming angry",
+      "bbox": {
+        "x": 306,
+        "y": 867,
+        "width": 212,
+        "height": 24
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "c. feeling tired.",
+      "cleanText": "feeling tired.",
+      "bbox": {
+        "x": 303,
+        "y": 900,
+        "width": 177,
+        "height": 24
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "6. Zishan and Julie are getting bored because",
+      "cleanText": "Zishan and Julie are getting bored because",
+      "bbox": {
+        "x": 263,
+        "y": 949,
+        "width": 540,
+        "height": 25
+      },
+      "confidence": 95.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "a. they are staying in the house.",
+      "cleanText": "they are staying in the house.",
+      "bbox": {
+        "x": 303,
+        "y": 988,
+        "width": 357,
+        "height": 25
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "b. they are staying inside their closed room.",
+      "cleanText": "they are staying inside their closed room.",
+      "bbox": {
+        "x": 306,
+        "y": 1023,
+        "width": 486,
+        "height": 25
+      },
+      "confidence": 94.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "c. they are busy talking to their friends.",
+      "cleanText": "they are busy talking to their friends.",
+      "bbox": {
+        "x": 303,
+        "y": 1059,
+        "width": 441,
+        "height": 25
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "7. What was the wonderful surprise to Zishan and Julie?",
+      "cleanText": "What was the wonderful surprise to Zishan and Julie?",
+      "bbox": {
+        "x": 263,
+        "y": 1097,
+        "width": 674,
+        "height": 25
+      },
+      "confidence": 94.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "a. Their second term exam were over.",
+      "cleanText": "Their second term exam were over.",
+      "bbox": {
+        "x": 303,
+        "y": 1143,
+        "width": 425,
+        "height": 19
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "b. They were going to see their grandparents.",
+      "cleanText": "They were going to see their grandparents.",
+      "bbox": {
+        "x": 306,
+        "y": 1178,
+        "width": 502,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "c. They did not like to go to the village.",
+      "cleanText": "They did not like to go to the village.",
+      "bbox": {
+        "x": 303,
+        "y": 1213,
+        "width": 444,
+        "height": 25
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Write a paragraph about what you will do after your first/second",
+      "cleanText": "Write a paragraph about what you will do after your first/second",
+      "bbox": {
+        "x": 266,
+        "y": 1263,
+        "width": 832,
+        "height": 24
+      },
+      "confidence": 92.73,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-065-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "terminal exam is over.",
+      "cleanText": "terminal exam is over.",
+      "bbox": {
+        "x": 267,
+        "y": 1306,
+        "width": 265,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-065-line-025",
+      "lineNumber": 25
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-065-line-001",
+      "lineNumber": 1,
+      "text": "2, Julie is Zishan’s sister.",
+      "bbox": {
+        "x": 265,
+        "y": 334,
+        "width": 400,
+        "height": 20
+      },
+      "confidence": 89.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-005",
+      "lineNumber": 5,
+      "text": "Zishan and Julie have finished their exam.",
+      "bbox": {
+        "x": 263,
+        "y": 477,
+        "width": 707,
+        "height": 19
+      },
+      "confidence": 93.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-007",
+      "lineNumber": 7,
+      "text": "second terminal",
+      "bbox": {
+        "x": 303,
+        "y": 571,
+        "width": 211,
+        "height": 33
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-008",
+      "lineNumber": 8,
+      "text": "Zishan and Julie chat online. This means they talk to their",
+      "bbox": {
+        "x": 263,
+        "y": 622,
+        "width": 728,
+        "height": 25
+      },
+      "confidence": 91.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-009",
+      "lineNumber": 9,
+      "text": "on the internet.",
+      "bbox": {
+        "x": 304,
+        "y": 690,
+        "width": 201,
+        "height": 19
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-010",
+      "lineNumber": 10,
+      "text": "on the telephone.",
+      "bbox": {
+        "x": 304,
+        "y": 720,
+        "width": 223,
+        "height": 25
+      },
+      "confidence": 93.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-011",
+      "lineNumber": 11,
+      "text": "inthe classroom.",
+      "bbox": {
+        "x": 304,
+        "y": 749,
+        "width": 222,
+        "height": 20
+      },
+      "confidence": 87.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-012",
+      "lineNumber": 12,
+      "text": "5, Zishan and Julie are getting bored. The underlined words mean",
+      "bbox": {
+        "x": 263,
+        "y": 792,
+        "width": 786,
+        "height": 25
+      },
+      "confidence": 94.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-013",
+      "lineNumber": 13,
+      "text": "making friends.",
+      "bbox": {
+        "x": 303,
+        "y": 831,
+        "width": 209,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-014",
+      "lineNumber": 14,
+      "text": "becoming angry",
+      "bbox": {
+        "x": 306,
+        "y": 867,
+        "width": 212,
+        "height": 24
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-015",
+      "lineNumber": 15,
+      "text": "feeling tired.",
+      "bbox": {
+        "x": 303,
+        "y": 900,
+        "width": 177,
+        "height": 24
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-016",
+      "lineNumber": 16,
+      "text": "Zishan and Julie are getting bored because",
+      "bbox": {
+        "x": 263,
+        "y": 949,
+        "width": 540,
+        "height": 25
+      },
+      "confidence": 95.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-017",
+      "lineNumber": 17,
+      "text": "they are staying in the house.",
+      "bbox": {
+        "x": 303,
+        "y": 988,
+        "width": 357,
+        "height": 25
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-018",
+      "lineNumber": 18,
+      "text": "they are staying inside their closed room.",
+      "bbox": {
+        "x": 306,
+        "y": 1023,
+        "width": 486,
+        "height": 25
+      },
+      "confidence": 94.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-019",
+      "lineNumber": 19,
+      "text": "they are busy talking to their friends.",
+      "bbox": {
+        "x": 303,
+        "y": 1059,
+        "width": 441,
+        "height": 25
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-020",
+      "lineNumber": 20,
+      "text": "What was the wonderful surprise to Zishan and Julie?",
+      "bbox": {
+        "x": 263,
+        "y": 1097,
+        "width": 674,
+        "height": 25
+      },
+      "confidence": 94.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-021",
+      "lineNumber": 21,
+      "text": "Their second term exam were over.",
+      "bbox": {
+        "x": 303,
+        "y": 1143,
+        "width": 425,
+        "height": 19
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-022",
+      "lineNumber": 22,
+      "text": "They were going to see their grandparents.",
+      "bbox": {
+        "x": 306,
+        "y": 1178,
+        "width": 502,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-023",
+      "lineNumber": 23,
+      "text": "They did not like to go to the village.",
+      "bbox": {
+        "x": 303,
+        "y": 1213,
+        "width": 444,
+        "height": 25
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-065-line-025",
+      "lineNumber": 25,
+      "text": "terminal exam is over.",
+      "bbox": {
+        "x": 267,
+        "y": 1306,
+        "width": 265,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "2, Julie is Zishan’s sister.\na- older\nb. younger\nc. cousin\n3. Zishan and Julie have finished their exam.\na. annual\nc. second terminal\n4. Zishan and Julie chat online. This means they talk to their\na. on the internet.\nb. on the telephone.\nc. inthe classroom.\n5, Zishan and Julie are getting bored. The underlined words mean\na. making friends.\nb. becoming angry\nc. feeling tired.\n6. Zishan and Julie are getting bored because\na. they are staying in the house.\nb. they are staying inside their closed room.\nc. they are busy talking to their friends.\n7. What was the wonderful surprise to Zishan and Julie?\na. Their second term exam were over.\nb. They were going to see their grandparents.\nc. They did not like to go to the village.\nWrite a paragraph about what you will do after your first/second\nterminal exam is over.",
+  "cleanText": "2, Julie is Zishan’s sister.\na- older\nyounger\ncousin\nZishan and Julie have finished their exam.\nannual\nsecond terminal\nZishan and Julie chat online. This means they talk to their\non the internet.\non the telephone.\ninthe classroom.\n5, Zishan and Julie are getting bored. The underlined words mean\nmaking friends.\nbecoming angry\nfeeling tired.\nZishan and Julie are getting bored because\nthey are staying in the house.\nthey are staying inside their closed room.\nthey are busy talking to their friends.\nWhat was the wonderful surprise to Zishan and Julie?\nTheir second term exam were over.\nThey were going to see their grandparents.\nThey did not like to go to the village.\nWrite a paragraph about what you will do after your first/second\nterminal exam is over.",
+  "aiReadyText": "2, Julie is Zishan’s sister.\nZishan and Julie have finished their exam.\nsecond terminal\nZishan and Julie chat online. This means they talk to their\non the internet.\non the telephone.\ninthe classroom.\n5, Zishan and Julie are getting bored. The underlined words mean\nmaking friends.\nbecoming angry\nfeeling tired.\nZishan and Julie are getting bored because\nthey are staying in the house.\nthey are staying inside their closed room.\nthey are busy talking to their friends.\nWhat was the wonderful surprise to Zishan and Julie?\nTheir second term exam were over.\nThey were going to see their grandparents.\nThey did not like to go to the village.\nterminal exam is over."
+}

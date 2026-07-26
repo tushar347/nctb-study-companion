@@ -1,0 +1,939 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 99,
+  "image": "/ocr/books/class7-english/page-images/page-099.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "94 ENGLISH FOR TODAY",
+      "cleanText": "94 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 195,
+        "y": 269,
+        "width": 911,
+        "height": 20
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 5: Paul and His Family",
+      "cleanText": "Lesson 5: Paul and His Family",
+      "bbox": {
+        "x": 193,
+        "y": 333,
+        "width": 410,
+        "height": 28
+      },
+      "confidence": 91.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Keywords: shuffle(v), sandwiches, spider,",
+      "cleanText": "Keywords: shuffle(v), sandwiches, spider,",
+      "bbox": {
+        "x": 217,
+        "y": 385,
+        "width": 864,
+        "height": 32
+      },
+      "confidence": 90.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "fly, insects , bush, relax , run",
+      "cleanText": "fly, insects , bush, relax , run",
+      "bbox": {
+        "x": 378,
+        "y": 437,
+        "width": 664,
+        "height": 26
+      },
+      "confidence": 90.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "A- Write five sentences on one piece of paper describing what you really",
+      "cleanText": "A- Write five sentences on one piece of paper describing what you really",
+      "bbox": {
+        "x": 192,
+        "y": 501,
+        "width": 909,
+        "height": 25
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "like, don’t really like etc., but don’t write your name. Your teacher will",
+      "cleanText": "like, don’t really like etc., but don’t write your name. Your teacher will",
+      "bbox": {
+        "x": 272,
+        "y": 534,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 94.46,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "collect the pieces of paper from all students. He/she will shuffle and give",
+      "cleanText": "collect the pieces of paper from all students. He/she will shuffle and give",
+      "bbox": {
+        "x": 270,
+        "y": 567,
+        "width": 830,
+        "height": 25
+      },
+      "confidence": 94.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "them back to you all. When you have received the piece of paper written",
+      "cleanText": "them back to you all. When you have received the piece of paper written",
+      "bbox": {
+        "x": 272,
+        "y": 600,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "by some other student, read it and guess who could be the writer.",
+      "cleanText": "by some other student, read it and guess who could be the writer.",
+      "bbox": {
+        "x": 271,
+        "y": 633,
+        "width": 765,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "B. Now, read the article that Paul has written for the school magazine of",
+      "cleanText": "Now, read the article that Paul has written for the school magazine of",
+      "bbox": {
+        "x": 192,
+        "y": 691,
+        "width": 912,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Sundarpur High School about his childhood memories.",
+      "cleanText": "Sundarpur High School about his childhood memories.",
+      "bbox": {
+        "x": 271,
+        "y": 725,
+        "width": 668,
+        "height": 26
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Hello, dear readers. [’m Paul. The boy that you can see feeding a rabbit in",
+      "cleanText": "Hello, dear readers. [’m Paul. The boy that you can see feeding a rabbit in",
+      "bbox": {
+        "x": 268,
+        "y": 781,
+        "width": 833,
+        "height": 25
+      },
+      "confidence": 93.13,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "this picture was me when I was a little kid. Today, I’m going to tell you how",
+      "cleanText": "this picture was me when I was a little kid. Today, I’m going to tell you how",
+      "bbox": {
+        "x": 267,
+        "y": 812,
+        "width": 834,
+        "height": 33
+      },
+      "confidence": 95.41,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "I spent my childhood days and what my family and I liked and disliked.",
+      "cleanText": "I spent my childhood days and what my family and I liked and disliked.",
+      "bbox": {
+        "x": 268,
+        "y": 851,
+        "width": 793,
+        "height": 25
+      },
+      "confidence": 94.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "My family and I loved going to the park on 5",
+      "cleanText": "My family and I loved going to the park on 5",
+      "bbox": {
+        "x": 267,
+        "y": 897,
+        "width": 683,
+        "height": 25
+      },
+      "confidence": 91.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "weekends. We liked having picnics there.",
+      "cleanText": "weekends. We liked having picnics there.",
+      "bbox": {
+        "x": 267,
+        "y": 933,
+        "width": 478,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "My sister and I liked to watch the animals.",
+      "cleanText": "My sister and I liked to watch the animals.",
+      "bbox": {
+        "x": 267,
+        "y": 968,
+        "width": 477,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "My mother made simple sandwiches for us",
+      "cleanText": "My mother made simple sandwiches for us",
+      "bbox": {
+        "x": 268,
+        "y": 1003,
+        "width": 478,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "because both my mother and father disliked",
+      "cleanText": "because both my mother and father disliked",
+      "bbox": {
+        "x": 267,
+        "y": 1038,
+        "width": 478,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "cooking on picnic days. My sister and I",
+      "cleanText": "cooking on picnic days. My sister and I",
+      "bbox": {
+        "x": 267,
+        "y": 1073,
+        "width": 478,
+        "height": 25
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "loved playing around the park and feeding .",
+      "cleanText": "loved playing around the park and feeding .",
+      "bbox": {
+        "x": 268,
+        "y": 1109,
+        "width": 500,
+        "height": 25
+      },
+      "confidence": 93.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "the animals. | didn’t like sitting on the grass",
+      "cleanText": "the animals. | didn’t like sitting on the grass",
+      "bbox": {
+        "x": 267,
+        "y": 1144,
+        "width": 479,
+        "height": 25
+      },
+      "confidence": 94.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "and doing nothing for hours. My parents",
+      "cleanText": "and doing nothing for hours. My parents",
+      "bbox": {
+        "x": 267,
+        "y": 1179,
+        "width": 479,
+        "height": 25
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "liked to watch us play while they talked. We",
+      "cleanText": "liked to watch us play while they talked. We",
+      "bbox": {
+        "x": 268,
+        "y": 1214,
+        "width": 478,
+        "height": 25
+      },
+      "confidence": 94.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "all liked going to the park because we loved",
+      "cleanText": "all liked going to the park because we loved",
+      "bbox": {
+        "x": 267,
+        "y": 1249,
+        "width": 479,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "being outdoors and feeling free. We could relax there and listen to the birds",
+      "cleanText": "being outdoors and feeling free. We could relax there and listen to the birds",
+      "bbox": {
+        "x": 267,
+        "y": 1285,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 96.21,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "singing. We also enjoyed watching the little rabbits running around.",
+      "cleanText": "singing. We also enjoyed watching the little rabbits running around.",
+      "bbox": {
+        "x": 268,
+        "y": 1321,
+        "width": 742,
+        "height": 24
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "We could play as much as we wanted but my father got angry if we went",
+      "cleanText": "We could play as much as we wanted but my father got angry if we went",
+      "bbox": {
+        "x": 267,
+        "y": 1376,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 96.06,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "near the bushes. He didn’t like letting his children go too far out of sight.",
+      "cleanText": "near the bushes. He didn’t like letting his children go too far out of sight.",
+      "bbox": {
+        "x": 267,
+        "y": 1411,
+        "width": 833,
+        "height": 25
+      },
+      "confidence": 95.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "Sometimes, when we went too far away, my mother called us back. She used",
+      "cleanText": "Sometimes, when we went too far away, my mother called us back. She used",
+      "bbox": {
+        "x": 268,
+        "y": 1447,
+        "width": 833,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "to tell my sister that she had seen some spiders near the bushes. My sister",
+      "cleanText": "to tell my sister that she had seen some spiders near the bushes. My sister",
+      "bbox": {
+        "x": 268,
+        "y": 1482,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 96.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "was afraid of spiders. She still hates them. I’m not afraid of spiders, but |",
+      "cleanText": "was afraid of spiders. She still hates them. I’m not afraid of spiders, but |",
+      "bbox": {
+        "x": 267,
+        "y": 1517,
+        "width": 833,
+        "height": 25
+      },
+      "confidence": 95.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "don’t like flies. I just can’t stand those little insects.",
+      "cleanText": "don’t like flies. I just can’t stand those little insects.",
+      "bbox": {
+        "x": 267,
+        "y": 1552,
+        "width": 565,
+        "height": 25
+      },
+      "confidence": 94.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-099-line-033",
+      "lineNumber": 33
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-099-line-001",
+      "lineNumber": 1,
+      "text": "94 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 195,
+        "y": 269,
+        "width": 911,
+        "height": 20
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 5: Paul and His Family",
+      "bbox": {
+        "x": 193,
+        "y": 333,
+        "width": 410,
+        "height": 28
+      },
+      "confidence": 91.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-003",
+      "lineNumber": 3,
+      "text": "Keywords: shuffle(v), sandwiches, spider,",
+      "bbox": {
+        "x": 217,
+        "y": 385,
+        "width": 864,
+        "height": 32
+      },
+      "confidence": 90.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-004",
+      "lineNumber": 4,
+      "text": "fly, insects , bush, relax , run",
+      "bbox": {
+        "x": 378,
+        "y": 437,
+        "width": 664,
+        "height": 26
+      },
+      "confidence": 90.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-005",
+      "lineNumber": 5,
+      "text": "A- Write five sentences on one piece of paper describing what you really",
+      "bbox": {
+        "x": 192,
+        "y": 501,
+        "width": 909,
+        "height": 25
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-006",
+      "lineNumber": 6,
+      "text": "like, don’t really like etc., but don’t write your name. Your teacher will",
+      "bbox": {
+        "x": 272,
+        "y": 534,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 94.46,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-007",
+      "lineNumber": 7,
+      "text": "collect the pieces of paper from all students. He/she will shuffle and give",
+      "bbox": {
+        "x": 270,
+        "y": 567,
+        "width": 830,
+        "height": 25
+      },
+      "confidence": 94.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-008",
+      "lineNumber": 8,
+      "text": "them back to you all. When you have received the piece of paper written",
+      "bbox": {
+        "x": 272,
+        "y": 600,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-009",
+      "lineNumber": 9,
+      "text": "by some other student, read it and guess who could be the writer.",
+      "bbox": {
+        "x": 271,
+        "y": 633,
+        "width": 765,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-010",
+      "lineNumber": 10,
+      "text": "Now, read the article that Paul has written for the school magazine of",
+      "bbox": {
+        "x": 192,
+        "y": 691,
+        "width": 912,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-011",
+      "lineNumber": 11,
+      "text": "Sundarpur High School about his childhood memories.",
+      "bbox": {
+        "x": 271,
+        "y": 725,
+        "width": 668,
+        "height": 26
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-012",
+      "lineNumber": 12,
+      "text": "Hello, dear readers. [’m Paul. The boy that you can see feeding a rabbit in",
+      "bbox": {
+        "x": 268,
+        "y": 781,
+        "width": 833,
+        "height": 25
+      },
+      "confidence": 93.13,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-013",
+      "lineNumber": 13,
+      "text": "this picture was me when I was a little kid. Today, I’m going to tell you how",
+      "bbox": {
+        "x": 267,
+        "y": 812,
+        "width": 834,
+        "height": 33
+      },
+      "confidence": 95.41,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-014",
+      "lineNumber": 14,
+      "text": "I spent my childhood days and what my family and I liked and disliked.",
+      "bbox": {
+        "x": 268,
+        "y": 851,
+        "width": 793,
+        "height": 25
+      },
+      "confidence": 94.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-015",
+      "lineNumber": 15,
+      "text": "My family and I loved going to the park on 5",
+      "bbox": {
+        "x": 267,
+        "y": 897,
+        "width": 683,
+        "height": 25
+      },
+      "confidence": 91.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-016",
+      "lineNumber": 16,
+      "text": "weekends. We liked having picnics there.",
+      "bbox": {
+        "x": 267,
+        "y": 933,
+        "width": 478,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-017",
+      "lineNumber": 17,
+      "text": "My sister and I liked to watch the animals.",
+      "bbox": {
+        "x": 267,
+        "y": 968,
+        "width": 477,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-018",
+      "lineNumber": 18,
+      "text": "My mother made simple sandwiches for us",
+      "bbox": {
+        "x": 268,
+        "y": 1003,
+        "width": 478,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-019",
+      "lineNumber": 19,
+      "text": "because both my mother and father disliked",
+      "bbox": {
+        "x": 267,
+        "y": 1038,
+        "width": 478,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-020",
+      "lineNumber": 20,
+      "text": "cooking on picnic days. My sister and I",
+      "bbox": {
+        "x": 267,
+        "y": 1073,
+        "width": 478,
+        "height": 25
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-021",
+      "lineNumber": 21,
+      "text": "loved playing around the park and feeding .",
+      "bbox": {
+        "x": 268,
+        "y": 1109,
+        "width": 500,
+        "height": 25
+      },
+      "confidence": 93.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-022",
+      "lineNumber": 22,
+      "text": "the animals. | didn’t like sitting on the grass",
+      "bbox": {
+        "x": 267,
+        "y": 1144,
+        "width": 479,
+        "height": 25
+      },
+      "confidence": 94.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-023",
+      "lineNumber": 23,
+      "text": "and doing nothing for hours. My parents",
+      "bbox": {
+        "x": 267,
+        "y": 1179,
+        "width": 479,
+        "height": 25
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-024",
+      "lineNumber": 24,
+      "text": "liked to watch us play while they talked. We",
+      "bbox": {
+        "x": 268,
+        "y": 1214,
+        "width": 478,
+        "height": 25
+      },
+      "confidence": 94.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-025",
+      "lineNumber": 25,
+      "text": "all liked going to the park because we loved",
+      "bbox": {
+        "x": 267,
+        "y": 1249,
+        "width": 479,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-026",
+      "lineNumber": 26,
+      "text": "being outdoors and feeling free. We could relax there and listen to the birds",
+      "bbox": {
+        "x": 267,
+        "y": 1285,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 96.21,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-027",
+      "lineNumber": 27,
+      "text": "singing. We also enjoyed watching the little rabbits running around.",
+      "bbox": {
+        "x": 268,
+        "y": 1321,
+        "width": 742,
+        "height": 24
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-028",
+      "lineNumber": 28,
+      "text": "We could play as much as we wanted but my father got angry if we went",
+      "bbox": {
+        "x": 267,
+        "y": 1376,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 96.06,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-029",
+      "lineNumber": 29,
+      "text": "near the bushes. He didn’t like letting his children go too far out of sight.",
+      "bbox": {
+        "x": 267,
+        "y": 1411,
+        "width": 833,
+        "height": 25
+      },
+      "confidence": 95.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-030",
+      "lineNumber": 30,
+      "text": "Sometimes, when we went too far away, my mother called us back. She used",
+      "bbox": {
+        "x": 268,
+        "y": 1447,
+        "width": 833,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-031",
+      "lineNumber": 31,
+      "text": "to tell my sister that she had seen some spiders near the bushes. My sister",
+      "bbox": {
+        "x": 268,
+        "y": 1482,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 96.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-032",
+      "lineNumber": 32,
+      "text": "was afraid of spiders. She still hates them. I’m not afraid of spiders, but |",
+      "bbox": {
+        "x": 267,
+        "y": 1517,
+        "width": 833,
+        "height": 25
+      },
+      "confidence": 95.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-099-line-033",
+      "lineNumber": 33,
+      "text": "don’t like flies. I just can’t stand those little insects.",
+      "bbox": {
+        "x": 267,
+        "y": 1552,
+        "width": 565,
+        "height": 25
+      },
+      "confidence": 94.4,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "94 ENGLISH FOR TODAY\nLesson 5: Paul and His Family\nKeywords: shuffle(v), sandwiches, spider,\nfly, insects , bush, relax , run\nA- Write five sentences on one piece of paper describing what you really\nlike, don’t really like etc., but don’t write your name. Your teacher will\ncollect the pieces of paper from all students. He/she will shuffle and give\nthem back to you all. When you have received the piece of paper written\nby some other student, read it and guess who could be the writer.\nB. Now, read the article that Paul has written for the school magazine of\nSundarpur High School about his childhood memories.\nHello, dear readers. [’m Paul. The boy that you can see feeding a rabbit in\nthis picture was me when I was a little kid. Today, I’m going to tell you how\nI spent my childhood days and what my family and I liked and disliked.\nMy family and I loved going to the park on 5\nweekends. We liked having picnics there.\nMy sister and I liked to watch the animals.\nMy mother made simple sandwiches for us\nbecause both my mother and father disliked\ncooking on picnic days. My sister and I\nloved playing around the park and feeding .\nthe animals. | didn’t like sitting on the grass\nand doing nothing for hours. My parents\nliked to watch us play while they talked. We\nall liked going to the park because we loved\nbeing outdoors and feeling free. We could relax there and listen to the birds\nsinging. We also enjoyed watching the little rabbits running around.\nWe could play as much as we wanted but my father got angry if we went\nnear the bushes. He didn’t like letting his children go too far out of sight.\nSometimes, when we went too far away, my mother called us back. She used\nto tell my sister that she had seen some spiders near the bushes. My sister\nwas afraid of spiders. She still hates them. I’m not afraid of spiders, but |\ndon’t like flies. I just can’t stand those little insects.",
+  "cleanText": "94 ENGLISH FOR TODAY\nLesson 5: Paul and His Family\nKeywords: shuffle(v), sandwiches, spider,\nfly, insects , bush, relax , run\nA- Write five sentences on one piece of paper describing what you really\nlike, don’t really like etc., but don’t write your name. Your teacher will\ncollect the pieces of paper from all students. He/she will shuffle and give\nthem back to you all. When you have received the piece of paper written\nby some other student, read it and guess who could be the writer.\nNow, read the article that Paul has written for the school magazine of\nSundarpur High School about his childhood memories.\nHello, dear readers. [’m Paul. The boy that you can see feeding a rabbit in\nthis picture was me when I was a little kid. Today, I’m going to tell you how\nI spent my childhood days and what my family and I liked and disliked.\nMy family and I loved going to the park on 5\nweekends. We liked having picnics there.\nMy sister and I liked to watch the animals.\nMy mother made simple sandwiches for us\nbecause both my mother and father disliked\ncooking on picnic days. My sister and I\nloved playing around the park and feeding .\nthe animals. | didn’t like sitting on the grass\nand doing nothing for hours. My parents\nliked to watch us play while they talked. We\nall liked going to the park because we loved\nbeing outdoors and feeling free. We could relax there and listen to the birds\nsinging. We also enjoyed watching the little rabbits running around.\nWe could play as much as we wanted but my father got angry if we went\nnear the bushes. He didn’t like letting his children go too far out of sight.\nSometimes, when we went too far away, my mother called us back. She used\nto tell my sister that she had seen some spiders near the bushes. My sister\nwas afraid of spiders. She still hates them. I’m not afraid of spiders, but |\ndon’t like flies. I just can’t stand those little insects.",
+  "aiReadyText": "94 ENGLISH FOR TODAY\nLesson 5: Paul and His Family\nKeywords: shuffle(v), sandwiches, spider,\nfly, insects , bush, relax , run\nA- Write five sentences on one piece of paper describing what you really\nlike, don’t really like etc., but don’t write your name. Your teacher will\ncollect the pieces of paper from all students. He/she will shuffle and give\nthem back to you all. When you have received the piece of paper written\nby some other student, read it and guess who could be the writer.\nNow, read the article that Paul has written for the school magazine of\nSundarpur High School about his childhood memories.\nHello, dear readers. [’m Paul. The boy that you can see feeding a rabbit in\nthis picture was me when I was a little kid. Today, I’m going to tell you how\nI spent my childhood days and what my family and I liked and disliked.\nMy family and I loved going to the park on 5\nweekends. We liked having picnics there.\nMy sister and I liked to watch the animals.\nMy mother made simple sandwiches for us\nbecause both my mother and father disliked\ncooking on picnic days. My sister and I\nloved playing around the park and feeding .\nthe animals. | didn’t like sitting on the grass\nand doing nothing for hours. My parents\nliked to watch us play while they talked. We\nall liked going to the park because we loved\nbeing outdoors and feeling free. We could relax there and listen to the birds\nsinging. We also enjoyed watching the little rabbits running around.\nWe could play as much as we wanted but my father got angry if we went\nnear the bushes. He didn’t like letting his children go too far out of sight.\nSometimes, when we went too far away, my mother called us back. She used\nto tell my sister that she had seen some spiders near the bushes. My sister\nwas afraid of spiders. She still hates them. I’m not afraid of spiders, but |\ndon’t like flies. I just can’t stand those little insects."
+}

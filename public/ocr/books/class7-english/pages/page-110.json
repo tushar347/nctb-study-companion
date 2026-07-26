@@ -1,0 +1,743 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 110,
+  "image": "/ocr/books/class7-english/page-images/page-110.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Nine : Climate Change 105",
+      "cleanText": "Unit Nine : Climate Change 105",
+      "bbox": {
+        "x": 208,
+        "y": 222,
+        "width": 910,
+        "height": 23
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 3: What Can We Do?",
+      "cleanText": "Lesson 3: What Can We Do?",
+      "bbox": {
+        "x": 213,
+        "y": 288,
+        "width": 374,
+        "height": 23
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Keywords : lifestyle, air-conditioning , dairy products,",
+      "cleanText": "Keywords : lifestyle, air-conditioning , dairy products,",
+      "bbox": {
+        "x": 234,
+        "y": 346,
+        "width": 727,
+        "height": 34
+      },
+      "confidence": 80.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "tackle keep off (v), rechargeable",
+      "cleanText": "tackle keep off (v), rechargeable",
+      "bbox": {
+        "x": 392,
+        "y": 387,
+        "width": 543,
+        "height": 37
+      },
+      "confidence": 94.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "A. Samina and Arif now read about the things they can do to help stop",
+      "cleanText": "Samina and Arif now read about the things they can do to help stop",
+      "bbox": {
+        "x": 213,
+        "y": 476,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 95.53,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "global warming. Read the passage to know about what we can do.",
+      "cleanText": "global warming. Read the passage to know about what we can do.",
+      "bbox": {
+        "x": 292,
+        "y": 509,
+        "width": 775,
+        "height": 24
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "It is easy to understand now that the global warming and climate change are",
+      "cleanText": "It is easy to understand now that the global warming and climate change are",
+      "bbox": {
+        "x": 292,
+        "y": 570,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 96.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "caused by humans on earth. If we make least use of energy, the carth",
+      "cleanText": "caused by humans on earth. If we make least use of energy, the carth",
+      "bbox": {
+        "x": 285,
+        "y": 618,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 91.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "will be least polluted. The golden rule is, ‘Avoid machines as much as",
+      "cleanText": "will be least polluted. The golden rule is, ‘Avoid machines as much as",
+      "bbox": {
+        "x": 285,
+        "y": 666,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 90.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "possible . If your family has a car, use it less and walk to the shops.",
+      "cleanText": "possible . If your family has a car, use it less and walk to the shops.",
+      "bbox": {
+        "x": 290,
+        "y": 715,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 94.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Walking and running are much more fun than sitting in a car. You may",
+      "cleanText": "Walking and running are much more fun than sitting in a car. You may",
+      "bbox": {
+        "x": 285,
+        "y": 763,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "use bicycles too. You can save energy by changing your lifestyle.",
+      "cleanText": "use bicycles too. You can save energy by changing your lifestyle.",
+      "bbox": {
+        "x": 290,
+        "y": 815,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "For example, you can often avoid the air-conditioning in summer and_ use",
+      "cleanText": "For example, you can often avoid the air-conditioning in summer and_ use",
+      "bbox": {
+        "x": 290,
+        "y": 855,
+        "width": 830,
+        "height": 25
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "hand fans instead. You can also use solar energy. It is free and more",
+      "cleanText": "hand fans instead. You can also use solar energy. It is free and more",
+      "bbox": {
+        "x": 288,
+        "y": 899,
+        "width": 833,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "environment friendly. You can use energy-saving bulbs in your room. If",
+      "cleanText": "environment friendly. You can use energy-saving bulbs in your room. If",
+      "bbox": {
+        "x": 287,
+        "y": 942,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 95.09,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "you make a garden, you can grow much of your own food. You can",
+      "cleanText": "you make a garden, you can grow much of your own food. You can",
+      "bbox": {
+        "x": 286,
+        "y": 990,
+        "width": 826,
+        "height": 27
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "also save the environment by reducing, reusing and recycling the things",
+      "cleanText": "also save the environment by reducing, reusing and recycling the things",
+      "bbox": {
+        "x": 290,
+        "y": 1053,
+        "width": 831,
+        "height": 29
+      },
+      "confidence": 93.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "you use. The most important idea is if you don't buy so many",
+      "cleanText": "you use. The most important idea is if you don't buy so many",
+      "bbox": {
+        "x": 292,
+        "y": 1102,
+        "width": 756,
+        "height": 29
+      },
+      "confidence": 94.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "things in the first place, you don't need to reuse or recycle them.",
+      "cleanText": "things in the first place, you don't need to reuse or recycle them.",
+      "bbox": {
+        "x": 291,
+        "y": 1152,
+        "width": 798,
+        "height": 27
+      },
+      "confidence": 91.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "You can also save energy by turning things off when you don’t use them.",
+      "cleanText": "You can also save energy by turning things off when you don’t use them.",
+      "bbox": {
+        "x": 286,
+        "y": 1218,
+        "width": 833,
+        "height": 25
+      },
+      "confidence": 92.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "People often leave lights, heating, air-conditioning, computers, TVs and",
+      "cleanText": "People often leave lights, heating, air-conditioning, computers, TVs and",
+      "bbox": {
+        "x": 285,
+        "y": 1266,
+        "width": 836,
+        "height": 25
+      },
+      "confidence": 91.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "gas burners on when they do not use them. Thus, they waste a lot of",
+      "cleanText": "gas burners on when they do not use them. Thus, they waste a lot of",
+      "bbox": {
+        "x": 286,
+        "y": 1315,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 95.87,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "energy. Turning them off saves money too!",
+      "cleanText": "energy. Turning them off saves money too!",
+      "bbox": {
+        "x": 283,
+        "y": 1363,
+        "width": 491,
+        "height": 25
+      },
+      "confidence": 93.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "So, you can tackle climate change and live comfortably. There is plenty you",
+      "cleanText": "So, you can tackle climate change and live comfortably. There is plenty you",
+      "bbox": {
+        "x": 279,
+        "y": 1418,
+        "width": 844,
+        "height": 25
+      },
+      "confidence": 95.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "can do. If we all work sensibly, we can save our lovely planet.",
+      "cleanText": "can do. If we all work sensibly, we can save our lovely planet.",
+      "bbox": {
+        "x": 276,
+        "y": 1466,
+        "width": 695,
+        "height": 26
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Class 7 English Forma-14",
+      "cleanText": "Class 7 English Forma-14",
+      "bbox": {
+        "x": 206,
+        "y": 1585,
+        "width": 278,
+        "height": 24
+      },
+      "confidence": 92.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-110-line-026",
+      "lineNumber": 26
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-110-line-001",
+      "lineNumber": 1,
+      "text": "Unit Nine : Climate Change 105",
+      "bbox": {
+        "x": 208,
+        "y": 222,
+        "width": 910,
+        "height": 23
+      },
+      "confidence": 93.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 3: What Can We Do?",
+      "bbox": {
+        "x": 213,
+        "y": 288,
+        "width": 374,
+        "height": 23
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-003",
+      "lineNumber": 3,
+      "text": "Keywords : lifestyle, air-conditioning , dairy products,",
+      "bbox": {
+        "x": 234,
+        "y": 346,
+        "width": 727,
+        "height": 34
+      },
+      "confidence": 80.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-004",
+      "lineNumber": 4,
+      "text": "tackle keep off (v), rechargeable",
+      "bbox": {
+        "x": 392,
+        "y": 387,
+        "width": 543,
+        "height": 37
+      },
+      "confidence": 94.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-005",
+      "lineNumber": 5,
+      "text": "Samina and Arif now read about the things they can do to help stop",
+      "bbox": {
+        "x": 213,
+        "y": 476,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 95.53,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-006",
+      "lineNumber": 6,
+      "text": "global warming. Read the passage to know about what we can do.",
+      "bbox": {
+        "x": 292,
+        "y": 509,
+        "width": 775,
+        "height": 24
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-007",
+      "lineNumber": 7,
+      "text": "It is easy to understand now that the global warming and climate change are",
+      "bbox": {
+        "x": 292,
+        "y": 570,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 96.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-008",
+      "lineNumber": 8,
+      "text": "caused by humans on earth. If we make least use of energy, the carth",
+      "bbox": {
+        "x": 285,
+        "y": 618,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 91.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-009",
+      "lineNumber": 9,
+      "text": "will be least polluted. The golden rule is, ‘Avoid machines as much as",
+      "bbox": {
+        "x": 285,
+        "y": 666,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 90.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-010",
+      "lineNumber": 10,
+      "text": "possible . If your family has a car, use it less and walk to the shops.",
+      "bbox": {
+        "x": 290,
+        "y": 715,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 94.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-011",
+      "lineNumber": 11,
+      "text": "Walking and running are much more fun than sitting in a car. You may",
+      "bbox": {
+        "x": 285,
+        "y": 763,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-012",
+      "lineNumber": 12,
+      "text": "use bicycles too. You can save energy by changing your lifestyle.",
+      "bbox": {
+        "x": 290,
+        "y": 815,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-013",
+      "lineNumber": 13,
+      "text": "For example, you can often avoid the air-conditioning in summer and_ use",
+      "bbox": {
+        "x": 290,
+        "y": 855,
+        "width": 830,
+        "height": 25
+      },
+      "confidence": 93.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-014",
+      "lineNumber": 14,
+      "text": "hand fans instead. You can also use solar energy. It is free and more",
+      "bbox": {
+        "x": 288,
+        "y": 899,
+        "width": 833,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-015",
+      "lineNumber": 15,
+      "text": "environment friendly. You can use energy-saving bulbs in your room. If",
+      "bbox": {
+        "x": 287,
+        "y": 942,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 95.09,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-016",
+      "lineNumber": 16,
+      "text": "you make a garden, you can grow much of your own food. You can",
+      "bbox": {
+        "x": 286,
+        "y": 990,
+        "width": 826,
+        "height": 27
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-017",
+      "lineNumber": 17,
+      "text": "also save the environment by reducing, reusing and recycling the things",
+      "bbox": {
+        "x": 290,
+        "y": 1053,
+        "width": 831,
+        "height": 29
+      },
+      "confidence": 93.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-018",
+      "lineNumber": 18,
+      "text": "you use. The most important idea is if you don't buy so many",
+      "bbox": {
+        "x": 292,
+        "y": 1102,
+        "width": 756,
+        "height": 29
+      },
+      "confidence": 94.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-019",
+      "lineNumber": 19,
+      "text": "things in the first place, you don't need to reuse or recycle them.",
+      "bbox": {
+        "x": 291,
+        "y": 1152,
+        "width": 798,
+        "height": 27
+      },
+      "confidence": 91.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-020",
+      "lineNumber": 20,
+      "text": "You can also save energy by turning things off when you don’t use them.",
+      "bbox": {
+        "x": 286,
+        "y": 1218,
+        "width": 833,
+        "height": 25
+      },
+      "confidence": 92.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-021",
+      "lineNumber": 21,
+      "text": "People often leave lights, heating, air-conditioning, computers, TVs and",
+      "bbox": {
+        "x": 285,
+        "y": 1266,
+        "width": 836,
+        "height": 25
+      },
+      "confidence": 91.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-022",
+      "lineNumber": 22,
+      "text": "gas burners on when they do not use them. Thus, they waste a lot of",
+      "bbox": {
+        "x": 286,
+        "y": 1315,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 95.87,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-023",
+      "lineNumber": 23,
+      "text": "energy. Turning them off saves money too!",
+      "bbox": {
+        "x": 283,
+        "y": 1363,
+        "width": 491,
+        "height": 25
+      },
+      "confidence": 93.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-024",
+      "lineNumber": 24,
+      "text": "So, you can tackle climate change and live comfortably. There is plenty you",
+      "bbox": {
+        "x": 279,
+        "y": 1418,
+        "width": 844,
+        "height": 25
+      },
+      "confidence": 95.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-025",
+      "lineNumber": 25,
+      "text": "can do. If we all work sensibly, we can save our lovely planet.",
+      "bbox": {
+        "x": 276,
+        "y": 1466,
+        "width": 695,
+        "height": 26
+      },
+      "confidence": 95.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-110-line-026",
+      "lineNumber": 26,
+      "text": "Class 7 English Forma-14",
+      "bbox": {
+        "x": 206,
+        "y": 1585,
+        "width": 278,
+        "height": 24
+      },
+      "confidence": 92.75,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Nine : Climate Change 105\nLesson 3: What Can We Do?\nKeywords : lifestyle, air-conditioning , dairy products,\ntackle keep off (v), rechargeable\nA. Samina and Arif now read about the things they can do to help stop\nglobal warming. Read the passage to know about what we can do.\nIt is easy to understand now that the global warming and climate change are\ncaused by humans on earth. If we make least use of energy, the carth\nwill be least polluted. The golden rule is, ‘Avoid machines as much as\npossible . If your family has a car, use it less and walk to the shops.\nWalking and running are much more fun than sitting in a car. You may\nuse bicycles too. You can save energy by changing your lifestyle.\nFor example, you can often avoid the air-conditioning in summer and_ use\nhand fans instead. You can also use solar energy. It is free and more\nenvironment friendly. You can use energy-saving bulbs in your room. If\nyou make a garden, you can grow much of your own food. You can\nalso save the environment by reducing, reusing and recycling the things\nyou use. The most important idea is if you don't buy so many\nthings in the first place, you don't need to reuse or recycle them.\nYou can also save energy by turning things off when you don’t use them.\nPeople often leave lights, heating, air-conditioning, computers, TVs and\ngas burners on when they do not use them. Thus, they waste a lot of\nenergy. Turning them off saves money too!\nSo, you can tackle climate change and live comfortably. There is plenty you\ncan do. If we all work sensibly, we can save our lovely planet.\nClass 7 English Forma-14",
+  "cleanText": "Unit Nine : Climate Change 105\nLesson 3: What Can We Do?\nKeywords : lifestyle, air-conditioning , dairy products,\ntackle keep off (v), rechargeable\nSamina and Arif now read about the things they can do to help stop\nglobal warming. Read the passage to know about what we can do.\nIt is easy to understand now that the global warming and climate change are\ncaused by humans on earth. If we make least use of energy, the carth\nwill be least polluted. The golden rule is, ‘Avoid machines as much as\npossible . If your family has a car, use it less and walk to the shops.\nWalking and running are much more fun than sitting in a car. You may\nuse bicycles too. You can save energy by changing your lifestyle.\nFor example, you can often avoid the air-conditioning in summer and_ use\nhand fans instead. You can also use solar energy. It is free and more\nenvironment friendly. You can use energy-saving bulbs in your room. If\nyou make a garden, you can grow much of your own food. You can\nalso save the environment by reducing, reusing and recycling the things\nyou use. The most important idea is if you don't buy so many\nthings in the first place, you don't need to reuse or recycle them.\nYou can also save energy by turning things off when you don’t use them.\nPeople often leave lights, heating, air-conditioning, computers, TVs and\ngas burners on when they do not use them. Thus, they waste a lot of\nenergy. Turning them off saves money too!\nSo, you can tackle climate change and live comfortably. There is plenty you\ncan do. If we all work sensibly, we can save our lovely planet.\nClass 7 English Forma-14",
+  "aiReadyText": "Unit Nine : Climate Change 105\nLesson 3: What Can We Do?\nKeywords : lifestyle, air-conditioning , dairy products,\ntackle keep off (v), rechargeable\nSamina and Arif now read about the things they can do to help stop\nglobal warming. Read the passage to know about what we can do.\nIt is easy to understand now that the global warming and climate change are\ncaused by humans on earth. If we make least use of energy, the carth\nwill be least polluted. The golden rule is, ‘Avoid machines as much as\npossible . If your family has a car, use it less and walk to the shops.\nWalking and running are much more fun than sitting in a car. You may\nuse bicycles too. You can save energy by changing your lifestyle.\nFor example, you can often avoid the air-conditioning in summer and_ use\nhand fans instead. You can also use solar energy. It is free and more\nenvironment friendly. You can use energy-saving bulbs in your room. If\nyou make a garden, you can grow much of your own food. You can\nalso save the environment by reducing, reusing and recycling the things\nyou use. The most important idea is if you don't buy so many\nthings in the first place, you don't need to reuse or recycle them.\nYou can also save energy by turning things off when you don’t use them.\nPeople often leave lights, heating, air-conditioning, computers, TVs and\ngas burners on when they do not use them. Thus, they waste a lot of\nenergy. Turning them off saves money too!\nSo, you can tackle climate change and live comfortably. There is plenty you\ncan do. If we all work sensibly, we can save our lovely planet.\nClass 7 English Forma-14"
+}

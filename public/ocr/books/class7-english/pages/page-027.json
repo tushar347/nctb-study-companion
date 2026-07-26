@@ -1,0 +1,648 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 27,
+  "image": "/ocr/books/class7-english/page-images/page-027.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "3. The Head Teacher was pleased with Flora because she (Flora)",
+      "cleanText": "The Head Teacher was pleased with Flora because she (Flora)",
+      "bbox": {
+        "x": 267,
+        "y": 318,
+        "width": 765,
+        "height": 25
+      },
+      "confidence": 95.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "a. looked very innocent.",
+      "cleanText": "looked very innocent.",
+      "bbox": {
+        "x": 307,
+        "y": 351,
+        "width": 275,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "had a sweet voice.",
+      "cleanText": "had a sweet voice.",
+      "bbox": {
+        "x": 347,
+        "y": 384,
+        "width": 198,
+        "height": 19
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "could answer the Head Teacher’s questions.",
+      "cleanText": "could answer the Head Teacher’s questions.",
+      "bbox": {
+        "x": 347,
+        "y": 417,
+        "width": 480,
+        "height": 24
+      },
+      "confidence": 94.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "was very smart.",
+      "cleanText": "was very smart.",
+      "bbox": {
+        "x": 346,
+        "y": 453,
+        "width": 171,
+        "height": 21
+      },
+      "confidence": 92.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "4. Who took Flora to the class after admission?",
+      "cleanText": "Who took Flora to the class after admission?",
+      "bbox": {
+        "x": 267,
+        "y": 496,
+        "width": 555,
+        "height": 19
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "ateacher",
+      "cleanText": "ateacher",
+      "bbox": {
+        "x": 347,
+        "y": 529,
+        "width": 97,
+        "height": 19
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-027-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": ". her mother",
+      "cleanText": ". her mother",
+      "bbox": {
+        "x": 322,
+        "y": 595,
+        "width": 144,
+        "height": 19
+      },
+      "confidence": 90.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-027-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "d. the Head Teacher",
+      "cleanText": "the Head Teacher",
+      "bbox": {
+        "x": 307,
+        "y": 628,
+        "width": 236,
+        "height": 19
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "5. Flora felt nervous in the class because",
+      "cleanText": "Flora felt nervous in the class because",
+      "bbox": {
+        "x": 268,
+        "y": 675,
+        "width": 475,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "a. it was a new place.",
+      "cleanText": "it was a new place.",
+      "bbox": {
+        "x": 307,
+        "y": 707,
+        "width": 245,
+        "height": 25
+      },
+      "confidence": 87.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "b. the class teacher was very strict.",
+      "cleanText": "the class teacher was very strict.",
+      "bbox": {
+        "x": 307,
+        "y": 740,
+        "width": 390,
+        "height": 25
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "c. she did not know any student in the class.",
+      "cleanText": "she did not know any student in the class.",
+      "bbox": {
+        "x": 307,
+        "y": 773,
+        "width": 494,
+        "height": 25
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "d. the class did not welcome her.",
+      "cleanText": "the class did not welcome her.",
+      "bbox": {
+        "x": 307,
+        "y": 806,
+        "width": 369,
+        "height": 19
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Make sentences from this table.",
+      "cleanText": "Make sentences from this table.",
+      "bbox": {
+        "x": 268,
+        "y": 853,
+        "width": 367,
+        "height": 19
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Flora’s mother asked at Flora.",
+      "cleanText": "Flora’s mother asked at Flora.",
+      "bbox": {
+        "x": 286,
+        "y": 906,
+        "width": 620,
+        "height": 19
+      },
+      "confidence": 94.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Ms Laila made friends with few students.",
+      "cleanText": "Ms Laila made friends with few students.",
+      "bbox": {
+        "x": 286,
+        "y": 939,
+        "width": 813,
+        "height": 19
+      },
+      "confidence": 96.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "The Head Teacher stared her to the Head Teacher.",
+      "cleanText": "The Head Teacher stared her to the Head Teacher.",
+      "bbox": {
+        "x": 285,
+        "y": 972,
+        "width": 801,
+        "height": 20
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "The students in the class took Flora some questions.",
+      "cleanText": "The students in the class took Flora some questions.",
+      "bbox": {
+        "x": 285,
+        "y": 1005,
+        "width": 770,
+        "height": 25
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Flora her to the class.",
+      "cleanText": "Flora her to the class.",
+      "bbox": {
+        "x": 286,
+        "y": 1038,
+        "width": 700,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "How did you feel about the students and teachers on your first day at",
+      "cleanText": "How did you feel about the students and teachers on your first day at",
+      "bbox": {
+        "x": 268,
+        "y": 1112,
+        "width": 836,
+        "height": 25
+      },
+      "confidence": 95.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "school? If you remember any incident or anything interesting that",
+      "cleanText": "school? If you remember any incident or anything interesting that",
+      "bbox": {
+        "x": 269,
+        "y": 1145,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "happened on the first day, tell the class about it and then write about it",
+      "cleanText": "happened on the first day, tell the class about it and then write about it",
+      "bbox": {
+        "x": 268,
+        "y": 1178,
+        "width": 838,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-027-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "in short.",
+      "cleanText": "in short.",
+      "bbox": {
+        "x": 268,
+        "y": 1216,
+        "width": 95,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-027-line-024",
+      "lineNumber": 24
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-027-line-001",
+      "lineNumber": 1,
+      "text": "The Head Teacher was pleased with Flora because she (Flora)",
+      "bbox": {
+        "x": 267,
+        "y": 318,
+        "width": 765,
+        "height": 25
+      },
+      "confidence": 95.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-002",
+      "lineNumber": 2,
+      "text": "looked very innocent.",
+      "bbox": {
+        "x": 307,
+        "y": 351,
+        "width": 275,
+        "height": 24
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-003",
+      "lineNumber": 3,
+      "text": "had a sweet voice.",
+      "bbox": {
+        "x": 347,
+        "y": 384,
+        "width": 198,
+        "height": 19
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-004",
+      "lineNumber": 4,
+      "text": "could answer the Head Teacher’s questions.",
+      "bbox": {
+        "x": 347,
+        "y": 417,
+        "width": 480,
+        "height": 24
+      },
+      "confidence": 94.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-005",
+      "lineNumber": 5,
+      "text": "was very smart.",
+      "bbox": {
+        "x": 346,
+        "y": 453,
+        "width": 171,
+        "height": 21
+      },
+      "confidence": 92.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-006",
+      "lineNumber": 6,
+      "text": "Who took Flora to the class after admission?",
+      "bbox": {
+        "x": 267,
+        "y": 496,
+        "width": 555,
+        "height": 19
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-009",
+      "lineNumber": 9,
+      "text": "the Head Teacher",
+      "bbox": {
+        "x": 307,
+        "y": 628,
+        "width": 236,
+        "height": 19
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-010",
+      "lineNumber": 10,
+      "text": "Flora felt nervous in the class because",
+      "bbox": {
+        "x": 268,
+        "y": 675,
+        "width": 475,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-011",
+      "lineNumber": 11,
+      "text": "it was a new place.",
+      "bbox": {
+        "x": 307,
+        "y": 707,
+        "width": 245,
+        "height": 25
+      },
+      "confidence": 87.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-012",
+      "lineNumber": 12,
+      "text": "the class teacher was very strict.",
+      "bbox": {
+        "x": 307,
+        "y": 740,
+        "width": 390,
+        "height": 25
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-013",
+      "lineNumber": 13,
+      "text": "she did not know any student in the class.",
+      "bbox": {
+        "x": 307,
+        "y": 773,
+        "width": 494,
+        "height": 25
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-014",
+      "lineNumber": 14,
+      "text": "the class did not welcome her.",
+      "bbox": {
+        "x": 307,
+        "y": 806,
+        "width": 369,
+        "height": 19
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-015",
+      "lineNumber": 15,
+      "text": "Make sentences from this table.",
+      "bbox": {
+        "x": 268,
+        "y": 853,
+        "width": 367,
+        "height": 19
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-016",
+      "lineNumber": 16,
+      "text": "Flora’s mother asked at Flora.",
+      "bbox": {
+        "x": 286,
+        "y": 906,
+        "width": 620,
+        "height": 19
+      },
+      "confidence": 94.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-017",
+      "lineNumber": 17,
+      "text": "Ms Laila made friends with few students.",
+      "bbox": {
+        "x": 286,
+        "y": 939,
+        "width": 813,
+        "height": 19
+      },
+      "confidence": 96.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-018",
+      "lineNumber": 18,
+      "text": "The Head Teacher stared her to the Head Teacher.",
+      "bbox": {
+        "x": 285,
+        "y": 972,
+        "width": 801,
+        "height": 20
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-019",
+      "lineNumber": 19,
+      "text": "The students in the class took Flora some questions.",
+      "bbox": {
+        "x": 285,
+        "y": 1005,
+        "width": 770,
+        "height": 25
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-020",
+      "lineNumber": 20,
+      "text": "Flora her to the class.",
+      "bbox": {
+        "x": 286,
+        "y": 1038,
+        "width": 700,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-021",
+      "lineNumber": 21,
+      "text": "How did you feel about the students and teachers on your first day at",
+      "bbox": {
+        "x": 268,
+        "y": 1112,
+        "width": 836,
+        "height": 25
+      },
+      "confidence": 95.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-022",
+      "lineNumber": 22,
+      "text": "school? If you remember any incident or anything interesting that",
+      "bbox": {
+        "x": 269,
+        "y": 1145,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-027-line-023",
+      "lineNumber": 23,
+      "text": "happened on the first day, tell the class about it and then write about it",
+      "bbox": {
+        "x": 268,
+        "y": 1178,
+        "width": 838,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "3. The Head Teacher was pleased with Flora because she (Flora)\na. looked very innocent.\nhad a sweet voice.\ncould answer the Head Teacher’s questions.\nwas very smart.\n4. Who took Flora to the class after admission?\nateacher\n. her mother\nd. the Head Teacher\n5. Flora felt nervous in the class because\na. it was a new place.\nb. the class teacher was very strict.\nc. she did not know any student in the class.\nd. the class did not welcome her.\nMake sentences from this table.\nFlora’s mother asked at Flora.\nMs Laila made friends with few students.\nThe Head Teacher stared her to the Head Teacher.\nThe students in the class took Flora some questions.\nFlora her to the class.\nHow did you feel about the students and teachers on your first day at\nschool? If you remember any incident or anything interesting that\nhappened on the first day, tell the class about it and then write about it\nin short.",
+  "cleanText": "The Head Teacher was pleased with Flora because she (Flora)\nlooked very innocent.\nhad a sweet voice.\ncould answer the Head Teacher’s questions.\nwas very smart.\nWho took Flora to the class after admission?\nateacher\n. her mother\nthe Head Teacher\nFlora felt nervous in the class because\nit was a new place.\nthe class teacher was very strict.\nshe did not know any student in the class.\nthe class did not welcome her.\nMake sentences from this table.\nFlora’s mother asked at Flora.\nMs Laila made friends with few students.\nThe Head Teacher stared her to the Head Teacher.\nThe students in the class took Flora some questions.\nFlora her to the class.\nHow did you feel about the students and teachers on your first day at\nschool? If you remember any incident or anything interesting that\nhappened on the first day, tell the class about it and then write about it\nin short.",
+  "aiReadyText": "The Head Teacher was pleased with Flora because she (Flora)\nlooked very innocent.\nhad a sweet voice.\ncould answer the Head Teacher’s questions.\nwas very smart.\nWho took Flora to the class after admission?\nthe Head Teacher\nFlora felt nervous in the class because\nit was a new place.\nthe class teacher was very strict.\nshe did not know any student in the class.\nthe class did not welcome her.\nMake sentences from this table.\nFlora’s mother asked at Flora.\nMs Laila made friends with few students.\nThe Head Teacher stared her to the Head Teacher.\nThe students in the class took Flora some questions.\nFlora her to the class.\nHow did you feel about the students and teachers on your first day at\nschool? If you remember any incident or anything interesting that\nhappened on the first day, tell the class about it and then write about it"
+}

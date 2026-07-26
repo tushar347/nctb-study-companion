@@ -1,0 +1,424 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 85,
+  "image": "/ocr/books/class7-english/page-images/page-085.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "80 ENGLISH FOR TODAY",
+      "cleanText": "80 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 212,
+        "y": 247,
+        "width": 907,
+        "height": 19
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 4: Sports Personalities",
+      "cleanText": "Lesson 4: Sports Personalities",
+      "bbox": {
+        "x": 197,
+        "y": 330,
+        "width": 388,
+        "height": 27
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Keywords : stout, attractive boring, energetic, manly, entertaining | interesting",
+      "cleanText": "Keywords : stout, attractive boring, energetic, manly, entertaining | interesting",
+      "bbox": {
+        "x": 218,
+        "y": 382,
+        "width": 878,
+        "height": 37
+      },
+      "confidence": 88.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "smashing, successful, sober, dependable, unattractive, slim, smart",
+      "cleanText": "smashing, successful, sober, dependable, unattractive, slim, smart",
+      "bbox": {
+        "x": 369,
+        "y": 414,
+        "width": 720,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "A- Look at the pictures. Who are they? What are these people famous for?",
+      "cleanText": "A- Look at the pictures. Who are they? What are these people famous for?",
+      "bbox": {
+        "x": 195,
+        "y": 479,
+        "width": 900,
+        "height": 25
+      },
+      "confidence": 89.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "B. Read the following words. Use them to describe each person above.",
+      "cleanText": "Read the following words. Use them to describe each person above.",
+      "bbox": {
+        "x": 195,
+        "y": 1049,
+        "width": 862,
+        "height": 24
+      },
+      "confidence": 95.58,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-085-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "stout, attractive, energetic, strong, young, middle-aged, old, manly,",
+      "cleanText": "stout, attractive, energetic, strong, young, middle-aged, old, manly,",
+      "bbox": {
+        "x": 283,
+        "y": 1121,
+        "width": 814,
+        "height": 25
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "entertaining, interesting, smashing, successful, great, sober, slim, smart",
+      "cleanText": "entertaining, interesting, smashing, successful, great, sober, slim, smart",
+      "bbox": {
+        "x": 280,
+        "y": 1162,
+        "width": 788,
+        "height": 26
+      },
+      "confidence": 90.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Cc. Some of the words in the box above have opposite meanings. Work",
+      "cleanText": "Some of the words in the box above have opposite meanings. Work",
+      "bbox": {
+        "x": 195,
+        "y": 1250,
+        "width": 900,
+        "height": 24
+      },
+      "confidence": 92.15,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "in pairs and write the opposite words against them. The first one is",
+      "cleanText": "in pairs and write the opposite words against them. The first one is",
+      "bbox": {
+        "x": 280,
+        "y": 1290,
+        "width": 815,
+        "height": 25
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "done for you.",
+      "cleanText": "done for you.",
+      "bbox": {
+        "x": 274,
+        "y": 1326,
+        "width": 153,
+        "height": 24
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-085-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "stout slim",
+      "cleanText": "stout slim",
+      "bbox": {
+        "x": 273,
+        "y": 1370,
+        "width": 124,
+        "height": 19
+      },
+      "confidence": 82.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-085-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "D. Read the text on the great Brazilian footballer, Pelé.",
+      "cleanText": "Read the text on the great Brazilian footballer, Pelé.",
+      "bbox": {
+        "x": 196,
+        "y": 1429,
+        "width": 686,
+        "height": 25
+      },
+      "confidence": 93.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Pelé is widely regarded as one of the greatest football players of all time. In",
+      "cleanText": "Pelé is widely regarded as one of the greatest football players of all time. In",
+      "bbox": {
+        "x": 275,
+        "y": 1475,
+        "width": 833,
+        "height": 25
+      },
+      "confidence": 95.47,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "1999, he was voted Football Player of the Century by the IFFHS. IFFHS",
+      "cleanText": "1999, he was voted Football Player of the Century by the IFFHS. IFFHS",
+      "bbox": {
+        "x": 272,
+        "y": 1523,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 94.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "stands for International Federation of Football History and Statistics.",
+      "cleanText": "stands for International Federation of Football History and Statistics.",
+      "bbox": {
+        "x": 273,
+        "y": 1565,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 91.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-085-line-016",
+      "lineNumber": 16
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-085-line-001",
+      "lineNumber": 1,
+      "text": "80 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 212,
+        "y": 247,
+        "width": 907,
+        "height": 19
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 4: Sports Personalities",
+      "bbox": {
+        "x": 197,
+        "y": 330,
+        "width": 388,
+        "height": 27
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-003",
+      "lineNumber": 3,
+      "text": "Keywords : stout, attractive boring, energetic, manly, entertaining | interesting",
+      "bbox": {
+        "x": 218,
+        "y": 382,
+        "width": 878,
+        "height": 37
+      },
+      "confidence": 88.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-004",
+      "lineNumber": 4,
+      "text": "smashing, successful, sober, dependable, unattractive, slim, smart",
+      "bbox": {
+        "x": 369,
+        "y": 414,
+        "width": 720,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-005",
+      "lineNumber": 5,
+      "text": "A- Look at the pictures. Who are they? What are these people famous for?",
+      "bbox": {
+        "x": 195,
+        "y": 479,
+        "width": 900,
+        "height": 25
+      },
+      "confidence": 89.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-007",
+      "lineNumber": 7,
+      "text": "stout, attractive, energetic, strong, young, middle-aged, old, manly,",
+      "bbox": {
+        "x": 283,
+        "y": 1121,
+        "width": 814,
+        "height": 25
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-008",
+      "lineNumber": 8,
+      "text": "entertaining, interesting, smashing, successful, great, sober, slim, smart",
+      "bbox": {
+        "x": 280,
+        "y": 1162,
+        "width": 788,
+        "height": 26
+      },
+      "confidence": 90.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-009",
+      "lineNumber": 9,
+      "text": "Some of the words in the box above have opposite meanings. Work",
+      "bbox": {
+        "x": 195,
+        "y": 1250,
+        "width": 900,
+        "height": 24
+      },
+      "confidence": 92.15,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-010",
+      "lineNumber": 10,
+      "text": "in pairs and write the opposite words against them. The first one is",
+      "bbox": {
+        "x": 280,
+        "y": 1290,
+        "width": 815,
+        "height": 25
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-013",
+      "lineNumber": 13,
+      "text": "Read the text on the great Brazilian footballer, Pelé.",
+      "bbox": {
+        "x": 196,
+        "y": 1429,
+        "width": 686,
+        "height": 25
+      },
+      "confidence": 93.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-014",
+      "lineNumber": 14,
+      "text": "Pelé is widely regarded as one of the greatest football players of all time. In",
+      "bbox": {
+        "x": 275,
+        "y": 1475,
+        "width": 833,
+        "height": 25
+      },
+      "confidence": 95.47,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-015",
+      "lineNumber": 15,
+      "text": "1999, he was voted Football Player of the Century by the IFFHS. IFFHS",
+      "bbox": {
+        "x": 272,
+        "y": 1523,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 94.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-085-line-016",
+      "lineNumber": 16,
+      "text": "stands for International Federation of Football History and Statistics.",
+      "bbox": {
+        "x": 273,
+        "y": 1565,
+        "width": 835,
+        "height": 25
+      },
+      "confidence": 91.22,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "80 ENGLISH FOR TODAY\nLesson 4: Sports Personalities\nKeywords : stout, attractive boring, energetic, manly, entertaining | interesting\nsmashing, successful, sober, dependable, unattractive, slim, smart\nA- Look at the pictures. Who are they? What are these people famous for?\nB. Read the following words. Use them to describe each person above.\nstout, attractive, energetic, strong, young, middle-aged, old, manly,\nentertaining, interesting, smashing, successful, great, sober, slim, smart\nCc. Some of the words in the box above have opposite meanings. Work\nin pairs and write the opposite words against them. The first one is\ndone for you.\nstout slim\nD. Read the text on the great Brazilian footballer, Pelé.\nPelé is widely regarded as one of the greatest football players of all time. In\n1999, he was voted Football Player of the Century by the IFFHS. IFFHS\nstands for International Federation of Football History and Statistics.",
+  "cleanText": "80 ENGLISH FOR TODAY\nLesson 4: Sports Personalities\nKeywords : stout, attractive boring, energetic, manly, entertaining | interesting\nsmashing, successful, sober, dependable, unattractive, slim, smart\nA- Look at the pictures. Who are they? What are these people famous for?\nRead the following words. Use them to describe each person above.\nstout, attractive, energetic, strong, young, middle-aged, old, manly,\nentertaining, interesting, smashing, successful, great, sober, slim, smart\nSome of the words in the box above have opposite meanings. Work\nin pairs and write the opposite words against them. The first one is\ndone for you.\nstout slim\nRead the text on the great Brazilian footballer, Pelé.\nPelé is widely regarded as one of the greatest football players of all time. In\n1999, he was voted Football Player of the Century by the IFFHS. IFFHS\nstands for International Federation of Football History and Statistics.",
+  "aiReadyText": "80 ENGLISH FOR TODAY\nLesson 4: Sports Personalities\nKeywords : stout, attractive boring, energetic, manly, entertaining | interesting\nsmashing, successful, sober, dependable, unattractive, slim, smart\nA- Look at the pictures. Who are they? What are these people famous for?\nstout, attractive, energetic, strong, young, middle-aged, old, manly,\nentertaining, interesting, smashing, successful, great, sober, slim, smart\nSome of the words in the box above have opposite meanings. Work\nin pairs and write the opposite words against them. The first one is\nRead the text on the great Brazilian footballer, Pelé.\nPelé is widely regarded as one of the greatest football players of all time. In\n1999, he was voted Football Player of the Century by the IFFHS. IFFHS\nstands for International Federation of Football History and Statistics."
+}

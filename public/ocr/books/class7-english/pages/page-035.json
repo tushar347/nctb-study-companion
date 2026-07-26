@@ -1,0 +1,872 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 35,
+  "image": "/ocr/books/class7-english/page-images/page-035.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "30 ENGLISH FOR TODAY",
+      "cleanText": "30 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 199,
+        "y": 265,
+        "width": 914,
+        "height": 20
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "A father is talking to his daughter about her aim in life.",
+      "cleanText": "A father is talking to his daughter about her aim in life.",
+      "bbox": {
+        "x": 266,
+        "y": 321,
+        "width": 735,
+        "height": 34
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "girl wants to be a pilot. father asks her why. The young",
+      "cleanText": "girl wants to be a pilot. father asks her why. The young",
+      "bbox": {
+        "x": 268,
+        "y": 367,
+        "width": 739,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "replies that the job of a is challenging that she likes.",
+      "cleanText": "replies that the job of a is challenging that she likes.",
+      "bbox": {
+        "x": 270,
+        "y": 413,
+        "width": 674,
+        "height": 26
+      },
+      "confidence": 93.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "likes the speed responsibilitics a pilot’s life. The father",
+      "cleanText": "likes the speed responsibilitics a pilot’s life. The father",
+      "bbox": {
+        "x": 270,
+        "y": 455,
+        "width": 838,
+        "height": 26
+      },
+      "confidence": 93.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "asks she is not afraid of plane . The daughter says, “An",
+      "cleanText": "asks she is not afraid of plane . The daughter says, “An",
+      "bbox": {
+        "x": 269,
+        "y": 496,
+        "width": 838,
+        "height": 26
+      },
+      "confidence": 82.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "accident The father appreciates his daughter’s",
+      "cleanText": "accident The father appreciates his daughter’s",
+      "bbox": {
+        "x": 269,
+        "y": 538,
+        "width": 725,
+        "height": 26
+      },
+      "confidence": 93.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "and wishes her good luck.",
+      "cleanText": "and wishes her good luck.",
+      "bbox": {
+        "x": 268,
+        "y": 575,
+        "width": 287,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "F. Read the completed passage in E above. Ask and answer the",
+      "cleanText": "F. Read the completed passage in E above. Ask and answer the",
+      "bbox": {
+        "x": 202,
+        "y": 625,
+        "width": 906,
+        "height": 24
+      },
+      "confidence": 94.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "following questions in pairs.",
+      "cleanText": "following questions in pairs.",
+      "bbox": {
+        "x": 277,
+        "y": 658,
+        "width": 332,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "What do you want to be?",
+      "cleanText": "What do you want to be?",
+      "bbox": {
+        "x": 359,
+        "y": 710,
+        "width": 273,
+        "height": 25
+      },
+      "confidence": 96.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "I want to be a/an",
+      "cleanText": "I want to be a/an",
+      "bbox": {
+        "x": 359,
+        "y": 743,
+        "width": 182,
+        "height": 19
+      },
+      "confidence": 93.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Why do you want to be a/an ?",
+      "cleanText": "Why do you want to be a/an ?",
+      "bbox": {
+        "x": 359,
+        "y": 775,
+        "width": 532,
+        "height": 26
+      },
+      "confidence": 93.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Because I like it / my parents want me to be",
+      "cleanText": "Because I like it / my parents want me to be",
+      "bbox": {
+        "x": 359,
+        "y": 805,
+        "width": 481,
+        "height": 32
+      },
+      "confidence": 94.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Lesson 3: A New Generation",
+      "cleanText": "Lesson 3: A New Generation",
+      "bbox": {
+        "x": 198,
+        "y": 904,
+        "width": 425,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Learning outcomes:",
+      "cleanText": "Learning outcomes:",
+      "bbox": {
+        "x": 198,
+        "y": 951,
+        "width": 240,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "bbox": {
+        "x": 198,
+        "y": 985,
+        "width": 567,
+        "height": 23
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Understand the concept of generational naming and its historical context",
+      "cleanText": "Understand the concept of generational naming and its historical context",
+      "bbox": {
+        "x": 278,
+        "y": 1019,
+        "width": 828,
+        "height": 26
+      },
+      "confidence": 96.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Analyse the unique characteristics and challenges of Generation Z",
+      "cleanText": "Analyse the unique characteristics and challenges of Generation Z",
+      "bbox": {
+        "x": 277,
+        "y": 1053,
+        "width": 756,
+        "height": 26
+      },
+      "confidence": 95.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Examine the influence of global events on generational identity",
+      "cleanText": "Examine the influence of global events on generational identity",
+      "bbox": {
+        "x": 278,
+        "y": 1087,
+        "width": 723,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Explore the legacy of generational struggles in Bangladesh",
+      "cleanText": "Explore the legacy of generational struggles in Bangladesh",
+      "bbox": {
+        "x": 278,
+        "y": 1122,
+        "width": 671,
+        "height": 26
+      },
+      "confidence": 96.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Evaluate the importance of governance to meet the needs of new",
+      "cleanText": "Evaluate the importance of governance to meet the needs of new",
+      "bbox": {
+        "x": 277,
+        "y": 1156,
+        "width": 739,
+        "height": 26
+      },
+      "confidence": 96.09,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "generations",
+      "cleanText": "generations",
+      "bbox": {
+        "x": 277,
+        "y": 1190,
+        "width": 130,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-035-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "GenZ and Revolution",
+      "cleanText": "GenZ and Revolution",
+      "bbox": {
+        "x": 198,
+        "y": 1234,
+        "width": 282,
+        "height": 22
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Listen to the song ‘Kotha Ko’ by Shezan on internet.",
+      "cleanText": "Listen to the song ‘Kotha Ko’ by Shezan on internet.",
+      "bbox": {
+        "x": 198,
+        "y": 1274,
+        "width": 632,
+        "height": 25
+      },
+      "confidence": 94.8,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-035-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Have you heard the song ‘Kotha Ko’ by Shezan? While singers from earlier",
+      "cleanText": "Have you heard the song ‘Kotha Ko’ by Shezan? While singers from earlier",
+      "bbox": {
+        "x": 198,
+        "y": 1307,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 95.31,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "generations were often too afraid to use music as a form of protest, artists like",
+      "cleanText": "generations were often too afraid to use music as a form of protest, artists like",
+      "bbox": {
+        "x": 198,
+        "y": 1342,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "Shezan and Hannan have courageously spoken out. Their rap songs became",
+      "cleanText": "Shezan and Hannan have courageously spoken out. Their rap songs became",
+      "bbox": {
+        "x": 199,
+        "y": 1376,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "anthems of the July Uprising in 2024. The new generation is no longer afraid;",
+      "cleanText": "anthems of the July Uprising in 2024. The new generation is no longer afraid;",
+      "bbox": {
+        "x": 198,
+        "y": 1406,
+        "width": 908,
+        "height": 35
+      },
+      "confidence": 95.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "they are brave and different. But how do we make sense of the difference? What",
+      "cleanText": "they are brave and different. But how do we make sense of the difference? What",
+      "bbox": {
+        "x": 197,
+        "y": 1445,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 96.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "defines different generations? And what are the connections that link them",
+      "cleanText": "defines different generations? And what are the connections that link them",
+      "bbox": {
+        "x": 198,
+        "y": 1479,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-035-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "across time?",
+      "cleanText": "across time?",
+      "bbox": {
+        "x": 198,
+        "y": 1513,
+        "width": 140,
+        "height": 21
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-035-line-032",
+      "lineNumber": 32
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-035-line-001",
+      "lineNumber": 1,
+      "text": "30 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 199,
+        "y": 265,
+        "width": 914,
+        "height": 20
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-002",
+      "lineNumber": 2,
+      "text": "A father is talking to his daughter about her aim in life.",
+      "bbox": {
+        "x": 266,
+        "y": 321,
+        "width": 735,
+        "height": 34
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-003",
+      "lineNumber": 3,
+      "text": "girl wants to be a pilot. father asks her why. The young",
+      "bbox": {
+        "x": 268,
+        "y": 367,
+        "width": 739,
+        "height": 26
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-004",
+      "lineNumber": 4,
+      "text": "replies that the job of a is challenging that she likes.",
+      "bbox": {
+        "x": 270,
+        "y": 413,
+        "width": 674,
+        "height": 26
+      },
+      "confidence": 93.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-005",
+      "lineNumber": 5,
+      "text": "likes the speed responsibilitics a pilot’s life. The father",
+      "bbox": {
+        "x": 270,
+        "y": 455,
+        "width": 838,
+        "height": 26
+      },
+      "confidence": 93.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-006",
+      "lineNumber": 6,
+      "text": "asks she is not afraid of plane . The daughter says, “An",
+      "bbox": {
+        "x": 269,
+        "y": 496,
+        "width": 838,
+        "height": 26
+      },
+      "confidence": 82.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-007",
+      "lineNumber": 7,
+      "text": "accident The father appreciates his daughter’s",
+      "bbox": {
+        "x": 269,
+        "y": 538,
+        "width": 725,
+        "height": 26
+      },
+      "confidence": 93.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-008",
+      "lineNumber": 8,
+      "text": "and wishes her good luck.",
+      "bbox": {
+        "x": 268,
+        "y": 575,
+        "width": 287,
+        "height": 26
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-009",
+      "lineNumber": 9,
+      "text": "F. Read the completed passage in E above. Ask and answer the",
+      "bbox": {
+        "x": 202,
+        "y": 625,
+        "width": 906,
+        "height": 24
+      },
+      "confidence": 94.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-010",
+      "lineNumber": 10,
+      "text": "following questions in pairs.",
+      "bbox": {
+        "x": 277,
+        "y": 658,
+        "width": 332,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-011",
+      "lineNumber": 11,
+      "text": "What do you want to be?",
+      "bbox": {
+        "x": 359,
+        "y": 710,
+        "width": 273,
+        "height": 25
+      },
+      "confidence": 96.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-012",
+      "lineNumber": 12,
+      "text": "I want to be a/an",
+      "bbox": {
+        "x": 359,
+        "y": 743,
+        "width": 182,
+        "height": 19
+      },
+      "confidence": 93.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-013",
+      "lineNumber": 13,
+      "text": "Why do you want to be a/an ?",
+      "bbox": {
+        "x": 359,
+        "y": 775,
+        "width": 532,
+        "height": 26
+      },
+      "confidence": 93.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-014",
+      "lineNumber": 14,
+      "text": "Because I like it / my parents want me to be",
+      "bbox": {
+        "x": 359,
+        "y": 805,
+        "width": 481,
+        "height": 32
+      },
+      "confidence": 94.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-015",
+      "lineNumber": 15,
+      "text": "Lesson 3: A New Generation",
+      "bbox": {
+        "x": 198,
+        "y": 904,
+        "width": 425,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-016",
+      "lineNumber": 16,
+      "text": "Learning outcomes:",
+      "bbox": {
+        "x": 198,
+        "y": 951,
+        "width": 240,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-017",
+      "lineNumber": 17,
+      "text": "After we have studied this unit, we will be able to",
+      "bbox": {
+        "x": 198,
+        "y": 985,
+        "width": 567,
+        "height": 23
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-018",
+      "lineNumber": 18,
+      "text": "Understand the concept of generational naming and its historical context",
+      "bbox": {
+        "x": 278,
+        "y": 1019,
+        "width": 828,
+        "height": 26
+      },
+      "confidence": 96.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-019",
+      "lineNumber": 19,
+      "text": "Analyse the unique characteristics and challenges of Generation Z",
+      "bbox": {
+        "x": 277,
+        "y": 1053,
+        "width": 756,
+        "height": 26
+      },
+      "confidence": 95.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-020",
+      "lineNumber": 20,
+      "text": "Examine the influence of global events on generational identity",
+      "bbox": {
+        "x": 278,
+        "y": 1087,
+        "width": 723,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-021",
+      "lineNumber": 21,
+      "text": "Explore the legacy of generational struggles in Bangladesh",
+      "bbox": {
+        "x": 278,
+        "y": 1122,
+        "width": 671,
+        "height": 26
+      },
+      "confidence": 96.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-022",
+      "lineNumber": 22,
+      "text": "Evaluate the importance of governance to meet the needs of new",
+      "bbox": {
+        "x": 277,
+        "y": 1156,
+        "width": 739,
+        "height": 26
+      },
+      "confidence": 96.09,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-024",
+      "lineNumber": 24,
+      "text": "GenZ and Revolution",
+      "bbox": {
+        "x": 198,
+        "y": 1234,
+        "width": 282,
+        "height": 22
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-026",
+      "lineNumber": 26,
+      "text": "Have you heard the song ‘Kotha Ko’ by Shezan? While singers from earlier",
+      "bbox": {
+        "x": 198,
+        "y": 1307,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 95.31,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-027",
+      "lineNumber": 27,
+      "text": "generations were often too afraid to use music as a form of protest, artists like",
+      "bbox": {
+        "x": 198,
+        "y": 1342,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-028",
+      "lineNumber": 28,
+      "text": "Shezan and Hannan have courageously spoken out. Their rap songs became",
+      "bbox": {
+        "x": 199,
+        "y": 1376,
+        "width": 908,
+        "height": 26
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-029",
+      "lineNumber": 29,
+      "text": "anthems of the July Uprising in 2024. The new generation is no longer afraid;",
+      "bbox": {
+        "x": 198,
+        "y": 1406,
+        "width": 908,
+        "height": 35
+      },
+      "confidence": 95.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-030",
+      "lineNumber": 30,
+      "text": "they are brave and different. But how do we make sense of the difference? What",
+      "bbox": {
+        "x": 197,
+        "y": 1445,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 96.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-035-line-031",
+      "lineNumber": 31,
+      "text": "defines different generations? And what are the connections that link them",
+      "bbox": {
+        "x": 198,
+        "y": 1479,
+        "width": 909,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "30 ENGLISH FOR TODAY\nA father is talking to his daughter about her aim in life.\ngirl wants to be a pilot. father asks her why. The young\nreplies that the job of a is challenging that she likes.\nlikes the speed responsibilitics a pilot’s life. The father\nasks she is not afraid of plane . The daughter says, “An\naccident The father appreciates his daughter’s\nand wishes her good luck.\nF. Read the completed passage in E above. Ask and answer the\nfollowing questions in pairs.\nWhat do you want to be?\nI want to be a/an\nWhy do you want to be a/an ?\nBecause I like it / my parents want me to be\nLesson 3: A New Generation\nLearning outcomes:\nAfter we have studied this unit, we will be able to\nUnderstand the concept of generational naming and its historical context\nAnalyse the unique characteristics and challenges of Generation Z\nExamine the influence of global events on generational identity\nExplore the legacy of generational struggles in Bangladesh\nEvaluate the importance of governance to meet the needs of new\ngenerations\nGenZ and Revolution\nListen to the song ‘Kotha Ko’ by Shezan on internet.\nHave you heard the song ‘Kotha Ko’ by Shezan? While singers from earlier\ngenerations were often too afraid to use music as a form of protest, artists like\nShezan and Hannan have courageously spoken out. Their rap songs became\nanthems of the July Uprising in 2024. The new generation is no longer afraid;\nthey are brave and different. But how do we make sense of the difference? What\ndefines different generations? And what are the connections that link them\nacross time?",
+  "cleanText": "30 ENGLISH FOR TODAY\nA father is talking to his daughter about her aim in life.\ngirl wants to be a pilot. father asks her why. The young\nreplies that the job of a is challenging that she likes.\nlikes the speed responsibilitics a pilot’s life. The father\nasks she is not afraid of plane . The daughter says, “An\naccident The father appreciates his daughter’s\nand wishes her good luck.\nF. Read the completed passage in E above. Ask and answer the\nfollowing questions in pairs.\nWhat do you want to be?\nI want to be a/an\nWhy do you want to be a/an ?\nBecause I like it / my parents want me to be\nLesson 3: A New Generation\nLearning outcomes:\nAfter we have studied this unit, we will be able to\nUnderstand the concept of generational naming and its historical context\nAnalyse the unique characteristics and challenges of Generation Z\nExamine the influence of global events on generational identity\nExplore the legacy of generational struggles in Bangladesh\nEvaluate the importance of governance to meet the needs of new\ngenerations\nGenZ and Revolution\nListen to the song ‘Kotha Ko’ by Shezan on internet.\nHave you heard the song ‘Kotha Ko’ by Shezan? While singers from earlier\ngenerations were often too afraid to use music as a form of protest, artists like\nShezan and Hannan have courageously spoken out. Their rap songs became\nanthems of the July Uprising in 2024. The new generation is no longer afraid;\nthey are brave and different. But how do we make sense of the difference? What\ndefines different generations? And what are the connections that link them\nacross time?",
+  "aiReadyText": "30 ENGLISH FOR TODAY\nA father is talking to his daughter about her aim in life.\ngirl wants to be a pilot. father asks her why. The young\nreplies that the job of a is challenging that she likes.\nlikes the speed responsibilitics a pilot’s life. The father\nasks she is not afraid of plane . The daughter says, “An\naccident The father appreciates his daughter’s\nand wishes her good luck.\nF. Read the completed passage in E above. Ask and answer the\nfollowing questions in pairs.\nWhat do you want to be?\nI want to be a/an\nWhy do you want to be a/an ?\nBecause I like it / my parents want me to be\nLesson 3: A New Generation\nLearning outcomes:\nAfter we have studied this unit, we will be able to\nUnderstand the concept of generational naming and its historical context\nAnalyse the unique characteristics and challenges of Generation Z\nExamine the influence of global events on generational identity\nExplore the legacy of generational struggles in Bangladesh\nEvaluate the importance of governance to meet the needs of new\nGenZ and Revolution\nHave you heard the song ‘Kotha Ko’ by Shezan? While singers from earlier\ngenerations were often too afraid to use music as a form of protest, artists like\nShezan and Hannan have courageously spoken out. Their rap songs became\nanthems of the July Uprising in 2024. The new generation is no longer afraid;\nthey are brave and different. But how do we make sense of the difference? What\ndefines different generations? And what are the connections that link them"
+}

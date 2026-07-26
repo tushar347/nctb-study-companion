@@ -1,0 +1,715 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 75,
+  "image": "/ocr/books/class7-english/page-images/page-075.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Continue reading the story.",
+      "cleanText": "Continue reading the story.",
+      "bbox": {
+        "x": 281,
+        "y": 333,
+        "width": 320,
+        "height": 25
+      },
+      "confidence": 96.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "The giant felt sorry as he looked out. “How selfish | have been!” he",
+      "cleanText": "The giant felt sorry as he looked out. “How selfish | have been!” he",
+      "bbox": {
+        "x": 281,
+        "y": 380,
+        "width": 828,
+        "height": 26
+      },
+      "confidence": 93.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "said to himself. “Now I know why the spring would not come here.”",
+      "cleanText": "said to himself. “Now I know why the spring would not come here.”",
+      "bbox": {
+        "x": 281,
+        "y": 417,
+        "width": 762,
+        "height": 25
+      },
+      "confidence": 93.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "So, he quickly went out into the garden. But when the children saw him",
+      "cleanText": "So, he quickly went out into the garden. But when the children saw him",
+      "bbox": {
+        "x": 282,
+        "y": 459,
+        "width": 829,
+        "height": 24
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "they were so frightened that they all ran away, and the garden had the look",
+      "cleanText": "they were so frightened that they all ran away, and the garden had the look",
+      "bbox": {
+        "x": 280,
+        "y": 495,
+        "width": 828,
+        "height": 26
+      },
+      "confidence": 93.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "of winter again. Only the little boy did not run. For, his eyes were so full of",
+      "cleanText": "of winter again. Only the little boy did not run. For, his eyes were so full of",
+      "bbox": {
+        "x": 276,
+        "y": 533,
+        "width": 840,
+        "height": 26
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "tears that he did not see the giant coming. The giant quietly came behind",
+      "cleanText": "tears that he did not see the giant coming. The giant quietly came behind",
+      "bbox": {
+        "x": 278,
+        "y": 570,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 96.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "him, took him gently in his hands and put him up in the tree. And the",
+      "cleanText": "him, took him gently in his hands and put him up in the tree. And the",
+      "bbox": {
+        "x": 277,
+        "y": 606,
+        "width": 832,
+        "height": 27
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "tree at once broke into blossom, and the birds came and sang on it. The",
+      "cleanText": "tree at once broke into blossom, and the birds came and sang on it. The",
+      "bbox": {
+        "x": 279,
+        "y": 645,
+        "width": 830,
+        "height": 25
+      },
+      "confidence": 95.47,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "little boy stretched out his two arms, flung them round the giant’s neck",
+      "cleanText": "little boy stretched out his two arms, flung them round the giant’s neck",
+      "bbox": {
+        "x": 281,
+        "y": 683,
+        "width": 827,
+        "height": 26
+      },
+      "confidence": 94.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "and kissed him.",
+      "cleanText": "and kissed him.",
+      "bbox": {
+        "x": 280,
+        "y": 715,
+        "width": 168,
+        "height": 19
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "The other children saw this. They saw that the giant was not wicked any",
+      "cleanText": "The other children saw this. They saw that the giant was not wicked any",
+      "bbox": {
+        "x": 281,
+        "y": 755,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "longer. So, they came back running . And with them came the spring.",
+      "cleanText": "longer. So, they came back running . And with them came the spring.",
+      "bbox": {
+        "x": 282,
+        "y": 791,
+        "width": 827,
+        "height": 27
+      },
+      "confidence": 84.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "your garden now, little children,” said the giant. Then he took a",
+      "cleanText": "your garden now, little children,” said the giant. Then he took a",
+      "bbox": {
+        "x": 340,
+        "y": 833,
+        "width": 768,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "huge axe and knocked the wall down. And the people passing by found",
+      "cleanText": "huge axe and knocked the wall down. And the people passing by found",
+      "bbox": {
+        "x": 278,
+        "y": 869,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "the giant playing with the children in the most beautiful garden in the country.",
+      "cleanText": "the giant playing with the children in the most beautiful garden in the country.",
+      "bbox": {
+        "x": 277,
+        "y": 906,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "[adapted from Oscar Wilde]",
+      "cleanText": "[adapted from Oscar Wilde]",
+      "bbox": {
+        "x": 803,
+        "y": 945,
+        "width": 305,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Answer these questions.",
+      "cleanText": "Answer these questions.",
+      "bbox": {
+        "x": 285,
+        "y": 1027,
+        "width": 278,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "1. Why did the giant feel sorry?",
+      "cleanText": "Why did the giant feel sorry?",
+      "bbox": {
+        "x": 288,
+        "y": 1087,
+        "width": 350,
+        "height": 25
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "When did the garden have the look of winter again?",
+      "cleanText": "When did the garden have the look of winter again?",
+      "bbox": {
+        "x": 320,
+        "y": 1133,
+        "width": 556,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Why didn’t the little boy run away?",
+      "cleanText": "Why didn’t the little boy run away?",
+      "bbox": {
+        "x": 320,
+        "y": 1179,
+        "width": 390,
+        "height": 25
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "What happened when the giant put the little boy up in the tree?",
+      "cleanText": "What happened when the giant put the little boy up in the tree?",
+      "bbox": {
+        "x": 320,
+        "y": 1225,
+        "width": 688,
+        "height": 26
+      },
+      "confidence": 96.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "hy did the other children think that the giant was no longer",
+      "cleanText": "hy did the other children think that the giant was no longer",
+      "bbox": {
+        "x": 349,
+        "y": 1272,
+        "width": 647,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "6. What happened when the children came back into the garden?",
+      "cleanText": "What happened when the children came back into the garden?",
+      "bbox": {
+        "x": 286,
+        "y": 1357,
+        "width": 715,
+        "height": 25
+      },
+      "confidence": 95.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "7. Why was the giant’s garden the most beautiful garden in the country?",
+      "cleanText": "Why was the giant’s garden the most beautiful garden in the country?",
+      "bbox": {
+        "x": 286,
+        "y": 1404,
+        "width": 800,
+        "height": 25
+      },
+      "confidence": 95.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-075-line-025",
+      "lineNumber": 25
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-075-line-001",
+      "lineNumber": 1,
+      "text": "Continue reading the story.",
+      "bbox": {
+        "x": 281,
+        "y": 333,
+        "width": 320,
+        "height": 25
+      },
+      "confidence": 96.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-002",
+      "lineNumber": 2,
+      "text": "The giant felt sorry as he looked out. “How selfish | have been!” he",
+      "bbox": {
+        "x": 281,
+        "y": 380,
+        "width": 828,
+        "height": 26
+      },
+      "confidence": 93.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-003",
+      "lineNumber": 3,
+      "text": "said to himself. “Now I know why the spring would not come here.”",
+      "bbox": {
+        "x": 281,
+        "y": 417,
+        "width": 762,
+        "height": 25
+      },
+      "confidence": 93.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-004",
+      "lineNumber": 4,
+      "text": "So, he quickly went out into the garden. But when the children saw him",
+      "bbox": {
+        "x": 282,
+        "y": 459,
+        "width": 829,
+        "height": 24
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-005",
+      "lineNumber": 5,
+      "text": "they were so frightened that they all ran away, and the garden had the look",
+      "bbox": {
+        "x": 280,
+        "y": 495,
+        "width": 828,
+        "height": 26
+      },
+      "confidence": 93.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-006",
+      "lineNumber": 6,
+      "text": "of winter again. Only the little boy did not run. For, his eyes were so full of",
+      "bbox": {
+        "x": 276,
+        "y": 533,
+        "width": 840,
+        "height": 26
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-007",
+      "lineNumber": 7,
+      "text": "tears that he did not see the giant coming. The giant quietly came behind",
+      "bbox": {
+        "x": 278,
+        "y": 570,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 96.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-008",
+      "lineNumber": 8,
+      "text": "him, took him gently in his hands and put him up in the tree. And the",
+      "bbox": {
+        "x": 277,
+        "y": 606,
+        "width": 832,
+        "height": 27
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-009",
+      "lineNumber": 9,
+      "text": "tree at once broke into blossom, and the birds came and sang on it. The",
+      "bbox": {
+        "x": 279,
+        "y": 645,
+        "width": 830,
+        "height": 25
+      },
+      "confidence": 95.47,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-010",
+      "lineNumber": 10,
+      "text": "little boy stretched out his two arms, flung them round the giant’s neck",
+      "bbox": {
+        "x": 281,
+        "y": 683,
+        "width": 827,
+        "height": 26
+      },
+      "confidence": 94.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-011",
+      "lineNumber": 11,
+      "text": "and kissed him.",
+      "bbox": {
+        "x": 280,
+        "y": 715,
+        "width": 168,
+        "height": 19
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-012",
+      "lineNumber": 12,
+      "text": "The other children saw this. They saw that the giant was not wicked any",
+      "bbox": {
+        "x": 281,
+        "y": 755,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-013",
+      "lineNumber": 13,
+      "text": "longer. So, they came back running . And with them came the spring.",
+      "bbox": {
+        "x": 282,
+        "y": 791,
+        "width": 827,
+        "height": 27
+      },
+      "confidence": 84.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-014",
+      "lineNumber": 14,
+      "text": "your garden now, little children,” said the giant. Then he took a",
+      "bbox": {
+        "x": 340,
+        "y": 833,
+        "width": 768,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-015",
+      "lineNumber": 15,
+      "text": "huge axe and knocked the wall down. And the people passing by found",
+      "bbox": {
+        "x": 278,
+        "y": 869,
+        "width": 831,
+        "height": 26
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-016",
+      "lineNumber": 16,
+      "text": "the giant playing with the children in the most beautiful garden in the country.",
+      "bbox": {
+        "x": 277,
+        "y": 906,
+        "width": 834,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-017",
+      "lineNumber": 17,
+      "text": "[adapted from Oscar Wilde]",
+      "bbox": {
+        "x": 803,
+        "y": 945,
+        "width": 305,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-018",
+      "lineNumber": 18,
+      "text": "Answer these questions.",
+      "bbox": {
+        "x": 285,
+        "y": 1027,
+        "width": 278,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-019",
+      "lineNumber": 19,
+      "text": "Why did the giant feel sorry?",
+      "bbox": {
+        "x": 288,
+        "y": 1087,
+        "width": 350,
+        "height": 25
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-020",
+      "lineNumber": 20,
+      "text": "When did the garden have the look of winter again?",
+      "bbox": {
+        "x": 320,
+        "y": 1133,
+        "width": 556,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-021",
+      "lineNumber": 21,
+      "text": "Why didn’t the little boy run away?",
+      "bbox": {
+        "x": 320,
+        "y": 1179,
+        "width": 390,
+        "height": 25
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-022",
+      "lineNumber": 22,
+      "text": "What happened when the giant put the little boy up in the tree?",
+      "bbox": {
+        "x": 320,
+        "y": 1225,
+        "width": 688,
+        "height": 26
+      },
+      "confidence": 96.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-023",
+      "lineNumber": 23,
+      "text": "hy did the other children think that the giant was no longer",
+      "bbox": {
+        "x": 349,
+        "y": 1272,
+        "width": 647,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-024",
+      "lineNumber": 24,
+      "text": "What happened when the children came back into the garden?",
+      "bbox": {
+        "x": 286,
+        "y": 1357,
+        "width": 715,
+        "height": 25
+      },
+      "confidence": 95.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-075-line-025",
+      "lineNumber": 25,
+      "text": "Why was the giant’s garden the most beautiful garden in the country?",
+      "bbox": {
+        "x": 286,
+        "y": 1404,
+        "width": 800,
+        "height": 25
+      },
+      "confidence": 95.23,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Continue reading the story.\nThe giant felt sorry as he looked out. “How selfish | have been!” he\nsaid to himself. “Now I know why the spring would not come here.”\nSo, he quickly went out into the garden. But when the children saw him\nthey were so frightened that they all ran away, and the garden had the look\nof winter again. Only the little boy did not run. For, his eyes were so full of\ntears that he did not see the giant coming. The giant quietly came behind\nhim, took him gently in his hands and put him up in the tree. And the\ntree at once broke into blossom, and the birds came and sang on it. The\nlittle boy stretched out his two arms, flung them round the giant’s neck\nand kissed him.\nThe other children saw this. They saw that the giant was not wicked any\nlonger. So, they came back running . And with them came the spring.\nyour garden now, little children,” said the giant. Then he took a\nhuge axe and knocked the wall down. And the people passing by found\nthe giant playing with the children in the most beautiful garden in the country.\n[adapted from Oscar Wilde]\nAnswer these questions.\n1. Why did the giant feel sorry?\nWhen did the garden have the look of winter again?\nWhy didn’t the little boy run away?\nWhat happened when the giant put the little boy up in the tree?\nhy did the other children think that the giant was no longer\n6. What happened when the children came back into the garden?\n7. Why was the giant’s garden the most beautiful garden in the country?",
+  "cleanText": "Continue reading the story.\nThe giant felt sorry as he looked out. “How selfish | have been!” he\nsaid to himself. “Now I know why the spring would not come here.”\nSo, he quickly went out into the garden. But when the children saw him\nthey were so frightened that they all ran away, and the garden had the look\nof winter again. Only the little boy did not run. For, his eyes were so full of\ntears that he did not see the giant coming. The giant quietly came behind\nhim, took him gently in his hands and put him up in the tree. And the\ntree at once broke into blossom, and the birds came and sang on it. The\nlittle boy stretched out his two arms, flung them round the giant’s neck\nand kissed him.\nThe other children saw this. They saw that the giant was not wicked any\nlonger. So, they came back running . And with them came the spring.\nyour garden now, little children,” said the giant. Then he took a\nhuge axe and knocked the wall down. And the people passing by found\nthe giant playing with the children in the most beautiful garden in the country.\n[adapted from Oscar Wilde]\nAnswer these questions.\nWhy did the giant feel sorry?\nWhen did the garden have the look of winter again?\nWhy didn’t the little boy run away?\nWhat happened when the giant put the little boy up in the tree?\nhy did the other children think that the giant was no longer\nWhat happened when the children came back into the garden?\nWhy was the giant’s garden the most beautiful garden in the country?",
+  "aiReadyText": "Continue reading the story.\nThe giant felt sorry as he looked out. “How selfish | have been!” he\nsaid to himself. “Now I know why the spring would not come here.”\nSo, he quickly went out into the garden. But when the children saw him\nthey were so frightened that they all ran away, and the garden had the look\nof winter again. Only the little boy did not run. For, his eyes were so full of\ntears that he did not see the giant coming. The giant quietly came behind\nhim, took him gently in his hands and put him up in the tree. And the\ntree at once broke into blossom, and the birds came and sang on it. The\nlittle boy stretched out his two arms, flung them round the giant’s neck\nand kissed him.\nThe other children saw this. They saw that the giant was not wicked any\nlonger. So, they came back running . And with them came the spring.\nyour garden now, little children,” said the giant. Then he took a\nhuge axe and knocked the wall down. And the people passing by found\nthe giant playing with the children in the most beautiful garden in the country.\n[adapted from Oscar Wilde]\nAnswer these questions.\nWhy did the giant feel sorry?\nWhen did the garden have the look of winter again?\nWhy didn’t the little boy run away?\nWhat happened when the giant put the little boy up in the tree?\nhy did the other children think that the giant was no longer\nWhat happened when the children came back into the garden?\nWhy was the giant’s garden the most beautiful garden in the country?"
+}

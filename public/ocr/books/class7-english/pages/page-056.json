@@ -1,0 +1,958 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 56,
+  "image": "/ocr/books/class7-english/page-images/page-056.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Five : Great women to remember",
+      "cleanText": "Unit Five : Great women to remember",
+      "bbox": {
+        "x": 194,
+        "y": 254,
+        "width": 404,
+        "height": 18
+      },
+      "confidence": 94.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "2, Begum Rokeya set up a girls’ high school in",
+      "cleanText": "2, Begum Rokeya set up a girls’ high school in",
+      "bbox": {
+        "x": 212,
+        "y": 313,
+        "width": 588,
+        "height": 32
+      },
+      "confidence": 92.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "a. Kolkata.",
+      "cleanText": "Kolkata.",
+      "bbox": {
+        "x": 291,
+        "y": 349,
+        "width": 124,
+        "height": 20
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-056-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "b. Bhagalpur.",
+      "cleanText": "Bhagalpur.",
+      "bbox": {
+        "x": 291,
+        "y": 382,
+        "width": 153,
+        "height": 25
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-056-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "¢. Pairabandh.",
+      "cleanText": "¢. Pairabandh.",
+      "bbox": {
+        "x": 291,
+        "y": 415,
+        "width": 160,
+        "height": 20
+      },
+      "confidence": 82.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "3. Begum Rokeya set up this school in memory of her",
+      "cleanText": "Begum Rokeya set up this school in memory of her",
+      "bbox": {
+        "x": 212,
+        "y": 453,
+        "width": 673,
+        "height": 25
+      },
+      "confidence": 95.09,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "a. husband.",
+      "cleanText": "husband.",
+      "bbox": {
+        "x": 291,
+        "y": 486,
+        "width": 129,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-056-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "b. father.",
+      "cleanText": "father.",
+      "bbox": {
+        "x": 292,
+        "y": 519,
+        "width": 102,
+        "height": 19
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-056-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "c. mother.",
+      "cleanText": "mother.",
+      "bbox": {
+        "x": 291,
+        "y": 552,
+        "width": 115,
+        "height": 19
+      },
+      "confidence": 89.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-056-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "4, There was a dispute in her husband’s family. Here ‘dispute’ means",
+      "cleanText": "4, There was a dispute in her husband’s family. Here ‘dispute’ means",
+      "bbox": {
+        "x": 212,
+        "y": 590,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 94.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "that the members",
+      "cleanText": "that the members",
+      "bbox": {
+        "x": 291,
+        "y": 623,
+        "width": 204,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "a. were of the same opinion.",
+      "cleanText": "were of the same opinion.",
+      "bbox": {
+        "x": 291,
+        "y": 651,
+        "width": 315,
+        "height": 33
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "b. had different opinions.",
+      "cleanText": "had different opinions.",
+      "bbox": {
+        "x": 291,
+        "y": 688,
+        "width": 281,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "ec. did not like each other.",
+      "cleanText": "ec. did not like each other.",
+      "bbox": {
+        "x": 291,
+        "y": 721,
+        "width": 283,
+        "height": 19
+      },
+      "confidence": 87.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "5, Sakhawat Hossain Memorial Girls’ school is",
+      "cleanText": "5, Sakhawat Hossain Memorial Girls’ school is",
+      "bbox": {
+        "x": 212,
+        "y": 760,
+        "width": 597,
+        "height": 22
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "a. a private school.",
+      "cleanText": "a private school.",
+      "bbox": {
+        "x": 291,
+        "y": 792,
+        "width": 211,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "b. a government school.",
+      "cleanText": "a government school.",
+      "bbox": {
+        "x": 291,
+        "y": 825,
+        "width": 270,
+        "height": 26
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "¢. a muslim school.",
+      "cleanText": "¢. a muslim school.",
+      "bbox": {
+        "x": 291,
+        "y": 858,
+        "width": 220,
+        "height": 20
+      },
+      "confidence": 82.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "6. Begum Rokeya wrote",
+      "cleanText": "Begum Rokeya wrote",
+      "bbox": {
+        "x": 212,
+        "y": 897,
+        "width": 329,
+        "height": 24
+      },
+      "confidence": 90.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "a. short stories and poems.",
+      "cleanText": "short stories and poems.",
+      "bbox": {
+        "x": 291,
+        "y": 929,
+        "width": 296,
+        "height": 25
+      },
+      "confidence": 96.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "b. novels and poems.",
+      "cleanText": "novels and poems.",
+      "bbox": {
+        "x": 291,
+        "y": 962,
+        "width": 235,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "c. novels and short stories.",
+      "cleanText": "novels and short stories.",
+      "bbox": {
+        "x": 291,
+        "y": 995,
+        "width": 296,
+        "height": 19
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Cc Answer the following questions.",
+      "cleanText": "Cc Answer the following questions.",
+      "bbox": {
+        "x": 208,
+        "y": 1029,
+        "width": 454,
+        "height": 32
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "I. What did Begum Rokeya do for female education?",
+      "cleanText": "What did Begum Rokeya do for female education?",
+      "bbox": {
+        "x": 295,
+        "y": 1078,
+        "width": 632,
+        "height": 25
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "2, Why did she move Sakhawat Memorial Girls’ High School to Kolkata?",
+      "cleanText": "2, Why did she move Sakhawat Memorial Girls’ High School to Kolkata?",
+      "bbox": {
+        "x": 291,
+        "y": 1125,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 93.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "3. What are some of her important writings?",
+      "cleanText": "What are some of her important writings?",
+      "bbox": {
+        "x": 292,
+        "y": 1165,
+        "width": 536,
+        "height": 33
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "Lesson 3: Helen Keller",
+      "cleanText": "Lesson 3: Helen Keller",
+      "bbox": {
+        "x": 211,
+        "y": 1237,
+        "width": 296,
+        "height": 21
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "Keywords: humanitarian, disabled, plantation,",
+      "cleanText": "Keywords: humanitarian, disabled, plantation,",
+      "bbox": {
+        "x": 211,
+        "y": 1276,
+        "width": 549,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "communication, interpret",
+      "cleanText": "communication, interpret",
+      "bbox": {
+        "x": 362,
+        "y": 1310,
+        "width": 288,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "A Talk about the picture.",
+      "cleanText": "A Talk about the picture.",
+      "bbox": {
+        "x": 212,
+        "y": 1347,
+        "width": 322,
+        "height": 26
+      },
+      "confidence": 86.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "L Who is the woman in the picture?",
+      "cleanText": "L Who is the woman in the picture?",
+      "bbox": {
+        "x": 294,
+        "y": 1381,
+        "width": 459,
+        "height": 26
+      },
+      "confidence": 94.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "2. What is she famous for?",
+      "cleanText": "What is she famous for?",
+      "bbox": {
+        "x": 290,
+        "y": 1415,
+        "width": 355,
+        "height": 21
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "B_ Read about Helen Keller.",
+      "cleanText": "B_ Read about Helen Keller.",
+      "bbox": {
+        "x": 211,
+        "y": 1466,
+        "width": 353,
+        "height": 19
+      },
+      "confidence": 90.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "Helen Keller was a great humanitarian. She cared deeply for the sick, injured",
+      "cleanText": "Helen Keller was a great humanitarian. She cared deeply for the sick, injured",
+      "bbox": {
+        "x": 211,
+        "y": 1506,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 96.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "and disabled people. The disabled people have physical or mental problems that",
+      "cleanText": "and disabled people. The disabled people have physical or mental problems that",
+      "bbox": {
+        "x": 211,
+        "y": 1540,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 96.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-035",
+      "lineNumber": 35
+    },
+    {
+      "text": "limit their activities or senses, Helen devoted her life to help them.",
+      "cleanText": "limit their activities or senses, Helen devoted her life to help them.",
+      "bbox": {
+        "x": 212,
+        "y": 1575,
+        "width": 758,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-056-line-036",
+      "lineNumber": 36
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-056-line-001",
+      "lineNumber": 1,
+      "text": "Unit Five : Great women to remember",
+      "bbox": {
+        "x": 194,
+        "y": 254,
+        "width": 404,
+        "height": 18
+      },
+      "confidence": 94.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-002",
+      "lineNumber": 2,
+      "text": "2, Begum Rokeya set up a girls’ high school in",
+      "bbox": {
+        "x": 212,
+        "y": 313,
+        "width": 588,
+        "height": 32
+      },
+      "confidence": 92.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-005",
+      "lineNumber": 5,
+      "text": "¢. Pairabandh.",
+      "bbox": {
+        "x": 291,
+        "y": 415,
+        "width": 160,
+        "height": 20
+      },
+      "confidence": 82.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-006",
+      "lineNumber": 6,
+      "text": "Begum Rokeya set up this school in memory of her",
+      "bbox": {
+        "x": 212,
+        "y": 453,
+        "width": 673,
+        "height": 25
+      },
+      "confidence": 95.09,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-010",
+      "lineNumber": 10,
+      "text": "4, There was a dispute in her husband’s family. Here ‘dispute’ means",
+      "bbox": {
+        "x": 212,
+        "y": 590,
+        "width": 908,
+        "height": 24
+      },
+      "confidence": 94.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-011",
+      "lineNumber": 11,
+      "text": "that the members",
+      "bbox": {
+        "x": 291,
+        "y": 623,
+        "width": 204,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-012",
+      "lineNumber": 12,
+      "text": "were of the same opinion.",
+      "bbox": {
+        "x": 291,
+        "y": 651,
+        "width": 315,
+        "height": 33
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-013",
+      "lineNumber": 13,
+      "text": "had different opinions.",
+      "bbox": {
+        "x": 291,
+        "y": 688,
+        "width": 281,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-014",
+      "lineNumber": 14,
+      "text": "ec. did not like each other.",
+      "bbox": {
+        "x": 291,
+        "y": 721,
+        "width": 283,
+        "height": 19
+      },
+      "confidence": 87.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-015",
+      "lineNumber": 15,
+      "text": "5, Sakhawat Hossain Memorial Girls’ school is",
+      "bbox": {
+        "x": 212,
+        "y": 760,
+        "width": 597,
+        "height": 22
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-016",
+      "lineNumber": 16,
+      "text": "a private school.",
+      "bbox": {
+        "x": 291,
+        "y": 792,
+        "width": 211,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-017",
+      "lineNumber": 17,
+      "text": "a government school.",
+      "bbox": {
+        "x": 291,
+        "y": 825,
+        "width": 270,
+        "height": 26
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-018",
+      "lineNumber": 18,
+      "text": "¢. a muslim school.",
+      "bbox": {
+        "x": 291,
+        "y": 858,
+        "width": 220,
+        "height": 20
+      },
+      "confidence": 82.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-019",
+      "lineNumber": 19,
+      "text": "Begum Rokeya wrote",
+      "bbox": {
+        "x": 212,
+        "y": 897,
+        "width": 329,
+        "height": 24
+      },
+      "confidence": 90.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-020",
+      "lineNumber": 20,
+      "text": "short stories and poems.",
+      "bbox": {
+        "x": 291,
+        "y": 929,
+        "width": 296,
+        "height": 25
+      },
+      "confidence": 96.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-021",
+      "lineNumber": 21,
+      "text": "novels and poems.",
+      "bbox": {
+        "x": 291,
+        "y": 962,
+        "width": 235,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-022",
+      "lineNumber": 22,
+      "text": "novels and short stories.",
+      "bbox": {
+        "x": 291,
+        "y": 995,
+        "width": 296,
+        "height": 19
+      },
+      "confidence": 91.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-023",
+      "lineNumber": 23,
+      "text": "Cc Answer the following questions.",
+      "bbox": {
+        "x": 208,
+        "y": 1029,
+        "width": 454,
+        "height": 32
+      },
+      "confidence": 91.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-024",
+      "lineNumber": 24,
+      "text": "What did Begum Rokeya do for female education?",
+      "bbox": {
+        "x": 295,
+        "y": 1078,
+        "width": 632,
+        "height": 25
+      },
+      "confidence": 91.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-025",
+      "lineNumber": 25,
+      "text": "2, Why did she move Sakhawat Memorial Girls’ High School to Kolkata?",
+      "bbox": {
+        "x": 291,
+        "y": 1125,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 93.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-026",
+      "lineNumber": 26,
+      "text": "What are some of her important writings?",
+      "bbox": {
+        "x": 292,
+        "y": 1165,
+        "width": 536,
+        "height": 33
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-027",
+      "lineNumber": 27,
+      "text": "Lesson 3: Helen Keller",
+      "bbox": {
+        "x": 211,
+        "y": 1237,
+        "width": 296,
+        "height": 21
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-028",
+      "lineNumber": 28,
+      "text": "Keywords: humanitarian, disabled, plantation,",
+      "bbox": {
+        "x": 211,
+        "y": 1276,
+        "width": 549,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-029",
+      "lineNumber": 29,
+      "text": "communication, interpret",
+      "bbox": {
+        "x": 362,
+        "y": 1310,
+        "width": 288,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-030",
+      "lineNumber": 30,
+      "text": "A Talk about the picture.",
+      "bbox": {
+        "x": 212,
+        "y": 1347,
+        "width": 322,
+        "height": 26
+      },
+      "confidence": 86.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-031",
+      "lineNumber": 31,
+      "text": "L Who is the woman in the picture?",
+      "bbox": {
+        "x": 294,
+        "y": 1381,
+        "width": 459,
+        "height": 26
+      },
+      "confidence": 94.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-032",
+      "lineNumber": 32,
+      "text": "What is she famous for?",
+      "bbox": {
+        "x": 290,
+        "y": 1415,
+        "width": 355,
+        "height": 21
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-033",
+      "lineNumber": 33,
+      "text": "B_ Read about Helen Keller.",
+      "bbox": {
+        "x": 211,
+        "y": 1466,
+        "width": 353,
+        "height": 19
+      },
+      "confidence": 90.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-034",
+      "lineNumber": 34,
+      "text": "Helen Keller was a great humanitarian. She cared deeply for the sick, injured",
+      "bbox": {
+        "x": 211,
+        "y": 1506,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 96.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-035",
+      "lineNumber": 35,
+      "text": "and disabled people. The disabled people have physical or mental problems that",
+      "bbox": {
+        "x": 211,
+        "y": 1540,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 96.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-056-line-036",
+      "lineNumber": 36,
+      "text": "limit their activities or senses, Helen devoted her life to help them.",
+      "bbox": {
+        "x": 212,
+        "y": 1575,
+        "width": 758,
+        "height": 26
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Five : Great women to remember\n2, Begum Rokeya set up a girls’ high school in\na. Kolkata.\nb. Bhagalpur.\n¢. Pairabandh.\n3. Begum Rokeya set up this school in memory of her\na. husband.\nb. father.\nc. mother.\n4, There was a dispute in her husband’s family. Here ‘dispute’ means\nthat the members\na. were of the same opinion.\nb. had different opinions.\nec. did not like each other.\n5, Sakhawat Hossain Memorial Girls’ school is\na. a private school.\nb. a government school.\n¢. a muslim school.\n6. Begum Rokeya wrote\na. short stories and poems.\nb. novels and poems.\nc. novels and short stories.\nCc Answer the following questions.\nI. What did Begum Rokeya do for female education?\n2, Why did she move Sakhawat Memorial Girls’ High School to Kolkata?\n3. What are some of her important writings?\nLesson 3: Helen Keller\nKeywords: humanitarian, disabled, plantation,\ncommunication, interpret\nA Talk about the picture.\nL Who is the woman in the picture?\n2. What is she famous for?\nB_ Read about Helen Keller.\nHelen Keller was a great humanitarian. She cared deeply for the sick, injured\nand disabled people. The disabled people have physical or mental problems that\nlimit their activities or senses, Helen devoted her life to help them.",
+  "cleanText": "Unit Five : Great women to remember\n2, Begum Rokeya set up a girls’ high school in\nKolkata.\nBhagalpur.\n¢. Pairabandh.\nBegum Rokeya set up this school in memory of her\nhusband.\nfather.\nmother.\n4, There was a dispute in her husband’s family. Here ‘dispute’ means\nthat the members\nwere of the same opinion.\nhad different opinions.\nec. did not like each other.\n5, Sakhawat Hossain Memorial Girls’ school is\na private school.\na government school.\n¢. a muslim school.\nBegum Rokeya wrote\nshort stories and poems.\nnovels and poems.\nnovels and short stories.\nCc Answer the following questions.\nWhat did Begum Rokeya do for female education?\n2, Why did she move Sakhawat Memorial Girls’ High School to Kolkata?\nWhat are some of her important writings?\nLesson 3: Helen Keller\nKeywords: humanitarian, disabled, plantation,\ncommunication, interpret\nA Talk about the picture.\nL Who is the woman in the picture?\nWhat is she famous for?\nB_ Read about Helen Keller.\nHelen Keller was a great humanitarian. She cared deeply for the sick, injured\nand disabled people. The disabled people have physical or mental problems that\nlimit their activities or senses, Helen devoted her life to help them.",
+  "aiReadyText": "Unit Five : Great women to remember\n2, Begum Rokeya set up a girls’ high school in\n¢. Pairabandh.\nBegum Rokeya set up this school in memory of her\n4, There was a dispute in her husband’s family. Here ‘dispute’ means\nthat the members\nwere of the same opinion.\nhad different opinions.\nec. did not like each other.\n5, Sakhawat Hossain Memorial Girls’ school is\na private school.\na government school.\n¢. a muslim school.\nBegum Rokeya wrote\nshort stories and poems.\nnovels and poems.\nnovels and short stories.\nCc Answer the following questions.\nWhat did Begum Rokeya do for female education?\n2, Why did she move Sakhawat Memorial Girls’ High School to Kolkata?\nWhat are some of her important writings?\nLesson 3: Helen Keller\nKeywords: humanitarian, disabled, plantation,\ncommunication, interpret\nA Talk about the picture.\nL Who is the woman in the picture?\nWhat is she famous for?\nB_ Read about Helen Keller.\nHelen Keller was a great humanitarian. She cared deeply for the sick, injured\nand disabled people. The disabled people have physical or mental problems that\nlimit their activities or senses, Helen devoted her life to help them."
+}

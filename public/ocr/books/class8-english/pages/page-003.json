@@ -1,0 +1,396 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 3,
+  "image": "/ocr/books/class8-english/page-images/page-003.png",
+  "width": 1149,
+  "height": 1505,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Published by",
+      "cleanText": "Published by",
+      "bbox": {
+        "x": 483,
+        "y": 187,
+        "width": 196,
+        "height": 32
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-003-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "69-70, Motijheel Commercial Area, Dhaka",
+      "cleanText": "69-70, Motijheel Commercial Area, Dhaka",
+      "bbox": {
+        "x": 315,
+        "y": 266,
+        "width": 529,
+        "height": 26
+      },
+      "confidence": 94.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "[All rights reserved by the Publisher]",
+      "cleanText": "[All rights reserved by the Publisher]",
+      "bbox": {
+        "x": 332,
+        "y": 373,
+        "width": 495,
+        "height": 32
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "First edition written and edited by",
+      "cleanText": "First edition written and edited by",
+      "bbox": {
+        "x": 350,
+        "y": 471,
+        "width": 449,
+        "height": 28
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Abdus Subhan",
+      "cleanText": "Abdus Subhan",
+      "bbox": {
+        "x": 491,
+        "y": 521,
+        "width": 163,
+        "height": 20
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-003-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "M S Hoque, Yasmin Banu",
+      "cleanText": "M S Hoque, Yasmin Banu",
+      "bbox": {
+        "x": 439,
+        "y": 553,
+        "width": 271,
+        "height": 24
+      },
+      "confidence": 92.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Surajit Roy Majumder, Md Abdur Razzaque",
+      "cleanText": "Surajit Roy Majumder, Md Abdur Razzaque",
+      "bbox": {
+        "x": 343,
+        "y": 592,
+        "width": 462,
+        "height": 24
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Naina Shahzadi, Nargis Akhter Banu",
+      "cleanText": "Naina Shahzadi, Nargis Akhter Banu",
+      "bbox": {
+        "x": 382,
+        "y": 632,
+        "width": 384,
+        "height": 23
+      },
+      "confidence": 94.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "First Publication September. 2012",
+      "cleanText": "First Publication September. 2012",
+      "bbox": {
+        "x": 366,
+        "y": 1079,
+        "width": 427,
+        "height": 22
+      },
+      "confidence": 96.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Revised Editon : September, 2014",
+      "cleanText": "Revised Editon : September, 2014",
+      "bbox": {
+        "x": 376,
+        "y": 1113,
+        "width": 416,
+        "height": 21
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Revised Editon : November, 2020",
+      "cleanText": "Revised Editon : November, 2020",
+      "bbox": {
+        "x": 376,
+        "y": 1152,
+        "width": 417,
+        "height": 20
+      },
+      "confidence": 89.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Revised Editon : October, 2024",
+      "cleanText": "Revised Editon : October, 2024",
+      "bbox": {
+        "x": 376,
+        "y": 1187,
+        "width": 393,
+        "height": 19
+      },
+      "confidence": 84.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Revised Editon : October, 2025",
+      "cleanText": "Revised Editon : October, 2025",
+      "bbox": {
+        "x": 376,
+        "y": 1220,
+        "width": 392,
+        "height": 19
+      },
+      "confidence": 84.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "For Free Distribution by the Government of the People’s Republic of Bangladesh",
+      "cleanText": "For Free Distribution by the Government of the People’s Republic of Bangladesh",
+      "bbox": {
+        "x": 119,
+        "y": 1352,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-003-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Printed by:",
+      "cleanText": "Printed by:",
+      "bbox": {
+        "x": 118,
+        "y": 1397,
+        "width": 133,
+        "height": 25
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-003-line-015",
+      "lineNumber": 15
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-003-line-002",
+      "lineNumber": 2,
+      "text": "69-70, Motijheel Commercial Area, Dhaka",
+      "bbox": {
+        "x": 315,
+        "y": 266,
+        "width": 529,
+        "height": 26
+      },
+      "confidence": 94.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-003",
+      "lineNumber": 3,
+      "text": "[All rights reserved by the Publisher]",
+      "bbox": {
+        "x": 332,
+        "y": 373,
+        "width": 495,
+        "height": 32
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-004",
+      "lineNumber": 4,
+      "text": "First edition written and edited by",
+      "bbox": {
+        "x": 350,
+        "y": 471,
+        "width": 449,
+        "height": 28
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-006",
+      "lineNumber": 6,
+      "text": "M S Hoque, Yasmin Banu",
+      "bbox": {
+        "x": 439,
+        "y": 553,
+        "width": 271,
+        "height": 24
+      },
+      "confidence": 92.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-007",
+      "lineNumber": 7,
+      "text": "Surajit Roy Majumder, Md Abdur Razzaque",
+      "bbox": {
+        "x": 343,
+        "y": 592,
+        "width": 462,
+        "height": 24
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-008",
+      "lineNumber": 8,
+      "text": "Naina Shahzadi, Nargis Akhter Banu",
+      "bbox": {
+        "x": 382,
+        "y": 632,
+        "width": 384,
+        "height": 23
+      },
+      "confidence": 94.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-009",
+      "lineNumber": 9,
+      "text": "First Publication September. 2012",
+      "bbox": {
+        "x": 366,
+        "y": 1079,
+        "width": 427,
+        "height": 22
+      },
+      "confidence": 96.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-010",
+      "lineNumber": 10,
+      "text": "Revised Editon : September, 2014",
+      "bbox": {
+        "x": 376,
+        "y": 1113,
+        "width": 416,
+        "height": 21
+      },
+      "confidence": 91.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-011",
+      "lineNumber": 11,
+      "text": "Revised Editon : November, 2020",
+      "bbox": {
+        "x": 376,
+        "y": 1152,
+        "width": 417,
+        "height": 20
+      },
+      "confidence": 89.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-012",
+      "lineNumber": 12,
+      "text": "Revised Editon : October, 2024",
+      "bbox": {
+        "x": 376,
+        "y": 1187,
+        "width": 393,
+        "height": 19
+      },
+      "confidence": 84.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-013",
+      "lineNumber": 13,
+      "text": "Revised Editon : October, 2025",
+      "bbox": {
+        "x": 376,
+        "y": 1220,
+        "width": 392,
+        "height": 19
+      },
+      "confidence": 84.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-003-line-014",
+      "lineNumber": 14,
+      "text": "For Free Distribution by the Government of the People’s Republic of Bangladesh",
+      "bbox": {
+        "x": 119,
+        "y": 1352,
+        "width": 910,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Published by\n69-70, Motijheel Commercial Area, Dhaka\n[All rights reserved by the Publisher]\nFirst edition written and edited by\nAbdus Subhan\nM S Hoque, Yasmin Banu\nSurajit Roy Majumder, Md Abdur Razzaque\nNaina Shahzadi, Nargis Akhter Banu\nFirst Publication September. 2012\nRevised Editon : September, 2014\nRevised Editon : November, 2020\nRevised Editon : October, 2024\nRevised Editon : October, 2025\nFor Free Distribution by the Government of the People’s Republic of Bangladesh\nPrinted by:",
+  "cleanText": "Published by\n69-70, Motijheel Commercial Area, Dhaka\n[All rights reserved by the Publisher]\nFirst edition written and edited by\nAbdus Subhan\nM S Hoque, Yasmin Banu\nSurajit Roy Majumder, Md Abdur Razzaque\nNaina Shahzadi, Nargis Akhter Banu\nFirst Publication September. 2012\nRevised Editon : September, 2014\nRevised Editon : November, 2020\nRevised Editon : October, 2024\nRevised Editon : October, 2025\nFor Free Distribution by the Government of the People’s Republic of Bangladesh\nPrinted by:",
+  "aiReadyText": "69-70, Motijheel Commercial Area, Dhaka\n[All rights reserved by the Publisher]\nFirst edition written and edited by\nM S Hoque, Yasmin Banu\nSurajit Roy Majumder, Md Abdur Razzaque\nNaina Shahzadi, Nargis Akhter Banu\nFirst Publication September. 2012\nRevised Editon : September, 2014\nRevised Editon : November, 2020\nRevised Editon : October, 2024\nRevised Editon : October, 2025\nFor Free Distribution by the Government of the People’s Republic of Bangladesh"
+}

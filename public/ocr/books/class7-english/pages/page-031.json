@@ -1,0 +1,297 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 31,
+  "image": "/ocr/books/class7-english/page-images/page-031.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Four",
+      "cleanText": "Unit Four",
+      "bbox": {
+        "x": 638,
+        "y": 268,
+        "width": 129,
+        "height": 21
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-031-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "People Who Make a Difference",
+      "cleanText": "People Who Make a Difference",
+      "bbox": {
+        "x": 451,
+        "y": 323,
+        "width": 516,
+        "height": 36
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Learning outcomes",
+      "cleanText": "Learning outcomes",
+      "bbox": {
+        "x": 209,
+        "y": 1061,
+        "width": 222,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "bbox": {
+        "x": 208,
+        "y": 1129,
+        "width": 545,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "ask and answer questions",
+      "cleanText": "ask and answer questions",
+      "bbox": {
+        "x": 287,
+        "y": 1196,
+        "width": 277,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "read and understand texts",
+      "cleanText": "read and understand texts",
+      "bbox": {
+        "x": 289,
+        "y": 1231,
+        "width": 278,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "read, recite, and understand poems",
+      "cleanText": "read, recite, and understand poems",
+      "bbox": {
+        "x": 289,
+        "y": 1267,
+        "width": 376,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "participate in dialogues and conversations",
+      "cleanText": "participate in dialogues and conversations",
+      "bbox": {
+        "x": 288,
+        "y": 1300,
+        "width": 460,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "talk about people, places, and events",
+      "cleanText": "talk about people, places, and events",
+      "bbox": {
+        "x": 288,
+        "y": 1340,
+        "width": 400,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-031-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "read and write letters",
+      "cleanText": "read and write letters",
+      "bbox": {
+        "x": 289,
+        "y": 1375,
+        "width": 229,
+        "height": 19
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "write paragraphs and short compositions",
+      "cleanText": "write paragraphs and short compositions",
+      "bbox": {
+        "x": 289,
+        "y": 1410,
+        "width": 444,
+        "height": 25
+      },
+      "confidence": 96.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-031-line-011",
+      "lineNumber": 11
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-031-line-002",
+      "lineNumber": 2,
+      "text": "People Who Make a Difference",
+      "bbox": {
+        "x": 451,
+        "y": 323,
+        "width": 516,
+        "height": 36
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-003",
+      "lineNumber": 3,
+      "text": "Learning outcomes",
+      "bbox": {
+        "x": 209,
+        "y": 1061,
+        "width": 222,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-004",
+      "lineNumber": 4,
+      "text": "After we have studied this unit, we will be able to",
+      "bbox": {
+        "x": 208,
+        "y": 1129,
+        "width": 545,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-005",
+      "lineNumber": 5,
+      "text": "ask and answer questions",
+      "bbox": {
+        "x": 287,
+        "y": 1196,
+        "width": 277,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-006",
+      "lineNumber": 6,
+      "text": "read and understand texts",
+      "bbox": {
+        "x": 289,
+        "y": 1231,
+        "width": 278,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-007",
+      "lineNumber": 7,
+      "text": "read, recite, and understand poems",
+      "bbox": {
+        "x": 289,
+        "y": 1267,
+        "width": 376,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-008",
+      "lineNumber": 8,
+      "text": "participate in dialogues and conversations",
+      "bbox": {
+        "x": 288,
+        "y": 1300,
+        "width": 460,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-010",
+      "lineNumber": 10,
+      "text": "read and write letters",
+      "bbox": {
+        "x": 289,
+        "y": 1375,
+        "width": 229,
+        "height": 19
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-031-line-011",
+      "lineNumber": 11,
+      "text": "write paragraphs and short compositions",
+      "bbox": {
+        "x": 289,
+        "y": 1410,
+        "width": 444,
+        "height": 25
+      },
+      "confidence": 96.2,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Four\nPeople Who Make a Difference\nLearning outcomes\nAfter we have studied this unit, we will be able to\nask and answer questions\nread and understand texts\nread, recite, and understand poems\nparticipate in dialogues and conversations\ntalk about people, places, and events\nread and write letters\nwrite paragraphs and short compositions",
+  "cleanText": "Unit Four\nPeople Who Make a Difference\nLearning outcomes\nAfter we have studied this unit, we will be able to\nask and answer questions\nread and understand texts\nread, recite, and understand poems\nparticipate in dialogues and conversations\ntalk about people, places, and events\nread and write letters\nwrite paragraphs and short compositions",
+  "aiReadyText": "People Who Make a Difference\nLearning outcomes\nAfter we have studied this unit, we will be able to\nask and answer questions\nread and understand texts\nread, recite, and understand poems\nparticipate in dialogues and conversations\nread and write letters\nwrite paragraphs and short compositions"
+}

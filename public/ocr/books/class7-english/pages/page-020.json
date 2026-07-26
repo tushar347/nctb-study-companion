@@ -1,0 +1,717 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 20,
+  "image": "/ocr/books/class7-english/page-images/page-020.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit 2 : My Study Guide 15",
+      "cleanText": "Unit 2 : My Study Guide 15",
+      "bbox": {
+        "x": 192,
+        "y": 252,
+        "width": 904,
+        "height": 25
+      },
+      "confidence": 91.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Questions",
+      "cleanText": "Questions",
+      "bbox": {
+        "x": 187,
+        "y": 341,
+        "width": 114,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-020-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "1. How many subjects / topics do you see here?",
+      "cleanText": "How many subjects / topics do you see here?",
+      "bbox": {
+        "x": 315,
+        "y": 373,
+        "width": 529,
+        "height": 25
+      },
+      "confidence": 93.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "2. What do the numbers on the right-hand side mean?",
+      "cleanText": "What do the numbers on the right-hand side mean?",
+      "bbox": {
+        "x": 312,
+        "y": 406,
+        "width": 599,
+        "height": 25
+      },
+      "confidence": 94.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "3. Who do you think the people whose names are written after the",
+      "cleanText": "Who do you think the people whose names are written after the",
+      "bbox": {
+        "x": 312,
+        "y": 439,
+        "width": 783,
+        "height": 25
+      },
+      "confidence": 95.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "subyects or topics are?",
+      "cleanText": "subyects or topics are?",
+      "bbox": {
+        "x": 357,
+        "y": 472,
+        "width": 245,
+        "height": 25
+      },
+      "confidence": 93.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "4 What is each topic / subject called?",
+      "cleanText": "4 What is each topic / subject called?",
+      "bbox": {
+        "x": 311,
+        "y": 505,
+        "width": 426,
+        "height": 25
+      },
+      "confidence": 89.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Fill in the gaps with appropriate words from the box.",
+      "cleanText": "Fill in the gaps with appropriate words from the box.",
+      "bbox": {
+        "x": 272,
+        "y": 572,
+        "width": 621,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-020-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "read, and , books, are, topics",
+      "cleanText": "read, and , books, are, topics",
+      "bbox": {
+        "x": 272,
+        "y": 634,
+        "width": 805,
+        "height": 32
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "of, book. only, which, is",
+      "cleanText": "of, book. only, which, is",
+      "bbox": {
+        "x": 272,
+        "y": 672,
+        "width": 757,
+        "height": 33
+      },
+      "confidence": 86.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "The text above is a table contents. It shows",
+      "cleanText": "The text above is a table contents. It shows",
+      "bbox": {
+        "x": 263,
+        "y": 752,
+        "width": 834,
+        "height": 19
+      },
+      "confidence": 92.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "what subjects.......... there IN a , journal, magazine or in a",
+      "cleanText": "what subjects.......... there IN a , journal, magazine or in a",
+      "bbox": {
+        "x": 265,
+        "y": 796,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 88.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "research paper. So, what is included in a book .......... shown in its table",
+      "cleanText": "research paper. So, what is included in a book .......... shown in its table",
+      "bbox": {
+        "x": 265,
+        "y": 840,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 94.21,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "of contents. The table also shows a reader what the",
+      "cleanText": "of contents. The table also shows a reader what the",
+      "bbox": {
+        "x": 263,
+        "y": 883,
+        "width": 615,
+        "height": 20
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": ". are, who the writers are, and page a reader should",
+      "cleanText": ". are, who the writers are, and page a reader should",
+      "bbox": {
+        "x": 286,
+        "y": 928,
+        "width": 813,
+        "height": 26
+      },
+      "confidence": 93.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "open a particular topic. Sometimes in some ................",
+      "cleanText": "open a particular topic. Sometimes in some ................",
+      "bbox": {
+        "x": 260,
+        "y": 972,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 89.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "topics are organised first in then in lessons.",
+      "cleanText": "topics are organised first in then in lessons.",
+      "bbox": {
+        "x": 259,
+        "y": 1016,
+        "width": 838,
+        "height": 25
+      },
+      "confidence": 84.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "However, some books show the chapters.",
+      "cleanText": "However, some books show the chapters.",
+      "bbox": {
+        "x": 259,
+        "y": 1060,
+        "width": 610,
+        "height": 25
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Go to the text in the box at Section C and answer the following questions.",
+      "cleanText": "Go to the text in the box at Section C and answer the following questions.",
+      "bbox": {
+        "x": 244,
+        "y": 1114,
+        "width": 854,
+        "height": 25
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "1. Who is the writer of America at Play?",
+      "cleanText": "Who is the writer of America at Play?",
+      "bbox": {
+        "x": 247,
+        "y": 1177,
+        "width": 508,
+        "height": 25
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "2 Which chapter is written by Naomi Shihab Nye?",
+      "cleanText": "2 Which chapter is written by Naomi Shihab Nye?",
+      "bbox": {
+        "x": 244,
+        "y": 1223,
+        "width": 612,
+        "height": 25
+      },
+      "confidence": 96.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "3 What is the page number for Sea to Shining Sea?",
+      "cleanText": "3 What is the page number for Sea to Shining Sea?",
+      "bbox": {
+        "x": 245,
+        "y": 1270,
+        "width": 626,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "4. What does Robert Olen Butler write?",
+      "cleanText": "What does Robert Olen Butler write?",
+      "bbox": {
+        "x": 244,
+        "y": 1316,
+        "width": 487,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "5 What is the chapter at page number 57, and who is the writer?",
+      "cleanText": "5 What is the chapter at page number 57, and who is the writer?",
+      "bbox": {
+        "x": 245,
+        "y": 1362,
+        "width": 758,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Work in pairs. Use your own English textbook. Ask and answer questions",
+      "cleanText": "Work in pairs. Use your own English textbook. Ask and answer questions",
+      "bbox": {
+        "x": 244,
+        "y": 1422,
+        "width": 855,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "as above to know about page numbers, topics, units and lessons.",
+      "cleanText": "as above to know about page numbers, topics, units and lessons.",
+      "bbox": {
+        "x": 246,
+        "y": 1455,
+        "width": 750,
+        "height": 25
+      },
+      "confidence": 95.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-020-line-026",
+      "lineNumber": 26
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-020-line-001",
+      "lineNumber": 1,
+      "text": "Unit 2 : My Study Guide 15",
+      "bbox": {
+        "x": 192,
+        "y": 252,
+        "width": 904,
+        "height": 25
+      },
+      "confidence": 91.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-003",
+      "lineNumber": 3,
+      "text": "How many subjects / topics do you see here?",
+      "bbox": {
+        "x": 315,
+        "y": 373,
+        "width": 529,
+        "height": 25
+      },
+      "confidence": 93.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-004",
+      "lineNumber": 4,
+      "text": "What do the numbers on the right-hand side mean?",
+      "bbox": {
+        "x": 312,
+        "y": 406,
+        "width": 599,
+        "height": 25
+      },
+      "confidence": 94.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-005",
+      "lineNumber": 5,
+      "text": "Who do you think the people whose names are written after the",
+      "bbox": {
+        "x": 312,
+        "y": 439,
+        "width": 783,
+        "height": 25
+      },
+      "confidence": 95.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-006",
+      "lineNumber": 6,
+      "text": "subyects or topics are?",
+      "bbox": {
+        "x": 357,
+        "y": 472,
+        "width": 245,
+        "height": 25
+      },
+      "confidence": 93.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-007",
+      "lineNumber": 7,
+      "text": "4 What is each topic / subject called?",
+      "bbox": {
+        "x": 311,
+        "y": 505,
+        "width": 426,
+        "height": 25
+      },
+      "confidence": 89.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-009",
+      "lineNumber": 9,
+      "text": "read, and , books, are, topics",
+      "bbox": {
+        "x": 272,
+        "y": 634,
+        "width": 805,
+        "height": 32
+      },
+      "confidence": 89.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-010",
+      "lineNumber": 10,
+      "text": "of, book. only, which, is",
+      "bbox": {
+        "x": 272,
+        "y": 672,
+        "width": 757,
+        "height": 33
+      },
+      "confidence": 86.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-011",
+      "lineNumber": 11,
+      "text": "The text above is a table contents. It shows",
+      "bbox": {
+        "x": 263,
+        "y": 752,
+        "width": 834,
+        "height": 19
+      },
+      "confidence": 92.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-012",
+      "lineNumber": 12,
+      "text": "what subjects.......... there IN a , journal, magazine or in a",
+      "bbox": {
+        "x": 265,
+        "y": 796,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 88.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-013",
+      "lineNumber": 13,
+      "text": "research paper. So, what is included in a book .......... shown in its table",
+      "bbox": {
+        "x": 265,
+        "y": 840,
+        "width": 834,
+        "height": 25
+      },
+      "confidence": 94.21,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-014",
+      "lineNumber": 14,
+      "text": "of contents. The table also shows a reader what the",
+      "bbox": {
+        "x": 263,
+        "y": 883,
+        "width": 615,
+        "height": 20
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-015",
+      "lineNumber": 15,
+      "text": ". are, who the writers are, and page a reader should",
+      "bbox": {
+        "x": 286,
+        "y": 928,
+        "width": 813,
+        "height": 26
+      },
+      "confidence": 93.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-016",
+      "lineNumber": 16,
+      "text": "open a particular topic. Sometimes in some ................",
+      "bbox": {
+        "x": 260,
+        "y": 972,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 89.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-017",
+      "lineNumber": 17,
+      "text": "topics are organised first in then in lessons.",
+      "bbox": {
+        "x": 259,
+        "y": 1016,
+        "width": 838,
+        "height": 25
+      },
+      "confidence": 84.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-018",
+      "lineNumber": 18,
+      "text": "However, some books show the chapters.",
+      "bbox": {
+        "x": 259,
+        "y": 1060,
+        "width": 610,
+        "height": 25
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-019",
+      "lineNumber": 19,
+      "text": "Go to the text in the box at Section C and answer the following questions.",
+      "bbox": {
+        "x": 244,
+        "y": 1114,
+        "width": 854,
+        "height": 25
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-020",
+      "lineNumber": 20,
+      "text": "Who is the writer of America at Play?",
+      "bbox": {
+        "x": 247,
+        "y": 1177,
+        "width": 508,
+        "height": 25
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-021",
+      "lineNumber": 21,
+      "text": "2 Which chapter is written by Naomi Shihab Nye?",
+      "bbox": {
+        "x": 244,
+        "y": 1223,
+        "width": 612,
+        "height": 25
+      },
+      "confidence": 96.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-022",
+      "lineNumber": 22,
+      "text": "3 What is the page number for Sea to Shining Sea?",
+      "bbox": {
+        "x": 245,
+        "y": 1270,
+        "width": 626,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-023",
+      "lineNumber": 23,
+      "text": "What does Robert Olen Butler write?",
+      "bbox": {
+        "x": 244,
+        "y": 1316,
+        "width": 487,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-024",
+      "lineNumber": 24,
+      "text": "5 What is the chapter at page number 57, and who is the writer?",
+      "bbox": {
+        "x": 245,
+        "y": 1362,
+        "width": 758,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-025",
+      "lineNumber": 25,
+      "text": "Work in pairs. Use your own English textbook. Ask and answer questions",
+      "bbox": {
+        "x": 244,
+        "y": 1422,
+        "width": 855,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-020-line-026",
+      "lineNumber": 26,
+      "text": "as above to know about page numbers, topics, units and lessons.",
+      "bbox": {
+        "x": 246,
+        "y": 1455,
+        "width": 750,
+        "height": 25
+      },
+      "confidence": 95.73,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit 2 : My Study Guide 15\nQuestions\n1. How many subjects / topics do you see here?\n2. What do the numbers on the right-hand side mean?\n3. Who do you think the people whose names are written after the\nsubyects or topics are?\n4 What is each topic / subject called?\nFill in the gaps with appropriate words from the box.\nread, and , books, are, topics\nof, book. only, which, is\nThe text above is a table contents. It shows\nwhat subjects.......... there IN a , journal, magazine or in a\nresearch paper. So, what is included in a book .......... shown in its table\nof contents. The table also shows a reader what the\n. are, who the writers are, and page a reader should\nopen a particular topic. Sometimes in some ................\ntopics are organised first in then in lessons.\nHowever, some books show the chapters.\nGo to the text in the box at Section C and answer the following questions.\n1. Who is the writer of America at Play?\n2 Which chapter is written by Naomi Shihab Nye?\n3 What is the page number for Sea to Shining Sea?\n4. What does Robert Olen Butler write?\n5 What is the chapter at page number 57, and who is the writer?\nWork in pairs. Use your own English textbook. Ask and answer questions\nas above to know about page numbers, topics, units and lessons.",
+  "cleanText": "Unit 2 : My Study Guide 15\nQuestions\nHow many subjects / topics do you see here?\nWhat do the numbers on the right-hand side mean?\nWho do you think the people whose names are written after the\nsubyects or topics are?\n4 What is each topic / subject called?\nFill in the gaps with appropriate words from the box.\nread, and , books, are, topics\nof, book. only, which, is\nThe text above is a table contents. It shows\nwhat subjects.......... there IN a , journal, magazine or in a\nresearch paper. So, what is included in a book .......... shown in its table\nof contents. The table also shows a reader what the\n. are, who the writers are, and page a reader should\nopen a particular topic. Sometimes in some ................\ntopics are organised first in then in lessons.\nHowever, some books show the chapters.\nGo to the text in the box at Section C and answer the following questions.\nWho is the writer of America at Play?\n2 Which chapter is written by Naomi Shihab Nye?\n3 What is the page number for Sea to Shining Sea?\nWhat does Robert Olen Butler write?\n5 What is the chapter at page number 57, and who is the writer?\nWork in pairs. Use your own English textbook. Ask and answer questions\nas above to know about page numbers, topics, units and lessons.",
+  "aiReadyText": "Unit 2 : My Study Guide 15\nHow many subjects / topics do you see here?\nWhat do the numbers on the right-hand side mean?\nWho do you think the people whose names are written after the\nsubyects or topics are?\n4 What is each topic / subject called?\nread, and , books, are, topics\nof, book. only, which, is\nThe text above is a table contents. It shows\nwhat subjects.......... there IN a , journal, magazine or in a\nresearch paper. So, what is included in a book .......... shown in its table\nof contents. The table also shows a reader what the\n. are, who the writers are, and page a reader should\nopen a particular topic. Sometimes in some ................\ntopics are organised first in then in lessons.\nHowever, some books show the chapters.\nGo to the text in the box at Section C and answer the following questions.\nWho is the writer of America at Play?\n2 Which chapter is written by Naomi Shihab Nye?\n3 What is the page number for Sea to Shining Sea?\nWhat does Robert Olen Butler write?\n5 What is the chapter at page number 57, and who is the writer?\nWork in pairs. Use your own English textbook. Ask and answer questions\nas above to know about page numbers, topics, units and lessons."
+}

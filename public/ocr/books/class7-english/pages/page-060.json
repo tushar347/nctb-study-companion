@@ -1,0 +1,241 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 60,
+  "image": "/ocr/books/class7-english/page-images/page-060.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Six",
+      "cleanText": "Unit Six",
+      "bbox": {
+        "x": 669,
+        "y": 256,
+        "width": 105,
+        "height": 21
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-060-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Learning outcomes",
+      "cleanText": "Learning outcomes",
+      "bbox": {
+        "x": 258,
+        "y": 1141,
+        "width": 224,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-060-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "bbox": {
+        "x": 259,
+        "y": 1202,
+        "width": 544,
+        "height": 24
+      },
+      "confidence": 96.09,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-060-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "ask and answer questions",
+      "cleanText": "ask and answer questions",
+      "bbox": {
+        "x": 338,
+        "y": 1262,
+        "width": 276,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-060-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "read and enjoy poems",
+      "cleanText": "read and enjoy poems",
+      "bbox": {
+        "x": 338,
+        "y": 1309,
+        "width": 238,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-060-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "use sounds, stress, and intonation appropriately",
+      "cleanText": "use sounds, stress, and intonation appropriately",
+      "bbox": {
+        "x": 337,
+        "y": 1355,
+        "width": 539,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-060-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "talk about people, places and events",
+      "cleanText": "talk about people, places and events",
+      "bbox": {
+        "x": 337,
+        "y": 1407,
+        "width": 394,
+        "height": 25
+      },
+      "confidence": 96.17,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-060-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "read and understand texts",
+      "cleanText": "read and understand texts",
+      "bbox": {
+        "x": 337,
+        "y": 1454,
+        "width": 279,
+        "height": 19
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-060-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "write paragraphs and short compositions",
+      "cleanText": "write paragraphs and short compositions",
+      "bbox": {
+        "x": 338,
+        "y": 1504,
+        "width": 443,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-060-line-009",
+      "lineNumber": 9
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-060-line-002",
+      "lineNumber": 2,
+      "text": "Learning outcomes",
+      "bbox": {
+        "x": 258,
+        "y": 1141,
+        "width": 224,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-060-line-003",
+      "lineNumber": 3,
+      "text": "After we have studied this unit, we will be able to",
+      "bbox": {
+        "x": 259,
+        "y": 1202,
+        "width": 544,
+        "height": 24
+      },
+      "confidence": 96.09,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-060-line-004",
+      "lineNumber": 4,
+      "text": "ask and answer questions",
+      "bbox": {
+        "x": 338,
+        "y": 1262,
+        "width": 276,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-060-line-005",
+      "lineNumber": 5,
+      "text": "read and enjoy poems",
+      "bbox": {
+        "x": 338,
+        "y": 1309,
+        "width": 238,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-060-line-006",
+      "lineNumber": 6,
+      "text": "use sounds, stress, and intonation appropriately",
+      "bbox": {
+        "x": 337,
+        "y": 1355,
+        "width": 539,
+        "height": 27
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-060-line-008",
+      "lineNumber": 8,
+      "text": "read and understand texts",
+      "bbox": {
+        "x": 337,
+        "y": 1454,
+        "width": 279,
+        "height": 19
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-060-line-009",
+      "lineNumber": 9,
+      "text": "write paragraphs and short compositions",
+      "bbox": {
+        "x": 338,
+        "y": 1504,
+        "width": 443,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Six\nLearning outcomes\nAfter we have studied this unit, we will be able to\nask and answer questions\nread and enjoy poems\nuse sounds, stress, and intonation appropriately\ntalk about people, places and events\nread and understand texts\nwrite paragraphs and short compositions",
+  "cleanText": "Unit Six\nLearning outcomes\nAfter we have studied this unit, we will be able to\nask and answer questions\nread and enjoy poems\nuse sounds, stress, and intonation appropriately\ntalk about people, places and events\nread and understand texts\nwrite paragraphs and short compositions",
+  "aiReadyText": "Learning outcomes\nAfter we have studied this unit, we will be able to\nask and answer questions\nread and enjoy poems\nuse sounds, stress, and intonation appropriately\nread and understand texts\nwrite paragraphs and short compositions"
+}

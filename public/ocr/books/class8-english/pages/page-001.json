@@ -1,0 +1,43 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 1,
+  "image": "/ocr/books/class8-english/page-images/page-001.png",
+  "width": 1217,
+  "height": 1540,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Us: National Curriculum and Textbook Board, Bangladesh",
+      "cleanText": "Us: National Curriculum and Textbook Board, Bangladesh",
+      "bbox": {
+        "x": 192,
+        "y": 1363,
+        "width": 880,
+        "height": 83
+      },
+      "confidence": 91.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-001-line-001",
+      "lineNumber": 1
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-001-line-001",
+      "lineNumber": 1,
+      "text": "Us: National Curriculum and Textbook Board, Bangladesh",
+      "bbox": {
+        "x": 192,
+        "y": 1363,
+        "width": 880,
+        "height": 83
+      },
+      "confidence": 91.71,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Us: National Curriculum and Textbook Board, Bangladesh",
+  "cleanText": "Us: National Curriculum and Textbook Board, Bangladesh",
+  "aiReadyText": "Us: National Curriculum and Textbook Board, Bangladesh"
+}

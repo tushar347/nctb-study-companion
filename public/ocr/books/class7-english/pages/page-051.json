@@ -1,0 +1,689 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 51,
+  "image": "/ocr/books/class7-english/page-images/page-051.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Ask and answer the questions,",
+      "cleanText": "Ask and answer the questions,",
+      "bbox": {
+        "x": 265,
+        "y": 292,
+        "width": 353,
+        "height": 24
+      },
+      "confidence": 94.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "1. Is the healthcare support free to all?",
+      "cleanText": "Is the healthcare support free to all?",
+      "bbox": {
+        "x": 268,
+        "y": 329,
+        "width": 468,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "2. Why is the doctor waiting for a torch bearer?",
+      "cleanText": "Why is the doctor waiting for a torch bearer?",
+      "bbox": {
+        "x": 265,
+        "y": 362,
+        "width": 571,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "3. Who will be in charge of the centre?",
+      "cleanText": "Who will be in charge of the centre?",
+      "bbox": {
+        "x": 265,
+        "y": 394,
+        "width": 477,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "4 Do you think the money he gets from the patients is enough to run",
+      "cleanText": "4 Do you think the money he gets from the patients is enough to run",
+      "bbox": {
+        "x": 264,
+        "y": 428,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 96.13,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "the centre’? Why do you think so?",
+      "cleanText": "the centre’? Why do you think so?",
+      "bbox": {
+        "x": 340,
+        "y": 461,
+        "width": 371,
+        "height": 25
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Fill in the gaps with the right form of verbs given in the box. You can",
+      "cleanText": "Fill in the gaps with the right form of verbs given in the box. You can",
+      "bbox": {
+        "x": 265,
+        "y": 504,
+        "width": 829,
+        "height": 24
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-051-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "use a word more than once.",
+      "cleanText": "use a word more than once.",
+      "bbox": {
+        "x": 263,
+        "y": 536,
+        "width": 328,
+        "height": 19
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "give, choose, do, is, get, help",
+      "cleanText": "give, choose, do, is, get, help",
+      "bbox": {
+        "x": 350,
+        "y": 576,
+        "width": 468,
+        "height": 25
+      },
+      "confidence": 90.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "I want to the poor people. I will it to",
+      "cleanText": "I want to the poor people. I will it to",
+      "bbox": {
+        "x": 266,
+        "y": 636,
+        "width": 702,
+        "height": 25
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "healthcare support to the poor. They do not treatment",
+      "cleanText": "healthcare support to the poor. They do not treatment",
+      "bbox": {
+        "x": 265,
+        "y": 674,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 94.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "because of poverty. So my dream to be a doctor. To",
+      "cleanText": "because of poverty. So my dream to be a doctor. To",
+      "bbox": {
+        "x": 264,
+        "y": 711,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 93.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "the poor people, I will my village to work.",
+      "cleanText": "the poor people, I will my village to work.",
+      "bbox": {
+        "x": 402,
+        "y": 748,
+        "width": 636,
+        "height": 26
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Project work: Find a person in your area who is different from others",
+      "cleanText": "Project work: Find a person in your area who is different from others",
+      "bbox": {
+        "x": 265,
+        "y": 799,
+        "width": 828,
+        "height": 24
+      },
+      "confidence": 95.46,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "in giving service to the society. Talk to her /him and prepare a short",
+      "cleanText": "in giving service to the society. Talk to her /him and prepare a short",
+      "bbox": {
+        "x": 265,
+        "y": 830,
+        "width": 829,
+        "height": 35
+      },
+      "confidence": 94.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "biography of the person.",
+      "cleanText": "biography of the person.",
+      "bbox": {
+        "x": 265,
+        "y": 873,
+        "width": 289,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Lesson 12: A Hospital Window",
+      "cleanText": "Lesson 12: A Hospital Window",
+      "bbox": {
+        "x": 180,
+        "y": 942,
+        "width": 404,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "Keywords : vivid, overlook, view, skyline, in detail",
+      "cleanText": "Keywords : vivid, overlook, view, skyline, in detail",
+      "bbox": {
+        "x": 275,
+        "y": 982,
+        "width": 598,
+        "height": 33
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Read aloud the story about a hospital window and think about the",
+      "cleanText": "Read aloud the story about a hospital window and think about the",
+      "bbox": {
+        "x": 259,
+        "y": 1023,
+        "width": 835,
+        "height": 24
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "questions.",
+      "cleanText": "questions.",
+      "bbox": {
+        "x": 258,
+        "y": 1055,
+        "width": 114,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-051-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Two sick men were given the same room in a hospital. One man could sit up",
+      "cleanText": "Two sick men were given the same room in a hospital. One man could sit up",
+      "bbox": {
+        "x": 252,
+        "y": 1434,
+        "width": 837,
+        "height": 25
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "in his bed. His bed was next to the room’s only window. The other man",
+      "cleanText": "in his bed. His bed was next to the room’s only window. The other man",
+      "bbox": {
+        "x": 256,
+        "y": 1467,
+        "width": 833,
+        "height": 25
+      },
+      "confidence": 95.13,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "spent all his time lying on his bed opposite the window. The men talked",
+      "cleanText": "spent all his time lying on his bed opposite the window. The men talked",
+      "bbox": {
+        "x": 255,
+        "y": 1500,
+        "width": 836,
+        "height": 26
+      },
+      "confidence": 96.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "for hours almost every day. They talked about their wives, children,",
+      "cleanText": "for hours almost every day. They talked about their wives, children,",
+      "bbox": {
+        "x": 254,
+        "y": 1532,
+        "width": 798,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "homes, their jobs and almost about everything.",
+      "cleanText": "homes, their jobs and almost about everything.",
+      "bbox": {
+        "x": 257,
+        "y": 1566,
+        "width": 532,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-051-line-025",
+      "lineNumber": 25
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-051-line-001",
+      "lineNumber": 1,
+      "text": "Ask and answer the questions,",
+      "bbox": {
+        "x": 265,
+        "y": 292,
+        "width": 353,
+        "height": 24
+      },
+      "confidence": 94.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-002",
+      "lineNumber": 2,
+      "text": "Is the healthcare support free to all?",
+      "bbox": {
+        "x": 268,
+        "y": 329,
+        "width": 468,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-003",
+      "lineNumber": 3,
+      "text": "Why is the doctor waiting for a torch bearer?",
+      "bbox": {
+        "x": 265,
+        "y": 362,
+        "width": 571,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-004",
+      "lineNumber": 4,
+      "text": "Who will be in charge of the centre?",
+      "bbox": {
+        "x": 265,
+        "y": 394,
+        "width": 477,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-005",
+      "lineNumber": 5,
+      "text": "4 Do you think the money he gets from the patients is enough to run",
+      "bbox": {
+        "x": 264,
+        "y": 428,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 96.13,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-006",
+      "lineNumber": 6,
+      "text": "the centre’? Why do you think so?",
+      "bbox": {
+        "x": 340,
+        "y": 461,
+        "width": 371,
+        "height": 25
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-008",
+      "lineNumber": 8,
+      "text": "use a word more than once.",
+      "bbox": {
+        "x": 263,
+        "y": 536,
+        "width": 328,
+        "height": 19
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-009",
+      "lineNumber": 9,
+      "text": "give, choose, do, is, get, help",
+      "bbox": {
+        "x": 350,
+        "y": 576,
+        "width": 468,
+        "height": 25
+      },
+      "confidence": 90.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-010",
+      "lineNumber": 10,
+      "text": "I want to the poor people. I will it to",
+      "bbox": {
+        "x": 266,
+        "y": 636,
+        "width": 702,
+        "height": 25
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-011",
+      "lineNumber": 11,
+      "text": "healthcare support to the poor. They do not treatment",
+      "bbox": {
+        "x": 265,
+        "y": 674,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 94.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-012",
+      "lineNumber": 12,
+      "text": "because of poverty. So my dream to be a doctor. To",
+      "bbox": {
+        "x": 264,
+        "y": 711,
+        "width": 828,
+        "height": 25
+      },
+      "confidence": 93.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-013",
+      "lineNumber": 13,
+      "text": "the poor people, I will my village to work.",
+      "bbox": {
+        "x": 402,
+        "y": 748,
+        "width": 636,
+        "height": 26
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-014",
+      "lineNumber": 14,
+      "text": "Project work: Find a person in your area who is different from others",
+      "bbox": {
+        "x": 265,
+        "y": 799,
+        "width": 828,
+        "height": 24
+      },
+      "confidence": 95.46,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-015",
+      "lineNumber": 15,
+      "text": "in giving service to the society. Talk to her /him and prepare a short",
+      "bbox": {
+        "x": 265,
+        "y": 830,
+        "width": 829,
+        "height": 35
+      },
+      "confidence": 94.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-016",
+      "lineNumber": 16,
+      "text": "biography of the person.",
+      "bbox": {
+        "x": 265,
+        "y": 873,
+        "width": 289,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-017",
+      "lineNumber": 17,
+      "text": "Lesson 12: A Hospital Window",
+      "bbox": {
+        "x": 180,
+        "y": 942,
+        "width": 404,
+        "height": 28
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-018",
+      "lineNumber": 18,
+      "text": "Keywords : vivid, overlook, view, skyline, in detail",
+      "bbox": {
+        "x": 275,
+        "y": 982,
+        "width": 598,
+        "height": 33
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-019",
+      "lineNumber": 19,
+      "text": "Read aloud the story about a hospital window and think about the",
+      "bbox": {
+        "x": 259,
+        "y": 1023,
+        "width": 835,
+        "height": 24
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-021",
+      "lineNumber": 21,
+      "text": "Two sick men were given the same room in a hospital. One man could sit up",
+      "bbox": {
+        "x": 252,
+        "y": 1434,
+        "width": 837,
+        "height": 25
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-022",
+      "lineNumber": 22,
+      "text": "in his bed. His bed was next to the room’s only window. The other man",
+      "bbox": {
+        "x": 256,
+        "y": 1467,
+        "width": 833,
+        "height": 25
+      },
+      "confidence": 95.13,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-023",
+      "lineNumber": 23,
+      "text": "spent all his time lying on his bed opposite the window. The men talked",
+      "bbox": {
+        "x": 255,
+        "y": 1500,
+        "width": 836,
+        "height": 26
+      },
+      "confidence": 96.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-024",
+      "lineNumber": 24,
+      "text": "for hours almost every day. They talked about their wives, children,",
+      "bbox": {
+        "x": 254,
+        "y": 1532,
+        "width": 798,
+        "height": 26
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-051-line-025",
+      "lineNumber": 25,
+      "text": "homes, their jobs and almost about everything.",
+      "bbox": {
+        "x": 257,
+        "y": 1566,
+        "width": 532,
+        "height": 26
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Ask and answer the questions,\n1. Is the healthcare support free to all?\n2. Why is the doctor waiting for a torch bearer?\n3. Who will be in charge of the centre?\n4 Do you think the money he gets from the patients is enough to run\nthe centre’? Why do you think so?\nFill in the gaps with the right form of verbs given in the box. You can\nuse a word more than once.\ngive, choose, do, is, get, help\nI want to the poor people. I will it to\nhealthcare support to the poor. They do not treatment\nbecause of poverty. So my dream to be a doctor. To\nthe poor people, I will my village to work.\nProject work: Find a person in your area who is different from others\nin giving service to the society. Talk to her /him and prepare a short\nbiography of the person.\nLesson 12: A Hospital Window\nKeywords : vivid, overlook, view, skyline, in detail\nRead aloud the story about a hospital window and think about the\nquestions.\nTwo sick men were given the same room in a hospital. One man could sit up\nin his bed. His bed was next to the room’s only window. The other man\nspent all his time lying on his bed opposite the window. The men talked\nfor hours almost every day. They talked about their wives, children,\nhomes, their jobs and almost about everything.",
+  "cleanText": "Ask and answer the questions,\nIs the healthcare support free to all?\nWhy is the doctor waiting for a torch bearer?\nWho will be in charge of the centre?\n4 Do you think the money he gets from the patients is enough to run\nthe centre’? Why do you think so?\nFill in the gaps with the right form of verbs given in the box. You can\nuse a word more than once.\ngive, choose, do, is, get, help\nI want to the poor people. I will it to\nhealthcare support to the poor. They do not treatment\nbecause of poverty. So my dream to be a doctor. To\nthe poor people, I will my village to work.\nProject work: Find a person in your area who is different from others\nin giving service to the society. Talk to her /him and prepare a short\nbiography of the person.\nLesson 12: A Hospital Window\nKeywords : vivid, overlook, view, skyline, in detail\nRead aloud the story about a hospital window and think about the\nquestions.\nTwo sick men were given the same room in a hospital. One man could sit up\nin his bed. His bed was next to the room’s only window. The other man\nspent all his time lying on his bed opposite the window. The men talked\nfor hours almost every day. They talked about their wives, children,\nhomes, their jobs and almost about everything.",
+  "aiReadyText": "Ask and answer the questions,\nIs the healthcare support free to all?\nWhy is the doctor waiting for a torch bearer?\nWho will be in charge of the centre?\n4 Do you think the money he gets from the patients is enough to run\nthe centre’? Why do you think so?\nuse a word more than once.\ngive, choose, do, is, get, help\nI want to the poor people. I will it to\nhealthcare support to the poor. They do not treatment\nbecause of poverty. So my dream to be a doctor. To\nthe poor people, I will my village to work.\nProject work: Find a person in your area who is different from others\nin giving service to the society. Talk to her /him and prepare a short\nbiography of the person.\nLesson 12: A Hospital Window\nKeywords : vivid, overlook, view, skyline, in detail\nRead aloud the story about a hospital window and think about the\nTwo sick men were given the same room in a hospital. One man could sit up\nin his bed. His bed was next to the room’s only window. The other man\nspent all his time lying on his bed opposite the window. The men talked\nfor hours almost every day. They talked about their wives, children,\nhomes, their jobs and almost about everything."
+}

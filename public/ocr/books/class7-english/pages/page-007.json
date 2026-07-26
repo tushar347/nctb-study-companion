@@ -1,0 +1,549 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 7,
+  "image": "/ocr/books/class7-english/page-images/page-007.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "2 ENGLISH FOR TODAY",
+      "cleanText": "2 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 190,
+        "y": 248,
+        "width": 913,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 1: In the Classroom",
+      "cleanText": "Lesson 1: In the Classroom",
+      "bbox": {
+        "x": 191,
+        "y": 315,
+        "width": 354,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "A. Listen and say.",
+      "cleanText": "Listen and say.",
+      "bbox": {
+        "x": 190,
+        "y": 367,
+        "width": 254,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-007-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Teacher : Good morning and welcome everybody.",
+      "cleanText": "Teacher : Good morning and welcome everybody.",
+      "bbox": {
+        "x": 270,
+        "y": 854,
+        "width": 599,
+        "height": 25
+      },
+      "confidence": 94.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Good morning, teacher.",
+      "cleanText": "Good morning, teacher.",
+      "bbox": {
+        "x": 428,
+        "y": 892,
+        "width": 258,
+        "height": 25
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Teacher : Are you ready for the class?",
+      "cleanText": "Teacher : Are you ready for the class?",
+      "bbox": {
+        "x": 276,
+        "y": 931,
+        "width": 459,
+        "height": 24
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Students : Yes, teacher.",
+      "cleanText": "Students : Yes, teacher.",
+      "bbox": {
+        "x": 270,
+        "y": 965,
+        "width": 297,
+        "height": 31
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Teacher Have you got your new books?",
+      "cleanText": "Teacher Have you got your new books?",
+      "bbox": {
+        "x": 276,
+        "y": 1007,
+        "width": 492,
+        "height": 25
+      },
+      "confidence": 94.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Students Yes teacher, We have.",
+      "cleanText": "Students Yes teacher, We have.",
+      "bbox": {
+        "x": 270,
+        "y": 1045,
+        "width": 402,
+        "height": 22
+      },
+      "confidence": 91.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Teacher Good! Please remember to bring your English book every",
+      "cleanText": "Teacher Good! Please remember to bring your English book every",
+      "bbox": {
+        "x": 276,
+        "y": 1084,
+        "width": 824,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "day. And speak English with me and with your classmates.",
+      "cleanText": "day. And speak English with me and with your classmates.",
+      "bbox": {
+        "x": 429,
+        "y": 1116,
+        "width": 649,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "B. Read the conversation and act it out in pairs. Discuss this question",
+      "cleanText": "Read the conversation and act it out in pairs. Discuss this question",
+      "bbox": {
+        "x": 191,
+        "y": 1186,
+        "width": 911,
+        "height": 24
+      },
+      "confidence": 95.15,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "with your partner.",
+      "cleanText": "with your partner.",
+      "bbox": {
+        "x": 269,
+        "y": 1218,
+        "width": 218,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "What does the teacher ask the students to do?",
+      "cleanText": "What does the teacher ask the students to do?",
+      "bbox": {
+        "x": 270,
+        "y": 1264,
+        "width": 497,
+        "height": 19
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Cc. Now answer these questions.",
+      "cleanText": "Now answer these questions.",
+      "bbox": {
+        "x": 190,
+        "y": 1311,
+        "width": 412,
+        "height": 24
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "1 Do you speak English with your teacher? If you do, when and how",
+      "cleanText": "1 Do you speak English with your teacher? If you do, when and how",
+      "bbox": {
+        "x": 273,
+        "y": 1343,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 92.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Do you speak English with your friends and classmates? If so, how often?",
+      "cleanText": "Do you speak English with your friends and classmates? If so, how often?",
+      "bbox": {
+        "x": 313,
+        "y": 1416,
+        "width": 800,
+        "height": 26
+      },
+      "confidence": 96.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "3 If you speak English outside the class, where do you speak it?",
+      "cleanText": "3 If you speak English outside the class, where do you speak it?",
+      "bbox": {
+        "x": 270,
+        "y": 1456,
+        "width": 721,
+        "height": 25
+      },
+      "confidence": 91.23,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "4 Do you watch any English programmes on TV? What programmes do",
+      "cleanText": "4 Do you watch any English programmes on TV? What programmes do",
+      "bbox": {
+        "x": 269,
+        "y": 1495,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 92.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-007-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "you watch?",
+      "cleanText": "you watch?",
+      "bbox": {
+        "x": 311,
+        "y": 1528,
+        "width": 127,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-007-line-020",
+      "lineNumber": 20
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-007-line-001",
+      "lineNumber": 1,
+      "text": "2 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 190,
+        "y": 248,
+        "width": 913,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 1: In the Classroom",
+      "bbox": {
+        "x": 191,
+        "y": 315,
+        "width": 354,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-004",
+      "lineNumber": 4,
+      "text": "Teacher : Good morning and welcome everybody.",
+      "bbox": {
+        "x": 270,
+        "y": 854,
+        "width": 599,
+        "height": 25
+      },
+      "confidence": 94.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-005",
+      "lineNumber": 5,
+      "text": "Good morning, teacher.",
+      "bbox": {
+        "x": 428,
+        "y": 892,
+        "width": 258,
+        "height": 25
+      },
+      "confidence": 89.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-006",
+      "lineNumber": 6,
+      "text": "Teacher : Are you ready for the class?",
+      "bbox": {
+        "x": 276,
+        "y": 931,
+        "width": 459,
+        "height": 24
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-007",
+      "lineNumber": 7,
+      "text": "Students : Yes, teacher.",
+      "bbox": {
+        "x": 270,
+        "y": 965,
+        "width": 297,
+        "height": 31
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-008",
+      "lineNumber": 8,
+      "text": "Teacher Have you got your new books?",
+      "bbox": {
+        "x": 276,
+        "y": 1007,
+        "width": 492,
+        "height": 25
+      },
+      "confidence": 94.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-009",
+      "lineNumber": 9,
+      "text": "Students Yes teacher, We have.",
+      "bbox": {
+        "x": 270,
+        "y": 1045,
+        "width": 402,
+        "height": 22
+      },
+      "confidence": 91.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-010",
+      "lineNumber": 10,
+      "text": "Teacher Good! Please remember to bring your English book every",
+      "bbox": {
+        "x": 276,
+        "y": 1084,
+        "width": 824,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-011",
+      "lineNumber": 11,
+      "text": "day. And speak English with me and with your classmates.",
+      "bbox": {
+        "x": 429,
+        "y": 1116,
+        "width": 649,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-012",
+      "lineNumber": 12,
+      "text": "Read the conversation and act it out in pairs. Discuss this question",
+      "bbox": {
+        "x": 191,
+        "y": 1186,
+        "width": 911,
+        "height": 24
+      },
+      "confidence": 95.15,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-013",
+      "lineNumber": 13,
+      "text": "with your partner.",
+      "bbox": {
+        "x": 269,
+        "y": 1218,
+        "width": 218,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-014",
+      "lineNumber": 14,
+      "text": "What does the teacher ask the students to do?",
+      "bbox": {
+        "x": 270,
+        "y": 1264,
+        "width": 497,
+        "height": 19
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-015",
+      "lineNumber": 15,
+      "text": "Now answer these questions.",
+      "bbox": {
+        "x": 190,
+        "y": 1311,
+        "width": 412,
+        "height": 24
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-016",
+      "lineNumber": 16,
+      "text": "1 Do you speak English with your teacher? If you do, when and how",
+      "bbox": {
+        "x": 273,
+        "y": 1343,
+        "width": 827,
+        "height": 25
+      },
+      "confidence": 92.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-017",
+      "lineNumber": 17,
+      "text": "Do you speak English with your friends and classmates? If so, how often?",
+      "bbox": {
+        "x": 313,
+        "y": 1416,
+        "width": 800,
+        "height": 26
+      },
+      "confidence": 96.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-018",
+      "lineNumber": 18,
+      "text": "3 If you speak English outside the class, where do you speak it?",
+      "bbox": {
+        "x": 270,
+        "y": 1456,
+        "width": 721,
+        "height": 25
+      },
+      "confidence": 91.23,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-007-line-019",
+      "lineNumber": 19,
+      "text": "4 Do you watch any English programmes on TV? What programmes do",
+      "bbox": {
+        "x": 269,
+        "y": 1495,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 92.67,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "2 ENGLISH FOR TODAY\nLesson 1: In the Classroom\nA. Listen and say.\nTeacher : Good morning and welcome everybody.\nGood morning, teacher.\nTeacher : Are you ready for the class?\nStudents : Yes, teacher.\nTeacher Have you got your new books?\nStudents Yes teacher, We have.\nTeacher Good! Please remember to bring your English book every\nday. And speak English with me and with your classmates.\nB. Read the conversation and act it out in pairs. Discuss this question\nwith your partner.\nWhat does the teacher ask the students to do?\nCc. Now answer these questions.\n1 Do you speak English with your teacher? If you do, when and how\nDo you speak English with your friends and classmates? If so, how often?\n3 If you speak English outside the class, where do you speak it?\n4 Do you watch any English programmes on TV? What programmes do\nyou watch?",
+  "cleanText": "2 ENGLISH FOR TODAY\nLesson 1: In the Classroom\nListen and say.\nTeacher : Good morning and welcome everybody.\nGood morning, teacher.\nTeacher : Are you ready for the class?\nStudents : Yes, teacher.\nTeacher Have you got your new books?\nStudents Yes teacher, We have.\nTeacher Good! Please remember to bring your English book every\nday. And speak English with me and with your classmates.\nRead the conversation and act it out in pairs. Discuss this question\nwith your partner.\nWhat does the teacher ask the students to do?\nNow answer these questions.\n1 Do you speak English with your teacher? If you do, when and how\nDo you speak English with your friends and classmates? If so, how often?\n3 If you speak English outside the class, where do you speak it?\n4 Do you watch any English programmes on TV? What programmes do\nyou watch?",
+  "aiReadyText": "2 ENGLISH FOR TODAY\nLesson 1: In the Classroom\nTeacher : Good morning and welcome everybody.\nGood morning, teacher.\nTeacher : Are you ready for the class?\nStudents : Yes, teacher.\nTeacher Have you got your new books?\nStudents Yes teacher, We have.\nTeacher Good! Please remember to bring your English book every\nday. And speak English with me and with your classmates.\nRead the conversation and act it out in pairs. Discuss this question\nwith your partner.\nWhat does the teacher ask the students to do?\nNow answer these questions.\n1 Do you speak English with your teacher? If you do, when and how\nDo you speak English with your friends and classmates? If so, how often?\n3 If you speak English outside the class, where do you speak it?\n4 Do you watch any English programmes on TV? What programmes do"
+}

@@ -1,0 +1,984 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 37,
+  "image": "/ocr/books/class7-english/page-images/page-037.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "frequently anxious, free yet",
+      "cleanText": "frequently anxious, free yet",
+      "bbox": {
+        "x": 193,
+        "y": 330,
+        "width": 361,
+        "height": 26
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "persistently stressed. They have",
+      "cleanText": "persistently stressed. They have",
+      "bbox": {
+        "x": 192,
+        "y": 365,
+        "width": 362,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "also witnessed transformative",
+      "cleanText": "also witnessed transformative",
+      "bbox": {
+        "x": 192,
+        "y": 400,
+        "width": 362,
+        "height": 21
+      },
+      "confidence": 70.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "global cvents—climate crises,",
+      "cleanText": "global cvents—climate crises,",
+      "bbox": {
+        "x": 192,
+        "y": 436,
+        "width": 361,
+        "height": 26
+      },
+      "confidence": 77.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "political turmoils like — the",
+      "cleanText": "political turmoils like — the",
+      "bbox": {
+        "x": 192,
+        "y": 467,
+        "width": 362,
+        "height": 34
+      },
+      "confidence": 76.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Ukraine-Russia war and the",
+      "cleanText": "Ukraine-Russia war and the",
+      "bbox": {
+        "x": 193,
+        "y": 506,
+        "width": 361,
+        "height": 20
+      },
+      "confidence": 80.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "genocide in Palestine that shape",
+      "cleanText": "genocide in Palestine that shape",
+      "bbox": {
+        "x": 192,
+        "y": 541,
+        "width": 362,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "the world they are supposed to",
+      "cleanText": "the world they are supposed to",
+      "bbox": {
+        "x": 193,
+        "y": 576,
+        "width": 361,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "inherit.",
+      "cleanText": "inherit.",
+      "bbox": {
+        "x": 193,
+        "y": 612,
+        "width": 75,
+        "height": 20
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-037-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Freedom fighters rejoice in victory, Bangladesh, 1971.",
+      "cleanText": "Freedom fighters rejoice in victory, Bangladesh, 1971.",
+      "bbox": {
+        "x": 569,
+        "y": 693,
+        "width": 525,
+        "height": 21
+      },
+      "confidence": 94.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "In Bangladesh, the struggle for",
+      "cleanText": "In Bangladesh, the struggle for",
+      "bbox": {
+        "x": 193,
+        "y": 744,
+        "width": 362,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "progress has long been a part of",
+      "cleanText": "progress has long been a part of",
+      "bbox": {
+        "x": 192,
+        "y": 775,
+        "width": 366,
+        "height": 34
+      },
+      "confidence": 93.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "each generation. If the freedom",
+      "cleanText": "each generation. If the freedom",
+      "bbox": {
+        "x": 192,
+        "y": 814,
+        "width": 361,
+        "height": 26
+      },
+      "confidence": 93.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "fighters of 1971—largely part",
+      "cleanText": "fighters of 1971—largely part",
+      "bbox": {
+        "x": 193,
+        "y": 850,
+        "width": 361,
+        "height": 26
+      },
+      "confidence": 93.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "of the Baby Boomer",
+      "cleanText": "of the Baby Boomer",
+      "bbox": {
+        "x": 192,
+        "y": 885,
+        "width": 363,
+        "height": 26
+      },
+      "confidence": 86.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "generation—helped liberate the",
+      "cleanText": "generation—helped liberate the",
+      "bbox": {
+        "x": 192,
+        "y": 920,
+        "width": 362,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "country, their struggle laid the",
+      "cleanText": "country, their struggle laid the",
+      "bbox": {
+        "x": 192,
+        "y": 955,
+        "width": 362,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "groundwork for the fight",
+      "cleanText": "groundwork for the fight",
+      "bbox": {
+        "x": 192,
+        "y": 991,
+        "width": 362,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "for democracy against",
+      "cleanText": "for democracy against",
+      "bbox": {
+        "x": 193,
+        "y": 1022,
+        "width": 361,
+        "height": 34
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "autocracy.",
+      "cleanText": "autocracy.",
+      "bbox": {
+        "x": 192,
+        "y": 1064,
+        "width": 114,
+        "height": 23
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-037-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "A schoolboy chanting slogans with \"We Want",
+      "cleanText": "A schoolboy chanting slogans with \"We Want",
+      "bbox": {
+        "x": 603,
+        "y": 1099,
+        "width": 438,
+        "height": 22
+      },
+      "confidence": 95.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "Justice\" painted on his bodv during the Road Safety",
+      "cleanText": "Justice\" painted on his bodv during the Road Safety",
+      "bbox": {
+        "x": 570,
+        "y": 1128,
+        "width": 503,
+        "height": 22
+      },
+      "confidence": 93.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "protests, 2018.",
+      "cleanText": "protests, 2018.",
+      "bbox": {
+        "x": 749,
+        "y": 1157,
+        "width": 141,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Today’s young generation, bor",
+      "cleanText": "Today’s young generation, bor",
+      "bbox": {
+        "x": 192,
+        "y": 1205,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 64.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "around 2000, carries this legacy",
+      "cleanText": "around 2000, carries this legacy",
+      "bbox": {
+        "x": 192,
+        "y": 1245,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 94.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "forward. The 2018 road safety protests",
+      "cleanText": "forward. The 2018 road safety protests",
+      "bbox": {
+        "x": 192,
+        "y": 1284,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "and the brutal that",
+      "cleanText": "and the brutal that",
+      "bbox": {
+        "x": 192,
+        "y": 1324,
+        "width": 439,
+        "height": 20
+      },
+      "confidence": 82.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "crackdown",
+      "cleanText": "crackdown",
+      "bbox": {
+        "x": 432,
+        "y": 1324,
+        "width": 124,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-037-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "followed marked a significant shift in",
+      "cleanText": "followed marked a significant shift in",
+      "bbox": {
+        "x": 193,
+        "y": 1359,
+        "width": 437,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "Gen Z’s consciousness, sharpening",
+      "cleanText": "Gen Z’s consciousness, sharpening",
+      "bbox": {
+        "x": 192,
+        "y": 1403,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "their political awareness and reshaping",
+      "cleanText": "their political awareness and reshaping",
+      "bbox": {
+        "x": 192,
+        "y": 1443,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 94.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "the role of media in their world.",
+      "cleanText": "the role of media in their world.",
+      "bbox": {
+        "x": 192,
+        "y": 1482,
+        "width": 361,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "Consequently, the 2024 uprising was",
+      "cleanText": "Consequently, the 2024 uprising was",
+      "bbox": {
+        "x": 192,
+        "y": 1547,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "Protesters hold up a placard of a martyred",
+      "cleanText": "Protesters hold up a placard of a martyred",
+      "bbox": {
+        "x": 680,
+        "y": 1565,
+        "width": 414,
+        "height": 22
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "led by this generation, who realized",
+      "cleanText": "led by this generation, who realized",
+      "bbox": {
+        "x": 193,
+        "y": 1587,
+        "width": 438,
+        "height": 26
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-035",
+      "lineNumber": 35
+    },
+    {
+      "text": "school child during the July Uprising protests.",
+      "cleanText": "school child during the July Uprising protests.",
+      "bbox": {
+        "x": 661,
+        "y": 1594,
+        "width": 447,
+        "height": 22
+      },
+      "confidence": 94.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-037-line-036",
+      "lineNumber": 36
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-037-line-001",
+      "lineNumber": 1,
+      "text": "frequently anxious, free yet",
+      "bbox": {
+        "x": 193,
+        "y": 330,
+        "width": 361,
+        "height": 26
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-002",
+      "lineNumber": 2,
+      "text": "persistently stressed. They have",
+      "bbox": {
+        "x": 192,
+        "y": 365,
+        "width": 362,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-003",
+      "lineNumber": 3,
+      "text": "also witnessed transformative",
+      "bbox": {
+        "x": 192,
+        "y": 400,
+        "width": 362,
+        "height": 21
+      },
+      "confidence": 70.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-004",
+      "lineNumber": 4,
+      "text": "global cvents—climate crises,",
+      "bbox": {
+        "x": 192,
+        "y": 436,
+        "width": 361,
+        "height": 26
+      },
+      "confidence": 77.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-005",
+      "lineNumber": 5,
+      "text": "political turmoils like — the",
+      "bbox": {
+        "x": 192,
+        "y": 467,
+        "width": 362,
+        "height": 34
+      },
+      "confidence": 76.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-006",
+      "lineNumber": 6,
+      "text": "Ukraine-Russia war and the",
+      "bbox": {
+        "x": 193,
+        "y": 506,
+        "width": 361,
+        "height": 20
+      },
+      "confidence": 80.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-007",
+      "lineNumber": 7,
+      "text": "genocide in Palestine that shape",
+      "bbox": {
+        "x": 192,
+        "y": 541,
+        "width": 362,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-008",
+      "lineNumber": 8,
+      "text": "the world they are supposed to",
+      "bbox": {
+        "x": 193,
+        "y": 576,
+        "width": 361,
+        "height": 26
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-010",
+      "lineNumber": 10,
+      "text": "Freedom fighters rejoice in victory, Bangladesh, 1971.",
+      "bbox": {
+        "x": 569,
+        "y": 693,
+        "width": 525,
+        "height": 21
+      },
+      "confidence": 94.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-011",
+      "lineNumber": 11,
+      "text": "In Bangladesh, the struggle for",
+      "bbox": {
+        "x": 193,
+        "y": 744,
+        "width": 362,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-012",
+      "lineNumber": 12,
+      "text": "progress has long been a part of",
+      "bbox": {
+        "x": 192,
+        "y": 775,
+        "width": 366,
+        "height": 34
+      },
+      "confidence": 93.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-013",
+      "lineNumber": 13,
+      "text": "each generation. If the freedom",
+      "bbox": {
+        "x": 192,
+        "y": 814,
+        "width": 361,
+        "height": 26
+      },
+      "confidence": 93.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-014",
+      "lineNumber": 14,
+      "text": "fighters of 1971—largely part",
+      "bbox": {
+        "x": 193,
+        "y": 850,
+        "width": 361,
+        "height": 26
+      },
+      "confidence": 93.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-015",
+      "lineNumber": 15,
+      "text": "of the Baby Boomer",
+      "bbox": {
+        "x": 192,
+        "y": 885,
+        "width": 363,
+        "height": 26
+      },
+      "confidence": 86.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-016",
+      "lineNumber": 16,
+      "text": "generation—helped liberate the",
+      "bbox": {
+        "x": 192,
+        "y": 920,
+        "width": 362,
+        "height": 26
+      },
+      "confidence": 94.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-017",
+      "lineNumber": 17,
+      "text": "country, their struggle laid the",
+      "bbox": {
+        "x": 192,
+        "y": 955,
+        "width": 362,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-018",
+      "lineNumber": 18,
+      "text": "groundwork for the fight",
+      "bbox": {
+        "x": 192,
+        "y": 991,
+        "width": 362,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-019",
+      "lineNumber": 19,
+      "text": "for democracy against",
+      "bbox": {
+        "x": 193,
+        "y": 1022,
+        "width": 361,
+        "height": 34
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-021",
+      "lineNumber": 21,
+      "text": "A schoolboy chanting slogans with \"We Want",
+      "bbox": {
+        "x": 603,
+        "y": 1099,
+        "width": 438,
+        "height": 22
+      },
+      "confidence": 95.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-022",
+      "lineNumber": 22,
+      "text": "Justice\" painted on his bodv during the Road Safety",
+      "bbox": {
+        "x": 570,
+        "y": 1128,
+        "width": 503,
+        "height": 22
+      },
+      "confidence": 93.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-023",
+      "lineNumber": 23,
+      "text": "protests, 2018.",
+      "bbox": {
+        "x": 749,
+        "y": 1157,
+        "width": 141,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-024",
+      "lineNumber": 24,
+      "text": "Today’s young generation, bor",
+      "bbox": {
+        "x": 192,
+        "y": 1205,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 64.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-025",
+      "lineNumber": 25,
+      "text": "around 2000, carries this legacy",
+      "bbox": {
+        "x": 192,
+        "y": 1245,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 94.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-026",
+      "lineNumber": 26,
+      "text": "forward. The 2018 road safety protests",
+      "bbox": {
+        "x": 192,
+        "y": 1284,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-027",
+      "lineNumber": 27,
+      "text": "and the brutal that",
+      "bbox": {
+        "x": 192,
+        "y": 1324,
+        "width": 439,
+        "height": 20
+      },
+      "confidence": 82.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-029",
+      "lineNumber": 29,
+      "text": "followed marked a significant shift in",
+      "bbox": {
+        "x": 193,
+        "y": 1359,
+        "width": 437,
+        "height": 35
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-030",
+      "lineNumber": 30,
+      "text": "Gen Z’s consciousness, sharpening",
+      "bbox": {
+        "x": 192,
+        "y": 1403,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-031",
+      "lineNumber": 31,
+      "text": "their political awareness and reshaping",
+      "bbox": {
+        "x": 192,
+        "y": 1443,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 94.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-032",
+      "lineNumber": 32,
+      "text": "the role of media in their world.",
+      "bbox": {
+        "x": 192,
+        "y": 1482,
+        "width": 361,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-033",
+      "lineNumber": 33,
+      "text": "Consequently, the 2024 uprising was",
+      "bbox": {
+        "x": 192,
+        "y": 1547,
+        "width": 439,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-034",
+      "lineNumber": 34,
+      "text": "Protesters hold up a placard of a martyred",
+      "bbox": {
+        "x": 680,
+        "y": 1565,
+        "width": 414,
+        "height": 22
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-035",
+      "lineNumber": 35,
+      "text": "led by this generation, who realized",
+      "bbox": {
+        "x": 193,
+        "y": 1587,
+        "width": 438,
+        "height": 26
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-037-line-036",
+      "lineNumber": 36,
+      "text": "school child during the July Uprising protests.",
+      "bbox": {
+        "x": 661,
+        "y": 1594,
+        "width": 447,
+        "height": 22
+      },
+      "confidence": 94.57,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "frequently anxious, free yet\npersistently stressed. They have\nalso witnessed transformative\nglobal cvents—climate crises,\npolitical turmoils like — the\nUkraine-Russia war and the\ngenocide in Palestine that shape\nthe world they are supposed to\ninherit.\nFreedom fighters rejoice in victory, Bangladesh, 1971.\nIn Bangladesh, the struggle for\nprogress has long been a part of\neach generation. If the freedom\nfighters of 1971—largely part\nof the Baby Boomer\ngeneration—helped liberate the\ncountry, their struggle laid the\ngroundwork for the fight\nfor democracy against\nautocracy.\nA schoolboy chanting slogans with \"We Want\nJustice\" painted on his bodv during the Road Safety\nprotests, 2018.\nToday’s young generation, bor\naround 2000, carries this legacy\nforward. The 2018 road safety protests\nand the brutal that\ncrackdown\nfollowed marked a significant shift in\nGen Z’s consciousness, sharpening\ntheir political awareness and reshaping\nthe role of media in their world.\nConsequently, the 2024 uprising was\nProtesters hold up a placard of a martyred\nled by this generation, who realized\nschool child during the July Uprising protests.",
+  "cleanText": "frequently anxious, free yet\npersistently stressed. They have\nalso witnessed transformative\nglobal cvents—climate crises,\npolitical turmoils like — the\nUkraine-Russia war and the\ngenocide in Palestine that shape\nthe world they are supposed to\ninherit.\nFreedom fighters rejoice in victory, Bangladesh, 1971.\nIn Bangladesh, the struggle for\nprogress has long been a part of\neach generation. If the freedom\nfighters of 1971—largely part\nof the Baby Boomer\ngeneration—helped liberate the\ncountry, their struggle laid the\ngroundwork for the fight\nfor democracy against\nautocracy.\nA schoolboy chanting slogans with \"We Want\nJustice\" painted on his bodv during the Road Safety\nprotests, 2018.\nToday’s young generation, bor\naround 2000, carries this legacy\nforward. The 2018 road safety protests\nand the brutal that\ncrackdown\nfollowed marked a significant shift in\nGen Z’s consciousness, sharpening\ntheir political awareness and reshaping\nthe role of media in their world.\nConsequently, the 2024 uprising was\nProtesters hold up a placard of a martyred\nled by this generation, who realized\nschool child during the July Uprising protests.",
+  "aiReadyText": "frequently anxious, free yet\npersistently stressed. They have\nalso witnessed transformative\nglobal cvents—climate crises,\npolitical turmoils like — the\nUkraine-Russia war and the\ngenocide in Palestine that shape\nthe world they are supposed to\nFreedom fighters rejoice in victory, Bangladesh, 1971.\nIn Bangladesh, the struggle for\nprogress has long been a part of\neach generation. If the freedom\nfighters of 1971—largely part\nof the Baby Boomer\ngeneration—helped liberate the\ncountry, their struggle laid the\ngroundwork for the fight\nfor democracy against\nA schoolboy chanting slogans with \"We Want\nJustice\" painted on his bodv during the Road Safety\nprotests, 2018.\nToday’s young generation, bor\naround 2000, carries this legacy\nforward. The 2018 road safety protests\nand the brutal that\nfollowed marked a significant shift in\nGen Z’s consciousness, sharpening\ntheir political awareness and reshaping\nthe role of media in their world.\nConsequently, the 2024 uprising was\nProtesters hold up a placard of a martyred\nled by this generation, who realized\nschool child during the July Uprising protests."
+}

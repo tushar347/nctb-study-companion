@@ -1,0 +1,956 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 93,
+  "image": "/ocr/books/class7-english/page-images/page-093.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "88 ENGLISH FOR TODAY",
+      "cleanText": "88 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 202,
+        "y": 267,
+        "width": 911,
+        "height": 21
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "C. Now read about Kobita, a class 7 student of Sundarpur village. What",
+      "cleanText": "Now read about Kobita, a class 7 student of Sundarpur village. What",
+      "bbox": {
+        "x": 194,
+        "y": 333,
+        "width": 913,
+        "height": 25
+      },
+      "confidence": 89.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "does she say about her likes/dislikes?",
+      "cleanText": "does she say about her likes/dislikes?",
+      "bbox": {
+        "x": 270,
+        "y": 366,
+        "width": 430,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Hello, I am Kobita. ] am aclass 7 student of Sundarpur High School. I like",
+      "cleanText": "Hello, I am Kobita. ] am aclass 7 student of Sundarpur High School. I like",
+      "bbox": {
+        "x": 194,
+        "y": 408,
+        "width": 908,
+        "height": 33
+      },
+      "confidence": 87.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "listening to music in my free time. I like folk songs",
+      "cleanText": "listening to music in my free time. I like folk songs",
+      "bbox": {
+        "x": 189,
+        "y": 445,
+        "width": 630,
+        "height": 26
+      },
+      "confidence": 95.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "but 1 don’t understand classical music much.",
+      "cleanText": "but 1 don’t understand classical music much.",
+      "bbox": {
+        "x": 193,
+        "y": 478,
+        "width": 623,
+        "height": 19
+      },
+      "confidence": 83.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "However, my father likes classical music very much, but",
+      "cleanText": "However, my father likes classical music very much, but",
+      "bbox": {
+        "x": 191,
+        "y": 510,
+        "width": 630,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "he doesn’t like pop music. He never watches pop musical",
+      "cleanText": "he doesn’t like pop music. He never watches pop musical",
+      "bbox": {
+        "x": 191,
+        "y": 544,
+        "width": 630,
+        "height": 25
+      },
+      "confidence": 96.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "programmes on TV. He says he hates them because they",
+      "cleanText": "programmes on TV. He says he hates them because they",
+      "bbox": {
+        "x": 192,
+        "y": 577,
+        "width": 631,
+        "height": 25
+      },
+      "confidence": 95.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "don’t appeal to emotions. My favourite singer is Farida",
+      "cleanText": "don’t appeal to emotions. My favourite singer is Farida",
+      "bbox": {
+        "x": 191,
+        "y": 610,
+        "width": 629,
+        "height": 25
+      },
+      "confidence": 95.78,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Parvin. I like her songs very much. She has a wonderful",
+      "cleanText": "Parvin. I like her songs very much. She has a wonderful",
+      "bbox": {
+        "x": 191,
+        "y": 642,
+        "width": 629,
+        "height": 26
+      },
+      "confidence": 95.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "voice. I also like gardening. I have planted many flowers * '",
+      "cleanText": "voice. I also like gardening. I have planted many flowers * '",
+      "bbox": {
+        "x": 190,
+        "y": 671,
+        "width": 672,
+        "height": 34
+      },
+      "confidence": 88.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "in my garden. When the flowers are in full bloom, I love",
+      "cleanText": "in my garden. When the flowers are in full bloom, I love",
+      "bbox": {
+        "x": 191,
+        "y": 702,
+        "width": 635,
+        "height": 34
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "to watch them. I’m very happy about the flowers that I",
+      "cleanText": "to watch them. I’m very happy about the flowers that I",
+      "bbox": {
+        "x": 190,
+        "y": 740,
+        "width": 635,
+        "height": 27
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "grow. I just adore them!",
+      "cleanText": "grow. I just adore them!",
+      "bbox": {
+        "x": 191,
+        "y": 775,
+        "width": 267,
+        "height": 24
+      },
+      "confidence": 95.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "D. Ask and answer the questions in pairs.",
+      "cleanText": "Ask and answer the questions in pairs.",
+      "bbox": {
+        "x": 194,
+        "y": 829,
+        "width": 528,
+        "height": 24
+      },
+      "confidence": 92.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "1. Why doesn’t Kobita like classical music?",
+      "cleanText": "Why doesn’t Kobita like classical music?",
+      "bbox": {
+        "x": 277,
+        "y": 867,
+        "width": 488,
+        "height": 25
+      },
+      "confidence": 89.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "2. What does Kobita’s father think about pop music?",
+      "cleanText": "What does Kobita’s father think about pop music?",
+      "bbox": {
+        "x": 273,
+        "y": 900,
+        "width": 591,
+        "height": 25
+      },
+      "confidence": 94.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "3. Who is Kobita’s favourite singer? Why does she like her so much?",
+      "cleanText": "Who is Kobita’s favourite singer? Why does she like her so much?",
+      "bbox": {
+        "x": 273,
+        "y": 933,
+        "width": 773,
+        "height": 25
+      },
+      "confidence": 95.15,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "4. What does Kobita think about her garden?",
+      "cleanText": "What does Kobita think about her garden?",
+      "bbox": {
+        "x": 273,
+        "y": 966,
+        "width": 503,
+        "height": 25
+      },
+      "confidence": 95.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "5. What does the just adore them!” mean?",
+      "cleanText": "What does the just adore them!” mean?",
+      "bbox": {
+        "x": 274,
+        "y": 999,
+        "width": 593,
+        "height": 25
+      },
+      "confidence": 87.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "E. Now make five sentences about what you adore, love, like, don’t",
+      "cleanText": "E. Now make five sentences about what you adore, love, like, don’t",
+      "bbox": {
+        "x": 194,
+        "y": 1042,
+        "width": 908,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "like and hate.",
+      "cleanText": "like and hate.",
+      "bbox": {
+        "x": 272,
+        "y": 1075,
+        "width": 162,
+        "height": 20
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "F. Study the table below. In pairs use the table to ask and answer",
+      "cleanText": "F. Study the table below. In pairs use the table to ask and answer",
+      "bbox": {
+        "x": 195,
+        "y": 1119,
+        "width": 907,
+        "height": 25
+      },
+      "confidence": 95.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "questions to talk about your and your friend’s likes/dislikes.",
+      "cleanText": "questions to talk about your and your friend’s likes/dislikes.",
+      "bbox": {
+        "x": 270,
+        "y": 1152,
+        "width": 708,
+        "height": 25
+      },
+      "confidence": 94.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "I like",
+      "cleanText": "I like",
+      "bbox": {
+        "x": 383,
+        "y": 1200,
+        "width": 300,
+        "height": 17
+      },
+      "confidence": 65.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-093-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "I do not/ don’t like",
+      "cleanText": "I do not/ don’t like",
+      "bbox": {
+        "x": 381,
+        "y": 1257,
+        "width": 376,
+        "height": 17
+      },
+      "confidence": 90.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "Bangla movies,",
+      "cleanText": "Bangla movies,",
+      "bbox": {
+        "x": 850,
+        "y": 1275,
+        "width": 167,
+        "height": 21
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "fried rice.",
+      "cleanText": "fried rice.",
+      "bbox": {
+        "x": 851,
+        "y": 1303,
+        "width": 102,
+        "height": 16
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-093-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "You like",
+      "cleanText": "You like",
+      "bbox": {
+        "x": 363,
+        "y": 1333,
+        "width": 320,
+        "height": 16
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-093-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "You do not/ don’t like working mn the kitchen.",
+      "cleanText": "You do not/ don’t like working mn the kitchen.",
+      "bbox": {
+        "x": 363,
+        "y": 1383,
+        "width": 724,
+        "height": 44
+      },
+      "confidence": 87.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "going to cinema.",
+      "cleanText": "going to cinema.",
+      "bbox": {
+        "x": 849,
+        "y": 1418,
+        "width": 181,
+        "height": 18
+      },
+      "confidence": 89.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "likes watching cricket.",
+      "cleanText": "likes watching cricket.",
+      "bbox": {
+        "x": 639,
+        "y": 1443,
+        "width": 397,
+        "height": 32
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "He/She/Raju does not/ doesn’t like reading stories.",
+      "cleanText": "He/She/Raju does not/ doesn’t like reading stories.",
+      "bbox": {
+        "x": 320,
+        "y": 1470,
+        "width": 693,
+        "height": 42
+      },
+      "confidence": 93.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "They/ Girls do not/ don’t like",
+      "cleanText": "They/ Girls do not/ don’t like",
+      "bbox": {
+        "x": 315,
+        "y": 1559,
+        "width": 442,
+        "height": 21
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-093-line-035",
+      "lineNumber": 35
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-093-line-001",
+      "lineNumber": 1,
+      "text": "88 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 202,
+        "y": 267,
+        "width": 911,
+        "height": 21
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-002",
+      "lineNumber": 2,
+      "text": "Now read about Kobita, a class 7 student of Sundarpur village. What",
+      "bbox": {
+        "x": 194,
+        "y": 333,
+        "width": 913,
+        "height": 25
+      },
+      "confidence": 89.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-003",
+      "lineNumber": 3,
+      "text": "does she say about her likes/dislikes?",
+      "bbox": {
+        "x": 270,
+        "y": 366,
+        "width": 430,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-004",
+      "lineNumber": 4,
+      "text": "Hello, I am Kobita. ] am aclass 7 student of Sundarpur High School. I like",
+      "bbox": {
+        "x": 194,
+        "y": 408,
+        "width": 908,
+        "height": 33
+      },
+      "confidence": 87.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-005",
+      "lineNumber": 5,
+      "text": "listening to music in my free time. I like folk songs",
+      "bbox": {
+        "x": 189,
+        "y": 445,
+        "width": 630,
+        "height": 26
+      },
+      "confidence": 95.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-006",
+      "lineNumber": 6,
+      "text": "but 1 don’t understand classical music much.",
+      "bbox": {
+        "x": 193,
+        "y": 478,
+        "width": 623,
+        "height": 19
+      },
+      "confidence": 83.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-007",
+      "lineNumber": 7,
+      "text": "However, my father likes classical music very much, but",
+      "bbox": {
+        "x": 191,
+        "y": 510,
+        "width": 630,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-008",
+      "lineNumber": 8,
+      "text": "he doesn’t like pop music. He never watches pop musical",
+      "bbox": {
+        "x": 191,
+        "y": 544,
+        "width": 630,
+        "height": 25
+      },
+      "confidence": 96.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-009",
+      "lineNumber": 9,
+      "text": "programmes on TV. He says he hates them because they",
+      "bbox": {
+        "x": 192,
+        "y": 577,
+        "width": 631,
+        "height": 25
+      },
+      "confidence": 95.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-010",
+      "lineNumber": 10,
+      "text": "don’t appeal to emotions. My favourite singer is Farida",
+      "bbox": {
+        "x": 191,
+        "y": 610,
+        "width": 629,
+        "height": 25
+      },
+      "confidence": 95.78,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-011",
+      "lineNumber": 11,
+      "text": "Parvin. I like her songs very much. She has a wonderful",
+      "bbox": {
+        "x": 191,
+        "y": 642,
+        "width": 629,
+        "height": 26
+      },
+      "confidence": 95.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-012",
+      "lineNumber": 12,
+      "text": "voice. I also like gardening. I have planted many flowers * '",
+      "bbox": {
+        "x": 190,
+        "y": 671,
+        "width": 672,
+        "height": 34
+      },
+      "confidence": 88.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-013",
+      "lineNumber": 13,
+      "text": "in my garden. When the flowers are in full bloom, I love",
+      "bbox": {
+        "x": 191,
+        "y": 702,
+        "width": 635,
+        "height": 34
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-014",
+      "lineNumber": 14,
+      "text": "to watch them. I’m very happy about the flowers that I",
+      "bbox": {
+        "x": 190,
+        "y": 740,
+        "width": 635,
+        "height": 27
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-015",
+      "lineNumber": 15,
+      "text": "grow. I just adore them!",
+      "bbox": {
+        "x": 191,
+        "y": 775,
+        "width": 267,
+        "height": 24
+      },
+      "confidence": 95.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-016",
+      "lineNumber": 16,
+      "text": "Ask and answer the questions in pairs.",
+      "bbox": {
+        "x": 194,
+        "y": 829,
+        "width": 528,
+        "height": 24
+      },
+      "confidence": 92.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-017",
+      "lineNumber": 17,
+      "text": "Why doesn’t Kobita like classical music?",
+      "bbox": {
+        "x": 277,
+        "y": 867,
+        "width": 488,
+        "height": 25
+      },
+      "confidence": 89.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-018",
+      "lineNumber": 18,
+      "text": "What does Kobita’s father think about pop music?",
+      "bbox": {
+        "x": 273,
+        "y": 900,
+        "width": 591,
+        "height": 25
+      },
+      "confidence": 94.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-019",
+      "lineNumber": 19,
+      "text": "Who is Kobita’s favourite singer? Why does she like her so much?",
+      "bbox": {
+        "x": 273,
+        "y": 933,
+        "width": 773,
+        "height": 25
+      },
+      "confidence": 95.15,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-020",
+      "lineNumber": 20,
+      "text": "What does Kobita think about her garden?",
+      "bbox": {
+        "x": 273,
+        "y": 966,
+        "width": 503,
+        "height": 25
+      },
+      "confidence": 95.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-021",
+      "lineNumber": 21,
+      "text": "What does the just adore them!” mean?",
+      "bbox": {
+        "x": 274,
+        "y": 999,
+        "width": 593,
+        "height": 25
+      },
+      "confidence": 87.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-022",
+      "lineNumber": 22,
+      "text": "E. Now make five sentences about what you adore, love, like, don’t",
+      "bbox": {
+        "x": 194,
+        "y": 1042,
+        "width": 908,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-023",
+      "lineNumber": 23,
+      "text": "like and hate.",
+      "bbox": {
+        "x": 272,
+        "y": 1075,
+        "width": 162,
+        "height": 20
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-024",
+      "lineNumber": 24,
+      "text": "F. Study the table below. In pairs use the table to ask and answer",
+      "bbox": {
+        "x": 195,
+        "y": 1119,
+        "width": 907,
+        "height": 25
+      },
+      "confidence": 95.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-025",
+      "lineNumber": 25,
+      "text": "questions to talk about your and your friend’s likes/dislikes.",
+      "bbox": {
+        "x": 270,
+        "y": 1152,
+        "width": 708,
+        "height": 25
+      },
+      "confidence": 94.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-027",
+      "lineNumber": 27,
+      "text": "I do not/ don’t like",
+      "bbox": {
+        "x": 381,
+        "y": 1257,
+        "width": 376,
+        "height": 17
+      },
+      "confidence": 90.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-028",
+      "lineNumber": 28,
+      "text": "Bangla movies,",
+      "bbox": {
+        "x": 850,
+        "y": 1275,
+        "width": 167,
+        "height": 21
+      },
+      "confidence": 91.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-031",
+      "lineNumber": 31,
+      "text": "You do not/ don’t like working mn the kitchen.",
+      "bbox": {
+        "x": 363,
+        "y": 1383,
+        "width": 724,
+        "height": 44
+      },
+      "confidence": 87.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-032",
+      "lineNumber": 32,
+      "text": "going to cinema.",
+      "bbox": {
+        "x": 849,
+        "y": 1418,
+        "width": 181,
+        "height": 18
+      },
+      "confidence": 89.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-033",
+      "lineNumber": 33,
+      "text": "likes watching cricket.",
+      "bbox": {
+        "x": 639,
+        "y": 1443,
+        "width": 397,
+        "height": 32
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-034",
+      "lineNumber": 34,
+      "text": "He/She/Raju does not/ doesn’t like reading stories.",
+      "bbox": {
+        "x": 320,
+        "y": 1470,
+        "width": 693,
+        "height": 42
+      },
+      "confidence": 93.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-093-line-035",
+      "lineNumber": 35,
+      "text": "They/ Girls do not/ don’t like",
+      "bbox": {
+        "x": 315,
+        "y": 1559,
+        "width": 442,
+        "height": 21
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "88 ENGLISH FOR TODAY\nC. Now read about Kobita, a class 7 student of Sundarpur village. What\ndoes she say about her likes/dislikes?\nHello, I am Kobita. ] am aclass 7 student of Sundarpur High School. I like\nlistening to music in my free time. I like folk songs\nbut 1 don’t understand classical music much.\nHowever, my father likes classical music very much, but\nhe doesn’t like pop music. He never watches pop musical\nprogrammes on TV. He says he hates them because they\ndon’t appeal to emotions. My favourite singer is Farida\nParvin. I like her songs very much. She has a wonderful\nvoice. I also like gardening. I have planted many flowers * '\nin my garden. When the flowers are in full bloom, I love\nto watch them. I’m very happy about the flowers that I\ngrow. I just adore them!\nD. Ask and answer the questions in pairs.\n1. Why doesn’t Kobita like classical music?\n2. What does Kobita’s father think about pop music?\n3. Who is Kobita’s favourite singer? Why does she like her so much?\n4. What does Kobita think about her garden?\n5. What does the just adore them!” mean?\nE. Now make five sentences about what you adore, love, like, don’t\nlike and hate.\nF. Study the table below. In pairs use the table to ask and answer\nquestions to talk about your and your friend’s likes/dislikes.\nI like\nI do not/ don’t like\nBangla movies,\nfried rice.\nYou like\nYou do not/ don’t like working mn the kitchen.\ngoing to cinema.\nlikes watching cricket.\nHe/She/Raju does not/ doesn’t like reading stories.\nThey/ Girls do not/ don’t like",
+  "cleanText": "88 ENGLISH FOR TODAY\nNow read about Kobita, a class 7 student of Sundarpur village. What\ndoes she say about her likes/dislikes?\nHello, I am Kobita. ] am aclass 7 student of Sundarpur High School. I like\nlistening to music in my free time. I like folk songs\nbut 1 don’t understand classical music much.\nHowever, my father likes classical music very much, but\nhe doesn’t like pop music. He never watches pop musical\nprogrammes on TV. He says he hates them because they\ndon’t appeal to emotions. My favourite singer is Farida\nParvin. I like her songs very much. She has a wonderful\nvoice. I also like gardening. I have planted many flowers * '\nin my garden. When the flowers are in full bloom, I love\nto watch them. I’m very happy about the flowers that I\ngrow. I just adore them!\nAsk and answer the questions in pairs.\nWhy doesn’t Kobita like classical music?\nWhat does Kobita’s father think about pop music?\nWho is Kobita’s favourite singer? Why does she like her so much?\nWhat does Kobita think about her garden?\nWhat does the just adore them!” mean?\nE. Now make five sentences about what you adore, love, like, don’t\nlike and hate.\nF. Study the table below. In pairs use the table to ask and answer\nquestions to talk about your and your friend’s likes/dislikes.\nI like\nI do not/ don’t like\nBangla movies,\nfried rice.\nYou like\nYou do not/ don’t like working mn the kitchen.\ngoing to cinema.\nlikes watching cricket.\nHe/She/Raju does not/ doesn’t like reading stories.\nThey/ Girls do not/ don’t like",
+  "aiReadyText": "88 ENGLISH FOR TODAY\nNow read about Kobita, a class 7 student of Sundarpur village. What\ndoes she say about her likes/dislikes?\nHello, I am Kobita. ] am aclass 7 student of Sundarpur High School. I like\nlistening to music in my free time. I like folk songs\nbut 1 don’t understand classical music much.\nHowever, my father likes classical music very much, but\nhe doesn’t like pop music. He never watches pop musical\nprogrammes on TV. He says he hates them because they\ndon’t appeal to emotions. My favourite singer is Farida\nParvin. I like her songs very much. She has a wonderful\nvoice. I also like gardening. I have planted many flowers * '\nin my garden. When the flowers are in full bloom, I love\nto watch them. I’m very happy about the flowers that I\ngrow. I just adore them!\nAsk and answer the questions in pairs.\nWhy doesn’t Kobita like classical music?\nWhat does Kobita’s father think about pop music?\nWho is Kobita’s favourite singer? Why does she like her so much?\nWhat does Kobita think about her garden?\nWhat does the just adore them!” mean?\nE. Now make five sentences about what you adore, love, like, don’t\nlike and hate.\nF. Study the table below. In pairs use the table to ask and answer\nquestions to talk about your and your friend’s likes/dislikes.\nI do not/ don’t like\nBangla movies,\nYou do not/ don’t like working mn the kitchen.\ngoing to cinema.\nlikes watching cricket.\nHe/She/Raju does not/ doesn’t like reading stories.\nThey/ Girls do not/ don’t like"
+}

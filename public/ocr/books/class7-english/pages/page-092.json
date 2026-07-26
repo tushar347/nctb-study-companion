@@ -1,0 +1,911 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 92,
+  "image": "/ocr/books/class7-english/page-images/page-092.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Fight : Likes and Dislikes 87",
+      "cleanText": "Unit Fight : Likes and Dislikes 87",
+      "bbox": {
+        "x": 195,
+        "y": 265,
+        "width": 915,
+        "height": 24
+      },
+      "confidence": 93.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 1: I Like Folk Songs",
+      "cleanText": "Lesson 1: I Like Folk Songs",
+      "bbox": {
+        "x": 195,
+        "y": 329,
+        "width": 352,
+        "height": 28
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Keywords : chess photography, fish cutlet, classical music, folk song, pop music,",
+      "cleanText": "Keywords : chess photography, fish cutlet, classical music, folk song, pop music,",
+      "bbox": {
+        "x": 216,
+        "y": 381,
+        "width": 892,
+        "height": 27
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "adore (v), bloom {(v)",
+      "cleanText": "adore (v), bloom {(v)",
+      "bbox": {
+        "x": 373,
+        "y": 427,
+        "width": 221,
+        "height": 24
+      },
+      "confidence": 80.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Play this game in pairs. Take turns asking and answering questions.",
+      "cleanText": "Play this game in pairs. Take turns asking and answering questions.",
+      "bbox": {
+        "x": 280,
+        "y": 473,
+        "width": 824,
+        "height": 24
+      },
+      "confidence": 95.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Ask and answer as many questions as you can in five minutes to find",
+      "cleanText": "Ask and answer as many questions as you can in five minutes to find",
+      "bbox": {
+        "x": 274,
+        "y": 506,
+        "width": 834,
+        "height": 24
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "similarities between your and your partner’s likes. For each similar",
+      "cleanText": "similarities between your and your partner’s likes. For each similar",
+      "bbox": {
+        "x": 275,
+        "y": 539,
+        "width": 836,
+        "height": 24
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "liking your pair will get one point. Add up your points when the game",
+      "cleanText": "liking your pair will get one point. Add up your points when the game",
+      "bbox": {
+        "x": 275,
+        "y": 572,
+        "width": 836,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "is over. The pair having the highest points is the winner. Use the",
+      "cleanText": "is over. The pair having the highest points is the winner. Use the",
+      "bbox": {
+        "x": 275,
+        "y": 604,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 94.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "following clue to play the game:",
+      "cleanText": "following clue to play the game:",
+      "bbox": {
+        "x": 275,
+        "y": 637,
+        "width": 376,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "A: Llike ice cream. And you?",
+      "cleanText": "A: Llike ice cream. And you?",
+      "bbox": {
+        "x": 438,
+        "y": 679,
+        "width": 323,
+        "height": 25
+      },
+      "confidence": 93.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "B: I like ice cream too, (One point)",
+      "cleanText": "B: I like ice cream too, (One point)",
+      "bbox": {
+        "x": 438,
+        "y": 722,
+        "width": 384,
+        "height": 25
+      },
+      "confidence": 90.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "B: 1 like playing chess. And you?",
+      "cleanText": "B: 1 like playing chess. And you?",
+      "bbox": {
+        "x": 438,
+        "y": 766,
+        "width": 365,
+        "height": 25
+      },
+      "confidence": 91.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "A: I don’t like playing chess. (No points)",
+      "cleanText": "A: I don’t like playing chess. (No points)",
+      "bbox": {
+        "x": 438,
+        "y": 809,
+        "width": 449,
+        "height": 25
+      },
+      "confidence": 88.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Read the dialogue between A and B silently. Underline the words that",
+      "cleanText": "Read the dialogue between A and B silently. Underline the words that",
+      "bbox": {
+        "x": 280,
+        "y": 853,
+        "width": 826,
+        "height": 33
+      },
+      "confidence": 95.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "express liking/disliking. Then act out the dialogue in pairs,",
+      "cleanText": "express liking/disliking. Then act out the dialogue in pairs,",
+      "bbox": {
+        "x": 277,
+        "y": 890,
+        "width": 687,
+        "height": 26
+      },
+      "confidence": 92.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "Hello. How are you doing?",
+      "cleanText": "Hello. How are you doing?",
+      "bbox": {
+        "x": 315,
+        "y": 942,
+        "width": 295,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "I’m OK. I’ve just finished a course on photography.",
+      "cleanText": "I’m OK. I’ve just finished a course on photography.",
+      "bbox": {
+        "x": 313,
+        "y": 984,
+        "width": 567,
+        "height": 33
+      },
+      "confidence": 94.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Great! Did you like the course?",
+      "cleanText": "Great! Did you like the course?",
+      "bbox": {
+        "x": 314,
+        "y": 1032,
+        "width": 343,
+        "height": 25
+      },
+      "confidence": 96.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Yes, I loved the course so much! You know, I like photography a lot. How",
+      "cleanText": "Yes, I loved the course so much! You know, I like photography a lot. How",
+      "bbox": {
+        "x": 312,
+        "y": 1075,
+        "width": 794,
+        "height": 25
+      },
+      "confidence": 93.87,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "about you? What sorts of things do you like?",
+      "cleanText": "about you? What sorts of things do you like?",
+      "bbox": {
+        "x": 313,
+        "y": 1115,
+        "width": 497,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": ": I don’t like photography but I like fishing. I went fishing to a nearby",
+      "cleanText": ": I don’t like photography but I like fishing. I went fishing to a nearby",
+      "bbox": {
+        "x": 301,
+        "y": 1157,
+        "width": 806,
+        "height": 33
+      },
+      "confidence": 88.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "village last week. Did you ever go fishing?",
+      "cleanText": "village last week. Did you ever go fishing?",
+      "bbox": {
+        "x": 314,
+        "y": 1198,
+        "width": 473,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": ": Errr, [like eating fish. I actually love fish cutlet. But I don’t like to go",
+      "cleanText": ": Errr, [like eating fish. I actually love fish cutlet. But I don’t like to go",
+      "bbox": {
+        "x": 299,
+        "y": 1241,
+        "width": 806,
+        "height": 25
+      },
+      "confidence": 89.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "fishing. It’s hard to wait for hours looking at the water!",
+      "cleanText": "fishing. It’s hard to wait for hours looking at the water!",
+      "bbox": {
+        "x": 313,
+        "y": 1281,
+        "width": 606,
+        "height": 25
+      },
+      "confidence": 95.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": ": That’s right. You need to have patience.1 enjoy fishing. It’s really",
+      "cleanText": ": That’s right. You need to have patience.1 enjoy fishing. It’s really",
+      "bbox": {
+        "x": 301,
+        "y": 1321,
+        "width": 803,
+        "height": 25
+      },
+      "confidence": 90.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "exciting when you catch a fish after hours of waiting. Would you",
+      "cleanText": "exciting when you catch a fish after hours of waiting. Would you",
+      "bbox": {
+        "x": 312,
+        "y": 1362,
+        "width": 791,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "like to come with me next time?",
+      "cleanText": "like to come with me next time?",
+      "bbox": {
+        "x": 312,
+        "y": 1394,
+        "width": 383,
+        "height": 20
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "B: I’m not sure, But I would love to taste fish cutlet.",
+      "cleanText": "B: I’m not sure, But I would love to taste fish cutlet.",
+      "bbox": {
+        "x": 280,
+        "y": 1443,
+        "width": 570,
+        "height": 20
+      },
+      "confidence": 92.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": ": Well. Pll certainly invite you to come to my place enjoy fish",
+      "cleanText": ": Well. Pll certainly invite you to come to my place enjoy fish",
+      "bbox": {
+        "x": 301,
+        "y": 1496,
+        "width": 805,
+        "height": 25
+      },
+      "confidence": 89.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "cutlets with me.",
+      "cleanText": "cutlets with me.",
+      "bbox": {
+        "x": 317,
+        "y": 1536,
+        "width": 181,
+        "height": 20
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": ": Thank you. Sounds great! Thanks!",
+      "cleanText": ": Thank you. Sounds great! Thanks!",
+      "bbox": {
+        "x": 299,
+        "y": 1582,
+        "width": 390,
+        "height": 25
+      },
+      "confidence": 92.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-092-line-032",
+      "lineNumber": 32
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-092-line-001",
+      "lineNumber": 1,
+      "text": "Unit Fight : Likes and Dislikes 87",
+      "bbox": {
+        "x": 195,
+        "y": 265,
+        "width": 915,
+        "height": 24
+      },
+      "confidence": 93.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 1: I Like Folk Songs",
+      "bbox": {
+        "x": 195,
+        "y": 329,
+        "width": 352,
+        "height": 28
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-003",
+      "lineNumber": 3,
+      "text": "Keywords : chess photography, fish cutlet, classical music, folk song, pop music,",
+      "bbox": {
+        "x": 216,
+        "y": 381,
+        "width": 892,
+        "height": 27
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-004",
+      "lineNumber": 4,
+      "text": "adore (v), bloom {(v)",
+      "bbox": {
+        "x": 373,
+        "y": 427,
+        "width": 221,
+        "height": 24
+      },
+      "confidence": 80.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-005",
+      "lineNumber": 5,
+      "text": "Play this game in pairs. Take turns asking and answering questions.",
+      "bbox": {
+        "x": 280,
+        "y": 473,
+        "width": 824,
+        "height": 24
+      },
+      "confidence": 95.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-006",
+      "lineNumber": 6,
+      "text": "Ask and answer as many questions as you can in five minutes to find",
+      "bbox": {
+        "x": 274,
+        "y": 506,
+        "width": 834,
+        "height": 24
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-007",
+      "lineNumber": 7,
+      "text": "similarities between your and your partner’s likes. For each similar",
+      "bbox": {
+        "x": 275,
+        "y": 539,
+        "width": 836,
+        "height": 24
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-008",
+      "lineNumber": 8,
+      "text": "liking your pair will get one point. Add up your points when the game",
+      "bbox": {
+        "x": 275,
+        "y": 572,
+        "width": 836,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-009",
+      "lineNumber": 9,
+      "text": "is over. The pair having the highest points is the winner. Use the",
+      "bbox": {
+        "x": 275,
+        "y": 604,
+        "width": 832,
+        "height": 25
+      },
+      "confidence": 94.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-010",
+      "lineNumber": 10,
+      "text": "following clue to play the game:",
+      "bbox": {
+        "x": 275,
+        "y": 637,
+        "width": 376,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-011",
+      "lineNumber": 11,
+      "text": "A: Llike ice cream. And you?",
+      "bbox": {
+        "x": 438,
+        "y": 679,
+        "width": 323,
+        "height": 25
+      },
+      "confidence": 93.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-012",
+      "lineNumber": 12,
+      "text": "B: I like ice cream too, (One point)",
+      "bbox": {
+        "x": 438,
+        "y": 722,
+        "width": 384,
+        "height": 25
+      },
+      "confidence": 90.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-013",
+      "lineNumber": 13,
+      "text": "B: 1 like playing chess. And you?",
+      "bbox": {
+        "x": 438,
+        "y": 766,
+        "width": 365,
+        "height": 25
+      },
+      "confidence": 91.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-014",
+      "lineNumber": 14,
+      "text": "A: I don’t like playing chess. (No points)",
+      "bbox": {
+        "x": 438,
+        "y": 809,
+        "width": 449,
+        "height": 25
+      },
+      "confidence": 88.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-015",
+      "lineNumber": 15,
+      "text": "Read the dialogue between A and B silently. Underline the words that",
+      "bbox": {
+        "x": 280,
+        "y": 853,
+        "width": 826,
+        "height": 33
+      },
+      "confidence": 95.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-016",
+      "lineNumber": 16,
+      "text": "express liking/disliking. Then act out the dialogue in pairs,",
+      "bbox": {
+        "x": 277,
+        "y": 890,
+        "width": 687,
+        "height": 26
+      },
+      "confidence": 92.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-017",
+      "lineNumber": 17,
+      "text": "Hello. How are you doing?",
+      "bbox": {
+        "x": 315,
+        "y": 942,
+        "width": 295,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-018",
+      "lineNumber": 18,
+      "text": "I’m OK. I’ve just finished a course on photography.",
+      "bbox": {
+        "x": 313,
+        "y": 984,
+        "width": 567,
+        "height": 33
+      },
+      "confidence": 94.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-019",
+      "lineNumber": 19,
+      "text": "Great! Did you like the course?",
+      "bbox": {
+        "x": 314,
+        "y": 1032,
+        "width": 343,
+        "height": 25
+      },
+      "confidence": 96.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-020",
+      "lineNumber": 20,
+      "text": "Yes, I loved the course so much! You know, I like photography a lot. How",
+      "bbox": {
+        "x": 312,
+        "y": 1075,
+        "width": 794,
+        "height": 25
+      },
+      "confidence": 93.87,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-021",
+      "lineNumber": 21,
+      "text": "about you? What sorts of things do you like?",
+      "bbox": {
+        "x": 313,
+        "y": 1115,
+        "width": 497,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-022",
+      "lineNumber": 22,
+      "text": ": I don’t like photography but I like fishing. I went fishing to a nearby",
+      "bbox": {
+        "x": 301,
+        "y": 1157,
+        "width": 806,
+        "height": 33
+      },
+      "confidence": 88.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-023",
+      "lineNumber": 23,
+      "text": "village last week. Did you ever go fishing?",
+      "bbox": {
+        "x": 314,
+        "y": 1198,
+        "width": 473,
+        "height": 25
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-024",
+      "lineNumber": 24,
+      "text": ": Errr, [like eating fish. I actually love fish cutlet. But I don’t like to go",
+      "bbox": {
+        "x": 299,
+        "y": 1241,
+        "width": 806,
+        "height": 25
+      },
+      "confidence": 89.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-025",
+      "lineNumber": 25,
+      "text": "fishing. It’s hard to wait for hours looking at the water!",
+      "bbox": {
+        "x": 313,
+        "y": 1281,
+        "width": 606,
+        "height": 25
+      },
+      "confidence": 95.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-026",
+      "lineNumber": 26,
+      "text": ": That’s right. You need to have patience.1 enjoy fishing. It’s really",
+      "bbox": {
+        "x": 301,
+        "y": 1321,
+        "width": 803,
+        "height": 25
+      },
+      "confidence": 90.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-027",
+      "lineNumber": 27,
+      "text": "exciting when you catch a fish after hours of waiting. Would you",
+      "bbox": {
+        "x": 312,
+        "y": 1362,
+        "width": 791,
+        "height": 25
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-028",
+      "lineNumber": 28,
+      "text": "like to come with me next time?",
+      "bbox": {
+        "x": 312,
+        "y": 1394,
+        "width": 383,
+        "height": 20
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-029",
+      "lineNumber": 29,
+      "text": "B: I’m not sure, But I would love to taste fish cutlet.",
+      "bbox": {
+        "x": 280,
+        "y": 1443,
+        "width": 570,
+        "height": 20
+      },
+      "confidence": 92.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-030",
+      "lineNumber": 30,
+      "text": ": Well. Pll certainly invite you to come to my place enjoy fish",
+      "bbox": {
+        "x": 301,
+        "y": 1496,
+        "width": 805,
+        "height": 25
+      },
+      "confidence": 89.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-031",
+      "lineNumber": 31,
+      "text": "cutlets with me.",
+      "bbox": {
+        "x": 317,
+        "y": 1536,
+        "width": 181,
+        "height": 20
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-092-line-032",
+      "lineNumber": 32,
+      "text": ": Thank you. Sounds great! Thanks!",
+      "bbox": {
+        "x": 299,
+        "y": 1582,
+        "width": 390,
+        "height": 25
+      },
+      "confidence": 92.33,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Fight : Likes and Dislikes 87\nLesson 1: I Like Folk Songs\nKeywords : chess photography, fish cutlet, classical music, folk song, pop music,\nadore (v), bloom {(v)\nPlay this game in pairs. Take turns asking and answering questions.\nAsk and answer as many questions as you can in five minutes to find\nsimilarities between your and your partner’s likes. For each similar\nliking your pair will get one point. Add up your points when the game\nis over. The pair having the highest points is the winner. Use the\nfollowing clue to play the game:\nA: Llike ice cream. And you?\nB: I like ice cream too, (One point)\nB: 1 like playing chess. And you?\nA: I don’t like playing chess. (No points)\nRead the dialogue between A and B silently. Underline the words that\nexpress liking/disliking. Then act out the dialogue in pairs,\nHello. How are you doing?\nI’m OK. I’ve just finished a course on photography.\nGreat! Did you like the course?\nYes, I loved the course so much! You know, I like photography a lot. How\nabout you? What sorts of things do you like?\n: I don’t like photography but I like fishing. I went fishing to a nearby\nvillage last week. Did you ever go fishing?\n: Errr, [like eating fish. I actually love fish cutlet. But I don’t like to go\nfishing. It’s hard to wait for hours looking at the water!\n: That’s right. You need to have patience.1 enjoy fishing. It’s really\nexciting when you catch a fish after hours of waiting. Would you\nlike to come with me next time?\nB: I’m not sure, But I would love to taste fish cutlet.\n: Well. Pll certainly invite you to come to my place enjoy fish\ncutlets with me.\n: Thank you. Sounds great! Thanks!",
+  "cleanText": "Unit Fight : Likes and Dislikes 87\nLesson 1: I Like Folk Songs\nKeywords : chess photography, fish cutlet, classical music, folk song, pop music,\nadore (v), bloom {(v)\nPlay this game in pairs. Take turns asking and answering questions.\nAsk and answer as many questions as you can in five minutes to find\nsimilarities between your and your partner’s likes. For each similar\nliking your pair will get one point. Add up your points when the game\nis over. The pair having the highest points is the winner. Use the\nfollowing clue to play the game:\nA: Llike ice cream. And you?\nB: I like ice cream too, (One point)\nB: 1 like playing chess. And you?\nA: I don’t like playing chess. (No points)\nRead the dialogue between A and B silently. Underline the words that\nexpress liking/disliking. Then act out the dialogue in pairs,\nHello. How are you doing?\nI’m OK. I’ve just finished a course on photography.\nGreat! Did you like the course?\nYes, I loved the course so much! You know, I like photography a lot. How\nabout you? What sorts of things do you like?\n: I don’t like photography but I like fishing. I went fishing to a nearby\nvillage last week. Did you ever go fishing?\n: Errr, [like eating fish. I actually love fish cutlet. But I don’t like to go\nfishing. It’s hard to wait for hours looking at the water!\n: That’s right. You need to have patience.1 enjoy fishing. It’s really\nexciting when you catch a fish after hours of waiting. Would you\nlike to come with me next time?\nB: I’m not sure, But I would love to taste fish cutlet.\n: Well. Pll certainly invite you to come to my place enjoy fish\ncutlets with me.\n: Thank you. Sounds great! Thanks!",
+  "aiReadyText": "Unit Fight : Likes and Dislikes 87\nLesson 1: I Like Folk Songs\nKeywords : chess photography, fish cutlet, classical music, folk song, pop music,\nadore (v), bloom {(v)\nPlay this game in pairs. Take turns asking and answering questions.\nAsk and answer as many questions as you can in five minutes to find\nsimilarities between your and your partner’s likes. For each similar\nliking your pair will get one point. Add up your points when the game\nis over. The pair having the highest points is the winner. Use the\nfollowing clue to play the game:\nA: Llike ice cream. And you?\nB: I like ice cream too, (One point)\nB: 1 like playing chess. And you?\nA: I don’t like playing chess. (No points)\nRead the dialogue between A and B silently. Underline the words that\nexpress liking/disliking. Then act out the dialogue in pairs,\nHello. How are you doing?\nI’m OK. I’ve just finished a course on photography.\nGreat! Did you like the course?\nYes, I loved the course so much! You know, I like photography a lot. How\nabout you? What sorts of things do you like?\n: I don’t like photography but I like fishing. I went fishing to a nearby\nvillage last week. Did you ever go fishing?\n: Errr, [like eating fish. I actually love fish cutlet. But I don’t like to go\nfishing. It’s hard to wait for hours looking at the water!\n: That’s right. You need to have patience.1 enjoy fishing. It’s really\nexciting when you catch a fish after hours of waiting. Would you\nlike to come with me next time?\nB: I’m not sure, But I would love to taste fish cutlet.\n: Well. Pll certainly invite you to come to my place enjoy fish\ncutlets with me.\n: Thank you. Sounds great! Thanks!"
+}

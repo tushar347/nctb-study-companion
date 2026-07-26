@@ -1,0 +1,605 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 87,
+  "image": "/ocr/books/class7-english/page-images/page-087.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "82 ENGLISH FOR TODAY",
+      "cleanText": "82 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 206,
+        "y": 265,
+        "width": 910,
+        "height": 20
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "the Golden Ball. His second goal with England in 1986 was..............",
+      "cleanText": "the Golden Ball. His second goal with England in 1986 was..............",
+      "bbox": {
+        "x": 278,
+        "y": 325,
+        "width": 815,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "the Goal of the century. In that match, he dribbled through six English",
+      "cleanText": "the Goal of the century. In that match, he dribbled through six English",
+      "bbox": {
+        "x": 277,
+        "y": 368,
+        "width": 819,
+        "height": 26
+      },
+      "confidence": 93.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "players to cross 60 metres (66 yards). He also.............. the Golden",
+      "cleanText": "players to cross 60 metres (66 yards). He also.............. the Golden",
+      "bbox": {
+        "x": 281,
+        "y": 412,
+        "width": 816,
+        "height": 25
+      },
+      "confidence": 93.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Ball at the FIFA under 20 World Cup in 1979. In 1990, Argentina ......",
+      "cleanText": "Ball at the FIFA under 20 World Cup in 1979. In 1990, Argentina ......",
+      "bbox": {
+        "x": 280,
+        "y": 457,
+        "width": 812,
+        "height": 25
+      },
+      "confidence": 94.93,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "the runner up in the World Cup under his captaincy too. This is why",
+      "cleanText": "the runner up in the World Cup under his captaincy too. This is why",
+      "bbox": {
+        "x": 280,
+        "y": 501,
+        "width": 814,
+        "height": 25
+      },
+      "confidence": 95.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Maradona a legend not only in Argentina but also in the",
+      "cleanText": "Maradona a legend not only in Argentina but also in the",
+      "bbox": {
+        "x": 281,
+        "y": 540,
+        "width": 819,
+        "height": 25
+      },
+      "confidence": 94.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "whole world.",
+      "cleanText": "whole world.",
+      "bbox": {
+        "x": 280,
+        "y": 579,
+        "width": 142,
+        "height": 19
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-087-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Lesson 5: Our Winners in the Global Arena",
+      "cleanText": "Lesson 5: Our Winners in the Global Arena",
+      "bbox": {
+        "x": 203,
+        "y": 649,
+        "width": 578,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Keywords : amazing, individual, grab, dedicate",
+      "cleanText": "Keywords : amazing, individual, grab, dedicate",
+      "bbox": {
+        "x": 270,
+        "y": 701,
+        "width": 670,
+        "height": 27
+      },
+      "confidence": 82.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "A. Read the following article published in The Kathmandu Post",
+      "cleanText": "Read the following article published in The Kathmandu Post",
+      "bbox": {
+        "x": 199,
+        "y": 748,
+        "width": 915,
+        "height": 25
+      },
+      "confidence": 92.6,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-087-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "about the historic win of Bangladesh in SAFF U-20 Championship",
+      "cleanText": "about the historic win of Bangladesh in SAFF U-20 Championship",
+      "bbox": {
+        "x": 246,
+        "y": 782,
+        "width": 867,
+        "height": 26
+      },
+      "confidence": 94.7,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "football tournament.",
+      "cleanText": "football tournament.",
+      "bbox": {
+        "x": 245,
+        "y": 816,
+        "width": 251,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "Bangladesh maul Nepal to win maiden SAFF U-20 Championship crown",
+      "cleanText": "Bangladesh maul Nepal to win maiden SAFF U-20 Championship crown",
+      "bbox": {
+        "x": 337,
+        "y": 1249,
+        "width": 641,
+        "height": 20
+      },
+      "confidence": 94.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "Published on: August 28, 2024",
+      "cleanText": "Published on: August 28, 2024",
+      "bbox": {
+        "x": 523,
+        "y": 1276,
+        "width": 270,
+        "height": 19
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Bangladesh wrote a new chapter in South Asian football history on Wednesday",
+      "cleanText": "Bangladesh wrote a new chapter in South Asian football history on Wednesday",
+      "bbox": {
+        "x": 268,
+        "y": 1330,
+        "width": 845,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "as they defeated hosts Nepal 4-1 in the final at the ANFA Complex in Lalitpur to",
+      "cleanText": "as they defeated hosts Nepal 4-1 in the final at the ANFA Complex in Lalitpur to",
+      "bbox": {
+        "x": 267,
+        "y": 1370,
+        "width": 846,
+        "height": 24
+      },
+      "confidence": 95.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "win their maiden SAFF U-20 Championship title.",
+      "cleanText": "win their maiden SAFF U-20 Championship title.",
+      "bbox": {
+        "x": 267,
+        "y": 1409,
+        "width": 522,
+        "height": 24
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Mirajul Islam scored a brace, Rabby Hossen Rahul added the third and Piash",
+      "cleanText": "Mirajul Islam scored a brace, Rabby Hossen Rahul added the third and Piash",
+      "bbox": {
+        "x": 267,
+        "y": 1462,
+        "width": 847,
+        "height": 24
+      },
+      "confidence": 94.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "Ahmmed Nova rounded off a ruthless victory with their fourth goal as the Bengal",
+      "cleanText": "Ahmmed Nova rounded off a ruthless victory with their fourth goal as the Bengal",
+      "bbox": {
+        "x": 267,
+        "y": 1498,
+        "width": 846,
+        "height": 33
+      },
+      "confidence": 94.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Tigers finally got hands on the trophy nine after the inception of the",
+      "cleanText": "Tigers finally got hands on the trophy nine after the inception of the",
+      "bbox": {
+        "x": 267,
+        "y": 1541,
+        "width": 847,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "championship tournament.",
+      "cleanText": "championship tournament.",
+      "bbox": {
+        "x": 267,
+        "y": 1582,
+        "width": 279,
+        "height": 23
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-087-line-022",
+      "lineNumber": 22
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-087-line-001",
+      "lineNumber": 1,
+      "text": "82 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 206,
+        "y": 265,
+        "width": 910,
+        "height": 20
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-002",
+      "lineNumber": 2,
+      "text": "the Golden Ball. His second goal with England in 1986 was..............",
+      "bbox": {
+        "x": 278,
+        "y": 325,
+        "width": 815,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-003",
+      "lineNumber": 3,
+      "text": "the Goal of the century. In that match, he dribbled through six English",
+      "bbox": {
+        "x": 277,
+        "y": 368,
+        "width": 819,
+        "height": 26
+      },
+      "confidence": 93.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-004",
+      "lineNumber": 4,
+      "text": "players to cross 60 metres (66 yards). He also.............. the Golden",
+      "bbox": {
+        "x": 281,
+        "y": 412,
+        "width": 816,
+        "height": 25
+      },
+      "confidence": 93.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-005",
+      "lineNumber": 5,
+      "text": "Ball at the FIFA under 20 World Cup in 1979. In 1990, Argentina ......",
+      "bbox": {
+        "x": 280,
+        "y": 457,
+        "width": 812,
+        "height": 25
+      },
+      "confidence": 94.93,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-006",
+      "lineNumber": 6,
+      "text": "the runner up in the World Cup under his captaincy too. This is why",
+      "bbox": {
+        "x": 280,
+        "y": 501,
+        "width": 814,
+        "height": 25
+      },
+      "confidence": 95.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-007",
+      "lineNumber": 7,
+      "text": "Maradona a legend not only in Argentina but also in the",
+      "bbox": {
+        "x": 281,
+        "y": 540,
+        "width": 819,
+        "height": 25
+      },
+      "confidence": 94.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-009",
+      "lineNumber": 9,
+      "text": "Lesson 5: Our Winners in the Global Arena",
+      "bbox": {
+        "x": 203,
+        "y": 649,
+        "width": 578,
+        "height": 22
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-010",
+      "lineNumber": 10,
+      "text": "Keywords : amazing, individual, grab, dedicate",
+      "bbox": {
+        "x": 270,
+        "y": 701,
+        "width": 670,
+        "height": 27
+      },
+      "confidence": 82.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-012",
+      "lineNumber": 12,
+      "text": "about the historic win of Bangladesh in SAFF U-20 Championship",
+      "bbox": {
+        "x": 246,
+        "y": 782,
+        "width": 867,
+        "height": 26
+      },
+      "confidence": 94.7,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-013",
+      "lineNumber": 13,
+      "text": "football tournament.",
+      "bbox": {
+        "x": 245,
+        "y": 816,
+        "width": 251,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-014",
+      "lineNumber": 14,
+      "text": "Bangladesh maul Nepal to win maiden SAFF U-20 Championship crown",
+      "bbox": {
+        "x": 337,
+        "y": 1249,
+        "width": 641,
+        "height": 20
+      },
+      "confidence": 94.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-015",
+      "lineNumber": 15,
+      "text": "Published on: August 28, 2024",
+      "bbox": {
+        "x": 523,
+        "y": 1276,
+        "width": 270,
+        "height": 19
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-016",
+      "lineNumber": 16,
+      "text": "Bangladesh wrote a new chapter in South Asian football history on Wednesday",
+      "bbox": {
+        "x": 268,
+        "y": 1330,
+        "width": 845,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-017",
+      "lineNumber": 17,
+      "text": "as they defeated hosts Nepal 4-1 in the final at the ANFA Complex in Lalitpur to",
+      "bbox": {
+        "x": 267,
+        "y": 1370,
+        "width": 846,
+        "height": 24
+      },
+      "confidence": 95.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-018",
+      "lineNumber": 18,
+      "text": "win their maiden SAFF U-20 Championship title.",
+      "bbox": {
+        "x": 267,
+        "y": 1409,
+        "width": 522,
+        "height": 24
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-019",
+      "lineNumber": 19,
+      "text": "Mirajul Islam scored a brace, Rabby Hossen Rahul added the third and Piash",
+      "bbox": {
+        "x": 267,
+        "y": 1462,
+        "width": 847,
+        "height": 24
+      },
+      "confidence": 94.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-020",
+      "lineNumber": 20,
+      "text": "Ahmmed Nova rounded off a ruthless victory with their fourth goal as the Bengal",
+      "bbox": {
+        "x": 267,
+        "y": 1498,
+        "width": 846,
+        "height": 33
+      },
+      "confidence": 94.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-021",
+      "lineNumber": 21,
+      "text": "Tigers finally got hands on the trophy nine after the inception of the",
+      "bbox": {
+        "x": 267,
+        "y": 1541,
+        "width": 847,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-087-line-022",
+      "lineNumber": 22,
+      "text": "championship tournament.",
+      "bbox": {
+        "x": 267,
+        "y": 1582,
+        "width": 279,
+        "height": 23
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "82 ENGLISH FOR TODAY\nthe Golden Ball. His second goal with England in 1986 was..............\nthe Goal of the century. In that match, he dribbled through six English\nplayers to cross 60 metres (66 yards). He also.............. the Golden\nBall at the FIFA under 20 World Cup in 1979. In 1990, Argentina ......\nthe runner up in the World Cup under his captaincy too. This is why\nMaradona a legend not only in Argentina but also in the\nwhole world.\nLesson 5: Our Winners in the Global Arena\nKeywords : amazing, individual, grab, dedicate\nA. Read the following article published in The Kathmandu Post\nabout the historic win of Bangladesh in SAFF U-20 Championship\nfootball tournament.\nBangladesh maul Nepal to win maiden SAFF U-20 Championship crown\nPublished on: August 28, 2024\nBangladesh wrote a new chapter in South Asian football history on Wednesday\nas they defeated hosts Nepal 4-1 in the final at the ANFA Complex in Lalitpur to\nwin their maiden SAFF U-20 Championship title.\nMirajul Islam scored a brace, Rabby Hossen Rahul added the third and Piash\nAhmmed Nova rounded off a ruthless victory with their fourth goal as the Bengal\nTigers finally got hands on the trophy nine after the inception of the\nchampionship tournament.",
+  "cleanText": "82 ENGLISH FOR TODAY\nthe Golden Ball. His second goal with England in 1986 was..............\nthe Goal of the century. In that match, he dribbled through six English\nplayers to cross 60 metres (66 yards). He also.............. the Golden\nBall at the FIFA under 20 World Cup in 1979. In 1990, Argentina ......\nthe runner up in the World Cup under his captaincy too. This is why\nMaradona a legend not only in Argentina but also in the\nwhole world.\nLesson 5: Our Winners in the Global Arena\nKeywords : amazing, individual, grab, dedicate\nRead the following article published in The Kathmandu Post\nabout the historic win of Bangladesh in SAFF U-20 Championship\nfootball tournament.\nBangladesh maul Nepal to win maiden SAFF U-20 Championship crown\nPublished on: August 28, 2024\nBangladesh wrote a new chapter in South Asian football history on Wednesday\nas they defeated hosts Nepal 4-1 in the final at the ANFA Complex in Lalitpur to\nwin their maiden SAFF U-20 Championship title.\nMirajul Islam scored a brace, Rabby Hossen Rahul added the third and Piash\nAhmmed Nova rounded off a ruthless victory with their fourth goal as the Bengal\nTigers finally got hands on the trophy nine after the inception of the\nchampionship tournament.",
+  "aiReadyText": "82 ENGLISH FOR TODAY\nthe Golden Ball. His second goal with England in 1986 was..............\nthe Goal of the century. In that match, he dribbled through six English\nplayers to cross 60 metres (66 yards). He also.............. the Golden\nBall at the FIFA under 20 World Cup in 1979. In 1990, Argentina ......\nthe runner up in the World Cup under his captaincy too. This is why\nMaradona a legend not only in Argentina but also in the\nLesson 5: Our Winners in the Global Arena\nKeywords : amazing, individual, grab, dedicate\nabout the historic win of Bangladesh in SAFF U-20 Championship\nfootball tournament.\nBangladesh maul Nepal to win maiden SAFF U-20 Championship crown\nPublished on: August 28, 2024\nBangladesh wrote a new chapter in South Asian football history on Wednesday\nas they defeated hosts Nepal 4-1 in the final at the ANFA Complex in Lalitpur to\nwin their maiden SAFF U-20 Championship title.\nMirajul Islam scored a brace, Rabby Hossen Rahul added the third and Piash\nAhmmed Nova rounded off a ruthless victory with their fourth goal as the Bengal\nTigers finally got hands on the trophy nine after the inception of the\nchampionship tournament."
+}

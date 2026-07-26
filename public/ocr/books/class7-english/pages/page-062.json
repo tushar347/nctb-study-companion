@@ -1,0 +1,689 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 62,
+  "image": "/ocr/books/class7-english/page-images/page-062.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Six : Leisure 57",
+      "cleanText": "Unit Six : Leisure 57",
+      "bbox": {
+        "x": 198,
+        "y": 263,
+        "width": 905,
+        "height": 20
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 2: Leisure",
+      "cleanText": "Lesson 2: Leisure",
+      "bbox": {
+        "x": 195,
+        "y": 324,
+        "width": 229,
+        "height": 22
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Keywords: stare, streams",
+      "cleanText": "Keywords: stare, streams",
+      "bbox": {
+        "x": 270,
+        "y": 410,
+        "width": 331,
+        "height": 25
+      },
+      "confidence": 89.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "A. Read aloud and recite the poem.",
+      "cleanText": "Read aloud and recite the poem.",
+      "bbox": {
+        "x": 194,
+        "y": 498,
+        "width": 425,
+        "height": 25
+      },
+      "confidence": 95.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "What is this life if, full of care,",
+      "cleanText": "What is this life if, full of care,",
+      "bbox": {
+        "x": 235,
+        "y": 621,
+        "width": 336,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "We have no time to stand and stare.",
+      "cleanText": "We have no time to stand and stare.",
+      "bbox": {
+        "x": 234,
+        "y": 669,
+        "width": 389,
+        "height": 20
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "No time to stand beneath the boughs,",
+      "cleanText": "No time to stand beneath the boughs,",
+      "bbox": {
+        "x": 234,
+        "y": 718,
+        "width": 405,
+        "height": 25
+      },
+      "confidence": 96.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "And stare as long as sheep or cows.",
+      "cleanText": "And stare as long as sheep or cows.",
+      "bbox": {
+        "x": 235,
+        "y": 766,
+        "width": 387,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "No time to see, when woods we pass,",
+      "cleanText": "No time to see, when woods we pass,",
+      "bbox": {
+        "x": 233,
+        "y": 815,
+        "width": 411,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Where squirrels hide their nuts in grass.",
+      "cleanText": "Where squirrels hide their nuts in grass.",
+      "bbox": {
+        "x": 235,
+        "y": 863,
+        "width": 433,
+        "height": 25
+      },
+      "confidence": 95.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "No time to see, in broad day light,",
+      "cleanText": "No time to see, in broad day light,",
+      "bbox": {
+        "x": 233,
+        "y": 911,
+        "width": 374,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Streams full of stars, like skies at night.",
+      "cleanText": "Streams full of stars, like skies at night.",
+      "bbox": {
+        "x": 235,
+        "y": 960,
+        "width": 431,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "A poor life this is if, full of care,",
+      "cleanText": "A poor life this is if, full of care,",
+      "bbox": {
+        "x": 234,
+        "y": 1057,
+        "width": 355,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "We have no time to stand and stare.",
+      "cleanText": "We have no time to stand and stare.",
+      "bbox": {
+        "x": 235,
+        "y": 1105,
+        "width": 388,
+        "height": 19
+      },
+      "confidence": 95.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "[William Henry Davies]",
+      "cleanText": "[William Henry Davies]",
+      "bbox": {
+        "x": 234,
+        "y": 1154,
+        "width": 266,
+        "height": 24
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "B. Make a list of the beautiful things the poet talks about in the poem.",
+      "cleanText": "Make a list of the beautiful things the poet talks about in the poem.",
+      "bbox": {
+        "x": 195,
+        "y": 1199,
+        "width": 863,
+        "height": 33
+      },
+      "confidence": 94.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "C. Read the poem, discuss in groups/pairs and write answers to",
+      "cleanText": "Read the poem, discuss in groups/pairs and write answers to",
+      "bbox": {
+        "x": 195,
+        "y": 1264,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 91.82,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "these questions:",
+      "cleanText": "these questions:",
+      "bbox": {
+        "x": 275,
+        "y": 1305,
+        "width": 186,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "1. Why does the poet think that we have no time to stand and stare?",
+      "cleanText": "Why does the poet think that we have no time to stand and stare?",
+      "bbox": {
+        "x": 277,
+        "y": 1356,
+        "width": 744,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "2. Do you think people often do not have time to enjoy the beauty of nature?",
+      "cleanText": "Do you think people often do not have time to enjoy the beauty of nature?",
+      "bbox": {
+        "x": 274,
+        "y": 1405,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 95.94,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Give reasons.",
+      "cleanText": "Give reasons.",
+      "bbox": {
+        "x": 310,
+        "y": 1447,
+        "width": 152,
+        "height": 20
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-062-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "D-. Suppose you are walking along a path through a wood. There are",
+      "cleanText": "D-. Suppose you are walking along a path through a wood. There are",
+      "bbox": {
+        "x": 195,
+        "y": 1507,
+        "width": 906,
+        "height": 25
+      },
+      "confidence": 89.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "beautiful trees and flowers on either side of the path. What would you",
+      "cleanText": "beautiful trees and flowers on either side of the path. What would you",
+      "bbox": {
+        "x": 276,
+        "y": 1542,
+        "width": 826,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "like to de?",
+      "cleanText": "like to de?",
+      "bbox": {
+        "x": 276,
+        "y": 1577,
+        "width": 120,
+        "height": 19
+      },
+      "confidence": 90.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-062-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Class 7 English Forma-08",
+      "cleanText": "Class 7 English Forma-08",
+      "bbox": {
+        "x": 194,
+        "y": 1620,
+        "width": 278,
+        "height": 24
+      },
+      "confidence": 94.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-062-line-025",
+      "lineNumber": 25
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-062-line-001",
+      "lineNumber": 1,
+      "text": "Unit Six : Leisure 57",
+      "bbox": {
+        "x": 198,
+        "y": 263,
+        "width": 905,
+        "height": 20
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 2: Leisure",
+      "bbox": {
+        "x": 195,
+        "y": 324,
+        "width": 229,
+        "height": 22
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-003",
+      "lineNumber": 3,
+      "text": "Keywords: stare, streams",
+      "bbox": {
+        "x": 270,
+        "y": 410,
+        "width": 331,
+        "height": 25
+      },
+      "confidence": 89.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-004",
+      "lineNumber": 4,
+      "text": "Read aloud and recite the poem.",
+      "bbox": {
+        "x": 194,
+        "y": 498,
+        "width": 425,
+        "height": 25
+      },
+      "confidence": 95.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-005",
+      "lineNumber": 5,
+      "text": "What is this life if, full of care,",
+      "bbox": {
+        "x": 235,
+        "y": 621,
+        "width": 336,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-006",
+      "lineNumber": 6,
+      "text": "We have no time to stand and stare.",
+      "bbox": {
+        "x": 234,
+        "y": 669,
+        "width": 389,
+        "height": 20
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-007",
+      "lineNumber": 7,
+      "text": "No time to stand beneath the boughs,",
+      "bbox": {
+        "x": 234,
+        "y": 718,
+        "width": 405,
+        "height": 25
+      },
+      "confidence": 96.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-008",
+      "lineNumber": 8,
+      "text": "And stare as long as sheep or cows.",
+      "bbox": {
+        "x": 235,
+        "y": 766,
+        "width": 387,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-009",
+      "lineNumber": 9,
+      "text": "No time to see, when woods we pass,",
+      "bbox": {
+        "x": 233,
+        "y": 815,
+        "width": 411,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-010",
+      "lineNumber": 10,
+      "text": "Where squirrels hide their nuts in grass.",
+      "bbox": {
+        "x": 235,
+        "y": 863,
+        "width": 433,
+        "height": 25
+      },
+      "confidence": 95.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-011",
+      "lineNumber": 11,
+      "text": "No time to see, in broad day light,",
+      "bbox": {
+        "x": 233,
+        "y": 911,
+        "width": 374,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-012",
+      "lineNumber": 12,
+      "text": "Streams full of stars, like skies at night.",
+      "bbox": {
+        "x": 235,
+        "y": 960,
+        "width": 431,
+        "height": 25
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-013",
+      "lineNumber": 13,
+      "text": "A poor life this is if, full of care,",
+      "bbox": {
+        "x": 234,
+        "y": 1057,
+        "width": 355,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-014",
+      "lineNumber": 14,
+      "text": "We have no time to stand and stare.",
+      "bbox": {
+        "x": 235,
+        "y": 1105,
+        "width": 388,
+        "height": 19
+      },
+      "confidence": 95.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-015",
+      "lineNumber": 15,
+      "text": "[William Henry Davies]",
+      "bbox": {
+        "x": 234,
+        "y": 1154,
+        "width": 266,
+        "height": 24
+      },
+      "confidence": 93.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-016",
+      "lineNumber": 16,
+      "text": "Make a list of the beautiful things the poet talks about in the poem.",
+      "bbox": {
+        "x": 195,
+        "y": 1199,
+        "width": 863,
+        "height": 33
+      },
+      "confidence": 94.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-017",
+      "lineNumber": 17,
+      "text": "Read the poem, discuss in groups/pairs and write answers to",
+      "bbox": {
+        "x": 195,
+        "y": 1264,
+        "width": 905,
+        "height": 24
+      },
+      "confidence": 91.82,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-018",
+      "lineNumber": 18,
+      "text": "these questions:",
+      "bbox": {
+        "x": 275,
+        "y": 1305,
+        "width": 186,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-019",
+      "lineNumber": 19,
+      "text": "Why does the poet think that we have no time to stand and stare?",
+      "bbox": {
+        "x": 277,
+        "y": 1356,
+        "width": 744,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-020",
+      "lineNumber": 20,
+      "text": "Do you think people often do not have time to enjoy the beauty of nature?",
+      "bbox": {
+        "x": 274,
+        "y": 1405,
+        "width": 831,
+        "height": 25
+      },
+      "confidence": 95.94,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-022",
+      "lineNumber": 22,
+      "text": "D-. Suppose you are walking along a path through a wood. There are",
+      "bbox": {
+        "x": 195,
+        "y": 1507,
+        "width": 906,
+        "height": 25
+      },
+      "confidence": 89.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-023",
+      "lineNumber": 23,
+      "text": "beautiful trees and flowers on either side of the path. What would you",
+      "bbox": {
+        "x": 276,
+        "y": 1542,
+        "width": 826,
+        "height": 25
+      },
+      "confidence": 95.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-062-line-025",
+      "lineNumber": 25,
+      "text": "Class 7 English Forma-08",
+      "bbox": {
+        "x": 194,
+        "y": 1620,
+        "width": 278,
+        "height": 24
+      },
+      "confidence": 94.25,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Six : Leisure 57\nLesson 2: Leisure\nKeywords: stare, streams\nA. Read aloud and recite the poem.\nWhat is this life if, full of care,\nWe have no time to stand and stare.\nNo time to stand beneath the boughs,\nAnd stare as long as sheep or cows.\nNo time to see, when woods we pass,\nWhere squirrels hide their nuts in grass.\nNo time to see, in broad day light,\nStreams full of stars, like skies at night.\nA poor life this is if, full of care,\nWe have no time to stand and stare.\n[William Henry Davies]\nB. Make a list of the beautiful things the poet talks about in the poem.\nC. Read the poem, discuss in groups/pairs and write answers to\nthese questions:\n1. Why does the poet think that we have no time to stand and stare?\n2. Do you think people often do not have time to enjoy the beauty of nature?\nGive reasons.\nD-. Suppose you are walking along a path through a wood. There are\nbeautiful trees and flowers on either side of the path. What would you\nlike to de?\nClass 7 English Forma-08",
+  "cleanText": "Unit Six : Leisure 57\nLesson 2: Leisure\nKeywords: stare, streams\nRead aloud and recite the poem.\nWhat is this life if, full of care,\nWe have no time to stand and stare.\nNo time to stand beneath the boughs,\nAnd stare as long as sheep or cows.\nNo time to see, when woods we pass,\nWhere squirrels hide their nuts in grass.\nNo time to see, in broad day light,\nStreams full of stars, like skies at night.\nA poor life this is if, full of care,\nWe have no time to stand and stare.\n[William Henry Davies]\nMake a list of the beautiful things the poet talks about in the poem.\nRead the poem, discuss in groups/pairs and write answers to\nthese questions:\nWhy does the poet think that we have no time to stand and stare?\nDo you think people often do not have time to enjoy the beauty of nature?\nGive reasons.\nD-. Suppose you are walking along a path through a wood. There are\nbeautiful trees and flowers on either side of the path. What would you\nlike to de?\nClass 7 English Forma-08",
+  "aiReadyText": "Unit Six : Leisure 57\nLesson 2: Leisure\nKeywords: stare, streams\nRead aloud and recite the poem.\nWhat is this life if, full of care,\nWe have no time to stand and stare.\nNo time to stand beneath the boughs,\nAnd stare as long as sheep or cows.\nNo time to see, when woods we pass,\nWhere squirrels hide their nuts in grass.\nNo time to see, in broad day light,\nStreams full of stars, like skies at night.\nA poor life this is if, full of care,\nWe have no time to stand and stare.\n[William Henry Davies]\nMake a list of the beautiful things the poet talks about in the poem.\nRead the poem, discuss in groups/pairs and write answers to\nthese questions:\nWhy does the poet think that we have no time to stand and stare?\nDo you think people often do not have time to enjoy the beauty of nature?\nD-. Suppose you are walking along a path through a wood. There are\nbeautiful trees and flowers on either side of the path. What would you\nClass 7 English Forma-08"
+}

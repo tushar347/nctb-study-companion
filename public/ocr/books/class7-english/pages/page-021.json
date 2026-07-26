@@ -1,0 +1,254 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 21,
+  "image": "/ocr/books/class7-english/page-images/page-021.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Three",
+      "cleanText": "Unit Three",
+      "bbox": {
+        "x": 571,
+        "y": 253,
+        "width": 143,
+        "height": 21
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-021-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "What are Friends for?",
+      "cleanText": "What are Friends for?",
+      "bbox": {
+        "x": 459,
+        "y": 302,
+        "width": 372,
+        "height": 29
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Learning Outcomes",
+      "cleanText": "Learning Outcomes",
+      "bbox": {
+        "x": 183,
+        "y": 1165,
+        "width": 230,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "bbox": {
+        "x": 182,
+        "y": 1233,
+        "width": 545,
+        "height": 23
+      },
+      "confidence": 96.18,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "ask and answer questions",
+      "cleanText": "ask and answer questions",
+      "bbox": {
+        "x": 262,
+        "y": 1279,
+        "width": 276,
+        "height": 25
+      },
+      "confidence": 90.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "« talk about familiar events",
+      "cleanText": "« talk about familiar events",
+      "bbox": {
+        "x": 216,
+        "y": 1322,
+        "width": 324,
+        "height": 19
+      },
+      "confidence": 83.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "© read and understand texts",
+      "cleanText": "© read and understand texts",
+      "bbox": {
+        "x": 216,
+        "y": 1364,
+        "width": 324,
+        "height": 20
+      },
+      "confidence": 81.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "* write answers to questions",
+      "cleanText": "* write answers to questions",
+      "bbox": {
+        "x": 216,
+        "y": 1407,
+        "width": 335,
+        "height": 25
+      },
+      "confidence": 85.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "« short compositions",
+      "cleanText": "« short compositions",
+      "bbox": {
+        "x": 216,
+        "y": 1449,
+        "width": 316,
+        "height": 25
+      },
+      "confidence": 78.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-021-line-009",
+      "lineNumber": 9
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-021-line-002",
+      "lineNumber": 2,
+      "text": "What are Friends for?",
+      "bbox": {
+        "x": 459,
+        "y": 302,
+        "width": 372,
+        "height": 29
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-003",
+      "lineNumber": 3,
+      "text": "Learning Outcomes",
+      "bbox": {
+        "x": 183,
+        "y": 1165,
+        "width": 230,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-004",
+      "lineNumber": 4,
+      "text": "After we have studied this unit, we will be able to",
+      "bbox": {
+        "x": 182,
+        "y": 1233,
+        "width": 545,
+        "height": 23
+      },
+      "confidence": 96.18,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-005",
+      "lineNumber": 5,
+      "text": "ask and answer questions",
+      "bbox": {
+        "x": 262,
+        "y": 1279,
+        "width": 276,
+        "height": 25
+      },
+      "confidence": 90.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-006",
+      "lineNumber": 6,
+      "text": "« talk about familiar events",
+      "bbox": {
+        "x": 216,
+        "y": 1322,
+        "width": 324,
+        "height": 19
+      },
+      "confidence": 83.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-007",
+      "lineNumber": 7,
+      "text": "© read and understand texts",
+      "bbox": {
+        "x": 216,
+        "y": 1364,
+        "width": 324,
+        "height": 20
+      },
+      "confidence": 81.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-008",
+      "lineNumber": 8,
+      "text": "* write answers to questions",
+      "bbox": {
+        "x": 216,
+        "y": 1407,
+        "width": 335,
+        "height": 25
+      },
+      "confidence": 85.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-021-line-009",
+      "lineNumber": 9,
+      "text": "« short compositions",
+      "bbox": {
+        "x": 216,
+        "y": 1449,
+        "width": 316,
+        "height": 25
+      },
+      "confidence": 78.0,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Three\nWhat are Friends for?\nLearning Outcomes\nAfter we have studied this unit, we will be able to\nask and answer questions\n« talk about familiar events\n© read and understand texts\n* write answers to questions\n« short compositions",
+  "cleanText": "Unit Three\nWhat are Friends for?\nLearning Outcomes\nAfter we have studied this unit, we will be able to\nask and answer questions\n« talk about familiar events\n© read and understand texts\n* write answers to questions\n« short compositions",
+  "aiReadyText": "What are Friends for?\nLearning Outcomes\nAfter we have studied this unit, we will be able to\nask and answer questions\n« talk about familiar events\n© read and understand texts\n* write answers to questions\n« short compositions"
+}

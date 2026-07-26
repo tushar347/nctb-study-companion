@@ -1,0 +1,870 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 90,
+  "image": "/ocr/books/class7-english/page-images/page-090.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Seven : Games and Sports 85",
+      "cleanText": "Unit Seven : Games and Sports 85",
+      "bbox": {
+        "x": 189,
+        "y": 264,
+        "width": 916,
+        "height": 24
+      },
+      "confidence": 94.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "D. Read and listen to the teacher/ audio. As you listen, fill in the gaps",
+      "cleanText": "Read and listen to the teacher/ audio. As you listen, fill in the gaps",
+      "bbox": {
+        "x": 198,
+        "y": 330,
+        "width": 889,
+        "height": 27
+      },
+      "confidence": 93.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "in the text with the right words.",
+      "cleanText": "in the text with the right words.",
+      "bbox": {
+        "x": 276,
+        "y": 368,
+        "width": 376,
+        "height": 26
+      },
+      "confidence": 96.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "Listening text: 9",
+      "cleanText": "Listening text: 9",
+      "bbox": {
+        "x": 292,
+        "y": 427,
+        "width": 242,
+        "height": 32
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Financial Express",
+      "cleanText": "Financial Express",
+      "bbox": {
+        "x": 309,
+        "y": 544,
+        "width": 328,
+        "height": 53
+      },
+      "confidence": 81.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "VOL 2020 NO 311DA 1589 | Dhaka, Wednesday February 3 2010.",
+      "cleanText": "VOL 2020 NO 311DA 1589 | Dhaka, Wednesday February 3 2010.",
+      "bbox": {
+        "x": 212,
+        "y": 599,
+        "width": 727,
+        "height": 25
+      },
+      "confidence": 91.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Bangladeshi shooters clinched both the ANd",
+      "cleanText": "Bangladeshi shooters clinched both the ANd",
+      "bbox": {
+        "x": 212,
+        "y": 632,
+        "width": 681,
+        "height": 25
+      },
+      "confidence": 92.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "gold medals in the women's 10-metre Air Rifle of the 11th South",
+      "cleanText": "gold medals in the women's 10-metre Air Rifle of the 11th South",
+      "bbox": {
+        "x": 205,
+        "y": 665,
+        "width": 894,
+        "height": 25
+      },
+      "confidence": 94.58,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Asian Games on the opening day of the",
+      "cleanText": "Asian Games on the opening day of the",
+      "bbox": {
+        "x": 205,
+        "y": 698,
+        "width": 434,
+        "height": 25
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Complex in Gulshan Tuesday, reports UNB.",
+      "cleanText": "Complex in Gulshan Tuesday, reports UNB.",
+      "bbox": {
+        "x": 205,
+        "y": 731,
+        "width": 478,
+        "height": 25
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Bangladesh shooting team comprising",
+      "cleanText": "Bangladesh shooting team comprising",
+      "bbox": {
+        "x": 205,
+        "y": 769,
+        "width": 489,
+        "height": 24
+      },
+      "confidence": 78.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Sharmin Akhter Ratna, Syeda Sadia Sultana",
+      "cleanText": "Sharmin Akhter Ratna, Syeda Sadia Sultana",
+      "bbox": {
+        "x": 206,
+        "y": 801,
+        "width": 488,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "and Tripti Dutta grabbed the team event's",
+      "cleanText": "and Tripti Dutta grabbed the team event's",
+      "bbox": {
+        "x": 205,
+        "y": 835,
+        "width": 489,
+        "height": 24
+      },
+      "confidence": 94.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "gold medal total 1191 out of",
+      "cleanText": "gold medal total 1191 out of",
+      "bbox": {
+        "x": 205,
+        "y": 867,
+        "width": 492,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "1200. Sharmin Akhter Ratna",
+      "cleanText": "Sharmin Akhter Ratna",
+      "bbox": {
+        "x": 209,
+        "y": 896,
+        "width": 485,
+        "height": 34
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "398, Syeda Sadia Sultana",
+      "cleanText": "398, Syeda Sadia Sultana",
+      "bbox": {
+        "x": 367,
+        "y": 933,
+        "width": 327,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "scored 397 and Tripti Dutta scored 396 on",
+      "cleanText": "scored 397 and Tripti Dutta scored 396 on",
+      "bbox": {
+        "x": 205,
+        "y": 967,
+        "width": 488,
+        "height": 24
+      },
+      "confidence": 94.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "the way to win the team gold.",
+      "cleanText": "the way to win the team gold.",
+      "bbox": {
+        "x": 205,
+        "y": 999,
+        "width": 317,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "Sharmin Akhter Ratna also the individual gold medal of the same",
+      "cleanText": "Sharmin Akhter Ratna also the individual gold medal of the same",
+      "bbox": {
+        "x": 206,
+        "y": 1041,
+        "width": 892,
+        "height": 24
+      },
+      "confidence": 95.55,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "event scoring 499.4 out of 500 - the best ever score by any Bangladeshi shooter.",
+      "cleanText": "event scoring 499.4 out of 500 - the best ever score by any Bangladeshi shooter.",
+      "bbox": {
+        "x": 205,
+        "y": 1069,
+        "width": 892,
+        "height": 25
+      },
+      "confidence": 95.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "Her teammate Syeda Sadia Sultana earned a silver medal scoring 498.3 in a keenly",
+      "cleanText": "Her teammate Syeda Sadia Sultana earned a silver medal scoring 498.3 in a keenly",
+      "bbox": {
+        "x": 205,
+        "y": 1100,
+        "width": 891,
+        "height": 25
+      },
+      "confidence": 88.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "contested",
+      "cleanText": "contested",
+      "bbox": {
+        "x": 205,
+        "y": 1126,
+        "width": 100,
+        "height": 20
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-090-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "After winning the first shooting gold, Sharmin Akhter Ratna said, \"I am very",
+      "cleanText": "After winning the first shooting gold, Sharmin Akhter Ratna said, \"I am very",
+      "bbox": {
+        "x": 205,
+        "y": 1161,
+        "width": 891,
+        "height": 25
+      },
+      "confidence": 94.92,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "much happy to .......... the gold. We proved our potential in shooting, Now",
+      "cleanText": "much happy to .......... the gold. We proved our potential in shooting, Now",
+      "bbox": {
+        "x": 205,
+        "y": 1190,
+        "width": 884,
+        "height": 25
+      },
+      "confidence": 93.69,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "we are looking for the Olympic gold.”",
+      "cleanText": "we are looking for the Olympic gold.”",
+      "bbox": {
+        "x": 204,
+        "y": 1221,
+        "width": 411,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "Sadia said, \"I am so happy. It gives me immense .. .. to bag the gold in the",
+      "cleanText": "Sadia said, \"I am so happy. It gives me immense .. .. to bag the gold in the",
+      "bbox": {
+        "x": 206,
+        "y": 1260,
+        "width": 892,
+        "height": 25
+      },
+      "confidence": 93.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "event, Now it is time to look .............. ” With this success, both expect gold in",
+      "cleanText": "event, Now it is time to look .............. ” With this success, both expect gold in",
+      "bbox": {
+        "x": 207,
+        "y": 1291,
+        "width": 888,
+        "height": 25
+      },
+      "confidence": 90.12,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "the upcoming Olympic Games. The two shooters ................ their medals to",
+      "cleanText": "the upcoming Olympic Games. The two shooters ................ their medals to",
+      "bbox": {
+        "x": 205,
+        "y": 1322,
+        "width": 890,
+        "height": 25
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "their parents as well as the people of Bangladesh.",
+      "cleanText": "their parents as well as the people of Bangladesh.",
+      "bbox": {
+        "x": 205,
+        "y": 1351,
+        "width": 537,
+        "height": 25
+      },
+      "confidence": 95.89,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "E. Suppose you are going to take an interview of the golden girls of",
+      "cleanText": "E. Suppose you are going to take an interview of the golden girls of",
+      "bbox": {
+        "x": 192,
+        "y": 1398,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 95.36,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "Bangladesh, What questions will you ask them?",
+      "cleanText": "Bangladesh, What questions will you ask them?",
+      "bbox": {
+        "x": 276,
+        "y": 1431,
+        "width": 557,
+        "height": 26
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-090-line-031",
+      "lineNumber": 31
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-090-line-001",
+      "lineNumber": 1,
+      "text": "Unit Seven : Games and Sports 85",
+      "bbox": {
+        "x": 189,
+        "y": 264,
+        "width": 916,
+        "height": 24
+      },
+      "confidence": 94.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-002",
+      "lineNumber": 2,
+      "text": "Read and listen to the teacher/ audio. As you listen, fill in the gaps",
+      "bbox": {
+        "x": 198,
+        "y": 330,
+        "width": 889,
+        "height": 27
+      },
+      "confidence": 93.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-003",
+      "lineNumber": 3,
+      "text": "in the text with the right words.",
+      "bbox": {
+        "x": 276,
+        "y": 368,
+        "width": 376,
+        "height": 26
+      },
+      "confidence": 96.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-004",
+      "lineNumber": 4,
+      "text": "Listening text: 9",
+      "bbox": {
+        "x": 292,
+        "y": 427,
+        "width": 242,
+        "height": 32
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-005",
+      "lineNumber": 5,
+      "text": "Financial Express",
+      "bbox": {
+        "x": 309,
+        "y": 544,
+        "width": 328,
+        "height": 53
+      },
+      "confidence": 81.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-006",
+      "lineNumber": 6,
+      "text": "VOL 2020 NO 311DA 1589 | Dhaka, Wednesday February 3 2010.",
+      "bbox": {
+        "x": 212,
+        "y": 599,
+        "width": 727,
+        "height": 25
+      },
+      "confidence": 91.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-007",
+      "lineNumber": 7,
+      "text": "Bangladeshi shooters clinched both the ANd",
+      "bbox": {
+        "x": 212,
+        "y": 632,
+        "width": 681,
+        "height": 25
+      },
+      "confidence": 92.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-008",
+      "lineNumber": 8,
+      "text": "gold medals in the women's 10-metre Air Rifle of the 11th South",
+      "bbox": {
+        "x": 205,
+        "y": 665,
+        "width": 894,
+        "height": 25
+      },
+      "confidence": 94.58,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-009",
+      "lineNumber": 9,
+      "text": "Asian Games on the opening day of the",
+      "bbox": {
+        "x": 205,
+        "y": 698,
+        "width": 434,
+        "height": 25
+      },
+      "confidence": 95.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-010",
+      "lineNumber": 10,
+      "text": "Complex in Gulshan Tuesday, reports UNB.",
+      "bbox": {
+        "x": 205,
+        "y": 731,
+        "width": 478,
+        "height": 25
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-011",
+      "lineNumber": 11,
+      "text": "Bangladesh shooting team comprising",
+      "bbox": {
+        "x": 205,
+        "y": 769,
+        "width": 489,
+        "height": 24
+      },
+      "confidence": 78.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-012",
+      "lineNumber": 12,
+      "text": "Sharmin Akhter Ratna, Syeda Sadia Sultana",
+      "bbox": {
+        "x": 206,
+        "y": 801,
+        "width": 488,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-013",
+      "lineNumber": 13,
+      "text": "and Tripti Dutta grabbed the team event's",
+      "bbox": {
+        "x": 205,
+        "y": 835,
+        "width": 489,
+        "height": 24
+      },
+      "confidence": 94.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-014",
+      "lineNumber": 14,
+      "text": "gold medal total 1191 out of",
+      "bbox": {
+        "x": 205,
+        "y": 867,
+        "width": 492,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-015",
+      "lineNumber": 15,
+      "text": "Sharmin Akhter Ratna",
+      "bbox": {
+        "x": 209,
+        "y": 896,
+        "width": 485,
+        "height": 34
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-016",
+      "lineNumber": 16,
+      "text": "398, Syeda Sadia Sultana",
+      "bbox": {
+        "x": 367,
+        "y": 933,
+        "width": 327,
+        "height": 25
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-017",
+      "lineNumber": 17,
+      "text": "scored 397 and Tripti Dutta scored 396 on",
+      "bbox": {
+        "x": 205,
+        "y": 967,
+        "width": 488,
+        "height": 24
+      },
+      "confidence": 94.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-018",
+      "lineNumber": 18,
+      "text": "the way to win the team gold.",
+      "bbox": {
+        "x": 205,
+        "y": 999,
+        "width": 317,
+        "height": 25
+      },
+      "confidence": 95.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-019",
+      "lineNumber": 19,
+      "text": "Sharmin Akhter Ratna also the individual gold medal of the same",
+      "bbox": {
+        "x": 206,
+        "y": 1041,
+        "width": 892,
+        "height": 24
+      },
+      "confidence": 95.55,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-020",
+      "lineNumber": 20,
+      "text": "event scoring 499.4 out of 500 - the best ever score by any Bangladeshi shooter.",
+      "bbox": {
+        "x": 205,
+        "y": 1069,
+        "width": 892,
+        "height": 25
+      },
+      "confidence": 95.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-021",
+      "lineNumber": 21,
+      "text": "Her teammate Syeda Sadia Sultana earned a silver medal scoring 498.3 in a keenly",
+      "bbox": {
+        "x": 205,
+        "y": 1100,
+        "width": 891,
+        "height": 25
+      },
+      "confidence": 88.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-023",
+      "lineNumber": 23,
+      "text": "After winning the first shooting gold, Sharmin Akhter Ratna said, \"I am very",
+      "bbox": {
+        "x": 205,
+        "y": 1161,
+        "width": 891,
+        "height": 25
+      },
+      "confidence": 94.92,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-024",
+      "lineNumber": 24,
+      "text": "much happy to .......... the gold. We proved our potential in shooting, Now",
+      "bbox": {
+        "x": 205,
+        "y": 1190,
+        "width": 884,
+        "height": 25
+      },
+      "confidence": 93.69,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-025",
+      "lineNumber": 25,
+      "text": "we are looking for the Olympic gold.”",
+      "bbox": {
+        "x": 204,
+        "y": 1221,
+        "width": 411,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-026",
+      "lineNumber": 26,
+      "text": "Sadia said, \"I am so happy. It gives me immense .. .. to bag the gold in the",
+      "bbox": {
+        "x": 206,
+        "y": 1260,
+        "width": 892,
+        "height": 25
+      },
+      "confidence": 93.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-027",
+      "lineNumber": 27,
+      "text": "event, Now it is time to look .............. ” With this success, both expect gold in",
+      "bbox": {
+        "x": 207,
+        "y": 1291,
+        "width": 888,
+        "height": 25
+      },
+      "confidence": 90.12,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-028",
+      "lineNumber": 28,
+      "text": "the upcoming Olympic Games. The two shooters ................ their medals to",
+      "bbox": {
+        "x": 205,
+        "y": 1322,
+        "width": 890,
+        "height": 25
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-029",
+      "lineNumber": 29,
+      "text": "their parents as well as the people of Bangladesh.",
+      "bbox": {
+        "x": 205,
+        "y": 1351,
+        "width": 537,
+        "height": 25
+      },
+      "confidence": 95.89,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-030",
+      "lineNumber": 30,
+      "text": "E. Suppose you are going to take an interview of the golden girls of",
+      "bbox": {
+        "x": 192,
+        "y": 1398,
+        "width": 910,
+        "height": 24
+      },
+      "confidence": 95.36,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-090-line-031",
+      "lineNumber": 31,
+      "text": "Bangladesh, What questions will you ask them?",
+      "bbox": {
+        "x": 276,
+        "y": 1431,
+        "width": 557,
+        "height": 26
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Seven : Games and Sports 85\nD. Read and listen to the teacher/ audio. As you listen, fill in the gaps\nin the text with the right words.\nListening text: 9\nFinancial Express\nVOL 2020 NO 311DA 1589 | Dhaka, Wednesday February 3 2010.\nBangladeshi shooters clinched both the ANd\ngold medals in the women's 10-metre Air Rifle of the 11th South\nAsian Games on the opening day of the\nComplex in Gulshan Tuesday, reports UNB.\nBangladesh shooting team comprising\nSharmin Akhter Ratna, Syeda Sadia Sultana\nand Tripti Dutta grabbed the team event's\ngold medal total 1191 out of\n1200. Sharmin Akhter Ratna\n398, Syeda Sadia Sultana\nscored 397 and Tripti Dutta scored 396 on\nthe way to win the team gold.\nSharmin Akhter Ratna also the individual gold medal of the same\nevent scoring 499.4 out of 500 - the best ever score by any Bangladeshi shooter.\nHer teammate Syeda Sadia Sultana earned a silver medal scoring 498.3 in a keenly\ncontested\nAfter winning the first shooting gold, Sharmin Akhter Ratna said, \"I am very\nmuch happy to .......... the gold. We proved our potential in shooting, Now\nwe are looking for the Olympic gold.”\nSadia said, \"I am so happy. It gives me immense .. .. to bag the gold in the\nevent, Now it is time to look .............. ” With this success, both expect gold in\nthe upcoming Olympic Games. The two shooters ................ their medals to\ntheir parents as well as the people of Bangladesh.\nE. Suppose you are going to take an interview of the golden girls of\nBangladesh, What questions will you ask them?",
+  "cleanText": "Unit Seven : Games and Sports 85\nRead and listen to the teacher/ audio. As you listen, fill in the gaps\nin the text with the right words.\nListening text: 9\nFinancial Express\nVOL 2020 NO 311DA 1589 | Dhaka, Wednesday February 3 2010.\nBangladeshi shooters clinched both the ANd\ngold medals in the women's 10-metre Air Rifle of the 11th South\nAsian Games on the opening day of the\nComplex in Gulshan Tuesday, reports UNB.\nBangladesh shooting team comprising\nSharmin Akhter Ratna, Syeda Sadia Sultana\nand Tripti Dutta grabbed the team event's\ngold medal total 1191 out of\nSharmin Akhter Ratna\n398, Syeda Sadia Sultana\nscored 397 and Tripti Dutta scored 396 on\nthe way to win the team gold.\nSharmin Akhter Ratna also the individual gold medal of the same\nevent scoring 499.4 out of 500 - the best ever score by any Bangladeshi shooter.\nHer teammate Syeda Sadia Sultana earned a silver medal scoring 498.3 in a keenly\ncontested\nAfter winning the first shooting gold, Sharmin Akhter Ratna said, \"I am very\nmuch happy to .......... the gold. We proved our potential in shooting, Now\nwe are looking for the Olympic gold.”\nSadia said, \"I am so happy. It gives me immense .. .. to bag the gold in the\nevent, Now it is time to look .............. ” With this success, both expect gold in\nthe upcoming Olympic Games. The two shooters ................ their medals to\ntheir parents as well as the people of Bangladesh.\nE. Suppose you are going to take an interview of the golden girls of\nBangladesh, What questions will you ask them?",
+  "aiReadyText": "Unit Seven : Games and Sports 85\nRead and listen to the teacher/ audio. As you listen, fill in the gaps\nin the text with the right words.\nListening text: 9\nFinancial Express\nVOL 2020 NO 311DA 1589 | Dhaka, Wednesday February 3 2010.\nBangladeshi shooters clinched both the ANd\ngold medals in the women's 10-metre Air Rifle of the 11th South\nAsian Games on the opening day of the\nComplex in Gulshan Tuesday, reports UNB.\nBangladesh shooting team comprising\nSharmin Akhter Ratna, Syeda Sadia Sultana\nand Tripti Dutta grabbed the team event's\ngold medal total 1191 out of\nSharmin Akhter Ratna\n398, Syeda Sadia Sultana\nscored 397 and Tripti Dutta scored 396 on\nthe way to win the team gold.\nSharmin Akhter Ratna also the individual gold medal of the same\nevent scoring 499.4 out of 500 - the best ever score by any Bangladeshi shooter.\nHer teammate Syeda Sadia Sultana earned a silver medal scoring 498.3 in a keenly\nAfter winning the first shooting gold, Sharmin Akhter Ratna said, \"I am very\nmuch happy to .......... the gold. We proved our potential in shooting, Now\nwe are looking for the Olympic gold.”\nSadia said, \"I am so happy. It gives me immense .. .. to bag the gold in the\nevent, Now it is time to look .............. ” With this success, both expect gold in\nthe upcoming Olympic Games. The two shooters ................ their medals to\ntheir parents as well as the people of Bangladesh.\nE. Suppose you are going to take an interview of the golden girls of\nBangladesh, What questions will you ask them?"
+}

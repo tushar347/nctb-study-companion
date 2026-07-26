@@ -1,0 +1,734 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 108,
+  "image": "/ocr/books/class7-english/page-images/page-108.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Nine : Climate Change 103",
+      "cleanText": "Unit Nine : Climate Change 103",
+      "bbox": {
+        "x": 184,
+        "y": 264,
+        "width": 907,
+        "height": 24
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "B. Tick the best answer.",
+      "cleanText": "Tick the best answer.",
+      "bbox": {
+        "x": 190,
+        "y": 339,
+        "width": 326,
+        "height": 19
+      },
+      "confidence": 94.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "1. One outcome of climate change in Bangladesh is",
+      "cleanText": "One outcome of climate change in Bangladesh is",
+      "bbox": {
+        "x": 351,
+        "y": 374,
+        "width": 599,
+        "height": 24
+      },
+      "confidence": 95.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "a. summers are becoming shorter.",
+      "cleanText": "summers are becoming shorter.",
+      "bbox": {
+        "x": 428,
+        "y": 417,
+        "width": 385,
+        "height": 25
+      },
+      "confidence": 91.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "b. summers are becoming milder.",
+      "cleanText": "summers are becoming milder.",
+      "bbox": {
+        "x": 427,
+        "y": 460,
+        "width": 385,
+        "height": 26
+      },
+      "confidence": 94.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "the monsoon is becoming irregular.",
+      "cleanText": "the monsoon is becoming irregular.",
+      "bbox": {
+        "x": 474,
+        "y": 505,
+        "width": 387,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "d. the cities are getting larger.",
+      "cleanText": "the cities are getting larger.",
+      "bbox": {
+        "x": 428,
+        "y": 549,
+        "width": 343,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "2. The cyclone that hit Bangladesh in 2009 is called",
+      "cleanText": "The cyclone that hit Bangladesh in 2009 is called",
+      "bbox": {
+        "x": 349,
+        "y": 590,
+        "width": 605,
+        "height": 24
+      },
+      "confidence": 94.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "a. Hurricane.",
+      "cleanText": "Hurricane.",
+      "bbox": {
+        "x": 428,
+        "y": 633,
+        "width": 167,
+        "height": 20
+      },
+      "confidence": 88.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-108-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "b. Sidr.",
+      "cleanText": "Sidr.",
+      "bbox": {
+        "x": 427,
+        "y": 677,
+        "width": 103,
+        "height": 20
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-108-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "c. Aila.",
+      "cleanText": "Aila.",
+      "bbox": {
+        "x": 428,
+        "y": 721,
+        "width": 104,
+        "height": 19
+      },
+      "confidence": 76.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-108-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "d. Nargis.",
+      "cleanText": "Nargis.",
+      "bbox": {
+        "x": 428,
+        "y": 765,
+        "width": 131,
+        "height": 25
+      },
+      "confidence": 67.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-108-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "3. It is likely that 10.9 percent of Bangladesh will go under",
+      "cleanText": "It is likely that 10.9 percent of Bangladesh will go under",
+      "bbox": {
+        "x": 335,
+        "y": 856,
+        "width": 751,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "water if the sea level rises to",
+      "cleanText": "water if the sea level rises to",
+      "bbox": {
+        "x": 376,
+        "y": 900,
+        "width": 333,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "a 40 centimetres.",
+      "cleanText": "a 40 centimetres.",
+      "bbox": {
+        "x": 415,
+        "y": 944,
+        "width": 211,
+        "height": 19
+      },
+      "confidence": 77.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "b. 45 centimeters.",
+      "cleanText": "45 centimeters.",
+      "bbox": {
+        "x": 415,
+        "y": 988,
+        "width": 213,
+        "height": 19
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "c. 35 centimetres.",
+      "cleanText": "35 centimetres.",
+      "bbox": {
+        "x": 415,
+        "y": 1032,
+        "width": 211,
+        "height": 19
+      },
+      "confidence": 83.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "d. 50 centimetres.",
+      "cleanText": "50 centimetres.",
+      "bbox": {
+        "x": 415,
+        "y": 1076,
+        "width": 213,
+        "height": 19
+      },
+      "confidence": 73.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "4. The phrase ‘coastal region’ means an area",
+      "cleanText": "The phrase ‘coastal region’ means an area",
+      "bbox": {
+        "x": 335,
+        "y": 1120,
+        "width": 534,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "a. with deep forests.",
+      "cleanText": "with deep forests.",
+      "bbox": {
+        "x": 415,
+        "y": 1164,
+        "width": 238,
+        "height": 24
+      },
+      "confidence": 94.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "b. dry lands.",
+      "cleanText": "dry lands.",
+      "bbox": {
+        "x": 415,
+        "y": 1208,
+        "width": 190,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-108-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "with a huge population.",
+      "cleanText": "with a huge population.",
+      "bbox": {
+        "x": 468,
+        "y": 1252,
+        "width": 257,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "close to the sea.",
+      "cleanText": "close to the sea.",
+      "bbox": {
+        "x": 463,
+        "y": 1296,
+        "width": 171,
+        "height": 19
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "5. The phrase ‘prolonged cold spells’ means",
+      "cleanText": "The phrase ‘prolonged cold spells’ means",
+      "bbox": {
+        "x": 341,
+        "y": 1367,
+        "width": 522,
+        "height": 24
+      },
+      "confidence": 92.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "a. long duration of cold waves.",
+      "cleanText": "long duration of cold waves.",
+      "bbox": {
+        "x": 421,
+        "y": 1419,
+        "width": 358,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "b. long gap between two winters.",
+      "cleanText": "long gap between two winters.",
+      "bbox": {
+        "x": 420,
+        "y": 1463,
+        "width": 384,
+        "height": 25
+      },
+      "confidence": 93.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "c. longer nights during winter,",
+      "cleanText": "longer nights during winter,",
+      "bbox": {
+        "x": 420,
+        "y": 1507,
+        "width": 350,
+        "height": 25
+      },
+      "confidence": 90.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "d. delay in doing something duc to cold.",
+      "cleanText": "delay in doing something duc to cold.",
+      "bbox": {
+        "x": 420,
+        "y": 1551,
+        "width": 461,
+        "height": 25
+      },
+      "confidence": 94.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-108-line-028",
+      "lineNumber": 28
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-108-line-001",
+      "lineNumber": 1,
+      "text": "Unit Nine : Climate Change 103",
+      "bbox": {
+        "x": 184,
+        "y": 264,
+        "width": 907,
+        "height": 24
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-002",
+      "lineNumber": 2,
+      "text": "Tick the best answer.",
+      "bbox": {
+        "x": 190,
+        "y": 339,
+        "width": 326,
+        "height": 19
+      },
+      "confidence": 94.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-003",
+      "lineNumber": 3,
+      "text": "One outcome of climate change in Bangladesh is",
+      "bbox": {
+        "x": 351,
+        "y": 374,
+        "width": 599,
+        "height": 24
+      },
+      "confidence": 95.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-004",
+      "lineNumber": 4,
+      "text": "summers are becoming shorter.",
+      "bbox": {
+        "x": 428,
+        "y": 417,
+        "width": 385,
+        "height": 25
+      },
+      "confidence": 91.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-005",
+      "lineNumber": 5,
+      "text": "summers are becoming milder.",
+      "bbox": {
+        "x": 427,
+        "y": 460,
+        "width": 385,
+        "height": 26
+      },
+      "confidence": 94.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-006",
+      "lineNumber": 6,
+      "text": "the monsoon is becoming irregular.",
+      "bbox": {
+        "x": 474,
+        "y": 505,
+        "width": 387,
+        "height": 25
+      },
+      "confidence": 95.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-007",
+      "lineNumber": 7,
+      "text": "the cities are getting larger.",
+      "bbox": {
+        "x": 428,
+        "y": 549,
+        "width": 343,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-008",
+      "lineNumber": 8,
+      "text": "The cyclone that hit Bangladesh in 2009 is called",
+      "bbox": {
+        "x": 349,
+        "y": 590,
+        "width": 605,
+        "height": 24
+      },
+      "confidence": 94.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-013",
+      "lineNumber": 13,
+      "text": "It is likely that 10.9 percent of Bangladesh will go under",
+      "bbox": {
+        "x": 335,
+        "y": 856,
+        "width": 751,
+        "height": 25
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-014",
+      "lineNumber": 14,
+      "text": "water if the sea level rises to",
+      "bbox": {
+        "x": 376,
+        "y": 900,
+        "width": 333,
+        "height": 20
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-015",
+      "lineNumber": 15,
+      "text": "a 40 centimetres.",
+      "bbox": {
+        "x": 415,
+        "y": 944,
+        "width": 211,
+        "height": 19
+      },
+      "confidence": 77.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-016",
+      "lineNumber": 16,
+      "text": "45 centimeters.",
+      "bbox": {
+        "x": 415,
+        "y": 988,
+        "width": 213,
+        "height": 19
+      },
+      "confidence": 93.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-017",
+      "lineNumber": 17,
+      "text": "35 centimetres.",
+      "bbox": {
+        "x": 415,
+        "y": 1032,
+        "width": 211,
+        "height": 19
+      },
+      "confidence": 83.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-018",
+      "lineNumber": 18,
+      "text": "50 centimetres.",
+      "bbox": {
+        "x": 415,
+        "y": 1076,
+        "width": 213,
+        "height": 19
+      },
+      "confidence": 73.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-019",
+      "lineNumber": 19,
+      "text": "The phrase ‘coastal region’ means an area",
+      "bbox": {
+        "x": 335,
+        "y": 1120,
+        "width": 534,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-020",
+      "lineNumber": 20,
+      "text": "with deep forests.",
+      "bbox": {
+        "x": 415,
+        "y": 1164,
+        "width": 238,
+        "height": 24
+      },
+      "confidence": 94.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-022",
+      "lineNumber": 22,
+      "text": "with a huge population.",
+      "bbox": {
+        "x": 468,
+        "y": 1252,
+        "width": 257,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-023",
+      "lineNumber": 23,
+      "text": "close to the sea.",
+      "bbox": {
+        "x": 463,
+        "y": 1296,
+        "width": 171,
+        "height": 19
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-024",
+      "lineNumber": 24,
+      "text": "The phrase ‘prolonged cold spells’ means",
+      "bbox": {
+        "x": 341,
+        "y": 1367,
+        "width": 522,
+        "height": 24
+      },
+      "confidence": 92.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-025",
+      "lineNumber": 25,
+      "text": "long duration of cold waves.",
+      "bbox": {
+        "x": 421,
+        "y": 1419,
+        "width": 358,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-026",
+      "lineNumber": 26,
+      "text": "long gap between two winters.",
+      "bbox": {
+        "x": 420,
+        "y": 1463,
+        "width": 384,
+        "height": 25
+      },
+      "confidence": 93.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-027",
+      "lineNumber": 27,
+      "text": "longer nights during winter,",
+      "bbox": {
+        "x": 420,
+        "y": 1507,
+        "width": 350,
+        "height": 25
+      },
+      "confidence": 90.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-108-line-028",
+      "lineNumber": 28,
+      "text": "delay in doing something duc to cold.",
+      "bbox": {
+        "x": 420,
+        "y": 1551,
+        "width": 461,
+        "height": 25
+      },
+      "confidence": 94.88,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Nine : Climate Change 103\nB. Tick the best answer.\n1. One outcome of climate change in Bangladesh is\na. summers are becoming shorter.\nb. summers are becoming milder.\nthe monsoon is becoming irregular.\nd. the cities are getting larger.\n2. The cyclone that hit Bangladesh in 2009 is called\na. Hurricane.\nb. Sidr.\nc. Aila.\nd. Nargis.\n3. It is likely that 10.9 percent of Bangladesh will go under\nwater if the sea level rises to\na 40 centimetres.\nb. 45 centimeters.\nc. 35 centimetres.\nd. 50 centimetres.\n4. The phrase ‘coastal region’ means an area\na. with deep forests.\nb. dry lands.\nwith a huge population.\nclose to the sea.\n5. The phrase ‘prolonged cold spells’ means\na. long duration of cold waves.\nb. long gap between two winters.\nc. longer nights during winter,\nd. delay in doing something duc to cold.",
+  "cleanText": "Unit Nine : Climate Change 103\nTick the best answer.\nOne outcome of climate change in Bangladesh is\nsummers are becoming shorter.\nsummers are becoming milder.\nthe monsoon is becoming irregular.\nthe cities are getting larger.\nThe cyclone that hit Bangladesh in 2009 is called\nHurricane.\nSidr.\nAila.\nNargis.\nIt is likely that 10.9 percent of Bangladesh will go under\nwater if the sea level rises to\na 40 centimetres.\n45 centimeters.\n35 centimetres.\n50 centimetres.\nThe phrase ‘coastal region’ means an area\nwith deep forests.\ndry lands.\nwith a huge population.\nclose to the sea.\nThe phrase ‘prolonged cold spells’ means\nlong duration of cold waves.\nlong gap between two winters.\nlonger nights during winter,\ndelay in doing something duc to cold.",
+  "aiReadyText": "Unit Nine : Climate Change 103\nTick the best answer.\nOne outcome of climate change in Bangladesh is\nsummers are becoming shorter.\nsummers are becoming milder.\nthe monsoon is becoming irregular.\nthe cities are getting larger.\nThe cyclone that hit Bangladesh in 2009 is called\nIt is likely that 10.9 percent of Bangladesh will go under\nwater if the sea level rises to\na 40 centimetres.\n45 centimeters.\n35 centimetres.\n50 centimetres.\nThe phrase ‘coastal region’ means an area\nwith deep forests.\nwith a huge population.\nclose to the sea.\nThe phrase ‘prolonged cold spells’ means\nlong duration of cold waves.\nlong gap between two winters.\nlonger nights during winter,\ndelay in doing something duc to cold."
+}

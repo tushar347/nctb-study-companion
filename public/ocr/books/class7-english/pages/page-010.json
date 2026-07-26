@@ -1,0 +1,988 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 10,
+  "image": "/ocr/books/class7-english/page-images/page-010.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "one : Attention, Please",
+      "cleanText": "one : Attention, Please",
+      "bbox": {
+        "x": 256,
+        "y": 250,
+        "width": 236,
+        "height": 21
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Match the sentences in column A with suitable answers in column B.",
+      "cleanText": "Match the sentences in column A with suitable answers in column B.",
+      "bbox": {
+        "x": 279,
+        "y": 314,
+        "width": 833,
+        "height": 19
+      },
+      "confidence": 94.42,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Some answers in B may match more than one question.",
+      "cleanText": "Some answers in B may match more than one question.",
+      "bbox": {
+        "x": 277,
+        "y": 347,
+        "width": 648,
+        "height": 24
+      },
+      "confidence": 94.7,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": ". Would you read the shopping",
+      "cleanText": ". Would you read the shopping",
+      "bbox": {
+        "x": 267,
+        "y": 425,
+        "width": 362,
+        "height": 25
+      },
+      "confidence": 90.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "Certainly, I'll do it.",
+      "cleanText": "Certainly, I'll do it.",
+      "bbox": {
+        "x": 719,
+        "y": 425,
+        "width": 210,
+        "height": 25
+      },
+      "confidence": 82.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "Why? Rina is watching.",
+      "cleanText": "Why? Rina is watching.",
+      "bbox": {
+        "x": 720,
+        "y": 463,
+        "width": 260,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": ". Will you go to the market,",
+      "cleanText": ". Will you go to the market,",
+      "bbox": {
+        "x": 270,
+        "y": 496,
+        "width": 309,
+        "height": 25
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "No, thanks. I have enough with",
+      "cleanText": "No, thanks. I have enough with",
+      "bbox": {
+        "x": 718,
+        "y": 500,
+        "width": 343,
+        "height": 25
+      },
+      "confidence": 86.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": ". Will you buy me one litre of",
+      "cleanText": ". Will you buy me one litre of",
+      "bbox": {
+        "x": 269,
+        "y": 566,
+        "width": 337,
+        "height": 25
+      },
+      "confidence": 90.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Yes, PI.",
+      "cleanText": "Yes, PI.",
+      "bbox": {
+        "x": 720,
+        "y": 571,
+        "width": 93,
+        "height": 23
+      },
+      "confidence": 71.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-010-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "cooking oil, please?",
+      "cleanText": "cooking oil, please?",
+      "bbox": {
+        "x": 291,
+        "y": 599,
+        "width": 217,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Sorry, I can’t. I’ve left my glasses",
+      "cleanText": "Sorry, I can’t. I’ve left my glasses",
+      "bbox": {
+        "x": 720,
+        "y": 608,
+        "width": 371,
+        "height": 25
+      },
+      "confidence": 93.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "+ Would you buy me some rice?",
+      "cleanText": "+ Would you buy me some rice?",
+      "bbox": {
+        "x": 269,
+        "y": 637,
+        "width": 357,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "in the study.",
+      "cleanText": "in the study.",
+      "bbox": {
+        "x": 720,
+        "y": 641,
+        "width": 131,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-010-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "+ Would you need some money?",
+      "cleanText": "+ Would you need some money?",
+      "bbox": {
+        "x": 266,
+        "y": 674,
+        "width": 364,
+        "height": 25
+      },
+      "confidence": 78.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "Yes, I'd love to.",
+      "cleanText": "Yes, I'd love to.",
+      "bbox": {
+        "x": 719,
+        "y": 679,
+        "width": 175,
+        "height": 22
+      },
+      "confidence": 90.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": ". Would you like some tea?",
+      "cleanText": ". Would you like some tea?",
+      "bbox": {
+        "x": 269,
+        "y": 711,
+        "width": 307,
+        "height": 25
+      },
+      "confidence": 94.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "What for?",
+      "cleanText": "What for?",
+      "bbox": {
+        "x": 720,
+        "y": 716,
+        "width": 108,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-010-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": ". Will you switch on the TV,",
+      "cleanText": ". Will you switch on the TV,",
+      "bbox": {
+        "x": 265,
+        "y": 749,
+        "width": 324,
+        "height": 25
+      },
+      "confidence": 93.86,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "OK. How much?",
+      "cleanText": "OK. How much?",
+      "bbox": {
+        "x": 719,
+        "y": 753,
+        "width": 185,
+        "height": 20
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-010-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": ". Would you tell her to watch TV",
+      "cleanText": ". Would you tell her to watch TV",
+      "bbox": {
+        "x": 269,
+        "y": 819,
+        "width": 372,
+        "height": 25
+      },
+      "confidence": 90.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "at 10 pm?",
+      "cleanText": "at 10 pm?",
+      "bbox": {
+        "x": 291,
+        "y": 853,
+        "width": 107,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-010-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Now make dialogues using the table and act it out.",
+      "cleanText": "Now make dialogues using the table and act it out.",
+      "bbox": {
+        "x": 212,
+        "y": 910,
+        "width": 596,
+        "height": 24
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "D. Suppose your friends/relatives are coming to visit you. Write a",
+      "cleanText": "Suppose your friends/relatives are coming to visit you. Write a",
+      "bbox": {
+        "x": 199,
+        "y": 962,
+        "width": 909,
+        "height": 25
+      },
+      "confidence": 94.82,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-010-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "dialogue between you and your brother/ sister on making your room.",
+      "cleanText": "dialogue between you and your brother/ sister on making your room.",
+      "bbox": {
+        "x": 256,
+        "y": 995,
+        "width": 855,
+        "height": 25
+      },
+      "confidence": 94.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "You can use words from the box.",
+      "cleanText": "You can use words from the box.",
+      "bbox": {
+        "x": 257,
+        "y": 1028,
+        "width": 401,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "take out, bring , push, move, hang (some pictures)",
+      "cleanText": "take out, bring , push, move, hang (some pictures)",
+      "bbox": {
+        "x": 285,
+        "y": 1082,
+        "width": 707,
+        "height": 25
+      },
+      "confidence": 89.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "Lesson 4: In the Street",
+      "cleanText": "Lesson 4: In the Street",
+      "bbox": {
+        "x": 199,
+        "y": 1149,
+        "width": 292,
+        "height": 21
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "Key word : crossroads",
+      "cleanText": "Key word : crossroads",
+      "bbox": {
+        "x": 311,
+        "y": 1215,
+        "width": 251,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "A. Listen and read.",
+      "cleanText": "Listen and read.",
+      "bbox": {
+        "x": 200,
+        "y": 1266,
+        "width": 248,
+        "height": 19
+      },
+      "confidence": 82.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-010-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "Asif Excuse me! Could you tell me the",
+      "cleanText": "Asif Excuse me! Could you tell me the",
+      "bbox": {
+        "x": 195,
+        "y": 1318,
+        "width": 547,
+        "height": 33
+      },
+      "confidence": 92.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "way to the railway station, please?",
+      "cleanText": "way to the railway station, please?",
+      "bbox": {
+        "x": 358,
+        "y": 1355,
+        "width": 383,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "Passer-by Oh, it’s not very far. Go along this",
+      "cleanText": "Passer-by Oh, it’s not very far. Go along this",
+      "bbox": {
+        "x": 200,
+        "y": 1397,
+        "width": 569,
+        "height": 33
+      },
+      "confidence": 81.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "street and you'll come to a big",
+      "cleanText": "street and you'll come to a big",
+      "bbox": {
+        "x": 358,
+        "y": 1434,
+        "width": 412,
+        "height": 25
+      },
+      "confidence": 77.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "crossroads. Turn left. Go along about",
+      "cleanText": "crossroads. Turn left. Go along about",
+      "bbox": {
+        "x": 358,
+        "y": 1467,
+        "width": 412,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-035",
+      "lineNumber": 35
+    },
+    {
+      "text": "two hundred metres, and you will see",
+      "cleanText": "two hundred metres, and you will see",
+      "bbox": {
+        "x": 357,
+        "y": 1500,
+        "width": 413,
+        "height": 25
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-036",
+      "lineNumber": 36
+    },
+    {
+      "text": "a tall building. Go past and the",
+      "cleanText": "a tall building. Go past and the",
+      "bbox": {
+        "x": 358,
+        "y": 1533,
+        "width": 412,
+        "height": 25
+      },
+      "confidence": 85.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-037",
+      "lineNumber": 37
+    },
+    {
+      "text": "station is on the right.",
+      "cleanText": "station is on the right.",
+      "bbox": {
+        "x": 358,
+        "y": 1566,
+        "width": 235,
+        "height": 25
+      },
+      "confidence": 95.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-010-line-038",
+      "lineNumber": 38
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-010-line-001",
+      "lineNumber": 1,
+      "text": "one : Attention, Please",
+      "bbox": {
+        "x": 256,
+        "y": 250,
+        "width": 236,
+        "height": 21
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-002",
+      "lineNumber": 2,
+      "text": "Match the sentences in column A with suitable answers in column B.",
+      "bbox": {
+        "x": 279,
+        "y": 314,
+        "width": 833,
+        "height": 19
+      },
+      "confidence": 94.42,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-003",
+      "lineNumber": 3,
+      "text": "Some answers in B may match more than one question.",
+      "bbox": {
+        "x": 277,
+        "y": 347,
+        "width": 648,
+        "height": 24
+      },
+      "confidence": 94.7,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-004",
+      "lineNumber": 4,
+      "text": ". Would you read the shopping",
+      "bbox": {
+        "x": 267,
+        "y": 425,
+        "width": 362,
+        "height": 25
+      },
+      "confidence": 90.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-005",
+      "lineNumber": 5,
+      "text": "Certainly, I'll do it.",
+      "bbox": {
+        "x": 719,
+        "y": 425,
+        "width": 210,
+        "height": 25
+      },
+      "confidence": 82.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-006",
+      "lineNumber": 6,
+      "text": "Why? Rina is watching.",
+      "bbox": {
+        "x": 720,
+        "y": 463,
+        "width": 260,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-007",
+      "lineNumber": 7,
+      "text": ". Will you go to the market,",
+      "bbox": {
+        "x": 270,
+        "y": 496,
+        "width": 309,
+        "height": 25
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-008",
+      "lineNumber": 8,
+      "text": "No, thanks. I have enough with",
+      "bbox": {
+        "x": 718,
+        "y": 500,
+        "width": 343,
+        "height": 25
+      },
+      "confidence": 86.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-009",
+      "lineNumber": 9,
+      "text": ". Will you buy me one litre of",
+      "bbox": {
+        "x": 269,
+        "y": 566,
+        "width": 337,
+        "height": 25
+      },
+      "confidence": 90.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-011",
+      "lineNumber": 11,
+      "text": "cooking oil, please?",
+      "bbox": {
+        "x": 291,
+        "y": 599,
+        "width": 217,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-012",
+      "lineNumber": 12,
+      "text": "Sorry, I can’t. I’ve left my glasses",
+      "bbox": {
+        "x": 720,
+        "y": 608,
+        "width": 371,
+        "height": 25
+      },
+      "confidence": 93.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-013",
+      "lineNumber": 13,
+      "text": "+ Would you buy me some rice?",
+      "bbox": {
+        "x": 269,
+        "y": 637,
+        "width": 357,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-015",
+      "lineNumber": 15,
+      "text": "+ Would you need some money?",
+      "bbox": {
+        "x": 266,
+        "y": 674,
+        "width": 364,
+        "height": 25
+      },
+      "confidence": 78.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-016",
+      "lineNumber": 16,
+      "text": "Yes, I'd love to.",
+      "bbox": {
+        "x": 719,
+        "y": 679,
+        "width": 175,
+        "height": 22
+      },
+      "confidence": 90.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-017",
+      "lineNumber": 17,
+      "text": ". Would you like some tea?",
+      "bbox": {
+        "x": 269,
+        "y": 711,
+        "width": 307,
+        "height": 25
+      },
+      "confidence": 94.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-019",
+      "lineNumber": 19,
+      "text": ". Will you switch on the TV,",
+      "bbox": {
+        "x": 265,
+        "y": 749,
+        "width": 324,
+        "height": 25
+      },
+      "confidence": 93.86,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-021",
+      "lineNumber": 21,
+      "text": ". Would you tell her to watch TV",
+      "bbox": {
+        "x": 269,
+        "y": 819,
+        "width": 372,
+        "height": 25
+      },
+      "confidence": 90.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-023",
+      "lineNumber": 23,
+      "text": "Now make dialogues using the table and act it out.",
+      "bbox": {
+        "x": 212,
+        "y": 910,
+        "width": 596,
+        "height": 24
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-025",
+      "lineNumber": 25,
+      "text": "dialogue between you and your brother/ sister on making your room.",
+      "bbox": {
+        "x": 256,
+        "y": 995,
+        "width": 855,
+        "height": 25
+      },
+      "confidence": 94.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-026",
+      "lineNumber": 26,
+      "text": "You can use words from the box.",
+      "bbox": {
+        "x": 257,
+        "y": 1028,
+        "width": 401,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-027",
+      "lineNumber": 27,
+      "text": "take out, bring , push, move, hang (some pictures)",
+      "bbox": {
+        "x": 285,
+        "y": 1082,
+        "width": 707,
+        "height": 25
+      },
+      "confidence": 89.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-028",
+      "lineNumber": 28,
+      "text": "Lesson 4: In the Street",
+      "bbox": {
+        "x": 199,
+        "y": 1149,
+        "width": 292,
+        "height": 21
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-029",
+      "lineNumber": 29,
+      "text": "Key word : crossroads",
+      "bbox": {
+        "x": 311,
+        "y": 1215,
+        "width": 251,
+        "height": 25
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-031",
+      "lineNumber": 31,
+      "text": "Asif Excuse me! Could you tell me the",
+      "bbox": {
+        "x": 195,
+        "y": 1318,
+        "width": 547,
+        "height": 33
+      },
+      "confidence": 92.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-032",
+      "lineNumber": 32,
+      "text": "way to the railway station, please?",
+      "bbox": {
+        "x": 358,
+        "y": 1355,
+        "width": 383,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-033",
+      "lineNumber": 33,
+      "text": "Passer-by Oh, it’s not very far. Go along this",
+      "bbox": {
+        "x": 200,
+        "y": 1397,
+        "width": 569,
+        "height": 33
+      },
+      "confidence": 81.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-034",
+      "lineNumber": 34,
+      "text": "street and you'll come to a big",
+      "bbox": {
+        "x": 358,
+        "y": 1434,
+        "width": 412,
+        "height": 25
+      },
+      "confidence": 77.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-035",
+      "lineNumber": 35,
+      "text": "crossroads. Turn left. Go along about",
+      "bbox": {
+        "x": 358,
+        "y": 1467,
+        "width": 412,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-036",
+      "lineNumber": 36,
+      "text": "two hundred metres, and you will see",
+      "bbox": {
+        "x": 357,
+        "y": 1500,
+        "width": 413,
+        "height": 25
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-037",
+      "lineNumber": 37,
+      "text": "a tall building. Go past and the",
+      "bbox": {
+        "x": 358,
+        "y": 1533,
+        "width": 412,
+        "height": 25
+      },
+      "confidence": 85.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-010-line-038",
+      "lineNumber": 38,
+      "text": "station is on the right.",
+      "bbox": {
+        "x": 358,
+        "y": 1566,
+        "width": 235,
+        "height": 25
+      },
+      "confidence": 95.6,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "one : Attention, Please\nMatch the sentences in column A with suitable answers in column B.\nSome answers in B may match more than one question.\n. Would you read the shopping\nCertainly, I'll do it.\nWhy? Rina is watching.\n. Will you go to the market,\nNo, thanks. I have enough with\n. Will you buy me one litre of\nYes, PI.\ncooking oil, please?\nSorry, I can’t. I’ve left my glasses\n+ Would you buy me some rice?\nin the study.\n+ Would you need some money?\nYes, I'd love to.\n. Would you like some tea?\nWhat for?\n. Will you switch on the TV,\nOK. How much?\n. Would you tell her to watch TV\nat 10 pm?\nNow make dialogues using the table and act it out.\nD. Suppose your friends/relatives are coming to visit you. Write a\ndialogue between you and your brother/ sister on making your room.\nYou can use words from the box.\ntake out, bring , push, move, hang (some pictures)\nLesson 4: In the Street\nKey word : crossroads\nA. Listen and read.\nAsif Excuse me! Could you tell me the\nway to the railway station, please?\nPasser-by Oh, it’s not very far. Go along this\nstreet and you'll come to a big\ncrossroads. Turn left. Go along about\ntwo hundred metres, and you will see\na tall building. Go past and the\nstation is on the right.",
+  "cleanText": "one : Attention, Please\nMatch the sentences in column A with suitable answers in column B.\nSome answers in B may match more than one question.\n. Would you read the shopping\nCertainly, I'll do it.\nWhy? Rina is watching.\n. Will you go to the market,\nNo, thanks. I have enough with\n. Will you buy me one litre of\nYes, PI.\ncooking oil, please?\nSorry, I can’t. I’ve left my glasses\n+ Would you buy me some rice?\nin the study.\n+ Would you need some money?\nYes, I'd love to.\n. Would you like some tea?\nWhat for?\n. Will you switch on the TV,\nOK. How much?\n. Would you tell her to watch TV\nat 10 pm?\nNow make dialogues using the table and act it out.\nSuppose your friends/relatives are coming to visit you. Write a\ndialogue between you and your brother/ sister on making your room.\nYou can use words from the box.\ntake out, bring , push, move, hang (some pictures)\nLesson 4: In the Street\nKey word : crossroads\nListen and read.\nAsif Excuse me! Could you tell me the\nway to the railway station, please?\nPasser-by Oh, it’s not very far. Go along this\nstreet and you'll come to a big\ncrossroads. Turn left. Go along about\ntwo hundred metres, and you will see\na tall building. Go past and the\nstation is on the right.",
+  "aiReadyText": "one : Attention, Please\nMatch the sentences in column A with suitable answers in column B.\nSome answers in B may match more than one question.\n. Would you read the shopping\nCertainly, I'll do it.\nWhy? Rina is watching.\n. Will you go to the market,\nNo, thanks. I have enough with\n. Will you buy me one litre of\ncooking oil, please?\nSorry, I can’t. I’ve left my glasses\n+ Would you buy me some rice?\n+ Would you need some money?\nYes, I'd love to.\n. Would you like some tea?\n. Will you switch on the TV,\n. Would you tell her to watch TV\nNow make dialogues using the table and act it out.\ndialogue between you and your brother/ sister on making your room.\nYou can use words from the box.\ntake out, bring , push, move, hang (some pictures)\nLesson 4: In the Street\nKey word : crossroads\nAsif Excuse me! Could you tell me the\nway to the railway station, please?\nPasser-by Oh, it’s not very far. Go along this\nstreet and you'll come to a big\ncrossroads. Turn left. Go along about\ntwo hundred metres, and you will see\na tall building. Go past and the\nstation is on the right."
+}

@@ -1,0 +1,736 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 114,
+  "image": "/ocr/books/class7-english/page-images/page-114.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Sample Question 109",
+      "cleanText": "Sample Question 109",
+      "bbox": {
+        "x": 205,
+        "y": 222,
+        "width": 907,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "i. Cotton plantation",
+      "cleanText": "Cotton plantation",
+      "bbox": {
+        "x": 327,
+        "y": 304,
+        "width": 215,
+        "height": 24
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "ii. Farm",
+      "cleanText": "Farm",
+      "bbox": {
+        "x": 327,
+        "y": 343,
+        "width": 91,
+        "height": 19
+      },
+      "confidence": 76.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-114-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "ii. Job",
+      "cleanText": "Job",
+      "bbox": {
+        "x": 326,
+        "y": 383,
+        "width": 73,
+        "height": 19
+      },
+      "confidence": 79.5,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-114-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "iv. Factory",
+      "cleanText": "Factory",
+      "bbox": {
+        "x": 327,
+        "y": 423,
+        "width": 116,
+        "height": 23
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-114-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "(c) Which school did Helen Keller attend in 1890?",
+      "cleanText": "(c) Which school did Helen Keller attend in 1890?",
+      "bbox": {
+        "x": 238,
+        "y": 477,
+        "width": 569,
+        "height": 22
+      },
+      "confidence": 94.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "i. Perkins School for the Blind",
+      "cleanText": "Perkins School for the Blind",
+      "bbox": {
+        "x": 326,
+        "y": 516,
+        "width": 337,
+        "height": 18
+      },
+      "confidence": 92.17,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "ii. Wright Humason School",
+      "cleanText": "Wright Humason School",
+      "bbox": {
+        "x": 327,
+        "y": 555,
+        "width": 297,
+        "height": 24
+      },
+      "confidence": 88.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "ili. Horace Mann School for the Deaf",
+      "cleanText": "Horace Mann School for the Deaf",
+      "bbox": {
+        "x": 326,
+        "y": 595,
+        "width": 398,
+        "height": 19
+      },
+      "confidence": 90.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "iv. Radcliffe College",
+      "cleanText": "Radcliffe College",
+      "bbox": {
+        "x": 327,
+        "y": 635,
+        "width": 221,
+        "height": 23
+      },
+      "confidence": 80.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "(d) How did Helen Keller’s parents find out about the Perkins School for the",
+      "cleanText": "(d) How did Helen Keller’s parents find out about the Perkins School for the",
+      "bbox": {
+        "x": 239,
+        "y": 689,
+        "width": 861,
+        "height": 23
+      },
+      "confidence": 95.07,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "i. Froma relative",
+      "cleanText": "Froma relative",
+      "bbox": {
+        "x": 327,
+        "y": 760,
+        "width": 197,
+        "height": 18
+      },
+      "confidence": 85.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "li, through a doctor",
+      "cleanText": "li, through a doctor",
+      "bbox": {
+        "x": 327,
+        "y": 799,
+        "width": 211,
+        "height": 24
+      },
+      "confidence": 88.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "iii. through a newspaper",
+      "cleanText": "through a newspaper",
+      "bbox": {
+        "x": 326,
+        "y": 839,
+        "width": 257,
+        "height": 24
+      },
+      "confidence": 90.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "iv. from her father hearing about it",
+      "cleanText": "from her father hearing about it",
+      "bbox": {
+        "x": 327,
+        "y": 878,
+        "width": 368,
+        "height": 24
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "(e) How did Helen Keller learn to read after becoming blind?",
+      "cleanText": "(e) How did Helen Keller learn to read after becoming blind?",
+      "bbox": {
+        "x": 239,
+        "y": 932,
+        "width": 689,
+        "height": 24
+      },
+      "confidence": 95.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "i. By listening to books",
+      "cleanText": "By listening to books",
+      "bbox": {
+        "x": 327,
+        "y": 972,
+        "width": 260,
+        "height": 24
+      },
+      "confidence": 88.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "ii. Through a special technique called Braille",
+      "cleanText": "Through a special technique called Braille",
+      "bbox": {
+        "x": 327,
+        "y": 1011,
+        "width": 482,
+        "height": 24
+      },
+      "confidence": 92.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "iii. By hearing from friends",
+      "cleanText": "By hearing from friends",
+      "bbox": {
+        "x": 326,
+        "y": 1051,
+        "width": 291,
+        "height": 24
+      },
+      "confidence": 93.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "iv. By memorizing books",
+      "cleanText": "By memorizing books",
+      "bbox": {
+        "x": 327,
+        "y": 1090,
+        "width": 270,
+        "height": 24
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "(f) Who helped Helen Keller communicate after she became deaf, dumb, and",
+      "cleanText": "(f) Who helped Helen Keller communicate after she became deaf, dumb, and",
+      "bbox": {
+        "x": 237,
+        "y": 1143,
+        "width": 865,
+        "height": 25
+      },
+      "confidence": 95.42,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "i. Anne Sullivan",
+      "cleanText": "Anne Sullivan",
+      "bbox": {
+        "x": 327,
+        "y": 1215,
+        "width": 187,
+        "height": 19
+      },
+      "confidence": 88.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-114-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "ill. Her father",
+      "cleanText": "Her father",
+      "bbox": {
+        "x": 327,
+        "y": 1295,
+        "width": 144,
+        "height": 18
+      },
+      "confidence": 91.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-114-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "iv. her mother",
+      "cleanText": "her mother",
+      "bbox": {
+        "x": 327,
+        "y": 1334,
+        "width": 152,
+        "height": 19
+      },
+      "confidence": 88.67,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-114-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "(g) What kind of disabilities did Helen Keller work to help others with?",
+      "cleanText": "(g) What kind of disabilities did Helen Keller work to help others with?",
+      "bbox": {
+        "x": 237,
+        "y": 1388,
+        "width": 810,
+        "height": 24
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "i. Physical disability",
+      "cleanText": "Physical disability",
+      "bbox": {
+        "x": 327,
+        "y": 1427,
+        "width": 230,
+        "height": 24
+      },
+      "confidence": 80.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "ii, mental disability",
+      "cleanText": "ii, mental disability",
+      "bbox": {
+        "x": 327,
+        "y": 1467,
+        "width": 213,
+        "height": 24
+      },
+      "confidence": 88.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "iii. Both Physical and mental disability",
+      "cleanText": "Both Physical and mental disability",
+      "bbox": {
+        "x": 327,
+        "y": 1507,
+        "width": 411,
+        "height": 24
+      },
+      "confidence": 91.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-114-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "iv. psychological",
+      "cleanText": "psychological",
+      "bbox": {
+        "x": 327,
+        "y": 1546,
+        "width": 181,
+        "height": 24
+      },
+      "confidence": 91.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-114-line-029",
+      "lineNumber": 29
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-114-line-001",
+      "lineNumber": 1,
+      "text": "Sample Question 109",
+      "bbox": {
+        "x": 205,
+        "y": 222,
+        "width": 907,
+        "height": 23
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-002",
+      "lineNumber": 2,
+      "text": "Cotton plantation",
+      "bbox": {
+        "x": 327,
+        "y": 304,
+        "width": 215,
+        "height": 24
+      },
+      "confidence": 91.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-006",
+      "lineNumber": 6,
+      "text": "(c) Which school did Helen Keller attend in 1890?",
+      "bbox": {
+        "x": 238,
+        "y": 477,
+        "width": 569,
+        "height": 22
+      },
+      "confidence": 94.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-007",
+      "lineNumber": 7,
+      "text": "Perkins School for the Blind",
+      "bbox": {
+        "x": 326,
+        "y": 516,
+        "width": 337,
+        "height": 18
+      },
+      "confidence": 92.17,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-008",
+      "lineNumber": 8,
+      "text": "Wright Humason School",
+      "bbox": {
+        "x": 327,
+        "y": 555,
+        "width": 297,
+        "height": 24
+      },
+      "confidence": 88.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-009",
+      "lineNumber": 9,
+      "text": "Horace Mann School for the Deaf",
+      "bbox": {
+        "x": 326,
+        "y": 595,
+        "width": 398,
+        "height": 19
+      },
+      "confidence": 90.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-010",
+      "lineNumber": 10,
+      "text": "Radcliffe College",
+      "bbox": {
+        "x": 327,
+        "y": 635,
+        "width": 221,
+        "height": 23
+      },
+      "confidence": 80.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-011",
+      "lineNumber": 11,
+      "text": "(d) How did Helen Keller’s parents find out about the Perkins School for the",
+      "bbox": {
+        "x": 239,
+        "y": 689,
+        "width": 861,
+        "height": 23
+      },
+      "confidence": 95.07,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-012",
+      "lineNumber": 12,
+      "text": "Froma relative",
+      "bbox": {
+        "x": 327,
+        "y": 760,
+        "width": 197,
+        "height": 18
+      },
+      "confidence": 85.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-013",
+      "lineNumber": 13,
+      "text": "li, through a doctor",
+      "bbox": {
+        "x": 327,
+        "y": 799,
+        "width": 211,
+        "height": 24
+      },
+      "confidence": 88.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-014",
+      "lineNumber": 14,
+      "text": "through a newspaper",
+      "bbox": {
+        "x": 326,
+        "y": 839,
+        "width": 257,
+        "height": 24
+      },
+      "confidence": 90.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-015",
+      "lineNumber": 15,
+      "text": "from her father hearing about it",
+      "bbox": {
+        "x": 327,
+        "y": 878,
+        "width": 368,
+        "height": 24
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-016",
+      "lineNumber": 16,
+      "text": "(e) How did Helen Keller learn to read after becoming blind?",
+      "bbox": {
+        "x": 239,
+        "y": 932,
+        "width": 689,
+        "height": 24
+      },
+      "confidence": 95.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-017",
+      "lineNumber": 17,
+      "text": "By listening to books",
+      "bbox": {
+        "x": 327,
+        "y": 972,
+        "width": 260,
+        "height": 24
+      },
+      "confidence": 88.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-018",
+      "lineNumber": 18,
+      "text": "Through a special technique called Braille",
+      "bbox": {
+        "x": 327,
+        "y": 1011,
+        "width": 482,
+        "height": 24
+      },
+      "confidence": 92.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-019",
+      "lineNumber": 19,
+      "text": "By hearing from friends",
+      "bbox": {
+        "x": 326,
+        "y": 1051,
+        "width": 291,
+        "height": 24
+      },
+      "confidence": 93.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-020",
+      "lineNumber": 20,
+      "text": "By memorizing books",
+      "bbox": {
+        "x": 327,
+        "y": 1090,
+        "width": 270,
+        "height": 24
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-021",
+      "lineNumber": 21,
+      "text": "(f) Who helped Helen Keller communicate after she became deaf, dumb, and",
+      "bbox": {
+        "x": 237,
+        "y": 1143,
+        "width": 865,
+        "height": 25
+      },
+      "confidence": 95.42,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-025",
+      "lineNumber": 25,
+      "text": "(g) What kind of disabilities did Helen Keller work to help others with?",
+      "bbox": {
+        "x": 237,
+        "y": 1388,
+        "width": 810,
+        "height": 24
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-026",
+      "lineNumber": 26,
+      "text": "Physical disability",
+      "bbox": {
+        "x": 327,
+        "y": 1427,
+        "width": 230,
+        "height": 24
+      },
+      "confidence": 80.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-027",
+      "lineNumber": 27,
+      "text": "ii, mental disability",
+      "bbox": {
+        "x": 327,
+        "y": 1467,
+        "width": 213,
+        "height": 24
+      },
+      "confidence": 88.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-114-line-028",
+      "lineNumber": 28,
+      "text": "Both Physical and mental disability",
+      "bbox": {
+        "x": 327,
+        "y": 1507,
+        "width": 411,
+        "height": 24
+      },
+      "confidence": 91.83,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Sample Question 109\ni. Cotton plantation\nii. Farm\nii. Job\niv. Factory\n(c) Which school did Helen Keller attend in 1890?\ni. Perkins School for the Blind\nii. Wright Humason School\nili. Horace Mann School for the Deaf\niv. Radcliffe College\n(d) How did Helen Keller’s parents find out about the Perkins School for the\ni. Froma relative\nli, through a doctor\niii. through a newspaper\niv. from her father hearing about it\n(e) How did Helen Keller learn to read after becoming blind?\ni. By listening to books\nii. Through a special technique called Braille\niii. By hearing from friends\niv. By memorizing books\n(f) Who helped Helen Keller communicate after she became deaf, dumb, and\ni. Anne Sullivan\nill. Her father\niv. her mother\n(g) What kind of disabilities did Helen Keller work to help others with?\ni. Physical disability\nii, mental disability\niii. Both Physical and mental disability\niv. psychological",
+  "cleanText": "Sample Question 109\nCotton plantation\nFarm\nJob\nFactory\n(c) Which school did Helen Keller attend in 1890?\nPerkins School for the Blind\nWright Humason School\nHorace Mann School for the Deaf\nRadcliffe College\n(d) How did Helen Keller’s parents find out about the Perkins School for the\nFroma relative\nli, through a doctor\nthrough a newspaper\nfrom her father hearing about it\n(e) How did Helen Keller learn to read after becoming blind?\nBy listening to books\nThrough a special technique called Braille\nBy hearing from friends\nBy memorizing books\n(f) Who helped Helen Keller communicate after she became deaf, dumb, and\nAnne Sullivan\nHer father\nher mother\n(g) What kind of disabilities did Helen Keller work to help others with?\nPhysical disability\nii, mental disability\nBoth Physical and mental disability\npsychological",
+  "aiReadyText": "Sample Question 109\nCotton plantation\n(c) Which school did Helen Keller attend in 1890?\nPerkins School for the Blind\nWright Humason School\nHorace Mann School for the Deaf\nRadcliffe College\n(d) How did Helen Keller’s parents find out about the Perkins School for the\nFroma relative\nli, through a doctor\nthrough a newspaper\nfrom her father hearing about it\n(e) How did Helen Keller learn to read after becoming blind?\nBy listening to books\nThrough a special technique called Braille\nBy hearing from friends\nBy memorizing books\n(f) Who helped Helen Keller communicate after she became deaf, dumb, and\n(g) What kind of disabilities did Helen Keller work to help others with?\nPhysical disability\nii, mental disability\nBoth Physical and mental disability"
+}

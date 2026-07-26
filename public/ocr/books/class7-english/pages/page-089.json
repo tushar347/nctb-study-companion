@@ -1,0 +1,734 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 89,
+  "image": "/ocr/books/class7-english/page-images/page-089.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "B. Find the meanings of the underlined words and phrases from the",
+      "cleanText": "Find the meanings of the underlined words and phrases from the",
+      "bbox": {
+        "x": 195,
+        "y": 326,
+        "width": 914,
+        "height": 25
+      },
+      "confidence": 95.08,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "article using a dictionary or the internet. Match the words/phrases in",
+      "cleanText": "article using a dictionary or the internet. Match the words/phrases in",
+      "bbox": {
+        "x": 241,
+        "y": 360,
+        "width": 867,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "the left column with their meanings in the right column.",
+      "cleanText": "the left column with their meanings in the right column.",
+      "bbox": {
+        "x": 241,
+        "y": 394,
+        "width": 679,
+        "height": 26
+      },
+      "confidence": 96.1,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "1. maul a. to change or improve something",
+      "cleanText": "maul a. to change or improve something",
+      "bbox": {
+        "x": 301,
+        "y": 454,
+        "width": 675,
+        "height": 24
+      },
+      "confidence": 87.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "2. scored a brace b. the beginning",
+      "cleanText": "scored a brace b. the beginning",
+      "bbox": {
+        "x": 298,
+        "y": 505,
+        "width": 480,
+        "height": 24
+      },
+      "confidence": 92.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "3. ruthless c. a goal that levels the score",
+      "cleanText": "ruthless c. a goal that levels the score",
+      "bbox": {
+        "x": 298,
+        "y": 557,
+        "width": 615,
+        "height": 24
+      },
+      "confidence": 87.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "4. inception d. lack or shortage",
+      "cleanText": "inception d. lack or shortage",
+      "bbox": {
+        "x": 297,
+        "y": 608,
+        "width": 505,
+        "height": 24
+      },
+      "confidence": 89.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "5. undone e. a final blow",
+      "cleanText": "undone e. a final blow",
+      "bbox": {
+        "x": 298,
+        "y": 660,
+        "width": 462,
+        "height": 19
+      },
+      "confidence": 79.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "6. bullying f. to hurt badly",
+      "cleanText": "bullying f. to hurt badly",
+      "bbox": {
+        "x": 298,
+        "y": 712,
+        "width": 471,
+        "height": 24
+      },
+      "confidence": 84.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "7. injury time g. efficient and effective",
+      "cleanText": "injury time g. efficient and effective",
+      "bbox": {
+        "x": 298,
+        "y": 763,
+        "width": 567,
+        "height": 24
+      },
+      "confidence": 91.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "8. clinical h. defeated",
+      "cleanText": "clinical h. defeated",
+      "bbox": {
+        "x": 298,
+        "y": 815,
+        "width": 424,
+        "height": 18
+      },
+      "confidence": 83.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "9. injected i. extra time",
+      "cleanText": "injected i. extra time",
+      "bbox": {
+        "x": 298,
+        "y": 866,
+        "width": 442,
+        "height": 24
+      },
+      "confidence": 79.2,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": ". equaliser j. scored two goals",
+      "cleanText": ". equaliser j. scored two goals",
+      "bbox": {
+        "x": 325,
+        "y": 918,
+        "width": 486,
+        "height": 24
+      },
+      "confidence": 83.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": ". deficit k. added or introduced",
+      "cleanText": ". deficit k. added or introduced",
+      "bbox": {
+        "x": 325,
+        "y": 969,
+        "width": 520,
+        "height": 19
+      },
+      "confidence": 90.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "nail in the coffin",
+      "cleanText": "nail in the coffin",
+      "bbox": {
+        "x": 337,
+        "y": 1021,
+        "width": 174,
+        "height": 18
+      },
+      "confidence": 93.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "harming or scaring someone",
+      "cleanText": "harming or scaring someone",
+      "bbox": {
+        "x": 635,
+        "y": 1021,
+        "width": 299,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": ". fair play",
+      "cleanText": ". fair play",
+      "bbox": {
+        "x": 325,
+        "y": 1072,
+        "width": 100,
+        "height": 24
+      },
+      "confidence": 91.33,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-089-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": ". without mercy or pity",
+      "cleanText": ". without mercy or pity",
+      "bbox": {
+        "x": 617,
+        "y": 1072,
+        "width": 246,
+        "height": 24
+      },
+      "confidence": 93.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": ". teform",
+      "cleanText": ". teform",
+      "bbox": {
+        "x": 325,
+        "y": 1124,
+        "width": 82,
+        "height": 19
+      },
+      "confidence": 76.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-089-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "following the rules and being honest",
+      "cleanText": "following the rules and being honest",
+      "bbox": {
+        "x": 635,
+        "y": 1124,
+        "width": 384,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "C. Answer the following questions in pairs.",
+      "cleanText": "Answer the following questions in pairs.",
+      "bbox": {
+        "x": 195,
+        "y": 1197,
+        "width": 532,
+        "height": 26
+      },
+      "confidence": 93.43,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-089-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "ow many goals did Bangladesh score against Nepal in the match?",
+      "cleanText": "ow many goals did Bangladesh score against Nepal in the match?",
+      "bbox": {
+        "x": 310,
+        "y": 1253,
+        "width": 720,
+        "height": 25
+      },
+      "confidence": 94.27,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Who scored the goals’?",
+      "cleanText": "Who scored the goals’?",
+      "bbox": {
+        "x": 291,
+        "y": 1293,
+        "width": 247,
+        "height": 25
+      },
+      "confidence": 91.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "3. Did Nepal score any goals? If yes, who scored it?",
+      "cleanText": "Did Nepal score any goals? If yes, who scored it?",
+      "bbox": {
+        "x": 243,
+        "y": 1333,
+        "width": 591,
+        "height": 25
+      },
+      "confidence": 91.91,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "To whom did the Bangladesh coach dedicate their team’s win?",
+      "cleanText": "To whom did the Bangladesh coach dedicate their team’s win?",
+      "bbox": {
+        "x": 291,
+        "y": 1372,
+        "width": 685,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "D. Write a paragraph on the best football match you have played or",
+      "cleanText": "Write a paragraph on the best football match you have played or",
+      "bbox": {
+        "x": 196,
+        "y": 1428,
+        "width": 914,
+        "height": 26
+      },
+      "confidence": 95.23,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-089-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "watched. Share your work with a partner and ask them to correct any",
+      "cleanText": "watched. Share your work with a partner and ask them to correct any",
+      "bbox": {
+        "x": 241,
+        "y": 1463,
+        "width": 868,
+        "height": 25
+      },
+      "confidence": 95.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-089-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "mistakes.",
+      "cleanText": "mistakes.",
+      "bbox": {
+        "x": 241,
+        "y": 1497,
+        "width": 112,
+        "height": 20
+      },
+      "confidence": 87.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-089-line-028",
+      "lineNumber": 28
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-089-line-001",
+      "lineNumber": 1,
+      "text": "Find the meanings of the underlined words and phrases from the",
+      "bbox": {
+        "x": 195,
+        "y": 326,
+        "width": 914,
+        "height": 25
+      },
+      "confidence": 95.08,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-002",
+      "lineNumber": 2,
+      "text": "article using a dictionary or the internet. Match the words/phrases in",
+      "bbox": {
+        "x": 241,
+        "y": 360,
+        "width": 867,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-003",
+      "lineNumber": 3,
+      "text": "the left column with their meanings in the right column.",
+      "bbox": {
+        "x": 241,
+        "y": 394,
+        "width": 679,
+        "height": 26
+      },
+      "confidence": 96.1,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-004",
+      "lineNumber": 4,
+      "text": "maul a. to change or improve something",
+      "bbox": {
+        "x": 301,
+        "y": 454,
+        "width": 675,
+        "height": 24
+      },
+      "confidence": 87.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-005",
+      "lineNumber": 5,
+      "text": "scored a brace b. the beginning",
+      "bbox": {
+        "x": 298,
+        "y": 505,
+        "width": 480,
+        "height": 24
+      },
+      "confidence": 92.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-006",
+      "lineNumber": 6,
+      "text": "ruthless c. a goal that levels the score",
+      "bbox": {
+        "x": 298,
+        "y": 557,
+        "width": 615,
+        "height": 24
+      },
+      "confidence": 87.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-007",
+      "lineNumber": 7,
+      "text": "inception d. lack or shortage",
+      "bbox": {
+        "x": 297,
+        "y": 608,
+        "width": 505,
+        "height": 24
+      },
+      "confidence": 89.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-008",
+      "lineNumber": 8,
+      "text": "undone e. a final blow",
+      "bbox": {
+        "x": 298,
+        "y": 660,
+        "width": 462,
+        "height": 19
+      },
+      "confidence": 79.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-009",
+      "lineNumber": 9,
+      "text": "bullying f. to hurt badly",
+      "bbox": {
+        "x": 298,
+        "y": 712,
+        "width": 471,
+        "height": 24
+      },
+      "confidence": 84.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-010",
+      "lineNumber": 10,
+      "text": "injury time g. efficient and effective",
+      "bbox": {
+        "x": 298,
+        "y": 763,
+        "width": 567,
+        "height": 24
+      },
+      "confidence": 91.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-011",
+      "lineNumber": 11,
+      "text": "clinical h. defeated",
+      "bbox": {
+        "x": 298,
+        "y": 815,
+        "width": 424,
+        "height": 18
+      },
+      "confidence": 83.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-012",
+      "lineNumber": 12,
+      "text": "injected i. extra time",
+      "bbox": {
+        "x": 298,
+        "y": 866,
+        "width": 442,
+        "height": 24
+      },
+      "confidence": 79.2,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-013",
+      "lineNumber": 13,
+      "text": ". equaliser j. scored two goals",
+      "bbox": {
+        "x": 325,
+        "y": 918,
+        "width": 486,
+        "height": 24
+      },
+      "confidence": 83.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-014",
+      "lineNumber": 14,
+      "text": ". deficit k. added or introduced",
+      "bbox": {
+        "x": 325,
+        "y": 969,
+        "width": 520,
+        "height": 19
+      },
+      "confidence": 90.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-015",
+      "lineNumber": 15,
+      "text": "nail in the coffin",
+      "bbox": {
+        "x": 337,
+        "y": 1021,
+        "width": 174,
+        "height": 18
+      },
+      "confidence": 93.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-016",
+      "lineNumber": 16,
+      "text": "harming or scaring someone",
+      "bbox": {
+        "x": 635,
+        "y": 1021,
+        "width": 299,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-018",
+      "lineNumber": 18,
+      "text": ". without mercy or pity",
+      "bbox": {
+        "x": 617,
+        "y": 1072,
+        "width": 246,
+        "height": 24
+      },
+      "confidence": 93.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-020",
+      "lineNumber": 20,
+      "text": "following the rules and being honest",
+      "bbox": {
+        "x": 635,
+        "y": 1124,
+        "width": 384,
+        "height": 24
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-022",
+      "lineNumber": 22,
+      "text": "ow many goals did Bangladesh score against Nepal in the match?",
+      "bbox": {
+        "x": 310,
+        "y": 1253,
+        "width": 720,
+        "height": 25
+      },
+      "confidence": 94.27,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-023",
+      "lineNumber": 23,
+      "text": "Who scored the goals’?",
+      "bbox": {
+        "x": 291,
+        "y": 1293,
+        "width": 247,
+        "height": 25
+      },
+      "confidence": 91.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-024",
+      "lineNumber": 24,
+      "text": "Did Nepal score any goals? If yes, who scored it?",
+      "bbox": {
+        "x": 243,
+        "y": 1333,
+        "width": 591,
+        "height": 25
+      },
+      "confidence": 91.91,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-025",
+      "lineNumber": 25,
+      "text": "To whom did the Bangladesh coach dedicate their team’s win?",
+      "bbox": {
+        "x": 291,
+        "y": 1372,
+        "width": 685,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-089-line-027",
+      "lineNumber": 27,
+      "text": "watched. Share your work with a partner and ask them to correct any",
+      "bbox": {
+        "x": 241,
+        "y": 1463,
+        "width": 868,
+        "height": 25
+      },
+      "confidence": 95.77,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "B. Find the meanings of the underlined words and phrases from the\narticle using a dictionary or the internet. Match the words/phrases in\nthe left column with their meanings in the right column.\n1. maul a. to change or improve something\n2. scored a brace b. the beginning\n3. ruthless c. a goal that levels the score\n4. inception d. lack or shortage\n5. undone e. a final blow\n6. bullying f. to hurt badly\n7. injury time g. efficient and effective\n8. clinical h. defeated\n9. injected i. extra time\n. equaliser j. scored two goals\n. deficit k. added or introduced\nnail in the coffin\nharming or scaring someone\n. fair play\n. without mercy or pity\n. teform\nfollowing the rules and being honest\nC. Answer the following questions in pairs.\now many goals did Bangladesh score against Nepal in the match?\nWho scored the goals’?\n3. Did Nepal score any goals? If yes, who scored it?\nTo whom did the Bangladesh coach dedicate their team’s win?\nD. Write a paragraph on the best football match you have played or\nwatched. Share your work with a partner and ask them to correct any\nmistakes.",
+  "cleanText": "Find the meanings of the underlined words and phrases from the\narticle using a dictionary or the internet. Match the words/phrases in\nthe left column with their meanings in the right column.\nmaul a. to change or improve something\nscored a brace b. the beginning\nruthless c. a goal that levels the score\ninception d. lack or shortage\nundone e. a final blow\nbullying f. to hurt badly\ninjury time g. efficient and effective\nclinical h. defeated\ninjected i. extra time\n. equaliser j. scored two goals\n. deficit k. added or introduced\nnail in the coffin\nharming or scaring someone\n. fair play\n. without mercy or pity\n. teform\nfollowing the rules and being honest\nAnswer the following questions in pairs.\now many goals did Bangladesh score against Nepal in the match?\nWho scored the goals’?\nDid Nepal score any goals? If yes, who scored it?\nTo whom did the Bangladesh coach dedicate their team’s win?\nWrite a paragraph on the best football match you have played or\nwatched. Share your work with a partner and ask them to correct any\nmistakes.",
+  "aiReadyText": "Find the meanings of the underlined words and phrases from the\narticle using a dictionary or the internet. Match the words/phrases in\nthe left column with their meanings in the right column.\nmaul a. to change or improve something\nscored a brace b. the beginning\nruthless c. a goal that levels the score\ninception d. lack or shortage\nundone e. a final blow\nbullying f. to hurt badly\ninjury time g. efficient and effective\nclinical h. defeated\ninjected i. extra time\n. equaliser j. scored two goals\n. deficit k. added or introduced\nnail in the coffin\nharming or scaring someone\n. without mercy or pity\nfollowing the rules and being honest\now many goals did Bangladesh score against Nepal in the match?\nWho scored the goals’?\nDid Nepal score any goals? If yes, who scored it?\nTo whom did the Bangladesh coach dedicate their team’s win?\nwatched. Share your work with a partner and ask them to correct any"
+}

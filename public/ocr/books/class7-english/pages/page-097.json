@@ -1,0 +1,646 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 97,
+  "image": "/ocr/books/class7-english/page-images/page-097.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "92 ENGLISH FOR TODAY",
+      "cleanText": "92 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 195,
+        "y": 269,
+        "width": 911,
+        "height": 20
+      },
+      "confidence": 95.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "D, Read the statements about and replace",
+      "cleanText": "D, Read the statements about and replace",
+      "bbox": {
+        "x": 205,
+        "y": 331,
+        "width": 906,
+        "height": 24
+      },
+      "confidence": 70.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "the underlined parts of each sentence with phrases given in the box.",
+      "cleanText": "the underlined parts of each sentence with phrases given in the box.",
+      "bbox": {
+        "x": 283,
+        "y": 359,
+        "width": 810,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "1 Paul quite likes the green coconut drink.",
+      "cleanText": "1 Paul quite likes the green coconut drink.",
+      "bbox": {
+        "x": 326,
+        "y": 405,
+        "width": 477,
+        "height": 25
+      },
+      "confidence": 92.88,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "2 He didn’t mind walking along the village roads.",
+      "cleanText": "2 He didn’t mind walking along the village roads.",
+      "bbox": {
+        "x": 323,
+        "y": 437,
+        "width": 563,
+        "height": 24
+      },
+      "confidence": 91.56,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "3 He loves taking pictures.",
+      "cleanText": "3 He loves taking pictures.",
+      "bbox": {
+        "x": 323,
+        "y": 469,
+        "width": 310,
+        "height": 24
+      },
+      "confidence": 87.6,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "4 He hates sitting idly in a rickshaw.",
+      "cleanText": "4 He hates sitting idly in a rickshaw.",
+      "bbox": {
+        "x": 322,
+        "y": 501,
+        "width": 418,
+        "height": 24
+      },
+      "confidence": 90.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "really dislikes, did not dislike, very much enjoys, __ really likes",
+      "cleanText": "really dislikes, did not dislike, very much enjoys, __ really likes",
+      "bbox": {
+        "x": 289,
+        "y": 543,
+        "width": 787,
+        "height": 36
+      },
+      "confidence": 85.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "E. Write your likes and dislikes in the grid below. Then compare",
+      "cleanText": "E. Write your likes and dislikes in the grid below. Then compare",
+      "bbox": {
+        "x": 204,
+        "y": 603,
+        "width": 906,
+        "height": 24
+      },
+      "confidence": 94.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "your completed grid with a partner.",
+      "cleanText": "your completed grid with a partner.",
+      "bbox": {
+        "x": 284,
+        "y": 636,
+        "width": 422,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "Things I really like Things I like",
+      "cleanText": "Things I really like Things I like",
+      "bbox": {
+        "x": 255,
+        "y": 722,
+        "width": 612,
+        "height": 25
+      },
+      "confidence": 93.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "Lesson 4: Paul Visits Kobita’s House",
+      "cleanText": "Lesson 4: Paul Visits Kobita’s House",
+      "bbox": {
+        "x": 205,
+        "y": 1153,
+        "width": 486,
+        "height": 22
+      },
+      "confidence": 94.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "Keywords: sip(v), baggy trousers, reluctant, magazine, dish,",
+      "cleanText": "Keywords: sip(v), baggy trousers, reluctant, magazine, dish,",
+      "bbox": {
+        "x": 222,
+        "y": 1197,
+        "width": 837,
+        "height": 27
+      },
+      "confidence": 68.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "dessert skip (v),",
+      "cleanText": "dessert skip (v),",
+      "bbox": {
+        "x": 381,
+        "y": 1238,
+        "width": 371,
+        "height": 25
+      },
+      "confidence": 92.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "In pairs, partner A thinks of something s/he really likes/dislikes and",
+      "cleanText": "In pairs, partner A thinks of something s/he really likes/dislikes and",
+      "bbox": {
+        "x": 284,
+        "y": 1290,
+        "width": 826,
+        "height": 33
+      },
+      "confidence": 92.73,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "tells partner B about this through miming. partner B tries to guess",
+      "cleanText": "tells partner B about this through miming. partner B tries to guess",
+      "bbox": {
+        "x": 281,
+        "y": 1326,
+        "width": 829,
+        "height": 26
+      },
+      "confidence": 94.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "what partner A wants to tell. Take turns as partner B mimes and",
+      "cleanText": "what partner A wants to tell. Take turns as partner B mimes and",
+      "bbox": {
+        "x": 278,
+        "y": 1355,
+        "width": 833,
+        "height": 35
+      },
+      "confidence": 93.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "partner A tries to guess.",
+      "cleanText": "partner A tries to guess.",
+      "bbox": {
+        "x": 281,
+        "y": 1389,
+        "width": 282,
+        "height": 34
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "For example, partner A may do the miming of picking a cup from the",
+      "cleanText": "For example, partner A may do the miming of picking a cup from the",
+      "bbox": {
+        "x": 283,
+        "y": 1437,
+        "width": 823,
+        "height": 33
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "saucer, sipping tea from the cup and then making an expression of",
+      "cleanText": "saucer, sipping tea from the cup and then making an expression of",
+      "bbox": {
+        "x": 283,
+        "y": 1474,
+        "width": 830,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "disliking to show that he really dislikes having the tea.",
+      "cleanText": "disliking to show that he really dislikes having the tea.",
+      "bbox": {
+        "x": 277,
+        "y": 1506,
+        "width": 631,
+        "height": 25
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "B. Read the following text about Paul’s visit to Kobita’s house and answer",
+      "cleanText": "Read the following text about Paul’s visit to Kobita’s house and answer",
+      "bbox": {
+        "x": 205,
+        "y": 1546,
+        "width": 908,
+        "height": 25
+      },
+      "confidence": 94.46,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-097-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "the following questions.",
+      "cleanText": "the following questions.",
+      "bbox": {
+        "x": 283,
+        "y": 1579,
+        "width": 277,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-097-line-023",
+      "lineNumber": 23
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-097-line-001",
+      "lineNumber": 1,
+      "text": "92 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 195,
+        "y": 269,
+        "width": 911,
+        "height": 20
+      },
+      "confidence": 95.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-002",
+      "lineNumber": 2,
+      "text": "D, Read the statements about and replace",
+      "bbox": {
+        "x": 205,
+        "y": 331,
+        "width": 906,
+        "height": 24
+      },
+      "confidence": 70.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-003",
+      "lineNumber": 3,
+      "text": "the underlined parts of each sentence with phrases given in the box.",
+      "bbox": {
+        "x": 283,
+        "y": 359,
+        "width": 810,
+        "height": 25
+      },
+      "confidence": 95.83,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-004",
+      "lineNumber": 4,
+      "text": "1 Paul quite likes the green coconut drink.",
+      "bbox": {
+        "x": 326,
+        "y": 405,
+        "width": 477,
+        "height": 25
+      },
+      "confidence": 92.88,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-005",
+      "lineNumber": 5,
+      "text": "2 He didn’t mind walking along the village roads.",
+      "bbox": {
+        "x": 323,
+        "y": 437,
+        "width": 563,
+        "height": 24
+      },
+      "confidence": 91.56,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-006",
+      "lineNumber": 6,
+      "text": "3 He loves taking pictures.",
+      "bbox": {
+        "x": 323,
+        "y": 469,
+        "width": 310,
+        "height": 24
+      },
+      "confidence": 87.6,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-007",
+      "lineNumber": 7,
+      "text": "4 He hates sitting idly in a rickshaw.",
+      "bbox": {
+        "x": 322,
+        "y": 501,
+        "width": 418,
+        "height": 24
+      },
+      "confidence": 90.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-008",
+      "lineNumber": 8,
+      "text": "really dislikes, did not dislike, very much enjoys, __ really likes",
+      "bbox": {
+        "x": 289,
+        "y": 543,
+        "width": 787,
+        "height": 36
+      },
+      "confidence": 85.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-009",
+      "lineNumber": 9,
+      "text": "E. Write your likes and dislikes in the grid below. Then compare",
+      "bbox": {
+        "x": 204,
+        "y": 603,
+        "width": 906,
+        "height": 24
+      },
+      "confidence": 94.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-010",
+      "lineNumber": 10,
+      "text": "your completed grid with a partner.",
+      "bbox": {
+        "x": 284,
+        "y": 636,
+        "width": 422,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-011",
+      "lineNumber": 11,
+      "text": "Things I really like Things I like",
+      "bbox": {
+        "x": 255,
+        "y": 722,
+        "width": 612,
+        "height": 25
+      },
+      "confidence": 93.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-012",
+      "lineNumber": 12,
+      "text": "Lesson 4: Paul Visits Kobita’s House",
+      "bbox": {
+        "x": 205,
+        "y": 1153,
+        "width": 486,
+        "height": 22
+      },
+      "confidence": 94.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-013",
+      "lineNumber": 13,
+      "text": "Keywords: sip(v), baggy trousers, reluctant, magazine, dish,",
+      "bbox": {
+        "x": 222,
+        "y": 1197,
+        "width": 837,
+        "height": 27
+      },
+      "confidence": 68.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-014",
+      "lineNumber": 14,
+      "text": "dessert skip (v),",
+      "bbox": {
+        "x": 381,
+        "y": 1238,
+        "width": 371,
+        "height": 25
+      },
+      "confidence": 92.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-015",
+      "lineNumber": 15,
+      "text": "In pairs, partner A thinks of something s/he really likes/dislikes and",
+      "bbox": {
+        "x": 284,
+        "y": 1290,
+        "width": 826,
+        "height": 33
+      },
+      "confidence": 92.73,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-016",
+      "lineNumber": 16,
+      "text": "tells partner B about this through miming. partner B tries to guess",
+      "bbox": {
+        "x": 281,
+        "y": 1326,
+        "width": 829,
+        "height": 26
+      },
+      "confidence": 94.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-017",
+      "lineNumber": 17,
+      "text": "what partner A wants to tell. Take turns as partner B mimes and",
+      "bbox": {
+        "x": 278,
+        "y": 1355,
+        "width": 833,
+        "height": 35
+      },
+      "confidence": 93.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-018",
+      "lineNumber": 18,
+      "text": "partner A tries to guess.",
+      "bbox": {
+        "x": 281,
+        "y": 1389,
+        "width": 282,
+        "height": 34
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-019",
+      "lineNumber": 19,
+      "text": "For example, partner A may do the miming of picking a cup from the",
+      "bbox": {
+        "x": 283,
+        "y": 1437,
+        "width": 823,
+        "height": 33
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-020",
+      "lineNumber": 20,
+      "text": "saucer, sipping tea from the cup and then making an expression of",
+      "bbox": {
+        "x": 283,
+        "y": 1474,
+        "width": 830,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-021",
+      "lineNumber": 21,
+      "text": "disliking to show that he really dislikes having the tea.",
+      "bbox": {
+        "x": 277,
+        "y": 1506,
+        "width": 631,
+        "height": 25
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-097-line-023",
+      "lineNumber": 23,
+      "text": "the following questions.",
+      "bbox": {
+        "x": 283,
+        "y": 1579,
+        "width": 277,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "92 ENGLISH FOR TODAY\nD, Read the statements about and replace\nthe underlined parts of each sentence with phrases given in the box.\n1 Paul quite likes the green coconut drink.\n2 He didn’t mind walking along the village roads.\n3 He loves taking pictures.\n4 He hates sitting idly in a rickshaw.\nreally dislikes, did not dislike, very much enjoys, __ really likes\nE. Write your likes and dislikes in the grid below. Then compare\nyour completed grid with a partner.\nThings I really like Things I like\nLesson 4: Paul Visits Kobita’s House\nKeywords: sip(v), baggy trousers, reluctant, magazine, dish,\ndessert skip (v),\nIn pairs, partner A thinks of something s/he really likes/dislikes and\ntells partner B about this through miming. partner B tries to guess\nwhat partner A wants to tell. Take turns as partner B mimes and\npartner A tries to guess.\nFor example, partner A may do the miming of picking a cup from the\nsaucer, sipping tea from the cup and then making an expression of\ndisliking to show that he really dislikes having the tea.\nB. Read the following text about Paul’s visit to Kobita’s house and answer\nthe following questions.",
+  "cleanText": "92 ENGLISH FOR TODAY\nD, Read the statements about and replace\nthe underlined parts of each sentence with phrases given in the box.\n1 Paul quite likes the green coconut drink.\n2 He didn’t mind walking along the village roads.\n3 He loves taking pictures.\n4 He hates sitting idly in a rickshaw.\nreally dislikes, did not dislike, very much enjoys, __ really likes\nE. Write your likes and dislikes in the grid below. Then compare\nyour completed grid with a partner.\nThings I really like Things I like\nLesson 4: Paul Visits Kobita’s House\nKeywords: sip(v), baggy trousers, reluctant, magazine, dish,\ndessert skip (v),\nIn pairs, partner A thinks of something s/he really likes/dislikes and\ntells partner B about this through miming. partner B tries to guess\nwhat partner A wants to tell. Take turns as partner B mimes and\npartner A tries to guess.\nFor example, partner A may do the miming of picking a cup from the\nsaucer, sipping tea from the cup and then making an expression of\ndisliking to show that he really dislikes having the tea.\nRead the following text about Paul’s visit to Kobita’s house and answer\nthe following questions.",
+  "aiReadyText": "92 ENGLISH FOR TODAY\nD, Read the statements about and replace\nthe underlined parts of each sentence with phrases given in the box.\n1 Paul quite likes the green coconut drink.\n2 He didn’t mind walking along the village roads.\n3 He loves taking pictures.\n4 He hates sitting idly in a rickshaw.\nreally dislikes, did not dislike, very much enjoys, __ really likes\nE. Write your likes and dislikes in the grid below. Then compare\nyour completed grid with a partner.\nThings I really like Things I like\nLesson 4: Paul Visits Kobita’s House\nKeywords: sip(v), baggy trousers, reluctant, magazine, dish,\ndessert skip (v),\nIn pairs, partner A thinks of something s/he really likes/dislikes and\ntells partner B about this through miming. partner B tries to guess\nwhat partner A wants to tell. Take turns as partner B mimes and\npartner A tries to guess.\nFor example, partner A may do the miming of picking a cup from the\nsaucer, sipping tea from the cup and then making an expression of\ndisliking to show that he really dislikes having the tea.\nthe following questions."
+}

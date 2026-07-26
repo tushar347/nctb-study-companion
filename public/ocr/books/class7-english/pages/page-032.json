@@ -1,0 +1,383 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 32,
+  "image": "/ocr/books/class7-english/page-images/page-032.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "Unit Four : People Who Make a Difference 27",
+      "cleanText": "Unit Four : People Who Make a Difference 27",
+      "bbox": {
+        "x": 202,
+        "y": 266,
+        "width": 906,
+        "height": 27
+      },
+      "confidence": 95.11,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Lesson 1: A Teacher (1)",
+      "cleanText": "Lesson 1: A Teacher (1)",
+      "bbox": {
+        "x": 201,
+        "y": 351,
+        "width": 303,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Keyword : trained",
+      "cleanText": "Keyword : trained",
+      "bbox": {
+        "x": 356,
+        "y": 417,
+        "width": 252,
+        "height": 25
+      },
+      "confidence": 92.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "A. Look at the pictures and discuss in groups what is happening in each",
+      "cleanText": "Look at the pictures and discuss in groups what is happening in each",
+      "bbox": {
+        "x": 200,
+        "y": 488,
+        "width": 907,
+        "height": 24
+      },
+      "confidence": 94.29,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-032-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "picture.",
+      "cleanText": "picture.",
+      "bbox": {
+        "x": 281,
+        "y": 521,
+        "width": 88,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-032-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "B. Listen to the teacher /audio about what Shahana says about herself",
+      "cleanText": "Listen to the teacher /audio about what Shahana says about herself",
+      "bbox": {
+        "x": 203,
+        "y": 927,
+        "width": 876,
+        "height": 26
+      },
+      "confidence": 94.42,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-032-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "and answer the following questions.",
+      "cleanText": "and answer the following questions.",
+      "bbox": {
+        "x": 285,
+        "y": 962,
+        "width": 414,
+        "height": 25
+      },
+      "confidence": 93.8,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "Listening text: 4",
+      "cleanText": "Listening text: 4",
+      "bbox": {
+        "x": 220,
+        "y": 1028,
+        "width": 212,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "Tick the best answer.",
+      "cleanText": "Tick the best answer.",
+      "bbox": {
+        "x": 283,
+        "y": 1100,
+        "width": 246,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "Ms Shahana Huda passed her SSC exam in",
+      "cleanText": "Ms Shahana Huda passed her SSC exam in",
+      "bbox": {
+        "x": 362,
+        "y": 1154,
+        "width": 503,
+        "height": 25
+      },
+      "confidence": 94.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "She passed her HSC exam in",
+      "cleanText": "She passed her HSC exam in",
+      "bbox": {
+        "x": 362,
+        "y": 1322,
+        "width": 335,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "She married",
+      "cleanText": "She married",
+      "bbox": {
+        "x": 362,
+        "y": 1487,
+        "width": 143,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-032-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "a. before her HSC exam.",
+      "cleanText": "before her HSC exam.",
+      "bbox": {
+        "x": 362,
+        "y": 1519,
+        "width": 275,
+        "height": 19
+      },
+      "confidence": 95.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "b. after her BA exam.",
+      "cleanText": "after her BA exam.",
+      "bbox": {
+        "x": 365,
+        "y": 1552,
+        "width": 237,
+        "height": 19
+      },
+      "confidence": 85.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "c. while she was studying at college.",
+      "cleanText": "while she was studying at college.",
+      "bbox": {
+        "x": 362,
+        "y": 1585,
+        "width": 405,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-032-line-015",
+      "lineNumber": 15
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-032-line-001",
+      "lineNumber": 1,
+      "text": "Unit Four : People Who Make a Difference 27",
+      "bbox": {
+        "x": 202,
+        "y": 266,
+        "width": 906,
+        "height": 27
+      },
+      "confidence": 95.11,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-002",
+      "lineNumber": 2,
+      "text": "Lesson 1: A Teacher (1)",
+      "bbox": {
+        "x": 201,
+        "y": 351,
+        "width": 303,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-003",
+      "lineNumber": 3,
+      "text": "Keyword : trained",
+      "bbox": {
+        "x": 356,
+        "y": 417,
+        "width": 252,
+        "height": 25
+      },
+      "confidence": 92.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-007",
+      "lineNumber": 7,
+      "text": "and answer the following questions.",
+      "bbox": {
+        "x": 285,
+        "y": 962,
+        "width": 414,
+        "height": 25
+      },
+      "confidence": 93.8,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-008",
+      "lineNumber": 8,
+      "text": "Listening text: 4",
+      "bbox": {
+        "x": 220,
+        "y": 1028,
+        "width": 212,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-009",
+      "lineNumber": 9,
+      "text": "Tick the best answer.",
+      "bbox": {
+        "x": 283,
+        "y": 1100,
+        "width": 246,
+        "height": 19
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-010",
+      "lineNumber": 10,
+      "text": "Ms Shahana Huda passed her SSC exam in",
+      "bbox": {
+        "x": 362,
+        "y": 1154,
+        "width": 503,
+        "height": 25
+      },
+      "confidence": 94.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-011",
+      "lineNumber": 11,
+      "text": "She passed her HSC exam in",
+      "bbox": {
+        "x": 362,
+        "y": 1322,
+        "width": 335,
+        "height": 24
+      },
+      "confidence": 95.5,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-013",
+      "lineNumber": 13,
+      "text": "before her HSC exam.",
+      "bbox": {
+        "x": 362,
+        "y": 1519,
+        "width": 275,
+        "height": 19
+      },
+      "confidence": 95.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-014",
+      "lineNumber": 14,
+      "text": "after her BA exam.",
+      "bbox": {
+        "x": 365,
+        "y": 1552,
+        "width": 237,
+        "height": 19
+      },
+      "confidence": 85.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-032-line-015",
+      "lineNumber": 15,
+      "text": "while she was studying at college.",
+      "bbox": {
+        "x": 362,
+        "y": 1585,
+        "width": 405,
+        "height": 25
+      },
+      "confidence": 95.29,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "Unit Four : People Who Make a Difference 27\nLesson 1: A Teacher (1)\nKeyword : trained\nA. Look at the pictures and discuss in groups what is happening in each\npicture.\nB. Listen to the teacher /audio about what Shahana says about herself\nand answer the following questions.\nListening text: 4\nTick the best answer.\nMs Shahana Huda passed her SSC exam in\nShe passed her HSC exam in\nShe married\na. before her HSC exam.\nb. after her BA exam.\nc. while she was studying at college.",
+  "cleanText": "Unit Four : People Who Make a Difference 27\nLesson 1: A Teacher (1)\nKeyword : trained\nLook at the pictures and discuss in groups what is happening in each\npicture.\nListen to the teacher /audio about what Shahana says about herself\nand answer the following questions.\nListening text: 4\nTick the best answer.\nMs Shahana Huda passed her SSC exam in\nShe passed her HSC exam in\nShe married\nbefore her HSC exam.\nafter her BA exam.\nwhile she was studying at college.",
+  "aiReadyText": "Unit Four : People Who Make a Difference 27\nLesson 1: A Teacher (1)\nKeyword : trained\nand answer the following questions.\nListening text: 4\nTick the best answer.\nMs Shahana Huda passed her SSC exam in\nShe passed her HSC exam in\nbefore her HSC exam.\nafter her BA exam.\nwhile she was studying at college."
+}

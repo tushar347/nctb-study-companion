@@ -1,0 +1,982 @@
+{
+  "bookId": "class7-english",
+  "pageNumber": 43,
+  "image": "/ocr/books/class7-english/page-images/page-043.png",
+  "width": 1310,
+  "height": 1853,
+  "source": "tesseract",
+  "lines": [
+    {
+      "text": "38 ENGLISH FOR TODAY",
+      "cleanText": "38 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 197,
+        "y": 259,
+        "width": 909,
+        "height": 19
+      },
+      "confidence": 95.25,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-001",
+      "lineNumber": 1
+    },
+    {
+      "text": "Students : Wrong thing.",
+      "cleanText": "Students : Wrong thing.",
+      "bbox": {
+        "x": 193,
+        "y": 325,
+        "width": 284,
+        "height": 25
+      },
+      "confidence": 82.75,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-002",
+      "lineNumber": 2
+    },
+    {
+      "text": "Then your conscience will tell you, “This is a wrong thing. You must",
+      "cleanText": "Then your conscience will tell you, “This is a wrong thing. You must",
+      "bbox": {
+        "x": 334,
+        "y": 368,
+        "width": 769,
+        "height": 25
+      },
+      "confidence": 95.62,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-003",
+      "lineNumber": 3
+    },
+    {
+      "text": "not do it.” If you steal or do a bad thing, your conscience will prick",
+      "cleanText": "not do it.” If you steal or do a bad thing, your conscience will prick",
+      "bbox": {
+        "x": 334,
+        "y": 401,
+        "width": 765,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-004",
+      "lineNumber": 4
+    },
+    {
+      "text": "you and trouble you. And you will never have your peace of mind.",
+      "cleanText": "you and trouble you. And you will never have your peace of mind.",
+      "bbox": {
+        "x": 332,
+        "y": 434,
+        "width": 770,
+        "height": 26
+      },
+      "confidence": 95.77,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-005",
+      "lineNumber": 5
+    },
+    {
+      "text": "So, to be a good and happy person, you should have a clear conscience.",
+      "cleanText": "So, to be a good and happy person, you should have a clear conscience.",
+      "bbox": {
+        "x": 330,
+        "y": 467,
+        "width": 771,
+        "height": 25
+      },
+      "confidence": 92.64,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-006",
+      "lineNumber": 6
+    },
+    {
+      "text": "Tick the best answers to the following multiple choice questions.",
+      "cleanText": "Tick the best answers to the following multiple choice questions.",
+      "bbox": {
+        "x": 192,
+        "y": 518,
+        "width": 738,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-007",
+      "lineNumber": 7
+    },
+    {
+      "text": "1. “The students are confused.” The underlined words mean they",
+      "cleanText": "“The students are confused.” The underlined words mean they",
+      "bbox": {
+        "x": 272,
+        "y": 558,
+        "width": 812,
+        "height": 25
+      },
+      "confidence": 94.3,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-008",
+      "lineNumber": 8
+    },
+    {
+      "text": "a. can think clearly.",
+      "cleanText": "can think clearly.",
+      "bbox": {
+        "x": 350,
+        "y": 591,
+        "width": 220,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-009",
+      "lineNumber": 9
+    },
+    {
+      "text": "b. cannot understand.",
+      "cleanText": "cannot understand.",
+      "bbox": {
+        "x": 350,
+        "y": 624,
+        "width": 239,
+        "height": 19
+      },
+      "confidence": 94.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-010",
+      "lineNumber": 10
+    },
+    {
+      "text": "c. are unable to speak.",
+      "cleanText": "are unable to speak.",
+      "bbox": {
+        "x": 350,
+        "y": 657,
+        "width": 248,
+        "height": 25
+      },
+      "confidence": 90.4,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-011",
+      "lineNumber": 11
+    },
+    {
+      "text": "2. When you buy a thing from a Morality Shop, you",
+      "cleanText": "When you buy a thing from a Morality Shop, you",
+      "bbox": {
+        "x": 271,
+        "y": 696,
+        "width": 655,
+        "height": 25
+      },
+      "confidence": 95.09,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-012",
+      "lineNumber": 12
+    },
+    {
+      "text": "a. pay the money to the office.",
+      "cleanText": "pay the money to the office.",
+      "bbox": {
+        "x": 350,
+        "y": 732,
+        "width": 340,
+        "height": 25
+      },
+      "confidence": 95.57,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-013",
+      "lineNumber": 13
+    },
+    {
+      "text": "b. pay the money later.",
+      "cleanText": "pay the money later.",
+      "bbox": {
+        "x": 350,
+        "y": 765,
+        "width": 257,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-014",
+      "lineNumber": 14
+    },
+    {
+      "text": "c. keep the money in the shop.",
+      "cleanText": "keep the money in the shop.",
+      "bbox": {
+        "x": 350,
+        "y": 798,
+        "width": 343,
+        "height": 26
+      },
+      "confidence": 91.43,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-015",
+      "lineNumber": 15
+    },
+    {
+      "text": "3. A person with a clear conscience",
+      "cleanText": "A person with a clear conscience",
+      "bbox": {
+        "x": 271,
+        "y": 841,
+        "width": 459,
+        "height": 25
+      },
+      "confidence": 94.71,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-016",
+      "lineNumber": 16
+    },
+    {
+      "text": "a. usually does the wrong thing.",
+      "cleanText": "usually does the wrong thing.",
+      "bbox": {
+        "x": 350,
+        "y": 878,
+        "width": 357,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-017",
+      "lineNumber": 17
+    },
+    {
+      "text": "b. always gets confused.",
+      "cleanText": "always gets confused.",
+      "bbox": {
+        "x": 351,
+        "y": 911,
+        "width": 271,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-018",
+      "lineNumber": 18
+    },
+    {
+      "text": "c. always does the right thing.",
+      "cleanText": "always does the right thing.",
+      "bbox": {
+        "x": 350,
+        "y": 944,
+        "width": 333,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-019",
+      "lineNumber": 19
+    },
+    {
+      "text": "B. in pairs. Ask and answer the following questions.",
+      "cleanText": "in pairs. Ask and answer the following questions.",
+      "bbox": {
+        "x": 192,
+        "y": 996,
+        "width": 678,
+        "height": 27
+      },
+      "confidence": 95.22,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-020",
+      "lineNumber": 20
+    },
+    {
+      "text": "a. What are the advantages and disadvantages of a morality shop?",
+      "cleanText": "What are the advantages and disadvantages of a morality shop?",
+      "bbox": {
+        "x": 352,
+        "y": 1037,
+        "width": 718,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-021",
+      "lineNumber": 21
+    },
+    {
+      "text": "b. What kind of shop will you prefer—a fixed price shop or a morality shop?",
+      "cleanText": "What kind of shop will you prefer—a fixed price shop or a morality shop?",
+      "bbox": {
+        "x": 352,
+        "y": 1071,
+        "width": 752,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-022",
+      "lineNumber": 22
+    },
+    {
+      "text": "Cc. In groups or pairs, discuss and choose the best answer to this question.",
+      "cleanText": "In groups or pairs, discuss and choose the best answer to this question.",
+      "bbox": {
+        "x": 187,
+        "y": 1140,
+        "width": 920,
+        "height": 33
+      },
+      "confidence": 93.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-023",
+      "lineNumber": 23
+    },
+    {
+      "text": "Then say why you have chosen that answer.",
+      "cleanText": "Then say why you have chosen that answer.",
+      "bbox": {
+        "x": 270,
+        "y": 1176,
+        "width": 511,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-024",
+      "lineNumber": 24
+    },
+    {
+      "text": "Suppose, you are alone in the school yard. Suddenly you find a hundred-taka",
+      "cleanText": "Suppose, you are alone in the school yard. Suddenly you find a hundred-taka",
+      "bbox": {
+        "x": 272,
+        "y": 1215,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 95.31,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-025",
+      "lineNumber": 25
+    },
+    {
+      "text": "note lying on the ground. What will you do?",
+      "cleanText": "note lying on the ground. What will you do?",
+      "bbox": {
+        "x": 273,
+        "y": 1248,
+        "width": 488,
+        "height": 25
+      },
+      "confidence": 93.44,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-026",
+      "lineNumber": 26
+    },
+    {
+      "text": "I will",
+      "cleanText": "I will",
+      "bbox": {
+        "x": 351,
+        "y": 1281,
+        "width": 55,
+        "height": 19
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": false,
+      "id": "page-043-line-027",
+      "lineNumber": 27
+    },
+    {
+      "text": "a. pick up the money and hand over it to the Head Teacher.",
+      "cleanText": "pick up the money and hand over it to the Head Teacher.",
+      "bbox": {
+        "x": 350,
+        "y": 1314,
+        "width": 637,
+        "height": 25
+      },
+      "confidence": 95.85,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-028",
+      "lineNumber": 28
+    },
+    {
+      "text": "b. pick up the money and quickly put it in my pocket.",
+      "cleanText": "pick up the money and quickly put it in my pocket.",
+      "bbox": {
+        "x": 350,
+        "y": 1347,
+        "width": 593,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-029",
+      "lineNumber": 29
+    },
+    {
+      "text": "c. leave the note where it is lying.",
+      "cleanText": "leave the note where it is lying.",
+      "bbox": {
+        "x": 350,
+        "y": 1380,
+        "width": 374,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-030",
+      "lineNumber": 30
+    },
+    {
+      "text": "D Discuss in groups and write an answer to this question.",
+      "cleanText": "D Discuss in groups and write an answer to this question.",
+      "bbox": {
+        "x": 191,
+        "y": 1428,
+        "width": 719,
+        "height": 25
+      },
+      "confidence": 95.45,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-031",
+      "lineNumber": 31
+    },
+    {
+      "text": "Is it possible to open a Morality Shop in your school?",
+      "cleanText": "Is it possible to open a Morality Shop in your school?",
+      "bbox": {
+        "x": 268,
+        "y": 1473,
+        "width": 588,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-032",
+      "lineNumber": 32
+    },
+    {
+      "text": "You may discuss the following points / issues:",
+      "cleanText": "You may discuss the following points / issues:",
+      "bbox": {
+        "x": 268,
+        "y": 1507,
+        "width": 507,
+        "height": 25
+      },
+      "confidence": 95.38,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-033",
+      "lineNumber": 33
+    },
+    {
+      "text": "permission, things / items,",
+      "cleanText": "permission, things / items,",
+      "bbox": {
+        "x": 269,
+        "y": 1540,
+        "width": 287,
+        "height": 25
+      },
+      "confidence": 92.0,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-034",
+      "lineNumber": 34
+    },
+    {
+      "text": "money / fund, how to prevent stealing",
+      "cleanText": "money / fund, how to prevent stealing",
+      "bbox": {
+        "x": 268,
+        "y": 1571,
+        "width": 416,
+        "height": 25
+      },
+      "confidence": 95.14,
+      "source": "tesseract",
+      "aiReady": true,
+      "id": "page-043-line-035",
+      "lineNumber": 35
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "page-043-line-001",
+      "lineNumber": 1,
+      "text": "38 ENGLISH FOR TODAY",
+      "bbox": {
+        "x": 197,
+        "y": 259,
+        "width": 909,
+        "height": 19
+      },
+      "confidence": 95.25,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-002",
+      "lineNumber": 2,
+      "text": "Students : Wrong thing.",
+      "bbox": {
+        "x": 193,
+        "y": 325,
+        "width": 284,
+        "height": 25
+      },
+      "confidence": 82.75,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-003",
+      "lineNumber": 3,
+      "text": "Then your conscience will tell you, “This is a wrong thing. You must",
+      "bbox": {
+        "x": 334,
+        "y": 368,
+        "width": 769,
+        "height": 25
+      },
+      "confidence": 95.62,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-004",
+      "lineNumber": 4,
+      "text": "not do it.” If you steal or do a bad thing, your conscience will prick",
+      "bbox": {
+        "x": 334,
+        "y": 401,
+        "width": 765,
+        "height": 25
+      },
+      "confidence": 95.33,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-005",
+      "lineNumber": 5,
+      "text": "you and trouble you. And you will never have your peace of mind.",
+      "bbox": {
+        "x": 332,
+        "y": 434,
+        "width": 770,
+        "height": 26
+      },
+      "confidence": 95.77,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-006",
+      "lineNumber": 6,
+      "text": "So, to be a good and happy person, you should have a clear conscience.",
+      "bbox": {
+        "x": 330,
+        "y": 467,
+        "width": 771,
+        "height": 25
+      },
+      "confidence": 92.64,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-007",
+      "lineNumber": 7,
+      "text": "Tick the best answers to the following multiple choice questions.",
+      "bbox": {
+        "x": 192,
+        "y": 518,
+        "width": 738,
+        "height": 26
+      },
+      "confidence": 95.9,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-008",
+      "lineNumber": 8,
+      "text": "“The students are confused.” The underlined words mean they",
+      "bbox": {
+        "x": 272,
+        "y": 558,
+        "width": 812,
+        "height": 25
+      },
+      "confidence": 94.3,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-009",
+      "lineNumber": 9,
+      "text": "can think clearly.",
+      "bbox": {
+        "x": 350,
+        "y": 591,
+        "width": 220,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-010",
+      "lineNumber": 10,
+      "text": "cannot understand.",
+      "bbox": {
+        "x": 350,
+        "y": 624,
+        "width": 239,
+        "height": 19
+      },
+      "confidence": 94.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-011",
+      "lineNumber": 11,
+      "text": "are unable to speak.",
+      "bbox": {
+        "x": 350,
+        "y": 657,
+        "width": 248,
+        "height": 25
+      },
+      "confidence": 90.4,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-012",
+      "lineNumber": 12,
+      "text": "When you buy a thing from a Morality Shop, you",
+      "bbox": {
+        "x": 271,
+        "y": 696,
+        "width": 655,
+        "height": 25
+      },
+      "confidence": 95.09,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-013",
+      "lineNumber": 13,
+      "text": "pay the money to the office.",
+      "bbox": {
+        "x": 350,
+        "y": 732,
+        "width": 340,
+        "height": 25
+      },
+      "confidence": 95.57,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-014",
+      "lineNumber": 14,
+      "text": "pay the money later.",
+      "bbox": {
+        "x": 350,
+        "y": 765,
+        "width": 257,
+        "height": 25
+      },
+      "confidence": 94.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-015",
+      "lineNumber": 15,
+      "text": "keep the money in the shop.",
+      "bbox": {
+        "x": 350,
+        "y": 798,
+        "width": 343,
+        "height": 26
+      },
+      "confidence": 91.43,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-016",
+      "lineNumber": 16,
+      "text": "A person with a clear conscience",
+      "bbox": {
+        "x": 271,
+        "y": 841,
+        "width": 459,
+        "height": 25
+      },
+      "confidence": 94.71,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-017",
+      "lineNumber": 17,
+      "text": "usually does the wrong thing.",
+      "bbox": {
+        "x": 350,
+        "y": 878,
+        "width": 357,
+        "height": 25
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-018",
+      "lineNumber": 18,
+      "text": "always gets confused.",
+      "bbox": {
+        "x": 351,
+        "y": 911,
+        "width": 271,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-019",
+      "lineNumber": 19,
+      "text": "always does the right thing.",
+      "bbox": {
+        "x": 350,
+        "y": 944,
+        "width": 333,
+        "height": 25
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-020",
+      "lineNumber": 20,
+      "text": "in pairs. Ask and answer the following questions.",
+      "bbox": {
+        "x": 192,
+        "y": 996,
+        "width": 678,
+        "height": 27
+      },
+      "confidence": 95.22,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-021",
+      "lineNumber": 21,
+      "text": "What are the advantages and disadvantages of a morality shop?",
+      "bbox": {
+        "x": 352,
+        "y": 1037,
+        "width": 718,
+        "height": 26
+      },
+      "confidence": 95.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-022",
+      "lineNumber": 22,
+      "text": "What kind of shop will you prefer—a fixed price shop or a morality shop?",
+      "bbox": {
+        "x": 352,
+        "y": 1071,
+        "width": 752,
+        "height": 26
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-023",
+      "lineNumber": 23,
+      "text": "In groups or pairs, discuss and choose the best answer to this question.",
+      "bbox": {
+        "x": 187,
+        "y": 1140,
+        "width": 920,
+        "height": 33
+      },
+      "confidence": 93.14,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-024",
+      "lineNumber": 24,
+      "text": "Then say why you have chosen that answer.",
+      "bbox": {
+        "x": 270,
+        "y": 1176,
+        "width": 511,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-025",
+      "lineNumber": 25,
+      "text": "Suppose, you are alone in the school yard. Suddenly you find a hundred-taka",
+      "bbox": {
+        "x": 272,
+        "y": 1215,
+        "width": 829,
+        "height": 25
+      },
+      "confidence": 95.31,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-026",
+      "lineNumber": 26,
+      "text": "note lying on the ground. What will you do?",
+      "bbox": {
+        "x": 273,
+        "y": 1248,
+        "width": 488,
+        "height": 25
+      },
+      "confidence": 93.44,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-028",
+      "lineNumber": 28,
+      "text": "pick up the money and hand over it to the Head Teacher.",
+      "bbox": {
+        "x": 350,
+        "y": 1314,
+        "width": 637,
+        "height": 25
+      },
+      "confidence": 95.85,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-029",
+      "lineNumber": 29,
+      "text": "pick up the money and quickly put it in my pocket.",
+      "bbox": {
+        "x": 350,
+        "y": 1347,
+        "width": 593,
+        "height": 25
+      },
+      "confidence": 95.67,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-030",
+      "lineNumber": 30,
+      "text": "leave the note where it is lying.",
+      "bbox": {
+        "x": 350,
+        "y": 1380,
+        "width": 374,
+        "height": 25
+      },
+      "confidence": 93.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-031",
+      "lineNumber": 31,
+      "text": "D Discuss in groups and write an answer to this question.",
+      "bbox": {
+        "x": 191,
+        "y": 1428,
+        "width": 719,
+        "height": 25
+      },
+      "confidence": 95.45,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-032",
+      "lineNumber": 32,
+      "text": "Is it possible to open a Morality Shop in your school?",
+      "bbox": {
+        "x": 268,
+        "y": 1473,
+        "width": 588,
+        "height": 26
+      },
+      "confidence": 96.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-033",
+      "lineNumber": 33,
+      "text": "You may discuss the following points / issues:",
+      "bbox": {
+        "x": 268,
+        "y": 1507,
+        "width": 507,
+        "height": 25
+      },
+      "confidence": 95.38,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-034",
+      "lineNumber": 34,
+      "text": "permission, things / items,",
+      "bbox": {
+        "x": 269,
+        "y": 1540,
+        "width": 287,
+        "height": 25
+      },
+      "confidence": 92.0,
+      "source": "tesseract"
+    },
+    {
+      "id": "page-043-line-035",
+      "lineNumber": 35,
+      "text": "money / fund, how to prevent stealing",
+      "bbox": {
+        "x": 268,
+        "y": 1571,
+        "width": 416,
+        "height": 25
+      },
+      "confidence": 95.14,
+      "source": "tesseract"
+    }
+  ],
+  "rawText": "38 ENGLISH FOR TODAY\nStudents : Wrong thing.\nThen your conscience will tell you, “This is a wrong thing. You must\nnot do it.” If you steal or do a bad thing, your conscience will prick\nyou and trouble you. And you will never have your peace of mind.\nSo, to be a good and happy person, you should have a clear conscience.\nTick the best answers to the following multiple choice questions.\n1. “The students are confused.” The underlined words mean they\na. can think clearly.\nb. cannot understand.\nc. are unable to speak.\n2. When you buy a thing from a Morality Shop, you\na. pay the money to the office.\nb. pay the money later.\nc. keep the money in the shop.\n3. A person with a clear conscience\na. usually does the wrong thing.\nb. always gets confused.\nc. always does the right thing.\nB. in pairs. Ask and answer the following questions.\na. What are the advantages and disadvantages of a morality shop?\nb. What kind of shop will you prefer—a fixed price shop or a morality shop?\nCc. In groups or pairs, discuss and choose the best answer to this question.\nThen say why you have chosen that answer.\nSuppose, you are alone in the school yard. Suddenly you find a hundred-taka\nnote lying on the ground. What will you do?\nI will\na. pick up the money and hand over it to the Head Teacher.\nb. pick up the money and quickly put it in my pocket.\nc. leave the note where it is lying.\nD Discuss in groups and write an answer to this question.\nIs it possible to open a Morality Shop in your school?\nYou may discuss the following points / issues:\npermission, things / items,\nmoney / fund, how to prevent stealing",
+  "cleanText": "38 ENGLISH FOR TODAY\nStudents : Wrong thing.\nThen your conscience will tell you, “This is a wrong thing. You must\nnot do it.” If you steal or do a bad thing, your conscience will prick\nyou and trouble you. And you will never have your peace of mind.\nSo, to be a good and happy person, you should have a clear conscience.\nTick the best answers to the following multiple choice questions.\n“The students are confused.” The underlined words mean they\ncan think clearly.\ncannot understand.\nare unable to speak.\nWhen you buy a thing from a Morality Shop, you\npay the money to the office.\npay the money later.\nkeep the money in the shop.\nA person with a clear conscience\nusually does the wrong thing.\nalways gets confused.\nalways does the right thing.\nin pairs. Ask and answer the following questions.\nWhat are the advantages and disadvantages of a morality shop?\nWhat kind of shop will you prefer—a fixed price shop or a morality shop?\nIn groups or pairs, discuss and choose the best answer to this question.\nThen say why you have chosen that answer.\nSuppose, you are alone in the school yard. Suddenly you find a hundred-taka\nnote lying on the ground. What will you do?\nI will\npick up the money and hand over it to the Head Teacher.\npick up the money and quickly put it in my pocket.\nleave the note where it is lying.\nD Discuss in groups and write an answer to this question.\nIs it possible to open a Morality Shop in your school?\nYou may discuss the following points / issues:\npermission, things / items,\nmoney / fund, how to prevent stealing",
+  "aiReadyText": "38 ENGLISH FOR TODAY\nStudents : Wrong thing.\nThen your conscience will tell you, “This is a wrong thing. You must\nnot do it.” If you steal or do a bad thing, your conscience will prick\nyou and trouble you. And you will never have your peace of mind.\nSo, to be a good and happy person, you should have a clear conscience.\nTick the best answers to the following multiple choice questions.\n“The students are confused.” The underlined words mean they\ncan think clearly.\ncannot understand.\nare unable to speak.\nWhen you buy a thing from a Morality Shop, you\npay the money to the office.\npay the money later.\nkeep the money in the shop.\nA person with a clear conscience\nusually does the wrong thing.\nalways gets confused.\nalways does the right thing.\nin pairs. Ask and answer the following questions.\nWhat are the advantages and disadvantages of a morality shop?\nWhat kind of shop will you prefer—a fixed price shop or a morality shop?\nIn groups or pairs, discuss and choose the best answer to this question.\nThen say why you have chosen that answer.\nSuppose, you are alone in the school yard. Suddenly you find a hundred-taka\nnote lying on the ground. What will you do?\npick up the money and hand over it to the Head Teacher.\npick up the money and quickly put it in my pocket.\nleave the note where it is lying.\nD Discuss in groups and write an answer to this question.\nIs it possible to open a Morality Shop in your school?\nYou may discuss the following points / issues:\npermission, things / items,\nmoney / fund, how to prevent stealing"
+}
