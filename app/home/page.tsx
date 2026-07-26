@@ -40,6 +40,7 @@ type ClassOption = {
 
 type BookOption = {
   id: string;
+  classLevel: number;
   title: string;
   subtitle: string;
   available: boolean;
@@ -55,25 +56,27 @@ const classOptions: ClassOption[] = [
   {
     id: 7,
     title: "Class 7",
-    available: false,
+    available: true,
   },
   {
     id: 8,
     title: "Class 8",
-    available: false,
+    available: true,
   },
 ];
 
 const bookOptions: BookOption[] = [
   {
     id: "class6-english",
+    classLevel: 6,
     title: "English For Today",
-    subtitle: "Available now",
+    subtitle: "Class 6 — Available now",
     available: true,
     icon: BookOpen,
   },
   {
     id: "class6-bangla",
+    classLevel: 6,
     title: "Bangla",
     subtitle: "Coming soon",
     available: false,
@@ -81,6 +84,7 @@ const bookOptions: BookOption[] = [
   },
   {
     id: "class6-mathematics",
+    classLevel: 6,
     title: "Mathematics",
     subtitle: "Coming soon",
     available: false,
@@ -88,10 +92,27 @@ const bookOptions: BookOption[] = [
   },
   {
     id: "class6-science",
+    classLevel: 6,
     title: "Science",
     subtitle: "Coming soon",
     available: false,
     icon: FlaskConical,
+  },
+  {
+    id: "class7-english",
+    classLevel: 7,
+    title: "English For Today",
+    subtitle: "Class 7 — OCR preview",
+    available: true,
+    icon: BookOpen,
+  },
+  {
+    id: "class8-english",
+    classLevel: 8,
+    title: "English For Today",
+    subtitle: "Class 8 — OCR preview",
+    available: true,
+    icon: BookOpen,
   },
 ];
 
@@ -167,6 +188,12 @@ export default function HomePage() {
   const [selectedBook, setSelectedBook] =
     useState("class6-english");
 
+  const visibleBookOptions =
+    bookOptions.filter(
+      (book) =>
+        book.classLevel === selectedClass,
+    );
+
   useEffect(() => {
     setStudentName(
       getStoredStudentName() || "Student",
@@ -183,26 +210,36 @@ export default function HomePage() {
         "selectedBookId",
       ) ?? "class6-english";
 
-    if (storedClass === 6) {
-      setSelectedClass(storedClass);
-    }
+    const safeClass = [6, 7, 8].includes(
+      storedClass,
+    )
+      ? storedClass
+      : 6;
 
-    if (
+    setSelectedClass(safeClass);
+
+    const storedBookIsValid =
       bookOptions.some(
         (book) =>
           book.id === storedBook &&
+          book.classLevel === safeClass &&
           book.available,
-      )
-    ) {
-      setSelectedBook(storedBook);
-    }
+      );
+
+    setSelectedBook(
+      storedBookIsValid
+        ? storedBook
+        : `class${safeClass}-english`,
+    );
   }, []);
 
   function continueToReader() {
     const activeBook =
       bookOptions.find(
         (book) =>
-          book.id === selectedBook,
+          book.id === selectedBook &&
+          book.classLevel === selectedClass &&
+          book.available,
       );
 
     localStorage.setItem(
@@ -221,7 +258,15 @@ export default function HomePage() {
         "English For Today",
     );
 
-    router.push("/reader");
+    if (!activeBook) {
+      return;
+    }
+
+    router.push(
+      `/reader?book=${encodeURIComponent(
+        activeBook.id,
+      )}`,
+    );
   }
 
   function logout() {
@@ -409,11 +454,15 @@ export default function HomePage() {
                       disabled={
                         !classItem.available
                       }
-                      onClick={() =>
+                      onClick={() => {
                         setSelectedClass(
                           classItem.id,
-                        )
-                      }
+                        );
+
+                        setSelectedBook(
+                          `class${classItem.id}-english`,
+                        );
+                      }}
                       className={`w-full rounded-[24px] border px-5 py-5 text-left transition duration-300 ${
                         selected
                           ? "border-emerald-400/60 bg-gradient-to-r from-emerald-100 to-emerald-400/70 text-slate-950 shadow-[0_13px_30px_rgba(16,185,129,0.25)]"
@@ -452,7 +501,7 @@ export default function HomePage() {
             />
 
             <div className="mt-6 grid gap-4 sm:grid-cols-2">
-              {bookOptions.map(
+              {visibleBookOptions.map(
                 (book) => {
                   const BookIcon =
                     book.icon;
@@ -524,9 +573,12 @@ export default function HomePage() {
                 type="button"
                 onClick={continueToReader}
                 disabled={
-                  selectedClass !== 6 ||
-                  selectedBook !==
-                    "class6-english"
+                  !bookOptions.some(
+                    (book) =>
+                      book.id === selectedBook &&
+                      book.classLevel === selectedClass &&
+                      book.available,
+                  )
                 }
                 className="group flex items-center justify-center gap-2 rounded-full border border-slate-200 bg-white px-6 py-3 text-sm font-black text-slate-950 shadow-[0_12px_26px_rgba(51,65,85,0.18)] transition hover:-translate-y-1 hover:bg-emerald-600 hover:text-white disabled:cursor-not-allowed disabled:opacity-40"
               >

@@ -92,6 +92,51 @@ type TeacherTool =
   | "bangla"
   | "grammar";
 
+type BookConfig = {
+  id: string;
+  classLevel: number;
+  title: string;
+  startPage: number;
+};
+
+const BOOK_CONFIGS: Record<string, BookConfig> = {
+  "class6-english": {
+    id: "class6-english",
+    classLevel: 6,
+    title: "English For Today — Class 6",
+    startPage: 6,
+  },
+  "class7-english": {
+    id: "class7-english",
+    classLevel: 7,
+    title: "English For Today — Class 7",
+    startPage: 1,
+  },
+  "class8-english": {
+    id: "class8-english",
+    classLevel: 8,
+    title: "English For Today — Class 8",
+    startPage: 1,
+  },
+};
+
+function getAvailableLastPage(
+  data: IndexData | null,
+) {
+  const availablePages =
+    data?.pages
+      ?.map((page) => page.pageNumber)
+      .filter((page) =>
+        Number.isInteger(page),
+      ) ?? [];
+
+  if (availablePages.length > 0) {
+    return Math.max(...availablePages);
+  }
+
+  return data?.totalPdfPages ?? 1;
+}
+
 
 function formatAIOutput(
   value: unknown,
@@ -113,6 +158,9 @@ export default function ReaderPage() {
 
   const [studentKey, setStudentKey] =
     useState("");
+
+  const [bookId, setBookId] =
+    useState("class6-english");
 
   const [indexData, setIndexData] =
     useState<IndexData | null>(null);
@@ -157,19 +205,30 @@ export default function ReaderPage() {
   ] = useState("");
 
 
-  const totalPages =
-    indexData?.totalPdfPages ?? 115;
+  const currentBook =
+    BOOK_CONFIGS[bookId] ??
+    BOOK_CONFIGS["class6-english"];
 
+  const totalPages =
+    getAvailableLastPage(indexData);
+
+  const fullPdfPages =
+    indexData?.totalPdfPages ?? totalPages;
 
   const activeLesson = useMemo(
-    () => getLessonForPage(pageNumber),
-    [pageNumber],
+    () =>
+      bookId === "class6-english"
+        ? getLessonForPage(pageNumber)
+        : null,
+    [bookId, pageNumber],
   );
 
 
-  async function loadIndex() {
+  async function loadIndex(
+    targetBookId = bookId,
+  ) {
     const response = await fetch(
-      "/api/books/class6/index",
+      `/api/books/${targetBookId}/index`,
       {
         cache: "no-store",
       },
@@ -186,14 +245,18 @@ export default function ReaderPage() {
     }
 
     setIndexData(data);
+
+    return data;
   }
 
 
   async function loadPage(
     nextPage: number,
+    targetBookId = bookId,
+    maximumPage = totalPages,
   ) {
     const safePage = Math.min(
-      totalPages,
+      maximumPage,
       Math.max(1, nextPage),
     );
 
@@ -205,7 +268,7 @@ export default function ReaderPage() {
 
     try {
       const response = await fetch(
-        `/api/books/class6/pages/${safePage}`,
+        `/api/books/${targetBookId}/pages/${safePage}`,
         {
           cache: "no-store",
         },
@@ -246,7 +309,9 @@ export default function ReaderPage() {
     setTeacherError("");
 
     const lesson =
-      getLessonForPage(pageNumber);
+      bookId === "class6-english"
+        ? getLessonForPage(pageNumber)
+        : null;
 
     localStorage.setItem(
       "selectedLine",
@@ -260,7 +325,7 @@ export default function ReaderPage() {
 
     localStorage.setItem(
       "selectedLessonNo",
-      String(lesson?.lessonNo ?? 0),
+      String(lesson?.lessonNo ?? Math.max(1, pageNumber)),
     );
 
     localStorage.setItem(
@@ -287,7 +352,9 @@ export default function ReaderPage() {
 
     try {
       const lesson =
-        getLessonForPage(pageNumber);
+        bookId === "class6-english"
+          ? getLessonForPage(pageNumber)
+          : null;
 
       const response = await fetch(
         "/api/agent/learning-loop",
@@ -298,10 +365,11 @@ export default function ReaderPage() {
               "application/json",
           },
           body: JSON.stringify({
-            studentId: studentKey,
-            studentKey,
+            studentId: studentKey || "demo-student",
+            studentKey: studentKey || "demo-student",
+            bookId,
             lessonNo:
-              lesson?.lessonNo ?? 0,
+              lesson?.lessonNo ?? Math.max(1, pageNumber),
             selectedLine:
               selectedLine.cleanText ??
               selectedLine.text,
@@ -360,6 +428,69 @@ export default function ReaderPage() {
   }
 
 
+  async function switchBook(
+    nextBookId: string,
+  ) {
+    const nextBook =
+      BOOK_CONFIGS[nextBookId];
+
+    if (!nextBook) {
+      return;
+    }
+
+    setBookId(nextBookId);
+    setIndexData(null);
+    setPageData(null);
+    setSelectedLine(null);
+    setTeacherResponse("");
+    setTeacherError("");
+    setLoading(true);
+    setError("");
+
+    localStorage.setItem(
+      "selectedClass",
+      String(nextBook.classLevel),
+    );
+
+    localStorage.setItem(
+      "selectedBookId",
+      nextBook.id,
+    );
+
+    localStorage.setItem(
+      "selectedBookTitle",
+      nextBook.title,
+    );
+
+    try {
+      const nextIndex =
+        await loadIndex(nextBookId);
+
+      const lastAvailablePage =
+        getAvailableLastPage(nextIndex);
+
+      const firstPage = Math.min(
+        nextBook.startPage,
+        lastAvailablePage,
+      );
+
+      await loadPage(
+        firstPage,
+        nextBookId,
+        lastAvailablePage,
+      );
+    } catch (switchError) {
+      setError(
+        switchError instanceof Error
+          ? switchError.message
+          : "Book could not be opened.",
+      );
+
+      setLoading(false);
+    }
+  }
+
+
   function submitJumpPage() {
     const requestedPage =
       Number(jumpPage);
@@ -384,22 +515,27 @@ export default function ReaderPage() {
     setStudentName(name);
     setStudentKey(key);
 
-    async function startReader() {
-      try {
-        await loadIndex();
-        await loadPage(6);
-      } catch (startError) {
-        setError(
-          startError instanceof Error
-            ? startError.message
-            : "Reader could not start.",
-        );
+    const queryBook =
+      new URLSearchParams(
+        window.location.search,
+      ).get("book");
 
-        setLoading(false);
-      }
-    }
+    const storedBook =
+      localStorage.getItem(
+        "selectedBookId",
+      );
 
-    startReader();
+    const requestedBook =
+      queryBook ??
+      storedBook ??
+      "class6-english";
+
+    const safeBook =
+      BOOK_CONFIGS[requestedBook]
+        ? requestedBook
+        : "class6-english";
+
+    void switchBook(safeBook);
   }, []);
 
 
@@ -457,7 +593,7 @@ export default function ReaderPage() {
             </p>
 
             <p className="mt-3 text-sm font-black text-orange-700">
-              PDF Page {pageNumber} / {totalPages}
+              OCR Page {pageNumber} / {totalPages}
             </p>
 
             <p className="mt-1 text-sm font-bold text-slate-600">
@@ -467,37 +603,56 @@ export default function ReaderPage() {
             <p className="mt-1 text-xs font-bold text-slate-500">
               Source: {pageData?.source ?? "--"}
             </p>
+
+            {fullPdfPages > totalPages && (
+              <p className="mt-1 text-xs font-bold text-blue-600">
+                PDF has {fullPdfPages} pages; {totalPages} OCR pages are ready.
+              </p>
+            )}
           </div>
 
-          <div className="mt-5">
-            <p className="mb-2 text-xs font-black uppercase text-slate-500">
-              Jump to lesson
-            </p>
+          {bookId === "class6-english" ? (
+            <div className="mt-5">
+              <p className="mb-2 text-xs font-black uppercase text-slate-500">
+                Jump to lesson
+              </p>
 
-            <div className="max-h-64 space-y-2 overflow-y-auto pr-1">
-              {class6Lessons.map(
-                (lesson) => (
-                  <button
-                    key={lesson.lessonNo}
-                    onClick={() =>
-                      loadPage(
-                        lesson.pdfStart,
-                      )
-                    }
-                    className={`w-full rounded-2xl px-3 py-2 text-left text-xs font-black transition ${
-                      activeLesson?.lessonNo ===
-                      lesson.lessonNo
-                        ? "bg-orange-500 text-white"
-                        : "bg-white/75 text-slate-700 hover:bg-orange-50"
-                    }`}
-                  >
-                    {lesson.lessonNo}.{" "}
-                    {lesson.title}
-                  </button>
-                ),
-              )}
+              <div className="max-h-64 space-y-2 overflow-y-auto pr-1">
+                {class6Lessons.map(
+                  (lesson) => (
+                    <button
+                      key={lesson.lessonNo}
+                      onClick={() =>
+                        loadPage(
+                          lesson.pdfStart,
+                        )
+                      }
+                      className={`w-full rounded-2xl px-3 py-2 text-left text-xs font-black transition ${
+                        activeLesson?.lessonNo ===
+                        lesson.lessonNo
+                          ? "bg-orange-500 text-white"
+                          : "bg-white/75 text-slate-700 hover:bg-orange-50"
+                      }`}
+                    >
+                      {lesson.lessonNo}.{" "}
+                      {lesson.title}
+                    </button>
+                  ),
+                )}
+              </div>
             </div>
-          </div>
+          ) : (
+            <div className="mt-5 rounded-3xl bg-blue-50 p-4">
+              <p className="text-xs font-black uppercase text-blue-700">
+                OCR preview
+              </p>
+
+              <p className="mt-2 text-sm font-bold text-slate-600">
+                Pages 1–{totalPages} are currently processed.
+                Process the full PDF to unlock every page.
+              </p>
+            </div>
+          )}
 
           <div className="mt-5 grid gap-3">
             <Link
@@ -543,8 +698,30 @@ export default function ReaderPage() {
                 </p>
 
                 <h1 className="text-2xl font-black">
-                  English For Today
+                  {currentBook.title}
                 </h1>
+
+                <select
+                  value={bookId}
+                  onChange={(event) =>
+                    void switchBook(
+                      event.target.value,
+                    )
+                  }
+                  className="mt-2 rounded-xl border border-blue-100 bg-white px-3 py-2 text-xs font-black text-slate-700 outline-none"
+                  aria-label="Select English book"
+                >
+                  {Object.values(
+                    BOOK_CONFIGS,
+                  ).map((book) => (
+                    <option
+                      key={book.id}
+                      value={book.id}
+                    >
+                      Class {book.classLevel}
+                    </option>
+                  ))}
+                </select>
               </div>
             </div>
 

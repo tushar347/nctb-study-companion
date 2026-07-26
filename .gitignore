@@ -37,3 +37,15 @@ components/*.backup.*.tsx
 .env.vercel.production
 .env*.backup
 prisma/*.backup.prisma
+# Private environment files
+.env.*
+!.env.example
+# Generated files
+*.log
+# Local backups and archives
+backups/
+*.zip
+# Temporary installation scripts
+install-*.ps1
+fix-*.ps1
+public/ocr/books/
