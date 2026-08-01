@@ -11,6 +11,7 @@ import {
   GraduationCap,
   Home,
   LogOut,
+  Mic2,
   UserRound,
 } from "lucide-react";
 
@@ -20,6 +21,7 @@ const navItems = [
   { href: "/teacher", label: "AI Teacher", icon: GraduationCap },
   { href: "/quiz", label: "Quiz", icon: ClipboardList },
   { href: "/games", label: "Games", icon: Gamepad2 },
+  { href: "/voice-practice", label: "Voice Practice", icon: Mic2 },
   { href: "/progress", label: "Progress", icon: BarChart3 },
 ];
 
@@ -118,7 +120,19 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
             <nav className="flex flex-wrap gap-2 rounded-3xl border border-white/70 bg-white/55 p-2 shadow-inner backdrop-blur-xl">
               {navItems.map((item) => {
                 const Icon = item.icon;
-                const active = pathname === item.href;
+                const active =
+                  item.href ===
+                  "/voice-practice"
+                    ? pathname ===
+                        item.href ||
+                      pathname.startsWith(
+                        "/practice/",
+                      )
+                    : pathname ===
+                        item.href ||
+                      pathname.startsWith(
+                        `${item.href}/`,
+                      );
 
                 return (
                   <Link

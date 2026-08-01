@@ -10,6 +10,7 @@ import Link from "next/link";
 
 import {
   AlertCircle,
+  AudioLines,
   BookOpen,
   Bot,
   Brain,
@@ -20,6 +21,8 @@ import {
   Gamepad2,
   Languages,
   Loader2,
+  MessageCircle,
+  Mic,
   Minus,
   Plus,
   ScanText,
@@ -448,6 +451,134 @@ export default function ReaderPage() {
   }
 
 
+  function launchSpellingPractice(
+    line: OCRLine | null,
+  ) {
+    try {
+      const context =
+        buildCurrentQuizContext(line);
+
+      persistLegacyQuizSelection(line);
+      writeQuizLaunchContext(context);
+
+      const parameters =
+        new URLSearchParams({
+          contextId:
+            context.contextId,
+          bookId:
+            context.book.id,
+          page: String(
+            context.page.number,
+          ),
+        });
+
+      window.location.assign(
+        `/practice/spelling?${parameters.toString()}`,
+      );
+    } catch (launchError) {
+      setError(
+        launchError instanceof Error
+          ? launchError.message
+          : "Spelling practice could not be prepared.",
+      );
+    }
+  }
+
+
+  function launchReadAloud(
+    line: OCRLine | null,
+  ) {
+    try {
+      if (!line) {
+        throw new Error(
+          "Select a textbook line before starting Read Aloud.",
+        );
+      }
+
+      const context =
+        buildCurrentQuizContext(
+          line,
+        );
+
+      persistLegacyQuizSelection(
+        line,
+      );
+
+      writeQuizLaunchContext(
+        context,
+      );
+
+      const parameters =
+        new URLSearchParams({
+          contextId:
+            context.contextId,
+          bookId:
+            context.book.id,
+          page: String(
+            context.page.number,
+          ),
+        });
+
+      window.location.assign(
+        `/practice/read-aloud?${parameters.toString()}`,
+      );
+    } catch (launchError) {
+      setError(
+        launchError instanceof Error
+          ? launchError.message
+          : "Read Aloud could not be prepared.",
+      );
+    }
+  }
+
+
+  function launchSpeakingPractice(
+    line: OCRLine | null,
+  ) {
+    try {
+      if (!line) {
+        throw new Error(
+          "Select a textbook line before starting Speaking Practice.",
+        );
+      }
+
+      const context =
+        buildCurrentQuizContext(
+          line,
+        );
+
+      persistLegacyQuizSelection(
+        line,
+      );
+
+      writeQuizLaunchContext(
+        context,
+      );
+
+      const parameters =
+        new URLSearchParams({
+          contextId:
+            context.contextId,
+          bookId:
+            context.book.id,
+          page: String(
+            context.page.number,
+          ),
+        });
+
+      window.location.assign(
+        `/practice/speaking?${parameters.toString()}`,
+      );
+    } catch (launchError) {
+      setError(
+        launchError instanceof Error
+          ? launchError.message
+          : "Speaking Practice could not be prepared.",
+      );
+    }
+  }
+
+
   async function askTeacher(
     tool: TeacherTool,
   ) {
@@ -782,6 +913,48 @@ export default function ReaderPage() {
               className="rounded-2xl bg-emerald-600 px-4 py-3 text-center text-sm font-black text-white disabled:cursor-not-allowed disabled:opacity-40"
             >
               Quiz
+            </button>
+
+            <button
+              type="button"
+              onClick={() =>
+                launchSpellingPractice(
+                  selectedLine,
+                )
+              }
+              disabled={!selectedLine || !pageData}
+              className="flex items-center justify-center gap-2 rounded-2xl bg-cyan-700 px-4 py-3 text-sm font-black text-white disabled:cursor-not-allowed disabled:opacity-40"
+            >
+              <Mic size={17} />
+              Voice Spelling from Selected Line
+            </button>
+
+            <button
+              type="button"
+              onClick={() =>
+                launchReadAloud(
+                  selectedLine,
+                )
+              }
+              disabled={!selectedLine || !pageData}
+              className="flex items-center justify-center gap-2 rounded-2xl bg-violet-700 px-4 py-3 text-sm font-black text-white disabled:cursor-not-allowed disabled:opacity-40"
+            >
+              <AudioLines size={17} />
+              Read Aloud
+            </button>
+
+            <button
+              type="button"
+              onClick={() =>
+                launchSpeakingPractice(
+                  selectedLine,
+                )
+              }
+              disabled={!selectedLine || !pageData}
+              className="flex items-center justify-center gap-2 rounded-2xl bg-orange-700 px-4 py-3 text-sm font-black text-white disabled:cursor-not-allowed disabled:opacity-40"
+            >
+              <MessageCircle size={17} />
+              Speaking Practice
             </button>
 
             <Link
@@ -1148,6 +1321,34 @@ export default function ReaderPage() {
             >
               <Brain size={17} />
               Quiz from Selected Line
+            </button>
+
+            <button
+              type="button"
+              onClick={() =>
+                launchReadAloud(
+                  selectedLine,
+                )
+              }
+              disabled={!selectedLine || !pageData}
+              className="flex items-center justify-center gap-2 rounded-2xl bg-violet-700 px-4 py-3 text-sm font-black text-white disabled:cursor-not-allowed disabled:opacity-40"
+            >
+              <AudioLines size={17} />
+              Read Aloud
+            </button>
+
+            <button
+              type="button"
+              onClick={() =>
+                launchSpeakingPractice(
+                  selectedLine,
+                )
+              }
+              disabled={!selectedLine || !pageData}
+              className="flex items-center justify-center gap-2 rounded-2xl bg-orange-700 px-4 py-3 text-sm font-black text-white disabled:cursor-not-allowed disabled:opacity-40"
+            >
+              <MessageCircle size={17} />
+              Speaking Practice
             </button>
 
             <Link

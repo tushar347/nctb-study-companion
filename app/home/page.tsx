@@ -23,6 +23,7 @@ import {
   Home,
   Languages,
   LogOut,
+  Mic2,
   School,
   UserRound,
   type LucideIcon,
@@ -419,6 +420,13 @@ export default function HomePage() {
                 icon={<Gamepad2 size={16} />}
               >
                 Games
+              </NavigationItem>
+
+              <NavigationItem
+                href="/voice-practice"
+                icon={<Mic2 size={16} />}
+              >
+                Voice Practice
               </NavigationItem>
 
               <NavigationItem

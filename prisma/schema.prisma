@@ -32,6 +32,8 @@ model Student {
   wallet             StudentWallet?
   rewardTransactions RewardTransaction[]
   aiUsageLogs        AiUsageLog[]
+  spellingAttempts   SpellingAttempt[]
+  speakingAttempts   SpeakingAttempt[]
 }
 
 model StudentMemory {
@@ -251,4 +253,76 @@ model OCRLine {
 
   @@unique([pageId, lineNumber])
   @@index([pageId])
+}
+
+model SpellingAttempt {
+  id               String  @id @default(cuid())
+  studentId        String
+  bookKey          String
+  classLevel       Int?
+  pageNumber       Int
+  lessonNo         Int?
+  sourceLineId     String?
+  sourceText       String?
+  targetWord       String
+  submittedAnswer  String
+  normalizedAnswer String
+  inputMode        String
+  isCorrect        Boolean
+  accuracy         Float
+  responseTimeMs   Int?
+  attemptNumber    Int     @default(1)
+
+  missingLettersJson String @default("[]")
+  extraLettersJson   String @default("[]")
+  substitutionsJson  String @default("[]")
+
+  createdAt DateTime @default(now())
+
+  student Student @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@index([studentId])
+  @@index([bookKey, pageNumber])
+  @@index([studentId, targetWord])
+  @@index([createdAt])
+}
+
+model SpeakingAttempt {
+  id                String  @id @default(cuid())
+  studentId         String
+  practiceType      String
+  bookKey           String
+  classLevel        Int?
+  pageNumber        Int
+  lessonNo          Int?
+  sourceLineId      String?
+  sourceText        String
+  promptText        String?
+  transcript        String
+  durationMs        Int?
+  expectedWordCount Int     @default(0)
+  spokenWordCount   Int     @default(0)
+  matchedWordCount  Int     @default(0)
+  accuracyScore     Float?
+  completenessScore Float?
+  relevanceScore    Float?
+  fluencyScore      Float?
+  overallScore      Float
+  wordsPerMinute    Float?
+  attemptNumber     Int     @default(1)
+
+  missingItemsJson  String @default("[]")
+  extraItemsJson    String @default("[]")
+  replacementsJson  String @default("[]")
+  evaluationVersion String @default("voice-practice-v1")
+
+  createdAt DateTime @default(now())
+
+  student Student @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@index([studentId])
+  @@index([practiceType])
+  @@index([bookKey, pageNumber])
+  @@index([studentId, sourceLineId])
+  @@index([createdAt])
 }
