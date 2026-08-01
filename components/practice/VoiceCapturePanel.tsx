@@ -19,7 +19,7 @@ export type VoiceCaptureValue = {
   hasRecording: boolean;
 };
 
-type SpeechResultEvent = {
+type VoiceSpeechResultEvent = {
   resultIndex: number;
   results: {
     length: number;
@@ -32,35 +32,35 @@ type SpeechResultEvent = {
   };
 };
 
-type SpeechErrorEvent = {
+type VoiceSpeechErrorEvent = {
   error?: string;
   message?: string;
 };
 
-type Recognition = {
+type VoiceRecognition = {
   lang: string;
   interimResults: boolean;
   continuous: boolean;
   maxAlternatives: number;
   onresult:
-    | ((event: SpeechResultEvent) => void)
+    | ((event: VoiceSpeechResultEvent) => void)
     | null;
   onerror:
-    | ((event: SpeechErrorEvent) => void)
+    | ((event: VoiceSpeechErrorEvent) => void)
     | null;
   onend: (() => void) | null;
   start: () => void;
   stop: () => void;
 };
 
-type RecognitionConstructor =
-  new () => Recognition;
+type VoiceRecognitionConstructor =
+  new () => VoiceRecognition;
 
-type VoiceWindow = Window & {
+type VoiceSpeechWindow = {
   SpeechRecognition?:
-    RecognitionConstructor;
+    VoiceRecognitionConstructor;
   webkitSpeechRecognition?:
-    RecognitionConstructor;
+    VoiceRecognitionConstructor;
 };
 
 function chooseMimeType() {
@@ -137,7 +137,7 @@ export default function VoiceCapturePanel({
     );
 
   const recognitionRef =
-    useRef<Recognition | null>(
+    useRef<VoiceRecognition | null>(
       null,
     );
 
@@ -305,7 +305,7 @@ export default function VoiceCapturePanel({
         };
 
       const voiceWindow =
-        window as VoiceWindow;
+        window as unknown as VoiceSpeechWindow;
 
       const RecognitionClass =
         voiceWindow
@@ -314,22 +314,22 @@ export default function VoiceCapturePanel({
           .webkitSpeechRecognition;
 
       if (RecognitionClass) {
-        const recognition =
+        const VoiceRecognition =
           new RecognitionClass();
 
-        recognition.lang =
+        VoiceRecognition.lang =
           "en-US";
 
-        recognition.interimResults =
+        VoiceRecognition.interimResults =
           true;
 
-        recognition.continuous =
+        VoiceRecognition.continuous =
           true;
 
-        recognition.maxAlternatives =
+        VoiceRecognition.maxAlternatives =
           1;
 
-        recognition.onresult =
+        VoiceRecognition.onresult =
           (event) => {
             let finalAddition =
               "";
@@ -394,25 +394,25 @@ export default function VoiceCapturePanel({
             );
           };
 
-        recognition.onerror =
+        VoiceRecognition.onerror =
           (event) => {
             setError(
               event.message ||
                 event.error ||
-                "Automatic speech recognition stopped. You can type the transcript below after recording.",
+                "Automatic speech VoiceRecognition stopped. You can type the transcript below after recording.",
             );
           };
 
-        recognition.onend =
+        VoiceRecognition.onend =
           () => {
             setInterim("");
           };
 
         recognitionRef.current =
-          recognition;
+          VoiceRecognition;
       } else {
         setError(
-          "Automatic speech recognition is unavailable. Record your voice, play it back, then type the spoken words below.",
+          "Automatic speech VoiceRecognition is unavailable. Record your voice, play it back, then type the spoken words below.",
         );
       }
 
@@ -542,7 +542,7 @@ export default function VoiceCapturePanel({
         <div className="mt-4 flex items-center gap-3 rounded-2xl bg-red-50 p-4 text-red-800">
           <span className="h-3 w-3 animate-pulse rounded-full bg-red-600" />
           <p className="font-black">
-            Recording…
+            RecordingÃ¢â‚¬Â¦
           </p>
         </div>
       ) : null}
@@ -588,7 +588,7 @@ export default function VoiceCapturePanel({
 
             setInterim("");
           }}
-          placeholder="Your spoken words will appear here. You may correct recognition mistakes before checking."
+          placeholder="Your spoken words will appear here. You may correct VoiceRecognition mistakes before checking."
           className="mt-2 min-h-28 w-full rounded-2xl border border-slate-200 bg-white p-4 font-semibold leading-7 outline-none focus:border-blue-600"
         />
       </label>
