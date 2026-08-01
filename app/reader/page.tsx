@@ -40,6 +40,12 @@ import {
   getLessonForPage,
 } from "@/lib/book/class6Lessons";
 
+import {
+  buildQuizHref,
+  createQuizLaunchContext,
+  writeQuizLaunchContext,
+} from "@/lib/quiz/quizLaunchContext";
+
 
 type OCRLine = {
   id: string;
@@ -301,21 +307,27 @@ export default function ReaderPage() {
   }
 
 
-  function selectBookLine(
-    line: OCRLine,
+  function persistLegacyQuizSelection(
+    line: OCRLine | null,
   ) {
-    setSelectedLine(line);
-    setTeacherResponse("");
-    setTeacherError("");
-
     const lesson =
       bookId === "class6-english"
         ? getLessonForPage(pageNumber)
         : null;
 
     localStorage.setItem(
-      "selectedLine",
-      line.cleanText ?? line.text,
+      "selectedClass",
+      String(currentBook.classLevel),
+    );
+
+    localStorage.setItem(
+      "selectedBookId",
+      currentBook.id,
+    );
+
+    localStorage.setItem(
+      "selectedBookTitle",
+      currentBook.title,
     );
 
     localStorage.setItem(
@@ -323,15 +335,116 @@ export default function ReaderPage() {
       String(pageNumber),
     );
 
-    localStorage.setItem(
-      "selectedLessonNo",
-      String(lesson?.lessonNo ?? Math.max(1, pageNumber)),
-    );
+    if (line) {
+      localStorage.setItem(
+        "selectedLine",
+        line.cleanText ?? line.text,
+      );
+    } else {
+      localStorage.removeItem(
+        "selectedLine",
+      );
+    }
 
-    localStorage.setItem(
-      "selectedLessonTitle",
-      lesson?.title ?? "Book Page",
-    );
+    if (lesson) {
+      localStorage.setItem(
+        "selectedLessonNo",
+        String(lesson.lessonNo),
+      );
+
+      localStorage.setItem(
+        "selectedLessonTitle",
+        lesson.title,
+      );
+    } else {
+      localStorage.removeItem(
+        "selectedLessonNo",
+      );
+
+      localStorage.setItem(
+        "selectedLessonTitle",
+        "Lesson mapping unavailable",
+      );
+    }
+  }
+
+
+  function selectBookLine(
+    line: OCRLine,
+  ) {
+    setSelectedLine(line);
+    setTeacherResponse("");
+    setTeacherError("");
+
+    persistLegacyQuizSelection(line);
+  }
+
+
+  function buildCurrentQuizContext(
+    line: OCRLine | null,
+  ) {
+    if (!pageData) {
+      throw new Error(
+        "The current OCR page is not ready.",
+      );
+    }
+
+    const lesson =
+      bookId === "class6-english"
+        ? getLessonForPage(pageNumber)
+        : null;
+
+    const sourceLines =
+      pageData.aiReadyLines.length > 0
+        ? pageData.aiReadyLines
+        : pageData.lines;
+
+    return createQuizLaunchContext({
+      source: "reader",
+      book: {
+        id: currentBook.id,
+        title: currentBook.title,
+        classLevel:
+          currentBook.classLevel,
+      },
+      lesson: {
+        number:
+          lesson?.lessonNo ?? null,
+        title: lesson?.title ?? null,
+        resolution: lesson
+          ? "mapped"
+          : "unavailable",
+      },
+      page: {
+        number: pageNumber,
+        source: pageData.source,
+      },
+      selectedLine: line,
+      pageLines: sourceLines,
+    });
+  }
+
+
+  function launchQuiz(
+    line: OCRLine | null,
+  ) {
+    try {
+      const context =
+        buildCurrentQuizContext(line);
+
+      persistLegacyQuizSelection(line);
+      writeQuizLaunchContext(context);
+
+      window.location.assign(
+        buildQuizHref(context),
+      );
+    } catch (launchError) {
+      setError(
+        launchError instanceof Error
+          ? launchError.message
+          : "Quiz context could not be prepared.",
+      );
+    }
   }
 
 
@@ -662,12 +775,14 @@ export default function ReaderPage() {
               AI Teacher
             </Link>
 
-            <Link
-              href="/quiz"
-              className="rounded-2xl bg-emerald-600 px-4 py-3 text-center text-sm font-black text-white"
+            <button
+              type="button"
+              onClick={() => launchQuiz(null)}
+              disabled={!pageData}
+              className="rounded-2xl bg-emerald-600 px-4 py-3 text-center text-sm font-black text-white disabled:cursor-not-allowed disabled:opacity-40"
             >
               Quiz
-            </Link>
+            </button>
 
             <Link
               href="/games"
@@ -1023,22 +1138,17 @@ export default function ReaderPage() {
           </div>
 
           <div className="mt-5 grid gap-3">
-            <Link
-              href="/quiz"
-              onClick={() => {
-                if (selectedLine) {
-                  localStorage.setItem(
-                    "selectedLine",
-                    selectedLine.cleanText ??
-                      selectedLine.text,
-                  );
-                }
-              }}
-              className="flex items-center justify-center gap-2 rounded-2xl bg-emerald-600 px-4 py-3 text-sm font-black text-white"
+            <button
+              type="button"
+              onClick={() =>
+                launchQuiz(selectedLine)
+              }
+              disabled={!selectedLine || !pageData}
+              className="flex items-center justify-center gap-2 rounded-2xl bg-emerald-600 px-4 py-3 text-sm font-black text-white disabled:cursor-not-allowed disabled:opacity-40"
             >
               <Brain size={17} />
               Quiz from Selected Line
-            </Link>
+            </button>
 
             <Link
               href="/games"

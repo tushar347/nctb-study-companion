@@ -28,6 +28,15 @@ import {
   getStoredStudentName,
 } from "@/lib/studentSession";
 
+import {
+  createQuizLaunchContext,
+  readLegacyQuizLaunchContext,
+  readQuizLaunchContext,
+  writeQuizLaunchContext,
+  type QuizContextLine,
+  type QuizLaunchContextV1,
+} from "@/lib/quiz/quizLaunchContext";
+
 type Difficulty =
   | "easy"
   | "medium"
@@ -440,6 +449,24 @@ export default function QuizPage() {
   const [selectedText, setSelectedText] =
     useState("");
 
+  const [
+    sourcePassage,
+    setSourcePassage,
+  ] = useState("");
+
+  const [
+    launchContext,
+    setLaunchContext,
+  ] =
+    useState<QuizLaunchContextV1 | null>(
+      null,
+    );
+
+  const [
+    contextReady,
+    setContextReady,
+  ] = useState(false);
+
   const [difficulty, setDifficulty] =
     useState<Difficulty>("medium");
 
@@ -490,74 +517,221 @@ export default function QuizPage() {
     );
   }, [answers]);
 
-  useEffect(() => {
-    const storedBookId =
-      localStorage.getItem(
-        "selectedBookId",
-      ) ?? "class6-english";
-
-    const storedPageNumber = Number(
-      localStorage.getItem(
-        "selectedBookPdfPage",
-      ) ?? 1,
-    );
-
-    const safePageNumber =
-      Number.isInteger(storedPageNumber) &&
-      storedPageNumber > 0
-        ? storedPageNumber
-        : 1;
-
-    const storedLessonNo = Number(
-      localStorage.getItem(
-        "selectedLessonNo",
-      ) ?? safePageNumber,
-    );
-
-    const safeLessonNo =
-      Number.isInteger(storedLessonNo) &&
-      storedLessonNo > 0
-        ? storedLessonNo
-        : safePageNumber;
-
-    setStudentKey(
-      getStoredStudentKey() ||
-        "demo-student",
-    );
-
-    setStudentName(
-      getStoredStudentName() ||
-        "Student",
-    );
-
-    setBookId(storedBookId);
-
+  function applyQuizLaunchContext(
+    context: QuizLaunchContextV1,
+  ) {
+    setLaunchContext(context);
+    setBookId(context.book.id);
     setClassLevel(
-      Number(
-        localStorage.getItem(
-          "selectedClass",
-        ),
-      ) ||
-        inferClassLevel(
-          storedBookId,
-        ),
+      context.book.classLevel,
     );
-
-    setPageNumber(safePageNumber);
-    setLessonNo(safeLessonNo);
-
+    setPageNumber(
+      context.page.number,
+    );
+    setLessonNo(
+      context.lesson.number ?? 0,
+    );
     setLessonTitle(
-      localStorage.getItem(
-        "selectedLessonTitle",
-      ) ??
-        `English For Today — Page ${safePageNumber}`,
+      context.lesson.title ??
+        "Lesson mapping unavailable",
     );
-
     setSelectedText(
-      localStorage.getItem(
-        "selectedLine",
-      ) ?? "",
+      context.selectedLine?.text ?? "",
     );
+    setSourcePassage(
+      context.passage.text,
+    );
+  }
+
+  useEffect(() => {
+    let cancelled = false;
+
+    async function initializeQuizContext() {
+      setStudentKey(
+        getStoredStudentKey() ||
+          "demo-student",
+      );
+
+      setStudentName(
+        getStoredStudentName() ||
+          "Student",
+      );
+
+      const parameters =
+        new URLSearchParams(
+          window.location.search,
+        );
+
+      const expectedContextId =
+        parameters.get("contextId");
+
+      const storedContext =
+        readQuizLaunchContext(
+          expectedContextId,
+        );
+
+      if (storedContext) {
+        if (!cancelled) {
+          applyQuizLaunchContext(
+            storedContext,
+          );
+          setContextReady(true);
+        }
+
+        return;
+      }
+
+      const queryBookId =
+        parameters.get("bookId");
+
+      const queryPage = Number(
+        parameters.get("page"),
+      );
+
+      if (
+        queryBookId &&
+        Number.isInteger(queryPage) &&
+        queryPage > 0
+      ) {
+        try {
+          const response = await fetch(
+            `/api/books/${encodeURIComponent(
+              queryBookId,
+            )}/pages/${queryPage}`,
+            {
+              cache: "no-store",
+            },
+          );
+
+          const data =
+            (await response.json()) as {
+              success?: boolean;
+              source?: string;
+              lines?: QuizContextLine[];
+              aiReadyLines?: QuizContextLine[];
+              error?: string;
+            };
+
+          if (
+            !response.ok ||
+            !data.success
+          ) {
+            throw new Error(
+              data.error ??
+                "Reader context could not be reconstructed.",
+            );
+          }
+
+          const sourceLines =
+            data.aiReadyLines &&
+            data.aiReadyLines.length > 0
+              ? data.aiReadyLines
+              : data.lines ?? [];
+
+          const resolvedClassLevel =
+            inferClassLevel(
+              queryBookId,
+            );
+
+          const matchingStoredBook =
+            localStorage.getItem(
+              "selectedBookId",
+            ) === queryBookId;
+
+          const reconstructedContext =
+            createQuizLaunchContext({
+              contextId:
+                expectedContextId ??
+                undefined,
+              source:
+                "url-reconstruction",
+              book: {
+                id: queryBookId,
+                title:
+                  (matchingStoredBook
+                    ? localStorage.getItem(
+                        "selectedBookTitle",
+                      )
+                    : null) ||
+                  `English For Today — Class ${resolvedClassLevel}`,
+                classLevel:
+                  resolvedClassLevel,
+              },
+              lesson: {
+                number: null,
+                title: null,
+                resolution:
+                  "unavailable",
+              },
+              page: {
+                number: queryPage,
+                source:
+                  data.source ?? null,
+              },
+              selectedLine: null,
+              pageLines: sourceLines,
+            });
+
+          writeQuizLaunchContext(
+            reconstructedContext,
+          );
+
+          if (!cancelled) {
+            applyQuizLaunchContext(
+              reconstructedContext,
+            );
+            setWarning(
+              "The page context was reconstructed from the Reader URL. Select a line in the Reader for line-specific questions.",
+            );
+            setContextReady(true);
+          }
+
+          return;
+        } catch (contextError) {
+          if (!cancelled) {
+            setWarning(
+              contextError instanceof Error
+                ? contextError.message
+                : "Reader context reconstruction failed.",
+            );
+          }
+        }
+      }
+
+      const legacyContext =
+        readLegacyQuizLaunchContext();
+
+      if (legacyContext) {
+        writeQuizLaunchContext(
+          legacyContext,
+        );
+
+        if (!cancelled) {
+          applyQuizLaunchContext(
+            legacyContext,
+          );
+          setWarning(
+            "Legacy Reader context was recovered. Return to the Reader before the next quiz to create a fully verified context.",
+          );
+          setContextReady(true);
+        }
+
+        return;
+      }
+
+      if (!cancelled) {
+        setError(
+          "No verified Reader context was found. Return to the Reader, open a book page, and select a line or start a page quiz.",
+        );
+        setContextReady(false);
+      }
+    }
+
+    void initializeQuizContext();
+
+    return () => {
+      cancelled = true;
+    };
   }, []);
 
   async function generateModelQuiz() {
@@ -582,9 +756,34 @@ export default function QuizPage() {
             bookId,
             classLevel,
             pageNumber,
-            lessonNo,
-            lessonTitle,
+            lessonNo:
+              launchContext?.lesson
+                .number ?? null,
+            lessonTitle:
+              launchContext?.lesson
+                .title ?? lessonTitle,
             selectedText,
+            passageText:
+              sourcePassage,
+            contextId:
+              launchContext?.contextId ??
+              null,
+            selectedLineId:
+              launchContext?.selectedLine
+                ?.id ?? null,
+            selectedLineNumber:
+              launchContext?.selectedLine
+                ?.lineNumber ?? null,
+            lessonResolution:
+              launchContext?.lesson
+                .resolution ??
+              "unavailable",
+            passageSource:
+              launchContext?.passage
+                .source ?? null,
+            sourceLineIds:
+              launchContext?.passage
+                .lineIds ?? [],
             difficulty,
           }),
         },
@@ -682,6 +881,26 @@ export default function QuizPage() {
           pageNumber:
             paper.pageNumber,
           quizMode: "model",
+          contextId:
+            launchContext?.contextId ??
+            null,
+          sourceLessonNo:
+            launchContext?.lesson.number ??
+            null,
+          lessonResolution:
+            launchContext?.lesson
+              .resolution ??
+            "unavailable",
+          selectedLineId:
+            launchContext?.selectedLine
+              ?.id ?? null,
+          selectedLineNumber:
+            launchContext?.selectedLine
+              ?.lineNumber ?? null,
+          sourcePassage,
+          sourceLineIds:
+            launchContext?.passage
+              .lineIds ?? [],
         }),
       });
     } catch {
@@ -894,7 +1113,7 @@ export default function QuizPage() {
               </div>
 
               <div className="mt-5 min-h-48 rounded-3xl border border-orange-100 bg-orange-50/70 p-5 text-sm font-semibold leading-7 text-slate-700">
-                {selectedText ||
+                {sourcePassage || selectedText ||
                   `The complete cleaned OCR text from page ${pageNumber} will be used to create the model question.`}
               </div>
 
@@ -929,8 +1148,9 @@ export default function QuizPage() {
                 onClick={generateModelQuiz}
                 disabled={
                   loading ||
-                  (!selectedText &&
-                    pageNumber < 1)
+                  !contextReady ||
+                  (!sourcePassage &&
+                    !selectedText)
                 }
                 className="mt-5 flex w-full items-center justify-center gap-3 rounded-3xl bg-emerald-600 px-6 py-4 text-lg font-black text-white shadow-xl transition hover:bg-emerald-700 disabled:cursor-not-allowed disabled:opacity-40"
               >

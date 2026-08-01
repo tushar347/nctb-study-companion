@@ -1,4 +1,5 @@
 import { useAiTeacherCredit } from "@/lib/rewardSystem";
+import { isAiCreditLimitEnabled } from "@/lib/featureFlags";
 import { buildLessonContext } from "@/lib/buildLessonContext";
 import {
   getMemorySummaryForAgent,
@@ -114,13 +115,25 @@ export async function POST(request: Request) {
      * Every successful AI Teacher request uses 1 AI credit.
      * If the student has 0 credits, the request stops before generating an answer.
      */
-    const creditResult = await useAiTeacherCredit({
+    const creditLimitEnabled =
+      isAiCreditLimitEnabled();
+
+    const creditResult =
+      creditLimitEnabled
+        ? await useAiTeacherCredit({
       studentKey,
       lessonNo: Number(body.lessonNo),
       selectedLine: body.selectedLine,
       question: body.studentQuestion,
       toolUsed: body.requestedTool,
-    });
+    })
+        : {
+            success: true as const,
+            error: null,
+            wallet: null,
+            creditsUsed: 0,
+            bypassed: true,
+          };
 
     if (!creditResult.success) {
       return Response.json(
@@ -159,7 +172,7 @@ export async function POST(request: Request) {
       toolUsed: body.requestedTool,
       metadata: {
         studentQuestion: body.studentQuestion ?? null,
-        aiCreditUsed: true,
+        aiCreditUsed: creditLimitEnabled,
       },
     });
 
@@ -188,7 +201,7 @@ export async function POST(request: Request) {
         source: "fallback",
         memory: memorySummary,
         wallet: creditResult.wallet,
-        creditUsed: 1,
+        creditUsed: creditLimitEnabled ? 1 : 0,
       });
     }
 
@@ -249,7 +262,7 @@ export async function POST(request: Request) {
         source: "fallback",
         memory: memorySummary,
         wallet: creditResult.wallet,
-        creditUsed: 1,
+        creditUsed: creditLimitEnabled ? 1 : 0,
       });
     }
 
@@ -283,7 +296,7 @@ export async function POST(request: Request) {
       source: "gemini",
       memory: memorySummary,
       wallet: creditResult.wallet,
-      creditUsed: 1,
+      creditUsed: creditLimitEnabled ? 1 : 0,
     });
   } catch (error) {
     return Response.json(
