@@ -15,6 +15,10 @@ import {
 import {
   prisma,
 } from "@/lib/prisma";
+import {
+  awardAttemptPoints,
+} from "@/lib/scoring/awardAttemptPoints";
+
 
 import {
   evaluateSpeakingPractice,
@@ -388,12 +392,34 @@ export async function POST(
             }),
         ]);
 
+    let points = null;
+    let pointsWarning = null;
+
+    try {
+      points =
+        await awardAttemptPoints({
+          studentId:
+            student.id,
+          activityType:
+            "SPEAKING",
+          attemptId:
+            attempt.id,
+        });
+    } catch (awardError) {
+      pointsWarning =
+        awardError instanceof Error
+          ? awardError.message
+          : "Learning points could not be awarded.";
+    }
+
     return NextResponse.json({
       success: true,
       attemptId:
         attempt.id,
       attemptNumber,
       evaluation,
+      points,
+      pointsWarning,
     });
   } catch (error) {
     return NextResponse.json(

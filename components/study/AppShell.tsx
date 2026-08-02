@@ -8,6 +8,7 @@ import {
   BookOpen,
   ClipboardList,
   Gamepad2,
+  Gift,
   GraduationCap,
   Home,
   LogOut,
@@ -23,6 +24,7 @@ const navItems = [
   { href: "/games", label: "Games", icon: Gamepad2 },
   { href: "/voice-practice", label: "Voice Practice", icon: Mic2 },
   { href: "/progress", label: "Progress", icon: BarChart3 },
+  { href: "/rewards", label: "Rewards", icon: Gift },
 ];
 
 type StudentProfile = {

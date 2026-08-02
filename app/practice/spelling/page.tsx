@@ -25,6 +25,7 @@ import {
 
 import AppShell from "@/components/study/AppShell";
 import LiquidCard from "@/components/study/LiquidCard";
+import ScoringInfoCard from "@/components/scoring/ScoringInfoCard";
 
 import {
   readLegacyQuizLaunchContext,
@@ -579,6 +580,8 @@ export default function SpellingPracticePage() {
             </div>
           </div>
         </LiquidCard>
+
+        <ScoringInfoCard activity="SPELLING" />
 
         {context ? (
           <LiquidCard className="p-5">

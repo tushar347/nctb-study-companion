@@ -19,6 +19,7 @@ import {
   ClipboardList,
   FlaskConical,
   Gamepad2,
+  Gift,
   GraduationCap,
   Home,
   Languages,
@@ -434,6 +435,13 @@ export default function HomePage() {
                 icon={<BarChart3 size={16} />}
               >
                 Progress
+              </NavigationItem>
+
+              <NavigationItem
+                href="/rewards"
+                icon={<Gift size={16} />}
+              >
+                Rewards
               </NavigationItem>
             </nav>
           </div>

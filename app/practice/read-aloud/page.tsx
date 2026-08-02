@@ -20,6 +20,7 @@ import {
 
 import AppShell from "@/components/study/AppShell";
 import LiquidCard from "@/components/study/LiquidCard";
+import ScoringInfoCard from "@/components/scoring/ScoringInfoCard";
 import VoiceCapturePanel, {
   type VoiceCaptureValue,
 } from "@/components/practice/VoiceCapturePanel";
@@ -331,6 +332,8 @@ export default function ReadAloudPage() {
             </div>
           </div>
         </LiquidCard>
+
+        <ScoringInfoCard activity="READ_ALOUD" />
 
         {error ? (
           <LiquidCard className="border border-red-200 bg-red-50 p-5 font-black text-red-800">

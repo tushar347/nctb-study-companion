@@ -34,6 +34,9 @@ model Student {
   aiUsageLogs        AiUsageLog[]
   spellingAttempts   SpellingAttempt[]
   speakingAttempts   SpeakingAttempt[]
+  goalSetting        StudentGoalSetting?
+  dailyGoalProgress  DailyGoalProgress[]
+  studentRewards     StudentReward[]
 }
 
 model StudentMemory {
@@ -163,19 +166,24 @@ model StudentWallet {
 }
 
 model RewardTransaction {
-  id            String   @id @default(cuid())
-  studentId     String
-  type          String
-  pointsChange  Int      @default(0)
-  creditsChange Int      @default(0)
-  reason        String
-  metadataJson  String?
-  createdAt     DateTime @default(now())
+  id             String   @id @default(cuid())
+  studentId      String
+  type           String
+  pointsChange   Int      @default(0)
+  creditsChange  Int      @default(0)
+  reason         String
+  metadataJson   String?
+  sourceType     String?
+  sourceId       String?
+  idempotencyKey String?  @unique
+  balanceAfter   Int?
+  createdAt      DateTime @default(now())
 
   student Student @relation(fields: [studentId], references: [id], onDelete: Cascade)
 
   @@index([studentId])
   @@index([type])
+  @@index([sourceType, sourceId])
 }
 
 model AiUsageLog {
@@ -325,4 +333,79 @@ model SpeakingAttempt {
   @@index([bookKey, pageNumber])
   @@index([studentId, sourceLineId])
   @@index([createdAt])
+}
+
+model StudentGoalSetting {
+  id                  String  @id @default(cuid())
+  studentId           String  @unique
+  targetPoints        Int     @default(60)
+  targetActivityTypes Int     @default(3)
+  timezone            String  @default("Asia/Dhaka")
+  enabled             Boolean @default(true)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  student Student @relation(fields: [studentId], references: [id], onDelete: Cascade)
+}
+
+model DailyGoalProgress {
+  id                    String @id @default(cuid())
+  studentId             String
+  dateKey               String
+  pointsEarned          Int    @default(0)
+  distinctActivityTypes Int    @default(0)
+  activityTypesJson     String @default("[]")
+
+  quizAttempts      Int @default(0)
+  gameAttempts      Int @default(0)
+  spellingAttempts  Int @default(0)
+  readAloudAttempts Int @default(0)
+  speakingAttempts  Int @default(0)
+
+  completedAt DateTime?
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+
+  student Student @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@unique([studentId, dateKey])
+  @@index([studentId])
+  @@index([dateKey])
+  @@index([completedAt])
+}
+
+model RewardItem {
+  id           String  @id @default(cuid())
+  code         String  @unique
+  name         String
+  description  String
+  rewardType   String
+  costPoints   Int
+  active       Boolean @default(true)
+  metadataJson String?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  studentRewards StudentReward[]
+
+  @@index([active])
+  @@index([costPoints])
+}
+
+model StudentReward {
+  id           String    @id @default(cuid())
+  studentId    String
+  rewardItemId String
+  quantity     Int       @default(1)
+  acquiredAt   DateTime  @default(now())
+  consumedAt   DateTime?
+
+  student    Student    @relation(fields: [studentId], references: [id], onDelete: Cascade)
+  rewardItem RewardItem @relation(fields: [rewardItemId], references: [id], onDelete: Cascade)
+
+  @@unique([studentId, rewardItemId])
+  @@index([studentId])
+  @@index([rewardItemId])
 }

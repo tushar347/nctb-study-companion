@@ -5,6 +5,10 @@ import { NextResponse } from "next/server";
 
 import { prisma } from "@/lib/prisma";
 import {
+  awardAttemptPoints,
+} from "@/lib/scoring/awardAttemptPoints";
+
+import {
   findOrCreateStudentByKey,
 } from "@/lib/studentTracking";
 import {
@@ -360,11 +364,34 @@ export async function POST(request: Request) {
         }),
       ]);
 
+    let points = null;
+    let pointsWarning = null;
+
+    try {
+      points =
+        await awardAttemptPoints({
+          studentId:
+            student.id,
+          activityType:
+            "SPELLING",
+          attemptId:
+            attempt.id,
+        });
+    } catch (awardError) {
+      pointsWarning =
+        awardError instanceof Error
+          ? awardError.message
+          : "Learning points could not be awarded.";
+    }
+
     return NextResponse.json({
       success: true,
-      attemptId: attempt.id,
+      attemptId:
+        attempt.id,
       attemptNumber,
       evaluation,
+      points,
+      pointsWarning,
     });
   } catch (error) {
     return NextResponse.json(
