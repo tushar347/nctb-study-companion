@@ -1,0 +1,192 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 39,
+  "pdfPage": 39,
+  "textbookPage": 39,
+  "width": 536.97,
+  "height": 695.96,
+  "image": "../images/page-039.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Unit Four\nCheck Your References\n|\nAfter we have studied this unit, we will be able to\ne@ read and understand content pages in books\n@ look up words in a dictionary Ss",
+  "cleanText": "Unit Four Check Your References | After we have studied this unit, we will be able to e@ read and understand content pages in books @ look up words in a dictionary Ss",
+  "aiReadyText": "Unit Four Check Your References After we have studied this unit, we will be able to e@ read and understand content pages in books @ look up words in a dictionary Ss",
+  "lines": [
+    {
+      "id": "class8-english-p039-l001",
+      "lineNumber": 1,
+      "text": "Unit Four",
+      "cleanText": "Unit Four",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        231.84,
+        70.85,
+        303.55,
+        82.66
+      ]
+    },
+    {
+      "id": "class8-english-p039-l002",
+      "lineNumber": 2,
+      "text": "Check Your References",
+      "cleanText": "Check Your References",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        163.01,
+        104.26,
+        396.0,
+        120.38
+      ]
+    },
+    {
+      "id": "class8-english-p039-l003",
+      "lineNumber": 3,
+      "text": "|",
+      "cleanText": "|",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 0.0,
+      "bbox": [
+        372.1,
+        174.82,
+        374.4,
+        181.15
+      ]
+    },
+    {
+      "id": "class8-english-p039-l004",
+      "lineNumber": 4,
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        65.66,
+        590.69,
+        324.0,
+        601.06
+      ]
+    },
+    {
+      "id": "class8-english-p039-l005",
+      "lineNumber": 5,
+      "text": "e@ read and understand content pages in books",
+      "cleanText": "e@ read and understand content pages in books",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.38,
+      "bbox": [
+        86.98,
+        620.64,
+        334.37,
+        633.02
+      ]
+    },
+    {
+      "id": "class8-english-p039-l006",
+      "lineNumber": 6,
+      "text": "@ look up words in a dictionary Ss",
+      "cleanText": "@ look up words in a dictionary Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 79.25,
+      "bbox": [
+        86.98,
+        635.04,
+        506.59,
+        654.91
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p039-l001",
+      "lineNumber": 1,
+      "text": "Unit Four",
+      "cleanText": "Unit Four",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        231.84,
+        70.85,
+        303.55,
+        82.66
+      ]
+    },
+    {
+      "id": "class8-english-p039-l002",
+      "lineNumber": 2,
+      "text": "Check Your References",
+      "cleanText": "Check Your References",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        163.01,
+        104.26,
+        396.0,
+        120.38
+      ]
+    },
+    {
+      "id": "class8-english-p039-l004",
+      "lineNumber": 4,
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        65.66,
+        590.69,
+        324.0,
+        601.06
+      ]
+    },
+    {
+      "id": "class8-english-p039-l005",
+      "lineNumber": 5,
+      "text": "e@ read and understand content pages in books",
+      "cleanText": "e@ read and understand content pages in books",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.38,
+      "bbox": [
+        86.98,
+        620.64,
+        334.37,
+        633.02
+      ]
+    },
+    {
+      "id": "class8-english-p039-l006",
+      "lineNumber": 6,
+      "text": "@ look up words in a dictionary Ss",
+      "cleanText": "@ look up words in a dictionary Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 79.25,
+      "bbox": [
+        86.98,
+        635.04,
+        506.59,
+        654.91
+      ]
+    }
+  ],
+  "lineCount": 6,
+  "aiReadyLineCount": 5,
+  "averageConfidence": 76.27,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:33.887546+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

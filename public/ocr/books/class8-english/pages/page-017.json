@@ -1,0 +1,957 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 17,
+  "pdfPage": 17,
+  "textbookPage": 17,
+  "width": 556.47,
+  "height": 713.96,
+  "image": "../images/page-017.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "12 English For Today\nLand of our Birth, our faith, our pride,\nFor whose dear sake our fathers died;\nOh, Motherland, we pledge to thee\nHead, heart and hand through the years to be!\n- Rudyard Kipling\nWord notes:\npledge =: makea promise\ntoll: hard work\nlovest: love\nthy > your\nundefiled: pure\nheritage: the history, traditions, buildings and qualities that a country has\nhad for many years and that are an important part of the country's\ncharacter\nyoke: apiece of wood that holds two oxen together, while ploughing or\npulling a cart\nbear the yoke: shoulder the great responsibility\nB. Read the poem silently and answer the questions:\n1. What do the children ask for in their prayer?\n2. Why do the children pray for their country’s future?\n3. What does the line\" Teach us Delight in simple things\" suggest?\n4. What do the children promise to their motherland?\n5. What do the children ask God to teach them?\n6. Do you like the poem? Why?\nC. Match the words from the poem with their correct meanings:\n})uncomupied, pre\nb) heritage ii) happiness and laughter\nc) undefiled ili) burden or responsibility\nd) yoke iv) hard work and effort <\nv) traditions and legacy passed down from ancestors x",
+  "cleanText": "12 English For Today Land of our Birth, our faith, our pride, For whose dear sake our fathers died; Oh, Motherland, we pledge to thee Head, heart and hand through the years to be! - Rudyard Kipling Word notes: pledge =: makea promise toll: hard work lovest: love thy > your undefiled: pure heritage: the history, traditions, buildings and qualities that a country has had for many years and that are an important part of the country's character yoke: apiece of wood that holds two oxen together, while ploughing or pulling a cart bear the yoke: shoulder the great responsibility B. Read the poem silently and answer the questions: 1. What do the children ask for in their prayer? 2. Why do the children pray for their country’s future? 3. What does the line\" Teach us Delight in simple things\" suggest? 4. What do the children promise to their motherland? 5. What do the children ask God to teach them? 6. Do you like the poem? Why? C. Match the words from the poem with their correct meanings: })uncomupied, pre b) heritage ii) happiness and laughter c) undefiled ili) burden or responsibility d) yoke iv) hard work and effort < v) traditions and legacy passed down from ancestors x",
+  "aiReadyText": "12 English For Today Land of our Birth, our faith, our pride, For whose dear sake our fathers died; Oh, Motherland, we pledge to thee Head, heart and hand through the years to be! - Rudyard Kipling Word notes: pledge =: makea promise toll: hard work lovest: love thy > your undefiled: pure heritage: the history, traditions, buildings and qualities that a country has had for many years and that are an important part of the country's character yoke: apiece of wood that holds two oxen together, while ploughing or pulling a cart bear the yoke: shoulder the great responsibility B. Read the poem silently and answer the questions: 1. What do the children ask for in their prayer? 2. Why do the children pray for their country’s future? 3. What does the line\" Teach us Delight in simple things\" suggest? 4. What do the children promise to their motherland? 5. What do the children ask God to teach them? 6. Do you like the poem? Why? C. Match the words from the poem with their correct meanings: })uncomupied, pre b) heritage ii) happiness and laughter c) undefiled ili) burden or responsibility d) yoke iv) hard work and effort < v) traditions and legacy passed down from ancestors x",
+  "lines": [
+    {
+      "id": "class8-english-p017-l001",
+      "lineNumber": 1,
+      "text": "12 English For Today",
+      "cleanText": "12 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        71.71,
+        50.4,
+        487.3,
+        62.5
+      ]
+    },
+    {
+      "id": "class8-english-p017-l002",
+      "lineNumber": 2,
+      "text": "Land of our Birth, our faith, our pride,",
+      "cleanText": "Land of our Birth, our faith, our pride,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        169.63,
+        81.5,
+        368.06,
+        93.31
+      ]
+    },
+    {
+      "id": "class8-english-p017-l003",
+      "lineNumber": 3,
+      "text": "For whose dear sake our fathers died;",
+      "cleanText": "For whose dear sake our fathers died;",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        169.63,
+        95.9,
+        363.46,
+        107.14
+      ]
+    },
+    {
+      "id": "class8-english-p017-l004",
+      "lineNumber": 4,
+      "text": "Oh, Motherland, we pledge to thee",
+      "cleanText": "Oh, Motherland, we pledge to thee",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        170.21,
+        111.17,
+        350.21,
+        122.98
+      ]
+    },
+    {
+      "id": "class8-english-p017-l005",
+      "lineNumber": 5,
+      "text": "Head, heart and hand through the years to be!",
+      "cleanText": "Head, heart and hand through the years to be!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        169.63,
+        124.7,
+        405.22,
+        136.51
+      ]
+    },
+    {
+      "id": "class8-english-p017-l006",
+      "lineNumber": 6,
+      "text": "- Rudyard Kipling",
+      "cleanText": "- Rudyard Kipling",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        380.16,
+        139.1,
+        464.54,
+        149.76
+      ]
+    },
+    {
+      "id": "class8-english-p017-l007",
+      "lineNumber": 7,
+      "text": "Word notes:",
+      "cleanText": "Word notes:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.67,
+      "bbox": [
+        75.17,
+        165.31,
+        146.02,
+        174.53
+      ]
+    },
+    {
+      "id": "class8-english-p017-l008",
+      "lineNumber": 8,
+      "text": "pledge =: makea promise",
+      "cleanText": "pledge =: makea promise",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 64.0,
+      "bbox": [
+        75.46,
+        184.03,
+        226.66,
+        196.7
+      ]
+    },
+    {
+      "id": "class8-english-p017-l009",
+      "lineNumber": 9,
+      "text": "toll: hard work",
+      "cleanText": "toll: hard work",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.25,
+      "bbox": [
+        75.46,
+        205.92,
+        197.57,
+        220.61
+      ]
+    },
+    {
+      "id": "class8-english-p017-l010",
+      "lineNumber": 10,
+      "text": "lovest: love",
+      "cleanText": "lovest: love",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.67,
+      "bbox": [
+        75.46,
+        228.96,
+        166.75,
+        243.65
+      ]
+    },
+    {
+      "id": "class8-english-p017-l011",
+      "lineNumber": 11,
+      "text": "thy > your",
+      "cleanText": "thy > your",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 82.67,
+      "bbox": [
+        75.46,
+        253.15,
+        168.48,
+        265.54
+      ]
+    },
+    {
+      "id": "class8-english-p017-l012",
+      "lineNumber": 12,
+      "text": "undefiled: pure",
+      "cleanText": "undefiled: pure",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.67,
+      "bbox": [
+        75.46,
+        276.19,
+        164.16,
+        288.29
+      ]
+    },
+    {
+      "id": "class8-english-p017-l013",
+      "lineNumber": 13,
+      "text": "heritage: the history, traditions, buildings and qualities that a country has",
+      "cleanText": "heritage: the history, traditions, buildings and qualities that a country has",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.17,
+      "bbox": [
+        75.46,
+        299.23,
+        489.6,
+        311.62
+      ]
+    },
+    {
+      "id": "class8-english-p017-l014",
+      "lineNumber": 14,
+      "text": "had for many years and that are an important part of the country's",
+      "cleanText": "had for many years and that are an important part of the country's",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        146.3,
+        316.51,
+        488.45,
+        329.47
+      ]
+    },
+    {
+      "id": "class8-english-p017-l015",
+      "lineNumber": 15,
+      "text": "character",
+      "cleanText": "character",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        146.59,
+        330.91,
+        193.54,
+        340.13
+      ]
+    },
+    {
+      "id": "class8-english-p017-l016",
+      "lineNumber": 16,
+      "text": "yoke: apiece of wood that holds two oxen together, while ploughing or",
+      "cleanText": "yoke: apiece of wood that holds two oxen together, while ploughing or",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.69,
+      "bbox": [
+        74.88,
+        348.19,
+        487.87,
+        360.58
+      ]
+    },
+    {
+      "id": "class8-english-p017-l017",
+      "lineNumber": 17,
+      "text": "pulling a cart",
+      "cleanText": "pulling a cart",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.0,
+      "bbox": [
+        145.15,
+        364.61,
+        218.3,
+        379.58
+      ]
+    },
+    {
+      "id": "class8-english-p017-l018",
+      "lineNumber": 18,
+      "text": "bear the yoke: shoulder the great responsibility",
+      "cleanText": "bear the yoke: shoulder the great responsibility",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        75.46,
+        385.06,
+        328.03,
+        397.73
+      ]
+    },
+    {
+      "id": "class8-english-p017-l019",
+      "lineNumber": 19,
+      "text": "B. Read the poem silently and answer the questions:",
+      "cleanText": "B. Read the poem silently and answer the questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.22,
+      "bbox": [
+        75.17,
+        407.23,
+        367.49,
+        419.62
+      ]
+    },
+    {
+      "id": "class8-english-p017-l020",
+      "lineNumber": 20,
+      "text": "1. What do the children ask for in their prayer?",
+      "cleanText": "1. What do the children ask for in their prayer?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.7,
+      "bbox": [
+        98.5,
+        437.18,
+        340.42,
+        448.99
+      ]
+    },
+    {
+      "id": "class8-english-p017-l021",
+      "lineNumber": 21,
+      "text": "2. Why do the children pray for their country’s future?",
+      "cleanText": "2. Why do the children pray for their country’s future?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        97.34,
+        454.18,
+        379.58,
+        465.98
+      ]
+    },
+    {
+      "id": "class8-english-p017-l022",
+      "lineNumber": 22,
+      "text": "3. What does the line\" Teach us Delight in simple things\" suggest?",
+      "cleanText": "3. What does the line\" Teach us Delight in simple things\" suggest?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        97.63,
+        471.17,
+        442.66,
+        482.98
+      ]
+    },
+    {
+      "id": "class8-english-p017-l023",
+      "lineNumber": 23,
+      "text": "4. What do the children promise to their motherland?",
+      "cleanText": "4. What do the children promise to their motherland?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.56,
+      "bbox": [
+        97.34,
+        487.58,
+        374.4,
+        499.39
+      ]
+    },
+    {
+      "id": "class8-english-p017-l024",
+      "lineNumber": 24,
+      "text": "5. What do the children ask God to teach them?",
+      "cleanText": "5. What do the children ask God to teach them?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        97.63,
+        504.58,
+        345.89,
+        513.79
+      ]
+    },
+    {
+      "id": "class8-english-p017-l025",
+      "lineNumber": 25,
+      "text": "6. Do you like the poem? Why?",
+      "cleanText": "6. Do you like the poem? Why?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        97.63,
+        520.42,
+        264.1,
+        536.83
+      ]
+    },
+    {
+      "id": "class8-english-p017-l026",
+      "lineNumber": 26,
+      "text": "C. Match the words from the poem with their correct meanings:",
+      "cleanText": "C. Match the words from the poem with their correct meanings:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.45,
+      "bbox": [
+        76.9,
+        546.62,
+        429.98,
+        558.14
+      ]
+    },
+    {
+      "id": "class8-english-p017-l027",
+      "lineNumber": 27,
+      "text": "})uncomupied, pre",
+      "cleanText": "})uncomupied, pre",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 39.0,
+      "bbox": [
+        229.25,
+        584.06,
+        324.0,
+        595.01
+      ]
+    },
+    {
+      "id": "class8-english-p017-l028",
+      "lineNumber": 28,
+      "text": "b) heritage ii) happiness and laughter",
+      "cleanText": "b) heritage ii) happiness and laughter",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.33,
+      "bbox": [
+        86.11,
+        600.48,
+        352.51,
+        611.42
+      ]
+    },
+    {
+      "id": "class8-english-p017-l029",
+      "lineNumber": 29,
+      "text": "c) undefiled ili) burden or responsibility",
+      "cleanText": "c) undefiled ili) burden or responsibility",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.83,
+      "bbox": [
+        86.11,
+        616.61,
+        360.29,
+        627.55
+      ]
+    },
+    {
+      "id": "class8-english-p017-l030",
+      "lineNumber": 30,
+      "text": "d) yoke iv) hard work and effort <",
+      "cleanText": "d) yoke iv) hard work and effort <",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.75,
+      "bbox": [
+        86.11,
+        633.02,
+        518.11,
+        646.56
+      ]
+    },
+    {
+      "id": "class8-english-p017-l031",
+      "lineNumber": 31,
+      "text": "v) traditions and legacy passed down from ancestors x",
+      "cleanText": "v) traditions and legacy passed down from ancestors x",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.44,
+      "bbox": [
+        228.96,
+        646.85,
+        518.11,
+        660.38
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p017-l001",
+      "lineNumber": 1,
+      "text": "12 English For Today",
+      "cleanText": "12 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        71.71,
+        50.4,
+        487.3,
+        62.5
+      ]
+    },
+    {
+      "id": "class8-english-p017-l002",
+      "lineNumber": 2,
+      "text": "Land of our Birth, our faith, our pride,",
+      "cleanText": "Land of our Birth, our faith, our pride,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        169.63,
+        81.5,
+        368.06,
+        93.31
+      ]
+    },
+    {
+      "id": "class8-english-p017-l003",
+      "lineNumber": 3,
+      "text": "For whose dear sake our fathers died;",
+      "cleanText": "For whose dear sake our fathers died;",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        169.63,
+        95.9,
+        363.46,
+        107.14
+      ]
+    },
+    {
+      "id": "class8-english-p017-l004",
+      "lineNumber": 4,
+      "text": "Oh, Motherland, we pledge to thee",
+      "cleanText": "Oh, Motherland, we pledge to thee",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        170.21,
+        111.17,
+        350.21,
+        122.98
+      ]
+    },
+    {
+      "id": "class8-english-p017-l005",
+      "lineNumber": 5,
+      "text": "Head, heart and hand through the years to be!",
+      "cleanText": "Head, heart and hand through the years to be!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        169.63,
+        124.7,
+        405.22,
+        136.51
+      ]
+    },
+    {
+      "id": "class8-english-p017-l006",
+      "lineNumber": 6,
+      "text": "- Rudyard Kipling",
+      "cleanText": "- Rudyard Kipling",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        380.16,
+        139.1,
+        464.54,
+        149.76
+      ]
+    },
+    {
+      "id": "class8-english-p017-l007",
+      "lineNumber": 7,
+      "text": "Word notes:",
+      "cleanText": "Word notes:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.67,
+      "bbox": [
+        75.17,
+        165.31,
+        146.02,
+        174.53
+      ]
+    },
+    {
+      "id": "class8-english-p017-l008",
+      "lineNumber": 8,
+      "text": "pledge =: makea promise",
+      "cleanText": "pledge =: makea promise",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 64.0,
+      "bbox": [
+        75.46,
+        184.03,
+        226.66,
+        196.7
+      ]
+    },
+    {
+      "id": "class8-english-p017-l009",
+      "lineNumber": 9,
+      "text": "toll: hard work",
+      "cleanText": "toll: hard work",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.25,
+      "bbox": [
+        75.46,
+        205.92,
+        197.57,
+        220.61
+      ]
+    },
+    {
+      "id": "class8-english-p017-l010",
+      "lineNumber": 10,
+      "text": "lovest: love",
+      "cleanText": "lovest: love",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.67,
+      "bbox": [
+        75.46,
+        228.96,
+        166.75,
+        243.65
+      ]
+    },
+    {
+      "id": "class8-english-p017-l011",
+      "lineNumber": 11,
+      "text": "thy > your",
+      "cleanText": "thy > your",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 82.67,
+      "bbox": [
+        75.46,
+        253.15,
+        168.48,
+        265.54
+      ]
+    },
+    {
+      "id": "class8-english-p017-l012",
+      "lineNumber": 12,
+      "text": "undefiled: pure",
+      "cleanText": "undefiled: pure",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.67,
+      "bbox": [
+        75.46,
+        276.19,
+        164.16,
+        288.29
+      ]
+    },
+    {
+      "id": "class8-english-p017-l013",
+      "lineNumber": 13,
+      "text": "heritage: the history, traditions, buildings and qualities that a country has",
+      "cleanText": "heritage: the history, traditions, buildings and qualities that a country has",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.17,
+      "bbox": [
+        75.46,
+        299.23,
+        489.6,
+        311.62
+      ]
+    },
+    {
+      "id": "class8-english-p017-l014",
+      "lineNumber": 14,
+      "text": "had for many years and that are an important part of the country's",
+      "cleanText": "had for many years and that are an important part of the country's",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        146.3,
+        316.51,
+        488.45,
+        329.47
+      ]
+    },
+    {
+      "id": "class8-english-p017-l015",
+      "lineNumber": 15,
+      "text": "character",
+      "cleanText": "character",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        146.59,
+        330.91,
+        193.54,
+        340.13
+      ]
+    },
+    {
+      "id": "class8-english-p017-l016",
+      "lineNumber": 16,
+      "text": "yoke: apiece of wood that holds two oxen together, while ploughing or",
+      "cleanText": "yoke: apiece of wood that holds two oxen together, while ploughing or",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.69,
+      "bbox": [
+        74.88,
+        348.19,
+        487.87,
+        360.58
+      ]
+    },
+    {
+      "id": "class8-english-p017-l017",
+      "lineNumber": 17,
+      "text": "pulling a cart",
+      "cleanText": "pulling a cart",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.0,
+      "bbox": [
+        145.15,
+        364.61,
+        218.3,
+        379.58
+      ]
+    },
+    {
+      "id": "class8-english-p017-l018",
+      "lineNumber": 18,
+      "text": "bear the yoke: shoulder the great responsibility",
+      "cleanText": "bear the yoke: shoulder the great responsibility",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        75.46,
+        385.06,
+        328.03,
+        397.73
+      ]
+    },
+    {
+      "id": "class8-english-p017-l019",
+      "lineNumber": 19,
+      "text": "B. Read the poem silently and answer the questions:",
+      "cleanText": "B. Read the poem silently and answer the questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.22,
+      "bbox": [
+        75.17,
+        407.23,
+        367.49,
+        419.62
+      ]
+    },
+    {
+      "id": "class8-english-p017-l020",
+      "lineNumber": 20,
+      "text": "1. What do the children ask for in their prayer?",
+      "cleanText": "1. What do the children ask for in their prayer?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.7,
+      "bbox": [
+        98.5,
+        437.18,
+        340.42,
+        448.99
+      ]
+    },
+    {
+      "id": "class8-english-p017-l021",
+      "lineNumber": 21,
+      "text": "2. Why do the children pray for their country’s future?",
+      "cleanText": "2. Why do the children pray for their country’s future?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        97.34,
+        454.18,
+        379.58,
+        465.98
+      ]
+    },
+    {
+      "id": "class8-english-p017-l022",
+      "lineNumber": 22,
+      "text": "3. What does the line\" Teach us Delight in simple things\" suggest?",
+      "cleanText": "3. What does the line\" Teach us Delight in simple things\" suggest?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        97.63,
+        471.17,
+        442.66,
+        482.98
+      ]
+    },
+    {
+      "id": "class8-english-p017-l023",
+      "lineNumber": 23,
+      "text": "4. What do the children promise to their motherland?",
+      "cleanText": "4. What do the children promise to their motherland?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.56,
+      "bbox": [
+        97.34,
+        487.58,
+        374.4,
+        499.39
+      ]
+    },
+    {
+      "id": "class8-english-p017-l024",
+      "lineNumber": 24,
+      "text": "5. What do the children ask God to teach them?",
+      "cleanText": "5. What do the children ask God to teach them?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        97.63,
+        504.58,
+        345.89,
+        513.79
+      ]
+    },
+    {
+      "id": "class8-english-p017-l025",
+      "lineNumber": 25,
+      "text": "6. Do you like the poem? Why?",
+      "cleanText": "6. Do you like the poem? Why?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        97.63,
+        520.42,
+        264.1,
+        536.83
+      ]
+    },
+    {
+      "id": "class8-english-p017-l026",
+      "lineNumber": 26,
+      "text": "C. Match the words from the poem with their correct meanings:",
+      "cleanText": "C. Match the words from the poem with their correct meanings:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.45,
+      "bbox": [
+        76.9,
+        546.62,
+        429.98,
+        558.14
+      ]
+    },
+    {
+      "id": "class8-english-p017-l027",
+      "lineNumber": 27,
+      "text": "})uncomupied, pre",
+      "cleanText": "})uncomupied, pre",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 39.0,
+      "bbox": [
+        229.25,
+        584.06,
+        324.0,
+        595.01
+      ]
+    },
+    {
+      "id": "class8-english-p017-l028",
+      "lineNumber": 28,
+      "text": "b) heritage ii) happiness and laughter",
+      "cleanText": "b) heritage ii) happiness and laughter",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.33,
+      "bbox": [
+        86.11,
+        600.48,
+        352.51,
+        611.42
+      ]
+    },
+    {
+      "id": "class8-english-p017-l029",
+      "lineNumber": 29,
+      "text": "c) undefiled ili) burden or responsibility",
+      "cleanText": "c) undefiled ili) burden or responsibility",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.83,
+      "bbox": [
+        86.11,
+        616.61,
+        360.29,
+        627.55
+      ]
+    },
+    {
+      "id": "class8-english-p017-l030",
+      "lineNumber": 30,
+      "text": "d) yoke iv) hard work and effort <",
+      "cleanText": "d) yoke iv) hard work and effort <",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.75,
+      "bbox": [
+        86.11,
+        633.02,
+        518.11,
+        646.56
+      ]
+    },
+    {
+      "id": "class8-english-p017-l031",
+      "lineNumber": 31,
+      "text": "v) traditions and legacy passed down from ancestors x",
+      "cleanText": "v) traditions and legacy passed down from ancestors x",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.44,
+      "bbox": [
+        228.96,
+        646.85,
+        518.11,
+        660.38
+      ]
+    }
+  ],
+  "lineCount": 31,
+  "aiReadyLineCount": 31,
+  "averageConfidence": 90.78,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:00.220090+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

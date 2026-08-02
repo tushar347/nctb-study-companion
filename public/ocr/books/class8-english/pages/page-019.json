@@ -1,0 +1,552 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 19,
+  "pdfPage": 19,
+  "textbookPage": 19,
+  "width": 556.47,
+  "height": 713.96,
+  "image": "../images/page-019.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "14 English For Today\nLesson 1: Good Food\nKeywords: nutritious, substances, physical, structure\nA. Talk about the picture and read the text:\nie: os a, =\nhy QS we (| Wi as ara\n“ _ + — a I i.\nMs Rehana, the English teacher, is talking to the class about food.\n“Food is very important for our body,” she says. “We can’t live without it.\nSo, you must always have good food.”\n“What is good food, teacher?” asks a student.\n“Good food means the right kind of food for good health,\" says Ms Rehana.\n“Tt is nutritious. It must contain natural substances that our body needs to grow\nproperly and stay healthy. But remember, you must not eat too much though\nthe food is good. Eating too much is bad for health. You have to eat only a\ncertain amount of food that your body needs. So, we do not need the same kind &\nN\nof food in the same quantity. It depends on your growth and physical structure’ &",
+  "cleanText": "14 English For Today Lesson 1: Good Food Keywords: nutritious, substances, physical, structure A. Talk about the picture and read the text: ie: os a, = hy QS we (| Wi as ara “ _ + — a I i. Ms Rehana, the English teacher, is talking to the class about food. “Food is very important for our body,” she says. “We can’t live without it. So, you must always have good food.” “What is good food, teacher?” asks a student. “Good food means the right kind of food for good health,\" says Ms Rehana. “Tt is nutritious. It must contain natural substances that our body needs to grow properly and stay healthy. But remember, you must not eat too much though the food is good. Eating too much is bad for health. You have to eat only a certain amount of food that your body needs. So, we do not need the same kind & N of food in the same quantity. It depends on your growth and physical structure’ &",
+  "aiReadyText": "14 English For Today Lesson 1: Good Food Keywords: nutritious, substances, physical, structure A. Talk about the picture and read the text: ie: os a, = hy QS we (| Wi as ara “ _ + — a I i. Ms Rehana, the English teacher, is talking to the class about food. “Food is very important for our body,” she says. “We can’t live without it. So, you must always have good food.” “What is good food, teacher?” asks a student. “Good food means the right kind of food for good health,\" says Ms Rehana. “Tt is nutritious. It must contain natural substances that our body needs to grow properly and stay healthy. But remember, you must not eat too much though the food is good. Eating too much is bad for health. You have to eat only a certain amount of food that your body needs. So, we do not need the same kind & of food in the same quantity. It depends on your growth and physical structure’ &",
+  "lines": [
+    {
+      "id": "class8-english-p019-l001",
+      "lineNumber": 1,
+      "text": "14 English For Today",
+      "cleanText": "14 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        73.15,
+        50.11,
+        488.74,
+        62.5
+      ]
+    },
+    {
+      "id": "class8-english-p019-l002",
+      "lineNumber": 2,
+      "text": "Lesson 1: Good Food",
+      "cleanText": "Lesson 1: Good Food",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        76.61,
+        84.38,
+        256.32,
+        98.21
+      ]
+    },
+    {
+      "id": "class8-english-p019-l003",
+      "lineNumber": 3,
+      "text": "Keywords: nutritious, substances, physical, structure",
+      "cleanText": "Keywords: nutritious, substances, physical, structure",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        73.73,
+        113.76,
+        372.67,
+        125.86
+      ]
+    },
+    {
+      "id": "class8-english-p019-l004",
+      "lineNumber": 4,
+      "text": "A. Talk about the picture and read the text:",
+      "cleanText": "A. Talk about the picture and read the text:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        75.74,
+        145.44,
+        332.93,
+        157.82
+      ]
+    },
+    {
+      "id": "class8-english-p019-l005",
+      "lineNumber": 5,
+      "text": "ie: os a, =",
+      "cleanText": "ie: os a, =",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 42.0,
+      "bbox": [
+        112.9,
+        292.32,
+        408.96,
+        304.42
+      ]
+    },
+    {
+      "id": "class8-english-p019-l006",
+      "lineNumber": 6,
+      "text": "hy QS we (| Wi as ara",
+      "cleanText": "hy QS we (| Wi as ara",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 32.14,
+      "bbox": [
+        129.89,
+        344.16,
+        480.1,
+        367.2
+      ]
+    },
+    {
+      "id": "class8-english-p019-l007",
+      "lineNumber": 7,
+      "text": "“ _ + — a I i.",
+      "cleanText": "“ _ + — a I i.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 40.0,
+      "bbox": [
+        142.85,
+        402.34,
+        438.91,
+        415.3
+      ]
+    },
+    {
+      "id": "class8-english-p019-l008",
+      "lineNumber": 8,
+      "text": "Ms Rehana, the English teacher, is talking to the class about food.",
+      "cleanText": "Ms Rehana, the English teacher, is talking to the class about food.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        75.74,
+        440.93,
+        417.02,
+        452.74
+      ]
+    },
+    {
+      "id": "class8-english-p019-l009",
+      "lineNumber": 9,
+      "text": "“Food is very important for our body,” she says. “We can’t live without it.",
+      "cleanText": "“Food is very important for our body,” she says. “We can’t live without it.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        76.03,
+        471.74,
+        488.45,
+        483.84
+      ]
+    },
+    {
+      "id": "class8-english-p019-l010",
+      "lineNumber": 10,
+      "text": "So, you must always have good food.”",
+      "cleanText": "So, you must always have good food.”",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        74.3,
+        489.89,
+        274.18,
+        501.98
+      ]
+    },
+    {
+      "id": "class8-english-p019-l011",
+      "lineNumber": 11,
+      "text": "“What is good food, teacher?” asks a student.",
+      "cleanText": "“What is good food, teacher?” asks a student.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        76.03,
+        517.82,
+        313.63,
+        529.63
+      ]
+    },
+    {
+      "id": "class8-english-p019-l012",
+      "lineNumber": 12,
+      "text": "“Good food means the right kind of food for good health,\" says Ms Rehana.",
+      "cleanText": "“Good food means the right kind of food for good health,\" says Ms Rehana.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.93,
+      "bbox": [
+        76.03,
+        546.91,
+        489.02,
+        558.72
+      ]
+    },
+    {
+      "id": "class8-english-p019-l013",
+      "lineNumber": 13,
+      "text": "“Tt is nutritious. It must contain natural substances that our body needs to grow",
+      "cleanText": "“Tt is nutritious. It must contain natural substances that our body needs to grow",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        74.3,
+        567.94,
+        488.16,
+        579.74
+      ]
+    },
+    {
+      "id": "class8-english-p019-l014",
+      "lineNumber": 14,
+      "text": "properly and stay healthy. But remember, you must not eat too much though",
+      "cleanText": "properly and stay healthy. But remember, you must not eat too much though",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.54,
+      "bbox": [
+        74.02,
+        587.81,
+        487.87,
+        600.19
+      ]
+    },
+    {
+      "id": "class8-english-p019-l015",
+      "lineNumber": 15,
+      "text": "the food is good. Eating too much is bad for health. You have to eat only a",
+      "cleanText": "the food is good. Eating too much is bad for health. You have to eat only a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        74.02,
+        607.97,
+        488.74,
+        620.06
+      ]
+    },
+    {
+      "id": "class8-english-p019-l016",
+      "lineNumber": 16,
+      "text": "certain amount of food that your body needs. So, we do not need the same kind &",
+      "cleanText": "certain amount of food that your body needs. So, we do not need the same kind &",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 78.35,
+      "bbox": [
+        74.3,
+        627.84,
+        510.62,
+        640.22
+      ]
+    },
+    {
+      "id": "class8-english-p019-l017",
+      "lineNumber": 17,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 82.0,
+      "bbox": [
+        502.27,
+        641.09,
+        510.34,
+        646.56
+      ]
+    },
+    {
+      "id": "class8-english-p019-l018",
+      "lineNumber": 18,
+      "text": "of food in the same quantity. It depends on your growth and physical structure’ &",
+      "cleanText": "of food in the same quantity. It depends on your growth and physical structure’ &",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.73,
+      "bbox": [
+        74.02,
+        645.98,
+        510.62,
+        659.81
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p019-l001",
+      "lineNumber": 1,
+      "text": "14 English For Today",
+      "cleanText": "14 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        73.15,
+        50.11,
+        488.74,
+        62.5
+      ]
+    },
+    {
+      "id": "class8-english-p019-l002",
+      "lineNumber": 2,
+      "text": "Lesson 1: Good Food",
+      "cleanText": "Lesson 1: Good Food",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        76.61,
+        84.38,
+        256.32,
+        98.21
+      ]
+    },
+    {
+      "id": "class8-english-p019-l003",
+      "lineNumber": 3,
+      "text": "Keywords: nutritious, substances, physical, structure",
+      "cleanText": "Keywords: nutritious, substances, physical, structure",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        73.73,
+        113.76,
+        372.67,
+        125.86
+      ]
+    },
+    {
+      "id": "class8-english-p019-l004",
+      "lineNumber": 4,
+      "text": "A. Talk about the picture and read the text:",
+      "cleanText": "A. Talk about the picture and read the text:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        75.74,
+        145.44,
+        332.93,
+        157.82
+      ]
+    },
+    {
+      "id": "class8-english-p019-l005",
+      "lineNumber": 5,
+      "text": "ie: os a, =",
+      "cleanText": "ie: os a, =",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 42.0,
+      "bbox": [
+        112.9,
+        292.32,
+        408.96,
+        304.42
+      ]
+    },
+    {
+      "id": "class8-english-p019-l006",
+      "lineNumber": 6,
+      "text": "hy QS we (| Wi as ara",
+      "cleanText": "hy QS we (| Wi as ara",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 32.14,
+      "bbox": [
+        129.89,
+        344.16,
+        480.1,
+        367.2
+      ]
+    },
+    {
+      "id": "class8-english-p019-l007",
+      "lineNumber": 7,
+      "text": "“ _ + — a I i.",
+      "cleanText": "“ _ + — a I i.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 40.0,
+      "bbox": [
+        142.85,
+        402.34,
+        438.91,
+        415.3
+      ]
+    },
+    {
+      "id": "class8-english-p019-l008",
+      "lineNumber": 8,
+      "text": "Ms Rehana, the English teacher, is talking to the class about food.",
+      "cleanText": "Ms Rehana, the English teacher, is talking to the class about food.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        75.74,
+        440.93,
+        417.02,
+        452.74
+      ]
+    },
+    {
+      "id": "class8-english-p019-l009",
+      "lineNumber": 9,
+      "text": "“Food is very important for our body,” she says. “We can’t live without it.",
+      "cleanText": "“Food is very important for our body,” she says. “We can’t live without it.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        76.03,
+        471.74,
+        488.45,
+        483.84
+      ]
+    },
+    {
+      "id": "class8-english-p019-l010",
+      "lineNumber": 10,
+      "text": "So, you must always have good food.”",
+      "cleanText": "So, you must always have good food.”",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        74.3,
+        489.89,
+        274.18,
+        501.98
+      ]
+    },
+    {
+      "id": "class8-english-p019-l011",
+      "lineNumber": 11,
+      "text": "“What is good food, teacher?” asks a student.",
+      "cleanText": "“What is good food, teacher?” asks a student.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        76.03,
+        517.82,
+        313.63,
+        529.63
+      ]
+    },
+    {
+      "id": "class8-english-p019-l012",
+      "lineNumber": 12,
+      "text": "“Good food means the right kind of food for good health,\" says Ms Rehana.",
+      "cleanText": "“Good food means the right kind of food for good health,\" says Ms Rehana.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.93,
+      "bbox": [
+        76.03,
+        546.91,
+        489.02,
+        558.72
+      ]
+    },
+    {
+      "id": "class8-english-p019-l013",
+      "lineNumber": 13,
+      "text": "“Tt is nutritious. It must contain natural substances that our body needs to grow",
+      "cleanText": "“Tt is nutritious. It must contain natural substances that our body needs to grow",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        74.3,
+        567.94,
+        488.16,
+        579.74
+      ]
+    },
+    {
+      "id": "class8-english-p019-l014",
+      "lineNumber": 14,
+      "text": "properly and stay healthy. But remember, you must not eat too much though",
+      "cleanText": "properly and stay healthy. But remember, you must not eat too much though",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.54,
+      "bbox": [
+        74.02,
+        587.81,
+        487.87,
+        600.19
+      ]
+    },
+    {
+      "id": "class8-english-p019-l015",
+      "lineNumber": 15,
+      "text": "the food is good. Eating too much is bad for health. You have to eat only a",
+      "cleanText": "the food is good. Eating too much is bad for health. You have to eat only a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        74.02,
+        607.97,
+        488.74,
+        620.06
+      ]
+    },
+    {
+      "id": "class8-english-p019-l016",
+      "lineNumber": 16,
+      "text": "certain amount of food that your body needs. So, we do not need the same kind &",
+      "cleanText": "certain amount of food that your body needs. So, we do not need the same kind &",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 78.35,
+      "bbox": [
+        74.3,
+        627.84,
+        510.62,
+        640.22
+      ]
+    },
+    {
+      "id": "class8-english-p019-l018",
+      "lineNumber": 18,
+      "text": "of food in the same quantity. It depends on your growth and physical structure’ &",
+      "cleanText": "of food in the same quantity. It depends on your growth and physical structure’ &",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.73,
+      "bbox": [
+        74.02,
+        645.98,
+        510.62,
+        659.81
+      ]
+    }
+  ],
+  "lineCount": 18,
+  "aiReadyLineCount": 17,
+  "averageConfidence": 83.69,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:02.952090+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

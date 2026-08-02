@@ -1,0 +1,357 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 85,
+  "pdfPage": 85,
+  "textbookPage": 85,
+  "width": 538.0,
+  "height": 703.0,
+  "image": "../images/page-085.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Unit Seven\nOccupations at Risk\nSS =: =: E:\nten — a a —s\né fee\nAfter we have studied this unit, we will be able to\ne read and understand texts through silent reading\ne listen for information\ne ask and answer questions\n¢ write down the main ideas in our own words S\n¢ write short paragraphs Ss",
+  "cleanText": "Unit Seven Occupations at Risk SS =: =: E: ten — a a —s é fee After we have studied this unit, we will be able to e read and understand texts through silent reading e listen for information e ask and answer questions ¢ write down the main ideas in our own words S ¢ write short paragraphs Ss",
+  "aiReadyText": "Unit Seven Occupations at Risk SS =: =: E: ten — a a —s é fee After we have studied this unit, we will be able to e read and understand texts through silent reading e listen for information e ask and answer questions ¢ write down the main ideas in our own words S ¢ write short paragraphs Ss",
+  "lines": [
+    {
+      "id": "class8-english-p085-l001",
+      "lineNumber": 1,
+      "text": "Unit Seven",
+      "cleanText": "Unit Seven",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        230.69,
+        47.52,
+        313.34,
+        59.9
+      ]
+    },
+    {
+      "id": "class8-english-p085-l002",
+      "lineNumber": 2,
+      "text": "Occupations at Risk",
+      "cleanText": "Occupations at Risk",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        168.19,
+        78.34,
+        365.76,
+        98.78
+      ]
+    },
+    {
+      "id": "class8-english-p085-l003",
+      "lineNumber": 3,
+      "text": "SS =: =: E:",
+      "cleanText": "SS =: =: E:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 37.86,
+      "bbox": [
+        137.95,
+        212.26,
+        387.36,
+        228.38
+      ]
+    },
+    {
+      "id": "class8-english-p085-l004",
+      "lineNumber": 4,
+      "text": "ten — a a —s",
+      "cleanText": "ten — a a —s",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 21.2,
+      "bbox": [
+        194.11,
+        225.22,
+        349.34,
+        231.26
+      ]
+    },
+    {
+      "id": "class8-english-p085-l005",
+      "lineNumber": 5,
+      "text": "é fee",
+      "cleanText": "é fee",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 15.5,
+      "bbox": [
+        106.85,
+        288.29,
+        275.04,
+        305.28
+      ]
+    },
+    {
+      "id": "class8-english-p085-l006",
+      "lineNumber": 6,
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.73,
+      "bbox": [
+        63.65,
+        556.13,
+        321.7,
+        566.5
+      ]
+    },
+    {
+      "id": "class8-english-p085-l007",
+      "lineNumber": 7,
+      "text": "e read and understand texts through silent reading",
+      "cleanText": "e read and understand texts through silent reading",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.62,
+      "bbox": [
+        85.25,
+        573.12,
+        355.68,
+        585.22
+      ]
+    },
+    {
+      "id": "class8-english-p085-l008",
+      "lineNumber": 8,
+      "text": "e listen for information",
+      "cleanText": "e listen for information",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 81.75,
+      "bbox": [
+        85.25,
+        590.11,
+        216.86,
+        599.33
+      ]
+    },
+    {
+      "id": "class8-english-p085-l009",
+      "lineNumber": 9,
+      "text": "e ask and answer questions",
+      "cleanText": "e ask and answer questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 76.6,
+      "bbox": [
+        85.25,
+        607.1,
+        237.31,
+        619.2
+      ]
+    },
+    {
+      "id": "class8-english-p085-l010",
+      "lineNumber": 10,
+      "text": "¢ write down the main ideas in our own words S",
+      "cleanText": "¢ write down the main ideas in our own words S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 80.27,
+      "bbox": [
+        85.25,
+        624.1,
+        504.0,
+        639.07
+      ]
+    },
+    {
+      "id": "class8-english-p085-l011",
+      "lineNumber": 11,
+      "text": "¢ write short paragraphs Ss",
+      "cleanText": "¢ write short paragraphs Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 70.2,
+      "bbox": [
+        85.25,
+        639.07,
+        504.0,
+        658.94
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p085-l001",
+      "lineNumber": 1,
+      "text": "Unit Seven",
+      "cleanText": "Unit Seven",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        230.69,
+        47.52,
+        313.34,
+        59.9
+      ]
+    },
+    {
+      "id": "class8-english-p085-l002",
+      "lineNumber": 2,
+      "text": "Occupations at Risk",
+      "cleanText": "Occupations at Risk",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        168.19,
+        78.34,
+        365.76,
+        98.78
+      ]
+    },
+    {
+      "id": "class8-english-p085-l003",
+      "lineNumber": 3,
+      "text": "SS =: =: E:",
+      "cleanText": "SS =: =: E:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 37.86,
+      "bbox": [
+        137.95,
+        212.26,
+        387.36,
+        228.38
+      ]
+    },
+    {
+      "id": "class8-english-p085-l004",
+      "lineNumber": 4,
+      "text": "ten — a a —s",
+      "cleanText": "ten — a a —s",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 21.2,
+      "bbox": [
+        194.11,
+        225.22,
+        349.34,
+        231.26
+      ]
+    },
+    {
+      "id": "class8-english-p085-l005",
+      "lineNumber": 5,
+      "text": "é fee",
+      "cleanText": "é fee",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 15.5,
+      "bbox": [
+        106.85,
+        288.29,
+        275.04,
+        305.28
+      ]
+    },
+    {
+      "id": "class8-english-p085-l006",
+      "lineNumber": 6,
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.73,
+      "bbox": [
+        63.65,
+        556.13,
+        321.7,
+        566.5
+      ]
+    },
+    {
+      "id": "class8-english-p085-l007",
+      "lineNumber": 7,
+      "text": "e read and understand texts through silent reading",
+      "cleanText": "e read and understand texts through silent reading",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.62,
+      "bbox": [
+        85.25,
+        573.12,
+        355.68,
+        585.22
+      ]
+    },
+    {
+      "id": "class8-english-p085-l008",
+      "lineNumber": 8,
+      "text": "e listen for information",
+      "cleanText": "e listen for information",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 81.75,
+      "bbox": [
+        85.25,
+        590.11,
+        216.86,
+        599.33
+      ]
+    },
+    {
+      "id": "class8-english-p085-l009",
+      "lineNumber": 9,
+      "text": "e ask and answer questions",
+      "cleanText": "e ask and answer questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 76.6,
+      "bbox": [
+        85.25,
+        607.1,
+        237.31,
+        619.2
+      ]
+    },
+    {
+      "id": "class8-english-p085-l010",
+      "lineNumber": 10,
+      "text": "¢ write down the main ideas in our own words S",
+      "cleanText": "¢ write down the main ideas in our own words S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 80.27,
+      "bbox": [
+        85.25,
+        624.1,
+        504.0,
+        639.07
+      ]
+    },
+    {
+      "id": "class8-english-p085-l011",
+      "lineNumber": 11,
+      "text": "¢ write short paragraphs Ss",
+      "cleanText": "¢ write short paragraphs Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 70.2,
+      "bbox": [
+        85.25,
+        639.07,
+        504.0,
+        658.94
+      ]
+    }
+  ],
+  "lineCount": 11,
+  "aiReadyLineCount": 11,
+  "averageConfidence": 68.7,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:17:58.392274+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

@@ -1,0 +1,942 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 77,
+  "pdfPage": 77,
+  "textbookPage": 77,
+  "width": 539.97,
+  "height": 709.46,
+  "image": "../images/page-077.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "72 English For Today\nD. Read the announcement again and match the sentence parts in A with\nthose in B in the following table. Then write the sentences in your\nexercise book:\nA B\n1. Oxygen and air a) under the seat or between the armrests.\npressure b) are used to draw attention.\n2. If you are travelling with |c) is kept in the seat pocket.\na child, d) put the mask on your nose and mouth first\n3. Life vests are placed and then help the child.\n4. The whistle and light e) are always monitored.\n5. The card with other safety\ninformation\nE. Choose the best answer:\n1. There are more than two emergency exits in the aircraft. Here ‘exits’ means\na) doors\nb) departures\nc) windows\nd) seats\n2. Inthe announcement, the cabin crew asked each passenger to --------- their life vest.\na) trace\nb) take\nc) find\nd) uncover\n3. During emergency, the passengers are requested to assume the bracing\nposition. Here, ‘assume’ means-\na) take on\nb) suppose\nc) shoulder NS\nS\nd) change N",
+  "cleanText": "72 English For Today D. Read the announcement again and match the sentence parts in A with those in B in the following table. Then write the sentences in your exercise book: A B 1. Oxygen and air a) under the seat or between the armrests. pressure b) are used to draw attention. 2. If you are travelling with |c) is kept in the seat pocket. a child, d) put the mask on your nose and mouth first 3. Life vests are placed and then help the child. 4. The whistle and light e) are always monitored. 5. The card with other safety information E. Choose the best answer: 1. There are more than two emergency exits in the aircraft. Here ‘exits’ means a) doors b) departures c) windows d) seats 2. Inthe announcement, the cabin crew asked each passenger to --------- their life vest. a) trace b) take c) find d) uncover 3. During emergency, the passengers are requested to assume the bracing position. Here, ‘assume’ means- a) take on b) suppose c) shoulder NS S d) change N",
+  "aiReadyText": "72 English For Today D. Read the announcement again and match the sentence parts in A with those in B in the following table. Then write the sentences in your exercise book: A B 1. Oxygen and air a) under the seat or between the armrests. pressure b) are used to draw attention. 2. If you are travelling with |c) is kept in the seat pocket. a child, d) put the mask on your nose and mouth first 3. Life vests are placed and then help the child. 4. The whistle and light e) are always monitored. 5. The card with other safety information E. Choose the best answer: 1. There are more than two emergency exits in the aircraft. Here ‘exits’ means a) doors b) departures c) windows d) seats 2. Inthe announcement, the cabin crew asked each passenger to --------- their life vest. a) trace b) take c) find d) uncover 3. During emergency, the passengers are requested to assume the bracing position. Here, ‘assume’ means- a) take on b) suppose c) shoulder NS d) change N",
+  "lines": [
+    {
+      "id": "class8-english-p077-l001",
+      "lineNumber": 1,
+      "text": "72 English For Today",
+      "cleanText": "72 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        66.24,
+        48.1,
+        478.66,
+        59.04
+      ]
+    },
+    {
+      "id": "class8-english-p077-l002",
+      "lineNumber": 2,
+      "text": "D. Read the announcement again and match the sentence parts in A with",
+      "cleanText": "D. Read the announcement again and match the sentence parts in A with",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        67.97,
+        78.62,
+        484.13,
+        91.3
+      ]
+    },
+    {
+      "id": "class8-english-p077-l003",
+      "lineNumber": 3,
+      "text": "those in B in the following table. Then write the sentences in your",
+      "cleanText": "those in B in the following table. Then write the sentences in your",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.92,
+      "bbox": [
+        83.81,
+        95.62,
+        482.98,
+        108.29
+      ]
+    },
+    {
+      "id": "class8-english-p077-l004",
+      "lineNumber": 4,
+      "text": "exercise book:",
+      "cleanText": "exercise book:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        85.25,
+        109.73,
+        165.6,
+        119.52
+      ]
+    },
+    {
+      "id": "class8-english-p077-l005",
+      "lineNumber": 5,
+      "text": "A B",
+      "cleanText": "A B",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        161.57,
+        127.87,
+        388.51,
+        137.09
+      ]
+    },
+    {
+      "id": "class8-english-p077-l006",
+      "lineNumber": 6,
+      "text": "1. Oxygen and air a) under the seat or between the armrests.",
+      "cleanText": "1. Oxygen and air a) under the seat or between the armrests.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        74.59,
+        152.06,
+        462.82,
+        163.87
+      ]
+    },
+    {
+      "id": "class8-english-p077-l007",
+      "lineNumber": 7,
+      "text": "pressure b) are used to draw attention.",
+      "cleanText": "pressure b) are used to draw attention.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        92.45,
+        170.21,
+        400.9,
+        182.59
+      ]
+    },
+    {
+      "id": "class8-english-p077-l008",
+      "lineNumber": 8,
+      "text": "2. If you are travelling with |c) is kept in the seat pocket.",
+      "cleanText": "2. If you are travelling with |c) is kept in the seat pocket.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.46,
+      "bbox": [
+        73.15,
+        187.49,
+        398.02,
+        199.87
+      ]
+    },
+    {
+      "id": "class8-english-p077-l009",
+      "lineNumber": 9,
+      "text": "a child, d) put the mask on your nose and mouth first",
+      "cleanText": "a child, d) put the mask on your nose and mouth first",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        89.57,
+        206.21,
+        482.69,
+        219.74
+      ]
+    },
+    {
+      "id": "class8-english-p077-l010",
+      "lineNumber": 10,
+      "text": "3. Life vests are placed and then help the child.",
+      "cleanText": "3. Life vests are placed and then help the child.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        73.44,
+        224.06,
+        385.63,
+        235.87
+      ]
+    },
+    {
+      "id": "class8-english-p077-l011",
+      "lineNumber": 11,
+      "text": "4. The whistle and light e) are always monitored.",
+      "cleanText": "4. The whistle and light e) are always monitored.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        73.15,
+        242.21,
+        379.58,
+        254.3
+      ]
+    },
+    {
+      "id": "class8-english-p077-l012",
+      "lineNumber": 12,
+      "text": "5. The card with other safety",
+      "cleanText": "5. The card with other safety",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        73.44,
+        260.06,
+        226.08,
+        271.87
+      ]
+    },
+    {
+      "id": "class8-english-p077-l013",
+      "lineNumber": 13,
+      "text": "information",
+      "cleanText": "information",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        89.57,
+        278.21,
+        150.62,
+        287.42
+      ]
+    },
+    {
+      "id": "class8-english-p077-l014",
+      "lineNumber": 14,
+      "text": "E. Choose the best answer:",
+      "cleanText": "E. Choose the best answer:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        68.26,
+        310.18,
+        231.26,
+        319.68
+      ]
+    },
+    {
+      "id": "class8-english-p077-l015",
+      "lineNumber": 15,
+      "text": "1. There are more than two emergency exits in the aircraft. Here ‘exits’ means",
+      "cleanText": "1. There are more than two emergency exits in the aircraft. Here ‘exits’ means",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.43,
+      "bbox": [
+        69.41,
+        331.2,
+        475.49,
+        343.01
+      ]
+    },
+    {
+      "id": "class8-english-p077-l016",
+      "lineNumber": 16,
+      "text": "a) doors",
+      "cleanText": "a) doors",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        88.99,
+        349.92,
+        138.82,
+        361.73
+      ]
+    },
+    {
+      "id": "class8-english-p077-l017",
+      "lineNumber": 17,
+      "text": "b) departures",
+      "cleanText": "b) departures",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        88.7,
+        372.67,
+        164.16,
+        384.48
+      ]
+    },
+    {
+      "id": "class8-english-p077-l018",
+      "lineNumber": 18,
+      "text": "c) windows",
+      "cleanText": "c) windows",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        88.99,
+        395.42,
+        156.96,
+        406.94
+      ]
+    },
+    {
+      "id": "class8-english-p077-l019",
+      "lineNumber": 19,
+      "text": "d) seats",
+      "cleanText": "d) seats",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        88.99,
+        418.18,
+        135.07,
+        429.7
+      ]
+    },
+    {
+      "id": "class8-english-p077-l020",
+      "lineNumber": 20,
+      "text": "2. Inthe announcement, the cabin crew asked each passenger to --------- their life vest.",
+      "cleanText": "2. Inthe announcement, the cabin crew asked each passenger to --------- their life vest.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.29,
+      "bbox": [
+        67.97,
+        438.62,
+        484.99,
+        450.72
+      ]
+    },
+    {
+      "id": "class8-english-p077-l021",
+      "lineNumber": 21,
+      "text": "a) trace",
+      "cleanText": "a) trace",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        88.99,
+        458.5,
+        135.36,
+        470.02
+      ]
+    },
+    {
+      "id": "class8-english-p077-l022",
+      "lineNumber": 22,
+      "text": "b) take",
+      "cleanText": "b) take",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        88.7,
+        481.25,
+        131.62,
+        492.77
+      ]
+    },
+    {
+      "id": "class8-english-p077-l023",
+      "lineNumber": 23,
+      "text": "c) find",
+      "cleanText": "c) find",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.5,
+      "bbox": [
+        88.99,
+        503.71,
+        131.33,
+        515.52
+      ]
+    },
+    {
+      "id": "class8-english-p077-l024",
+      "lineNumber": 24,
+      "text": "d) uncover",
+      "cleanText": "d) uncover",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        88.99,
+        526.46,
+        152.35,
+        538.27
+      ]
+    },
+    {
+      "id": "class8-english-p077-l025",
+      "lineNumber": 25,
+      "text": "3. During emergency, the passengers are requested to assume the bracing",
+      "cleanText": "3. During emergency, the passengers are requested to assume the bracing",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        68.26,
+        547.2,
+        467.42,
+        559.01
+      ]
+    },
+    {
+      "id": "class8-english-p077-l026",
+      "lineNumber": 26,
+      "text": "position. Here, ‘assume’ means-",
+      "cleanText": "position. Here, ‘assume’ means-",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.75,
+      "bbox": [
+        86.11,
+        563.9,
+        257.47,
+        578.88
+      ]
+    },
+    {
+      "id": "class8-english-p077-l027",
+      "lineNumber": 27,
+      "text": "a) take on",
+      "cleanText": "a) take on",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 48.0,
+      "bbox": [
+        88.99,
+        585.5,
+        148.03,
+        597.31
+      ]
+    },
+    {
+      "id": "class8-english-p077-l028",
+      "lineNumber": 28,
+      "text": "b) suppose",
+      "cleanText": "b) suppose",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        88.7,
+        608.26,
+        151.78,
+        620.06
+      ]
+    },
+    {
+      "id": "class8-english-p077-l029",
+      "lineNumber": 29,
+      "text": "c) shoulder NS",
+      "cleanText": "c) shoulder NS",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.33,
+      "bbox": [
+        88.99,
+        631.01,
+        507.74,
+        642.82
+      ]
+    },
+    {
+      "id": "class8-english-p077-l030",
+      "lineNumber": 30,
+      "text": "S",
+      "cleanText": "S",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 78.0,
+      "bbox": [
+        499.68,
+        641.09,
+        507.74,
+        652.03
+      ]
+    },
+    {
+      "id": "class8-english-p077-l031",
+      "lineNumber": 31,
+      "text": "d) change N",
+      "cleanText": "d) change N",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 69.33,
+      "bbox": [
+        88.99,
+        653.18,
+        507.74,
+        665.57
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p077-l001",
+      "lineNumber": 1,
+      "text": "72 English For Today",
+      "cleanText": "72 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        66.24,
+        48.1,
+        478.66,
+        59.04
+      ]
+    },
+    {
+      "id": "class8-english-p077-l002",
+      "lineNumber": 2,
+      "text": "D. Read the announcement again and match the sentence parts in A with",
+      "cleanText": "D. Read the announcement again and match the sentence parts in A with",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        67.97,
+        78.62,
+        484.13,
+        91.3
+      ]
+    },
+    {
+      "id": "class8-english-p077-l003",
+      "lineNumber": 3,
+      "text": "those in B in the following table. Then write the sentences in your",
+      "cleanText": "those in B in the following table. Then write the sentences in your",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.92,
+      "bbox": [
+        83.81,
+        95.62,
+        482.98,
+        108.29
+      ]
+    },
+    {
+      "id": "class8-english-p077-l004",
+      "lineNumber": 4,
+      "text": "exercise book:",
+      "cleanText": "exercise book:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        85.25,
+        109.73,
+        165.6,
+        119.52
+      ]
+    },
+    {
+      "id": "class8-english-p077-l005",
+      "lineNumber": 5,
+      "text": "A B",
+      "cleanText": "A B",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        161.57,
+        127.87,
+        388.51,
+        137.09
+      ]
+    },
+    {
+      "id": "class8-english-p077-l006",
+      "lineNumber": 6,
+      "text": "1. Oxygen and air a) under the seat or between the armrests.",
+      "cleanText": "1. Oxygen and air a) under the seat or between the armrests.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        74.59,
+        152.06,
+        462.82,
+        163.87
+      ]
+    },
+    {
+      "id": "class8-english-p077-l007",
+      "lineNumber": 7,
+      "text": "pressure b) are used to draw attention.",
+      "cleanText": "pressure b) are used to draw attention.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        92.45,
+        170.21,
+        400.9,
+        182.59
+      ]
+    },
+    {
+      "id": "class8-english-p077-l008",
+      "lineNumber": 8,
+      "text": "2. If you are travelling with |c) is kept in the seat pocket.",
+      "cleanText": "2. If you are travelling with |c) is kept in the seat pocket.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.46,
+      "bbox": [
+        73.15,
+        187.49,
+        398.02,
+        199.87
+      ]
+    },
+    {
+      "id": "class8-english-p077-l009",
+      "lineNumber": 9,
+      "text": "a child, d) put the mask on your nose and mouth first",
+      "cleanText": "a child, d) put the mask on your nose and mouth first",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        89.57,
+        206.21,
+        482.69,
+        219.74
+      ]
+    },
+    {
+      "id": "class8-english-p077-l010",
+      "lineNumber": 10,
+      "text": "3. Life vests are placed and then help the child.",
+      "cleanText": "3. Life vests are placed and then help the child.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        73.44,
+        224.06,
+        385.63,
+        235.87
+      ]
+    },
+    {
+      "id": "class8-english-p077-l011",
+      "lineNumber": 11,
+      "text": "4. The whistle and light e) are always monitored.",
+      "cleanText": "4. The whistle and light e) are always monitored.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        73.15,
+        242.21,
+        379.58,
+        254.3
+      ]
+    },
+    {
+      "id": "class8-english-p077-l012",
+      "lineNumber": 12,
+      "text": "5. The card with other safety",
+      "cleanText": "5. The card with other safety",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        73.44,
+        260.06,
+        226.08,
+        271.87
+      ]
+    },
+    {
+      "id": "class8-english-p077-l013",
+      "lineNumber": 13,
+      "text": "information",
+      "cleanText": "information",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        89.57,
+        278.21,
+        150.62,
+        287.42
+      ]
+    },
+    {
+      "id": "class8-english-p077-l014",
+      "lineNumber": 14,
+      "text": "E. Choose the best answer:",
+      "cleanText": "E. Choose the best answer:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        68.26,
+        310.18,
+        231.26,
+        319.68
+      ]
+    },
+    {
+      "id": "class8-english-p077-l015",
+      "lineNumber": 15,
+      "text": "1. There are more than two emergency exits in the aircraft. Here ‘exits’ means",
+      "cleanText": "1. There are more than two emergency exits in the aircraft. Here ‘exits’ means",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.43,
+      "bbox": [
+        69.41,
+        331.2,
+        475.49,
+        343.01
+      ]
+    },
+    {
+      "id": "class8-english-p077-l016",
+      "lineNumber": 16,
+      "text": "a) doors",
+      "cleanText": "a) doors",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        88.99,
+        349.92,
+        138.82,
+        361.73
+      ]
+    },
+    {
+      "id": "class8-english-p077-l017",
+      "lineNumber": 17,
+      "text": "b) departures",
+      "cleanText": "b) departures",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        88.7,
+        372.67,
+        164.16,
+        384.48
+      ]
+    },
+    {
+      "id": "class8-english-p077-l018",
+      "lineNumber": 18,
+      "text": "c) windows",
+      "cleanText": "c) windows",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        88.99,
+        395.42,
+        156.96,
+        406.94
+      ]
+    },
+    {
+      "id": "class8-english-p077-l019",
+      "lineNumber": 19,
+      "text": "d) seats",
+      "cleanText": "d) seats",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        88.99,
+        418.18,
+        135.07,
+        429.7
+      ]
+    },
+    {
+      "id": "class8-english-p077-l020",
+      "lineNumber": 20,
+      "text": "2. Inthe announcement, the cabin crew asked each passenger to --------- their life vest.",
+      "cleanText": "2. Inthe announcement, the cabin crew asked each passenger to --------- their life vest.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.29,
+      "bbox": [
+        67.97,
+        438.62,
+        484.99,
+        450.72
+      ]
+    },
+    {
+      "id": "class8-english-p077-l021",
+      "lineNumber": 21,
+      "text": "a) trace",
+      "cleanText": "a) trace",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        88.99,
+        458.5,
+        135.36,
+        470.02
+      ]
+    },
+    {
+      "id": "class8-english-p077-l022",
+      "lineNumber": 22,
+      "text": "b) take",
+      "cleanText": "b) take",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        88.7,
+        481.25,
+        131.62,
+        492.77
+      ]
+    },
+    {
+      "id": "class8-english-p077-l023",
+      "lineNumber": 23,
+      "text": "c) find",
+      "cleanText": "c) find",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.5,
+      "bbox": [
+        88.99,
+        503.71,
+        131.33,
+        515.52
+      ]
+    },
+    {
+      "id": "class8-english-p077-l024",
+      "lineNumber": 24,
+      "text": "d) uncover",
+      "cleanText": "d) uncover",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        88.99,
+        526.46,
+        152.35,
+        538.27
+      ]
+    },
+    {
+      "id": "class8-english-p077-l025",
+      "lineNumber": 25,
+      "text": "3. During emergency, the passengers are requested to assume the bracing",
+      "cleanText": "3. During emergency, the passengers are requested to assume the bracing",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        68.26,
+        547.2,
+        467.42,
+        559.01
+      ]
+    },
+    {
+      "id": "class8-english-p077-l026",
+      "lineNumber": 26,
+      "text": "position. Here, ‘assume’ means-",
+      "cleanText": "position. Here, ‘assume’ means-",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.75,
+      "bbox": [
+        86.11,
+        563.9,
+        257.47,
+        578.88
+      ]
+    },
+    {
+      "id": "class8-english-p077-l027",
+      "lineNumber": 27,
+      "text": "a) take on",
+      "cleanText": "a) take on",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 48.0,
+      "bbox": [
+        88.99,
+        585.5,
+        148.03,
+        597.31
+      ]
+    },
+    {
+      "id": "class8-english-p077-l028",
+      "lineNumber": 28,
+      "text": "b) suppose",
+      "cleanText": "b) suppose",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        88.7,
+        608.26,
+        151.78,
+        620.06
+      ]
+    },
+    {
+      "id": "class8-english-p077-l029",
+      "lineNumber": 29,
+      "text": "c) shoulder NS",
+      "cleanText": "c) shoulder NS",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.33,
+      "bbox": [
+        88.99,
+        631.01,
+        507.74,
+        642.82
+      ]
+    },
+    {
+      "id": "class8-english-p077-l031",
+      "lineNumber": 31,
+      "text": "d) change N",
+      "cleanText": "d) change N",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 69.33,
+      "bbox": [
+        88.99,
+        653.18,
+        507.74,
+        665.57
+      ]
+    }
+  ],
+  "lineCount": 31,
+  "aiReadyLineCount": 30,
+  "averageConfidence": 91.58,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:17:45.645889+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

@@ -1,0 +1,657 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 50,
+  "pdfPage": 50,
+  "textbookPage": 50,
+  "width": 530.0,
+  "height": 696.0,
+  "image": "../images/page-050.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Humans and Environment 45\nLesson 1: The Little Bird\nKey pharases: bird-catching net, gasping for breath, caged bird, let it go,\npicture books\nA. Look at the sketch and discuss with your classmates what you see in it:\nSAA Ny A\nB. Read the story by Leo Tolstoy and answer the questions that follow:\nIt was Seryozha's birthday, and he received many presents: tops,\nhobby-horses and picture books. But the best gift of all was from his uncle.\nIt was a net for catching birds.\nA little board was attached to a frame on which a net was stretched. Grain\nwas sprinkled on the board, and then the net was set out in the yard. When a\nbird flew up and perched on the board, the board would turn over and the net\nwould fall.\nSeryozha was so happy that he came running to his mother to show her his net.\nHis mother said, “It's not a nice toy at all. What do you want to do with\nlittle birds? Why do you want to torment them?”\n“T'll put them in cages. They’ll sing, and I'll feed them.” Seryozha got some\ngrain, sprinkled it on the little board and set the net out in the garden. He\n< stood next to it, waiting for birds to come flying down. But the birds were\nq afraid of him and did not come near the net.",
+  "cleanText": "Humans and Environment 45 Lesson 1: The Little Bird Key pharases: bird-catching net, gasping for breath, caged bird, let it go, picture books A. Look at the sketch and discuss with your classmates what you see in it: SAA Ny A B. Read the story by Leo Tolstoy and answer the questions that follow: It was Seryozha's birthday, and he received many presents: tops, hobby-horses and picture books. But the best gift of all was from his uncle. It was a net for catching birds. A little board was attached to a frame on which a net was stretched. Grain was sprinkled on the board, and then the net was set out in the yard. When a bird flew up and perched on the board, the board would turn over and the net would fall. Seryozha was so happy that he came running to his mother to show her his net. His mother said, “It's not a nice toy at all. What do you want to do with little birds? Why do you want to torment them?” “T'll put them in cages. They’ll sing, and I'll feed them.” Seryozha got some grain, sprinkled it on the little board and set the net out in the garden. He < stood next to it, waiting for birds to come flying down. But the birds were q afraid of him and did not come near the net.",
+  "aiReadyText": "Humans and Environment 45 Lesson 1: The Little Bird Key pharases: bird-catching net, gasping for breath, caged bird, let it go, picture books A. Look at the sketch and discuss with your classmates what you see in it: SAA Ny A B. Read the story by Leo Tolstoy and answer the questions that follow: It was Seryozha's birthday, and he received many presents: tops, hobby-horses and picture books. But the best gift of all was from his uncle. It was a net for catching birds. A little board was attached to a frame on which a net was stretched. Grain was sprinkled on the board, and then the net was set out in the yard. When a bird flew up and perched on the board, the board would turn over and the net would fall. Seryozha was so happy that he came running to his mother to show her his net. His mother said, “It's not a nice toy at all. What do you want to do with little birds? Why do you want to torment them?” “T'll put them in cages. They’ll sing, and I'll feed them.” Seryozha got some grain, sprinkled it on the little board and set the net out in the garden. He < stood next to it, waiting for birds to come flying down. But the birds were q afraid of him and did not come near the net.",
+  "lines": [
+    {
+      "id": "class8-english-p050-l001",
+      "lineNumber": 1,
+      "text": "Humans and Environment 45",
+      "cleanText": "Humans and Environment 45",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        55.3,
+        42.34,
+        469.73,
+        51.26
+      ]
+    },
+    {
+      "id": "class8-english-p050-l002",
+      "lineNumber": 2,
+      "text": "Lesson 1: The Little Bird",
+      "cleanText": "Lesson 1: The Little Bird",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        57.6,
+        73.15,
+        217.73,
+        83.52
+      ]
+    },
+    {
+      "id": "class8-english-p050-l003",
+      "lineNumber": 3,
+      "text": "Key pharases: bird-catching net, gasping for breath, caged bird, let it go,",
+      "cleanText": "Key pharases: bird-catching net, gasping for breath, caged bird, let it go,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.08,
+      "bbox": [
+        58.46,
+        95.04,
+        457.34,
+        106.85
+      ]
+    },
+    {
+      "id": "class8-english-p050-l004",
+      "lineNumber": 4,
+      "text": "picture books",
+      "cleanText": "picture books",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.45,
+        111.74,
+        126.43,
+        123.55
+      ]
+    },
+    {
+      "id": "class8-english-p050-l005",
+      "lineNumber": 5,
+      "text": "A. Look at the sketch and discuss with your classmates what you see in it:",
+      "cleanText": "A. Look at the sketch and discuss with your classmates what you see in it:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        57.89,
+        131.9,
+        438.05,
+        142.85
+      ]
+    },
+    {
+      "id": "class8-english-p050-l006",
+      "lineNumber": 6,
+      "text": "SAA Ny A",
+      "cleanText": "SAA Ny A",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 38.33,
+      "bbox": [
+        115.78,
+        357.12,
+        233.57,
+        369.5
+      ]
+    },
+    {
+      "id": "class8-english-p050-l007",
+      "lineNumber": 7,
+      "text": "B. Read the story by Leo Tolstoy and answer the questions that follow:",
+      "cleanText": "B. Read the story by Leo Tolstoy and answer the questions that follow:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        58.18,
+        406.94,
+        424.22,
+        417.89
+      ]
+    },
+    {
+      "id": "class8-english-p050-l008",
+      "lineNumber": 8,
+      "text": "It was Seryozha's birthday, and he received many presents: tops,",
+      "cleanText": "It was Seryozha's birthday, and he received many presents: tops,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        79.2,
+        426.24,
+        470.59,
+        438.05
+      ]
+    },
+    {
+      "id": "class8-english-p050-l009",
+      "lineNumber": 9,
+      "text": "hobby-horses and picture books. But the best gift of all was from his uncle.",
+      "cleanText": "hobby-horses and picture books. But the best gift of all was from his uncle.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        78.91,
+        442.08,
+        470.3,
+        453.89
+      ]
+    },
+    {
+      "id": "class8-english-p050-l010",
+      "lineNumber": 10,
+      "text": "It was a net for catching birds.",
+      "cleanText": "It was a net for catching birds.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        79.2,
+        458.21,
+        235.58,
+        470.02
+      ]
+    },
+    {
+      "id": "class8-english-p050-l011",
+      "lineNumber": 11,
+      "text": "A little board was attached to a frame on which a net was stretched. Grain",
+      "cleanText": "A little board was attached to a frame on which a net was stretched. Grain",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        78.91,
+        476.93,
+        471.17,
+        491.33
+      ]
+    },
+    {
+      "id": "class8-english-p050-l012",
+      "lineNumber": 12,
+      "text": "was sprinkled on the board, and then the net was set out in the yard. When a",
+      "cleanText": "was sprinkled on the board, and then the net was set out in the yard. When a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.59,
+      "bbox": [
+        78.91,
+        494.21,
+        471.17,
+        506.02
+      ]
+    },
+    {
+      "id": "class8-english-p050-l013",
+      "lineNumber": 13,
+      "text": "bird flew up and perched on the board, the board would turn over and the net",
+      "cleanText": "bird flew up and perched on the board, the board would turn over and the net",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.81,
+      "bbox": [
+        78.91,
+        510.05,
+        471.17,
+        521.86
+      ]
+    },
+    {
+      "id": "class8-english-p050-l014",
+      "lineNumber": 14,
+      "text": "would fall.",
+      "cleanText": "would fall.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        78.91,
+        526.18,
+        134.21,
+        535.39
+      ]
+    },
+    {
+      "id": "class8-english-p050-l015",
+      "lineNumber": 15,
+      "text": "Seryozha was so happy that he came running to his mother to show her his net.",
+      "cleanText": "Seryozha was so happy that he came running to his mother to show her his net.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.56,
+      "bbox": [
+        79.49,
+        542.3,
+        470.88,
+        553.82
+      ]
+    },
+    {
+      "id": "class8-english-p050-l016",
+      "lineNumber": 16,
+      "text": "His mother said, “It's not a nice toy at all. What do you want to do with",
+      "cleanText": "His mother said, “It's not a nice toy at all. What do you want to do with",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.65,
+      "bbox": [
+        79.2,
+        562.18,
+        472.32,
+        573.98
+      ]
+    },
+    {
+      "id": "class8-english-p050-l017",
+      "lineNumber": 17,
+      "text": "little birds? Why do you want to torment them?”",
+      "cleanText": "little birds? Why do you want to torment them?”",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        79.2,
+        578.02,
+        332.06,
+        590.11
+      ]
+    },
+    {
+      "id": "class8-english-p050-l018",
+      "lineNumber": 18,
+      "text": "“T'll put them in cages. They’ll sing, and I'll feed them.” Seryozha got some",
+      "cleanText": "“T'll put them in cages. They’ll sing, and I'll feed them.” Seryozha got some",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.0,
+      "bbox": [
+        79.2,
+        598.18,
+        470.88,
+        609.98
+      ]
+    },
+    {
+      "id": "class8-english-p050-l019",
+      "lineNumber": 19,
+      "text": "grain, sprinkled it on the little board and set the net out in the garden. He",
+      "cleanText": "grain, sprinkled it on the little board and set the net out in the garden. He",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        79.2,
+        614.02,
+        470.88,
+        626.11
+      ]
+    },
+    {
+      "id": "class8-english-p050-l020",
+      "lineNumber": 20,
+      "text": "< stood next to it, waiting for birds to come flying down. But the birds were",
+      "cleanText": "< stood next to it, waiting for birds to come flying down. But the birds were",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.5,
+      "bbox": [
+        30.82,
+        630.14,
+        470.88,
+        642.53
+      ]
+    },
+    {
+      "id": "class8-english-p050-l021",
+      "lineNumber": 21,
+      "text": "q afraid of him and did not come near the net.",
+      "cleanText": "q afraid of him and did not come near the net.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.27,
+      "bbox": [
+        30.82,
+        642.82,
+        306.14,
+        655.49
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p050-l001",
+      "lineNumber": 1,
+      "text": "Humans and Environment 45",
+      "cleanText": "Humans and Environment 45",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        55.3,
+        42.34,
+        469.73,
+        51.26
+      ]
+    },
+    {
+      "id": "class8-english-p050-l002",
+      "lineNumber": 2,
+      "text": "Lesson 1: The Little Bird",
+      "cleanText": "Lesson 1: The Little Bird",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        57.6,
+        73.15,
+        217.73,
+        83.52
+      ]
+    },
+    {
+      "id": "class8-english-p050-l003",
+      "lineNumber": 3,
+      "text": "Key pharases: bird-catching net, gasping for breath, caged bird, let it go,",
+      "cleanText": "Key pharases: bird-catching net, gasping for breath, caged bird, let it go,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.08,
+      "bbox": [
+        58.46,
+        95.04,
+        457.34,
+        106.85
+      ]
+    },
+    {
+      "id": "class8-english-p050-l004",
+      "lineNumber": 4,
+      "text": "picture books",
+      "cleanText": "picture books",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.45,
+        111.74,
+        126.43,
+        123.55
+      ]
+    },
+    {
+      "id": "class8-english-p050-l005",
+      "lineNumber": 5,
+      "text": "A. Look at the sketch and discuss with your classmates what you see in it:",
+      "cleanText": "A. Look at the sketch and discuss with your classmates what you see in it:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        57.89,
+        131.9,
+        438.05,
+        142.85
+      ]
+    },
+    {
+      "id": "class8-english-p050-l006",
+      "lineNumber": 6,
+      "text": "SAA Ny A",
+      "cleanText": "SAA Ny A",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 38.33,
+      "bbox": [
+        115.78,
+        357.12,
+        233.57,
+        369.5
+      ]
+    },
+    {
+      "id": "class8-english-p050-l007",
+      "lineNumber": 7,
+      "text": "B. Read the story by Leo Tolstoy and answer the questions that follow:",
+      "cleanText": "B. Read the story by Leo Tolstoy and answer the questions that follow:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        58.18,
+        406.94,
+        424.22,
+        417.89
+      ]
+    },
+    {
+      "id": "class8-english-p050-l008",
+      "lineNumber": 8,
+      "text": "It was Seryozha's birthday, and he received many presents: tops,",
+      "cleanText": "It was Seryozha's birthday, and he received many presents: tops,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        79.2,
+        426.24,
+        470.59,
+        438.05
+      ]
+    },
+    {
+      "id": "class8-english-p050-l009",
+      "lineNumber": 9,
+      "text": "hobby-horses and picture books. But the best gift of all was from his uncle.",
+      "cleanText": "hobby-horses and picture books. But the best gift of all was from his uncle.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        78.91,
+        442.08,
+        470.3,
+        453.89
+      ]
+    },
+    {
+      "id": "class8-english-p050-l010",
+      "lineNumber": 10,
+      "text": "It was a net for catching birds.",
+      "cleanText": "It was a net for catching birds.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        79.2,
+        458.21,
+        235.58,
+        470.02
+      ]
+    },
+    {
+      "id": "class8-english-p050-l011",
+      "lineNumber": 11,
+      "text": "A little board was attached to a frame on which a net was stretched. Grain",
+      "cleanText": "A little board was attached to a frame on which a net was stretched. Grain",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        78.91,
+        476.93,
+        471.17,
+        491.33
+      ]
+    },
+    {
+      "id": "class8-english-p050-l012",
+      "lineNumber": 12,
+      "text": "was sprinkled on the board, and then the net was set out in the yard. When a",
+      "cleanText": "was sprinkled on the board, and then the net was set out in the yard. When a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.59,
+      "bbox": [
+        78.91,
+        494.21,
+        471.17,
+        506.02
+      ]
+    },
+    {
+      "id": "class8-english-p050-l013",
+      "lineNumber": 13,
+      "text": "bird flew up and perched on the board, the board would turn over and the net",
+      "cleanText": "bird flew up and perched on the board, the board would turn over and the net",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.81,
+      "bbox": [
+        78.91,
+        510.05,
+        471.17,
+        521.86
+      ]
+    },
+    {
+      "id": "class8-english-p050-l014",
+      "lineNumber": 14,
+      "text": "would fall.",
+      "cleanText": "would fall.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        78.91,
+        526.18,
+        134.21,
+        535.39
+      ]
+    },
+    {
+      "id": "class8-english-p050-l015",
+      "lineNumber": 15,
+      "text": "Seryozha was so happy that he came running to his mother to show her his net.",
+      "cleanText": "Seryozha was so happy that he came running to his mother to show her his net.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.56,
+      "bbox": [
+        79.49,
+        542.3,
+        470.88,
+        553.82
+      ]
+    },
+    {
+      "id": "class8-english-p050-l016",
+      "lineNumber": 16,
+      "text": "His mother said, “It's not a nice toy at all. What do you want to do with",
+      "cleanText": "His mother said, “It's not a nice toy at all. What do you want to do with",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.65,
+      "bbox": [
+        79.2,
+        562.18,
+        472.32,
+        573.98
+      ]
+    },
+    {
+      "id": "class8-english-p050-l017",
+      "lineNumber": 17,
+      "text": "little birds? Why do you want to torment them?”",
+      "cleanText": "little birds? Why do you want to torment them?”",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        79.2,
+        578.02,
+        332.06,
+        590.11
+      ]
+    },
+    {
+      "id": "class8-english-p050-l018",
+      "lineNumber": 18,
+      "text": "“T'll put them in cages. They’ll sing, and I'll feed them.” Seryozha got some",
+      "cleanText": "“T'll put them in cages. They’ll sing, and I'll feed them.” Seryozha got some",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.0,
+      "bbox": [
+        79.2,
+        598.18,
+        470.88,
+        609.98
+      ]
+    },
+    {
+      "id": "class8-english-p050-l019",
+      "lineNumber": 19,
+      "text": "grain, sprinkled it on the little board and set the net out in the garden. He",
+      "cleanText": "grain, sprinkled it on the little board and set the net out in the garden. He",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        79.2,
+        614.02,
+        470.88,
+        626.11
+      ]
+    },
+    {
+      "id": "class8-english-p050-l020",
+      "lineNumber": 20,
+      "text": "< stood next to it, waiting for birds to come flying down. But the birds were",
+      "cleanText": "< stood next to it, waiting for birds to come flying down. But the birds were",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.5,
+      "bbox": [
+        30.82,
+        630.14,
+        470.88,
+        642.53
+      ]
+    },
+    {
+      "id": "class8-english-p050-l021",
+      "lineNumber": 21,
+      "text": "q afraid of him and did not come near the net.",
+      "cleanText": "q afraid of him and did not come near the net.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.27,
+      "bbox": [
+        30.82,
+        642.82,
+        306.14,
+        655.49
+      ]
+    }
+  ],
+  "lineCount": 21,
+  "aiReadyLineCount": 21,
+  "averageConfidence": 92.1,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:56.820935+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

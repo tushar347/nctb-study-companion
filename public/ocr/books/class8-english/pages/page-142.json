@@ -1,0 +1,837 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 142,
+  "pdfPage": 142,
+  "textbookPage": 142,
+  "width": 548.0,
+  "height": 706.0,
+  "image": "../images/page-142.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Fables 137\n\"You are an ungrateful bird, and the bat is right. You do not deserve this\ngenerous hospitality which I have offered. Get out! Be off, I say!\"said the owl.\n\"Yes, get lost!\" echoed the bat, flapping his leathery wings. The two\nheartless creatures fell upon the poor little dove and drove her out into the\ndark and stormy night.\nBut the owl and the bat did not go unpunished for their act of heartlessness.\nThe bat can never fly in broad daylight. He has to wait for the sun to go down.\nAnd do you know what happened to the vain owl? Well, he is blind as long\nas the sun is up. He cannot hunt or feed himself unless it is dark. So, the two\nvicious creatures with their dark heart live in the dark.\nOn the other hand, the dove is rewarded for her truthfulness. Her name shall\nbe used by poets as long as the world lasts to rhyme with “LOVE”.\n(Adapted from 7he Curious Book of Birds by Abbie Farwell Brown)\nQuestions:\n1. Why did the bat say that he was ashamed of the dove?\n2. Why was the owl angry with the dove?\n3. What did the owl and the bat do to the dove?\n4. How were the bat and the owl! punished at the end?\n5. What reward did the dove get?\nC.. Make a list of the words used in the story to describe the three birds. Add\nsome of your own words:\nOwl:\nBat:\nDove:\nD. Discuss in groups and write the moral of the story:\nForma-18, English For Today Class-8",
+  "cleanText": "Fables 137 \"You are an ungrateful bird, and the bat is right. You do not deserve this generous hospitality which I have offered. Get out! Be off, I say!\"said the owl. \"Yes, get lost!\" echoed the bat, flapping his leathery wings. The two heartless creatures fell upon the poor little dove and drove her out into the dark and stormy night. But the owl and the bat did not go unpunished for their act of heartlessness. The bat can never fly in broad daylight. He has to wait for the sun to go down. And do you know what happened to the vain owl? Well, he is blind as long as the sun is up. He cannot hunt or feed himself unless it is dark. So, the two vicious creatures with their dark heart live in the dark. On the other hand, the dove is rewarded for her truthfulness. Her name shall be used by poets as long as the world lasts to rhyme with “LOVE”. (Adapted from 7he Curious Book of Birds by Abbie Farwell Brown) Questions: 1. Why did the bat say that he was ashamed of the dove? 2. Why was the owl angry with the dove? 3. What did the owl and the bat do to the dove? 4. How were the bat and the owl! punished at the end? 5. What reward did the dove get? C.. Make a list of the words used in the story to describe the three birds. Add some of your own words: Owl: Bat: Dove: D. Discuss in groups and write the moral of the story: Forma-18, English For Today Class-8",
+  "aiReadyText": "Fables 137 \"You are an ungrateful bird, and the bat is right. You do not deserve this generous hospitality which I have offered. Get out! Be off, I say!\"said the owl. \"Yes, get lost!\" echoed the bat, flapping his leathery wings. The two heartless creatures fell upon the poor little dove and drove her out into the dark and stormy night. But the owl and the bat did not go unpunished for their act of heartlessness. The bat can never fly in broad daylight. He has to wait for the sun to go down. And do you know what happened to the vain owl? Well, he is blind as long as the sun is up. He cannot hunt or feed himself unless it is dark. So, the two vicious creatures with their dark heart live in the dark. On the other hand, the dove is rewarded for her truthfulness. Her name shall be used by poets as long as the world lasts to rhyme with “LOVE”. (Adapted from 7he Curious Book of Birds by Abbie Farwell Brown) Questions: 1. Why did the bat say that he was ashamed of the dove? 2. Why was the owl angry with the dove? 3. What did the owl and the bat do to the dove? 4. How were the bat and the owl! punished at the end? 5. What reward did the dove get? C.. Make a list of the words used in the story to describe the three birds. Add some of your own words: Owl: Bat: Dove: D. Discuss in groups and write the moral of the story: Forma-18, English For Today Class-8",
+  "lines": [
+    {
+      "id": "class8-english-p142-l001",
+      "lineNumber": 1,
+      "text": "Fables 137",
+      "cleanText": "Fables 137",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        68.83,
+        46.94,
+        480.96,
+        60.77
+      ]
+    },
+    {
+      "id": "class8-english-p142-l002",
+      "lineNumber": 2,
+      "text": "\"You are an ungrateful bird, and the bat is right. You do not deserve this",
+      "cleanText": "\"You are an ungrateful bird, and the bat is right. You do not deserve this",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.73,
+      "bbox": [
+        69.98,
+        83.23,
+        482.69,
+        95.33
+      ]
+    },
+    {
+      "id": "class8-english-p142-l003",
+      "lineNumber": 3,
+      "text": "generous hospitality which I have offered. Get out! Be off, I say!\"said the owl.",
+      "cleanText": "generous hospitality which I have offered. Get out! Be off, I say!\"said the owl.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.29,
+      "bbox": [
+        69.7,
+        98.5,
+        480.96,
+        110.88
+      ]
+    },
+    {
+      "id": "class8-english-p142-l004",
+      "lineNumber": 4,
+      "text": "\"Yes, get lost!\" echoed the bat, flapping his leathery wings. The two",
+      "cleanText": "\"Yes, get lost!\" echoed the bat, flapping his leathery wings. The two",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.58,
+      "bbox": [
+        69.98,
+        119.23,
+        482.4,
+        131.33
+      ]
+    },
+    {
+      "id": "class8-english-p142-l005",
+      "lineNumber": 5,
+      "text": "heartless creatures fell upon the poor little dove and drove her out into the",
+      "cleanText": "heartless creatures fell upon the poor little dove and drove her out into the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        68.54,
+        134.5,
+        482.4,
+        146.59
+      ]
+    },
+    {
+      "id": "class8-english-p142-l006",
+      "lineNumber": 6,
+      "text": "dark and stormy night.",
+      "cleanText": "dark and stormy night.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        68.83,
+        149.18,
+        190.66,
+        161.28
+      ]
+    },
+    {
+      "id": "class8-english-p142-l007",
+      "lineNumber": 7,
+      "text": "But the owl and the bat did not go unpunished for their act of heartlessness.",
+      "cleanText": "But the owl and the bat did not go unpunished for their act of heartlessness.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        67.97,
+        175.39,
+        481.25,
+        187.49
+      ]
+    },
+    {
+      "id": "class8-english-p142-l008",
+      "lineNumber": 8,
+      "text": "The bat can never fly in broad daylight. He has to wait for the sun to go down.",
+      "cleanText": "The bat can never fly in broad daylight. He has to wait for the sun to go down.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.56,
+      "bbox": [
+        67.1,
+        190.94,
+        481.25,
+        203.04
+      ]
+    },
+    {
+      "id": "class8-english-p142-l009",
+      "lineNumber": 9,
+      "text": "And do you know what happened to the vain owl? Well, he is blind as long",
+      "cleanText": "And do you know what happened to the vain owl? Well, he is blind as long",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        68.26,
+        206.21,
+        480.38,
+        218.59
+      ]
+    },
+    {
+      "id": "class8-english-p142-l010",
+      "lineNumber": 10,
+      "text": "as the sun is up. He cannot hunt or feed himself unless it is dark. So, the two",
+      "cleanText": "as the sun is up. He cannot hunt or feed himself unless it is dark. So, the two",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        68.26,
+        221.47,
+        481.82,
+        233.57
+      ]
+    },
+    {
+      "id": "class8-english-p142-l011",
+      "lineNumber": 11,
+      "text": "vicious creatures with their dark heart live in the dark.",
+      "cleanText": "vicious creatures with their dark heart live in the dark.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        66.82,
+        236.45,
+        352.22,
+        246.53
+      ]
+    },
+    {
+      "id": "class8-english-p142-l012",
+      "lineNumber": 12,
+      "text": "On the other hand, the dove is rewarded for her truthfulness. Her name shall",
+      "cleanText": "On the other hand, the dove is rewarded for her truthfulness. Her name shall",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        67.97,
+        265.25,
+        480.38,
+        275.62
+      ]
+    },
+    {
+      "id": "class8-english-p142-l013",
+      "lineNumber": 13,
+      "text": "be used by poets as long as the world lasts to rhyme with “LOVE”.",
+      "cleanText": "be used by poets as long as the world lasts to rhyme with “LOVE”.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.21,
+      "bbox": [
+        68.26,
+        281.66,
+        418.46,
+        293.76
+      ]
+    },
+    {
+      "id": "class8-english-p142-l014",
+      "lineNumber": 14,
+      "text": "(Adapted from 7he Curious Book of Birds by Abbie Farwell Brown)",
+      "cleanText": "(Adapted from 7he Curious Book of Birds by Abbie Farwell Brown)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.18,
+      "bbox": [
+        70.56,
+        302.69,
+        426.82,
+        315.36
+      ]
+    },
+    {
+      "id": "class8-english-p142-l015",
+      "lineNumber": 15,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        67.97,
+        324.58,
+        125.86,
+        336.1
+      ]
+    },
+    {
+      "id": "class8-english-p142-l016",
+      "lineNumber": 16,
+      "text": "1. Why did the bat say that he was ashamed of the dove?",
+      "cleanText": "1. Why did the bat say that he was ashamed of the dove?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        89.86,
+        341.28,
+        384.77,
+        353.38
+      ]
+    },
+    {
+      "id": "class8-english-p142-l017",
+      "lineNumber": 17,
+      "text": "2. Why was the owl angry with the dove?",
+      "cleanText": "2. Why was the owl angry with the dove?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        88.99,
+        357.7,
+        306.14,
+        369.79
+      ]
+    },
+    {
+      "id": "class8-english-p142-l018",
+      "lineNumber": 18,
+      "text": "3. What did the owl and the bat do to the dove?",
+      "cleanText": "3. What did the owl and the bat do to the dove?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        88.7,
+        374.11,
+        336.1,
+        383.62
+      ]
+    },
+    {
+      "id": "class8-english-p142-l019",
+      "lineNumber": 19,
+      "text": "4. How were the bat and the owl! punished at the end?",
+      "cleanText": "4. How were the bat and the owl! punished at the end?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        88.7,
+        390.82,
+        368.64,
+        402.62
+      ]
+    },
+    {
+      "id": "class8-english-p142-l020",
+      "lineNumber": 20,
+      "text": "5. What reward did the dove get?",
+      "cleanText": "5. What reward did the dove get?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        88.99,
+        407.23,
+        269.28,
+        419.33
+      ]
+    },
+    {
+      "id": "class8-english-p142-l021",
+      "lineNumber": 21,
+      "text": "C.. Make a list of the words used in the story to describe the three birds. Add",
+      "cleanText": "C.. Make a list of the words used in the story to describe the three birds. Add",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.53,
+      "bbox": [
+        67.97,
+        422.5,
+        485.57,
+        437.76
+      ]
+    },
+    {
+      "id": "class8-english-p142-l022",
+      "lineNumber": 22,
+      "text": "some of your own words:",
+      "cleanText": "some of your own words:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        87.84,
+        440.06,
+        225.22,
+        452.74
+      ]
+    },
+    {
+      "id": "class8-english-p142-l023",
+      "lineNumber": 23,
+      "text": "Owl:",
+      "cleanText": "Owl:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.0,
+      "bbox": [
+        103.97,
+        456.77,
+        144.58,
+        465.7
+      ]
+    },
+    {
+      "id": "class8-english-p142-l024",
+      "lineNumber": 24,
+      "text": "Bat:",
+      "cleanText": "Bat:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 57.0,
+      "bbox": [
+        103.68,
+        473.47,
+        144.58,
+        482.4
+      ]
+    },
+    {
+      "id": "class8-english-p142-l025",
+      "lineNumber": 25,
+      "text": "Dove:",
+      "cleanText": "Dove:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.0,
+      "bbox": [
+        103.68,
+        489.89,
+        144.58,
+        498.82
+      ]
+    },
+    {
+      "id": "class8-english-p142-l026",
+      "lineNumber": 26,
+      "text": "D. Discuss in groups and write the moral of the story:",
+      "cleanText": "D. Discuss in groups and write the moral of the story:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        67.68,
+        511.78,
+        367.78,
+        524.45
+      ]
+    },
+    {
+      "id": "class8-english-p142-l027",
+      "lineNumber": 27,
+      "text": "Forma-18, English For Today Class-8",
+      "cleanText": "Forma-18, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.8,
+      "bbox": [
+        67.1,
+        673.34,
+        232.42,
+        683.42
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p142-l001",
+      "lineNumber": 1,
+      "text": "Fables 137",
+      "cleanText": "Fables 137",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        68.83,
+        46.94,
+        480.96,
+        60.77
+      ]
+    },
+    {
+      "id": "class8-english-p142-l002",
+      "lineNumber": 2,
+      "text": "\"You are an ungrateful bird, and the bat is right. You do not deserve this",
+      "cleanText": "\"You are an ungrateful bird, and the bat is right. You do not deserve this",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.73,
+      "bbox": [
+        69.98,
+        83.23,
+        482.69,
+        95.33
+      ]
+    },
+    {
+      "id": "class8-english-p142-l003",
+      "lineNumber": 3,
+      "text": "generous hospitality which I have offered. Get out! Be off, I say!\"said the owl.",
+      "cleanText": "generous hospitality which I have offered. Get out! Be off, I say!\"said the owl.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.29,
+      "bbox": [
+        69.7,
+        98.5,
+        480.96,
+        110.88
+      ]
+    },
+    {
+      "id": "class8-english-p142-l004",
+      "lineNumber": 4,
+      "text": "\"Yes, get lost!\" echoed the bat, flapping his leathery wings. The two",
+      "cleanText": "\"Yes, get lost!\" echoed the bat, flapping his leathery wings. The two",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.58,
+      "bbox": [
+        69.98,
+        119.23,
+        482.4,
+        131.33
+      ]
+    },
+    {
+      "id": "class8-english-p142-l005",
+      "lineNumber": 5,
+      "text": "heartless creatures fell upon the poor little dove and drove her out into the",
+      "cleanText": "heartless creatures fell upon the poor little dove and drove her out into the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        68.54,
+        134.5,
+        482.4,
+        146.59
+      ]
+    },
+    {
+      "id": "class8-english-p142-l006",
+      "lineNumber": 6,
+      "text": "dark and stormy night.",
+      "cleanText": "dark and stormy night.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        68.83,
+        149.18,
+        190.66,
+        161.28
+      ]
+    },
+    {
+      "id": "class8-english-p142-l007",
+      "lineNumber": 7,
+      "text": "But the owl and the bat did not go unpunished for their act of heartlessness.",
+      "cleanText": "But the owl and the bat did not go unpunished for their act of heartlessness.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        67.97,
+        175.39,
+        481.25,
+        187.49
+      ]
+    },
+    {
+      "id": "class8-english-p142-l008",
+      "lineNumber": 8,
+      "text": "The bat can never fly in broad daylight. He has to wait for the sun to go down.",
+      "cleanText": "The bat can never fly in broad daylight. He has to wait for the sun to go down.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.56,
+      "bbox": [
+        67.1,
+        190.94,
+        481.25,
+        203.04
+      ]
+    },
+    {
+      "id": "class8-english-p142-l009",
+      "lineNumber": 9,
+      "text": "And do you know what happened to the vain owl? Well, he is blind as long",
+      "cleanText": "And do you know what happened to the vain owl? Well, he is blind as long",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        68.26,
+        206.21,
+        480.38,
+        218.59
+      ]
+    },
+    {
+      "id": "class8-english-p142-l010",
+      "lineNumber": 10,
+      "text": "as the sun is up. He cannot hunt or feed himself unless it is dark. So, the two",
+      "cleanText": "as the sun is up. He cannot hunt or feed himself unless it is dark. So, the two",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        68.26,
+        221.47,
+        481.82,
+        233.57
+      ]
+    },
+    {
+      "id": "class8-english-p142-l011",
+      "lineNumber": 11,
+      "text": "vicious creatures with their dark heart live in the dark.",
+      "cleanText": "vicious creatures with their dark heart live in the dark.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        66.82,
+        236.45,
+        352.22,
+        246.53
+      ]
+    },
+    {
+      "id": "class8-english-p142-l012",
+      "lineNumber": 12,
+      "text": "On the other hand, the dove is rewarded for her truthfulness. Her name shall",
+      "cleanText": "On the other hand, the dove is rewarded for her truthfulness. Her name shall",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        67.97,
+        265.25,
+        480.38,
+        275.62
+      ]
+    },
+    {
+      "id": "class8-english-p142-l013",
+      "lineNumber": 13,
+      "text": "be used by poets as long as the world lasts to rhyme with “LOVE”.",
+      "cleanText": "be used by poets as long as the world lasts to rhyme with “LOVE”.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.21,
+      "bbox": [
+        68.26,
+        281.66,
+        418.46,
+        293.76
+      ]
+    },
+    {
+      "id": "class8-english-p142-l014",
+      "lineNumber": 14,
+      "text": "(Adapted from 7he Curious Book of Birds by Abbie Farwell Brown)",
+      "cleanText": "(Adapted from 7he Curious Book of Birds by Abbie Farwell Brown)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.18,
+      "bbox": [
+        70.56,
+        302.69,
+        426.82,
+        315.36
+      ]
+    },
+    {
+      "id": "class8-english-p142-l015",
+      "lineNumber": 15,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        67.97,
+        324.58,
+        125.86,
+        336.1
+      ]
+    },
+    {
+      "id": "class8-english-p142-l016",
+      "lineNumber": 16,
+      "text": "1. Why did the bat say that he was ashamed of the dove?",
+      "cleanText": "1. Why did the bat say that he was ashamed of the dove?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        89.86,
+        341.28,
+        384.77,
+        353.38
+      ]
+    },
+    {
+      "id": "class8-english-p142-l017",
+      "lineNumber": 17,
+      "text": "2. Why was the owl angry with the dove?",
+      "cleanText": "2. Why was the owl angry with the dove?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        88.99,
+        357.7,
+        306.14,
+        369.79
+      ]
+    },
+    {
+      "id": "class8-english-p142-l018",
+      "lineNumber": 18,
+      "text": "3. What did the owl and the bat do to the dove?",
+      "cleanText": "3. What did the owl and the bat do to the dove?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        88.7,
+        374.11,
+        336.1,
+        383.62
+      ]
+    },
+    {
+      "id": "class8-english-p142-l019",
+      "lineNumber": 19,
+      "text": "4. How were the bat and the owl! punished at the end?",
+      "cleanText": "4. How were the bat and the owl! punished at the end?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        88.7,
+        390.82,
+        368.64,
+        402.62
+      ]
+    },
+    {
+      "id": "class8-english-p142-l020",
+      "lineNumber": 20,
+      "text": "5. What reward did the dove get?",
+      "cleanText": "5. What reward did the dove get?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        88.99,
+        407.23,
+        269.28,
+        419.33
+      ]
+    },
+    {
+      "id": "class8-english-p142-l021",
+      "lineNumber": 21,
+      "text": "C.. Make a list of the words used in the story to describe the three birds. Add",
+      "cleanText": "C.. Make a list of the words used in the story to describe the three birds. Add",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.53,
+      "bbox": [
+        67.97,
+        422.5,
+        485.57,
+        437.76
+      ]
+    },
+    {
+      "id": "class8-english-p142-l022",
+      "lineNumber": 22,
+      "text": "some of your own words:",
+      "cleanText": "some of your own words:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        87.84,
+        440.06,
+        225.22,
+        452.74
+      ]
+    },
+    {
+      "id": "class8-english-p142-l023",
+      "lineNumber": 23,
+      "text": "Owl:",
+      "cleanText": "Owl:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.0,
+      "bbox": [
+        103.97,
+        456.77,
+        144.58,
+        465.7
+      ]
+    },
+    {
+      "id": "class8-english-p142-l024",
+      "lineNumber": 24,
+      "text": "Bat:",
+      "cleanText": "Bat:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 57.0,
+      "bbox": [
+        103.68,
+        473.47,
+        144.58,
+        482.4
+      ]
+    },
+    {
+      "id": "class8-english-p142-l025",
+      "lineNumber": 25,
+      "text": "Dove:",
+      "cleanText": "Dove:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.0,
+      "bbox": [
+        103.68,
+        489.89,
+        144.58,
+        498.82
+      ]
+    },
+    {
+      "id": "class8-english-p142-l026",
+      "lineNumber": 26,
+      "text": "D. Discuss in groups and write the moral of the story:",
+      "cleanText": "D. Discuss in groups and write the moral of the story:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        67.68,
+        511.78,
+        367.78,
+        524.45
+      ]
+    },
+    {
+      "id": "class8-english-p142-l027",
+      "lineNumber": 27,
+      "text": "Forma-18, English For Today Class-8",
+      "cleanText": "Forma-18, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.8,
+      "bbox": [
+        67.1,
+        673.34,
+        232.42,
+        683.42
+      ]
+    }
+  ],
+  "lineCount": 27,
+  "aiReadyLineCount": 27,
+  "averageConfidence": 93.27,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:19:21.969223+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

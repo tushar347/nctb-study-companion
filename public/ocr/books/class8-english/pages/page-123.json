@@ -1,0 +1,747 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 123,
+  "pdfPage": 123,
+  "textbookPage": 123,
+  "width": 518.74,
+  "height": 687.06,
+  "image": "../images/page-123.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "118 English For Today\nE. Listen to the text carefully and complete the following sentences with\nappropriate words:\nU9, L2 E\nListening text: 10\n1. Shang China lies --------- the far east of India.\n2. The Indus and Ganges valley is -------- the middle.\n3. The Tigris and Euphrates valley lies -------- the Nile and the Indus-\nGanges.\n4. The Ganges flows ---------- the north of India.\n5. The Bay of Bengal is ---------- the east coast of India.\nF. Discuss in pairs and make as many ‘Wh’ questions as you can from the\ngiven answers below. First one is done for you:\n1. 1) Where does Mesopotamia lie?\nit) Which countries does Mesopotamia lie between?\nAns. Mesopotamia lies between India and Egypt.\nAns. The Caspian Sea is on the north of Mesopotamia.\nAns. The Nile falls into the Mediterranean Sea.\nAns. The river Yangzi lies to the east of India.\nAns. The Tigris and Euphrates run on the west of Mesopotamia.\nG. Write a paragraph on the history of the wheel. Take your cues from\nthe dialogue in section B:\n‘oS\nS\nN",
+  "cleanText": "118 English For Today E. Listen to the text carefully and complete the following sentences with appropriate words: U9, L2 E Listening text: 10 1. Shang China lies --------- the far east of India. 2. The Indus and Ganges valley is -------- the middle. 3. The Tigris and Euphrates valley lies -------- the Nile and the Indus- Ganges. 4. The Ganges flows ---------- the north of India. 5. The Bay of Bengal is ---------- the east coast of India. F. Discuss in pairs and make as many ‘Wh’ questions as you can from the given answers below. First one is done for you: 1. 1) Where does Mesopotamia lie? it) Which countries does Mesopotamia lie between? Ans. Mesopotamia lies between India and Egypt. Ans. The Caspian Sea is on the north of Mesopotamia. Ans. The Nile falls into the Mediterranean Sea. Ans. The river Yangzi lies to the east of India. Ans. The Tigris and Euphrates run on the west of Mesopotamia. G. Write a paragraph on the history of the wheel. Take your cues from the dialogue in section B: ‘oS S N",
+  "aiReadyText": "118 English For Today E. Listen to the text carefully and complete the following sentences with appropriate words: U9, L2 E Listening text: 10 1. Shang China lies --------- the far east of India. 2. The Indus and Ganges valley is -------- the middle. 3. The Tigris and Euphrates valley lies -------- the Nile and the Indus- Ganges. 4. The Ganges flows ---------- the north of India. 5. The Bay of Bengal is ---------- the east coast of India. F. Discuss in pairs and make as many ‘Wh’ questions as you can from the given answers below. First one is done for you: 1. 1) Where does Mesopotamia lie? it) Which countries does Mesopotamia lie between? Ans. Mesopotamia lies between India and Egypt. Ans. The Caspian Sea is on the north of Mesopotamia. Ans. The Nile falls into the Mediterranean Sea. Ans. The river Yangzi lies to the east of India. Ans. The Tigris and Euphrates run on the west of Mesopotamia. G. Write a paragraph on the history of the wheel. Take your cues from the dialogue in section B: ‘oS",
+  "lines": [
+    {
+      "id": "class8-english-p123-l001",
+      "lineNumber": 1,
+      "text": "118 English For Today",
+      "cleanText": "118 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        62.5,
+        39.46,
+        473.76,
+        50.4
+      ]
+    },
+    {
+      "id": "class8-english-p123-l002",
+      "lineNumber": 2,
+      "text": "E. Listen to the text carefully and complete the following sentences with",
+      "cleanText": "E. Listen to the text carefully and complete the following sentences with",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        61.92,
+        69.98,
+        462.82,
+        81.79
+      ]
+    },
+    {
+      "id": "class8-english-p123-l003",
+      "lineNumber": 3,
+      "text": "appropriate words:",
+      "cleanText": "appropriate words:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        81.22,
+        85.25,
+        187.78,
+        96.77
+      ]
+    },
+    {
+      "id": "class8-english-p123-l004",
+      "lineNumber": 4,
+      "text": "U9, L2 E",
+      "cleanText": "U9, L2 E",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.0,
+      "bbox": [
+        247.97,
+        109.15,
+        296.35,
+        120.1
+      ]
+    },
+    {
+      "id": "class8-english-p123-l005",
+      "lineNumber": 5,
+      "text": "Listening text: 10",
+      "cleanText": "Listening text: 10",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        224.64,
+        124.42,
+        320.54,
+        135.94
+      ]
+    },
+    {
+      "id": "class8-english-p123-l006",
+      "lineNumber": 6,
+      "text": "1. Shang China lies --------- the far east of India.",
+      "cleanText": "1. Shang China lies --------- the far east of India.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.9,
+      "bbox": [
+        82.08,
+        151.2,
+        339.26,
+        163.3
+      ]
+    },
+    {
+      "id": "class8-english-p123-l007",
+      "lineNumber": 7,
+      "text": "2. The Indus and Ganges valley is -------- the middle.",
+      "cleanText": "2. The Indus and Ganges valley is -------- the middle.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.9,
+      "bbox": [
+        80.64,
+        170.21,
+        364.32,
+        182.02
+      ]
+    },
+    {
+      "id": "class8-english-p123-l008",
+      "lineNumber": 8,
+      "text": "3. The Tigris and Euphrates valley lies -------- the Nile and the Indus-",
+      "cleanText": "3. The Tigris and Euphrates valley lies -------- the Nile and the Indus-",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.62,
+      "bbox": [
+        80.93,
+        190.37,
+        476.35,
+        202.18
+      ]
+    },
+    {
+      "id": "class8-english-p123-l009",
+      "lineNumber": 9,
+      "text": "Ganges.",
+      "cleanText": "Ganges.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        103.39,
+        204.19,
+        144.29,
+        215.71
+      ]
+    },
+    {
+      "id": "class8-english-p123-l010",
+      "lineNumber": 10,
+      "text": "4. The Ganges flows ---------- the north of India.",
+      "cleanText": "4. The Ganges flows ---------- the north of India.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        80.64,
+        221.18,
+        339.55,
+        233.28
+      ]
+    },
+    {
+      "id": "class8-english-p123-l011",
+      "lineNumber": 11,
+      "text": "5. The Bay of Bengal is ---------- the east coast of India.",
+      "cleanText": "5. The Bay of Bengal is ---------- the east coast of India.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        80.93,
+        240.19,
+        378.14,
+        252.29
+      ]
+    },
+    {
+      "id": "class8-english-p123-l012",
+      "lineNumber": 12,
+      "text": "F. Discuss in pairs and make as many ‘Wh’ questions as you can from the",
+      "cleanText": "F. Discuss in pairs and make as many ‘Wh’ questions as you can from the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.27,
+      "bbox": [
+        64.22,
+        265.82,
+        478.08,
+        280.22
+      ]
+    },
+    {
+      "id": "class8-english-p123-l013",
+      "lineNumber": 13,
+      "text": "given answers below. First one is done for you:",
+      "cleanText": "given answers below. First one is done for you:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        82.66,
+        281.95,
+        339.55,
+        294.34
+      ]
+    },
+    {
+      "id": "class8-english-p123-l014",
+      "lineNumber": 14,
+      "text": "1. 1) Where does Mesopotamia lie?",
+      "cleanText": "1. 1) Where does Mesopotamia lie?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.0,
+      "bbox": [
+        86.11,
+        307.01,
+        283.68,
+        318.82
+      ]
+    },
+    {
+      "id": "class8-english-p123-l015",
+      "lineNumber": 15,
+      "text": "it) Which countries does Mesopotamia lie between?",
+      "cleanText": "it) Which countries does Mesopotamia lie between?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.57,
+      "bbox": [
+        106.85,
+        327.17,
+        381.02,
+        338.98
+      ]
+    },
+    {
+      "id": "class8-english-p123-l016",
+      "lineNumber": 16,
+      "text": "Ans. Mesopotamia lies between India and Egypt.",
+      "cleanText": "Ans. Mesopotamia lies between India and Egypt.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        106.56,
+        347.04,
+        360.86,
+        358.85
+      ]
+    },
+    {
+      "id": "class8-english-p123-l017",
+      "lineNumber": 17,
+      "text": "Ans. The Caspian Sea is on the north of Mesopotamia.",
+      "cleanText": "Ans. The Caspian Sea is on the north of Mesopotamia.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        106.27,
+        389.09,
+        389.38,
+        400.9
+      ]
+    },
+    {
+      "id": "class8-english-p123-l018",
+      "lineNumber": 18,
+      "text": "Ans. The Nile falls into the Mediterranean Sea.",
+      "cleanText": "Ans. The Nile falls into the Mediterranean Sea.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        106.56,
+        432.0,
+        351.07,
+        441.22
+      ]
+    },
+    {
+      "id": "class8-english-p123-l019",
+      "lineNumber": 19,
+      "text": "Ans. The river Yangzi lies to the east of India.",
+      "cleanText": "Ans. The river Yangzi lies to the east of India.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.1,
+      "bbox": [
+        106.56,
+        474.05,
+        344.16,
+        485.86
+      ]
+    },
+    {
+      "id": "class8-english-p123-l020",
+      "lineNumber": 20,
+      "text": "Ans. The Tigris and Euphrates run on the west of Mesopotamia.",
+      "cleanText": "Ans. The Tigris and Euphrates run on the west of Mesopotamia.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        84.67,
+        520.99,
+        416.16,
+        532.8
+      ]
+    },
+    {
+      "id": "class8-english-p123-l021",
+      "lineNumber": 21,
+      "text": "G. Write a paragraph on the history of the wheel. Take your cues from",
+      "cleanText": "G. Write a paragraph on the history of the wheel. Take your cues from",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.07,
+      "bbox": [
+        64.22,
+        548.06,
+        476.93,
+        559.58
+      ]
+    },
+    {
+      "id": "class8-english-p123-l022",
+      "lineNumber": 22,
+      "text": "the dialogue in section B:",
+      "cleanText": "the dialogue in section B:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.2,
+      "bbox": [
+        86.4,
+        565.06,
+        226.08,
+        576.58
+      ]
+    },
+    {
+      "id": "class8-english-p123-l023",
+      "lineNumber": 23,
+      "text": "‘oS",
+      "cleanText": "‘oS",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 22.0,
+      "bbox": [
+        495.36,
+        626.69,
+        503.42,
+        632.16
+      ]
+    },
+    {
+      "id": "class8-english-p123-l024",
+      "lineNumber": 24,
+      "text": "S",
+      "cleanText": "S",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 87.0,
+      "bbox": [
+        495.36,
+        633.31,
+        503.42,
+        644.26
+      ]
+    },
+    {
+      "id": "class8-english-p123-l025",
+      "lineNumber": 25,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 40.0,
+      "bbox": [
+        495.36,
+        645.12,
+        503.42,
+        650.59
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p123-l001",
+      "lineNumber": 1,
+      "text": "118 English For Today",
+      "cleanText": "118 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        62.5,
+        39.46,
+        473.76,
+        50.4
+      ]
+    },
+    {
+      "id": "class8-english-p123-l002",
+      "lineNumber": 2,
+      "text": "E. Listen to the text carefully and complete the following sentences with",
+      "cleanText": "E. Listen to the text carefully and complete the following sentences with",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        61.92,
+        69.98,
+        462.82,
+        81.79
+      ]
+    },
+    {
+      "id": "class8-english-p123-l003",
+      "lineNumber": 3,
+      "text": "appropriate words:",
+      "cleanText": "appropriate words:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        81.22,
+        85.25,
+        187.78,
+        96.77
+      ]
+    },
+    {
+      "id": "class8-english-p123-l004",
+      "lineNumber": 4,
+      "text": "U9, L2 E",
+      "cleanText": "U9, L2 E",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.0,
+      "bbox": [
+        247.97,
+        109.15,
+        296.35,
+        120.1
+      ]
+    },
+    {
+      "id": "class8-english-p123-l005",
+      "lineNumber": 5,
+      "text": "Listening text: 10",
+      "cleanText": "Listening text: 10",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        224.64,
+        124.42,
+        320.54,
+        135.94
+      ]
+    },
+    {
+      "id": "class8-english-p123-l006",
+      "lineNumber": 6,
+      "text": "1. Shang China lies --------- the far east of India.",
+      "cleanText": "1. Shang China lies --------- the far east of India.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.9,
+      "bbox": [
+        82.08,
+        151.2,
+        339.26,
+        163.3
+      ]
+    },
+    {
+      "id": "class8-english-p123-l007",
+      "lineNumber": 7,
+      "text": "2. The Indus and Ganges valley is -------- the middle.",
+      "cleanText": "2. The Indus and Ganges valley is -------- the middle.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.9,
+      "bbox": [
+        80.64,
+        170.21,
+        364.32,
+        182.02
+      ]
+    },
+    {
+      "id": "class8-english-p123-l008",
+      "lineNumber": 8,
+      "text": "3. The Tigris and Euphrates valley lies -------- the Nile and the Indus-",
+      "cleanText": "3. The Tigris and Euphrates valley lies -------- the Nile and the Indus-",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.62,
+      "bbox": [
+        80.93,
+        190.37,
+        476.35,
+        202.18
+      ]
+    },
+    {
+      "id": "class8-english-p123-l009",
+      "lineNumber": 9,
+      "text": "Ganges.",
+      "cleanText": "Ganges.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        103.39,
+        204.19,
+        144.29,
+        215.71
+      ]
+    },
+    {
+      "id": "class8-english-p123-l010",
+      "lineNumber": 10,
+      "text": "4. The Ganges flows ---------- the north of India.",
+      "cleanText": "4. The Ganges flows ---------- the north of India.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        80.64,
+        221.18,
+        339.55,
+        233.28
+      ]
+    },
+    {
+      "id": "class8-english-p123-l011",
+      "lineNumber": 11,
+      "text": "5. The Bay of Bengal is ---------- the east coast of India.",
+      "cleanText": "5. The Bay of Bengal is ---------- the east coast of India.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        80.93,
+        240.19,
+        378.14,
+        252.29
+      ]
+    },
+    {
+      "id": "class8-english-p123-l012",
+      "lineNumber": 12,
+      "text": "F. Discuss in pairs and make as many ‘Wh’ questions as you can from the",
+      "cleanText": "F. Discuss in pairs and make as many ‘Wh’ questions as you can from the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.27,
+      "bbox": [
+        64.22,
+        265.82,
+        478.08,
+        280.22
+      ]
+    },
+    {
+      "id": "class8-english-p123-l013",
+      "lineNumber": 13,
+      "text": "given answers below. First one is done for you:",
+      "cleanText": "given answers below. First one is done for you:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        82.66,
+        281.95,
+        339.55,
+        294.34
+      ]
+    },
+    {
+      "id": "class8-english-p123-l014",
+      "lineNumber": 14,
+      "text": "1. 1) Where does Mesopotamia lie?",
+      "cleanText": "1. 1) Where does Mesopotamia lie?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.0,
+      "bbox": [
+        86.11,
+        307.01,
+        283.68,
+        318.82
+      ]
+    },
+    {
+      "id": "class8-english-p123-l015",
+      "lineNumber": 15,
+      "text": "it) Which countries does Mesopotamia lie between?",
+      "cleanText": "it) Which countries does Mesopotamia lie between?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.57,
+      "bbox": [
+        106.85,
+        327.17,
+        381.02,
+        338.98
+      ]
+    },
+    {
+      "id": "class8-english-p123-l016",
+      "lineNumber": 16,
+      "text": "Ans. Mesopotamia lies between India and Egypt.",
+      "cleanText": "Ans. Mesopotamia lies between India and Egypt.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        106.56,
+        347.04,
+        360.86,
+        358.85
+      ]
+    },
+    {
+      "id": "class8-english-p123-l017",
+      "lineNumber": 17,
+      "text": "Ans. The Caspian Sea is on the north of Mesopotamia.",
+      "cleanText": "Ans. The Caspian Sea is on the north of Mesopotamia.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        106.27,
+        389.09,
+        389.38,
+        400.9
+      ]
+    },
+    {
+      "id": "class8-english-p123-l018",
+      "lineNumber": 18,
+      "text": "Ans. The Nile falls into the Mediterranean Sea.",
+      "cleanText": "Ans. The Nile falls into the Mediterranean Sea.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        106.56,
+        432.0,
+        351.07,
+        441.22
+      ]
+    },
+    {
+      "id": "class8-english-p123-l019",
+      "lineNumber": 19,
+      "text": "Ans. The river Yangzi lies to the east of India.",
+      "cleanText": "Ans. The river Yangzi lies to the east of India.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.1,
+      "bbox": [
+        106.56,
+        474.05,
+        344.16,
+        485.86
+      ]
+    },
+    {
+      "id": "class8-english-p123-l020",
+      "lineNumber": 20,
+      "text": "Ans. The Tigris and Euphrates run on the west of Mesopotamia.",
+      "cleanText": "Ans. The Tigris and Euphrates run on the west of Mesopotamia.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        84.67,
+        520.99,
+        416.16,
+        532.8
+      ]
+    },
+    {
+      "id": "class8-english-p123-l021",
+      "lineNumber": 21,
+      "text": "G. Write a paragraph on the history of the wheel. Take your cues from",
+      "cleanText": "G. Write a paragraph on the history of the wheel. Take your cues from",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.07,
+      "bbox": [
+        64.22,
+        548.06,
+        476.93,
+        559.58
+      ]
+    },
+    {
+      "id": "class8-english-p123-l022",
+      "lineNumber": 22,
+      "text": "the dialogue in section B:",
+      "cleanText": "the dialogue in section B:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.2,
+      "bbox": [
+        86.4,
+        565.06,
+        226.08,
+        576.58
+      ]
+    },
+    {
+      "id": "class8-english-p123-l023",
+      "lineNumber": 23,
+      "text": "‘oS",
+      "cleanText": "‘oS",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 22.0,
+      "bbox": [
+        495.36,
+        626.69,
+        503.42,
+        632.16
+      ]
+    }
+  ],
+  "lineCount": 25,
+  "aiReadyLineCount": 23,
+  "averageConfidence": 88.96,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:55.593779+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

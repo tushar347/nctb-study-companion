@@ -1,0 +1,747 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 80,
+  "pdfPage": 80,
+  "textbookPage": 80,
+  "width": 538.0,
+  "height": 703.0,
+  "image": "../images/page-080.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Going on a Trip 75\nC. Listen to the text and circle the correct information:\nU1, L7C\nListening text: 5\nQuestions:\nSuvarnabhumi Airport has\n1. checkpoints for arrivals: 130/131/132\n2. checkpoints for departures: 70/71/72\n3. custom control checkpoints for arrivals: 25/26/27\n4. custom control checkpoints for departures: 4/6/8\n5. baggage conveyor belts: 20/22/24\n6. check-in counters: 360/361/362\n7. moving walkways: 106/107/108\n8. elevators: 102/103/104\n9. escalators: 81/82/83\nLesson 8: The Destination\nKeywords: fascinate, destination, floating market\nA. Read the text below and complete it with the right form of verb\nfrom the box. You can use one verb more than once if necessary:\n[in [ae i [a [nn ie]\nMita was to see such a big airport. After completing immigration,\nthey all came out of the airport. Mr. Mazharul Islam to the\n. taxi counter and bought a ticket. They stood ina line and for\nSs their turn. Soon their taxi came and they all got into it.",
+  "cleanText": "Going on a Trip 75 C. Listen to the text and circle the correct information: U1, L7C Listening text: 5 Questions: Suvarnabhumi Airport has 1. checkpoints for arrivals: 130/131/132 2. checkpoints for departures: 70/71/72 3. custom control checkpoints for arrivals: 25/26/27 4. custom control checkpoints for departures: 4/6/8 5. baggage conveyor belts: 20/22/24 6. check-in counters: 360/361/362 7. moving walkways: 106/107/108 8. elevators: 102/103/104 9. escalators: 81/82/83 Lesson 8: The Destination Keywords: fascinate, destination, floating market A. Read the text below and complete it with the right form of verb from the box. You can use one verb more than once if necessary: [in [ae i [a [nn ie] Mita was to see such a big airport. After completing immigration, they all came out of the airport. Mr. Mazharul Islam to the. taxi counter and bought a ticket. They stood ina line and for Ss their turn. Soon their taxi came and they all got into it.",
+  "aiReadyText": "Going on a Trip 75 C. Listen to the text and circle the correct information: U1, L7C Listening text: 5 Questions: Suvarnabhumi Airport has 1. checkpoints for arrivals: 130/131/132 2. checkpoints for departures: 70/71/72 3. custom control checkpoints for arrivals: 25/26/27 4. custom control checkpoints for departures: 4/6/8 5. baggage conveyor belts: 20/22/24 6. check-in counters: 360/361/362 7. moving walkways: 106/107/108 8. elevators: 102/103/104 9. escalators: 81/82/83 Lesson 8: The Destination Keywords: fascinate, destination, floating market A. Read the text below and complete it with the right form of verb from the box. You can use one verb more than once if necessary: [in [ae i [a [nn ie] Mita was to see such a big airport. After completing immigration, they all came out of the airport. Mr. Mazharul Islam to the. taxi counter and bought a ticket. They stood ina line and for Ss their turn. Soon their taxi came and they all got into it.",
+  "lines": [
+    {
+      "id": "class8-english-p080-l001",
+      "lineNumber": 1,
+      "text": "Going on a Trip 75",
+      "cleanText": "Going on a Trip 75",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        65.95,
+        46.08,
+        477.5,
+        57.02
+      ]
+    },
+    {
+      "id": "class8-english-p080-l002",
+      "lineNumber": 2,
+      "text": "C. Listen to the text and circle the correct information:",
+      "cleanText": "C. Listen to the text and circle the correct information:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        68.83,
+        76.03,
+        395.14,
+        85.82
+      ]
+    },
+    {
+      "id": "class8-english-p080-l003",
+      "lineNumber": 3,
+      "text": "U1, L7C",
+      "cleanText": "U1, L7C",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 57.0,
+      "bbox": [
+        221.18,
+        103.97,
+        273.89,
+        115.78
+      ]
+    },
+    {
+      "id": "class8-english-p080-l004",
+      "lineNumber": 4,
+      "text": "Listening text: 5",
+      "cleanText": "Listening text: 5",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        220.9,
+        122.11,
+        317.38,
+        134.5
+      ]
+    },
+    {
+      "id": "class8-english-p080-l005",
+      "lineNumber": 5,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        68.83,
+        150.05,
+        130.75,
+        162.14
+      ]
+    },
+    {
+      "id": "class8-english-p080-l006",
+      "lineNumber": 6,
+      "text": "Suvarnabhumi Airport has",
+      "cleanText": "Suvarnabhumi Airport has",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        69.12,
+        178.56,
+        205.06,
+        190.37
+      ]
+    },
+    {
+      "id": "class8-english-p080-l007",
+      "lineNumber": 7,
+      "text": "1. checkpoints for arrivals: 130/131/132",
+      "cleanText": "1. checkpoints for arrivals: 130/131/132",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.4,
+      "bbox": [
+        90.72,
+        206.5,
+        305.57,
+        218.3
+      ]
+    },
+    {
+      "id": "class8-english-p080-l008",
+      "lineNumber": 8,
+      "text": "2. checkpoints for departures: 70/71/72",
+      "cleanText": "2. checkpoints for departures: 70/71/72",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        89.57,
+        234.43,
+        304.42,
+        246.24
+      ]
+    },
+    {
+      "id": "class8-english-p080-l009",
+      "lineNumber": 9,
+      "text": "3. custom control checkpoints for arrivals: 25/26/27",
+      "cleanText": "3. custom control checkpoints for arrivals: 25/26/27",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.29,
+      "bbox": [
+        87.84,
+        259.2,
+        365.18,
+        271.01
+      ]
+    },
+    {
+      "id": "class8-english-p080-l010",
+      "lineNumber": 10,
+      "text": "4. custom control checkpoints for departures: 4/6/8",
+      "cleanText": "4. custom control checkpoints for departures: 4/6/8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.29,
+      "bbox": [
+        87.55,
+        282.24,
+        360.58,
+        294.05
+      ]
+    },
+    {
+      "id": "class8-english-p080-l011",
+      "lineNumber": 11,
+      "text": "5. baggage conveyor belts: 20/22/24",
+      "cleanText": "5. baggage conveyor belts: 20/22/24",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        87.84,
+        305.28,
+        287.71,
+        317.09
+      ]
+    },
+    {
+      "id": "class8-english-p080-l012",
+      "lineNumber": 12,
+      "text": "6. check-in counters: 360/361/362",
+      "cleanText": "6. check-in counters: 360/361/362",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        89.86,
+        328.32,
+        272.74,
+        337.54
+      ]
+    },
+    {
+      "id": "class8-english-p080-l013",
+      "lineNumber": 13,
+      "text": "7. moving walkways: 106/107/108",
+      "cleanText": "7. moving walkways: 106/107/108",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.5,
+      "bbox": [
+        87.84,
+        351.36,
+        279.07,
+        363.17
+      ]
+    },
+    {
+      "id": "class8-english-p080-l014",
+      "lineNumber": 14,
+      "text": "8. elevators: 102/103/104",
+      "cleanText": "8. elevators: 102/103/104",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.33,
+      "bbox": [
+        88.13,
+        374.4,
+        228.1,
+        383.62
+      ]
+    },
+    {
+      "id": "class8-english-p080-l015",
+      "lineNumber": 15,
+      "text": "9. escalators: 81/82/83",
+      "cleanText": "9. escalators: 81/82/83",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        87.84,
+        397.15,
+        212.26,
+        406.37
+      ]
+    },
+    {
+      "id": "class8-english-p080-l016",
+      "lineNumber": 16,
+      "text": "Lesson 8: The Destination",
+      "cleanText": "Lesson 8: The Destination",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        68.83,
+        436.61,
+        288.86,
+        450.43
+      ]
+    },
+    {
+      "id": "class8-english-p080-l017",
+      "lineNumber": 17,
+      "text": "Keywords: fascinate, destination, floating market",
+      "cleanText": "Keywords: fascinate, destination, floating market",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        65.38,
+        465.7,
+        342.72,
+        477.79
+      ]
+    },
+    {
+      "id": "class8-english-p080-l018",
+      "lineNumber": 18,
+      "text": "A. Read the text below and complete it with the right form of verb",
+      "cleanText": "A. Read the text below and complete it with the right form of verb",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        65.95,
+        493.34,
+        481.82,
+        506.02
+      ]
+    },
+    {
+      "id": "class8-english-p080-l019",
+      "lineNumber": 19,
+      "text": "from the box. You can use one verb more than once if necessary:",
+      "cleanText": "from the box. You can use one verb more than once if necessary:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        96.48,
+        511.49,
+        477.79,
+        523.87
+      ]
+    },
+    {
+      "id": "class8-english-p080-l020",
+      "lineNumber": 20,
+      "text": "[in [ae i [a [nn ie]",
+      "cleanText": "[in [ae i [a [nn ie]",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 37.67,
+      "bbox": [
+        88.99,
+        523.01,
+        466.56,
+        573.41
+      ]
+    },
+    {
+      "id": "class8-english-p080-l021",
+      "lineNumber": 21,
+      "text": "Mita was to see such a big airport. After completing immigration,",
+      "cleanText": "Mita was to see such a big airport. After completing immigration,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        66.82,
+        578.88,
+        481.54,
+        590.69
+      ]
+    },
+    {
+      "id": "class8-english-p080-l022",
+      "lineNumber": 22,
+      "text": "they all came out of the airport. Mr. Mazharul Islam to the",
+      "cleanText": "they all came out of the airport. Mr. Mazharul Islam to the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.08,
+      "bbox": [
+        66.53,
+        600.77,
+        480.1,
+        613.44
+      ]
+    },
+    {
+      "id": "class8-english-p080-l023",
+      "lineNumber": 23,
+      "text": ". taxi counter and bought a ticket. They stood ina line and for",
+      "cleanText": ". taxi counter and bought a ticket. They stood ina line and for",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.23,
+      "bbox": [
+        35.14,
+        621.79,
+        481.54,
+        639.07
+      ]
+    },
+    {
+      "id": "class8-english-p080-l024",
+      "lineNumber": 24,
+      "text": "Ss their turn. Soon their taxi came and they all got into it.",
+      "cleanText": "Ss their turn. Soon their taxi came and they all got into it.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.69,
+      "bbox": [
+        33.98,
+        639.07,
+        355.68,
+        658.94
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p080-l001",
+      "lineNumber": 1,
+      "text": "Going on a Trip 75",
+      "cleanText": "Going on a Trip 75",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        65.95,
+        46.08,
+        477.5,
+        57.02
+      ]
+    },
+    {
+      "id": "class8-english-p080-l002",
+      "lineNumber": 2,
+      "text": "C. Listen to the text and circle the correct information:",
+      "cleanText": "C. Listen to the text and circle the correct information:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        68.83,
+        76.03,
+        395.14,
+        85.82
+      ]
+    },
+    {
+      "id": "class8-english-p080-l003",
+      "lineNumber": 3,
+      "text": "U1, L7C",
+      "cleanText": "U1, L7C",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 57.0,
+      "bbox": [
+        221.18,
+        103.97,
+        273.89,
+        115.78
+      ]
+    },
+    {
+      "id": "class8-english-p080-l004",
+      "lineNumber": 4,
+      "text": "Listening text: 5",
+      "cleanText": "Listening text: 5",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        220.9,
+        122.11,
+        317.38,
+        134.5
+      ]
+    },
+    {
+      "id": "class8-english-p080-l005",
+      "lineNumber": 5,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        68.83,
+        150.05,
+        130.75,
+        162.14
+      ]
+    },
+    {
+      "id": "class8-english-p080-l006",
+      "lineNumber": 6,
+      "text": "Suvarnabhumi Airport has",
+      "cleanText": "Suvarnabhumi Airport has",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        69.12,
+        178.56,
+        205.06,
+        190.37
+      ]
+    },
+    {
+      "id": "class8-english-p080-l007",
+      "lineNumber": 7,
+      "text": "1. checkpoints for arrivals: 130/131/132",
+      "cleanText": "1. checkpoints for arrivals: 130/131/132",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.4,
+      "bbox": [
+        90.72,
+        206.5,
+        305.57,
+        218.3
+      ]
+    },
+    {
+      "id": "class8-english-p080-l008",
+      "lineNumber": 8,
+      "text": "2. checkpoints for departures: 70/71/72",
+      "cleanText": "2. checkpoints for departures: 70/71/72",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        89.57,
+        234.43,
+        304.42,
+        246.24
+      ]
+    },
+    {
+      "id": "class8-english-p080-l009",
+      "lineNumber": 9,
+      "text": "3. custom control checkpoints for arrivals: 25/26/27",
+      "cleanText": "3. custom control checkpoints for arrivals: 25/26/27",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.29,
+      "bbox": [
+        87.84,
+        259.2,
+        365.18,
+        271.01
+      ]
+    },
+    {
+      "id": "class8-english-p080-l010",
+      "lineNumber": 10,
+      "text": "4. custom control checkpoints for departures: 4/6/8",
+      "cleanText": "4. custom control checkpoints for departures: 4/6/8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.29,
+      "bbox": [
+        87.55,
+        282.24,
+        360.58,
+        294.05
+      ]
+    },
+    {
+      "id": "class8-english-p080-l011",
+      "lineNumber": 11,
+      "text": "5. baggage conveyor belts: 20/22/24",
+      "cleanText": "5. baggage conveyor belts: 20/22/24",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        87.84,
+        305.28,
+        287.71,
+        317.09
+      ]
+    },
+    {
+      "id": "class8-english-p080-l012",
+      "lineNumber": 12,
+      "text": "6. check-in counters: 360/361/362",
+      "cleanText": "6. check-in counters: 360/361/362",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        89.86,
+        328.32,
+        272.74,
+        337.54
+      ]
+    },
+    {
+      "id": "class8-english-p080-l013",
+      "lineNumber": 13,
+      "text": "7. moving walkways: 106/107/108",
+      "cleanText": "7. moving walkways: 106/107/108",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.5,
+      "bbox": [
+        87.84,
+        351.36,
+        279.07,
+        363.17
+      ]
+    },
+    {
+      "id": "class8-english-p080-l014",
+      "lineNumber": 14,
+      "text": "8. elevators: 102/103/104",
+      "cleanText": "8. elevators: 102/103/104",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.33,
+      "bbox": [
+        88.13,
+        374.4,
+        228.1,
+        383.62
+      ]
+    },
+    {
+      "id": "class8-english-p080-l015",
+      "lineNumber": 15,
+      "text": "9. escalators: 81/82/83",
+      "cleanText": "9. escalators: 81/82/83",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        87.84,
+        397.15,
+        212.26,
+        406.37
+      ]
+    },
+    {
+      "id": "class8-english-p080-l016",
+      "lineNumber": 16,
+      "text": "Lesson 8: The Destination",
+      "cleanText": "Lesson 8: The Destination",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        68.83,
+        436.61,
+        288.86,
+        450.43
+      ]
+    },
+    {
+      "id": "class8-english-p080-l017",
+      "lineNumber": 17,
+      "text": "Keywords: fascinate, destination, floating market",
+      "cleanText": "Keywords: fascinate, destination, floating market",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        65.38,
+        465.7,
+        342.72,
+        477.79
+      ]
+    },
+    {
+      "id": "class8-english-p080-l018",
+      "lineNumber": 18,
+      "text": "A. Read the text below and complete it with the right form of verb",
+      "cleanText": "A. Read the text below and complete it with the right form of verb",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        65.95,
+        493.34,
+        481.82,
+        506.02
+      ]
+    },
+    {
+      "id": "class8-english-p080-l019",
+      "lineNumber": 19,
+      "text": "from the box. You can use one verb more than once if necessary:",
+      "cleanText": "from the box. You can use one verb more than once if necessary:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        96.48,
+        511.49,
+        477.79,
+        523.87
+      ]
+    },
+    {
+      "id": "class8-english-p080-l020",
+      "lineNumber": 20,
+      "text": "[in [ae i [a [nn ie]",
+      "cleanText": "[in [ae i [a [nn ie]",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 37.67,
+      "bbox": [
+        88.99,
+        523.01,
+        466.56,
+        573.41
+      ]
+    },
+    {
+      "id": "class8-english-p080-l021",
+      "lineNumber": 21,
+      "text": "Mita was to see such a big airport. After completing immigration,",
+      "cleanText": "Mita was to see such a big airport. After completing immigration,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        66.82,
+        578.88,
+        481.54,
+        590.69
+      ]
+    },
+    {
+      "id": "class8-english-p080-l022",
+      "lineNumber": 22,
+      "text": "they all came out of the airport. Mr. Mazharul Islam to the",
+      "cleanText": "they all came out of the airport. Mr. Mazharul Islam to the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.08,
+      "bbox": [
+        66.53,
+        600.77,
+        480.1,
+        613.44
+      ]
+    },
+    {
+      "id": "class8-english-p080-l023",
+      "lineNumber": 23,
+      "text": ". taxi counter and bought a ticket. They stood ina line and for",
+      "cleanText": ". taxi counter and bought a ticket. They stood ina line and for",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.23,
+      "bbox": [
+        35.14,
+        621.79,
+        481.54,
+        639.07
+      ]
+    },
+    {
+      "id": "class8-english-p080-l024",
+      "lineNumber": 24,
+      "text": "Ss their turn. Soon their taxi came and they all got into it.",
+      "cleanText": "Ss their turn. Soon their taxi came and they all got into it.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.69,
+      "bbox": [
+        33.98,
+        639.07,
+        355.68,
+        658.94
+      ]
+    }
+  ],
+  "lineCount": 24,
+  "aiReadyLineCount": 24,
+  "averageConfidence": 89.91,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:17:49.815054+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 25,
+  "pdfPage": 25,
+  "textbookPage": 25,
+  "width": 527.52,
+  "height": 697.0,
+  "image": "../images/page-025.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Unit Three\nHealth and Hygiene\nAX\nPerr {|\nLu B34 te | \\\nj | a Bip a \\\name a >\nAfter we have studied this unit, we will be able to\ne read and understand texts through silent reading\ne listen for information\ne ask and answer questions\ne write the answers to questions\ne practise sounds\ne write paragraphs/ compositions\naq\na",
+  "cleanText": "Unit Three Health and Hygiene AX Perr {| Lu B34 te | \\ j | a Bip a \\ ame a > After we have studied this unit, we will be able to e read and understand texts through silent reading e listen for information e ask and answer questions e write the answers to questions e practise sounds e write paragraphs/ compositions aq a",
+  "aiReadyText": "Unit Three Health and Hygiene AX Perr {| Lu B34 te | \\ j | a Bip a \\ ame a > After we have studied this unit, we will be able to e read and understand texts through silent reading e listen for information e ask and answer questions e write the answers to questions e practise sounds e write paragraphs/ compositions aq",
+  "lines": [
+    {
+      "id": "class8-english-p025-l001",
+      "lineNumber": 1,
+      "text": "Unit Three",
+      "cleanText": "Unit Three",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        242.78,
+        63.65,
+        321.12,
+        75.46
+      ]
+    },
+    {
+      "id": "class8-english-p025-l002",
+      "lineNumber": 2,
+      "text": "Health and Hygiene",
+      "cleanText": "Health and Hygiene",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        187.2,
+        115.49,
+        382.18,
+        136.22
+      ]
+    },
+    {
+      "id": "class8-english-p025-l003",
+      "lineNumber": 3,
+      "text": "AX",
+      "cleanText": "AX",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 59.0,
+      "bbox": [
+        399.74,
+        180.86,
+        429.7,
+        201.89
+      ]
+    },
+    {
+      "id": "class8-english-p025-l004",
+      "lineNumber": 4,
+      "text": "Perr {|",
+      "cleanText": "Perr {|",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 24.5,
+      "bbox": [
+        109.15,
+        199.01,
+        430.85,
+        215.14
+      ]
+    },
+    {
+      "id": "class8-english-p025-l005",
+      "lineNumber": 5,
+      "text": "Lu B34 te | \\",
+      "cleanText": "Lu B34 te | \\",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 45.2,
+      "bbox": [
+        95.04,
+        253.15,
+        430.85,
+        301.25
+      ]
+    },
+    {
+      "id": "class8-english-p025-l006",
+      "lineNumber": 6,
+      "text": "j | a Bip a \\",
+      "cleanText": "j | a Bip a \\",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 42.17,
+      "bbox": [
+        111.17,
+        260.06,
+        428.83,
+        273.6
+      ]
+    },
+    {
+      "id": "class8-english-p025-l007",
+      "lineNumber": 7,
+      "text": "ame a >",
+      "cleanText": "ame a >",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 41.33,
+      "bbox": [
+        155.23,
+        314.21,
+        426.82,
+        331.2
+      ]
+    },
+    {
+      "id": "class8-english-p025-l008",
+      "lineNumber": 8,
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.09,
+      "bbox": [
+        61.06,
+        390.24,
+        339.26,
+        402.34
+      ]
+    },
+    {
+      "id": "class8-english-p025-l009",
+      "lineNumber": 9,
+      "text": "e read and understand texts through silent reading",
+      "cleanText": "e read and understand texts through silent reading",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.88,
+      "bbox": [
+        82.37,
+        413.28,
+        372.38,
+        425.95
+      ]
+    },
+    {
+      "id": "class8-english-p025-l010",
+      "lineNumber": 10,
+      "text": "e listen for information",
+      "cleanText": "e listen for information",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.0,
+      "bbox": [
+        82.37,
+        436.32,
+        223.2,
+        446.11
+      ]
+    },
+    {
+      "id": "class8-english-p025-l011",
+      "lineNumber": 11,
+      "text": "e ask and answer questions",
+      "cleanText": "e ask and answer questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        82.37,
+        459.07,
+        245.09,
+        472.03
+      ]
+    },
+    {
+      "id": "class8-english-p025-l012",
+      "lineNumber": 12,
+      "text": "e write the answers to questions",
+      "cleanText": "e write the answers to questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        82.37,
+        482.11,
+        271.87,
+        495.07
+      ]
+    },
+    {
+      "id": "class8-english-p025-l013",
+      "lineNumber": 13,
+      "text": "e practise sounds",
+      "cleanText": "e practise sounds",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.67,
+      "bbox": [
+        82.37,
+        505.15,
+        189.79,
+        517.82
+      ]
+    },
+    {
+      "id": "class8-english-p025-l014",
+      "lineNumber": 14,
+      "text": "e write paragraphs/ compositions",
+      "cleanText": "e write paragraphs/ compositions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.25,
+      "bbox": [
+        82.37,
+        526.18,
+        279.07,
+        539.14
+      ]
+    },
+    {
+      "id": "class8-english-p025-l015",
+      "lineNumber": 15,
+      "text": "aq",
+      "cleanText": "aq",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 0.0,
+      "bbox": [
+        491.62,
+        631.58,
+        499.68,
+        642.82
+      ]
+    },
+    {
+      "id": "class8-english-p025-l016",
+      "lineNumber": 16,
+      "text": "a",
+      "cleanText": "a",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 50.0,
+      "bbox": [
+        491.62,
+        643.68,
+        499.68,
+        654.91
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p025-l001",
+      "lineNumber": 1,
+      "text": "Unit Three",
+      "cleanText": "Unit Three",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        242.78,
+        63.65,
+        321.12,
+        75.46
+      ]
+    },
+    {
+      "id": "class8-english-p025-l002",
+      "lineNumber": 2,
+      "text": "Health and Hygiene",
+      "cleanText": "Health and Hygiene",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        187.2,
+        115.49,
+        382.18,
+        136.22
+      ]
+    },
+    {
+      "id": "class8-english-p025-l003",
+      "lineNumber": 3,
+      "text": "AX",
+      "cleanText": "AX",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 59.0,
+      "bbox": [
+        399.74,
+        180.86,
+        429.7,
+        201.89
+      ]
+    },
+    {
+      "id": "class8-english-p025-l004",
+      "lineNumber": 4,
+      "text": "Perr {|",
+      "cleanText": "Perr {|",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 24.5,
+      "bbox": [
+        109.15,
+        199.01,
+        430.85,
+        215.14
+      ]
+    },
+    {
+      "id": "class8-english-p025-l005",
+      "lineNumber": 5,
+      "text": "Lu B34 te | \\",
+      "cleanText": "Lu B34 te | \\",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 45.2,
+      "bbox": [
+        95.04,
+        253.15,
+        430.85,
+        301.25
+      ]
+    },
+    {
+      "id": "class8-english-p025-l006",
+      "lineNumber": 6,
+      "text": "j | a Bip a \\",
+      "cleanText": "j | a Bip a \\",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 42.17,
+      "bbox": [
+        111.17,
+        260.06,
+        428.83,
+        273.6
+      ]
+    },
+    {
+      "id": "class8-english-p025-l007",
+      "lineNumber": 7,
+      "text": "ame a >",
+      "cleanText": "ame a >",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 41.33,
+      "bbox": [
+        155.23,
+        314.21,
+        426.82,
+        331.2
+      ]
+    },
+    {
+      "id": "class8-english-p025-l008",
+      "lineNumber": 8,
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.09,
+      "bbox": [
+        61.06,
+        390.24,
+        339.26,
+        402.34
+      ]
+    },
+    {
+      "id": "class8-english-p025-l009",
+      "lineNumber": 9,
+      "text": "e read and understand texts through silent reading",
+      "cleanText": "e read and understand texts through silent reading",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.88,
+      "bbox": [
+        82.37,
+        413.28,
+        372.38,
+        425.95
+      ]
+    },
+    {
+      "id": "class8-english-p025-l010",
+      "lineNumber": 10,
+      "text": "e listen for information",
+      "cleanText": "e listen for information",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.0,
+      "bbox": [
+        82.37,
+        436.32,
+        223.2,
+        446.11
+      ]
+    },
+    {
+      "id": "class8-english-p025-l011",
+      "lineNumber": 11,
+      "text": "e ask and answer questions",
+      "cleanText": "e ask and answer questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        82.37,
+        459.07,
+        245.09,
+        472.03
+      ]
+    },
+    {
+      "id": "class8-english-p025-l012",
+      "lineNumber": 12,
+      "text": "e write the answers to questions",
+      "cleanText": "e write the answers to questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        82.37,
+        482.11,
+        271.87,
+        495.07
+      ]
+    },
+    {
+      "id": "class8-english-p025-l013",
+      "lineNumber": 13,
+      "text": "e practise sounds",
+      "cleanText": "e practise sounds",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.67,
+      "bbox": [
+        82.37,
+        505.15,
+        189.79,
+        517.82
+      ]
+    },
+    {
+      "id": "class8-english-p025-l014",
+      "lineNumber": 14,
+      "text": "e write paragraphs/ compositions",
+      "cleanText": "e write paragraphs/ compositions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.25,
+      "bbox": [
+        82.37,
+        526.18,
+        279.07,
+        539.14
+      ]
+    },
+    {
+      "id": "class8-english-p025-l015",
+      "lineNumber": 15,
+      "text": "aq",
+      "cleanText": "aq",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 0.0,
+      "bbox": [
+        491.62,
+        631.58,
+        499.68,
+        642.82
+      ]
+    }
+  ],
+  "lineCount": 16,
+  "aiReadyLineCount": 15,
+  "averageConfidence": 68.63,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:09.848197+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

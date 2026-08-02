@@ -1,0 +1,447 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 118,
+  "pdfPage": 118,
+  "textbookPage": 118,
+  "width": 518.74,
+  "height": 687.06,
+  "image": "../images/page-118.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Unit Nine\nThings That Have Changed Our Lives\ni iY /\nNW\nee\nil\nAfter we have studied this unit, we will be able to\n@ ask and answer questions\n@ participate in short dialogues and conversations on familiar topics\n@ read aloud texts with proper sounds, stress and intonation\n@ read and understand text materials\n@ write answers to questions\n@ write short paragraphs\nForma-15, English For Today Class-8",
+  "cleanText": "Unit Nine Things That Have Changed Our Lives i iY / NW ee il After we have studied this unit, we will be able to @ ask and answer questions @ participate in short dialogues and conversations on familiar topics @ read aloud texts with proper sounds, stress and intonation @ read and understand text materials @ write answers to questions @ write short paragraphs Forma-15, English For Today Class-8",
+  "aiReadyText": "Unit Nine Things That Have Changed Our Lives i iY / NW ee il After we have studied this unit, we will be able to @ ask and answer questions @ participate in short dialogues and conversations on familiar topics @ read aloud texts with proper sounds, stress and intonation @ read and understand text materials @ write answers to questions @ write short paragraphs Forma-15, English For Today Class-8",
+  "lines": [
+    {
+      "id": "class8-english-p118-l001",
+      "lineNumber": 1,
+      "text": "Unit Nine",
+      "cleanText": "Unit Nine",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        230.69,
+        69.41,
+        304.42,
+        82.08
+      ]
+    },
+    {
+      "id": "class8-english-p118-l002",
+      "lineNumber": 2,
+      "text": "Things That Have Changed Our Lives",
+      "cleanText": "Things That Have Changed Our Lives",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        111.74,
+        99.65,
+        436.9,
+        117.5
+      ]
+    },
+    {
+      "id": "class8-english-p118-l003",
+      "lineNumber": 3,
+      "text": "i iY /",
+      "cleanText": "i iY /",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 43.0,
+      "bbox": [
+        118.37,
+        321.7,
+        284.54,
+        381.02
+      ]
+    },
+    {
+      "id": "class8-english-p118-l004",
+      "lineNumber": 4,
+      "text": "NW",
+      "cleanText": "NW",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 39.0,
+      "bbox": [
+        134.5,
+        353.95,
+        145.44,
+        361.15
+      ]
+    },
+    {
+      "id": "class8-english-p118-l005",
+      "lineNumber": 5,
+      "text": "ee",
+      "cleanText": "ee",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 21.0,
+      "bbox": [
+        241.63,
+        385.06,
+        320.54,
+        410.11
+      ]
+    },
+    {
+      "id": "class8-english-p118-l006",
+      "lineNumber": 6,
+      "text": "il",
+      "cleanText": "il",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 23.0,
+      "bbox": [
+        258.62,
+        412.13,
+        286.56,
+        420.19
+      ]
+    },
+    {
+      "id": "class8-english-p118-l007",
+      "lineNumber": 7,
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        54.72,
+        514.08,
+        313.06,
+        525.31
+      ]
+    },
+    {
+      "id": "class8-english-p118-l008",
+      "lineNumber": 8,
+      "text": "@ ask and answer questions",
+      "cleanText": "@ ask and answer questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.6,
+      "bbox": [
+        76.32,
+        535.1,
+        221.76,
+        546.91
+      ]
+    },
+    {
+      "id": "class8-english-p118-l009",
+      "lineNumber": 9,
+      "text": "@ participate in short dialogues and conversations on familiar topics",
+      "cleanText": "@ participate in short dialogues and conversations on familiar topics",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.5,
+      "bbox": [
+        76.32,
+        556.13,
+        432.29,
+        567.94
+      ]
+    },
+    {
+      "id": "class8-english-p118-l010",
+      "lineNumber": 10,
+      "text": "@ read aloud texts with proper sounds, stress and intonation",
+      "cleanText": "@ read aloud texts with proper sounds, stress and intonation",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.4,
+      "bbox": [
+        76.32,
+        577.15,
+        388.8,
+        588.96
+      ]
+    },
+    {
+      "id": "class8-english-p118-l011",
+      "lineNumber": 11,
+      "text": "@ read and understand text materials",
+      "cleanText": "@ read and understand text materials",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.67,
+      "bbox": [
+        76.32,
+        598.18,
+        268.42,
+        607.39
+      ]
+    },
+    {
+      "id": "class8-english-p118-l012",
+      "lineNumber": 12,
+      "text": "@ write answers to questions",
+      "cleanText": "@ write answers to questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.8,
+      "bbox": [
+        76.32,
+        619.2,
+        227.52,
+        631.01
+      ]
+    },
+    {
+      "id": "class8-english-p118-l013",
+      "lineNumber": 13,
+      "text": "@ write short paragraphs",
+      "cleanText": "@ write short paragraphs",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        76.32,
+        638.21,
+        206.21,
+        650.02
+      ]
+    },
+    {
+      "id": "class8-english-p118-l014",
+      "lineNumber": 14,
+      "text": "Forma-15, English For Today Class-8",
+      "cleanText": "Forma-15, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.2,
+      "bbox": [
+        54.14,
+        664.7,
+        219.46,
+        674.78
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p118-l001",
+      "lineNumber": 1,
+      "text": "Unit Nine",
+      "cleanText": "Unit Nine",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        230.69,
+        69.41,
+        304.42,
+        82.08
+      ]
+    },
+    {
+      "id": "class8-english-p118-l002",
+      "lineNumber": 2,
+      "text": "Things That Have Changed Our Lives",
+      "cleanText": "Things That Have Changed Our Lives",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        111.74,
+        99.65,
+        436.9,
+        117.5
+      ]
+    },
+    {
+      "id": "class8-english-p118-l003",
+      "lineNumber": 3,
+      "text": "i iY /",
+      "cleanText": "i iY /",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 43.0,
+      "bbox": [
+        118.37,
+        321.7,
+        284.54,
+        381.02
+      ]
+    },
+    {
+      "id": "class8-english-p118-l004",
+      "lineNumber": 4,
+      "text": "NW",
+      "cleanText": "NW",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 39.0,
+      "bbox": [
+        134.5,
+        353.95,
+        145.44,
+        361.15
+      ]
+    },
+    {
+      "id": "class8-english-p118-l005",
+      "lineNumber": 5,
+      "text": "ee",
+      "cleanText": "ee",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 21.0,
+      "bbox": [
+        241.63,
+        385.06,
+        320.54,
+        410.11
+      ]
+    },
+    {
+      "id": "class8-english-p118-l006",
+      "lineNumber": 6,
+      "text": "il",
+      "cleanText": "il",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 23.0,
+      "bbox": [
+        258.62,
+        412.13,
+        286.56,
+        420.19
+      ]
+    },
+    {
+      "id": "class8-english-p118-l007",
+      "lineNumber": 7,
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        54.72,
+        514.08,
+        313.06,
+        525.31
+      ]
+    },
+    {
+      "id": "class8-english-p118-l008",
+      "lineNumber": 8,
+      "text": "@ ask and answer questions",
+      "cleanText": "@ ask and answer questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.6,
+      "bbox": [
+        76.32,
+        535.1,
+        221.76,
+        546.91
+      ]
+    },
+    {
+      "id": "class8-english-p118-l009",
+      "lineNumber": 9,
+      "text": "@ participate in short dialogues and conversations on familiar topics",
+      "cleanText": "@ participate in short dialogues and conversations on familiar topics",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.5,
+      "bbox": [
+        76.32,
+        556.13,
+        432.29,
+        567.94
+      ]
+    },
+    {
+      "id": "class8-english-p118-l010",
+      "lineNumber": 10,
+      "text": "@ read aloud texts with proper sounds, stress and intonation",
+      "cleanText": "@ read aloud texts with proper sounds, stress and intonation",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.4,
+      "bbox": [
+        76.32,
+        577.15,
+        388.8,
+        588.96
+      ]
+    },
+    {
+      "id": "class8-english-p118-l011",
+      "lineNumber": 11,
+      "text": "@ read and understand text materials",
+      "cleanText": "@ read and understand text materials",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.67,
+      "bbox": [
+        76.32,
+        598.18,
+        268.42,
+        607.39
+      ]
+    },
+    {
+      "id": "class8-english-p118-l012",
+      "lineNumber": 12,
+      "text": "@ write answers to questions",
+      "cleanText": "@ write answers to questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.8,
+      "bbox": [
+        76.32,
+        619.2,
+        227.52,
+        631.01
+      ]
+    },
+    {
+      "id": "class8-english-p118-l013",
+      "lineNumber": 13,
+      "text": "@ write short paragraphs",
+      "cleanText": "@ write short paragraphs",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        76.32,
+        638.21,
+        206.21,
+        650.02
+      ]
+    },
+    {
+      "id": "class8-english-p118-l014",
+      "lineNumber": 14,
+      "text": "Forma-15, English For Today Class-8",
+      "cleanText": "Forma-15, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.2,
+      "bbox": [
+        54.14,
+        664.7,
+        219.46,
+        674.78
+      ]
+    }
+  ],
+  "lineCount": 14,
+  "aiReadyLineCount": 14,
+  "averageConfidence": 75.84,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:48.581231+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

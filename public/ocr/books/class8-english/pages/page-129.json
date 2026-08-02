@@ -1,0 +1,852 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 129,
+  "pdfPage": 129,
+  "textbookPage": 129,
+  "width": 532.47,
+  "height": 692.96,
+  "image": "../images/page-129.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "124 English For Today\nNote: The speed of sound, which is approximately 760 miles per hour is\ncalled 1 Mach. An airplane flying less than 1 Mach or less than 760\nmiles per hour is travelling at subsonic speed. Faster than 1 Mach or 760\nmiles per hour would be a supersonic speed.\nC. Read the dialogue between the English teacher Mr Ramis and Sohan.\nThen do the following exercise:\nSohan: Teacher, in the last class we read about modern aircraft.\nThere were Boeing 787s, Airbus 350s, Concorde and so on.\nBut which one is the best? Which one can we buy for our\nBiman Bangladesh Airlines?\nMr.Ramis: Adifficult question. There are certain things to consider. If\nyou think of speed, Concorde flies the fastest. To many, it\nlooks the most beautiful. But it’s no more in operation.\nSohan: Between the other two aircrafts?\nMr. Ramis: Well, if you remember, Boeing 787 travels 950 km/h. So you\nsee, it’s not as fast as Concorde. But it’s faster than Airbus 350.\nSohan: Yes, teacher. I remember Airbus 350 travels 945 km/h. It’s 5\nkm shorter than Boeing 787.\nMr.Ramis: Nice calculation! But there are other factors too. Say, passenger\ncapacity, production cost and many more. Airbus 380 now is\nthe largest and can carry more passengers than any other aircraft.\nAuthorities have to consider so many...\nSohan: Yes, teacher. I understand.\nComplete these statements using the correct form of words in the brackets:\n1. Airbus 350 is a bit.............. (slow) than Boeing 787.\n\\o\n2. Concorde flew the............... (fast) among all passenger aircrafts. Ss",
+  "cleanText": "124 English For Today Note: The speed of sound, which is approximately 760 miles per hour is called 1 Mach. An airplane flying less than 1 Mach or less than 760 miles per hour is travelling at subsonic speed. Faster than 1 Mach or 760 miles per hour would be a supersonic speed. C. Read the dialogue between the English teacher Mr Ramis and Sohan. Then do the following exercise: Sohan: Teacher, in the last class we read about modern aircraft. There were Boeing 787s, Airbus 350s, Concorde and so on. But which one is the best? Which one can we buy for our Biman Bangladesh Airlines? Mr.Ramis: Adifficult question. There are certain things to consider. If you think of speed, Concorde flies the fastest. To many, it looks the most beautiful. But it’s no more in operation. Sohan: Between the other two aircrafts? Mr. Ramis: Well, if you remember, Boeing 787 travels 950 km/h. So you see, it’s not as fast as Concorde. But it’s faster than Airbus 350. Sohan: Yes, teacher. I remember Airbus 350 travels 945 km/h. It’s 5 km shorter than Boeing 787. Mr.Ramis: Nice calculation! But there are other factors too. Say, passenger capacity, production cost and many more. Airbus 380 now is the largest and can carry more passengers than any other aircraft. Authorities have to consider so many... Sohan: Yes, teacher. I understand. Complete these statements using the correct form of words in the brackets: 1. Airbus 350 is a bit.............. (slow) than Boeing 787. \\o 2. Concorde flew the............... (fast) among all passenger aircrafts. Ss",
+  "aiReadyText": "124 English For Today Note: The speed of sound, which is approximately 760 miles per hour is called 1 Mach. An airplane flying less than 1 Mach or less than 760 miles per hour is travelling at subsonic speed. Faster than 1 Mach or 760 miles per hour would be a supersonic speed. C. Read the dialogue between the English teacher Mr Ramis and Sohan. Then do the following exercise: Sohan: Teacher, in the last class we read about modern aircraft. There were Boeing 787s, Airbus 350s, Concorde and so on. But which one is the best? Which one can we buy for our Biman Bangladesh Airlines? Mr.Ramis: Adifficult question. There are certain things to consider. If you think of speed, Concorde flies the fastest. To many, it looks the most beautiful. But it’s no more in operation. Sohan: Between the other two aircrafts? Mr. Ramis: Well, if you remember, Boeing 787 travels 950 km/h. So you see, it’s not as fast as Concorde. But it’s faster than Airbus 350. Sohan: Yes, teacher. I remember Airbus 350 travels 945 km/h. It’s 5 km shorter than Boeing 787. Mr.Ramis: Nice calculation! But there are other factors too. Say, passenger capacity, production cost and many more. Airbus 380 now is the largest and can carry more passengers than any other aircraft. Authorities have to consider so many... Sohan: Yes, teacher. I understand. Complete these statements using the correct form of words in the brackets: 1. Airbus 350 is a bit.............. (slow) than Boeing 787. 2. Concorde flew the............... (fast) among all passenger aircrafts. Ss",
+  "lines": [
+    {
+      "id": "class8-english-p129-l001",
+      "lineNumber": 1,
+      "text": "124 English For Today",
+      "cleanText": "124 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        64.22,
+        41.18,
+        475.49,
+        52.13
+      ]
+    },
+    {
+      "id": "class8-english-p129-l002",
+      "lineNumber": 2,
+      "text": "Note: The speed of sound, which is approximately 760 miles per hour is",
+      "cleanText": "Note: The speed of sound, which is approximately 760 miles per hour is",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        86.11,
+        74.3,
+        476.64,
+        86.11
+      ]
+    },
+    {
+      "id": "class8-english-p129-l003",
+      "lineNumber": 3,
+      "text": "called 1 Mach. An airplane flying less than 1 Mach or less than 760",
+      "cleanText": "called 1 Mach. An airplane flying less than 1 Mach or less than 760",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.36,
+      "bbox": [
+        85.54,
+        92.45,
+        476.64,
+        104.26
+      ]
+    },
+    {
+      "id": "class8-english-p129-l004",
+      "lineNumber": 4,
+      "text": "miles per hour is travelling at subsonic speed. Faster than 1 Mach or 760",
+      "cleanText": "miles per hour is travelling at subsonic speed. Faster than 1 Mach or 760",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        86.4,
+        110.3,
+        476.93,
+        122.98
+      ]
+    },
+    {
+      "id": "class8-english-p129-l005",
+      "lineNumber": 5,
+      "text": "miles per hour would be a supersonic speed.",
+      "cleanText": "miles per hour would be a supersonic speed.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        86.98,
+        128.16,
+        320.54,
+        140.26
+      ]
+    },
+    {
+      "id": "class8-english-p129-l006",
+      "lineNumber": 6,
+      "text": "C. Read the dialogue between the English teacher Mr Ramis and Sohan.",
+      "cleanText": "C. Read the dialogue between the English teacher Mr Ramis and Sohan.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        63.36,
+        156.67,
+        478.08,
+        168.19
+      ]
+    },
+    {
+      "id": "class8-english-p129-l007",
+      "lineNumber": 7,
+      "text": "Then do the following exercise:",
+      "cleanText": "Then do the following exercise:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        83.23,
+        174.53,
+        258.62,
+        186.05
+      ]
+    },
+    {
+      "id": "class8-english-p129-l008",
+      "lineNumber": 8,
+      "text": "Sohan: Teacher, in the last class we read about modern aircraft.",
+      "cleanText": "Sohan: Teacher, in the last class we read about modern aircraft.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.83,
+      "bbox": [
+        64.51,
+        202.18,
+        476.93,
+        213.41
+      ]
+    },
+    {
+      "id": "class8-english-p129-l009",
+      "lineNumber": 9,
+      "text": "There were Boeing 787s, Airbus 350s, Concorde and so on.",
+      "cleanText": "There were Boeing 787s, Airbus 350s, Concorde and so on.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        157.54,
+        220.32,
+        477.22,
+        232.13
+      ]
+    },
+    {
+      "id": "class8-english-p129-l010",
+      "lineNumber": 10,
+      "text": "But which one is the best? Which one can we buy for our",
+      "cleanText": "But which one is the best? Which one can we buy for our",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        158.4,
+        238.18,
+        478.37,
+        250.27
+      ]
+    },
+    {
+      "id": "class8-english-p129-l011",
+      "lineNumber": 11,
+      "text": "Biman Bangladesh Airlines?",
+      "cleanText": "Biman Bangladesh Airlines?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        159.26,
+        255.46,
+        309.6,
+        267.26
+      ]
+    },
+    {
+      "id": "class8-english-p129-l012",
+      "lineNumber": 12,
+      "text": "Mr.Ramis: Adifficult question. There are certain things to consider. If",
+      "cleanText": "Mr.Ramis: Adifficult question. There are certain things to consider. If",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.09,
+      "bbox": [
+        64.22,
+        284.26,
+        478.37,
+        296.06
+      ]
+    },
+    {
+      "id": "class8-english-p129-l013",
+      "lineNumber": 13,
+      "text": "you think of speed, Concorde flies the fastest. To many, it",
+      "cleanText": "you think of speed, Concorde flies the fastest. To many, it",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        158.11,
+        302.4,
+        476.93,
+        314.21
+      ]
+    },
+    {
+      "id": "class8-english-p129-l014",
+      "lineNumber": 14,
+      "text": "looks the most beautiful. But it’s no more in operation.",
+      "cleanText": "looks the most beautiful. But it’s no more in operation.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        158.11,
+        320.26,
+        447.55,
+        332.06
+      ]
+    },
+    {
+      "id": "class8-english-p129-l015",
+      "lineNumber": 15,
+      "text": "Sohan: Between the other two aircrafts?",
+      "cleanText": "Sohan: Between the other two aircrafts?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        64.51,
+        348.19,
+        326.3,
+        357.7
+      ]
+    },
+    {
+      "id": "class8-english-p129-l016",
+      "lineNumber": 16,
+      "text": "Mr. Ramis: Well, if you remember, Boeing 787 travels 950 km/h. So you",
+      "cleanText": "Mr. Ramis: Well, if you remember, Boeing 787 travels 950 km/h. So you",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 78.43,
+      "bbox": [
+        63.94,
+        376.42,
+        476.64,
+        388.22
+      ]
+    },
+    {
+      "id": "class8-english-p129-l017",
+      "lineNumber": 17,
+      "text": "see, it’s not as fast as Concorde. But it’s faster than Airbus 350.",
+      "cleanText": "see, it’s not as fast as Concorde. But it’s faster than Airbus 350.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        151.78,
+        394.27,
+        477.79,
+        405.5
+      ]
+    },
+    {
+      "id": "class8-english-p129-l018",
+      "lineNumber": 18,
+      "text": "Sohan: Yes, teacher. I remember Airbus 350 travels 945 km/h. It’s 5",
+      "cleanText": "Sohan: Yes, teacher. I remember Airbus 350 travels 945 km/h. It’s 5",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.23,
+      "bbox": [
+        64.51,
+        422.21,
+        475.78,
+        433.44
+      ]
+    },
+    {
+      "id": "class8-english-p129-l019",
+      "lineNumber": 19,
+      "text": "km shorter than Boeing 787.",
+      "cleanText": "km shorter than Boeing 787.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        160.42,
+        440.06,
+        308.74,
+        452.16
+      ]
+    },
+    {
+      "id": "class8-english-p129-l020",
+      "lineNumber": 20,
+      "text": "Mr.Ramis: Nice calculation! But there are other factors too. Say, passenger",
+      "cleanText": "Mr.Ramis: Nice calculation! But there are other factors too. Say, passenger",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 72.58,
+      "bbox": [
+        64.22,
+        468.29,
+        475.2,
+        480.1
+      ]
+    },
+    {
+      "id": "class8-english-p129-l021",
+      "lineNumber": 21,
+      "text": "capacity, production cost and many more. Airbus 380 now is",
+      "cleanText": "capacity, production cost and many more. Airbus 380 now is",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        158.11,
+        486.14,
+        472.61,
+        498.24
+      ]
+    },
+    {
+      "id": "class8-english-p129-l022",
+      "lineNumber": 22,
+      "text": "the largest and can carry more passengers than any other aircraft.",
+      "cleanText": "the largest and can carry more passengers than any other aircraft.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        156.96,
+        504.29,
+        476.64,
+        516.1
+      ]
+    },
+    {
+      "id": "class8-english-p129-l023",
+      "lineNumber": 23,
+      "text": "Authorities have to consider so many...",
+      "cleanText": "Authorities have to consider so many...",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        155.52,
+        522.43,
+        348.77,
+        534.24
+      ]
+    },
+    {
+      "id": "class8-english-p129-l024",
+      "lineNumber": 24,
+      "text": "Sohan: Yes, teacher. I understand.",
+      "cleanText": "Sohan: Yes, teacher. I understand.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.5,
+      "bbox": [
+        64.51,
+        550.37,
+        293.47,
+        561.6
+      ]
+    },
+    {
+      "id": "class8-english-p129-l025",
+      "lineNumber": 25,
+      "text": "Complete these statements using the correct form of words in the brackets:",
+      "cleanText": "Complete these statements using the correct form of words in the brackets:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        64.22,
+        586.66,
+        478.66,
+        598.18
+      ]
+    },
+    {
+      "id": "class8-english-p129-l026",
+      "lineNumber": 26,
+      "text": "1. Airbus 350 is a bit.............. (slow) than Boeing 787.",
+      "cleanText": "1. Airbus 350 is a bit.............. (slow) than Boeing 787.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.18,
+      "bbox": [
+        86.11,
+        613.15,
+        379.3,
+        627.55
+      ]
+    },
+    {
+      "id": "class8-english-p129-l027",
+      "lineNumber": 27,
+      "text": "\\o",
+      "cleanText": "\\o",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 50.0,
+      "bbox": [
+        495.65,
+        628.7,
+        504.0,
+        634.18
+      ]
+    },
+    {
+      "id": "class8-english-p129-l028",
+      "lineNumber": 28,
+      "text": "2. Concorde flew the............... (fast) among all passenger aircrafts. Ss",
+      "cleanText": "2. Concorde flew the............... (fast) among all passenger aircrafts. Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.36,
+      "bbox": [
+        84.96,
+        634.18,
+        504.0,
+        653.76
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p129-l001",
+      "lineNumber": 1,
+      "text": "124 English For Today",
+      "cleanText": "124 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        64.22,
+        41.18,
+        475.49,
+        52.13
+      ]
+    },
+    {
+      "id": "class8-english-p129-l002",
+      "lineNumber": 2,
+      "text": "Note: The speed of sound, which is approximately 760 miles per hour is",
+      "cleanText": "Note: The speed of sound, which is approximately 760 miles per hour is",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        86.11,
+        74.3,
+        476.64,
+        86.11
+      ]
+    },
+    {
+      "id": "class8-english-p129-l003",
+      "lineNumber": 3,
+      "text": "called 1 Mach. An airplane flying less than 1 Mach or less than 760",
+      "cleanText": "called 1 Mach. An airplane flying less than 1 Mach or less than 760",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.36,
+      "bbox": [
+        85.54,
+        92.45,
+        476.64,
+        104.26
+      ]
+    },
+    {
+      "id": "class8-english-p129-l004",
+      "lineNumber": 4,
+      "text": "miles per hour is travelling at subsonic speed. Faster than 1 Mach or 760",
+      "cleanText": "miles per hour is travelling at subsonic speed. Faster than 1 Mach or 760",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        86.4,
+        110.3,
+        476.93,
+        122.98
+      ]
+    },
+    {
+      "id": "class8-english-p129-l005",
+      "lineNumber": 5,
+      "text": "miles per hour would be a supersonic speed.",
+      "cleanText": "miles per hour would be a supersonic speed.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        86.98,
+        128.16,
+        320.54,
+        140.26
+      ]
+    },
+    {
+      "id": "class8-english-p129-l006",
+      "lineNumber": 6,
+      "text": "C. Read the dialogue between the English teacher Mr Ramis and Sohan.",
+      "cleanText": "C. Read the dialogue between the English teacher Mr Ramis and Sohan.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        63.36,
+        156.67,
+        478.08,
+        168.19
+      ]
+    },
+    {
+      "id": "class8-english-p129-l007",
+      "lineNumber": 7,
+      "text": "Then do the following exercise:",
+      "cleanText": "Then do the following exercise:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        83.23,
+        174.53,
+        258.62,
+        186.05
+      ]
+    },
+    {
+      "id": "class8-english-p129-l008",
+      "lineNumber": 8,
+      "text": "Sohan: Teacher, in the last class we read about modern aircraft.",
+      "cleanText": "Sohan: Teacher, in the last class we read about modern aircraft.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.83,
+      "bbox": [
+        64.51,
+        202.18,
+        476.93,
+        213.41
+      ]
+    },
+    {
+      "id": "class8-english-p129-l009",
+      "lineNumber": 9,
+      "text": "There were Boeing 787s, Airbus 350s, Concorde and so on.",
+      "cleanText": "There were Boeing 787s, Airbus 350s, Concorde and so on.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        157.54,
+        220.32,
+        477.22,
+        232.13
+      ]
+    },
+    {
+      "id": "class8-english-p129-l010",
+      "lineNumber": 10,
+      "text": "But which one is the best? Which one can we buy for our",
+      "cleanText": "But which one is the best? Which one can we buy for our",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        158.4,
+        238.18,
+        478.37,
+        250.27
+      ]
+    },
+    {
+      "id": "class8-english-p129-l011",
+      "lineNumber": 11,
+      "text": "Biman Bangladesh Airlines?",
+      "cleanText": "Biman Bangladesh Airlines?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        159.26,
+        255.46,
+        309.6,
+        267.26
+      ]
+    },
+    {
+      "id": "class8-english-p129-l012",
+      "lineNumber": 12,
+      "text": "Mr.Ramis: Adifficult question. There are certain things to consider. If",
+      "cleanText": "Mr.Ramis: Adifficult question. There are certain things to consider. If",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.09,
+      "bbox": [
+        64.22,
+        284.26,
+        478.37,
+        296.06
+      ]
+    },
+    {
+      "id": "class8-english-p129-l013",
+      "lineNumber": 13,
+      "text": "you think of speed, Concorde flies the fastest. To many, it",
+      "cleanText": "you think of speed, Concorde flies the fastest. To many, it",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        158.11,
+        302.4,
+        476.93,
+        314.21
+      ]
+    },
+    {
+      "id": "class8-english-p129-l014",
+      "lineNumber": 14,
+      "text": "looks the most beautiful. But it’s no more in operation.",
+      "cleanText": "looks the most beautiful. But it’s no more in operation.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        158.11,
+        320.26,
+        447.55,
+        332.06
+      ]
+    },
+    {
+      "id": "class8-english-p129-l015",
+      "lineNumber": 15,
+      "text": "Sohan: Between the other two aircrafts?",
+      "cleanText": "Sohan: Between the other two aircrafts?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        64.51,
+        348.19,
+        326.3,
+        357.7
+      ]
+    },
+    {
+      "id": "class8-english-p129-l016",
+      "lineNumber": 16,
+      "text": "Mr. Ramis: Well, if you remember, Boeing 787 travels 950 km/h. So you",
+      "cleanText": "Mr. Ramis: Well, if you remember, Boeing 787 travels 950 km/h. So you",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 78.43,
+      "bbox": [
+        63.94,
+        376.42,
+        476.64,
+        388.22
+      ]
+    },
+    {
+      "id": "class8-english-p129-l017",
+      "lineNumber": 17,
+      "text": "see, it’s not as fast as Concorde. But it’s faster than Airbus 350.",
+      "cleanText": "see, it’s not as fast as Concorde. But it’s faster than Airbus 350.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        151.78,
+        394.27,
+        477.79,
+        405.5
+      ]
+    },
+    {
+      "id": "class8-english-p129-l018",
+      "lineNumber": 18,
+      "text": "Sohan: Yes, teacher. I remember Airbus 350 travels 945 km/h. It’s 5",
+      "cleanText": "Sohan: Yes, teacher. I remember Airbus 350 travels 945 km/h. It’s 5",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.23,
+      "bbox": [
+        64.51,
+        422.21,
+        475.78,
+        433.44
+      ]
+    },
+    {
+      "id": "class8-english-p129-l019",
+      "lineNumber": 19,
+      "text": "km shorter than Boeing 787.",
+      "cleanText": "km shorter than Boeing 787.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        160.42,
+        440.06,
+        308.74,
+        452.16
+      ]
+    },
+    {
+      "id": "class8-english-p129-l020",
+      "lineNumber": 20,
+      "text": "Mr.Ramis: Nice calculation! But there are other factors too. Say, passenger",
+      "cleanText": "Mr.Ramis: Nice calculation! But there are other factors too. Say, passenger",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 72.58,
+      "bbox": [
+        64.22,
+        468.29,
+        475.2,
+        480.1
+      ]
+    },
+    {
+      "id": "class8-english-p129-l021",
+      "lineNumber": 21,
+      "text": "capacity, production cost and many more. Airbus 380 now is",
+      "cleanText": "capacity, production cost and many more. Airbus 380 now is",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        158.11,
+        486.14,
+        472.61,
+        498.24
+      ]
+    },
+    {
+      "id": "class8-english-p129-l022",
+      "lineNumber": 22,
+      "text": "the largest and can carry more passengers than any other aircraft.",
+      "cleanText": "the largest and can carry more passengers than any other aircraft.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        156.96,
+        504.29,
+        476.64,
+        516.1
+      ]
+    },
+    {
+      "id": "class8-english-p129-l023",
+      "lineNumber": 23,
+      "text": "Authorities have to consider so many...",
+      "cleanText": "Authorities have to consider so many...",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        155.52,
+        522.43,
+        348.77,
+        534.24
+      ]
+    },
+    {
+      "id": "class8-english-p129-l024",
+      "lineNumber": 24,
+      "text": "Sohan: Yes, teacher. I understand.",
+      "cleanText": "Sohan: Yes, teacher. I understand.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.5,
+      "bbox": [
+        64.51,
+        550.37,
+        293.47,
+        561.6
+      ]
+    },
+    {
+      "id": "class8-english-p129-l025",
+      "lineNumber": 25,
+      "text": "Complete these statements using the correct form of words in the brackets:",
+      "cleanText": "Complete these statements using the correct form of words in the brackets:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        64.22,
+        586.66,
+        478.66,
+        598.18
+      ]
+    },
+    {
+      "id": "class8-english-p129-l026",
+      "lineNumber": 26,
+      "text": "1. Airbus 350 is a bit.............. (slow) than Boeing 787.",
+      "cleanText": "1. Airbus 350 is a bit.............. (slow) than Boeing 787.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.18,
+      "bbox": [
+        86.11,
+        613.15,
+        379.3,
+        627.55
+      ]
+    },
+    {
+      "id": "class8-english-p129-l028",
+      "lineNumber": 28,
+      "text": "2. Concorde flew the............... (fast) among all passenger aircrafts. Ss",
+      "cleanText": "2. Concorde flew the............... (fast) among all passenger aircrafts. Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.36,
+      "bbox": [
+        84.96,
+        634.18,
+        504.0,
+        653.76
+      ]
+    }
+  ],
+  "lineCount": 28,
+  "aiReadyLineCount": 27,
+  "averageConfidence": 91.4,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:19:03.881243+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

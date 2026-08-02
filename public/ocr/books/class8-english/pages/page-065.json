@@ -1,0 +1,657 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 65,
+  "pdfPage": 65,
+  "textbookPage": 65,
+  "width": 530.0,
+  "height": 696.0,
+  "image": "../images/page-065.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "60 English For Today\nB. Match the words in Column A with their meanings in Column B:\nC. Read the following passage and fill in the blanks using words\ngiven in the box:\nBangladesh is a land of scenic beauty. Many small ethnic communities\nlive peacefully in the hills, plains and forests across the country.\nAlthough these communities are small in number, their cultural heritage\nis very. They have their unique way of life, traditions and\nvalues. Each ethnic group has its own mother tongue that carries the\nstories, songs and contributions of their ancestors.\nBangladesh government has introduced textbooks in five ethnic\nlanguages to protect their history and culture. These\ncommunities celebrate different where people wear\ncolourful and handmade clothes. The design and patterns of these clothes\nreflect their cultural. Among the major festivals celebrated\nin the Chittagong Hill Tracts are Boisabi, Raj Punnah and Kothina Chibar\nDan. Kothina Chibar Dan is a religious festival that shows their\n. Almost all the ethnic groups live in close with\nnature, and their homes are made of natural resources. However, in this\nxo age of modernisation, they are struggling to keep their culture\n=\nq.",
+  "cleanText": "60 English For Today B. Match the words in Column A with their meanings in Column B: C. Read the following passage and fill in the blanks using words given in the box: Bangladesh is a land of scenic beauty. Many small ethnic communities live peacefully in the hills, plains and forests across the country. Although these communities are small in number, their cultural heritage is very. They have their unique way of life, traditions and values. Each ethnic group has its own mother tongue that carries the stories, songs and contributions of their ancestors. Bangladesh government has introduced textbooks in five ethnic languages to protect their history and culture. These communities celebrate different where people wear colourful and handmade clothes. The design and patterns of these clothes reflect their cultural. Among the major festivals celebrated in the Chittagong Hill Tracts are Boisabi, Raj Punnah and Kothina Chibar Dan. Kothina Chibar Dan is a religious festival that shows their. Almost all the ethnic groups live in close with nature, and their homes are made of natural resources. However, in this xo age of modernisation, they are struggling to keep their culture = q.",
+  "aiReadyText": "60 English For Today B. Match the words in Column A with their meanings in Column B: C. Read the following passage and fill in the blanks using words given in the box: Bangladesh is a land of scenic beauty. Many small ethnic communities live peacefully in the hills, plains and forests across the country. Although these communities are small in number, their cultural heritage is very. They have their unique way of life, traditions and values. Each ethnic group has its own mother tongue that carries the stories, songs and contributions of their ancestors. Bangladesh government has introduced textbooks in five ethnic languages to protect their history and culture. These communities celebrate different where people wear colourful and handmade clothes. The design and patterns of these clothes reflect their cultural. Among the major festivals celebrated in the Chittagong Hill Tracts are Boisabi, Raj Punnah and Kothina Chibar Dan. Kothina Chibar Dan is a religious festival that shows their. Almost all the ethnic groups live in close with nature, and their homes are made of natural resources. However, in this xo age of modernisation, they are struggling to keep their culture",
+  "lines": [
+    {
+      "id": "class8-english-p065-l001",
+      "lineNumber": 1,
+      "text": "60 English For Today",
+      "cleanText": "60 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.33,
+        42.05,
+        471.74,
+        52.99
+      ]
+    },
+    {
+      "id": "class8-english-p065-l002",
+      "lineNumber": 2,
+      "text": "B. Match the words in Column A with their meanings in Column B:",
+      "cleanText": "B. Match the words in Column A with their meanings in Column B:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.69,
+      "bbox": [
+        59.9,
+        75.74,
+        463.1,
+        88.13
+      ]
+    },
+    {
+      "id": "class8-english-p065-l003",
+      "lineNumber": 3,
+      "text": "C. Read the following passage and fill in the blanks using words",
+      "cleanText": "C. Read the following passage and fill in the blanks using words",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        58.18,
+        244.22,
+        437.76,
+        256.61
+      ]
+    },
+    {
+      "id": "class8-english-p065-l004",
+      "lineNumber": 4,
+      "text": "given in the box:",
+      "cleanText": "given in the box:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.18,
+        262.66,
+        155.81,
+        275.04
+      ]
+    },
+    {
+      "id": "class8-english-p065-l005",
+      "lineNumber": 5,
+      "text": "Bangladesh is a land of scenic beauty. Many small ethnic communities",
+      "cleanText": "Bangladesh is a land of scenic beauty. Many small ethnic communities",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        57.89,
+        345.89,
+        470.88,
+        358.85
+      ]
+    },
+    {
+      "id": "class8-english-p065-l006",
+      "lineNumber": 6,
+      "text": "live peacefully in the hills, plains and forests across the country.",
+      "cleanText": "live peacefully in the hills, plains and forests across the country.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        58.18,
+        364.61,
+        470.02,
+        377.28
+      ]
+    },
+    {
+      "id": "class8-english-p065-l007",
+      "lineNumber": 7,
+      "text": "Although these communities are small in number, their cultural heritage",
+      "cleanText": "Although these communities are small in number, their cultural heritage",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        57.89,
+        383.04,
+        471.46,
+        395.71
+      ]
+    },
+    {
+      "id": "class8-english-p065-l008",
+      "lineNumber": 8,
+      "text": "is very. They have their unique way of life, traditions and",
+      "cleanText": "is very. They have their unique way of life, traditions and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        58.18,
+        401.47,
+        471.74,
+        414.43
+      ]
+    },
+    {
+      "id": "class8-english-p065-l009",
+      "lineNumber": 9,
+      "text": "values. Each ethnic group has its own mother tongue that carries the",
+      "cleanText": "values. Each ethnic group has its own mother tongue that carries the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        57.89,
+        420.19,
+        470.88,
+        432.86
+      ]
+    },
+    {
+      "id": "class8-english-p065-l010",
+      "lineNumber": 10,
+      "text": "stories, songs and contributions of their ancestors.",
+      "cleanText": "stories, songs and contributions of their ancestors.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        58.46,
+        438.62,
+        470.59,
+        451.3
+      ]
+    },
+    {
+      "id": "class8-english-p065-l011",
+      "lineNumber": 11,
+      "text": "Bangladesh government has introduced textbooks in five ethnic",
+      "cleanText": "Bangladesh government has introduced textbooks in five ethnic",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.5,
+      "bbox": [
+        57.89,
+        457.06,
+        470.88,
+        470.02
+      ]
+    },
+    {
+      "id": "class8-english-p065-l012",
+      "lineNumber": 12,
+      "text": "languages to protect their history and culture. These",
+      "cleanText": "languages to protect their history and culture. These",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        58.18,
+        475.49,
+        471.46,
+        488.45
+      ]
+    },
+    {
+      "id": "class8-english-p065-l013",
+      "lineNumber": 13,
+      "text": "communities celebrate different where people wear",
+      "cleanText": "communities celebrate different where people wear",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.5,
+      "bbox": [
+        58.18,
+        494.21,
+        471.74,
+        506.88
+      ]
+    },
+    {
+      "id": "class8-english-p065-l014",
+      "lineNumber": 14,
+      "text": "colourful and handmade clothes. The design and patterns of these clothes",
+      "cleanText": "colourful and handmade clothes. The design and patterns of these clothes",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        58.18,
+        512.64,
+        470.59,
+        525.31
+      ]
+    },
+    {
+      "id": "class8-english-p065-l015",
+      "lineNumber": 15,
+      "text": "reflect their cultural. Among the major festivals celebrated",
+      "cleanText": "reflect their cultural. Among the major festivals celebrated",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        57.89,
+        531.07,
+        471.46,
+        544.03
+      ]
+    },
+    {
+      "id": "class8-english-p065-l016",
+      "lineNumber": 16,
+      "text": "in the Chittagong Hill Tracts are Boisabi, Raj Punnah and Kothina Chibar",
+      "cleanText": "in the Chittagong Hill Tracts are Boisabi, Raj Punnah and Kothina Chibar",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.25,
+      "bbox": [
+        58.18,
+        549.5,
+        471.74,
+        562.46
+      ]
+    },
+    {
+      "id": "class8-english-p065-l017",
+      "lineNumber": 17,
+      "text": "Dan. Kothina Chibar Dan is a religious festival that shows their",
+      "cleanText": "Dan. Kothina Chibar Dan is a religious festival that shows their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.45,
+      "bbox": [
+        57.89,
+        567.07,
+        471.74,
+        582.34
+      ]
+    },
+    {
+      "id": "class8-english-p065-l018",
+      "lineNumber": 18,
+      "text": ". Almost all the ethnic groups live in close with",
+      "cleanText": ". Almost all the ethnic groups live in close with",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        128.74,
+        586.66,
+        471.74,
+        599.62
+      ]
+    },
+    {
+      "id": "class8-english-p065-l019",
+      "lineNumber": 19,
+      "text": "nature, and their homes are made of natural resources. However, in this",
+      "cleanText": "nature, and their homes are made of natural resources. However, in this",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        57.89,
+        605.09,
+        470.88,
+        617.18
+      ]
+    },
+    {
+      "id": "class8-english-p065-l020",
+      "lineNumber": 20,
+      "text": "xo age of modernisation, they are struggling to keep their culture",
+      "cleanText": "xo age of modernisation, they are struggling to keep their culture",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.09,
+      "bbox": [
+        34.27,
+        623.81,
+        471.17,
+        641.66
+      ]
+    },
+    {
+      "id": "class8-english-p065-l021",
+      "lineNumber": 21,
+      "text": "=",
+      "cleanText": "=",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 62.0,
+      "bbox": [
+        34.27,
+        641.95,
+        42.62,
+        647.14
+      ]
+    },
+    {
+      "id": "class8-english-p065-l022",
+      "lineNumber": 22,
+      "text": "q.",
+      "cleanText": "q.",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 45.0,
+      "bbox": [
+        34.27,
+        648.29,
+        130.18,
+        653.76
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p065-l001",
+      "lineNumber": 1,
+      "text": "60 English For Today",
+      "cleanText": "60 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.33,
+        42.05,
+        471.74,
+        52.99
+      ]
+    },
+    {
+      "id": "class8-english-p065-l002",
+      "lineNumber": 2,
+      "text": "B. Match the words in Column A with their meanings in Column B:",
+      "cleanText": "B. Match the words in Column A with their meanings in Column B:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.69,
+      "bbox": [
+        59.9,
+        75.74,
+        463.1,
+        88.13
+      ]
+    },
+    {
+      "id": "class8-english-p065-l003",
+      "lineNumber": 3,
+      "text": "C. Read the following passage and fill in the blanks using words",
+      "cleanText": "C. Read the following passage and fill in the blanks using words",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        58.18,
+        244.22,
+        437.76,
+        256.61
+      ]
+    },
+    {
+      "id": "class8-english-p065-l004",
+      "lineNumber": 4,
+      "text": "given in the box:",
+      "cleanText": "given in the box:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.18,
+        262.66,
+        155.81,
+        275.04
+      ]
+    },
+    {
+      "id": "class8-english-p065-l005",
+      "lineNumber": 5,
+      "text": "Bangladesh is a land of scenic beauty. Many small ethnic communities",
+      "cleanText": "Bangladesh is a land of scenic beauty. Many small ethnic communities",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        57.89,
+        345.89,
+        470.88,
+        358.85
+      ]
+    },
+    {
+      "id": "class8-english-p065-l006",
+      "lineNumber": 6,
+      "text": "live peacefully in the hills, plains and forests across the country.",
+      "cleanText": "live peacefully in the hills, plains and forests across the country.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        58.18,
+        364.61,
+        470.02,
+        377.28
+      ]
+    },
+    {
+      "id": "class8-english-p065-l007",
+      "lineNumber": 7,
+      "text": "Although these communities are small in number, their cultural heritage",
+      "cleanText": "Although these communities are small in number, their cultural heritage",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        57.89,
+        383.04,
+        471.46,
+        395.71
+      ]
+    },
+    {
+      "id": "class8-english-p065-l008",
+      "lineNumber": 8,
+      "text": "is very. They have their unique way of life, traditions and",
+      "cleanText": "is very. They have their unique way of life, traditions and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        58.18,
+        401.47,
+        471.74,
+        414.43
+      ]
+    },
+    {
+      "id": "class8-english-p065-l009",
+      "lineNumber": 9,
+      "text": "values. Each ethnic group has its own mother tongue that carries the",
+      "cleanText": "values. Each ethnic group has its own mother tongue that carries the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        57.89,
+        420.19,
+        470.88,
+        432.86
+      ]
+    },
+    {
+      "id": "class8-english-p065-l010",
+      "lineNumber": 10,
+      "text": "stories, songs and contributions of their ancestors.",
+      "cleanText": "stories, songs and contributions of their ancestors.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        58.46,
+        438.62,
+        470.59,
+        451.3
+      ]
+    },
+    {
+      "id": "class8-english-p065-l011",
+      "lineNumber": 11,
+      "text": "Bangladesh government has introduced textbooks in five ethnic",
+      "cleanText": "Bangladesh government has introduced textbooks in five ethnic",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.5,
+      "bbox": [
+        57.89,
+        457.06,
+        470.88,
+        470.02
+      ]
+    },
+    {
+      "id": "class8-english-p065-l012",
+      "lineNumber": 12,
+      "text": "languages to protect their history and culture. These",
+      "cleanText": "languages to protect their history and culture. These",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        58.18,
+        475.49,
+        471.46,
+        488.45
+      ]
+    },
+    {
+      "id": "class8-english-p065-l013",
+      "lineNumber": 13,
+      "text": "communities celebrate different where people wear",
+      "cleanText": "communities celebrate different where people wear",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.5,
+      "bbox": [
+        58.18,
+        494.21,
+        471.74,
+        506.88
+      ]
+    },
+    {
+      "id": "class8-english-p065-l014",
+      "lineNumber": 14,
+      "text": "colourful and handmade clothes. The design and patterns of these clothes",
+      "cleanText": "colourful and handmade clothes. The design and patterns of these clothes",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        58.18,
+        512.64,
+        470.59,
+        525.31
+      ]
+    },
+    {
+      "id": "class8-english-p065-l015",
+      "lineNumber": 15,
+      "text": "reflect their cultural. Among the major festivals celebrated",
+      "cleanText": "reflect their cultural. Among the major festivals celebrated",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        57.89,
+        531.07,
+        471.46,
+        544.03
+      ]
+    },
+    {
+      "id": "class8-english-p065-l016",
+      "lineNumber": 16,
+      "text": "in the Chittagong Hill Tracts are Boisabi, Raj Punnah and Kothina Chibar",
+      "cleanText": "in the Chittagong Hill Tracts are Boisabi, Raj Punnah and Kothina Chibar",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.25,
+      "bbox": [
+        58.18,
+        549.5,
+        471.74,
+        562.46
+      ]
+    },
+    {
+      "id": "class8-english-p065-l017",
+      "lineNumber": 17,
+      "text": "Dan. Kothina Chibar Dan is a religious festival that shows their",
+      "cleanText": "Dan. Kothina Chibar Dan is a religious festival that shows their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.45,
+      "bbox": [
+        57.89,
+        567.07,
+        471.74,
+        582.34
+      ]
+    },
+    {
+      "id": "class8-english-p065-l018",
+      "lineNumber": 18,
+      "text": ". Almost all the ethnic groups live in close with",
+      "cleanText": ". Almost all the ethnic groups live in close with",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        128.74,
+        586.66,
+        471.74,
+        599.62
+      ]
+    },
+    {
+      "id": "class8-english-p065-l019",
+      "lineNumber": 19,
+      "text": "nature, and their homes are made of natural resources. However, in this",
+      "cleanText": "nature, and their homes are made of natural resources. However, in this",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        57.89,
+        605.09,
+        470.88,
+        617.18
+      ]
+    },
+    {
+      "id": "class8-english-p065-l020",
+      "lineNumber": 20,
+      "text": "xo age of modernisation, they are struggling to keep their culture",
+      "cleanText": "xo age of modernisation, they are struggling to keep their culture",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.09,
+      "bbox": [
+        34.27,
+        623.81,
+        471.17,
+        641.66
+      ]
+    }
+  ],
+  "lineCount": 22,
+  "aiReadyLineCount": 20,
+  "averageConfidence": 90.83,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:17:26.674958+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

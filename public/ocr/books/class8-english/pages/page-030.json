@@ -1,0 +1,777 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 30,
+  "pdfPage": 30,
+  "textbookPage": 30,
+  "width": 536.0,
+  "height": 691.16,
+  "image": "../images/page-030.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Health and Hygiene 25\nLesson 4: A Dialogue\nKeyword: prescribe\nA. Talk about the picture and answer the questions:\ni D. =\nfy x Ls, ]\n| = i = *y = 4 7 al \\ 1\ni =a lia = —\noo oa me J\n| ale\n1. Who is the man lying on the examination table?\n2. Who is examining the patient?\nB. Read and act out the conversation:\nRabi’s father, Mr Zahir Ali is not well. He has difficulty in speaking. He is now\nat the doctor’s clinic.\nRabi =: Good evening, doctor.\nDoctor: Good evening. How is your father today?\nRabi: Notwell at all. He has difficulty in breathing as before. He is having\nsevere chest pain again.\nDoctor: I see. Mr Ali, could you lie down on the examination table, please?\nOK, let’s see... Do you feel any pain here?\nZahir: Ooh!\nDoctor: And here?\nZahir: Ouch!\nForma-4, English For Today Class-8",
+  "cleanText": "Health and Hygiene 25 Lesson 4: A Dialogue Keyword: prescribe A. Talk about the picture and answer the questions: i D. = fy x Ls, ] | = i = *y = 4 7 al \\ 1 i =a lia = — oo oa me J | ale 1. Who is the man lying on the examination table? 2. Who is examining the patient? B. Read and act out the conversation: Rabi’s father, Mr Zahir Ali is not well. He has difficulty in speaking. He is now at the doctor’s clinic. Rabi =: Good evening, doctor. Doctor: Good evening. How is your father today? Rabi: Notwell at all. He has difficulty in breathing as before. He is having severe chest pain again. Doctor: I see. Mr Ali, could you lie down on the examination table, please? OK, let’s see... Do you feel any pain here? Zahir: Ooh! Doctor: And here? Zahir: Ouch! Forma-4, English For Today Class-8",
+  "aiReadyText": "Health and Hygiene 25 Lesson 4: A Dialogue Keyword: prescribe A. Talk about the picture and answer the questions: i D. = fy x Ls, ] | = i = *y = 4 7 al \\ 1 i =a lia = — oo oa me J | ale 1. Who is the man lying on the examination table? 2. Who is examining the patient? B. Read and act out the conversation: Rabi’s father, Mr Zahir Ali is not well. He has difficulty in speaking. He is now at the doctor’s clinic. Rabi =: Good evening, doctor. Doctor: Good evening. How is your father today? Rabi: Notwell at all. He has difficulty in breathing as before. He is having severe chest pain again. Doctor: I see. Mr Ali, could you lie down on the examination table, please? OK, let’s see... Do you feel any pain here? Zahir: Ooh! Doctor: And here? Zahir: Ouch! Forma-4, English For Today Class-8",
+  "lines": [
+    {
+      "id": "class8-english-p030-l001",
+      "lineNumber": 1,
+      "text": "Health and Hygiene 25",
+      "cleanText": "Health and Hygiene 25",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        61.63,
+        39.17,
+        474.62,
+        51.55
+      ]
+    },
+    {
+      "id": "class8-english-p030-l002",
+      "lineNumber": 2,
+      "text": "Lesson 4: A Dialogue",
+      "cleanText": "Lesson 4: A Dialogue",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.07,
+        68.83,
+        242.78,
+        86.69
+      ]
+    },
+    {
+      "id": "class8-english-p030-l003",
+      "lineNumber": 3,
+      "text": "Keyword: prescribe",
+      "cleanText": "Keyword: prescribe",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.06,
+        95.9,
+        170.78,
+        108.29
+      ]
+    },
+    {
+      "id": "class8-english-p030-l004",
+      "lineNumber": 4,
+      "text": "A. Talk about the picture and answer the questions:",
+      "cleanText": "A. Talk about the picture and answer the questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.78,
+      "bbox": [
+        64.8,
+        117.22,
+        370.08,
+        131.9
+      ]
+    },
+    {
+      "id": "class8-english-p030-l005",
+      "lineNumber": 5,
+      "text": "i D. =",
+      "cleanText": "i D. =",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 33.33,
+      "bbox": [
+        141.12,
+        136.51,
+        285.41,
+        159.55
+      ]
+    },
+    {
+      "id": "class8-english-p030-l006",
+      "lineNumber": 6,
+      "text": "fy x Ls, ]",
+      "cleanText": "fy x Ls, ]",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 19.0,
+      "bbox": [
+        124.13,
+        182.59,
+        271.3,
+        192.67
+      ]
+    },
+    {
+      "id": "class8-english-p030-l007",
+      "lineNumber": 7,
+      "text": "| = i = *y = 4 7 al \\ 1",
+      "cleanText": "| = i = *y = 4 7 al \\ 1",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 38.09,
+      "bbox": [
+        111.17,
+        202.75,
+        325.44,
+        214.85
+      ]
+    },
+    {
+      "id": "class8-english-p030-l008",
+      "lineNumber": 8,
+      "text": "i =a lia = —",
+      "cleanText": "i =a lia = —",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 28.8,
+      "bbox": [
+        121.25,
+        206.5,
+        309.31,
+        231.84
+      ]
+    },
+    {
+      "id": "class8-english-p030-l009",
+      "lineNumber": 9,
+      "text": "oo oa me J",
+      "cleanText": "oo oa me J",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 42.5,
+      "bbox": [
+        340.42,
+        280.8,
+        418.46,
+        305.86
+      ]
+    },
+    {
+      "id": "class8-english-p030-l010",
+      "lineNumber": 10,
+      "text": "| ale",
+      "cleanText": "| ale",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 56.0,
+      "bbox": [
+        150.34,
+        291.74,
+        392.26,
+        311.9
+      ]
+    },
+    {
+      "id": "class8-english-p030-l011",
+      "lineNumber": 11,
+      "text": "1. Who is the man lying on the examination table?",
+      "cleanText": "1. Who is the man lying on the examination table?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.9,
+      "bbox": [
+        88.99,
+        381.89,
+        357.98,
+        393.7
+      ]
+    },
+    {
+      "id": "class8-english-p030-l012",
+      "lineNumber": 12,
+      "text": "2. Who is examining the patient?",
+      "cleanText": "2. Who is examining the patient?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        87.84,
+        400.9,
+        267.84,
+        412.7
+      ]
+    },
+    {
+      "id": "class8-english-p030-l013",
+      "lineNumber": 13,
+      "text": "B. Read and act out the conversation:",
+      "cleanText": "B. Read and act out the conversation:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        63.07,
+        429.12,
+        275.04,
+        438.05
+      ]
+    },
+    {
+      "id": "class8-english-p030-l014",
+      "lineNumber": 14,
+      "text": "Rabi’s father, Mr Zahir Ali is not well. He has difficulty in speaking. He is now",
+      "cleanText": "Rabi’s father, Mr Zahir Ali is not well. He has difficulty in speaking. He is now",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        63.07,
+        446.98,
+        477.22,
+        458.78
+      ]
+    },
+    {
+      "id": "class8-english-p030-l015",
+      "lineNumber": 15,
+      "text": "at the doctor’s clinic.",
+      "cleanText": "at the doctor’s clinic.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.25,
+      "bbox": [
+        63.07,
+        461.95,
+        174.24,
+        472.03
+      ]
+    },
+    {
+      "id": "class8-english-p030-l016",
+      "lineNumber": 16,
+      "text": "Rabi =: Good evening, doctor.",
+      "cleanText": "Rabi =: Good evening, doctor.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 72.4,
+      "bbox": [
+        63.07,
+        482.98,
+        230.4,
+        494.78
+      ]
+    },
+    {
+      "id": "class8-english-p030-l017",
+      "lineNumber": 17,
+      "text": "Doctor: Good evening. How is your father today?",
+      "cleanText": "Doctor: Good evening. How is your father today?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.22,
+      "bbox": [
+        62.78,
+        500.83,
+        330.62,
+        512.93
+      ]
+    },
+    {
+      "id": "class8-english-p030-l018",
+      "lineNumber": 18,
+      "text": "Rabi: Notwell at all. He has difficulty in breathing as before. He is having",
+      "cleanText": "Rabi: Notwell at all. He has difficulty in breathing as before. He is having",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 80.47,
+      "bbox": [
+        63.07,
+        518.98,
+        476.06,
+        530.78
+      ]
+    },
+    {
+      "id": "class8-english-p030-l019",
+      "lineNumber": 19,
+      "text": "severe chest pain again.",
+      "cleanText": "severe chest pain again.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        114.91,
+        535.1,
+        239.04,
+        546.91
+      ]
+    },
+    {
+      "id": "class8-english-p030-l020",
+      "lineNumber": 20,
+      "text": "Doctor: I see. Mr Ali, could you lie down on the examination table, please?",
+      "cleanText": "Doctor: I see. Mr Ali, could you lie down on the examination table, please?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.73,
+      "bbox": [
+        61.92,
+        553.54,
+        475.49,
+        565.34
+      ]
+    },
+    {
+      "id": "class8-english-p030-l021",
+      "lineNumber": 21,
+      "text": "OK, let’s see... Do you feel any pain here?",
+      "cleanText": "OK, let’s see... Do you feel any pain here?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.22,
+      "bbox": [
+        111.17,
+        569.66,
+        334.94,
+        581.47
+      ]
+    },
+    {
+      "id": "class8-english-p030-l022",
+      "lineNumber": 22,
+      "text": "Zahir: Ooh!",
+      "cleanText": "Zahir: Ooh!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.33,
+      "bbox": [
+        63.36,
+        588.96,
+        148.9,
+        599.04
+      ]
+    },
+    {
+      "id": "class8-english-p030-l023",
+      "lineNumber": 23,
+      "text": "Doctor: And here?",
+      "cleanText": "Doctor: And here?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.33,
+      "bbox": [
+        63.36,
+        609.98,
+        177.12,
+        619.78
+      ]
+    },
+    {
+      "id": "class8-english-p030-l024",
+      "lineNumber": 24,
+      "text": "Zahir: Ouch!",
+      "cleanText": "Zahir: Ouch!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 83.67,
+      "bbox": [
+        63.36,
+        631.01,
+        151.78,
+        640.8
+      ]
+    },
+    {
+      "id": "class8-english-p030-l025",
+      "lineNumber": 25,
+      "text": "Forma-4, English For Today Class-8",
+      "cleanText": "Forma-4, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.8,
+      "bbox": [
+        61.63,
+        662.4,
+        221.47,
+        672.48
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p030-l001",
+      "lineNumber": 1,
+      "text": "Health and Hygiene 25",
+      "cleanText": "Health and Hygiene 25",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        61.63,
+        39.17,
+        474.62,
+        51.55
+      ]
+    },
+    {
+      "id": "class8-english-p030-l002",
+      "lineNumber": 2,
+      "text": "Lesson 4: A Dialogue",
+      "cleanText": "Lesson 4: A Dialogue",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.07,
+        68.83,
+        242.78,
+        86.69
+      ]
+    },
+    {
+      "id": "class8-english-p030-l003",
+      "lineNumber": 3,
+      "text": "Keyword: prescribe",
+      "cleanText": "Keyword: prescribe",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.06,
+        95.9,
+        170.78,
+        108.29
+      ]
+    },
+    {
+      "id": "class8-english-p030-l004",
+      "lineNumber": 4,
+      "text": "A. Talk about the picture and answer the questions:",
+      "cleanText": "A. Talk about the picture and answer the questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.78,
+      "bbox": [
+        64.8,
+        117.22,
+        370.08,
+        131.9
+      ]
+    },
+    {
+      "id": "class8-english-p030-l005",
+      "lineNumber": 5,
+      "text": "i D. =",
+      "cleanText": "i D. =",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 33.33,
+      "bbox": [
+        141.12,
+        136.51,
+        285.41,
+        159.55
+      ]
+    },
+    {
+      "id": "class8-english-p030-l006",
+      "lineNumber": 6,
+      "text": "fy x Ls, ]",
+      "cleanText": "fy x Ls, ]",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 19.0,
+      "bbox": [
+        124.13,
+        182.59,
+        271.3,
+        192.67
+      ]
+    },
+    {
+      "id": "class8-english-p030-l007",
+      "lineNumber": 7,
+      "text": "| = i = *y = 4 7 al \\ 1",
+      "cleanText": "| = i = *y = 4 7 al \\ 1",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 38.09,
+      "bbox": [
+        111.17,
+        202.75,
+        325.44,
+        214.85
+      ]
+    },
+    {
+      "id": "class8-english-p030-l008",
+      "lineNumber": 8,
+      "text": "i =a lia = —",
+      "cleanText": "i =a lia = —",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 28.8,
+      "bbox": [
+        121.25,
+        206.5,
+        309.31,
+        231.84
+      ]
+    },
+    {
+      "id": "class8-english-p030-l009",
+      "lineNumber": 9,
+      "text": "oo oa me J",
+      "cleanText": "oo oa me J",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 42.5,
+      "bbox": [
+        340.42,
+        280.8,
+        418.46,
+        305.86
+      ]
+    },
+    {
+      "id": "class8-english-p030-l010",
+      "lineNumber": 10,
+      "text": "| ale",
+      "cleanText": "| ale",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 56.0,
+      "bbox": [
+        150.34,
+        291.74,
+        392.26,
+        311.9
+      ]
+    },
+    {
+      "id": "class8-english-p030-l011",
+      "lineNumber": 11,
+      "text": "1. Who is the man lying on the examination table?",
+      "cleanText": "1. Who is the man lying on the examination table?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.9,
+      "bbox": [
+        88.99,
+        381.89,
+        357.98,
+        393.7
+      ]
+    },
+    {
+      "id": "class8-english-p030-l012",
+      "lineNumber": 12,
+      "text": "2. Who is examining the patient?",
+      "cleanText": "2. Who is examining the patient?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        87.84,
+        400.9,
+        267.84,
+        412.7
+      ]
+    },
+    {
+      "id": "class8-english-p030-l013",
+      "lineNumber": 13,
+      "text": "B. Read and act out the conversation:",
+      "cleanText": "B. Read and act out the conversation:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        63.07,
+        429.12,
+        275.04,
+        438.05
+      ]
+    },
+    {
+      "id": "class8-english-p030-l014",
+      "lineNumber": 14,
+      "text": "Rabi’s father, Mr Zahir Ali is not well. He has difficulty in speaking. He is now",
+      "cleanText": "Rabi’s father, Mr Zahir Ali is not well. He has difficulty in speaking. He is now",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        63.07,
+        446.98,
+        477.22,
+        458.78
+      ]
+    },
+    {
+      "id": "class8-english-p030-l015",
+      "lineNumber": 15,
+      "text": "at the doctor’s clinic.",
+      "cleanText": "at the doctor’s clinic.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.25,
+      "bbox": [
+        63.07,
+        461.95,
+        174.24,
+        472.03
+      ]
+    },
+    {
+      "id": "class8-english-p030-l016",
+      "lineNumber": 16,
+      "text": "Rabi =: Good evening, doctor.",
+      "cleanText": "Rabi =: Good evening, doctor.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 72.4,
+      "bbox": [
+        63.07,
+        482.98,
+        230.4,
+        494.78
+      ]
+    },
+    {
+      "id": "class8-english-p030-l017",
+      "lineNumber": 17,
+      "text": "Doctor: Good evening. How is your father today?",
+      "cleanText": "Doctor: Good evening. How is your father today?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.22,
+      "bbox": [
+        62.78,
+        500.83,
+        330.62,
+        512.93
+      ]
+    },
+    {
+      "id": "class8-english-p030-l018",
+      "lineNumber": 18,
+      "text": "Rabi: Notwell at all. He has difficulty in breathing as before. He is having",
+      "cleanText": "Rabi: Notwell at all. He has difficulty in breathing as before. He is having",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 80.47,
+      "bbox": [
+        63.07,
+        518.98,
+        476.06,
+        530.78
+      ]
+    },
+    {
+      "id": "class8-english-p030-l019",
+      "lineNumber": 19,
+      "text": "severe chest pain again.",
+      "cleanText": "severe chest pain again.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        114.91,
+        535.1,
+        239.04,
+        546.91
+      ]
+    },
+    {
+      "id": "class8-english-p030-l020",
+      "lineNumber": 20,
+      "text": "Doctor: I see. Mr Ali, could you lie down on the examination table, please?",
+      "cleanText": "Doctor: I see. Mr Ali, could you lie down on the examination table, please?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.73,
+      "bbox": [
+        61.92,
+        553.54,
+        475.49,
+        565.34
+      ]
+    },
+    {
+      "id": "class8-english-p030-l021",
+      "lineNumber": 21,
+      "text": "OK, let’s see... Do you feel any pain here?",
+      "cleanText": "OK, let’s see... Do you feel any pain here?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.22,
+      "bbox": [
+        111.17,
+        569.66,
+        334.94,
+        581.47
+      ]
+    },
+    {
+      "id": "class8-english-p030-l022",
+      "lineNumber": 22,
+      "text": "Zahir: Ooh!",
+      "cleanText": "Zahir: Ooh!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.33,
+      "bbox": [
+        63.36,
+        588.96,
+        148.9,
+        599.04
+      ]
+    },
+    {
+      "id": "class8-english-p030-l023",
+      "lineNumber": 23,
+      "text": "Doctor: And here?",
+      "cleanText": "Doctor: And here?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.33,
+      "bbox": [
+        63.36,
+        609.98,
+        177.12,
+        619.78
+      ]
+    },
+    {
+      "id": "class8-english-p030-l024",
+      "lineNumber": 24,
+      "text": "Zahir: Ouch!",
+      "cleanText": "Zahir: Ouch!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 83.67,
+      "bbox": [
+        63.36,
+        631.01,
+        151.78,
+        640.8
+      ]
+    },
+    {
+      "id": "class8-english-p030-l025",
+      "lineNumber": 25,
+      "text": "Forma-4, English For Today Class-8",
+      "cleanText": "Forma-4, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.8,
+      "bbox": [
+        61.63,
+        662.4,
+        221.47,
+        672.48
+      ]
+    }
+  ],
+  "lineCount": 25,
+  "aiReadyLineCount": 25,
+  "averageConfidence": 78.55,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:17.263608+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

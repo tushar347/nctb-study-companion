@@ -1,0 +1,792 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 21,
+  "pdfPage": 21,
+  "textbookPage": 21,
+  "width": 556.47,
+  "height": 713.96,
+  "image": "../images/page-021.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "16 English For Today\n3. Butter and ghee are a good source of\na. protein. b. fat.\nc. vitamins. d. carbohydrate.\n4. Minerals are present in\na. nuts. b. peas.\nc. milk. d. water.\n5. Which food has the most carbohydrate?\na. Sugar b. Rice\nc. Fruits d. Vegetables\nLesson 3: Our Daily Diet\nKeywords: essential, disease, calcium, interval\nA. Read the dialogue:\nMs Rehana: Let's talk about some essential foods that we need to eat regularly.\nFor our good health we must choose the right food in our daily diet.\nStudent 1: We eat rice, ‘ruti’, fish and meat every day. What else should we\nhave, teacher?\nMs Rehana: Well, we must also eat vegetables and fruits. They contain a\nlot of vitamins and minerals. They keep our body free from\ndiseases. They are also good for our skin and overall health.\nStudent 2: Should we have anything else?\nMs Rehana: Sure. We need to drink milk everyday. Milk is highly rich in\ncalcium. It’s good for our healthy growth. It makes our bones and\nteeth strong as well. We must drink pure water at regular intervals\nN\ntoo. It’s essential for our body. We can’t live without drinking water. S",
+  "cleanText": "16 English For Today 3. Butter and ghee are a good source of a. protein. b. fat. c. vitamins. d. carbohydrate. 4. Minerals are present in a. nuts. b. peas. c. milk. d. water. 5. Which food has the most carbohydrate? a. Sugar b. Rice c. Fruits d. Vegetables Lesson 3: Our Daily Diet Keywords: essential, disease, calcium, interval A. Read the dialogue: Ms Rehana: Let's talk about some essential foods that we need to eat regularly. For our good health we must choose the right food in our daily diet. Student 1: We eat rice, ‘ruti’, fish and meat every day. What else should we have, teacher? Ms Rehana: Well, we must also eat vegetables and fruits. They contain a lot of vitamins and minerals. They keep our body free from diseases. They are also good for our skin and overall health. Student 2: Should we have anything else? Ms Rehana: Sure. We need to drink milk everyday. Milk is highly rich in calcium. It’s good for our healthy growth. It makes our bones and teeth strong as well. We must drink pure water at regular intervals N too. It’s essential for our body. We can’t live without drinking water. S",
+  "aiReadyText": "16 English For Today 3. Butter and ghee are a good source of a. protein. b. fat. c. vitamins. d. carbohydrate. 4. Minerals are present in a. nuts. b. peas. c. milk. d. water. 5. Which food has the most carbohydrate? a. Sugar b. Rice c. Fruits d. Vegetables Lesson 3: Our Daily Diet Keywords: essential, disease, calcium, interval A. Read the dialogue: Ms Rehana: Let's talk about some essential foods that we need to eat regularly. For our good health we must choose the right food in our daily diet. Student 1: We eat rice, ‘ruti’, fish and meat every day. What else should we have, teacher? Ms Rehana: Well, we must also eat vegetables and fruits. They contain a lot of vitamins and minerals. They keep our body free from diseases. They are also good for our skin and overall health. Student 2: Should we have anything else? Ms Rehana: Sure. We need to drink milk everyday. Milk is highly rich in calcium. It’s good for our healthy growth. It makes our bones and teeth strong as well. We must drink pure water at regular intervals too. It’s essential for our body. We can’t live without drinking water. S",
+  "lines": [
+    {
+      "id": "class8-english-p021-l001",
+      "lineNumber": 1,
+      "text": "16 English For Today",
+      "cleanText": "16 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        75.46,
+        50.11,
+        489.02,
+        62.21
+      ]
+    },
+    {
+      "id": "class8-english-p021-l002",
+      "lineNumber": 2,
+      "text": "3. Butter and ghee are a good source of",
+      "cleanText": "3. Butter and ghee are a good source of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        74.3,
+        83.52,
+        285.98,
+        95.62
+      ]
+    },
+    {
+      "id": "class8-english-p021-l003",
+      "lineNumber": 3,
+      "text": "a. protein. b. fat.",
+      "cleanText": "a. protein. b. fat.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 61.5,
+      "bbox": [
+        92.45,
+        100.8,
+        250.56,
+        112.9
+      ]
+    },
+    {
+      "id": "class8-english-p021-l004",
+      "lineNumber": 4,
+      "text": "c. vitamins. d. carbohydrate.",
+      "cleanText": "c. vitamins. d. carbohydrate.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.5,
+      "bbox": [
+        92.16,
+        118.66,
+        304.7,
+        132.19
+      ]
+    },
+    {
+      "id": "class8-english-p021-l005",
+      "lineNumber": 5,
+      "text": "4. Minerals are present in",
+      "cleanText": "4. Minerals are present in",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        74.02,
+        143.42,
+        209.09,
+        155.81
+      ]
+    },
+    {
+      "id": "class8-english-p021-l006",
+      "lineNumber": 6,
+      "text": "a. nuts. b. peas.",
+      "cleanText": "a. nuts. b. peas.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 81.25,
+      "bbox": [
+        92.45,
+        163.3,
+        258.62,
+        174.53
+      ]
+    },
+    {
+      "id": "class8-english-p021-l007",
+      "lineNumber": 7,
+      "text": "c. milk. d. water.",
+      "cleanText": "c. milk. d. water.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.25,
+      "bbox": [
+        92.16,
+        182.59,
+        263.52,
+        192.1
+      ]
+    },
+    {
+      "id": "class8-english-p021-l008",
+      "lineNumber": 8,
+      "text": "5. Which food has the most carbohydrate?",
+      "cleanText": "5. Which food has the most carbohydrate?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        75.17,
+        209.66,
+        299.23,
+        222.05
+      ]
+    },
+    {
+      "id": "class8-english-p021-l009",
+      "lineNumber": 9,
+      "text": "a. Sugar b. Rice",
+      "cleanText": "a. Sugar b. Rice",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.0,
+      "bbox": [
+        91.58,
+        229.25,
+        257.47,
+        240.77
+      ]
+    },
+    {
+      "id": "class8-english-p021-l010",
+      "lineNumber": 10,
+      "text": "c. Fruits d. Vegetables",
+      "cleanText": "c. Fruits d. Vegetables",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.5,
+      "bbox": [
+        91.01,
+        252.0,
+        290.02,
+        264.1
+      ]
+    },
+    {
+      "id": "class8-english-p021-l011",
+      "lineNumber": 11,
+      "text": "Lesson 3: Our Daily Diet",
+      "cleanText": "Lesson 3: Our Daily Diet",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        76.61,
+        290.88,
+        291.74,
+        308.74
+      ]
+    },
+    {
+      "id": "class8-english-p021-l012",
+      "lineNumber": 12,
+      "text": "Keywords: essential, disease, calcium, interval",
+      "cleanText": "Keywords: essential, disease, calcium, interval",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        73.73,
+        324.86,
+        338.98,
+        336.67
+      ]
+    },
+    {
+      "id": "class8-english-p021-l013",
+      "lineNumber": 13,
+      "text": "A. Read the dialogue:",
+      "cleanText": "A. Read the dialogue:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        73.44,
+        354.53,
+        195.26,
+        366.91
+      ]
+    },
+    {
+      "id": "class8-english-p021-l014",
+      "lineNumber": 14,
+      "text": "Ms Rehana: Let's talk about some essential foods that we need to eat regularly.",
+      "cleanText": "Ms Rehana: Let's talk about some essential foods that we need to eat regularly.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        73.44,
+        378.72,
+        488.74,
+        392.83
+      ]
+    },
+    {
+      "id": "class8-english-p021-l015",
+      "lineNumber": 15,
+      "text": "For our good health we must choose the right food in our daily diet.",
+      "cleanText": "For our good health we must choose the right food in our daily diet.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        144.86,
+        400.03,
+        489.02,
+        411.84
+      ]
+    },
+    {
+      "id": "class8-english-p021-l016",
+      "lineNumber": 16,
+      "text": "Student 1: We eat rice, ‘ruti’, fish and meat every day. What else should we",
+      "cleanText": "Student 1: We eat rice, ‘ruti’, fish and meat every day. What else should we",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.38,
+      "bbox": [
+        74.02,
+        428.83,
+        489.31,
+        440.93
+      ]
+    },
+    {
+      "id": "class8-english-p021-l017",
+      "lineNumber": 17,
+      "text": "have, teacher?",
+      "cleanText": "have, teacher?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        148.61,
+        448.99,
+        223.2,
+        459.94
+      ]
+    },
+    {
+      "id": "class8-english-p021-l018",
+      "lineNumber": 18,
+      "text": "Ms Rehana: Well, we must also eat vegetables and fruits. They contain a",
+      "cleanText": "Ms Rehana: Well, we must also eat vegetables and fruits. They contain a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.07,
+      "bbox": [
+        75.17,
+        483.26,
+        488.74,
+        495.07
+      ]
+    },
+    {
+      "id": "class8-english-p021-l019",
+      "lineNumber": 19,
+      "text": "lot of vitamins and minerals. They keep our body free from",
+      "cleanText": "lot of vitamins and minerals. They keep our body free from",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        152.06,
+        505.15,
+        488.45,
+        517.25
+      ]
+    },
+    {
+      "id": "class8-english-p021-l020",
+      "lineNumber": 20,
+      "text": "diseases. They are also good for our skin and overall health.",
+      "cleanText": "diseases. They are also good for our skin and overall health.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        150.62,
+        527.62,
+        463.68,
+        539.42
+      ]
+    },
+    {
+      "id": "class8-english-p021-l021",
+      "lineNumber": 21,
+      "text": "Student 2: Should we have anything else?",
+      "cleanText": "Student 2: Should we have anything else?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.29,
+      "bbox": [
+        75.74,
+        551.81,
+        311.33,
+        563.62
+      ]
+    },
+    {
+      "id": "class8-english-p021-l022",
+      "lineNumber": 22,
+      "text": "Ms Rehana: Sure. We need to drink milk everyday. Milk is highly rich in",
+      "cleanText": "Ms Rehana: Sure. We need to drink milk everyday. Milk is highly rich in",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        76.03,
+        583.2,
+        489.02,
+        595.3
+      ]
+    },
+    {
+      "id": "class8-english-p021-l023",
+      "lineNumber": 23,
+      "text": "calcium. It’s good for our healthy growth. It makes our bones and",
+      "cleanText": "calcium. It’s good for our healthy growth. It makes our bones and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.08,
+      "bbox": [
+        147.74,
+        604.22,
+        491.33,
+        616.61
+      ]
+    },
+    {
+      "id": "class8-english-p021-l024",
+      "lineNumber": 24,
+      "text": "teeth strong as well. We must drink pure water at regular intervals",
+      "cleanText": "teeth strong as well. We must drink pure water at regular intervals",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.67,
+      "bbox": [
+        148.9,
+        626.69,
+        488.45,
+        638.78
+      ]
+    },
+    {
+      "id": "class8-english-p021-l025",
+      "lineNumber": 25,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 87.0,
+      "bbox": [
+        509.47,
+        641.09,
+        517.82,
+        646.56
+      ]
+    },
+    {
+      "id": "class8-english-p021-l026",
+      "lineNumber": 26,
+      "text": "too. It’s essential for our body. We can’t live without drinking water. S",
+      "cleanText": "too. It’s essential for our body. We can’t live without drinking water. S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.54,
+      "bbox": [
+        146.02,
+        646.85,
+        517.82,
+        662.4
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p021-l001",
+      "lineNumber": 1,
+      "text": "16 English For Today",
+      "cleanText": "16 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        75.46,
+        50.11,
+        489.02,
+        62.21
+      ]
+    },
+    {
+      "id": "class8-english-p021-l002",
+      "lineNumber": 2,
+      "text": "3. Butter and ghee are a good source of",
+      "cleanText": "3. Butter and ghee are a good source of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        74.3,
+        83.52,
+        285.98,
+        95.62
+      ]
+    },
+    {
+      "id": "class8-english-p021-l003",
+      "lineNumber": 3,
+      "text": "a. protein. b. fat.",
+      "cleanText": "a. protein. b. fat.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 61.5,
+      "bbox": [
+        92.45,
+        100.8,
+        250.56,
+        112.9
+      ]
+    },
+    {
+      "id": "class8-english-p021-l004",
+      "lineNumber": 4,
+      "text": "c. vitamins. d. carbohydrate.",
+      "cleanText": "c. vitamins. d. carbohydrate.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.5,
+      "bbox": [
+        92.16,
+        118.66,
+        304.7,
+        132.19
+      ]
+    },
+    {
+      "id": "class8-english-p021-l005",
+      "lineNumber": 5,
+      "text": "4. Minerals are present in",
+      "cleanText": "4. Minerals are present in",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        74.02,
+        143.42,
+        209.09,
+        155.81
+      ]
+    },
+    {
+      "id": "class8-english-p021-l006",
+      "lineNumber": 6,
+      "text": "a. nuts. b. peas.",
+      "cleanText": "a. nuts. b. peas.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 81.25,
+      "bbox": [
+        92.45,
+        163.3,
+        258.62,
+        174.53
+      ]
+    },
+    {
+      "id": "class8-english-p021-l007",
+      "lineNumber": 7,
+      "text": "c. milk. d. water.",
+      "cleanText": "c. milk. d. water.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.25,
+      "bbox": [
+        92.16,
+        182.59,
+        263.52,
+        192.1
+      ]
+    },
+    {
+      "id": "class8-english-p021-l008",
+      "lineNumber": 8,
+      "text": "5. Which food has the most carbohydrate?",
+      "cleanText": "5. Which food has the most carbohydrate?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        75.17,
+        209.66,
+        299.23,
+        222.05
+      ]
+    },
+    {
+      "id": "class8-english-p021-l009",
+      "lineNumber": 9,
+      "text": "a. Sugar b. Rice",
+      "cleanText": "a. Sugar b. Rice",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.0,
+      "bbox": [
+        91.58,
+        229.25,
+        257.47,
+        240.77
+      ]
+    },
+    {
+      "id": "class8-english-p021-l010",
+      "lineNumber": 10,
+      "text": "c. Fruits d. Vegetables",
+      "cleanText": "c. Fruits d. Vegetables",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.5,
+      "bbox": [
+        91.01,
+        252.0,
+        290.02,
+        264.1
+      ]
+    },
+    {
+      "id": "class8-english-p021-l011",
+      "lineNumber": 11,
+      "text": "Lesson 3: Our Daily Diet",
+      "cleanText": "Lesson 3: Our Daily Diet",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        76.61,
+        290.88,
+        291.74,
+        308.74
+      ]
+    },
+    {
+      "id": "class8-english-p021-l012",
+      "lineNumber": 12,
+      "text": "Keywords: essential, disease, calcium, interval",
+      "cleanText": "Keywords: essential, disease, calcium, interval",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        73.73,
+        324.86,
+        338.98,
+        336.67
+      ]
+    },
+    {
+      "id": "class8-english-p021-l013",
+      "lineNumber": 13,
+      "text": "A. Read the dialogue:",
+      "cleanText": "A. Read the dialogue:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        73.44,
+        354.53,
+        195.26,
+        366.91
+      ]
+    },
+    {
+      "id": "class8-english-p021-l014",
+      "lineNumber": 14,
+      "text": "Ms Rehana: Let's talk about some essential foods that we need to eat regularly.",
+      "cleanText": "Ms Rehana: Let's talk about some essential foods that we need to eat regularly.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        73.44,
+        378.72,
+        488.74,
+        392.83
+      ]
+    },
+    {
+      "id": "class8-english-p021-l015",
+      "lineNumber": 15,
+      "text": "For our good health we must choose the right food in our daily diet.",
+      "cleanText": "For our good health we must choose the right food in our daily diet.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        144.86,
+        400.03,
+        489.02,
+        411.84
+      ]
+    },
+    {
+      "id": "class8-english-p021-l016",
+      "lineNumber": 16,
+      "text": "Student 1: We eat rice, ‘ruti’, fish and meat every day. What else should we",
+      "cleanText": "Student 1: We eat rice, ‘ruti’, fish and meat every day. What else should we",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.38,
+      "bbox": [
+        74.02,
+        428.83,
+        489.31,
+        440.93
+      ]
+    },
+    {
+      "id": "class8-english-p021-l017",
+      "lineNumber": 17,
+      "text": "have, teacher?",
+      "cleanText": "have, teacher?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        148.61,
+        448.99,
+        223.2,
+        459.94
+      ]
+    },
+    {
+      "id": "class8-english-p021-l018",
+      "lineNumber": 18,
+      "text": "Ms Rehana: Well, we must also eat vegetables and fruits. They contain a",
+      "cleanText": "Ms Rehana: Well, we must also eat vegetables and fruits. They contain a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.07,
+      "bbox": [
+        75.17,
+        483.26,
+        488.74,
+        495.07
+      ]
+    },
+    {
+      "id": "class8-english-p021-l019",
+      "lineNumber": 19,
+      "text": "lot of vitamins and minerals. They keep our body free from",
+      "cleanText": "lot of vitamins and minerals. They keep our body free from",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        152.06,
+        505.15,
+        488.45,
+        517.25
+      ]
+    },
+    {
+      "id": "class8-english-p021-l020",
+      "lineNumber": 20,
+      "text": "diseases. They are also good for our skin and overall health.",
+      "cleanText": "diseases. They are also good for our skin and overall health.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        150.62,
+        527.62,
+        463.68,
+        539.42
+      ]
+    },
+    {
+      "id": "class8-english-p021-l021",
+      "lineNumber": 21,
+      "text": "Student 2: Should we have anything else?",
+      "cleanText": "Student 2: Should we have anything else?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.29,
+      "bbox": [
+        75.74,
+        551.81,
+        311.33,
+        563.62
+      ]
+    },
+    {
+      "id": "class8-english-p021-l022",
+      "lineNumber": 22,
+      "text": "Ms Rehana: Sure. We need to drink milk everyday. Milk is highly rich in",
+      "cleanText": "Ms Rehana: Sure. We need to drink milk everyday. Milk is highly rich in",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        76.03,
+        583.2,
+        489.02,
+        595.3
+      ]
+    },
+    {
+      "id": "class8-english-p021-l023",
+      "lineNumber": 23,
+      "text": "calcium. It’s good for our healthy growth. It makes our bones and",
+      "cleanText": "calcium. It’s good for our healthy growth. It makes our bones and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.08,
+      "bbox": [
+        147.74,
+        604.22,
+        491.33,
+        616.61
+      ]
+    },
+    {
+      "id": "class8-english-p021-l024",
+      "lineNumber": 24,
+      "text": "teeth strong as well. We must drink pure water at regular intervals",
+      "cleanText": "teeth strong as well. We must drink pure water at regular intervals",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.67,
+      "bbox": [
+        148.9,
+        626.69,
+        488.45,
+        638.78
+      ]
+    },
+    {
+      "id": "class8-english-p021-l026",
+      "lineNumber": 26,
+      "text": "too. It’s essential for our body. We can’t live without drinking water. S",
+      "cleanText": "too. It’s essential for our body. We can’t live without drinking water. S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.54,
+      "bbox": [
+        146.02,
+        646.85,
+        517.82,
+        662.4
+      ]
+    }
+  ],
+  "lineCount": 26,
+  "aiReadyLineCount": 25,
+  "averageConfidence": 91.37,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:05.465434+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

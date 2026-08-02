@@ -1,0 +1,882 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 13,
+  "pdfPage": 13,
+  "textbookPage": 13,
+  "width": 542.97,
+  "height": 701.39,
+  "image": "../images/page-013.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "8 English For Today\nheritage. Although the government is providing continuous efforts to include\nethnic people’s languages in pre-primary and primary education, these efforts\nare facing hurdles like shortage of trained teachers and adequate resources for\nhigher education in these languages.\nFurthermore, due to the construction of Kaptai Dam in 1957, the people living\nat the surrounding areas were relocated to areas far from their homes and\nfarmlands. It, consequently, had a far reaching impact on their life and\nlivelihood.\nC. True or False? If False, give the correct information:\n1. The ethnic people of our country live in the Chittagong Hill Tracts\nonly.\n2. They speak in only one language.\n3. Ethnic minority groups played vital role against British colonial rule.\n4. Bangladesh government is providing efforts to preserve their languages.\n5. There are adequate trained teachers and sufficient resources for higher\neducation in ethnic languages.\nD. Complete the text using words from the box.\nAt the time of the British colonial rule, ethnic minority groups played an\nimportant role in resisting. Leaders like Sidhu and Kanu led\nuprisings such as the Santhal. These efforts represent their\ncontribution to the anti-colonial. Today, ethnic\ncommunities are encountering problems in keeping their\nand cultural alive. The government is trying to include their\nlanguages in education. But there is a lack of trained\nand enough for higher education. More support\nis needed to protect their and cultural.\nS\nS\nN",
+  "cleanText": "8 English For Today heritage. Although the government is providing continuous efforts to include ethnic people’s languages in pre-primary and primary education, these efforts are facing hurdles like shortage of trained teachers and adequate resources for higher education in these languages. Furthermore, due to the construction of Kaptai Dam in 1957, the people living at the surrounding areas were relocated to areas far from their homes and farmlands. It, consequently, had a far reaching impact on their life and livelihood. C. True or False? If False, give the correct information: 1. The ethnic people of our country live in the Chittagong Hill Tracts only. 2. They speak in only one language. 3. Ethnic minority groups played vital role against British colonial rule. 4. Bangladesh government is providing efforts to preserve their languages. 5. There are adequate trained teachers and sufficient resources for higher education in ethnic languages. D. Complete the text using words from the box. At the time of the British colonial rule, ethnic minority groups played an important role in resisting. Leaders like Sidhu and Kanu led uprisings such as the Santhal. These efforts represent their contribution to the anti-colonial. Today, ethnic communities are encountering problems in keeping their and cultural alive. The government is trying to include their languages in education. But there is a lack of trained and enough for higher education. More support is needed to protect their and cultural. S S N",
+  "aiReadyText": "8 English For Today heritage. Although the government is providing continuous efforts to include ethnic people’s languages in pre-primary and primary education, these efforts are facing hurdles like shortage of trained teachers and adequate resources for higher education in these languages. Furthermore, due to the construction of Kaptai Dam in 1957, the people living at the surrounding areas were relocated to areas far from their homes and farmlands. It, consequently, had a far reaching impact on their life and livelihood. C. True or False? If False, give the correct information: 1. The ethnic people of our country live in the Chittagong Hill Tracts only. 2. They speak in only one language. 3. Ethnic minority groups played vital role against British colonial rule. 4. Bangladesh government is providing efforts to preserve their languages. 5. There are adequate trained teachers and sufficient resources for higher education in ethnic languages. D. Complete the text using words from the box. At the time of the British colonial rule, ethnic minority groups played an important role in resisting. Leaders like Sidhu and Kanu led uprisings such as the Santhal. These efforts represent their contribution to the anti-colonial. Today, ethnic communities are encountering problems in keeping their and cultural alive. The government is trying to include their languages in education. But there is a lack of trained and enough for higher education. More support is needed to protect their and cultural.",
+  "lines": [
+    {
+      "id": "class8-english-p013-l001",
+      "lineNumber": 1,
+      "text": "8 English For Today",
+      "cleanText": "8 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        66.53,
+        44.93,
+        480.38,
+        57.6
+      ]
+    },
+    {
+      "id": "class8-english-p013-l002",
+      "lineNumber": 2,
+      "text": "heritage. Although the government is providing continuous efforts to include",
+      "cleanText": "heritage. Although the government is providing continuous efforts to include",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        66.82,
+        73.73,
+        480.38,
+        85.54
+      ]
+    },
+    {
+      "id": "class8-english-p013-l003",
+      "lineNumber": 3,
+      "text": "ethnic people’s languages in pre-primary and primary education, these efforts",
+      "cleanText": "ethnic people’s languages in pre-primary and primary education, these efforts",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.3,
+      "bbox": [
+        67.1,
+        88.42,
+        480.38,
+        100.51
+      ]
+    },
+    {
+      "id": "class8-english-p013-l004",
+      "lineNumber": 4,
+      "text": "are facing hurdles like shortage of trained teachers and adequate resources for",
+      "cleanText": "are facing hurdles like shortage of trained teachers and adequate resources for",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.08,
+      "bbox": [
+        67.1,
+        103.68,
+        480.67,
+        115.49
+      ]
+    },
+    {
+      "id": "class8-english-p013-l005",
+      "lineNumber": 5,
+      "text": "higher education in these languages.",
+      "cleanText": "higher education in these languages.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        66.82,
+        118.66,
+        254.59,
+        130.46
+      ]
+    },
+    {
+      "id": "class8-english-p013-l006",
+      "lineNumber": 6,
+      "text": "Furthermore, due to the construction of Kaptai Dam in 1957, the people living",
+      "cleanText": "Furthermore, due to the construction of Kaptai Dam in 1957, the people living",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        66.82,
+        150.34,
+        480.1,
+        162.14
+      ]
+    },
+    {
+      "id": "class8-english-p013-l007",
+      "lineNumber": 7,
+      "text": "at the surrounding areas were relocated to areas far from their homes and",
+      "cleanText": "at the surrounding areas were relocated to areas far from their homes and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.77,
+      "bbox": [
+        66.82,
+        167.33,
+        480.1,
+        179.14
+      ]
+    },
+    {
+      "id": "class8-english-p013-l008",
+      "lineNumber": 8,
+      "text": "farmlands. It, consequently, had a far reaching impact on their life and",
+      "cleanText": "farmlands. It, consequently, had a far reaching impact on their life and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        67.1,
+        184.61,
+        480.38,
+        196.42
+      ]
+    },
+    {
+      "id": "class8-english-p013-l009",
+      "lineNumber": 9,
+      "text": "livelihood.",
+      "cleanText": "livelihood.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        66.82,
+        201.89,
+        121.25,
+        211.1
+      ]
+    },
+    {
+      "id": "class8-english-p013-l010",
+      "lineNumber": 10,
+      "text": "C. True or False? If False, give the correct information:",
+      "cleanText": "C. True or False? If False, give the correct information:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.7,
+      "bbox": [
+        67.1,
+        229.54,
+        373.82,
+        241.06
+      ]
+    },
+    {
+      "id": "class8-english-p013-l011",
+      "lineNumber": 11,
+      "text": "1. The ethnic people of our country live in the Chittagong Hill Tracts",
+      "cleanText": "1. The ethnic people of our country live in the Chittagong Hill Tracts",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        86.11,
+        256.32,
+        447.26,
+        268.13
+      ]
+    },
+    {
+      "id": "class8-english-p013-l012",
+      "lineNumber": 12,
+      "text": "only.",
+      "cleanText": "only.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        102.82,
+        273.31,
+        127.87,
+        285.12
+      ]
+    },
+    {
+      "id": "class8-english-p013-l013",
+      "lineNumber": 13,
+      "text": "2. They speak in only one language.",
+      "cleanText": "2. They speak in only one language.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        84.67,
+        290.59,
+        276.19,
+        302.4
+      ]
+    },
+    {
+      "id": "class8-english-p013-l014",
+      "lineNumber": 14,
+      "text": "3. Ethnic minority groups played vital role against British colonial rule.",
+      "cleanText": "3. Ethnic minority groups played vital role against British colonial rule.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        84.96,
+        307.58,
+        460.22,
+        319.39
+      ]
+    },
+    {
+      "id": "class8-english-p013-l015",
+      "lineNumber": 15,
+      "text": "4. Bangladesh government is providing efforts to preserve their languages.",
+      "cleanText": "4. Bangladesh government is providing efforts to preserve their languages.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        84.67,
+        324.86,
+        476.35,
+        336.67
+      ]
+    },
+    {
+      "id": "class8-english-p013-l016",
+      "lineNumber": 16,
+      "text": "5. There are adequate trained teachers and sufficient resources for higher",
+      "cleanText": "5. There are adequate trained teachers and sufficient resources for higher",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        85.25,
+        342.14,
+        467.71,
+        353.95
+      ]
+    },
+    {
+      "id": "class8-english-p013-l017",
+      "lineNumber": 17,
+      "text": "education in ethnic languages.",
+      "cleanText": "education in ethnic languages.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        102.82,
+        359.42,
+        258.62,
+        371.23
+      ]
+    },
+    {
+      "id": "class8-english-p013-l018",
+      "lineNumber": 18,
+      "text": "D. Complete the text using words from the box.",
+      "cleanText": "D. Complete the text using words from the box.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.44,
+      "bbox": [
+        66.82,
+        387.07,
+        328.03,
+        398.88
+      ]
+    },
+    {
+      "id": "class8-english-p013-l019",
+      "lineNumber": 19,
+      "text": "At the time of the British colonial rule, ethnic minority groups played an",
+      "cleanText": "At the time of the British colonial rule, ethnic minority groups played an",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        68.83,
+        481.82,
+        445.82,
+        493.63
+      ]
+    },
+    {
+      "id": "class8-english-p013-l020",
+      "lineNumber": 20,
+      "text": "important role in resisting. Leaders like Sidhu and Kanu led",
+      "cleanText": "important role in resisting. Leaders like Sidhu and Kanu led",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.45,
+      "bbox": [
+        69.12,
+        498.82,
+        480.38,
+        510.62
+      ]
+    },
+    {
+      "id": "class8-english-p013-l021",
+      "lineNumber": 21,
+      "text": "uprisings such as the Santhal. These efforts represent their",
+      "cleanText": "uprisings such as the Santhal. These efforts represent their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.7,
+      "bbox": [
+        68.83,
+        516.1,
+        472.61,
+        527.9
+      ]
+    },
+    {
+      "id": "class8-english-p013-l022",
+      "lineNumber": 22,
+      "text": "contribution to the anti-colonial. Today, ethnic",
+      "cleanText": "contribution to the anti-colonial. Today, ethnic",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.29,
+      "bbox": [
+        69.12,
+        533.09,
+        411.84,
+        545.18
+      ]
+    },
+    {
+      "id": "class8-english-p013-l023",
+      "lineNumber": 23,
+      "text": "communities are encountering problems in keeping their",
+      "cleanText": "communities are encountering problems in keeping their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        69.12,
+        550.37,
+        362.59,
+        562.46
+      ]
+    },
+    {
+      "id": "class8-english-p013-l024",
+      "lineNumber": 24,
+      "text": "and cultural alive. The government is trying to include their",
+      "cleanText": "and cultural alive. The government is trying to include their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        69.12,
+        567.65,
+        479.52,
+        579.46
+      ]
+    },
+    {
+      "id": "class8-english-p013-l025",
+      "lineNumber": 25,
+      "text": "languages in education. But there is a lack of trained",
+      "cleanText": "languages in education. But there is a lack of trained",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        69.12,
+        584.93,
+        442.37,
+        596.74
+      ]
+    },
+    {
+      "id": "class8-english-p013-l026",
+      "lineNumber": 26,
+      "text": "and enough for higher education. More support",
+      "cleanText": "and enough for higher education. More support",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        169.92,
+        601.92,
+        476.64,
+        613.73
+      ]
+    },
+    {
+      "id": "class8-english-p013-l027",
+      "lineNumber": 27,
+      "text": "is needed to protect their and cultural.",
+      "cleanText": "is needed to protect their and cultural.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.62,
+      "bbox": [
+        69.12,
+        619.2,
+        436.9,
+        631.01
+      ]
+    },
+    {
+      "id": "class8-english-p013-l028",
+      "lineNumber": 28,
+      "text": "S",
+      "cleanText": "S",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 0.0,
+      "bbox": [
+        499.68,
+        634.75,
+        507.74,
+        646.56
+      ]
+    },
+    {
+      "id": "class8-english-p013-l029",
+      "lineNumber": 29,
+      "text": "S",
+      "cleanText": "S",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 70.0,
+      "bbox": [
+        499.68,
+        646.85,
+        507.74,
+        652.03
+      ]
+    },
+    {
+      "id": "class8-english-p013-l030",
+      "lineNumber": 30,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 80.0,
+      "bbox": [
+        499.68,
+        653.18,
+        507.74,
+        658.66
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p013-l001",
+      "lineNumber": 1,
+      "text": "8 English For Today",
+      "cleanText": "8 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        66.53,
+        44.93,
+        480.38,
+        57.6
+      ]
+    },
+    {
+      "id": "class8-english-p013-l002",
+      "lineNumber": 2,
+      "text": "heritage. Although the government is providing continuous efforts to include",
+      "cleanText": "heritage. Although the government is providing continuous efforts to include",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        66.82,
+        73.73,
+        480.38,
+        85.54
+      ]
+    },
+    {
+      "id": "class8-english-p013-l003",
+      "lineNumber": 3,
+      "text": "ethnic people’s languages in pre-primary and primary education, these efforts",
+      "cleanText": "ethnic people’s languages in pre-primary and primary education, these efforts",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.3,
+      "bbox": [
+        67.1,
+        88.42,
+        480.38,
+        100.51
+      ]
+    },
+    {
+      "id": "class8-english-p013-l004",
+      "lineNumber": 4,
+      "text": "are facing hurdles like shortage of trained teachers and adequate resources for",
+      "cleanText": "are facing hurdles like shortage of trained teachers and adequate resources for",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.08,
+      "bbox": [
+        67.1,
+        103.68,
+        480.67,
+        115.49
+      ]
+    },
+    {
+      "id": "class8-english-p013-l005",
+      "lineNumber": 5,
+      "text": "higher education in these languages.",
+      "cleanText": "higher education in these languages.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        66.82,
+        118.66,
+        254.59,
+        130.46
+      ]
+    },
+    {
+      "id": "class8-english-p013-l006",
+      "lineNumber": 6,
+      "text": "Furthermore, due to the construction of Kaptai Dam in 1957, the people living",
+      "cleanText": "Furthermore, due to the construction of Kaptai Dam in 1957, the people living",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        66.82,
+        150.34,
+        480.1,
+        162.14
+      ]
+    },
+    {
+      "id": "class8-english-p013-l007",
+      "lineNumber": 7,
+      "text": "at the surrounding areas were relocated to areas far from their homes and",
+      "cleanText": "at the surrounding areas were relocated to areas far from their homes and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.77,
+      "bbox": [
+        66.82,
+        167.33,
+        480.1,
+        179.14
+      ]
+    },
+    {
+      "id": "class8-english-p013-l008",
+      "lineNumber": 8,
+      "text": "farmlands. It, consequently, had a far reaching impact on their life and",
+      "cleanText": "farmlands. It, consequently, had a far reaching impact on their life and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        67.1,
+        184.61,
+        480.38,
+        196.42
+      ]
+    },
+    {
+      "id": "class8-english-p013-l009",
+      "lineNumber": 9,
+      "text": "livelihood.",
+      "cleanText": "livelihood.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        66.82,
+        201.89,
+        121.25,
+        211.1
+      ]
+    },
+    {
+      "id": "class8-english-p013-l010",
+      "lineNumber": 10,
+      "text": "C. True or False? If False, give the correct information:",
+      "cleanText": "C. True or False? If False, give the correct information:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.7,
+      "bbox": [
+        67.1,
+        229.54,
+        373.82,
+        241.06
+      ]
+    },
+    {
+      "id": "class8-english-p013-l011",
+      "lineNumber": 11,
+      "text": "1. The ethnic people of our country live in the Chittagong Hill Tracts",
+      "cleanText": "1. The ethnic people of our country live in the Chittagong Hill Tracts",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        86.11,
+        256.32,
+        447.26,
+        268.13
+      ]
+    },
+    {
+      "id": "class8-english-p013-l012",
+      "lineNumber": 12,
+      "text": "only.",
+      "cleanText": "only.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        102.82,
+        273.31,
+        127.87,
+        285.12
+      ]
+    },
+    {
+      "id": "class8-english-p013-l013",
+      "lineNumber": 13,
+      "text": "2. They speak in only one language.",
+      "cleanText": "2. They speak in only one language.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        84.67,
+        290.59,
+        276.19,
+        302.4
+      ]
+    },
+    {
+      "id": "class8-english-p013-l014",
+      "lineNumber": 14,
+      "text": "3. Ethnic minority groups played vital role against British colonial rule.",
+      "cleanText": "3. Ethnic minority groups played vital role against British colonial rule.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        84.96,
+        307.58,
+        460.22,
+        319.39
+      ]
+    },
+    {
+      "id": "class8-english-p013-l015",
+      "lineNumber": 15,
+      "text": "4. Bangladesh government is providing efforts to preserve their languages.",
+      "cleanText": "4. Bangladesh government is providing efforts to preserve their languages.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        84.67,
+        324.86,
+        476.35,
+        336.67
+      ]
+    },
+    {
+      "id": "class8-english-p013-l016",
+      "lineNumber": 16,
+      "text": "5. There are adequate trained teachers and sufficient resources for higher",
+      "cleanText": "5. There are adequate trained teachers and sufficient resources for higher",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        85.25,
+        342.14,
+        467.71,
+        353.95
+      ]
+    },
+    {
+      "id": "class8-english-p013-l017",
+      "lineNumber": 17,
+      "text": "education in ethnic languages.",
+      "cleanText": "education in ethnic languages.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        102.82,
+        359.42,
+        258.62,
+        371.23
+      ]
+    },
+    {
+      "id": "class8-english-p013-l018",
+      "lineNumber": 18,
+      "text": "D. Complete the text using words from the box.",
+      "cleanText": "D. Complete the text using words from the box.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.44,
+      "bbox": [
+        66.82,
+        387.07,
+        328.03,
+        398.88
+      ]
+    },
+    {
+      "id": "class8-english-p013-l019",
+      "lineNumber": 19,
+      "text": "At the time of the British colonial rule, ethnic minority groups played an",
+      "cleanText": "At the time of the British colonial rule, ethnic minority groups played an",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        68.83,
+        481.82,
+        445.82,
+        493.63
+      ]
+    },
+    {
+      "id": "class8-english-p013-l020",
+      "lineNumber": 20,
+      "text": "important role in resisting. Leaders like Sidhu and Kanu led",
+      "cleanText": "important role in resisting. Leaders like Sidhu and Kanu led",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.45,
+      "bbox": [
+        69.12,
+        498.82,
+        480.38,
+        510.62
+      ]
+    },
+    {
+      "id": "class8-english-p013-l021",
+      "lineNumber": 21,
+      "text": "uprisings such as the Santhal. These efforts represent their",
+      "cleanText": "uprisings such as the Santhal. These efforts represent their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.7,
+      "bbox": [
+        68.83,
+        516.1,
+        472.61,
+        527.9
+      ]
+    },
+    {
+      "id": "class8-english-p013-l022",
+      "lineNumber": 22,
+      "text": "contribution to the anti-colonial. Today, ethnic",
+      "cleanText": "contribution to the anti-colonial. Today, ethnic",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.29,
+      "bbox": [
+        69.12,
+        533.09,
+        411.84,
+        545.18
+      ]
+    },
+    {
+      "id": "class8-english-p013-l023",
+      "lineNumber": 23,
+      "text": "communities are encountering problems in keeping their",
+      "cleanText": "communities are encountering problems in keeping their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        69.12,
+        550.37,
+        362.59,
+        562.46
+      ]
+    },
+    {
+      "id": "class8-english-p013-l024",
+      "lineNumber": 24,
+      "text": "and cultural alive. The government is trying to include their",
+      "cleanText": "and cultural alive. The government is trying to include their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        69.12,
+        567.65,
+        479.52,
+        579.46
+      ]
+    },
+    {
+      "id": "class8-english-p013-l025",
+      "lineNumber": 25,
+      "text": "languages in education. But there is a lack of trained",
+      "cleanText": "languages in education. But there is a lack of trained",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        69.12,
+        584.93,
+        442.37,
+        596.74
+      ]
+    },
+    {
+      "id": "class8-english-p013-l026",
+      "lineNumber": 26,
+      "text": "and enough for higher education. More support",
+      "cleanText": "and enough for higher education. More support",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        169.92,
+        601.92,
+        476.64,
+        613.73
+      ]
+    },
+    {
+      "id": "class8-english-p013-l027",
+      "lineNumber": 27,
+      "text": "is needed to protect their and cultural.",
+      "cleanText": "is needed to protect their and cultural.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.62,
+      "bbox": [
+        69.12,
+        619.2,
+        436.9,
+        631.01
+      ]
+    }
+  ],
+  "lineCount": 30,
+  "aiReadyLineCount": 27,
+  "averageConfidence": 91.08,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:15:53.828134+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

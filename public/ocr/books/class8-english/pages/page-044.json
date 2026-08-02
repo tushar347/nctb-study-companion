@@ -1,0 +1,792 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 44,
+  "pdfPage": 44,
+  "textbookPage": 44,
+  "width": 536.97,
+  "height": 695.96,
+  "image": "../images/page-044.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Check Your References 39\nB. Look at the dictionary page in Lesson 3 and answer the following\nquestions. Then read the text below:\n1. Do you use a dictionary?\n2. Why and how often do you use a dictionary?\n3. How can a dictionary help you?\nA dictionary is a collection of words. It lists the words of a language and\ngives necessary information about them. It tells us about the\na) spelling\nb) pronunciation\nc) meaning\nd) word class\nTo make the meanings of words clear, example sentences are given in italics.\nExample sentences show how words are used. It also gives the synonym/s\nand the antonym/s of a word.\nWe find words made by adding prefixes and suffixes to the root word. Parts of\nspeech are also shown. A verb word is always given in the simple present tense.\nBut the past form of a verb and the past participle are also shown.\nC. Again read the text above. Then ask and answer the following questions:\n1. What information does a dictionary give us about a verb word?\n2. Why are the example sentences given?\n3. How are new words formed?\n4. Why are the synonyms and the antonyms given?\n5. What do we need a dictionary for?\nD. Match the sentence parts in Column A with those in Column B:\n.",
+  "cleanText": "Check Your References 39 B. Look at the dictionary page in Lesson 3 and answer the following questions. Then read the text below: 1. Do you use a dictionary? 2. Why and how often do you use a dictionary? 3. How can a dictionary help you? A dictionary is a collection of words. It lists the words of a language and gives necessary information about them. It tells us about the a) spelling b) pronunciation c) meaning d) word class To make the meanings of words clear, example sentences are given in italics. Example sentences show how words are used. It also gives the synonym/s and the antonym/s of a word. We find words made by adding prefixes and suffixes to the root word. Parts of speech are also shown. A verb word is always given in the simple present tense. But the past form of a verb and the past participle are also shown. C. Again read the text above. Then ask and answer the following questions: 1. What information does a dictionary give us about a verb word? 2. Why are the example sentences given? 3. How are new words formed? 4. Why are the synonyms and the antonyms given? 5. What do we need a dictionary for? D. Match the sentence parts in Column A with those in Column B:.",
+  "aiReadyText": "Check Your References 39 B. Look at the dictionary page in Lesson 3 and answer the following questions. Then read the text below: 1. Do you use a dictionary? 2. Why and how often do you use a dictionary? 3. How can a dictionary help you? A dictionary is a collection of words. It lists the words of a language and gives necessary information about them. It tells us about the a) spelling b) pronunciation c) meaning d) word class To make the meanings of words clear, example sentences are given in italics. Example sentences show how words are used. It also gives the synonym/s and the antonym/s of a word. We find words made by adding prefixes and suffixes to the root word. Parts of speech are also shown. A verb word is always given in the simple present tense. But the past form of a verb and the past participle are also shown. C. Again read the text above. Then ask and answer the following questions: 1. What information does a dictionary give us about a verb word? 2. Why are the example sentences given? 3. How are new words formed? 4. Why are the synonyms and the antonyms given? 5. What do we need a dictionary for? D. Match the sentence parts in Column A with those in Column B:",
+  "lines": [
+    {
+      "id": "class8-english-p044-l001",
+      "lineNumber": 1,
+      "text": "Check Your References 39",
+      "cleanText": "Check Your References 39",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        64.51,
+        42.34,
+        478.66,
+        51.55
+      ]
+    },
+    {
+      "id": "class8-english-p044-l002",
+      "lineNumber": 2,
+      "text": "B. Look at the dictionary page in Lesson 3 and answer the following",
+      "cleanText": "B. Look at the dictionary page in Lesson 3 and answer the following",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.77,
+      "bbox": [
+        65.95,
+        72.86,
+        478.66,
+        85.25
+      ]
+    },
+    {
+      "id": "class8-english-p044-l003",
+      "lineNumber": 3,
+      "text": "questions. Then read the text below:",
+      "cleanText": "questions. Then read the text below:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        85.54,
+        89.86,
+        284.26,
+        101.95
+      ]
+    },
+    {
+      "id": "class8-english-p044-l004",
+      "lineNumber": 4,
+      "text": "1. Do you use a dictionary?",
+      "cleanText": "1. Do you use a dictionary?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        74.88,
+        108.0,
+        215.71,
+        122.4
+      ]
+    },
+    {
+      "id": "class8-english-p044-l005",
+      "lineNumber": 5,
+      "text": "2. Why and how often do you use a dictionary?",
+      "cleanText": "2. Why and how often do you use a dictionary?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        73.44,
+        124.99,
+        319.1,
+        139.39
+      ]
+    },
+    {
+      "id": "class8-english-p044-l006",
+      "lineNumber": 6,
+      "text": "3. How can a dictionary help you?",
+      "cleanText": "3. How can a dictionary help you?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.14,
+      "bbox": [
+        73.73,
+        141.98,
+        251.71,
+        156.38
+      ]
+    },
+    {
+      "id": "class8-english-p044-l007",
+      "lineNumber": 7,
+      "text": "A dictionary is a collection of words. It lists the words of a language and",
+      "cleanText": "A dictionary is a collection of words. It lists the words of a language and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        69.7,
+        164.45,
+        480.67,
+        176.83
+      ]
+    },
+    {
+      "id": "class8-english-p044-l008",
+      "lineNumber": 8,
+      "text": "gives necessary information about them. It tells us about the",
+      "cleanText": "gives necessary information about them. It tells us about the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        66.82,
+        181.44,
+        380.74,
+        193.82
+      ]
+    },
+    {
+      "id": "class8-english-p044-l009",
+      "lineNumber": 9,
+      "text": "a) spelling",
+      "cleanText": "a) spelling",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        65.66,
+        202.18,
+        119.52,
+        214.56
+      ]
+    },
+    {
+      "id": "class8-english-p044-l010",
+      "lineNumber": 10,
+      "text": "b) pronunciation",
+      "cleanText": "b) pronunciation",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        65.66,
+        221.18,
+        151.2,
+        233.28
+      ]
+    },
+    {
+      "id": "class8-english-p044-l011",
+      "lineNumber": 11,
+      "text": "c) meaning",
+      "cleanText": "c) meaning",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        65.66,
+        240.19,
+        123.26,
+        252.58
+      ]
+    },
+    {
+      "id": "class8-english-p044-l012",
+      "lineNumber": 12,
+      "text": "d) word class",
+      "cleanText": "d) word class",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        65.66,
+        259.2,
+        134.78,
+        270.43
+      ]
+    },
+    {
+      "id": "class8-english-p044-l013",
+      "lineNumber": 13,
+      "text": "To make the meanings of words clear, example sentences are given in italics.",
+      "cleanText": "To make the meanings of words clear, example sentences are given in italics.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.15,
+      "bbox": [
+        65.66,
+        282.24,
+        466.85,
+        294.34
+      ]
+    },
+    {
+      "id": "class8-english-p044-l014",
+      "lineNumber": 14,
+      "text": "Example sentences show how words are used. It also gives the synonym/s",
+      "cleanText": "Example sentences show how words are used. It also gives the synonym/s",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        65.95,
+        302.11,
+        478.37,
+        314.5
+      ]
+    },
+    {
+      "id": "class8-english-p044-l015",
+      "lineNumber": 15,
+      "text": "and the antonym/s of a word.",
+      "cleanText": "and the antonym/s of a word.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        66.53,
+        320.83,
+        220.61,
+        333.5
+      ]
+    },
+    {
+      "id": "class8-english-p044-l016",
+      "lineNumber": 16,
+      "text": "We find words made by adding prefixes and suffixes to the root word. Parts of",
+      "cleanText": "We find words made by adding prefixes and suffixes to the root word. Parts of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.87,
+      "bbox": [
+        68.54,
+        342.14,
+        480.38,
+        354.24
+      ]
+    },
+    {
+      "id": "class8-english-p044-l017",
+      "lineNumber": 17,
+      "text": "speech are also shown. A verb word is always given in the simple present tense.",
+      "cleanText": "speech are also shown. A verb word is always given in the simple present tense.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.87,
+      "bbox": [
+        67.68,
+        360.86,
+        481.25,
+        373.25
+      ]
+    },
+    {
+      "id": "class8-english-p044-l018",
+      "lineNumber": 18,
+      "text": "But the past form of a verb and the past participle are also shown.",
+      "cleanText": "But the past form of a verb and the past participle are also shown.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        67.39,
+        379.87,
+        410.69,
+        391.97
+      ]
+    },
+    {
+      "id": "class8-english-p044-l019",
+      "lineNumber": 19,
+      "text": "C. Again read the text above. Then ask and answer the following questions:",
+      "cleanText": "C. Again read the text above. Then ask and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        65.38,
+        399.74,
+        480.96,
+        412.13
+      ]
+    },
+    {
+      "id": "class8-english-p044-l020",
+      "lineNumber": 20,
+      "text": "1. What information does a dictionary give us about a verb word?",
+      "cleanText": "1. What information does a dictionary give us about a verb word?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        91.01,
+        418.75,
+        439.2,
+        431.14
+      ]
+    },
+    {
+      "id": "class8-english-p044-l021",
+      "lineNumber": 21,
+      "text": "2. Why are the example sentences given?",
+      "cleanText": "2. Why are the example sentences given?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.14,
+      "bbox": [
+        90.14,
+        438.05,
+        312.48,
+        450.14
+      ]
+    },
+    {
+      "id": "class8-english-p044-l022",
+      "lineNumber": 22,
+      "text": "3. How are new words formed?",
+      "cleanText": "3. How are new words formed?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        89.86,
+        456.77,
+        261.5,
+        465.98
+      ]
+    },
+    {
+      "id": "class8-english-p044-l023",
+      "lineNumber": 23,
+      "text": "4. Why are the synonyms and the antonyms given?",
+      "cleanText": "4. Why are the synonyms and the antonyms given?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.11,
+      "bbox": [
+        89.86,
+        476.06,
+        362.88,
+        489.02
+      ]
+    },
+    {
+      "id": "class8-english-p044-l024",
+      "lineNumber": 24,
+      "text": "5. What do we need a dictionary for?",
+      "cleanText": "5. What do we need a dictionary for?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        90.14,
+        493.63,
+        290.3,
+        508.32
+      ]
+    },
+    {
+      "id": "class8-english-p044-l025",
+      "lineNumber": 25,
+      "text": "D. Match the sentence parts in Column A with those in Column B:",
+      "cleanText": "D. Match the sentence parts in Column A with those in Column B:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.85,
+      "bbox": [
+        66.24,
+        518.11,
+        436.9,
+        530.21
+      ]
+    },
+    {
+      "id": "class8-english-p044-l026",
+      "lineNumber": 26,
+      "text": ".",
+      "cleanText": ".",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 10.0,
+      "bbox": [
+        33.7,
+        629.57,
+        41.76,
+        635.04
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p044-l001",
+      "lineNumber": 1,
+      "text": "Check Your References 39",
+      "cleanText": "Check Your References 39",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        64.51,
+        42.34,
+        478.66,
+        51.55
+      ]
+    },
+    {
+      "id": "class8-english-p044-l002",
+      "lineNumber": 2,
+      "text": "B. Look at the dictionary page in Lesson 3 and answer the following",
+      "cleanText": "B. Look at the dictionary page in Lesson 3 and answer the following",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.77,
+      "bbox": [
+        65.95,
+        72.86,
+        478.66,
+        85.25
+      ]
+    },
+    {
+      "id": "class8-english-p044-l003",
+      "lineNumber": 3,
+      "text": "questions. Then read the text below:",
+      "cleanText": "questions. Then read the text below:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        85.54,
+        89.86,
+        284.26,
+        101.95
+      ]
+    },
+    {
+      "id": "class8-english-p044-l004",
+      "lineNumber": 4,
+      "text": "1. Do you use a dictionary?",
+      "cleanText": "1. Do you use a dictionary?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        74.88,
+        108.0,
+        215.71,
+        122.4
+      ]
+    },
+    {
+      "id": "class8-english-p044-l005",
+      "lineNumber": 5,
+      "text": "2. Why and how often do you use a dictionary?",
+      "cleanText": "2. Why and how often do you use a dictionary?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        73.44,
+        124.99,
+        319.1,
+        139.39
+      ]
+    },
+    {
+      "id": "class8-english-p044-l006",
+      "lineNumber": 6,
+      "text": "3. How can a dictionary help you?",
+      "cleanText": "3. How can a dictionary help you?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.14,
+      "bbox": [
+        73.73,
+        141.98,
+        251.71,
+        156.38
+      ]
+    },
+    {
+      "id": "class8-english-p044-l007",
+      "lineNumber": 7,
+      "text": "A dictionary is a collection of words. It lists the words of a language and",
+      "cleanText": "A dictionary is a collection of words. It lists the words of a language and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        69.7,
+        164.45,
+        480.67,
+        176.83
+      ]
+    },
+    {
+      "id": "class8-english-p044-l008",
+      "lineNumber": 8,
+      "text": "gives necessary information about them. It tells us about the",
+      "cleanText": "gives necessary information about them. It tells us about the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        66.82,
+        181.44,
+        380.74,
+        193.82
+      ]
+    },
+    {
+      "id": "class8-english-p044-l009",
+      "lineNumber": 9,
+      "text": "a) spelling",
+      "cleanText": "a) spelling",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        65.66,
+        202.18,
+        119.52,
+        214.56
+      ]
+    },
+    {
+      "id": "class8-english-p044-l010",
+      "lineNumber": 10,
+      "text": "b) pronunciation",
+      "cleanText": "b) pronunciation",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        65.66,
+        221.18,
+        151.2,
+        233.28
+      ]
+    },
+    {
+      "id": "class8-english-p044-l011",
+      "lineNumber": 11,
+      "text": "c) meaning",
+      "cleanText": "c) meaning",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        65.66,
+        240.19,
+        123.26,
+        252.58
+      ]
+    },
+    {
+      "id": "class8-english-p044-l012",
+      "lineNumber": 12,
+      "text": "d) word class",
+      "cleanText": "d) word class",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        65.66,
+        259.2,
+        134.78,
+        270.43
+      ]
+    },
+    {
+      "id": "class8-english-p044-l013",
+      "lineNumber": 13,
+      "text": "To make the meanings of words clear, example sentences are given in italics.",
+      "cleanText": "To make the meanings of words clear, example sentences are given in italics.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.15,
+      "bbox": [
+        65.66,
+        282.24,
+        466.85,
+        294.34
+      ]
+    },
+    {
+      "id": "class8-english-p044-l014",
+      "lineNumber": 14,
+      "text": "Example sentences show how words are used. It also gives the synonym/s",
+      "cleanText": "Example sentences show how words are used. It also gives the synonym/s",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        65.95,
+        302.11,
+        478.37,
+        314.5
+      ]
+    },
+    {
+      "id": "class8-english-p044-l015",
+      "lineNumber": 15,
+      "text": "and the antonym/s of a word.",
+      "cleanText": "and the antonym/s of a word.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        66.53,
+        320.83,
+        220.61,
+        333.5
+      ]
+    },
+    {
+      "id": "class8-english-p044-l016",
+      "lineNumber": 16,
+      "text": "We find words made by adding prefixes and suffixes to the root word. Parts of",
+      "cleanText": "We find words made by adding prefixes and suffixes to the root word. Parts of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.87,
+      "bbox": [
+        68.54,
+        342.14,
+        480.38,
+        354.24
+      ]
+    },
+    {
+      "id": "class8-english-p044-l017",
+      "lineNumber": 17,
+      "text": "speech are also shown. A verb word is always given in the simple present tense.",
+      "cleanText": "speech are also shown. A verb word is always given in the simple present tense.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.87,
+      "bbox": [
+        67.68,
+        360.86,
+        481.25,
+        373.25
+      ]
+    },
+    {
+      "id": "class8-english-p044-l018",
+      "lineNumber": 18,
+      "text": "But the past form of a verb and the past participle are also shown.",
+      "cleanText": "But the past form of a verb and the past participle are also shown.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        67.39,
+        379.87,
+        410.69,
+        391.97
+      ]
+    },
+    {
+      "id": "class8-english-p044-l019",
+      "lineNumber": 19,
+      "text": "C. Again read the text above. Then ask and answer the following questions:",
+      "cleanText": "C. Again read the text above. Then ask and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        65.38,
+        399.74,
+        480.96,
+        412.13
+      ]
+    },
+    {
+      "id": "class8-english-p044-l020",
+      "lineNumber": 20,
+      "text": "1. What information does a dictionary give us about a verb word?",
+      "cleanText": "1. What information does a dictionary give us about a verb word?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        91.01,
+        418.75,
+        439.2,
+        431.14
+      ]
+    },
+    {
+      "id": "class8-english-p044-l021",
+      "lineNumber": 21,
+      "text": "2. Why are the example sentences given?",
+      "cleanText": "2. Why are the example sentences given?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.14,
+      "bbox": [
+        90.14,
+        438.05,
+        312.48,
+        450.14
+      ]
+    },
+    {
+      "id": "class8-english-p044-l022",
+      "lineNumber": 22,
+      "text": "3. How are new words formed?",
+      "cleanText": "3. How are new words formed?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        89.86,
+        456.77,
+        261.5,
+        465.98
+      ]
+    },
+    {
+      "id": "class8-english-p044-l023",
+      "lineNumber": 23,
+      "text": "4. Why are the synonyms and the antonyms given?",
+      "cleanText": "4. Why are the synonyms and the antonyms given?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.11,
+      "bbox": [
+        89.86,
+        476.06,
+        362.88,
+        489.02
+      ]
+    },
+    {
+      "id": "class8-english-p044-l024",
+      "lineNumber": 24,
+      "text": "5. What do we need a dictionary for?",
+      "cleanText": "5. What do we need a dictionary for?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        90.14,
+        493.63,
+        290.3,
+        508.32
+      ]
+    },
+    {
+      "id": "class8-english-p044-l025",
+      "lineNumber": 25,
+      "text": "D. Match the sentence parts in Column A with those in Column B:",
+      "cleanText": "D. Match the sentence parts in Column A with those in Column B:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.85,
+      "bbox": [
+        66.24,
+        518.11,
+        436.9,
+        530.21
+      ]
+    }
+  ],
+  "lineCount": 26,
+  "aiReadyLineCount": 25,
+  "averageConfidence": 91.95,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:46.864787+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

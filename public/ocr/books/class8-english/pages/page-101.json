@@ -1,0 +1,762 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 101,
+  "pdfPage": 101,
+  "textbookPage": 101,
+  "width": 529.47,
+  "height": 688.41,
+  "image": "../images/page-101.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "96 English For Today\nThere are opinions that the term ‘news’ comes from ‘new’. Others say it is\nnews because it comes from all directions: North, East, West and South.\nQuestions:\n1. What features should news have?\n2. What is the difference between news and an event?\n3. ‘......it should be self-explained...’. What does ‘it? mean here?\n4. What are the opinions about the term ‘news’?\n5. What must be there in the information in a newspaper?\nC. Pairwork. Find the following words/phrases in italics in the text in B. Discuss\nwith your partner and try to guess their meaning from the context. Then look\nat the table below and match the words with their meanings in the right\ncolumn. First one is done for you:\nbunk off not influenced by personal feelings/opinions\nto send out programmes on TV or radio\n.. —TM~....\nways of getting information e.g. Radio, TV, newspaper, etc.\nstay away/leave school/work without permission\nD. What is fake news?\n\"Fake news\" means news that isn't true or is misleading. This can happen when\nstories don’t have real facts or trustworthy sources.\nThere are two main types of fake news:\n‘oO\nN\nS\nN",
+  "cleanText": "96 English For Today There are opinions that the term ‘news’ comes from ‘new’. Others say it is news because it comes from all directions: North, East, West and South. Questions: 1. What features should news have? 2. What is the difference between news and an event? 3. ‘......it should be self-explained...’. What does ‘it? mean here? 4. What are the opinions about the term ‘news’? 5. What must be there in the information in a newspaper? C. Pairwork. Find the following words/phrases in italics in the text in B. Discuss with your partner and try to guess their meaning from the context. Then look at the table below and match the words with their meanings in the right column. First one is done for you: bunk off not influenced by personal feelings/opinions to send out programmes on TV or radio.. —TM~.... ways of getting information e.g. Radio, TV, newspaper, etc. stay away/leave school/work without permission D. What is fake news? \"Fake news\" means news that isn't true or is misleading. This can happen when stories don’t have real facts or trustworthy sources. There are two main types of fake news: ‘oO N S N",
+  "aiReadyText": "96 English For Today There are opinions that the term ‘news’ comes from ‘new’. Others say it is news because it comes from all directions: North, East, West and South. Questions: 1. What features should news have? 2. What is the difference between news and an event? 3. ‘......it should be self-explained...’. What does ‘it? mean here? 4. What are the opinions about the term ‘news’? 5. What must be there in the information in a newspaper? C. Pairwork. Find the following words/phrases in italics in the text in B. Discuss with your partner and try to guess their meaning from the context. Then look at the table below and match the words with their meanings in the right column. First one is done for you: bunk off not influenced by personal feelings/opinions to send out programmes on TV or radio.. —TM~.... ways of getting information e.g. Radio, TV, newspaper, etc. stay away/leave school/work without permission D. What is fake news? \"Fake news\" means news that isn't true or is misleading. This can happen when stories don’t have real facts or trustworthy sources. There are two main types of fake news: ‘oO",
+  "lines": [
+    {
+      "id": "class8-english-p101-l001",
+      "lineNumber": 1,
+      "text": "96 English For Today",
+      "cleanText": "96 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.21,
+        37.73,
+        474.62,
+        48.67
+      ]
+    },
+    {
+      "id": "class8-english-p101-l002",
+      "lineNumber": 2,
+      "text": "There are opinions that the term ‘news’ comes from ‘new’. Others say it is",
+      "cleanText": "There are opinions that the term ‘news’ comes from ‘new’. Others say it is",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        60.19,
+        66.53,
+        472.03,
+        78.34
+      ]
+    },
+    {
+      "id": "class8-english-p101-l003",
+      "lineNumber": 3,
+      "text": "news because it comes from all directions: North, East, West and South.",
+      "cleanText": "news because it comes from all directions: North, East, West and South.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.06,
+        81.79,
+        434.3,
+        93.02
+      ]
+    },
+    {
+      "id": "class8-english-p101-l004",
+      "lineNumber": 4,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        60.48,
+        115.2,
+        118.37,
+        126.43
+      ]
+    },
+    {
+      "id": "class8-english-p101-l005",
+      "lineNumber": 5,
+      "text": "1. What features should news have?",
+      "cleanText": "1. What features should news have?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        82.37,
+        135.65,
+        275.9,
+        144.86
+      ]
+    },
+    {
+      "id": "class8-english-p101-l006",
+      "lineNumber": 6,
+      "text": "2. What is the difference between news and an event?",
+      "cleanText": "2. What is the difference between news and an event?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        80.93,
+        156.1,
+        368.06,
+        165.31
+      ]
+    },
+    {
+      "id": "class8-english-p101-l007",
+      "lineNumber": 7,
+      "text": "3. ‘......it should be self-explained...’. What does ‘it? mean here?",
+      "cleanText": "3. ‘......it should be self-explained...’. What does ‘it? mean here?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.09,
+      "bbox": [
+        81.22,
+        176.54,
+        427.39,
+        188.35
+      ]
+    },
+    {
+      "id": "class8-english-p101-l008",
+      "lineNumber": 8,
+      "text": "4. What are the opinions about the term ‘news’?",
+      "cleanText": "4. What are the opinions about the term ‘news’?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.89,
+      "bbox": [
+        80.93,
+        196.99,
+        339.26,
+        208.8
+      ]
+    },
+    {
+      "id": "class8-english-p101-l009",
+      "lineNumber": 9,
+      "text": "5. What must be there in the information in a newspaper?",
+      "cleanText": "5. What must be there in the information in a newspaper?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.64,
+      "bbox": [
+        81.22,
+        217.73,
+        387.65,
+        229.54
+      ]
+    },
+    {
+      "id": "class8-english-p101-l010",
+      "lineNumber": 10,
+      "text": "C. Pairwork. Find the following words/phrases in italics in the text in B. Discuss",
+      "cleanText": "C. Pairwork. Find the following words/phrases in italics in the text in B. Discuss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.71,
+      "bbox": [
+        58.46,
+        255.46,
+        477.5,
+        267.55
+      ]
+    },
+    {
+      "id": "class8-english-p101-l011",
+      "lineNumber": 11,
+      "text": "with your partner and try to guess their meaning from the context. Then look",
+      "cleanText": "with your partner and try to guess their meaning from the context. Then look",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        78.62,
+        271.3,
+        478.08,
+        283.39
+      ]
+    },
+    {
+      "id": "class8-english-p101-l012",
+      "lineNumber": 12,
+      "text": "at the table below and match the words with their meanings in the right",
+      "cleanText": "at the table below and match the words with their meanings in the right",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        78.91,
+        286.85,
+        478.08,
+        298.94
+      ]
+    },
+    {
+      "id": "class8-english-p101-l013",
+      "lineNumber": 13,
+      "text": "column. First one is done for you:",
+      "cleanText": "column. First one is done for you:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        78.91,
+        302.4,
+        254.02,
+        314.5
+      ]
+    },
+    {
+      "id": "class8-english-p101-l014",
+      "lineNumber": 14,
+      "text": "bunk off not influenced by personal feelings/opinions",
+      "cleanText": "bunk off not influenced by personal feelings/opinions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 83.29,
+      "bbox": [
+        65.66,
+        373.82,
+        427.1,
+        386.5
+      ]
+    },
+    {
+      "id": "class8-english-p101-l015",
+      "lineNumber": 15,
+      "text": "to send out programmes on TV or radio",
+      "cleanText": "to send out programmes on TV or radio",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        153.5,
+        402.91,
+        381.31,
+        415.3
+      ]
+    },
+    {
+      "id": "class8-english-p101-l016",
+      "lineNumber": 16,
+      "text": ".. —TM~....",
+      "cleanText": ".. —TM~....",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 57.29,
+      "bbox": [
+        80.06,
+        423.07,
+        355.39,
+        432.86
+      ]
+    },
+    {
+      "id": "class8-english-p101-l017",
+      "lineNumber": 17,
+      "text": "ways of getting information e.g. Radio, TV, newspaper, etc.",
+      "cleanText": "ways of getting information e.g. Radio, TV, newspaper, etc.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        153.5,
+        429.98,
+        473.76,
+        442.08
+      ]
+    },
+    {
+      "id": "class8-english-p101-l018",
+      "lineNumber": 18,
+      "text": "stay away/leave school/work without permission",
+      "cleanText": "stay away/leave school/work without permission",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.4,
+      "bbox": [
+        154.08,
+        456.48,
+        419.9,
+        470.88
+      ]
+    },
+    {
+      "id": "class8-english-p101-l019",
+      "lineNumber": 19,
+      "text": "D. What is fake news?",
+      "cleanText": "D. What is fake news?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        58.75,
+        491.9,
+        196.7,
+        501.41
+      ]
+    },
+    {
+      "id": "class8-english-p101-l020",
+      "lineNumber": 20,
+      "text": "\"Fake news\" means news that isn't true or is misleading. This can happen when",
+      "cleanText": "\"Fake news\" means news that isn't true or is misleading. This can happen when",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        59.9,
+        515.52,
+        472.9,
+        527.33
+      ]
+    },
+    {
+      "id": "class8-english-p101-l021",
+      "lineNumber": 21,
+      "text": "stories don’t have real facts or trustworthy sources.",
+      "cleanText": "stories don’t have real facts or trustworthy sources.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.62,
+        531.36,
+        323.71,
+        543.46
+      ]
+    },
+    {
+      "id": "class8-english-p101-l022",
+      "lineNumber": 22,
+      "text": "There are two main types of fake news:",
+      "cleanText": "There are two main types of fake news:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        59.62,
+        547.49,
+        263.52,
+        559.3
+      ]
+    },
+    {
+      "id": "class8-english-p101-l023",
+      "lineNumber": 23,
+      "text": "‘oO",
+      "cleanText": "‘oO",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 22.0,
+      "bbox": [
+        494.5,
+        624.67,
+        502.85,
+        630.14
+      ]
+    },
+    {
+      "id": "class8-english-p101-l024",
+      "lineNumber": 24,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 68.0,
+      "bbox": [
+        494.5,
+        631.3,
+        502.56,
+        636.48
+      ]
+    },
+    {
+      "id": "class8-english-p101-l025",
+      "lineNumber": 25,
+      "text": "S",
+      "cleanText": "S",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 77.0,
+      "bbox": [
+        494.5,
+        636.77,
+        502.85,
+        642.24
+      ]
+    },
+    {
+      "id": "class8-english-p101-l026",
+      "lineNumber": 26,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 72.0,
+      "bbox": [
+        494.5,
+        643.1,
+        502.56,
+        648.58
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p101-l001",
+      "lineNumber": 1,
+      "text": "96 English For Today",
+      "cleanText": "96 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.21,
+        37.73,
+        474.62,
+        48.67
+      ]
+    },
+    {
+      "id": "class8-english-p101-l002",
+      "lineNumber": 2,
+      "text": "There are opinions that the term ‘news’ comes from ‘new’. Others say it is",
+      "cleanText": "There are opinions that the term ‘news’ comes from ‘new’. Others say it is",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        60.19,
+        66.53,
+        472.03,
+        78.34
+      ]
+    },
+    {
+      "id": "class8-english-p101-l003",
+      "lineNumber": 3,
+      "text": "news because it comes from all directions: North, East, West and South.",
+      "cleanText": "news because it comes from all directions: North, East, West and South.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.06,
+        81.79,
+        434.3,
+        93.02
+      ]
+    },
+    {
+      "id": "class8-english-p101-l004",
+      "lineNumber": 4,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        60.48,
+        115.2,
+        118.37,
+        126.43
+      ]
+    },
+    {
+      "id": "class8-english-p101-l005",
+      "lineNumber": 5,
+      "text": "1. What features should news have?",
+      "cleanText": "1. What features should news have?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        82.37,
+        135.65,
+        275.9,
+        144.86
+      ]
+    },
+    {
+      "id": "class8-english-p101-l006",
+      "lineNumber": 6,
+      "text": "2. What is the difference between news and an event?",
+      "cleanText": "2. What is the difference between news and an event?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        80.93,
+        156.1,
+        368.06,
+        165.31
+      ]
+    },
+    {
+      "id": "class8-english-p101-l007",
+      "lineNumber": 7,
+      "text": "3. ‘......it should be self-explained...’. What does ‘it? mean here?",
+      "cleanText": "3. ‘......it should be self-explained...’. What does ‘it? mean here?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.09,
+      "bbox": [
+        81.22,
+        176.54,
+        427.39,
+        188.35
+      ]
+    },
+    {
+      "id": "class8-english-p101-l008",
+      "lineNumber": 8,
+      "text": "4. What are the opinions about the term ‘news’?",
+      "cleanText": "4. What are the opinions about the term ‘news’?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.89,
+      "bbox": [
+        80.93,
+        196.99,
+        339.26,
+        208.8
+      ]
+    },
+    {
+      "id": "class8-english-p101-l009",
+      "lineNumber": 9,
+      "text": "5. What must be there in the information in a newspaper?",
+      "cleanText": "5. What must be there in the information in a newspaper?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.64,
+      "bbox": [
+        81.22,
+        217.73,
+        387.65,
+        229.54
+      ]
+    },
+    {
+      "id": "class8-english-p101-l010",
+      "lineNumber": 10,
+      "text": "C. Pairwork. Find the following words/phrases in italics in the text in B. Discuss",
+      "cleanText": "C. Pairwork. Find the following words/phrases in italics in the text in B. Discuss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.71,
+      "bbox": [
+        58.46,
+        255.46,
+        477.5,
+        267.55
+      ]
+    },
+    {
+      "id": "class8-english-p101-l011",
+      "lineNumber": 11,
+      "text": "with your partner and try to guess their meaning from the context. Then look",
+      "cleanText": "with your partner and try to guess their meaning from the context. Then look",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        78.62,
+        271.3,
+        478.08,
+        283.39
+      ]
+    },
+    {
+      "id": "class8-english-p101-l012",
+      "lineNumber": 12,
+      "text": "at the table below and match the words with their meanings in the right",
+      "cleanText": "at the table below and match the words with their meanings in the right",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        78.91,
+        286.85,
+        478.08,
+        298.94
+      ]
+    },
+    {
+      "id": "class8-english-p101-l013",
+      "lineNumber": 13,
+      "text": "column. First one is done for you:",
+      "cleanText": "column. First one is done for you:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        78.91,
+        302.4,
+        254.02,
+        314.5
+      ]
+    },
+    {
+      "id": "class8-english-p101-l014",
+      "lineNumber": 14,
+      "text": "bunk off not influenced by personal feelings/opinions",
+      "cleanText": "bunk off not influenced by personal feelings/opinions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 83.29,
+      "bbox": [
+        65.66,
+        373.82,
+        427.1,
+        386.5
+      ]
+    },
+    {
+      "id": "class8-english-p101-l015",
+      "lineNumber": 15,
+      "text": "to send out programmes on TV or radio",
+      "cleanText": "to send out programmes on TV or radio",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        153.5,
+        402.91,
+        381.31,
+        415.3
+      ]
+    },
+    {
+      "id": "class8-english-p101-l016",
+      "lineNumber": 16,
+      "text": ".. —TM~....",
+      "cleanText": ".. —TM~....",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 57.29,
+      "bbox": [
+        80.06,
+        423.07,
+        355.39,
+        432.86
+      ]
+    },
+    {
+      "id": "class8-english-p101-l017",
+      "lineNumber": 17,
+      "text": "ways of getting information e.g. Radio, TV, newspaper, etc.",
+      "cleanText": "ways of getting information e.g. Radio, TV, newspaper, etc.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        153.5,
+        429.98,
+        473.76,
+        442.08
+      ]
+    },
+    {
+      "id": "class8-english-p101-l018",
+      "lineNumber": 18,
+      "text": "stay away/leave school/work without permission",
+      "cleanText": "stay away/leave school/work without permission",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.4,
+      "bbox": [
+        154.08,
+        456.48,
+        419.9,
+        470.88
+      ]
+    },
+    {
+      "id": "class8-english-p101-l019",
+      "lineNumber": 19,
+      "text": "D. What is fake news?",
+      "cleanText": "D. What is fake news?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        58.75,
+        491.9,
+        196.7,
+        501.41
+      ]
+    },
+    {
+      "id": "class8-english-p101-l020",
+      "lineNumber": 20,
+      "text": "\"Fake news\" means news that isn't true or is misleading. This can happen when",
+      "cleanText": "\"Fake news\" means news that isn't true or is misleading. This can happen when",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        59.9,
+        515.52,
+        472.9,
+        527.33
+      ]
+    },
+    {
+      "id": "class8-english-p101-l021",
+      "lineNumber": 21,
+      "text": "stories don’t have real facts or trustworthy sources.",
+      "cleanText": "stories don’t have real facts or trustworthy sources.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.62,
+        531.36,
+        323.71,
+        543.46
+      ]
+    },
+    {
+      "id": "class8-english-p101-l022",
+      "lineNumber": 22,
+      "text": "There are two main types of fake news:",
+      "cleanText": "There are two main types of fake news:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        59.62,
+        547.49,
+        263.52,
+        559.3
+      ]
+    },
+    {
+      "id": "class8-english-p101-l023",
+      "lineNumber": 23,
+      "text": "‘oO",
+      "cleanText": "‘oO",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 22.0,
+      "bbox": [
+        494.5,
+        624.67,
+        502.85,
+        630.14
+      ]
+    }
+  ],
+  "lineCount": 26,
+  "aiReadyLineCount": 23,
+  "averageConfidence": 87.74,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:24.095021+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

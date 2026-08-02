@@ -1,0 +1,597 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 102,
+  "pdfPage": 102,
+  "textbookPage": 102,
+  "width": 522.0,
+  "height": 684.0,
+  "image": "../images/page-102.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "News! News! News! 97\n1. Misinformation: This is when wrong information is shared by mistake,\nwithout meaning to mislead anyone.\n2. Disinformation: This is when wrong information is shared on purpose to\ntrick people. It's important to always check facts to avoid spreading fake news!\nE. Look at the news and the post below and discuss the questions in\npairs:\na Space creature\nNEWS (fet\n_= te\nCLINTON (‘=\na | a Sg\nfal: 10Fo,\n[a le ' =\nWie elie builarag special | te —\n| ALA) rursery in tho White House! jg My i ll\nA news card falsely claims that Hillary Clinton has adopted an alien baby\ndiscovered at a UFO crash site.\nForma-13, English For Today Class-8",
+  "cleanText": "News! News! News! 97 1. Misinformation: This is when wrong information is shared by mistake, without meaning to mislead anyone. 2. Disinformation: This is when wrong information is shared on purpose to trick people. It's important to always check facts to avoid spreading fake news! E. Look at the news and the post below and discuss the questions in pairs: a Space creature NEWS (fet _= te CLINTON (‘= a | a Sg fal: 10Fo, [a le ' = Wie elie builarag special | te — | ALA) rursery in tho White House! jg My i ll A news card falsely claims that Hillary Clinton has adopted an alien baby discovered at a UFO crash site. Forma-13, English For Today Class-8",
+  "aiReadyText": "News! News! News! 97 1. Misinformation: This is when wrong information is shared by mistake, without meaning to mislead anyone. 2. Disinformation: This is when wrong information is shared on purpose to trick people. It's important to always check facts to avoid spreading fake news! E. Look at the news and the post below and discuss the questions in pairs: a Space creature NEWS (fet _= te CLINTON (‘= a | a Sg fal: 10Fo, [a le ' = Wie elie builarag special | te — | ALA) rursery in tho White House! jg My i ll A news card falsely claims that Hillary Clinton has adopted an alien baby discovered at a UFO crash site. Forma-13, English For Today Class-8",
+  "lines": [
+    {
+      "id": "class8-english-p102-l001",
+      "lineNumber": 1,
+      "text": "News! News! News! 97",
+      "cleanText": "News! News! News! 97",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        54.43,
+        35.71,
+        466.85,
+        44.06
+      ]
+    },
+    {
+      "id": "class8-english-p102-l002",
+      "lineNumber": 2,
+      "text": "1. Misinformation: This is when wrong information is shared by mistake,",
+      "cleanText": "1. Misinformation: This is when wrong information is shared by mistake,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.45,
+        67.39,
+        468.86,
+        79.2
+      ]
+    },
+    {
+      "id": "class8-english-p102-l003",
+      "lineNumber": 3,
+      "text": "without meaning to mislead anyone.",
+      "cleanText": "without meaning to mislead anyone.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        55.58,
+        83.23,
+        243.36,
+        95.04
+      ]
+    },
+    {
+      "id": "class8-english-p102-l004",
+      "lineNumber": 4,
+      "text": "2. Disinformation: This is when wrong information is shared on purpose to",
+      "cleanText": "2. Disinformation: This is when wrong information is shared on purpose to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        55.87,
+        107.42,
+        469.15,
+        119.23
+      ]
+    },
+    {
+      "id": "class8-english-p102-l005",
+      "lineNumber": 5,
+      "text": "trick people. It's important to always check facts to avoid spreading fake news!",
+      "cleanText": "trick people. It's important to always check facts to avoid spreading fake news!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        55.58,
+        123.26,
+        464.83,
+        135.07
+      ]
+    },
+    {
+      "id": "class8-english-p102-l006",
+      "lineNumber": 6,
+      "text": "E. Look at the news and the post below and discuss the questions in",
+      "cleanText": "E. Look at the news and the post below and discuss the questions in",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        54.14,
+        160.7,
+        471.17,
+        173.09
+      ]
+    },
+    {
+      "id": "class8-english-p102-l007",
+      "lineNumber": 7,
+      "text": "pairs:",
+      "cleanText": "pairs:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        78.05,
+        177.41,
+        111.17,
+        189.79
+      ]
+    },
+    {
+      "id": "class8-english-p102-l008",
+      "lineNumber": 8,
+      "text": "a Space creature",
+      "cleanText": "a Space creature",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 71.0,
+      "bbox": [
+        82.66,
+        211.39,
+        275.04,
+        228.38
+      ]
+    },
+    {
+      "id": "class8-english-p102-l009",
+      "lineNumber": 9,
+      "text": "NEWS (fet",
+      "cleanText": "NEWS (fet",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 62.0,
+      "bbox": [
+        82.66,
+        220.32,
+        320.26,
+        245.38
+      ]
+    },
+    {
+      "id": "class8-english-p102-l010",
+      "lineNumber": 10,
+      "text": "_= te",
+      "cleanText": "_= te",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 45.5,
+      "bbox": [
+        92.74,
+        247.39,
+        196.99,
+        252.29
+      ]
+    },
+    {
+      "id": "class8-english-p102-l011",
+      "lineNumber": 11,
+      "text": "CLINTON (‘=",
+      "cleanText": "CLINTON (‘=",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 47.5,
+      "bbox": [
+        85.54,
+        296.64,
+        273.02,
+        332.64
+      ]
+    },
+    {
+      "id": "class8-english-p102-l012",
+      "lineNumber": 12,
+      "text": "a | a Sg",
+      "cleanText": "a | a Sg",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 38.0,
+      "bbox": [
+        109.73,
+        301.54,
+        271.01,
+        312.48
+      ]
+    },
+    {
+      "id": "class8-english-p102-l013",
+      "lineNumber": 13,
+      "text": "fal: 10Fo,",
+      "cleanText": "fal: 10Fo,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 5.0,
+      "bbox": [
+        84.67,
+        358.56,
+        305.28,
+        372.67
+      ]
+    },
+    {
+      "id": "class8-english-p102-l014",
+      "lineNumber": 14,
+      "text": "[a le ' =",
+      "cleanText": "[a le ' =",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 31.25,
+      "bbox": [
+        99.65,
+        383.62,
+        285.12,
+        393.7
+      ]
+    },
+    {
+      "id": "class8-english-p102-l015",
+      "lineNumber": 15,
+      "text": "Wie elie builarag special | te —",
+      "cleanText": "Wie elie builarag special | te —",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 31.29,
+      "bbox": [
+        96.77,
+        452.74,
+        301.25,
+        480.96
+      ]
+    },
+    {
+      "id": "class8-english-p102-l016",
+      "lineNumber": 16,
+      "text": "| ALA) rursery in tho White House! jg My i ll",
+      "cleanText": "| ALA) rursery in tho White House! jg My i ll",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 46.64,
+      "bbox": [
+        82.66,
+        457.92,
+        310.18,
+        482.98
+      ]
+    },
+    {
+      "id": "class8-english-p102-l017",
+      "lineNumber": 17,
+      "text": "A news card falsely claims that Hillary Clinton has adopted an alien baby",
+      "cleanText": "A news card falsely claims that Hillary Clinton has adopted an alien baby",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.77,
+      "bbox": [
+        56.16,
+        512.35,
+        470.02,
+        524.16
+      ]
+    },
+    {
+      "id": "class8-english-p102-l018",
+      "lineNumber": 18,
+      "text": "discovered at a UFO crash site.",
+      "cleanText": "discovered at a UFO crash site.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.45,
+        528.19,
+        217.73,
+        537.7
+      ]
+    },
+    {
+      "id": "class8-english-p102-l019",
+      "lineNumber": 19,
+      "text": "Forma-13, English For Today Class-8",
+      "cleanText": "Forma-13, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.4,
+      "bbox": [
+        53.28,
+        659.81,
+        218.59,
+        669.89
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p102-l001",
+      "lineNumber": 1,
+      "text": "News! News! News! 97",
+      "cleanText": "News! News! News! 97",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        54.43,
+        35.71,
+        466.85,
+        44.06
+      ]
+    },
+    {
+      "id": "class8-english-p102-l002",
+      "lineNumber": 2,
+      "text": "1. Misinformation: This is when wrong information is shared by mistake,",
+      "cleanText": "1. Misinformation: This is when wrong information is shared by mistake,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.45,
+        67.39,
+        468.86,
+        79.2
+      ]
+    },
+    {
+      "id": "class8-english-p102-l003",
+      "lineNumber": 3,
+      "text": "without meaning to mislead anyone.",
+      "cleanText": "without meaning to mislead anyone.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        55.58,
+        83.23,
+        243.36,
+        95.04
+      ]
+    },
+    {
+      "id": "class8-english-p102-l004",
+      "lineNumber": 4,
+      "text": "2. Disinformation: This is when wrong information is shared on purpose to",
+      "cleanText": "2. Disinformation: This is when wrong information is shared on purpose to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        55.87,
+        107.42,
+        469.15,
+        119.23
+      ]
+    },
+    {
+      "id": "class8-english-p102-l005",
+      "lineNumber": 5,
+      "text": "trick people. It's important to always check facts to avoid spreading fake news!",
+      "cleanText": "trick people. It's important to always check facts to avoid spreading fake news!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        55.58,
+        123.26,
+        464.83,
+        135.07
+      ]
+    },
+    {
+      "id": "class8-english-p102-l006",
+      "lineNumber": 6,
+      "text": "E. Look at the news and the post below and discuss the questions in",
+      "cleanText": "E. Look at the news and the post below and discuss the questions in",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        54.14,
+        160.7,
+        471.17,
+        173.09
+      ]
+    },
+    {
+      "id": "class8-english-p102-l007",
+      "lineNumber": 7,
+      "text": "pairs:",
+      "cleanText": "pairs:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        78.05,
+        177.41,
+        111.17,
+        189.79
+      ]
+    },
+    {
+      "id": "class8-english-p102-l008",
+      "lineNumber": 8,
+      "text": "a Space creature",
+      "cleanText": "a Space creature",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 71.0,
+      "bbox": [
+        82.66,
+        211.39,
+        275.04,
+        228.38
+      ]
+    },
+    {
+      "id": "class8-english-p102-l009",
+      "lineNumber": 9,
+      "text": "NEWS (fet",
+      "cleanText": "NEWS (fet",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 62.0,
+      "bbox": [
+        82.66,
+        220.32,
+        320.26,
+        245.38
+      ]
+    },
+    {
+      "id": "class8-english-p102-l010",
+      "lineNumber": 10,
+      "text": "_= te",
+      "cleanText": "_= te",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 45.5,
+      "bbox": [
+        92.74,
+        247.39,
+        196.99,
+        252.29
+      ]
+    },
+    {
+      "id": "class8-english-p102-l011",
+      "lineNumber": 11,
+      "text": "CLINTON (‘=",
+      "cleanText": "CLINTON (‘=",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 47.5,
+      "bbox": [
+        85.54,
+        296.64,
+        273.02,
+        332.64
+      ]
+    },
+    {
+      "id": "class8-english-p102-l012",
+      "lineNumber": 12,
+      "text": "a | a Sg",
+      "cleanText": "a | a Sg",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 38.0,
+      "bbox": [
+        109.73,
+        301.54,
+        271.01,
+        312.48
+      ]
+    },
+    {
+      "id": "class8-english-p102-l013",
+      "lineNumber": 13,
+      "text": "fal: 10Fo,",
+      "cleanText": "fal: 10Fo,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 5.0,
+      "bbox": [
+        84.67,
+        358.56,
+        305.28,
+        372.67
+      ]
+    },
+    {
+      "id": "class8-english-p102-l014",
+      "lineNumber": 14,
+      "text": "[a le ' =",
+      "cleanText": "[a le ' =",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 31.25,
+      "bbox": [
+        99.65,
+        383.62,
+        285.12,
+        393.7
+      ]
+    },
+    {
+      "id": "class8-english-p102-l015",
+      "lineNumber": 15,
+      "text": "Wie elie builarag special | te —",
+      "cleanText": "Wie elie builarag special | te —",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 31.29,
+      "bbox": [
+        96.77,
+        452.74,
+        301.25,
+        480.96
+      ]
+    },
+    {
+      "id": "class8-english-p102-l016",
+      "lineNumber": 16,
+      "text": "| ALA) rursery in tho White House! jg My i ll",
+      "cleanText": "| ALA) rursery in tho White House! jg My i ll",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 46.64,
+      "bbox": [
+        82.66,
+        457.92,
+        310.18,
+        482.98
+      ]
+    },
+    {
+      "id": "class8-english-p102-l017",
+      "lineNumber": 17,
+      "text": "A news card falsely claims that Hillary Clinton has adopted an alien baby",
+      "cleanText": "A news card falsely claims that Hillary Clinton has adopted an alien baby",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.77,
+      "bbox": [
+        56.16,
+        512.35,
+        470.02,
+        524.16
+      ]
+    },
+    {
+      "id": "class8-english-p102-l018",
+      "lineNumber": 18,
+      "text": "discovered at a UFO crash site.",
+      "cleanText": "discovered at a UFO crash site.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.45,
+        528.19,
+        217.73,
+        537.7
+      ]
+    },
+    {
+      "id": "class8-english-p102-l019",
+      "lineNumber": 19,
+      "text": "Forma-13, English For Today Class-8",
+      "cleanText": "Forma-13, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.4,
+      "bbox": [
+        53.28,
+        659.81,
+        218.59,
+        669.89
+      ]
+    }
+  ],
+  "lineCount": 19,
+  "aiReadyLineCount": 19,
+  "averageConfidence": 70.24,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:25.158511+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

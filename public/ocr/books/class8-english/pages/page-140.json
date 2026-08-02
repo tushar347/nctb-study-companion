@@ -1,0 +1,837 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 140,
+  "pdfPage": 140,
+  "textbookPage": 140,
+  "width": 542.0,
+  "height": 714.0,
+  "image": "../images/page-140.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Fables 135\nLesson 2: The Truthful Dove (2)\nKeywords: wondering, insincere, speech, praise, host grateful\nA. Look at the picture and talk about it:\nSy i ay Ne Ht\nae) hd “il [\no 4e t = ——— wip e\nee bes a eo \"ft\nal ie Ps i\"\nine\nB. Read more about the three birds and write answers to the following\nquestions:\nAll this time the dove was listening to her friend's false praises. She was\nwondering how insincere his praises were. The dove hung her head down and\nwas quiet. The owl got impatient. He wanted to hear more praises. He looked\nat the dove and asked, \"Don't you have any good thing to say about me?\" The\nbat joined the owl, \" Yes, don't you have any words of praise for our kind host?\"\nThe dove was ashamed of her friend bat and kept her eyes down. The owl urged\nthe dove, \"Come on, say something!\"\nThe dove lifted her head slowly and said, \"Master owl, thank you very much\nfor the shelter you have given me, thank you for the food you have offered me.\nI will remain ever grateful for this\".\nQuestions:\n1. What does the word ‘insincere’ mean in the story?\n2. Why did the dove think that the bat is insincere?\nQ 3. What made the owl impatient?\n‘ 4. Why was the dove ashamed of her friend?",
+  "cleanText": "Fables 135 Lesson 2: The Truthful Dove (2) Keywords: wondering, insincere, speech, praise, host grateful A. Look at the picture and talk about it: Sy i ay Ne Ht ae) hd “il [ o 4e t = ——— wip e ee bes a eo \"ft al ie Ps i\" ine B. Read more about the three birds and write answers to the following questions: All this time the dove was listening to her friend's false praises. She was wondering how insincere his praises were. The dove hung her head down and was quiet. The owl got impatient. He wanted to hear more praises. He looked at the dove and asked, \"Don't you have any good thing to say about me?\" The bat joined the owl, \" Yes, don't you have any words of praise for our kind host?\" The dove was ashamed of her friend bat and kept her eyes down. The owl urged the dove, \"Come on, say something!\" The dove lifted her head slowly and said, \"Master owl, thank you very much for the shelter you have given me, thank you for the food you have offered me. I will remain ever grateful for this\". Questions: 1. What does the word ‘insincere’ mean in the story? 2. Why did the dove think that the bat is insincere? Q 3. What made the owl impatient? ‘ 4. Why was the dove ashamed of her friend?",
+  "aiReadyText": "Fables 135 Lesson 2: The Truthful Dove (2) Keywords: wondering, insincere, speech, praise, host grateful A. Look at the picture and talk about it: Sy i ay Ne Ht ae) hd “il [ o 4e t = ——— wip e ee bes a eo \"ft al ie Ps i\" ine B. Read more about the three birds and write answers to the following questions: All this time the dove was listening to her friend's false praises. She was wondering how insincere his praises were. The dove hung her head down and was quiet. The owl got impatient. He wanted to hear more praises. He looked at the dove and asked, \"Don't you have any good thing to say about me?\" The bat joined the owl, \" Yes, don't you have any words of praise for our kind host?\" The dove was ashamed of her friend bat and kept her eyes down. The owl urged the dove, \"Come on, say something!\" The dove lifted her head slowly and said, \"Master owl, thank you very much for the shelter you have given me, thank you for the food you have offered me. I will remain ever grateful for this\". Questions: 1. What does the word ‘insincere’ mean in the story? 2. Why did the dove think that the bat is insincere? Q 3. What made the owl impatient? ‘ 4. Why was the dove ashamed of her friend?",
+  "lines": [
+    {
+      "id": "class8-english-p140-l001",
+      "lineNumber": 1,
+      "text": "Fables 135",
+      "cleanText": "Fables 135",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        68.83,
+        50.11,
+        480.67,
+        63.65
+      ]
+    },
+    {
+      "id": "class8-english-p140-l002",
+      "lineNumber": 2,
+      "text": "Lesson 2: The Truthful Dove (2)",
+      "cleanText": "Lesson 2: The Truthful Dove (2)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        70.27,
+        79.78,
+        345.6,
+        97.34
+      ]
+    },
+    {
+      "id": "class8-english-p140-l003",
+      "lineNumber": 3,
+      "text": "Keywords: wondering, insincere, speech, praise, host grateful",
+      "cleanText": "Keywords: wondering, insincere, speech, praise, host grateful",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        69.41,
+        105.12,
+        419.62,
+        117.5
+      ]
+    },
+    {
+      "id": "class8-english-p140-l004",
+      "lineNumber": 4,
+      "text": "A. Look at the picture and talk about it:",
+      "cleanText": "A. Look at the picture and talk about it:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.89,
+      "bbox": [
+        73.15,
+        126.43,
+        321.12,
+        139.68
+      ]
+    },
+    {
+      "id": "class8-english-p140-l005",
+      "lineNumber": 5,
+      "text": "Sy i ay Ne Ht",
+      "cleanText": "Sy i ay Ne Ht",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 27.8,
+      "bbox": [
+        152.64,
+        189.5,
+        304.13,
+        209.38
+      ]
+    },
+    {
+      "id": "class8-english-p140-l006",
+      "lineNumber": 6,
+      "text": "ae) hd “il [",
+      "cleanText": "ae) hd “il [",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 38.25,
+      "bbox": [
+        175.68,
+        201.31,
+        398.3,
+        238.75
+      ]
+    },
+    {
+      "id": "class8-english-p140-l007",
+      "lineNumber": 7,
+      "text": "o 4e t = ——— wip e",
+      "cleanText": "o 4e t = ——— wip e",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 17.0,
+      "bbox": [
+        162.72,
+        214.27,
+        304.99,
+        230.4
+      ]
+    },
+    {
+      "id": "class8-english-p140-l008",
+      "lineNumber": 8,
+      "text": "ee bes a eo \"ft",
+      "cleanText": "ee bes a eo \"ft",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 32.0,
+      "bbox": [
+        148.9,
+        223.2,
+        393.12,
+        246.53
+      ]
+    },
+    {
+      "id": "class8-english-p140-l009",
+      "lineNumber": 9,
+      "text": "al ie Ps i\"",
+      "cleanText": "al ie Ps i\"",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 25.0,
+      "bbox": [
+        151.78,
+        268.42,
+        334.08,
+        281.09
+      ]
+    },
+    {
+      "id": "class8-english-p140-l010",
+      "lineNumber": 10,
+      "text": "ine",
+      "cleanText": "ine",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 40.0,
+      "bbox": [
+        224.93,
+        305.57,
+        246.82,
+        317.66
+      ]
+    },
+    {
+      "id": "class8-english-p140-l011",
+      "lineNumber": 11,
+      "text": "B. Read more about the three birds and write answers to the following",
+      "cleanText": "B. Read more about the three birds and write answers to the following",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.54,
+      "bbox": [
+        73.73,
+        332.35,
+        487.87,
+        344.74
+      ]
+    },
+    {
+      "id": "class8-english-p140-l012",
+      "lineNumber": 12,
+      "text": "questions:",
+      "cleanText": "questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        91.87,
+        350.78,
+        146.02,
+        362.59
+      ]
+    },
+    {
+      "id": "class8-english-p140-l013",
+      "lineNumber": 13,
+      "text": "All this time the dove was listening to her friend's false praises. She was",
+      "cleanText": "All this time the dove was listening to her friend's false praises. She was",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        74.02,
+        378.72,
+        487.58,
+        390.82
+      ]
+    },
+    {
+      "id": "class8-english-p140-l014",
+      "lineNumber": 14,
+      "text": "wondering how insincere his praises were. The dove hung her head down and",
+      "cleanText": "wondering how insincere his praises were. The dove hung her head down and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.77,
+      "bbox": [
+        73.73,
+        396.58,
+        488.74,
+        409.25
+      ]
+    },
+    {
+      "id": "class8-english-p140-l015",
+      "lineNumber": 15,
+      "text": "was quiet. The owl got impatient. He wanted to hear more praises. He looked",
+      "cleanText": "was quiet. The owl got impatient. He wanted to hear more praises. He looked",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        73.15,
+        414.43,
+        487.87,
+        426.82
+      ]
+    },
+    {
+      "id": "class8-english-p140-l016",
+      "lineNumber": 16,
+      "text": "at the dove and asked, \"Don't you have any good thing to say about me?\" The",
+      "cleanText": "at the dove and asked, \"Don't you have any good thing to say about me?\" The",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        73.73,
+        431.71,
+        486.14,
+        444.67
+      ]
+    },
+    {
+      "id": "class8-english-p140-l017",
+      "lineNumber": 17,
+      "text": "bat joined the owl, \" Yes, don't you have any words of praise for our kind host?\"",
+      "cleanText": "bat joined the owl, \" Yes, don't you have any words of praise for our kind host?\"",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.53,
+      "bbox": [
+        74.3,
+        450.72,
+        488.74,
+        464.26
+      ]
+    },
+    {
+      "id": "class8-english-p140-l018",
+      "lineNumber": 18,
+      "text": "The dove was ashamed of her friend bat and kept her eyes down. The owl urged",
+      "cleanText": "The dove was ashamed of her friend bat and kept her eyes down. The owl urged",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        74.3,
+        468.58,
+        489.02,
+        480.67
+      ]
+    },
+    {
+      "id": "class8-english-p140-l019",
+      "lineNumber": 19,
+      "text": "the dove, \"Come on, say something!\"",
+      "cleanText": "the dove, \"Come on, say something!\"",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        72.58,
+        484.42,
+        265.54,
+        496.51
+      ]
+    },
+    {
+      "id": "class8-english-p140-l020",
+      "lineNumber": 20,
+      "text": "The dove lifted her head slowly and said, \"Master owl, thank you very much",
+      "cleanText": "The dove lifted her head slowly and said, \"Master owl, thank you very much",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        74.02,
+        511.49,
+        486.14,
+        523.87
+      ]
+    },
+    {
+      "id": "class8-english-p140-l021",
+      "lineNumber": 21,
+      "text": "for the shelter you have given me, thank you for the food you have offered me.",
+      "cleanText": "for the shelter you have given me, thank you for the food you have offered me.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        73.44,
+        529.63,
+        488.16,
+        541.73
+      ]
+    },
+    {
+      "id": "class8-english-p140-l022",
+      "lineNumber": 22,
+      "text": "I will remain ever grateful for this\".",
+      "cleanText": "I will remain ever grateful for this\".",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.71,
+      "bbox": [
+        73.15,
+        546.34,
+        259.78,
+        559.87
+      ]
+    },
+    {
+      "id": "class8-english-p140-l023",
+      "lineNumber": 23,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        74.3,
+        575.71,
+        132.48,
+        586.94
+      ]
+    },
+    {
+      "id": "class8-english-p140-l024",
+      "lineNumber": 24,
+      "text": "1. What does the word ‘insincere’ mean in the story?",
+      "cleanText": "1. What does the word ‘insincere’ mean in the story?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.8,
+      "bbox": [
+        96.19,
+        600.77,
+        378.14,
+        612.86
+      ]
+    },
+    {
+      "id": "class8-english-p140-l025",
+      "lineNumber": 25,
+      "text": "2. Why did the dove think that the bat is insincere?",
+      "cleanText": "2. Why did the dove think that the bat is insincere?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        95.33,
+        622.66,
+        367.78,
+        634.75
+      ]
+    },
+    {
+      "id": "class8-english-p140-l026",
+      "lineNumber": 26,
+      "text": "Q 3. What made the owl impatient?",
+      "cleanText": "Q 3. What made the owl impatient?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 82.0,
+      "bbox": [
+        35.71,
+        637.63,
+        275.62,
+        655.2
+      ]
+    },
+    {
+      "id": "class8-english-p140-l027",
+      "lineNumber": 27,
+      "text": "‘ 4. Why was the dove ashamed of her friend?",
+      "cleanText": "‘ 4. Why was the dove ashamed of her friend?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.1,
+      "bbox": [
+        35.71,
+        656.35,
+        335.23,
+        671.9
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p140-l001",
+      "lineNumber": 1,
+      "text": "Fables 135",
+      "cleanText": "Fables 135",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        68.83,
+        50.11,
+        480.67,
+        63.65
+      ]
+    },
+    {
+      "id": "class8-english-p140-l002",
+      "lineNumber": 2,
+      "text": "Lesson 2: The Truthful Dove (2)",
+      "cleanText": "Lesson 2: The Truthful Dove (2)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        70.27,
+        79.78,
+        345.6,
+        97.34
+      ]
+    },
+    {
+      "id": "class8-english-p140-l003",
+      "lineNumber": 3,
+      "text": "Keywords: wondering, insincere, speech, praise, host grateful",
+      "cleanText": "Keywords: wondering, insincere, speech, praise, host grateful",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        69.41,
+        105.12,
+        419.62,
+        117.5
+      ]
+    },
+    {
+      "id": "class8-english-p140-l004",
+      "lineNumber": 4,
+      "text": "A. Look at the picture and talk about it:",
+      "cleanText": "A. Look at the picture and talk about it:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.89,
+      "bbox": [
+        73.15,
+        126.43,
+        321.12,
+        139.68
+      ]
+    },
+    {
+      "id": "class8-english-p140-l005",
+      "lineNumber": 5,
+      "text": "Sy i ay Ne Ht",
+      "cleanText": "Sy i ay Ne Ht",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 27.8,
+      "bbox": [
+        152.64,
+        189.5,
+        304.13,
+        209.38
+      ]
+    },
+    {
+      "id": "class8-english-p140-l006",
+      "lineNumber": 6,
+      "text": "ae) hd “il [",
+      "cleanText": "ae) hd “il [",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 38.25,
+      "bbox": [
+        175.68,
+        201.31,
+        398.3,
+        238.75
+      ]
+    },
+    {
+      "id": "class8-english-p140-l007",
+      "lineNumber": 7,
+      "text": "o 4e t = ——— wip e",
+      "cleanText": "o 4e t = ——— wip e",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 17.0,
+      "bbox": [
+        162.72,
+        214.27,
+        304.99,
+        230.4
+      ]
+    },
+    {
+      "id": "class8-english-p140-l008",
+      "lineNumber": 8,
+      "text": "ee bes a eo \"ft",
+      "cleanText": "ee bes a eo \"ft",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 32.0,
+      "bbox": [
+        148.9,
+        223.2,
+        393.12,
+        246.53
+      ]
+    },
+    {
+      "id": "class8-english-p140-l009",
+      "lineNumber": 9,
+      "text": "al ie Ps i\"",
+      "cleanText": "al ie Ps i\"",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 25.0,
+      "bbox": [
+        151.78,
+        268.42,
+        334.08,
+        281.09
+      ]
+    },
+    {
+      "id": "class8-english-p140-l010",
+      "lineNumber": 10,
+      "text": "ine",
+      "cleanText": "ine",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 40.0,
+      "bbox": [
+        224.93,
+        305.57,
+        246.82,
+        317.66
+      ]
+    },
+    {
+      "id": "class8-english-p140-l011",
+      "lineNumber": 11,
+      "text": "B. Read more about the three birds and write answers to the following",
+      "cleanText": "B. Read more about the three birds and write answers to the following",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.54,
+      "bbox": [
+        73.73,
+        332.35,
+        487.87,
+        344.74
+      ]
+    },
+    {
+      "id": "class8-english-p140-l012",
+      "lineNumber": 12,
+      "text": "questions:",
+      "cleanText": "questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        91.87,
+        350.78,
+        146.02,
+        362.59
+      ]
+    },
+    {
+      "id": "class8-english-p140-l013",
+      "lineNumber": 13,
+      "text": "All this time the dove was listening to her friend's false praises. She was",
+      "cleanText": "All this time the dove was listening to her friend's false praises. She was",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        74.02,
+        378.72,
+        487.58,
+        390.82
+      ]
+    },
+    {
+      "id": "class8-english-p140-l014",
+      "lineNumber": 14,
+      "text": "wondering how insincere his praises were. The dove hung her head down and",
+      "cleanText": "wondering how insincere his praises were. The dove hung her head down and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.77,
+      "bbox": [
+        73.73,
+        396.58,
+        488.74,
+        409.25
+      ]
+    },
+    {
+      "id": "class8-english-p140-l015",
+      "lineNumber": 15,
+      "text": "was quiet. The owl got impatient. He wanted to hear more praises. He looked",
+      "cleanText": "was quiet. The owl got impatient. He wanted to hear more praises. He looked",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        73.15,
+        414.43,
+        487.87,
+        426.82
+      ]
+    },
+    {
+      "id": "class8-english-p140-l016",
+      "lineNumber": 16,
+      "text": "at the dove and asked, \"Don't you have any good thing to say about me?\" The",
+      "cleanText": "at the dove and asked, \"Don't you have any good thing to say about me?\" The",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        73.73,
+        431.71,
+        486.14,
+        444.67
+      ]
+    },
+    {
+      "id": "class8-english-p140-l017",
+      "lineNumber": 17,
+      "text": "bat joined the owl, \" Yes, don't you have any words of praise for our kind host?\"",
+      "cleanText": "bat joined the owl, \" Yes, don't you have any words of praise for our kind host?\"",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.53,
+      "bbox": [
+        74.3,
+        450.72,
+        488.74,
+        464.26
+      ]
+    },
+    {
+      "id": "class8-english-p140-l018",
+      "lineNumber": 18,
+      "text": "The dove was ashamed of her friend bat and kept her eyes down. The owl urged",
+      "cleanText": "The dove was ashamed of her friend bat and kept her eyes down. The owl urged",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        74.3,
+        468.58,
+        489.02,
+        480.67
+      ]
+    },
+    {
+      "id": "class8-english-p140-l019",
+      "lineNumber": 19,
+      "text": "the dove, \"Come on, say something!\"",
+      "cleanText": "the dove, \"Come on, say something!\"",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        72.58,
+        484.42,
+        265.54,
+        496.51
+      ]
+    },
+    {
+      "id": "class8-english-p140-l020",
+      "lineNumber": 20,
+      "text": "The dove lifted her head slowly and said, \"Master owl, thank you very much",
+      "cleanText": "The dove lifted her head slowly and said, \"Master owl, thank you very much",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        74.02,
+        511.49,
+        486.14,
+        523.87
+      ]
+    },
+    {
+      "id": "class8-english-p140-l021",
+      "lineNumber": 21,
+      "text": "for the shelter you have given me, thank you for the food you have offered me.",
+      "cleanText": "for the shelter you have given me, thank you for the food you have offered me.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        73.44,
+        529.63,
+        488.16,
+        541.73
+      ]
+    },
+    {
+      "id": "class8-english-p140-l022",
+      "lineNumber": 22,
+      "text": "I will remain ever grateful for this\".",
+      "cleanText": "I will remain ever grateful for this\".",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.71,
+      "bbox": [
+        73.15,
+        546.34,
+        259.78,
+        559.87
+      ]
+    },
+    {
+      "id": "class8-english-p140-l023",
+      "lineNumber": 23,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        74.3,
+        575.71,
+        132.48,
+        586.94
+      ]
+    },
+    {
+      "id": "class8-english-p140-l024",
+      "lineNumber": 24,
+      "text": "1. What does the word ‘insincere’ mean in the story?",
+      "cleanText": "1. What does the word ‘insincere’ mean in the story?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.8,
+      "bbox": [
+        96.19,
+        600.77,
+        378.14,
+        612.86
+      ]
+    },
+    {
+      "id": "class8-english-p140-l025",
+      "lineNumber": 25,
+      "text": "2. Why did the dove think that the bat is insincere?",
+      "cleanText": "2. Why did the dove think that the bat is insincere?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        95.33,
+        622.66,
+        367.78,
+        634.75
+      ]
+    },
+    {
+      "id": "class8-english-p140-l026",
+      "lineNumber": 26,
+      "text": "Q 3. What made the owl impatient?",
+      "cleanText": "Q 3. What made the owl impatient?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 82.0,
+      "bbox": [
+        35.71,
+        637.63,
+        275.62,
+        655.2
+      ]
+    },
+    {
+      "id": "class8-english-p140-l027",
+      "lineNumber": 27,
+      "text": "‘ 4. Why was the dove ashamed of her friend?",
+      "cleanText": "‘ 4. Why was the dove ashamed of her friend?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.1,
+      "bbox": [
+        35.71,
+        656.35,
+        335.23,
+        671.9
+      ]
+    }
+  ],
+  "lineCount": 27,
+  "aiReadyLineCount": 27,
+  "averageConfidence": 80.05,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:19:19.036755+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

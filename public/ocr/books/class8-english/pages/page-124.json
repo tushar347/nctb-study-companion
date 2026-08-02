@@ -1,0 +1,657 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 124,
+  "pdfPage": 124,
+  "textbookPage": 124,
+  "width": 518.74,
+  "height": 687.06,
+  "image": "../images/page-124.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Things That Have Changed Our Lives 119\nLesson 3: The Fastest Wheel on Earth\nKeywords: high-speed, record-breaking, network expand, conventional,\nunconventional, magnetic trainset\nA. Look at the picture of the fastest train on earth and talk about it with\nyour partner:\nee ee\nB. Read the text and answer the following questions:\nThe TGV (Train a Grande Vitesse, meaning high-speed train) is France's high\n-speed rail service.\nIt started in the 1970s. Originally, it was powered by gas turbines. But in 1973, the\nTGV was changed into electric trains. The TGV service first started between Paris\nand Lyon in 1981. Later, the network connected other cities in France with Paris.\nA TGV test train set the world record for the fastest conventional wheeled train\non 3 April 2007. It reached the speed of 574.8 km/h (357.2 m/h) on the test\nrun. But the regular TGV trains operate at the highest speed of 320 km/h\n(200 m/h). It is the present world record of speed of a conventional commercial\ntrain.\nThe Bullet Train is the network of high-speed train service in Japan. It\nRS started operation in 1964 on a limited route. But at present, most major cities\n~ of Japan come under the network.",
+  "cleanText": "Things That Have Changed Our Lives 119 Lesson 3: The Fastest Wheel on Earth Keywords: high-speed, record-breaking, network expand, conventional, unconventional, magnetic trainset A. Look at the picture of the fastest train on earth and talk about it with your partner: ee ee B. Read the text and answer the following questions: The TGV (Train a Grande Vitesse, meaning high-speed train) is France's high -speed rail service. It started in the 1970s. Originally, it was powered by gas turbines. But in 1973, the TGV was changed into electric trains. The TGV service first started between Paris and Lyon in 1981. Later, the network connected other cities in France with Paris. A TGV test train set the world record for the fastest conventional wheeled train on 3 April 2007. It reached the speed of 574.8 km/h (357.2 m/h) on the test run. But the regular TGV trains operate at the highest speed of 320 km/h (200 m/h). It is the present world record of speed of a conventional commercial train. The Bullet Train is the network of high-speed train service in Japan. It RS started operation in 1964 on a limited route. But at present, most major cities ~ of Japan come under the network.",
+  "aiReadyText": "Things That Have Changed Our Lives 119 Lesson 3: The Fastest Wheel on Earth Keywords: high-speed, record-breaking, network expand, conventional, unconventional, magnetic trainset A. Look at the picture of the fastest train on earth and talk about it with your partner: ee ee B. Read the text and answer the following questions: The TGV (Train a Grande Vitesse, meaning high-speed train) is France's high -speed rail service. It started in the 1970s. Originally, it was powered by gas turbines. But in 1973, the TGV was changed into electric trains. The TGV service first started between Paris and Lyon in 1981. Later, the network connected other cities in France with Paris. A TGV test train set the world record for the fastest conventional wheeled train on 3 April 2007. It reached the speed of 574.8 km/h (357.2 m/h) on the test run. But the regular TGV trains operate at the highest speed of 320 km/h (200 m/h). It is the present world record of speed of a conventional commercial train. The Bullet Train is the network of high-speed train service in Japan. It RS started operation in 1964 on a limited route. But at present, most major cities ~ of Japan come under the network.",
+  "lines": [
+    {
+      "id": "class8-english-p124-l001",
+      "lineNumber": 1,
+      "text": "Things That Have Changed Our Lives 119",
+      "cleanText": "Things That Have Changed Our Lives 119",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        57.02,
+        39.17,
+        469.15,
+        50.4
+      ]
+    },
+    {
+      "id": "class8-english-p124-l002",
+      "lineNumber": 2,
+      "text": "Lesson 3: The Fastest Wheel on Earth",
+      "cleanText": "Lesson 3: The Fastest Wheel on Earth",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        57.89,
+        69.12,
+        381.6,
+        82.94
+      ]
+    },
+    {
+      "id": "class8-english-p124-l003",
+      "lineNumber": 3,
+      "text": "Keywords: high-speed, record-breaking, network expand, conventional,",
+      "cleanText": "Keywords: high-speed, record-breaking, network expand, conventional,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        58.18,
+        97.34,
+        447.26,
+        109.44
+      ]
+    },
+    {
+      "id": "class8-english-p124-l004",
+      "lineNumber": 4,
+      "text": "unconventional, magnetic trainset",
+      "cleanText": "unconventional, magnetic trainset",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.33,
+      "bbox": [
+        128.45,
+        114.34,
+        307.58,
+        126.43
+      ]
+    },
+    {
+      "id": "class8-english-p124-l005",
+      "lineNumber": 5,
+      "text": "A. Look at the picture of the fastest train on earth and talk about it with",
+      "cleanText": "A. Look at the picture of the fastest train on earth and talk about it with",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        57.02,
+        136.22,
+        470.59,
+        148.03
+      ]
+    },
+    {
+      "id": "class8-english-p124-l006",
+      "lineNumber": 6,
+      "text": "your partner:",
+      "cleanText": "your partner:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        77.18,
+        155.23,
+        153.22,
+        165.89
+      ]
+    },
+    {
+      "id": "class8-english-p124-l007",
+      "lineNumber": 7,
+      "text": "ee ee",
+      "cleanText": "ee ee",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 22.5,
+      "bbox": [
+        115.78,
+        345.6,
+        271.01,
+        362.88
+      ]
+    },
+    {
+      "id": "class8-english-p124-l008",
+      "lineNumber": 8,
+      "text": "B. Read the text and answer the following questions:",
+      "cleanText": "B. Read the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.44,
+      "bbox": [
+        59.33,
+        375.55,
+        352.22,
+        387.36
+      ]
+    },
+    {
+      "id": "class8-english-p124-l009",
+      "lineNumber": 9,
+      "text": "The TGV (Train a Grande Vitesse, meaning high-speed train) is France's high",
+      "cleanText": "The TGV (Train a Grande Vitesse, meaning high-speed train) is France's high",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.08,
+      "bbox": [
+        59.62,
+        408.38,
+        472.9,
+        420.19
+      ]
+    },
+    {
+      "id": "class8-english-p124-l010",
+      "lineNumber": 10,
+      "text": "-speed rail service.",
+      "cleanText": "-speed rail service.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        59.62,
+        424.51,
+        157.54,
+        436.9
+      ]
+    },
+    {
+      "id": "class8-english-p124-l011",
+      "lineNumber": 11,
+      "text": "It started in the 1970s. Originally, it was powered by gas turbines. But in 1973, the",
+      "cleanText": "It started in the 1970s. Originally, it was powered by gas turbines. But in 1973, the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.33,
+        446.98,
+        472.61,
+        458.78
+      ]
+    },
+    {
+      "id": "class8-english-p124-l012",
+      "lineNumber": 12,
+      "text": "TGV was changed into electric trains. The TGV service first started between Paris",
+      "cleanText": "TGV was changed into electric trains. The TGV service first started between Paris",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        59.33,
+        463.97,
+        473.76,
+        475.78
+      ]
+    },
+    {
+      "id": "class8-english-p124-l013",
+      "lineNumber": 13,
+      "text": "and Lyon in 1981. Later, the network connected other cities in France with Paris.",
+      "cleanText": "and Lyon in 1981. Later, the network connected other cities in France with Paris.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        59.62,
+        480.96,
+        466.85,
+        492.77
+      ]
+    },
+    {
+      "id": "class8-english-p124-l014",
+      "lineNumber": 14,
+      "text": "A TGV test train set the world record for the fastest conventional wheeled train",
+      "cleanText": "A TGV test train set the world record for the fastest conventional wheeled train",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        59.04,
+        505.73,
+        473.18,
+        514.94
+      ]
+    },
+    {
+      "id": "class8-english-p124-l015",
+      "lineNumber": 15,
+      "text": "on 3 April 2007. It reached the speed of 574.8 km/h (357.2 m/h) on the test",
+      "cleanText": "on 3 April 2007. It reached the speed of 574.8 km/h (357.2 m/h) on the test",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.06,
+      "bbox": [
+        60.19,
+        522.72,
+        472.9,
+        534.53
+      ]
+    },
+    {
+      "id": "class8-english-p124-l016",
+      "lineNumber": 16,
+      "text": "run. But the regular TGV trains operate at the highest speed of 320 km/h",
+      "cleanText": "run. But the regular TGV trains operate at the highest speed of 320 km/h",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.36,
+      "bbox": [
+        60.19,
+        539.71,
+        472.32,
+        551.52
+      ]
+    },
+    {
+      "id": "class8-english-p124-l017",
+      "lineNumber": 17,
+      "text": "(200 m/h). It is the present world record of speed of a conventional commercial",
+      "cleanText": "(200 m/h). It is the present world record of speed of a conventional commercial",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.93,
+      "bbox": [
+        59.33,
+        556.7,
+        475.2,
+        568.8
+      ]
+    },
+    {
+      "id": "class8-english-p124-l018",
+      "lineNumber": 18,
+      "text": "train.",
+      "cleanText": "train.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        59.9,
+        572.54,
+        85.82,
+        581.76
+      ]
+    },
+    {
+      "id": "class8-english-p124-l019",
+      "lineNumber": 19,
+      "text": "The Bullet Train is the network of high-speed train service in Japan. It",
+      "cleanText": "The Bullet Train is the network of high-speed train service in Japan. It",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.46,
+      "bbox": [
+        59.62,
+        606.53,
+        474.05,
+        618.62
+      ]
+    },
+    {
+      "id": "class8-english-p124-l020",
+      "lineNumber": 20,
+      "text": "RS started operation in 1964 on a limited route. But at present, most major cities",
+      "cleanText": "RS started operation in 1964 on a limited route. But at present, most major cities",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.53,
+      "bbox": [
+        23.33,
+        622.37,
+        473.18,
+        639.94
+      ]
+    },
+    {
+      "id": "class8-english-p124-l021",
+      "lineNumber": 21,
+      "text": "~ of Japan come under the network.",
+      "cleanText": "~ of Japan come under the network.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.86,
+      "bbox": [
+        24.48,
+        638.78,
+        238.18,
+        652.32
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p124-l001",
+      "lineNumber": 1,
+      "text": "Things That Have Changed Our Lives 119",
+      "cleanText": "Things That Have Changed Our Lives 119",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        57.02,
+        39.17,
+        469.15,
+        50.4
+      ]
+    },
+    {
+      "id": "class8-english-p124-l002",
+      "lineNumber": 2,
+      "text": "Lesson 3: The Fastest Wheel on Earth",
+      "cleanText": "Lesson 3: The Fastest Wheel on Earth",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        57.89,
+        69.12,
+        381.6,
+        82.94
+      ]
+    },
+    {
+      "id": "class8-english-p124-l003",
+      "lineNumber": 3,
+      "text": "Keywords: high-speed, record-breaking, network expand, conventional,",
+      "cleanText": "Keywords: high-speed, record-breaking, network expand, conventional,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        58.18,
+        97.34,
+        447.26,
+        109.44
+      ]
+    },
+    {
+      "id": "class8-english-p124-l004",
+      "lineNumber": 4,
+      "text": "unconventional, magnetic trainset",
+      "cleanText": "unconventional, magnetic trainset",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.33,
+      "bbox": [
+        128.45,
+        114.34,
+        307.58,
+        126.43
+      ]
+    },
+    {
+      "id": "class8-english-p124-l005",
+      "lineNumber": 5,
+      "text": "A. Look at the picture of the fastest train on earth and talk about it with",
+      "cleanText": "A. Look at the picture of the fastest train on earth and talk about it with",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        57.02,
+        136.22,
+        470.59,
+        148.03
+      ]
+    },
+    {
+      "id": "class8-english-p124-l006",
+      "lineNumber": 6,
+      "text": "your partner:",
+      "cleanText": "your partner:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        77.18,
+        155.23,
+        153.22,
+        165.89
+      ]
+    },
+    {
+      "id": "class8-english-p124-l007",
+      "lineNumber": 7,
+      "text": "ee ee",
+      "cleanText": "ee ee",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 22.5,
+      "bbox": [
+        115.78,
+        345.6,
+        271.01,
+        362.88
+      ]
+    },
+    {
+      "id": "class8-english-p124-l008",
+      "lineNumber": 8,
+      "text": "B. Read the text and answer the following questions:",
+      "cleanText": "B. Read the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.44,
+      "bbox": [
+        59.33,
+        375.55,
+        352.22,
+        387.36
+      ]
+    },
+    {
+      "id": "class8-english-p124-l009",
+      "lineNumber": 9,
+      "text": "The TGV (Train a Grande Vitesse, meaning high-speed train) is France's high",
+      "cleanText": "The TGV (Train a Grande Vitesse, meaning high-speed train) is France's high",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.08,
+      "bbox": [
+        59.62,
+        408.38,
+        472.9,
+        420.19
+      ]
+    },
+    {
+      "id": "class8-english-p124-l010",
+      "lineNumber": 10,
+      "text": "-speed rail service.",
+      "cleanText": "-speed rail service.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        59.62,
+        424.51,
+        157.54,
+        436.9
+      ]
+    },
+    {
+      "id": "class8-english-p124-l011",
+      "lineNumber": 11,
+      "text": "It started in the 1970s. Originally, it was powered by gas turbines. But in 1973, the",
+      "cleanText": "It started in the 1970s. Originally, it was powered by gas turbines. But in 1973, the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.33,
+        446.98,
+        472.61,
+        458.78
+      ]
+    },
+    {
+      "id": "class8-english-p124-l012",
+      "lineNumber": 12,
+      "text": "TGV was changed into electric trains. The TGV service first started between Paris",
+      "cleanText": "TGV was changed into electric trains. The TGV service first started between Paris",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        59.33,
+        463.97,
+        473.76,
+        475.78
+      ]
+    },
+    {
+      "id": "class8-english-p124-l013",
+      "lineNumber": 13,
+      "text": "and Lyon in 1981. Later, the network connected other cities in France with Paris.",
+      "cleanText": "and Lyon in 1981. Later, the network connected other cities in France with Paris.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        59.62,
+        480.96,
+        466.85,
+        492.77
+      ]
+    },
+    {
+      "id": "class8-english-p124-l014",
+      "lineNumber": 14,
+      "text": "A TGV test train set the world record for the fastest conventional wheeled train",
+      "cleanText": "A TGV test train set the world record for the fastest conventional wheeled train",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        59.04,
+        505.73,
+        473.18,
+        514.94
+      ]
+    },
+    {
+      "id": "class8-english-p124-l015",
+      "lineNumber": 15,
+      "text": "on 3 April 2007. It reached the speed of 574.8 km/h (357.2 m/h) on the test",
+      "cleanText": "on 3 April 2007. It reached the speed of 574.8 km/h (357.2 m/h) on the test",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.06,
+      "bbox": [
+        60.19,
+        522.72,
+        472.9,
+        534.53
+      ]
+    },
+    {
+      "id": "class8-english-p124-l016",
+      "lineNumber": 16,
+      "text": "run. But the regular TGV trains operate at the highest speed of 320 km/h",
+      "cleanText": "run. But the regular TGV trains operate at the highest speed of 320 km/h",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.36,
+      "bbox": [
+        60.19,
+        539.71,
+        472.32,
+        551.52
+      ]
+    },
+    {
+      "id": "class8-english-p124-l017",
+      "lineNumber": 17,
+      "text": "(200 m/h). It is the present world record of speed of a conventional commercial",
+      "cleanText": "(200 m/h). It is the present world record of speed of a conventional commercial",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.93,
+      "bbox": [
+        59.33,
+        556.7,
+        475.2,
+        568.8
+      ]
+    },
+    {
+      "id": "class8-english-p124-l018",
+      "lineNumber": 18,
+      "text": "train.",
+      "cleanText": "train.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        59.9,
+        572.54,
+        85.82,
+        581.76
+      ]
+    },
+    {
+      "id": "class8-english-p124-l019",
+      "lineNumber": 19,
+      "text": "The Bullet Train is the network of high-speed train service in Japan. It",
+      "cleanText": "The Bullet Train is the network of high-speed train service in Japan. It",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.46,
+      "bbox": [
+        59.62,
+        606.53,
+        474.05,
+        618.62
+      ]
+    },
+    {
+      "id": "class8-english-p124-l020",
+      "lineNumber": 20,
+      "text": "RS started operation in 1964 on a limited route. But at present, most major cities",
+      "cleanText": "RS started operation in 1964 on a limited route. But at present, most major cities",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.53,
+      "bbox": [
+        23.33,
+        622.37,
+        473.18,
+        639.94
+      ]
+    },
+    {
+      "id": "class8-english-p124-l021",
+      "lineNumber": 21,
+      "text": "~ of Japan come under the network.",
+      "cleanText": "~ of Japan come under the network.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.86,
+      "bbox": [
+        24.48,
+        638.78,
+        238.18,
+        652.32
+      ]
+    }
+  ],
+  "lineCount": 21,
+  "aiReadyLineCount": 21,
+  "averageConfidence": 90.91,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:56.995467+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

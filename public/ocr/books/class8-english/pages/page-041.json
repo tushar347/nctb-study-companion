@@ -1,0 +1,777 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 41,
+  "pdfPage": 41,
+  "textbookPage": 41,
+  "width": 536.97,
+  "height": 695.96,
+  "image": "../images/page-041.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "36 English For Today\nB. Now, answer the questions below:\n1. Is the table familiar to you?\n2. Where do you find it?\n3. What is the table about?\n4. What is this table called?\nC. Read the text and discuss it in groups. Then find answers to the following\nquestions:\nYou get a new book in hand. You see the title of the book and you want to read\nit. But does the title only give you enough information about what the book is\nall about?\nYou also find the book divided into a few parts. Suppose you want to read a certain\npart of the book. Certainly you will not like to waste time looking for it in the\nwhole book.\n1. How would you know which page to look for it? What do you do?\n2. Do you think the table in A can help you? How?\nD. Look at the table of contents in Section A. Then ask and answer the questions\nbelow:\n1. What are the topics at page numbers vii, xiii, xv?\n2. If you want to read about the Hippopotamus, what unit and page numbers\nshould you go to?\n3. What is the content at page number 65?\n4, What page does the unit 2 start at and where does it end?\n5. Which topics appear between pages 26 —28?\ns\nN",
+  "cleanText": "36 English For Today B. Now, answer the questions below: 1. Is the table familiar to you? 2. Where do you find it? 3. What is the table about? 4. What is this table called? C. Read the text and discuss it in groups. Then find answers to the following questions: You get a new book in hand. You see the title of the book and you want to read it. But does the title only give you enough information about what the book is all about? You also find the book divided into a few parts. Suppose you want to read a certain part of the book. Certainly you will not like to waste time looking for it in the whole book. 1. How would you know which page to look for it? What do you do? 2. Do you think the table in A can help you? How? D. Look at the table of contents in Section A. Then ask and answer the questions below: 1. What are the topics at page numbers vii, xiii, xv? 2. If you want to read about the Hippopotamus, what unit and page numbers should you go to? 3. What is the content at page number 65? 4, What page does the unit 2 start at and where does it end? 5. Which topics appear between pages 26 —28? s N",
+  "aiReadyText": "36 English For Today B. Now, answer the questions below: 1. Is the table familiar to you? 2. Where do you find it? 3. What is the table about? 4. What is this table called? C. Read the text and discuss it in groups. Then find answers to the following questions: You get a new book in hand. You see the title of the book and you want to read it. But does the title only give you enough information about what the book is all about? You also find the book divided into a few parts. Suppose you want to read a certain part of the book. Certainly you will not like to waste time looking for it in the whole book. 1. How would you know which page to look for it? What do you do? 2. Do you think the table in A can help you? How? D. Look at the table of contents in Section A. Then ask and answer the questions below: 1. What are the topics at page numbers vii, xiii, xv? 2. If you want to read about the Hippopotamus, what unit and page numbers should you go to? 3. What is the content at page number 65? 4, What page does the unit 2 start at and where does it end? 5. Which topics appear between pages 26 —28?",
+  "lines": [
+    {
+      "id": "class8-english-p041-l001",
+      "lineNumber": 1,
+      "text": "36 English For Today",
+      "cleanText": "36 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.63,
+        42.05,
+        474.91,
+        54.14
+      ]
+    },
+    {
+      "id": "class8-english-p041-l002",
+      "lineNumber": 2,
+      "text": "B. Now, answer the questions below:",
+      "cleanText": "B. Now, answer the questions below:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        60.77,
+        72.0,
+        279.65,
+        84.38
+      ]
+    },
+    {
+      "id": "class8-english-p041-l003",
+      "lineNumber": 3,
+      "text": "1. Is the table familiar to you?",
+      "cleanText": "1. Is the table familiar to you?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.71,
+      "bbox": [
+        82.66,
+        95.33,
+        245.66,
+        107.14
+      ]
+    },
+    {
+      "id": "class8-english-p041-l004",
+      "lineNumber": 4,
+      "text": "2. Where do you find it?",
+      "cleanText": "2. Where do you find it?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        81.5,
+        118.37,
+        216.58,
+        130.18
+      ]
+    },
+    {
+      "id": "class8-english-p041-l005",
+      "lineNumber": 5,
+      "text": "3. What is the table about?",
+      "cleanText": "3. What is the table about?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        81.79,
+        141.41,
+        228.1,
+        150.62
+      ]
+    },
+    {
+      "id": "class8-english-p041-l006",
+      "lineNumber": 6,
+      "text": "4. What is this table called?",
+      "cleanText": "4. What is this table called?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        81.22,
+        163.3,
+        232.99,
+        172.51
+      ]
+    },
+    {
+      "id": "class8-english-p041-l007",
+      "lineNumber": 7,
+      "text": "C. Read the text and discuss it in groups. Then find answers to the following",
+      "cleanText": "C. Read the text and discuss it in groups. Then find answers to the following",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.0,
+      "bbox": [
+        59.62,
+        203.62,
+        479.52,
+        215.14
+      ]
+    },
+    {
+      "id": "class8-english-p041-l008",
+      "lineNumber": 8,
+      "text": "questions:",
+      "cleanText": "questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.62,
+        223.2,
+        113.76,
+        234.72
+      ]
+    },
+    {
+      "id": "class8-english-p041-l009",
+      "lineNumber": 9,
+      "text": "You get a new book in hand. You see the title of the book and you want to read",
+      "cleanText": "You get a new book in hand. You see the title of the book and you want to read",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.95,
+      "bbox": [
+        61.92,
+        254.02,
+        475.2,
+        266.11
+      ]
+    },
+    {
+      "id": "class8-english-p041-l010",
+      "lineNumber": 10,
+      "text": "it. But does the title only give you enough information about what the book is",
+      "cleanText": "it. But does the title only give you enough information about what the book is",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        61.63,
+        276.48,
+        474.05,
+        289.15
+      ]
+    },
+    {
+      "id": "class8-english-p041-l011",
+      "lineNumber": 11,
+      "text": "all about?",
+      "cleanText": "all about?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.06,
+        296.06,
+        110.3,
+        305.28
+      ]
+    },
+    {
+      "id": "class8-english-p041-l012",
+      "lineNumber": 12,
+      "text": "You also find the book divided into a few parts. Suppose you want to read a certain",
+      "cleanText": "You also find the book divided into a few parts. Suppose you want to read a certain",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        61.92,
+        318.82,
+        474.05,
+        331.2
+      ]
+    },
+    {
+      "id": "class8-english-p041-l013",
+      "lineNumber": 13,
+      "text": "part of the book. Certainly you will not like to waste time looking for it in the",
+      "cleanText": "part of the book. Certainly you will not like to waste time looking for it in the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.76,
+      "bbox": [
+        61.63,
+        340.99,
+        473.76,
+        353.38
+      ]
+    },
+    {
+      "id": "class8-english-p041-l014",
+      "lineNumber": 14,
+      "text": "whole book.",
+      "cleanText": "whole book.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.06,
+        360.86,
+        122.98,
+        369.79
+      ]
+    },
+    {
+      "id": "class8-english-p041-l015",
+      "lineNumber": 15,
+      "text": "1. How would you know which page to look for it? What do you do?",
+      "cleanText": "1. How would you know which page to look for it? What do you do?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        81.22,
+        384.19,
+        445.82,
+        396.29
+      ]
+    },
+    {
+      "id": "class8-english-p041-l016",
+      "lineNumber": 16,
+      "text": "2. Do you think the table in A can help you? How?",
+      "cleanText": "2. Do you think the table in A can help you? How?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        80.35,
+        408.1,
+        351.94,
+        420.19
+      ]
+    },
+    {
+      "id": "class8-english-p041-l017",
+      "lineNumber": 17,
+      "text": "D. Look at the table of contents in Section A. Then ask and answer the questions",
+      "cleanText": "D. Look at the table of contents in Section A. Then ask and answer the questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        61.92,
+        452.74,
+        475.2,
+        465.12
+      ]
+    },
+    {
+      "id": "class8-english-p041-l018",
+      "lineNumber": 18,
+      "text": "below:",
+      "cleanText": "below:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        77.47,
+        471.74,
+        109.15,
+        480.96
+      ]
+    },
+    {
+      "id": "class8-english-p041-l019",
+      "lineNumber": 19,
+      "text": "1. What are the topics at page numbers vii, xiii, xv?",
+      "cleanText": "1. What are the topics at page numbers vii, xiii, xv?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.08,
+      "bbox": [
+        84.1,
+        499.1,
+        358.27,
+        511.2
+      ]
+    },
+    {
+      "id": "class8-english-p041-l020",
+      "lineNumber": 20,
+      "text": "2. If you want to read about the Hippopotamus, what unit and page numbers",
+      "cleanText": "2. If you want to read about the Hippopotamus, what unit and page numbers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.29,
+      "bbox": [
+        83.23,
+        522.14,
+        475.2,
+        534.24
+      ]
+    },
+    {
+      "id": "class8-english-p041-l021",
+      "lineNumber": 21,
+      "text": "should you go to?",
+      "cleanText": "should you go to?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.4,
+      "bbox": [
+        100.51,
+        545.18,
+        193.82,
+        557.28
+      ]
+    },
+    {
+      "id": "class8-english-p041-l022",
+      "lineNumber": 22,
+      "text": "3. What is the content at page number 65?",
+      "cleanText": "3. What is the content at page number 65?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        83.23,
+        569.09,
+        309.31,
+        581.18
+      ]
+    },
+    {
+      "id": "class8-english-p041-l023",
+      "lineNumber": 23,
+      "text": "4, What page does the unit 2 start at and where does it end?",
+      "cleanText": "4, What page does the unit 2 start at and where does it end?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.2,
+      "bbox": [
+        83.23,
+        592.99,
+        399.17,
+        605.38
+      ]
+    },
+    {
+      "id": "class8-english-p041-l024",
+      "lineNumber": 24,
+      "text": "5. Which topics appear between pages 26 —28?",
+      "cleanText": "5. Which topics appear between pages 26 —28?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.12,
+      "bbox": [
+        83.23,
+        617.18,
+        330.91,
+        629.28
+      ]
+    },
+    {
+      "id": "class8-english-p041-l025",
+      "lineNumber": 25,
+      "text": "s",
+      "cleanText": "s",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 22.0,
+      "bbox": [
+        496.8,
+        629.57,
+        505.15,
+        647.14
+      ]
+    },
+    {
+      "id": "class8-english-p041-l026",
+      "lineNumber": 26,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 90.0,
+      "bbox": [
+        496.8,
+        648.29,
+        505.15,
+        653.47
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p041-l001",
+      "lineNumber": 1,
+      "text": "36 English For Today",
+      "cleanText": "36 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.63,
+        42.05,
+        474.91,
+        54.14
+      ]
+    },
+    {
+      "id": "class8-english-p041-l002",
+      "lineNumber": 2,
+      "text": "B. Now, answer the questions below:",
+      "cleanText": "B. Now, answer the questions below:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        60.77,
+        72.0,
+        279.65,
+        84.38
+      ]
+    },
+    {
+      "id": "class8-english-p041-l003",
+      "lineNumber": 3,
+      "text": "1. Is the table familiar to you?",
+      "cleanText": "1. Is the table familiar to you?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.71,
+      "bbox": [
+        82.66,
+        95.33,
+        245.66,
+        107.14
+      ]
+    },
+    {
+      "id": "class8-english-p041-l004",
+      "lineNumber": 4,
+      "text": "2. Where do you find it?",
+      "cleanText": "2. Where do you find it?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        81.5,
+        118.37,
+        216.58,
+        130.18
+      ]
+    },
+    {
+      "id": "class8-english-p041-l005",
+      "lineNumber": 5,
+      "text": "3. What is the table about?",
+      "cleanText": "3. What is the table about?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        81.79,
+        141.41,
+        228.1,
+        150.62
+      ]
+    },
+    {
+      "id": "class8-english-p041-l006",
+      "lineNumber": 6,
+      "text": "4. What is this table called?",
+      "cleanText": "4. What is this table called?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        81.22,
+        163.3,
+        232.99,
+        172.51
+      ]
+    },
+    {
+      "id": "class8-english-p041-l007",
+      "lineNumber": 7,
+      "text": "C. Read the text and discuss it in groups. Then find answers to the following",
+      "cleanText": "C. Read the text and discuss it in groups. Then find answers to the following",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.0,
+      "bbox": [
+        59.62,
+        203.62,
+        479.52,
+        215.14
+      ]
+    },
+    {
+      "id": "class8-english-p041-l008",
+      "lineNumber": 8,
+      "text": "questions:",
+      "cleanText": "questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.62,
+        223.2,
+        113.76,
+        234.72
+      ]
+    },
+    {
+      "id": "class8-english-p041-l009",
+      "lineNumber": 9,
+      "text": "You get a new book in hand. You see the title of the book and you want to read",
+      "cleanText": "You get a new book in hand. You see the title of the book and you want to read",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.95,
+      "bbox": [
+        61.92,
+        254.02,
+        475.2,
+        266.11
+      ]
+    },
+    {
+      "id": "class8-english-p041-l010",
+      "lineNumber": 10,
+      "text": "it. But does the title only give you enough information about what the book is",
+      "cleanText": "it. But does the title only give you enough information about what the book is",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        61.63,
+        276.48,
+        474.05,
+        289.15
+      ]
+    },
+    {
+      "id": "class8-english-p041-l011",
+      "lineNumber": 11,
+      "text": "all about?",
+      "cleanText": "all about?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.06,
+        296.06,
+        110.3,
+        305.28
+      ]
+    },
+    {
+      "id": "class8-english-p041-l012",
+      "lineNumber": 12,
+      "text": "You also find the book divided into a few parts. Suppose you want to read a certain",
+      "cleanText": "You also find the book divided into a few parts. Suppose you want to read a certain",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        61.92,
+        318.82,
+        474.05,
+        331.2
+      ]
+    },
+    {
+      "id": "class8-english-p041-l013",
+      "lineNumber": 13,
+      "text": "part of the book. Certainly you will not like to waste time looking for it in the",
+      "cleanText": "part of the book. Certainly you will not like to waste time looking for it in the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.76,
+      "bbox": [
+        61.63,
+        340.99,
+        473.76,
+        353.38
+      ]
+    },
+    {
+      "id": "class8-english-p041-l014",
+      "lineNumber": 14,
+      "text": "whole book.",
+      "cleanText": "whole book.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.06,
+        360.86,
+        122.98,
+        369.79
+      ]
+    },
+    {
+      "id": "class8-english-p041-l015",
+      "lineNumber": 15,
+      "text": "1. How would you know which page to look for it? What do you do?",
+      "cleanText": "1. How would you know which page to look for it? What do you do?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        81.22,
+        384.19,
+        445.82,
+        396.29
+      ]
+    },
+    {
+      "id": "class8-english-p041-l016",
+      "lineNumber": 16,
+      "text": "2. Do you think the table in A can help you? How?",
+      "cleanText": "2. Do you think the table in A can help you? How?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        80.35,
+        408.1,
+        351.94,
+        420.19
+      ]
+    },
+    {
+      "id": "class8-english-p041-l017",
+      "lineNumber": 17,
+      "text": "D. Look at the table of contents in Section A. Then ask and answer the questions",
+      "cleanText": "D. Look at the table of contents in Section A. Then ask and answer the questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        61.92,
+        452.74,
+        475.2,
+        465.12
+      ]
+    },
+    {
+      "id": "class8-english-p041-l018",
+      "lineNumber": 18,
+      "text": "below:",
+      "cleanText": "below:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        77.47,
+        471.74,
+        109.15,
+        480.96
+      ]
+    },
+    {
+      "id": "class8-english-p041-l019",
+      "lineNumber": 19,
+      "text": "1. What are the topics at page numbers vii, xiii, xv?",
+      "cleanText": "1. What are the topics at page numbers vii, xiii, xv?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.08,
+      "bbox": [
+        84.1,
+        499.1,
+        358.27,
+        511.2
+      ]
+    },
+    {
+      "id": "class8-english-p041-l020",
+      "lineNumber": 20,
+      "text": "2. If you want to read about the Hippopotamus, what unit and page numbers",
+      "cleanText": "2. If you want to read about the Hippopotamus, what unit and page numbers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.29,
+      "bbox": [
+        83.23,
+        522.14,
+        475.2,
+        534.24
+      ]
+    },
+    {
+      "id": "class8-english-p041-l021",
+      "lineNumber": 21,
+      "text": "should you go to?",
+      "cleanText": "should you go to?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.4,
+      "bbox": [
+        100.51,
+        545.18,
+        193.82,
+        557.28
+      ]
+    },
+    {
+      "id": "class8-english-p041-l022",
+      "lineNumber": 22,
+      "text": "3. What is the content at page number 65?",
+      "cleanText": "3. What is the content at page number 65?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        83.23,
+        569.09,
+        309.31,
+        581.18
+      ]
+    },
+    {
+      "id": "class8-english-p041-l023",
+      "lineNumber": 23,
+      "text": "4, What page does the unit 2 start at and where does it end?",
+      "cleanText": "4, What page does the unit 2 start at and where does it end?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.2,
+      "bbox": [
+        83.23,
+        592.99,
+        399.17,
+        605.38
+      ]
+    },
+    {
+      "id": "class8-english-p041-l024",
+      "lineNumber": 24,
+      "text": "5. Which topics appear between pages 26 —28?",
+      "cleanText": "5. Which topics appear between pages 26 —28?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.12,
+      "bbox": [
+        83.23,
+        617.18,
+        330.91,
+        629.28
+      ]
+    }
+  ],
+  "lineCount": 26,
+  "aiReadyLineCount": 24,
+  "averageConfidence": 91.96,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:37.092246+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

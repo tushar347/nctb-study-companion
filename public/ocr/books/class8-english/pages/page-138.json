@@ -1,0 +1,687 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 138,
+  "pdfPage": 138,
+  "textbookPage": 138,
+  "width": 542.0,
+  "height": 714.0,
+  "image": "../images/page-138.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Fables 133\nLesson 1: The Truthful Dove (1)\nKeywords: shelter, grumpy, unwillingly, generous, flattery\na} Ge\nA | 4\n\\ \\\\ XA.\nA. Talk about the picture and read the story of the dove and the bat:\nOnce upon a time, a dove and a bat were very good friends. One day the two\nfriends decided to set out on a journey. They flew over the rivers and hills and\ncame to a big jungle. Both the friends were very tired, they needed to sit down\nand take arest. Soon night fell and it was dark all around. A storm rose. It\nstarted to rain heavily. The dove and the bat started to look for shelter.\nThey came upon a century-old rain tree. An owl had his nest in that tree. The\ndove and the bat knocked at the owl’s door. The old grumpy owl opened the\ndoor. The dove and the bat requested him to give them shelter. The owl\nunwillingly let them in. The two birds were hungry too. They begged for some\nfood. The selfish owl was not happy. However, he shared his dinner with them.\nThe dove was so tired that she could hardly eat. But the bat was sly. He ate\ngreedily. He began to praise the owl with the thought of getting more food. The\nbat said, \"O wise and brave owl, you are the most generous person I have ever\n‘© seen. You are powerful and mighty.\"\nS\nNX",
+  "cleanText": "Fables 133 Lesson 1: The Truthful Dove (1) Keywords: shelter, grumpy, unwillingly, generous, flattery a} Ge A | 4 \\ \\\\ XA. A. Talk about the picture and read the story of the dove and the bat: Once upon a time, a dove and a bat were very good friends. One day the two friends decided to set out on a journey. They flew over the rivers and hills and came to a big jungle. Both the friends were very tired, they needed to sit down and take arest. Soon night fell and it was dark all around. A storm rose. It started to rain heavily. The dove and the bat started to look for shelter. They came upon a century-old rain tree. An owl had his nest in that tree. The dove and the bat knocked at the owl’s door. The old grumpy owl opened the door. The dove and the bat requested him to give them shelter. The owl unwillingly let them in. The two birds were hungry too. They begged for some food. The selfish owl was not happy. However, he shared his dinner with them. The dove was so tired that she could hardly eat. But the bat was sly. He ate greedily. He began to praise the owl with the thought of getting more food. The bat said, \"O wise and brave owl, you are the most generous person I have ever ‘© seen. You are powerful and mighty.\" S NX",
+  "aiReadyText": "Fables 133 Lesson 1: The Truthful Dove (1) Keywords: shelter, grumpy, unwillingly, generous, flattery a} Ge \\ \\\\ XA. A. Talk about the picture and read the story of the dove and the bat: Once upon a time, a dove and a bat were very good friends. One day the two friends decided to set out on a journey. They flew over the rivers and hills and came to a big jungle. Both the friends were very tired, they needed to sit down and take arest. Soon night fell and it was dark all around. A storm rose. It started to rain heavily. The dove and the bat started to look for shelter. They came upon a century-old rain tree. An owl had his nest in that tree. The dove and the bat knocked at the owl’s door. The old grumpy owl opened the door. The dove and the bat requested him to give them shelter. The owl unwillingly let them in. The two birds were hungry too. They begged for some food. The selfish owl was not happy. However, he shared his dinner with them. The dove was so tired that she could hardly eat. But the bat was sly. He ate greedily. He began to praise the owl with the thought of getting more food. The bat said, \"O wise and brave owl, you are the most generous person I have ever ‘© seen. You are powerful and mighty.\" NX",
+  "lines": [
+    {
+      "id": "class8-english-p138-l001",
+      "lineNumber": 1,
+      "text": "Fables 133",
+      "cleanText": "Fables 133",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        67.1,
+        50.11,
+        478.94,
+        63.94
+      ]
+    },
+    {
+      "id": "class8-english-p138-l002",
+      "lineNumber": 2,
+      "text": "Lesson 1: The Truthful Dove (1)",
+      "cleanText": "Lesson 1: The Truthful Dove (1)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        65.95,
+        80.93,
+        340.42,
+        98.5
+      ]
+    },
+    {
+      "id": "class8-english-p138-l003",
+      "lineNumber": 3,
+      "text": "Keywords: shelter, grumpy, unwillingly, generous, flattery",
+      "cleanText": "Keywords: shelter, grumpy, unwillingly, generous, flattery",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        67.1,
+        112.32,
+        407.23,
+        124.42
+      ]
+    },
+    {
+      "id": "class8-english-p138-l004",
+      "lineNumber": 4,
+      "text": "a} Ge",
+      "cleanText": "a} Ge",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 38.5,
+      "bbox": [
+        370.94,
+        165.31,
+        434.02,
+        197.57
+      ]
+    },
+    {
+      "id": "class8-english-p138-l005",
+      "lineNumber": 5,
+      "text": "A | 4",
+      "cleanText": "A | 4",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 41.0,
+      "bbox": [
+        334.37,
+        184.03,
+        422.21,
+        195.26
+      ]
+    },
+    {
+      "id": "class8-english-p138-l006",
+      "lineNumber": 6,
+      "text": "\\ \\\\ XA.",
+      "cleanText": "\\ \\\\ XA.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 55.5,
+      "bbox": [
+        297.79,
+        274.75,
+        408.96,
+        292.61
+      ]
+    },
+    {
+      "id": "class8-english-p138-l007",
+      "lineNumber": 7,
+      "text": "A. Talk about the picture and read the story of the dove and the bat:",
+      "cleanText": "A. Talk about the picture and read the story of the dove and the bat:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.73,
+      "bbox": [
+        66.82,
+        369.79,
+        448.7,
+        382.18
+      ]
+    },
+    {
+      "id": "class8-english-p138-l008",
+      "lineNumber": 8,
+      "text": "Once upon a time, a dove and a bat were very good friends. One day the two",
+      "cleanText": "Once upon a time, a dove and a bat were very good friends. One day the two",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.94,
+      "bbox": [
+        67.39,
+        389.95,
+        482.11,
+        402.34
+      ]
+    },
+    {
+      "id": "class8-english-p138-l009",
+      "lineNumber": 9,
+      "text": "friends decided to set out on a journey. They flew over the rivers and hills and",
+      "cleanText": "friends decided to set out on a journey. They flew over the rivers and hills and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        67.1,
+        407.81,
+        481.25,
+        420.19
+      ]
+    },
+    {
+      "id": "class8-english-p138-l010",
+      "lineNumber": 10,
+      "text": "came to a big jungle. Both the friends were very tired, they needed to sit down",
+      "cleanText": "came to a big jungle. Both the friends were very tired, they needed to sit down",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        68.54,
+        425.95,
+        482.11,
+        438.34
+      ]
+    },
+    {
+      "id": "class8-english-p138-l011",
+      "lineNumber": 11,
+      "text": "and take arest. Soon night fell and it was dark all around. A storm rose. It",
+      "cleanText": "and take arest. Soon night fell and it was dark all around. A storm rose. It",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.5,
+      "bbox": [
+        67.97,
+        444.1,
+        481.54,
+        456.19
+      ]
+    },
+    {
+      "id": "class8-english-p138-l012",
+      "lineNumber": 12,
+      "text": "started to rain heavily. The dove and the bat started to look for shelter.",
+      "cleanText": "started to rain heavily. The dove and the bat started to look for shelter.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.14,
+      "bbox": [
+        67.39,
+        461.95,
+        435.74,
+        474.34
+      ]
+    },
+    {
+      "id": "class8-english-p138-l013",
+      "lineNumber": 13,
+      "text": "They came upon a century-old rain tree. An owl had his nest in that tree. The",
+      "cleanText": "They came upon a century-old rain tree. An owl had his nest in that tree. The",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        66.82,
+        491.04,
+        480.38,
+        505.44
+      ]
+    },
+    {
+      "id": "class8-english-p138-l014",
+      "lineNumber": 14,
+      "text": "dove and the bat knocked at the owl’s door. The old grumpy owl opened the",
+      "cleanText": "dove and the bat knocked at the owl’s door. The old grumpy owl opened the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.07,
+      "bbox": [
+        67.68,
+        510.05,
+        480.67,
+        522.14
+      ]
+    },
+    {
+      "id": "class8-english-p138-l015",
+      "lineNumber": 15,
+      "text": "door. The dove and the bat requested him to give them shelter. The owl",
+      "cleanText": "door. The dove and the bat requested him to give them shelter. The owl",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.79,
+      "bbox": [
+        66.82,
+        527.9,
+        482.11,
+        540.29
+      ]
+    },
+    {
+      "id": "class8-english-p138-l016",
+      "lineNumber": 16,
+      "text": "unwillingly let them in. The two birds were hungry too. They begged for some",
+      "cleanText": "unwillingly let them in. The two birds were hungry too. They begged for some",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        67.97,
+        546.05,
+        480.38,
+        558.14
+      ]
+    },
+    {
+      "id": "class8-english-p138-l017",
+      "lineNumber": 17,
+      "text": "food. The selfish owl was not happy. However, he shared his dinner with them.",
+      "cleanText": "food. The selfish owl was not happy. However, he shared his dinner with them.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.79,
+      "bbox": [
+        68.83,
+        563.04,
+        482.98,
+        577.73
+      ]
+    },
+    {
+      "id": "class8-english-p138-l018",
+      "lineNumber": 18,
+      "text": "The dove was so tired that she could hardly eat. But the bat was sly. He ate",
+      "cleanText": "The dove was so tired that she could hardly eat. But the bat was sly. He ate",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        68.26,
+        582.05,
+        481.54,
+        594.14
+      ]
+    },
+    {
+      "id": "class8-english-p138-l019",
+      "lineNumber": 19,
+      "text": "greedily. He began to praise the owl with the thought of getting more food. The",
+      "cleanText": "greedily. He began to praise the owl with the thought of getting more food. The",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        67.68,
+        600.19,
+        484.42,
+        612.58
+      ]
+    },
+    {
+      "id": "class8-english-p138-l020",
+      "lineNumber": 20,
+      "text": "bat said, \"O wise and brave owl, you are the most generous person I have ever",
+      "cleanText": "bat said, \"O wise and brave owl, you are the most generous person I have ever",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.56,
+      "bbox": [
+        67.97,
+        618.05,
+        482.98,
+        631.01
+      ]
+    },
+    {
+      "id": "class8-english-p138-l021",
+      "lineNumber": 21,
+      "text": "‘© seen. You are powerful and mighty.\"",
+      "cleanText": "‘© seen. You are powerful and mighty.\"",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.0,
+      "bbox": [
+        38.02,
+        634.46,
+        259.2,
+        649.73
+      ]
+    },
+    {
+      "id": "class8-english-p138-l022",
+      "lineNumber": 22,
+      "text": "S",
+      "cleanText": "S",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 86.0,
+      "bbox": [
+        38.02,
+        650.02,
+        46.08,
+        655.2
+      ]
+    },
+    {
+      "id": "class8-english-p138-l023",
+      "lineNumber": 23,
+      "text": "NX",
+      "cleanText": "NX",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 65.0,
+      "bbox": [
+        38.02,
+        656.35,
+        46.08,
+        661.54
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p138-l001",
+      "lineNumber": 1,
+      "text": "Fables 133",
+      "cleanText": "Fables 133",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        67.1,
+        50.11,
+        478.94,
+        63.94
+      ]
+    },
+    {
+      "id": "class8-english-p138-l002",
+      "lineNumber": 2,
+      "text": "Lesson 1: The Truthful Dove (1)",
+      "cleanText": "Lesson 1: The Truthful Dove (1)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        65.95,
+        80.93,
+        340.42,
+        98.5
+      ]
+    },
+    {
+      "id": "class8-english-p138-l003",
+      "lineNumber": 3,
+      "text": "Keywords: shelter, grumpy, unwillingly, generous, flattery",
+      "cleanText": "Keywords: shelter, grumpy, unwillingly, generous, flattery",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        67.1,
+        112.32,
+        407.23,
+        124.42
+      ]
+    },
+    {
+      "id": "class8-english-p138-l004",
+      "lineNumber": 4,
+      "text": "a} Ge",
+      "cleanText": "a} Ge",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 38.5,
+      "bbox": [
+        370.94,
+        165.31,
+        434.02,
+        197.57
+      ]
+    },
+    {
+      "id": "class8-english-p138-l006",
+      "lineNumber": 6,
+      "text": "\\ \\\\ XA.",
+      "cleanText": "\\ \\\\ XA.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 55.5,
+      "bbox": [
+        297.79,
+        274.75,
+        408.96,
+        292.61
+      ]
+    },
+    {
+      "id": "class8-english-p138-l007",
+      "lineNumber": 7,
+      "text": "A. Talk about the picture and read the story of the dove and the bat:",
+      "cleanText": "A. Talk about the picture and read the story of the dove and the bat:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.73,
+      "bbox": [
+        66.82,
+        369.79,
+        448.7,
+        382.18
+      ]
+    },
+    {
+      "id": "class8-english-p138-l008",
+      "lineNumber": 8,
+      "text": "Once upon a time, a dove and a bat were very good friends. One day the two",
+      "cleanText": "Once upon a time, a dove and a bat were very good friends. One day the two",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.94,
+      "bbox": [
+        67.39,
+        389.95,
+        482.11,
+        402.34
+      ]
+    },
+    {
+      "id": "class8-english-p138-l009",
+      "lineNumber": 9,
+      "text": "friends decided to set out on a journey. They flew over the rivers and hills and",
+      "cleanText": "friends decided to set out on a journey. They flew over the rivers and hills and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        67.1,
+        407.81,
+        481.25,
+        420.19
+      ]
+    },
+    {
+      "id": "class8-english-p138-l010",
+      "lineNumber": 10,
+      "text": "came to a big jungle. Both the friends were very tired, they needed to sit down",
+      "cleanText": "came to a big jungle. Both the friends were very tired, they needed to sit down",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        68.54,
+        425.95,
+        482.11,
+        438.34
+      ]
+    },
+    {
+      "id": "class8-english-p138-l011",
+      "lineNumber": 11,
+      "text": "and take arest. Soon night fell and it was dark all around. A storm rose. It",
+      "cleanText": "and take arest. Soon night fell and it was dark all around. A storm rose. It",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.5,
+      "bbox": [
+        67.97,
+        444.1,
+        481.54,
+        456.19
+      ]
+    },
+    {
+      "id": "class8-english-p138-l012",
+      "lineNumber": 12,
+      "text": "started to rain heavily. The dove and the bat started to look for shelter.",
+      "cleanText": "started to rain heavily. The dove and the bat started to look for shelter.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.14,
+      "bbox": [
+        67.39,
+        461.95,
+        435.74,
+        474.34
+      ]
+    },
+    {
+      "id": "class8-english-p138-l013",
+      "lineNumber": 13,
+      "text": "They came upon a century-old rain tree. An owl had his nest in that tree. The",
+      "cleanText": "They came upon a century-old rain tree. An owl had his nest in that tree. The",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        66.82,
+        491.04,
+        480.38,
+        505.44
+      ]
+    },
+    {
+      "id": "class8-english-p138-l014",
+      "lineNumber": 14,
+      "text": "dove and the bat knocked at the owl’s door. The old grumpy owl opened the",
+      "cleanText": "dove and the bat knocked at the owl’s door. The old grumpy owl opened the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.07,
+      "bbox": [
+        67.68,
+        510.05,
+        480.67,
+        522.14
+      ]
+    },
+    {
+      "id": "class8-english-p138-l015",
+      "lineNumber": 15,
+      "text": "door. The dove and the bat requested him to give them shelter. The owl",
+      "cleanText": "door. The dove and the bat requested him to give them shelter. The owl",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.79,
+      "bbox": [
+        66.82,
+        527.9,
+        482.11,
+        540.29
+      ]
+    },
+    {
+      "id": "class8-english-p138-l016",
+      "lineNumber": 16,
+      "text": "unwillingly let them in. The two birds were hungry too. They begged for some",
+      "cleanText": "unwillingly let them in. The two birds were hungry too. They begged for some",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        67.97,
+        546.05,
+        480.38,
+        558.14
+      ]
+    },
+    {
+      "id": "class8-english-p138-l017",
+      "lineNumber": 17,
+      "text": "food. The selfish owl was not happy. However, he shared his dinner with them.",
+      "cleanText": "food. The selfish owl was not happy. However, he shared his dinner with them.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.79,
+      "bbox": [
+        68.83,
+        563.04,
+        482.98,
+        577.73
+      ]
+    },
+    {
+      "id": "class8-english-p138-l018",
+      "lineNumber": 18,
+      "text": "The dove was so tired that she could hardly eat. But the bat was sly. He ate",
+      "cleanText": "The dove was so tired that she could hardly eat. But the bat was sly. He ate",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        68.26,
+        582.05,
+        481.54,
+        594.14
+      ]
+    },
+    {
+      "id": "class8-english-p138-l019",
+      "lineNumber": 19,
+      "text": "greedily. He began to praise the owl with the thought of getting more food. The",
+      "cleanText": "greedily. He began to praise the owl with the thought of getting more food. The",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        67.68,
+        600.19,
+        484.42,
+        612.58
+      ]
+    },
+    {
+      "id": "class8-english-p138-l020",
+      "lineNumber": 20,
+      "text": "bat said, \"O wise and brave owl, you are the most generous person I have ever",
+      "cleanText": "bat said, \"O wise and brave owl, you are the most generous person I have ever",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.56,
+      "bbox": [
+        67.97,
+        618.05,
+        482.98,
+        631.01
+      ]
+    },
+    {
+      "id": "class8-english-p138-l021",
+      "lineNumber": 21,
+      "text": "‘© seen. You are powerful and mighty.\"",
+      "cleanText": "‘© seen. You are powerful and mighty.\"",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.0,
+      "bbox": [
+        38.02,
+        634.46,
+        259.2,
+        649.73
+      ]
+    },
+    {
+      "id": "class8-english-p138-l023",
+      "lineNumber": 23,
+      "text": "NX",
+      "cleanText": "NX",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 65.0,
+      "bbox": [
+        38.02,
+        656.35,
+        46.08,
+        661.54
+      ]
+    }
+  ],
+  "lineCount": 23,
+  "aiReadyLineCount": 21,
+  "averageConfidence": 86.45,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:19:16.332279+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

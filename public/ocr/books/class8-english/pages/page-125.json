@@ -1,0 +1,687 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 125,
+  "pdfPage": 125,
+  "textbookPage": 125,
+  "width": 518.74,
+  "height": 687.06,
+  "image": "../images/page-125.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "120 English For Today\nThe Bullet Train runs at a maximum speed of 300 km/h (186 m/h). It plans to\nincrease speed up to 320 km/h (200m/ph). In 2003, Japan set the world\nrecord for unconventional magnetic trainsets. In a test run, the speed was\n581 km/h (361 m/ph). But it is not yet in regular commercial operation.\nThe High-speed Rail\nThe High-speed Rail service in China started operation on April 18, 2007.\nCurrently China has started building a high-speed passenger rail network. It\nwill be similar to French TGV or Japanese Bullet Trains. The usual top speed\nof China’s conventional quick trains is 300 km/h (186 m/ph).\nRecently, China has set the world record of a speed of 487.3 km/h (303 mph). In\n2011, this record was set by an unconventional magnetic trainset called the\n“Harmony Express”. This is the highest speed of an unconventional magnetic\ntrainset in regular commercial operation.\nC. Read the above text in section B again. Now, discuss with your partner to fill\nin the blank slots in the following grid with the information about high-speed\nName of | Name of | Year of |Top speed |Top speed of | Holds\nthe the introduction/ | of unconventional | world\ncountry | train/train | start conventional | train record\nnetwork train for\nD. Discuss in groups to decide which of the above three rail services you like\nbest and why. Finally, write a paragraph and present it to the class: Ss",
+  "cleanText": "120 English For Today The Bullet Train runs at a maximum speed of 300 km/h (186 m/h). It plans to increase speed up to 320 km/h (200m/ph). In 2003, Japan set the world record for unconventional magnetic trainsets. In a test run, the speed was 581 km/h (361 m/ph). But it is not yet in regular commercial operation. The High-speed Rail The High-speed Rail service in China started operation on April 18, 2007. Currently China has started building a high-speed passenger rail network. It will be similar to French TGV or Japanese Bullet Trains. The usual top speed of China’s conventional quick trains is 300 km/h (186 m/ph). Recently, China has set the world record of a speed of 487.3 km/h (303 mph). In 2011, this record was set by an unconventional magnetic trainset called the “Harmony Express”. This is the highest speed of an unconventional magnetic trainset in regular commercial operation. C. Read the above text in section B again. Now, discuss with your partner to fill in the blank slots in the following grid with the information about high-speed Name of | Name of | Year of |Top speed |Top speed of | Holds the the introduction/ | of unconventional | world country | train/train | start conventional | train record network train for D. Discuss in groups to decide which of the above three rail services you like best and why. Finally, write a paragraph and present it to the class: Ss",
+  "aiReadyText": "120 English For Today The Bullet Train runs at a maximum speed of 300 km/h (186 m/h). It plans to increase speed up to 320 km/h (200m/ph). In 2003, Japan set the world record for unconventional magnetic trainsets. In a test run, the speed was 581 km/h (361 m/ph). But it is not yet in regular commercial operation. The High-speed Rail The High-speed Rail service in China started operation on April 18, 2007. Currently China has started building a high-speed passenger rail network. It will be similar to French TGV or Japanese Bullet Trains. The usual top speed of China’s conventional quick trains is 300 km/h (186 m/ph). Recently, China has set the world record of a speed of 487.3 km/h (303 mph). In 2011, this record was set by an unconventional magnetic trainset called the “Harmony Express”. This is the highest speed of an unconventional magnetic trainset in regular commercial operation. C. Read the above text in section B again. Now, discuss with your partner to fill in the blank slots in the following grid with the information about high-speed Name of | Name of | Year of |Top speed |Top speed of | Holds the the introduction/ | of unconventional | world country | train/train | start conventional | train record network train for D. Discuss in groups to decide which of the above three rail services you like best and why. Finally, write a paragraph and present it to the class: Ss",
+  "lines": [
+    {
+      "id": "class8-english-p125-l001",
+      "lineNumber": 1,
+      "text": "120 English For Today",
+      "cleanText": "120 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.5,
+        39.46,
+        473.76,
+        50.4
+      ]
+    },
+    {
+      "id": "class8-english-p125-l002",
+      "lineNumber": 2,
+      "text": "The Bullet Train runs at a maximum speed of 300 km/h (186 m/h). It plans to",
+      "cleanText": "The Bullet Train runs at a maximum speed of 300 km/h (186 m/h). It plans to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.88,
+      "bbox": [
+        62.21,
+        70.27,
+        476.35,
+        82.37
+      ]
+    },
+    {
+      "id": "class8-english-p125-l003",
+      "lineNumber": 3,
+      "text": "increase speed up to 320 km/h (200m/ph). In 2003, Japan set the world",
+      "cleanText": "increase speed up to 320 km/h (200m/ph). In 2003, Japan set the world",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.15,
+      "bbox": [
+        62.78,
+        88.42,
+        475.2,
+        100.22
+      ]
+    },
+    {
+      "id": "class8-english-p125-l004",
+      "lineNumber": 4,
+      "text": "record for unconventional magnetic trainsets. In a test run, the speed was",
+      "cleanText": "record for unconventional magnetic trainsets. In a test run, the speed was",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        62.5,
+        106.27,
+        475.78,
+        118.37
+      ]
+    },
+    {
+      "id": "class8-english-p125-l005",
+      "lineNumber": 5,
+      "text": "581 km/h (361 m/ph). But it is not yet in regular commercial operation.",
+      "cleanText": "581 km/h (361 m/ph). But it is not yet in regular commercial operation.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.77,
+      "bbox": [
+        62.78,
+        124.42,
+        431.71,
+        136.22
+      ]
+    },
+    {
+      "id": "class8-english-p125-l006",
+      "lineNumber": 6,
+      "text": "The High-speed Rail",
+      "cleanText": "The High-speed Rail",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.21,
+        157.54,
+        175.68,
+        169.34
+      ]
+    },
+    {
+      "id": "class8-english-p125-l007",
+      "lineNumber": 7,
+      "text": "The High-speed Rail service in China started operation on April 18, 2007.",
+      "cleanText": "The High-speed Rail service in China started operation on April 18, 2007.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        62.21,
+        180.29,
+        476.06,
+        192.38
+      ]
+    },
+    {
+      "id": "class8-english-p125-l008",
+      "lineNumber": 8,
+      "text": "Currently China has started building a high-speed passenger rail network. It",
+      "cleanText": "Currently China has started building a high-speed passenger rail network. It",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.36,
+      "bbox": [
+        61.92,
+        198.14,
+        475.49,
+        210.24
+      ]
+    },
+    {
+      "id": "class8-english-p125-l009",
+      "lineNumber": 9,
+      "text": "will be similar to French TGV or Japanese Bullet Trains. The usual top speed",
+      "cleanText": "will be similar to French TGV or Japanese Bullet Trains. The usual top speed",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.07,
+      "bbox": [
+        62.21,
+        216.0,
+        476.64,
+        228.1
+      ]
+    },
+    {
+      "id": "class8-english-p125-l010",
+      "lineNumber": 10,
+      "text": "of China’s conventional quick trains is 300 km/h (186 m/ph).",
+      "cleanText": "of China’s conventional quick trains is 300 km/h (186 m/ph).",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.9,
+      "bbox": [
+        62.5,
+        234.43,
+        382.75,
+        246.24
+      ]
+    },
+    {
+      "id": "class8-english-p125-l011",
+      "lineNumber": 11,
+      "text": "Recently, China has set the world record of a speed of 487.3 km/h (303 mph). In",
+      "cleanText": "Recently, China has set the world record of a speed of 487.3 km/h (303 mph). In",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        61.92,
+        269.28,
+        474.91,
+        281.95
+      ]
+    },
+    {
+      "id": "class8-english-p125-l012",
+      "lineNumber": 12,
+      "text": "2011, this record was set by an unconventional magnetic trainset called the",
+      "cleanText": "2011, this record was set by an unconventional magnetic trainset called the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        63.07,
+        287.42,
+        476.93,
+        299.23
+      ]
+    },
+    {
+      "id": "class8-english-p125-l013",
+      "lineNumber": 13,
+      "text": "“Harmony Express”. This is the highest speed of an unconventional magnetic",
+      "cleanText": "“Harmony Express”. This is the highest speed of an unconventional magnetic",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.91,
+      "bbox": [
+        62.21,
+        306.43,
+        476.35,
+        318.24
+      ]
+    },
+    {
+      "id": "class8-english-p125-l014",
+      "lineNumber": 14,
+      "text": "trainset in regular commercial operation.",
+      "cleanText": "trainset in regular commercial operation.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        62.21,
+        325.44,
+        276.77,
+        337.54
+      ]
+    },
+    {
+      "id": "class8-english-p125-l015",
+      "lineNumber": 15,
+      "text": "C. Read the above text in section B again. Now, discuss with your partner to fill",
+      "cleanText": "C. Read the above text in section B again. Now, discuss with your partner to fill",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.44,
+      "bbox": [
+        61.92,
+        363.74,
+        478.37,
+        376.13
+      ]
+    },
+    {
+      "id": "class8-english-p125-l016",
+      "lineNumber": 16,
+      "text": "in the blank slots in the following grid with the information about high-speed",
+      "cleanText": "in the blank slots in the following grid with the information about high-speed",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.15,
+      "bbox": [
+        76.32,
+        381.6,
+        476.64,
+        393.98
+      ]
+    },
+    {
+      "id": "class8-english-p125-l017",
+      "lineNumber": 17,
+      "text": "Name of | Name of | Year of |Top speed |Top speed of | Holds",
+      "cleanText": "Name of | Name of | Year of |Top speed |Top speed of | Holds",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 80.53,
+      "bbox": [
+        67.1,
+        425.66,
+        453.02,
+        439.78
+      ]
+    },
+    {
+      "id": "class8-english-p125-l018",
+      "lineNumber": 18,
+      "text": "the the introduction/ | of unconventional | world",
+      "cleanText": "the the introduction/ | of unconventional | world",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.25,
+      "bbox": [
+        67.39,
+        444.38,
+        452.74,
+        458.78
+      ]
+    },
+    {
+      "id": "class8-english-p125-l019",
+      "lineNumber": 19,
+      "text": "country | train/train | start conventional | train record",
+      "cleanText": "country | train/train | start conventional | train record",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 78.33,
+      "bbox": [
+        67.68,
+        463.1,
+        455.33,
+        477.22
+      ]
+    },
+    {
+      "id": "class8-english-p125-l020",
+      "lineNumber": 20,
+      "text": "network train for",
+      "cleanText": "network train for",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        128.74,
+        478.66,
+        438.34,
+        495.94
+      ]
+    },
+    {
+      "id": "class8-english-p125-l021",
+      "lineNumber": 21,
+      "text": "D. Discuss in groups to decide which of the above three rail services you like",
+      "cleanText": "D. Discuss in groups to decide which of the above three rail services you like",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.2,
+      "bbox": [
+        60.77,
+        619.78,
+        476.35,
+        632.16
+      ]
+    },
+    {
+      "id": "class8-english-p125-l022",
+      "lineNumber": 22,
+      "text": "best and why. Finally, write a paragraph and present it to the class: Ss",
+      "cleanText": "best and why. Finally, write a paragraph and present it to the class: Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.93,
+      "bbox": [
+        77.76,
+        632.16,
+        500.83,
+        651.74
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p125-l001",
+      "lineNumber": 1,
+      "text": "120 English For Today",
+      "cleanText": "120 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.5,
+        39.46,
+        473.76,
+        50.4
+      ]
+    },
+    {
+      "id": "class8-english-p125-l002",
+      "lineNumber": 2,
+      "text": "The Bullet Train runs at a maximum speed of 300 km/h (186 m/h). It plans to",
+      "cleanText": "The Bullet Train runs at a maximum speed of 300 km/h (186 m/h). It plans to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.88,
+      "bbox": [
+        62.21,
+        70.27,
+        476.35,
+        82.37
+      ]
+    },
+    {
+      "id": "class8-english-p125-l003",
+      "lineNumber": 3,
+      "text": "increase speed up to 320 km/h (200m/ph). In 2003, Japan set the world",
+      "cleanText": "increase speed up to 320 km/h (200m/ph). In 2003, Japan set the world",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.15,
+      "bbox": [
+        62.78,
+        88.42,
+        475.2,
+        100.22
+      ]
+    },
+    {
+      "id": "class8-english-p125-l004",
+      "lineNumber": 4,
+      "text": "record for unconventional magnetic trainsets. In a test run, the speed was",
+      "cleanText": "record for unconventional magnetic trainsets. In a test run, the speed was",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        62.5,
+        106.27,
+        475.78,
+        118.37
+      ]
+    },
+    {
+      "id": "class8-english-p125-l005",
+      "lineNumber": 5,
+      "text": "581 km/h (361 m/ph). But it is not yet in regular commercial operation.",
+      "cleanText": "581 km/h (361 m/ph). But it is not yet in regular commercial operation.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.77,
+      "bbox": [
+        62.78,
+        124.42,
+        431.71,
+        136.22
+      ]
+    },
+    {
+      "id": "class8-english-p125-l006",
+      "lineNumber": 6,
+      "text": "The High-speed Rail",
+      "cleanText": "The High-speed Rail",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.21,
+        157.54,
+        175.68,
+        169.34
+      ]
+    },
+    {
+      "id": "class8-english-p125-l007",
+      "lineNumber": 7,
+      "text": "The High-speed Rail service in China started operation on April 18, 2007.",
+      "cleanText": "The High-speed Rail service in China started operation on April 18, 2007.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        62.21,
+        180.29,
+        476.06,
+        192.38
+      ]
+    },
+    {
+      "id": "class8-english-p125-l008",
+      "lineNumber": 8,
+      "text": "Currently China has started building a high-speed passenger rail network. It",
+      "cleanText": "Currently China has started building a high-speed passenger rail network. It",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.36,
+      "bbox": [
+        61.92,
+        198.14,
+        475.49,
+        210.24
+      ]
+    },
+    {
+      "id": "class8-english-p125-l009",
+      "lineNumber": 9,
+      "text": "will be similar to French TGV or Japanese Bullet Trains. The usual top speed",
+      "cleanText": "will be similar to French TGV or Japanese Bullet Trains. The usual top speed",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.07,
+      "bbox": [
+        62.21,
+        216.0,
+        476.64,
+        228.1
+      ]
+    },
+    {
+      "id": "class8-english-p125-l010",
+      "lineNumber": 10,
+      "text": "of China’s conventional quick trains is 300 km/h (186 m/ph).",
+      "cleanText": "of China’s conventional quick trains is 300 km/h (186 m/ph).",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.9,
+      "bbox": [
+        62.5,
+        234.43,
+        382.75,
+        246.24
+      ]
+    },
+    {
+      "id": "class8-english-p125-l011",
+      "lineNumber": 11,
+      "text": "Recently, China has set the world record of a speed of 487.3 km/h (303 mph). In",
+      "cleanText": "Recently, China has set the world record of a speed of 487.3 km/h (303 mph). In",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        61.92,
+        269.28,
+        474.91,
+        281.95
+      ]
+    },
+    {
+      "id": "class8-english-p125-l012",
+      "lineNumber": 12,
+      "text": "2011, this record was set by an unconventional magnetic trainset called the",
+      "cleanText": "2011, this record was set by an unconventional magnetic trainset called the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        63.07,
+        287.42,
+        476.93,
+        299.23
+      ]
+    },
+    {
+      "id": "class8-english-p125-l013",
+      "lineNumber": 13,
+      "text": "“Harmony Express”. This is the highest speed of an unconventional magnetic",
+      "cleanText": "“Harmony Express”. This is the highest speed of an unconventional magnetic",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.91,
+      "bbox": [
+        62.21,
+        306.43,
+        476.35,
+        318.24
+      ]
+    },
+    {
+      "id": "class8-english-p125-l014",
+      "lineNumber": 14,
+      "text": "trainset in regular commercial operation.",
+      "cleanText": "trainset in regular commercial operation.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        62.21,
+        325.44,
+        276.77,
+        337.54
+      ]
+    },
+    {
+      "id": "class8-english-p125-l015",
+      "lineNumber": 15,
+      "text": "C. Read the above text in section B again. Now, discuss with your partner to fill",
+      "cleanText": "C. Read the above text in section B again. Now, discuss with your partner to fill",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.44,
+      "bbox": [
+        61.92,
+        363.74,
+        478.37,
+        376.13
+      ]
+    },
+    {
+      "id": "class8-english-p125-l016",
+      "lineNumber": 16,
+      "text": "in the blank slots in the following grid with the information about high-speed",
+      "cleanText": "in the blank slots in the following grid with the information about high-speed",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.15,
+      "bbox": [
+        76.32,
+        381.6,
+        476.64,
+        393.98
+      ]
+    },
+    {
+      "id": "class8-english-p125-l017",
+      "lineNumber": 17,
+      "text": "Name of | Name of | Year of |Top speed |Top speed of | Holds",
+      "cleanText": "Name of | Name of | Year of |Top speed |Top speed of | Holds",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 80.53,
+      "bbox": [
+        67.1,
+        425.66,
+        453.02,
+        439.78
+      ]
+    },
+    {
+      "id": "class8-english-p125-l018",
+      "lineNumber": 18,
+      "text": "the the introduction/ | of unconventional | world",
+      "cleanText": "the the introduction/ | of unconventional | world",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.25,
+      "bbox": [
+        67.39,
+        444.38,
+        452.74,
+        458.78
+      ]
+    },
+    {
+      "id": "class8-english-p125-l019",
+      "lineNumber": 19,
+      "text": "country | train/train | start conventional | train record",
+      "cleanText": "country | train/train | start conventional | train record",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 78.33,
+      "bbox": [
+        67.68,
+        463.1,
+        455.33,
+        477.22
+      ]
+    },
+    {
+      "id": "class8-english-p125-l020",
+      "lineNumber": 20,
+      "text": "network train for",
+      "cleanText": "network train for",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        128.74,
+        478.66,
+        438.34,
+        495.94
+      ]
+    },
+    {
+      "id": "class8-english-p125-l021",
+      "lineNumber": 21,
+      "text": "D. Discuss in groups to decide which of the above three rail services you like",
+      "cleanText": "D. Discuss in groups to decide which of the above three rail services you like",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.2,
+      "bbox": [
+        60.77,
+        619.78,
+        476.35,
+        632.16
+      ]
+    },
+    {
+      "id": "class8-english-p125-l022",
+      "lineNumber": 22,
+      "text": "best and why. Finally, write a paragraph and present it to the class: Ss",
+      "cleanText": "best and why. Finally, write a paragraph and present it to the class: Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.93,
+      "bbox": [
+        77.76,
+        632.16,
+        500.83,
+        651.74
+      ]
+    }
+  ],
+  "lineCount": 22,
+  "aiReadyLineCount": 22,
+  "averageConfidence": 93.06,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:58.461405+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

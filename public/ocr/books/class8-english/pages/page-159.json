@@ -1,0 +1,837 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 159,
+  "pdfPage": 159,
+  "textbookPage": 159,
+  "width": 522.0,
+  "height": 684.0,
+  "image": "../images/page-159.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "154 English For Today\nd) The poem connects these themes by juxtaposing the little plant’s\nawakening with the speaker’s desire to express and share their grief.\ne) The wild geese begin their journey because they sense that the\nseason is changing, and winter is approaching. The poem hints at\nan instinctual response to the shift in the environment, which\nsignals them to migrate.\nf) The poem contrasts the chaos and artificiality of urban life with\nthe tranquility and beauty of nature, emphasizing the speaker’s\npreference for the latter.\ng) The poem suggests that imagination can bring ordinary objects,\nlike shoes, to life, giving them personalities and stories that\ncaptivate the reader.\nh) The poet may be suggesting that while life is transient and full of\nuncertainties, moments of reflection and acceptance allow one to\nfind peace and meaning in the present moment, even if answers to\nlife's big questions remain elusive.\n11. The Boy and the Magic Pot\nOne day, a hungry little boy was searching for food to eat. He looked for food\nhere and there. Suddenly, he saw a pot. He took the pot and surprisingly found\nit filled with golden coins! At first, he thought it might be a mistake or a trick,\nbut when he reached into the pot and felt the weight of the coins, he realized it\nwas real. The boy could hardly believe his luck. He thought of all the food he\ncould buy, the new clothes he could wear, and how he could finally live without\nworrying about where his next meal would come from.\nBut as he looked at the pot, he remembered something his mother had always |\ntold him: \"True happiness isn’t in wealth, but in helping others.\" =",
+  "cleanText": "154 English For Today d) The poem connects these themes by juxtaposing the little plant’s awakening with the speaker’s desire to express and share their grief. e) The wild geese begin their journey because they sense that the season is changing, and winter is approaching. The poem hints at an instinctual response to the shift in the environment, which signals them to migrate. f) The poem contrasts the chaos and artificiality of urban life with the tranquility and beauty of nature, emphasizing the speaker’s preference for the latter. g) The poem suggests that imagination can bring ordinary objects, like shoes, to life, giving them personalities and stories that captivate the reader. h) The poet may be suggesting that while life is transient and full of uncertainties, moments of reflection and acceptance allow one to find peace and meaning in the present moment, even if answers to life's big questions remain elusive. 11. The Boy and the Magic Pot One day, a hungry little boy was searching for food to eat. He looked for food here and there. Suddenly, he saw a pot. He took the pot and surprisingly found it filled with golden coins! At first, he thought it might be a mistake or a trick, but when he reached into the pot and felt the weight of the coins, he realized it was real. The boy could hardly believe his luck. He thought of all the food he could buy, the new clothes he could wear, and how he could finally live without worrying about where his next meal would come from. But as he looked at the pot, he remembered something his mother had always | told him: \"True happiness isn’t in wealth, but in helping others.\" =",
+  "aiReadyText": "154 English For Today d) The poem connects these themes by juxtaposing the little plant’s awakening with the speaker’s desire to express and share their grief. e) The wild geese begin their journey because they sense that the season is changing, and winter is approaching. The poem hints at an instinctual response to the shift in the environment, which signals them to migrate. f) The poem contrasts the chaos and artificiality of urban life with the tranquility and beauty of nature, emphasizing the speaker’s preference for the latter. g) The poem suggests that imagination can bring ordinary objects, like shoes, to life, giving them personalities and stories that captivate the reader. h) The poet may be suggesting that while life is transient and full of uncertainties, moments of reflection and acceptance allow one to find peace and meaning in the present moment, even if answers to life's big questions remain elusive. 11. The Boy and the Magic Pot One day, a hungry little boy was searching for food to eat. He looked for food here and there. Suddenly, he saw a pot. He took the pot and surprisingly found it filled with golden coins! At first, he thought it might be a mistake or a trick, but when he reached into the pot and felt the weight of the coins, he realized it was real. The boy could hardly believe his luck. He thought of all the food he could buy, the new clothes he could wear, and how he could finally live without worrying about where his next meal would come from. But as he looked at the pot, he remembered something his mother had always | told him: \"True happiness isn’t in wealth, but in helping others.\" =",
+  "lines": [
+    {
+      "id": "class8-english-p159-l001",
+      "lineNumber": 1,
+      "text": "154 English For Today",
+      "cleanText": "154 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        57.89,
+        37.73,
+        467.42,
+        47.52
+      ]
+    },
+    {
+      "id": "class8-english-p159-l002",
+      "lineNumber": 2,
+      "text": "d) The poem connects these themes by juxtaposing the little plant’s",
+      "cleanText": "d) The poem connects these themes by juxtaposing the little plant’s",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.73,
+      "bbox": [
+        90.43,
+        70.27,
+        444.67,
+        82.37
+      ]
+    },
+    {
+      "id": "class8-english-p159-l003",
+      "lineNumber": 3,
+      "text": "awakening with the speaker’s desire to express and share their grief.",
+      "cleanText": "awakening with the speaker’s desire to express and share their grief.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.27,
+      "bbox": [
+        126.43,
+        91.3,
+        461.95,
+        103.1
+      ]
+    },
+    {
+      "id": "class8-english-p159-l004",
+      "lineNumber": 4,
+      "text": "e) The wild geese begin their journey because they sense that the",
+      "cleanText": "e) The wild geese begin their journey because they sense that the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        90.43,
+        114.34,
+        449.86,
+        126.14
+      ]
+    },
+    {
+      "id": "class8-english-p159-l005",
+      "lineNumber": 5,
+      "text": "season is changing, and winter is approaching. The poem hints at",
+      "cleanText": "season is changing, and winter is approaching. The poem hints at",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.72,
+        135.36,
+        464.54,
+        147.17
+      ]
+    },
+    {
+      "id": "class8-english-p159-l006",
+      "lineNumber": 6,
+      "text": "an instinctual response to the shift in the environment, which",
+      "cleanText": "an instinctual response to the shift in the environment, which",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        126.43,
+        156.38,
+        442.94,
+        168.19
+      ]
+    },
+    {
+      "id": "class8-english-p159-l007",
+      "lineNumber": 7,
+      "text": "signals them to migrate.",
+      "cleanText": "signals them to migrate.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.72,
+        177.41,
+        249.98,
+        189.22
+      ]
+    },
+    {
+      "id": "class8-english-p159-l008",
+      "lineNumber": 8,
+      "text": "f) The poem contrasts the chaos and artificiality of urban life with",
+      "cleanText": "f) The poem contrasts the chaos and artificiality of urban life with",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        89.28,
+        199.3,
+        456.48,
+        213.7
+      ]
+    },
+    {
+      "id": "class8-english-p159-l009",
+      "lineNumber": 9,
+      "text": "the tranquility and beauty of nature, emphasizing the speaker’s",
+      "cleanText": "the tranquility and beauty of nature, emphasizing the speaker’s",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.22,
+      "bbox": [
+        126.14,
+        221.47,
+        452.16,
+        233.28
+      ]
+    },
+    {
+      "id": "class8-english-p159-l010",
+      "lineNumber": 10,
+      "text": "preference for the latter.",
+      "cleanText": "preference for the latter.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.14,
+        242.5,
+        249.98,
+        254.3
+      ]
+    },
+    {
+      "id": "class8-english-p159-l011",
+      "lineNumber": 11,
+      "text": "g) The poem suggests that imagination can bring ordinary objects,",
+      "cleanText": "g) The poem suggests that imagination can bring ordinary objects,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        90.43,
+        265.25,
+        455.62,
+        277.34
+      ]
+    },
+    {
+      "id": "class8-english-p159-l012",
+      "lineNumber": 12,
+      "text": "like shoes, to life, giving them personalities and stories that",
+      "cleanText": "like shoes, to life, giving them personalities and stories that",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.1,
+      "bbox": [
+        126.72,
+        286.27,
+        434.59,
+        298.37
+      ]
+    },
+    {
+      "id": "class8-english-p159-l013",
+      "lineNumber": 13,
+      "text": "captivate the reader.",
+      "cleanText": "captivate the reader.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.43,
+        307.3,
+        229.54,
+        319.1
+      ]
+    },
+    {
+      "id": "class8-english-p159-l014",
+      "lineNumber": 14,
+      "text": "h) The poet may be suggesting that while life is transient and full of",
+      "cleanText": "h) The poet may be suggesting that while life is transient and full of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.79,
+      "bbox": [
+        90.14,
+        330.34,
+        465.98,
+        342.14
+      ]
+    },
+    {
+      "id": "class8-english-p159-l015",
+      "lineNumber": 15,
+      "text": "uncertainties, moments of reflection and acceptance allow one to",
+      "cleanText": "uncertainties, moments of reflection and acceptance allow one to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.56,
+      "bbox": [
+        126.14,
+        351.36,
+        463.1,
+        363.17
+      ]
+    },
+    {
+      "id": "class8-english-p159-l016",
+      "lineNumber": 16,
+      "text": "find peace and meaning in the present moment, even if answers to",
+      "cleanText": "find peace and meaning in the present moment, even if answers to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        126.43,
+        372.38,
+        469.15,
+        384.19
+      ]
+    },
+    {
+      "id": "class8-english-p159-l017",
+      "lineNumber": 17,
+      "text": "life's big questions remain elusive.",
+      "cleanText": "life's big questions remain elusive.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.43,
+        393.41,
+        304.7,
+        405.22
+      ]
+    },
+    {
+      "id": "class8-english-p159-l018",
+      "lineNumber": 18,
+      "text": "11. The Boy and the Magic Pot",
+      "cleanText": "11. The Boy and the Magic Pot",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.86,
+      "bbox": [
+        55.01,
+        438.62,
+        353.09,
+        452.74
+      ]
+    },
+    {
+      "id": "class8-english-p159-l019",
+      "lineNumber": 19,
+      "text": "One day, a hungry little boy was searching for food to eat. He looked for food",
+      "cleanText": "One day, a hungry little boy was searching for food to eat. He looked for food",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        54.43,
+        470.3,
+        465.12,
+        482.11
+      ]
+    },
+    {
+      "id": "class8-english-p159-l020",
+      "lineNumber": 20,
+      "text": "here and there. Suddenly, he saw a pot. He took the pot and surprisingly found",
+      "cleanText": "here and there. Suddenly, he saw a pot. He took the pot and surprisingly found",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.87,
+      "bbox": [
+        54.14,
+        491.33,
+        465.12,
+        503.14
+      ]
+    },
+    {
+      "id": "class8-english-p159-l021",
+      "lineNumber": 21,
+      "text": "it filled with golden coins! At first, he thought it might be a mistake or a trick,",
+      "cleanText": "it filled with golden coins! At first, he thought it might be a mistake or a trick,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        54.43,
+        511.2,
+        464.54,
+        525.31
+      ]
+    },
+    {
+      "id": "class8-english-p159-l022",
+      "lineNumber": 22,
+      "text": "but when he reached into the pot and felt the weight of the coins, he realized it",
+      "cleanText": "but when he reached into the pot and felt the weight of the coins, he realized it",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        54.14,
+        533.38,
+        465.12,
+        545.18
+      ]
+    },
+    {
+      "id": "class8-english-p159-l023",
+      "lineNumber": 23,
+      "text": "was real. The boy could hardly believe his luck. He thought of all the food he",
+      "cleanText": "was real. The boy could hardly believe his luck. He thought of all the food he",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        54.14,
+        554.4,
+        464.83,
+        566.21
+      ]
+    },
+    {
+      "id": "class8-english-p159-l024",
+      "lineNumber": 24,
+      "text": "could buy, the new clothes he could wear, and how he could finally live without",
+      "cleanText": "could buy, the new clothes he could wear, and how he could finally live without",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        54.43,
+        575.42,
+        465.12,
+        587.23
+      ]
+    },
+    {
+      "id": "class8-english-p159-l025",
+      "lineNumber": 25,
+      "text": "worrying about where his next meal would come from.",
+      "cleanText": "worrying about where his next meal would come from.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.89,
+      "bbox": [
+        54.14,
+        596.45,
+        339.55,
+        608.26
+      ]
+    },
+    {
+      "id": "class8-english-p159-l026",
+      "lineNumber": 26,
+      "text": "But as he looked at the pot, he remembered something his mother had always |",
+      "cleanText": "But as he looked at the pot, he remembered something his mother had always |",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.8,
+      "bbox": [
+        54.43,
+        619.49,
+        493.63,
+        632.74
+      ]
+    },
+    {
+      "id": "class8-english-p159-l027",
+      "lineNumber": 27,
+      "text": "told him: \"True happiness isn’t in wealth, but in helping others.\" =",
+      "cleanText": "told him: \"True happiness isn’t in wealth, but in helping others.\" =",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.08,
+      "bbox": [
+        54.14,
+        633.6,
+        493.63,
+        652.32
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p159-l001",
+      "lineNumber": 1,
+      "text": "154 English For Today",
+      "cleanText": "154 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        57.89,
+        37.73,
+        467.42,
+        47.52
+      ]
+    },
+    {
+      "id": "class8-english-p159-l002",
+      "lineNumber": 2,
+      "text": "d) The poem connects these themes by juxtaposing the little plant’s",
+      "cleanText": "d) The poem connects these themes by juxtaposing the little plant’s",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.73,
+      "bbox": [
+        90.43,
+        70.27,
+        444.67,
+        82.37
+      ]
+    },
+    {
+      "id": "class8-english-p159-l003",
+      "lineNumber": 3,
+      "text": "awakening with the speaker’s desire to express and share their grief.",
+      "cleanText": "awakening with the speaker’s desire to express and share their grief.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.27,
+      "bbox": [
+        126.43,
+        91.3,
+        461.95,
+        103.1
+      ]
+    },
+    {
+      "id": "class8-english-p159-l004",
+      "lineNumber": 4,
+      "text": "e) The wild geese begin their journey because they sense that the",
+      "cleanText": "e) The wild geese begin their journey because they sense that the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        90.43,
+        114.34,
+        449.86,
+        126.14
+      ]
+    },
+    {
+      "id": "class8-english-p159-l005",
+      "lineNumber": 5,
+      "text": "season is changing, and winter is approaching. The poem hints at",
+      "cleanText": "season is changing, and winter is approaching. The poem hints at",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.72,
+        135.36,
+        464.54,
+        147.17
+      ]
+    },
+    {
+      "id": "class8-english-p159-l006",
+      "lineNumber": 6,
+      "text": "an instinctual response to the shift in the environment, which",
+      "cleanText": "an instinctual response to the shift in the environment, which",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        126.43,
+        156.38,
+        442.94,
+        168.19
+      ]
+    },
+    {
+      "id": "class8-english-p159-l007",
+      "lineNumber": 7,
+      "text": "signals them to migrate.",
+      "cleanText": "signals them to migrate.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.72,
+        177.41,
+        249.98,
+        189.22
+      ]
+    },
+    {
+      "id": "class8-english-p159-l008",
+      "lineNumber": 8,
+      "text": "f) The poem contrasts the chaos and artificiality of urban life with",
+      "cleanText": "f) The poem contrasts the chaos and artificiality of urban life with",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        89.28,
+        199.3,
+        456.48,
+        213.7
+      ]
+    },
+    {
+      "id": "class8-english-p159-l009",
+      "lineNumber": 9,
+      "text": "the tranquility and beauty of nature, emphasizing the speaker’s",
+      "cleanText": "the tranquility and beauty of nature, emphasizing the speaker’s",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.22,
+      "bbox": [
+        126.14,
+        221.47,
+        452.16,
+        233.28
+      ]
+    },
+    {
+      "id": "class8-english-p159-l010",
+      "lineNumber": 10,
+      "text": "preference for the latter.",
+      "cleanText": "preference for the latter.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.14,
+        242.5,
+        249.98,
+        254.3
+      ]
+    },
+    {
+      "id": "class8-english-p159-l011",
+      "lineNumber": 11,
+      "text": "g) The poem suggests that imagination can bring ordinary objects,",
+      "cleanText": "g) The poem suggests that imagination can bring ordinary objects,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        90.43,
+        265.25,
+        455.62,
+        277.34
+      ]
+    },
+    {
+      "id": "class8-english-p159-l012",
+      "lineNumber": 12,
+      "text": "like shoes, to life, giving them personalities and stories that",
+      "cleanText": "like shoes, to life, giving them personalities and stories that",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.1,
+      "bbox": [
+        126.72,
+        286.27,
+        434.59,
+        298.37
+      ]
+    },
+    {
+      "id": "class8-english-p159-l013",
+      "lineNumber": 13,
+      "text": "captivate the reader.",
+      "cleanText": "captivate the reader.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.43,
+        307.3,
+        229.54,
+        319.1
+      ]
+    },
+    {
+      "id": "class8-english-p159-l014",
+      "lineNumber": 14,
+      "text": "h) The poet may be suggesting that while life is transient and full of",
+      "cleanText": "h) The poet may be suggesting that while life is transient and full of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.79,
+      "bbox": [
+        90.14,
+        330.34,
+        465.98,
+        342.14
+      ]
+    },
+    {
+      "id": "class8-english-p159-l015",
+      "lineNumber": 15,
+      "text": "uncertainties, moments of reflection and acceptance allow one to",
+      "cleanText": "uncertainties, moments of reflection and acceptance allow one to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.56,
+      "bbox": [
+        126.14,
+        351.36,
+        463.1,
+        363.17
+      ]
+    },
+    {
+      "id": "class8-english-p159-l016",
+      "lineNumber": 16,
+      "text": "find peace and meaning in the present moment, even if answers to",
+      "cleanText": "find peace and meaning in the present moment, even if answers to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        126.43,
+        372.38,
+        469.15,
+        384.19
+      ]
+    },
+    {
+      "id": "class8-english-p159-l017",
+      "lineNumber": 17,
+      "text": "life's big questions remain elusive.",
+      "cleanText": "life's big questions remain elusive.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.43,
+        393.41,
+        304.7,
+        405.22
+      ]
+    },
+    {
+      "id": "class8-english-p159-l018",
+      "lineNumber": 18,
+      "text": "11. The Boy and the Magic Pot",
+      "cleanText": "11. The Boy and the Magic Pot",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.86,
+      "bbox": [
+        55.01,
+        438.62,
+        353.09,
+        452.74
+      ]
+    },
+    {
+      "id": "class8-english-p159-l019",
+      "lineNumber": 19,
+      "text": "One day, a hungry little boy was searching for food to eat. He looked for food",
+      "cleanText": "One day, a hungry little boy was searching for food to eat. He looked for food",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        54.43,
+        470.3,
+        465.12,
+        482.11
+      ]
+    },
+    {
+      "id": "class8-english-p159-l020",
+      "lineNumber": 20,
+      "text": "here and there. Suddenly, he saw a pot. He took the pot and surprisingly found",
+      "cleanText": "here and there. Suddenly, he saw a pot. He took the pot and surprisingly found",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.87,
+      "bbox": [
+        54.14,
+        491.33,
+        465.12,
+        503.14
+      ]
+    },
+    {
+      "id": "class8-english-p159-l021",
+      "lineNumber": 21,
+      "text": "it filled with golden coins! At first, he thought it might be a mistake or a trick,",
+      "cleanText": "it filled with golden coins! At first, he thought it might be a mistake or a trick,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        54.43,
+        511.2,
+        464.54,
+        525.31
+      ]
+    },
+    {
+      "id": "class8-english-p159-l022",
+      "lineNumber": 22,
+      "text": "but when he reached into the pot and felt the weight of the coins, he realized it",
+      "cleanText": "but when he reached into the pot and felt the weight of the coins, he realized it",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        54.14,
+        533.38,
+        465.12,
+        545.18
+      ]
+    },
+    {
+      "id": "class8-english-p159-l023",
+      "lineNumber": 23,
+      "text": "was real. The boy could hardly believe his luck. He thought of all the food he",
+      "cleanText": "was real. The boy could hardly believe his luck. He thought of all the food he",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        54.14,
+        554.4,
+        464.83,
+        566.21
+      ]
+    },
+    {
+      "id": "class8-english-p159-l024",
+      "lineNumber": 24,
+      "text": "could buy, the new clothes he could wear, and how he could finally live without",
+      "cleanText": "could buy, the new clothes he could wear, and how he could finally live without",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        54.43,
+        575.42,
+        465.12,
+        587.23
+      ]
+    },
+    {
+      "id": "class8-english-p159-l025",
+      "lineNumber": 25,
+      "text": "worrying about where his next meal would come from.",
+      "cleanText": "worrying about where his next meal would come from.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.89,
+      "bbox": [
+        54.14,
+        596.45,
+        339.55,
+        608.26
+      ]
+    },
+    {
+      "id": "class8-english-p159-l026",
+      "lineNumber": 26,
+      "text": "But as he looked at the pot, he remembered something his mother had always |",
+      "cleanText": "But as he looked at the pot, he remembered something his mother had always |",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.8,
+      "bbox": [
+        54.43,
+        619.49,
+        493.63,
+        632.74
+      ]
+    },
+    {
+      "id": "class8-english-p159-l027",
+      "lineNumber": 27,
+      "text": "told him: \"True happiness isn’t in wealth, but in helping others.\" =",
+      "cleanText": "told him: \"True happiness isn’t in wealth, but in helping others.\" =",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.08,
+      "bbox": [
+        54.14,
+        633.6,
+        493.63,
+        652.32
+      ]
+    }
+  ],
+  "lineCount": 27,
+  "aiReadyLineCount": 27,
+  "averageConfidence": 95.42,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:19:48.151003+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

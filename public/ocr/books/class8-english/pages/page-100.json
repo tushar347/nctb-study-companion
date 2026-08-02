@@ -1,0 +1,852 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 100,
+  "pdfPage": 100,
+  "textbookPage": 100,
+  "width": 529.47,
+  "height": 688.41,
+  "image": "../images/page-100.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "News! News! News! 95\nLesson 1: What is News?\nKeywords: bunk off, mass people, objective, bias, broadcast, refer editorial,\ninformative, educative\nA. Look at the following pictures. Discuss with your partner what you\nsee in them:\n| S EE (il ‘a Sane\na Goll. i |\\ ea\n\\ i | == WY wynews El P77\n[X Ge \\ il \\ “4 Bees S\n\\ ST SSS SSS\n|| aupanel | | =.\nB. Read the text and answer the following questions:\nI eat rice every day. I play cricket. I don't bunk off school, blah...blah...\nblah....' These are common events. They happen every day or on some occasions.\nAre these events news? Should they be published in newspapers? The answer\nis a big 'NO'. Then what is news anyway? What do we want to know from the\nmedia? 'When a dog bites a man that is not news, but when a man bites a dog\nthat is news,’ says Charles Anderson Dana.\nThe first thing is that the news should bea piece of information. Secondly,\nthe information should be recent or new, and hence it is ‘news’. Thirdly,\npeople should take interest in it. Fourthly, it should be self-explained.\nThat is, it should answer all the questions with who, which, what, where, when,\nwhy and how. Finally, it should be objective. Recently, another aspect has been\nadded: news is either printed or broadcast or on the internet.\n‘oO\nN\n=\nQ",
+  "cleanText": "News! News! News! 95 Lesson 1: What is News? Keywords: bunk off, mass people, objective, bias, broadcast, refer editorial, informative, educative A. Look at the following pictures. Discuss with your partner what you see in them: | S EE (il ‘a Sane a Goll. i |\\ ea \\ i | == WY wynews El P77 [X Ge \\ il \\ “4 Bees S \\ ST SSS SSS || aupanel | | =. B. Read the text and answer the following questions: I eat rice every day. I play cricket. I don't bunk off school, blah...blah... blah....' These are common events. They happen every day or on some occasions. Are these events news? Should they be published in newspapers? The answer is a big 'NO'. Then what is news anyway? What do we want to know from the media? 'When a dog bites a man that is not news, but when a man bites a dog that is news,’ says Charles Anderson Dana. The first thing is that the news should bea piece of information. Secondly, the information should be recent or new, and hence it is ‘news’. Thirdly, people should take interest in it. Fourthly, it should be self-explained. That is, it should answer all the questions with who, which, what, where, when, why and how. Finally, it should be objective. Recently, another aspect has been added: news is either printed or broadcast or on the internet. ‘oO N = Q",
+  "aiReadyText": "News! News! News! 95 Lesson 1: What is News? Keywords: bunk off, mass people, objective, bias, broadcast, refer editorial, informative, educative A. Look at the following pictures. Discuss with your partner what you see in them: | S EE (il ‘a Sane a Goll. i |\\ ea \\ i | == WY wynews El P77 [X Ge \\ il \\ “4 Bees S \\ ST SSS SSS || aupanel | | =. B. Read the text and answer the following questions: I eat rice every day. I play cricket. I don't bunk off school, blah...blah... blah....' These are common events. They happen every day or on some occasions. Are these events news? Should they be published in newspapers? The answer is a big 'NO'. Then what is news anyway? What do we want to know from the media? 'When a dog bites a man that is not news, but when a man bites a dog that is news,’ says Charles Anderson Dana. The first thing is that the news should bea piece of information. Secondly, the information should be recent or new, and hence it is ‘news’. Thirdly, people should take interest in it. Fourthly, it should be self-explained. That is, it should answer all the questions with who, which, what, where, when, why and how. Finally, it should be objective. Recently, another aspect has been added: news is either printed or broadcast or on the internet. ‘oO",
+  "lines": [
+    {
+      "id": "class8-english-p100-l001",
+      "lineNumber": 1,
+      "text": "News! News! News! 95",
+      "cleanText": "News! News! News! 95",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        57.6,
+        38.02,
+        470.02,
+        46.08
+      ]
+    },
+    {
+      "id": "class8-english-p100-l002",
+      "lineNumber": 2,
+      "text": "Lesson 1: What is News?",
+      "cleanText": "Lesson 1: What is News?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        55.3,
+        66.82,
+        268.99,
+        80.64
+      ]
+    },
+    {
+      "id": "class8-english-p100-l003",
+      "lineNumber": 3,
+      "text": "Keywords: bunk off, mass people, objective, bias, broadcast, refer editorial,",
+      "cleanText": "Keywords: bunk off, mass people, objective, bias, broadcast, refer editorial,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.7,
+      "bbox": [
+        56.74,
+        106.56,
+        471.17,
+        118.37
+      ]
+    },
+    {
+      "id": "class8-english-p100-l004",
+      "lineNumber": 4,
+      "text": "informative, educative",
+      "cleanText": "informative, educative",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        127.3,
+        124.42,
+        244.22,
+        135.65
+      ]
+    },
+    {
+      "id": "class8-english-p100-l005",
+      "lineNumber": 5,
+      "text": "A. Look at the following pictures. Discuss with your partner what you",
+      "cleanText": "A. Look at the following pictures. Discuss with your partner what you",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        57.02,
+        160.13,
+        468.0,
+        171.65
+      ]
+    },
+    {
+      "id": "class8-english-p100-l006",
+      "lineNumber": 6,
+      "text": "see in them:",
+      "cleanText": "see in them:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        78.05,
+        177.98,
+        148.32,
+        186.91
+      ]
+    },
+    {
+      "id": "class8-english-p100-l007",
+      "lineNumber": 7,
+      "text": "| S EE (il ‘a Sane",
+      "cleanText": "| S EE (il ‘a Sane",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 51.5,
+      "bbox": [
+        76.32,
+        213.7,
+        416.74,
+        241.06
+      ]
+    },
+    {
+      "id": "class8-english-p100-l008",
+      "lineNumber": 8,
+      "text": "a Goll. i |\\ ea",
+      "cleanText": "a Goll. i |\\ ea",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 42.8,
+      "bbox": [
+        105.12,
+        228.96,
+        394.56,
+        260.35
+      ]
+    },
+    {
+      "id": "class8-english-p100-l009",
+      "lineNumber": 9,
+      "text": "\\ i | == WY wynews El P77",
+      "cleanText": "\\ i | == WY wynews El P77",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 41.75,
+      "bbox": [
+        107.71,
+        247.1,
+        446.69,
+        260.06
+      ]
+    },
+    {
+      "id": "class8-english-p100-l010",
+      "lineNumber": 10,
+      "text": "[X Ge \\ il \\ “4 Bees S",
+      "cleanText": "[X Ge \\ il \\ “4 Bees S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 51.0,
+      "bbox": [
+        83.81,
+        262.37,
+        445.25,
+        302.69
+      ]
+    },
+    {
+      "id": "class8-english-p100-l011",
+      "lineNumber": 11,
+      "text": "\\ ST SSS SSS",
+      "cleanText": "\\ ST SSS SSS",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 55.0,
+      "bbox": [
+        115.2,
+        278.21,
+        447.55,
+        289.15
+      ]
+    },
+    {
+      "id": "class8-english-p100-l012",
+      "lineNumber": 12,
+      "text": "|| aupanel | | =.",
+      "cleanText": "|| aupanel | | =.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 43.33,
+      "bbox": [
+        56.74,
+        300.67,
+        436.9,
+        314.5
+      ]
+    },
+    {
+      "id": "class8-english-p100-l013",
+      "lineNumber": 13,
+      "text": "B. Read the text and answer the following questions:",
+      "cleanText": "B. Read the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.56,
+      "bbox": [
+        56.16,
+        360.29,
+        349.63,
+        371.81
+      ]
+    },
+    {
+      "id": "class8-english-p100-l014",
+      "lineNumber": 14,
+      "text": "I eat rice every day. I play cricket. I don't bunk off school, blah...blah...",
+      "cleanText": "I eat rice every day. I play cricket. I don't bunk off school, blah...blah...",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.79,
+      "bbox": [
+        58.46,
+        383.04,
+        465.41,
+        394.85
+      ]
+    },
+    {
+      "id": "class8-english-p100-l015",
+      "lineNumber": 15,
+      "text": "blah....' These are common events. They happen every day or on some occasions.",
+      "cleanText": "blah....' These are common events. They happen every day or on some occasions.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.15,
+      "bbox": [
+        57.02,
+        400.9,
+        472.32,
+        412.7
+      ]
+    },
+    {
+      "id": "class8-english-p100-l016",
+      "lineNumber": 16,
+      "text": "Are these events news? Should they be published in newspapers? The answer",
+      "cleanText": "Are these events news? Should they be published in newspapers? The answer",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        55.3,
+        418.75,
+        469.73,
+        430.56
+      ]
+    },
+    {
+      "id": "class8-english-p100-l017",
+      "lineNumber": 17,
+      "text": "is a big 'NO'. Then what is news anyway? What do we want to know from the",
+      "cleanText": "is a big 'NO'. Then what is news anyway? What do we want to know from the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.94,
+      "bbox": [
+        56.74,
+        436.9,
+        470.3,
+        449.28
+      ]
+    },
+    {
+      "id": "class8-english-p100-l018",
+      "lineNumber": 18,
+      "text": "media? 'When a dog bites a man that is not news, but when a man bites a dog",
+      "cleanText": "media? 'When a dog bites a man that is not news, but when a man bites a dog",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.89,
+      "bbox": [
+        57.02,
+        454.75,
+        470.3,
+        466.85
+      ]
+    },
+    {
+      "id": "class8-english-p100-l019",
+      "lineNumber": 19,
+      "text": "that is news,’ says Charles Anderson Dana.",
+      "cleanText": "that is news,’ says Charles Anderson Dana.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.14,
+      "bbox": [
+        56.45,
+        472.61,
+        285.41,
+        484.42
+      ]
+    },
+    {
+      "id": "class8-english-p100-l020",
+      "lineNumber": 20,
+      "text": "The first thing is that the news should bea piece of information. Secondly,",
+      "cleanText": "The first thing is that the news should bea piece of information. Secondly,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        56.74,
+        498.24,
+        469.44,
+        510.05
+      ]
+    },
+    {
+      "id": "class8-english-p100-l021",
+      "lineNumber": 21,
+      "text": "the information should be recent or new, and hence it is ‘news’. Thirdly,",
+      "cleanText": "the information should be recent or new, and hence it is ‘news’. Thirdly,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        55.87,
+        513.79,
+        468.29,
+        525.6
+      ]
+    },
+    {
+      "id": "class8-english-p100-l022",
+      "lineNumber": 22,
+      "text": "people should take interest in it. Fourthly, it should be self-explained.",
+      "cleanText": "people should take interest in it. Fourthly, it should be self-explained.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.73,
+      "bbox": [
+        57.02,
+        529.06,
+        470.88,
+        541.15
+      ]
+    },
+    {
+      "id": "class8-english-p100-l023",
+      "lineNumber": 23,
+      "text": "That is, it should answer all the questions with who, which, what, where, when,",
+      "cleanText": "That is, it should answer all the questions with who, which, what, where, when,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        54.72,
+        543.46,
+        471.17,
+        557.86
+      ]
+    },
+    {
+      "id": "class8-english-p100-l024",
+      "lineNumber": 24,
+      "text": "why and how. Finally, it should be objective. Recently, another aspect has been",
+      "cleanText": "why and how. Finally, it should be objective. Recently, another aspect has been",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        55.3,
+        560.16,
+        470.88,
+        572.54
+      ]
+    },
+    {
+      "id": "class8-english-p100-l025",
+      "lineNumber": 25,
+      "text": "added: news is either printed or broadcast or on the internet.",
+      "cleanText": "added: news is either printed or broadcast or on the internet.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        55.87,
+        575.42,
+        369.79,
+        587.23
+      ]
+    },
+    {
+      "id": "class8-english-p100-l026",
+      "lineNumber": 26,
+      "text": "‘oO",
+      "cleanText": "‘oO",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 31.0,
+      "bbox": [
+        32.54,
+        624.67,
+        40.9,
+        630.14
+      ]
+    },
+    {
+      "id": "class8-english-p100-l027",
+      "lineNumber": 27,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 73.0,
+      "bbox": [
+        32.54,
+        631.3,
+        40.61,
+        636.77
+      ]
+    },
+    {
+      "id": "class8-english-p100-l028",
+      "lineNumber": 28,
+      "text": "=",
+      "cleanText": "=",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 26.0,
+      "bbox": [
+        32.54,
+        637.06,
+        40.9,
+        642.24
+      ]
+    },
+    {
+      "id": "class8-english-p100-l029",
+      "lineNumber": 29,
+      "text": "Q",
+      "cleanText": "Q",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 50.0,
+      "bbox": [
+        32.54,
+        643.1,
+        40.61,
+        648.58
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p100-l001",
+      "lineNumber": 1,
+      "text": "News! News! News! 95",
+      "cleanText": "News! News! News! 95",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        57.6,
+        38.02,
+        470.02,
+        46.08
+      ]
+    },
+    {
+      "id": "class8-english-p100-l002",
+      "lineNumber": 2,
+      "text": "Lesson 1: What is News?",
+      "cleanText": "Lesson 1: What is News?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        55.3,
+        66.82,
+        268.99,
+        80.64
+      ]
+    },
+    {
+      "id": "class8-english-p100-l003",
+      "lineNumber": 3,
+      "text": "Keywords: bunk off, mass people, objective, bias, broadcast, refer editorial,",
+      "cleanText": "Keywords: bunk off, mass people, objective, bias, broadcast, refer editorial,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.7,
+      "bbox": [
+        56.74,
+        106.56,
+        471.17,
+        118.37
+      ]
+    },
+    {
+      "id": "class8-english-p100-l004",
+      "lineNumber": 4,
+      "text": "informative, educative",
+      "cleanText": "informative, educative",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        127.3,
+        124.42,
+        244.22,
+        135.65
+      ]
+    },
+    {
+      "id": "class8-english-p100-l005",
+      "lineNumber": 5,
+      "text": "A. Look at the following pictures. Discuss with your partner what you",
+      "cleanText": "A. Look at the following pictures. Discuss with your partner what you",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        57.02,
+        160.13,
+        468.0,
+        171.65
+      ]
+    },
+    {
+      "id": "class8-english-p100-l006",
+      "lineNumber": 6,
+      "text": "see in them:",
+      "cleanText": "see in them:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        78.05,
+        177.98,
+        148.32,
+        186.91
+      ]
+    },
+    {
+      "id": "class8-english-p100-l007",
+      "lineNumber": 7,
+      "text": "| S EE (il ‘a Sane",
+      "cleanText": "| S EE (il ‘a Sane",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 51.5,
+      "bbox": [
+        76.32,
+        213.7,
+        416.74,
+        241.06
+      ]
+    },
+    {
+      "id": "class8-english-p100-l008",
+      "lineNumber": 8,
+      "text": "a Goll. i |\\ ea",
+      "cleanText": "a Goll. i |\\ ea",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 42.8,
+      "bbox": [
+        105.12,
+        228.96,
+        394.56,
+        260.35
+      ]
+    },
+    {
+      "id": "class8-english-p100-l009",
+      "lineNumber": 9,
+      "text": "\\ i | == WY wynews El P77",
+      "cleanText": "\\ i | == WY wynews El P77",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 41.75,
+      "bbox": [
+        107.71,
+        247.1,
+        446.69,
+        260.06
+      ]
+    },
+    {
+      "id": "class8-english-p100-l010",
+      "lineNumber": 10,
+      "text": "[X Ge \\ il \\ “4 Bees S",
+      "cleanText": "[X Ge \\ il \\ “4 Bees S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 51.0,
+      "bbox": [
+        83.81,
+        262.37,
+        445.25,
+        302.69
+      ]
+    },
+    {
+      "id": "class8-english-p100-l011",
+      "lineNumber": 11,
+      "text": "\\ ST SSS SSS",
+      "cleanText": "\\ ST SSS SSS",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 55.0,
+      "bbox": [
+        115.2,
+        278.21,
+        447.55,
+        289.15
+      ]
+    },
+    {
+      "id": "class8-english-p100-l012",
+      "lineNumber": 12,
+      "text": "|| aupanel | | =.",
+      "cleanText": "|| aupanel | | =.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 43.33,
+      "bbox": [
+        56.74,
+        300.67,
+        436.9,
+        314.5
+      ]
+    },
+    {
+      "id": "class8-english-p100-l013",
+      "lineNumber": 13,
+      "text": "B. Read the text and answer the following questions:",
+      "cleanText": "B. Read the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.56,
+      "bbox": [
+        56.16,
+        360.29,
+        349.63,
+        371.81
+      ]
+    },
+    {
+      "id": "class8-english-p100-l014",
+      "lineNumber": 14,
+      "text": "I eat rice every day. I play cricket. I don't bunk off school, blah...blah...",
+      "cleanText": "I eat rice every day. I play cricket. I don't bunk off school, blah...blah...",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.79,
+      "bbox": [
+        58.46,
+        383.04,
+        465.41,
+        394.85
+      ]
+    },
+    {
+      "id": "class8-english-p100-l015",
+      "lineNumber": 15,
+      "text": "blah....' These are common events. They happen every day or on some occasions.",
+      "cleanText": "blah....' These are common events. They happen every day or on some occasions.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.15,
+      "bbox": [
+        57.02,
+        400.9,
+        472.32,
+        412.7
+      ]
+    },
+    {
+      "id": "class8-english-p100-l016",
+      "lineNumber": 16,
+      "text": "Are these events news? Should they be published in newspapers? The answer",
+      "cleanText": "Are these events news? Should they be published in newspapers? The answer",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        55.3,
+        418.75,
+        469.73,
+        430.56
+      ]
+    },
+    {
+      "id": "class8-english-p100-l017",
+      "lineNumber": 17,
+      "text": "is a big 'NO'. Then what is news anyway? What do we want to know from the",
+      "cleanText": "is a big 'NO'. Then what is news anyway? What do we want to know from the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.94,
+      "bbox": [
+        56.74,
+        436.9,
+        470.3,
+        449.28
+      ]
+    },
+    {
+      "id": "class8-english-p100-l018",
+      "lineNumber": 18,
+      "text": "media? 'When a dog bites a man that is not news, but when a man bites a dog",
+      "cleanText": "media? 'When a dog bites a man that is not news, but when a man bites a dog",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.89,
+      "bbox": [
+        57.02,
+        454.75,
+        470.3,
+        466.85
+      ]
+    },
+    {
+      "id": "class8-english-p100-l019",
+      "lineNumber": 19,
+      "text": "that is news,’ says Charles Anderson Dana.",
+      "cleanText": "that is news,’ says Charles Anderson Dana.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.14,
+      "bbox": [
+        56.45,
+        472.61,
+        285.41,
+        484.42
+      ]
+    },
+    {
+      "id": "class8-english-p100-l020",
+      "lineNumber": 20,
+      "text": "The first thing is that the news should bea piece of information. Secondly,",
+      "cleanText": "The first thing is that the news should bea piece of information. Secondly,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        56.74,
+        498.24,
+        469.44,
+        510.05
+      ]
+    },
+    {
+      "id": "class8-english-p100-l021",
+      "lineNumber": 21,
+      "text": "the information should be recent or new, and hence it is ‘news’. Thirdly,",
+      "cleanText": "the information should be recent or new, and hence it is ‘news’. Thirdly,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        55.87,
+        513.79,
+        468.29,
+        525.6
+      ]
+    },
+    {
+      "id": "class8-english-p100-l022",
+      "lineNumber": 22,
+      "text": "people should take interest in it. Fourthly, it should be self-explained.",
+      "cleanText": "people should take interest in it. Fourthly, it should be self-explained.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.73,
+      "bbox": [
+        57.02,
+        529.06,
+        470.88,
+        541.15
+      ]
+    },
+    {
+      "id": "class8-english-p100-l023",
+      "lineNumber": 23,
+      "text": "That is, it should answer all the questions with who, which, what, where, when,",
+      "cleanText": "That is, it should answer all the questions with who, which, what, where, when,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        54.72,
+        543.46,
+        471.17,
+        557.86
+      ]
+    },
+    {
+      "id": "class8-english-p100-l024",
+      "lineNumber": 24,
+      "text": "why and how. Finally, it should be objective. Recently, another aspect has been",
+      "cleanText": "why and how. Finally, it should be objective. Recently, another aspect has been",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        55.3,
+        560.16,
+        470.88,
+        572.54
+      ]
+    },
+    {
+      "id": "class8-english-p100-l025",
+      "lineNumber": 25,
+      "text": "added: news is either printed or broadcast or on the internet.",
+      "cleanText": "added: news is either printed or broadcast or on the internet.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        55.87,
+        575.42,
+        369.79,
+        587.23
+      ]
+    },
+    {
+      "id": "class8-english-p100-l026",
+      "lineNumber": 26,
+      "text": "‘oO",
+      "cleanText": "‘oO",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 31.0,
+      "bbox": [
+        32.54,
+        624.67,
+        40.9,
+        630.14
+      ]
+    }
+  ],
+  "lineCount": 29,
+  "aiReadyLineCount": 26,
+  "averageConfidence": 78.05,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:22.718810+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

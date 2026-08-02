@@ -1,0 +1,1137 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 150,
+  "pdfPage": 150,
+  "textbookPage": 150,
+  "width": 522.0,
+  "height": 684.0,
+  "image": "../images/page-150.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Sample Question\nSubject: English 1st Paper\nGrade: Eight\nTime: 3 hours Marks:100\n[Marks for individual items are mentioned next to the test items]\nPart A - Reading (Marks: 70)\nRead the text and answer the questions 1 & 2\nPeople’s music, also known as folk music, consists of tunes, lyrics, and\nknowledge passed down orally for generations. Over time, this music has\nevolved, closely tied to the way people live. Our agriculture, food, ecology,\nseasons, and rituals are all reflected in these songs. Palligiti, Bhatiyali, Jari, Sari,\nGambhira, Lalon Giti, Paalagan, and the songs of Hason Raja all embody the\nself-expression of the people.\nAs the landscape changes, the music shifts too. In the hill tracts, you encounter\nmusic with the same role but expressed in the diverse languages of the ethnic\ncommunities. The instruments used for folk music are crafted from materials found\nin the surroundings—animal skin, bamboo, and calabash are common examples.\nThe sounds they produce are deeply connected to the land they come from.\nAs people migrate to cities and villages transform, these traditional tunes are\nslowly fading. However, folk music still finds its place in mainstream films and\nmusic albums.\n1. Choose the best answer from the alternatives: 1x7=7\na) The title “people’s music” stands for-\n1. classical music\nil. popular music\niii. folk music\nIv. | jazz music\nb) What is a defining characteristic of folk music?\n1. It is composed by famous musicians\ni. It only exists in urban areas\niii. It is passed down through generations orally\nIV. It is always played using electronic instruments\nc) Which folk music form is associated with philosophical and\nspiritual themes?\n1. Jari iii. Bhatiyali\nil. Sari iv. Lalon Giti\nForma-19, English For Today Class-8",
+  "cleanText": "Sample Question Subject: English 1st Paper Grade: Eight Time: 3 hours Marks:100 [Marks for individual items are mentioned next to the test items] Part A - Reading (Marks: 70) Read the text and answer the questions 1 & 2 People’s music, also known as folk music, consists of tunes, lyrics, and knowledge passed down orally for generations. Over time, this music has evolved, closely tied to the way people live. Our agriculture, food, ecology, seasons, and rituals are all reflected in these songs. Palligiti, Bhatiyali, Jari, Sari, Gambhira, Lalon Giti, Paalagan, and the songs of Hason Raja all embody the self-expression of the people. As the landscape changes, the music shifts too. In the hill tracts, you encounter music with the same role but expressed in the diverse languages of the ethnic communities. The instruments used for folk music are crafted from materials found in the surroundings—animal skin, bamboo, and calabash are common examples. The sounds they produce are deeply connected to the land they come from. As people migrate to cities and villages transform, these traditional tunes are slowly fading. However, folk music still finds its place in mainstream films and music albums. 1. Choose the best answer from the alternatives: 1x7=7 a) The title “people’s music” stands for- 1. classical music il. popular music iii. folk music Iv. | jazz music b) What is a defining characteristic of folk music? 1. It is composed by famous musicians i. It only exists in urban areas iii. It is passed down through generations orally IV. It is always played using electronic instruments c) Which folk music form is associated with philosophical and spiritual themes? 1. Jari iii. Bhatiyali il. Sari iv. Lalon Giti Forma-19, English For Today Class-8",
+  "aiReadyText": "Sample Question Subject: English 1st Paper Grade: Eight Time: 3 hours Marks:100 [Marks for individual items are mentioned next to the test items] Part A - Reading (Marks: 70) Read the text and answer the questions 1 & 2 People’s music, also known as folk music, consists of tunes, lyrics, and knowledge passed down orally for generations. Over time, this music has evolved, closely tied to the way people live. Our agriculture, food, ecology, seasons, and rituals are all reflected in these songs. Palligiti, Bhatiyali, Jari, Sari, Gambhira, Lalon Giti, Paalagan, and the songs of Hason Raja all embody the self-expression of the people. As the landscape changes, the music shifts too. In the hill tracts, you encounter music with the same role but expressed in the diverse languages of the ethnic communities. The instruments used for folk music are crafted from materials found in the surroundings—animal skin, bamboo, and calabash are common examples. The sounds they produce are deeply connected to the land they come from. As people migrate to cities and villages transform, these traditional tunes are slowly fading. However, folk music still finds its place in mainstream films and music albums. 1. Choose the best answer from the alternatives: 1x7=7 a) The title “people’s music” stands for- 1. classical music il. popular music iii. folk music Iv. | jazz music b) What is a defining characteristic of folk music? 1. It is composed by famous musicians i. It only exists in urban areas iii. It is passed down through generations orally IV. It is always played using electronic instruments c) Which folk music form is associated with philosophical and spiritual themes? 1. Jari iii. Bhatiyali il. Sari iv. Lalon Giti Forma-19, English For Today Class-8",
+  "lines": [
+    {
+      "id": "class8-english-p150-l001",
+      "lineNumber": 1,
+      "text": "Sample Question",
+      "cleanText": "Sample Question",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        218.3,
+        69.12,
+        311.62,
+        80.93
+      ]
+    },
+    {
+      "id": "class8-english-p150-l002",
+      "lineNumber": 2,
+      "text": "Subject: English 1st Paper",
+      "cleanText": "Subject: English 1st Paper",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.25,
+      "bbox": [
+        192.1,
+        84.67,
+        338.4,
+        96.48
+      ]
+    },
+    {
+      "id": "class8-english-p150-l003",
+      "lineNumber": 3,
+      "text": "Grade: Eight",
+      "cleanText": "Grade: Eight",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        228.67,
+        100.51,
+        301.25,
+        112.03
+      ]
+    },
+    {
+      "id": "class8-english-p150-l004",
+      "lineNumber": 4,
+      "text": "Time: 3 hours Marks:100",
+      "cleanText": "Time: 3 hours Marks:100",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.25,
+      "bbox": [
+        58.18,
+        115.78,
+        471.46,
+        124.99
+      ]
+    },
+    {
+      "id": "class8-english-p150-l005",
+      "lineNumber": 5,
+      "text": "[Marks for individual items are mentioned next to the test items]",
+      "cleanText": "[Marks for individual items are mentioned next to the test items]",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.45,
+      "bbox": [
+        97.34,
+        131.33,
+        432.29,
+        143.14
+      ]
+    },
+    {
+      "id": "class8-english-p150-l006",
+      "lineNumber": 6,
+      "text": "Part A - Reading (Marks: 70)",
+      "cleanText": "Part A - Reading (Marks: 70)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        188.06,
+        147.74,
+        338.11,
+        158.69
+      ]
+    },
+    {
+      "id": "class8-english-p150-l007",
+      "lineNumber": 7,
+      "text": "Read the text and answer the questions 1 & 2",
+      "cleanText": "Read the text and answer the questions 1 & 2",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        58.18,
+        168.77,
+        307.3,
+        180.29
+      ]
+    },
+    {
+      "id": "class8-english-p150-l008",
+      "lineNumber": 8,
+      "text": "People’s music, also known as folk music, consists of tunes, lyrics, and",
+      "cleanText": "People’s music, also known as folk music, consists of tunes, lyrics, and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        58.18,
+        184.03,
+        471.74,
+        196.13
+      ]
+    },
+    {
+      "id": "class8-english-p150-l009",
+      "lineNumber": 9,
+      "text": "knowledge passed down orally for generations. Over time, this music has",
+      "cleanText": "knowledge passed down orally for generations. Over time, this music has",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        57.89,
+        199.87,
+        471.46,
+        211.68
+      ]
+    },
+    {
+      "id": "class8-english-p150-l010",
+      "lineNumber": 10,
+      "text": "evolved, closely tied to the way people live. Our agriculture, food, ecology,",
+      "cleanText": "evolved, closely tied to the way people live. Our agriculture, food, ecology,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        58.18,
+        215.42,
+        471.17,
+        227.23
+      ]
+    },
+    {
+      "id": "class8-english-p150-l011",
+      "lineNumber": 11,
+      "text": "seasons, and rituals are all reflected in these songs. Palligiti, Bhatiyali, Jari, Sari,",
+      "cleanText": "seasons, and rituals are all reflected in these songs. Palligiti, Bhatiyali, Jari, Sari,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.23,
+      "bbox": [
+        58.46,
+        230.98,
+        471.17,
+        242.78
+      ]
+    },
+    {
+      "id": "class8-english-p150-l012",
+      "lineNumber": 12,
+      "text": "Gambhira, Lalon Giti, Paalagan, and the songs of Hason Raja all embody the",
+      "cleanText": "Gambhira, Lalon Giti, Paalagan, and the songs of Hason Raja all embody the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.31,
+      "bbox": [
+        58.18,
+        246.53,
+        471.46,
+        258.34
+      ]
+    },
+    {
+      "id": "class8-english-p150-l013",
+      "lineNumber": 13,
+      "text": "self-expression of the people.",
+      "cleanText": "self-expression of the people.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.46,
+        262.08,
+        209.95,
+        273.89
+      ]
+    },
+    {
+      "id": "class8-english-p150-l014",
+      "lineNumber": 14,
+      "text": "As the landscape changes, the music shifts too. In the hill tracts, you encounter",
+      "cleanText": "As the landscape changes, the music shifts too. In the hill tracts, you encounter",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        57.89,
+        283.68,
+        472.03,
+        295.49
+      ]
+    },
+    {
+      "id": "class8-english-p150-l015",
+      "lineNumber": 15,
+      "text": "music with the same role but expressed in the diverse languages of the ethnic",
+      "cleanText": "music with the same role but expressed in the diverse languages of the ethnic",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        58.18,
+        299.23,
+        471.46,
+        311.33
+      ]
+    },
+    {
+      "id": "class8-english-p150-l016",
+      "lineNumber": 16,
+      "text": "communities. The instruments used for folk music are crafted from materials found",
+      "cleanText": "communities. The instruments used for folk music are crafted from materials found",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        58.18,
+        315.07,
+        471.74,
+        324.29
+      ]
+    },
+    {
+      "id": "class8-english-p150-l017",
+      "lineNumber": 17,
+      "text": "in the surroundings—animal skin, bamboo, and calabash are common examples.",
+      "cleanText": "in the surroundings—animal skin, bamboo, and calabash are common examples.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        58.46,
+        330.62,
+        470.88,
+        342.43
+      ]
+    },
+    {
+      "id": "class8-english-p150-l018",
+      "lineNumber": 18,
+      "text": "The sounds they produce are deeply connected to the land they come from.",
+      "cleanText": "The sounds they produce are deeply connected to the land they come from.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        58.18,
+        346.18,
+        436.03,
+        357.98
+      ]
+    },
+    {
+      "id": "class8-english-p150-l019",
+      "lineNumber": 19,
+      "text": "As people migrate to cities and villages transform, these traditional tunes are",
+      "cleanText": "As people migrate to cities and villages transform, these traditional tunes are",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        57.89,
+        366.62,
+        471.46,
+        378.72
+      ]
+    },
+    {
+      "id": "class8-english-p150-l020",
+      "lineNumber": 20,
+      "text": "slowly fading. However, folk music still finds its place in mainstream films and",
+      "cleanText": "slowly fading. However, folk music still finds its place in mainstream films and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        58.46,
+        382.46,
+        471.74,
+        394.27
+      ]
+    },
+    {
+      "id": "class8-english-p150-l021",
+      "lineNumber": 21,
+      "text": "music albums.",
+      "cleanText": "music albums.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        58.18,
+        398.02,
+        131.9,
+        407.23
+      ]
+    },
+    {
+      "id": "class8-english-p150-l022",
+      "lineNumber": 22,
+      "text": "1. Choose the best answer from the alternatives: 1x7=7",
+      "cleanText": "1. Choose the best answer from the alternatives: 1x7=7",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.67,
+      "bbox": [
+        58.75,
+        420.77,
+        469.73,
+        429.7
+      ]
+    },
+    {
+      "id": "class8-english-p150-l023",
+      "lineNumber": 23,
+      "text": "a) The title “people’s music” stands for-",
+      "cleanText": "a) The title “people’s music” stands for-",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.57,
+      "bbox": [
+        94.46,
+        436.32,
+        335.81,
+        448.13
+      ]
+    },
+    {
+      "id": "class8-english-p150-l024",
+      "lineNumber": 24,
+      "text": "1. classical music",
+      "cleanText": "1. classical music",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        130.18,
+        451.87,
+        243.65,
+        461.09
+      ]
+    },
+    {
+      "id": "class8-english-p150-l025",
+      "lineNumber": 25,
+      "text": "il. popular music",
+      "cleanText": "il. popular music",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.0,
+      "bbox": [
+        130.46,
+        467.42,
+        239.33,
+        479.23
+      ]
+    },
+    {
+      "id": "class8-english-p150-l026",
+      "lineNumber": 26,
+      "text": "iii. folk music",
+      "cleanText": "iii. folk music",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 65.67,
+      "bbox": [
+        130.18,
+        482.98,
+        220.61,
+        492.19
+      ]
+    },
+    {
+      "id": "class8-english-p150-l027",
+      "lineNumber": 27,
+      "text": "Iv. | jazz music",
+      "cleanText": "Iv. | jazz music",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 61.0,
+      "bbox": [
+        130.18,
+        497.38,
+        220.61,
+        511.49
+      ]
+    },
+    {
+      "id": "class8-english-p150-l028",
+      "lineNumber": 28,
+      "text": "b) What is a defining characteristic of folk music?",
+      "cleanText": "b) What is a defining characteristic of folk music?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.56,
+      "bbox": [
+        94.18,
+        514.37,
+        390.82,
+        525.89
+      ]
+    },
+    {
+      "id": "class8-english-p150-l029",
+      "lineNumber": 29,
+      "text": "1. It is composed by famous musicians",
+      "cleanText": "1. It is composed by famous musicians",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.43,
+      "bbox": [
+        130.18,
+        529.92,
+        354.24,
+        541.73
+      ]
+    },
+    {
+      "id": "class8-english-p150-l030",
+      "lineNumber": 30,
+      "text": "i. It only exists in urban areas",
+      "cleanText": "i. It only exists in urban areas",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.14,
+      "bbox": [
+        130.18,
+        545.47,
+        308.74,
+        557.28
+      ]
+    },
+    {
+      "id": "class8-english-p150-l031",
+      "lineNumber": 31,
+      "text": "iii. It is passed down through generations orally",
+      "cleanText": "iii. It is passed down through generations orally",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 83.62,
+      "bbox": [
+        130.46,
+        561.02,
+        396.0,
+        572.83
+      ]
+    },
+    {
+      "id": "class8-english-p150-l032",
+      "lineNumber": 32,
+      "text": "IV. It is always played using electronic instruments",
+      "cleanText": "IV. It is always played using electronic instruments",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.25,
+      "bbox": [
+        130.18,
+        576.58,
+        412.42,
+        588.38
+      ]
+    },
+    {
+      "id": "class8-english-p150-l033",
+      "lineNumber": 33,
+      "text": "c) Which folk music form is associated with philosophical and",
+      "cleanText": "c) Which folk music form is associated with philosophical and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        94.18,
+        592.42,
+        458.21,
+        603.94
+      ]
+    },
+    {
+      "id": "class8-english-p150-l034",
+      "lineNumber": 34,
+      "text": "spiritual themes?",
+      "cleanText": "spiritual themes?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        130.46,
+        607.97,
+        224.93,
+        619.49
+      ]
+    },
+    {
+      "id": "class8-english-p150-l035",
+      "lineNumber": 35,
+      "text": "1. Jari iii. Bhatiyali",
+      "cleanText": "1. Jari iii. Bhatiyali",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 72.75,
+      "bbox": [
+        130.18,
+        623.23,
+        393.12,
+        635.33
+      ]
+    },
+    {
+      "id": "class8-english-p150-l036",
+      "lineNumber": 36,
+      "text": "il. Sari iv. Lalon Giti",
+      "cleanText": "il. Sari iv. Lalon Giti",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 81.8,
+      "bbox": [
+        130.18,
+        637.92,
+        399.17,
+        652.03
+      ]
+    },
+    {
+      "id": "class8-english-p150-l037",
+      "lineNumber": 37,
+      "text": "Forma-19, English For Today Class-8",
+      "cleanText": "Forma-19, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.8,
+      "bbox": [
+        54.14,
+        658.94,
+        219.46,
+        669.02
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p150-l001",
+      "lineNumber": 1,
+      "text": "Sample Question",
+      "cleanText": "Sample Question",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        218.3,
+        69.12,
+        311.62,
+        80.93
+      ]
+    },
+    {
+      "id": "class8-english-p150-l002",
+      "lineNumber": 2,
+      "text": "Subject: English 1st Paper",
+      "cleanText": "Subject: English 1st Paper",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.25,
+      "bbox": [
+        192.1,
+        84.67,
+        338.4,
+        96.48
+      ]
+    },
+    {
+      "id": "class8-english-p150-l003",
+      "lineNumber": 3,
+      "text": "Grade: Eight",
+      "cleanText": "Grade: Eight",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        228.67,
+        100.51,
+        301.25,
+        112.03
+      ]
+    },
+    {
+      "id": "class8-english-p150-l004",
+      "lineNumber": 4,
+      "text": "Time: 3 hours Marks:100",
+      "cleanText": "Time: 3 hours Marks:100",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.25,
+      "bbox": [
+        58.18,
+        115.78,
+        471.46,
+        124.99
+      ]
+    },
+    {
+      "id": "class8-english-p150-l005",
+      "lineNumber": 5,
+      "text": "[Marks for individual items are mentioned next to the test items]",
+      "cleanText": "[Marks for individual items are mentioned next to the test items]",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.45,
+      "bbox": [
+        97.34,
+        131.33,
+        432.29,
+        143.14
+      ]
+    },
+    {
+      "id": "class8-english-p150-l006",
+      "lineNumber": 6,
+      "text": "Part A - Reading (Marks: 70)",
+      "cleanText": "Part A - Reading (Marks: 70)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        188.06,
+        147.74,
+        338.11,
+        158.69
+      ]
+    },
+    {
+      "id": "class8-english-p150-l007",
+      "lineNumber": 7,
+      "text": "Read the text and answer the questions 1 & 2",
+      "cleanText": "Read the text and answer the questions 1 & 2",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        58.18,
+        168.77,
+        307.3,
+        180.29
+      ]
+    },
+    {
+      "id": "class8-english-p150-l008",
+      "lineNumber": 8,
+      "text": "People’s music, also known as folk music, consists of tunes, lyrics, and",
+      "cleanText": "People’s music, also known as folk music, consists of tunes, lyrics, and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        58.18,
+        184.03,
+        471.74,
+        196.13
+      ]
+    },
+    {
+      "id": "class8-english-p150-l009",
+      "lineNumber": 9,
+      "text": "knowledge passed down orally for generations. Over time, this music has",
+      "cleanText": "knowledge passed down orally for generations. Over time, this music has",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        57.89,
+        199.87,
+        471.46,
+        211.68
+      ]
+    },
+    {
+      "id": "class8-english-p150-l010",
+      "lineNumber": 10,
+      "text": "evolved, closely tied to the way people live. Our agriculture, food, ecology,",
+      "cleanText": "evolved, closely tied to the way people live. Our agriculture, food, ecology,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        58.18,
+        215.42,
+        471.17,
+        227.23
+      ]
+    },
+    {
+      "id": "class8-english-p150-l011",
+      "lineNumber": 11,
+      "text": "seasons, and rituals are all reflected in these songs. Palligiti, Bhatiyali, Jari, Sari,",
+      "cleanText": "seasons, and rituals are all reflected in these songs. Palligiti, Bhatiyali, Jari, Sari,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.23,
+      "bbox": [
+        58.46,
+        230.98,
+        471.17,
+        242.78
+      ]
+    },
+    {
+      "id": "class8-english-p150-l012",
+      "lineNumber": 12,
+      "text": "Gambhira, Lalon Giti, Paalagan, and the songs of Hason Raja all embody the",
+      "cleanText": "Gambhira, Lalon Giti, Paalagan, and the songs of Hason Raja all embody the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.31,
+      "bbox": [
+        58.18,
+        246.53,
+        471.46,
+        258.34
+      ]
+    },
+    {
+      "id": "class8-english-p150-l013",
+      "lineNumber": 13,
+      "text": "self-expression of the people.",
+      "cleanText": "self-expression of the people.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.46,
+        262.08,
+        209.95,
+        273.89
+      ]
+    },
+    {
+      "id": "class8-english-p150-l014",
+      "lineNumber": 14,
+      "text": "As the landscape changes, the music shifts too. In the hill tracts, you encounter",
+      "cleanText": "As the landscape changes, the music shifts too. In the hill tracts, you encounter",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        57.89,
+        283.68,
+        472.03,
+        295.49
+      ]
+    },
+    {
+      "id": "class8-english-p150-l015",
+      "lineNumber": 15,
+      "text": "music with the same role but expressed in the diverse languages of the ethnic",
+      "cleanText": "music with the same role but expressed in the diverse languages of the ethnic",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        58.18,
+        299.23,
+        471.46,
+        311.33
+      ]
+    },
+    {
+      "id": "class8-english-p150-l016",
+      "lineNumber": 16,
+      "text": "communities. The instruments used for folk music are crafted from materials found",
+      "cleanText": "communities. The instruments used for folk music are crafted from materials found",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        58.18,
+        315.07,
+        471.74,
+        324.29
+      ]
+    },
+    {
+      "id": "class8-english-p150-l017",
+      "lineNumber": 17,
+      "text": "in the surroundings—animal skin, bamboo, and calabash are common examples.",
+      "cleanText": "in the surroundings—animal skin, bamboo, and calabash are common examples.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        58.46,
+        330.62,
+        470.88,
+        342.43
+      ]
+    },
+    {
+      "id": "class8-english-p150-l018",
+      "lineNumber": 18,
+      "text": "The sounds they produce are deeply connected to the land they come from.",
+      "cleanText": "The sounds they produce are deeply connected to the land they come from.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        58.18,
+        346.18,
+        436.03,
+        357.98
+      ]
+    },
+    {
+      "id": "class8-english-p150-l019",
+      "lineNumber": 19,
+      "text": "As people migrate to cities and villages transform, these traditional tunes are",
+      "cleanText": "As people migrate to cities and villages transform, these traditional tunes are",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        57.89,
+        366.62,
+        471.46,
+        378.72
+      ]
+    },
+    {
+      "id": "class8-english-p150-l020",
+      "lineNumber": 20,
+      "text": "slowly fading. However, folk music still finds its place in mainstream films and",
+      "cleanText": "slowly fading. However, folk music still finds its place in mainstream films and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        58.46,
+        382.46,
+        471.74,
+        394.27
+      ]
+    },
+    {
+      "id": "class8-english-p150-l021",
+      "lineNumber": 21,
+      "text": "music albums.",
+      "cleanText": "music albums.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        58.18,
+        398.02,
+        131.9,
+        407.23
+      ]
+    },
+    {
+      "id": "class8-english-p150-l022",
+      "lineNumber": 22,
+      "text": "1. Choose the best answer from the alternatives: 1x7=7",
+      "cleanText": "1. Choose the best answer from the alternatives: 1x7=7",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.67,
+      "bbox": [
+        58.75,
+        420.77,
+        469.73,
+        429.7
+      ]
+    },
+    {
+      "id": "class8-english-p150-l023",
+      "lineNumber": 23,
+      "text": "a) The title “people’s music” stands for-",
+      "cleanText": "a) The title “people’s music” stands for-",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.57,
+      "bbox": [
+        94.46,
+        436.32,
+        335.81,
+        448.13
+      ]
+    },
+    {
+      "id": "class8-english-p150-l024",
+      "lineNumber": 24,
+      "text": "1. classical music",
+      "cleanText": "1. classical music",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        130.18,
+        451.87,
+        243.65,
+        461.09
+      ]
+    },
+    {
+      "id": "class8-english-p150-l025",
+      "lineNumber": 25,
+      "text": "il. popular music",
+      "cleanText": "il. popular music",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.0,
+      "bbox": [
+        130.46,
+        467.42,
+        239.33,
+        479.23
+      ]
+    },
+    {
+      "id": "class8-english-p150-l026",
+      "lineNumber": 26,
+      "text": "iii. folk music",
+      "cleanText": "iii. folk music",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 65.67,
+      "bbox": [
+        130.18,
+        482.98,
+        220.61,
+        492.19
+      ]
+    },
+    {
+      "id": "class8-english-p150-l027",
+      "lineNumber": 27,
+      "text": "Iv. | jazz music",
+      "cleanText": "Iv. | jazz music",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 61.0,
+      "bbox": [
+        130.18,
+        497.38,
+        220.61,
+        511.49
+      ]
+    },
+    {
+      "id": "class8-english-p150-l028",
+      "lineNumber": 28,
+      "text": "b) What is a defining characteristic of folk music?",
+      "cleanText": "b) What is a defining characteristic of folk music?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.56,
+      "bbox": [
+        94.18,
+        514.37,
+        390.82,
+        525.89
+      ]
+    },
+    {
+      "id": "class8-english-p150-l029",
+      "lineNumber": 29,
+      "text": "1. It is composed by famous musicians",
+      "cleanText": "1. It is composed by famous musicians",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.43,
+      "bbox": [
+        130.18,
+        529.92,
+        354.24,
+        541.73
+      ]
+    },
+    {
+      "id": "class8-english-p150-l030",
+      "lineNumber": 30,
+      "text": "i. It only exists in urban areas",
+      "cleanText": "i. It only exists in urban areas",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.14,
+      "bbox": [
+        130.18,
+        545.47,
+        308.74,
+        557.28
+      ]
+    },
+    {
+      "id": "class8-english-p150-l031",
+      "lineNumber": 31,
+      "text": "iii. It is passed down through generations orally",
+      "cleanText": "iii. It is passed down through generations orally",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 83.62,
+      "bbox": [
+        130.46,
+        561.02,
+        396.0,
+        572.83
+      ]
+    },
+    {
+      "id": "class8-english-p150-l032",
+      "lineNumber": 32,
+      "text": "IV. It is always played using electronic instruments",
+      "cleanText": "IV. It is always played using electronic instruments",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.25,
+      "bbox": [
+        130.18,
+        576.58,
+        412.42,
+        588.38
+      ]
+    },
+    {
+      "id": "class8-english-p150-l033",
+      "lineNumber": 33,
+      "text": "c) Which folk music form is associated with philosophical and",
+      "cleanText": "c) Which folk music form is associated with philosophical and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        94.18,
+        592.42,
+        458.21,
+        603.94
+      ]
+    },
+    {
+      "id": "class8-english-p150-l034",
+      "lineNumber": 34,
+      "text": "spiritual themes?",
+      "cleanText": "spiritual themes?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        130.46,
+        607.97,
+        224.93,
+        619.49
+      ]
+    },
+    {
+      "id": "class8-english-p150-l035",
+      "lineNumber": 35,
+      "text": "1. Jari iii. Bhatiyali",
+      "cleanText": "1. Jari iii. Bhatiyali",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 72.75,
+      "bbox": [
+        130.18,
+        623.23,
+        393.12,
+        635.33
+      ]
+    },
+    {
+      "id": "class8-english-p150-l036",
+      "lineNumber": 36,
+      "text": "il. Sari iv. Lalon Giti",
+      "cleanText": "il. Sari iv. Lalon Giti",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 81.8,
+      "bbox": [
+        130.18,
+        637.92,
+        399.17,
+        652.03
+      ]
+    },
+    {
+      "id": "class8-english-p150-l037",
+      "lineNumber": 37,
+      "text": "Forma-19, English For Today Class-8",
+      "cleanText": "Forma-19, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.8,
+      "bbox": [
+        54.14,
+        658.94,
+        219.46,
+        669.02
+      ]
+    }
+  ],
+  "lineCount": 37,
+  "aiReadyLineCount": 37,
+  "averageConfidence": 91.57,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:19:35.060982+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

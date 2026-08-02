@@ -1,0 +1,237 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 162,
+  "pdfPage": 162,
+  "textbookPage": 162,
+  "width": 520.0,
+  "height": 699.88,
+  "image": "../images/page-162.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "2026 Academic Year\nClass Eight: English For Today\nNecessity is the mother of invention.\n@ aa\n[CHERESMOTURITS\nWE Gunn TDO\nFor free distribution by the Government of the People’s Republic of Bangladesh.",
+  "cleanText": "2026 Academic Year Class Eight: English For Today Necessity is the mother of invention. @ aa [CHERESMOTURITS WE Gunn TDO For free distribution by the Government of the People’s Republic of Bangladesh.",
+  "aiReadyText": "2026 Academic Year Class Eight: English For Today Necessity is the mother of invention. @ aa [CHERESMOTURITS WE Gunn TDO For free distribution by the Government of the People’s Republic of Bangladesh.",
+  "lines": [
+    {
+      "id": "class8-english-p162-l001",
+      "lineNumber": 1,
+      "text": "2026 Academic Year",
+      "cleanText": "2026 Academic Year",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        137.09,
+        70.27,
+        387.65,
+        91.3
+      ]
+    },
+    {
+      "id": "class8-english-p162-l002",
+      "lineNumber": 2,
+      "text": "Class Eight: English For Today",
+      "cleanText": "Class Eight: English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        146.88,
+        103.39,
+        376.99,
+        119.81
+      ]
+    },
+    {
+      "id": "class8-english-p162-l003",
+      "lineNumber": 3,
+      "text": "Necessity is the mother of invention.",
+      "cleanText": "Necessity is the mother of invention.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        129.6,
+        224.64,
+        393.41,
+        241.06
+      ]
+    },
+    {
+      "id": "class8-english-p162-l004",
+      "lineNumber": 4,
+      "text": "@ aa",
+      "cleanText": "@ aa",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 22.0,
+      "bbox": [
+        136.22,
+        431.14,
+        346.46,
+        451.3
+      ]
+    },
+    {
+      "id": "class8-english-p162-l005",
+      "lineNumber": 5,
+      "text": "[CHERESMOTURITS",
+      "cleanText": "[CHERESMOTURITS",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 29.0,
+      "bbox": [
+        169.34,
+        467.71,
+        300.38,
+        490.75
+      ]
+    },
+    {
+      "id": "class8-english-p162-l006",
+      "lineNumber": 6,
+      "text": "WE Gunn TDO",
+      "cleanText": "WE Gunn TDO",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 48.0,
+      "bbox": [
+        197.28,
+        486.72,
+        347.9,
+        516.38
+      ]
+    },
+    {
+      "id": "class8-english-p162-l007",
+      "lineNumber": 7,
+      "text": "For free distribution by the Government of the People’s Republic of Bangladesh.",
+      "cleanText": "For free distribution by the Government of the People’s Republic of Bangladesh.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        50.4,
+        647.14,
+        476.06,
+        659.23
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p162-l001",
+      "lineNumber": 1,
+      "text": "2026 Academic Year",
+      "cleanText": "2026 Academic Year",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        137.09,
+        70.27,
+        387.65,
+        91.3
+      ]
+    },
+    {
+      "id": "class8-english-p162-l002",
+      "lineNumber": 2,
+      "text": "Class Eight: English For Today",
+      "cleanText": "Class Eight: English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        146.88,
+        103.39,
+        376.99,
+        119.81
+      ]
+    },
+    {
+      "id": "class8-english-p162-l003",
+      "lineNumber": 3,
+      "text": "Necessity is the mother of invention.",
+      "cleanText": "Necessity is the mother of invention.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        129.6,
+        224.64,
+        393.41,
+        241.06
+      ]
+    },
+    {
+      "id": "class8-english-p162-l004",
+      "lineNumber": 4,
+      "text": "@ aa",
+      "cleanText": "@ aa",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 22.0,
+      "bbox": [
+        136.22,
+        431.14,
+        346.46,
+        451.3
+      ]
+    },
+    {
+      "id": "class8-english-p162-l005",
+      "lineNumber": 5,
+      "text": "[CHERESMOTURITS",
+      "cleanText": "[CHERESMOTURITS",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 29.0,
+      "bbox": [
+        169.34,
+        467.71,
+        300.38,
+        490.75
+      ]
+    },
+    {
+      "id": "class8-english-p162-l006",
+      "lineNumber": 6,
+      "text": "WE Gunn TDO",
+      "cleanText": "WE Gunn TDO",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 48.0,
+      "bbox": [
+        197.28,
+        486.72,
+        347.9,
+        516.38
+      ]
+    },
+    {
+      "id": "class8-english-p162-l007",
+      "lineNumber": 7,
+      "text": "For free distribution by the Government of the People’s Republic of Bangladesh.",
+      "cleanText": "For free distribution by the Government of the People’s Republic of Bangladesh.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        50.4,
+        647.14,
+        476.06,
+        659.23
+      ]
+    }
+  ],
+  "lineCount": 7,
+  "aiReadyLineCount": 7,
+  "averageConfidence": 68.8,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:19:51.911287+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

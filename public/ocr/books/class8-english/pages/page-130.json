@@ -1,0 +1,657 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 130,
+  "pdfPage": 130,
+  "textbookPage": 130,
+  "width": 532.47,
+  "height": 692.96,
+  "image": "../images/page-130.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Things That Have Changed Our Lives 125\n3. Even sound cannot travel as................... (fast) as Concorde.\n4. In supersonic speeds, Concorde flies................... (high) in the sky than\nBoeing.\n5. To many, Concorde 100KS.............:cceeeeeeeeeeeeeee (beautiful) than other\npassenger aircrafts.\n6. Airbus A380 is the.................2...-... (large) passanger aircraft in the\nworld now.\n7. Airbus A380 can catry...........:eeeeeeeeeeeeeees+ (Many) passengers than\nBoeing 787.\nD. Project Work: Work in groups. Suppose, your teacher needs to buy a mobile\nhand set. Visit in pairs a nearby mobile phone shop. Make a list of different\nmodels of handset with their price and other features. Then discuss with your\npartner to compare and decide which one will be the best handset and why.\nShare your findings with other groups:\nLesson 5: Future Aircraft\nKeywords: withstand, space, base, launch, detach, monitor, hypersonic,\nresearch, melting, point\nA. Look at the picture and say what it is. Discuss with your partner:\n—! —\n‘So\nN",
+  "cleanText": "Things That Have Changed Our Lives 125 3. Even sound cannot travel as................... (fast) as Concorde. 4. In supersonic speeds, Concorde flies................... (high) in the sky than Boeing. 5. To many, Concorde 100KS.............:cceeeeeeeeeeeeeee (beautiful) than other passenger aircrafts. 6. Airbus A380 is the.................2...-... (large) passanger aircraft in the world now. 7. Airbus A380 can catry...........:eeeeeeeeeeeeeees+ (Many) passengers than Boeing 787. D. Project Work: Work in groups. Suppose, your teacher needs to buy a mobile hand set. Visit in pairs a nearby mobile phone shop. Make a list of different models of handset with their price and other features. Then discuss with your partner to compare and decide which one will be the best handset and why. Share your findings with other groups: Lesson 5: Future Aircraft Keywords: withstand, space, base, launch, detach, monitor, hypersonic, research, melting, point A. Look at the picture and say what it is. Discuss with your partner: —! — ‘So N",
+  "aiReadyText": "Things That Have Changed Our Lives 125 3. Even sound cannot travel as................... (fast) as Concorde. 4. In supersonic speeds, Concorde flies................... (high) in the sky than Boeing. 5. To many, Concorde 100KS.............:cceeeeeeeeeeeeeee (beautiful) than other passenger aircrafts. 6. Airbus A380 is the.................2...-... (large) passanger aircraft in the world now. 7. Airbus A380 can catry...........:eeeeeeeeeeeeeees+ (Many) passengers than Boeing 787. D. Project Work: Work in groups. Suppose, your teacher needs to buy a mobile hand set. Visit in pairs a nearby mobile phone shop. Make a list of different models of handset with their price and other features. Then discuss with your partner to compare and decide which one will be the best handset and why. Share your findings with other groups: Lesson 5: Future Aircraft Keywords: withstand, space, base, launch, detach, monitor, hypersonic, research, melting, point A. Look at the picture and say what it is. Discuss with your partner: ‘So",
+  "lines": [
+    {
+      "id": "class8-english-p130-l001",
+      "lineNumber": 1,
+      "text": "Things That Have Changed Our Lives 125",
+      "cleanText": "Things That Have Changed Our Lives 125",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        62.21,
+        41.18,
+        473.76,
+        53.28
+      ]
+    },
+    {
+      "id": "class8-english-p130-l002",
+      "lineNumber": 2,
+      "text": "3. Even sound cannot travel as................... (fast) as Concorde.",
+      "cleanText": "3. Even sound cannot travel as................... (fast) as Concorde.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        84.96,
+        73.44,
+        417.89,
+        85.25
+      ]
+    },
+    {
+      "id": "class8-english-p130-l003",
+      "lineNumber": 3,
+      "text": "4. In supersonic speeds, Concorde flies................... (high) in the sky than",
+      "cleanText": "4. In supersonic speeds, Concorde flies................... (high) in the sky than",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 76.83,
+      "bbox": [
+        84.67,
+        96.48,
+        475.78,
+        108.58
+      ]
+    },
+    {
+      "id": "class8-english-p130-l004",
+      "lineNumber": 4,
+      "text": "Boeing.",
+      "cleanText": "Boeing.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        106.27,
+        114.62,
+        146.02,
+        126.43
+      ]
+    },
+    {
+      "id": "class8-english-p130-l005",
+      "lineNumber": 5,
+      "text": "5. To many, Concorde 100KS.............:cceeeeeeeeeeeeeee (beautiful) than other",
+      "cleanText": "5. To many, Concorde 100KS.............:cceeeeeeeeeeeeeee (beautiful) than other",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 79.67,
+      "bbox": [
+        82.37,
+        134.5,
+        474.34,
+        146.3
+      ]
+    },
+    {
+      "id": "class8-english-p130-l006",
+      "lineNumber": 6,
+      "text": "passenger aircrafts.",
+      "cleanText": "passenger aircrafts.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        103.68,
+        152.64,
+        203.04,
+        164.45
+      ]
+    },
+    {
+      "id": "class8-english-p130-l007",
+      "lineNumber": 7,
+      "text": "6. Airbus A380 is the.................2...-... (large) passanger aircraft in the",
+      "cleanText": "6. Airbus A380 is the.................2...-... (large) passanger aircraft in the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.82,
+      "bbox": [
+        82.37,
+        180.58,
+        480.38,
+        192.38
+      ]
+    },
+    {
+      "id": "class8-english-p130-l008",
+      "lineNumber": 8,
+      "text": "world now.",
+      "cleanText": "world now.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        103.68,
+        198.43,
+        160.99,
+        207.65
+      ]
+    },
+    {
+      "id": "class8-english-p130-l009",
+      "lineNumber": 9,
+      "text": "7. Airbus A380 can catry...........:eeeeeeeeeeeeeees+ (Many) passengers than",
+      "cleanText": "7. Airbus A380 can catry...........:eeeeeeeeeeeeeees+ (Many) passengers than",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 76.0,
+      "bbox": [
+        82.37,
+        226.66,
+        480.96,
+        238.46
+      ]
+    },
+    {
+      "id": "class8-english-p130-l010",
+      "lineNumber": 10,
+      "text": "Boeing 787.",
+      "cleanText": "Boeing 787.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        103.97,
+        244.51,
+        166.18,
+        256.32
+      ]
+    },
+    {
+      "id": "class8-english-p130-l011",
+      "lineNumber": 11,
+      "text": "D. Project Work: Work in groups. Suppose, your teacher needs to buy a mobile",
+      "cleanText": "D. Project Work: Work in groups. Suppose, your teacher needs to buy a mobile",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        60.48,
+        277.06,
+        474.62,
+        289.44
+      ]
+    },
+    {
+      "id": "class8-english-p130-l012",
+      "lineNumber": 12,
+      "text": "hand set. Visit in pairs a nearby mobile phone shop. Make a list of different",
+      "cleanText": "hand set. Visit in pairs a nearby mobile phone shop. Make a list of different",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        78.91,
+        293.76,
+        473.76,
+        308.45
+      ]
+    },
+    {
+      "id": "class8-english-p130-l013",
+      "lineNumber": 13,
+      "text": "models of handset with their price and other features. Then discuss with your",
+      "cleanText": "models of handset with their price and other features. Then discuss with your",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        77.76,
+        313.06,
+        474.05,
+        325.44
+      ]
+    },
+    {
+      "id": "class8-english-p130-l014",
+      "lineNumber": 14,
+      "text": "partner to compare and decide which one will be the best handset and why.",
+      "cleanText": "partner to compare and decide which one will be the best handset and why.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        77.47,
+        330.91,
+        474.34,
+        343.3
+      ]
+    },
+    {
+      "id": "class8-english-p130-l015",
+      "lineNumber": 15,
+      "text": "Share your findings with other groups:",
+      "cleanText": "Share your findings with other groups:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        77.76,
+        349.06,
+        279.36,
+        361.44
+      ]
+    },
+    {
+      "id": "class8-english-p130-l016",
+      "lineNumber": 16,
+      "text": "Lesson 5: Future Aircraft",
+      "cleanText": "Lesson 5: Future Aircraft",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        60.48,
+        389.95,
+        280.22,
+        403.78
+      ]
+    },
+    {
+      "id": "class8-english-p130-l017",
+      "lineNumber": 17,
+      "text": "Keywords: withstand, space, base, launch, detach, monitor, hypersonic,",
+      "cleanText": "Keywords: withstand, space, base, launch, detach, monitor, hypersonic,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        61.06,
+        422.5,
+        449.28,
+        434.3
+      ]
+    },
+    {
+      "id": "class8-english-p130-l018",
+      "lineNumber": 18,
+      "text": "research, melting, point",
+      "cleanText": "research, melting, point",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        135.94,
+        440.35,
+        264.96,
+        452.16
+      ]
+    },
+    {
+      "id": "class8-english-p130-l019",
+      "lineNumber": 19,
+      "text": "A. Look at the picture and say what it is. Discuss with your partner:",
+      "cleanText": "A. Look at the picture and say what it is. Discuss with your partner:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.34,
+        468.58,
+        440.64,
+        480.38
+      ]
+    },
+    {
+      "id": "class8-english-p130-l020",
+      "lineNumber": 20,
+      "text": "—! —",
+      "cleanText": "—! —",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 42.5,
+      "bbox": [
+        241.92,
+        595.01,
+        332.93,
+        608.54
+      ]
+    },
+    {
+      "id": "class8-english-p130-l021",
+      "lineNumber": 21,
+      "text": "‘So",
+      "cleanText": "‘So",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 33.0,
+      "bbox": [
+        33.98,
+        628.7,
+        42.05,
+        634.18
+      ]
+    },
+    {
+      "id": "class8-english-p130-l022",
+      "lineNumber": 22,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 76.0,
+      "bbox": [
+        33.7,
+        647.14,
+        42.05,
+        652.61
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p130-l001",
+      "lineNumber": 1,
+      "text": "Things That Have Changed Our Lives 125",
+      "cleanText": "Things That Have Changed Our Lives 125",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        62.21,
+        41.18,
+        473.76,
+        53.28
+      ]
+    },
+    {
+      "id": "class8-english-p130-l002",
+      "lineNumber": 2,
+      "text": "3. Even sound cannot travel as................... (fast) as Concorde.",
+      "cleanText": "3. Even sound cannot travel as................... (fast) as Concorde.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        84.96,
+        73.44,
+        417.89,
+        85.25
+      ]
+    },
+    {
+      "id": "class8-english-p130-l003",
+      "lineNumber": 3,
+      "text": "4. In supersonic speeds, Concorde flies................... (high) in the sky than",
+      "cleanText": "4. In supersonic speeds, Concorde flies................... (high) in the sky than",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 76.83,
+      "bbox": [
+        84.67,
+        96.48,
+        475.78,
+        108.58
+      ]
+    },
+    {
+      "id": "class8-english-p130-l004",
+      "lineNumber": 4,
+      "text": "Boeing.",
+      "cleanText": "Boeing.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        106.27,
+        114.62,
+        146.02,
+        126.43
+      ]
+    },
+    {
+      "id": "class8-english-p130-l005",
+      "lineNumber": 5,
+      "text": "5. To many, Concorde 100KS.............:cceeeeeeeeeeeeeee (beautiful) than other",
+      "cleanText": "5. To many, Concorde 100KS.............:cceeeeeeeeeeeeeee (beautiful) than other",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 79.67,
+      "bbox": [
+        82.37,
+        134.5,
+        474.34,
+        146.3
+      ]
+    },
+    {
+      "id": "class8-english-p130-l006",
+      "lineNumber": 6,
+      "text": "passenger aircrafts.",
+      "cleanText": "passenger aircrafts.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        103.68,
+        152.64,
+        203.04,
+        164.45
+      ]
+    },
+    {
+      "id": "class8-english-p130-l007",
+      "lineNumber": 7,
+      "text": "6. Airbus A380 is the.................2...-... (large) passanger aircraft in the",
+      "cleanText": "6. Airbus A380 is the.................2...-... (large) passanger aircraft in the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.82,
+      "bbox": [
+        82.37,
+        180.58,
+        480.38,
+        192.38
+      ]
+    },
+    {
+      "id": "class8-english-p130-l008",
+      "lineNumber": 8,
+      "text": "world now.",
+      "cleanText": "world now.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        103.68,
+        198.43,
+        160.99,
+        207.65
+      ]
+    },
+    {
+      "id": "class8-english-p130-l009",
+      "lineNumber": 9,
+      "text": "7. Airbus A380 can catry...........:eeeeeeeeeeeeeees+ (Many) passengers than",
+      "cleanText": "7. Airbus A380 can catry...........:eeeeeeeeeeeeeees+ (Many) passengers than",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 76.0,
+      "bbox": [
+        82.37,
+        226.66,
+        480.96,
+        238.46
+      ]
+    },
+    {
+      "id": "class8-english-p130-l010",
+      "lineNumber": 10,
+      "text": "Boeing 787.",
+      "cleanText": "Boeing 787.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        103.97,
+        244.51,
+        166.18,
+        256.32
+      ]
+    },
+    {
+      "id": "class8-english-p130-l011",
+      "lineNumber": 11,
+      "text": "D. Project Work: Work in groups. Suppose, your teacher needs to buy a mobile",
+      "cleanText": "D. Project Work: Work in groups. Suppose, your teacher needs to buy a mobile",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        60.48,
+        277.06,
+        474.62,
+        289.44
+      ]
+    },
+    {
+      "id": "class8-english-p130-l012",
+      "lineNumber": 12,
+      "text": "hand set. Visit in pairs a nearby mobile phone shop. Make a list of different",
+      "cleanText": "hand set. Visit in pairs a nearby mobile phone shop. Make a list of different",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        78.91,
+        293.76,
+        473.76,
+        308.45
+      ]
+    },
+    {
+      "id": "class8-english-p130-l013",
+      "lineNumber": 13,
+      "text": "models of handset with their price and other features. Then discuss with your",
+      "cleanText": "models of handset with their price and other features. Then discuss with your",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        77.76,
+        313.06,
+        474.05,
+        325.44
+      ]
+    },
+    {
+      "id": "class8-english-p130-l014",
+      "lineNumber": 14,
+      "text": "partner to compare and decide which one will be the best handset and why.",
+      "cleanText": "partner to compare and decide which one will be the best handset and why.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        77.47,
+        330.91,
+        474.34,
+        343.3
+      ]
+    },
+    {
+      "id": "class8-english-p130-l015",
+      "lineNumber": 15,
+      "text": "Share your findings with other groups:",
+      "cleanText": "Share your findings with other groups:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        77.76,
+        349.06,
+        279.36,
+        361.44
+      ]
+    },
+    {
+      "id": "class8-english-p130-l016",
+      "lineNumber": 16,
+      "text": "Lesson 5: Future Aircraft",
+      "cleanText": "Lesson 5: Future Aircraft",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        60.48,
+        389.95,
+        280.22,
+        403.78
+      ]
+    },
+    {
+      "id": "class8-english-p130-l017",
+      "lineNumber": 17,
+      "text": "Keywords: withstand, space, base, launch, detach, monitor, hypersonic,",
+      "cleanText": "Keywords: withstand, space, base, launch, detach, monitor, hypersonic,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        61.06,
+        422.5,
+        449.28,
+        434.3
+      ]
+    },
+    {
+      "id": "class8-english-p130-l018",
+      "lineNumber": 18,
+      "text": "research, melting, point",
+      "cleanText": "research, melting, point",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        135.94,
+        440.35,
+        264.96,
+        452.16
+      ]
+    },
+    {
+      "id": "class8-english-p130-l019",
+      "lineNumber": 19,
+      "text": "A. Look at the picture and say what it is. Discuss with your partner:",
+      "cleanText": "A. Look at the picture and say what it is. Discuss with your partner:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.34,
+        468.58,
+        440.64,
+        480.38
+      ]
+    },
+    {
+      "id": "class8-english-p130-l021",
+      "lineNumber": 21,
+      "text": "‘So",
+      "cleanText": "‘So",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 33.0,
+      "bbox": [
+        33.98,
+        628.7,
+        42.05,
+        634.18
+      ]
+    }
+  ],
+  "lineCount": 22,
+  "aiReadyLineCount": 20,
+  "averageConfidence": 86.52,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:19:05.081019+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

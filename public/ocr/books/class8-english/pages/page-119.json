@@ -1,0 +1,642 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 119,
+  "pdfPage": 119,
+  "textbookPage": 119,
+  "width": 518.74,
+  "height": 687.06,
+  "image": "../images/page-119.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "114 English For Today\nLesson 1: The Wheel\nKeywords: circular, rotate, axis, propeller, turbine, mobility, journey (v) vehicle,\ninvention, civilisation\nA. Look at the pictures and say which one is easier to move and why:\n—\n(( (i \\ DY ]\nV/ 0 — jy oa\nB. Read the text and answer the following questions:\nHuman beings have invented many important things so far. They have brought\ngreat civilization to the world through these inventions. Do you know which\ninvention is the greatest? It is ‘the wheel’.\nA wheel is a circular object. It can rotate around its axis and help easy\nmovement of things across a surface.\n1h eee = et r a\nThe wheels are, in fact, everywhere. They are on our cars, trains, planes, wagons\nand so on. Besides, they are on most of the factory and farm equipments. Fans,\npropellers, turbines are also other types of wheels.\nSo, the wheel is very important. We cannot imagine modern life without wheels..\nBut do we know exactly who made the first wheel? g\nAN",
+  "cleanText": "114 English For Today Lesson 1: The Wheel Keywords: circular, rotate, axis, propeller, turbine, mobility, journey (v) vehicle, invention, civilisation A. Look at the pictures and say which one is easier to move and why: — (( (i \\ DY ] V/ 0 — jy oa B. Read the text and answer the following questions: Human beings have invented many important things so far. They have brought great civilization to the world through these inventions. Do you know which invention is the greatest? It is ‘the wheel’. A wheel is a circular object. It can rotate around its axis and help easy movement of things across a surface. 1h eee = et r a The wheels are, in fact, everywhere. They are on our cars, trains, planes, wagons and so on. Besides, they are on most of the factory and farm equipments. Fans, propellers, turbines are also other types of wheels. So, the wheel is very important. We cannot imagine modern life without wheels.. But do we know exactly who made the first wheel? g AN",
+  "aiReadyText": "114 English For Today Lesson 1: The Wheel Keywords: circular, rotate, axis, propeller, turbine, mobility, journey (v) vehicle, invention, civilisation A. Look at the pictures and say which one is easier to move and why: (( (i \\ DY ] V/ 0 — jy oa B. Read the text and answer the following questions: Human beings have invented many important things so far. They have brought great civilization to the world through these inventions. Do you know which invention is the greatest? It is ‘the wheel’. A wheel is a circular object. It can rotate around its axis and help easy movement of things across a surface. 1h eee = et r a The wheels are, in fact, everywhere. They are on our cars, trains, planes, wagons and so on. Besides, they are on most of the factory and farm equipments. Fans, propellers, turbines are also other types of wheels. So, the wheel is very important. We cannot imagine modern life without wheels.. But do we know exactly who made the first wheel? g AN",
+  "lines": [
+    {
+      "id": "class8-english-p119-l001",
+      "lineNumber": 1,
+      "text": "114 English For Today",
+      "cleanText": "114 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        57.31,
+        39.46,
+        467.42,
+        50.4
+      ]
+    },
+    {
+      "id": "class8-english-p119-l002",
+      "lineNumber": 2,
+      "text": "Lesson 1: The Wheel",
+      "cleanText": "Lesson 1: The Wheel",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.45,
+        63.36,
+        233.57,
+        77.18
+      ]
+    },
+    {
+      "id": "class8-english-p119-l003",
+      "lineNumber": 3,
+      "text": "Keywords: circular, rotate, axis, propeller, turbine, mobility, journey (v) vehicle,",
+      "cleanText": "Keywords: circular, rotate, axis, propeller, turbine, mobility, journey (v) vehicle,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.1,
+      "bbox": [
+        57.02,
+        95.62,
+        475.49,
+        107.71
+      ]
+    },
+    {
+      "id": "class8-english-p119-l004",
+      "lineNumber": 4,
+      "text": "invention, civilisation",
+      "cleanText": "invention, civilisation",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.72,
+        113.76,
+        235.58,
+        124.42
+      ]
+    },
+    {
+      "id": "class8-english-p119-l005",
+      "lineNumber": 5,
+      "text": "A. Look at the pictures and say which one is easier to move and why:",
+      "cleanText": "A. Look at the pictures and say which one is easier to move and why:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.73,
+      "bbox": [
+        56.45,
+        135.94,
+        442.37,
+        147.46
+      ]
+    },
+    {
+      "id": "class8-english-p119-l006",
+      "lineNumber": 6,
+      "text": "—",
+      "cleanText": "—",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 36.0,
+      "bbox": [
+        365.76,
+        162.72,
+        386.78,
+        172.8
+      ]
+    },
+    {
+      "id": "class8-english-p119-l007",
+      "lineNumber": 7,
+      "text": "(( (i \\ DY ]",
+      "cleanText": "(( (i \\ DY ]",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 45.2,
+      "bbox": [
+        108.86,
+        232.42,
+        399.74,
+        243.94
+      ]
+    },
+    {
+      "id": "class8-english-p119-l008",
+      "lineNumber": 8,
+      "text": "V/ 0 — jy oa",
+      "cleanText": "V/ 0 — jy oa",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 47.6,
+      "bbox": [
+        112.61,
+        240.19,
+        249.12,
+        256.32
+      ]
+    },
+    {
+      "id": "class8-english-p119-l009",
+      "lineNumber": 9,
+      "text": "B. Read the text and answer the following questions:",
+      "cleanText": "B. Read the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.44,
+      "bbox": [
+        55.58,
+        318.82,
+        350.78,
+        330.62
+      ]
+    },
+    {
+      "id": "class8-english-p119-l010",
+      "lineNumber": 10,
+      "text": "Human beings have invented many important things so far. They have brought",
+      "cleanText": "Human beings have invented many important things so far. They have brought",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        55.58,
+        344.74,
+        470.3,
+        356.54
+      ]
+    },
+    {
+      "id": "class8-english-p119-l011",
+      "lineNumber": 11,
+      "text": "great civilization to the world through these inventions. Do you know which",
+      "cleanText": "great civilization to the world through these inventions. Do you know which",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        55.58,
+        362.59,
+        469.73,
+        374.69
+      ]
+    },
+    {
+      "id": "class8-english-p119-l012",
+      "lineNumber": 12,
+      "text": "invention is the greatest? It is ‘the wheel’.",
+      "cleanText": "invention is the greatest? It is ‘the wheel’.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        56.16,
+        380.45,
+        277.34,
+        392.54
+      ]
+    },
+    {
+      "id": "class8-english-p119-l013",
+      "lineNumber": 13,
+      "text": "A wheel is a circular object. It can rotate around its axis and help easy",
+      "cleanText": "A wheel is a circular object. It can rotate around its axis and help easy",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.53,
+      "bbox": [
+        56.45,
+        408.67,
+        470.3,
+        420.48
+      ]
+    },
+    {
+      "id": "class8-english-p119-l014",
+      "lineNumber": 14,
+      "text": "movement of things across a surface.",
+      "cleanText": "movement of things across a surface.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        55.58,
+        426.82,
+        252.0,
+        438.62
+      ]
+    },
+    {
+      "id": "class8-english-p119-l015",
+      "lineNumber": 15,
+      "text": "1h eee = et r a",
+      "cleanText": "1h eee = et r a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 17.67,
+      "bbox": [
+        85.25,
+        505.73,
+        272.45,
+        513.5
+      ]
+    },
+    {
+      "id": "class8-english-p119-l016",
+      "lineNumber": 16,
+      "text": "The wheels are, in fact, everywhere. They are on our cars, trains, planes, wagons",
+      "cleanText": "The wheels are, in fact, everywhere. They are on our cars, trains, planes, wagons",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        55.87,
+        559.58,
+        470.02,
+        571.68
+      ]
+    },
+    {
+      "id": "class8-english-p119-l017",
+      "lineNumber": 17,
+      "text": "and so on. Besides, they are on most of the factory and farm equipments. Fans,",
+      "cleanText": "and so on. Besides, they are on most of the factory and farm equipments. Fans,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        55.87,
+        575.71,
+        471.74,
+        587.52
+      ]
+    },
+    {
+      "id": "class8-english-p119-l018",
+      "lineNumber": 18,
+      "text": "propellers, turbines are also other types of wheels.",
+      "cleanText": "propellers, turbines are also other types of wheels.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.45,
+        591.55,
+        317.38,
+        603.94
+      ]
+    },
+    {
+      "id": "class8-english-p119-l019",
+      "lineNumber": 19,
+      "text": "So, the wheel is very important. We cannot imagine modern life without wheels..",
+      "cleanText": "So, the wheel is very important. We cannot imagine modern life without wheels..",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.14,
+      "bbox": [
+        55.58,
+        616.9,
+        497.09,
+        632.16
+      ]
+    },
+    {
+      "id": "class8-english-p119-l020",
+      "lineNumber": 20,
+      "text": "But do we know exactly who made the first wheel? g",
+      "cleanText": "But do we know exactly who made the first wheel? g",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.0,
+      "bbox": [
+        54.72,
+        631.87,
+        497.09,
+        644.26
+      ]
+    },
+    {
+      "id": "class8-english-p119-l021",
+      "lineNumber": 21,
+      "text": "AN",
+      "cleanText": "AN",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 0.0,
+      "bbox": [
+        489.02,
+        645.12,
+        497.09,
+        650.59
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p119-l001",
+      "lineNumber": 1,
+      "text": "114 English For Today",
+      "cleanText": "114 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        57.31,
+        39.46,
+        467.42,
+        50.4
+      ]
+    },
+    {
+      "id": "class8-english-p119-l002",
+      "lineNumber": 2,
+      "text": "Lesson 1: The Wheel",
+      "cleanText": "Lesson 1: The Wheel",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.45,
+        63.36,
+        233.57,
+        77.18
+      ]
+    },
+    {
+      "id": "class8-english-p119-l003",
+      "lineNumber": 3,
+      "text": "Keywords: circular, rotate, axis, propeller, turbine, mobility, journey (v) vehicle,",
+      "cleanText": "Keywords: circular, rotate, axis, propeller, turbine, mobility, journey (v) vehicle,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.1,
+      "bbox": [
+        57.02,
+        95.62,
+        475.49,
+        107.71
+      ]
+    },
+    {
+      "id": "class8-english-p119-l004",
+      "lineNumber": 4,
+      "text": "invention, civilisation",
+      "cleanText": "invention, civilisation",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.72,
+        113.76,
+        235.58,
+        124.42
+      ]
+    },
+    {
+      "id": "class8-english-p119-l005",
+      "lineNumber": 5,
+      "text": "A. Look at the pictures and say which one is easier to move and why:",
+      "cleanText": "A. Look at the pictures and say which one is easier to move and why:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.73,
+      "bbox": [
+        56.45,
+        135.94,
+        442.37,
+        147.46
+      ]
+    },
+    {
+      "id": "class8-english-p119-l007",
+      "lineNumber": 7,
+      "text": "(( (i \\ DY ]",
+      "cleanText": "(( (i \\ DY ]",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 45.2,
+      "bbox": [
+        108.86,
+        232.42,
+        399.74,
+        243.94
+      ]
+    },
+    {
+      "id": "class8-english-p119-l008",
+      "lineNumber": 8,
+      "text": "V/ 0 — jy oa",
+      "cleanText": "V/ 0 — jy oa",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 47.6,
+      "bbox": [
+        112.61,
+        240.19,
+        249.12,
+        256.32
+      ]
+    },
+    {
+      "id": "class8-english-p119-l009",
+      "lineNumber": 9,
+      "text": "B. Read the text and answer the following questions:",
+      "cleanText": "B. Read the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.44,
+      "bbox": [
+        55.58,
+        318.82,
+        350.78,
+        330.62
+      ]
+    },
+    {
+      "id": "class8-english-p119-l010",
+      "lineNumber": 10,
+      "text": "Human beings have invented many important things so far. They have brought",
+      "cleanText": "Human beings have invented many important things so far. They have brought",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        55.58,
+        344.74,
+        470.3,
+        356.54
+      ]
+    },
+    {
+      "id": "class8-english-p119-l011",
+      "lineNumber": 11,
+      "text": "great civilization to the world through these inventions. Do you know which",
+      "cleanText": "great civilization to the world through these inventions. Do you know which",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        55.58,
+        362.59,
+        469.73,
+        374.69
+      ]
+    },
+    {
+      "id": "class8-english-p119-l012",
+      "lineNumber": 12,
+      "text": "invention is the greatest? It is ‘the wheel’.",
+      "cleanText": "invention is the greatest? It is ‘the wheel’.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        56.16,
+        380.45,
+        277.34,
+        392.54
+      ]
+    },
+    {
+      "id": "class8-english-p119-l013",
+      "lineNumber": 13,
+      "text": "A wheel is a circular object. It can rotate around its axis and help easy",
+      "cleanText": "A wheel is a circular object. It can rotate around its axis and help easy",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.53,
+      "bbox": [
+        56.45,
+        408.67,
+        470.3,
+        420.48
+      ]
+    },
+    {
+      "id": "class8-english-p119-l014",
+      "lineNumber": 14,
+      "text": "movement of things across a surface.",
+      "cleanText": "movement of things across a surface.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        55.58,
+        426.82,
+        252.0,
+        438.62
+      ]
+    },
+    {
+      "id": "class8-english-p119-l015",
+      "lineNumber": 15,
+      "text": "1h eee = et r a",
+      "cleanText": "1h eee = et r a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 17.67,
+      "bbox": [
+        85.25,
+        505.73,
+        272.45,
+        513.5
+      ]
+    },
+    {
+      "id": "class8-english-p119-l016",
+      "lineNumber": 16,
+      "text": "The wheels are, in fact, everywhere. They are on our cars, trains, planes, wagons",
+      "cleanText": "The wheels are, in fact, everywhere. They are on our cars, trains, planes, wagons",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        55.87,
+        559.58,
+        470.02,
+        571.68
+      ]
+    },
+    {
+      "id": "class8-english-p119-l017",
+      "lineNumber": 17,
+      "text": "and so on. Besides, they are on most of the factory and farm equipments. Fans,",
+      "cleanText": "and so on. Besides, they are on most of the factory and farm equipments. Fans,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        55.87,
+        575.71,
+        471.74,
+        587.52
+      ]
+    },
+    {
+      "id": "class8-english-p119-l018",
+      "lineNumber": 18,
+      "text": "propellers, turbines are also other types of wheels.",
+      "cleanText": "propellers, turbines are also other types of wheels.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.45,
+        591.55,
+        317.38,
+        603.94
+      ]
+    },
+    {
+      "id": "class8-english-p119-l019",
+      "lineNumber": 19,
+      "text": "So, the wheel is very important. We cannot imagine modern life without wheels..",
+      "cleanText": "So, the wheel is very important. We cannot imagine modern life without wheels..",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.14,
+      "bbox": [
+        55.58,
+        616.9,
+        497.09,
+        632.16
+      ]
+    },
+    {
+      "id": "class8-english-p119-l020",
+      "lineNumber": 20,
+      "text": "But do we know exactly who made the first wheel? g",
+      "cleanText": "But do we know exactly who made the first wheel? g",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.0,
+      "bbox": [
+        54.72,
+        631.87,
+        497.09,
+        644.26
+      ]
+    },
+    {
+      "id": "class8-english-p119-l021",
+      "lineNumber": 21,
+      "text": "AN",
+      "cleanText": "AN",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 0.0,
+      "bbox": [
+        489.02,
+        645.12,
+        497.09,
+        650.59
+      ]
+    }
+  ],
+  "lineCount": 21,
+  "aiReadyLineCount": 20,
+  "averageConfidence": 79.22,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:49.922399+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

@@ -1,0 +1,897 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 111,
+  "pdfPage": 111,
+  "textbookPage": 111,
+  "width": 526.56,
+  "height": 691.16,
+  "image": "../images/page-111.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "106 English For Today\nE. Here is a poem on news. Read it individually and then work in pairs to\ndiscuss what interesting news you get here:\nThe News\nHere is The News:\n“Two incredible shoes.\nTwo incredible shoes.\nThat’s The News.\nWhen it rains\nThey walk down drains.\nThey glow\nin the snow.\nThey grizzle\nin a drizzle.\nThey sneeze\nin a breeze.\nThey sneeze\nin a breeze.\nThey get warm\nin a storm.\nThey go soggy\nwhen it is foggy.\nThey’ve even hissed\nin a mist.\nBut\n(sad to say)\nThere comes a terrible frost.\nThis is what happened: wo\nThey got lost.’ Ss",
+  "cleanText": "106 English For Today E. Here is a poem on news. Read it individually and then work in pairs to discuss what interesting news you get here: The News Here is The News: “Two incredible shoes. Two incredible shoes. That’s The News. When it rains They walk down drains. They glow in the snow. They grizzle in a drizzle. They sneeze in a breeze. They sneeze in a breeze. They get warm in a storm. They go soggy when it is foggy. They’ve even hissed in a mist. But (sad to say) There comes a terrible frost. This is what happened: wo They got lost.’ Ss",
+  "aiReadyText": "106 English For Today E. Here is a poem on news. Read it individually and then work in pairs to discuss what interesting news you get here: The News Here is The News: “Two incredible shoes. Two incredible shoes. That’s The News. When it rains They walk down drains. They glow in the snow. They grizzle in a drizzle. They sneeze in a breeze. They sneeze in a breeze. They get warm in a storm. They go soggy when it is foggy. They’ve even hissed in a mist. But (sad to say) There comes a terrible frost. This is what happened: wo They got lost.’ Ss",
+  "lines": [
+    {
+      "id": "class8-english-p111-l001",
+      "lineNumber": 1,
+      "text": "106 English For Today",
+      "cleanText": "106 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.75,
+        42.05,
+        470.02,
+        52.99
+      ]
+    },
+    {
+      "id": "class8-english-p111-l002",
+      "lineNumber": 2,
+      "text": "E. Here is a poem on news. Read it individually and then work in pairs to",
+      "cleanText": "E. Here is a poem on news. Read it individually and then work in pairs to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.12,
+      "bbox": [
+        58.18,
+        74.02,
+        477.22,
+        85.54
+      ]
+    },
+    {
+      "id": "class8-english-p111-l003",
+      "lineNumber": 3,
+      "text": "discuss what interesting news you get here:",
+      "cleanText": "discuss what interesting news you get here:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        84.38,
+        91.01,
+        317.95,
+        102.53
+      ]
+    },
+    {
+      "id": "class8-english-p111-l004",
+      "lineNumber": 4,
+      "text": "The News",
+      "cleanText": "The News",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        237.31,
+        115.49,
+        290.88,
+        124.42
+      ]
+    },
+    {
+      "id": "class8-english-p111-l005",
+      "lineNumber": 5,
+      "text": "Here is The News:",
+      "cleanText": "Here is The News:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        216.0,
+        151.2,
+        311.62,
+        160.42
+      ]
+    },
+    {
+      "id": "class8-english-p111-l006",
+      "lineNumber": 6,
+      "text": "“Two incredible shoes.",
+      "cleanText": "“Two incredible shoes.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.67,
+      "bbox": [
+        207.94,
+        168.19,
+        323.71,
+        177.98
+      ]
+    },
+    {
+      "id": "class8-english-p111-l007",
+      "lineNumber": 7,
+      "text": "Two incredible shoes.",
+      "cleanText": "Two incredible shoes.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        209.38,
+        185.18,
+        321.7,
+        194.4
+      ]
+    },
+    {
+      "id": "class8-english-p111-l008",
+      "lineNumber": 8,
+      "text": "That’s The News.",
+      "cleanText": "That’s The News.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        218.59,
+        202.18,
+        309.02,
+        211.39
+      ]
+    },
+    {
+      "id": "class8-english-p111-l009",
+      "lineNumber": 9,
+      "text": "When it rains",
+      "cleanText": "When it rains",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        229.25,
+        228.1,
+        298.66,
+        237.6
+      ]
+    },
+    {
+      "id": "class8-english-p111-l010",
+      "lineNumber": 10,
+      "text": "They walk down drains.",
+      "cleanText": "They walk down drains.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        201.6,
+        245.09,
+        326.02,
+        257.18
+      ]
+    },
+    {
+      "id": "class8-english-p111-l011",
+      "lineNumber": 11,
+      "text": "They glow",
+      "cleanText": "They glow",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        236.45,
+        271.3,
+        292.03,
+        283.1
+      ]
+    },
+    {
+      "id": "class8-english-p111-l012",
+      "lineNumber": 12,
+      "text": "in the snow.",
+      "cleanText": "in the snow.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        233.57,
+        288.29,
+        294.34,
+        297.5
+      ]
+    },
+    {
+      "id": "class8-english-p111-l013",
+      "lineNumber": 13,
+      "text": "They grizzle",
+      "cleanText": "They grizzle",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.5,
+      "bbox": [
+        231.84,
+        314.21,
+        296.35,
+        326.02
+      ]
+    },
+    {
+      "id": "class8-english-p111-l014",
+      "lineNumber": 14,
+      "text": "in a drizzle.",
+      "cleanText": "in a drizzle.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.67,
+      "bbox": [
+        234.14,
+        331.2,
+        293.76,
+        340.42
+      ]
+    },
+    {
+      "id": "class8-english-p111-l015",
+      "lineNumber": 15,
+      "text": "They sneeze",
+      "cleanText": "They sneeze",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        232.13,
+        357.12,
+        296.06,
+        369.22
+      ]
+    },
+    {
+      "id": "class8-english-p111-l016",
+      "lineNumber": 16,
+      "text": "in a breeze.",
+      "cleanText": "in a breeze.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        234.72,
+        374.11,
+        292.9,
+        383.33
+      ]
+    },
+    {
+      "id": "class8-english-p111-l017",
+      "lineNumber": 17,
+      "text": "They sneeze",
+      "cleanText": "They sneeze",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        232.13,
+        400.32,
+        296.06,
+        412.13
+      ]
+    },
+    {
+      "id": "class8-english-p111-l018",
+      "lineNumber": 18,
+      "text": "in a breeze.",
+      "cleanText": "in a breeze.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.67,
+      "bbox": [
+        234.72,
+        417.31,
+        292.9,
+        426.53
+      ]
+    },
+    {
+      "id": "class8-english-p111-l019",
+      "lineNumber": 19,
+      "text": "They get warm",
+      "cleanText": "They get warm",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        225.22,
+        443.23,
+        303.26,
+        455.04
+      ]
+    },
+    {
+      "id": "class8-english-p111-l020",
+      "lineNumber": 20,
+      "text": "in a storm.",
+      "cleanText": "in a storm.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.33,
+      "bbox": [
+        237.02,
+        460.22,
+        290.88,
+        469.44
+      ]
+    },
+    {
+      "id": "class8-english-p111-l021",
+      "lineNumber": 21,
+      "text": "They go soggy",
+      "cleanText": "They go soggy",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        225.79,
+        486.14,
+        302.69,
+        497.95
+      ]
+    },
+    {
+      "id": "class8-english-p111-l022",
+      "lineNumber": 22,
+      "text": "when it is foggy.",
+      "cleanText": "when it is foggy.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        222.62,
+        503.14,
+        307.87,
+        514.94
+      ]
+    },
+    {
+      "id": "class8-english-p111-l023",
+      "lineNumber": 23,
+      "text": "They’ve even hissed",
+      "cleanText": "They’ve even hissed",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.33,
+      "bbox": [
+        211.1,
+        529.34,
+        317.38,
+        541.15
+      ]
+    },
+    {
+      "id": "class8-english-p111-l024",
+      "lineNumber": 24,
+      "text": "in a mist.",
+      "cleanText": "in a mist.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.33,
+      "bbox": [
+        240.48,
+        546.34,
+        287.14,
+        555.55
+      ]
+    },
+    {
+      "id": "class8-english-p111-l025",
+      "lineNumber": 25,
+      "text": "But",
+      "cleanText": "But",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        254.88,
+        572.54,
+        273.6,
+        581.47
+      ]
+    },
+    {
+      "id": "class8-english-p111-l026",
+      "lineNumber": 26,
+      "text": "(sad to say)",
+      "cleanText": "(sad to say)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.33,
+      "bbox": [
+        234.72,
+        589.25,
+        293.47,
+        601.06
+      ]
+    },
+    {
+      "id": "class8-english-p111-l027",
+      "lineNumber": 27,
+      "text": "There comes a terrible frost.",
+      "cleanText": "There comes a terrible frost.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        190.94,
+        605.09,
+        336.67,
+        619.2
+      ]
+    },
+    {
+      "id": "class8-english-p111-l028",
+      "lineNumber": 28,
+      "text": "This is what happened: wo",
+      "cleanText": "This is what happened: wo",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 82.8,
+      "bbox": [
+        204.48,
+        623.23,
+        498.53,
+        635.04
+      ]
+    },
+    {
+      "id": "class8-english-p111-l029",
+      "lineNumber": 29,
+      "text": "They got lost.’ Ss",
+      "cleanText": "They got lost.’ Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 79.5,
+      "bbox": [
+        226.94,
+        635.04,
+        498.53,
+        654.91
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p111-l001",
+      "lineNumber": 1,
+      "text": "106 English For Today",
+      "cleanText": "106 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.75,
+        42.05,
+        470.02,
+        52.99
+      ]
+    },
+    {
+      "id": "class8-english-p111-l002",
+      "lineNumber": 2,
+      "text": "E. Here is a poem on news. Read it individually and then work in pairs to",
+      "cleanText": "E. Here is a poem on news. Read it individually and then work in pairs to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.12,
+      "bbox": [
+        58.18,
+        74.02,
+        477.22,
+        85.54
+      ]
+    },
+    {
+      "id": "class8-english-p111-l003",
+      "lineNumber": 3,
+      "text": "discuss what interesting news you get here:",
+      "cleanText": "discuss what interesting news you get here:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        84.38,
+        91.01,
+        317.95,
+        102.53
+      ]
+    },
+    {
+      "id": "class8-english-p111-l004",
+      "lineNumber": 4,
+      "text": "The News",
+      "cleanText": "The News",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        237.31,
+        115.49,
+        290.88,
+        124.42
+      ]
+    },
+    {
+      "id": "class8-english-p111-l005",
+      "lineNumber": 5,
+      "text": "Here is The News:",
+      "cleanText": "Here is The News:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        216.0,
+        151.2,
+        311.62,
+        160.42
+      ]
+    },
+    {
+      "id": "class8-english-p111-l006",
+      "lineNumber": 6,
+      "text": "“Two incredible shoes.",
+      "cleanText": "“Two incredible shoes.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.67,
+      "bbox": [
+        207.94,
+        168.19,
+        323.71,
+        177.98
+      ]
+    },
+    {
+      "id": "class8-english-p111-l007",
+      "lineNumber": 7,
+      "text": "Two incredible shoes.",
+      "cleanText": "Two incredible shoes.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        209.38,
+        185.18,
+        321.7,
+        194.4
+      ]
+    },
+    {
+      "id": "class8-english-p111-l008",
+      "lineNumber": 8,
+      "text": "That’s The News.",
+      "cleanText": "That’s The News.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        218.59,
+        202.18,
+        309.02,
+        211.39
+      ]
+    },
+    {
+      "id": "class8-english-p111-l009",
+      "lineNumber": 9,
+      "text": "When it rains",
+      "cleanText": "When it rains",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        229.25,
+        228.1,
+        298.66,
+        237.6
+      ]
+    },
+    {
+      "id": "class8-english-p111-l010",
+      "lineNumber": 10,
+      "text": "They walk down drains.",
+      "cleanText": "They walk down drains.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        201.6,
+        245.09,
+        326.02,
+        257.18
+      ]
+    },
+    {
+      "id": "class8-english-p111-l011",
+      "lineNumber": 11,
+      "text": "They glow",
+      "cleanText": "They glow",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        236.45,
+        271.3,
+        292.03,
+        283.1
+      ]
+    },
+    {
+      "id": "class8-english-p111-l012",
+      "lineNumber": 12,
+      "text": "in the snow.",
+      "cleanText": "in the snow.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        233.57,
+        288.29,
+        294.34,
+        297.5
+      ]
+    },
+    {
+      "id": "class8-english-p111-l013",
+      "lineNumber": 13,
+      "text": "They grizzle",
+      "cleanText": "They grizzle",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.5,
+      "bbox": [
+        231.84,
+        314.21,
+        296.35,
+        326.02
+      ]
+    },
+    {
+      "id": "class8-english-p111-l014",
+      "lineNumber": 14,
+      "text": "in a drizzle.",
+      "cleanText": "in a drizzle.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.67,
+      "bbox": [
+        234.14,
+        331.2,
+        293.76,
+        340.42
+      ]
+    },
+    {
+      "id": "class8-english-p111-l015",
+      "lineNumber": 15,
+      "text": "They sneeze",
+      "cleanText": "They sneeze",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        232.13,
+        357.12,
+        296.06,
+        369.22
+      ]
+    },
+    {
+      "id": "class8-english-p111-l016",
+      "lineNumber": 16,
+      "text": "in a breeze.",
+      "cleanText": "in a breeze.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        234.72,
+        374.11,
+        292.9,
+        383.33
+      ]
+    },
+    {
+      "id": "class8-english-p111-l017",
+      "lineNumber": 17,
+      "text": "They sneeze",
+      "cleanText": "They sneeze",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        232.13,
+        400.32,
+        296.06,
+        412.13
+      ]
+    },
+    {
+      "id": "class8-english-p111-l018",
+      "lineNumber": 18,
+      "text": "in a breeze.",
+      "cleanText": "in a breeze.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.67,
+      "bbox": [
+        234.72,
+        417.31,
+        292.9,
+        426.53
+      ]
+    },
+    {
+      "id": "class8-english-p111-l019",
+      "lineNumber": 19,
+      "text": "They get warm",
+      "cleanText": "They get warm",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        225.22,
+        443.23,
+        303.26,
+        455.04
+      ]
+    },
+    {
+      "id": "class8-english-p111-l020",
+      "lineNumber": 20,
+      "text": "in a storm.",
+      "cleanText": "in a storm.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.33,
+      "bbox": [
+        237.02,
+        460.22,
+        290.88,
+        469.44
+      ]
+    },
+    {
+      "id": "class8-english-p111-l021",
+      "lineNumber": 21,
+      "text": "They go soggy",
+      "cleanText": "They go soggy",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        225.79,
+        486.14,
+        302.69,
+        497.95
+      ]
+    },
+    {
+      "id": "class8-english-p111-l022",
+      "lineNumber": 22,
+      "text": "when it is foggy.",
+      "cleanText": "when it is foggy.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        222.62,
+        503.14,
+        307.87,
+        514.94
+      ]
+    },
+    {
+      "id": "class8-english-p111-l023",
+      "lineNumber": 23,
+      "text": "They’ve even hissed",
+      "cleanText": "They’ve even hissed",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.33,
+      "bbox": [
+        211.1,
+        529.34,
+        317.38,
+        541.15
+      ]
+    },
+    {
+      "id": "class8-english-p111-l024",
+      "lineNumber": 24,
+      "text": "in a mist.",
+      "cleanText": "in a mist.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.33,
+      "bbox": [
+        240.48,
+        546.34,
+        287.14,
+        555.55
+      ]
+    },
+    {
+      "id": "class8-english-p111-l025",
+      "lineNumber": 25,
+      "text": "But",
+      "cleanText": "But",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        254.88,
+        572.54,
+        273.6,
+        581.47
+      ]
+    },
+    {
+      "id": "class8-english-p111-l026",
+      "lineNumber": 26,
+      "text": "(sad to say)",
+      "cleanText": "(sad to say)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.33,
+      "bbox": [
+        234.72,
+        589.25,
+        293.47,
+        601.06
+      ]
+    },
+    {
+      "id": "class8-english-p111-l027",
+      "lineNumber": 27,
+      "text": "There comes a terrible frost.",
+      "cleanText": "There comes a terrible frost.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        190.94,
+        605.09,
+        336.67,
+        619.2
+      ]
+    },
+    {
+      "id": "class8-english-p111-l028",
+      "lineNumber": 28,
+      "text": "This is what happened: wo",
+      "cleanText": "This is what happened: wo",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 82.8,
+      "bbox": [
+        204.48,
+        623.23,
+        498.53,
+        635.04
+      ]
+    },
+    {
+      "id": "class8-english-p111-l029",
+      "lineNumber": 29,
+      "text": "They got lost.’ Ss",
+      "cleanText": "They got lost.’ Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 79.5,
+      "bbox": [
+        226.94,
+        635.04,
+        498.53,
+        654.91
+      ]
+    }
+  ],
+  "lineCount": 29,
+  "aiReadyLineCount": 29,
+  "averageConfidence": 94.01,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:39.508359+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

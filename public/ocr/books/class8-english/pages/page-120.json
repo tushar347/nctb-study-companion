@@ -1,0 +1,897 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 120,
+  "pdfPage": 120,
+  "textbookPage": 120,
+  "width": 518.74,
+  "height": 687.06,
+  "image": "../images/page-120.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Things That Have Changed Our Lives 115\nQuestions:\n1. What is a wheel?\n2. What can a wheel do?\n3. Where can you find wheels?\nC. Fill in the blanks with appropriate words from the box. There are\nmore words than necessary:\nAlthough the wheel is a very (a) -------- invention, the history of its origin\nis unknown. Experts guess that the first wheel was developed from a circular\nobject. The early man observed that a huge piece of stone could be rolled easily\nif it was (b) --------- in shape. Similarly, a heavy tree-trunk is (c) -------- to\ncarry; but it can be rolled away with less effort. Even, a gigantic tree-trunk\ncan be moved easily using other small and round trunks as rollers under it. Thus,\nearly man took advantage of rolling objects and developed the (d) -------\nwheel. Apart from its mechanical advantage, a wheel’s mobility has contributed\n(e) ------- to the civilisation.\nD. Make as many correct sentences as you can using the substitution\ntable. In the third column there are more items than necessary:\n1. The wheel a type of wheel.\n2. A plain wheel is around its axis.\n3. It has one of the simplest\n4. A propeller rotates machines.\nwheels on vehicles and\nmachines.\nhelped in rapid progress\nof civilisation.\nE. Have you ever travelled by bus or car? Do you have any experience of what\nhappens if one wheel falls flat. If yes, give a description of your experience.\nS If no, imagine such a situation, and write a paragraph on it.",
+  "cleanText": "Things That Have Changed Our Lives 115 Questions: 1. What is a wheel? 2. What can a wheel do? 3. Where can you find wheels? C. Fill in the blanks with appropriate words from the box. There are more words than necessary: Although the wheel is a very (a) -------- invention, the history of its origin is unknown. Experts guess that the first wheel was developed from a circular object. The early man observed that a huge piece of stone could be rolled easily if it was (b) --------- in shape. Similarly, a heavy tree-trunk is (c) -------- to carry; but it can be rolled away with less effort. Even, a gigantic tree-trunk can be moved easily using other small and round trunks as rollers under it. Thus, early man took advantage of rolling objects and developed the (d) ------- wheel. Apart from its mechanical advantage, a wheel’s mobility has contributed (e) ------- to the civilisation. D. Make as many correct sentences as you can using the substitution table. In the third column there are more items than necessary: 1. The wheel a type of wheel. 2. A plain wheel is around its axis. 3. It has one of the simplest 4. A propeller rotates machines. wheels on vehicles and machines. helped in rapid progress of civilisation. E. Have you ever travelled by bus or car? Do you have any experience of what happens if one wheel falls flat. If yes, give a description of your experience. S If no, imagine such a situation, and write a paragraph on it.",
+  "aiReadyText": "Things That Have Changed Our Lives 115 Questions: 1. What is a wheel? 2. What can a wheel do? 3. Where can you find wheels? C. Fill in the blanks with appropriate words from the box. There are more words than necessary: Although the wheel is a very (a) -------- invention, the history of its origin is unknown. Experts guess that the first wheel was developed from a circular object. The early man observed that a huge piece of stone could be rolled easily if it was (b) --------- in shape. Similarly, a heavy tree-trunk is (c) -------- to carry; but it can be rolled away with less effort. Even, a gigantic tree-trunk can be moved easily using other small and round trunks as rollers under it. Thus, early man took advantage of rolling objects and developed the (d) ------- wheel. Apart from its mechanical advantage, a wheel’s mobility has contributed (e) ------- to the civilisation. D. Make as many correct sentences as you can using the substitution table. In the third column there are more items than necessary: 1. The wheel a type of wheel. 2. A plain wheel is around its axis. 3. It has one of the simplest 4. A propeller rotates machines. wheels on vehicles and machines. helped in rapid progress of civilisation. E. Have you ever travelled by bus or car? Do you have any experience of what happens if one wheel falls flat. If yes, give a description of your experience. S If no, imagine such a situation, and write a paragraph on it.",
+  "lines": [
+    {
+      "id": "class8-english-p120-l001",
+      "lineNumber": 1,
+      "text": "Things That Have Changed Our Lives 115",
+      "cleanText": "Things That Have Changed Our Lives 115",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        57.31,
+        39.46,
+        470.59,
+        50.4
+      ]
+    },
+    {
+      "id": "class8-english-p120-l002",
+      "lineNumber": 2,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        59.33,
+        61.63,
+        116.93,
+        72.86
+      ]
+    },
+    {
+      "id": "class8-english-p120-l003",
+      "lineNumber": 3,
+      "text": "1. What is a wheel?",
+      "cleanText": "1. What is a wheel?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        81.5,
+        86.4,
+        190.08,
+        95.62
+      ]
+    },
+    {
+      "id": "class8-english-p120-l004",
+      "lineNumber": 4,
+      "text": "2. What can a wheel do?",
+      "cleanText": "2. What can a wheel do?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.83,
+      "bbox": [
+        80.06,
+        105.41,
+        215.71,
+        114.62
+      ]
+    },
+    {
+      "id": "class8-english-p120-l005",
+      "lineNumber": 5,
+      "text": "3. Where can you find wheels?",
+      "cleanText": "3. Where can you find wheels?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        80.06,
+        124.42,
+        248.83,
+        136.22
+      ]
+    },
+    {
+      "id": "class8-english-p120-l006",
+      "lineNumber": 6,
+      "text": "C. Fill in the blanks with appropriate words from the box. There are",
+      "cleanText": "C. Fill in the blanks with appropriate words from the box. There are",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        58.46,
+        150.62,
+        474.34,
+        162.43
+      ]
+    },
+    {
+      "id": "class8-english-p120-l007",
+      "lineNumber": 7,
+      "text": "more words than necessary:",
+      "cleanText": "more words than necessary:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        85.82,
+        167.04,
+        245.95,
+        178.27
+      ]
+    },
+    {
+      "id": "class8-english-p120-l008",
+      "lineNumber": 8,
+      "text": "Although the wheel is a very (a) -------- invention, the history of its origin",
+      "cleanText": "Although the wheel is a very (a) -------- invention, the history of its origin",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.21,
+      "bbox": [
+        59.04,
+        218.59,
+        471.17,
+        230.4
+      ]
+    },
+    {
+      "id": "class8-english-p120-l009",
+      "lineNumber": 9,
+      "text": "is unknown. Experts guess that the first wheel was developed from a circular",
+      "cleanText": "is unknown. Experts guess that the first wheel was developed from a circular",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        57.89,
+        235.3,
+        472.32,
+        249.41
+      ]
+    },
+    {
+      "id": "class8-english-p120-l010",
+      "lineNumber": 10,
+      "text": "object. The early man observed that a huge piece of stone could be rolled easily",
+      "cleanText": "object. The early man observed that a huge piece of stone could be rolled easily",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.87,
+      "bbox": [
+        57.89,
+        254.59,
+        472.61,
+        266.4
+      ]
+    },
+    {
+      "id": "class8-english-p120-l011",
+      "lineNumber": 11,
+      "text": "if it was (b) --------- in shape. Similarly, a heavy tree-trunk is (c) -------- to",
+      "cleanText": "if it was (b) --------- in shape. Similarly, a heavy tree-trunk is (c) -------- to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.2,
+      "bbox": [
+        57.31,
+        272.45,
+        471.46,
+        284.26
+      ]
+    },
+    {
+      "id": "class8-english-p120-l012",
+      "lineNumber": 12,
+      "text": "carry; but it can be rolled away with less effort. Even, a gigantic tree-trunk",
+      "cleanText": "carry; but it can be rolled away with less effort. Even, a gigantic tree-trunk",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.21,
+      "bbox": [
+        58.18,
+        290.59,
+        472.61,
+        302.98
+      ]
+    },
+    {
+      "id": "class8-english-p120-l013",
+      "lineNumber": 13,
+      "text": "can be moved easily using other small and round trunks as rollers under it. Thus,",
+      "cleanText": "can be moved easily using other small and round trunks as rollers under it. Thus,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.27,
+      "bbox": [
+        56.45,
+        308.45,
+        471.46,
+        320.54
+      ]
+    },
+    {
+      "id": "class8-english-p120-l014",
+      "lineNumber": 14,
+      "text": "early man took advantage of rolling objects and developed the (d) -------",
+      "cleanText": "early man took advantage of rolling objects and developed the (d) -------",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.92,
+      "bbox": [
+        57.31,
+        326.3,
+        471.17,
+        338.4
+      ]
+    },
+    {
+      "id": "class8-english-p120-l015",
+      "lineNumber": 15,
+      "text": "wheel. Apart from its mechanical advantage, a wheel’s mobility has contributed",
+      "cleanText": "wheel. Apart from its mechanical advantage, a wheel’s mobility has contributed",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.09,
+      "bbox": [
+        56.16,
+        344.45,
+        471.17,
+        356.26
+      ]
+    },
+    {
+      "id": "class8-english-p120-l016",
+      "lineNumber": 16,
+      "text": "(e) ------- to the civilisation.",
+      "cleanText": "(e) ------- to the civilisation.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.8,
+      "bbox": [
+        58.46,
+        361.15,
+        201.89,
+        372.96
+      ]
+    },
+    {
+      "id": "class8-english-p120-l017",
+      "lineNumber": 17,
+      "text": "D. Make as many correct sentences as you can using the substitution",
+      "cleanText": "D. Make as many correct sentences as you can using the substitution",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        57.02,
+        380.74,
+        471.46,
+        392.26
+      ]
+    },
+    {
+      "id": "class8-english-p120-l018",
+      "lineNumber": 18,
+      "text": "table. In the third column there are more items than necessary:",
+      "cleanText": "table. In the third column there are more items than necessary:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        79.78,
+        398.59,
+        429.7,
+        410.4
+      ]
+    },
+    {
+      "id": "class8-english-p120-l019",
+      "lineNumber": 19,
+      "text": "1. The wheel a type of wheel.",
+      "cleanText": "1. The wheel a type of wheel.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        64.22,
+        423.65,
+        431.71,
+        436.32
+      ]
+    },
+    {
+      "id": "class8-english-p120-l020",
+      "lineNumber": 20,
+      "text": "2. A plain wheel is around its axis.",
+      "cleanText": "2. A plain wheel is around its axis.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        62.78,
+        442.08,
+        427.39,
+        457.63
+      ]
+    },
+    {
+      "id": "class8-english-p120-l021",
+      "lineNumber": 21,
+      "text": "3. It has one of the simplest",
+      "cleanText": "3. It has one of the simplest",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.43,
+      "bbox": [
+        63.07,
+        463.39,
+        465.98,
+        476.06
+      ]
+    },
+    {
+      "id": "class8-english-p120-l022",
+      "lineNumber": 22,
+      "text": "4. A propeller rotates machines.",
+      "cleanText": "4. A propeller rotates machines.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        62.5,
+        478.94,
+        399.17,
+        503.14
+      ]
+    },
+    {
+      "id": "class8-english-p120-l023",
+      "lineNumber": 23,
+      "text": "wheels on vehicles and",
+      "cleanText": "wheels on vehicles and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        342.72,
+        506.59,
+        470.3,
+        516.38
+      ]
+    },
+    {
+      "id": "class8-english-p120-l024",
+      "lineNumber": 24,
+      "text": "machines.",
+      "cleanText": "machines.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        344.74,
+        524.45,
+        399.17,
+        534.24
+      ]
+    },
+    {
+      "id": "class8-english-p120-l025",
+      "lineNumber": 25,
+      "text": "helped in rapid progress",
+      "cleanText": "helped in rapid progress",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        344.74,
+        554.98,
+        470.3,
+        567.65
+      ]
+    },
+    {
+      "id": "class8-english-p120-l026",
+      "lineNumber": 26,
+      "text": "of civilisation.",
+      "cleanText": "of civilisation.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        344.16,
+        572.83,
+        424.22,
+        582.91
+      ]
+    },
+    {
+      "id": "class8-english-p120-l027",
+      "lineNumber": 27,
+      "text": "E. Have you ever travelled by bus or car? Do you have any experience of what",
+      "cleanText": "E. Have you ever travelled by bus or car? Do you have any experience of what",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        55.3,
+        597.31,
+        472.61,
+        609.12
+      ]
+    },
+    {
+      "id": "class8-english-p120-l028",
+      "lineNumber": 28,
+      "text": "happens if one wheel falls flat. If yes, give a description of your experience.",
+      "cleanText": "happens if one wheel falls flat. If yes, give a description of your experience.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        78.05,
+        614.3,
+        472.03,
+        626.11
+      ]
+    },
+    {
+      "id": "class8-english-p120-l029",
+      "lineNumber": 29,
+      "text": "S If no, imagine such a situation, and write a paragraph on it.",
+      "cleanText": "S If no, imagine such a situation, and write a paragraph on it.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.85,
+      "bbox": [
+        26.78,
+        626.69,
+        383.62,
+        650.59
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p120-l001",
+      "lineNumber": 1,
+      "text": "Things That Have Changed Our Lives 115",
+      "cleanText": "Things That Have Changed Our Lives 115",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        57.31,
+        39.46,
+        470.59,
+        50.4
+      ]
+    },
+    {
+      "id": "class8-english-p120-l002",
+      "lineNumber": 2,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        59.33,
+        61.63,
+        116.93,
+        72.86
+      ]
+    },
+    {
+      "id": "class8-english-p120-l003",
+      "lineNumber": 3,
+      "text": "1. What is a wheel?",
+      "cleanText": "1. What is a wheel?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        81.5,
+        86.4,
+        190.08,
+        95.62
+      ]
+    },
+    {
+      "id": "class8-english-p120-l004",
+      "lineNumber": 4,
+      "text": "2. What can a wheel do?",
+      "cleanText": "2. What can a wheel do?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.83,
+      "bbox": [
+        80.06,
+        105.41,
+        215.71,
+        114.62
+      ]
+    },
+    {
+      "id": "class8-english-p120-l005",
+      "lineNumber": 5,
+      "text": "3. Where can you find wheels?",
+      "cleanText": "3. Where can you find wheels?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        80.06,
+        124.42,
+        248.83,
+        136.22
+      ]
+    },
+    {
+      "id": "class8-english-p120-l006",
+      "lineNumber": 6,
+      "text": "C. Fill in the blanks with appropriate words from the box. There are",
+      "cleanText": "C. Fill in the blanks with appropriate words from the box. There are",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        58.46,
+        150.62,
+        474.34,
+        162.43
+      ]
+    },
+    {
+      "id": "class8-english-p120-l007",
+      "lineNumber": 7,
+      "text": "more words than necessary:",
+      "cleanText": "more words than necessary:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        85.82,
+        167.04,
+        245.95,
+        178.27
+      ]
+    },
+    {
+      "id": "class8-english-p120-l008",
+      "lineNumber": 8,
+      "text": "Although the wheel is a very (a) -------- invention, the history of its origin",
+      "cleanText": "Although the wheel is a very (a) -------- invention, the history of its origin",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.21,
+      "bbox": [
+        59.04,
+        218.59,
+        471.17,
+        230.4
+      ]
+    },
+    {
+      "id": "class8-english-p120-l009",
+      "lineNumber": 9,
+      "text": "is unknown. Experts guess that the first wheel was developed from a circular",
+      "cleanText": "is unknown. Experts guess that the first wheel was developed from a circular",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        57.89,
+        235.3,
+        472.32,
+        249.41
+      ]
+    },
+    {
+      "id": "class8-english-p120-l010",
+      "lineNumber": 10,
+      "text": "object. The early man observed that a huge piece of stone could be rolled easily",
+      "cleanText": "object. The early man observed that a huge piece of stone could be rolled easily",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.87,
+      "bbox": [
+        57.89,
+        254.59,
+        472.61,
+        266.4
+      ]
+    },
+    {
+      "id": "class8-english-p120-l011",
+      "lineNumber": 11,
+      "text": "if it was (b) --------- in shape. Similarly, a heavy tree-trunk is (c) -------- to",
+      "cleanText": "if it was (b) --------- in shape. Similarly, a heavy tree-trunk is (c) -------- to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.2,
+      "bbox": [
+        57.31,
+        272.45,
+        471.46,
+        284.26
+      ]
+    },
+    {
+      "id": "class8-english-p120-l012",
+      "lineNumber": 12,
+      "text": "carry; but it can be rolled away with less effort. Even, a gigantic tree-trunk",
+      "cleanText": "carry; but it can be rolled away with less effort. Even, a gigantic tree-trunk",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.21,
+      "bbox": [
+        58.18,
+        290.59,
+        472.61,
+        302.98
+      ]
+    },
+    {
+      "id": "class8-english-p120-l013",
+      "lineNumber": 13,
+      "text": "can be moved easily using other small and round trunks as rollers under it. Thus,",
+      "cleanText": "can be moved easily using other small and round trunks as rollers under it. Thus,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.27,
+      "bbox": [
+        56.45,
+        308.45,
+        471.46,
+        320.54
+      ]
+    },
+    {
+      "id": "class8-english-p120-l014",
+      "lineNumber": 14,
+      "text": "early man took advantage of rolling objects and developed the (d) -------",
+      "cleanText": "early man took advantage of rolling objects and developed the (d) -------",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.92,
+      "bbox": [
+        57.31,
+        326.3,
+        471.17,
+        338.4
+      ]
+    },
+    {
+      "id": "class8-english-p120-l015",
+      "lineNumber": 15,
+      "text": "wheel. Apart from its mechanical advantage, a wheel’s mobility has contributed",
+      "cleanText": "wheel. Apart from its mechanical advantage, a wheel’s mobility has contributed",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.09,
+      "bbox": [
+        56.16,
+        344.45,
+        471.17,
+        356.26
+      ]
+    },
+    {
+      "id": "class8-english-p120-l016",
+      "lineNumber": 16,
+      "text": "(e) ------- to the civilisation.",
+      "cleanText": "(e) ------- to the civilisation.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.8,
+      "bbox": [
+        58.46,
+        361.15,
+        201.89,
+        372.96
+      ]
+    },
+    {
+      "id": "class8-english-p120-l017",
+      "lineNumber": 17,
+      "text": "D. Make as many correct sentences as you can using the substitution",
+      "cleanText": "D. Make as many correct sentences as you can using the substitution",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        57.02,
+        380.74,
+        471.46,
+        392.26
+      ]
+    },
+    {
+      "id": "class8-english-p120-l018",
+      "lineNumber": 18,
+      "text": "table. In the third column there are more items than necessary:",
+      "cleanText": "table. In the third column there are more items than necessary:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        79.78,
+        398.59,
+        429.7,
+        410.4
+      ]
+    },
+    {
+      "id": "class8-english-p120-l019",
+      "lineNumber": 19,
+      "text": "1. The wheel a type of wheel.",
+      "cleanText": "1. The wheel a type of wheel.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        64.22,
+        423.65,
+        431.71,
+        436.32
+      ]
+    },
+    {
+      "id": "class8-english-p120-l020",
+      "lineNumber": 20,
+      "text": "2. A plain wheel is around its axis.",
+      "cleanText": "2. A plain wheel is around its axis.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        62.78,
+        442.08,
+        427.39,
+        457.63
+      ]
+    },
+    {
+      "id": "class8-english-p120-l021",
+      "lineNumber": 21,
+      "text": "3. It has one of the simplest",
+      "cleanText": "3. It has one of the simplest",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.43,
+      "bbox": [
+        63.07,
+        463.39,
+        465.98,
+        476.06
+      ]
+    },
+    {
+      "id": "class8-english-p120-l022",
+      "lineNumber": 22,
+      "text": "4. A propeller rotates machines.",
+      "cleanText": "4. A propeller rotates machines.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        62.5,
+        478.94,
+        399.17,
+        503.14
+      ]
+    },
+    {
+      "id": "class8-english-p120-l023",
+      "lineNumber": 23,
+      "text": "wheels on vehicles and",
+      "cleanText": "wheels on vehicles and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        342.72,
+        506.59,
+        470.3,
+        516.38
+      ]
+    },
+    {
+      "id": "class8-english-p120-l024",
+      "lineNumber": 24,
+      "text": "machines.",
+      "cleanText": "machines.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        344.74,
+        524.45,
+        399.17,
+        534.24
+      ]
+    },
+    {
+      "id": "class8-english-p120-l025",
+      "lineNumber": 25,
+      "text": "helped in rapid progress",
+      "cleanText": "helped in rapid progress",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        344.74,
+        554.98,
+        470.3,
+        567.65
+      ]
+    },
+    {
+      "id": "class8-english-p120-l026",
+      "lineNumber": 26,
+      "text": "of civilisation.",
+      "cleanText": "of civilisation.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        344.16,
+        572.83,
+        424.22,
+        582.91
+      ]
+    },
+    {
+      "id": "class8-english-p120-l027",
+      "lineNumber": 27,
+      "text": "E. Have you ever travelled by bus or car? Do you have any experience of what",
+      "cleanText": "E. Have you ever travelled by bus or car? Do you have any experience of what",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        55.3,
+        597.31,
+        472.61,
+        609.12
+      ]
+    },
+    {
+      "id": "class8-english-p120-l028",
+      "lineNumber": 28,
+      "text": "happens if one wheel falls flat. If yes, give a description of your experience.",
+      "cleanText": "happens if one wheel falls flat. If yes, give a description of your experience.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        78.05,
+        614.3,
+        472.03,
+        626.11
+      ]
+    },
+    {
+      "id": "class8-english-p120-l029",
+      "lineNumber": 29,
+      "text": "S If no, imagine such a situation, and write a paragraph on it.",
+      "cleanText": "S If no, imagine such a situation, and write a paragraph on it.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.85,
+      "bbox": [
+        26.78,
+        626.69,
+        383.62,
+        650.59
+      ]
+    }
+  ],
+  "lineCount": 29,
+  "aiReadyLineCount": 29,
+  "averageConfidence": 95.11,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:51.441108+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

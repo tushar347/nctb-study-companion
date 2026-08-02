@@ -1,0 +1,897 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 90,
+  "pdfPage": 90,
+  "textbookPage": 90,
+  "width": 529.47,
+  "height": 688.41,
+  "image": "../images/page-090.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Occupations at Risk 85\nThroughout the monsoon, they remain busy with fishing. They also dive for\nnatural pearls in waters. Sometimes, they camp fora couple of weeks. Men\ncatch snakes and entertain people with snake charming and sell herbal cures.\nWomen go from door to door to selling bangles, cosmetics and other things.\nThey also try to heal pains of old people by sucking out blood from their\nbody.\nMany villagers believe in the magical power of the gypsies. They can make\nan evil spirit leave someone’s body by magic or special powers.\nQuestions:\n1. Who are river gypsies?\n2. How do they live?\n3. What do river gypsies do in winter?\n4, What do river gypsy men do for a living?\n5. What do river gypsy women do for a living?\nB. Discuss with your partner and circle the right answer:\n1. The term ‘ethnic’ is connected to\na. people. b. plants.\nc. animals. d. fishes.\n2. River gypsies roam around on their boats about........ months a year.\na. Six b. seven\nc. eight d. nine\n3. River gypsies live in tents in\na. summer. b. winter.\nc. monsoon. d. spring.\n4. The term ‘nomadic’ refers to a person who\na. stays permanently at a place. b. travels from place to place.\n< c. _ lives in one's own house. d. lives in a rented house.\n=\nN",
+  "cleanText": "Occupations at Risk 85 Throughout the monsoon, they remain busy with fishing. They also dive for natural pearls in waters. Sometimes, they camp fora couple of weeks. Men catch snakes and entertain people with snake charming and sell herbal cures. Women go from door to door to selling bangles, cosmetics and other things. They also try to heal pains of old people by sucking out blood from their body. Many villagers believe in the magical power of the gypsies. They can make an evil spirit leave someone’s body by magic or special powers. Questions: 1. Who are river gypsies? 2. How do they live? 3. What do river gypsies do in winter? 4, What do river gypsy men do for a living? 5. What do river gypsy women do for a living? B. Discuss with your partner and circle the right answer: 1. The term ‘ethnic’ is connected to a. people. b. plants. c. animals. d. fishes. 2. River gypsies roam around on their boats about........ months a year. a. Six b. seven c. eight d. nine 3. River gypsies live in tents in a. summer. b. winter. c. monsoon. d. spring. 4. The term ‘nomadic’ refers to a person who a. stays permanently at a place. b. travels from place to place. < c. _ lives in one's own house. d. lives in a rented house. = N",
+  "aiReadyText": "Occupations at Risk 85 Throughout the monsoon, they remain busy with fishing. They also dive for natural pearls in waters. Sometimes, they camp fora couple of weeks. Men catch snakes and entertain people with snake charming and sell herbal cures. Women go from door to door to selling bangles, cosmetics and other things. They also try to heal pains of old people by sucking out blood from their body. Many villagers believe in the magical power of the gypsies. They can make an evil spirit leave someone’s body by magic or special powers. Questions: 1. Who are river gypsies? 2. How do they live? 3. What do river gypsies do in winter? 4, What do river gypsy men do for a living? 5. What do river gypsy women do for a living? B. Discuss with your partner and circle the right answer: 1. The term ‘ethnic’ is connected to a. people. b. plants. c. animals. d. fishes. 2. River gypsies roam around on their boats about........ months a year. a. Six b. seven c. eight d. nine 3. River gypsies live in tents in a. summer. b. winter. c. monsoon. d. spring. 4. The term ‘nomadic’ refers to a person who a. stays permanently at a place. b. travels from place to place. < c. _ lives in one's own house. d. lives in a rented house.",
+  "lines": [
+    {
+      "id": "class8-english-p090-l001",
+      "lineNumber": 1,
+      "text": "Occupations at Risk 85",
+      "cleanText": "Occupations at Risk 85",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.25,
+      "bbox": [
+        65.09,
+        37.44,
+        476.06,
+        48.38
+      ]
+    },
+    {
+      "id": "class8-english-p090-l002",
+      "lineNumber": 2,
+      "text": "Throughout the monsoon, they remain busy with fishing. They also dive for",
+      "cleanText": "Throughout the monsoon, they remain busy with fishing. They also dive for",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.08,
+      "bbox": [
+        68.26,
+        67.39,
+        482.4,
+        79.49
+      ]
+    },
+    {
+      "id": "class8-english-p090-l003",
+      "lineNumber": 3,
+      "text": "natural pearls in waters. Sometimes, they camp fora couple of weeks. Men",
+      "cleanText": "natural pearls in waters. Sometimes, they camp fora couple of weeks. Men",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        68.26,
+        82.66,
+        481.25,
+        95.04
+      ]
+    },
+    {
+      "id": "class8-english-p090-l004",
+      "lineNumber": 4,
+      "text": "catch snakes and entertain people with snake charming and sell herbal cures.",
+      "cleanText": "catch snakes and entertain people with snake charming and sell herbal cures.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        67.68,
+        98.21,
+        480.67,
+        110.59
+      ]
+    },
+    {
+      "id": "class8-english-p090-l005",
+      "lineNumber": 5,
+      "text": "Women go from door to door to selling bangles, cosmetics and other things.",
+      "cleanText": "Women go from door to door to selling bangles, cosmetics and other things.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.77,
+      "bbox": [
+        67.97,
+        113.76,
+        480.67,
+        126.14
+      ]
+    },
+    {
+      "id": "class8-english-p090-l006",
+      "lineNumber": 6,
+      "text": "They also try to heal pains of old people by sucking out blood from their",
+      "cleanText": "They also try to heal pains of old people by sucking out blood from their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        67.39,
+        129.31,
+        478.08,
+        141.41
+      ]
+    },
+    {
+      "id": "class8-english-p090-l007",
+      "lineNumber": 7,
+      "text": "body.",
+      "cleanText": "body.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        66.82,
+        147.74,
+        94.75,
+        159.84
+      ]
+    },
+    {
+      "id": "class8-english-p090-l008",
+      "lineNumber": 8,
+      "text": "Many villagers believe in the magical power of the gypsies. They can make",
+      "cleanText": "Many villagers believe in the magical power of the gypsies. They can make",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        68.54,
+        179.71,
+        480.67,
+        192.1
+      ]
+    },
+    {
+      "id": "class8-english-p090-l009",
+      "lineNumber": 9,
+      "text": "an evil spirit leave someone’s body by magic or special powers.",
+      "cleanText": "an evil spirit leave someone’s body by magic or special powers.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.09,
+      "bbox": [
+        66.82,
+        195.26,
+        401.18,
+        207.36
+      ]
+    },
+    {
+      "id": "class8-english-p090-l010",
+      "lineNumber": 10,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        64.51,
+        219.17,
+        122.4,
+        230.11
+      ]
+    },
+    {
+      "id": "class8-english-p090-l011",
+      "lineNumber": 11,
+      "text": "1. Who are river gypsies?",
+      "cleanText": "1. Who are river gypsies?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.8,
+      "bbox": [
+        91.58,
+        237.31,
+        231.55,
+        249.12
+      ]
+    },
+    {
+      "id": "class8-english-p090-l012",
+      "lineNumber": 12,
+      "text": "2. How do they live?",
+      "cleanText": "2. How do they live?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        90.72,
+        255.74,
+        206.78,
+        267.84
+      ]
+    },
+    {
+      "id": "class8-english-p090-l013",
+      "lineNumber": 13,
+      "text": "3. What do river gypsies do in winter?",
+      "cleanText": "3. What do river gypsies do in winter?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        90.43,
+        274.18,
+        297.5,
+        286.27
+      ]
+    },
+    {
+      "id": "class8-english-p090-l014",
+      "lineNumber": 14,
+      "text": "4, What do river gypsy men do for a living?",
+      "cleanText": "4, What do river gypsy men do for a living?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        90.43,
+        292.61,
+        326.3,
+        304.7
+      ]
+    },
+    {
+      "id": "class8-english-p090-l015",
+      "lineNumber": 15,
+      "text": "5. What do river gypsy women do for a living?",
+      "cleanText": "5. What do river gypsy women do for a living?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.7,
+      "bbox": [
+        90.72,
+        311.04,
+        342.14,
+        323.14
+      ]
+    },
+    {
+      "id": "class8-english-p090-l016",
+      "lineNumber": 16,
+      "text": "B. Discuss with your partner and circle the right answer:",
+      "cleanText": "B. Discuss with your partner and circle the right answer:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        69.41,
+        334.37,
+        382.75,
+        346.75
+      ]
+    },
+    {
+      "id": "class8-english-p090-l017",
+      "lineNumber": 17,
+      "text": "1. The term ‘ethnic’ is connected to",
+      "cleanText": "1. The term ‘ethnic’ is connected to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        70.56,
+        360.0,
+        260.64,
+        370.37
+      ]
+    },
+    {
+      "id": "class8-english-p090-l018",
+      "lineNumber": 18,
+      "text": "a. people. b. plants.",
+      "cleanText": "a. people. b. plants.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.75,
+      "bbox": [
+        87.55,
+        380.74,
+        353.95,
+        392.54
+      ]
+    },
+    {
+      "id": "class8-english-p090-l019",
+      "lineNumber": 19,
+      "text": "c. animals. d. fishes.",
+      "cleanText": "c. animals. d. fishes.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        87.55,
+        401.18,
+        353.09,
+        410.4
+      ]
+    },
+    {
+      "id": "class8-english-p090-l020",
+      "lineNumber": 20,
+      "text": "2. River gypsies roam around on their boats about........ months a year.",
+      "cleanText": "2. River gypsies roam around on their boats about........ months a year.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.77,
+      "bbox": [
+        69.7,
+        433.15,
+        438.34,
+        448.13
+      ]
+    },
+    {
+      "id": "class8-english-p090-l021",
+      "lineNumber": 21,
+      "text": "a. Six b. seven",
+      "cleanText": "a. Six b. seven",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 82.75,
+      "bbox": [
+        87.55,
+        455.04,
+        349.92,
+        464.54
+      ]
+    },
+    {
+      "id": "class8-english-p090-l022",
+      "lineNumber": 22,
+      "text": "c. eight d. nine",
+      "cleanText": "c. eight d. nine",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        87.55,
+        475.49,
+        342.43,
+        487.87
+      ]
+    },
+    {
+      "id": "class8-english-p090-l023",
+      "lineNumber": 23,
+      "text": "3. River gypsies live in tents in",
+      "cleanText": "3. River gypsies live in tents in",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        69.41,
+        506.88,
+        235.58,
+        519.55
+      ]
+    },
+    {
+      "id": "class8-english-p090-l024",
+      "lineNumber": 24,
+      "text": "a. summer. b. winter.",
+      "cleanText": "a. summer. b. winter.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 83.25,
+      "bbox": [
+        87.55,
+        527.62,
+        355.97,
+        536.83
+      ]
+    },
+    {
+      "id": "class8-english-p090-l025",
+      "lineNumber": 25,
+      "text": "c. monsoon. d. spring.",
+      "cleanText": "c. monsoon. d. spring.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.0,
+      "bbox": [
+        87.55,
+        548.06,
+        355.39,
+        560.16
+      ]
+    },
+    {
+      "id": "class8-english-p090-l026",
+      "lineNumber": 26,
+      "text": "4. The term ‘nomadic’ refers to a person who",
+      "cleanText": "4. The term ‘nomadic’ refers to a person who",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        69.41,
+        583.2,
+        309.6,
+        595.87
+      ]
+    },
+    {
+      "id": "class8-english-p090-l027",
+      "lineNumber": 27,
+      "text": "a. stays permanently at a place. b. travels from place to place.",
+      "cleanText": "a. stays permanently at a place. b. travels from place to place.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.75,
+      "bbox": [
+        87.55,
+        603.94,
+        460.8,
+        616.32
+      ]
+    },
+    {
+      "id": "class8-english-p090-l028",
+      "lineNumber": 28,
+      "text": "< c. _ lives in one's own house. d. lives in a rented house.",
+      "cleanText": "< c. _ lives in one's own house. d. lives in a rented house.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.86,
+      "bbox": [
+        35.71,
+        623.52,
+        439.2,
+        637.92
+      ]
+    },
+    {
+      "id": "class8-english-p090-l029",
+      "lineNumber": 29,
+      "text": "=",
+      "cleanText": "=",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 53.0,
+      "bbox": [
+        35.71,
+        637.06,
+        44.06,
+        642.24
+      ]
+    },
+    {
+      "id": "class8-english-p090-l030",
+      "lineNumber": 30,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 82.0,
+      "bbox": [
+        35.71,
+        643.1,
+        43.78,
+        648.58
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p090-l001",
+      "lineNumber": 1,
+      "text": "Occupations at Risk 85",
+      "cleanText": "Occupations at Risk 85",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.25,
+      "bbox": [
+        65.09,
+        37.44,
+        476.06,
+        48.38
+      ]
+    },
+    {
+      "id": "class8-english-p090-l002",
+      "lineNumber": 2,
+      "text": "Throughout the monsoon, they remain busy with fishing. They also dive for",
+      "cleanText": "Throughout the monsoon, they remain busy with fishing. They also dive for",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.08,
+      "bbox": [
+        68.26,
+        67.39,
+        482.4,
+        79.49
+      ]
+    },
+    {
+      "id": "class8-english-p090-l003",
+      "lineNumber": 3,
+      "text": "natural pearls in waters. Sometimes, they camp fora couple of weeks. Men",
+      "cleanText": "natural pearls in waters. Sometimes, they camp fora couple of weeks. Men",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        68.26,
+        82.66,
+        481.25,
+        95.04
+      ]
+    },
+    {
+      "id": "class8-english-p090-l004",
+      "lineNumber": 4,
+      "text": "catch snakes and entertain people with snake charming and sell herbal cures.",
+      "cleanText": "catch snakes and entertain people with snake charming and sell herbal cures.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        67.68,
+        98.21,
+        480.67,
+        110.59
+      ]
+    },
+    {
+      "id": "class8-english-p090-l005",
+      "lineNumber": 5,
+      "text": "Women go from door to door to selling bangles, cosmetics and other things.",
+      "cleanText": "Women go from door to door to selling bangles, cosmetics and other things.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.77,
+      "bbox": [
+        67.97,
+        113.76,
+        480.67,
+        126.14
+      ]
+    },
+    {
+      "id": "class8-english-p090-l006",
+      "lineNumber": 6,
+      "text": "They also try to heal pains of old people by sucking out blood from their",
+      "cleanText": "They also try to heal pains of old people by sucking out blood from their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        67.39,
+        129.31,
+        478.08,
+        141.41
+      ]
+    },
+    {
+      "id": "class8-english-p090-l007",
+      "lineNumber": 7,
+      "text": "body.",
+      "cleanText": "body.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        66.82,
+        147.74,
+        94.75,
+        159.84
+      ]
+    },
+    {
+      "id": "class8-english-p090-l008",
+      "lineNumber": 8,
+      "text": "Many villagers believe in the magical power of the gypsies. They can make",
+      "cleanText": "Many villagers believe in the magical power of the gypsies. They can make",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        68.54,
+        179.71,
+        480.67,
+        192.1
+      ]
+    },
+    {
+      "id": "class8-english-p090-l009",
+      "lineNumber": 9,
+      "text": "an evil spirit leave someone’s body by magic or special powers.",
+      "cleanText": "an evil spirit leave someone’s body by magic or special powers.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.09,
+      "bbox": [
+        66.82,
+        195.26,
+        401.18,
+        207.36
+      ]
+    },
+    {
+      "id": "class8-english-p090-l010",
+      "lineNumber": 10,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        64.51,
+        219.17,
+        122.4,
+        230.11
+      ]
+    },
+    {
+      "id": "class8-english-p090-l011",
+      "lineNumber": 11,
+      "text": "1. Who are river gypsies?",
+      "cleanText": "1. Who are river gypsies?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.8,
+      "bbox": [
+        91.58,
+        237.31,
+        231.55,
+        249.12
+      ]
+    },
+    {
+      "id": "class8-english-p090-l012",
+      "lineNumber": 12,
+      "text": "2. How do they live?",
+      "cleanText": "2. How do they live?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        90.72,
+        255.74,
+        206.78,
+        267.84
+      ]
+    },
+    {
+      "id": "class8-english-p090-l013",
+      "lineNumber": 13,
+      "text": "3. What do river gypsies do in winter?",
+      "cleanText": "3. What do river gypsies do in winter?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        90.43,
+        274.18,
+        297.5,
+        286.27
+      ]
+    },
+    {
+      "id": "class8-english-p090-l014",
+      "lineNumber": 14,
+      "text": "4, What do river gypsy men do for a living?",
+      "cleanText": "4, What do river gypsy men do for a living?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        90.43,
+        292.61,
+        326.3,
+        304.7
+      ]
+    },
+    {
+      "id": "class8-english-p090-l015",
+      "lineNumber": 15,
+      "text": "5. What do river gypsy women do for a living?",
+      "cleanText": "5. What do river gypsy women do for a living?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.7,
+      "bbox": [
+        90.72,
+        311.04,
+        342.14,
+        323.14
+      ]
+    },
+    {
+      "id": "class8-english-p090-l016",
+      "lineNumber": 16,
+      "text": "B. Discuss with your partner and circle the right answer:",
+      "cleanText": "B. Discuss with your partner and circle the right answer:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        69.41,
+        334.37,
+        382.75,
+        346.75
+      ]
+    },
+    {
+      "id": "class8-english-p090-l017",
+      "lineNumber": 17,
+      "text": "1. The term ‘ethnic’ is connected to",
+      "cleanText": "1. The term ‘ethnic’ is connected to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        70.56,
+        360.0,
+        260.64,
+        370.37
+      ]
+    },
+    {
+      "id": "class8-english-p090-l018",
+      "lineNumber": 18,
+      "text": "a. people. b. plants.",
+      "cleanText": "a. people. b. plants.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.75,
+      "bbox": [
+        87.55,
+        380.74,
+        353.95,
+        392.54
+      ]
+    },
+    {
+      "id": "class8-english-p090-l019",
+      "lineNumber": 19,
+      "text": "c. animals. d. fishes.",
+      "cleanText": "c. animals. d. fishes.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        87.55,
+        401.18,
+        353.09,
+        410.4
+      ]
+    },
+    {
+      "id": "class8-english-p090-l020",
+      "lineNumber": 20,
+      "text": "2. River gypsies roam around on their boats about........ months a year.",
+      "cleanText": "2. River gypsies roam around on their boats about........ months a year.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.77,
+      "bbox": [
+        69.7,
+        433.15,
+        438.34,
+        448.13
+      ]
+    },
+    {
+      "id": "class8-english-p090-l021",
+      "lineNumber": 21,
+      "text": "a. Six b. seven",
+      "cleanText": "a. Six b. seven",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 82.75,
+      "bbox": [
+        87.55,
+        455.04,
+        349.92,
+        464.54
+      ]
+    },
+    {
+      "id": "class8-english-p090-l022",
+      "lineNumber": 22,
+      "text": "c. eight d. nine",
+      "cleanText": "c. eight d. nine",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        87.55,
+        475.49,
+        342.43,
+        487.87
+      ]
+    },
+    {
+      "id": "class8-english-p090-l023",
+      "lineNumber": 23,
+      "text": "3. River gypsies live in tents in",
+      "cleanText": "3. River gypsies live in tents in",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        69.41,
+        506.88,
+        235.58,
+        519.55
+      ]
+    },
+    {
+      "id": "class8-english-p090-l024",
+      "lineNumber": 24,
+      "text": "a. summer. b. winter.",
+      "cleanText": "a. summer. b. winter.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 83.25,
+      "bbox": [
+        87.55,
+        527.62,
+        355.97,
+        536.83
+      ]
+    },
+    {
+      "id": "class8-english-p090-l025",
+      "lineNumber": 25,
+      "text": "c. monsoon. d. spring.",
+      "cleanText": "c. monsoon. d. spring.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.0,
+      "bbox": [
+        87.55,
+        548.06,
+        355.39,
+        560.16
+      ]
+    },
+    {
+      "id": "class8-english-p090-l026",
+      "lineNumber": 26,
+      "text": "4. The term ‘nomadic’ refers to a person who",
+      "cleanText": "4. The term ‘nomadic’ refers to a person who",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        69.41,
+        583.2,
+        309.6,
+        595.87
+      ]
+    },
+    {
+      "id": "class8-english-p090-l027",
+      "lineNumber": 27,
+      "text": "a. stays permanently at a place. b. travels from place to place.",
+      "cleanText": "a. stays permanently at a place. b. travels from place to place.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.75,
+      "bbox": [
+        87.55,
+        603.94,
+        460.8,
+        616.32
+      ]
+    },
+    {
+      "id": "class8-english-p090-l028",
+      "lineNumber": 28,
+      "text": "< c. _ lives in one's own house. d. lives in a rented house.",
+      "cleanText": "< c. _ lives in one's own house. d. lives in a rented house.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.86,
+      "bbox": [
+        35.71,
+        623.52,
+        439.2,
+        637.92
+      ]
+    }
+  ],
+  "lineCount": 30,
+  "aiReadyLineCount": 28,
+  "averageConfidence": 91.76,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:05.761172+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

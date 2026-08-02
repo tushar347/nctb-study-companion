@@ -1,0 +1,897 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 24,
+  "pdfPage": 24,
+  "textbookPage": 24,
+  "width": 527.52,
+  "height": 697.0,
+  "image": "../images/page-024.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Food and Nutrition 19\nLesson 5: The Little Plant\nKeywords: bury, sprout\nA. Talk about the picture. Then read and listen to the poem:\nThe Little Plant\nIn the heart of a seed,\nBuried deep, so deep,\nA dear little plant\nLay fast asleep.\nWake! said the sunshine, _¥\n“And creep to the light!”\n“Wake!” said the voice\nOf the raindrop bright.\nThe little plant heard.:;\nAnd it rose to see ———\nWhat the wonderful\nOutside world might be.\n-Kate L. Brown\nB. As you listen to the poem, notice how these groups of words\nare pronounced. Practise saying these words:\n1. seed, deep, asleep, see\n2. heard, world\n3. lay, wake, rain\nC. Ask and answer the questions:\n1. Where is the little plant sleeping?\n2. Who spoke to the little plant?\n3. What did they want the little plant to do?\n- 4. What two things do plants need in order to grow?\nS 5. Which word in the poem means “grow”?",
+  "cleanText": "Food and Nutrition 19 Lesson 5: The Little Plant Keywords: bury, sprout A. Talk about the picture. Then read and listen to the poem: The Little Plant In the heart of a seed, Buried deep, so deep, A dear little plant Lay fast asleep. Wake! said the sunshine, _¥ “And creep to the light!” “Wake!” said the voice Of the raindrop bright. The little plant heard.:; And it rose to see ——— What the wonderful Outside world might be. -Kate L. Brown B. As you listen to the poem, notice how these groups of words are pronounced. Practise saying these words: 1. seed, deep, asleep, see 2. heard, world 3. lay, wake, rain C. Ask and answer the questions: 1. Where is the little plant sleeping? 2. Who spoke to the little plant? 3. What did they want the little plant to do? - 4. What two things do plants need in order to grow? S 5. Which word in the poem means “grow”?",
+  "aiReadyText": "Food and Nutrition 19 Lesson 5: The Little Plant Keywords: bury, sprout A. Talk about the picture. Then read and listen to the poem: The Little Plant In the heart of a seed, Buried deep, so deep, A dear little plant Lay fast asleep. Wake! said the sunshine, _¥ “And creep to the light!” “Wake!” said the voice Of the raindrop bright. The little plant heard.:; And it rose to see ——— What the wonderful Outside world might be. -Kate L. Brown B. As you listen to the poem, notice how these groups of words are pronounced. Practise saying these words: 1. seed, deep, asleep, see 2. heard, world 3. lay, wake, rain C. Ask and answer the questions: 1. Where is the little plant sleeping? 2. Who spoke to the little plant? 3. What did they want the little plant to do? - 4. What two things do plants need in order to grow? S 5. Which word in the poem means “grow”?",
+  "lines": [
+    {
+      "id": "class8-english-p024-l001",
+      "lineNumber": 1,
+      "text": "Food and Nutrition 19",
+      "cleanText": "Food and Nutrition 19",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        59.33,
+        43.49,
+        473.47,
+        52.13
+      ]
+    },
+    {
+      "id": "class8-english-p024-l002",
+      "lineNumber": 2,
+      "text": "Lesson 5: The Little Plant",
+      "cleanText": "Lesson 5: The Little Plant",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        61.34,
+        72.58,
+        286.85,
+        86.98
+      ]
+    },
+    {
+      "id": "class8-english-p024-l003",
+      "lineNumber": 3,
+      "text": "Keywords: bury, sprout",
+      "cleanText": "Keywords: bury, sprout",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.5,
+        97.63,
+        188.93,
+        109.73
+      ]
+    },
+    {
+      "id": "class8-english-p024-l004",
+      "lineNumber": 4,
+      "text": "A. Talk about the picture. Then read and listen to the poem:",
+      "cleanText": "A. Talk about the picture. Then read and listen to the poem:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        62.78,
+        118.37,
+        417.31,
+        130.75
+      ]
+    },
+    {
+      "id": "class8-english-p024-l005",
+      "lineNumber": 5,
+      "text": "The Little Plant",
+      "cleanText": "The Little Plant",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        169.92,
+        146.02,
+        277.63,
+        156.96
+      ]
+    },
+    {
+      "id": "class8-english-p024-l006",
+      "lineNumber": 6,
+      "text": "In the heart of a seed,",
+      "cleanText": "In the heart of a seed,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        170.78,
+        168.48,
+        285.7,
+        178.85
+      ]
+    },
+    {
+      "id": "class8-english-p024-l007",
+      "lineNumber": 7,
+      "text": "Buried deep, so deep,",
+      "cleanText": "Buried deep, so deep,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        170.5,
+        186.62,
+        281.95,
+        198.43
+      ]
+    },
+    {
+      "id": "class8-english-p024-l008",
+      "lineNumber": 8,
+      "text": "A dear little plant",
+      "cleanText": "A dear little plant",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        181.15,
+        204.48,
+        271.58,
+        216.29
+      ]
+    },
+    {
+      "id": "class8-english-p024-l009",
+      "lineNumber": 9,
+      "text": "Lay fast asleep.",
+      "cleanText": "Lay fast asleep.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        186.05,
+        222.62,
+        266.11,
+        234.43
+      ]
+    },
+    {
+      "id": "class8-english-p024-l010",
+      "lineNumber": 10,
+      "text": "Wake! said the sunshine, _¥",
+      "cleanText": "Wake! said the sunshine, _¥",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 76.8,
+      "bbox": [
+        165.31,
+        229.54,
+        451.01,
+        368.93
+      ]
+    },
+    {
+      "id": "class8-english-p024-l011",
+      "lineNumber": 11,
+      "text": "“And creep to the light!”",
+      "cleanText": "“And creep to the light!”",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 78.6,
+      "bbox": [
+        165.6,
+        268.42,
+        294.05,
+        280.51
+      ]
+    },
+    {
+      "id": "class8-english-p024-l012",
+      "lineNumber": 12,
+      "text": "“Wake!” said the voice",
+      "cleanText": "“Wake!” said the voice",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        165.6,
+        286.56,
+        284.54,
+        295.78
+      ]
+    },
+    {
+      "id": "class8-english-p024-l013",
+      "lineNumber": 13,
+      "text": "Of the raindrop bright.",
+      "cleanText": "Of the raindrop bright.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        165.6,
+        304.42,
+        281.95,
+        316.51
+      ]
+    },
+    {
+      "id": "class8-english-p024-l014",
+      "lineNumber": 14,
+      "text": "The little plant heard.:;",
+      "cleanText": "The little plant heard.:;",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 69.67,
+      "bbox": [
+        170.78,
+        329.76,
+        400.61,
+        347.62
+      ]
+    },
+    {
+      "id": "class8-english-p024-l015",
+      "lineNumber": 15,
+      "text": "And it rose to see ———",
+      "cleanText": "And it rose to see ———",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.5,
+      "bbox": [
+        175.1,
+        349.63,
+        379.58,
+        362.88
+      ]
+    },
+    {
+      "id": "class8-english-p024-l016",
+      "lineNumber": 16,
+      "text": "What the wonderful",
+      "cleanText": "What the wonderful",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        174.53,
+        371.52,
+        277.92,
+        380.74
+      ]
+    },
+    {
+      "id": "class8-english-p024-l017",
+      "lineNumber": 17,
+      "text": "Outside world might be.",
+      "cleanText": "Outside world might be.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        163.58,
+        389.38,
+        288.58,
+        401.47
+      ]
+    },
+    {
+      "id": "class8-english-p024-l018",
+      "lineNumber": 18,
+      "text": "-Kate L. Brown",
+      "cleanText": "-Kate L. Brown",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        281.66,
+        408.67,
+        357.98,
+        417.02
+      ]
+    },
+    {
+      "id": "class8-english-p024-l019",
+      "lineNumber": 19,
+      "text": "B. As you listen to the poem, notice how these groups of words",
+      "cleanText": "B. As you listen to the poem, notice how these groups of words",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        65.09,
+        427.39,
+        479.81,
+        440.06
+      ]
+    },
+    {
+      "id": "class8-english-p024-l020",
+      "lineNumber": 20,
+      "text": "are pronounced. Practise saying these words:",
+      "cleanText": "are pronounced. Practise saying these words:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        65.38,
+        445.54,
+        336.38,
+        457.92
+      ]
+    },
+    {
+      "id": "class8-english-p024-l021",
+      "lineNumber": 21,
+      "text": "1. seed, deep, asleep, see",
+      "cleanText": "1. seed, deep, asleep, see",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        87.55,
+        466.27,
+        231.84,
+        478.94
+      ]
+    },
+    {
+      "id": "class8-english-p024-l022",
+      "lineNumber": 22,
+      "text": "2. heard, world",
+      "cleanText": "2. heard, world",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        85.25,
+        487.3,
+        177.98,
+        499.1
+      ]
+    },
+    {
+      "id": "class8-english-p024-l023",
+      "lineNumber": 23,
+      "text": "3. lay, wake, rain",
+      "cleanText": "3. lay, wake, rain",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.5,
+      "bbox": [
+        85.54,
+        508.03,
+        188.35,
+        520.99
+      ]
+    },
+    {
+      "id": "class8-english-p024-l024",
+      "lineNumber": 24,
+      "text": "C. Ask and answer the questions:",
+      "cleanText": "C. Ask and answer the questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        65.09,
+        536.54,
+        265.25,
+        548.93
+      ]
+    },
+    {
+      "id": "class8-english-p024-l025",
+      "lineNumber": 25,
+      "text": "1. Where is the little plant sleeping?",
+      "cleanText": "1. Where is the little plant sleeping?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.12,
+      "bbox": [
+        87.26,
+        557.28,
+        293.18,
+        569.95
+      ]
+    },
+    {
+      "id": "class8-english-p024-l026",
+      "lineNumber": 26,
+      "text": "2. Who spoke to the little plant?",
+      "cleanText": "2. Who spoke to the little plant?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        85.25,
+        578.3,
+        275.33,
+        590.98
+      ]
+    },
+    {
+      "id": "class8-english-p024-l027",
+      "lineNumber": 27,
+      "text": "3. What did they want the little plant to do?",
+      "cleanText": "3. What did they want the little plant to do?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        85.54,
+        599.33,
+        336.1,
+        612.0
+      ]
+    },
+    {
+      "id": "class8-english-p024-l028",
+      "lineNumber": 28,
+      "text": "- 4. What two things do plants need in order to grow?",
+      "cleanText": "- 4. What two things do plants need in order to grow?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.08,
+      "bbox": [
+        26.5,
+        620.35,
+        387.36,
+        636.77
+      ]
+    },
+    {
+      "id": "class8-english-p024-l029",
+      "lineNumber": 29,
+      "text": "S 5. Which word in the poem means “grow”?",
+      "cleanText": "S 5. Which word in the poem means “grow”?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.3,
+      "bbox": [
+        26.5,
+        637.63,
+        335.23,
+        654.91
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p024-l001",
+      "lineNumber": 1,
+      "text": "Food and Nutrition 19",
+      "cleanText": "Food and Nutrition 19",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        59.33,
+        43.49,
+        473.47,
+        52.13
+      ]
+    },
+    {
+      "id": "class8-english-p024-l002",
+      "lineNumber": 2,
+      "text": "Lesson 5: The Little Plant",
+      "cleanText": "Lesson 5: The Little Plant",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        61.34,
+        72.58,
+        286.85,
+        86.98
+      ]
+    },
+    {
+      "id": "class8-english-p024-l003",
+      "lineNumber": 3,
+      "text": "Keywords: bury, sprout",
+      "cleanText": "Keywords: bury, sprout",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.5,
+        97.63,
+        188.93,
+        109.73
+      ]
+    },
+    {
+      "id": "class8-english-p024-l004",
+      "lineNumber": 4,
+      "text": "A. Talk about the picture. Then read and listen to the poem:",
+      "cleanText": "A. Talk about the picture. Then read and listen to the poem:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        62.78,
+        118.37,
+        417.31,
+        130.75
+      ]
+    },
+    {
+      "id": "class8-english-p024-l005",
+      "lineNumber": 5,
+      "text": "The Little Plant",
+      "cleanText": "The Little Plant",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        169.92,
+        146.02,
+        277.63,
+        156.96
+      ]
+    },
+    {
+      "id": "class8-english-p024-l006",
+      "lineNumber": 6,
+      "text": "In the heart of a seed,",
+      "cleanText": "In the heart of a seed,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        170.78,
+        168.48,
+        285.7,
+        178.85
+      ]
+    },
+    {
+      "id": "class8-english-p024-l007",
+      "lineNumber": 7,
+      "text": "Buried deep, so deep,",
+      "cleanText": "Buried deep, so deep,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        170.5,
+        186.62,
+        281.95,
+        198.43
+      ]
+    },
+    {
+      "id": "class8-english-p024-l008",
+      "lineNumber": 8,
+      "text": "A dear little plant",
+      "cleanText": "A dear little plant",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        181.15,
+        204.48,
+        271.58,
+        216.29
+      ]
+    },
+    {
+      "id": "class8-english-p024-l009",
+      "lineNumber": 9,
+      "text": "Lay fast asleep.",
+      "cleanText": "Lay fast asleep.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        186.05,
+        222.62,
+        266.11,
+        234.43
+      ]
+    },
+    {
+      "id": "class8-english-p024-l010",
+      "lineNumber": 10,
+      "text": "Wake! said the sunshine, _¥",
+      "cleanText": "Wake! said the sunshine, _¥",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 76.8,
+      "bbox": [
+        165.31,
+        229.54,
+        451.01,
+        368.93
+      ]
+    },
+    {
+      "id": "class8-english-p024-l011",
+      "lineNumber": 11,
+      "text": "“And creep to the light!”",
+      "cleanText": "“And creep to the light!”",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 78.6,
+      "bbox": [
+        165.6,
+        268.42,
+        294.05,
+        280.51
+      ]
+    },
+    {
+      "id": "class8-english-p024-l012",
+      "lineNumber": 12,
+      "text": "“Wake!” said the voice",
+      "cleanText": "“Wake!” said the voice",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        165.6,
+        286.56,
+        284.54,
+        295.78
+      ]
+    },
+    {
+      "id": "class8-english-p024-l013",
+      "lineNumber": 13,
+      "text": "Of the raindrop bright.",
+      "cleanText": "Of the raindrop bright.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        165.6,
+        304.42,
+        281.95,
+        316.51
+      ]
+    },
+    {
+      "id": "class8-english-p024-l014",
+      "lineNumber": 14,
+      "text": "The little plant heard.:;",
+      "cleanText": "The little plant heard.:;",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 69.67,
+      "bbox": [
+        170.78,
+        329.76,
+        400.61,
+        347.62
+      ]
+    },
+    {
+      "id": "class8-english-p024-l015",
+      "lineNumber": 15,
+      "text": "And it rose to see ———",
+      "cleanText": "And it rose to see ———",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.5,
+      "bbox": [
+        175.1,
+        349.63,
+        379.58,
+        362.88
+      ]
+    },
+    {
+      "id": "class8-english-p024-l016",
+      "lineNumber": 16,
+      "text": "What the wonderful",
+      "cleanText": "What the wonderful",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        174.53,
+        371.52,
+        277.92,
+        380.74
+      ]
+    },
+    {
+      "id": "class8-english-p024-l017",
+      "lineNumber": 17,
+      "text": "Outside world might be.",
+      "cleanText": "Outside world might be.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        163.58,
+        389.38,
+        288.58,
+        401.47
+      ]
+    },
+    {
+      "id": "class8-english-p024-l018",
+      "lineNumber": 18,
+      "text": "-Kate L. Brown",
+      "cleanText": "-Kate L. Brown",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        281.66,
+        408.67,
+        357.98,
+        417.02
+      ]
+    },
+    {
+      "id": "class8-english-p024-l019",
+      "lineNumber": 19,
+      "text": "B. As you listen to the poem, notice how these groups of words",
+      "cleanText": "B. As you listen to the poem, notice how these groups of words",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        65.09,
+        427.39,
+        479.81,
+        440.06
+      ]
+    },
+    {
+      "id": "class8-english-p024-l020",
+      "lineNumber": 20,
+      "text": "are pronounced. Practise saying these words:",
+      "cleanText": "are pronounced. Practise saying these words:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        65.38,
+        445.54,
+        336.38,
+        457.92
+      ]
+    },
+    {
+      "id": "class8-english-p024-l021",
+      "lineNumber": 21,
+      "text": "1. seed, deep, asleep, see",
+      "cleanText": "1. seed, deep, asleep, see",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        87.55,
+        466.27,
+        231.84,
+        478.94
+      ]
+    },
+    {
+      "id": "class8-english-p024-l022",
+      "lineNumber": 22,
+      "text": "2. heard, world",
+      "cleanText": "2. heard, world",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        85.25,
+        487.3,
+        177.98,
+        499.1
+      ]
+    },
+    {
+      "id": "class8-english-p024-l023",
+      "lineNumber": 23,
+      "text": "3. lay, wake, rain",
+      "cleanText": "3. lay, wake, rain",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.5,
+      "bbox": [
+        85.54,
+        508.03,
+        188.35,
+        520.99
+      ]
+    },
+    {
+      "id": "class8-english-p024-l024",
+      "lineNumber": 24,
+      "text": "C. Ask and answer the questions:",
+      "cleanText": "C. Ask and answer the questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        65.09,
+        536.54,
+        265.25,
+        548.93
+      ]
+    },
+    {
+      "id": "class8-english-p024-l025",
+      "lineNumber": 25,
+      "text": "1. Where is the little plant sleeping?",
+      "cleanText": "1. Where is the little plant sleeping?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.12,
+      "bbox": [
+        87.26,
+        557.28,
+        293.18,
+        569.95
+      ]
+    },
+    {
+      "id": "class8-english-p024-l026",
+      "lineNumber": 26,
+      "text": "2. Who spoke to the little plant?",
+      "cleanText": "2. Who spoke to the little plant?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        85.25,
+        578.3,
+        275.33,
+        590.98
+      ]
+    },
+    {
+      "id": "class8-english-p024-l027",
+      "lineNumber": 27,
+      "text": "3. What did they want the little plant to do?",
+      "cleanText": "3. What did they want the little plant to do?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        85.54,
+        599.33,
+        336.1,
+        612.0
+      ]
+    },
+    {
+      "id": "class8-english-p024-l028",
+      "lineNumber": 28,
+      "text": "- 4. What two things do plants need in order to grow?",
+      "cleanText": "- 4. What two things do plants need in order to grow?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.08,
+      "bbox": [
+        26.5,
+        620.35,
+        387.36,
+        636.77
+      ]
+    },
+    {
+      "id": "class8-english-p024-l029",
+      "lineNumber": 29,
+      "text": "S 5. Which word in the poem means “grow”?",
+      "cleanText": "S 5. Which word in the poem means “grow”?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.3,
+      "bbox": [
+        26.5,
+        637.63,
+        335.23,
+        654.91
+      ]
+    }
+  ],
+  "lineCount": 29,
+  "aiReadyLineCount": 29,
+  "averageConfidence": 92.28,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:09.065655+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

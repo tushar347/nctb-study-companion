@@ -1,0 +1,777 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 121,
+  "pdfPage": 121,
+  "textbookPage": 121,
+  "width": 518.74,
+  "height": 687.06,
+  "image": "../images/page-121.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "116 English For Today\nLesson 2: The History of the Wheel\nKeywords: invent, valley, ancient, further, pioneer, warfare\nA. Look at the following pictures of wheels. They existed in different ages in\nhistory. Discuss with your partner and put ordinal numbers under them (in\nspelling, such as 'first', 'second', etc.,) beginning from the ancient to the\nmodern times:\n(ar)\n“ay\nB. Read the following dialogue between the English teacher, Mr Ramis\nand a student Rubina:\nMr. Ramis: You know that the invention of the wheel has helped to create\na new civilisation. But do you know who first used wheels?\nRubina: No, teacher. But I guess it may be the Greeks.\nMr. Ramis: The Greeks were pioneers in many things. But in this case,\nhowever, the Mesopotamians were the first. The oldest ever\nwheel was discovered in Mesopotamia. It was in 3500 B.C.\nRubina: Where is Mesopotemia?\nMr. Ramis: Well, Mesopotamia was in ancient Iraq. It was along the valley\nof the rivers Tigris and Euphrates. After the Mesopotamians,\nthe wheel was further improved by the Egyptians. They first\nmade wheels with spokes. Then they used them on chariots\naround 2000 B.C.\n‘So\nRubina: So, the wheel travelled to Egypt from Mesopotamia? Ss",
+  "cleanText": "116 English For Today Lesson 2: The History of the Wheel Keywords: invent, valley, ancient, further, pioneer, warfare A. Look at the following pictures of wheels. They existed in different ages in history. Discuss with your partner and put ordinal numbers under them (in spelling, such as 'first', 'second', etc.,) beginning from the ancient to the modern times: (ar) “ay B. Read the following dialogue between the English teacher, Mr Ramis and a student Rubina: Mr. Ramis: You know that the invention of the wheel has helped to create a new civilisation. But do you know who first used wheels? Rubina: No, teacher. But I guess it may be the Greeks. Mr. Ramis: The Greeks were pioneers in many things. But in this case, however, the Mesopotamians were the first. The oldest ever wheel was discovered in Mesopotamia. It was in 3500 B.C. Rubina: Where is Mesopotemia? Mr. Ramis: Well, Mesopotamia was in ancient Iraq. It was along the valley of the rivers Tigris and Euphrates. After the Mesopotamians, the wheel was further improved by the Egyptians. They first made wheels with spokes. Then they used them on chariots around 2000 B.C. ‘So Rubina: So, the wheel travelled to Egypt from Mesopotamia? Ss",
+  "aiReadyText": "116 English For Today Lesson 2: The History of the Wheel Keywords: invent, valley, ancient, further, pioneer, warfare A. Look at the following pictures of wheels. They existed in different ages in history. Discuss with your partner and put ordinal numbers under them (in spelling, such as 'first', 'second', etc.,) beginning from the ancient to the modern times: (ar) “ay B. Read the following dialogue between the English teacher, Mr Ramis and a student Rubina: Mr. Ramis: You know that the invention of the wheel has helped to create a new civilisation. But do you know who first used wheels? Rubina: No, teacher. But I guess it may be the Greeks. Mr. Ramis: The Greeks were pioneers in many things. But in this case, however, the Mesopotamians were the first. The oldest ever wheel was discovered in Mesopotamia. It was in 3500 B.C. Rubina: Where is Mesopotemia? Mr. Ramis: Well, Mesopotamia was in ancient Iraq. It was along the valley of the rivers Tigris and Euphrates. After the Mesopotamians, the wheel was further improved by the Egyptians. They first made wheels with spokes. Then they used them on chariots around 2000 B.C. ‘So Rubina: So, the wheel travelled to Egypt from Mesopotamia? Ss",
+  "lines": [
+    {
+      "id": "class8-english-p121-l001",
+      "lineNumber": 1,
+      "text": "116 English For Today",
+      "cleanText": "116 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.18,
+        39.46,
+        469.73,
+        50.4
+      ]
+    },
+    {
+      "id": "class8-english-p121-l002",
+      "lineNumber": 2,
+      "text": "Lesson 2: The History of the Wheel",
+      "cleanText": "Lesson 2: The History of the Wheel",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        56.74,
+        62.5,
+        356.83,
+        80.64
+      ]
+    },
+    {
+      "id": "class8-english-p121-l003",
+      "lineNumber": 3,
+      "text": "Keywords: invent, valley, ancient, further, pioneer, warfare",
+      "cleanText": "Keywords: invent, valley, ancient, further, pioneer, warfare",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        58.18,
+        93.31,
+        388.22,
+        105.41
+      ]
+    },
+    {
+      "id": "class8-english-p121-l004",
+      "lineNumber": 4,
+      "text": "A. Look at the following pictures of wheels. They existed in different ages in",
+      "cleanText": "A. Look at the following pictures of wheels. They existed in different ages in",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.79,
+      "bbox": [
+        57.02,
+        123.55,
+        471.74,
+        135.36
+      ]
+    },
+    {
+      "id": "class8-english-p121-l005",
+      "lineNumber": 5,
+      "text": "history. Discuss with your partner and put ordinal numbers under them (in",
+      "cleanText": "history. Discuss with your partner and put ordinal numbers under them (in",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        81.22,
+        141.41,
+        471.74,
+        153.22
+      ]
+    },
+    {
+      "id": "class8-english-p121-l006",
+      "lineNumber": 6,
+      "text": "spelling, such as 'first', 'second', etc.,) beginning from the ancient to the",
+      "cleanText": "spelling, such as 'first', 'second', etc.,) beginning from the ancient to the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.17,
+      "bbox": [
+        81.79,
+        159.55,
+        472.03,
+        171.36
+      ]
+    },
+    {
+      "id": "class8-english-p121-l007",
+      "lineNumber": 7,
+      "text": "modern times:",
+      "cleanText": "modern times:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        81.5,
+        177.41,
+        155.52,
+        186.62
+      ]
+    },
+    {
+      "id": "class8-english-p121-l008",
+      "lineNumber": 8,
+      "text": "(ar)",
+      "cleanText": "(ar)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 39.0,
+      "bbox": [
+        330.05,
+        224.06,
+        374.4,
+        249.12
+      ]
+    },
+    {
+      "id": "class8-english-p121-l009",
+      "lineNumber": 9,
+      "text": "“ay",
+      "cleanText": "“ay",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 58.0,
+      "bbox": [
+        330.91,
+        240.19,
+        373.25,
+        261.22
+      ]
+    },
+    {
+      "id": "class8-english-p121-l010",
+      "lineNumber": 10,
+      "text": "B. Read the following dialogue between the English teacher, Mr Ramis",
+      "cleanText": "B. Read the following dialogue between the English teacher, Mr Ramis",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.27,
+      "bbox": [
+        57.31,
+        311.62,
+        468.58,
+        323.42
+      ]
+    },
+    {
+      "id": "class8-english-p121-l011",
+      "lineNumber": 11,
+      "text": "and a student Rubina:",
+      "cleanText": "and a student Rubina:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        75.46,
+        329.76,
+        200.45,
+        338.69
+      ]
+    },
+    {
+      "id": "class8-english-p121-l012",
+      "lineNumber": 12,
+      "text": "Mr. Ramis: You know that the invention of the wheel has helped to create",
+      "cleanText": "Mr. Ramis: You know that the invention of the wheel has helped to create",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.27,
+      "bbox": [
+        57.31,
+        359.42,
+        480.38,
+        371.23
+      ]
+    },
+    {
+      "id": "class8-english-p121-l013",
+      "lineNumber": 13,
+      "text": "a new civilisation. But do you know who first used wheels?",
+      "cleanText": "a new civilisation. But do you know who first used wheels?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.18,
+      "bbox": [
+        153.5,
+        379.58,
+        462.82,
+        391.39
+      ]
+    },
+    {
+      "id": "class8-english-p121-l014",
+      "lineNumber": 14,
+      "text": "Rubina: No, teacher. But I guess it may be the Greeks.",
+      "cleanText": "Rubina: No, teacher. But I guess it may be the Greeks.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.42,
+      "bbox": [
+        57.02,
+        408.38,
+        389.38,
+        422.5
+      ]
+    },
+    {
+      "id": "class8-english-p121-l015",
+      "lineNumber": 15,
+      "text": "Mr. Ramis: The Greeks were pioneers in many things. But in this case,",
+      "cleanText": "Mr. Ramis: The Greeks were pioneers in many things. But in this case,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.14,
+      "bbox": [
+        57.31,
+        439.49,
+        480.1,
+        451.3
+      ]
+    },
+    {
+      "id": "class8-english-p121-l016",
+      "lineNumber": 16,
+      "text": "however, the Mesopotamians were the first. The oldest ever",
+      "cleanText": "however, the Mesopotamians were the first. The oldest ever",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.11,
+      "bbox": [
+        153.22,
+        459.36,
+        479.23,
+        471.17
+      ]
+    },
+    {
+      "id": "class8-english-p121-l017",
+      "lineNumber": 17,
+      "text": "wheel was discovered in Mesopotamia. It was in 3500 B.C.",
+      "cleanText": "wheel was discovered in Mesopotamia. It was in 3500 B.C.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        153.22,
+        479.52,
+        461.66,
+        491.33
+      ]
+    },
+    {
+      "id": "class8-english-p121-l018",
+      "lineNumber": 18,
+      "text": "Rubina: Where is Mesopotemia?",
+      "cleanText": "Rubina: Where is Mesopotemia?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.6,
+      "bbox": [
+        57.02,
+        506.3,
+        279.07,
+        518.4
+      ]
+    },
+    {
+      "id": "class8-english-p121-l019",
+      "lineNumber": 19,
+      "text": "Mr. Ramis: Well, Mesopotamia was in ancient Iraq. It was along the valley",
+      "cleanText": "Mr. Ramis: Well, Mesopotamia was in ancient Iraq. It was along the valley",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.36,
+      "bbox": [
+        57.31,
+        531.94,
+        471.74,
+        543.74
+      ]
+    },
+    {
+      "id": "class8-english-p121-l020",
+      "lineNumber": 20,
+      "text": "of the rivers Tigris and Euphrates. After the Mesopotamians,",
+      "cleanText": "of the rivers Tigris and Euphrates. After the Mesopotamians,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.22,
+      "bbox": [
+        152.93,
+        552.1,
+        473.18,
+        563.9
+      ]
+    },
+    {
+      "id": "class8-english-p121-l021",
+      "lineNumber": 21,
+      "text": "the wheel was further improved by the Egyptians. They first",
+      "cleanText": "the wheel was further improved by the Egyptians. They first",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        152.64,
+        571.97,
+        472.03,
+        583.78
+      ]
+    },
+    {
+      "id": "class8-english-p121-l022",
+      "lineNumber": 22,
+      "text": "made wheels with spokes. Then they used them on chariots",
+      "cleanText": "made wheels with spokes. Then they used them on chariots",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        152.64,
+        592.13,
+        471.46,
+        603.94
+      ]
+    },
+    {
+      "id": "class8-english-p121-l023",
+      "lineNumber": 23,
+      "text": "around 2000 B.C.",
+      "cleanText": "around 2000 B.C.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        152.93,
+        612.0,
+        241.92,
+        621.22
+      ]
+    },
+    {
+      "id": "class8-english-p121-l024",
+      "lineNumber": 24,
+      "text": "‘So",
+      "cleanText": "‘So",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 36.0,
+      "bbox": [
+        491.62,
+        626.69,
+        499.68,
+        632.16
+      ]
+    },
+    {
+      "id": "class8-english-p121-l025",
+      "lineNumber": 25,
+      "text": "Rubina: So, the wheel travelled to Egypt from Mesopotamia? Ss",
+      "cleanText": "Rubina: So, the wheel travelled to Egypt from Mesopotamia? Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.73,
+      "bbox": [
+        57.02,
+        632.16,
+        499.68,
+        651.74
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p121-l001",
+      "lineNumber": 1,
+      "text": "116 English For Today",
+      "cleanText": "116 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.18,
+        39.46,
+        469.73,
+        50.4
+      ]
+    },
+    {
+      "id": "class8-english-p121-l002",
+      "lineNumber": 2,
+      "text": "Lesson 2: The History of the Wheel",
+      "cleanText": "Lesson 2: The History of the Wheel",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        56.74,
+        62.5,
+        356.83,
+        80.64
+      ]
+    },
+    {
+      "id": "class8-english-p121-l003",
+      "lineNumber": 3,
+      "text": "Keywords: invent, valley, ancient, further, pioneer, warfare",
+      "cleanText": "Keywords: invent, valley, ancient, further, pioneer, warfare",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        58.18,
+        93.31,
+        388.22,
+        105.41
+      ]
+    },
+    {
+      "id": "class8-english-p121-l004",
+      "lineNumber": 4,
+      "text": "A. Look at the following pictures of wheels. They existed in different ages in",
+      "cleanText": "A. Look at the following pictures of wheels. They existed in different ages in",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.79,
+      "bbox": [
+        57.02,
+        123.55,
+        471.74,
+        135.36
+      ]
+    },
+    {
+      "id": "class8-english-p121-l005",
+      "lineNumber": 5,
+      "text": "history. Discuss with your partner and put ordinal numbers under them (in",
+      "cleanText": "history. Discuss with your partner and put ordinal numbers under them (in",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        81.22,
+        141.41,
+        471.74,
+        153.22
+      ]
+    },
+    {
+      "id": "class8-english-p121-l006",
+      "lineNumber": 6,
+      "text": "spelling, such as 'first', 'second', etc.,) beginning from the ancient to the",
+      "cleanText": "spelling, such as 'first', 'second', etc.,) beginning from the ancient to the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.17,
+      "bbox": [
+        81.79,
+        159.55,
+        472.03,
+        171.36
+      ]
+    },
+    {
+      "id": "class8-english-p121-l007",
+      "lineNumber": 7,
+      "text": "modern times:",
+      "cleanText": "modern times:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        81.5,
+        177.41,
+        155.52,
+        186.62
+      ]
+    },
+    {
+      "id": "class8-english-p121-l008",
+      "lineNumber": 8,
+      "text": "(ar)",
+      "cleanText": "(ar)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 39.0,
+      "bbox": [
+        330.05,
+        224.06,
+        374.4,
+        249.12
+      ]
+    },
+    {
+      "id": "class8-english-p121-l009",
+      "lineNumber": 9,
+      "text": "“ay",
+      "cleanText": "“ay",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 58.0,
+      "bbox": [
+        330.91,
+        240.19,
+        373.25,
+        261.22
+      ]
+    },
+    {
+      "id": "class8-english-p121-l010",
+      "lineNumber": 10,
+      "text": "B. Read the following dialogue between the English teacher, Mr Ramis",
+      "cleanText": "B. Read the following dialogue between the English teacher, Mr Ramis",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.27,
+      "bbox": [
+        57.31,
+        311.62,
+        468.58,
+        323.42
+      ]
+    },
+    {
+      "id": "class8-english-p121-l011",
+      "lineNumber": 11,
+      "text": "and a student Rubina:",
+      "cleanText": "and a student Rubina:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        75.46,
+        329.76,
+        200.45,
+        338.69
+      ]
+    },
+    {
+      "id": "class8-english-p121-l012",
+      "lineNumber": 12,
+      "text": "Mr. Ramis: You know that the invention of the wheel has helped to create",
+      "cleanText": "Mr. Ramis: You know that the invention of the wheel has helped to create",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.27,
+      "bbox": [
+        57.31,
+        359.42,
+        480.38,
+        371.23
+      ]
+    },
+    {
+      "id": "class8-english-p121-l013",
+      "lineNumber": 13,
+      "text": "a new civilisation. But do you know who first used wheels?",
+      "cleanText": "a new civilisation. But do you know who first used wheels?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.18,
+      "bbox": [
+        153.5,
+        379.58,
+        462.82,
+        391.39
+      ]
+    },
+    {
+      "id": "class8-english-p121-l014",
+      "lineNumber": 14,
+      "text": "Rubina: No, teacher. But I guess it may be the Greeks.",
+      "cleanText": "Rubina: No, teacher. But I guess it may be the Greeks.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.42,
+      "bbox": [
+        57.02,
+        408.38,
+        389.38,
+        422.5
+      ]
+    },
+    {
+      "id": "class8-english-p121-l015",
+      "lineNumber": 15,
+      "text": "Mr. Ramis: The Greeks were pioneers in many things. But in this case,",
+      "cleanText": "Mr. Ramis: The Greeks were pioneers in many things. But in this case,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.14,
+      "bbox": [
+        57.31,
+        439.49,
+        480.1,
+        451.3
+      ]
+    },
+    {
+      "id": "class8-english-p121-l016",
+      "lineNumber": 16,
+      "text": "however, the Mesopotamians were the first. The oldest ever",
+      "cleanText": "however, the Mesopotamians were the first. The oldest ever",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.11,
+      "bbox": [
+        153.22,
+        459.36,
+        479.23,
+        471.17
+      ]
+    },
+    {
+      "id": "class8-english-p121-l017",
+      "lineNumber": 17,
+      "text": "wheel was discovered in Mesopotamia. It was in 3500 B.C.",
+      "cleanText": "wheel was discovered in Mesopotamia. It was in 3500 B.C.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        153.22,
+        479.52,
+        461.66,
+        491.33
+      ]
+    },
+    {
+      "id": "class8-english-p121-l018",
+      "lineNumber": 18,
+      "text": "Rubina: Where is Mesopotemia?",
+      "cleanText": "Rubina: Where is Mesopotemia?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.6,
+      "bbox": [
+        57.02,
+        506.3,
+        279.07,
+        518.4
+      ]
+    },
+    {
+      "id": "class8-english-p121-l019",
+      "lineNumber": 19,
+      "text": "Mr. Ramis: Well, Mesopotamia was in ancient Iraq. It was along the valley",
+      "cleanText": "Mr. Ramis: Well, Mesopotamia was in ancient Iraq. It was along the valley",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.36,
+      "bbox": [
+        57.31,
+        531.94,
+        471.74,
+        543.74
+      ]
+    },
+    {
+      "id": "class8-english-p121-l020",
+      "lineNumber": 20,
+      "text": "of the rivers Tigris and Euphrates. After the Mesopotamians,",
+      "cleanText": "of the rivers Tigris and Euphrates. After the Mesopotamians,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.22,
+      "bbox": [
+        152.93,
+        552.1,
+        473.18,
+        563.9
+      ]
+    },
+    {
+      "id": "class8-english-p121-l021",
+      "lineNumber": 21,
+      "text": "the wheel was further improved by the Egyptians. They first",
+      "cleanText": "the wheel was further improved by the Egyptians. They first",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        152.64,
+        571.97,
+        472.03,
+        583.78
+      ]
+    },
+    {
+      "id": "class8-english-p121-l022",
+      "lineNumber": 22,
+      "text": "made wheels with spokes. Then they used them on chariots",
+      "cleanText": "made wheels with spokes. Then they used them on chariots",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        152.64,
+        592.13,
+        471.46,
+        603.94
+      ]
+    },
+    {
+      "id": "class8-english-p121-l023",
+      "lineNumber": 23,
+      "text": "around 2000 B.C.",
+      "cleanText": "around 2000 B.C.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        152.93,
+        612.0,
+        241.92,
+        621.22
+      ]
+    },
+    {
+      "id": "class8-english-p121-l024",
+      "lineNumber": 24,
+      "text": "‘So",
+      "cleanText": "‘So",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 36.0,
+      "bbox": [
+        491.62,
+        626.69,
+        499.68,
+        632.16
+      ]
+    },
+    {
+      "id": "class8-english-p121-l025",
+      "lineNumber": 25,
+      "text": "Rubina: So, the wheel travelled to Egypt from Mesopotamia? Ss",
+      "cleanText": "Rubina: So, the wheel travelled to Egypt from Mesopotamia? Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.73,
+      "bbox": [
+        57.02,
+        632.16,
+        499.68,
+        651.74
+      ]
+    }
+  ],
+  "lineCount": 25,
+  "aiReadyLineCount": 25,
+  "averageConfidence": 88.44,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:52.828368+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

@@ -1,0 +1,687 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 6,
+  "pdfPage": 6,
+  "textbookPage": 6,
+  "width": 542.97,
+  "height": 701.39,
+  "image": "../images/page-006.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Unit One\nA Glimpse of Our Culture\na =>\na\nFa ep\nafer is, 2 ee =~ 54\npes = ee daa <= — — Rs\n. * eo os} We a — 7 Sy\n= = \" ce t 1 E * ~ ~ iu =* i\nee SA\nib - - = ays ey aS E Ligh rg ro\n: - er fy\n7 - mi. 6 “ate Fp ee: 1 Or:\n— = are 7 2 =\" ar\n“tt -- - -Wdetemey “at ee...) eel\n~ paves Ba Ss SSS SET Ss\nAfter we have studied this unit, we will be able to\n@ read and understand texts through silent reading\n@ infer meaning from context\n@ ask and answer questions\n@ write answers to questions\n® write short compositions\nForma-1, English For Today Class-8",
+  "cleanText": "Unit One A Glimpse of Our Culture a => a Fa ep afer is, 2 ee =~ 54 pes = ee daa <= — — Rs. * eo os} We a — 7 Sy = = \" ce t 1 E * ~ ~ iu =* i ee SA ib - - = ays ey aS E Ligh rg ro: - er fy 7 - mi. 6 “ate Fp ee: 1 Or: — = are 7 2 =\" ar “tt -- - -Wdetemey “at ee...) eel ~ paves Ba Ss SSS SET Ss After we have studied this unit, we will be able to @ read and understand texts through silent reading @ infer meaning from context @ ask and answer questions @ write answers to questions ® write short compositions Forma-1, English For Today Class-8",
+  "aiReadyText": "Unit One A Glimpse of Our Culture Fa ep afer is, 2 ee =~ 54 pes = ee daa <= — — Rs. * eo os} We a — 7 Sy = = \" ce t 1 E * ~ ~ iu =* i ee SA ib - - = ays ey aS E Ligh rg ro: - er fy 7 - mi. 6 “ate Fp ee: 1 Or: — = are 7 2 =\" ar “tt -- - -Wdetemey “at ee...) eel ~ paves Ba Ss SSS SET Ss After we have studied this unit, we will be able to @ read and understand texts through silent reading @ infer meaning from context @ ask and answer questions @ write answers to questions ® write short compositions Forma-1, English For Today Class-8",
+  "lines": [
+    {
+      "id": "class8-english-p006-l001",
+      "lineNumber": 1,
+      "text": "Unit One",
+      "cleanText": "Unit One",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        241.34,
+        48.67,
+        307.01,
+        60.48
+      ]
+    },
+    {
+      "id": "class8-english-p006-l002",
+      "lineNumber": 2,
+      "text": "A Glimpse of Our Culture",
+      "cleanText": "A Glimpse of Our Culture",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        154.66,
+        78.05,
+        387.94,
+        96.77
+      ]
+    },
+    {
+      "id": "class8-english-p006-l003",
+      "lineNumber": 3,
+      "text": "a =>",
+      "cleanText": "a =>",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 16.0,
+      "bbox": [
+        78.62,
+        187.49,
+        415.58,
+        216.58
+      ]
+    },
+    {
+      "id": "class8-english-p006-l004",
+      "lineNumber": 4,
+      "text": "a",
+      "cleanText": "a",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 11.0,
+      "bbox": [
+        339.84,
+        190.66,
+        397.73,
+        198.72
+      ]
+    },
+    {
+      "id": "class8-english-p006-l005",
+      "lineNumber": 5,
+      "text": "Fa ep",
+      "cleanText": "Fa ep",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 36.5,
+      "bbox": [
+        325.73,
+        193.54,
+        388.8,
+        205.63
+      ]
+    },
+    {
+      "id": "class8-english-p006-l006",
+      "lineNumber": 6,
+      "text": "afer is, 2 ee =~ 54",
+      "cleanText": "afer is, 2 ee =~ 54",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 29.67,
+      "bbox": [
+        134.78,
+        299.52,
+        409.82,
+        319.97
+      ]
+    },
+    {
+      "id": "class8-english-p006-l007",
+      "lineNumber": 7,
+      "text": "pes = ee daa <= — — Rs",
+      "cleanText": "pes = ee daa <= — — Rs",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 32.25,
+      "bbox": [
+        142.85,
+        311.04,
+        387.65,
+        325.73
+      ]
+    },
+    {
+      "id": "class8-english-p006-l008",
+      "lineNumber": 8,
+      "text": ". * eo os} We a — 7 Sy",
+      "cleanText": ". * eo os} We a — 7 Sy",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 37.0,
+      "bbox": [
+        163.87,
+        329.76,
+        410.4,
+        365.76
+      ]
+    },
+    {
+      "id": "class8-english-p006-l009",
+      "lineNumber": 9,
+      "text": "= = \" ce t 1 E * ~ ~ iu =* i",
+      "cleanText": "= = \" ce t 1 E * ~ ~ iu =* i",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 42.92,
+      "bbox": [
+        184.61,
+        332.93,
+        402.62,
+        342.72
+      ]
+    },
+    {
+      "id": "class8-english-p006-l010",
+      "lineNumber": 10,
+      "text": "ee SA",
+      "cleanText": "ee SA",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 25.5,
+      "bbox": [
+        127.87,
+        349.92,
+        315.65,
+        383.04
+      ]
+    },
+    {
+      "id": "class8-english-p006-l011",
+      "lineNumber": 11,
+      "text": "ib - - = ays ey aS E Ligh rg ro",
+      "cleanText": "ib - - = ays ey aS E Ligh rg ro",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 23.27,
+      "bbox": [
+        127.87,
+        394.85,
+        409.82,
+        429.98
+      ]
+    },
+    {
+      "id": "class8-english-p006-l012",
+      "lineNumber": 12,
+      "text": ": - er fy",
+      "cleanText": ": - er fy",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 21.0,
+      "bbox": [
+        223.78,
+        400.03,
+        398.59,
+        406.94
+      ]
+    },
+    {
+      "id": "class8-english-p006-l013",
+      "lineNumber": 13,
+      "text": "7 - mi. 6 “ate Fp ee: 1 Or:",
+      "cleanText": "7 - mi. 6 “ate Fp ee: 1 Or:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 34.56,
+      "bbox": [
+        142.85,
+        412.7,
+        407.52,
+        444.1
+      ]
+    },
+    {
+      "id": "class8-english-p006-l014",
+      "lineNumber": 14,
+      "text": "— = are 7 2 =\" ar",
+      "cleanText": "— = are 7 2 =\" ar",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 49.57,
+      "bbox": [
+        182.59,
+        433.44,
+        406.66,
+        444.1
+      ]
+    },
+    {
+      "id": "class8-english-p006-l015",
+      "lineNumber": 15,
+      "text": "“tt -- - -Wdetemey “at ee...) eel",
+      "cleanText": "“tt -- - -Wdetemey “at ee...) eel",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 41.43,
+      "bbox": [
+        136.8,
+        437.76,
+        414.72,
+        458.21
+      ]
+    },
+    {
+      "id": "class8-english-p006-l016",
+      "lineNumber": 16,
+      "text": "~ paves Ba Ss SSS SET Ss",
+      "cleanText": "~ paves Ba Ss SSS SET Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 25.0,
+      "bbox": [
+        144.86,
+        449.57,
+        408.67,
+        465.12
+      ]
+    },
+    {
+      "id": "class8-english-p006-l017",
+      "lineNumber": 17,
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        65.66,
+        515.81,
+        344.16,
+        527.9
+      ]
+    },
+    {
+      "id": "class8-english-p006-l018",
+      "lineNumber": 18,
+      "text": "@ read and understand texts through silent reading",
+      "cleanText": "@ read and understand texts through silent reading",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.62,
+      "bbox": [
+        87.26,
+        544.61,
+        357.98,
+        556.42
+      ]
+    },
+    {
+      "id": "class8-english-p006-l019",
+      "lineNumber": 19,
+      "text": "@ infer meaning from context",
+      "cleanText": "@ infer meaning from context",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.4,
+      "bbox": [
+        87.26,
+        567.65,
+        250.85,
+        579.46
+      ]
+    },
+    {
+      "id": "class8-english-p006-l020",
+      "lineNumber": 20,
+      "text": "@ ask and answer questions",
+      "cleanText": "@ ask and answer questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.8,
+      "bbox": [
+        87.26,
+        590.4,
+        239.62,
+        602.5
+      ]
+    },
+    {
+      "id": "class8-english-p006-l021",
+      "lineNumber": 21,
+      "text": "@ write answers to questions",
+      "cleanText": "@ write answers to questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.4,
+      "bbox": [
+        87.26,
+        613.44,
+        245.38,
+        625.25
+      ]
+    },
+    {
+      "id": "class8-english-p006-l022",
+      "lineNumber": 22,
+      "text": "® write short compositions",
+      "cleanText": "® write short compositions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 71.5,
+      "bbox": [
+        87.26,
+        636.48,
+        236.45,
+        648.29
+      ]
+    },
+    {
+      "id": "class8-english-p006-l023",
+      "lineNumber": 23,
+      "text": "Forma-1, English For Today Class-8",
+      "cleanText": "Forma-1, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.8,
+      "bbox": [
+        65.38,
+        668.74,
+        225.22,
+        678.82
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p006-l001",
+      "lineNumber": 1,
+      "text": "Unit One",
+      "cleanText": "Unit One",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        241.34,
+        48.67,
+        307.01,
+        60.48
+      ]
+    },
+    {
+      "id": "class8-english-p006-l002",
+      "lineNumber": 2,
+      "text": "A Glimpse of Our Culture",
+      "cleanText": "A Glimpse of Our Culture",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        154.66,
+        78.05,
+        387.94,
+        96.77
+      ]
+    },
+    {
+      "id": "class8-english-p006-l005",
+      "lineNumber": 5,
+      "text": "Fa ep",
+      "cleanText": "Fa ep",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 36.5,
+      "bbox": [
+        325.73,
+        193.54,
+        388.8,
+        205.63
+      ]
+    },
+    {
+      "id": "class8-english-p006-l006",
+      "lineNumber": 6,
+      "text": "afer is, 2 ee =~ 54",
+      "cleanText": "afer is, 2 ee =~ 54",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 29.67,
+      "bbox": [
+        134.78,
+        299.52,
+        409.82,
+        319.97
+      ]
+    },
+    {
+      "id": "class8-english-p006-l007",
+      "lineNumber": 7,
+      "text": "pes = ee daa <= — — Rs",
+      "cleanText": "pes = ee daa <= — — Rs",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 32.25,
+      "bbox": [
+        142.85,
+        311.04,
+        387.65,
+        325.73
+      ]
+    },
+    {
+      "id": "class8-english-p006-l008",
+      "lineNumber": 8,
+      "text": ". * eo os} We a — 7 Sy",
+      "cleanText": ". * eo os} We a — 7 Sy",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 37.0,
+      "bbox": [
+        163.87,
+        329.76,
+        410.4,
+        365.76
+      ]
+    },
+    {
+      "id": "class8-english-p006-l009",
+      "lineNumber": 9,
+      "text": "= = \" ce t 1 E * ~ ~ iu =* i",
+      "cleanText": "= = \" ce t 1 E * ~ ~ iu =* i",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 42.92,
+      "bbox": [
+        184.61,
+        332.93,
+        402.62,
+        342.72
+      ]
+    },
+    {
+      "id": "class8-english-p006-l010",
+      "lineNumber": 10,
+      "text": "ee SA",
+      "cleanText": "ee SA",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 25.5,
+      "bbox": [
+        127.87,
+        349.92,
+        315.65,
+        383.04
+      ]
+    },
+    {
+      "id": "class8-english-p006-l011",
+      "lineNumber": 11,
+      "text": "ib - - = ays ey aS E Ligh rg ro",
+      "cleanText": "ib - - = ays ey aS E Ligh rg ro",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 23.27,
+      "bbox": [
+        127.87,
+        394.85,
+        409.82,
+        429.98
+      ]
+    },
+    {
+      "id": "class8-english-p006-l012",
+      "lineNumber": 12,
+      "text": ": - er fy",
+      "cleanText": ": - er fy",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 21.0,
+      "bbox": [
+        223.78,
+        400.03,
+        398.59,
+        406.94
+      ]
+    },
+    {
+      "id": "class8-english-p006-l013",
+      "lineNumber": 13,
+      "text": "7 - mi. 6 “ate Fp ee: 1 Or:",
+      "cleanText": "7 - mi. 6 “ate Fp ee: 1 Or:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 34.56,
+      "bbox": [
+        142.85,
+        412.7,
+        407.52,
+        444.1
+      ]
+    },
+    {
+      "id": "class8-english-p006-l014",
+      "lineNumber": 14,
+      "text": "— = are 7 2 =\" ar",
+      "cleanText": "— = are 7 2 =\" ar",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 49.57,
+      "bbox": [
+        182.59,
+        433.44,
+        406.66,
+        444.1
+      ]
+    },
+    {
+      "id": "class8-english-p006-l015",
+      "lineNumber": 15,
+      "text": "“tt -- - -Wdetemey “at ee...) eel",
+      "cleanText": "“tt -- - -Wdetemey “at ee...) eel",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 41.43,
+      "bbox": [
+        136.8,
+        437.76,
+        414.72,
+        458.21
+      ]
+    },
+    {
+      "id": "class8-english-p006-l016",
+      "lineNumber": 16,
+      "text": "~ paves Ba Ss SSS SET Ss",
+      "cleanText": "~ paves Ba Ss SSS SET Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 25.0,
+      "bbox": [
+        144.86,
+        449.57,
+        408.67,
+        465.12
+      ]
+    },
+    {
+      "id": "class8-english-p006-l017",
+      "lineNumber": 17,
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        65.66,
+        515.81,
+        344.16,
+        527.9
+      ]
+    },
+    {
+      "id": "class8-english-p006-l018",
+      "lineNumber": 18,
+      "text": "@ read and understand texts through silent reading",
+      "cleanText": "@ read and understand texts through silent reading",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.62,
+      "bbox": [
+        87.26,
+        544.61,
+        357.98,
+        556.42
+      ]
+    },
+    {
+      "id": "class8-english-p006-l019",
+      "lineNumber": 19,
+      "text": "@ infer meaning from context",
+      "cleanText": "@ infer meaning from context",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.4,
+      "bbox": [
+        87.26,
+        567.65,
+        250.85,
+        579.46
+      ]
+    },
+    {
+      "id": "class8-english-p006-l020",
+      "lineNumber": 20,
+      "text": "@ ask and answer questions",
+      "cleanText": "@ ask and answer questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.8,
+      "bbox": [
+        87.26,
+        590.4,
+        239.62,
+        602.5
+      ]
+    },
+    {
+      "id": "class8-english-p006-l021",
+      "lineNumber": 21,
+      "text": "@ write answers to questions",
+      "cleanText": "@ write answers to questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.4,
+      "bbox": [
+        87.26,
+        613.44,
+        245.38,
+        625.25
+      ]
+    },
+    {
+      "id": "class8-english-p006-l022",
+      "lineNumber": 22,
+      "text": "® write short compositions",
+      "cleanText": "® write short compositions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 71.5,
+      "bbox": [
+        87.26,
+        636.48,
+        236.45,
+        648.29
+      ]
+    },
+    {
+      "id": "class8-english-p006-l023",
+      "lineNumber": 23,
+      "text": "Forma-1, English For Today Class-8",
+      "cleanText": "Forma-1, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.8,
+      "bbox": [
+        65.38,
+        668.74,
+        225.22,
+        678.82
+      ]
+    }
+  ],
+  "lineCount": 23,
+  "aiReadyLineCount": 21,
+  "averageConfidence": 53.9,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:15:41.465195+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

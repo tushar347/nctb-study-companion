@@ -1,0 +1,777 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 7,
+  "pdfPage": 7,
+  "textbookPage": 7,
+  "width": 542.97,
+  "height": 701.39,
+  "image": "../images/page-007.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "2 English For Today\nLesson 1: Folk Song\nTractorrel Muse! rote of B nig Tred! ro a\noe eh Me, ‘i\n[P) BANGLADESH or a’ e RNs BANGLADESH. BS\n* 2 Banas nnn nnn RES 0 hatha dan enn na\nb5 Giana euges BANGLADESH ov 15 -\nA set of four stamps issued on 21 July 2011 on Traditional Musical\nInstruments of Bangladesh\nKeywords:\npeople's music, oral tradition, self-expression, instruments, migration\nA. Work in Pairs:\n1. What kinds of music do you listento in your daily life? Are they\nrelated to your family traditions or culture?\n2. How do you think music changes over time? Does it stay the\nsame, or does it evolve with people’s lifestyles?\n3. Can you think of any traditional instruments you’ve seen or heard\nabout? What materials do you think they’re made from?\n4. Why might certain types of music become less common as people\nmove from villages to cities?\nB. Read the text and answer the following questions:\nPeople’s music, also known as folk music, consists of tunes, lyrics, and\nknowledge passed down orally for generations. Over time, this music has\nevolved, closely tied to the way people live. Our agriculture, food, ecology, 6\nseasons, and rituals are all reflected in these songs. Palligiti, Bhatiwali, Jari, Sari, Ss",
+  "cleanText": "2 English For Today Lesson 1: Folk Song Tractorrel Muse! rote of B nig Tred! ro a oe eh Me, ‘i [P) BANGLADESH or a’ e RNs BANGLADESH. BS * 2 Banas nnn nnn RES 0 hatha dan enn na b5 Giana euges BANGLADESH ov 15 - A set of four stamps issued on 21 July 2011 on Traditional Musical Instruments of Bangladesh Keywords: people's music, oral tradition, self-expression, instruments, migration A. Work in Pairs: 1. What kinds of music do you listento in your daily life? Are they related to your family traditions or culture? 2. How do you think music changes over time? Does it stay the same, or does it evolve with people’s lifestyles? 3. Can you think of any traditional instruments you’ve seen or heard about? What materials do you think they’re made from? 4. Why might certain types of music become less common as people move from villages to cities? B. Read the text and answer the following questions: People’s music, also known as folk music, consists of tunes, lyrics, and knowledge passed down orally for generations. Over time, this music has evolved, closely tied to the way people live. Our agriculture, food, ecology, 6 seasons, and rituals are all reflected in these songs. Palligiti, Bhatiwali, Jari, Sari, Ss",
+  "aiReadyText": "2 English For Today Lesson 1: Folk Song Tractorrel Muse! rote of B nig Tred! ro a oe eh Me, ‘i [P) BANGLADESH or a’ e RNs BANGLADESH. BS * 2 Banas nnn nnn RES 0 hatha dan enn na b5 Giana euges BANGLADESH ov 15 - A set of four stamps issued on 21 July 2011 on Traditional Musical Instruments of Bangladesh Keywords: people's music, oral tradition, self-expression, instruments, migration A. Work in Pairs: 1. What kinds of music do you listento in your daily life? Are they related to your family traditions or culture? 2. How do you think music changes over time? Does it stay the same, or does it evolve with people’s lifestyles? 3. Can you think of any traditional instruments you’ve seen or heard about? What materials do you think they’re made from? 4. Why might certain types of music become less common as people move from villages to cities? B. Read the text and answer the following questions: People’s music, also known as folk music, consists of tunes, lyrics, and knowledge passed down orally for generations. Over time, this music has evolved, closely tied to the way people live. Our agriculture, food, ecology, 6 seasons, and rituals are all reflected in these songs. Palligiti, Bhatiwali, Jari, Sari, Ss",
+  "lines": [
+    {
+      "id": "class8-english-p007-l001",
+      "lineNumber": 1,
+      "text": "2 English For Today",
+      "cleanText": "2 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        64.8,
+        46.37,
+        479.52,
+        58.46
+      ]
+    },
+    {
+      "id": "class8-english-p007-l002",
+      "lineNumber": 2,
+      "text": "Lesson 1: Folk Song",
+      "cleanText": "Lesson 1: Folk Song",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        63.65,
+        81.22,
+        235.01,
+        99.07
+      ]
+    },
+    {
+      "id": "class8-english-p007-l003",
+      "lineNumber": 3,
+      "text": "Tractorrel Muse! rote of B nig Tred! ro a",
+      "cleanText": "Tractorrel Muse! rote of B nig Tred! ro a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 33.22,
+      "bbox": [
+        165.89,
+        118.08,
+        406.08,
+        130.18
+      ]
+    },
+    {
+      "id": "class8-english-p007-l004",
+      "lineNumber": 4,
+      "text": "oe eh Me, ‘i",
+      "cleanText": "oe eh Me, ‘i",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 33.25,
+      "bbox": [
+        133.92,
+        189.22,
+        417.02,
+        206.21
+      ]
+    },
+    {
+      "id": "class8-english-p007-l005",
+      "lineNumber": 5,
+      "text": "[P) BANGLADESH or a’ e RNs BANGLADESH. BS",
+      "cleanText": "[P) BANGLADESH or a’ e RNs BANGLADESH. BS",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 28.25,
+      "bbox": [
+        175.97,
+        200.16,
+        417.02,
+        223.2
+      ]
+    },
+    {
+      "id": "class8-english-p007-l006",
+      "lineNumber": 6,
+      "text": "* 2 Banas nnn nnn RES 0 hatha dan enn na",
+      "cleanText": "* 2 Banas nnn nnn RES 0 hatha dan enn na",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 15.36,
+      "bbox": [
+        133.06,
+        214.56,
+        415.01,
+        230.11
+      ]
+    },
+    {
+      "id": "class8-english-p007-l007",
+      "lineNumber": 7,
+      "text": "b5 Giana euges BANGLADESH ov 15 -",
+      "cleanText": "b5 Giana euges BANGLADESH ov 15 -",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 37.71,
+      "bbox": [
+        142.85,
+        304.99,
+        419.04,
+        329.18
+      ]
+    },
+    {
+      "id": "class8-english-p007-l008",
+      "lineNumber": 8,
+      "text": "A set of four stamps issued on 21 July 2011 on Traditional Musical",
+      "cleanText": "A set of four stamps issued on 21 July 2011 on Traditional Musical",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        66.53,
+        349.63,
+        478.94,
+        362.3
+      ]
+    },
+    {
+      "id": "class8-english-p007-l009",
+      "lineNumber": 9,
+      "text": "Instruments of Bangladesh",
+      "cleanText": "Instruments of Bangladesh",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        66.53,
+        365.76,
+        226.94,
+        378.14
+      ]
+    },
+    {
+      "id": "class8-english-p007-l010",
+      "lineNumber": 10,
+      "text": "Keywords:",
+      "cleanText": "Keywords:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        66.53,
+        388.51,
+        130.18,
+        400.9
+      ]
+    },
+    {
+      "id": "class8-english-p007-l011",
+      "lineNumber": 11,
+      "text": "people's music, oral tradition, self-expression, instruments, migration",
+      "cleanText": "people's music, oral tradition, self-expression, instruments, migration",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        67.1,
+        404.06,
+        426.82,
+        415.87
+      ]
+    },
+    {
+      "id": "class8-english-p007-l012",
+      "lineNumber": 12,
+      "text": "A. Work in Pairs:",
+      "cleanText": "A. Work in Pairs:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        66.53,
+        427.68,
+        174.82,
+        437.47
+      ]
+    },
+    {
+      "id": "class8-english-p007-l013",
+      "lineNumber": 13,
+      "text": "1. What kinds of music do you listento in your daily life? Are they",
+      "cleanText": "1. What kinds of music do you listento in your daily life? Are they",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        87.26,
+        453.02,
+        480.1,
+        464.83
+      ]
+    },
+    {
+      "id": "class8-english-p007-l014",
+      "lineNumber": 14,
+      "text": "related to your family traditions or culture?",
+      "cleanText": "related to your family traditions or culture?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.14,
+      "bbox": [
+        105.98,
+        468.58,
+        329.76,
+        480.38
+      ]
+    },
+    {
+      "id": "class8-english-p007-l015",
+      "lineNumber": 15,
+      "text": "2. How do you think music changes over time? Does it stay the",
+      "cleanText": "2. How do you think music changes over time? Does it stay the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        86.11,
+        484.13,
+        479.81,
+        495.94
+      ]
+    },
+    {
+      "id": "class8-english-p007-l016",
+      "lineNumber": 16,
+      "text": "same, or does it evolve with people’s lifestyles?",
+      "cleanText": "same, or does it evolve with people’s lifestyles?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        106.27,
+        499.68,
+        353.66,
+        511.49
+      ]
+    },
+    {
+      "id": "class8-english-p007-l017",
+      "lineNumber": 17,
+      "text": "3. Can you think of any traditional instruments you’ve seen or heard",
+      "cleanText": "3. Can you think of any traditional instruments you’ve seen or heard",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        86.4,
+        515.23,
+        480.38,
+        527.33
+      ]
+    },
+    {
+      "id": "class8-english-p007-l018",
+      "lineNumber": 18,
+      "text": "about? What materials do you think they’re made from?",
+      "cleanText": "about? What materials do you think they’re made from?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.11,
+      "bbox": [
+        106.27,
+        531.07,
+        396.86,
+        542.88
+      ]
+    },
+    {
+      "id": "class8-english-p007-l019",
+      "lineNumber": 19,
+      "text": "4. Why might certain types of music become less common as people",
+      "cleanText": "4. Why might certain types of music become less common as people",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        85.82,
+        546.62,
+        479.81,
+        558.43
+      ]
+    },
+    {
+      "id": "class8-english-p007-l020",
+      "lineNumber": 20,
+      "text": "move from villages to cities?",
+      "cleanText": "move from villages to cities?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.2,
+      "bbox": [
+        105.98,
+        562.18,
+        256.32,
+        573.98
+      ]
+    },
+    {
+      "id": "class8-english-p007-l021",
+      "lineNumber": 21,
+      "text": "B. Read the text and answer the following questions:",
+      "cleanText": "B. Read the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.44,
+      "bbox": [
+        66.82,
+        580.9,
+        381.02,
+        593.57
+      ]
+    },
+    {
+      "id": "class8-english-p007-l022",
+      "lineNumber": 22,
+      "text": "People’s music, also known as folk music, consists of tunes, lyrics, and",
+      "cleanText": "People’s music, also known as folk music, consists of tunes, lyrics, and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        67.1,
+        602.21,
+        481.25,
+        614.02
+      ]
+    },
+    {
+      "id": "class8-english-p007-l023",
+      "lineNumber": 23,
+      "text": "knowledge passed down orally for generations. Over time, this music has",
+      "cleanText": "knowledge passed down orally for generations. Over time, this music has",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.18,
+      "bbox": [
+        67.1,
+        616.61,
+        480.67,
+        628.42
+      ]
+    },
+    {
+      "id": "class8-english-p007-l024",
+      "lineNumber": 24,
+      "text": "evolved, closely tied to the way people live. Our agriculture, food, ecology, 6",
+      "cleanText": "evolved, closely tied to the way people live. Our agriculture, food, ecology, 6",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.85,
+      "bbox": [
+        67.39,
+        631.01,
+        508.9,
+        643.1
+      ]
+    },
+    {
+      "id": "class8-english-p007-l025",
+      "lineNumber": 25,
+      "text": "seasons, and rituals are all reflected in these songs. Palligiti, Bhatiwali, Jari, Sari, Ss",
+      "cleanText": "seasons, and rituals are all reflected in these songs. Palligiti, Bhatiwali, Jari, Sari, Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.79,
+      "bbox": [
+        67.68,
+        641.66,
+        508.9,
+        661.25
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p007-l001",
+      "lineNumber": 1,
+      "text": "2 English For Today",
+      "cleanText": "2 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        64.8,
+        46.37,
+        479.52,
+        58.46
+      ]
+    },
+    {
+      "id": "class8-english-p007-l002",
+      "lineNumber": 2,
+      "text": "Lesson 1: Folk Song",
+      "cleanText": "Lesson 1: Folk Song",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        63.65,
+        81.22,
+        235.01,
+        99.07
+      ]
+    },
+    {
+      "id": "class8-english-p007-l003",
+      "lineNumber": 3,
+      "text": "Tractorrel Muse! rote of B nig Tred! ro a",
+      "cleanText": "Tractorrel Muse! rote of B nig Tred! ro a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 33.22,
+      "bbox": [
+        165.89,
+        118.08,
+        406.08,
+        130.18
+      ]
+    },
+    {
+      "id": "class8-english-p007-l004",
+      "lineNumber": 4,
+      "text": "oe eh Me, ‘i",
+      "cleanText": "oe eh Me, ‘i",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 33.25,
+      "bbox": [
+        133.92,
+        189.22,
+        417.02,
+        206.21
+      ]
+    },
+    {
+      "id": "class8-english-p007-l005",
+      "lineNumber": 5,
+      "text": "[P) BANGLADESH or a’ e RNs BANGLADESH. BS",
+      "cleanText": "[P) BANGLADESH or a’ e RNs BANGLADESH. BS",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 28.25,
+      "bbox": [
+        175.97,
+        200.16,
+        417.02,
+        223.2
+      ]
+    },
+    {
+      "id": "class8-english-p007-l006",
+      "lineNumber": 6,
+      "text": "* 2 Banas nnn nnn RES 0 hatha dan enn na",
+      "cleanText": "* 2 Banas nnn nnn RES 0 hatha dan enn na",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 15.36,
+      "bbox": [
+        133.06,
+        214.56,
+        415.01,
+        230.11
+      ]
+    },
+    {
+      "id": "class8-english-p007-l007",
+      "lineNumber": 7,
+      "text": "b5 Giana euges BANGLADESH ov 15 -",
+      "cleanText": "b5 Giana euges BANGLADESH ov 15 -",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 37.71,
+      "bbox": [
+        142.85,
+        304.99,
+        419.04,
+        329.18
+      ]
+    },
+    {
+      "id": "class8-english-p007-l008",
+      "lineNumber": 8,
+      "text": "A set of four stamps issued on 21 July 2011 on Traditional Musical",
+      "cleanText": "A set of four stamps issued on 21 July 2011 on Traditional Musical",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        66.53,
+        349.63,
+        478.94,
+        362.3
+      ]
+    },
+    {
+      "id": "class8-english-p007-l009",
+      "lineNumber": 9,
+      "text": "Instruments of Bangladesh",
+      "cleanText": "Instruments of Bangladesh",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        66.53,
+        365.76,
+        226.94,
+        378.14
+      ]
+    },
+    {
+      "id": "class8-english-p007-l010",
+      "lineNumber": 10,
+      "text": "Keywords:",
+      "cleanText": "Keywords:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        66.53,
+        388.51,
+        130.18,
+        400.9
+      ]
+    },
+    {
+      "id": "class8-english-p007-l011",
+      "lineNumber": 11,
+      "text": "people's music, oral tradition, self-expression, instruments, migration",
+      "cleanText": "people's music, oral tradition, self-expression, instruments, migration",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        67.1,
+        404.06,
+        426.82,
+        415.87
+      ]
+    },
+    {
+      "id": "class8-english-p007-l012",
+      "lineNumber": 12,
+      "text": "A. Work in Pairs:",
+      "cleanText": "A. Work in Pairs:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        66.53,
+        427.68,
+        174.82,
+        437.47
+      ]
+    },
+    {
+      "id": "class8-english-p007-l013",
+      "lineNumber": 13,
+      "text": "1. What kinds of music do you listento in your daily life? Are they",
+      "cleanText": "1. What kinds of music do you listento in your daily life? Are they",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        87.26,
+        453.02,
+        480.1,
+        464.83
+      ]
+    },
+    {
+      "id": "class8-english-p007-l014",
+      "lineNumber": 14,
+      "text": "related to your family traditions or culture?",
+      "cleanText": "related to your family traditions or culture?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.14,
+      "bbox": [
+        105.98,
+        468.58,
+        329.76,
+        480.38
+      ]
+    },
+    {
+      "id": "class8-english-p007-l015",
+      "lineNumber": 15,
+      "text": "2. How do you think music changes over time? Does it stay the",
+      "cleanText": "2. How do you think music changes over time? Does it stay the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        86.11,
+        484.13,
+        479.81,
+        495.94
+      ]
+    },
+    {
+      "id": "class8-english-p007-l016",
+      "lineNumber": 16,
+      "text": "same, or does it evolve with people’s lifestyles?",
+      "cleanText": "same, or does it evolve with people’s lifestyles?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        106.27,
+        499.68,
+        353.66,
+        511.49
+      ]
+    },
+    {
+      "id": "class8-english-p007-l017",
+      "lineNumber": 17,
+      "text": "3. Can you think of any traditional instruments you’ve seen or heard",
+      "cleanText": "3. Can you think of any traditional instruments you’ve seen or heard",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        86.4,
+        515.23,
+        480.38,
+        527.33
+      ]
+    },
+    {
+      "id": "class8-english-p007-l018",
+      "lineNumber": 18,
+      "text": "about? What materials do you think they’re made from?",
+      "cleanText": "about? What materials do you think they’re made from?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.11,
+      "bbox": [
+        106.27,
+        531.07,
+        396.86,
+        542.88
+      ]
+    },
+    {
+      "id": "class8-english-p007-l019",
+      "lineNumber": 19,
+      "text": "4. Why might certain types of music become less common as people",
+      "cleanText": "4. Why might certain types of music become less common as people",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        85.82,
+        546.62,
+        479.81,
+        558.43
+      ]
+    },
+    {
+      "id": "class8-english-p007-l020",
+      "lineNumber": 20,
+      "text": "move from villages to cities?",
+      "cleanText": "move from villages to cities?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.2,
+      "bbox": [
+        105.98,
+        562.18,
+        256.32,
+        573.98
+      ]
+    },
+    {
+      "id": "class8-english-p007-l021",
+      "lineNumber": 21,
+      "text": "B. Read the text and answer the following questions:",
+      "cleanText": "B. Read the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.44,
+      "bbox": [
+        66.82,
+        580.9,
+        381.02,
+        593.57
+      ]
+    },
+    {
+      "id": "class8-english-p007-l022",
+      "lineNumber": 22,
+      "text": "People’s music, also known as folk music, consists of tunes, lyrics, and",
+      "cleanText": "People’s music, also known as folk music, consists of tunes, lyrics, and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        67.1,
+        602.21,
+        481.25,
+        614.02
+      ]
+    },
+    {
+      "id": "class8-english-p007-l023",
+      "lineNumber": 23,
+      "text": "knowledge passed down orally for generations. Over time, this music has",
+      "cleanText": "knowledge passed down orally for generations. Over time, this music has",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.18,
+      "bbox": [
+        67.1,
+        616.61,
+        480.67,
+        628.42
+      ]
+    },
+    {
+      "id": "class8-english-p007-l024",
+      "lineNumber": 24,
+      "text": "evolved, closely tied to the way people live. Our agriculture, food, ecology, 6",
+      "cleanText": "evolved, closely tied to the way people live. Our agriculture, food, ecology, 6",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.85,
+      "bbox": [
+        67.39,
+        631.01,
+        508.9,
+        643.1
+      ]
+    },
+    {
+      "id": "class8-english-p007-l025",
+      "lineNumber": 25,
+      "text": "seasons, and rituals are all reflected in these songs. Palligiti, Bhatiwali, Jari, Sari, Ss",
+      "cleanText": "seasons, and rituals are all reflected in these songs. Palligiti, Bhatiwali, Jari, Sari, Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.79,
+      "bbox": [
+        67.68,
+        641.66,
+        508.9,
+        661.25
+      ]
+    }
+  ],
+  "lineCount": 25,
+  "aiReadyLineCount": 25,
+  "averageConfidence": 81.88,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:15:42.960442+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

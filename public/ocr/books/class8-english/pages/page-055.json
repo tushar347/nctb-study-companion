@@ -1,0 +1,1107 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 55,
+  "pdfPage": 55,
+  "textbookPage": 55,
+  "width": 547.47,
+  "height": 709.46,
+  "image": "../images/page-055.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "50 English For Today\nD. Read another poem on nature:\nGreen Escape\n--Joseph Auslander\nI have turned my face\nAway from streets and crowds\nTo a windy place\nAnd clouds.\nI have turned from skyscrapers\nThat scratch out the sky,\nFrom wet newspapers\nAlways whipping by.\nI have taken away my heart,\nI will give it again\nTo be split apart\nBy wind and rain.\nI will stand like a stone\nAll day in the grass\nWhere the bees drone\nAnd pass and repass.\nI will watch them brush\nGold across their legs,\nHear the bird at hush\nOver her eggs.\nI will hear the wild swan\nLift high and harsh\nHis crooked clarion\nAcross the marsh.\nWhere the jewel-weed hangs,\nWhere the spotted stream runs,\nWhere the green beetle bangs\nBronze on bronze—\nRooted in the deep ground,\nThe sky tugging at my hair,\nThere will I be found— RS\nThere! a",
+  "cleanText": "50 English For Today D. Read another poem on nature: Green Escape --Joseph Auslander I have turned my face Away from streets and crowds To a windy place And clouds. I have turned from skyscrapers That scratch out the sky, From wet newspapers Always whipping by. I have taken away my heart, I will give it again To be split apart By wind and rain. I will stand like a stone All day in the grass Where the bees drone And pass and repass. I will watch them brush Gold across their legs, Hear the bird at hush Over her eggs. I will hear the wild swan Lift high and harsh His crooked clarion Across the marsh. Where the jewel-weed hangs, Where the spotted stream runs, Where the green beetle bangs Bronze on bronze— Rooted in the deep ground, The sky tugging at my hair, There will I be found— RS There! a",
+  "aiReadyText": "50 English For Today D. Read another poem on nature: Green Escape --Joseph Auslander I have turned my face Away from streets and crowds To a windy place And clouds. I have turned from skyscrapers That scratch out the sky, From wet newspapers Always whipping by. I have taken away my heart, I will give it again To be split apart By wind and rain. I will stand like a stone All day in the grass Where the bees drone And pass and repass. I will watch them brush Gold across their legs, Hear the bird at hush Over her eggs. I will hear the wild swan Lift high and harsh His crooked clarion Across the marsh. Where the jewel-weed hangs, Where the spotted stream runs, Where the green beetle bangs Bronze on bronze— Rooted in the deep ground, The sky tugging at my hair, There will I be found— RS There! a",
+  "lines": [
+    {
+      "id": "class8-english-p055-l001",
+      "lineNumber": 1,
+      "text": "50 English For Today",
+      "cleanText": "50 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        68.83,
+        50.69,
+        481.25,
+        61.63
+      ]
+    },
+    {
+      "id": "class8-english-p055-l002",
+      "lineNumber": 2,
+      "text": "D. Read another poem on nature:",
+      "cleanText": "D. Read another poem on nature:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        67.68,
+        72.58,
+        270.72,
+        84.67
+      ]
+    },
+    {
+      "id": "class8-english-p055-l003",
+      "lineNumber": 3,
+      "text": "Green Escape",
+      "cleanText": "Green Escape",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.65,
+        96.77,
+        258.91,
+        110.02
+      ]
+    },
+    {
+      "id": "class8-english-p055-l004",
+      "lineNumber": 4,
+      "text": "--Joseph Auslander",
+      "cleanText": "--Joseph Auslander",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.5,
+      "bbox": [
+        174.82,
+        112.32,
+        275.04,
+        124.13
+      ]
+    },
+    {
+      "id": "class8-english-p055-l005",
+      "lineNumber": 5,
+      "text": "I have turned my face",
+      "cleanText": "I have turned my face",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        171.36,
+        141.41,
+        283.97,
+        153.22
+      ]
+    },
+    {
+      "id": "class8-english-p055-l006",
+      "lineNumber": 6,
+      "text": "Away from streets and crowds",
+      "cleanText": "Away from streets and crowds",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.07,
+        155.81,
+        328.03,
+        167.62
+      ]
+    },
+    {
+      "id": "class8-english-p055-l007",
+      "lineNumber": 7,
+      "text": "To a windy place",
+      "cleanText": "To a windy place",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.36,
+        170.21,
+        259.49,
+        182.3
+      ]
+    },
+    {
+      "id": "class8-english-p055-l008",
+      "lineNumber": 8,
+      "text": "And clouds.",
+      "cleanText": "And clouds.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        171.07,
+        184.9,
+        232.7,
+        194.11
+      ]
+    },
+    {
+      "id": "class8-english-p055-l009",
+      "lineNumber": 9,
+      "text": "I have turned from skyscrapers",
+      "cleanText": "I have turned from skyscrapers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.6,
+      "bbox": [
+        171.36,
+        207.36,
+        331.49,
+        219.17
+      ]
+    },
+    {
+      "id": "class8-english-p055-l010",
+      "lineNumber": 10,
+      "text": "That scratch out the sky,",
+      "cleanText": "That scratch out the sky,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.2,
+      "bbox": [
+        171.36,
+        221.76,
+        296.93,
+        233.57
+      ]
+    },
+    {
+      "id": "class8-english-p055-l011",
+      "lineNumber": 11,
+      "text": "From wet newspapers",
+      "cleanText": "From wet newspapers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        171.07,
+        236.74,
+        284.54,
+        248.26
+      ]
+    },
+    {
+      "id": "class8-english-p055-l012",
+      "lineNumber": 12,
+      "text": "Always whipping by.",
+      "cleanText": "Always whipping by.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.07,
+        250.85,
+        280.8,
+        262.66
+      ]
+    },
+    {
+      "id": "class8-english-p055-l013",
+      "lineNumber": 13,
+      "text": "I have taken away my heart,",
+      "cleanText": "I have taken away my heart,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        171.36,
+        273.31,
+        316.8,
+        285.12
+      ]
+    },
+    {
+      "id": "class8-english-p055-l014",
+      "lineNumber": 14,
+      "text": "I will give it again",
+      "cleanText": "I will give it again",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        174.53,
+        287.71,
+        269.28,
+        299.81
+      ]
+    },
+    {
+      "id": "class8-english-p055-l015",
+      "lineNumber": 15,
+      "text": "To be split apart",
+      "cleanText": "To be split apart",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        174.53,
+        302.4,
+        258.05,
+        314.21
+      ]
+    },
+    {
+      "id": "class8-english-p055-l016",
+      "lineNumber": 16,
+      "text": "By wind and rain.",
+      "cleanText": "By wind and rain.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.36,
+        316.8,
+        263.23,
+        328.61
+      ]
+    },
+    {
+      "id": "class8-english-p055-l017",
+      "lineNumber": 17,
+      "text": "I will stand like a stone",
+      "cleanText": "I will stand like a stone",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        171.36,
+        339.26,
+        291.46,
+        348.48
+      ]
+    },
+    {
+      "id": "class8-english-p055-l018",
+      "lineNumber": 18,
+      "text": "All day in the grass",
+      "cleanText": "All day in the grass",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.2,
+      "bbox": [
+        171.07,
+        353.95,
+        271.58,
+        365.76
+      ]
+    },
+    {
+      "id": "class8-english-p055-l019",
+      "lineNumber": 19,
+      "text": "Where the bees drone",
+      "cleanText": "Where the bees drone",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.07,
+        368.35,
+        283.39,
+        377.57
+      ]
+    },
+    {
+      "id": "class8-english-p055-l020",
+      "lineNumber": 20,
+      "text": "And pass and repass.",
+      "cleanText": "And pass and repass.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.25,
+      "bbox": [
+        171.07,
+        382.75,
+        279.07,
+        394.56
+      ]
+    },
+    {
+      "id": "class8-english-p055-l021",
+      "lineNumber": 21,
+      "text": "I will watch them brush",
+      "cleanText": "I will watch them brush",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        171.36,
+        405.22,
+        294.34,
+        414.43
+      ]
+    },
+    {
+      "id": "class8-english-p055-l022",
+      "lineNumber": 22,
+      "text": "Gold across their legs,",
+      "cleanText": "Gold across their legs,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        171.36,
+        419.9,
+        286.56,
+        431.71
+      ]
+    },
+    {
+      "id": "class8-english-p055-l023",
+      "lineNumber": 23,
+      "text": "Hear the bird at hush",
+      "cleanText": "Hear the bird at hush",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.36,
+        434.3,
+        279.65,
+        443.52
+      ]
+    },
+    {
+      "id": "class8-english-p055-l024",
+      "lineNumber": 24,
+      "text": "Over her eggs.",
+      "cleanText": "Over her eggs.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.36,
+        448.7,
+        246.24,
+        460.8
+      ]
+    },
+    {
+      "id": "class8-english-p055-l025",
+      "lineNumber": 25,
+      "text": "I will hear the wild swan",
+      "cleanText": "I will hear the wild swan",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        171.36,
+        471.46,
+        299.81,
+        480.67
+      ]
+    },
+    {
+      "id": "class8-english-p055-l026",
+      "lineNumber": 26,
+      "text": "Lift high and harsh",
+      "cleanText": "Lift high and harsh",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.36,
+        485.86,
+        270.14,
+        497.66
+      ]
+    },
+    {
+      "id": "class8-english-p055-l027",
+      "lineNumber": 27,
+      "text": "His crooked clarion",
+      "cleanText": "His crooked clarion",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        171.07,
+        500.26,
+        273.31,
+        509.47
+      ]
+    },
+    {
+      "id": "class8-english-p055-l028",
+      "lineNumber": 28,
+      "text": "Across the marsh.",
+      "cleanText": "Across the marsh.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.07,
+        514.94,
+        263.52,
+        524.16
+      ]
+    },
+    {
+      "id": "class8-english-p055-l029",
+      "lineNumber": 29,
+      "text": "Where the jewel-weed hangs,",
+      "cleanText": "Where the jewel-weed hangs,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.25,
+      "bbox": [
+        171.07,
+        537.41,
+        324.0,
+        549.22
+      ]
+    },
+    {
+      "id": "class8-english-p055-l030",
+      "lineNumber": 30,
+      "text": "Where the spotted stream runs,",
+      "cleanText": "Where the spotted stream runs,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.36,
+        551.81,
+        331.78,
+        563.62
+      ]
+    },
+    {
+      "id": "class8-english-p055-l031",
+      "lineNumber": 31,
+      "text": "Where the green beetle bangs",
+      "cleanText": "Where the green beetle bangs",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.07,
+        566.21,
+        324.29,
+        578.3
+      ]
+    },
+    {
+      "id": "class8-english-p055-l032",
+      "lineNumber": 32,
+      "text": "Bronze on bronze—",
+      "cleanText": "Bronze on bronze—",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.67,
+      "bbox": [
+        171.07,
+        580.9,
+        276.48,
+        590.11
+      ]
+    },
+    {
+      "id": "class8-english-p055-l033",
+      "lineNumber": 33,
+      "text": "Rooted in the deep ground,",
+      "cleanText": "Rooted in the deep ground,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.07,
+        603.36,
+        311.33,
+        615.17
+      ]
+    },
+    {
+      "id": "class8-english-p055-l034",
+      "lineNumber": 34,
+      "text": "The sky tugging at my hair,",
+      "cleanText": "The sky tugging at my hair,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.36,
+        617.76,
+        313.34,
+        629.57
+      ]
+    },
+    {
+      "id": "class8-english-p055-l035",
+      "lineNumber": 35,
+      "text": "There will I be found— RS",
+      "cleanText": "There will I be found— RS",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 80.0,
+      "bbox": [
+        171.36,
+        632.45,
+        509.47,
+        646.56
+      ]
+    },
+    {
+      "id": "class8-english-p055-l036",
+      "lineNumber": 36,
+      "text": "There! a",
+      "cleanText": "There! a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 52.0,
+      "bbox": [
+        171.36,
+        644.26,
+        509.47,
+        659.81
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p055-l001",
+      "lineNumber": 1,
+      "text": "50 English For Today",
+      "cleanText": "50 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        68.83,
+        50.69,
+        481.25,
+        61.63
+      ]
+    },
+    {
+      "id": "class8-english-p055-l002",
+      "lineNumber": 2,
+      "text": "D. Read another poem on nature:",
+      "cleanText": "D. Read another poem on nature:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        67.68,
+        72.58,
+        270.72,
+        84.67
+      ]
+    },
+    {
+      "id": "class8-english-p055-l003",
+      "lineNumber": 3,
+      "text": "Green Escape",
+      "cleanText": "Green Escape",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.65,
+        96.77,
+        258.91,
+        110.02
+      ]
+    },
+    {
+      "id": "class8-english-p055-l004",
+      "lineNumber": 4,
+      "text": "--Joseph Auslander",
+      "cleanText": "--Joseph Auslander",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.5,
+      "bbox": [
+        174.82,
+        112.32,
+        275.04,
+        124.13
+      ]
+    },
+    {
+      "id": "class8-english-p055-l005",
+      "lineNumber": 5,
+      "text": "I have turned my face",
+      "cleanText": "I have turned my face",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        171.36,
+        141.41,
+        283.97,
+        153.22
+      ]
+    },
+    {
+      "id": "class8-english-p055-l006",
+      "lineNumber": 6,
+      "text": "Away from streets and crowds",
+      "cleanText": "Away from streets and crowds",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.07,
+        155.81,
+        328.03,
+        167.62
+      ]
+    },
+    {
+      "id": "class8-english-p055-l007",
+      "lineNumber": 7,
+      "text": "To a windy place",
+      "cleanText": "To a windy place",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.36,
+        170.21,
+        259.49,
+        182.3
+      ]
+    },
+    {
+      "id": "class8-english-p055-l008",
+      "lineNumber": 8,
+      "text": "And clouds.",
+      "cleanText": "And clouds.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        171.07,
+        184.9,
+        232.7,
+        194.11
+      ]
+    },
+    {
+      "id": "class8-english-p055-l009",
+      "lineNumber": 9,
+      "text": "I have turned from skyscrapers",
+      "cleanText": "I have turned from skyscrapers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.6,
+      "bbox": [
+        171.36,
+        207.36,
+        331.49,
+        219.17
+      ]
+    },
+    {
+      "id": "class8-english-p055-l010",
+      "lineNumber": 10,
+      "text": "That scratch out the sky,",
+      "cleanText": "That scratch out the sky,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.2,
+      "bbox": [
+        171.36,
+        221.76,
+        296.93,
+        233.57
+      ]
+    },
+    {
+      "id": "class8-english-p055-l011",
+      "lineNumber": 11,
+      "text": "From wet newspapers",
+      "cleanText": "From wet newspapers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        171.07,
+        236.74,
+        284.54,
+        248.26
+      ]
+    },
+    {
+      "id": "class8-english-p055-l012",
+      "lineNumber": 12,
+      "text": "Always whipping by.",
+      "cleanText": "Always whipping by.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.07,
+        250.85,
+        280.8,
+        262.66
+      ]
+    },
+    {
+      "id": "class8-english-p055-l013",
+      "lineNumber": 13,
+      "text": "I have taken away my heart,",
+      "cleanText": "I have taken away my heart,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        171.36,
+        273.31,
+        316.8,
+        285.12
+      ]
+    },
+    {
+      "id": "class8-english-p055-l014",
+      "lineNumber": 14,
+      "text": "I will give it again",
+      "cleanText": "I will give it again",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        174.53,
+        287.71,
+        269.28,
+        299.81
+      ]
+    },
+    {
+      "id": "class8-english-p055-l015",
+      "lineNumber": 15,
+      "text": "To be split apart",
+      "cleanText": "To be split apart",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        174.53,
+        302.4,
+        258.05,
+        314.21
+      ]
+    },
+    {
+      "id": "class8-english-p055-l016",
+      "lineNumber": 16,
+      "text": "By wind and rain.",
+      "cleanText": "By wind and rain.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.36,
+        316.8,
+        263.23,
+        328.61
+      ]
+    },
+    {
+      "id": "class8-english-p055-l017",
+      "lineNumber": 17,
+      "text": "I will stand like a stone",
+      "cleanText": "I will stand like a stone",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        171.36,
+        339.26,
+        291.46,
+        348.48
+      ]
+    },
+    {
+      "id": "class8-english-p055-l018",
+      "lineNumber": 18,
+      "text": "All day in the grass",
+      "cleanText": "All day in the grass",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.2,
+      "bbox": [
+        171.07,
+        353.95,
+        271.58,
+        365.76
+      ]
+    },
+    {
+      "id": "class8-english-p055-l019",
+      "lineNumber": 19,
+      "text": "Where the bees drone",
+      "cleanText": "Where the bees drone",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.07,
+        368.35,
+        283.39,
+        377.57
+      ]
+    },
+    {
+      "id": "class8-english-p055-l020",
+      "lineNumber": 20,
+      "text": "And pass and repass.",
+      "cleanText": "And pass and repass.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.25,
+      "bbox": [
+        171.07,
+        382.75,
+        279.07,
+        394.56
+      ]
+    },
+    {
+      "id": "class8-english-p055-l021",
+      "lineNumber": 21,
+      "text": "I will watch them brush",
+      "cleanText": "I will watch them brush",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        171.36,
+        405.22,
+        294.34,
+        414.43
+      ]
+    },
+    {
+      "id": "class8-english-p055-l022",
+      "lineNumber": 22,
+      "text": "Gold across their legs,",
+      "cleanText": "Gold across their legs,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        171.36,
+        419.9,
+        286.56,
+        431.71
+      ]
+    },
+    {
+      "id": "class8-english-p055-l023",
+      "lineNumber": 23,
+      "text": "Hear the bird at hush",
+      "cleanText": "Hear the bird at hush",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.36,
+        434.3,
+        279.65,
+        443.52
+      ]
+    },
+    {
+      "id": "class8-english-p055-l024",
+      "lineNumber": 24,
+      "text": "Over her eggs.",
+      "cleanText": "Over her eggs.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.36,
+        448.7,
+        246.24,
+        460.8
+      ]
+    },
+    {
+      "id": "class8-english-p055-l025",
+      "lineNumber": 25,
+      "text": "I will hear the wild swan",
+      "cleanText": "I will hear the wild swan",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        171.36,
+        471.46,
+        299.81,
+        480.67
+      ]
+    },
+    {
+      "id": "class8-english-p055-l026",
+      "lineNumber": 26,
+      "text": "Lift high and harsh",
+      "cleanText": "Lift high and harsh",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.36,
+        485.86,
+        270.14,
+        497.66
+      ]
+    },
+    {
+      "id": "class8-english-p055-l027",
+      "lineNumber": 27,
+      "text": "His crooked clarion",
+      "cleanText": "His crooked clarion",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        171.07,
+        500.26,
+        273.31,
+        509.47
+      ]
+    },
+    {
+      "id": "class8-english-p055-l028",
+      "lineNumber": 28,
+      "text": "Across the marsh.",
+      "cleanText": "Across the marsh.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.07,
+        514.94,
+        263.52,
+        524.16
+      ]
+    },
+    {
+      "id": "class8-english-p055-l029",
+      "lineNumber": 29,
+      "text": "Where the jewel-weed hangs,",
+      "cleanText": "Where the jewel-weed hangs,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.25,
+      "bbox": [
+        171.07,
+        537.41,
+        324.0,
+        549.22
+      ]
+    },
+    {
+      "id": "class8-english-p055-l030",
+      "lineNumber": 30,
+      "text": "Where the spotted stream runs,",
+      "cleanText": "Where the spotted stream runs,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.36,
+        551.81,
+        331.78,
+        563.62
+      ]
+    },
+    {
+      "id": "class8-english-p055-l031",
+      "lineNumber": 31,
+      "text": "Where the green beetle bangs",
+      "cleanText": "Where the green beetle bangs",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.07,
+        566.21,
+        324.29,
+        578.3
+      ]
+    },
+    {
+      "id": "class8-english-p055-l032",
+      "lineNumber": 32,
+      "text": "Bronze on bronze—",
+      "cleanText": "Bronze on bronze—",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.67,
+      "bbox": [
+        171.07,
+        580.9,
+        276.48,
+        590.11
+      ]
+    },
+    {
+      "id": "class8-english-p055-l033",
+      "lineNumber": 33,
+      "text": "Rooted in the deep ground,",
+      "cleanText": "Rooted in the deep ground,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.07,
+        603.36,
+        311.33,
+        615.17
+      ]
+    },
+    {
+      "id": "class8-english-p055-l034",
+      "lineNumber": 34,
+      "text": "The sky tugging at my hair,",
+      "cleanText": "The sky tugging at my hair,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        171.36,
+        617.76,
+        313.34,
+        629.57
+      ]
+    },
+    {
+      "id": "class8-english-p055-l035",
+      "lineNumber": 35,
+      "text": "There will I be found— RS",
+      "cleanText": "There will I be found— RS",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 80.0,
+      "bbox": [
+        171.36,
+        632.45,
+        509.47,
+        646.56
+      ]
+    },
+    {
+      "id": "class8-english-p055-l036",
+      "lineNumber": 36,
+      "text": "There! a",
+      "cleanText": "There! a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 52.0,
+      "bbox": [
+        171.36,
+        644.26,
+        509.47,
+        659.81
+      ]
+    }
+  ],
+  "lineCount": 36,
+  "aiReadyLineCount": 36,
+  "averageConfidence": 93.83,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:17:05.109544+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

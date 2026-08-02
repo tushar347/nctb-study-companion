@@ -1,0 +1,867 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 86,
+  "pdfPage": 86,
+  "textbookPage": 86,
+  "width": 529.47,
+  "height": 688.41,
+  "image": "../images/page-086.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Occupations at Risk 81\nLesson 1: Pearls! Pearls! Pearls!\nKeywords: mythology, ancient, dissolved, status, unparalleled, association,\ndelicate\nA. Look at the pictures and discuss in pairs:\n[A\n( ¥\nfe ec Poa\n} i ee eh Gye Ce\na, ie ea el iL, Pa\nEi,: Ps ft “gi ea thettgt eS in: fa e\nCe Be a a le ee\nY ” f “vepeeTM\nB. Read the text and answer the questions that follow:\nThousands of years ago, the first pearl was probably discovered while human\nbeings were searching for food at the sea shore. Throughout history, the pearl\nwith its shine has been one of the most highly valued gems.\nPearls have been mentioned many times in religious texts and mythologies\nfrom the earliest times.\nThe ancient Egyptians valued pearls so much that they were buried with them.\nIt is said that the famous queen of Egypt, Cleopatra would dissolve a pearl in\na glass and drink it as a sign of love and respect for the entire nation.\nThe Greeks thought of pearls as a sign of wealth and social position. The\nbeauty of pearls was associated with love and marriage.\nIn ancient Rome, pearls were considered the greatest sign of wealth and social\nstatus.\nAt that time the young women of noble families loved to wear beautiful\npearl necklaces.The brave knights used to wear them in the battles for good luck.\nForma-11, English For Today Class-8",
+  "cleanText": "Occupations at Risk 81 Lesson 1: Pearls! Pearls! Pearls! Keywords: mythology, ancient, dissolved, status, unparalleled, association, delicate A. Look at the pictures and discuss in pairs: [A ( ¥ fe ec Poa } i ee eh Gye Ce a, ie ea el iL, Pa Ei,: Ps ft “gi ea thettgt eS in: fa e Ce Be a a le ee Y ” f “vepeeTM B. Read the text and answer the questions that follow: Thousands of years ago, the first pearl was probably discovered while human beings were searching for food at the sea shore. Throughout history, the pearl with its shine has been one of the most highly valued gems. Pearls have been mentioned many times in religious texts and mythologies from the earliest times. The ancient Egyptians valued pearls so much that they were buried with them. It is said that the famous queen of Egypt, Cleopatra would dissolve a pearl in a glass and drink it as a sign of love and respect for the entire nation. The Greeks thought of pearls as a sign of wealth and social position. The beauty of pearls was associated with love and marriage. In ancient Rome, pearls were considered the greatest sign of wealth and social status. At that time the young women of noble families loved to wear beautiful pearl necklaces.The brave knights used to wear them in the battles for good luck. Forma-11, English For Today Class-8",
+  "aiReadyText": "Occupations at Risk 81 Lesson 1: Pearls! Pearls! Pearls! Keywords: mythology, ancient, dissolved, status, unparalleled, association, delicate A. Look at the pictures and discuss in pairs: fe ec Poa } i ee eh Gye Ce a, ie ea el iL, Pa Ei,: Ps ft “gi ea thettgt eS in: fa e Ce Be a a le ee Y ” f “vepeeTM B. Read the text and answer the questions that follow: Thousands of years ago, the first pearl was probably discovered while human beings were searching for food at the sea shore. Throughout history, the pearl with its shine has been one of the most highly valued gems. Pearls have been mentioned many times in religious texts and mythologies from the earliest times. The ancient Egyptians valued pearls so much that they were buried with them. It is said that the famous queen of Egypt, Cleopatra would dissolve a pearl in a glass and drink it as a sign of love and respect for the entire nation. The Greeks thought of pearls as a sign of wealth and social position. The beauty of pearls was associated with love and marriage. In ancient Rome, pearls were considered the greatest sign of wealth and social status. At that time the young women of noble families loved to wear beautiful pearl necklaces.The brave knights used to wear them in the battles for good luck. Forma-11, English For Today Class-8",
+  "lines": [
+    {
+      "id": "class8-english-p086-l001",
+      "lineNumber": 1,
+      "text": "Occupations at Risk 81",
+      "cleanText": "Occupations at Risk 81",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        58.18,
+        36.0,
+        469.15,
+        46.94
+      ]
+    },
+    {
+      "id": "class8-english-p086-l002",
+      "lineNumber": 2,
+      "text": "Lesson 1: Pearls! Pearls! Pearls!",
+      "cleanText": "Lesson 1: Pearls! Pearls! Pearls!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        60.19,
+        66.24,
+        333.5,
+        80.06
+      ]
+    },
+    {
+      "id": "class8-english-p086-l003",
+      "lineNumber": 3,
+      "text": "Keywords: mythology, ancient, dissolved, status, unparalleled, association,",
+      "cleanText": "Keywords: mythology, ancient, dissolved, status, unparalleled, association,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.75,
+        94.75,
+        476.64,
+        106.85
+      ]
+    },
+    {
+      "id": "class8-english-p086-l004",
+      "lineNumber": 4,
+      "text": "delicate",
+      "cleanText": "delicate",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        127.3,
+        110.88,
+        166.75,
+        120.1
+      ]
+    },
+    {
+      "id": "class8-english-p086-l005",
+      "lineNumber": 5,
+      "text": "A. Look at the pictures and discuss in pairs:",
+      "cleanText": "A. Look at the pictures and discuss in pairs:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        60.19,
+        129.31,
+        306.43,
+        141.98
+      ]
+    },
+    {
+      "id": "class8-english-p086-l006",
+      "lineNumber": 6,
+      "text": "[A",
+      "cleanText": "[A",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 72.0,
+      "bbox": [
+        148.9,
+        192.1,
+        163.01,
+        203.9
+      ]
+    },
+    {
+      "id": "class8-english-p086-l007",
+      "lineNumber": 7,
+      "text": "( ¥",
+      "cleanText": "( ¥",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 50.0,
+      "bbox": [
+        287.42,
+        218.3,
+        401.47,
+        236.45
+      ]
+    },
+    {
+      "id": "class8-english-p086-l008",
+      "lineNumber": 8,
+      "text": "fe ec Poa",
+      "cleanText": "fe ec Poa",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 21.33,
+      "bbox": [
+        273.6,
+        238.46,
+        413.28,
+        250.27
+      ]
+    },
+    {
+      "id": "class8-english-p086-l009",
+      "lineNumber": 9,
+      "text": "} i ee eh Gye Ce",
+      "cleanText": "} i ee eh Gye Ce",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 26.33,
+      "bbox": [
+        131.04,
+        249.12,
+        417.31,
+        257.47
+      ]
+    },
+    {
+      "id": "class8-english-p086-l010",
+      "lineNumber": 10,
+      "text": "a, ie ea el iL, Pa",
+      "cleanText": "a, ie ea el iL, Pa",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 26.0,
+      "bbox": [
+        179.14,
+        254.3,
+        422.5,
+        263.52
+      ]
+    },
+    {
+      "id": "class8-english-p086-l011",
+      "lineNumber": 11,
+      "text": "Ei,: Ps ft “gi ea thettgt eS in: fa e",
+      "cleanText": "Ei,: Ps ft “gi ea thettgt eS in: fa e",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 27.09,
+      "bbox": [
+        130.18,
+        269.28,
+        416.45,
+        287.42
+      ]
+    },
+    {
+      "id": "class8-english-p086-l012",
+      "lineNumber": 12,
+      "text": "Ce Be a a le ee",
+      "cleanText": "Ce Be a a le ee",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 22.83,
+      "bbox": [
+        131.04,
+        284.54,
+        407.52,
+        292.9
+      ]
+    },
+    {
+      "id": "class8-english-p086-l013",
+      "lineNumber": 13,
+      "text": "Y ” f “vepeeTM",
+      "cleanText": "Y ” f “vepeeTM",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 23.5,
+      "bbox": [
+        133.06,
+        302.4,
+        388.51,
+        332.06
+      ]
+    },
+    {
+      "id": "class8-english-p086-l014",
+      "lineNumber": 14,
+      "text": "B. Read the text and answer the questions that follow:",
+      "cleanText": "B. Read the text and answer the questions that follow:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        58.46,
+        367.49,
+        358.56,
+        379.87
+      ]
+    },
+    {
+      "id": "class8-english-p086-l015",
+      "lineNumber": 15,
+      "text": "Thousands of years ago, the first pearl was probably discovered while human",
+      "cleanText": "Thousands of years ago, the first pearl was probably discovered while human",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.08,
+      "bbox": [
+        60.19,
+        389.66,
+        471.74,
+        402.05
+      ]
+    },
+    {
+      "id": "class8-english-p086-l016",
+      "lineNumber": 16,
+      "text": "beings were searching for food at the sea shore. Throughout history, the pearl",
+      "cleanText": "beings were searching for food at the sea shore. Throughout history, the pearl",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.08,
+      "bbox": [
+        59.9,
+        406.66,
+        474.05,
+        419.04
+      ]
+    },
+    {
+      "id": "class8-english-p086-l017",
+      "lineNumber": 17,
+      "text": "with its shine has been one of the most highly valued gems.",
+      "cleanText": "with its shine has been one of the most highly valued gems.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.19,
+        423.65,
+        372.96,
+        436.03
+      ]
+    },
+    {
+      "id": "class8-english-p086-l018",
+      "lineNumber": 18,
+      "text": "Pearls have been mentioned many times in religious texts and mythologies",
+      "cleanText": "Pearls have been mentioned many times in religious texts and mythologies",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        60.48,
+        445.82,
+        473.76,
+        457.92
+      ]
+    },
+    {
+      "id": "class8-english-p086-l019",
+      "lineNumber": 19,
+      "text": "from the earliest times.",
+      "cleanText": "from the earliest times.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.04,
+        461.95,
+        181.73,
+        472.03
+      ]
+    },
+    {
+      "id": "class8-english-p086-l020",
+      "lineNumber": 20,
+      "text": "The ancient Egyptians valued pearls so much that they were buried with them.",
+      "cleanText": "The ancient Egyptians valued pearls so much that they were buried with them.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.19,
+        484.7,
+        473.47,
+        496.8
+      ]
+    },
+    {
+      "id": "class8-english-p086-l021",
+      "lineNumber": 21,
+      "text": "It is said that the famous queen of Egypt, Cleopatra would dissolve a pearl in",
+      "cleanText": "It is said that the famous queen of Egypt, Cleopatra would dissolve a pearl in",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        60.48,
+        501.7,
+        473.47,
+        513.79
+      ]
+    },
+    {
+      "id": "class8-english-p086-l022",
+      "lineNumber": 22,
+      "text": "a glass and drink it as a sign of love and respect for the entire nation.",
+      "cleanText": "a glass and drink it as a sign of love and respect for the entire nation.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.9,
+        518.69,
+        419.04,
+        531.07
+      ]
+    },
+    {
+      "id": "class8-english-p086-l023",
+      "lineNumber": 23,
+      "text": "The Greeks thought of pearls as a sign of wealth and social position. The",
+      "cleanText": "The Greeks thought of pearls as a sign of wealth and social position. The",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.14,
+      "bbox": [
+        60.19,
+        540.86,
+        474.05,
+        552.96
+      ]
+    },
+    {
+      "id": "class8-english-p086-l024",
+      "lineNumber": 24,
+      "text": "beauty of pearls was associated with love and marriage.",
+      "cleanText": "beauty of pearls was associated with love and marriage.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.33,
+        557.86,
+        353.38,
+        569.95
+      ]
+    },
+    {
+      "id": "class8-english-p086-l025",
+      "lineNumber": 25,
+      "text": "In ancient Rome, pearls were considered the greatest sign of wealth and social",
+      "cleanText": "In ancient Rome, pearls were considered the greatest sign of wealth and social",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.48,
+        580.61,
+        474.62,
+        592.99
+      ]
+    },
+    {
+      "id": "class8-english-p086-l026",
+      "lineNumber": 26,
+      "text": "status.",
+      "cleanText": "status.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.19,
+        595.58,
+        91.58,
+        603.36
+      ]
+    },
+    {
+      "id": "class8-english-p086-l027",
+      "lineNumber": 27,
+      "text": "At that time the young women of noble families loved to wear beautiful",
+      "cleanText": "At that time the young women of noble families loved to wear beautiful",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.19,
+        616.61,
+        473.76,
+        628.99
+      ]
+    },
+    {
+      "id": "class8-english-p086-l028",
+      "lineNumber": 28,
+      "text": "pearl necklaces.The brave knights used to wear them in the battles for good luck.",
+      "cleanText": "pearl necklaces.The brave knights used to wear them in the battles for good luck.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        59.33,
+        633.6,
+        475.2,
+        645.98
+      ]
+    },
+    {
+      "id": "class8-english-p086-l029",
+      "lineNumber": 29,
+      "text": "Forma-11, English For Today Class-8",
+      "cleanText": "Forma-11, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.4,
+      "bbox": [
+        57.89,
+        659.52,
+        222.91,
+        669.6
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p086-l001",
+      "lineNumber": 1,
+      "text": "Occupations at Risk 81",
+      "cleanText": "Occupations at Risk 81",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        58.18,
+        36.0,
+        469.15,
+        46.94
+      ]
+    },
+    {
+      "id": "class8-english-p086-l002",
+      "lineNumber": 2,
+      "text": "Lesson 1: Pearls! Pearls! Pearls!",
+      "cleanText": "Lesson 1: Pearls! Pearls! Pearls!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        60.19,
+        66.24,
+        333.5,
+        80.06
+      ]
+    },
+    {
+      "id": "class8-english-p086-l003",
+      "lineNumber": 3,
+      "text": "Keywords: mythology, ancient, dissolved, status, unparalleled, association,",
+      "cleanText": "Keywords: mythology, ancient, dissolved, status, unparalleled, association,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.75,
+        94.75,
+        476.64,
+        106.85
+      ]
+    },
+    {
+      "id": "class8-english-p086-l004",
+      "lineNumber": 4,
+      "text": "delicate",
+      "cleanText": "delicate",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        127.3,
+        110.88,
+        166.75,
+        120.1
+      ]
+    },
+    {
+      "id": "class8-english-p086-l005",
+      "lineNumber": 5,
+      "text": "A. Look at the pictures and discuss in pairs:",
+      "cleanText": "A. Look at the pictures and discuss in pairs:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        60.19,
+        129.31,
+        306.43,
+        141.98
+      ]
+    },
+    {
+      "id": "class8-english-p086-l008",
+      "lineNumber": 8,
+      "text": "fe ec Poa",
+      "cleanText": "fe ec Poa",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 21.33,
+      "bbox": [
+        273.6,
+        238.46,
+        413.28,
+        250.27
+      ]
+    },
+    {
+      "id": "class8-english-p086-l009",
+      "lineNumber": 9,
+      "text": "} i ee eh Gye Ce",
+      "cleanText": "} i ee eh Gye Ce",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 26.33,
+      "bbox": [
+        131.04,
+        249.12,
+        417.31,
+        257.47
+      ]
+    },
+    {
+      "id": "class8-english-p086-l010",
+      "lineNumber": 10,
+      "text": "a, ie ea el iL, Pa",
+      "cleanText": "a, ie ea el iL, Pa",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 26.0,
+      "bbox": [
+        179.14,
+        254.3,
+        422.5,
+        263.52
+      ]
+    },
+    {
+      "id": "class8-english-p086-l011",
+      "lineNumber": 11,
+      "text": "Ei,: Ps ft “gi ea thettgt eS in: fa e",
+      "cleanText": "Ei,: Ps ft “gi ea thettgt eS in: fa e",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 27.09,
+      "bbox": [
+        130.18,
+        269.28,
+        416.45,
+        287.42
+      ]
+    },
+    {
+      "id": "class8-english-p086-l012",
+      "lineNumber": 12,
+      "text": "Ce Be a a le ee",
+      "cleanText": "Ce Be a a le ee",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 22.83,
+      "bbox": [
+        131.04,
+        284.54,
+        407.52,
+        292.9
+      ]
+    },
+    {
+      "id": "class8-english-p086-l013",
+      "lineNumber": 13,
+      "text": "Y ” f “vepeeTM",
+      "cleanText": "Y ” f “vepeeTM",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 23.5,
+      "bbox": [
+        133.06,
+        302.4,
+        388.51,
+        332.06
+      ]
+    },
+    {
+      "id": "class8-english-p086-l014",
+      "lineNumber": 14,
+      "text": "B. Read the text and answer the questions that follow:",
+      "cleanText": "B. Read the text and answer the questions that follow:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        58.46,
+        367.49,
+        358.56,
+        379.87
+      ]
+    },
+    {
+      "id": "class8-english-p086-l015",
+      "lineNumber": 15,
+      "text": "Thousands of years ago, the first pearl was probably discovered while human",
+      "cleanText": "Thousands of years ago, the first pearl was probably discovered while human",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.08,
+      "bbox": [
+        60.19,
+        389.66,
+        471.74,
+        402.05
+      ]
+    },
+    {
+      "id": "class8-english-p086-l016",
+      "lineNumber": 16,
+      "text": "beings were searching for food at the sea shore. Throughout history, the pearl",
+      "cleanText": "beings were searching for food at the sea shore. Throughout history, the pearl",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.08,
+      "bbox": [
+        59.9,
+        406.66,
+        474.05,
+        419.04
+      ]
+    },
+    {
+      "id": "class8-english-p086-l017",
+      "lineNumber": 17,
+      "text": "with its shine has been one of the most highly valued gems.",
+      "cleanText": "with its shine has been one of the most highly valued gems.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.19,
+        423.65,
+        372.96,
+        436.03
+      ]
+    },
+    {
+      "id": "class8-english-p086-l018",
+      "lineNumber": 18,
+      "text": "Pearls have been mentioned many times in religious texts and mythologies",
+      "cleanText": "Pearls have been mentioned many times in religious texts and mythologies",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        60.48,
+        445.82,
+        473.76,
+        457.92
+      ]
+    },
+    {
+      "id": "class8-english-p086-l019",
+      "lineNumber": 19,
+      "text": "from the earliest times.",
+      "cleanText": "from the earliest times.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.04,
+        461.95,
+        181.73,
+        472.03
+      ]
+    },
+    {
+      "id": "class8-english-p086-l020",
+      "lineNumber": 20,
+      "text": "The ancient Egyptians valued pearls so much that they were buried with them.",
+      "cleanText": "The ancient Egyptians valued pearls so much that they were buried with them.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.19,
+        484.7,
+        473.47,
+        496.8
+      ]
+    },
+    {
+      "id": "class8-english-p086-l021",
+      "lineNumber": 21,
+      "text": "It is said that the famous queen of Egypt, Cleopatra would dissolve a pearl in",
+      "cleanText": "It is said that the famous queen of Egypt, Cleopatra would dissolve a pearl in",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        60.48,
+        501.7,
+        473.47,
+        513.79
+      ]
+    },
+    {
+      "id": "class8-english-p086-l022",
+      "lineNumber": 22,
+      "text": "a glass and drink it as a sign of love and respect for the entire nation.",
+      "cleanText": "a glass and drink it as a sign of love and respect for the entire nation.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.9,
+        518.69,
+        419.04,
+        531.07
+      ]
+    },
+    {
+      "id": "class8-english-p086-l023",
+      "lineNumber": 23,
+      "text": "The Greeks thought of pearls as a sign of wealth and social position. The",
+      "cleanText": "The Greeks thought of pearls as a sign of wealth and social position. The",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.14,
+      "bbox": [
+        60.19,
+        540.86,
+        474.05,
+        552.96
+      ]
+    },
+    {
+      "id": "class8-english-p086-l024",
+      "lineNumber": 24,
+      "text": "beauty of pearls was associated with love and marriage.",
+      "cleanText": "beauty of pearls was associated with love and marriage.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.33,
+        557.86,
+        353.38,
+        569.95
+      ]
+    },
+    {
+      "id": "class8-english-p086-l025",
+      "lineNumber": 25,
+      "text": "In ancient Rome, pearls were considered the greatest sign of wealth and social",
+      "cleanText": "In ancient Rome, pearls were considered the greatest sign of wealth and social",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.48,
+        580.61,
+        474.62,
+        592.99
+      ]
+    },
+    {
+      "id": "class8-english-p086-l026",
+      "lineNumber": 26,
+      "text": "status.",
+      "cleanText": "status.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.19,
+        595.58,
+        91.58,
+        603.36
+      ]
+    },
+    {
+      "id": "class8-english-p086-l027",
+      "lineNumber": 27,
+      "text": "At that time the young women of noble families loved to wear beautiful",
+      "cleanText": "At that time the young women of noble families loved to wear beautiful",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.19,
+        616.61,
+        473.76,
+        628.99
+      ]
+    },
+    {
+      "id": "class8-english-p086-l028",
+      "lineNumber": 28,
+      "text": "pearl necklaces.The brave knights used to wear them in the battles for good luck.",
+      "cleanText": "pearl necklaces.The brave knights used to wear them in the battles for good luck.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        59.33,
+        633.6,
+        475.2,
+        645.98
+      ]
+    },
+    {
+      "id": "class8-english-p086-l029",
+      "lineNumber": 29,
+      "text": "Forma-11, English For Today Class-8",
+      "cleanText": "Forma-11, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.4,
+      "bbox": [
+        57.89,
+        659.52,
+        222.91,
+        669.6
+      ]
+    }
+  ],
+  "lineCount": 29,
+  "aiReadyLineCount": 27,
+  "averageConfidence": 78.61,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:17:59.899021+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

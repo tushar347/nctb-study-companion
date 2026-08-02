@@ -1,0 +1,882 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 116,
+  "pdfPage": 116,
+  "textbookPage": 116,
+  "width": 526.56,
+  "height": 691.16,
+  "image": "../images/page-116.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "News! News! News! 111\nC. The grid below has two columns. Column A has some words taken from\nthe text on Polan Sarkar and Column B has their meaning. Match the\nwords with their meaning. Use a dictionary if needed:\na\na. voracious 1. to find out the cause of a disease\nb. diagnose il. having a great appetite for anything\nc. hamper ili. anything handed down from the past (as\nd. inherit from an ancestor or predecessor)\ne. recognition Iv. to receive the ownership of a property\nf. legacy V. acknowledgement\nVi. to disturb a progress\nD. Read the text again and answer the following questions:\n1. How did Polan Sarkar develop an interest in books?\n2. How did he come to be known nationwide?\n3. What was Polan Sarkar’s contribution to society?\n4. When did he decide to walk to the doorsteps of the people for distributing\nbooks?\n5. How did the adults also become interested in taking books from Polan Sarkar?\nE. Fill in the blanks using the words given in the box:\nAs the people of the village _—sin the morning, the first thing they _is\nPolan Sarkar. He there, smiling, with a bag of books on his shoulder.\nHe may be all of 94 years, but is sprightly asa young man. He __ on foot for\nmiles, going from village to village with his books. He __ the books with his\nown money and __ them to the people. After a few weeks, he _—_ by again.\nThe villagers ——ithe books and _ from the fresh lot he brings along. He’s\nbeen doing this for the past 30 years. He _—_ about 20 villages in Rajshahi, a\nS district of Bangladesh, starting an innovative reading revolution in the region.\nSs (Adapted from: Impact Journalism Day)",
+  "cleanText": "News! News! News! 111 C. The grid below has two columns. Column A has some words taken from the text on Polan Sarkar and Column B has their meaning. Match the words with their meaning. Use a dictionary if needed: a a. voracious 1. to find out the cause of a disease b. diagnose il. having a great appetite for anything c. hamper ili. anything handed down from the past (as d. inherit from an ancestor or predecessor) e. recognition Iv. to receive the ownership of a property f. legacy V. acknowledgement Vi. to disturb a progress D. Read the text again and answer the following questions: 1. How did Polan Sarkar develop an interest in books? 2. How did he come to be known nationwide? 3. What was Polan Sarkar’s contribution to society? 4. When did he decide to walk to the doorsteps of the people for distributing books? 5. How did the adults also become interested in taking books from Polan Sarkar? E. Fill in the blanks using the words given in the box: As the people of the village _—sin the morning, the first thing they _is Polan Sarkar. He there, smiling, with a bag of books on his shoulder. He may be all of 94 years, but is sprightly asa young man. He __ on foot for miles, going from village to village with his books. He __ the books with his own money and __ them to the people. After a few weeks, he _—_ by again. The villagers ——ithe books and _ from the fresh lot he brings along. He’s been doing this for the past 30 years. He _—_ about 20 villages in Rajshahi, a S district of Bangladesh, starting an innovative reading revolution in the region. Ss (Adapted from: Impact Journalism Day)",
+  "aiReadyText": "News! News! News! 111 C. The grid below has two columns. Column A has some words taken from the text on Polan Sarkar and Column B has their meaning. Match the words with their meaning. Use a dictionary if needed: a. voracious 1. to find out the cause of a disease b. diagnose il. having a great appetite for anything c. hamper ili. anything handed down from the past (as d. inherit from an ancestor or predecessor) e. recognition Iv. to receive the ownership of a property f. legacy V. acknowledgement Vi. to disturb a progress D. Read the text again and answer the following questions: 1. How did Polan Sarkar develop an interest in books? 2. How did he come to be known nationwide? 3. What was Polan Sarkar’s contribution to society? 4. When did he decide to walk to the doorsteps of the people for distributing books? 5. How did the adults also become interested in taking books from Polan Sarkar? E. Fill in the blanks using the words given in the box: As the people of the village _—sin the morning, the first thing they _is Polan Sarkar. He there, smiling, with a bag of books on his shoulder. He may be all of 94 years, but is sprightly asa young man. He __ on foot for miles, going from village to village with his books. He __ the books with his own money and __ them to the people. After a few weeks, he _—_ by again. The villagers ——ithe books and _ from the fresh lot he brings along. He’s been doing this for the past 30 years. He _—_ about 20 villages in Rajshahi, a S district of Bangladesh, starting an innovative reading revolution in the region. Ss (Adapted from: Impact Journalism Day)",
+  "lines": [
+    {
+      "id": "class8-english-p116-l001",
+      "lineNumber": 1,
+      "text": "News! News! News! 111",
+      "cleanText": "News! News! News! 111",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.75,
+      "bbox": [
+        61.92,
+        42.34,
+        472.61,
+        50.98
+      ]
+    },
+    {
+      "id": "class8-english-p116-l002",
+      "lineNumber": 2,
+      "text": "C. The grid below has two columns. Column A has some words taken from",
+      "cleanText": "C. The grid below has two columns. Column A has some words taken from",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.21,
+      "bbox": [
+        59.9,
+        72.58,
+        475.49,
+        84.38
+      ]
+    },
+    {
+      "id": "class8-english-p116-l003",
+      "lineNumber": 3,
+      "text": "the text on Polan Sarkar and Column B has their meaning. Match the",
+      "cleanText": "the text on Polan Sarkar and Column B has their meaning. Match the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.31,
+      "bbox": [
+        85.82,
+        90.72,
+        478.37,
+        102.24
+      ]
+    },
+    {
+      "id": "class8-english-p116-l004",
+      "lineNumber": 4,
+      "text": "words with their meaning. Use a dictionary if needed:",
+      "cleanText": "words with their meaning. Use a dictionary if needed:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        85.54,
+        108.58,
+        376.7,
+        120.38
+      ]
+    },
+    {
+      "id": "class8-english-p116-l005",
+      "lineNumber": 5,
+      "text": "a",
+      "cleanText": "a",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 12.0,
+      "bbox": [
+        63.65,
+        131.04,
+        142.56,
+        150.34
+      ]
+    },
+    {
+      "id": "class8-english-p116-l006",
+      "lineNumber": 6,
+      "text": "a. voracious 1. to find out the cause of a disease",
+      "cleanText": "a. voracious 1. to find out the cause of a disease",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.73,
+      "bbox": [
+        70.56,
+        152.64,
+        421.34,
+        161.86
+      ]
+    },
+    {
+      "id": "class8-english-p116-l007",
+      "lineNumber": 7,
+      "text": "b. diagnose il. having a great appetite for anything",
+      "cleanText": "b. diagnose il. having a great appetite for anything",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.67,
+      "bbox": [
+        69.98,
+        168.48,
+        437.18,
+        182.59
+      ]
+    },
+    {
+      "id": "class8-english-p116-l008",
+      "lineNumber": 8,
+      "text": "c. hamper ili. anything handed down from the past (as",
+      "cleanText": "c. hamper ili. anything handed down from the past (as",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 83.0,
+      "bbox": [
+        70.27,
+        185.47,
+        470.02,
+        199.58
+      ]
+    },
+    {
+      "id": "class8-english-p116-l009",
+      "lineNumber": 9,
+      "text": "d. inherit from an ancestor or predecessor)",
+      "cleanText": "d. inherit from an ancestor or predecessor)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        70.27,
+        202.46,
+        421.34,
+        216.58
+      ]
+    },
+    {
+      "id": "class8-english-p116-l010",
+      "lineNumber": 10,
+      "text": "e. recognition Iv. to receive the ownership of a property",
+      "cleanText": "e. recognition Iv. to receive the ownership of a property",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.5,
+      "bbox": [
+        70.56,
+        219.46,
+        449.86,
+        233.57
+      ]
+    },
+    {
+      "id": "class8-english-p116-l011",
+      "lineNumber": 11,
+      "text": "f. legacy V. acknowledgement",
+      "cleanText": "f. legacy V. acknowledgement",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 78.5,
+      "bbox": [
+        69.41,
+        236.45,
+        348.48,
+        250.56
+      ]
+    },
+    {
+      "id": "class8-english-p116-l012",
+      "lineNumber": 12,
+      "text": "Vi. to disturb a progress",
+      "cleanText": "Vi. to disturb a progress",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        219.17,
+        253.44,
+        358.85,
+        267.55
+      ]
+    },
+    {
+      "id": "class8-english-p116-l013",
+      "lineNumber": 13,
+      "text": "D. Read the text again and answer the following questions:",
+      "cleanText": "D. Read the text again and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        62.5,
+        287.14,
+        387.94,
+        298.66
+      ]
+    },
+    {
+      "id": "class8-english-p116-l014",
+      "lineNumber": 14,
+      "text": "1. How did Polan Sarkar develop an interest in books?",
+      "cleanText": "1. How did Polan Sarkar develop an interest in books?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.1,
+      "bbox": [
+        63.94,
+        303.84,
+        340.7,
+        315.65
+      ]
+    },
+    {
+      "id": "class8-english-p116-l015",
+      "lineNumber": 15,
+      "text": "2. How did he come to be known nationwide?",
+      "cleanText": "2. How did he come to be known nationwide?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.89,
+      "bbox": [
+        62.78,
+        320.83,
+        298.08,
+        330.05
+      ]
+    },
+    {
+      "id": "class8-english-p116-l016",
+      "lineNumber": 16,
+      "text": "3. What was Polan Sarkar’s contribution to society?",
+      "cleanText": "3. What was Polan Sarkar’s contribution to society?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.12,
+      "bbox": [
+        62.78,
+        337.82,
+        327.46,
+        349.63
+      ]
+    },
+    {
+      "id": "class8-english-p116-l017",
+      "lineNumber": 17,
+      "text": "4. When did he decide to walk to the doorsteps of the people for distributing",
+      "cleanText": "4. When did he decide to walk to the doorsteps of the people for distributing",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.87,
+      "bbox": [
+        62.5,
+        354.82,
+        474.91,
+        366.62
+      ]
+    },
+    {
+      "id": "class8-english-p116-l018",
+      "lineNumber": 18,
+      "text": "books?",
+      "cleanText": "books?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        75.17,
+        371.81,
+        110.88,
+        381.02
+      ]
+    },
+    {
+      "id": "class8-english-p116-l019",
+      "lineNumber": 19,
+      "text": "5. How did the adults also become interested in taking books from Polan Sarkar?",
+      "cleanText": "5. How did the adults also become interested in taking books from Polan Sarkar?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.21,
+      "bbox": [
+        63.07,
+        389.66,
+        476.64,
+        401.76
+      ]
+    },
+    {
+      "id": "class8-english-p116-l020",
+      "lineNumber": 20,
+      "text": "E. Fill in the blanks using the words given in the box:",
+      "cleanText": "E. Fill in the blanks using the words given in the box:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        62.5,
+        425.95,
+        355.39,
+        437.76
+      ]
+    },
+    {
+      "id": "class8-english-p116-l021",
+      "lineNumber": 21,
+      "text": "As the people of the village _—sin the morning, the first thing they _is",
+      "cleanText": "As the people of the village _—sin the morning, the first thing they _is",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 79.29,
+      "bbox": [
+        62.5,
+        500.83,
+        476.06,
+        515.23
+      ]
+    },
+    {
+      "id": "class8-english-p116-l022",
+      "lineNumber": 22,
+      "text": "Polan Sarkar. He there, smiling, with a bag of books on his shoulder.",
+      "cleanText": "Polan Sarkar. He there, smiling, with a bag of books on his shoulder.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.54,
+      "bbox": [
+        62.5,
+        518.98,
+        475.49,
+        530.78
+      ]
+    },
+    {
+      "id": "class8-english-p116-l023",
+      "lineNumber": 23,
+      "text": "He may be all of 94 years, but is sprightly asa young man. He __ on foot for",
+      "cleanText": "He may be all of 94 years, but is sprightly asa young man. He __ on foot for",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.11,
+      "bbox": [
+        62.5,
+        535.97,
+        476.64,
+        548.06
+      ]
+    },
+    {
+      "id": "class8-english-p116-l024",
+      "lineNumber": 24,
+      "text": "miles, going from village to village with his books. He __ the books with his",
+      "cleanText": "miles, going from village to village with his books. He __ the books with his",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.2,
+      "bbox": [
+        62.5,
+        551.81,
+        476.06,
+        566.21
+      ]
+    },
+    {
+      "id": "class8-english-p116-l025",
+      "lineNumber": 25,
+      "text": "own money and __ them to the people. After a few weeks, he _—_ by again.",
+      "cleanText": "own money and __ them to the people. After a few weeks, he _—_ by again.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 64.0,
+      "bbox": [
+        62.78,
+        569.95,
+        475.49,
+        582.05
+      ]
+    },
+    {
+      "id": "class8-english-p116-l026",
+      "lineNumber": 26,
+      "text": "The villagers ——ithe books and _ from the fresh lot he brings along. He’s",
+      "cleanText": "The villagers ——ithe books and _ from the fresh lot he brings along. He’s",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 77.71,
+      "bbox": [
+        62.78,
+        585.79,
+        476.06,
+        600.19
+      ]
+    },
+    {
+      "id": "class8-english-p116-l027",
+      "lineNumber": 27,
+      "text": "been doing this for the past 30 years. He _—_ about 20 villages in Rajshahi, a",
+      "cleanText": "been doing this for the past 30 years. He _—_ about 20 villages in Rajshahi, a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.81,
+      "bbox": [
+        62.5,
+        602.78,
+        476.35,
+        617.18
+      ]
+    },
+    {
+      "id": "class8-english-p116-l028",
+      "lineNumber": 28,
+      "text": "S district of Bangladesh, starting an innovative reading revolution in the region.",
+      "cleanText": "S district of Bangladesh, starting an innovative reading revolution in the region.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.17,
+      "bbox": [
+        29.66,
+        620.93,
+        459.65,
+        635.04
+      ]
+    },
+    {
+      "id": "class8-english-p116-l029",
+      "lineNumber": 29,
+      "text": "Ss (Adapted from: Impact Journalism Day)",
+      "cleanText": "Ss (Adapted from: Impact Journalism Day)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.17,
+      "bbox": [
+        28.51,
+        635.04,
+        237.02,
+        654.91
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p116-l001",
+      "lineNumber": 1,
+      "text": "News! News! News! 111",
+      "cleanText": "News! News! News! 111",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.75,
+      "bbox": [
+        61.92,
+        42.34,
+        472.61,
+        50.98
+      ]
+    },
+    {
+      "id": "class8-english-p116-l002",
+      "lineNumber": 2,
+      "text": "C. The grid below has two columns. Column A has some words taken from",
+      "cleanText": "C. The grid below has two columns. Column A has some words taken from",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.21,
+      "bbox": [
+        59.9,
+        72.58,
+        475.49,
+        84.38
+      ]
+    },
+    {
+      "id": "class8-english-p116-l003",
+      "lineNumber": 3,
+      "text": "the text on Polan Sarkar and Column B has their meaning. Match the",
+      "cleanText": "the text on Polan Sarkar and Column B has their meaning. Match the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.31,
+      "bbox": [
+        85.82,
+        90.72,
+        478.37,
+        102.24
+      ]
+    },
+    {
+      "id": "class8-english-p116-l004",
+      "lineNumber": 4,
+      "text": "words with their meaning. Use a dictionary if needed:",
+      "cleanText": "words with their meaning. Use a dictionary if needed:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        85.54,
+        108.58,
+        376.7,
+        120.38
+      ]
+    },
+    {
+      "id": "class8-english-p116-l006",
+      "lineNumber": 6,
+      "text": "a. voracious 1. to find out the cause of a disease",
+      "cleanText": "a. voracious 1. to find out the cause of a disease",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.73,
+      "bbox": [
+        70.56,
+        152.64,
+        421.34,
+        161.86
+      ]
+    },
+    {
+      "id": "class8-english-p116-l007",
+      "lineNumber": 7,
+      "text": "b. diagnose il. having a great appetite for anything",
+      "cleanText": "b. diagnose il. having a great appetite for anything",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.67,
+      "bbox": [
+        69.98,
+        168.48,
+        437.18,
+        182.59
+      ]
+    },
+    {
+      "id": "class8-english-p116-l008",
+      "lineNumber": 8,
+      "text": "c. hamper ili. anything handed down from the past (as",
+      "cleanText": "c. hamper ili. anything handed down from the past (as",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 83.0,
+      "bbox": [
+        70.27,
+        185.47,
+        470.02,
+        199.58
+      ]
+    },
+    {
+      "id": "class8-english-p116-l009",
+      "lineNumber": 9,
+      "text": "d. inherit from an ancestor or predecessor)",
+      "cleanText": "d. inherit from an ancestor or predecessor)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        70.27,
+        202.46,
+        421.34,
+        216.58
+      ]
+    },
+    {
+      "id": "class8-english-p116-l010",
+      "lineNumber": 10,
+      "text": "e. recognition Iv. to receive the ownership of a property",
+      "cleanText": "e. recognition Iv. to receive the ownership of a property",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.5,
+      "bbox": [
+        70.56,
+        219.46,
+        449.86,
+        233.57
+      ]
+    },
+    {
+      "id": "class8-english-p116-l011",
+      "lineNumber": 11,
+      "text": "f. legacy V. acknowledgement",
+      "cleanText": "f. legacy V. acknowledgement",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 78.5,
+      "bbox": [
+        69.41,
+        236.45,
+        348.48,
+        250.56
+      ]
+    },
+    {
+      "id": "class8-english-p116-l012",
+      "lineNumber": 12,
+      "text": "Vi. to disturb a progress",
+      "cleanText": "Vi. to disturb a progress",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        219.17,
+        253.44,
+        358.85,
+        267.55
+      ]
+    },
+    {
+      "id": "class8-english-p116-l013",
+      "lineNumber": 13,
+      "text": "D. Read the text again and answer the following questions:",
+      "cleanText": "D. Read the text again and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        62.5,
+        287.14,
+        387.94,
+        298.66
+      ]
+    },
+    {
+      "id": "class8-english-p116-l014",
+      "lineNumber": 14,
+      "text": "1. How did Polan Sarkar develop an interest in books?",
+      "cleanText": "1. How did Polan Sarkar develop an interest in books?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.1,
+      "bbox": [
+        63.94,
+        303.84,
+        340.7,
+        315.65
+      ]
+    },
+    {
+      "id": "class8-english-p116-l015",
+      "lineNumber": 15,
+      "text": "2. How did he come to be known nationwide?",
+      "cleanText": "2. How did he come to be known nationwide?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.89,
+      "bbox": [
+        62.78,
+        320.83,
+        298.08,
+        330.05
+      ]
+    },
+    {
+      "id": "class8-english-p116-l016",
+      "lineNumber": 16,
+      "text": "3. What was Polan Sarkar’s contribution to society?",
+      "cleanText": "3. What was Polan Sarkar’s contribution to society?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.12,
+      "bbox": [
+        62.78,
+        337.82,
+        327.46,
+        349.63
+      ]
+    },
+    {
+      "id": "class8-english-p116-l017",
+      "lineNumber": 17,
+      "text": "4. When did he decide to walk to the doorsteps of the people for distributing",
+      "cleanText": "4. When did he decide to walk to the doorsteps of the people for distributing",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.87,
+      "bbox": [
+        62.5,
+        354.82,
+        474.91,
+        366.62
+      ]
+    },
+    {
+      "id": "class8-english-p116-l018",
+      "lineNumber": 18,
+      "text": "books?",
+      "cleanText": "books?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        75.17,
+        371.81,
+        110.88,
+        381.02
+      ]
+    },
+    {
+      "id": "class8-english-p116-l019",
+      "lineNumber": 19,
+      "text": "5. How did the adults also become interested in taking books from Polan Sarkar?",
+      "cleanText": "5. How did the adults also become interested in taking books from Polan Sarkar?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.21,
+      "bbox": [
+        63.07,
+        389.66,
+        476.64,
+        401.76
+      ]
+    },
+    {
+      "id": "class8-english-p116-l020",
+      "lineNumber": 20,
+      "text": "E. Fill in the blanks using the words given in the box:",
+      "cleanText": "E. Fill in the blanks using the words given in the box:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        62.5,
+        425.95,
+        355.39,
+        437.76
+      ]
+    },
+    {
+      "id": "class8-english-p116-l021",
+      "lineNumber": 21,
+      "text": "As the people of the village _—sin the morning, the first thing they _is",
+      "cleanText": "As the people of the village _—sin the morning, the first thing they _is",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 79.29,
+      "bbox": [
+        62.5,
+        500.83,
+        476.06,
+        515.23
+      ]
+    },
+    {
+      "id": "class8-english-p116-l022",
+      "lineNumber": 22,
+      "text": "Polan Sarkar. He there, smiling, with a bag of books on his shoulder.",
+      "cleanText": "Polan Sarkar. He there, smiling, with a bag of books on his shoulder.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.54,
+      "bbox": [
+        62.5,
+        518.98,
+        475.49,
+        530.78
+      ]
+    },
+    {
+      "id": "class8-english-p116-l023",
+      "lineNumber": 23,
+      "text": "He may be all of 94 years, but is sprightly asa young man. He __ on foot for",
+      "cleanText": "He may be all of 94 years, but is sprightly asa young man. He __ on foot for",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.11,
+      "bbox": [
+        62.5,
+        535.97,
+        476.64,
+        548.06
+      ]
+    },
+    {
+      "id": "class8-english-p116-l024",
+      "lineNumber": 24,
+      "text": "miles, going from village to village with his books. He __ the books with his",
+      "cleanText": "miles, going from village to village with his books. He __ the books with his",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.2,
+      "bbox": [
+        62.5,
+        551.81,
+        476.06,
+        566.21
+      ]
+    },
+    {
+      "id": "class8-english-p116-l025",
+      "lineNumber": 25,
+      "text": "own money and __ them to the people. After a few weeks, he _—_ by again.",
+      "cleanText": "own money and __ them to the people. After a few weeks, he _—_ by again.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 64.0,
+      "bbox": [
+        62.78,
+        569.95,
+        475.49,
+        582.05
+      ]
+    },
+    {
+      "id": "class8-english-p116-l026",
+      "lineNumber": 26,
+      "text": "The villagers ——ithe books and _ from the fresh lot he brings along. He’s",
+      "cleanText": "The villagers ——ithe books and _ from the fresh lot he brings along. He’s",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 77.71,
+      "bbox": [
+        62.78,
+        585.79,
+        476.06,
+        600.19
+      ]
+    },
+    {
+      "id": "class8-english-p116-l027",
+      "lineNumber": 27,
+      "text": "been doing this for the past 30 years. He _—_ about 20 villages in Rajshahi, a",
+      "cleanText": "been doing this for the past 30 years. He _—_ about 20 villages in Rajshahi, a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.81,
+      "bbox": [
+        62.5,
+        602.78,
+        476.35,
+        617.18
+      ]
+    },
+    {
+      "id": "class8-english-p116-l028",
+      "lineNumber": 28,
+      "text": "S district of Bangladesh, starting an innovative reading revolution in the region.",
+      "cleanText": "S district of Bangladesh, starting an innovative reading revolution in the region.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.17,
+      "bbox": [
+        29.66,
+        620.93,
+        459.65,
+        635.04
+      ]
+    },
+    {
+      "id": "class8-english-p116-l029",
+      "lineNumber": 29,
+      "text": "Ss (Adapted from: Impact Journalism Day)",
+      "cleanText": "Ss (Adapted from: Impact Journalism Day)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.17,
+      "bbox": [
+        28.51,
+        635.04,
+        237.02,
+        654.91
+      ]
+    }
+  ],
+  "lineCount": 29,
+  "aiReadyLineCount": 28,
+  "averageConfidence": 87.44,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:46.931284+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

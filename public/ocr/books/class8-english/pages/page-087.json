@@ -1,0 +1,762 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 87,
+  "pdfPage": 87,
+  "textbookPage": 87,
+  "width": 529.47,
+  "height": 688.41,
+  "image": "../images/page-087.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "82 English For Today\nQuestions:\n1. Do you think ‘pearls’ were discovered by accident? Why?\n2. Why do you think pearls were valued so much in the past?\n3. What good luck did the knights think pearls would bring them?\nC. Read the text in B again and write the information in the table:\npo\nOO\nLesson 2: The Ama Divers\nKeywords: rare, descend, hazardous, rely\nA. Read the text and answer the following questions:\nBefore the beginning of the 20th century, pearls were obtained from pearl\noysters. These oysters were collected from the bottom of the ocean, lake or river.\nTo get enough pearl oysters, free-divers were often forced to descend to a\ndepth of more than 100 feet in one breath. Because of the difficulty of diving,\npearls at that time were of different quality as well as very rare.\nIn Asia some pearl oysters could be found on shoals at a depth of 5-7 feet from\nthe surface. At times, the divers had to go 40 feet or even up to 125 feet\ndeep to find enough pearl oysters. These deep dives were extremely hazardous\nto the divers.\nQuestions:\n1. What is the text about?\n2. Where did the people get the pearls from?\nq\n=\nN",
+  "cleanText": "82 English For Today Questions: 1. Do you think ‘pearls’ were discovered by accident? Why? 2. Why do you think pearls were valued so much in the past? 3. What good luck did the knights think pearls would bring them? C. Read the text in B again and write the information in the table: po OO Lesson 2: The Ama Divers Keywords: rare, descend, hazardous, rely A. Read the text and answer the following questions: Before the beginning of the 20th century, pearls were obtained from pearl oysters. These oysters were collected from the bottom of the ocean, lake or river. To get enough pearl oysters, free-divers were often forced to descend to a depth of more than 100 feet in one breath. Because of the difficulty of diving, pearls at that time were of different quality as well as very rare. In Asia some pearl oysters could be found on shoals at a depth of 5-7 feet from the surface. At times, the divers had to go 40 feet or even up to 125 feet deep to find enough pearl oysters. These deep dives were extremely hazardous to the divers. Questions: 1. What is the text about? 2. Where did the people get the pearls from? q = N",
+  "aiReadyText": "82 English For Today Questions: 1. Do you think ‘pearls’ were discovered by accident? Why? 2. Why do you think pearls were valued so much in the past? 3. What good luck did the knights think pearls would bring them? C. Read the text in B again and write the information in the table: po OO Lesson 2: The Ama Divers Keywords: rare, descend, hazardous, rely A. Read the text and answer the following questions: Before the beginning of the 20th century, pearls were obtained from pearl oysters. These oysters were collected from the bottom of the ocean, lake or river. To get enough pearl oysters, free-divers were often forced to descend to a depth of more than 100 feet in one breath. Because of the difficulty of diving, pearls at that time were of different quality as well as very rare. In Asia some pearl oysters could be found on shoals at a depth of 5-7 feet from the surface. At times, the divers had to go 40 feet or even up to 125 feet deep to find enough pearl oysters. These deep dives were extremely hazardous to the divers. Questions: 1. What is the text about? 2. Where did the people get the pearls from?",
+  "lines": [
+    {
+      "id": "class8-english-p087-l001",
+      "lineNumber": 1,
+      "text": "82 English For Today",
+      "cleanText": "82 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        60.48,
+        37.15,
+        472.32,
+        48.1
+      ]
+    },
+    {
+      "id": "class8-english-p087-l002",
+      "lineNumber": 2,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        70.85,
+        69.98,
+        128.74,
+        81.22
+      ]
+    },
+    {
+      "id": "class8-english-p087-l003",
+      "lineNumber": 3,
+      "text": "1. Do you think ‘pearls’ were discovered by accident? Why?",
+      "cleanText": "1. Do you think ‘pearls’ were discovered by accident? Why?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.7,
+      "bbox": [
+        71.71,
+        86.98,
+        393.12,
+        99.07
+      ]
+    },
+    {
+      "id": "class8-english-p087-l004",
+      "lineNumber": 4,
+      "text": "2. Why do you think pearls were valued so much in the past?",
+      "cleanText": "2. Why do you think pearls were valued so much in the past?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        71.14,
+        103.97,
+        394.85,
+        116.06
+      ]
+    },
+    {
+      "id": "class8-english-p087-l005",
+      "lineNumber": 5,
+      "text": "3. What good luck did the knights think pearls would bring them?",
+      "cleanText": "3. What good luck did the knights think pearls would bring them?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.58,
+      "bbox": [
+        70.85,
+        120.96,
+        420.19,
+        133.06
+      ]
+    },
+    {
+      "id": "class8-english-p087-l006",
+      "lineNumber": 6,
+      "text": "C. Read the text in B again and write the information in the table:",
+      "cleanText": "C. Read the text in B again and write the information in the table:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.07,
+      "bbox": [
+        63.65,
+        161.28,
+        426.82,
+        173.95
+      ]
+    },
+    {
+      "id": "class8-english-p087-l007",
+      "lineNumber": 7,
+      "text": "po",
+      "cleanText": "po",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 41.0,
+      "bbox": [
+        294.91,
+        220.9,
+        478.66,
+        242.21
+      ]
+    },
+    {
+      "id": "class8-english-p087-l008",
+      "lineNumber": 8,
+      "text": "OO",
+      "cleanText": "OO",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 0.0,
+      "bbox": [
+        294.91,
+        242.5,
+        478.66,
+        263.23
+      ]
+    },
+    {
+      "id": "class8-english-p087-l009",
+      "lineNumber": 9,
+      "text": "Lesson 2: The Ama Divers",
+      "cleanText": "Lesson 2: The Ama Divers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        63.65,
+        315.94,
+        287.71,
+        329.76
+      ]
+    },
+    {
+      "id": "class8-english-p087-l010",
+      "lineNumber": 10,
+      "text": "Keywords: rare, descend, hazardous, rely",
+      "cleanText": "Keywords: rare, descend, hazardous, rely",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.92,
+        341.57,
+        291.17,
+        353.66
+      ]
+    },
+    {
+      "id": "class8-english-p087-l011",
+      "lineNumber": 11,
+      "text": "A. Read the text and answer the following questions:",
+      "cleanText": "A. Read the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        63.36,
+        363.17,
+        356.54,
+        376.13
+      ]
+    },
+    {
+      "id": "class8-english-p087-l012",
+      "lineNumber": 12,
+      "text": "Before the beginning of the 20th century, pearls were obtained from pearl",
+      "cleanText": "Before the beginning of the 20th century, pearls were obtained from pearl",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        63.65,
+        385.63,
+        477.5,
+        397.73
+      ]
+    },
+    {
+      "id": "class8-english-p087-l013",
+      "lineNumber": 13,
+      "text": "oysters. These oysters were collected from the bottom of the ocean, lake or river.",
+      "cleanText": "oysters. These oysters were collected from the bottom of the ocean, lake or river.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.94,
+        402.62,
+        478.94,
+        414.72
+      ]
+    },
+    {
+      "id": "class8-english-p087-l014",
+      "lineNumber": 14,
+      "text": "To get enough pearl oysters, free-divers were often forced to descend to a",
+      "cleanText": "To get enough pearl oysters, free-divers were often forced to descend to a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.46,
+      "bbox": [
+        63.36,
+        427.68,
+        476.93,
+        439.78
+      ]
+    },
+    {
+      "id": "class8-english-p087-l015",
+      "lineNumber": 15,
+      "text": "depth of more than 100 feet in one breath. Because of the difficulty of diving,",
+      "cleanText": "depth of more than 100 feet in one breath. Because of the difficulty of diving,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        63.36,
+        444.67,
+        478.08,
+        456.77
+      ]
+    },
+    {
+      "id": "class8-english-p087-l016",
+      "lineNumber": 16,
+      "text": "pearls at that time were of different quality as well as very rare.",
+      "cleanText": "pearls at that time were of different quality as well as very rare.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.15,
+      "bbox": [
+        63.07,
+        461.66,
+        396.86,
+        473.76
+      ]
+    },
+    {
+      "id": "class8-english-p087-l017",
+      "lineNumber": 17,
+      "text": "In Asia some pearl oysters could be found on shoals at a depth of 5-7 feet from",
+      "cleanText": "In Asia some pearl oysters could be found on shoals at a depth of 5-7 feet from",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.12,
+      "bbox": [
+        63.65,
+        486.72,
+        478.37,
+        498.82
+      ]
+    },
+    {
+      "id": "class8-english-p087-l018",
+      "lineNumber": 18,
+      "text": "the surface. At times, the divers had to go 40 feet or even up to 125 feet",
+      "cleanText": "the surface. At times, the divers had to go 40 feet or even up to 125 feet",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.76,
+      "bbox": [
+        63.36,
+        503.71,
+        478.08,
+        515.81
+      ]
+    },
+    {
+      "id": "class8-english-p087-l019",
+      "lineNumber": 19,
+      "text": "deep to find enough pearl oysters. These deep dives were extremely hazardous",
+      "cleanText": "deep to find enough pearl oysters. These deep dives were extremely hazardous",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        62.5,
+        520.7,
+        478.08,
+        533.38
+      ]
+    },
+    {
+      "id": "class8-english-p087-l020",
+      "lineNumber": 20,
+      "text": "to the divers.",
+      "cleanText": "to the divers.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.33,
+      "bbox": [
+        63.07,
+        539.14,
+        129.31,
+        548.35
+      ]
+    },
+    {
+      "id": "class8-english-p087-l021",
+      "lineNumber": 21,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.0,
+      "bbox": [
+        63.65,
+        566.78,
+        120.96,
+        578.02
+      ]
+    },
+    {
+      "id": "class8-english-p087-l022",
+      "lineNumber": 22,
+      "text": "1. What is the text about?",
+      "cleanText": "1. What is the text about?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        85.54,
+        588.67,
+        225.22,
+        597.89
+      ]
+    },
+    {
+      "id": "class8-english-p087-l023",
+      "lineNumber": 23,
+      "text": "2. Where did the people get the pearls from?",
+      "cleanText": "2. Where did the people get the pearls from?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.44,
+      "bbox": [
+        84.67,
+        610.56,
+        323.71,
+        622.94
+      ]
+    },
+    {
+      "id": "class8-english-p087-l024",
+      "lineNumber": 24,
+      "text": "q",
+      "cleanText": "q",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 0.0,
+      "bbox": [
+        493.92,
+        624.67,
+        502.27,
+        636.77
+      ]
+    },
+    {
+      "id": "class8-english-p087-l025",
+      "lineNumber": 25,
+      "text": "=",
+      "cleanText": "=",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 50.0,
+      "bbox": [
+        493.92,
+        637.06,
+        502.27,
+        642.24
+      ]
+    },
+    {
+      "id": "class8-english-p087-l026",
+      "lineNumber": 26,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 78.0,
+      "bbox": [
+        493.92,
+        643.1,
+        501.98,
+        648.58
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p087-l001",
+      "lineNumber": 1,
+      "text": "82 English For Today",
+      "cleanText": "82 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        60.48,
+        37.15,
+        472.32,
+        48.1
+      ]
+    },
+    {
+      "id": "class8-english-p087-l002",
+      "lineNumber": 2,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        70.85,
+        69.98,
+        128.74,
+        81.22
+      ]
+    },
+    {
+      "id": "class8-english-p087-l003",
+      "lineNumber": 3,
+      "text": "1. Do you think ‘pearls’ were discovered by accident? Why?",
+      "cleanText": "1. Do you think ‘pearls’ were discovered by accident? Why?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.7,
+      "bbox": [
+        71.71,
+        86.98,
+        393.12,
+        99.07
+      ]
+    },
+    {
+      "id": "class8-english-p087-l004",
+      "lineNumber": 4,
+      "text": "2. Why do you think pearls were valued so much in the past?",
+      "cleanText": "2. Why do you think pearls were valued so much in the past?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        71.14,
+        103.97,
+        394.85,
+        116.06
+      ]
+    },
+    {
+      "id": "class8-english-p087-l005",
+      "lineNumber": 5,
+      "text": "3. What good luck did the knights think pearls would bring them?",
+      "cleanText": "3. What good luck did the knights think pearls would bring them?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.58,
+      "bbox": [
+        70.85,
+        120.96,
+        420.19,
+        133.06
+      ]
+    },
+    {
+      "id": "class8-english-p087-l006",
+      "lineNumber": 6,
+      "text": "C. Read the text in B again and write the information in the table:",
+      "cleanText": "C. Read the text in B again and write the information in the table:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.07,
+      "bbox": [
+        63.65,
+        161.28,
+        426.82,
+        173.95
+      ]
+    },
+    {
+      "id": "class8-english-p087-l007",
+      "lineNumber": 7,
+      "text": "po",
+      "cleanText": "po",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 41.0,
+      "bbox": [
+        294.91,
+        220.9,
+        478.66,
+        242.21
+      ]
+    },
+    {
+      "id": "class8-english-p087-l008",
+      "lineNumber": 8,
+      "text": "OO",
+      "cleanText": "OO",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 0.0,
+      "bbox": [
+        294.91,
+        242.5,
+        478.66,
+        263.23
+      ]
+    },
+    {
+      "id": "class8-english-p087-l009",
+      "lineNumber": 9,
+      "text": "Lesson 2: The Ama Divers",
+      "cleanText": "Lesson 2: The Ama Divers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        63.65,
+        315.94,
+        287.71,
+        329.76
+      ]
+    },
+    {
+      "id": "class8-english-p087-l010",
+      "lineNumber": 10,
+      "text": "Keywords: rare, descend, hazardous, rely",
+      "cleanText": "Keywords: rare, descend, hazardous, rely",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.92,
+        341.57,
+        291.17,
+        353.66
+      ]
+    },
+    {
+      "id": "class8-english-p087-l011",
+      "lineNumber": 11,
+      "text": "A. Read the text and answer the following questions:",
+      "cleanText": "A. Read the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        63.36,
+        363.17,
+        356.54,
+        376.13
+      ]
+    },
+    {
+      "id": "class8-english-p087-l012",
+      "lineNumber": 12,
+      "text": "Before the beginning of the 20th century, pearls were obtained from pearl",
+      "cleanText": "Before the beginning of the 20th century, pearls were obtained from pearl",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        63.65,
+        385.63,
+        477.5,
+        397.73
+      ]
+    },
+    {
+      "id": "class8-english-p087-l013",
+      "lineNumber": 13,
+      "text": "oysters. These oysters were collected from the bottom of the ocean, lake or river.",
+      "cleanText": "oysters. These oysters were collected from the bottom of the ocean, lake or river.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.94,
+        402.62,
+        478.94,
+        414.72
+      ]
+    },
+    {
+      "id": "class8-english-p087-l014",
+      "lineNumber": 14,
+      "text": "To get enough pearl oysters, free-divers were often forced to descend to a",
+      "cleanText": "To get enough pearl oysters, free-divers were often forced to descend to a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.46,
+      "bbox": [
+        63.36,
+        427.68,
+        476.93,
+        439.78
+      ]
+    },
+    {
+      "id": "class8-english-p087-l015",
+      "lineNumber": 15,
+      "text": "depth of more than 100 feet in one breath. Because of the difficulty of diving,",
+      "cleanText": "depth of more than 100 feet in one breath. Because of the difficulty of diving,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        63.36,
+        444.67,
+        478.08,
+        456.77
+      ]
+    },
+    {
+      "id": "class8-english-p087-l016",
+      "lineNumber": 16,
+      "text": "pearls at that time were of different quality as well as very rare.",
+      "cleanText": "pearls at that time were of different quality as well as very rare.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.15,
+      "bbox": [
+        63.07,
+        461.66,
+        396.86,
+        473.76
+      ]
+    },
+    {
+      "id": "class8-english-p087-l017",
+      "lineNumber": 17,
+      "text": "In Asia some pearl oysters could be found on shoals at a depth of 5-7 feet from",
+      "cleanText": "In Asia some pearl oysters could be found on shoals at a depth of 5-7 feet from",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.12,
+      "bbox": [
+        63.65,
+        486.72,
+        478.37,
+        498.82
+      ]
+    },
+    {
+      "id": "class8-english-p087-l018",
+      "lineNumber": 18,
+      "text": "the surface. At times, the divers had to go 40 feet or even up to 125 feet",
+      "cleanText": "the surface. At times, the divers had to go 40 feet or even up to 125 feet",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.76,
+      "bbox": [
+        63.36,
+        503.71,
+        478.08,
+        515.81
+      ]
+    },
+    {
+      "id": "class8-english-p087-l019",
+      "lineNumber": 19,
+      "text": "deep to find enough pearl oysters. These deep dives were extremely hazardous",
+      "cleanText": "deep to find enough pearl oysters. These deep dives were extremely hazardous",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        62.5,
+        520.7,
+        478.08,
+        533.38
+      ]
+    },
+    {
+      "id": "class8-english-p087-l020",
+      "lineNumber": 20,
+      "text": "to the divers.",
+      "cleanText": "to the divers.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.33,
+      "bbox": [
+        63.07,
+        539.14,
+        129.31,
+        548.35
+      ]
+    },
+    {
+      "id": "class8-english-p087-l021",
+      "lineNumber": 21,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.0,
+      "bbox": [
+        63.65,
+        566.78,
+        120.96,
+        578.02
+      ]
+    },
+    {
+      "id": "class8-english-p087-l022",
+      "lineNumber": 22,
+      "text": "1. What is the text about?",
+      "cleanText": "1. What is the text about?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        85.54,
+        588.67,
+        225.22,
+        597.89
+      ]
+    },
+    {
+      "id": "class8-english-p087-l023",
+      "lineNumber": 23,
+      "text": "2. Where did the people get the pearls from?",
+      "cleanText": "2. Where did the people get the pearls from?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.44,
+      "bbox": [
+        84.67,
+        610.56,
+        323.71,
+        622.94
+      ]
+    }
+  ],
+  "lineCount": 26,
+  "aiReadyLineCount": 23,
+  "averageConfidence": 83.56,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:01.310889+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 117,
+  "pdfPage": 117,
+  "textbookPage": 117,
+  "width": 526.56,
+  "height": 691.16,
+  "image": "../images/page-117.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "112 English For Today\nF. Work with your partner and make a dialogue on the “Importance of\nReading Books”:\nG. Do you know anyone who is involved in social work like Polan Sarkar?\nWrite a report on him/her using the following cues:\na. What is his/her name?\nb. Where is she/he from and how old is she/he?\nc. What does she/he do?\nd. Why is she/he famous?\ne. What aspect of her/his personality do you appreciate the most?\nf. What can you do for her/him?\ns\nQ",
+  "cleanText": "112 English For Today F. Work with your partner and make a dialogue on the “Importance of Reading Books”: G. Do you know anyone who is involved in social work like Polan Sarkar? Write a report on him/her using the following cues: a. What is his/her name? b. Where is she/he from and how old is she/he? c. What does she/he do? d. Why is she/he famous? e. What aspect of her/his personality do you appreciate the most? f. What can you do for her/him? s Q",
+  "aiReadyText": "112 English For Today F. Work with your partner and make a dialogue on the “Importance of Reading Books”: G. Do you know anyone who is involved in social work like Polan Sarkar? Write a report on him/her using the following cues: a. What is his/her name? b. Where is she/he from and how old is she/he? c. What does she/he do? d. Why is she/he famous? e. What aspect of her/his personality do you appreciate the most? f. What can you do for her/him?",
+  "lines": [
+    {
+      "id": "class8-english-p117-l001",
+      "lineNumber": 1,
+      "text": "112 English For Today",
+      "cleanText": "112 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        65.38,
+        42.05,
+        476.64,
+        52.99
+      ]
+    },
+    {
+      "id": "class8-english-p117-l002",
+      "lineNumber": 2,
+      "text": "F. Work with your partner and make a dialogue on the “Importance of",
+      "cleanText": "F. Work with your partner and make a dialogue on the “Importance of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 81.62,
+      "bbox": [
+        63.94,
+        72.86,
+        481.82,
+        84.67
+      ]
+    },
+    {
+      "id": "class8-english-p117-l003",
+      "lineNumber": 3,
+      "text": "Reading Books”:",
+      "cleanText": "Reading Books”:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        91.01,
+        91.87,
+        182.3,
+        103.68
+      ]
+    },
+    {
+      "id": "class8-english-p117-l004",
+      "lineNumber": 4,
+      "text": "G. Do you know anyone who is involved in social work like Polan Sarkar?",
+      "cleanText": "G. Do you know anyone who is involved in social work like Polan Sarkar?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.86,
+      "bbox": [
+        63.94,
+        129.89,
+        477.79,
+        141.41
+      ]
+    },
+    {
+      "id": "class8-english-p117-l005",
+      "lineNumber": 5,
+      "text": "Write a report on him/her using the following cues:",
+      "cleanText": "Write a report on him/her using the following cues:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.89,
+      "bbox": [
+        87.55,
+        148.9,
+        366.91,
+        160.42
+      ]
+    },
+    {
+      "id": "class8-english-p117-l006",
+      "lineNumber": 6,
+      "text": "a. What is his/her name?",
+      "cleanText": "a. What is his/her name?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        88.99,
+        167.62,
+        214.27,
+        176.83
+      ]
+    },
+    {
+      "id": "class8-english-p117-l007",
+      "lineNumber": 7,
+      "text": "b. Where is she/he from and how old is she/he?",
+      "cleanText": "b. Where is she/he from and how old is she/he?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.3,
+      "bbox": [
+        88.7,
+        186.62,
+        330.62,
+        195.84
+      ]
+    },
+    {
+      "id": "class8-english-p117-l008",
+      "lineNumber": 8,
+      "text": "c. What does she/he do?",
+      "cleanText": "c. What does she/he do?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        88.99,
+        205.63,
+        211.97,
+        214.85
+      ]
+    },
+    {
+      "id": "class8-english-p117-l009",
+      "lineNumber": 9,
+      "text": "d. Why is she/he famous?",
+      "cleanText": "d. Why is she/he famous?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        88.99,
+        224.64,
+        220.03,
+        236.45
+      ]
+    },
+    {
+      "id": "class8-english-p117-l010",
+      "lineNumber": 10,
+      "text": "e. What aspect of her/his personality do you appreciate the most?",
+      "cleanText": "e. What aspect of her/his personality do you appreciate the most?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.55,
+      "bbox": [
+        88.99,
+        243.65,
+        421.63,
+        255.46
+      ]
+    },
+    {
+      "id": "class8-english-p117-l011",
+      "lineNumber": 11,
+      "text": "f. What can you do for her/him?",
+      "cleanText": "f. What can you do for her/him?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.14,
+      "bbox": [
+        88.99,
+        262.66,
+        252.58,
+        274.46
+      ]
+    },
+    {
+      "id": "class8-english-p117-l012",
+      "lineNumber": 12,
+      "text": "s",
+      "cleanText": "s",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 26.0,
+      "bbox": [
+        495.65,
+        629.57,
+        503.71,
+        647.14
+      ]
+    },
+    {
+      "id": "class8-english-p117-l013",
+      "lineNumber": 13,
+      "text": "Q",
+      "cleanText": "Q",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 32.0,
+      "bbox": [
+        495.65,
+        648.29,
+        503.71,
+        653.76
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p117-l001",
+      "lineNumber": 1,
+      "text": "112 English For Today",
+      "cleanText": "112 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        65.38,
+        42.05,
+        476.64,
+        52.99
+      ]
+    },
+    {
+      "id": "class8-english-p117-l002",
+      "lineNumber": 2,
+      "text": "F. Work with your partner and make a dialogue on the “Importance of",
+      "cleanText": "F. Work with your partner and make a dialogue on the “Importance of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 81.62,
+      "bbox": [
+        63.94,
+        72.86,
+        481.82,
+        84.67
+      ]
+    },
+    {
+      "id": "class8-english-p117-l003",
+      "lineNumber": 3,
+      "text": "Reading Books”:",
+      "cleanText": "Reading Books”:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        91.01,
+        91.87,
+        182.3,
+        103.68
+      ]
+    },
+    {
+      "id": "class8-english-p117-l004",
+      "lineNumber": 4,
+      "text": "G. Do you know anyone who is involved in social work like Polan Sarkar?",
+      "cleanText": "G. Do you know anyone who is involved in social work like Polan Sarkar?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.86,
+      "bbox": [
+        63.94,
+        129.89,
+        477.79,
+        141.41
+      ]
+    },
+    {
+      "id": "class8-english-p117-l005",
+      "lineNumber": 5,
+      "text": "Write a report on him/her using the following cues:",
+      "cleanText": "Write a report on him/her using the following cues:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.89,
+      "bbox": [
+        87.55,
+        148.9,
+        366.91,
+        160.42
+      ]
+    },
+    {
+      "id": "class8-english-p117-l006",
+      "lineNumber": 6,
+      "text": "a. What is his/her name?",
+      "cleanText": "a. What is his/her name?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        88.99,
+        167.62,
+        214.27,
+        176.83
+      ]
+    },
+    {
+      "id": "class8-english-p117-l007",
+      "lineNumber": 7,
+      "text": "b. Where is she/he from and how old is she/he?",
+      "cleanText": "b. Where is she/he from and how old is she/he?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.3,
+      "bbox": [
+        88.7,
+        186.62,
+        330.62,
+        195.84
+      ]
+    },
+    {
+      "id": "class8-english-p117-l008",
+      "lineNumber": 8,
+      "text": "c. What does she/he do?",
+      "cleanText": "c. What does she/he do?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        88.99,
+        205.63,
+        211.97,
+        214.85
+      ]
+    },
+    {
+      "id": "class8-english-p117-l009",
+      "lineNumber": 9,
+      "text": "d. Why is she/he famous?",
+      "cleanText": "d. Why is she/he famous?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        88.99,
+        224.64,
+        220.03,
+        236.45
+      ]
+    },
+    {
+      "id": "class8-english-p117-l010",
+      "lineNumber": 10,
+      "text": "e. What aspect of her/his personality do you appreciate the most?",
+      "cleanText": "e. What aspect of her/his personality do you appreciate the most?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.55,
+      "bbox": [
+        88.99,
+        243.65,
+        421.63,
+        255.46
+      ]
+    },
+    {
+      "id": "class8-english-p117-l011",
+      "lineNumber": 11,
+      "text": "f. What can you do for her/him?",
+      "cleanText": "f. What can you do for her/him?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.14,
+      "bbox": [
+        88.99,
+        262.66,
+        252.58,
+        274.46
+      ]
+    }
+  ],
+  "lineCount": 13,
+  "aiReadyLineCount": 11,
+  "averageConfidence": 84.13,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:47.681402+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

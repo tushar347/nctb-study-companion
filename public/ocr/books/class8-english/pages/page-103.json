@@ -1,0 +1,822 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 103,
+  "pdfPage": 103,
+  "textbookPage": 103,
+  "width": 522.0,
+  "height": 684.0,
+  "image": "../images/page-103.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "98 English For Today\neB |\nSN SH ERLE He HT EN\n|\nRIN Te ahs 7a ee ge Gee Ps re a\nSes FS Fete Fos See, Bata Brat are, (Pa ae\nFra a FE ST ADS AA TCT ST PS OSE\nrena Pe FEC boo Brey FLT ICT\nSPO TM SILT TT OD CT OTT\nPea\n@ 1s\nsie S20 EL ESE Hd i ERO i\nyoo BIA FRET GORA CC AIA EE\nOwen 43 Comments 399 Share\nA Facebook page falsely claims that Sonali Bank is giving away money to\npeople in celebration of the month of victory.\nQuestions:\n1. Do you think this news and the post are true? Why or why not?\n2. Why do you think people are spreading this fake news?\nF. Look at the following comment:\nThe advertisement is the most truthful part of a newspaper. ---Thomas Jefferson.\nNow, make similar sentences from the following substitution table:\nThe editorial page the most attractive\nThe cartoon page the most educative\nThe sports page is the most valuable _| part of a newspaper.\nThe learners’ page the most interesting\nS\nS\nN",
+  "cleanText": "98 English For Today eB | SN SH ERLE He HT EN | RIN Te ahs 7a ee ge Gee Ps re a Ses FS Fete Fos See, Bata Brat are, (Pa ae Fra a FE ST ADS AA TCT ST PS OSE rena Pe FEC boo Brey FLT ICT SPO TM SILT TT OD CT OTT Pea @ 1s sie S20 EL ESE Hd i ERO i yoo BIA FRET GORA CC AIA EE Owen 43 Comments 399 Share A Facebook page falsely claims that Sonali Bank is giving away money to people in celebration of the month of victory. Questions: 1. Do you think this news and the post are true? Why or why not? 2. Why do you think people are spreading this fake news? F. Look at the following comment: The advertisement is the most truthful part of a newspaper. ---Thomas Jefferson. Now, make similar sentences from the following substitution table: The editorial page the most attractive The cartoon page the most educative The sports page is the most valuable _| part of a newspaper. The learners’ page the most interesting S S N",
+  "aiReadyText": "98 English For Today eB | SN SH ERLE He HT EN RIN Te ahs 7a ee ge Gee Ps re a Ses FS Fete Fos See, Bata Brat are, (Pa ae Fra a FE ST ADS AA TCT ST PS OSE rena Pe FEC boo Brey FLT ICT SPO TM SILT TT OD CT OTT Pea sie S20 EL ESE Hd i ERO i yoo BIA FRET GORA CC AIA EE Owen 43 Comments 399 Share A Facebook page falsely claims that Sonali Bank is giving away money to people in celebration of the month of victory. Questions: 1. Do you think this news and the post are true? Why or why not? 2. Why do you think people are spreading this fake news? F. Look at the following comment: The advertisement is the most truthful part of a newspaper. ---Thomas Jefferson. Now, make similar sentences from the following substitution table: The editorial page the most attractive The cartoon page the most educative The sports page is the most valuable _| part of a newspaper. The learners’ page the most interesting",
+  "lines": [
+    {
+      "id": "class8-english-p103-l001",
+      "lineNumber": 1,
+      "text": "98 English For Today",
+      "cleanText": "98 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        55.3,
+        35.42,
+        467.71,
+        46.37
+      ]
+    },
+    {
+      "id": "class8-english-p103-l002",
+      "lineNumber": 2,
+      "text": "eB |",
+      "cleanText": "eB |",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 42.5,
+      "bbox": [
+        85.54,
+        103.39,
+        95.04,
+        107.42
+      ]
+    },
+    {
+      "id": "class8-english-p103-l003",
+      "lineNumber": 3,
+      "text": "SN SH ERLE He HT EN",
+      "cleanText": "SN SH ERLE He HT EN",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 11.67,
+      "bbox": [
+        77.47,
+        110.3,
+        226.37,
+        125.57
+      ]
+    },
+    {
+      "id": "class8-english-p103-l004",
+      "lineNumber": 4,
+      "text": "|",
+      "cleanText": "|",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 49.0,
+      "bbox": [
+        91.58,
+        120.38,
+        92.16,
+        124.42
+      ]
+    },
+    {
+      "id": "class8-english-p103-l005",
+      "lineNumber": 5,
+      "text": "RIN Te ahs 7a ee ge Gee Ps re a",
+      "cleanText": "RIN Te ahs 7a ee ge Gee Ps re a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 29.3,
+      "bbox": [
+        77.47,
+        127.3,
+        222.62,
+        137.66
+      ]
+    },
+    {
+      "id": "class8-english-p103-l006",
+      "lineNumber": 6,
+      "text": "Ses FS Fete Fos See, Bata Brat are, (Pa ae",
+      "cleanText": "Ses FS Fete Fos See, Bata Brat are, (Pa ae",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 26.9,
+      "bbox": [
+        78.62,
+        134.21,
+        245.09,
+        144.86
+      ]
+    },
+    {
+      "id": "class8-english-p103-l007",
+      "lineNumber": 7,
+      "text": "Fra a FE ST ADS AA TCT ST PS OSE",
+      "cleanText": "Fra a FE ST ADS AA TCT ST PS OSE",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 31.5,
+      "bbox": [
+        77.47,
+        139.39,
+        247.1,
+        152.06
+      ]
+    },
+    {
+      "id": "class8-english-p103-l008",
+      "lineNumber": 8,
+      "text": "rena Pe FEC boo Brey FLT ICT",
+      "cleanText": "rena Pe FEC boo Brey FLT ICT",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 25.86,
+      "bbox": [
+        77.47,
+        148.32,
+        184.32,
+        158.98
+      ]
+    },
+    {
+      "id": "class8-english-p103-l009",
+      "lineNumber": 9,
+      "text": "SPO TM SILT TT OD CT OTT",
+      "cleanText": "SPO TM SILT TT OD CT OTT",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 21.14,
+      "bbox": [
+        77.47,
+        158.11,
+        191.81,
+        168.19
+      ]
+    },
+    {
+      "id": "class8-english-p103-l010",
+      "lineNumber": 10,
+      "text": "Pea",
+      "cleanText": "Pea",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 48.0,
+      "bbox": [
+        78.62,
+        169.06,
+        94.46,
+        175.1
+      ]
+    },
+    {
+      "id": "class8-english-p103-l011",
+      "lineNumber": 11,
+      "text": "@ 1s",
+      "cleanText": "@ 1s",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 54.0,
+      "bbox": [
+        85.54,
+        197.57,
+        249.98,
+        222.34
+      ]
+    },
+    {
+      "id": "class8-english-p103-l012",
+      "lineNumber": 12,
+      "text": "sie S20 EL ESE Hd i ERO i",
+      "cleanText": "sie S20 EL ESE Hd i ERO i",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 32.0,
+      "bbox": [
+        79.49,
+        275.33,
+        249.98,
+        286.56
+      ]
+    },
+    {
+      "id": "class8-english-p103-l013",
+      "lineNumber": 13,
+      "text": "yoo BIA FRET GORA CC AIA EE",
+      "cleanText": "yoo BIA FRET GORA CC AIA EE",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 30.57,
+      "bbox": [
+        78.62,
+        283.39,
+        214.85,
+        298.94
+      ]
+    },
+    {
+      "id": "class8-english-p103-l014",
+      "lineNumber": 14,
+      "text": "Owen 43 Comments 399 Share",
+      "cleanText": "Owen 43 Comments 399 Share",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 66.2,
+      "bbox": [
+        78.62,
+        311.62,
+        249.98,
+        318.53
+      ]
+    },
+    {
+      "id": "class8-english-p103-l015",
+      "lineNumber": 15,
+      "text": "A Facebook page falsely claims that Sonali Bank is giving away money to",
+      "cleanText": "A Facebook page falsely claims that Sonali Bank is giving away money to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        56.45,
+        343.3,
+        470.02,
+        355.39
+      ]
+    },
+    {
+      "id": "class8-english-p103-l016",
+      "lineNumber": 16,
+      "text": "people in celebration of the month of victory.",
+      "cleanText": "people in celebration of the month of victory.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        56.16,
+        359.42,
+        290.59,
+        371.23
+      ]
+    },
+    {
+      "id": "class8-english-p103-l017",
+      "lineNumber": 17,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.74,
+        387.94,
+        114.62,
+        399.17
+      ]
+    },
+    {
+      "id": "class8-english-p103-l018",
+      "lineNumber": 18,
+      "text": "1. Do you think this news and the post are true? Why or why not?",
+      "cleanText": "1. Do you think this news and the post are true? Why or why not?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        74.02,
+        411.84,
+        420.77,
+        423.65
+      ]
+    },
+    {
+      "id": "class8-english-p103-l019",
+      "lineNumber": 19,
+      "text": "2. Why do you think people are spreading this fake news?",
+      "cleanText": "2. Why do you think people are spreading this fake news?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.09,
+      "bbox": [
+        72.86,
+        427.68,
+        380.16,
+        439.78
+      ]
+    },
+    {
+      "id": "class8-english-p103-l020",
+      "lineNumber": 20,
+      "text": "F. Look at the following comment:",
+      "cleanText": "F. Look at the following comment:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        55.01,
+        466.56,
+        253.44,
+        478.08
+      ]
+    },
+    {
+      "id": "class8-english-p103-l021",
+      "lineNumber": 21,
+      "text": "The advertisement is the most truthful part of a newspaper. ---Thomas Jefferson.",
+      "cleanText": "The advertisement is the most truthful part of a newspaper. ---Thomas Jefferson.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        54.72,
+        494.5,
+        471.46,
+        506.3
+      ]
+    },
+    {
+      "id": "class8-english-p103-l022",
+      "lineNumber": 22,
+      "text": "Now, make similar sentences from the following substitution table:",
+      "cleanText": "Now, make similar sentences from the following substitution table:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        53.86,
+        511.49,
+        420.48,
+        523.3
+      ]
+    },
+    {
+      "id": "class8-english-p103-l023",
+      "lineNumber": 23,
+      "text": "The editorial page the most attractive",
+      "cleanText": "The editorial page the most attractive",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.06,
+        546.91,
+        353.38,
+        559.01
+      ]
+    },
+    {
+      "id": "class8-english-p103-l024",
+      "lineNumber": 24,
+      "text": "The cartoon page the most educative",
+      "cleanText": "The cartoon page the most educative",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.06,
+        569.09,
+        354.82,
+        581.18
+      ]
+    },
+    {
+      "id": "class8-english-p103-l025",
+      "lineNumber": 25,
+      "text": "The sports page is the most valuable _| part of a newspaper.",
+      "cleanText": "The sports page is the most valuable _| part of a newspaper.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.17,
+      "bbox": [
+        61.06,
+        586.94,
+        462.24,
+        602.5
+      ]
+    },
+    {
+      "id": "class8-english-p103-l026",
+      "lineNumber": 26,
+      "text": "The learners’ page the most interesting",
+      "cleanText": "The learners’ page the most interesting",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        61.06,
+        609.41,
+        359.71,
+        621.5
+      ]
+    },
+    {
+      "id": "class8-english-p103-l027",
+      "lineNumber": 27,
+      "text": "S",
+      "cleanText": "S",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 33.0,
+      "bbox": [
+        487.87,
+        623.52,
+        496.22,
+        635.62
+      ]
+    },
+    {
+      "id": "class8-english-p103-l028",
+      "lineNumber": 28,
+      "text": "S",
+      "cleanText": "S",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 62.0,
+      "bbox": [
+        487.87,
+        635.9,
+        496.22,
+        641.09
+      ]
+    },
+    {
+      "id": "class8-english-p103-l029",
+      "lineNumber": 29,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 79.0,
+      "bbox": [
+        487.87,
+        642.24,
+        496.22,
+        647.71
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p103-l001",
+      "lineNumber": 1,
+      "text": "98 English For Today",
+      "cleanText": "98 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        55.3,
+        35.42,
+        467.71,
+        46.37
+      ]
+    },
+    {
+      "id": "class8-english-p103-l002",
+      "lineNumber": 2,
+      "text": "eB |",
+      "cleanText": "eB |",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 42.5,
+      "bbox": [
+        85.54,
+        103.39,
+        95.04,
+        107.42
+      ]
+    },
+    {
+      "id": "class8-english-p103-l003",
+      "lineNumber": 3,
+      "text": "SN SH ERLE He HT EN",
+      "cleanText": "SN SH ERLE He HT EN",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 11.67,
+      "bbox": [
+        77.47,
+        110.3,
+        226.37,
+        125.57
+      ]
+    },
+    {
+      "id": "class8-english-p103-l005",
+      "lineNumber": 5,
+      "text": "RIN Te ahs 7a ee ge Gee Ps re a",
+      "cleanText": "RIN Te ahs 7a ee ge Gee Ps re a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 29.3,
+      "bbox": [
+        77.47,
+        127.3,
+        222.62,
+        137.66
+      ]
+    },
+    {
+      "id": "class8-english-p103-l006",
+      "lineNumber": 6,
+      "text": "Ses FS Fete Fos See, Bata Brat are, (Pa ae",
+      "cleanText": "Ses FS Fete Fos See, Bata Brat are, (Pa ae",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 26.9,
+      "bbox": [
+        78.62,
+        134.21,
+        245.09,
+        144.86
+      ]
+    },
+    {
+      "id": "class8-english-p103-l007",
+      "lineNumber": 7,
+      "text": "Fra a FE ST ADS AA TCT ST PS OSE",
+      "cleanText": "Fra a FE ST ADS AA TCT ST PS OSE",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 31.5,
+      "bbox": [
+        77.47,
+        139.39,
+        247.1,
+        152.06
+      ]
+    },
+    {
+      "id": "class8-english-p103-l008",
+      "lineNumber": 8,
+      "text": "rena Pe FEC boo Brey FLT ICT",
+      "cleanText": "rena Pe FEC boo Brey FLT ICT",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 25.86,
+      "bbox": [
+        77.47,
+        148.32,
+        184.32,
+        158.98
+      ]
+    },
+    {
+      "id": "class8-english-p103-l009",
+      "lineNumber": 9,
+      "text": "SPO TM SILT TT OD CT OTT",
+      "cleanText": "SPO TM SILT TT OD CT OTT",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 21.14,
+      "bbox": [
+        77.47,
+        158.11,
+        191.81,
+        168.19
+      ]
+    },
+    {
+      "id": "class8-english-p103-l010",
+      "lineNumber": 10,
+      "text": "Pea",
+      "cleanText": "Pea",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 48.0,
+      "bbox": [
+        78.62,
+        169.06,
+        94.46,
+        175.1
+      ]
+    },
+    {
+      "id": "class8-english-p103-l012",
+      "lineNumber": 12,
+      "text": "sie S20 EL ESE Hd i ERO i",
+      "cleanText": "sie S20 EL ESE Hd i ERO i",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 32.0,
+      "bbox": [
+        79.49,
+        275.33,
+        249.98,
+        286.56
+      ]
+    },
+    {
+      "id": "class8-english-p103-l013",
+      "lineNumber": 13,
+      "text": "yoo BIA FRET GORA CC AIA EE",
+      "cleanText": "yoo BIA FRET GORA CC AIA EE",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 30.57,
+      "bbox": [
+        78.62,
+        283.39,
+        214.85,
+        298.94
+      ]
+    },
+    {
+      "id": "class8-english-p103-l014",
+      "lineNumber": 14,
+      "text": "Owen 43 Comments 399 Share",
+      "cleanText": "Owen 43 Comments 399 Share",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 66.2,
+      "bbox": [
+        78.62,
+        311.62,
+        249.98,
+        318.53
+      ]
+    },
+    {
+      "id": "class8-english-p103-l015",
+      "lineNumber": 15,
+      "text": "A Facebook page falsely claims that Sonali Bank is giving away money to",
+      "cleanText": "A Facebook page falsely claims that Sonali Bank is giving away money to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        56.45,
+        343.3,
+        470.02,
+        355.39
+      ]
+    },
+    {
+      "id": "class8-english-p103-l016",
+      "lineNumber": 16,
+      "text": "people in celebration of the month of victory.",
+      "cleanText": "people in celebration of the month of victory.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        56.16,
+        359.42,
+        290.59,
+        371.23
+      ]
+    },
+    {
+      "id": "class8-english-p103-l017",
+      "lineNumber": 17,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.74,
+        387.94,
+        114.62,
+        399.17
+      ]
+    },
+    {
+      "id": "class8-english-p103-l018",
+      "lineNumber": 18,
+      "text": "1. Do you think this news and the post are true? Why or why not?",
+      "cleanText": "1. Do you think this news and the post are true? Why or why not?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        74.02,
+        411.84,
+        420.77,
+        423.65
+      ]
+    },
+    {
+      "id": "class8-english-p103-l019",
+      "lineNumber": 19,
+      "text": "2. Why do you think people are spreading this fake news?",
+      "cleanText": "2. Why do you think people are spreading this fake news?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.09,
+      "bbox": [
+        72.86,
+        427.68,
+        380.16,
+        439.78
+      ]
+    },
+    {
+      "id": "class8-english-p103-l020",
+      "lineNumber": 20,
+      "text": "F. Look at the following comment:",
+      "cleanText": "F. Look at the following comment:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        55.01,
+        466.56,
+        253.44,
+        478.08
+      ]
+    },
+    {
+      "id": "class8-english-p103-l021",
+      "lineNumber": 21,
+      "text": "The advertisement is the most truthful part of a newspaper. ---Thomas Jefferson.",
+      "cleanText": "The advertisement is the most truthful part of a newspaper. ---Thomas Jefferson.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        54.72,
+        494.5,
+        471.46,
+        506.3
+      ]
+    },
+    {
+      "id": "class8-english-p103-l022",
+      "lineNumber": 22,
+      "text": "Now, make similar sentences from the following substitution table:",
+      "cleanText": "Now, make similar sentences from the following substitution table:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        53.86,
+        511.49,
+        420.48,
+        523.3
+      ]
+    },
+    {
+      "id": "class8-english-p103-l023",
+      "lineNumber": 23,
+      "text": "The editorial page the most attractive",
+      "cleanText": "The editorial page the most attractive",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.06,
+        546.91,
+        353.38,
+        559.01
+      ]
+    },
+    {
+      "id": "class8-english-p103-l024",
+      "lineNumber": 24,
+      "text": "The cartoon page the most educative",
+      "cleanText": "The cartoon page the most educative",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.06,
+        569.09,
+        354.82,
+        581.18
+      ]
+    },
+    {
+      "id": "class8-english-p103-l025",
+      "lineNumber": 25,
+      "text": "The sports page is the most valuable _| part of a newspaper.",
+      "cleanText": "The sports page is the most valuable _| part of a newspaper.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.17,
+      "bbox": [
+        61.06,
+        586.94,
+        462.24,
+        602.5
+      ]
+    },
+    {
+      "id": "class8-english-p103-l026",
+      "lineNumber": 26,
+      "text": "The learners’ page the most interesting",
+      "cleanText": "The learners’ page the most interesting",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        61.06,
+        609.41,
+        359.71,
+        621.5
+      ]
+    }
+  ],
+  "lineCount": 29,
+  "aiReadyLineCount": 24,
+  "averageConfidence": 64.96,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:26.487407+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

@@ -1,0 +1,732 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 23,
+  "pdfPage": 23,
+  "textbookPage": 23,
+  "width": 527.52,
+  "height": 697.0,
+  "image": "../images/page-023.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "18 English For Today\nC. Look at the picture. What do you see in the bowl?\nNow, read the ingredients and following recipe.\nIngredients:\n1. Ripe banana: 1\n2. Apple: 1\n3. Ripe papaya: | (small)\n4. Custard powder: 2 tablespoons\n5. Milk: half litre\n6. Sugar: 4 tablespoons\nHow to prepare:\nFirst, wash the fruits and peel them. Then cut the fruits into small pieces and keep\nthem in a bowl. Now, boil the milk in a pot. Next, mix sugar with it and stir well.\nTake the custard powder in a small cup, put 4 tablespoons of cold milk and\nmix well. Now, pour the mixture into the boiling milk and stir well. Boil for five\nminutes, stirring it all the time. After that, take the pot off the stove. Let the\ncustard get cool. Finally, pour it into the fruit bowl. Now, the delicious custard is\nready to eat.\nD. Describe how to make a cupof tea using the following sentence\nconnectors:\nfinaly\n\\o\nN\noOo\nN",
+  "cleanText": "18 English For Today C. Look at the picture. What do you see in the bowl? Now, read the ingredients and following recipe. Ingredients: 1. Ripe banana: 1 2. Apple: 1 3. Ripe papaya: | (small) 4. Custard powder: 2 tablespoons 5. Milk: half litre 6. Sugar: 4 tablespoons How to prepare: First, wash the fruits and peel them. Then cut the fruits into small pieces and keep them in a bowl. Now, boil the milk in a pot. Next, mix sugar with it and stir well. Take the custard powder in a small cup, put 4 tablespoons of cold milk and mix well. Now, pour the mixture into the boiling milk and stir well. Boil for five minutes, stirring it all the time. After that, take the pot off the stove. Let the custard get cool. Finally, pour it into the fruit bowl. Now, the delicious custard is ready to eat. D. Describe how to make a cupof tea using the following sentence connectors: finaly \\o N oOo N",
+  "aiReadyText": "18 English For Today C. Look at the picture. What do you see in the bowl? Now, read the ingredients and following recipe. Ingredients: 1. Ripe banana: 1 2. Apple: 1 3. Ripe papaya: | (small) 4. Custard powder: 2 tablespoons 5. Milk: half litre 6. Sugar: 4 tablespoons How to prepare: First, wash the fruits and peel them. Then cut the fruits into small pieces and keep them in a bowl. Now, boil the milk in a pot. Next, mix sugar with it and stir well. Take the custard powder in a small cup, put 4 tablespoons of cold milk and mix well. Now, pour the mixture into the boiling milk and stir well. Boil for five minutes, stirring it all the time. After that, take the pot off the stove. Let the custard get cool. Finally, pour it into the fruit bowl. Now, the delicious custard is ready to eat. D. Describe how to make a cupof tea using the following sentence connectors: finaly oOo",
+  "lines": [
+    {
+      "id": "class8-english-p023-l001",
+      "lineNumber": 1,
+      "text": "18 English For Today",
+      "cleanText": "18 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        57.31,
+        42.91,
+        469.73,
+        55.01
+      ]
+    },
+    {
+      "id": "class8-english-p023-l002",
+      "lineNumber": 2,
+      "text": "C. Look at the picture. What do you see in the bowl?",
+      "cleanText": "C. Look at the picture. What do you see in the bowl?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        54.72,
+        74.88,
+        351.07,
+        86.4
+      ]
+    },
+    {
+      "id": "class8-english-p023-l003",
+      "lineNumber": 3,
+      "text": "Now, read the ingredients and following recipe.",
+      "cleanText": "Now, read the ingredients and following recipe.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        59.62,
+        207.07,
+        319.68,
+        218.59
+      ]
+    },
+    {
+      "id": "class8-english-p023-l004",
+      "lineNumber": 4,
+      "text": "Ingredients:",
+      "cleanText": "Ingredients:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.62,
+        227.52,
+        125.86,
+        239.04
+      ]
+    },
+    {
+      "id": "class8-english-p023-l005",
+      "lineNumber": 5,
+      "text": "1. Ripe banana: 1",
+      "cleanText": "1. Ripe banana: 1",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.75,
+      "bbox": [
+        81.79,
+        250.56,
+        178.27,
+        262.37
+      ]
+    },
+    {
+      "id": "class8-english-p023-l006",
+      "lineNumber": 6,
+      "text": "2. Apple: 1",
+      "cleanText": "2. Apple: 1",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.0,
+      "bbox": [
+        80.06,
+        271.87,
+        145.15,
+        283.68
+      ]
+    },
+    {
+      "id": "class8-english-p023-l007",
+      "lineNumber": 7,
+      "text": "3. Ripe papaya: | (small)",
+      "cleanText": "3. Ripe papaya: | (small)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.8,
+      "bbox": [
+        80.93,
+        292.32,
+        219.46,
+        304.42
+      ]
+    },
+    {
+      "id": "class8-english-p023-l008",
+      "lineNumber": 8,
+      "text": "4. Custard powder: 2 tablespoons",
+      "cleanText": "4. Custard powder: 2 tablespoons",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.4,
+      "bbox": [
+        80.06,
+        311.9,
+        262.08,
+        324.0
+      ]
+    },
+    {
+      "id": "class8-english-p023-l009",
+      "lineNumber": 9,
+      "text": "5. Milk: half litre",
+      "cleanText": "5. Milk: half litre",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.75,
+      "bbox": [
+        80.93,
+        333.5,
+        181.15,
+        342.72
+      ]
+    },
+    {
+      "id": "class8-english-p023-l010",
+      "lineNumber": 10,
+      "text": "6. Sugar: 4 tablespoons",
+      "cleanText": "6. Sugar: 4 tablespoons",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.0,
+      "bbox": [
+        80.64,
+        353.95,
+        213.12,
+        365.76
+      ]
+    },
+    {
+      "id": "class8-english-p023-l011",
+      "lineNumber": 11,
+      "text": "How to prepare:",
+      "cleanText": "How to prepare:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        60.48,
+        398.59,
+        149.76,
+        409.82
+      ]
+    },
+    {
+      "id": "class8-english-p023-l012",
+      "lineNumber": 12,
+      "text": "First, wash the fruits and peel them. Then cut the fruits into small pieces and keep",
+      "cleanText": "First, wash the fruits and peel them. Then cut the fruits into small pieces and keep",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.06,
+      "bbox": [
+        60.48,
+        419.04,
+        473.18,
+        430.85
+      ]
+    },
+    {
+      "id": "class8-english-p023-l013",
+      "lineNumber": 13,
+      "text": "them in a bowl. Now, boil the milk in a pot. Next, mix sugar with it and stir well.",
+      "cleanText": "them in a bowl. Now, boil the milk in a pot. Next, mix sugar with it and stir well.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.47,
+      "bbox": [
+        57.89,
+        437.76,
+        475.49,
+        449.86
+      ]
+    },
+    {
+      "id": "class8-english-p023-l014",
+      "lineNumber": 14,
+      "text": "Take the custard powder in a small cup, put 4 tablespoons of cold milk and",
+      "cleanText": "Take the custard powder in a small cup, put 4 tablespoons of cold milk and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        58.46,
+        457.06,
+        473.76,
+        468.86
+      ]
+    },
+    {
+      "id": "class8-english-p023-l015",
+      "lineNumber": 15,
+      "text": "mix well. Now, pour the mixture into the boiling milk and stir well. Boil for five",
+      "cleanText": "mix well. Now, pour the mixture into the boiling milk and stir well. Boil for five",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.33,
+        475.78,
+        473.18,
+        487.87
+      ]
+    },
+    {
+      "id": "class8-english-p023-l016",
+      "lineNumber": 16,
+      "text": "minutes, stirring it all the time. After that, take the pot off the stove. Let the",
+      "cleanText": "minutes, stirring it all the time. After that, take the pot off the stove. Let the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        59.33,
+        494.5,
+        473.47,
+        506.88
+      ]
+    },
+    {
+      "id": "class8-english-p023-l017",
+      "lineNumber": 17,
+      "text": "custard get cool. Finally, pour it into the fruit bowl. Now, the delicious custard is",
+      "cleanText": "custard get cool. Finally, pour it into the fruit bowl. Now, the delicious custard is",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        58.18,
+        512.93,
+        473.47,
+        525.31
+      ]
+    },
+    {
+      "id": "class8-english-p023-l018",
+      "lineNumber": 18,
+      "text": "ready to eat.",
+      "cleanText": "ready to eat.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.19,
+        529.92,
+        120.67,
+        542.02
+      ]
+    },
+    {
+      "id": "class8-english-p023-l019",
+      "lineNumber": 19,
+      "text": "D. Describe how to make a cupof tea using the following sentence",
+      "cleanText": "D. Describe how to make a cupof tea using the following sentence",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.25,
+      "bbox": [
+        61.34,
+        553.25,
+        473.47,
+        564.77
+      ]
+    },
+    {
+      "id": "class8-english-p023-l020",
+      "lineNumber": 20,
+      "text": "connectors:",
+      "cleanText": "connectors:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        83.23,
+        569.38,
+        145.44,
+        577.73
+      ]
+    },
+    {
+      "id": "class8-english-p023-l021",
+      "lineNumber": 21,
+      "text": "finaly",
+      "cleanText": "finaly",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 59.0,
+      "bbox": [
+        419.9,
+        596.74,
+        454.75,
+        608.54
+      ]
+    },
+    {
+      "id": "class8-english-p023-l022",
+      "lineNumber": 22,
+      "text": "\\o",
+      "cleanText": "\\o",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 72.0,
+      "bbox": [
+        487.58,
+        631.58,
+        495.94,
+        636.77
+      ]
+    },
+    {
+      "id": "class8-english-p023-l023",
+      "lineNumber": 23,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 71.0,
+      "bbox": [
+        487.58,
+        637.63,
+        495.94,
+        642.82
+      ]
+    },
+    {
+      "id": "class8-english-p023-l024",
+      "lineNumber": 24,
+      "text": "oOo",
+      "cleanText": "oOo",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 28.0,
+      "bbox": [
+        487.58,
+        643.68,
+        495.94,
+        648.86
+      ]
+    },
+    {
+      "id": "class8-english-p023-l025",
+      "lineNumber": 25,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 88.0,
+      "bbox": [
+        487.58,
+        649.73,
+        495.94,
+        654.91
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p023-l001",
+      "lineNumber": 1,
+      "text": "18 English For Today",
+      "cleanText": "18 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        57.31,
+        42.91,
+        469.73,
+        55.01
+      ]
+    },
+    {
+      "id": "class8-english-p023-l002",
+      "lineNumber": 2,
+      "text": "C. Look at the picture. What do you see in the bowl?",
+      "cleanText": "C. Look at the picture. What do you see in the bowl?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        54.72,
+        74.88,
+        351.07,
+        86.4
+      ]
+    },
+    {
+      "id": "class8-english-p023-l003",
+      "lineNumber": 3,
+      "text": "Now, read the ingredients and following recipe.",
+      "cleanText": "Now, read the ingredients and following recipe.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        59.62,
+        207.07,
+        319.68,
+        218.59
+      ]
+    },
+    {
+      "id": "class8-english-p023-l004",
+      "lineNumber": 4,
+      "text": "Ingredients:",
+      "cleanText": "Ingredients:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.62,
+        227.52,
+        125.86,
+        239.04
+      ]
+    },
+    {
+      "id": "class8-english-p023-l005",
+      "lineNumber": 5,
+      "text": "1. Ripe banana: 1",
+      "cleanText": "1. Ripe banana: 1",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.75,
+      "bbox": [
+        81.79,
+        250.56,
+        178.27,
+        262.37
+      ]
+    },
+    {
+      "id": "class8-english-p023-l006",
+      "lineNumber": 6,
+      "text": "2. Apple: 1",
+      "cleanText": "2. Apple: 1",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.0,
+      "bbox": [
+        80.06,
+        271.87,
+        145.15,
+        283.68
+      ]
+    },
+    {
+      "id": "class8-english-p023-l007",
+      "lineNumber": 7,
+      "text": "3. Ripe papaya: | (small)",
+      "cleanText": "3. Ripe papaya: | (small)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.8,
+      "bbox": [
+        80.93,
+        292.32,
+        219.46,
+        304.42
+      ]
+    },
+    {
+      "id": "class8-english-p023-l008",
+      "lineNumber": 8,
+      "text": "4. Custard powder: 2 tablespoons",
+      "cleanText": "4. Custard powder: 2 tablespoons",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.4,
+      "bbox": [
+        80.06,
+        311.9,
+        262.08,
+        324.0
+      ]
+    },
+    {
+      "id": "class8-english-p023-l009",
+      "lineNumber": 9,
+      "text": "5. Milk: half litre",
+      "cleanText": "5. Milk: half litre",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.75,
+      "bbox": [
+        80.93,
+        333.5,
+        181.15,
+        342.72
+      ]
+    },
+    {
+      "id": "class8-english-p023-l010",
+      "lineNumber": 10,
+      "text": "6. Sugar: 4 tablespoons",
+      "cleanText": "6. Sugar: 4 tablespoons",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.0,
+      "bbox": [
+        80.64,
+        353.95,
+        213.12,
+        365.76
+      ]
+    },
+    {
+      "id": "class8-english-p023-l011",
+      "lineNumber": 11,
+      "text": "How to prepare:",
+      "cleanText": "How to prepare:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        60.48,
+        398.59,
+        149.76,
+        409.82
+      ]
+    },
+    {
+      "id": "class8-english-p023-l012",
+      "lineNumber": 12,
+      "text": "First, wash the fruits and peel them. Then cut the fruits into small pieces and keep",
+      "cleanText": "First, wash the fruits and peel them. Then cut the fruits into small pieces and keep",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.06,
+      "bbox": [
+        60.48,
+        419.04,
+        473.18,
+        430.85
+      ]
+    },
+    {
+      "id": "class8-english-p023-l013",
+      "lineNumber": 13,
+      "text": "them in a bowl. Now, boil the milk in a pot. Next, mix sugar with it and stir well.",
+      "cleanText": "them in a bowl. Now, boil the milk in a pot. Next, mix sugar with it and stir well.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.47,
+      "bbox": [
+        57.89,
+        437.76,
+        475.49,
+        449.86
+      ]
+    },
+    {
+      "id": "class8-english-p023-l014",
+      "lineNumber": 14,
+      "text": "Take the custard powder in a small cup, put 4 tablespoons of cold milk and",
+      "cleanText": "Take the custard powder in a small cup, put 4 tablespoons of cold milk and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        58.46,
+        457.06,
+        473.76,
+        468.86
+      ]
+    },
+    {
+      "id": "class8-english-p023-l015",
+      "lineNumber": 15,
+      "text": "mix well. Now, pour the mixture into the boiling milk and stir well. Boil for five",
+      "cleanText": "mix well. Now, pour the mixture into the boiling milk and stir well. Boil for five",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.33,
+        475.78,
+        473.18,
+        487.87
+      ]
+    },
+    {
+      "id": "class8-english-p023-l016",
+      "lineNumber": 16,
+      "text": "minutes, stirring it all the time. After that, take the pot off the stove. Let the",
+      "cleanText": "minutes, stirring it all the time. After that, take the pot off the stove. Let the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        59.33,
+        494.5,
+        473.47,
+        506.88
+      ]
+    },
+    {
+      "id": "class8-english-p023-l017",
+      "lineNumber": 17,
+      "text": "custard get cool. Finally, pour it into the fruit bowl. Now, the delicious custard is",
+      "cleanText": "custard get cool. Finally, pour it into the fruit bowl. Now, the delicious custard is",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        58.18,
+        512.93,
+        473.47,
+        525.31
+      ]
+    },
+    {
+      "id": "class8-english-p023-l018",
+      "lineNumber": 18,
+      "text": "ready to eat.",
+      "cleanText": "ready to eat.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.19,
+        529.92,
+        120.67,
+        542.02
+      ]
+    },
+    {
+      "id": "class8-english-p023-l019",
+      "lineNumber": 19,
+      "text": "D. Describe how to make a cupof tea using the following sentence",
+      "cleanText": "D. Describe how to make a cupof tea using the following sentence",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.25,
+      "bbox": [
+        61.34,
+        553.25,
+        473.47,
+        564.77
+      ]
+    },
+    {
+      "id": "class8-english-p023-l020",
+      "lineNumber": 20,
+      "text": "connectors:",
+      "cleanText": "connectors:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        83.23,
+        569.38,
+        145.44,
+        577.73
+      ]
+    },
+    {
+      "id": "class8-english-p023-l021",
+      "lineNumber": 21,
+      "text": "finaly",
+      "cleanText": "finaly",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 59.0,
+      "bbox": [
+        419.9,
+        596.74,
+        454.75,
+        608.54
+      ]
+    },
+    {
+      "id": "class8-english-p023-l024",
+      "lineNumber": 24,
+      "text": "oOo",
+      "cleanText": "oOo",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 28.0,
+      "bbox": [
+        487.58,
+        643.68,
+        495.94,
+        648.86
+      ]
+    }
+  ],
+  "lineCount": 25,
+  "aiReadyLineCount": 22,
+  "averageConfidence": 87.64,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:07.833255+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

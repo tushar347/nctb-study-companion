@@ -1,0 +1,657 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 95,
+  "pdfPage": 95,
+  "textbookPage": 95,
+  "width": 529.47,
+  "height": 688.41,
+  "image": "../images/page-095.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "90 English For Today\nLesson 5: Refugees\nA. Look at the picture and discuss in groups the possible answers\nto the questions:\nit\nie\nLi\n4 ic\nIllustration: Dan Williams\n1. What comes first in your mind when you look at the image?\n2. What is the relationship between the child and the man?\nB. Now, read the text titled “Sea Prayer” by Khaled Hosseini and\nanswer the questions that follow:\nMy dear Marwan, in the long summers of childhood, when I was a boy the age\nyou are now, your uncles and I spread our mattress on the roof of your\ngrandfather's farmhouse outside of Homs.\nWe woke in the mornings to the stirring of olive trees in the breeze, to the\nbleating of your grandmother's goat, the clanking of her cooking pots, the air\ncool and the sun a pale rim of persimmon to the east.\n‘oO\nS\nN",
+  "cleanText": "90 English For Today Lesson 5: Refugees A. Look at the picture and discuss in groups the possible answers to the questions: it ie Li 4 ic Illustration: Dan Williams 1. What comes first in your mind when you look at the image? 2. What is the relationship between the child and the man? B. Now, read the text titled “Sea Prayer” by Khaled Hosseini and answer the questions that follow: My dear Marwan, in the long summers of childhood, when I was a boy the age you are now, your uncles and I spread our mattress on the roof of your grandfather's farmhouse outside of Homs. We woke in the mornings to the stirring of olive trees in the breeze, to the bleating of your grandmother's goat, the clanking of her cooking pots, the air cool and the sun a pale rim of persimmon to the east. ‘oO S N",
+  "aiReadyText": "90 English For Today Lesson 5: Refugees A. Look at the picture and discuss in groups the possible answers to the questions: it ie Li 4 ic Illustration: Dan Williams 1. What comes first in your mind when you look at the image? 2. What is the relationship between the child and the man? B. Now, read the text titled “Sea Prayer” by Khaled Hosseini and answer the questions that follow: My dear Marwan, in the long summers of childhood, when I was a boy the age you are now, your uncles and I spread our mattress on the roof of your grandfather's farmhouse outside of Homs. We woke in the mornings to the stirring of olive trees in the breeze, to the bleating of your grandmother's goat, the clanking of her cooking pots, the air cool and the sun a pale rim of persimmon to the east. ‘oO",
+  "lines": [
+    {
+      "id": "class8-english-p095-l001",
+      "lineNumber": 1,
+      "text": "90 English For Today",
+      "cleanText": "90 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.19,
+        36.86,
+        474.05,
+        46.94
+      ]
+    },
+    {
+      "id": "class8-english-p095-l002",
+      "lineNumber": 2,
+      "text": "Lesson 5: Refugees",
+      "cleanText": "Lesson 5: Refugees",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        58.18,
+        71.71,
+        224.35,
+        89.57
+      ]
+    },
+    {
+      "id": "class8-english-p095-l003",
+      "lineNumber": 3,
+      "text": "A. Look at the picture and discuss in groups the possible answers",
+      "cleanText": "A. Look at the picture and discuss in groups the possible answers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.04,
+        110.59,
+        472.32,
+        123.26
+      ]
+    },
+    {
+      "id": "class8-english-p095-l004",
+      "lineNumber": 4,
+      "text": "to the questions:",
+      "cleanText": "to the questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        79.2,
+        127.58,
+        175.68,
+        139.97
+      ]
+    },
+    {
+      "id": "class8-english-p095-l005",
+      "lineNumber": 5,
+      "text": "it",
+      "cleanText": "it",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 50.0,
+      "bbox": [
+        182.88,
+        186.34,
+        199.01,
+        201.31
+      ]
+    },
+    {
+      "id": "class8-english-p095-l006",
+      "lineNumber": 6,
+      "text": "ie",
+      "cleanText": "ie",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 37.0,
+      "bbox": [
+        192.96,
+        202.46,
+        199.87,
+        210.24
+      ]
+    },
+    {
+      "id": "class8-english-p095-l007",
+      "lineNumber": 7,
+      "text": "Li",
+      "cleanText": "Li",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 46.0,
+      "bbox": [
+        195.84,
+        212.26,
+        203.9,
+        219.46
+      ]
+    },
+    {
+      "id": "class8-english-p095-l008",
+      "lineNumber": 8,
+      "text": "4 ic",
+      "cleanText": "4 ic",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 61.5,
+      "bbox": [
+        167.9,
+        287.71,
+        189.79,
+        297.5
+      ]
+    },
+    {
+      "id": "class8-english-p095-l009",
+      "lineNumber": 9,
+      "text": "Illustration: Dan Williams",
+      "cleanText": "Illustration: Dan Williams",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        128.16,
+        405.22,
+        222.05,
+        411.55
+      ]
+    },
+    {
+      "id": "class8-english-p095-l010",
+      "lineNumber": 10,
+      "text": "1. What comes first in your mind when you look at the image?",
+      "cleanText": "1. What comes first in your mind when you look at the image?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.69,
+      "bbox": [
+        77.76,
+        432.29,
+        407.81,
+        444.38
+      ]
+    },
+    {
+      "id": "class8-english-p095-l011",
+      "lineNumber": 11,
+      "text": "2. What is the relationship between the child and the man?",
+      "cleanText": "2. What is the relationship between the child and the man?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        76.61,
+        448.42,
+        387.07,
+        460.22
+      ]
+    },
+    {
+      "id": "class8-english-p095-l012",
+      "lineNumber": 12,
+      "text": "B. Now, read the text titled “Sea Prayer” by Khaled Hosseini and",
+      "cleanText": "B. Now, read the text titled “Sea Prayer” by Khaled Hosseini and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        59.33,
+        476.93,
+        472.32,
+        489.89
+      ]
+    },
+    {
+      "id": "class8-english-p095-l013",
+      "lineNumber": 13,
+      "text": "answer the questions that follow:",
+      "cleanText": "answer the questions that follow:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        79.49,
+        493.92,
+        274.18,
+        506.3
+      ]
+    },
+    {
+      "id": "class8-english-p095-l014",
+      "lineNumber": 14,
+      "text": "My dear Marwan, in the long summers of childhood, when I was a boy the age",
+      "cleanText": "My dear Marwan, in the long summers of childhood, when I was a boy the age",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        58.46,
+        518.69,
+        472.03,
+        530.78
+      ]
+    },
+    {
+      "id": "class8-english-p095-l015",
+      "lineNumber": 15,
+      "text": "you are now, your uncles and I spread our mattress on the roof of your",
+      "cleanText": "you are now, your uncles and I spread our mattress on the roof of your",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.33,
+      "bbox": [
+        58.46,
+        534.82,
+        472.32,
+        546.62
+      ]
+    },
+    {
+      "id": "class8-english-p095-l016",
+      "lineNumber": 16,
+      "text": "grandfather's farmhouse outside of Homs.",
+      "cleanText": "grandfather's farmhouse outside of Homs.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.2,
+      "bbox": [
+        58.75,
+        550.66,
+        275.33,
+        562.75
+      ]
+    },
+    {
+      "id": "class8-english-p095-l017",
+      "lineNumber": 17,
+      "text": "We woke in the mornings to the stirring of olive trees in the breeze, to the",
+      "cleanText": "We woke in the mornings to the stirring of olive trees in the breeze, to the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.46,
+        574.85,
+        472.03,
+        586.66
+      ]
+    },
+    {
+      "id": "class8-english-p095-l018",
+      "lineNumber": 18,
+      "text": "bleating of your grandmother's goat, the clanking of her cooking pots, the air",
+      "cleanText": "bleating of your grandmother's goat, the clanking of her cooking pots, the air",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.46,
+        590.69,
+        472.32,
+        602.78
+      ]
+    },
+    {
+      "id": "class8-english-p095-l019",
+      "lineNumber": 19,
+      "text": "cool and the sun a pale rim of persimmon to the east.",
+      "cleanText": "cool and the sun a pale rim of persimmon to the east.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.75,
+        606.82,
+        332.64,
+        618.62
+      ]
+    },
+    {
+      "id": "class8-english-p095-l020",
+      "lineNumber": 20,
+      "text": "‘oO",
+      "cleanText": "‘oO",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 27.0,
+      "bbox": [
+        493.92,
+        624.67,
+        502.27,
+        630.14
+      ]
+    },
+    {
+      "id": "class8-english-p095-l021",
+      "lineNumber": 21,
+      "text": "S",
+      "cleanText": "S",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 70.0,
+      "bbox": [
+        493.92,
+        631.3,
+        502.27,
+        642.24
+      ]
+    },
+    {
+      "id": "class8-english-p095-l022",
+      "lineNumber": 22,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 78.0,
+      "bbox": [
+        493.92,
+        643.1,
+        501.98,
+        648.58
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p095-l001",
+      "lineNumber": 1,
+      "text": "90 English For Today",
+      "cleanText": "90 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.19,
+        36.86,
+        474.05,
+        46.94
+      ]
+    },
+    {
+      "id": "class8-english-p095-l002",
+      "lineNumber": 2,
+      "text": "Lesson 5: Refugees",
+      "cleanText": "Lesson 5: Refugees",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        58.18,
+        71.71,
+        224.35,
+        89.57
+      ]
+    },
+    {
+      "id": "class8-english-p095-l003",
+      "lineNumber": 3,
+      "text": "A. Look at the picture and discuss in groups the possible answers",
+      "cleanText": "A. Look at the picture and discuss in groups the possible answers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.04,
+        110.59,
+        472.32,
+        123.26
+      ]
+    },
+    {
+      "id": "class8-english-p095-l004",
+      "lineNumber": 4,
+      "text": "to the questions:",
+      "cleanText": "to the questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        79.2,
+        127.58,
+        175.68,
+        139.97
+      ]
+    },
+    {
+      "id": "class8-english-p095-l005",
+      "lineNumber": 5,
+      "text": "it",
+      "cleanText": "it",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 50.0,
+      "bbox": [
+        182.88,
+        186.34,
+        199.01,
+        201.31
+      ]
+    },
+    {
+      "id": "class8-english-p095-l006",
+      "lineNumber": 6,
+      "text": "ie",
+      "cleanText": "ie",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 37.0,
+      "bbox": [
+        192.96,
+        202.46,
+        199.87,
+        210.24
+      ]
+    },
+    {
+      "id": "class8-english-p095-l007",
+      "lineNumber": 7,
+      "text": "Li",
+      "cleanText": "Li",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 46.0,
+      "bbox": [
+        195.84,
+        212.26,
+        203.9,
+        219.46
+      ]
+    },
+    {
+      "id": "class8-english-p095-l008",
+      "lineNumber": 8,
+      "text": "4 ic",
+      "cleanText": "4 ic",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 61.5,
+      "bbox": [
+        167.9,
+        287.71,
+        189.79,
+        297.5
+      ]
+    },
+    {
+      "id": "class8-english-p095-l009",
+      "lineNumber": 9,
+      "text": "Illustration: Dan Williams",
+      "cleanText": "Illustration: Dan Williams",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        128.16,
+        405.22,
+        222.05,
+        411.55
+      ]
+    },
+    {
+      "id": "class8-english-p095-l010",
+      "lineNumber": 10,
+      "text": "1. What comes first in your mind when you look at the image?",
+      "cleanText": "1. What comes first in your mind when you look at the image?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.69,
+      "bbox": [
+        77.76,
+        432.29,
+        407.81,
+        444.38
+      ]
+    },
+    {
+      "id": "class8-english-p095-l011",
+      "lineNumber": 11,
+      "text": "2. What is the relationship between the child and the man?",
+      "cleanText": "2. What is the relationship between the child and the man?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        76.61,
+        448.42,
+        387.07,
+        460.22
+      ]
+    },
+    {
+      "id": "class8-english-p095-l012",
+      "lineNumber": 12,
+      "text": "B. Now, read the text titled “Sea Prayer” by Khaled Hosseini and",
+      "cleanText": "B. Now, read the text titled “Sea Prayer” by Khaled Hosseini and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        59.33,
+        476.93,
+        472.32,
+        489.89
+      ]
+    },
+    {
+      "id": "class8-english-p095-l013",
+      "lineNumber": 13,
+      "text": "answer the questions that follow:",
+      "cleanText": "answer the questions that follow:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        79.49,
+        493.92,
+        274.18,
+        506.3
+      ]
+    },
+    {
+      "id": "class8-english-p095-l014",
+      "lineNumber": 14,
+      "text": "My dear Marwan, in the long summers of childhood, when I was a boy the age",
+      "cleanText": "My dear Marwan, in the long summers of childhood, when I was a boy the age",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        58.46,
+        518.69,
+        472.03,
+        530.78
+      ]
+    },
+    {
+      "id": "class8-english-p095-l015",
+      "lineNumber": 15,
+      "text": "you are now, your uncles and I spread our mattress on the roof of your",
+      "cleanText": "you are now, your uncles and I spread our mattress on the roof of your",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.33,
+      "bbox": [
+        58.46,
+        534.82,
+        472.32,
+        546.62
+      ]
+    },
+    {
+      "id": "class8-english-p095-l016",
+      "lineNumber": 16,
+      "text": "grandfather's farmhouse outside of Homs.",
+      "cleanText": "grandfather's farmhouse outside of Homs.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.2,
+      "bbox": [
+        58.75,
+        550.66,
+        275.33,
+        562.75
+      ]
+    },
+    {
+      "id": "class8-english-p095-l017",
+      "lineNumber": 17,
+      "text": "We woke in the mornings to the stirring of olive trees in the breeze, to the",
+      "cleanText": "We woke in the mornings to the stirring of olive trees in the breeze, to the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.46,
+        574.85,
+        472.03,
+        586.66
+      ]
+    },
+    {
+      "id": "class8-english-p095-l018",
+      "lineNumber": 18,
+      "text": "bleating of your grandmother's goat, the clanking of her cooking pots, the air",
+      "cleanText": "bleating of your grandmother's goat, the clanking of her cooking pots, the air",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.46,
+        590.69,
+        472.32,
+        602.78
+      ]
+    },
+    {
+      "id": "class8-english-p095-l019",
+      "lineNumber": 19,
+      "text": "cool and the sun a pale rim of persimmon to the east.",
+      "cleanText": "cool and the sun a pale rim of persimmon to the east.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.75,
+        606.82,
+        332.64,
+        618.62
+      ]
+    },
+    {
+      "id": "class8-english-p095-l020",
+      "lineNumber": 20,
+      "text": "‘oO",
+      "cleanText": "‘oO",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 27.0,
+      "bbox": [
+        493.92,
+        624.67,
+        502.27,
+        630.14
+      ]
+    }
+  ],
+  "lineCount": 22,
+  "aiReadyLineCount": 20,
+  "averageConfidence": 81.82,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:14.931050+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

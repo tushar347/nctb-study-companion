@@ -1,0 +1,507 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 137,
+  "pdfPage": 137,
+  "textbookPage": 137,
+  "width": 542.0,
+  "height": 714.0,
+  "image": "../images/page-137.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Unit Ten\nFables\nf TM i fo\n‘iy r\nee? (a\nBy we r Fs\n) te h Ls wal\n: s F -;\n7 -_ i a\nAfter we have studied this unit, we will be able to\n@ describe pictures\n@ read and understand texts through silent reading\ne infer meaning from context\n@ ask and answer questions\ne take part in discussions S\ne identify main points of a text Ss",
+  "cleanText": "Unit Ten Fables f TM i fo ‘iy r ee? (a By we r Fs ) te h Ls wal: s F -; 7 -_ i a After we have studied this unit, we will be able to @ describe pictures @ read and understand texts through silent reading e infer meaning from context @ ask and answer questions e take part in discussions S e identify main points of a text Ss",
+  "aiReadyText": "Unit Ten Fables f TM i fo ‘iy r ee? (a By we r Fs ) te h Ls wal: s F -; 7 -_ i a After we have studied this unit, we will be able to @ describe pictures @ read and understand texts through silent reading e infer meaning from context @ ask and answer questions e take part in discussions S e identify main points of a text Ss",
+  "lines": [
+    {
+      "id": "class8-english-p137-l001",
+      "lineNumber": 1,
+      "text": "Unit Ten",
+      "cleanText": "Unit Ten",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        222.05,
+        56.74,
+        294.91,
+        70.85
+      ]
+    },
+    {
+      "id": "class8-english-p137-l002",
+      "lineNumber": 2,
+      "text": "Fables",
+      "cleanText": "Fables",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        230.69,
+        84.38,
+        285.12,
+        97.92
+      ]
+    },
+    {
+      "id": "class8-english-p137-l003",
+      "lineNumber": 3,
+      "text": "f TM i fo",
+      "cleanText": "f TM i fo",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 20.0,
+      "bbox": [
+        175.39,
+        313.63,
+        449.28,
+        340.13
+      ]
+    },
+    {
+      "id": "class8-english-p137-l004",
+      "lineNumber": 4,
+      "text": "‘iy r",
+      "cleanText": "‘iy r",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 2.0,
+      "bbox": [
+        203.33,
+        326.88,
+        441.5,
+        336.96
+      ]
+    },
+    {
+      "id": "class8-english-p137-l005",
+      "lineNumber": 5,
+      "text": "ee? (a",
+      "cleanText": "ee? (a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 38.0,
+      "bbox": [
+        250.56,
+        353.95,
+        452.45,
+        371.23
+      ]
+    },
+    {
+      "id": "class8-english-p137-l006",
+      "lineNumber": 6,
+      "text": "By we r Fs",
+      "cleanText": "By we r Fs",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 17.25,
+      "bbox": [
+        376.42,
+        386.21,
+        453.6,
+        391.97
+      ]
+    },
+    {
+      "id": "class8-english-p137-l007",
+      "lineNumber": 7,
+      "text": ") te h Ls wal",
+      "cleanText": ") te h Ls wal",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 25.2,
+      "bbox": [
+        259.49,
+        393.98,
+        440.64,
+        404.35
+      ]
+    },
+    {
+      "id": "class8-english-p137-l008",
+      "lineNumber": 8,
+      "text": ": s F -;",
+      "cleanText": ": s F -;",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 18.4,
+      "bbox": [
+        247.39,
+        415.01,
+        421.63,
+        425.09
+      ]
+    },
+    {
+      "id": "class8-english-p137-l009",
+      "lineNumber": 9,
+      "text": "7 -_ i a",
+      "cleanText": "7 -_ i a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 12.25,
+      "bbox": [
+        348.48,
+        427.1,
+        408.67,
+        434.02
+      ]
+    },
+    {
+      "id": "class8-english-p137-l010",
+      "lineNumber": 10,
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        63.65,
+        531.07,
+        321.98,
+        542.59
+      ]
+    },
+    {
+      "id": "class8-english-p137-l011",
+      "lineNumber": 11,
+      "text": "@ describe pictures",
+      "cleanText": "@ describe pictures",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 76.0,
+      "bbox": [
+        85.25,
+        553.82,
+        192.1,
+        565.92
+      ]
+    },
+    {
+      "id": "class8-english-p137-l012",
+      "lineNumber": 12,
+      "text": "@ read and understand texts through silent reading",
+      "cleanText": "@ read and understand texts through silent reading",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.62,
+      "bbox": [
+        85.25,
+        573.7,
+        355.68,
+        585.79
+      ]
+    },
+    {
+      "id": "class8-english-p137-l013",
+      "lineNumber": 13,
+      "text": "e infer meaning from context",
+      "cleanText": "e infer meaning from context",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.8,
+      "bbox": [
+        85.25,
+        594.72,
+        248.83,
+        606.82
+      ]
+    },
+    {
+      "id": "class8-english-p137-l014",
+      "lineNumber": 14,
+      "text": "@ ask and answer questions",
+      "cleanText": "@ ask and answer questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.2,
+      "bbox": [
+        85.25,
+        612.58,
+        236.16,
+        624.67
+      ]
+    },
+    {
+      "id": "class8-english-p137-l015",
+      "lineNumber": 15,
+      "text": "e take part in discussions S",
+      "cleanText": "e take part in discussions S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 79.33,
+      "bbox": [
+        85.25,
+        629.57,
+        506.02,
+        642.24
+      ]
+    },
+    {
+      "id": "class8-english-p137-l016",
+      "lineNumber": 16,
+      "text": "e identify main points of a text Ss",
+      "cleanText": "e identify main points of a text Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 82.25,
+      "bbox": [
+        85.25,
+        641.95,
+        506.02,
+        661.82
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p137-l001",
+      "lineNumber": 1,
+      "text": "Unit Ten",
+      "cleanText": "Unit Ten",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        222.05,
+        56.74,
+        294.91,
+        70.85
+      ]
+    },
+    {
+      "id": "class8-english-p137-l002",
+      "lineNumber": 2,
+      "text": "Fables",
+      "cleanText": "Fables",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        230.69,
+        84.38,
+        285.12,
+        97.92
+      ]
+    },
+    {
+      "id": "class8-english-p137-l003",
+      "lineNumber": 3,
+      "text": "f TM i fo",
+      "cleanText": "f TM i fo",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 20.0,
+      "bbox": [
+        175.39,
+        313.63,
+        449.28,
+        340.13
+      ]
+    },
+    {
+      "id": "class8-english-p137-l004",
+      "lineNumber": 4,
+      "text": "‘iy r",
+      "cleanText": "‘iy r",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 2.0,
+      "bbox": [
+        203.33,
+        326.88,
+        441.5,
+        336.96
+      ]
+    },
+    {
+      "id": "class8-english-p137-l005",
+      "lineNumber": 5,
+      "text": "ee? (a",
+      "cleanText": "ee? (a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 38.0,
+      "bbox": [
+        250.56,
+        353.95,
+        452.45,
+        371.23
+      ]
+    },
+    {
+      "id": "class8-english-p137-l006",
+      "lineNumber": 6,
+      "text": "By we r Fs",
+      "cleanText": "By we r Fs",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 17.25,
+      "bbox": [
+        376.42,
+        386.21,
+        453.6,
+        391.97
+      ]
+    },
+    {
+      "id": "class8-english-p137-l007",
+      "lineNumber": 7,
+      "text": ") te h Ls wal",
+      "cleanText": ") te h Ls wal",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 25.2,
+      "bbox": [
+        259.49,
+        393.98,
+        440.64,
+        404.35
+      ]
+    },
+    {
+      "id": "class8-english-p137-l008",
+      "lineNumber": 8,
+      "text": ": s F -;",
+      "cleanText": ": s F -;",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 18.4,
+      "bbox": [
+        247.39,
+        415.01,
+        421.63,
+        425.09
+      ]
+    },
+    {
+      "id": "class8-english-p137-l009",
+      "lineNumber": 9,
+      "text": "7 -_ i a",
+      "cleanText": "7 -_ i a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 12.25,
+      "bbox": [
+        348.48,
+        427.1,
+        408.67,
+        434.02
+      ]
+    },
+    {
+      "id": "class8-english-p137-l010",
+      "lineNumber": 10,
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        63.65,
+        531.07,
+        321.98,
+        542.59
+      ]
+    },
+    {
+      "id": "class8-english-p137-l011",
+      "lineNumber": 11,
+      "text": "@ describe pictures",
+      "cleanText": "@ describe pictures",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 76.0,
+      "bbox": [
+        85.25,
+        553.82,
+        192.1,
+        565.92
+      ]
+    },
+    {
+      "id": "class8-english-p137-l012",
+      "lineNumber": 12,
+      "text": "@ read and understand texts through silent reading",
+      "cleanText": "@ read and understand texts through silent reading",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.62,
+      "bbox": [
+        85.25,
+        573.7,
+        355.68,
+        585.79
+      ]
+    },
+    {
+      "id": "class8-english-p137-l013",
+      "lineNumber": 13,
+      "text": "e infer meaning from context",
+      "cleanText": "e infer meaning from context",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.8,
+      "bbox": [
+        85.25,
+        594.72,
+        248.83,
+        606.82
+      ]
+    },
+    {
+      "id": "class8-english-p137-l014",
+      "lineNumber": 14,
+      "text": "@ ask and answer questions",
+      "cleanText": "@ ask and answer questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.2,
+      "bbox": [
+        85.25,
+        612.58,
+        236.16,
+        624.67
+      ]
+    },
+    {
+      "id": "class8-english-p137-l015",
+      "lineNumber": 15,
+      "text": "e take part in discussions S",
+      "cleanText": "e take part in discussions S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 79.33,
+      "bbox": [
+        85.25,
+        629.57,
+        506.02,
+        642.24
+      ]
+    },
+    {
+      "id": "class8-english-p137-l016",
+      "lineNumber": 16,
+      "text": "e identify main points of a text Ss",
+      "cleanText": "e identify main points of a text Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 82.25,
+      "bbox": [
+        85.25,
+        641.95,
+        506.02,
+        661.82
+      ]
+    }
+  ],
+  "lineCount": 16,
+  "aiReadyLineCount": 16,
+  "averageConfidence": 58.04,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:19:14.721201+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

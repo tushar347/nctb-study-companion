@@ -1,0 +1,897 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 131,
+  "pdfPage": 131,
+  "textbookPage": 131,
+  "width": 532.47,
+  "height": 692.96,
+  "image": "../images/page-131.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "126 English For Today\nB. Read the news report adapted from The Guardian:\nThe Falcon Hypersonic Technology Vehicle-2 (Falcon HTV-2) is the fastest\nplane ever built by human beings. It would fly from London to Sydney in less\nthan an hour. Supersonic Concorde, by the way, could not fly at such a great\nspeed. At the same time, it would withstand temperatures of almost 2,000\ndegree C. This temperature is hotter than the melting point of steel.\nThe US Defense Advenced Research Project Agency (DARPA) will launch the\nFalcon HTV-2. First, they will set it on the back ofa rocket. Then they will launch\nboth into the space from an Air Force Base. The plan goes like this: engineers\nwill launch the Falcon HTV-2. into the space on the back of a rocket; then they\nwill detach the plane from the rocket; the plane Falcon will fly towards the Earth;\nengineers will guide and monitor its flight. The plane would fly at hypersonic\nspeed of 13,000 mp/h. This speed is about 20 times the speed of sound.\nThe Falcon was born in 2003. It was born as part of a US military project. The\nproject researched and built a special type of plane. The researchers wanted\nthat the plane could reach any part of the world in less than an hour. They also\nwanted to use it for both military and civil purposes. The plane had already been tested\nin computer models.\nThe Falcon Hypersonic Technology Vehicle-2 would be mankind’s dream\naircraft in the days to come.\nQuestions:\n1. What is HTV-2?\n2. What is the speed of HT V-2?\n3. Describe the steps of HTV-2 test flight.\n4. Why was the HTV-2 developed?\n5. Do you think that HTV-2 will be ‘mankind’s dream aircraft’? Why or\nWhy not? 8\nS\nQ",
+  "cleanText": "126 English For Today B. Read the news report adapted from The Guardian: The Falcon Hypersonic Technology Vehicle-2 (Falcon HTV-2) is the fastest plane ever built by human beings. It would fly from London to Sydney in less than an hour. Supersonic Concorde, by the way, could not fly at such a great speed. At the same time, it would withstand temperatures of almost 2,000 degree C. This temperature is hotter than the melting point of steel. The US Defense Advenced Research Project Agency (DARPA) will launch the Falcon HTV-2. First, they will set it on the back ofa rocket. Then they will launch both into the space from an Air Force Base. The plan goes like this: engineers will launch the Falcon HTV-2. into the space on the back of a rocket; then they will detach the plane from the rocket; the plane Falcon will fly towards the Earth; engineers will guide and monitor its flight. The plane would fly at hypersonic speed of 13,000 mp/h. This speed is about 20 times the speed of sound. The Falcon was born in 2003. It was born as part of a US military project. The project researched and built a special type of plane. The researchers wanted that the plane could reach any part of the world in less than an hour. They also wanted to use it for both military and civil purposes. The plane had already been tested in computer models. The Falcon Hypersonic Technology Vehicle-2 would be mankind’s dream aircraft in the days to come. Questions: 1. What is HTV-2? 2. What is the speed of HT V-2? 3. Describe the steps of HTV-2 test flight. 4. Why was the HTV-2 developed? 5. Do you think that HTV-2 will be ‘mankind’s dream aircraft’? Why or Why not? 8 S Q",
+  "aiReadyText": "126 English For Today B. Read the news report adapted from The Guardian: The Falcon Hypersonic Technology Vehicle-2 (Falcon HTV-2) is the fastest plane ever built by human beings. It would fly from London to Sydney in less than an hour. Supersonic Concorde, by the way, could not fly at such a great speed. At the same time, it would withstand temperatures of almost 2,000 degree C. This temperature is hotter than the melting point of steel. The US Defense Advenced Research Project Agency (DARPA) will launch the Falcon HTV-2. First, they will set it on the back ofa rocket. Then they will launch both into the space from an Air Force Base. The plan goes like this: engineers will launch the Falcon HTV-2. into the space on the back of a rocket; then they will detach the plane from the rocket; the plane Falcon will fly towards the Earth; engineers will guide and monitor its flight. The plane would fly at hypersonic speed of 13,000 mp/h. This speed is about 20 times the speed of sound. The Falcon was born in 2003. It was born as part of a US military project. The project researched and built a special type of plane. The researchers wanted that the plane could reach any part of the world in less than an hour. They also wanted to use it for both military and civil purposes. The plane had already been tested in computer models. The Falcon Hypersonic Technology Vehicle-2 would be mankind’s dream aircraft in the days to come. Questions: 1. What is HTV-2? 2. What is the speed of HT V-2? 3. Describe the steps of HTV-2 test flight. 4. Why was the HTV-2 developed? 5. Do you think that HTV-2 will be ‘mankind’s dream aircraft’? Why or Why not? 8",
+  "lines": [
+    {
+      "id": "class8-english-p131-l001",
+      "lineNumber": 1,
+      "text": "126 English For Today",
+      "cleanText": "126 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        64.51,
+        41.18,
+        475.78,
+        52.13
+      ]
+    },
+    {
+      "id": "class8-english-p131-l002",
+      "lineNumber": 2,
+      "text": "B. Read the news report adapted from The Guardian:",
+      "cleanText": "B. Read the news report adapted from The Guardian:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        63.94,
+        70.85,
+        362.88,
+        82.66
+      ]
+    },
+    {
+      "id": "class8-english-p131-l003",
+      "lineNumber": 3,
+      "text": "The Falcon Hypersonic Technology Vehicle-2 (Falcon HTV-2) is the fastest",
+      "cleanText": "The Falcon Hypersonic Technology Vehicle-2 (Falcon HTV-2) is the fastest",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.6,
+      "bbox": [
+        63.94,
+        97.63,
+        479.81,
+        109.44
+      ]
+    },
+    {
+      "id": "class8-english-p131-l004",
+      "lineNumber": 4,
+      "text": "plane ever built by human beings. It would fly from London to Sydney in less",
+      "cleanText": "plane ever built by human beings. It would fly from London to Sydney in less",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        64.51,
+        115.49,
+        478.37,
+        127.58
+      ]
+    },
+    {
+      "id": "class8-english-p131-l005",
+      "lineNumber": 5,
+      "text": "than an hour. Supersonic Concorde, by the way, could not fly at such a great",
+      "cleanText": "than an hour. Supersonic Concorde, by the way, could not fly at such a great",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        64.22,
+        133.06,
+        478.66,
+        145.44
+      ]
+    },
+    {
+      "id": "class8-english-p131-l006",
+      "lineNumber": 6,
+      "text": "speed. At the same time, it would withstand temperatures of almost 2,000",
+      "cleanText": "speed. At the same time, it would withstand temperatures of almost 2,000",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        64.8,
+        151.78,
+        478.94,
+        163.58
+      ]
+    },
+    {
+      "id": "class8-english-p131-l007",
+      "lineNumber": 7,
+      "text": "degree C. This temperature is hotter than the melting point of steel.",
+      "cleanText": "degree C. This temperature is hotter than the melting point of steel.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.08,
+      "bbox": [
+        64.22,
+        169.06,
+        420.48,
+        181.44
+      ]
+    },
+    {
+      "id": "class8-english-p131-l008",
+      "lineNumber": 8,
+      "text": "The US Defense Advenced Research Project Agency (DARPA) will launch the",
+      "cleanText": "The US Defense Advenced Research Project Agency (DARPA) will launch the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.73,
+      "bbox": [
+        64.8,
+        199.3,
+        477.79,
+        211.1
+      ]
+    },
+    {
+      "id": "class8-english-p131-l009",
+      "lineNumber": 9,
+      "text": "Falcon HTV-2. First, they will set it on the back ofa rocket. Then they will launch",
+      "cleanText": "Falcon HTV-2. First, they will set it on the back ofa rocket. Then they will launch",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.0,
+      "bbox": [
+        64.51,
+        216.29,
+        478.08,
+        228.38
+      ]
+    },
+    {
+      "id": "class8-english-p131-l010",
+      "lineNumber": 10,
+      "text": "both into the space from an Air Force Base. The plan goes like this: engineers",
+      "cleanText": "both into the space from an Air Force Base. The plan goes like this: engineers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        64.51,
+        233.28,
+        477.79,
+        245.38
+      ]
+    },
+    {
+      "id": "class8-english-p131-l011",
+      "lineNumber": 11,
+      "text": "will launch the Falcon HTV-2. into the space on the back of a rocket; then they",
+      "cleanText": "will launch the Falcon HTV-2. into the space on the back of a rocket; then they",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        64.51,
+        250.27,
+        478.08,
+        262.37
+      ]
+    },
+    {
+      "id": "class8-english-p131-l012",
+      "lineNumber": 12,
+      "text": "will detach the plane from the rocket; the plane Falcon will fly towards the Earth;",
+      "cleanText": "will detach the plane from the rocket; the plane Falcon will fly towards the Earth;",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        64.51,
+        267.26,
+        477.5,
+        279.36
+      ]
+    },
+    {
+      "id": "class8-english-p131-l013",
+      "lineNumber": 13,
+      "text": "engineers will guide and monitor its flight. The plane would fly at hypersonic",
+      "cleanText": "engineers will guide and monitor its flight. The plane would fly at hypersonic",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        64.8,
+        284.26,
+        477.79,
+        296.35
+      ]
+    },
+    {
+      "id": "class8-english-p131-l014",
+      "lineNumber": 14,
+      "text": "speed of 13,000 mp/h. This speed is about 20 times the speed of sound.",
+      "cleanText": "speed of 13,000 mp/h. This speed is about 20 times the speed of sound.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.36,
+      "bbox": [
+        64.8,
+        301.25,
+        430.27,
+        313.34
+      ]
+    },
+    {
+      "id": "class8-english-p131-l015",
+      "lineNumber": 15,
+      "text": "The Falcon was born in 2003. It was born as part of a US military project. The",
+      "cleanText": "The Falcon was born in 2003. It was born as part of a US military project. The",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.29,
+      "bbox": [
+        63.94,
+        337.54,
+        478.66,
+        349.34
+      ]
+    },
+    {
+      "id": "class8-english-p131-l016",
+      "lineNumber": 16,
+      "text": "project researched and built a special type of plane. The researchers wanted",
+      "cleanText": "project researched and built a special type of plane. The researchers wanted",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.65,
+        355.39,
+        478.94,
+        367.49
+      ]
+    },
+    {
+      "id": "class8-english-p131-l017",
+      "lineNumber": 17,
+      "text": "that the plane could reach any part of the world in less than an hour. They also",
+      "cleanText": "that the plane could reach any part of the world in less than an hour. They also",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        63.65,
+        373.54,
+        479.23,
+        385.92
+      ]
+    },
+    {
+      "id": "class8-english-p131-l018",
+      "lineNumber": 18,
+      "text": "wanted to use it for both military and civil purposes. The plane had already been tested",
+      "cleanText": "wanted to use it for both military and civil purposes. The plane had already been tested",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        63.65,
+        391.39,
+        477.5,
+        403.2
+      ]
+    },
+    {
+      "id": "class8-english-p131-l019",
+      "lineNumber": 19,
+      "text": "in computer models.",
+      "cleanText": "in computer models.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        65.38,
+        406.08,
+        170.5,
+        417.89
+      ]
+    },
+    {
+      "id": "class8-english-p131-l020",
+      "lineNumber": 20,
+      "text": "The Falcon Hypersonic Technology Vehicle-2 would be mankind’s dream",
+      "cleanText": "The Falcon Hypersonic Technology Vehicle-2 would be mankind’s dream",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.89,
+      "bbox": [
+        63.94,
+        433.44,
+        478.66,
+        445.25
+      ]
+    },
+    {
+      "id": "class8-english-p131-l021",
+      "lineNumber": 21,
+      "text": "aircraft in the days to come.",
+      "cleanText": "aircraft in the days to come.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        64.22,
+        451.01,
+        210.53,
+        463.39
+      ]
+    },
+    {
+      "id": "class8-english-p131-l022",
+      "lineNumber": 22,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.92,
+        474.62,
+        119.23,
+        485.86
+      ]
+    },
+    {
+      "id": "class8-english-p131-l023",
+      "lineNumber": 23,
+      "text": "1. What is HTV-2?",
+      "cleanText": "1. What is HTV-2?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.75,
+      "bbox": [
+        83.81,
+        502.56,
+        188.93,
+        511.78
+      ]
+    },
+    {
+      "id": "class8-english-p131-l024",
+      "lineNumber": 24,
+      "text": "2. What is the speed of HT V-2?",
+      "cleanText": "2. What is the speed of HT V-2?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 79.88,
+      "bbox": [
+        82.66,
+        530.5,
+        255.17,
+        542.3
+      ]
+    },
+    {
+      "id": "class8-english-p131-l025",
+      "lineNumber": 25,
+      "text": "3. Describe the steps of HTV-2 test flight.",
+      "cleanText": "3. Describe the steps of HTV-2 test flight.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        82.94,
+        558.43,
+        307.3,
+        570.24
+      ]
+    },
+    {
+      "id": "class8-english-p131-l026",
+      "lineNumber": 26,
+      "text": "4. Why was the HTV-2 developed?",
+      "cleanText": "4. Why was the HTV-2 developed?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.17,
+      "bbox": [
+        82.37,
+        586.37,
+        273.6,
+        598.46
+      ]
+    },
+    {
+      "id": "class8-english-p131-l027",
+      "lineNumber": 27,
+      "text": "5. Do you think that HTV-2 will be ‘mankind’s dream aircraft’? Why or",
+      "cleanText": "5. Do you think that HTV-2 will be ‘mankind’s dream aircraft’? Why or",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.23,
+      "bbox": [
+        82.94,
+        614.59,
+        464.54,
+        626.4
+      ]
+    },
+    {
+      "id": "class8-english-p131-l028",
+      "lineNumber": 28,
+      "text": "Why not? 8",
+      "cleanText": "Why not? 8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 72.33,
+      "bbox": [
+        103.68,
+        628.7,
+        503.71,
+        641.95
+      ]
+    },
+    {
+      "id": "class8-english-p131-l029",
+      "lineNumber": 29,
+      "text": "S",
+      "cleanText": "S",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 78.0,
+      "bbox": [
+        495.36,
+        640.8,
+        503.71,
+        646.27
+      ]
+    },
+    {
+      "id": "class8-english-p131-l030",
+      "lineNumber": 30,
+      "text": "Q",
+      "cleanText": "Q",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 44.0,
+      "bbox": [
+        495.36,
+        647.14,
+        503.42,
+        652.61
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p131-l001",
+      "lineNumber": 1,
+      "text": "126 English For Today",
+      "cleanText": "126 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        64.51,
+        41.18,
+        475.78,
+        52.13
+      ]
+    },
+    {
+      "id": "class8-english-p131-l002",
+      "lineNumber": 2,
+      "text": "B. Read the news report adapted from The Guardian:",
+      "cleanText": "B. Read the news report adapted from The Guardian:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        63.94,
+        70.85,
+        362.88,
+        82.66
+      ]
+    },
+    {
+      "id": "class8-english-p131-l003",
+      "lineNumber": 3,
+      "text": "The Falcon Hypersonic Technology Vehicle-2 (Falcon HTV-2) is the fastest",
+      "cleanText": "The Falcon Hypersonic Technology Vehicle-2 (Falcon HTV-2) is the fastest",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.6,
+      "bbox": [
+        63.94,
+        97.63,
+        479.81,
+        109.44
+      ]
+    },
+    {
+      "id": "class8-english-p131-l004",
+      "lineNumber": 4,
+      "text": "plane ever built by human beings. It would fly from London to Sydney in less",
+      "cleanText": "plane ever built by human beings. It would fly from London to Sydney in less",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        64.51,
+        115.49,
+        478.37,
+        127.58
+      ]
+    },
+    {
+      "id": "class8-english-p131-l005",
+      "lineNumber": 5,
+      "text": "than an hour. Supersonic Concorde, by the way, could not fly at such a great",
+      "cleanText": "than an hour. Supersonic Concorde, by the way, could not fly at such a great",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        64.22,
+        133.06,
+        478.66,
+        145.44
+      ]
+    },
+    {
+      "id": "class8-english-p131-l006",
+      "lineNumber": 6,
+      "text": "speed. At the same time, it would withstand temperatures of almost 2,000",
+      "cleanText": "speed. At the same time, it would withstand temperatures of almost 2,000",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        64.8,
+        151.78,
+        478.94,
+        163.58
+      ]
+    },
+    {
+      "id": "class8-english-p131-l007",
+      "lineNumber": 7,
+      "text": "degree C. This temperature is hotter than the melting point of steel.",
+      "cleanText": "degree C. This temperature is hotter than the melting point of steel.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.08,
+      "bbox": [
+        64.22,
+        169.06,
+        420.48,
+        181.44
+      ]
+    },
+    {
+      "id": "class8-english-p131-l008",
+      "lineNumber": 8,
+      "text": "The US Defense Advenced Research Project Agency (DARPA) will launch the",
+      "cleanText": "The US Defense Advenced Research Project Agency (DARPA) will launch the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.73,
+      "bbox": [
+        64.8,
+        199.3,
+        477.79,
+        211.1
+      ]
+    },
+    {
+      "id": "class8-english-p131-l009",
+      "lineNumber": 9,
+      "text": "Falcon HTV-2. First, they will set it on the back ofa rocket. Then they will launch",
+      "cleanText": "Falcon HTV-2. First, they will set it on the back ofa rocket. Then they will launch",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.0,
+      "bbox": [
+        64.51,
+        216.29,
+        478.08,
+        228.38
+      ]
+    },
+    {
+      "id": "class8-english-p131-l010",
+      "lineNumber": 10,
+      "text": "both into the space from an Air Force Base. The plan goes like this: engineers",
+      "cleanText": "both into the space from an Air Force Base. The plan goes like this: engineers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        64.51,
+        233.28,
+        477.79,
+        245.38
+      ]
+    },
+    {
+      "id": "class8-english-p131-l011",
+      "lineNumber": 11,
+      "text": "will launch the Falcon HTV-2. into the space on the back of a rocket; then they",
+      "cleanText": "will launch the Falcon HTV-2. into the space on the back of a rocket; then they",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        64.51,
+        250.27,
+        478.08,
+        262.37
+      ]
+    },
+    {
+      "id": "class8-english-p131-l012",
+      "lineNumber": 12,
+      "text": "will detach the plane from the rocket; the plane Falcon will fly towards the Earth;",
+      "cleanText": "will detach the plane from the rocket; the plane Falcon will fly towards the Earth;",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        64.51,
+        267.26,
+        477.5,
+        279.36
+      ]
+    },
+    {
+      "id": "class8-english-p131-l013",
+      "lineNumber": 13,
+      "text": "engineers will guide and monitor its flight. The plane would fly at hypersonic",
+      "cleanText": "engineers will guide and monitor its flight. The plane would fly at hypersonic",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        64.8,
+        284.26,
+        477.79,
+        296.35
+      ]
+    },
+    {
+      "id": "class8-english-p131-l014",
+      "lineNumber": 14,
+      "text": "speed of 13,000 mp/h. This speed is about 20 times the speed of sound.",
+      "cleanText": "speed of 13,000 mp/h. This speed is about 20 times the speed of sound.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.36,
+      "bbox": [
+        64.8,
+        301.25,
+        430.27,
+        313.34
+      ]
+    },
+    {
+      "id": "class8-english-p131-l015",
+      "lineNumber": 15,
+      "text": "The Falcon was born in 2003. It was born as part of a US military project. The",
+      "cleanText": "The Falcon was born in 2003. It was born as part of a US military project. The",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.29,
+      "bbox": [
+        63.94,
+        337.54,
+        478.66,
+        349.34
+      ]
+    },
+    {
+      "id": "class8-english-p131-l016",
+      "lineNumber": 16,
+      "text": "project researched and built a special type of plane. The researchers wanted",
+      "cleanText": "project researched and built a special type of plane. The researchers wanted",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.65,
+        355.39,
+        478.94,
+        367.49
+      ]
+    },
+    {
+      "id": "class8-english-p131-l017",
+      "lineNumber": 17,
+      "text": "that the plane could reach any part of the world in less than an hour. They also",
+      "cleanText": "that the plane could reach any part of the world in less than an hour. They also",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        63.65,
+        373.54,
+        479.23,
+        385.92
+      ]
+    },
+    {
+      "id": "class8-english-p131-l018",
+      "lineNumber": 18,
+      "text": "wanted to use it for both military and civil purposes. The plane had already been tested",
+      "cleanText": "wanted to use it for both military and civil purposes. The plane had already been tested",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        63.65,
+        391.39,
+        477.5,
+        403.2
+      ]
+    },
+    {
+      "id": "class8-english-p131-l019",
+      "lineNumber": 19,
+      "text": "in computer models.",
+      "cleanText": "in computer models.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        65.38,
+        406.08,
+        170.5,
+        417.89
+      ]
+    },
+    {
+      "id": "class8-english-p131-l020",
+      "lineNumber": 20,
+      "text": "The Falcon Hypersonic Technology Vehicle-2 would be mankind’s dream",
+      "cleanText": "The Falcon Hypersonic Technology Vehicle-2 would be mankind’s dream",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.89,
+      "bbox": [
+        63.94,
+        433.44,
+        478.66,
+        445.25
+      ]
+    },
+    {
+      "id": "class8-english-p131-l021",
+      "lineNumber": 21,
+      "text": "aircraft in the days to come.",
+      "cleanText": "aircraft in the days to come.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        64.22,
+        451.01,
+        210.53,
+        463.39
+      ]
+    },
+    {
+      "id": "class8-english-p131-l022",
+      "lineNumber": 22,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.92,
+        474.62,
+        119.23,
+        485.86
+      ]
+    },
+    {
+      "id": "class8-english-p131-l023",
+      "lineNumber": 23,
+      "text": "1. What is HTV-2?",
+      "cleanText": "1. What is HTV-2?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.75,
+      "bbox": [
+        83.81,
+        502.56,
+        188.93,
+        511.78
+      ]
+    },
+    {
+      "id": "class8-english-p131-l024",
+      "lineNumber": 24,
+      "text": "2. What is the speed of HT V-2?",
+      "cleanText": "2. What is the speed of HT V-2?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 79.88,
+      "bbox": [
+        82.66,
+        530.5,
+        255.17,
+        542.3
+      ]
+    },
+    {
+      "id": "class8-english-p131-l025",
+      "lineNumber": 25,
+      "text": "3. Describe the steps of HTV-2 test flight.",
+      "cleanText": "3. Describe the steps of HTV-2 test flight.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        82.94,
+        558.43,
+        307.3,
+        570.24
+      ]
+    },
+    {
+      "id": "class8-english-p131-l026",
+      "lineNumber": 26,
+      "text": "4. Why was the HTV-2 developed?",
+      "cleanText": "4. Why was the HTV-2 developed?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.17,
+      "bbox": [
+        82.37,
+        586.37,
+        273.6,
+        598.46
+      ]
+    },
+    {
+      "id": "class8-english-p131-l027",
+      "lineNumber": 27,
+      "text": "5. Do you think that HTV-2 will be ‘mankind’s dream aircraft’? Why or",
+      "cleanText": "5. Do you think that HTV-2 will be ‘mankind’s dream aircraft’? Why or",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.23,
+      "bbox": [
+        82.94,
+        614.59,
+        464.54,
+        626.4
+      ]
+    },
+    {
+      "id": "class8-english-p131-l028",
+      "lineNumber": 28,
+      "text": "Why not? 8",
+      "cleanText": "Why not? 8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 72.33,
+      "bbox": [
+        103.68,
+        628.7,
+        503.71,
+        641.95
+      ]
+    }
+  ],
+  "lineCount": 30,
+  "aiReadyLineCount": 28,
+  "averageConfidence": 91.45,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:19:06.651023+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

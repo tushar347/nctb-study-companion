@@ -1,0 +1,732 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 36,
+  "pdfPage": 36,
+  "textbookPage": 36,
+  "width": 536.0,
+  "height": 691.16,
+  "image": "../images/page-036.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Health and Hygiene 31\nB. Listen to the text and answer the following questions:\nU3, L7B\nListening text: 2\n1. How far is Shakib’s house from his school?\n2. Why is Shakib’s house free from mosquitoes?\nC. Listen again and write 'True' or 'False' against each of the following\nstatements:\n1. Shakib’s family lives in a remote town.\n2. He has no brothers or sisters.\n3. His parents do not know how to read or write.\n4. His mother is an excellent cook.\n5. Shakib does not participate in cleaning activities at home.\nD. Look at the table, then listen again to the text. The table has some\nwords from the text that you have just listened. First, guess the meanings\nof the words. Then, match them with their meanings. One is done for you:\nremote. knowing about something\nabout a disease that spreads from one\nliterate person to another\ndelicious isolated\naware something that causes harm to your health\nharmful having a very pleasant taste\nS.\nS contagious able to read or write.",
+  "cleanText": "Health and Hygiene 31 B. Listen to the text and answer the following questions: U3, L7B Listening text: 2 1. How far is Shakib’s house from his school? 2. Why is Shakib’s house free from mosquitoes? C. Listen again and write 'True' or 'False' against each of the following statements: 1. Shakib’s family lives in a remote town. 2. He has no brothers or sisters. 3. His parents do not know how to read or write. 4. His mother is an excellent cook. 5. Shakib does not participate in cleaning activities at home. D. Look at the table, then listen again to the text. The table has some words from the text that you have just listened. First, guess the meanings of the words. Then, match them with their meanings. One is done for you: remote. knowing about something about a disease that spreads from one literate person to another delicious isolated aware something that causes harm to your health harmful having a very pleasant taste S. S contagious able to read or write.",
+  "aiReadyText": "Health and Hygiene 31 B. Listen to the text and answer the following questions: U3, L7B Listening text: 2 1. How far is Shakib’s house from his school? 2. Why is Shakib’s house free from mosquitoes? C. Listen again and write 'True' or 'False' against each of the following statements: 1. Shakib’s family lives in a remote town. 2. He has no brothers or sisters. 3. His parents do not know how to read or write. 4. His mother is an excellent cook. 5. Shakib does not participate in cleaning activities at home. D. Look at the table, then listen again to the text. The table has some words from the text that you have just listened. First, guess the meanings of the words. Then, match them with their meanings. One is done for you: remote. knowing about something about a disease that spreads from one literate person to another delicious isolated aware something that causes harm to your health harmful having a very pleasant taste S contagious able to read or write.",
+  "lines": [
+    {
+      "id": "class8-english-p036-l001",
+      "lineNumber": 1,
+      "text": "Health and Hygiene 31",
+      "cleanText": "Health and Hygiene 31",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.78,
+        39.17,
+        477.79,
+        51.55
+      ]
+    },
+    {
+      "id": "class8-english-p036-l002",
+      "lineNumber": 2,
+      "text": "B. Listen to the text and answer the following questions:",
+      "cleanText": "B. Listen to the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        64.22,
+        70.56,
+        401.47,
+        84.1
+      ]
+    },
+    {
+      "id": "class8-english-p036-l003",
+      "lineNumber": 3,
+      "text": "U3, L7B",
+      "cleanText": "U3, L7B",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.5,
+      "bbox": [
+        239.62,
+        97.06,
+        292.03,
+        108.29
+      ]
+    },
+    {
+      "id": "class8-english-p036-l004",
+      "lineNumber": 4,
+      "text": "Listening text: 2",
+      "cleanText": "Listening text: 2",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        217.44,
+        114.34,
+        313.92,
+        127.3
+      ]
+    },
+    {
+      "id": "class8-english-p036-l005",
+      "lineNumber": 5,
+      "text": "1. How far is Shakib’s house from his school?",
+      "cleanText": "1. How far is Shakib’s house from his school?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.22,
+      "bbox": [
+        86.11,
+        137.66,
+        332.93,
+        147.17
+      ]
+    },
+    {
+      "id": "class8-english-p036-l006",
+      "lineNumber": 6,
+      "text": "2. Why is Shakib’s house free from mosquitoes?",
+      "cleanText": "2. Why is Shakib’s house free from mosquitoes?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.38,
+      "bbox": [
+        85.25,
+        155.52,
+        345.6,
+        167.62
+      ]
+    },
+    {
+      "id": "class8-english-p036-l007",
+      "lineNumber": 7,
+      "text": "C. Listen again and write 'True' or 'False' against each of the following",
+      "cleanText": "C. Listen again and write 'True' or 'False' against each of the following",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.62,
+      "bbox": [
+        64.51,
+        180.58,
+        477.22,
+        194.11
+      ]
+    },
+    {
+      "id": "class8-english-p036-l008",
+      "lineNumber": 8,
+      "text": "statements:",
+      "cleanText": "statements:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        84.96,
+        200.16,
+        151.2,
+        208.8
+      ]
+    },
+    {
+      "id": "class8-english-p036-l009",
+      "lineNumber": 9,
+      "text": "1. Shakib’s family lives in a remote town.",
+      "cleanText": "1. Shakib’s family lives in a remote town.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.12,
+      "bbox": [
+        86.11,
+        220.61,
+        310.18,
+        232.7
+      ]
+    },
+    {
+      "id": "class8-english-p036-l010",
+      "lineNumber": 10,
+      "text": "2. He has no brothers or sisters.",
+      "cleanText": "2. He has no brothers or sisters.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 68.43,
+      "bbox": [
+        85.25,
+        241.63,
+        256.32,
+        250.85
+      ]
+    },
+    {
+      "id": "class8-english-p036-l011",
+      "lineNumber": 11,
+      "text": "3. His parents do not know how to read or write.",
+      "cleanText": "3. His parents do not know how to read or write.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.45,
+      "bbox": [
+        85.25,
+        262.66,
+        344.45,
+        274.46
+      ]
+    },
+    {
+      "id": "class8-english-p036-l012",
+      "lineNumber": 12,
+      "text": "4. His mother is an excellent cook.",
+      "cleanText": "4. His mother is an excellent cook.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        85.25,
+        283.68,
+        272.74,
+        292.9
+      ]
+    },
+    {
+      "id": "class8-english-p036-l013",
+      "lineNumber": 13,
+      "text": "5. Shakib does not participate in cleaning activities at home.",
+      "cleanText": "5. Shakib does not participate in cleaning activities at home.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        85.25,
+        304.7,
+        405.5,
+        316.8
+      ]
+    },
+    {
+      "id": "class8-english-p036-l014",
+      "lineNumber": 14,
+      "text": "D. Look at the table, then listen again to the text. The table has some",
+      "cleanText": "D. Look at the table, then listen again to the text. The table has some",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        62.5,
+        331.2,
+        475.78,
+        343.87
+      ]
+    },
+    {
+      "id": "class8-english-p036-l015",
+      "lineNumber": 15,
+      "text": "words from the text that you have just listened. First, guess the meanings",
+      "cleanText": "words from the text that you have just listened. First, guess the meanings",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        62.21,
+        348.19,
+        477.79,
+        360.86
+      ]
+    },
+    {
+      "id": "class8-english-p036-l016",
+      "lineNumber": 16,
+      "text": "of the words. Then, match them with their meanings. One is done for you:",
+      "cleanText": "of the words. Then, match them with their meanings. One is done for you:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        62.78,
+        365.18,
+        474.91,
+        377.86
+      ]
+    },
+    {
+      "id": "class8-english-p036-l017",
+      "lineNumber": 17,
+      "text": "remote. knowing about something",
+      "cleanText": "remote. knowing about something",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.5,
+      "bbox": [
+        68.83,
+        417.31,
+        379.01,
+        431.71
+      ]
+    },
+    {
+      "id": "class8-english-p036-l018",
+      "lineNumber": 18,
+      "text": "about a disease that spreads from one",
+      "cleanText": "about a disease that spreads from one",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.86,
+      "bbox": [
+        244.22,
+        449.86,
+        476.06,
+        461.66
+      ]
+    },
+    {
+      "id": "class8-english-p036-l019",
+      "lineNumber": 19,
+      "text": "literate person to another",
+      "cleanText": "literate person to another",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        69.41,
+        465.41,
+        336.67,
+        476.35
+      ]
+    },
+    {
+      "id": "class8-english-p036-l020",
+      "lineNumber": 20,
+      "text": "delicious isolated",
+      "cleanText": "delicious isolated",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        69.41,
+        513.5,
+        284.26,
+        523.3
+      ]
+    },
+    {
+      "id": "class8-english-p036-l021",
+      "lineNumber": 21,
+      "text": "aware something that causes harm to your health",
+      "cleanText": "aware something that causes harm to your health",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        69.41,
+        548.93,
+        460.22,
+        563.33
+      ]
+    },
+    {
+      "id": "class8-english-p036-l022",
+      "lineNumber": 22,
+      "text": "harmful having a very pleasant taste",
+      "cleanText": "harmful having a very pleasant taste",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        68.83,
+        591.84,
+        390.82,
+        606.82
+      ]
+    },
+    {
+      "id": "class8-english-p036-l023",
+      "lineNumber": 23,
+      "text": "S.",
+      "cleanText": "S.",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 32.0,
+      "bbox": [
+        38.02,
+        626.69,
+        108.86,
+        635.33
+      ]
+    },
+    {
+      "id": "class8-english-p036-l024",
+      "lineNumber": 24,
+      "text": "S contagious able to read or write.",
+      "cleanText": "S contagious able to read or write.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.57,
+      "bbox": [
+        38.02,
+        633.31,
+        351.07,
+        650.59
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p036-l001",
+      "lineNumber": 1,
+      "text": "Health and Hygiene 31",
+      "cleanText": "Health and Hygiene 31",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.78,
+        39.17,
+        477.79,
+        51.55
+      ]
+    },
+    {
+      "id": "class8-english-p036-l002",
+      "lineNumber": 2,
+      "text": "B. Listen to the text and answer the following questions:",
+      "cleanText": "B. Listen to the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        64.22,
+        70.56,
+        401.47,
+        84.1
+      ]
+    },
+    {
+      "id": "class8-english-p036-l003",
+      "lineNumber": 3,
+      "text": "U3, L7B",
+      "cleanText": "U3, L7B",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.5,
+      "bbox": [
+        239.62,
+        97.06,
+        292.03,
+        108.29
+      ]
+    },
+    {
+      "id": "class8-english-p036-l004",
+      "lineNumber": 4,
+      "text": "Listening text: 2",
+      "cleanText": "Listening text: 2",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        217.44,
+        114.34,
+        313.92,
+        127.3
+      ]
+    },
+    {
+      "id": "class8-english-p036-l005",
+      "lineNumber": 5,
+      "text": "1. How far is Shakib’s house from his school?",
+      "cleanText": "1. How far is Shakib’s house from his school?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.22,
+      "bbox": [
+        86.11,
+        137.66,
+        332.93,
+        147.17
+      ]
+    },
+    {
+      "id": "class8-english-p036-l006",
+      "lineNumber": 6,
+      "text": "2. Why is Shakib’s house free from mosquitoes?",
+      "cleanText": "2. Why is Shakib’s house free from mosquitoes?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.38,
+      "bbox": [
+        85.25,
+        155.52,
+        345.6,
+        167.62
+      ]
+    },
+    {
+      "id": "class8-english-p036-l007",
+      "lineNumber": 7,
+      "text": "C. Listen again and write 'True' or 'False' against each of the following",
+      "cleanText": "C. Listen again and write 'True' or 'False' against each of the following",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.62,
+      "bbox": [
+        64.51,
+        180.58,
+        477.22,
+        194.11
+      ]
+    },
+    {
+      "id": "class8-english-p036-l008",
+      "lineNumber": 8,
+      "text": "statements:",
+      "cleanText": "statements:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        84.96,
+        200.16,
+        151.2,
+        208.8
+      ]
+    },
+    {
+      "id": "class8-english-p036-l009",
+      "lineNumber": 9,
+      "text": "1. Shakib’s family lives in a remote town.",
+      "cleanText": "1. Shakib’s family lives in a remote town.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.12,
+      "bbox": [
+        86.11,
+        220.61,
+        310.18,
+        232.7
+      ]
+    },
+    {
+      "id": "class8-english-p036-l010",
+      "lineNumber": 10,
+      "text": "2. He has no brothers or sisters.",
+      "cleanText": "2. He has no brothers or sisters.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 68.43,
+      "bbox": [
+        85.25,
+        241.63,
+        256.32,
+        250.85
+      ]
+    },
+    {
+      "id": "class8-english-p036-l011",
+      "lineNumber": 11,
+      "text": "3. His parents do not know how to read or write.",
+      "cleanText": "3. His parents do not know how to read or write.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.45,
+      "bbox": [
+        85.25,
+        262.66,
+        344.45,
+        274.46
+      ]
+    },
+    {
+      "id": "class8-english-p036-l012",
+      "lineNumber": 12,
+      "text": "4. His mother is an excellent cook.",
+      "cleanText": "4. His mother is an excellent cook.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        85.25,
+        283.68,
+        272.74,
+        292.9
+      ]
+    },
+    {
+      "id": "class8-english-p036-l013",
+      "lineNumber": 13,
+      "text": "5. Shakib does not participate in cleaning activities at home.",
+      "cleanText": "5. Shakib does not participate in cleaning activities at home.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        85.25,
+        304.7,
+        405.5,
+        316.8
+      ]
+    },
+    {
+      "id": "class8-english-p036-l014",
+      "lineNumber": 14,
+      "text": "D. Look at the table, then listen again to the text. The table has some",
+      "cleanText": "D. Look at the table, then listen again to the text. The table has some",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        62.5,
+        331.2,
+        475.78,
+        343.87
+      ]
+    },
+    {
+      "id": "class8-english-p036-l015",
+      "lineNumber": 15,
+      "text": "words from the text that you have just listened. First, guess the meanings",
+      "cleanText": "words from the text that you have just listened. First, guess the meanings",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        62.21,
+        348.19,
+        477.79,
+        360.86
+      ]
+    },
+    {
+      "id": "class8-english-p036-l016",
+      "lineNumber": 16,
+      "text": "of the words. Then, match them with their meanings. One is done for you:",
+      "cleanText": "of the words. Then, match them with their meanings. One is done for you:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        62.78,
+        365.18,
+        474.91,
+        377.86
+      ]
+    },
+    {
+      "id": "class8-english-p036-l017",
+      "lineNumber": 17,
+      "text": "remote. knowing about something",
+      "cleanText": "remote. knowing about something",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.5,
+      "bbox": [
+        68.83,
+        417.31,
+        379.01,
+        431.71
+      ]
+    },
+    {
+      "id": "class8-english-p036-l018",
+      "lineNumber": 18,
+      "text": "about a disease that spreads from one",
+      "cleanText": "about a disease that spreads from one",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.86,
+      "bbox": [
+        244.22,
+        449.86,
+        476.06,
+        461.66
+      ]
+    },
+    {
+      "id": "class8-english-p036-l019",
+      "lineNumber": 19,
+      "text": "literate person to another",
+      "cleanText": "literate person to another",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        69.41,
+        465.41,
+        336.67,
+        476.35
+      ]
+    },
+    {
+      "id": "class8-english-p036-l020",
+      "lineNumber": 20,
+      "text": "delicious isolated",
+      "cleanText": "delicious isolated",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        69.41,
+        513.5,
+        284.26,
+        523.3
+      ]
+    },
+    {
+      "id": "class8-english-p036-l021",
+      "lineNumber": 21,
+      "text": "aware something that causes harm to your health",
+      "cleanText": "aware something that causes harm to your health",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        69.41,
+        548.93,
+        460.22,
+        563.33
+      ]
+    },
+    {
+      "id": "class8-english-p036-l022",
+      "lineNumber": 22,
+      "text": "harmful having a very pleasant taste",
+      "cleanText": "harmful having a very pleasant taste",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        68.83,
+        591.84,
+        390.82,
+        606.82
+      ]
+    },
+    {
+      "id": "class8-english-p036-l024",
+      "lineNumber": 24,
+      "text": "S contagious able to read or write.",
+      "cleanText": "S contagious able to read or write.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.57,
+      "bbox": [
+        38.02,
+        633.31,
+        351.07,
+        650.59
+      ]
+    }
+  ],
+  "lineCount": 24,
+  "aiReadyLineCount": 23,
+  "averageConfidence": 90.48,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:27.376837+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

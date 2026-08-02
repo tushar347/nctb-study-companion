@@ -1,0 +1,807 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 113,
+  "pdfPage": 113,
+  "textbookPage": 113,
+  "width": 526.56,
+  "height": 691.16,
+  "image": "../images/page-113.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "108 English For Today\nC. Look at the following advertisement in a newspaper and answer the\nfollowing questions:\nJob opportunity\nSome healthy, young male and female are needed for security work.\nEducation —: Class 8,\nage: 25 maximum,\nexperience: not required,\nsalary: negotiable.\nApply with handwritten CV, 1 copy photograph, and certificate/s on or\nbefore 15 June 2015.\nManager,\nABC company Ltd.,\n36/A/1 Tejgaon, Dhaka.\nQuestions:\n1. Who is the employer?\n2. Can you type your CV to apply for the job?\n3. Who should you apply to?\n4. Cana candidate without any experience apply?\n5. Can you imagine the size of the photograph you should send with your\napplication?\n6. When can the candidate know about his/her salary?\nD. Suppose you are going to apply for the job advertised in section C.\nUse the following model of a CV with your own information. Add at\nleast two more pieces of information: S\n=\nN",
+  "cleanText": "108 English For Today C. Look at the following advertisement in a newspaper and answer the following questions: Job opportunity Some healthy, young male and female are needed for security work. Education —: Class 8, age: 25 maximum, experience: not required, salary: negotiable. Apply with handwritten CV, 1 copy photograph, and certificate/s on or before 15 June 2015. Manager, ABC company Ltd., 36/A/1 Tejgaon, Dhaka. Questions: 1. Who is the employer? 2. Can you type your CV to apply for the job? 3. Who should you apply to? 4. Cana candidate without any experience apply? 5. Can you imagine the size of the photograph you should send with your application? 6. When can the candidate know about his/her salary? D. Suppose you are going to apply for the job advertised in section C. Use the following model of a CV with your own information. Add at least two more pieces of information: S = N",
+  "aiReadyText": "108 English For Today C. Look at the following advertisement in a newspaper and answer the following questions: Job opportunity Some healthy, young male and female are needed for security work. Education —: Class 8, age: 25 maximum, experience: not required, salary: negotiable. Apply with handwritten CV, 1 copy photograph, and certificate/s on or before 15 June 2015. Manager, ABC company Ltd., 36/A/1 Tejgaon, Dhaka. Questions: 1. Who is the employer? 2. Can you type your CV to apply for the job? 3. Who should you apply to? 4. Cana candidate without any experience apply? 5. Can you imagine the size of the photograph you should send with your application? 6. When can the candidate know about his/her salary? D. Suppose you are going to apply for the job advertised in section C. Use the following model of a CV with your own information. Add at least two more pieces of information: S",
+  "lines": [
+    {
+      "id": "class8-english-p113-l001",
+      "lineNumber": 1,
+      "text": "108 English For Today",
+      "cleanText": "108 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.36,
+        42.05,
+        474.62,
+        52.99
+      ]
+    },
+    {
+      "id": "class8-english-p113-l002",
+      "lineNumber": 2,
+      "text": "C. Look at the following advertisement in a newspaper and answer the",
+      "cleanText": "C. Look at the following advertisement in a newspaper and answer the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        62.21,
+        75.74,
+        477.79,
+        87.55
+      ]
+    },
+    {
+      "id": "class8-english-p113-l003",
+      "lineNumber": 3,
+      "text": "following questions:",
+      "cleanText": "following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        85.54,
+        93.31,
+        192.38,
+        104.83
+      ]
+    },
+    {
+      "id": "class8-english-p113-l004",
+      "lineNumber": 4,
+      "text": "Job opportunity",
+      "cleanText": "Job opportunity",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        224.06,
+        139.1,
+        309.02,
+        150.91
+      ]
+    },
+    {
+      "id": "class8-english-p113-l005",
+      "lineNumber": 5,
+      "text": "Some healthy, young male and female are needed for security work.",
+      "cleanText": "Some healthy, young male and female are needed for security work.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.83,
+      "bbox": [
+        72.0,
+        172.22,
+        439.2,
+        184.32
+      ]
+    },
+    {
+      "id": "class8-english-p113-l006",
+      "lineNumber": 6,
+      "text": "Education —: Class 8,",
+      "cleanText": "Education —: Class 8,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 70.2,
+      "bbox": [
+        73.44,
+        195.84,
+        198.43,
+        209.66
+      ]
+    },
+    {
+      "id": "class8-english-p113-l007",
+      "lineNumber": 7,
+      "text": "age: 25 maximum,",
+      "cleanText": "age: 25 maximum,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.25,
+      "bbox": [
+        74.59,
+        221.18,
+        236.74,
+        232.42
+      ]
+    },
+    {
+      "id": "class8-english-p113-l008",
+      "lineNumber": 8,
+      "text": "experience: not required,",
+      "cleanText": "experience: not required,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 69.5,
+      "bbox": [
+        74.59,
+        244.8,
+        231.55,
+        258.05
+      ]
+    },
+    {
+      "id": "class8-english-p113-l009",
+      "lineNumber": 9,
+      "text": "salary: negotiable.",
+      "cleanText": "salary: negotiable.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.33,
+      "bbox": [
+        75.46,
+        268.42,
+        219.74,
+        282.24
+      ]
+    },
+    {
+      "id": "class8-english-p113-l010",
+      "lineNumber": 10,
+      "text": "Apply with handwritten CV, 1 copy photograph, and certificate/s on or",
+      "cleanText": "Apply with handwritten CV, 1 copy photograph, and certificate/s on or",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.27,
+      "bbox": [
+        74.3,
+        291.17,
+        454.18,
+        303.84
+      ]
+    },
+    {
+      "id": "class8-english-p113-l011",
+      "lineNumber": 11,
+      "text": "before 15 June 2015.",
+      "cleanText": "before 15 June 2015.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        75.17,
+        314.21,
+        191.81,
+        323.42
+      ]
+    },
+    {
+      "id": "class8-english-p113-l012",
+      "lineNumber": 12,
+      "text": "Manager,",
+      "cleanText": "Manager,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        75.46,
+        336.1,
+        124.42,
+        347.33
+      ]
+    },
+    {
+      "id": "class8-english-p113-l013",
+      "lineNumber": 13,
+      "text": "ABC company Ltd.,",
+      "cleanText": "ABC company Ltd.,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.33,
+      "bbox": [
+        74.59,
+        355.1,
+        187.78,
+        367.2
+      ]
+    },
+    {
+      "id": "class8-english-p113-l014",
+      "lineNumber": 14,
+      "text": "36/A/1 Tejgaon, Dhaka.",
+      "cleanText": "36/A/1 Tejgaon, Dhaka.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.67,
+      "bbox": [
+        74.88,
+        374.11,
+        197.28,
+        385.92
+      ]
+    },
+    {
+      "id": "class8-english-p113-l015",
+      "lineNumber": 15,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        65.38,
+        414.72,
+        123.26,
+        425.95
+      ]
+    },
+    {
+      "id": "class8-english-p113-l016",
+      "lineNumber": 16,
+      "text": "1. Who is the employer?",
+      "cleanText": "1. Who is the employer?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        66.53,
+        434.02,
+        203.04,
+        445.82
+      ]
+    },
+    {
+      "id": "class8-english-p113-l017",
+      "lineNumber": 17,
+      "text": "2. Can you type your CV to apply for the job?",
+      "cleanText": "2. Can you type your CV to apply for the job?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        65.38,
+        454.46,
+        314.5,
+        466.27
+      ]
+    },
+    {
+      "id": "class8-english-p113-l018",
+      "lineNumber": 18,
+      "text": "3. Who should you apply to?",
+      "cleanText": "3. Who should you apply to?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.43,
+      "bbox": [
+        65.09,
+        475.2,
+        225.22,
+        487.01
+      ]
+    },
+    {
+      "id": "class8-english-p113-l019",
+      "lineNumber": 19,
+      "text": "4. Cana candidate without any experience apply?",
+      "cleanText": "4. Cana candidate without any experience apply?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.62,
+      "bbox": [
+        64.51,
+        497.66,
+        333.5,
+        509.76
+      ]
+    },
+    {
+      "id": "class8-english-p113-l020",
+      "lineNumber": 20,
+      "text": "5. Can you imagine the size of the photograph you should send with your",
+      "cleanText": "5. Can you imagine the size of the photograph you should send with your",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        65.09,
+        520.42,
+        453.6,
+        532.22
+      ]
+    },
+    {
+      "id": "class8-english-p113-l021",
+      "lineNumber": 21,
+      "text": "application?",
+      "cleanText": "application?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        85.82,
+        535.68,
+        151.49,
+        547.49
+      ]
+    },
+    {
+      "id": "class8-english-p113-l022",
+      "lineNumber": 22,
+      "text": "6. When can the candidate know about his/her salary?",
+      "cleanText": "6. When can the candidate know about his/her salary?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.7,
+      "bbox": [
+        65.09,
+        557.28,
+        355.39,
+        569.09
+      ]
+    },
+    {
+      "id": "class8-english-p113-l023",
+      "lineNumber": 23,
+      "text": "D. Suppose you are going to apply for the job advertised in section C.",
+      "cleanText": "D. Suppose you are going to apply for the job advertised in section C.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.07,
+      "bbox": [
+        64.22,
+        594.14,
+        477.79,
+        605.66
+      ]
+    },
+    {
+      "id": "class8-english-p113-l024",
+      "lineNumber": 24,
+      "text": "Use the following model of a CV with your own information. Add at",
+      "cleanText": "Use the following model of a CV with your own information. Add at",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        82.37,
+        609.41,
+        477.22,
+        621.22
+      ]
+    },
+    {
+      "id": "class8-english-p113-l025",
+      "lineNumber": 25,
+      "text": "least two more pieces of information: S",
+      "cleanText": "least two more pieces of information: S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.86,
+      "bbox": [
+        82.08,
+        625.25,
+        504.86,
+        641.66
+      ]
+    },
+    {
+      "id": "class8-english-p113-l026",
+      "lineNumber": 26,
+      "text": "=",
+      "cleanText": "=",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 59.0,
+      "bbox": [
+        496.8,
+        641.95,
+        504.86,
+        647.14
+      ]
+    },
+    {
+      "id": "class8-english-p113-l027",
+      "lineNumber": 27,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 77.0,
+      "bbox": [
+        496.8,
+        648.29,
+        504.86,
+        653.76
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p113-l001",
+      "lineNumber": 1,
+      "text": "108 English For Today",
+      "cleanText": "108 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.36,
+        42.05,
+        474.62,
+        52.99
+      ]
+    },
+    {
+      "id": "class8-english-p113-l002",
+      "lineNumber": 2,
+      "text": "C. Look at the following advertisement in a newspaper and answer the",
+      "cleanText": "C. Look at the following advertisement in a newspaper and answer the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        62.21,
+        75.74,
+        477.79,
+        87.55
+      ]
+    },
+    {
+      "id": "class8-english-p113-l003",
+      "lineNumber": 3,
+      "text": "following questions:",
+      "cleanText": "following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        85.54,
+        93.31,
+        192.38,
+        104.83
+      ]
+    },
+    {
+      "id": "class8-english-p113-l004",
+      "lineNumber": 4,
+      "text": "Job opportunity",
+      "cleanText": "Job opportunity",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        224.06,
+        139.1,
+        309.02,
+        150.91
+      ]
+    },
+    {
+      "id": "class8-english-p113-l005",
+      "lineNumber": 5,
+      "text": "Some healthy, young male and female are needed for security work.",
+      "cleanText": "Some healthy, young male and female are needed for security work.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.83,
+      "bbox": [
+        72.0,
+        172.22,
+        439.2,
+        184.32
+      ]
+    },
+    {
+      "id": "class8-english-p113-l006",
+      "lineNumber": 6,
+      "text": "Education —: Class 8,",
+      "cleanText": "Education —: Class 8,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 70.2,
+      "bbox": [
+        73.44,
+        195.84,
+        198.43,
+        209.66
+      ]
+    },
+    {
+      "id": "class8-english-p113-l007",
+      "lineNumber": 7,
+      "text": "age: 25 maximum,",
+      "cleanText": "age: 25 maximum,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.25,
+      "bbox": [
+        74.59,
+        221.18,
+        236.74,
+        232.42
+      ]
+    },
+    {
+      "id": "class8-english-p113-l008",
+      "lineNumber": 8,
+      "text": "experience: not required,",
+      "cleanText": "experience: not required,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 69.5,
+      "bbox": [
+        74.59,
+        244.8,
+        231.55,
+        258.05
+      ]
+    },
+    {
+      "id": "class8-english-p113-l009",
+      "lineNumber": 9,
+      "text": "salary: negotiable.",
+      "cleanText": "salary: negotiable.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.33,
+      "bbox": [
+        75.46,
+        268.42,
+        219.74,
+        282.24
+      ]
+    },
+    {
+      "id": "class8-english-p113-l010",
+      "lineNumber": 10,
+      "text": "Apply with handwritten CV, 1 copy photograph, and certificate/s on or",
+      "cleanText": "Apply with handwritten CV, 1 copy photograph, and certificate/s on or",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.27,
+      "bbox": [
+        74.3,
+        291.17,
+        454.18,
+        303.84
+      ]
+    },
+    {
+      "id": "class8-english-p113-l011",
+      "lineNumber": 11,
+      "text": "before 15 June 2015.",
+      "cleanText": "before 15 June 2015.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        75.17,
+        314.21,
+        191.81,
+        323.42
+      ]
+    },
+    {
+      "id": "class8-english-p113-l012",
+      "lineNumber": 12,
+      "text": "Manager,",
+      "cleanText": "Manager,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        75.46,
+        336.1,
+        124.42,
+        347.33
+      ]
+    },
+    {
+      "id": "class8-english-p113-l013",
+      "lineNumber": 13,
+      "text": "ABC company Ltd.,",
+      "cleanText": "ABC company Ltd.,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.33,
+      "bbox": [
+        74.59,
+        355.1,
+        187.78,
+        367.2
+      ]
+    },
+    {
+      "id": "class8-english-p113-l014",
+      "lineNumber": 14,
+      "text": "36/A/1 Tejgaon, Dhaka.",
+      "cleanText": "36/A/1 Tejgaon, Dhaka.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.67,
+      "bbox": [
+        74.88,
+        374.11,
+        197.28,
+        385.92
+      ]
+    },
+    {
+      "id": "class8-english-p113-l015",
+      "lineNumber": 15,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        65.38,
+        414.72,
+        123.26,
+        425.95
+      ]
+    },
+    {
+      "id": "class8-english-p113-l016",
+      "lineNumber": 16,
+      "text": "1. Who is the employer?",
+      "cleanText": "1. Who is the employer?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        66.53,
+        434.02,
+        203.04,
+        445.82
+      ]
+    },
+    {
+      "id": "class8-english-p113-l017",
+      "lineNumber": 17,
+      "text": "2. Can you type your CV to apply for the job?",
+      "cleanText": "2. Can you type your CV to apply for the job?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        65.38,
+        454.46,
+        314.5,
+        466.27
+      ]
+    },
+    {
+      "id": "class8-english-p113-l018",
+      "lineNumber": 18,
+      "text": "3. Who should you apply to?",
+      "cleanText": "3. Who should you apply to?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.43,
+      "bbox": [
+        65.09,
+        475.2,
+        225.22,
+        487.01
+      ]
+    },
+    {
+      "id": "class8-english-p113-l019",
+      "lineNumber": 19,
+      "text": "4. Cana candidate without any experience apply?",
+      "cleanText": "4. Cana candidate without any experience apply?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.62,
+      "bbox": [
+        64.51,
+        497.66,
+        333.5,
+        509.76
+      ]
+    },
+    {
+      "id": "class8-english-p113-l020",
+      "lineNumber": 20,
+      "text": "5. Can you imagine the size of the photograph you should send with your",
+      "cleanText": "5. Can you imagine the size of the photograph you should send with your",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        65.09,
+        520.42,
+        453.6,
+        532.22
+      ]
+    },
+    {
+      "id": "class8-english-p113-l021",
+      "lineNumber": 21,
+      "text": "application?",
+      "cleanText": "application?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        85.82,
+        535.68,
+        151.49,
+        547.49
+      ]
+    },
+    {
+      "id": "class8-english-p113-l022",
+      "lineNumber": 22,
+      "text": "6. When can the candidate know about his/her salary?",
+      "cleanText": "6. When can the candidate know about his/her salary?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.7,
+      "bbox": [
+        65.09,
+        557.28,
+        355.39,
+        569.09
+      ]
+    },
+    {
+      "id": "class8-english-p113-l023",
+      "lineNumber": 23,
+      "text": "D. Suppose you are going to apply for the job advertised in section C.",
+      "cleanText": "D. Suppose you are going to apply for the job advertised in section C.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.07,
+      "bbox": [
+        64.22,
+        594.14,
+        477.79,
+        605.66
+      ]
+    },
+    {
+      "id": "class8-english-p113-l024",
+      "lineNumber": 24,
+      "text": "Use the following model of a CV with your own information. Add at",
+      "cleanText": "Use the following model of a CV with your own information. Add at",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        82.37,
+        609.41,
+        477.22,
+        621.22
+      ]
+    },
+    {
+      "id": "class8-english-p113-l025",
+      "lineNumber": 25,
+      "text": "least two more pieces of information: S",
+      "cleanText": "least two more pieces of information: S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.86,
+      "bbox": [
+        82.08,
+        625.25,
+        504.86,
+        641.66
+      ]
+    }
+  ],
+  "lineCount": 27,
+  "aiReadyLineCount": 25,
+  "averageConfidence": 90.24,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:41.941002+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

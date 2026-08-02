@@ -1,0 +1,507 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 78,
+  "pdfPage": 78,
+  "textbookPage": 78,
+  "width": 538.0,
+  "height": 703.0,
+  "image": "../images/page-078.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Going on a Trip 73\n4. The cabin crew with their nice behaviour made all the passengers feel\nsafe and......... when the plane was bumping.\na) worried\nb) fixed\nc) happy\nLesson 7: Reaching Bangkok\nKeywords: derived, parallel, cargo, capacity\nA. Look at the picture and talk about it:\ng suvARNABRL!\na a\noS a ey ee\n1. What do you see in the picture?\n2. What could be this place?\n3. How do you know?\nForma-10, English For Today Class-8",
+  "cleanText": "Going on a Trip 73 4. The cabin crew with their nice behaviour made all the passengers feel safe and......... when the plane was bumping. a) worried b) fixed c) happy Lesson 7: Reaching Bangkok Keywords: derived, parallel, cargo, capacity A. Look at the picture and talk about it: g suvARNABRL! a a oS a ey ee 1. What do you see in the picture? 2. What could be this place? 3. How do you know? Forma-10, English For Today Class-8",
+  "aiReadyText": "Going on a Trip 73 4. The cabin crew with their nice behaviour made all the passengers feel safe and......... when the plane was bumping. a) worried b) fixed c) happy Lesson 7: Reaching Bangkok Keywords: derived, parallel, cargo, capacity A. Look at the picture and talk about it: g suvARNABRL! a a oS a ey ee 1. What do you see in the picture? 2. What could be this place? 3. How do you know? Forma-10, English For Today Class-8",
+  "lines": [
+    {
+      "id": "class8-english-p078-l001",
+      "lineNumber": 1,
+      "text": "Going on a Trip 73",
+      "cleanText": "Going on a Trip 73",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.2,
+      "bbox": [
+        63.36,
+        46.08,
+        474.91,
+        57.02
+      ]
+    },
+    {
+      "id": "class8-english-p078-l002",
+      "lineNumber": 2,
+      "text": "4. The cabin crew with their nice behaviour made all the passengers feel",
+      "cleanText": "4. The cabin crew with their nice behaviour made all the passengers feel",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.38,
+      "bbox": [
+        63.36,
+        85.25,
+        478.08,
+        97.06
+      ]
+    },
+    {
+      "id": "class8-english-p078-l003",
+      "lineNumber": 3,
+      "text": "safe and......... when the plane was bumping.",
+      "cleanText": "safe and......... when the plane was bumping.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.5,
+      "bbox": [
+        65.09,
+        103.97,
+        315.07,
+        115.78
+      ]
+    },
+    {
+      "id": "class8-english-p078-l004",
+      "lineNumber": 4,
+      "text": "a) worried",
+      "cleanText": "a) worried",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.0,
+      "bbox": [
+        88.42,
+        128.45,
+        150.05,
+        140.54
+      ]
+    },
+    {
+      "id": "class8-english-p078-l005",
+      "lineNumber": 5,
+      "text": "b) fixed",
+      "cleanText": "b) fixed",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 54.0,
+      "bbox": [
+        87.84,
+        153.22,
+        136.51,
+        165.02
+      ]
+    },
+    {
+      "id": "class8-english-p078-l006",
+      "lineNumber": 6,
+      "text": "c) happy",
+      "cleanText": "c) happy",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        88.42,
+        177.98,
+        139.68,
+        189.79
+      ]
+    },
+    {
+      "id": "class8-english-p078-l007",
+      "lineNumber": 7,
+      "text": "Lesson 7: Reaching Bangkok",
+      "cleanText": "Lesson 7: Reaching Bangkok",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.21,
+        216.29,
+        309.6,
+        234.43
+      ]
+    },
+    {
+      "id": "class8-english-p078-l008",
+      "lineNumber": 8,
+      "text": "Keywords: derived, parallel, cargo, capacity",
+      "cleanText": "Keywords: derived, parallel, cargo, capacity",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        67.68,
+        248.54,
+        307.87,
+        260.64
+      ]
+    },
+    {
+      "id": "class8-english-p078-l009",
+      "lineNumber": 9,
+      "text": "A. Look at the picture and talk about it:",
+      "cleanText": "A. Look at the picture and talk about it:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        67.39,
+        276.19,
+        311.04,
+        288.86
+      ]
+    },
+    {
+      "id": "class8-english-p078-l010",
+      "lineNumber": 10,
+      "text": "g suvARNABRL!",
+      "cleanText": "g suvARNABRL!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 44.67,
+      "bbox": [
+        69.12,
+        385.63,
+        477.79,
+        420.77
+      ]
+    },
+    {
+      "id": "class8-english-p078-l011",
+      "lineNumber": 11,
+      "text": "a a",
+      "cleanText": "a a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 45.5,
+      "bbox": [
+        68.26,
+        418.75,
+        390.82,
+        428.83
+      ]
+    },
+    {
+      "id": "class8-english-p078-l012",
+      "lineNumber": 12,
+      "text": "oS a ey ee",
+      "cleanText": "oS a ey ee",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 30.0,
+      "bbox": [
+        69.12,
+        451.87,
+        382.75,
+        464.83
+      ]
+    },
+    {
+      "id": "class8-english-p078-l013",
+      "lineNumber": 13,
+      "text": "1. What do you see in the picture?",
+      "cleanText": "1. What do you see in the picture?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        82.66,
+        578.59,
+        266.69,
+        590.69
+      ]
+    },
+    {
+      "id": "class8-english-p078-l014",
+      "lineNumber": 14,
+      "text": "2. What could be this place?",
+      "cleanText": "2. What could be this place?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        81.22,
+        603.07,
+        236.45,
+        615.17
+      ]
+    },
+    {
+      "id": "class8-english-p078-l015",
+      "lineNumber": 15,
+      "text": "3. How do you know?",
+      "cleanText": "3. How do you know?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        81.5,
+        627.55,
+        204.48,
+        639.65
+      ]
+    },
+    {
+      "id": "class8-english-p078-l016",
+      "lineNumber": 16,
+      "text": "Forma-10, English For Today Class-8",
+      "cleanText": "Forma-10, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.8,
+      "bbox": [
+        63.07,
+        670.18,
+        228.38,
+        680.26
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p078-l001",
+      "lineNumber": 1,
+      "text": "Going on a Trip 73",
+      "cleanText": "Going on a Trip 73",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.2,
+      "bbox": [
+        63.36,
+        46.08,
+        474.91,
+        57.02
+      ]
+    },
+    {
+      "id": "class8-english-p078-l002",
+      "lineNumber": 2,
+      "text": "4. The cabin crew with their nice behaviour made all the passengers feel",
+      "cleanText": "4. The cabin crew with their nice behaviour made all the passengers feel",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.38,
+      "bbox": [
+        63.36,
+        85.25,
+        478.08,
+        97.06
+      ]
+    },
+    {
+      "id": "class8-english-p078-l003",
+      "lineNumber": 3,
+      "text": "safe and......... when the plane was bumping.",
+      "cleanText": "safe and......... when the plane was bumping.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.5,
+      "bbox": [
+        65.09,
+        103.97,
+        315.07,
+        115.78
+      ]
+    },
+    {
+      "id": "class8-english-p078-l004",
+      "lineNumber": 4,
+      "text": "a) worried",
+      "cleanText": "a) worried",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.0,
+      "bbox": [
+        88.42,
+        128.45,
+        150.05,
+        140.54
+      ]
+    },
+    {
+      "id": "class8-english-p078-l005",
+      "lineNumber": 5,
+      "text": "b) fixed",
+      "cleanText": "b) fixed",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 54.0,
+      "bbox": [
+        87.84,
+        153.22,
+        136.51,
+        165.02
+      ]
+    },
+    {
+      "id": "class8-english-p078-l006",
+      "lineNumber": 6,
+      "text": "c) happy",
+      "cleanText": "c) happy",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        88.42,
+        177.98,
+        139.68,
+        189.79
+      ]
+    },
+    {
+      "id": "class8-english-p078-l007",
+      "lineNumber": 7,
+      "text": "Lesson 7: Reaching Bangkok",
+      "cleanText": "Lesson 7: Reaching Bangkok",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.21,
+        216.29,
+        309.6,
+        234.43
+      ]
+    },
+    {
+      "id": "class8-english-p078-l008",
+      "lineNumber": 8,
+      "text": "Keywords: derived, parallel, cargo, capacity",
+      "cleanText": "Keywords: derived, parallel, cargo, capacity",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        67.68,
+        248.54,
+        307.87,
+        260.64
+      ]
+    },
+    {
+      "id": "class8-english-p078-l009",
+      "lineNumber": 9,
+      "text": "A. Look at the picture and talk about it:",
+      "cleanText": "A. Look at the picture and talk about it:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        67.39,
+        276.19,
+        311.04,
+        288.86
+      ]
+    },
+    {
+      "id": "class8-english-p078-l010",
+      "lineNumber": 10,
+      "text": "g suvARNABRL!",
+      "cleanText": "g suvARNABRL!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 44.67,
+      "bbox": [
+        69.12,
+        385.63,
+        477.79,
+        420.77
+      ]
+    },
+    {
+      "id": "class8-english-p078-l011",
+      "lineNumber": 11,
+      "text": "a a",
+      "cleanText": "a a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 45.5,
+      "bbox": [
+        68.26,
+        418.75,
+        390.82,
+        428.83
+      ]
+    },
+    {
+      "id": "class8-english-p078-l012",
+      "lineNumber": 12,
+      "text": "oS a ey ee",
+      "cleanText": "oS a ey ee",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 30.0,
+      "bbox": [
+        69.12,
+        451.87,
+        382.75,
+        464.83
+      ]
+    },
+    {
+      "id": "class8-english-p078-l013",
+      "lineNumber": 13,
+      "text": "1. What do you see in the picture?",
+      "cleanText": "1. What do you see in the picture?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        82.66,
+        578.59,
+        266.69,
+        590.69
+      ]
+    },
+    {
+      "id": "class8-english-p078-l014",
+      "lineNumber": 14,
+      "text": "2. What could be this place?",
+      "cleanText": "2. What could be this place?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        81.22,
+        603.07,
+        236.45,
+        615.17
+      ]
+    },
+    {
+      "id": "class8-english-p078-l015",
+      "lineNumber": 15,
+      "text": "3. How do you know?",
+      "cleanText": "3. How do you know?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        81.5,
+        627.55,
+        204.48,
+        639.65
+      ]
+    },
+    {
+      "id": "class8-english-p078-l016",
+      "lineNumber": 16,
+      "text": "Forma-10, English For Today Class-8",
+      "cleanText": "Forma-10, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.8,
+      "bbox": [
+        63.07,
+        670.18,
+        228.38,
+        680.26
+      ]
+    }
+  ],
+  "lineCount": 16,
+  "aiReadyLineCount": 16,
+  "averageConfidence": 81.5,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:17:46.682173+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

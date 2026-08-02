@@ -1,0 +1,837 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 20,
+  "pdfPage": 20,
+  "textbookPage": 20,
+  "width": 556.47,
+  "height": 713.96,
+  "image": "../images/page-020.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Food and Nutrition 15\nB. Answer the following questions:\n1. What is Ms Rehana talking about?\n2. Why do we eat food?\n3. What is meant by ‘nutritious food’?\n4. How much food does a person need to eat a day?\n5. Does everyone need the same amount of food? Why?\nC. Complete these sentences:\n1. We should eat good food to.\n2. We should not eat more than.\n3. Eating too much food is not.\n4. Good food means.\nLesson 2: Kinds of Food\nKeywords: carbohydrate, protein, vitamins, minerals\nA. Listen to the text and answer the following questions:\nU2, L2A\nListening text: 1\nQuestions:\n1. How many kinds of food do we need?\n2. What are they?\nNow, choose the best answer.\n1. Foods are divided into classes according to their\na. colours and tastes. b. shapes and sizes.\nc. substances they contain. d. water they contain.\n2. Potatoes contain a lot of\niS a. carbohydrate. b. protein.\nq c. vitamins. d. minerals.",
+  "cleanText": "Food and Nutrition 15 B. Answer the following questions: 1. What is Ms Rehana talking about? 2. Why do we eat food? 3. What is meant by ‘nutritious food’? 4. How much food does a person need to eat a day? 5. Does everyone need the same amount of food? Why? C. Complete these sentences: 1. We should eat good food to. 2. We should not eat more than. 3. Eating too much food is not. 4. Good food means. Lesson 2: Kinds of Food Keywords: carbohydrate, protein, vitamins, minerals A. Listen to the text and answer the following questions: U2, L2A Listening text: 1 Questions: 1. How many kinds of food do we need? 2. What are they? Now, choose the best answer. 1. Foods are divided into classes according to their a. colours and tastes. b. shapes and sizes. c. substances they contain. d. water they contain. 2. Potatoes contain a lot of iS a. carbohydrate. b. protein. q c. vitamins. d. minerals.",
+  "aiReadyText": "Food and Nutrition 15 B. Answer the following questions: 1. What is Ms Rehana talking about? 2. Why do we eat food? 3. What is meant by ‘nutritious food’? 4. How much food does a person need to eat a day? 5. Does everyone need the same amount of food? Why? C. Complete these sentences: 1. We should eat good food to. 2. We should not eat more than. 3. Eating too much food is not. 4. Good food means. Lesson 2: Kinds of Food Keywords: carbohydrate, protein, vitamins, minerals A. Listen to the text and answer the following questions: U2, L2A Listening text: 1 Questions: 1. How many kinds of food do we need? 2. What are they? Now, choose the best answer. 1. Foods are divided into classes according to their a. colours and tastes. b. shapes and sizes. c. substances they contain. d. water they contain. 2. Potatoes contain a lot of iS a. carbohydrate. b. protein. q c. vitamins. d. minerals.",
+  "lines": [
+    {
+      "id": "class8-english-p020-l001",
+      "lineNumber": 1,
+      "text": "Food and Nutrition 15",
+      "cleanText": "Food and Nutrition 15",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        74.02,
+        50.69,
+        487.58,
+        59.9
+      ]
+    },
+    {
+      "id": "class8-english-p020-l002",
+      "lineNumber": 2,
+      "text": "B. Answer the following questions:",
+      "cleanText": "B. Answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.6,
+      "bbox": [
+        74.88,
+        80.35,
+        267.26,
+        91.87
+      ]
+    },
+    {
+      "id": "class8-english-p020-l003",
+      "lineNumber": 3,
+      "text": "1. What is Ms Rehana talking about?",
+      "cleanText": "1. What is Ms Rehana talking about?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.71,
+      "bbox": [
+        97.06,
+        98.21,
+        295.78,
+        110.02
+      ]
+    },
+    {
+      "id": "class8-english-p020-l004",
+      "lineNumber": 4,
+      "text": "2. Why do we eat food?",
+      "cleanText": "2. Why do we eat food?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.0,
+      "bbox": [
+        95.62,
+        116.06,
+        227.52,
+        127.87
+      ]
+    },
+    {
+      "id": "class8-english-p020-l005",
+      "lineNumber": 5,
+      "text": "3. What is meant by ‘nutritious food’?",
+      "cleanText": "3. What is meant by ‘nutritious food’?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.29,
+      "bbox": [
+        95.9,
+        134.21,
+        302.4,
+        146.02
+      ]
+    },
+    {
+      "id": "class8-english-p020-l006",
+      "lineNumber": 6,
+      "text": "4. How much food does a person need to eat a day?",
+      "cleanText": "4. How much food does a person need to eat a day?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.42,
+      "bbox": [
+        95.62,
+        152.06,
+        371.23,
+        163.87
+      ]
+    },
+    {
+      "id": "class8-english-p020-l007",
+      "lineNumber": 7,
+      "text": "5. Does everyone need the same amount of food? Why?",
+      "cleanText": "5. Does everyone need the same amount of food? Why?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        96.19,
+        170.21,
+        394.27,
+        182.02
+      ]
+    },
+    {
+      "id": "class8-english-p020-l008",
+      "lineNumber": 8,
+      "text": "C. Complete these sentences:",
+      "cleanText": "C. Complete these sentences:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        74.59,
+        195.26,
+        244.51,
+        207.65
+      ]
+    },
+    {
+      "id": "class8-english-p020-l009",
+      "lineNumber": 9,
+      "text": "1. We should eat good food to.",
+      "cleanText": "1. We should eat good food to.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 83.5,
+      "bbox": [
+        95.62,
+        216.0,
+        423.94,
+        227.81
+      ]
+    },
+    {
+      "id": "class8-english-p020-l010",
+      "lineNumber": 10,
+      "text": "2. We should not eat more than.",
+      "cleanText": "2. We should not eat more than.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.75,
+      "bbox": [
+        94.18,
+        236.16,
+        423.07,
+        246.24
+      ]
+    },
+    {
+      "id": "class8-english-p020-l011",
+      "lineNumber": 11,
+      "text": "3. Eating too much food is not.",
+      "cleanText": "3. Eating too much food is not.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        94.46,
+        256.61,
+        425.66,
+        268.42
+      ]
+    },
+    {
+      "id": "class8-english-p020-l012",
+      "lineNumber": 12,
+      "text": "4. Good food means.",
+      "cleanText": "4. Good food means.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.0,
+      "bbox": [
+        94.18,
+        276.77,
+        425.38,
+        286.85
+      ]
+    },
+    {
+      "id": "class8-english-p020-l013",
+      "lineNumber": 13,
+      "text": "Lesson 2: Kinds of Food",
+      "cleanText": "Lesson 2: Kinds of Food",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        74.88,
+        313.63,
+        281.09,
+        327.46
+      ]
+    },
+    {
+      "id": "class8-english-p020-l014",
+      "lineNumber": 14,
+      "text": "Keywords: carbohydrate, protein, vitamins, minerals",
+      "cleanText": "Keywords: carbohydrate, protein, vitamins, minerals",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        72.58,
+        342.72,
+        371.23,
+        354.82
+      ]
+    },
+    {
+      "id": "class8-english-p020-l015",
+      "lineNumber": 15,
+      "text": "A. Listen to the text and answer the following questions:",
+      "cleanText": "A. Listen to the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        74.02,
+        367.49,
+        409.25,
+        380.16
+      ]
+    },
+    {
+      "id": "class8-english-p020-l016",
+      "lineNumber": 16,
+      "text": "U2, L2A",
+      "cleanText": "U2, L2A",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 10.0,
+      "bbox": [
+        216.29,
+        407.52,
+        268.42,
+        419.04
+      ]
+    },
+    {
+      "id": "class8-english-p020-l017",
+      "lineNumber": 17,
+      "text": "Listening text: 1",
+      "cleanText": "Listening text: 1",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        216.58,
+        422.5,
+        305.57,
+        435.17
+      ]
+    },
+    {
+      "id": "class8-english-p020-l018",
+      "lineNumber": 18,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        74.02,
+        452.74,
+        136.22,
+        464.83
+      ]
+    },
+    {
+      "id": "class8-english-p020-l019",
+      "lineNumber": 19,
+      "text": "1. How many kinds of food do we need?",
+      "cleanText": "1. How many kinds of food do we need?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.44,
+      "bbox": [
+        96.48,
+        478.66,
+        313.92,
+        490.46
+      ]
+    },
+    {
+      "id": "class8-english-p020-l020",
+      "lineNumber": 20,
+      "text": "2. What are they?",
+      "cleanText": "2. What are they?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.75,
+      "bbox": [
+        95.04,
+        496.8,
+        194.4,
+        508.61
+      ]
+    },
+    {
+      "id": "class8-english-p020-l021",
+      "lineNumber": 21,
+      "text": "Now, choose the best answer.",
+      "cleanText": "Now, choose the best answer.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        74.02,
+        523.01,
+        241.63,
+        534.53
+      ]
+    },
+    {
+      "id": "class8-english-p020-l022",
+      "lineNumber": 22,
+      "text": "1. Foods are divided into classes according to their",
+      "cleanText": "1. Foods are divided into classes according to their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        74.3,
+        543.17,
+        340.99,
+        555.55
+      ]
+    },
+    {
+      "id": "class8-english-p020-l023",
+      "lineNumber": 23,
+      "text": "a. colours and tastes. b. shapes and sizes.",
+      "cleanText": "a. colours and tastes. b. shapes and sizes.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        94.46,
+        563.62,
+        384.19,
+        575.71
+      ]
+    },
+    {
+      "id": "class8-english-p020-l024",
+      "lineNumber": 24,
+      "text": "c. substances they contain. d. water they contain.",
+      "cleanText": "c. substances they contain. d. water they contain.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.88,
+      "bbox": [
+        94.46,
+        584.06,
+        394.27,
+        596.16
+      ]
+    },
+    {
+      "id": "class8-english-p020-l025",
+      "lineNumber": 25,
+      "text": "2. Potatoes contain a lot of",
+      "cleanText": "2. Potatoes contain a lot of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        74.88,
+        609.7,
+        215.14,
+        624.67
+      ]
+    },
+    {
+      "id": "class8-english-p020-l026",
+      "lineNumber": 26,
+      "text": "iS a. carbohydrate. b. protein.",
+      "cleanText": "iS a. carbohydrate. b. protein.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 66.2,
+      "bbox": [
+        45.5,
+        630.14,
+        275.62,
+        647.71
+      ]
+    },
+    {
+      "id": "class8-english-p020-l027",
+      "lineNumber": 27,
+      "text": "q c. vitamins. d. minerals.",
+      "cleanText": "q c. vitamins. d. minerals.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 69.2,
+      "bbox": [
+        46.66,
+        646.85,
+        283.39,
+        661.54
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p020-l001",
+      "lineNumber": 1,
+      "text": "Food and Nutrition 15",
+      "cleanText": "Food and Nutrition 15",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        74.02,
+        50.69,
+        487.58,
+        59.9
+      ]
+    },
+    {
+      "id": "class8-english-p020-l002",
+      "lineNumber": 2,
+      "text": "B. Answer the following questions:",
+      "cleanText": "B. Answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.6,
+      "bbox": [
+        74.88,
+        80.35,
+        267.26,
+        91.87
+      ]
+    },
+    {
+      "id": "class8-english-p020-l003",
+      "lineNumber": 3,
+      "text": "1. What is Ms Rehana talking about?",
+      "cleanText": "1. What is Ms Rehana talking about?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.71,
+      "bbox": [
+        97.06,
+        98.21,
+        295.78,
+        110.02
+      ]
+    },
+    {
+      "id": "class8-english-p020-l004",
+      "lineNumber": 4,
+      "text": "2. Why do we eat food?",
+      "cleanText": "2. Why do we eat food?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.0,
+      "bbox": [
+        95.62,
+        116.06,
+        227.52,
+        127.87
+      ]
+    },
+    {
+      "id": "class8-english-p020-l005",
+      "lineNumber": 5,
+      "text": "3. What is meant by ‘nutritious food’?",
+      "cleanText": "3. What is meant by ‘nutritious food’?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.29,
+      "bbox": [
+        95.9,
+        134.21,
+        302.4,
+        146.02
+      ]
+    },
+    {
+      "id": "class8-english-p020-l006",
+      "lineNumber": 6,
+      "text": "4. How much food does a person need to eat a day?",
+      "cleanText": "4. How much food does a person need to eat a day?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.42,
+      "bbox": [
+        95.62,
+        152.06,
+        371.23,
+        163.87
+      ]
+    },
+    {
+      "id": "class8-english-p020-l007",
+      "lineNumber": 7,
+      "text": "5. Does everyone need the same amount of food? Why?",
+      "cleanText": "5. Does everyone need the same amount of food? Why?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        96.19,
+        170.21,
+        394.27,
+        182.02
+      ]
+    },
+    {
+      "id": "class8-english-p020-l008",
+      "lineNumber": 8,
+      "text": "C. Complete these sentences:",
+      "cleanText": "C. Complete these sentences:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        74.59,
+        195.26,
+        244.51,
+        207.65
+      ]
+    },
+    {
+      "id": "class8-english-p020-l009",
+      "lineNumber": 9,
+      "text": "1. We should eat good food to.",
+      "cleanText": "1. We should eat good food to.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 83.5,
+      "bbox": [
+        95.62,
+        216.0,
+        423.94,
+        227.81
+      ]
+    },
+    {
+      "id": "class8-english-p020-l010",
+      "lineNumber": 10,
+      "text": "2. We should not eat more than.",
+      "cleanText": "2. We should not eat more than.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.75,
+      "bbox": [
+        94.18,
+        236.16,
+        423.07,
+        246.24
+      ]
+    },
+    {
+      "id": "class8-english-p020-l011",
+      "lineNumber": 11,
+      "text": "3. Eating too much food is not.",
+      "cleanText": "3. Eating too much food is not.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        94.46,
+        256.61,
+        425.66,
+        268.42
+      ]
+    },
+    {
+      "id": "class8-english-p020-l012",
+      "lineNumber": 12,
+      "text": "4. Good food means.",
+      "cleanText": "4. Good food means.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.0,
+      "bbox": [
+        94.18,
+        276.77,
+        425.38,
+        286.85
+      ]
+    },
+    {
+      "id": "class8-english-p020-l013",
+      "lineNumber": 13,
+      "text": "Lesson 2: Kinds of Food",
+      "cleanText": "Lesson 2: Kinds of Food",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        74.88,
+        313.63,
+        281.09,
+        327.46
+      ]
+    },
+    {
+      "id": "class8-english-p020-l014",
+      "lineNumber": 14,
+      "text": "Keywords: carbohydrate, protein, vitamins, minerals",
+      "cleanText": "Keywords: carbohydrate, protein, vitamins, minerals",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        72.58,
+        342.72,
+        371.23,
+        354.82
+      ]
+    },
+    {
+      "id": "class8-english-p020-l015",
+      "lineNumber": 15,
+      "text": "A. Listen to the text and answer the following questions:",
+      "cleanText": "A. Listen to the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        74.02,
+        367.49,
+        409.25,
+        380.16
+      ]
+    },
+    {
+      "id": "class8-english-p020-l016",
+      "lineNumber": 16,
+      "text": "U2, L2A",
+      "cleanText": "U2, L2A",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 10.0,
+      "bbox": [
+        216.29,
+        407.52,
+        268.42,
+        419.04
+      ]
+    },
+    {
+      "id": "class8-english-p020-l017",
+      "lineNumber": 17,
+      "text": "Listening text: 1",
+      "cleanText": "Listening text: 1",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        216.58,
+        422.5,
+        305.57,
+        435.17
+      ]
+    },
+    {
+      "id": "class8-english-p020-l018",
+      "lineNumber": 18,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        74.02,
+        452.74,
+        136.22,
+        464.83
+      ]
+    },
+    {
+      "id": "class8-english-p020-l019",
+      "lineNumber": 19,
+      "text": "1. How many kinds of food do we need?",
+      "cleanText": "1. How many kinds of food do we need?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.44,
+      "bbox": [
+        96.48,
+        478.66,
+        313.92,
+        490.46
+      ]
+    },
+    {
+      "id": "class8-english-p020-l020",
+      "lineNumber": 20,
+      "text": "2. What are they?",
+      "cleanText": "2. What are they?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.75,
+      "bbox": [
+        95.04,
+        496.8,
+        194.4,
+        508.61
+      ]
+    },
+    {
+      "id": "class8-english-p020-l021",
+      "lineNumber": 21,
+      "text": "Now, choose the best answer.",
+      "cleanText": "Now, choose the best answer.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        74.02,
+        523.01,
+        241.63,
+        534.53
+      ]
+    },
+    {
+      "id": "class8-english-p020-l022",
+      "lineNumber": 22,
+      "text": "1. Foods are divided into classes according to their",
+      "cleanText": "1. Foods are divided into classes according to their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        74.3,
+        543.17,
+        340.99,
+        555.55
+      ]
+    },
+    {
+      "id": "class8-english-p020-l023",
+      "lineNumber": 23,
+      "text": "a. colours and tastes. b. shapes and sizes.",
+      "cleanText": "a. colours and tastes. b. shapes and sizes.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        94.46,
+        563.62,
+        384.19,
+        575.71
+      ]
+    },
+    {
+      "id": "class8-english-p020-l024",
+      "lineNumber": 24,
+      "text": "c. substances they contain. d. water they contain.",
+      "cleanText": "c. substances they contain. d. water they contain.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.88,
+      "bbox": [
+        94.46,
+        584.06,
+        394.27,
+        596.16
+      ]
+    },
+    {
+      "id": "class8-english-p020-l025",
+      "lineNumber": 25,
+      "text": "2. Potatoes contain a lot of",
+      "cleanText": "2. Potatoes contain a lot of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        74.88,
+        609.7,
+        215.14,
+        624.67
+      ]
+    },
+    {
+      "id": "class8-english-p020-l026",
+      "lineNumber": 26,
+      "text": "iS a. carbohydrate. b. protein.",
+      "cleanText": "iS a. carbohydrate. b. protein.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 66.2,
+      "bbox": [
+        45.5,
+        630.14,
+        275.62,
+        647.71
+      ]
+    },
+    {
+      "id": "class8-english-p020-l027",
+      "lineNumber": 27,
+      "text": "q c. vitamins. d. minerals.",
+      "cleanText": "q c. vitamins. d. minerals.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 69.2,
+      "bbox": [
+        46.66,
+        646.85,
+        283.39,
+        661.54
+      ]
+    }
+  ],
+  "lineCount": 27,
+  "aiReadyLineCount": 27,
+  "averageConfidence": 88.93,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:04.145229+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

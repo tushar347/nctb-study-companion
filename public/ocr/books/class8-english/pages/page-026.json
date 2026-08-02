@@ -1,0 +1,717 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 26,
+  "pdfPage": 26,
+  "textbookPage": 26,
+  "width": 527.52,
+  "height": 697.0,
+  "image": "../images/page-026.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Health and Hygiene 21\nLesson 1: Health\nKeywords: disease, essential, concentrate, possession\nA. Look at and talk about the picture. Ask and answer the following\nquestions:\na. How often do you wash hands?\nb. Why do you wash hands?\nB. Read the questions first. Then read the text and answer the questions:\n1. Why is good health essential for us?\n2. Why is physical exercise necessary?\nHealth is the condition of our body and mind. It may be good or bad. Good\nhealth means healthy body free from diseases. It is essential for everyone to lead\na happy life. If we are not in good health, we cannot concentrate on any activity\nin our life.\nA proverb goes,\"Health is Wealth\". It means health is equally valuable as gold or\nany other personal possessions. We may have vast wealth and property, but if we\nare not healthy, we cannot enjoy them.\nTo keep ourselves healthy, we have to do certain things. We have to take a\nbalanced diet. We must exercise regularly to keep our body fit for work. There is\nan old saying: 'Early to bed and early to rise, makes a man healthy, wealthy and\nwise.' So, we should not keep late hours. We should go to bed early at night and\n‘© rise early in the morning. Peace of mind is another condition for good health. So,\nS we must not worry over small things of life.",
+  "cleanText": "Health and Hygiene 21 Lesson 1: Health Keywords: disease, essential, concentrate, possession A. Look at and talk about the picture. Ask and answer the following questions: a. How often do you wash hands? b. Why do you wash hands? B. Read the questions first. Then read the text and answer the questions: 1. Why is good health essential for us? 2. Why is physical exercise necessary? Health is the condition of our body and mind. It may be good or bad. Good health means healthy body free from diseases. It is essential for everyone to lead a happy life. If we are not in good health, we cannot concentrate on any activity in our life. A proverb goes,\"Health is Wealth\". It means health is equally valuable as gold or any other personal possessions. We may have vast wealth and property, but if we are not healthy, we cannot enjoy them. To keep ourselves healthy, we have to do certain things. We have to take a balanced diet. We must exercise regularly to keep our body fit for work. There is an old saying: 'Early to bed and early to rise, makes a man healthy, wealthy and wise.' So, we should not keep late hours. We should go to bed early at night and ‘© rise early in the morning. Peace of mind is another condition for good health. So, S we must not worry over small things of life.",
+  "aiReadyText": "Health and Hygiene 21 Lesson 1: Health Keywords: disease, essential, concentrate, possession A. Look at and talk about the picture. Ask and answer the following questions: a. How often do you wash hands? b. Why do you wash hands? B. Read the questions first. Then read the text and answer the questions: 1. Why is good health essential for us? 2. Why is physical exercise necessary? Health is the condition of our body and mind. It may be good or bad. Good health means healthy body free from diseases. It is essential for everyone to lead a happy life. If we are not in good health, we cannot concentrate on any activity in our life. A proverb goes,\"Health is Wealth\". It means health is equally valuable as gold or any other personal possessions. We may have vast wealth and property, but if we are not healthy, we cannot enjoy them. To keep ourselves healthy, we have to do certain things. We have to take a balanced diet. We must exercise regularly to keep our body fit for work. There is an old saying: 'Early to bed and early to rise, makes a man healthy, wealthy and wise.' So, we should not keep late hours. We should go to bed early at night and ‘© rise early in the morning. Peace of mind is another condition for good health. So, S we must not worry over small things of life.",
+  "lines": [
+    {
+      "id": "class8-english-p026-l001",
+      "lineNumber": 1,
+      "text": "Health and Hygiene 21",
+      "cleanText": "Health and Hygiene 21",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        59.9,
+        43.2,
+        473.76,
+        55.58
+      ]
+    },
+    {
+      "id": "class8-english-p026-l002",
+      "lineNumber": 2,
+      "text": "Lesson 1: Health",
+      "cleanText": "Lesson 1: Health",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.94,
+        76.9,
+        206.5,
+        90.72
+      ]
+    },
+    {
+      "id": "class8-english-p026-l003",
+      "lineNumber": 3,
+      "text": "Keywords: disease, essential, concentrate, possession",
+      "cleanText": "Keywords: disease, essential, concentrate, possession",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.8,
+      "bbox": [
+        60.77,
+        103.1,
+        359.14,
+        115.2
+      ]
+    },
+    {
+      "id": "class8-english-p026-l004",
+      "lineNumber": 4,
+      "text": "A. Look at and talk about the picture. Ask and answer the following",
+      "cleanText": "A. Look at and talk about the picture. Ask and answer the following",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.92,
+        128.74,
+        475.49,
+        141.41
+      ]
+    },
+    {
+      "id": "class8-english-p026-l005",
+      "lineNumber": 5,
+      "text": "questions:",
+      "cleanText": "questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        84.1,
+        145.15,
+        139.39,
+        157.54
+      ]
+    },
+    {
+      "id": "class8-english-p026-l006",
+      "lineNumber": 6,
+      "text": "a. How often do you wash hands?",
+      "cleanText": "a. How often do you wash hands?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        83.23,
+        342.43,
+        258.34,
+        354.24
+      ]
+    },
+    {
+      "id": "class8-english-p026-l007",
+      "lineNumber": 7,
+      "text": "b. Why do you wash hands?",
+      "cleanText": "b. Why do you wash hands?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        82.94,
+        361.44,
+        228.67,
+        373.25
+      ]
+    },
+    {
+      "id": "class8-english-p026-l008",
+      "lineNumber": 8,
+      "text": "B. Read the questions first. Then read the text and answer the questions:",
+      "cleanText": "B. Read the questions first. Then read the text and answer the questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        61.92,
+        385.92,
+        464.83,
+        397.44
+      ]
+    },
+    {
+      "id": "class8-english-p026-l009",
+      "lineNumber": 9,
+      "text": "1. Why is good health essential for us?",
+      "cleanText": "1. Why is good health essential for us?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.62,
+      "bbox": [
+        84.1,
+        405.5,
+        292.03,
+        417.31
+      ]
+    },
+    {
+      "id": "class8-english-p026-l010",
+      "lineNumber": 10,
+      "text": "2. Why is physical exercise necessary?",
+      "cleanText": "2. Why is physical exercise necessary?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        82.94,
+        425.66,
+        292.9,
+        437.47
+      ]
+    },
+    {
+      "id": "class8-english-p026-l011",
+      "lineNumber": 11,
+      "text": "Health is the condition of our body and mind. It may be good or bad. Good",
+      "cleanText": "Health is the condition of our body and mind. It may be good or bad. Good",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        62.21,
+        446.98,
+        476.06,
+        459.07
+      ]
+    },
+    {
+      "id": "class8-english-p026-l012",
+      "lineNumber": 12,
+      "text": "health means healthy body free from diseases. It is essential for everyone to lead",
+      "cleanText": "health means healthy body free from diseases. It is essential for everyone to lead",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.79,
+      "bbox": [
+        62.21,
+        462.53,
+        476.06,
+        474.62
+      ]
+    },
+    {
+      "id": "class8-english-p026-l013",
+      "lineNumber": 13,
+      "text": "a happy life. If we are not in good health, we cannot concentrate on any activity",
+      "cleanText": "a happy life. If we are not in good health, we cannot concentrate on any activity",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        62.5,
+        478.37,
+        475.78,
+        490.18
+      ]
+    },
+    {
+      "id": "class8-english-p026-l014",
+      "lineNumber": 14,
+      "text": "in our life.",
+      "cleanText": "in our life.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        62.5,
+        493.92,
+        115.49,
+        503.14
+      ]
+    },
+    {
+      "id": "class8-english-p026-l015",
+      "lineNumber": 15,
+      "text": "A proverb goes,\"Health is Wealth\". It means health is equally valuable as gold or",
+      "cleanText": "A proverb goes,\"Health is Wealth\". It means health is equally valuable as gold or",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.71,
+      "bbox": [
+        62.21,
+        511.49,
+        476.06,
+        523.3
+      ]
+    },
+    {
+      "id": "class8-english-p026-l016",
+      "lineNumber": 16,
+      "text": "any other personal possessions. We may have vast wealth and property, but if we",
+      "cleanText": "any other personal possessions. We may have vast wealth and property, but if we",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.5,
+        527.04,
+        475.78,
+        538.85
+      ]
+    },
+    {
+      "id": "class8-english-p026-l017",
+      "lineNumber": 17,
+      "text": "are not healthy, we cannot enjoy them.",
+      "cleanText": "are not healthy, we cannot enjoy them.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.5,
+        542.59,
+        262.08,
+        554.4
+      ]
+    },
+    {
+      "id": "class8-english-p026-l018",
+      "lineNumber": 18,
+      "text": "To keep ourselves healthy, we have to do certain things. We have to take a",
+      "cleanText": "To keep ourselves healthy, we have to do certain things. We have to take a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        62.21,
+        561.31,
+        476.06,
+        573.12
+      ]
+    },
+    {
+      "id": "class8-english-p026-l019",
+      "lineNumber": 19,
+      "text": "balanced diet. We must exercise regularly to keep our body fit for work. There is",
+      "cleanText": "balanced diet. We must exercise regularly to keep our body fit for work. There is",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.07,
+      "bbox": [
+        61.92,
+        576.86,
+        475.49,
+        588.67
+      ]
+    },
+    {
+      "id": "class8-english-p026-l020",
+      "lineNumber": 20,
+      "text": "an old saying: 'Early to bed and early to rise, makes a man healthy, wealthy and",
+      "cleanText": "an old saying: 'Early to bed and early to rise, makes a man healthy, wealthy and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        62.5,
+        592.42,
+        476.93,
+        604.22
+      ]
+    },
+    {
+      "id": "class8-english-p026-l021",
+      "lineNumber": 21,
+      "text": "wise.' So, we should not keep late hours. We should go to bed early at night and",
+      "cleanText": "wise.' So, we should not keep late hours. We should go to bed early at night and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.53,
+      "bbox": [
+        62.21,
+        607.97,
+        476.06,
+        620.06
+      ]
+    },
+    {
+      "id": "class8-english-p026-l022",
+      "lineNumber": 22,
+      "text": "‘© rise early in the morning. Peace of mind is another condition for good health. So,",
+      "cleanText": "‘© rise early in the morning. Peace of mind is another condition for good health. So,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.5,
+      "bbox": [
+        30.24,
+        623.81,
+        478.08,
+        636.77
+      ]
+    },
+    {
+      "id": "class8-english-p026-l023",
+      "lineNumber": 23,
+      "text": "S we must not worry over small things of life.",
+      "cleanText": "S we must not worry over small things of life.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.7,
+      "bbox": [
+        30.24,
+        637.63,
+        289.44,
+        654.91
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p026-l001",
+      "lineNumber": 1,
+      "text": "Health and Hygiene 21",
+      "cleanText": "Health and Hygiene 21",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        59.9,
+        43.2,
+        473.76,
+        55.58
+      ]
+    },
+    {
+      "id": "class8-english-p026-l002",
+      "lineNumber": 2,
+      "text": "Lesson 1: Health",
+      "cleanText": "Lesson 1: Health",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.94,
+        76.9,
+        206.5,
+        90.72
+      ]
+    },
+    {
+      "id": "class8-english-p026-l003",
+      "lineNumber": 3,
+      "text": "Keywords: disease, essential, concentrate, possession",
+      "cleanText": "Keywords: disease, essential, concentrate, possession",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.8,
+      "bbox": [
+        60.77,
+        103.1,
+        359.14,
+        115.2
+      ]
+    },
+    {
+      "id": "class8-english-p026-l004",
+      "lineNumber": 4,
+      "text": "A. Look at and talk about the picture. Ask and answer the following",
+      "cleanText": "A. Look at and talk about the picture. Ask and answer the following",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.92,
+        128.74,
+        475.49,
+        141.41
+      ]
+    },
+    {
+      "id": "class8-english-p026-l005",
+      "lineNumber": 5,
+      "text": "questions:",
+      "cleanText": "questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        84.1,
+        145.15,
+        139.39,
+        157.54
+      ]
+    },
+    {
+      "id": "class8-english-p026-l006",
+      "lineNumber": 6,
+      "text": "a. How often do you wash hands?",
+      "cleanText": "a. How often do you wash hands?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        83.23,
+        342.43,
+        258.34,
+        354.24
+      ]
+    },
+    {
+      "id": "class8-english-p026-l007",
+      "lineNumber": 7,
+      "text": "b. Why do you wash hands?",
+      "cleanText": "b. Why do you wash hands?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        82.94,
+        361.44,
+        228.67,
+        373.25
+      ]
+    },
+    {
+      "id": "class8-english-p026-l008",
+      "lineNumber": 8,
+      "text": "B. Read the questions first. Then read the text and answer the questions:",
+      "cleanText": "B. Read the questions first. Then read the text and answer the questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        61.92,
+        385.92,
+        464.83,
+        397.44
+      ]
+    },
+    {
+      "id": "class8-english-p026-l009",
+      "lineNumber": 9,
+      "text": "1. Why is good health essential for us?",
+      "cleanText": "1. Why is good health essential for us?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.62,
+      "bbox": [
+        84.1,
+        405.5,
+        292.03,
+        417.31
+      ]
+    },
+    {
+      "id": "class8-english-p026-l010",
+      "lineNumber": 10,
+      "text": "2. Why is physical exercise necessary?",
+      "cleanText": "2. Why is physical exercise necessary?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        82.94,
+        425.66,
+        292.9,
+        437.47
+      ]
+    },
+    {
+      "id": "class8-english-p026-l011",
+      "lineNumber": 11,
+      "text": "Health is the condition of our body and mind. It may be good or bad. Good",
+      "cleanText": "Health is the condition of our body and mind. It may be good or bad. Good",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        62.21,
+        446.98,
+        476.06,
+        459.07
+      ]
+    },
+    {
+      "id": "class8-english-p026-l012",
+      "lineNumber": 12,
+      "text": "health means healthy body free from diseases. It is essential for everyone to lead",
+      "cleanText": "health means healthy body free from diseases. It is essential for everyone to lead",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.79,
+      "bbox": [
+        62.21,
+        462.53,
+        476.06,
+        474.62
+      ]
+    },
+    {
+      "id": "class8-english-p026-l013",
+      "lineNumber": 13,
+      "text": "a happy life. If we are not in good health, we cannot concentrate on any activity",
+      "cleanText": "a happy life. If we are not in good health, we cannot concentrate on any activity",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        62.5,
+        478.37,
+        475.78,
+        490.18
+      ]
+    },
+    {
+      "id": "class8-english-p026-l014",
+      "lineNumber": 14,
+      "text": "in our life.",
+      "cleanText": "in our life.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        62.5,
+        493.92,
+        115.49,
+        503.14
+      ]
+    },
+    {
+      "id": "class8-english-p026-l015",
+      "lineNumber": 15,
+      "text": "A proverb goes,\"Health is Wealth\". It means health is equally valuable as gold or",
+      "cleanText": "A proverb goes,\"Health is Wealth\". It means health is equally valuable as gold or",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.71,
+      "bbox": [
+        62.21,
+        511.49,
+        476.06,
+        523.3
+      ]
+    },
+    {
+      "id": "class8-english-p026-l016",
+      "lineNumber": 16,
+      "text": "any other personal possessions. We may have vast wealth and property, but if we",
+      "cleanText": "any other personal possessions. We may have vast wealth and property, but if we",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.5,
+        527.04,
+        475.78,
+        538.85
+      ]
+    },
+    {
+      "id": "class8-english-p026-l017",
+      "lineNumber": 17,
+      "text": "are not healthy, we cannot enjoy them.",
+      "cleanText": "are not healthy, we cannot enjoy them.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.5,
+        542.59,
+        262.08,
+        554.4
+      ]
+    },
+    {
+      "id": "class8-english-p026-l018",
+      "lineNumber": 18,
+      "text": "To keep ourselves healthy, we have to do certain things. We have to take a",
+      "cleanText": "To keep ourselves healthy, we have to do certain things. We have to take a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        62.21,
+        561.31,
+        476.06,
+        573.12
+      ]
+    },
+    {
+      "id": "class8-english-p026-l019",
+      "lineNumber": 19,
+      "text": "balanced diet. We must exercise regularly to keep our body fit for work. There is",
+      "cleanText": "balanced diet. We must exercise regularly to keep our body fit for work. There is",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.07,
+      "bbox": [
+        61.92,
+        576.86,
+        475.49,
+        588.67
+      ]
+    },
+    {
+      "id": "class8-english-p026-l020",
+      "lineNumber": 20,
+      "text": "an old saying: 'Early to bed and early to rise, makes a man healthy, wealthy and",
+      "cleanText": "an old saying: 'Early to bed and early to rise, makes a man healthy, wealthy and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        62.5,
+        592.42,
+        476.93,
+        604.22
+      ]
+    },
+    {
+      "id": "class8-english-p026-l021",
+      "lineNumber": 21,
+      "text": "wise.' So, we should not keep late hours. We should go to bed early at night and",
+      "cleanText": "wise.' So, we should not keep late hours. We should go to bed early at night and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.53,
+      "bbox": [
+        62.21,
+        607.97,
+        476.06,
+        620.06
+      ]
+    },
+    {
+      "id": "class8-english-p026-l022",
+      "lineNumber": 22,
+      "text": "‘© rise early in the morning. Peace of mind is another condition for good health. So,",
+      "cleanText": "‘© rise early in the morning. Peace of mind is another condition for good health. So,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.5,
+      "bbox": [
+        30.24,
+        623.81,
+        478.08,
+        636.77
+      ]
+    },
+    {
+      "id": "class8-english-p026-l023",
+      "lineNumber": 23,
+      "text": "S we must not worry over small things of life.",
+      "cleanText": "S we must not worry over small things of life.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.7,
+      "bbox": [
+        30.24,
+        637.63,
+        289.44,
+        654.91
+      ]
+    }
+  ],
+  "lineCount": 23,
+  "aiReadyLineCount": 23,
+  "averageConfidence": 94.52,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:11.291567+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

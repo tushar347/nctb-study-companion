@@ -1,0 +1,867 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 160,
+  "pdfPage": 160,
+  "textbookPage": 160,
+  "width": 522.0,
+  "height": 684.0,
+  "image": "../images/page-160.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Sample Question 155\nThe boy paused, looking around at the empty street. He remembered all the\nother poor people in his village, who were also struggling to find food.\nWhen he reached the village, he told the people about the pot of golden coins he\nhad found. Instead of keeping the treasure for himself, he gave it away to the\nvillagers, making sure everyone had enough to eat. The villagers were amazed\nand incredibly grateful for his kindness.\nAs the boy shared the last of the coins, something magical happened. The pot,\nwhich had been empty before, suddenly filled up again with more golden coins.\nThe boy smiled, realizing that his generosity had brought him even more than\nhe had expected.\nFrom that day forward, the boy never went hungry again. The pot always had\nenough gold, not just for him, but for anyone who needed it. And the villagers,\ntouched by his selflessness, treated each other with kindness and care, knowing\nthat true wealth lay not in gold, but in the joy of helping one another.\n12. A Day to Remember\nOne day I will always remember is the day I went on a family trip to the beach.\nIt was a warm summer day, and the sky was clear with just a few clouds\nscattered across. We packed our bags early in the morning, filled with snacks,\ntowels, and beach toys, and set off for the coast. As soon as we arrived, the\nsound of the waves crashing against the shore and the smell of the salty air\ninstantly lifted my spirits. I spent the day building sandcastles with my younger\nsibling, swimming in the cool water, and laughing with my parents. We even\nhad a picnic by the water, enjoying delicious sandwiches and fruit. As the sun\nbegan to set, the sky turned shades of pink and orange, creating a beautiful view.\nIt was a day full of joy, love, and relaxation, and I’ll always treasure those\nmoments spent with my family.\nSs",
+  "cleanText": "Sample Question 155 The boy paused, looking around at the empty street. He remembered all the other poor people in his village, who were also struggling to find food. When he reached the village, he told the people about the pot of golden coins he had found. Instead of keeping the treasure for himself, he gave it away to the villagers, making sure everyone had enough to eat. The villagers were amazed and incredibly grateful for his kindness. As the boy shared the last of the coins, something magical happened. The pot, which had been empty before, suddenly filled up again with more golden coins. The boy smiled, realizing that his generosity had brought him even more than he had expected. From that day forward, the boy never went hungry again. The pot always had enough gold, not just for him, but for anyone who needed it. And the villagers, touched by his selflessness, treated each other with kindness and care, knowing that true wealth lay not in gold, but in the joy of helping one another. 12. A Day to Remember One day I will always remember is the day I went on a family trip to the beach. It was a warm summer day, and the sky was clear with just a few clouds scattered across. We packed our bags early in the morning, filled with snacks, towels, and beach toys, and set off for the coast. As soon as we arrived, the sound of the waves crashing against the shore and the smell of the salty air instantly lifted my spirits. I spent the day building sandcastles with my younger sibling, swimming in the cool water, and laughing with my parents. We even had a picnic by the water, enjoying delicious sandwiches and fruit. As the sun began to set, the sky turned shades of pink and orange, creating a beautiful view. It was a day full of joy, love, and relaxation, and I’ll always treasure those moments spent with my family. Ss",
+  "aiReadyText": "Sample Question 155 The boy paused, looking around at the empty street. He remembered all the other poor people in his village, who were also struggling to find food. When he reached the village, he told the people about the pot of golden coins he had found. Instead of keeping the treasure for himself, he gave it away to the villagers, making sure everyone had enough to eat. The villagers were amazed and incredibly grateful for his kindness. As the boy shared the last of the coins, something magical happened. The pot, which had been empty before, suddenly filled up again with more golden coins. The boy smiled, realizing that his generosity had brought him even more than he had expected. From that day forward, the boy never went hungry again. The pot always had enough gold, not just for him, but for anyone who needed it. And the villagers, touched by his selflessness, treated each other with kindness and care, knowing that true wealth lay not in gold, but in the joy of helping one another. 12. A Day to Remember One day I will always remember is the day I went on a family trip to the beach. It was a warm summer day, and the sky was clear with just a few clouds scattered across. We packed our bags early in the morning, filled with snacks, towels, and beach toys, and set off for the coast. As soon as we arrived, the sound of the waves crashing against the shore and the smell of the salty air instantly lifted my spirits. I spent the day building sandcastles with my younger sibling, swimming in the cool water, and laughing with my parents. We even had a picnic by the water, enjoying delicious sandwiches and fruit. As the sun began to set, the sky turned shades of pink and orange, creating a beautiful view. It was a day full of joy, love, and relaxation, and I’ll always treasure those moments spent with my family. Ss",
+  "lines": [
+    {
+      "id": "class8-english-p160-l001",
+      "lineNumber": 1,
+      "text": "Sample Question 155",
+      "cleanText": "Sample Question 155",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.16,
+        37.73,
+        467.14,
+        47.52
+      ]
+    },
+    {
+      "id": "class8-english-p160-l002",
+      "lineNumber": 2,
+      "text": "The boy paused, looking around at the empty street. He remembered all the",
+      "cleanText": "The boy paused, looking around at the empty street. He remembered all the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        53.57,
+        69.41,
+        463.97,
+        81.22
+      ]
+    },
+    {
+      "id": "class8-english-p160-l003",
+      "lineNumber": 3,
+      "text": "other poor people in his village, who were also struggling to find food.",
+      "cleanText": "other poor people in his village, who were also struggling to find food.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.08,
+      "bbox": [
+        53.57,
+        90.43,
+        419.9,
+        102.24
+      ]
+    },
+    {
+      "id": "class8-english-p160-l004",
+      "lineNumber": 4,
+      "text": "When he reached the village, he told the people about the pot of golden coins he",
+      "cleanText": "When he reached the village, he told the people about the pot of golden coins he",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.06,
+      "bbox": [
+        53.28,
+        113.47,
+        463.97,
+        125.28
+      ]
+    },
+    {
+      "id": "class8-english-p160-l005",
+      "lineNumber": 5,
+      "text": "had found. Instead of keeping the treasure for himself, he gave it away to the",
+      "cleanText": "had found. Instead of keeping the treasure for himself, he gave it away to the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        53.28,
+        134.5,
+        463.97,
+        146.3
+      ]
+    },
+    {
+      "id": "class8-english-p160-l006",
+      "lineNumber": 6,
+      "text": "villagers, making sure everyone had enough to eat. The villagers were amazed",
+      "cleanText": "villagers, making sure everyone had enough to eat. The villagers were amazed",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        53.28,
+        155.23,
+        464.26,
+        167.33
+      ]
+    },
+    {
+      "id": "class8-english-p160-l007",
+      "lineNumber": 7,
+      "text": "and incredibly grateful for his kindness.",
+      "cleanText": "and incredibly grateful for his kindness.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        53.57,
+        176.26,
+        259.49,
+        188.35
+      ]
+    },
+    {
+      "id": "class8-english-p160-l008",
+      "lineNumber": 8,
+      "text": "As the boy shared the last of the coins, something magical happened. The pot,",
+      "cleanText": "As the boy shared the last of the coins, something magical happened. The pot,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        53.28,
+        199.3,
+        463.68,
+        211.1
+      ]
+    },
+    {
+      "id": "class8-english-p160-l009",
+      "lineNumber": 9,
+      "text": "which had been empty before, suddenly filled up again with more golden coins.",
+      "cleanText": "which had been empty before, suddenly filled up again with more golden coins.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        53.28,
+        220.32,
+        463.39,
+        232.13
+      ]
+    },
+    {
+      "id": "class8-english-p160-l010",
+      "lineNumber": 10,
+      "text": "The boy smiled, realizing that his generosity had brought him even more than",
+      "cleanText": "The boy smiled, realizing that his generosity had brought him even more than",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        53.57,
+        242.5,
+        464.26,
+        254.3
+      ]
+    },
+    {
+      "id": "class8-english-p160-l011",
+      "lineNumber": 11,
+      "text": "he had expected.",
+      "cleanText": "he had expected.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        53.28,
+        262.37,
+        139.39,
+        274.18
+      ]
+    },
+    {
+      "id": "class8-english-p160-l012",
+      "lineNumber": 12,
+      "text": "From that day forward, the boy never went hungry again. The pot always had",
+      "cleanText": "From that day forward, the boy never went hungry again. The pot always had",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        53.57,
+        284.26,
+        464.26,
+        296.35
+      ]
+    },
+    {
+      "id": "class8-english-p160-l013",
+      "lineNumber": 13,
+      "text": "enough gold, not just for him, but for anyone who needed it. And the villagers,",
+      "cleanText": "enough gold, not just for him, but for anyone who needed it. And the villagers,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.87,
+      "bbox": [
+        53.57,
+        304.42,
+        463.68,
+        316.22
+      ]
+    },
+    {
+      "id": "class8-english-p160-l014",
+      "lineNumber": 14,
+      "text": "touched by his selflessness, treated each other with kindness and care, knowing",
+      "cleanText": "touched by his selflessness, treated each other with kindness and care, knowing",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        53.28,
+        324.29,
+        463.97,
+        336.1
+      ]
+    },
+    {
+      "id": "class8-english-p160-l015",
+      "lineNumber": 15,
+      "text": "that true wealth lay not in gold, but in the joy of helping one another.",
+      "cleanText": "that true wealth lay not in gold, but in the joy of helping one another.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        53.57,
+        344.45,
+        410.4,
+        356.26
+      ]
+    },
+    {
+      "id": "class8-english-p160-l016",
+      "lineNumber": 16,
+      "text": "12. A Day to Remember",
+      "cleanText": "12. A Day to Remember",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        54.14,
+        387.36,
+        336.38,
+        401.47
+      ]
+    },
+    {
+      "id": "class8-english-p160-l017",
+      "lineNumber": 17,
+      "text": "One day I will always remember is the day I went on a family trip to the beach.",
+      "cleanText": "One day I will always remember is the day I went on a family trip to the beach.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.06,
+      "bbox": [
+        53.57,
+        414.43,
+        463.39,
+        426.24
+      ]
+    },
+    {
+      "id": "class8-english-p160-l018",
+      "lineNumber": 18,
+      "text": "It was a warm summer day, and the sky was clear with just a few clouds",
+      "cleanText": "It was a warm summer day, and the sky was clear with just a few clouds",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        53.57,
+        434.3,
+        463.68,
+        446.11
+      ]
+    },
+    {
+      "id": "class8-english-p160-l019",
+      "lineNumber": 19,
+      "text": "scattered across. We packed our bags early in the morning, filled with snacks,",
+      "cleanText": "scattered across. We packed our bags early in the morning, filled with snacks,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        53.86,
+        454.46,
+        463.68,
+        466.27
+      ]
+    },
+    {
+      "id": "class8-english-p160-l020",
+      "lineNumber": 20,
+      "text": "towels, and beach toys, and set off for the coast. As soon as we arrived, the",
+      "cleanText": "towels, and beach toys, and set off for the coast. As soon as we arrived, the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        53.28,
+        474.34,
+        463.97,
+        486.14
+      ]
+    },
+    {
+      "id": "class8-english-p160-l021",
+      "lineNumber": 21,
+      "text": "sound of the waves crashing against the shore and the smell of the salty air",
+      "cleanText": "sound of the waves crashing against the shore and the smell of the salty air",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        53.86,
+        494.5,
+        464.26,
+        506.3
+      ]
+    },
+    {
+      "id": "class8-english-p160-l022",
+      "lineNumber": 22,
+      "text": "instantly lifted my spirits. I spent the day building sandcastles with my younger",
+      "cleanText": "instantly lifted my spirits. I spent the day building sandcastles with my younger",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        53.57,
+        514.37,
+        464.26,
+        526.18
+      ]
+    },
+    {
+      "id": "class8-english-p160-l023",
+      "lineNumber": 23,
+      "text": "sibling, swimming in the cool water, and laughing with my parents. We even",
+      "cleanText": "sibling, swimming in the cool water, and laughing with my parents. We even",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        53.86,
+        534.24,
+        464.26,
+        546.34
+      ]
+    },
+    {
+      "id": "class8-english-p160-l024",
+      "lineNumber": 24,
+      "text": "had a picnic by the water, enjoying delicious sandwiches and fruit. As the sun",
+      "cleanText": "had a picnic by the water, enjoying delicious sandwiches and fruit. As the sun",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        53.28,
+        554.4,
+        463.97,
+        566.21
+      ]
+    },
+    {
+      "id": "class8-english-p160-l025",
+      "lineNumber": 25,
+      "text": "began to set, the sky turned shades of pink and orange, creating a beautiful view.",
+      "cleanText": "began to set, the sky turned shades of pink and orange, creating a beautiful view.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        53.28,
+        574.27,
+        463.39,
+        586.37
+      ]
+    },
+    {
+      "id": "class8-english-p160-l026",
+      "lineNumber": 26,
+      "text": "It was a day full of joy, love, and relaxation, and I’ll always treasure those",
+      "cleanText": "It was a day full of joy, love, and relaxation, and I’ll always treasure those",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.67,
+      "bbox": [
+        53.57,
+        594.43,
+        463.97,
+        606.24
+      ]
+    },
+    {
+      "id": "class8-english-p160-l027",
+      "lineNumber": 27,
+      "text": "moments spent with my family.",
+      "cleanText": "moments spent with my family.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        53.28,
+        614.3,
+        216.58,
+        626.11
+      ]
+    },
+    {
+      "id": "class8-english-p160-l028",
+      "lineNumber": 28,
+      "text": "Ss",
+      "cleanText": "Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 30.0,
+      "bbox": [
+        19.58,
+        627.55,
+        27.07,
+        649.73
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p160-l001",
+      "lineNumber": 1,
+      "text": "Sample Question 155",
+      "cleanText": "Sample Question 155",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.16,
+        37.73,
+        467.14,
+        47.52
+      ]
+    },
+    {
+      "id": "class8-english-p160-l002",
+      "lineNumber": 2,
+      "text": "The boy paused, looking around at the empty street. He remembered all the",
+      "cleanText": "The boy paused, looking around at the empty street. He remembered all the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        53.57,
+        69.41,
+        463.97,
+        81.22
+      ]
+    },
+    {
+      "id": "class8-english-p160-l003",
+      "lineNumber": 3,
+      "text": "other poor people in his village, who were also struggling to find food.",
+      "cleanText": "other poor people in his village, who were also struggling to find food.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.08,
+      "bbox": [
+        53.57,
+        90.43,
+        419.9,
+        102.24
+      ]
+    },
+    {
+      "id": "class8-english-p160-l004",
+      "lineNumber": 4,
+      "text": "When he reached the village, he told the people about the pot of golden coins he",
+      "cleanText": "When he reached the village, he told the people about the pot of golden coins he",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.06,
+      "bbox": [
+        53.28,
+        113.47,
+        463.97,
+        125.28
+      ]
+    },
+    {
+      "id": "class8-english-p160-l005",
+      "lineNumber": 5,
+      "text": "had found. Instead of keeping the treasure for himself, he gave it away to the",
+      "cleanText": "had found. Instead of keeping the treasure for himself, he gave it away to the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        53.28,
+        134.5,
+        463.97,
+        146.3
+      ]
+    },
+    {
+      "id": "class8-english-p160-l006",
+      "lineNumber": 6,
+      "text": "villagers, making sure everyone had enough to eat. The villagers were amazed",
+      "cleanText": "villagers, making sure everyone had enough to eat. The villagers were amazed",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        53.28,
+        155.23,
+        464.26,
+        167.33
+      ]
+    },
+    {
+      "id": "class8-english-p160-l007",
+      "lineNumber": 7,
+      "text": "and incredibly grateful for his kindness.",
+      "cleanText": "and incredibly grateful for his kindness.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        53.57,
+        176.26,
+        259.49,
+        188.35
+      ]
+    },
+    {
+      "id": "class8-english-p160-l008",
+      "lineNumber": 8,
+      "text": "As the boy shared the last of the coins, something magical happened. The pot,",
+      "cleanText": "As the boy shared the last of the coins, something magical happened. The pot,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        53.28,
+        199.3,
+        463.68,
+        211.1
+      ]
+    },
+    {
+      "id": "class8-english-p160-l009",
+      "lineNumber": 9,
+      "text": "which had been empty before, suddenly filled up again with more golden coins.",
+      "cleanText": "which had been empty before, suddenly filled up again with more golden coins.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        53.28,
+        220.32,
+        463.39,
+        232.13
+      ]
+    },
+    {
+      "id": "class8-english-p160-l010",
+      "lineNumber": 10,
+      "text": "The boy smiled, realizing that his generosity had brought him even more than",
+      "cleanText": "The boy smiled, realizing that his generosity had brought him even more than",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        53.57,
+        242.5,
+        464.26,
+        254.3
+      ]
+    },
+    {
+      "id": "class8-english-p160-l011",
+      "lineNumber": 11,
+      "text": "he had expected.",
+      "cleanText": "he had expected.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        53.28,
+        262.37,
+        139.39,
+        274.18
+      ]
+    },
+    {
+      "id": "class8-english-p160-l012",
+      "lineNumber": 12,
+      "text": "From that day forward, the boy never went hungry again. The pot always had",
+      "cleanText": "From that day forward, the boy never went hungry again. The pot always had",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        53.57,
+        284.26,
+        464.26,
+        296.35
+      ]
+    },
+    {
+      "id": "class8-english-p160-l013",
+      "lineNumber": 13,
+      "text": "enough gold, not just for him, but for anyone who needed it. And the villagers,",
+      "cleanText": "enough gold, not just for him, but for anyone who needed it. And the villagers,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.87,
+      "bbox": [
+        53.57,
+        304.42,
+        463.68,
+        316.22
+      ]
+    },
+    {
+      "id": "class8-english-p160-l014",
+      "lineNumber": 14,
+      "text": "touched by his selflessness, treated each other with kindness and care, knowing",
+      "cleanText": "touched by his selflessness, treated each other with kindness and care, knowing",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        53.28,
+        324.29,
+        463.97,
+        336.1
+      ]
+    },
+    {
+      "id": "class8-english-p160-l015",
+      "lineNumber": 15,
+      "text": "that true wealth lay not in gold, but in the joy of helping one another.",
+      "cleanText": "that true wealth lay not in gold, but in the joy of helping one another.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        53.57,
+        344.45,
+        410.4,
+        356.26
+      ]
+    },
+    {
+      "id": "class8-english-p160-l016",
+      "lineNumber": 16,
+      "text": "12. A Day to Remember",
+      "cleanText": "12. A Day to Remember",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        54.14,
+        387.36,
+        336.38,
+        401.47
+      ]
+    },
+    {
+      "id": "class8-english-p160-l017",
+      "lineNumber": 17,
+      "text": "One day I will always remember is the day I went on a family trip to the beach.",
+      "cleanText": "One day I will always remember is the day I went on a family trip to the beach.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.06,
+      "bbox": [
+        53.57,
+        414.43,
+        463.39,
+        426.24
+      ]
+    },
+    {
+      "id": "class8-english-p160-l018",
+      "lineNumber": 18,
+      "text": "It was a warm summer day, and the sky was clear with just a few clouds",
+      "cleanText": "It was a warm summer day, and the sky was clear with just a few clouds",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        53.57,
+        434.3,
+        463.68,
+        446.11
+      ]
+    },
+    {
+      "id": "class8-english-p160-l019",
+      "lineNumber": 19,
+      "text": "scattered across. We packed our bags early in the morning, filled with snacks,",
+      "cleanText": "scattered across. We packed our bags early in the morning, filled with snacks,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        53.86,
+        454.46,
+        463.68,
+        466.27
+      ]
+    },
+    {
+      "id": "class8-english-p160-l020",
+      "lineNumber": 20,
+      "text": "towels, and beach toys, and set off for the coast. As soon as we arrived, the",
+      "cleanText": "towels, and beach toys, and set off for the coast. As soon as we arrived, the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        53.28,
+        474.34,
+        463.97,
+        486.14
+      ]
+    },
+    {
+      "id": "class8-english-p160-l021",
+      "lineNumber": 21,
+      "text": "sound of the waves crashing against the shore and the smell of the salty air",
+      "cleanText": "sound of the waves crashing against the shore and the smell of the salty air",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        53.86,
+        494.5,
+        464.26,
+        506.3
+      ]
+    },
+    {
+      "id": "class8-english-p160-l022",
+      "lineNumber": 22,
+      "text": "instantly lifted my spirits. I spent the day building sandcastles with my younger",
+      "cleanText": "instantly lifted my spirits. I spent the day building sandcastles with my younger",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        53.57,
+        514.37,
+        464.26,
+        526.18
+      ]
+    },
+    {
+      "id": "class8-english-p160-l023",
+      "lineNumber": 23,
+      "text": "sibling, swimming in the cool water, and laughing with my parents. We even",
+      "cleanText": "sibling, swimming in the cool water, and laughing with my parents. We even",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        53.86,
+        534.24,
+        464.26,
+        546.34
+      ]
+    },
+    {
+      "id": "class8-english-p160-l024",
+      "lineNumber": 24,
+      "text": "had a picnic by the water, enjoying delicious sandwiches and fruit. As the sun",
+      "cleanText": "had a picnic by the water, enjoying delicious sandwiches and fruit. As the sun",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        53.28,
+        554.4,
+        463.97,
+        566.21
+      ]
+    },
+    {
+      "id": "class8-english-p160-l025",
+      "lineNumber": 25,
+      "text": "began to set, the sky turned shades of pink and orange, creating a beautiful view.",
+      "cleanText": "began to set, the sky turned shades of pink and orange, creating a beautiful view.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        53.28,
+        574.27,
+        463.39,
+        586.37
+      ]
+    },
+    {
+      "id": "class8-english-p160-l026",
+      "lineNumber": 26,
+      "text": "It was a day full of joy, love, and relaxation, and I’ll always treasure those",
+      "cleanText": "It was a day full of joy, love, and relaxation, and I’ll always treasure those",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.67,
+      "bbox": [
+        53.57,
+        594.43,
+        463.97,
+        606.24
+      ]
+    },
+    {
+      "id": "class8-english-p160-l027",
+      "lineNumber": 27,
+      "text": "moments spent with my family.",
+      "cleanText": "moments spent with my family.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        53.28,
+        614.3,
+        216.58,
+        626.11
+      ]
+    },
+    {
+      "id": "class8-english-p160-l028",
+      "lineNumber": 28,
+      "text": "Ss",
+      "cleanText": "Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 30.0,
+      "bbox": [
+        19.58,
+        627.55,
+        27.07,
+        649.73
+      ]
+    }
+  ],
+  "lineCount": 28,
+  "aiReadyLineCount": 28,
+  "averageConfidence": 93.44,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:19:49.791188+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

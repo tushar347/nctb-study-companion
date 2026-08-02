@@ -1,0 +1,837 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 133,
+  "pdfPage": 133,
+  "textbookPage": 133,
+  "width": 532.47,
+  "height": 692.96,
+  "image": "../images/page-133.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "128 English For Today\nLesson 6: Paper and Wheel\nKeywords: record, paper, surface of stone, bark, encyclopedia,\nwood plunk, digital\nA. Look at the picture and say what this is. Discuss with your partner:\n+.\ns ba:\nre 4\nB. Read the text and answer the following questions:\nCommunication of ideas is at the centre of civilisation. It needs written records.\nMost of our records in the modern age are on paper. Though writing was\ninvented very early, paper is a more modern invention.\nFor long, people exchanged ideas through speaking and listening. Then\nthere came the art of writing. But to record thoughts in writing was\ndifficult. Writing materials were not available. People used the surface of\nstone, metal, wood, bark, leaves, etc. for writing. Those things were not easy\nto carry. Then for ages, people looked for easy writing materials. Finally,\npaper was invented in China in 105 CE. (Common Era)\nBefore the paper age, knowledge was very restricted. Can you think of that\ntime? There were very few books in the world. Maybe, they were written on\nstone or on heavy wood planks or on metal sheets. Suppose, one page was a\nheavy stone block. So, think of a hundred-page book! In our time, you can\ncarry the entire world of knowledge in digital form in your laptop. You\ncan even carry a huge volume of paper encyclopedia. But who could produce\nand carry tons of heavy stone books and documents in those paperless days? In\nfact, paper has made publication and the spread of knowledge and information\neasy. So, you can see how paper has changed our life. Q\nN",
+  "cleanText": "128 English For Today Lesson 6: Paper and Wheel Keywords: record, paper, surface of stone, bark, encyclopedia, wood plunk, digital A. Look at the picture and say what this is. Discuss with your partner: +. s ba: re 4 B. Read the text and answer the following questions: Communication of ideas is at the centre of civilisation. It needs written records. Most of our records in the modern age are on paper. Though writing was invented very early, paper is a more modern invention. For long, people exchanged ideas through speaking and listening. Then there came the art of writing. But to record thoughts in writing was difficult. Writing materials were not available. People used the surface of stone, metal, wood, bark, leaves, etc. for writing. Those things were not easy to carry. Then for ages, people looked for easy writing materials. Finally, paper was invented in China in 105 CE. (Common Era) Before the paper age, knowledge was very restricted. Can you think of that time? There were very few books in the world. Maybe, they were written on stone or on heavy wood planks or on metal sheets. Suppose, one page was a heavy stone block. So, think of a hundred-page book! In our time, you can carry the entire world of knowledge in digital form in your laptop. You can even carry a huge volume of paper encyclopedia. But who could produce and carry tons of heavy stone books and documents in those paperless days? In fact, paper has made publication and the spread of knowledge and information easy. So, you can see how paper has changed our life. Q N",
+  "aiReadyText": "128 English For Today Lesson 6: Paper and Wheel Keywords: record, paper, surface of stone, bark, encyclopedia, wood plunk, digital A. Look at the picture and say what this is. Discuss with your partner: s ba: re 4 B. Read the text and answer the following questions: Communication of ideas is at the centre of civilisation. It needs written records. Most of our records in the modern age are on paper. Though writing was invented very early, paper is a more modern invention. For long, people exchanged ideas through speaking and listening. Then there came the art of writing. But to record thoughts in writing was difficult. Writing materials were not available. People used the surface of stone, metal, wood, bark, leaves, etc. for writing. Those things were not easy to carry. Then for ages, people looked for easy writing materials. Finally, paper was invented in China in 105 CE. (Common Era) Before the paper age, knowledge was very restricted. Can you think of that time? There were very few books in the world. Maybe, they were written on stone or on heavy wood planks or on metal sheets. Suppose, one page was a heavy stone block. So, think of a hundred-page book! In our time, you can carry the entire world of knowledge in digital form in your laptop. You can even carry a huge volume of paper encyclopedia. But who could produce and carry tons of heavy stone books and documents in those paperless days? In fact, paper has made publication and the spread of knowledge and information easy. So, you can see how paper has changed our life. Q",
+  "lines": [
+    {
+      "id": "class8-english-p133-l001",
+      "lineNumber": 1,
+      "text": "128 English For Today",
+      "cleanText": "128 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.19,
+        40.9,
+        473.76,
+        52.13
+      ]
+    },
+    {
+      "id": "class8-english-p133-l002",
+      "lineNumber": 2,
+      "text": "Lesson 6: Paper and Wheel",
+      "cleanText": "Lesson 6: Paper and Wheel",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        61.63,
+        70.85,
+        293.47,
+        88.7
+      ]
+    },
+    {
+      "id": "class8-english-p133-l003",
+      "lineNumber": 3,
+      "text": "Keywords: record, paper, surface of stone, bark, encyclopedia,",
+      "cleanText": "Keywords: record, paper, surface of stone, bark, encyclopedia,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        61.92,
+        96.48,
+        443.52,
+        110.59
+      ]
+    },
+    {
+      "id": "class8-english-p133-l004",
+      "lineNumber": 4,
+      "text": "wood plunk, digital",
+      "cleanText": "wood plunk, digital",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.33,
+      "bbox": [
+        152.93,
+        114.34,
+        262.37,
+        126.14
+      ]
+    },
+    {
+      "id": "class8-english-p133-l005",
+      "lineNumber": 5,
+      "text": "A. Look at the picture and say what this is. Discuss with your partner:",
+      "cleanText": "A. Look at the picture and say what this is. Discuss with your partner:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        63.36,
+        133.63,
+        455.62,
+        145.15
+      ]
+    },
+    {
+      "id": "class8-english-p133-l006",
+      "lineNumber": 6,
+      "text": "+.",
+      "cleanText": "+.",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 40.0,
+      "bbox": [
+        238.75,
+        173.95,
+        251.71,
+        183.74
+      ]
+    },
+    {
+      "id": "class8-english-p133-l007",
+      "lineNumber": 7,
+      "text": "s ba:",
+      "cleanText": "s ba:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 9.0,
+      "bbox": [
+        204.77,
+        273.89,
+        281.95,
+        283.97
+      ]
+    },
+    {
+      "id": "class8-english-p133-l008",
+      "lineNumber": 8,
+      "text": "re 4",
+      "cleanText": "re 4",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 36.5,
+      "bbox": [
+        235.87,
+        277.92,
+        256.9,
+        298.08
+      ]
+    },
+    {
+      "id": "class8-english-p133-l009",
+      "lineNumber": 9,
+      "text": "B. Read the text and answer the following questions:",
+      "cleanText": "B. Read the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        62.21,
+        327.46,
+        350.78,
+        339.26
+      ]
+    },
+    {
+      "id": "class8-english-p133-l010",
+      "lineNumber": 10,
+      "text": "Communication of ideas is at the centre of civilisation. It needs written records.",
+      "cleanText": "Communication of ideas is at the centre of civilisation. It needs written records.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        62.21,
+        348.48,
+        478.37,
+        357.7
+      ]
+    },
+    {
+      "id": "class8-english-p133-l011",
+      "lineNumber": 11,
+      "text": "Most of our records in the modern age are on paper. Though writing was",
+      "cleanText": "Most of our records in the modern age are on paper. Though writing was",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        61.63,
+        364.03,
+        475.78,
+        375.84
+      ]
+    },
+    {
+      "id": "class8-english-p133-l012",
+      "lineNumber": 12,
+      "text": "invented very early, paper is a more modern invention.",
+      "cleanText": "invented very early, paper is a more modern invention.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        62.78,
+        379.58,
+        351.07,
+        391.39
+      ]
+    },
+    {
+      "id": "class8-english-p133-l013",
+      "lineNumber": 13,
+      "text": "For long, people exchanged ideas through speaking and listening. Then",
+      "cleanText": "For long, people exchanged ideas through speaking and listening. Then",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.3,
+      "bbox": [
+        62.21,
+        404.93,
+        476.64,
+        416.74
+      ]
+    },
+    {
+      "id": "class8-english-p133-l014",
+      "lineNumber": 14,
+      "text": "there came the art of writing. But to record thoughts in writing was",
+      "cleanText": "there came the art of writing. But to record thoughts in writing was",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        63.07,
+        420.48,
+        475.49,
+        432.29
+      ]
+    },
+    {
+      "id": "class8-english-p133-l015",
+      "lineNumber": 15,
+      "text": "difficult. Writing materials were not available. People used the surface of",
+      "cleanText": "difficult. Writing materials were not available. People used the surface of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        62.5,
+        436.03,
+        476.93,
+        448.7
+      ]
+    },
+    {
+      "id": "class8-english-p133-l016",
+      "lineNumber": 16,
+      "text": "stone, metal, wood, bark, leaves, etc. for writing. Those things were not easy",
+      "cleanText": "stone, metal, wood, bark, leaves, etc. for writing. Those things were not easy",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.07,
+        451.01,
+        476.35,
+        463.39
+      ]
+    },
+    {
+      "id": "class8-english-p133-l017",
+      "lineNumber": 17,
+      "text": "to carry. Then for ages, people looked for easy writing materials. Finally,",
+      "cleanText": "to carry. Then for ages, people looked for easy writing materials. Finally,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        61.92,
+        466.85,
+        475.49,
+        478.94
+      ]
+    },
+    {
+      "id": "class8-english-p133-l018",
+      "lineNumber": 18,
+      "text": "paper was invented in China in 105 CE. (Common Era)",
+      "cleanText": "paper was invented in China in 105 CE. (Common Era)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.21,
+        483.55,
+        351.07,
+        495.36
+      ]
+    },
+    {
+      "id": "class8-english-p133-l019",
+      "lineNumber": 19,
+      "text": "Before the paper age, knowledge was very restricted. Can you think of that",
+      "cleanText": "Before the paper age, knowledge was very restricted. Can you think of that",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        61.92,
+        505.44,
+        475.49,
+        517.54
+      ]
+    },
+    {
+      "id": "class8-english-p133-l020",
+      "lineNumber": 20,
+      "text": "time? There were very few books in the world. Maybe, they were written on",
+      "cleanText": "time? There were very few books in the world. Maybe, they were written on",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.92,
+        520.99,
+        476.35,
+        532.8
+      ]
+    },
+    {
+      "id": "class8-english-p133-l021",
+      "lineNumber": 21,
+      "text": "stone or on heavy wood planks or on metal sheets. Suppose, one page was a",
+      "cleanText": "stone or on heavy wood planks or on metal sheets. Suppose, one page was a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        63.36,
+        536.54,
+        475.2,
+        548.35
+      ]
+    },
+    {
+      "id": "class8-english-p133-l022",
+      "lineNumber": 22,
+      "text": "heavy stone block. So, think of a hundred-page book! In our time, you can",
+      "cleanText": "heavy stone block. So, think of a hundred-page book! In our time, you can",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.21,
+      "bbox": [
+        62.21,
+        552.1,
+        475.49,
+        564.19
+      ]
+    },
+    {
+      "id": "class8-english-p133-l023",
+      "lineNumber": 23,
+      "text": "carry the entire world of knowledge in digital form in your laptop. You",
+      "cleanText": "carry the entire world of knowledge in digital form in your laptop. You",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.77,
+      "bbox": [
+        62.21,
+        567.65,
+        475.78,
+        579.74
+      ]
+    },
+    {
+      "id": "class8-english-p133-l024",
+      "lineNumber": 24,
+      "text": "can even carry a huge volume of paper encyclopedia. But who could produce",
+      "cleanText": "can even carry a huge volume of paper encyclopedia. But who could produce",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.77,
+      "bbox": [
+        61.92,
+        583.2,
+        476.35,
+        595.01
+      ]
+    },
+    {
+      "id": "class8-english-p133-l025",
+      "lineNumber": 25,
+      "text": "and carry tons of heavy stone books and documents in those paperless days? In",
+      "cleanText": "and carry tons of heavy stone books and documents in those paperless days? In",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.78,
+        598.46,
+        478.66,
+        610.56
+      ]
+    },
+    {
+      "id": "class8-english-p133-l026",
+      "lineNumber": 26,
+      "text": "fact, paper has made publication and the spread of knowledge and information",
+      "cleanText": "fact, paper has made publication and the spread of knowledge and information",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.21,
+        614.02,
+        475.78,
+        625.82
+      ]
+    },
+    {
+      "id": "class8-english-p133-l027",
+      "lineNumber": 27,
+      "text": "easy. So, you can see how paper has changed our life. Q",
+      "cleanText": "easy. So, you can see how paper has changed our life. Q",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.92,
+      "bbox": [
+        61.92,
+        628.7,
+        498.82,
+        646.27
+      ]
+    },
+    {
+      "id": "class8-english-p133-l028",
+      "lineNumber": 28,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 81.0,
+      "bbox": [
+        490.46,
+        647.14,
+        498.82,
+        652.61
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p133-l001",
+      "lineNumber": 1,
+      "text": "128 English For Today",
+      "cleanText": "128 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.19,
+        40.9,
+        473.76,
+        52.13
+      ]
+    },
+    {
+      "id": "class8-english-p133-l002",
+      "lineNumber": 2,
+      "text": "Lesson 6: Paper and Wheel",
+      "cleanText": "Lesson 6: Paper and Wheel",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        61.63,
+        70.85,
+        293.47,
+        88.7
+      ]
+    },
+    {
+      "id": "class8-english-p133-l003",
+      "lineNumber": 3,
+      "text": "Keywords: record, paper, surface of stone, bark, encyclopedia,",
+      "cleanText": "Keywords: record, paper, surface of stone, bark, encyclopedia,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        61.92,
+        96.48,
+        443.52,
+        110.59
+      ]
+    },
+    {
+      "id": "class8-english-p133-l004",
+      "lineNumber": 4,
+      "text": "wood plunk, digital",
+      "cleanText": "wood plunk, digital",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.33,
+      "bbox": [
+        152.93,
+        114.34,
+        262.37,
+        126.14
+      ]
+    },
+    {
+      "id": "class8-english-p133-l005",
+      "lineNumber": 5,
+      "text": "A. Look at the picture and say what this is. Discuss with your partner:",
+      "cleanText": "A. Look at the picture and say what this is. Discuss with your partner:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        63.36,
+        133.63,
+        455.62,
+        145.15
+      ]
+    },
+    {
+      "id": "class8-english-p133-l007",
+      "lineNumber": 7,
+      "text": "s ba:",
+      "cleanText": "s ba:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 9.0,
+      "bbox": [
+        204.77,
+        273.89,
+        281.95,
+        283.97
+      ]
+    },
+    {
+      "id": "class8-english-p133-l008",
+      "lineNumber": 8,
+      "text": "re 4",
+      "cleanText": "re 4",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 36.5,
+      "bbox": [
+        235.87,
+        277.92,
+        256.9,
+        298.08
+      ]
+    },
+    {
+      "id": "class8-english-p133-l009",
+      "lineNumber": 9,
+      "text": "B. Read the text and answer the following questions:",
+      "cleanText": "B. Read the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        62.21,
+        327.46,
+        350.78,
+        339.26
+      ]
+    },
+    {
+      "id": "class8-english-p133-l010",
+      "lineNumber": 10,
+      "text": "Communication of ideas is at the centre of civilisation. It needs written records.",
+      "cleanText": "Communication of ideas is at the centre of civilisation. It needs written records.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        62.21,
+        348.48,
+        478.37,
+        357.7
+      ]
+    },
+    {
+      "id": "class8-english-p133-l011",
+      "lineNumber": 11,
+      "text": "Most of our records in the modern age are on paper. Though writing was",
+      "cleanText": "Most of our records in the modern age are on paper. Though writing was",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        61.63,
+        364.03,
+        475.78,
+        375.84
+      ]
+    },
+    {
+      "id": "class8-english-p133-l012",
+      "lineNumber": 12,
+      "text": "invented very early, paper is a more modern invention.",
+      "cleanText": "invented very early, paper is a more modern invention.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        62.78,
+        379.58,
+        351.07,
+        391.39
+      ]
+    },
+    {
+      "id": "class8-english-p133-l013",
+      "lineNumber": 13,
+      "text": "For long, people exchanged ideas through speaking and listening. Then",
+      "cleanText": "For long, people exchanged ideas through speaking and listening. Then",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.3,
+      "bbox": [
+        62.21,
+        404.93,
+        476.64,
+        416.74
+      ]
+    },
+    {
+      "id": "class8-english-p133-l014",
+      "lineNumber": 14,
+      "text": "there came the art of writing. But to record thoughts in writing was",
+      "cleanText": "there came the art of writing. But to record thoughts in writing was",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        63.07,
+        420.48,
+        475.49,
+        432.29
+      ]
+    },
+    {
+      "id": "class8-english-p133-l015",
+      "lineNumber": 15,
+      "text": "difficult. Writing materials were not available. People used the surface of",
+      "cleanText": "difficult. Writing materials were not available. People used the surface of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        62.5,
+        436.03,
+        476.93,
+        448.7
+      ]
+    },
+    {
+      "id": "class8-english-p133-l016",
+      "lineNumber": 16,
+      "text": "stone, metal, wood, bark, leaves, etc. for writing. Those things were not easy",
+      "cleanText": "stone, metal, wood, bark, leaves, etc. for writing. Those things were not easy",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.07,
+        451.01,
+        476.35,
+        463.39
+      ]
+    },
+    {
+      "id": "class8-english-p133-l017",
+      "lineNumber": 17,
+      "text": "to carry. Then for ages, people looked for easy writing materials. Finally,",
+      "cleanText": "to carry. Then for ages, people looked for easy writing materials. Finally,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        61.92,
+        466.85,
+        475.49,
+        478.94
+      ]
+    },
+    {
+      "id": "class8-english-p133-l018",
+      "lineNumber": 18,
+      "text": "paper was invented in China in 105 CE. (Common Era)",
+      "cleanText": "paper was invented in China in 105 CE. (Common Era)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.21,
+        483.55,
+        351.07,
+        495.36
+      ]
+    },
+    {
+      "id": "class8-english-p133-l019",
+      "lineNumber": 19,
+      "text": "Before the paper age, knowledge was very restricted. Can you think of that",
+      "cleanText": "Before the paper age, knowledge was very restricted. Can you think of that",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        61.92,
+        505.44,
+        475.49,
+        517.54
+      ]
+    },
+    {
+      "id": "class8-english-p133-l020",
+      "lineNumber": 20,
+      "text": "time? There were very few books in the world. Maybe, they were written on",
+      "cleanText": "time? There were very few books in the world. Maybe, they were written on",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.92,
+        520.99,
+        476.35,
+        532.8
+      ]
+    },
+    {
+      "id": "class8-english-p133-l021",
+      "lineNumber": 21,
+      "text": "stone or on heavy wood planks or on metal sheets. Suppose, one page was a",
+      "cleanText": "stone or on heavy wood planks or on metal sheets. Suppose, one page was a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        63.36,
+        536.54,
+        475.2,
+        548.35
+      ]
+    },
+    {
+      "id": "class8-english-p133-l022",
+      "lineNumber": 22,
+      "text": "heavy stone block. So, think of a hundred-page book! In our time, you can",
+      "cleanText": "heavy stone block. So, think of a hundred-page book! In our time, you can",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.21,
+      "bbox": [
+        62.21,
+        552.1,
+        475.49,
+        564.19
+      ]
+    },
+    {
+      "id": "class8-english-p133-l023",
+      "lineNumber": 23,
+      "text": "carry the entire world of knowledge in digital form in your laptop. You",
+      "cleanText": "carry the entire world of knowledge in digital form in your laptop. You",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.77,
+      "bbox": [
+        62.21,
+        567.65,
+        475.78,
+        579.74
+      ]
+    },
+    {
+      "id": "class8-english-p133-l024",
+      "lineNumber": 24,
+      "text": "can even carry a huge volume of paper encyclopedia. But who could produce",
+      "cleanText": "can even carry a huge volume of paper encyclopedia. But who could produce",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.77,
+      "bbox": [
+        61.92,
+        583.2,
+        476.35,
+        595.01
+      ]
+    },
+    {
+      "id": "class8-english-p133-l025",
+      "lineNumber": 25,
+      "text": "and carry tons of heavy stone books and documents in those paperless days? In",
+      "cleanText": "and carry tons of heavy stone books and documents in those paperless days? In",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.78,
+        598.46,
+        478.66,
+        610.56
+      ]
+    },
+    {
+      "id": "class8-english-p133-l026",
+      "lineNumber": 26,
+      "text": "fact, paper has made publication and the spread of knowledge and information",
+      "cleanText": "fact, paper has made publication and the spread of knowledge and information",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.21,
+        614.02,
+        475.78,
+        625.82
+      ]
+    },
+    {
+      "id": "class8-english-p133-l027",
+      "lineNumber": 27,
+      "text": "easy. So, you can see how paper has changed our life. Q",
+      "cleanText": "easy. So, you can see how paper has changed our life. Q",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.92,
+      "bbox": [
+        61.92,
+        628.7,
+        498.82,
+        646.27
+      ]
+    }
+  ],
+  "lineCount": 28,
+  "aiReadyLineCount": 26,
+  "averageConfidence": 87.43,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:19:09.957089+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

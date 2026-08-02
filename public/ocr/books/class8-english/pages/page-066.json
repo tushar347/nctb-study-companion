@@ -1,0 +1,432 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 66,
+  "pdfPage": 66,
+  "textbookPage": 66,
+  "width": 530.0,
+  "height": 696.0,
+  "image": "../images/page-066.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Humans and Environment 61\nD. Answer the following questions:\n1. How do the minority races of Bangladesh contribute to the cultural\ndiversity of the country?\n2. Why has the government introduced textbooks in ethnic\nlanguages?\n3. How do the traditional clothes and designs reflect the cultural\nvalues of ethnic communities?\nE. Find out if anyone from your family has visited any ethnic festival\nmentioned in the text. If so, listen to his/her experience and share it\nwith class.\n‘oO\nN\nS\nN",
+  "cleanText": "Humans and Environment 61 D. Answer the following questions: 1. How do the minority races of Bangladesh contribute to the cultural diversity of the country? 2. Why has the government introduced textbooks in ethnic languages? 3. How do the traditional clothes and designs reflect the cultural values of ethnic communities? E. Find out if anyone from your family has visited any ethnic festival mentioned in the text. If so, listen to his/her experience and share it with class. ‘oO N S N",
+  "aiReadyText": "Humans and Environment 61 D. Answer the following questions: 1. How do the minority races of Bangladesh contribute to the cultural diversity of the country? 2. Why has the government introduced textbooks in ethnic languages? 3. How do the traditional clothes and designs reflect the cultural values of ethnic communities? E. Find out if anyone from your family has visited any ethnic festival mentioned in the text. If so, listen to his/her experience and share it with class. ‘oO",
+  "lines": [
+    {
+      "id": "class8-english-p066-l001",
+      "lineNumber": 1,
+      "text": "Humans and Environment 61",
+      "cleanText": "Humans and Environment 61",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        57.31,
+        42.05,
+        471.17,
+        50.69
+      ]
+    },
+    {
+      "id": "class8-english-p066-l002",
+      "lineNumber": 2,
+      "text": "D. Answer the following questions:",
+      "cleanText": "D. Answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        56.74,
+        73.44,
+        263.52,
+        85.82
+      ]
+    },
+    {
+      "id": "class8-english-p066-l003",
+      "lineNumber": 3,
+      "text": "1. How do the minority races of Bangladesh contribute to the cultural",
+      "cleanText": "1. How do the minority races of Bangladesh contribute to the cultural",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        76.32,
+        100.22,
+        466.85,
+        112.9
+      ]
+    },
+    {
+      "id": "class8-english-p066-l004",
+      "lineNumber": 4,
+      "text": "diversity of the country?",
+      "cleanText": "diversity of the country?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        93.02,
+        118.66,
+        229.25,
+        131.33
+      ]
+    },
+    {
+      "id": "class8-english-p066-l005",
+      "lineNumber": 5,
+      "text": "2. Why has the government introduced textbooks in ethnic",
+      "cleanText": "2. Why has the government introduced textbooks in ethnic",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        74.88,
+        137.09,
+        405.79,
+        150.05
+      ]
+    },
+    {
+      "id": "class8-english-p066-l006",
+      "lineNumber": 6,
+      "text": "languages?",
+      "cleanText": "languages?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        93.02,
+        155.81,
+        154.37,
+        168.48
+      ]
+    },
+    {
+      "id": "class8-english-p066-l007",
+      "lineNumber": 7,
+      "text": "3. How do the traditional clothes and designs reflect the cultural",
+      "cleanText": "3. How do the traditional clothes and designs reflect the cultural",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        75.17,
+        174.24,
+        436.9,
+        186.91
+      ]
+    },
+    {
+      "id": "class8-english-p066-l008",
+      "lineNumber": 8,
+      "text": "values of ethnic communities?",
+      "cleanText": "values of ethnic communities?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        92.74,
+        192.67,
+        262.66,
+        202.46
+      ]
+    },
+    {
+      "id": "class8-english-p066-l009",
+      "lineNumber": 9,
+      "text": "E. Find out if anyone from your family has visited any ethnic festival",
+      "cleanText": "E. Find out if anyone from your family has visited any ethnic festival",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.23,
+      "bbox": [
+        57.02,
+        225.79,
+        470.02,
+        238.18
+      ]
+    },
+    {
+      "id": "class8-english-p066-l010",
+      "lineNumber": 10,
+      "text": "mentioned in the text. If so, listen to his/her experience and share it",
+      "cleanText": "mentioned in the text. If so, listen to his/her experience and share it",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.77,
+      "bbox": [
+        57.31,
+        244.22,
+        470.3,
+        256.9
+      ]
+    },
+    {
+      "id": "class8-english-p066-l011",
+      "lineNumber": 11,
+      "text": "with class.",
+      "cleanText": "with class.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.74,
+        262.66,
+        117.5,
+        272.45
+      ]
+    },
+    {
+      "id": "class8-english-p066-l012",
+      "lineNumber": 12,
+      "text": "‘oO",
+      "cleanText": "‘oO",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 17.0,
+      "bbox": [
+        490.18,
+        629.57,
+        498.53,
+        635.04
+      ]
+    },
+    {
+      "id": "class8-english-p066-l013",
+      "lineNumber": 13,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 75.0,
+      "bbox": [
+        490.18,
+        636.19,
+        498.24,
+        641.66
+      ]
+    },
+    {
+      "id": "class8-english-p066-l014",
+      "lineNumber": 14,
+      "text": "S",
+      "cleanText": "S",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 39.0,
+      "bbox": [
+        490.18,
+        641.95,
+        498.53,
+        647.14
+      ]
+    },
+    {
+      "id": "class8-english-p066-l015",
+      "lineNumber": 15,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 82.0,
+      "bbox": [
+        490.18,
+        648.29,
+        498.24,
+        653.76
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p066-l001",
+      "lineNumber": 1,
+      "text": "Humans and Environment 61",
+      "cleanText": "Humans and Environment 61",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        57.31,
+        42.05,
+        471.17,
+        50.69
+      ]
+    },
+    {
+      "id": "class8-english-p066-l002",
+      "lineNumber": 2,
+      "text": "D. Answer the following questions:",
+      "cleanText": "D. Answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        56.74,
+        73.44,
+        263.52,
+        85.82
+      ]
+    },
+    {
+      "id": "class8-english-p066-l003",
+      "lineNumber": 3,
+      "text": "1. How do the minority races of Bangladesh contribute to the cultural",
+      "cleanText": "1. How do the minority races of Bangladesh contribute to the cultural",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        76.32,
+        100.22,
+        466.85,
+        112.9
+      ]
+    },
+    {
+      "id": "class8-english-p066-l004",
+      "lineNumber": 4,
+      "text": "diversity of the country?",
+      "cleanText": "diversity of the country?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        93.02,
+        118.66,
+        229.25,
+        131.33
+      ]
+    },
+    {
+      "id": "class8-english-p066-l005",
+      "lineNumber": 5,
+      "text": "2. Why has the government introduced textbooks in ethnic",
+      "cleanText": "2. Why has the government introduced textbooks in ethnic",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        74.88,
+        137.09,
+        405.79,
+        150.05
+      ]
+    },
+    {
+      "id": "class8-english-p066-l006",
+      "lineNumber": 6,
+      "text": "languages?",
+      "cleanText": "languages?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        93.02,
+        155.81,
+        154.37,
+        168.48
+      ]
+    },
+    {
+      "id": "class8-english-p066-l007",
+      "lineNumber": 7,
+      "text": "3. How do the traditional clothes and designs reflect the cultural",
+      "cleanText": "3. How do the traditional clothes and designs reflect the cultural",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        75.17,
+        174.24,
+        436.9,
+        186.91
+      ]
+    },
+    {
+      "id": "class8-english-p066-l008",
+      "lineNumber": 8,
+      "text": "values of ethnic communities?",
+      "cleanText": "values of ethnic communities?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        92.74,
+        192.67,
+        262.66,
+        202.46
+      ]
+    },
+    {
+      "id": "class8-english-p066-l009",
+      "lineNumber": 9,
+      "text": "E. Find out if anyone from your family has visited any ethnic festival",
+      "cleanText": "E. Find out if anyone from your family has visited any ethnic festival",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.23,
+      "bbox": [
+        57.02,
+        225.79,
+        470.02,
+        238.18
+      ]
+    },
+    {
+      "id": "class8-english-p066-l010",
+      "lineNumber": 10,
+      "text": "mentioned in the text. If so, listen to his/her experience and share it",
+      "cleanText": "mentioned in the text. If so, listen to his/her experience and share it",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.77,
+      "bbox": [
+        57.31,
+        244.22,
+        470.3,
+        256.9
+      ]
+    },
+    {
+      "id": "class8-english-p066-l011",
+      "lineNumber": 11,
+      "text": "with class.",
+      "cleanText": "with class.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.74,
+        262.66,
+        117.5,
+        272.45
+      ]
+    },
+    {
+      "id": "class8-english-p066-l012",
+      "lineNumber": 12,
+      "text": "‘oO",
+      "cleanText": "‘oO",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 17.0,
+      "bbox": [
+        490.18,
+        629.57,
+        498.53,
+        635.04
+      ]
+    }
+  ],
+  "lineCount": 15,
+  "aiReadyLineCount": 12,
+  "averageConfidence": 84.43,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:17:27.477185+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

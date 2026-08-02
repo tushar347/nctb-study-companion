@@ -1,0 +1,507 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 99,
+  "pdfPage": 99,
+  "textbookPage": 99,
+  "width": 529.47,
+  "height": 688.41,
+  "image": "../images/page-099.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Unit Eight\nNews! News! News!\nLo “= 2 OP Se im,\n..: se) eli\nSee Wels Heseni 2 _——\nAfter we have studied this unit, we will be able to\n@ ask and answer questions\n@ participate in short dialogues and conversations on familiar topics\n@ read aloud texts with proper sounds, stress and intonation\n@ read and understand text materials\n@ write answers to questions\n@ write simple formal/informal letters\n@ write simple CVs\n@ write short paragraphs\n‘oO\nS\nN",
+  "cleanText": "Unit Eight News! News! News! Lo “= 2 OP Se im,..: se) eli See Wels Heseni 2 _—— After we have studied this unit, we will be able to @ ask and answer questions @ participate in short dialogues and conversations on familiar topics @ read aloud texts with proper sounds, stress and intonation @ read and understand text materials @ write answers to questions @ write simple formal/informal letters @ write simple CVs @ write short paragraphs ‘oO S N",
+  "aiReadyText": "Unit Eight News! News! News! Lo “= 2 OP Se im,..: se) eli See Wels Heseni 2 _—— After we have studied this unit, we will be able to @ ask and answer questions @ participate in short dialogues and conversations on familiar topics @ read aloud texts with proper sounds, stress and intonation @ read and understand text materials @ write answers to questions @ write simple formal/informal letters @ write simple CVs @ write short paragraphs ‘oO",
+  "lines": [
+    {
+      "id": "class8-english-p099-l001",
+      "lineNumber": 1,
+      "text": "Unit Eight",
+      "cleanText": "Unit Eight",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        235.3,
+        68.54,
+        315.36,
+        84.67
+      ]
+    },
+    {
+      "id": "class8-english-p099-l002",
+      "lineNumber": 2,
+      "text": "News! News! News!",
+      "cleanText": "News! News! News!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        178.27,
+        103.39,
+        376.13,
+        120.1
+      ]
+    },
+    {
+      "id": "class8-english-p099-l003",
+      "lineNumber": 3,
+      "text": "Lo “= 2 OP Se im,",
+      "cleanText": "Lo “= 2 OP Se im,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 35.17,
+      "bbox": [
+        62.78,
+        189.22,
+        457.63,
+        224.93
+      ]
+    },
+    {
+      "id": "class8-english-p099-l004",
+      "lineNumber": 4,
+      "text": "..: se) eli",
+      "cleanText": "..: se) eli",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 16.5,
+      "bbox": [
+        165.02,
+        247.97,
+        403.2,
+        254.88
+      ]
+    },
+    {
+      "id": "class8-english-p099-l005",
+      "lineNumber": 5,
+      "text": "See Wels Heseni 2 _——",
+      "cleanText": "See Wels Heseni 2 _——",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 18.8,
+      "bbox": [
+        285.7,
+        288.0,
+        434.02,
+        297.22
+      ]
+    },
+    {
+      "id": "class8-english-p099-l006",
+      "lineNumber": 6,
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.19,
+        410.69,
+        318.53,
+        421.92
+      ]
+    },
+    {
+      "id": "class8-english-p099-l007",
+      "lineNumber": 7,
+      "text": "@ ask and answer questions",
+      "cleanText": "@ ask and answer questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.4,
+      "bbox": [
+        81.79,
+        433.73,
+        227.52,
+        445.54
+      ]
+    },
+    {
+      "id": "class8-english-p099-l008",
+      "lineNumber": 8,
+      "text": "@ participate in short dialogues and conversations on familiar topics",
+      "cleanText": "@ participate in short dialogues and conversations on familiar topics",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.1,
+      "bbox": [
+        81.79,
+        456.77,
+        438.05,
+        468.58
+      ]
+    },
+    {
+      "id": "class8-english-p099-l009",
+      "lineNumber": 9,
+      "text": "@ read aloud texts with proper sounds, stress and intonation",
+      "cleanText": "@ read aloud texts with proper sounds, stress and intonation",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.6,
+      "bbox": [
+        81.79,
+        479.81,
+        394.56,
+        491.62
+      ]
+    },
+    {
+      "id": "class8-english-p099-l010",
+      "lineNumber": 10,
+      "text": "@ read and understand text materials",
+      "cleanText": "@ read and understand text materials",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.0,
+      "bbox": [
+        81.79,
+        502.85,
+        277.34,
+        512.06
+      ]
+    },
+    {
+      "id": "class8-english-p099-l011",
+      "lineNumber": 11,
+      "text": "@ write answers to questions",
+      "cleanText": "@ write answers to questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.2,
+      "bbox": [
+        81.79,
+        525.6,
+        233.28,
+        537.7
+      ]
+    },
+    {
+      "id": "class8-english-p099-l012",
+      "lineNumber": 12,
+      "text": "@ write simple formal/informal letters",
+      "cleanText": "@ write simple formal/informal letters",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.2,
+      "bbox": [
+        81.79,
+        548.64,
+        281.66,
+        560.74
+      ]
+    },
+    {
+      "id": "class8-english-p099-l013",
+      "lineNumber": 13,
+      "text": "@ write simple CVs",
+      "cleanText": "@ write simple CVs",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.0,
+      "bbox": [
+        81.79,
+        571.68,
+        186.62,
+        583.49
+      ]
+    },
+    {
+      "id": "class8-english-p099-l014",
+      "lineNumber": 14,
+      "text": "@ write short paragraphs",
+      "cleanText": "@ write short paragraphs",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.0,
+      "bbox": [
+        81.79,
+        594.72,
+        211.97,
+        606.53
+      ]
+    },
+    {
+      "id": "class8-english-p099-l015",
+      "lineNumber": 15,
+      "text": "‘oO",
+      "cleanText": "‘oO",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 30.0,
+      "bbox": [
+        500.26,
+        624.67,
+        508.61,
+        630.14
+      ]
+    },
+    {
+      "id": "class8-english-p099-l016",
+      "lineNumber": 16,
+      "text": "S",
+      "cleanText": "S",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 49.0,
+      "bbox": [
+        500.26,
+        631.3,
+        508.61,
+        642.24
+      ]
+    },
+    {
+      "id": "class8-english-p099-l017",
+      "lineNumber": 17,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 75.0,
+      "bbox": [
+        500.26,
+        643.1,
+        508.32,
+        648.58
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p099-l001",
+      "lineNumber": 1,
+      "text": "Unit Eight",
+      "cleanText": "Unit Eight",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        235.3,
+        68.54,
+        315.36,
+        84.67
+      ]
+    },
+    {
+      "id": "class8-english-p099-l002",
+      "lineNumber": 2,
+      "text": "News! News! News!",
+      "cleanText": "News! News! News!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        178.27,
+        103.39,
+        376.13,
+        120.1
+      ]
+    },
+    {
+      "id": "class8-english-p099-l003",
+      "lineNumber": 3,
+      "text": "Lo “= 2 OP Se im,",
+      "cleanText": "Lo “= 2 OP Se im,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 35.17,
+      "bbox": [
+        62.78,
+        189.22,
+        457.63,
+        224.93
+      ]
+    },
+    {
+      "id": "class8-english-p099-l004",
+      "lineNumber": 4,
+      "text": "..: se) eli",
+      "cleanText": "..: se) eli",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 16.5,
+      "bbox": [
+        165.02,
+        247.97,
+        403.2,
+        254.88
+      ]
+    },
+    {
+      "id": "class8-english-p099-l005",
+      "lineNumber": 5,
+      "text": "See Wels Heseni 2 _——",
+      "cleanText": "See Wels Heseni 2 _——",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 18.8,
+      "bbox": [
+        285.7,
+        288.0,
+        434.02,
+        297.22
+      ]
+    },
+    {
+      "id": "class8-english-p099-l006",
+      "lineNumber": 6,
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.19,
+        410.69,
+        318.53,
+        421.92
+      ]
+    },
+    {
+      "id": "class8-english-p099-l007",
+      "lineNumber": 7,
+      "text": "@ ask and answer questions",
+      "cleanText": "@ ask and answer questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.4,
+      "bbox": [
+        81.79,
+        433.73,
+        227.52,
+        445.54
+      ]
+    },
+    {
+      "id": "class8-english-p099-l008",
+      "lineNumber": 8,
+      "text": "@ participate in short dialogues and conversations on familiar topics",
+      "cleanText": "@ participate in short dialogues and conversations on familiar topics",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.1,
+      "bbox": [
+        81.79,
+        456.77,
+        438.05,
+        468.58
+      ]
+    },
+    {
+      "id": "class8-english-p099-l009",
+      "lineNumber": 9,
+      "text": "@ read aloud texts with proper sounds, stress and intonation",
+      "cleanText": "@ read aloud texts with proper sounds, stress and intonation",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.6,
+      "bbox": [
+        81.79,
+        479.81,
+        394.56,
+        491.62
+      ]
+    },
+    {
+      "id": "class8-english-p099-l010",
+      "lineNumber": 10,
+      "text": "@ read and understand text materials",
+      "cleanText": "@ read and understand text materials",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.0,
+      "bbox": [
+        81.79,
+        502.85,
+        277.34,
+        512.06
+      ]
+    },
+    {
+      "id": "class8-english-p099-l011",
+      "lineNumber": 11,
+      "text": "@ write answers to questions",
+      "cleanText": "@ write answers to questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.2,
+      "bbox": [
+        81.79,
+        525.6,
+        233.28,
+        537.7
+      ]
+    },
+    {
+      "id": "class8-english-p099-l012",
+      "lineNumber": 12,
+      "text": "@ write simple formal/informal letters",
+      "cleanText": "@ write simple formal/informal letters",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.2,
+      "bbox": [
+        81.79,
+        548.64,
+        281.66,
+        560.74
+      ]
+    },
+    {
+      "id": "class8-english-p099-l013",
+      "lineNumber": 13,
+      "text": "@ write simple CVs",
+      "cleanText": "@ write simple CVs",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.0,
+      "bbox": [
+        81.79,
+        571.68,
+        186.62,
+        583.49
+      ]
+    },
+    {
+      "id": "class8-english-p099-l014",
+      "lineNumber": 14,
+      "text": "@ write short paragraphs",
+      "cleanText": "@ write short paragraphs",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.0,
+      "bbox": [
+        81.79,
+        594.72,
+        211.97,
+        606.53
+      ]
+    },
+    {
+      "id": "class8-english-p099-l015",
+      "lineNumber": 15,
+      "text": "‘oO",
+      "cleanText": "‘oO",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 30.0,
+      "bbox": [
+        500.26,
+        624.67,
+        508.61,
+        630.14
+      ]
+    }
+  ],
+  "lineCount": 17,
+  "aiReadyLineCount": 15,
+  "averageConfidence": 73.06,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:20.737239+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

@@ -1,0 +1,567 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 33,
+  "pdfPage": 33,
+  "textbookPage": 33,
+  "width": 536.0,
+  "height": 691.16,
+  "image": "../images/page-033.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "28 English For Today\n4. According to Rabi's letter, what is the major consequence of smoking?\na. improved athletic performance\nb. enhanced memory\nCc. increased risk of fatal diseases\nd. better social interactions\nB. Ask and answer the question. First say, then write:\n1. What could be the relationship between the sender and the receiver\nof the letter?\n2. What causes lung cancer?\n3. Whodo you think are the members of Rabi's family? Why do you think so?\nC. Imagine you are Sohel. Now, write a reply to Rabi's letter:\nLesson 6: Physical Exercise\nKeywords: stretching, benefit, regularity\nA. Lookat the picture and talk about it with your partner:\nB. Read the text and answer the following questions:\nMr. Pronay Larma, the physical teacher of Rooppur High School is talking S\nabout health to his students. S",
+  "cleanText": "28 English For Today 4. According to Rabi's letter, what is the major consequence of smoking? a. improved athletic performance b. enhanced memory Cc. increased risk of fatal diseases d. better social interactions B. Ask and answer the question. First say, then write: 1. What could be the relationship between the sender and the receiver of the letter? 2. What causes lung cancer? 3. Whodo you think are the members of Rabi's family? Why do you think so? C. Imagine you are Sohel. Now, write a reply to Rabi's letter: Lesson 6: Physical Exercise Keywords: stretching, benefit, regularity A. Lookat the picture and talk about it with your partner: B. Read the text and answer the following questions: Mr. Pronay Larma, the physical teacher of Rooppur High School is talking S about health to his students. S",
+  "aiReadyText": "28 English For Today 4. According to Rabi's letter, what is the major consequence of smoking? a. improved athletic performance b. enhanced memory Cc. increased risk of fatal diseases d. better social interactions B. Ask and answer the question. First say, then write: 1. What could be the relationship between the sender and the receiver of the letter? 2. What causes lung cancer? 3. Whodo you think are the members of Rabi's family? Why do you think so? C. Imagine you are Sohel. Now, write a reply to Rabi's letter: Lesson 6: Physical Exercise Keywords: stretching, benefit, regularity A. Lookat the picture and talk about it with your partner: B. Read the text and answer the following questions: Mr. Pronay Larma, the physical teacher of Rooppur High School is talking S about health to his students. S",
+  "lines": [
+    {
+      "id": "class8-english-p033-l001",
+      "lineNumber": 1,
+      "text": "28 English For Today",
+      "cleanText": "28 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        62.5,
+        39.46,
+        474.34,
+        51.84
+      ]
+    },
+    {
+      "id": "class8-english-p033-l002",
+      "lineNumber": 2,
+      "text": "4. According to Rabi's letter, what is the major consequence of smoking?",
+      "cleanText": "4. According to Rabi's letter, what is the major consequence of smoking?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.92,
+      "bbox": [
+        64.22,
+        71.71,
+        477.5,
+        83.81
+      ]
+    },
+    {
+      "id": "class8-english-p033-l003",
+      "lineNumber": 3,
+      "text": "a. improved athletic performance",
+      "cleanText": "a. improved athletic performance",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        100.51,
+        96.48,
+        304.42,
+        108.58
+      ]
+    },
+    {
+      "id": "class8-english-p033-l004",
+      "lineNumber": 4,
+      "text": "b. enhanced memory",
+      "cleanText": "b. enhanced memory",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.67,
+      "bbox": [
+        101.09,
+        114.62,
+        238.46,
+        126.72
+      ]
+    },
+    {
+      "id": "class8-english-p033-l005",
+      "lineNumber": 5,
+      "text": "Cc. increased risk of fatal diseases",
+      "cleanText": "Cc. increased risk of fatal diseases",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.0,
+      "bbox": [
+        100.51,
+        132.48,
+        296.93,
+        142.27
+      ]
+    },
+    {
+      "id": "class8-english-p033-l006",
+      "lineNumber": 6,
+      "text": "d. better social interactions",
+      "cleanText": "d. better social interactions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        100.51,
+        150.62,
+        268.7,
+        160.42
+      ]
+    },
+    {
+      "id": "class8-english-p033-l007",
+      "lineNumber": 7,
+      "text": "B. Ask and answer the question. First say, then write:",
+      "cleanText": "B. Ask and answer the question. First say, then write:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        63.07,
+        175.68,
+        356.83,
+        188.64
+      ]
+    },
+    {
+      "id": "class8-english-p033-l008",
+      "lineNumber": 8,
+      "text": "1. What could be the relationship between the sender and the receiver",
+      "cleanText": "1. What could be the relationship between the sender and the receiver",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.92,
+      "bbox": [
+        84.1,
+        196.13,
+        476.93,
+        207.94
+      ]
+    },
+    {
+      "id": "class8-english-p033-l009",
+      "lineNumber": 9,
+      "text": "of the letter?",
+      "cleanText": "of the letter?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        105.12,
+        213.98,
+        175.1,
+        224.64
+      ]
+    },
+    {
+      "id": "class8-english-p033-l010",
+      "lineNumber": 10,
+      "text": "2. What causes lung cancer?",
+      "cleanText": "2. What causes lung cancer?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.8,
+      "bbox": [
+        83.23,
+        234.14,
+        242.5,
+        246.24
+      ]
+    },
+    {
+      "id": "class8-english-p033-l011",
+      "lineNumber": 11,
+      "text": "3. Whodo you think are the members of Rabi's family? Why do you think so?",
+      "cleanText": "3. Whodo you think are the members of Rabi's family? Why do you think so?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.6,
+      "bbox": [
+        83.23,
+        252.86,
+        478.66,
+        265.25
+      ]
+    },
+    {
+      "id": "class8-english-p033-l012",
+      "lineNumber": 12,
+      "text": "C. Imagine you are Sohel. Now, write a reply to Rabi's letter:",
+      "cleanText": "C. Imagine you are Sohel. Now, write a reply to Rabi's letter:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.92,
+      "bbox": [
+        63.07,
+        275.9,
+        390.24,
+        288.58
+      ]
+    },
+    {
+      "id": "class8-english-p033-l013",
+      "lineNumber": 13,
+      "text": "Lesson 6: Physical Exercise",
+      "cleanText": "Lesson 6: Physical Exercise",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        61.34,
+        331.78,
+        294.62,
+        349.63
+      ]
+    },
+    {
+      "id": "class8-english-p033-l014",
+      "lineNumber": 14,
+      "text": "Keywords: stretching, benefit, regularity",
+      "cleanText": "Keywords: stretching, benefit, regularity",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.34,
+        357.41,
+        296.64,
+        368.93
+      ]
+    },
+    {
+      "id": "class8-english-p033-l015",
+      "lineNumber": 15,
+      "text": "A. Lookat the picture and talk about it with your partner:",
+      "cleanText": "A. Lookat the picture and talk about it with your partner:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.09,
+      "bbox": [
+        61.92,
+        376.99,
+        376.7,
+        389.66
+      ]
+    },
+    {
+      "id": "class8-english-p033-l016",
+      "lineNumber": 16,
+      "text": "B. Read the text and answer the following questions:",
+      "cleanText": "B. Read the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.44,
+      "bbox": [
+        62.5,
+        599.62,
+        353.38,
+        612.29
+      ]
+    },
+    {
+      "id": "class8-english-p033-l017",
+      "lineNumber": 17,
+      "text": "Mr. Pronay Larma, the physical teacher of Rooppur High School is talking S",
+      "cleanText": "Mr. Pronay Larma, the physical teacher of Rooppur High School is talking S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.31,
+      "bbox": [
+        62.5,
+        622.94,
+        503.71,
+        638.78
+      ]
+    },
+    {
+      "id": "class8-english-p033-l018",
+      "lineNumber": 18,
+      "text": "about health to his students. S",
+      "cleanText": "about health to his students. S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 79.33,
+      "bbox": [
+        62.5,
+        638.78,
+        503.71,
+        650.59
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p033-l001",
+      "lineNumber": 1,
+      "text": "28 English For Today",
+      "cleanText": "28 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        62.5,
+        39.46,
+        474.34,
+        51.84
+      ]
+    },
+    {
+      "id": "class8-english-p033-l002",
+      "lineNumber": 2,
+      "text": "4. According to Rabi's letter, what is the major consequence of smoking?",
+      "cleanText": "4. According to Rabi's letter, what is the major consequence of smoking?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.92,
+      "bbox": [
+        64.22,
+        71.71,
+        477.5,
+        83.81
+      ]
+    },
+    {
+      "id": "class8-english-p033-l003",
+      "lineNumber": 3,
+      "text": "a. improved athletic performance",
+      "cleanText": "a. improved athletic performance",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        100.51,
+        96.48,
+        304.42,
+        108.58
+      ]
+    },
+    {
+      "id": "class8-english-p033-l004",
+      "lineNumber": 4,
+      "text": "b. enhanced memory",
+      "cleanText": "b. enhanced memory",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.67,
+      "bbox": [
+        101.09,
+        114.62,
+        238.46,
+        126.72
+      ]
+    },
+    {
+      "id": "class8-english-p033-l005",
+      "lineNumber": 5,
+      "text": "Cc. increased risk of fatal diseases",
+      "cleanText": "Cc. increased risk of fatal diseases",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.0,
+      "bbox": [
+        100.51,
+        132.48,
+        296.93,
+        142.27
+      ]
+    },
+    {
+      "id": "class8-english-p033-l006",
+      "lineNumber": 6,
+      "text": "d. better social interactions",
+      "cleanText": "d. better social interactions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        100.51,
+        150.62,
+        268.7,
+        160.42
+      ]
+    },
+    {
+      "id": "class8-english-p033-l007",
+      "lineNumber": 7,
+      "text": "B. Ask and answer the question. First say, then write:",
+      "cleanText": "B. Ask and answer the question. First say, then write:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        63.07,
+        175.68,
+        356.83,
+        188.64
+      ]
+    },
+    {
+      "id": "class8-english-p033-l008",
+      "lineNumber": 8,
+      "text": "1. What could be the relationship between the sender and the receiver",
+      "cleanText": "1. What could be the relationship between the sender and the receiver",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.92,
+      "bbox": [
+        84.1,
+        196.13,
+        476.93,
+        207.94
+      ]
+    },
+    {
+      "id": "class8-english-p033-l009",
+      "lineNumber": 9,
+      "text": "of the letter?",
+      "cleanText": "of the letter?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        105.12,
+        213.98,
+        175.1,
+        224.64
+      ]
+    },
+    {
+      "id": "class8-english-p033-l010",
+      "lineNumber": 10,
+      "text": "2. What causes lung cancer?",
+      "cleanText": "2. What causes lung cancer?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.8,
+      "bbox": [
+        83.23,
+        234.14,
+        242.5,
+        246.24
+      ]
+    },
+    {
+      "id": "class8-english-p033-l011",
+      "lineNumber": 11,
+      "text": "3. Whodo you think are the members of Rabi's family? Why do you think so?",
+      "cleanText": "3. Whodo you think are the members of Rabi's family? Why do you think so?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.6,
+      "bbox": [
+        83.23,
+        252.86,
+        478.66,
+        265.25
+      ]
+    },
+    {
+      "id": "class8-english-p033-l012",
+      "lineNumber": 12,
+      "text": "C. Imagine you are Sohel. Now, write a reply to Rabi's letter:",
+      "cleanText": "C. Imagine you are Sohel. Now, write a reply to Rabi's letter:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.92,
+      "bbox": [
+        63.07,
+        275.9,
+        390.24,
+        288.58
+      ]
+    },
+    {
+      "id": "class8-english-p033-l013",
+      "lineNumber": 13,
+      "text": "Lesson 6: Physical Exercise",
+      "cleanText": "Lesson 6: Physical Exercise",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        61.34,
+        331.78,
+        294.62,
+        349.63
+      ]
+    },
+    {
+      "id": "class8-english-p033-l014",
+      "lineNumber": 14,
+      "text": "Keywords: stretching, benefit, regularity",
+      "cleanText": "Keywords: stretching, benefit, regularity",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.34,
+        357.41,
+        296.64,
+        368.93
+      ]
+    },
+    {
+      "id": "class8-english-p033-l015",
+      "lineNumber": 15,
+      "text": "A. Lookat the picture and talk about it with your partner:",
+      "cleanText": "A. Lookat the picture and talk about it with your partner:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.09,
+      "bbox": [
+        61.92,
+        376.99,
+        376.7,
+        389.66
+      ]
+    },
+    {
+      "id": "class8-english-p033-l016",
+      "lineNumber": 16,
+      "text": "B. Read the text and answer the following questions:",
+      "cleanText": "B. Read the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.44,
+      "bbox": [
+        62.5,
+        599.62,
+        353.38,
+        612.29
+      ]
+    },
+    {
+      "id": "class8-english-p033-l017",
+      "lineNumber": 17,
+      "text": "Mr. Pronay Larma, the physical teacher of Rooppur High School is talking S",
+      "cleanText": "Mr. Pronay Larma, the physical teacher of Rooppur High School is talking S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.31,
+      "bbox": [
+        62.5,
+        622.94,
+        503.71,
+        638.78
+      ]
+    },
+    {
+      "id": "class8-english-p033-l018",
+      "lineNumber": 18,
+      "text": "about health to his students. S",
+      "cleanText": "about health to his students. S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 79.33,
+      "bbox": [
+        62.5,
+        638.78,
+        503.71,
+        650.59
+      ]
+    }
+  ],
+  "lineCount": 18,
+  "aiReadyLineCount": 18,
+  "averageConfidence": 93.31,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:22.069979+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

@@ -1,0 +1,852 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 154,
+  "pdfPage": 154,
+  "textbookPage": 154,
+  "width": 522.0,
+  "height": 684.0,
+  "image": "../images/page-154.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Sample Question 149\n7. Write a summary of the passage in your own words: 10\n8. Match the parts of sentences from the Columns A and B to make five\ncomplete sentences: 1x5=5\na) Garment workers generally work |i) are some of the major challenges that they face usually,\nb) Typically, he or she works i) they demand job security and better pay.\nc) Low wages and long shifts ii) for 12 to 14 hours a day.\nd) Due to lack of skills, iv) in factories and textile mills.\ne) But, for their livelihood and future,|v) they don’t have any alternative job opportunities.\n9. Put the following parts of the story in correct order to make the whole story.\nOnly the corresponding numbers of the sentences need to be written: 1x8=8\na) The traveler, astonished, asked why he was treated so well by a\nstranger.\nb) His home was always open, and his hands never empty of love for\nothers.\nc) Without hesitation, Hatem invited him in, offering a feast of food and\nwater.\nd) Word spread quickly of his hospitality, and people from all over came\nto witness his heart.\ne) Hatem Tai was known far and wide for his generosity and kindness.\nf) Hatem Tai's legacy of kindness lives on, reminding all to give without\nexpecting in return.\ng) One day, a poor traveler came to his door, starving and thirsty.\nh) Hatem smiled and said, \"Kindness costs nothing, but it enriches the\n6 soul\nN\nSs\nAQ",
+  "cleanText": "Sample Question 149 7. Write a summary of the passage in your own words: 10 8. Match the parts of sentences from the Columns A and B to make five complete sentences: 1x5=5 a) Garment workers generally work |i) are some of the major challenges that they face usually, b) Typically, he or she works i) they demand job security and better pay. c) Low wages and long shifts ii) for 12 to 14 hours a day. d) Due to lack of skills, iv) in factories and textile mills. e) But, for their livelihood and future,|v) they don’t have any alternative job opportunities. 9. Put the following parts of the story in correct order to make the whole story. Only the corresponding numbers of the sentences need to be written: 1x8=8 a) The traveler, astonished, asked why he was treated so well by a stranger. b) His home was always open, and his hands never empty of love for others. c) Without hesitation, Hatem invited him in, offering a feast of food and water. d) Word spread quickly of his hospitality, and people from all over came to witness his heart. e) Hatem Tai was known far and wide for his generosity and kindness. f) Hatem Tai's legacy of kindness lives on, reminding all to give without expecting in return. g) One day, a poor traveler came to his door, starving and thirsty. h) Hatem smiled and said, \"Kindness costs nothing, but it enriches the 6 soul N Ss AQ",
+  "aiReadyText": "Sample Question 149 7. Write a summary of the passage in your own words: 10 8. Match the parts of sentences from the Columns A and B to make five complete sentences: 1x5=5 a) Garment workers generally work |i) are some of the major challenges that they face usually, b) Typically, he or she works i) they demand job security and better pay. c) Low wages and long shifts ii) for 12 to 14 hours a day. d) Due to lack of skills, iv) in factories and textile mills. e) But, for their livelihood and future,|v) they don’t have any alternative job opportunities. 9. Put the following parts of the story in correct order to make the whole story. Only the corresponding numbers of the sentences need to be written: 1x8=8 a) The traveler, astonished, asked why he was treated so well by a stranger. b) His home was always open, and his hands never empty of love for others. c) Without hesitation, Hatem invited him in, offering a feast of food and water. d) Word spread quickly of his hospitality, and people from all over came to witness his heart. e) Hatem Tai was known far and wide for his generosity and kindness. f) Hatem Tai's legacy of kindness lives on, reminding all to give without expecting in return. g) One day, a poor traveler came to his door, starving and thirsty. h) Hatem smiled and said, \"Kindness costs nothing, but it enriches the 6 soul Ss AQ",
+  "lines": [
+    {
+      "id": "class8-english-p154-l001",
+      "lineNumber": 1,
+      "text": "Sample Question 149",
+      "cleanText": "Sample Question 149",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        55.01,
+        37.44,
+        466.85,
+        48.38
+      ]
+    },
+    {
+      "id": "class8-english-p154-l002",
+      "lineNumber": 2,
+      "text": "7. Write a summary of the passage in your own words: 10",
+      "cleanText": "7. Write a summary of the passage in your own words: 10",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.42,
+      "bbox": [
+        57.31,
+        79.49,
+        465.41,
+        91.01
+      ]
+    },
+    {
+      "id": "class8-english-p154-l003",
+      "lineNumber": 3,
+      "text": "8. Match the parts of sentences from the Columns A and B to make five",
+      "cleanText": "8. Match the parts of sentences from the Columns A and B to make five",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        57.31,
+        99.36,
+        454.46,
+        113.18
+      ]
+    },
+    {
+      "id": "class8-english-p154-l004",
+      "lineNumber": 4,
+      "text": "complete sentences: 1x5=5",
+      "cleanText": "complete sentences: 1x5=5",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.67,
+      "bbox": [
+        57.31,
+        117.5,
+        465.12,
+        129.02
+      ]
+    },
+    {
+      "id": "class8-english-p154-l005",
+      "lineNumber": 5,
+      "text": "a) Garment workers generally work |i) are some of the major challenges that they face usually,",
+      "cleanText": "a) Garment workers generally work |i) are some of the major challenges that they face usually,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.88,
+      "bbox": [
+        60.19,
+        192.96,
+        468.58,
+        203.9
+      ]
+    },
+    {
+      "id": "class8-english-p154-l006",
+      "lineNumber": 6,
+      "text": "b) Typically, he or she works i) they demand job security and better pay.",
+      "cleanText": "b) Typically, he or she works i) they demand job security and better pay.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.36,
+      "bbox": [
+        59.04,
+        219.46,
+        436.32,
+        230.4
+      ]
+    },
+    {
+      "id": "class8-english-p154-l007",
+      "lineNumber": 7,
+      "text": "c) Low wages and long shifts ii) for 12 to 14 hours a day.",
+      "cleanText": "c) Low wages and long shifts ii) for 12 to 14 hours a day.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.71,
+      "bbox": [
+        60.19,
+        243.65,
+        362.3,
+        256.9
+      ]
+    },
+    {
+      "id": "class8-english-p154-l008",
+      "lineNumber": 8,
+      "text": "d) Due to lack of skills, iv) in factories and textile mills.",
+      "cleanText": "d) Due to lack of skills, iv) in factories and textile mills.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        60.19,
+        272.16,
+        381.31,
+        283.1
+      ]
+    },
+    {
+      "id": "class8-english-p154-l009",
+      "lineNumber": 9,
+      "text": "e) But, for their livelihood and future,|v) they don’t have any alternative job opportunities.",
+      "cleanText": "e) But, for their livelihood and future,|v) they don’t have any alternative job opportunities.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        61.92,
+        297.5,
+        463.39,
+        308.45
+      ]
+    },
+    {
+      "id": "class8-english-p154-l010",
+      "lineNumber": 10,
+      "text": "9. Put the following parts of the story in correct order to make the whole story.",
+      "cleanText": "9. Put the following parts of the story in correct order to make the whole story.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        59.33,
+        340.7,
+        462.53,
+        351.65
+      ]
+    },
+    {
+      "id": "class8-english-p154-l011",
+      "lineNumber": 11,
+      "text": "Only the corresponding numbers of the sentences need to be written: 1x8=8",
+      "cleanText": "Only the corresponding numbers of the sentences need to be written: 1x8=8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        59.33,
+        356.83,
+        467.71,
+        367.49
+      ]
+    },
+    {
+      "id": "class8-english-p154-l012",
+      "lineNumber": 12,
+      "text": "a) The traveler, astonished, asked why he was treated so well by a",
+      "cleanText": "a) The traveler, astonished, asked why he was treated so well by a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        95.33,
+        382.46,
+        434.59,
+        393.41
+      ]
+    },
+    {
+      "id": "class8-english-p154-l013",
+      "lineNumber": 13,
+      "text": "stranger.",
+      "cleanText": "stranger.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        131.33,
+        400.03,
+        171.07,
+        409.54
+      ]
+    },
+    {
+      "id": "class8-english-p154-l014",
+      "lineNumber": 14,
+      "text": "b) His home was always open, and his hands never empty of love for",
+      "cleanText": "b) His home was always open, and his hands never empty of love for",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        95.04,
+        418.46,
+        449.28,
+        429.41
+      ]
+    },
+    {
+      "id": "class8-english-p154-l015",
+      "lineNumber": 15,
+      "text": "others.",
+      "cleanText": "others.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        131.33,
+        434.59,
+        162.43,
+        443.23
+      ]
+    },
+    {
+      "id": "class8-english-p154-l016",
+      "lineNumber": 16,
+      "text": "c) Without hesitation, Hatem invited him in, offering a feast of food and",
+      "cleanText": "c) Without hesitation, Hatem invited him in, offering a feast of food and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.85,
+      "bbox": [
+        95.33,
+        454.46,
+        464.26,
+        465.41
+      ]
+    },
+    {
+      "id": "class8-english-p154-l017",
+      "lineNumber": 17,
+      "text": "water.",
+      "cleanText": "water.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        131.04,
+        471.74,
+        158.98,
+        479.23
+      ]
+    },
+    {
+      "id": "class8-english-p154-l018",
+      "lineNumber": 18,
+      "text": "d) Word spread quickly of his hospitality, and people from all over came",
+      "cleanText": "d) Word spread quickly of his hospitality, and people from all over came",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        95.33,
+        490.46,
+        465.41,
+        501.41
+      ]
+    },
+    {
+      "id": "class8-english-p154-l019",
+      "lineNumber": 19,
+      "text": "to witness his heart.",
+      "cleanText": "to witness his heart.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        131.04,
+        506.59,
+        225.22,
+        515.23
+      ]
+    },
+    {
+      "id": "class8-english-p154-l020",
+      "lineNumber": 20,
+      "text": "e) Hatem Tai was known far and wide for his generosity and kindness.",
+      "cleanText": "e) Hatem Tai was known far and wide for his generosity and kindness.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        95.33,
+        526.46,
+        455.62,
+        537.41
+      ]
+    },
+    {
+      "id": "class8-english-p154-l021",
+      "lineNumber": 21,
+      "text": "f) Hatem Tai's legacy of kindness lives on, reminding all to give without",
+      "cleanText": "f) Hatem Tai's legacy of kindness lives on, reminding all to give without",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        94.18,
+        545.47,
+        466.85,
+        559.01
+      ]
+    },
+    {
+      "id": "class8-english-p154-l022",
+      "lineNumber": 22,
+      "text": "expecting in return.",
+      "cleanText": "expecting in return.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        131.33,
+        562.75,
+        223.49,
+        573.41
+      ]
+    },
+    {
+      "id": "class8-english-p154-l023",
+      "lineNumber": 23,
+      "text": "g) One day, a poor traveler came to his door, starving and thirsty.",
+      "cleanText": "g) One day, a poor traveler came to his door, starving and thirsty.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        95.33,
+        582.62,
+        428.54,
+        593.57
+      ]
+    },
+    {
+      "id": "class8-english-p154-l024",
+      "lineNumber": 24,
+      "text": "h) Hatem smiled and said, \"Kindness costs nothing, but it enriches the",
+      "cleanText": "h) Hatem smiled and said, \"Kindness costs nothing, but it enriches the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.92,
+      "bbox": [
+        95.04,
+        602.5,
+        453.89,
+        613.44
+      ]
+    },
+    {
+      "id": "class8-english-p154-l025",
+      "lineNumber": 25,
+      "text": "6 soul",
+      "cleanText": "6 soul",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 75.0,
+      "bbox": [
+        30.82,
+        618.62,
+        150.62,
+        630.14
+      ]
+    },
+    {
+      "id": "class8-english-p154-l026",
+      "lineNumber": 26,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 92.0,
+      "bbox": [
+        30.82,
+        631.3,
+        39.17,
+        636.48
+      ]
+    },
+    {
+      "id": "class8-english-p154-l027",
+      "lineNumber": 27,
+      "text": "Ss",
+      "cleanText": "Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 42.0,
+      "bbox": [
+        30.82,
+        636.77,
+        39.17,
+        642.24
+      ]
+    },
+    {
+      "id": "class8-english-p154-l028",
+      "lineNumber": 28,
+      "text": "AQ",
+      "cleanText": "AQ",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 25.0,
+      "bbox": [
+        30.82,
+        643.1,
+        39.17,
+        648.58
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p154-l001",
+      "lineNumber": 1,
+      "text": "Sample Question 149",
+      "cleanText": "Sample Question 149",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        55.01,
+        37.44,
+        466.85,
+        48.38
+      ]
+    },
+    {
+      "id": "class8-english-p154-l002",
+      "lineNumber": 2,
+      "text": "7. Write a summary of the passage in your own words: 10",
+      "cleanText": "7. Write a summary of the passage in your own words: 10",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.42,
+      "bbox": [
+        57.31,
+        79.49,
+        465.41,
+        91.01
+      ]
+    },
+    {
+      "id": "class8-english-p154-l003",
+      "lineNumber": 3,
+      "text": "8. Match the parts of sentences from the Columns A and B to make five",
+      "cleanText": "8. Match the parts of sentences from the Columns A and B to make five",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        57.31,
+        99.36,
+        454.46,
+        113.18
+      ]
+    },
+    {
+      "id": "class8-english-p154-l004",
+      "lineNumber": 4,
+      "text": "complete sentences: 1x5=5",
+      "cleanText": "complete sentences: 1x5=5",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.67,
+      "bbox": [
+        57.31,
+        117.5,
+        465.12,
+        129.02
+      ]
+    },
+    {
+      "id": "class8-english-p154-l005",
+      "lineNumber": 5,
+      "text": "a) Garment workers generally work |i) are some of the major challenges that they face usually,",
+      "cleanText": "a) Garment workers generally work |i) are some of the major challenges that they face usually,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.88,
+      "bbox": [
+        60.19,
+        192.96,
+        468.58,
+        203.9
+      ]
+    },
+    {
+      "id": "class8-english-p154-l006",
+      "lineNumber": 6,
+      "text": "b) Typically, he or she works i) they demand job security and better pay.",
+      "cleanText": "b) Typically, he or she works i) they demand job security and better pay.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.36,
+      "bbox": [
+        59.04,
+        219.46,
+        436.32,
+        230.4
+      ]
+    },
+    {
+      "id": "class8-english-p154-l007",
+      "lineNumber": 7,
+      "text": "c) Low wages and long shifts ii) for 12 to 14 hours a day.",
+      "cleanText": "c) Low wages and long shifts ii) for 12 to 14 hours a day.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.71,
+      "bbox": [
+        60.19,
+        243.65,
+        362.3,
+        256.9
+      ]
+    },
+    {
+      "id": "class8-english-p154-l008",
+      "lineNumber": 8,
+      "text": "d) Due to lack of skills, iv) in factories and textile mills.",
+      "cleanText": "d) Due to lack of skills, iv) in factories and textile mills.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        60.19,
+        272.16,
+        381.31,
+        283.1
+      ]
+    },
+    {
+      "id": "class8-english-p154-l009",
+      "lineNumber": 9,
+      "text": "e) But, for their livelihood and future,|v) they don’t have any alternative job opportunities.",
+      "cleanText": "e) But, for their livelihood and future,|v) they don’t have any alternative job opportunities.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        61.92,
+        297.5,
+        463.39,
+        308.45
+      ]
+    },
+    {
+      "id": "class8-english-p154-l010",
+      "lineNumber": 10,
+      "text": "9. Put the following parts of the story in correct order to make the whole story.",
+      "cleanText": "9. Put the following parts of the story in correct order to make the whole story.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        59.33,
+        340.7,
+        462.53,
+        351.65
+      ]
+    },
+    {
+      "id": "class8-english-p154-l011",
+      "lineNumber": 11,
+      "text": "Only the corresponding numbers of the sentences need to be written: 1x8=8",
+      "cleanText": "Only the corresponding numbers of the sentences need to be written: 1x8=8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        59.33,
+        356.83,
+        467.71,
+        367.49
+      ]
+    },
+    {
+      "id": "class8-english-p154-l012",
+      "lineNumber": 12,
+      "text": "a) The traveler, astonished, asked why he was treated so well by a",
+      "cleanText": "a) The traveler, astonished, asked why he was treated so well by a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        95.33,
+        382.46,
+        434.59,
+        393.41
+      ]
+    },
+    {
+      "id": "class8-english-p154-l013",
+      "lineNumber": 13,
+      "text": "stranger.",
+      "cleanText": "stranger.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        131.33,
+        400.03,
+        171.07,
+        409.54
+      ]
+    },
+    {
+      "id": "class8-english-p154-l014",
+      "lineNumber": 14,
+      "text": "b) His home was always open, and his hands never empty of love for",
+      "cleanText": "b) His home was always open, and his hands never empty of love for",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        95.04,
+        418.46,
+        449.28,
+        429.41
+      ]
+    },
+    {
+      "id": "class8-english-p154-l015",
+      "lineNumber": 15,
+      "text": "others.",
+      "cleanText": "others.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        131.33,
+        434.59,
+        162.43,
+        443.23
+      ]
+    },
+    {
+      "id": "class8-english-p154-l016",
+      "lineNumber": 16,
+      "text": "c) Without hesitation, Hatem invited him in, offering a feast of food and",
+      "cleanText": "c) Without hesitation, Hatem invited him in, offering a feast of food and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.85,
+      "bbox": [
+        95.33,
+        454.46,
+        464.26,
+        465.41
+      ]
+    },
+    {
+      "id": "class8-english-p154-l017",
+      "lineNumber": 17,
+      "text": "water.",
+      "cleanText": "water.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        131.04,
+        471.74,
+        158.98,
+        479.23
+      ]
+    },
+    {
+      "id": "class8-english-p154-l018",
+      "lineNumber": 18,
+      "text": "d) Word spread quickly of his hospitality, and people from all over came",
+      "cleanText": "d) Word spread quickly of his hospitality, and people from all over came",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        95.33,
+        490.46,
+        465.41,
+        501.41
+      ]
+    },
+    {
+      "id": "class8-english-p154-l019",
+      "lineNumber": 19,
+      "text": "to witness his heart.",
+      "cleanText": "to witness his heart.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        131.04,
+        506.59,
+        225.22,
+        515.23
+      ]
+    },
+    {
+      "id": "class8-english-p154-l020",
+      "lineNumber": 20,
+      "text": "e) Hatem Tai was known far and wide for his generosity and kindness.",
+      "cleanText": "e) Hatem Tai was known far and wide for his generosity and kindness.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.69,
+      "bbox": [
+        95.33,
+        526.46,
+        455.62,
+        537.41
+      ]
+    },
+    {
+      "id": "class8-english-p154-l021",
+      "lineNumber": 21,
+      "text": "f) Hatem Tai's legacy of kindness lives on, reminding all to give without",
+      "cleanText": "f) Hatem Tai's legacy of kindness lives on, reminding all to give without",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        94.18,
+        545.47,
+        466.85,
+        559.01
+      ]
+    },
+    {
+      "id": "class8-english-p154-l022",
+      "lineNumber": 22,
+      "text": "expecting in return.",
+      "cleanText": "expecting in return.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        131.33,
+        562.75,
+        223.49,
+        573.41
+      ]
+    },
+    {
+      "id": "class8-english-p154-l023",
+      "lineNumber": 23,
+      "text": "g) One day, a poor traveler came to his door, starving and thirsty.",
+      "cleanText": "g) One day, a poor traveler came to his door, starving and thirsty.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        95.33,
+        582.62,
+        428.54,
+        593.57
+      ]
+    },
+    {
+      "id": "class8-english-p154-l024",
+      "lineNumber": 24,
+      "text": "h) Hatem smiled and said, \"Kindness costs nothing, but it enriches the",
+      "cleanText": "h) Hatem smiled and said, \"Kindness costs nothing, but it enriches the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.92,
+      "bbox": [
+        95.04,
+        602.5,
+        453.89,
+        613.44
+      ]
+    },
+    {
+      "id": "class8-english-p154-l025",
+      "lineNumber": 25,
+      "text": "6 soul",
+      "cleanText": "6 soul",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 75.0,
+      "bbox": [
+        30.82,
+        618.62,
+        150.62,
+        630.14
+      ]
+    },
+    {
+      "id": "class8-english-p154-l027",
+      "lineNumber": 27,
+      "text": "Ss",
+      "cleanText": "Ss",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 42.0,
+      "bbox": [
+        30.82,
+        636.77,
+        39.17,
+        642.24
+      ]
+    },
+    {
+      "id": "class8-english-p154-l028",
+      "lineNumber": 28,
+      "text": "AQ",
+      "cleanText": "AQ",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 25.0,
+      "bbox": [
+        30.82,
+        643.1,
+        39.17,
+        648.58
+      ]
+    }
+  ],
+  "lineCount": 28,
+  "aiReadyLineCount": 27,
+  "averageConfidence": 89.86,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:19:41.022992+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

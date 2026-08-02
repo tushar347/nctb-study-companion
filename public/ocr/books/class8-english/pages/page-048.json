@@ -1,0 +1,252 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 48,
+  "pdfPage": 48,
+  "textbookPage": 48,
+  "width": 530.0,
+  "height": 696.0,
+  "image": "../images/page-048.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Check Your References 43\nH. Fill in the boxes with the synonyms of the word ‘happy’:\nI. Match a word in A with its opposite in B:\nA cB\ni\nJ. Fill in the boxes with the opposites/ antonyms of the word ‘happy’:\n‘o\nN\nS\nN",
+  "cleanText": "Check Your References 43 H. Fill in the boxes with the synonyms of the word ‘happy’: I. Match a word in A with its opposite in B: A cB i J. Fill in the boxes with the opposites/ antonyms of the word ‘happy’: ‘o N S N",
+  "aiReadyText": "Check Your References 43 H. Fill in the boxes with the synonyms of the word ‘happy’: I. Match a word in A with its opposite in B: A cB J. Fill in the boxes with the opposites/ antonyms of the word ‘happy’:",
+  "lines": [
+    {
+      "id": "class8-english-p048-l001",
+      "lineNumber": 1,
+      "text": "Check Your References 43",
+      "cleanText": "Check Your References 43",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.33,
+        42.62,
+        475.49,
+        51.26
+      ]
+    },
+    {
+      "id": "class8-english-p048-l002",
+      "lineNumber": 2,
+      "text": "H. Fill in the boxes with the synonyms of the word ‘happy’:",
+      "cleanText": "H. Fill in the boxes with the synonyms of the word ‘happy’:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        62.78,
+        69.7,
+        417.6,
+        82.08
+      ]
+    },
+    {
+      "id": "class8-english-p048-l003",
+      "lineNumber": 3,
+      "text": "I. Match a word in A with its opposite in B:",
+      "cleanText": "I. Match a word in A with its opposite in B:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.09,
+      "bbox": [
+        62.21,
+        242.78,
+        326.02,
+        255.17
+      ]
+    },
+    {
+      "id": "class8-english-p048-l004",
+      "lineNumber": 4,
+      "text": "A cB",
+      "cleanText": "A cB",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 37.0,
+      "bbox": [
+        92.74,
+        260.93,
+        392.83,
+        289.73
+      ]
+    },
+    {
+      "id": "class8-english-p048-l005",
+      "lineNumber": 5,
+      "text": "i",
+      "cleanText": "i",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 0.0,
+      "bbox": [
+        92.74,
+        375.84,
+        392.83,
+        393.7
+      ]
+    },
+    {
+      "id": "class8-english-p048-l006",
+      "lineNumber": 6,
+      "text": "J. Fill in the boxes with the opposites/ antonyms of the word ‘happy’:",
+      "cleanText": "J. Fill in the boxes with the opposites/ antonyms of the word ‘happy’:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.46,
+      "bbox": [
+        61.63,
+        463.68,
+        472.61,
+        476.35
+      ]
+    },
+    {
+      "id": "class8-english-p048-l007",
+      "lineNumber": 7,
+      "text": "‘o",
+      "cleanText": "‘o",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 56.0,
+      "bbox": [
+        33.98,
+        630.72,
+        42.05,
+        636.19
+      ]
+    },
+    {
+      "id": "class8-english-p048-l008",
+      "lineNumber": 8,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 88.0,
+      "bbox": [
+        33.98,
+        637.34,
+        42.05,
+        642.53
+      ]
+    },
+    {
+      "id": "class8-english-p048-l009",
+      "lineNumber": 9,
+      "text": "S",
+      "cleanText": "S",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 86.0,
+      "bbox": [
+        33.98,
+        642.82,
+        42.05,
+        648.29
+      ]
+    },
+    {
+      "id": "class8-english-p048-l010",
+      "lineNumber": 10,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 73.0,
+      "bbox": [
+        33.98,
+        649.15,
+        42.05,
+        654.62
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p048-l001",
+      "lineNumber": 1,
+      "text": "Check Your References 43",
+      "cleanText": "Check Your References 43",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.33,
+        42.62,
+        475.49,
+        51.26
+      ]
+    },
+    {
+      "id": "class8-english-p048-l002",
+      "lineNumber": 2,
+      "text": "H. Fill in the boxes with the synonyms of the word ‘happy’:",
+      "cleanText": "H. Fill in the boxes with the synonyms of the word ‘happy’:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        62.78,
+        69.7,
+        417.6,
+        82.08
+      ]
+    },
+    {
+      "id": "class8-english-p048-l003",
+      "lineNumber": 3,
+      "text": "I. Match a word in A with its opposite in B:",
+      "cleanText": "I. Match a word in A with its opposite in B:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.09,
+      "bbox": [
+        62.21,
+        242.78,
+        326.02,
+        255.17
+      ]
+    },
+    {
+      "id": "class8-english-p048-l004",
+      "lineNumber": 4,
+      "text": "A cB",
+      "cleanText": "A cB",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 37.0,
+      "bbox": [
+        92.74,
+        260.93,
+        392.83,
+        289.73
+      ]
+    },
+    {
+      "id": "class8-english-p048-l006",
+      "lineNumber": 6,
+      "text": "J. Fill in the boxes with the opposites/ antonyms of the word ‘happy’:",
+      "cleanText": "J. Fill in the boxes with the opposites/ antonyms of the word ‘happy’:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.46,
+      "bbox": [
+        61.63,
+        463.68,
+        472.61,
+        476.35
+      ]
+    }
+  ],
+  "lineCount": 10,
+  "aiReadyLineCount": 5,
+  "averageConfidence": 71.62,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:53.361265+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

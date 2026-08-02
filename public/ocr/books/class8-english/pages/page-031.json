@@ -1,0 +1,897 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 31,
+  "pdfPage": 31,
+  "textbookPage": 31,
+  "width": 536.0,
+  "height": 691.16,
+  "image": "../images/page-031.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "26 English For Today\nDoctor: Allright. ’m prescribing a medicine. Take one tablet in the\nmorning and another at night before meals. I also advise you\nto have a chest X-ray immediately. If possible show me the\nX-ray report today in the evening. OK?\nRabi _: Ok, doctor. Thank you.\nDoctor: You are welcome.\nC. Answer the following questions:\n1. Who are talking in the dialogue?\n2. Where does the dialogue take place?\n3. What are Zahir Ali’s problems?\n4. Why can’t Zahir Ali tell the doctor about his problems?\n5. What does the doctor prescribe him?\nD. Ask and answer the questions in pairs:\n1. Did you have any stomach pain anytime before?\n2. When was it?\n3. What did you do to get well?\nE. Suppose you visited a doctor for a stomach pain or bad cold. Make an\nimaginary dialogue between you and the doctor. Act it out in pairs:\nLesson 5: A Letter\nKeywords: nicotine, tragedy, broke, puff\nA. Read the letter silently to know what happened to Zahir Ali and\ntick the best answer:\n10/E Purana Paltan\nDhaka 1000\n9 June 2013\nDear Sohel,\nTam sorry, I could not reply to your letter earlier. This is because last week there 6\nwas a tragedy in our family. My father died of lung cancer. eS",
+  "cleanText": "26 English For Today Doctor: Allright. ’m prescribing a medicine. Take one tablet in the morning and another at night before meals. I also advise you to have a chest X-ray immediately. If possible show me the X-ray report today in the evening. OK? Rabi _: Ok, doctor. Thank you. Doctor: You are welcome. C. Answer the following questions: 1. Who are talking in the dialogue? 2. Where does the dialogue take place? 3. What are Zahir Ali’s problems? 4. Why can’t Zahir Ali tell the doctor about his problems? 5. What does the doctor prescribe him? D. Ask and answer the questions in pairs: 1. Did you have any stomach pain anytime before? 2. When was it? 3. What did you do to get well? E. Suppose you visited a doctor for a stomach pain or bad cold. Make an imaginary dialogue between you and the doctor. Act it out in pairs: Lesson 5: A Letter Keywords: nicotine, tragedy, broke, puff A. Read the letter silently to know what happened to Zahir Ali and tick the best answer: 10/E Purana Paltan Dhaka 1000 9 June 2013 Dear Sohel, Tam sorry, I could not reply to your letter earlier. This is because last week there 6 was a tragedy in our family. My father died of lung cancer. eS",
+  "aiReadyText": "26 English For Today Doctor: Allright. ’m prescribing a medicine. Take one tablet in the morning and another at night before meals. I also advise you to have a chest X-ray immediately. If possible show me the X-ray report today in the evening. OK? Rabi _: Ok, doctor. Thank you. Doctor: You are welcome. C. Answer the following questions: 1. Who are talking in the dialogue? 2. Where does the dialogue take place? 3. What are Zahir Ali’s problems? 4. Why can’t Zahir Ali tell the doctor about his problems? 5. What does the doctor prescribe him? D. Ask and answer the questions in pairs: 1. Did you have any stomach pain anytime before? 2. When was it? 3. What did you do to get well? E. Suppose you visited a doctor for a stomach pain or bad cold. Make an imaginary dialogue between you and the doctor. Act it out in pairs: Lesson 5: A Letter Keywords: nicotine, tragedy, broke, puff A. Read the letter silently to know what happened to Zahir Ali and tick the best answer: 10/E Purana Paltan Dhaka 1000 9 June 2013 Dear Sohel, Tam sorry, I could not reply to your letter earlier. This is because last week there 6 was a tragedy in our family. My father died of lung cancer. eS",
+  "lines": [
+    {
+      "id": "class8-english-p031-l001",
+      "lineNumber": 1,
+      "text": "26 English For Today",
+      "cleanText": "26 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.63,
+        39.17,
+        474.05,
+        51.26
+      ]
+    },
+    {
+      "id": "class8-english-p031-l002",
+      "lineNumber": 2,
+      "text": "Doctor: Allright. ’m prescribing a medicine. Take one tablet in the",
+      "cleanText": "Doctor: Allright. ’m prescribing a medicine. Take one tablet in the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.45,
+      "bbox": [
+        59.04,
+        70.85,
+        473.47,
+        83.52
+      ]
+    },
+    {
+      "id": "class8-english-p031-l003",
+      "lineNumber": 3,
+      "text": "morning and another at night before meals. I also advise you",
+      "cleanText": "morning and another at night before meals. I also advise you",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        122.4,
+        86.69,
+        474.91,
+        99.65
+      ]
+    },
+    {
+      "id": "class8-english-p031-l004",
+      "lineNumber": 4,
+      "text": "to have a chest X-ray immediately. If possible show me the",
+      "cleanText": "to have a chest X-ray immediately. If possible show me the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        122.69,
+        102.53,
+        472.9,
+        115.49
+      ]
+    },
+    {
+      "id": "class8-english-p031-l005",
+      "lineNumber": 5,
+      "text": "X-ray report today in the evening. OK?",
+      "cleanText": "X-ray report today in the evening. OK?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.29,
+      "bbox": [
+        122.98,
+        118.66,
+        351.36,
+        131.62
+      ]
+    },
+    {
+      "id": "class8-english-p031-l006",
+      "lineNumber": 6,
+      "text": "Rabi _: Ok, doctor. Thank you.",
+      "cleanText": "Rabi _: Ok, doctor. Thank you.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 70.43,
+      "bbox": [
+        59.04,
+        137.09,
+        247.1,
+        152.06
+      ]
+    },
+    {
+      "id": "class8-english-p031-l007",
+      "lineNumber": 7,
+      "text": "Doctor: You are welcome.",
+      "cleanText": "Doctor: You are welcome.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.6,
+      "bbox": [
+        59.04,
+        159.26,
+        218.3,
+        169.34
+      ]
+    },
+    {
+      "id": "class8-english-p031-l008",
+      "lineNumber": 8,
+      "text": "C. Answer the following questions:",
+      "cleanText": "C. Answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.8,
+      "bbox": [
+        59.33,
+        190.66,
+        268.7,
+        203.04
+      ]
+    },
+    {
+      "id": "class8-english-p031-l009",
+      "lineNumber": 9,
+      "text": "1. Who are talking in the dialogue?",
+      "cleanText": "1. Who are talking in the dialogue?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.14,
+      "bbox": [
+        81.5,
+        211.39,
+        283.97,
+        224.06
+      ]
+    },
+    {
+      "id": "class8-english-p031-l010",
+      "lineNumber": 10,
+      "text": "2. Where does the dialogue take place?",
+      "cleanText": "2. Where does the dialogue take place?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.43,
+      "bbox": [
+        80.06,
+        232.42,
+        305.57,
+        245.09
+      ]
+    },
+    {
+      "id": "class8-english-p031-l011",
+      "lineNumber": 11,
+      "text": "3. What are Zahir Ali’s problems?",
+      "cleanText": "3. What are Zahir Ali’s problems?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.83,
+      "bbox": [
+        80.06,
+        253.44,
+        277.34,
+        266.11
+      ]
+    },
+    {
+      "id": "class8-english-p031-l012",
+      "lineNumber": 12,
+      "text": "4. Why can’t Zahir Ali tell the doctor about his problems?",
+      "cleanText": "4. Why can’t Zahir Ali tell the doctor about his problems?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.27,
+      "bbox": [
+        79.78,
+        274.46,
+        411.26,
+        287.14
+      ]
+    },
+    {
+      "id": "class8-english-p031-l013",
+      "lineNumber": 13,
+      "text": "5. What does the doctor prescribe him?",
+      "cleanText": "5. What does the doctor prescribe him?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.29,
+      "bbox": [
+        80.35,
+        295.2,
+        306.43,
+        308.16
+      ]
+    },
+    {
+      "id": "class8-english-p031-l014",
+      "lineNumber": 14,
+      "text": "D. Ask and answer the questions in pairs:",
+      "cleanText": "D. Ask and answer the questions in pairs:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        59.04,
+        321.12,
+        308.16,
+        333.79
+      ]
+    },
+    {
+      "id": "class8-english-p031-l015",
+      "lineNumber": 15,
+      "text": "1. Did you have any stomach pain anytime before?",
+      "cleanText": "1. Did you have any stomach pain anytime before?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.78,
+      "bbox": [
+        81.5,
+        341.86,
+        371.52,
+        354.82
+      ]
+    },
+    {
+      "id": "class8-english-p031-l016",
+      "lineNumber": 16,
+      "text": "2. When was it?",
+      "cleanText": "2. When was it?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        80.06,
+        362.88,
+        177.12,
+        372.96
+      ]
+    },
+    {
+      "id": "class8-english-p031-l017",
+      "lineNumber": 17,
+      "text": "3. What did you do to get well?",
+      "cleanText": "3. What did you do to get well?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.38,
+      "bbox": [
+        80.35,
+        383.9,
+        263.52,
+        396.58
+      ]
+    },
+    {
+      "id": "class8-english-p031-l018",
+      "lineNumber": 18,
+      "text": "E. Suppose you visited a doctor for a stomach pain or bad cold. Make an",
+      "cleanText": "E. Suppose you visited a doctor for a stomach pain or bad cold. Make an",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.53,
+      "bbox": [
+        59.33,
+        410.11,
+        474.91,
+        422.78
+      ]
+    },
+    {
+      "id": "class8-english-p031-l019",
+      "lineNumber": 19,
+      "text": "imaginary dialogue between you and the doctor. Act it out in pairs:",
+      "cleanText": "imaginary dialogue between you and the doctor. Act it out in pairs:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.62,
+        427.97,
+        440.93,
+        440.93
+      ]
+    },
+    {
+      "id": "class8-english-p031-l020",
+      "lineNumber": 20,
+      "text": "Lesson 5: A Letter",
+      "cleanText": "Lesson 5: A Letter",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        59.62,
+        463.97,
+        217.73,
+        477.79
+      ]
+    },
+    {
+      "id": "class8-english-p031-l021",
+      "lineNumber": 21,
+      "text": "Keywords: nicotine, tragedy, broke, puff",
+      "cleanText": "Keywords: nicotine, tragedy, broke, puff",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.6,
+      "bbox": [
+        60.19,
+        491.9,
+        295.78,
+        504.0
+      ]
+    },
+    {
+      "id": "class8-english-p031-l022",
+      "lineNumber": 22,
+      "text": "A. Read the letter silently to know what happened to Zahir Ali and",
+      "cleanText": "A. Read the letter silently to know what happened to Zahir Ali and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        62.21,
+        510.05,
+        474.91,
+        523.3
+      ]
+    },
+    {
+      "id": "class8-english-p031-l023",
+      "lineNumber": 23,
+      "text": "tick the best answer:",
+      "cleanText": "tick the best answer:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        82.66,
+        527.9,
+        204.19,
+        537.98
+      ]
+    },
+    {
+      "id": "class8-english-p031-l024",
+      "lineNumber": 24,
+      "text": "10/E Purana Paltan",
+      "cleanText": "10/E Purana Paltan",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.67,
+      "bbox": [
+        65.38,
+        550.66,
+        160.7,
+        559.58
+      ]
+    },
+    {
+      "id": "class8-english-p031-l025",
+      "lineNumber": 25,
+      "text": "Dhaka 1000",
+      "cleanText": "Dhaka 1000",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        65.66,
+        567.36,
+        126.43,
+        576.29
+      ]
+    },
+    {
+      "id": "class8-english-p031-l026",
+      "lineNumber": 26,
+      "text": "9 June 2013",
+      "cleanText": "9 June 2013",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        66.24,
+        584.35,
+        126.43,
+        594.14
+      ]
+    },
+    {
+      "id": "class8-english-p031-l027",
+      "lineNumber": 27,
+      "text": "Dear Sohel,",
+      "cleanText": "Dear Sohel,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.0,
+      "bbox": [
+        67.39,
+        606.53,
+        126.72,
+        616.9
+      ]
+    },
+    {
+      "id": "class8-english-p031-l028",
+      "lineNumber": 28,
+      "text": "Tam sorry, I could not reply to your letter earlier. This is because last week there 6",
+      "cleanText": "Tam sorry, I could not reply to your letter earlier. This is because last week there 6",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.12,
+      "bbox": [
+        65.95,
+        624.1,
+        500.26,
+        638.78
+      ]
+    },
+    {
+      "id": "class8-english-p031-l029",
+      "lineNumber": 29,
+      "text": "was a tragedy in our family. My father died of lung cancer. eS",
+      "cleanText": "was a tragedy in our family. My father died of lung cancer. eS",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.31,
+      "bbox": [
+        66.53,
+        639.07,
+        500.26,
+        651.46
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p031-l001",
+      "lineNumber": 1,
+      "text": "26 English For Today",
+      "cleanText": "26 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.63,
+        39.17,
+        474.05,
+        51.26
+      ]
+    },
+    {
+      "id": "class8-english-p031-l002",
+      "lineNumber": 2,
+      "text": "Doctor: Allright. ’m prescribing a medicine. Take one tablet in the",
+      "cleanText": "Doctor: Allright. ’m prescribing a medicine. Take one tablet in the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.45,
+      "bbox": [
+        59.04,
+        70.85,
+        473.47,
+        83.52
+      ]
+    },
+    {
+      "id": "class8-english-p031-l003",
+      "lineNumber": 3,
+      "text": "morning and another at night before meals. I also advise you",
+      "cleanText": "morning and another at night before meals. I also advise you",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        122.4,
+        86.69,
+        474.91,
+        99.65
+      ]
+    },
+    {
+      "id": "class8-english-p031-l004",
+      "lineNumber": 4,
+      "text": "to have a chest X-ray immediately. If possible show me the",
+      "cleanText": "to have a chest X-ray immediately. If possible show me the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        122.69,
+        102.53,
+        472.9,
+        115.49
+      ]
+    },
+    {
+      "id": "class8-english-p031-l005",
+      "lineNumber": 5,
+      "text": "X-ray report today in the evening. OK?",
+      "cleanText": "X-ray report today in the evening. OK?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.29,
+      "bbox": [
+        122.98,
+        118.66,
+        351.36,
+        131.62
+      ]
+    },
+    {
+      "id": "class8-english-p031-l006",
+      "lineNumber": 6,
+      "text": "Rabi _: Ok, doctor. Thank you.",
+      "cleanText": "Rabi _: Ok, doctor. Thank you.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 70.43,
+      "bbox": [
+        59.04,
+        137.09,
+        247.1,
+        152.06
+      ]
+    },
+    {
+      "id": "class8-english-p031-l007",
+      "lineNumber": 7,
+      "text": "Doctor: You are welcome.",
+      "cleanText": "Doctor: You are welcome.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.6,
+      "bbox": [
+        59.04,
+        159.26,
+        218.3,
+        169.34
+      ]
+    },
+    {
+      "id": "class8-english-p031-l008",
+      "lineNumber": 8,
+      "text": "C. Answer the following questions:",
+      "cleanText": "C. Answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.8,
+      "bbox": [
+        59.33,
+        190.66,
+        268.7,
+        203.04
+      ]
+    },
+    {
+      "id": "class8-english-p031-l009",
+      "lineNumber": 9,
+      "text": "1. Who are talking in the dialogue?",
+      "cleanText": "1. Who are talking in the dialogue?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.14,
+      "bbox": [
+        81.5,
+        211.39,
+        283.97,
+        224.06
+      ]
+    },
+    {
+      "id": "class8-english-p031-l010",
+      "lineNumber": 10,
+      "text": "2. Where does the dialogue take place?",
+      "cleanText": "2. Where does the dialogue take place?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.43,
+      "bbox": [
+        80.06,
+        232.42,
+        305.57,
+        245.09
+      ]
+    },
+    {
+      "id": "class8-english-p031-l011",
+      "lineNumber": 11,
+      "text": "3. What are Zahir Ali’s problems?",
+      "cleanText": "3. What are Zahir Ali’s problems?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.83,
+      "bbox": [
+        80.06,
+        253.44,
+        277.34,
+        266.11
+      ]
+    },
+    {
+      "id": "class8-english-p031-l012",
+      "lineNumber": 12,
+      "text": "4. Why can’t Zahir Ali tell the doctor about his problems?",
+      "cleanText": "4. Why can’t Zahir Ali tell the doctor about his problems?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.27,
+      "bbox": [
+        79.78,
+        274.46,
+        411.26,
+        287.14
+      ]
+    },
+    {
+      "id": "class8-english-p031-l013",
+      "lineNumber": 13,
+      "text": "5. What does the doctor prescribe him?",
+      "cleanText": "5. What does the doctor prescribe him?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.29,
+      "bbox": [
+        80.35,
+        295.2,
+        306.43,
+        308.16
+      ]
+    },
+    {
+      "id": "class8-english-p031-l014",
+      "lineNumber": 14,
+      "text": "D. Ask and answer the questions in pairs:",
+      "cleanText": "D. Ask and answer the questions in pairs:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        59.04,
+        321.12,
+        308.16,
+        333.79
+      ]
+    },
+    {
+      "id": "class8-english-p031-l015",
+      "lineNumber": 15,
+      "text": "1. Did you have any stomach pain anytime before?",
+      "cleanText": "1. Did you have any stomach pain anytime before?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.78,
+      "bbox": [
+        81.5,
+        341.86,
+        371.52,
+        354.82
+      ]
+    },
+    {
+      "id": "class8-english-p031-l016",
+      "lineNumber": 16,
+      "text": "2. When was it?",
+      "cleanText": "2. When was it?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        80.06,
+        362.88,
+        177.12,
+        372.96
+      ]
+    },
+    {
+      "id": "class8-english-p031-l017",
+      "lineNumber": 17,
+      "text": "3. What did you do to get well?",
+      "cleanText": "3. What did you do to get well?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.38,
+      "bbox": [
+        80.35,
+        383.9,
+        263.52,
+        396.58
+      ]
+    },
+    {
+      "id": "class8-english-p031-l018",
+      "lineNumber": 18,
+      "text": "E. Suppose you visited a doctor for a stomach pain or bad cold. Make an",
+      "cleanText": "E. Suppose you visited a doctor for a stomach pain or bad cold. Make an",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.53,
+      "bbox": [
+        59.33,
+        410.11,
+        474.91,
+        422.78
+      ]
+    },
+    {
+      "id": "class8-english-p031-l019",
+      "lineNumber": 19,
+      "text": "imaginary dialogue between you and the doctor. Act it out in pairs:",
+      "cleanText": "imaginary dialogue between you and the doctor. Act it out in pairs:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.62,
+        427.97,
+        440.93,
+        440.93
+      ]
+    },
+    {
+      "id": "class8-english-p031-l020",
+      "lineNumber": 20,
+      "text": "Lesson 5: A Letter",
+      "cleanText": "Lesson 5: A Letter",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        59.62,
+        463.97,
+        217.73,
+        477.79
+      ]
+    },
+    {
+      "id": "class8-english-p031-l021",
+      "lineNumber": 21,
+      "text": "Keywords: nicotine, tragedy, broke, puff",
+      "cleanText": "Keywords: nicotine, tragedy, broke, puff",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.6,
+      "bbox": [
+        60.19,
+        491.9,
+        295.78,
+        504.0
+      ]
+    },
+    {
+      "id": "class8-english-p031-l022",
+      "lineNumber": 22,
+      "text": "A. Read the letter silently to know what happened to Zahir Ali and",
+      "cleanText": "A. Read the letter silently to know what happened to Zahir Ali and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        62.21,
+        510.05,
+        474.91,
+        523.3
+      ]
+    },
+    {
+      "id": "class8-english-p031-l023",
+      "lineNumber": 23,
+      "text": "tick the best answer:",
+      "cleanText": "tick the best answer:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        82.66,
+        527.9,
+        204.19,
+        537.98
+      ]
+    },
+    {
+      "id": "class8-english-p031-l024",
+      "lineNumber": 24,
+      "text": "10/E Purana Paltan",
+      "cleanText": "10/E Purana Paltan",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.67,
+      "bbox": [
+        65.38,
+        550.66,
+        160.7,
+        559.58
+      ]
+    },
+    {
+      "id": "class8-english-p031-l025",
+      "lineNumber": 25,
+      "text": "Dhaka 1000",
+      "cleanText": "Dhaka 1000",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        65.66,
+        567.36,
+        126.43,
+        576.29
+      ]
+    },
+    {
+      "id": "class8-english-p031-l026",
+      "lineNumber": 26,
+      "text": "9 June 2013",
+      "cleanText": "9 June 2013",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        66.24,
+        584.35,
+        126.43,
+        594.14
+      ]
+    },
+    {
+      "id": "class8-english-p031-l027",
+      "lineNumber": 27,
+      "text": "Dear Sohel,",
+      "cleanText": "Dear Sohel,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.0,
+      "bbox": [
+        67.39,
+        606.53,
+        126.72,
+        616.9
+      ]
+    },
+    {
+      "id": "class8-english-p031-l028",
+      "lineNumber": 28,
+      "text": "Tam sorry, I could not reply to your letter earlier. This is because last week there 6",
+      "cleanText": "Tam sorry, I could not reply to your letter earlier. This is because last week there 6",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.12,
+      "bbox": [
+        65.95,
+        624.1,
+        500.26,
+        638.78
+      ]
+    },
+    {
+      "id": "class8-english-p031-l029",
+      "lineNumber": 29,
+      "text": "was a tragedy in our family. My father died of lung cancer. eS",
+      "cleanText": "was a tragedy in our family. My father died of lung cancer. eS",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.31,
+      "bbox": [
+        66.53,
+        639.07,
+        500.26,
+        651.46
+      ]
+    }
+  ],
+  "lineCount": 29,
+  "aiReadyLineCount": 29,
+  "averageConfidence": 92.96,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:18.967022+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

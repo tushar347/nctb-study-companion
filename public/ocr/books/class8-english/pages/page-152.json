@@ -1,0 +1,837 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 152,
+  "pdfPage": 152,
+  "textbookPage": 152,
+  "width": 522.0,
+  "height": 684.0,
+  "image": "../images/page-152.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Sample Question 147\nspread it on the children’s field, and their crops grew well. Everyday, someone\nwould visit the field and report to the head-master and the other children on how\nit was doing. The children learned to know the wonder and the joy of seeing the\nseeds they had planted themselves sprout. And whenever two or three of them\nwere gathered together, talk would turn to the progress of their field.\n3. Complete the passage with suitable words: 1x5=5\nThe children deeply (a) ___ the farmer and affectionately called him their\n\"farming teacher\" whenever they saw him. He supported their efforts by (b)\n_____ surplus fertilizer, which helped their crops thrive. Each day, a student\nwould check on the field and report its (c) ____ to the headmaster and\nclassmates. Through this experience, the children discovered the joy and wonder\nof seeing their own planted seeds grow. Their (d) ___ was so great that\nwhenever they gathered in small groups, their (e)__ naturally turned to the\ndevelopment of their field.\n4. Read the passage carefully and replace the following words with their\nsuitable synonyms or antonyms: 1x5=5\na) Esteem (Antonyms) b) Distance (Synonyms)\nc) Report (Synonyms) d) Wonder (Antonyms)\ne) Sprout (Synonyms)\nRead the text and answer the questions 5, 6 & 7:\nLev Nikolayevich Tolstoy who is famously known as Leo Tolstoy was a Russian\nnovelist, philosopher and moral critic. The writer was born on 9th September\n1828 in Yasnaya Polyana, in Tula province of the Russian Empire at his family’s\nestate. He had a traumatic childhood as he lost his mother, father and his aunt\nwho were their local guardian and took care of him and his siblings after the\nS demise of his biological parents.",
+  "cleanText": "Sample Question 147 spread it on the children’s field, and their crops grew well. Everyday, someone would visit the field and report to the head-master and the other children on how it was doing. The children learned to know the wonder and the joy of seeing the seeds they had planted themselves sprout. And whenever two or three of them were gathered together, talk would turn to the progress of their field. 3. Complete the passage with suitable words: 1x5=5 The children deeply (a) ___ the farmer and affectionately called him their \"farming teacher\" whenever they saw him. He supported their efforts by (b) _____ surplus fertilizer, which helped their crops thrive. Each day, a student would check on the field and report its (c) ____ to the headmaster and classmates. Through this experience, the children discovered the joy and wonder of seeing their own planted seeds grow. Their (d) ___ was so great that whenever they gathered in small groups, their (e)__ naturally turned to the development of their field. 4. Read the passage carefully and replace the following words with their suitable synonyms or antonyms: 1x5=5 a) Esteem (Antonyms) b) Distance (Synonyms) c) Report (Synonyms) d) Wonder (Antonyms) e) Sprout (Synonyms) Read the text and answer the questions 5, 6 & 7: Lev Nikolayevich Tolstoy who is famously known as Leo Tolstoy was a Russian novelist, philosopher and moral critic. The writer was born on 9th September 1828 in Yasnaya Polyana, in Tula province of the Russian Empire at his family’s estate. He had a traumatic childhood as he lost his mother, father and his aunt who were their local guardian and took care of him and his siblings after the S demise of his biological parents.",
+  "aiReadyText": "Sample Question 147 spread it on the children’s field, and their crops grew well. Everyday, someone would visit the field and report to the head-master and the other children on how it was doing. The children learned to know the wonder and the joy of seeing the seeds they had planted themselves sprout. And whenever two or three of them were gathered together, talk would turn to the progress of their field. 3. Complete the passage with suitable words: 1x5=5 The children deeply (a) ___ the farmer and affectionately called him their \"farming teacher\" whenever they saw him. He supported their efforts by (b) _____ surplus fertilizer, which helped their crops thrive. Each day, a student would check on the field and report its (c) ____ to the headmaster and classmates. Through this experience, the children discovered the joy and wonder of seeing their own planted seeds grow. Their (d) ___ was so great that whenever they gathered in small groups, their (e)__ naturally turned to the development of their field. 4. Read the passage carefully and replace the following words with their suitable synonyms or antonyms: 1x5=5 a) Esteem (Antonyms) b) Distance (Synonyms) c) Report (Synonyms) d) Wonder (Antonyms) e) Sprout (Synonyms) Read the text and answer the questions 5, 6 & 7: Lev Nikolayevich Tolstoy who is famously known as Leo Tolstoy was a Russian novelist, philosopher and moral critic. The writer was born on 9th September 1828 in Yasnaya Polyana, in Tula province of the Russian Empire at his family’s estate. He had a traumatic childhood as he lost his mother, father and his aunt who were their local guardian and took care of him and his siblings after the S demise of his biological parents.",
+  "lines": [
+    {
+      "id": "class8-english-p152-l001",
+      "lineNumber": 1,
+      "text": "Sample Question 147",
+      "cleanText": "Sample Question 147",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.16,
+        37.44,
+        468.0,
+        48.38
+      ]
+    },
+    {
+      "id": "class8-english-p152-l002",
+      "lineNumber": 2,
+      "text": "spread it on the children’s field, and their crops grew well. Everyday, someone",
+      "cleanText": "spread it on the children’s field, and their crops grew well. Everyday, someone",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        56.16,
+        69.41,
+        469.15,
+        81.22
+      ]
+    },
+    {
+      "id": "class8-english-p152-l003",
+      "lineNumber": 3,
+      "text": "would visit the field and report to the head-master and the other children on how",
+      "cleanText": "would visit the field and report to the head-master and the other children on how",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        55.58,
+        89.57,
+        469.15,
+        101.38
+      ]
+    },
+    {
+      "id": "class8-english-p152-l004",
+      "lineNumber": 4,
+      "text": "it was doing. The children learned to know the wonder and the joy of seeing the",
+      "cleanText": "it was doing. The children learned to know the wonder and the joy of seeing the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        55.87,
+        109.44,
+        469.15,
+        121.25
+      ]
+    },
+    {
+      "id": "class8-english-p152-l005",
+      "lineNumber": 5,
+      "text": "seeds they had planted themselves sprout. And whenever two or three of them",
+      "cleanText": "seeds they had planted themselves sprout. And whenever two or three of them",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.16,
+        129.31,
+        469.44,
+        141.41
+      ]
+    },
+    {
+      "id": "class8-english-p152-l006",
+      "lineNumber": 6,
+      "text": "were gathered together, talk would turn to the progress of their field.",
+      "cleanText": "were gathered together, talk would turn to the progress of their field.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        55.58,
+        149.47,
+        410.4,
+        161.28
+      ]
+    },
+    {
+      "id": "class8-english-p152-l007",
+      "lineNumber": 7,
+      "text": "3. Complete the passage with suitable words: 1x5=5",
+      "cleanText": "3. Complete the passage with suitable words: 1x5=5",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        55.58,
+        180.58,
+        468.86,
+        192.38
+      ]
+    },
+    {
+      "id": "class8-english-p152-l008",
+      "lineNumber": 8,
+      "text": "The children deeply (a) ___ the farmer and affectionately called him their",
+      "cleanText": "The children deeply (a) ___ the farmer and affectionately called him their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.92,
+      "bbox": [
+        55.87,
+        202.46,
+        469.44,
+        214.27
+      ]
+    },
+    {
+      "id": "class8-english-p152-l009",
+      "lineNumber": 9,
+      "text": "\"farming teacher\" whenever they saw him. He supported their efforts by (b)",
+      "cleanText": "\"farming teacher\" whenever they saw him. He supported their efforts by (b)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        56.16,
+        222.34,
+        468.86,
+        234.43
+      ]
+    },
+    {
+      "id": "class8-english-p152-l010",
+      "lineNumber": 10,
+      "text": "_____ surplus fertilizer, which helped their crops thrive. Each day, a student",
+      "cleanText": "_____ surplus fertilizer, which helped their crops thrive. Each day, a student",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.25,
+      "bbox": [
+        55.3,
+        242.5,
+        469.44,
+        254.3
+      ]
+    },
+    {
+      "id": "class8-english-p152-l011",
+      "lineNumber": 11,
+      "text": "would check on the field and report its (c) ____ to the headmaster and",
+      "cleanText": "would check on the field and report its (c) ____ to the headmaster and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.5,
+      "bbox": [
+        55.58,
+        262.37,
+        469.44,
+        274.46
+      ]
+    },
+    {
+      "id": "class8-english-p152-l012",
+      "lineNumber": 12,
+      "text": "classmates. Through this experience, the children discovered the joy and wonder",
+      "cleanText": "classmates. Through this experience, the children discovered the joy and wonder",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        55.87,
+        282.53,
+        469.44,
+        294.34
+      ]
+    },
+    {
+      "id": "class8-english-p152-l013",
+      "lineNumber": 13,
+      "text": "of seeing their own planted seeds grow. Their (d) ___ was so great that",
+      "cleanText": "of seeing their own planted seeds grow. Their (d) ___ was so great that",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.93,
+      "bbox": [
+        55.87,
+        302.4,
+        469.44,
+        314.21
+      ]
+    },
+    {
+      "id": "class8-english-p152-l014",
+      "lineNumber": 14,
+      "text": "whenever they gathered in small groups, their (e)__ naturally turned to the",
+      "cleanText": "whenever they gathered in small groups, their (e)__ naturally turned to the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.92,
+      "bbox": [
+        55.58,
+        322.56,
+        469.15,
+        334.37
+      ]
+    },
+    {
+      "id": "class8-english-p152-l015",
+      "lineNumber": 15,
+      "text": "development of their field.",
+      "cleanText": "development of their field.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        55.87,
+        342.43,
+        193.25,
+        354.24
+      ]
+    },
+    {
+      "id": "class8-english-p152-l016",
+      "lineNumber": 16,
+      "text": "4. Read the passage carefully and replace the following words with their",
+      "cleanText": "4. Read the passage carefully and replace the following words with their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        55.58,
+        373.54,
+        469.44,
+        385.34
+      ]
+    },
+    {
+      "id": "class8-english-p152-l017",
+      "lineNumber": 17,
+      "text": "suitable synonyms or antonyms: 1x5=5",
+      "cleanText": "suitable synonyms or antonyms: 1x5=5",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        55.87,
+        393.7,
+        468.58,
+        405.22
+      ]
+    },
+    {
+      "id": "class8-english-p152-l018",
+      "lineNumber": 18,
+      "text": "a) Esteem (Antonyms) b) Distance (Synonyms)",
+      "cleanText": "a) Esteem (Antonyms) b) Distance (Synonyms)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        91.87,
+        420.48,
+        361.15,
+        432.29
+      ]
+    },
+    {
+      "id": "class8-english-p152-l019",
+      "lineNumber": 19,
+      "text": "c) Report (Synonyms) d) Wonder (Antonyms)",
+      "cleanText": "c) Report (Synonyms) d) Wonder (Antonyms)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.83,
+      "bbox": [
+        91.58,
+        440.35,
+        356.54,
+        452.45
+      ]
+    },
+    {
+      "id": "class8-english-p152-l020",
+      "lineNumber": 20,
+      "text": "e) Sprout (Synonyms)",
+      "cleanText": "e) Sprout (Synonyms)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.33,
+      "bbox": [
+        91.87,
+        461.66,
+        205.63,
+        473.18
+      ]
+    },
+    {
+      "id": "class8-english-p152-l021",
+      "lineNumber": 21,
+      "text": "Read the text and answer the questions 5, 6 & 7:",
+      "cleanText": "Read the text and answer the questions 5, 6 & 7:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.18,
+      "bbox": [
+        55.58,
+        504.58,
+        321.7,
+        516.38
+      ]
+    },
+    {
+      "id": "class8-english-p152-l022",
+      "lineNumber": 22,
+      "text": "Lev Nikolayevich Tolstoy who is famously known as Leo Tolstoy was a Russian",
+      "cleanText": "Lev Nikolayevich Tolstoy who is famously known as Leo Tolstoy was a Russian",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        55.58,
+        531.36,
+        469.15,
+        543.46
+      ]
+    },
+    {
+      "id": "class8-english-p152-l023",
+      "lineNumber": 23,
+      "text": "novelist, philosopher and moral critic. The writer was born on 9th September",
+      "cleanText": "novelist, philosopher and moral critic. The writer was born on 9th September",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        55.58,
+        551.52,
+        469.44,
+        563.33
+      ]
+    },
+    {
+      "id": "class8-english-p152-l024",
+      "lineNumber": 24,
+      "text": "1828 in Yasnaya Polyana, in Tula province of the Russian Empire at his family’s",
+      "cleanText": "1828 in Yasnaya Polyana, in Tula province of the Russian Empire at his family’s",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.07,
+      "bbox": [
+        57.02,
+        571.39,
+        468.86,
+        583.2
+      ]
+    },
+    {
+      "id": "class8-english-p152-l025",
+      "lineNumber": 25,
+      "text": "estate. He had a traumatic childhood as he lost his mother, father and his aunt",
+      "cleanText": "estate. He had a traumatic childhood as he lost his mother, father and his aunt",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        55.87,
+        591.55,
+        469.44,
+        602.5
+      ]
+    },
+    {
+      "id": "class8-english-p152-l026",
+      "lineNumber": 26,
+      "text": "who were their local guardian and took care of him and his siblings after the",
+      "cleanText": "who were their local guardian and took care of him and his siblings after the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.87,
+      "bbox": [
+        55.58,
+        611.42,
+        469.15,
+        623.23
+      ]
+    },
+    {
+      "id": "class8-english-p152-l027",
+      "lineNumber": 27,
+      "text": "S demise of his biological parents.",
+      "cleanText": "S demise of his biological parents.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 81.67,
+      "bbox": [
+        33.7,
+        624.67,
+        222.62,
+        648.58
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p152-l001",
+      "lineNumber": 1,
+      "text": "Sample Question 147",
+      "cleanText": "Sample Question 147",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.16,
+        37.44,
+        468.0,
+        48.38
+      ]
+    },
+    {
+      "id": "class8-english-p152-l002",
+      "lineNumber": 2,
+      "text": "spread it on the children’s field, and their crops grew well. Everyday, someone",
+      "cleanText": "spread it on the children’s field, and their crops grew well. Everyday, someone",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        56.16,
+        69.41,
+        469.15,
+        81.22
+      ]
+    },
+    {
+      "id": "class8-english-p152-l003",
+      "lineNumber": 3,
+      "text": "would visit the field and report to the head-master and the other children on how",
+      "cleanText": "would visit the field and report to the head-master and the other children on how",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        55.58,
+        89.57,
+        469.15,
+        101.38
+      ]
+    },
+    {
+      "id": "class8-english-p152-l004",
+      "lineNumber": 4,
+      "text": "it was doing. The children learned to know the wonder and the joy of seeing the",
+      "cleanText": "it was doing. The children learned to know the wonder and the joy of seeing the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        55.87,
+        109.44,
+        469.15,
+        121.25
+      ]
+    },
+    {
+      "id": "class8-english-p152-l005",
+      "lineNumber": 5,
+      "text": "seeds they had planted themselves sprout. And whenever two or three of them",
+      "cleanText": "seeds they had planted themselves sprout. And whenever two or three of them",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        56.16,
+        129.31,
+        469.44,
+        141.41
+      ]
+    },
+    {
+      "id": "class8-english-p152-l006",
+      "lineNumber": 6,
+      "text": "were gathered together, talk would turn to the progress of their field.",
+      "cleanText": "were gathered together, talk would turn to the progress of their field.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        55.58,
+        149.47,
+        410.4,
+        161.28
+      ]
+    },
+    {
+      "id": "class8-english-p152-l007",
+      "lineNumber": 7,
+      "text": "3. Complete the passage with suitable words: 1x5=5",
+      "cleanText": "3. Complete the passage with suitable words: 1x5=5",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        55.58,
+        180.58,
+        468.86,
+        192.38
+      ]
+    },
+    {
+      "id": "class8-english-p152-l008",
+      "lineNumber": 8,
+      "text": "The children deeply (a) ___ the farmer and affectionately called him their",
+      "cleanText": "The children deeply (a) ___ the farmer and affectionately called him their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.92,
+      "bbox": [
+        55.87,
+        202.46,
+        469.44,
+        214.27
+      ]
+    },
+    {
+      "id": "class8-english-p152-l009",
+      "lineNumber": 9,
+      "text": "\"farming teacher\" whenever they saw him. He supported their efforts by (b)",
+      "cleanText": "\"farming teacher\" whenever they saw him. He supported their efforts by (b)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        56.16,
+        222.34,
+        468.86,
+        234.43
+      ]
+    },
+    {
+      "id": "class8-english-p152-l010",
+      "lineNumber": 10,
+      "text": "_____ surplus fertilizer, which helped their crops thrive. Each day, a student",
+      "cleanText": "_____ surplus fertilizer, which helped their crops thrive. Each day, a student",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.25,
+      "bbox": [
+        55.3,
+        242.5,
+        469.44,
+        254.3
+      ]
+    },
+    {
+      "id": "class8-english-p152-l011",
+      "lineNumber": 11,
+      "text": "would check on the field and report its (c) ____ to the headmaster and",
+      "cleanText": "would check on the field and report its (c) ____ to the headmaster and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.5,
+      "bbox": [
+        55.58,
+        262.37,
+        469.44,
+        274.46
+      ]
+    },
+    {
+      "id": "class8-english-p152-l012",
+      "lineNumber": 12,
+      "text": "classmates. Through this experience, the children discovered the joy and wonder",
+      "cleanText": "classmates. Through this experience, the children discovered the joy and wonder",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        55.87,
+        282.53,
+        469.44,
+        294.34
+      ]
+    },
+    {
+      "id": "class8-english-p152-l013",
+      "lineNumber": 13,
+      "text": "of seeing their own planted seeds grow. Their (d) ___ was so great that",
+      "cleanText": "of seeing their own planted seeds grow. Their (d) ___ was so great that",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.93,
+      "bbox": [
+        55.87,
+        302.4,
+        469.44,
+        314.21
+      ]
+    },
+    {
+      "id": "class8-english-p152-l014",
+      "lineNumber": 14,
+      "text": "whenever they gathered in small groups, their (e)__ naturally turned to the",
+      "cleanText": "whenever they gathered in small groups, their (e)__ naturally turned to the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.92,
+      "bbox": [
+        55.58,
+        322.56,
+        469.15,
+        334.37
+      ]
+    },
+    {
+      "id": "class8-english-p152-l015",
+      "lineNumber": 15,
+      "text": "development of their field.",
+      "cleanText": "development of their field.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        55.87,
+        342.43,
+        193.25,
+        354.24
+      ]
+    },
+    {
+      "id": "class8-english-p152-l016",
+      "lineNumber": 16,
+      "text": "4. Read the passage carefully and replace the following words with their",
+      "cleanText": "4. Read the passage carefully and replace the following words with their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        55.58,
+        373.54,
+        469.44,
+        385.34
+      ]
+    },
+    {
+      "id": "class8-english-p152-l017",
+      "lineNumber": 17,
+      "text": "suitable synonyms or antonyms: 1x5=5",
+      "cleanText": "suitable synonyms or antonyms: 1x5=5",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        55.87,
+        393.7,
+        468.58,
+        405.22
+      ]
+    },
+    {
+      "id": "class8-english-p152-l018",
+      "lineNumber": 18,
+      "text": "a) Esteem (Antonyms) b) Distance (Synonyms)",
+      "cleanText": "a) Esteem (Antonyms) b) Distance (Synonyms)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        91.87,
+        420.48,
+        361.15,
+        432.29
+      ]
+    },
+    {
+      "id": "class8-english-p152-l019",
+      "lineNumber": 19,
+      "text": "c) Report (Synonyms) d) Wonder (Antonyms)",
+      "cleanText": "c) Report (Synonyms) d) Wonder (Antonyms)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.83,
+      "bbox": [
+        91.58,
+        440.35,
+        356.54,
+        452.45
+      ]
+    },
+    {
+      "id": "class8-english-p152-l020",
+      "lineNumber": 20,
+      "text": "e) Sprout (Synonyms)",
+      "cleanText": "e) Sprout (Synonyms)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.33,
+      "bbox": [
+        91.87,
+        461.66,
+        205.63,
+        473.18
+      ]
+    },
+    {
+      "id": "class8-english-p152-l021",
+      "lineNumber": 21,
+      "text": "Read the text and answer the questions 5, 6 & 7:",
+      "cleanText": "Read the text and answer the questions 5, 6 & 7:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.18,
+      "bbox": [
+        55.58,
+        504.58,
+        321.7,
+        516.38
+      ]
+    },
+    {
+      "id": "class8-english-p152-l022",
+      "lineNumber": 22,
+      "text": "Lev Nikolayevich Tolstoy who is famously known as Leo Tolstoy was a Russian",
+      "cleanText": "Lev Nikolayevich Tolstoy who is famously known as Leo Tolstoy was a Russian",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        55.58,
+        531.36,
+        469.15,
+        543.46
+      ]
+    },
+    {
+      "id": "class8-english-p152-l023",
+      "lineNumber": 23,
+      "text": "novelist, philosopher and moral critic. The writer was born on 9th September",
+      "cleanText": "novelist, philosopher and moral critic. The writer was born on 9th September",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        55.58,
+        551.52,
+        469.44,
+        563.33
+      ]
+    },
+    {
+      "id": "class8-english-p152-l024",
+      "lineNumber": 24,
+      "text": "1828 in Yasnaya Polyana, in Tula province of the Russian Empire at his family’s",
+      "cleanText": "1828 in Yasnaya Polyana, in Tula province of the Russian Empire at his family’s",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.07,
+      "bbox": [
+        57.02,
+        571.39,
+        468.86,
+        583.2
+      ]
+    },
+    {
+      "id": "class8-english-p152-l025",
+      "lineNumber": 25,
+      "text": "estate. He had a traumatic childhood as he lost his mother, father and his aunt",
+      "cleanText": "estate. He had a traumatic childhood as he lost his mother, father and his aunt",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        55.87,
+        591.55,
+        469.44,
+        602.5
+      ]
+    },
+    {
+      "id": "class8-english-p152-l026",
+      "lineNumber": 26,
+      "text": "who were their local guardian and took care of him and his siblings after the",
+      "cleanText": "who were their local guardian and took care of him and his siblings after the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.87,
+      "bbox": [
+        55.58,
+        611.42,
+        469.15,
+        623.23
+      ]
+    },
+    {
+      "id": "class8-english-p152-l027",
+      "lineNumber": 27,
+      "text": "S demise of his biological parents.",
+      "cleanText": "S demise of his biological parents.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 81.67,
+      "bbox": [
+        33.7,
+        624.67,
+        222.62,
+        648.58
+      ]
+    }
+  ],
+  "lineCount": 27,
+  "aiReadyLineCount": 27,
+  "averageConfidence": 93.58,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:19:38.177345+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

@@ -1,0 +1,747 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 75,
+  "pdfPage": 75,
+  "textbookPage": 75,
+  "width": 539.97,
+  "height": 709.46,
+  "image": "../images/page-075.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "70 English For Today\nGood afternoon passengers. This is your captain Rashid Akbar speaking. First\nI'd like to welcome everyone on Flight BG 88. We are currently cruising at\nan altitude of 10058.40 feet at airspeed of 643.7376 km per hour. The time is\n1:25 pm. The weather looks good and with the tailwind on our side, we are\nexpecting to land in Bangkok approximately fifteen minutes ahead of schedule.\nThe weather in Bangkok is clear and sunny. The temperature is 32 degree\nCelsius for this afternoon. If the weather is good, we should get a great view of\nthe city as we descend. The cabin crew will be coming around in about twenty\nminute’s time to offer you a light snack and drinks. The inflight movie will\nbegin shortly after that. I'll talk to you again before we reach our destination.\nUntil then, sit back, and enjoy the flight.\nLesson 6: Announcements on Board (2)\nKeywords: exit, locate, monitored, assistance, secure, assume, bracing-position,\npouch, firmly, turbulence\nA.Look at the picture and talk about what the cabin crew is doing\nand why she is doing so:\n_— =! 2 ——\n| b ) |\n\\ ae elt ae —\n(OVE Ve a\n= ie = Yee lp\nB. Listen to the text and answer the questions:\nU1, L6B S\nListening text: 4 =",
+  "cleanText": "70 English For Today Good afternoon passengers. This is your captain Rashid Akbar speaking. First I'd like to welcome everyone on Flight BG 88. We are currently cruising at an altitude of 10058.40 feet at airspeed of 643.7376 km per hour. The time is 1:25 pm. The weather looks good and with the tailwind on our side, we are expecting to land in Bangkok approximately fifteen minutes ahead of schedule. The weather in Bangkok is clear and sunny. The temperature is 32 degree Celsius for this afternoon. If the weather is good, we should get a great view of the city as we descend. The cabin crew will be coming around in about twenty minute’s time to offer you a light snack and drinks. The inflight movie will begin shortly after that. I'll talk to you again before we reach our destination. Until then, sit back, and enjoy the flight. Lesson 6: Announcements on Board (2) Keywords: exit, locate, monitored, assistance, secure, assume, bracing-position, pouch, firmly, turbulence A.Look at the picture and talk about what the cabin crew is doing and why she is doing so: _— =! 2 —— | b ) | \\ ae elt ae — (OVE Ve a = ie = Yee lp B. Listen to the text and answer the questions: U1, L6B S Listening text: 4 =",
+  "aiReadyText": "70 English For Today Good afternoon passengers. This is your captain Rashid Akbar speaking. First I'd like to welcome everyone on Flight BG 88. We are currently cruising at an altitude of 10058.40 feet at airspeed of 643.7376 km per hour. The time is 1:25 pm. The weather looks good and with the tailwind on our side, we are expecting to land in Bangkok approximately fifteen minutes ahead of schedule. The weather in Bangkok is clear and sunny. The temperature is 32 degree Celsius for this afternoon. If the weather is good, we should get a great view of the city as we descend. The cabin crew will be coming around in about twenty minute’s time to offer you a light snack and drinks. The inflight movie will begin shortly after that. I'll talk to you again before we reach our destination. Until then, sit back, and enjoy the flight. Lesson 6: Announcements on Board (2) Keywords: exit, locate, monitored, assistance, secure, assume, bracing-position, pouch, firmly, turbulence A.Look at the picture and talk about what the cabin crew is doing and why she is doing so: \\ ae elt ae — (OVE Ve a = ie = Yee lp B. Listen to the text and answer the questions: U1, L6B S Listening text: 4 =",
+  "lines": [
+    {
+      "id": "class8-english-p075-l001",
+      "lineNumber": 1,
+      "text": "70 English For Today",
+      "cleanText": "70 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        66.53,
+        48.1,
+        478.94,
+        59.04
+      ]
+    },
+    {
+      "id": "class8-english-p075-l002",
+      "lineNumber": 2,
+      "text": "Good afternoon passengers. This is your captain Rashid Akbar speaking. First",
+      "cleanText": "Good afternoon passengers. This is your captain Rashid Akbar speaking. First",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        67.68,
+        79.49,
+        480.96,
+        91.58
+      ]
+    },
+    {
+      "id": "class8-english-p075-l003",
+      "lineNumber": 3,
+      "text": "I'd like to welcome everyone on Flight BG 88. We are currently cruising at",
+      "cleanText": "I'd like to welcome everyone on Flight BG 88. We are currently cruising at",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.07,
+      "bbox": [
+        67.97,
+        97.92,
+        480.67,
+        110.02
+      ]
+    },
+    {
+      "id": "class8-english-p075-l004",
+      "lineNumber": 4,
+      "text": "an altitude of 10058.40 feet at airspeed of 643.7376 km per hour. The time is",
+      "cleanText": "an altitude of 10058.40 feet at airspeed of 643.7376 km per hour. The time is",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.53,
+      "bbox": [
+        67.97,
+        116.06,
+        480.1,
+        128.45
+      ]
+    },
+    {
+      "id": "class8-english-p075-l005",
+      "lineNumber": 5,
+      "text": "1:25 pm. The weather looks good and with the tailwind on our side, we are",
+      "cleanText": "1:25 pm. The weather looks good and with the tailwind on our side, we are",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        67.68,
+        133.06,
+        482.98,
+        145.15
+      ]
+    },
+    {
+      "id": "class8-english-p075-l006",
+      "lineNumber": 6,
+      "text": "expecting to land in Bangkok approximately fifteen minutes ahead of schedule.",
+      "cleanText": "expecting to land in Bangkok approximately fifteen minutes ahead of schedule.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        67.39,
+        149.76,
+        481.54,
+        162.43
+      ]
+    },
+    {
+      "id": "class8-english-p075-l007",
+      "lineNumber": 7,
+      "text": "The weather in Bangkok is clear and sunny. The temperature is 32 degree",
+      "cleanText": "The weather in Bangkok is clear and sunny. The temperature is 32 degree",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        67.68,
+        167.33,
+        481.82,
+        179.71
+      ]
+    },
+    {
+      "id": "class8-english-p075-l008",
+      "lineNumber": 8,
+      "text": "Celsius for this afternoon. If the weather is good, we should get a great view of",
+      "cleanText": "Celsius for this afternoon. If the weather is good, we should get a great view of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        68.26,
+        184.32,
+        482.69,
+        196.99
+      ]
+    },
+    {
+      "id": "class8-english-p075-l009",
+      "lineNumber": 9,
+      "text": "the city as we descend. The cabin crew will be coming around in about twenty",
+      "cleanText": "the city as we descend. The cabin crew will be coming around in about twenty",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        66.53,
+        201.31,
+        482.98,
+        213.7
+      ]
+    },
+    {
+      "id": "class8-english-p075-l010",
+      "lineNumber": 10,
+      "text": "minute’s time to offer you a light snack and drinks. The inflight movie will",
+      "cleanText": "minute’s time to offer you a light snack and drinks. The inflight movie will",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.14,
+      "bbox": [
+        67.68,
+        218.3,
+        481.54,
+        230.4
+      ]
+    },
+    {
+      "id": "class8-english-p075-l011",
+      "lineNumber": 11,
+      "text": "begin shortly after that. I'll talk to you again before we reach our destination.",
+      "cleanText": "begin shortly after that. I'll talk to you again before we reach our destination.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        68.26,
+        234.43,
+        478.94,
+        246.53
+      ]
+    },
+    {
+      "id": "class8-english-p075-l012",
+      "lineNumber": 12,
+      "text": "Until then, sit back, and enjoy the flight.",
+      "cleanText": "Until then, sit back, and enjoy the flight.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        67.39,
+        250.85,
+        276.48,
+        262.94
+      ]
+    },
+    {
+      "id": "class8-english-p075-l013",
+      "lineNumber": 13,
+      "text": "Lesson 6: Announcements on Board (2)",
+      "cleanText": "Lesson 6: Announcements on Board (2)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        64.51,
+        287.42,
+        398.59,
+        304.99
+      ]
+    },
+    {
+      "id": "class8-english-p075-l014",
+      "lineNumber": 14,
+      "text": "Keywords: exit, locate, monitored, assistance, secure, assume, bracing-position,",
+      "cleanText": "Keywords: exit, locate, monitored, assistance, secure, assume, bracing-position,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.88,
+      "bbox": [
+        69.41,
+        312.48,
+        493.34,
+        324.58
+      ]
+    },
+    {
+      "id": "class8-english-p075-l015",
+      "lineNumber": 15,
+      "text": "pouch, firmly, turbulence",
+      "cleanText": "pouch, firmly, turbulence",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        67.1,
+        329.47,
+        201.02,
+        341.57
+      ]
+    },
+    {
+      "id": "class8-english-p075-l016",
+      "lineNumber": 16,
+      "text": "A.Look at the picture and talk about what the cabin crew is doing",
+      "cleanText": "A.Look at the picture and talk about what the cabin crew is doing",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.08,
+      "bbox": [
+        69.41,
+        355.97,
+        481.54,
+        368.64
+      ]
+    },
+    {
+      "id": "class8-english-p075-l017",
+      "lineNumber": 17,
+      "text": "and why she is doing so:",
+      "cleanText": "and why she is doing so:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        84.67,
+        372.96,
+        228.67,
+        385.63
+      ]
+    },
+    {
+      "id": "class8-english-p075-l018",
+      "lineNumber": 18,
+      "text": "_— =! 2 ——",
+      "cleanText": "_— =! 2 ——",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 37.0,
+      "bbox": [
+        169.63,
+        414.72,
+        430.27,
+        425.09
+      ]
+    },
+    {
+      "id": "class8-english-p075-l019",
+      "lineNumber": 19,
+      "text": "| b ) |",
+      "cleanText": "| b ) |",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 70.0,
+      "bbox": [
+        235.87,
+        462.82,
+        405.5,
+        502.85
+      ]
+    },
+    {
+      "id": "class8-english-p075-l020",
+      "lineNumber": 20,
+      "text": "\\ ae elt ae —",
+      "cleanText": "\\ ae elt ae —",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 33.2,
+      "bbox": [
+        170.78,
+        509.76,
+        422.21,
+        523.3
+      ]
+    },
+    {
+      "id": "class8-english-p075-l021",
+      "lineNumber": 21,
+      "text": "(OVE Ve a",
+      "cleanText": "(OVE Ve a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 35.0,
+      "bbox": [
+        153.79,
+        531.07,
+        425.09,
+        544.03
+      ]
+    },
+    {
+      "id": "class8-english-p075-l022",
+      "lineNumber": 22,
+      "text": "= ie = Yee lp",
+      "cleanText": "= ie = Yee lp",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 45.0,
+      "bbox": [
+        203.9,
+        556.99,
+        372.96,
+        569.95
+      ]
+    },
+    {
+      "id": "class8-english-p075-l023",
+      "lineNumber": 23,
+      "text": "B. Listen to the text and answer the questions:",
+      "cleanText": "B. Listen to the text and answer the questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        66.24,
+        596.74,
+        345.89,
+        609.12
+      ]
+    },
+    {
+      "id": "class8-english-p075-l024",
+      "lineNumber": 24,
+      "text": "U1, L6B S",
+      "cleanText": "U1, L6B S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 70.0,
+      "bbox": [
+        219.74,
+        629.57,
+        510.91,
+        646.56
+      ]
+    },
+    {
+      "id": "class8-english-p075-l025",
+      "lineNumber": 25,
+      "text": "Listening text: 4 =",
+      "cleanText": "Listening text: 4 =",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.0,
+      "bbox": [
+        218.88,
+        645.7,
+        510.91,
+        658.66
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p075-l001",
+      "lineNumber": 1,
+      "text": "70 English For Today",
+      "cleanText": "70 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        66.53,
+        48.1,
+        478.94,
+        59.04
+      ]
+    },
+    {
+      "id": "class8-english-p075-l002",
+      "lineNumber": 2,
+      "text": "Good afternoon passengers. This is your captain Rashid Akbar speaking. First",
+      "cleanText": "Good afternoon passengers. This is your captain Rashid Akbar speaking. First",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        67.68,
+        79.49,
+        480.96,
+        91.58
+      ]
+    },
+    {
+      "id": "class8-english-p075-l003",
+      "lineNumber": 3,
+      "text": "I'd like to welcome everyone on Flight BG 88. We are currently cruising at",
+      "cleanText": "I'd like to welcome everyone on Flight BG 88. We are currently cruising at",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.07,
+      "bbox": [
+        67.97,
+        97.92,
+        480.67,
+        110.02
+      ]
+    },
+    {
+      "id": "class8-english-p075-l004",
+      "lineNumber": 4,
+      "text": "an altitude of 10058.40 feet at airspeed of 643.7376 km per hour. The time is",
+      "cleanText": "an altitude of 10058.40 feet at airspeed of 643.7376 km per hour. The time is",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.53,
+      "bbox": [
+        67.97,
+        116.06,
+        480.1,
+        128.45
+      ]
+    },
+    {
+      "id": "class8-english-p075-l005",
+      "lineNumber": 5,
+      "text": "1:25 pm. The weather looks good and with the tailwind on our side, we are",
+      "cleanText": "1:25 pm. The weather looks good and with the tailwind on our side, we are",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        67.68,
+        133.06,
+        482.98,
+        145.15
+      ]
+    },
+    {
+      "id": "class8-english-p075-l006",
+      "lineNumber": 6,
+      "text": "expecting to land in Bangkok approximately fifteen minutes ahead of schedule.",
+      "cleanText": "expecting to land in Bangkok approximately fifteen minutes ahead of schedule.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        67.39,
+        149.76,
+        481.54,
+        162.43
+      ]
+    },
+    {
+      "id": "class8-english-p075-l007",
+      "lineNumber": 7,
+      "text": "The weather in Bangkok is clear and sunny. The temperature is 32 degree",
+      "cleanText": "The weather in Bangkok is clear and sunny. The temperature is 32 degree",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        67.68,
+        167.33,
+        481.82,
+        179.71
+      ]
+    },
+    {
+      "id": "class8-english-p075-l008",
+      "lineNumber": 8,
+      "text": "Celsius for this afternoon. If the weather is good, we should get a great view of",
+      "cleanText": "Celsius for this afternoon. If the weather is good, we should get a great view of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        68.26,
+        184.32,
+        482.69,
+        196.99
+      ]
+    },
+    {
+      "id": "class8-english-p075-l009",
+      "lineNumber": 9,
+      "text": "the city as we descend. The cabin crew will be coming around in about twenty",
+      "cleanText": "the city as we descend. The cabin crew will be coming around in about twenty",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        66.53,
+        201.31,
+        482.98,
+        213.7
+      ]
+    },
+    {
+      "id": "class8-english-p075-l010",
+      "lineNumber": 10,
+      "text": "minute’s time to offer you a light snack and drinks. The inflight movie will",
+      "cleanText": "minute’s time to offer you a light snack and drinks. The inflight movie will",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.14,
+      "bbox": [
+        67.68,
+        218.3,
+        481.54,
+        230.4
+      ]
+    },
+    {
+      "id": "class8-english-p075-l011",
+      "lineNumber": 11,
+      "text": "begin shortly after that. I'll talk to you again before we reach our destination.",
+      "cleanText": "begin shortly after that. I'll talk to you again before we reach our destination.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        68.26,
+        234.43,
+        478.94,
+        246.53
+      ]
+    },
+    {
+      "id": "class8-english-p075-l012",
+      "lineNumber": 12,
+      "text": "Until then, sit back, and enjoy the flight.",
+      "cleanText": "Until then, sit back, and enjoy the flight.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        67.39,
+        250.85,
+        276.48,
+        262.94
+      ]
+    },
+    {
+      "id": "class8-english-p075-l013",
+      "lineNumber": 13,
+      "text": "Lesson 6: Announcements on Board (2)",
+      "cleanText": "Lesson 6: Announcements on Board (2)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        64.51,
+        287.42,
+        398.59,
+        304.99
+      ]
+    },
+    {
+      "id": "class8-english-p075-l014",
+      "lineNumber": 14,
+      "text": "Keywords: exit, locate, monitored, assistance, secure, assume, bracing-position,",
+      "cleanText": "Keywords: exit, locate, monitored, assistance, secure, assume, bracing-position,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.88,
+      "bbox": [
+        69.41,
+        312.48,
+        493.34,
+        324.58
+      ]
+    },
+    {
+      "id": "class8-english-p075-l015",
+      "lineNumber": 15,
+      "text": "pouch, firmly, turbulence",
+      "cleanText": "pouch, firmly, turbulence",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        67.1,
+        329.47,
+        201.02,
+        341.57
+      ]
+    },
+    {
+      "id": "class8-english-p075-l016",
+      "lineNumber": 16,
+      "text": "A.Look at the picture and talk about what the cabin crew is doing",
+      "cleanText": "A.Look at the picture and talk about what the cabin crew is doing",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.08,
+      "bbox": [
+        69.41,
+        355.97,
+        481.54,
+        368.64
+      ]
+    },
+    {
+      "id": "class8-english-p075-l017",
+      "lineNumber": 17,
+      "text": "and why she is doing so:",
+      "cleanText": "and why she is doing so:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        84.67,
+        372.96,
+        228.67,
+        385.63
+      ]
+    },
+    {
+      "id": "class8-english-p075-l020",
+      "lineNumber": 20,
+      "text": "\\ ae elt ae —",
+      "cleanText": "\\ ae elt ae —",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 33.2,
+      "bbox": [
+        170.78,
+        509.76,
+        422.21,
+        523.3
+      ]
+    },
+    {
+      "id": "class8-english-p075-l021",
+      "lineNumber": 21,
+      "text": "(OVE Ve a",
+      "cleanText": "(OVE Ve a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 35.0,
+      "bbox": [
+        153.79,
+        531.07,
+        425.09,
+        544.03
+      ]
+    },
+    {
+      "id": "class8-english-p075-l022",
+      "lineNumber": 22,
+      "text": "= ie = Yee lp",
+      "cleanText": "= ie = Yee lp",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 45.0,
+      "bbox": [
+        203.9,
+        556.99,
+        372.96,
+        569.95
+      ]
+    },
+    {
+      "id": "class8-english-p075-l023",
+      "lineNumber": 23,
+      "text": "B. Listen to the text and answer the questions:",
+      "cleanText": "B. Listen to the text and answer the questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        66.24,
+        596.74,
+        345.89,
+        609.12
+      ]
+    },
+    {
+      "id": "class8-english-p075-l024",
+      "lineNumber": 24,
+      "text": "U1, L6B S",
+      "cleanText": "U1, L6B S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 70.0,
+      "bbox": [
+        219.74,
+        629.57,
+        510.91,
+        646.56
+      ]
+    },
+    {
+      "id": "class8-english-p075-l025",
+      "lineNumber": 25,
+      "text": "Listening text: 4 =",
+      "cleanText": "Listening text: 4 =",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.0,
+      "bbox": [
+        218.88,
+        645.7,
+        510.91,
+        658.66
+      ]
+    }
+  ],
+  "lineCount": 25,
+  "aiReadyLineCount": 23,
+  "averageConfidence": 83.98,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:17:42.536747+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

@@ -1,0 +1,957 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 27,
+  "pdfPage": 27,
+  "textbookPage": 27,
+  "width": 527.52,
+  "height": 697.0,
+  "image": "../images/page-027.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "22 English For Today\nC. Read the text in B silently and then choose the best answer:\n1. Health means the condition of\na. our body. b. our mind.\nc. our body and mind. d. our environment.\n2. A healthy person is one who\na. is physically and mentally sound. b. eats good food.\nc. has a lot of wealth. d. is overweight.\n3. We need to eat\na. rich food. b. balanced food.\nc. little food. d. lot of food.\n4. The phrase 'to keep late hours' means\na. to go to bed late. b. to wake up late in the morning.\nc. to do things late always. d. to be late for the class.\nD. Write a short paragraph about how you can maintain good health\nwithin 180-200 words:\nLesson 2: Ode on Solitude\nA. Read and recite the poem:\nOde on Solitude\nHappy the man, whose wish and care\nA few paternal acres bound,\nContent to breathe his native air,\nIn his own ground.\nWhose herds with milk, whose fields with bread,\nWhose flocks supply him with attire,\nWhose trees in summer yield him shade,\nIn winter fire.\nBlest! who can unconcernedly find\nHours, days and years slide soft away,\nIn health of body, peace of mind, oS\nQuiet by day, S",
+  "cleanText": "22 English For Today C. Read the text in B silently and then choose the best answer: 1. Health means the condition of a. our body. b. our mind. c. our body and mind. d. our environment. 2. A healthy person is one who a. is physically and mentally sound. b. eats good food. c. has a lot of wealth. d. is overweight. 3. We need to eat a. rich food. b. balanced food. c. little food. d. lot of food. 4. The phrase 'to keep late hours' means a. to go to bed late. b. to wake up late in the morning. c. to do things late always. d. to be late for the class. D. Write a short paragraph about how you can maintain good health within 180-200 words: Lesson 2: Ode on Solitude A. Read and recite the poem: Ode on Solitude Happy the man, whose wish and care A few paternal acres bound, Content to breathe his native air, In his own ground. Whose herds with milk, whose fields with bread, Whose flocks supply him with attire, Whose trees in summer yield him shade, In winter fire. Blest! who can unconcernedly find Hours, days and years slide soft away, In health of body, peace of mind, oS Quiet by day, S",
+  "aiReadyText": "22 English For Today C. Read the text in B silently and then choose the best answer: 1. Health means the condition of a. our body. b. our mind. c. our body and mind. d. our environment. 2. A healthy person is one who a. is physically and mentally sound. b. eats good food. c. has a lot of wealth. d. is overweight. 3. We need to eat a. rich food. b. balanced food. c. little food. d. lot of food. 4. The phrase 'to keep late hours' means a. to go to bed late. b. to wake up late in the morning. c. to do things late always. d. to be late for the class. D. Write a short paragraph about how you can maintain good health within 180-200 words: Lesson 2: Ode on Solitude A. Read and recite the poem: Ode on Solitude Happy the man, whose wish and care A few paternal acres bound, Content to breathe his native air, In his own ground. Whose herds with milk, whose fields with bread, Whose flocks supply him with attire, Whose trees in summer yield him shade, In winter fire. Blest! who can unconcernedly find Hours, days and years slide soft away, In health of body, peace of mind, oS Quiet by day, S",
+  "lines": [
+    {
+      "id": "class8-english-p027-l001",
+      "lineNumber": 1,
+      "text": "22 English For Today",
+      "cleanText": "22 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.75,
+        43.2,
+        471.74,
+        55.3
+      ]
+    },
+    {
+      "id": "class8-english-p027-l002",
+      "lineNumber": 2,
+      "text": "C. Read the text in B silently and then choose the best answer:",
+      "cleanText": "C. Read the text in B silently and then choose the best answer:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.85,
+      "bbox": [
+        59.04,
+        72.86,
+        429.41,
+        85.54
+      ]
+    },
+    {
+      "id": "class8-english-p027-l003",
+      "lineNumber": 3,
+      "text": "1. Health means the condition of",
+      "cleanText": "1. Health means the condition of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        59.04,
+        92.16,
+        240.19,
+        101.38
+      ]
+    },
+    {
+      "id": "class8-english-p027-l004",
+      "lineNumber": 4,
+      "text": "a. our body. b. our mind.",
+      "cleanText": "a. our body. b. our mind.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        74.02,
+        107.71,
+        332.06,
+        119.52
+      ]
+    },
+    {
+      "id": "class8-english-p027-l005",
+      "lineNumber": 5,
+      "text": "c. our body and mind. d. our environment.",
+      "cleanText": "c. our body and mind. d. our environment.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.62,
+      "bbox": [
+        74.02,
+        123.26,
+        371.23,
+        135.07
+      ]
+    },
+    {
+      "id": "class8-english-p027-l006",
+      "lineNumber": 6,
+      "text": "2. A healthy person is one who",
+      "cleanText": "2. A healthy person is one who",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.14,
+      "bbox": [
+        58.75,
+        143.14,
+        226.94,
+        154.66
+      ]
+    },
+    {
+      "id": "class8-english-p027-l007",
+      "lineNumber": 7,
+      "text": "a. is physically and mentally sound. b. eats good food.",
+      "cleanText": "a. is physically and mentally sound. b. eats good food.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.2,
+      "bbox": [
+        74.02,
+        158.4,
+        361.44,
+        170.21
+      ]
+    },
+    {
+      "id": "class8-english-p027-l008",
+      "lineNumber": 8,
+      "text": "c. has a lot of wealth. d. is overweight.",
+      "cleanText": "c. has a lot of wealth. d. is overweight.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.89,
+      "bbox": [
+        74.02,
+        173.95,
+        355.1,
+        185.76
+      ]
+    },
+    {
+      "id": "class8-english-p027-l009",
+      "lineNumber": 9,
+      "text": "3. We need to eat",
+      "cleanText": "3. We need to eat",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        59.04,
+        192.96,
+        154.08,
+        202.18
+      ]
+    },
+    {
+      "id": "class8-english-p027-l010",
+      "lineNumber": 10,
+      "text": "a. rich food. b. balanced food.",
+      "cleanText": "a. rich food. b. balanced food.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.83,
+      "bbox": [
+        74.02,
+        208.22,
+        360.0,
+        217.44
+      ]
+    },
+    {
+      "id": "class8-english-p027-l011",
+      "lineNumber": 11,
+      "text": "c. little food. d. lot of food.",
+      "cleanText": "c. little food. d. lot of food.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.43,
+      "bbox": [
+        74.02,
+        223.78,
+        341.57,
+        232.99
+      ]
+    },
+    {
+      "id": "class8-english-p027-l012",
+      "lineNumber": 12,
+      "text": "4. The phrase 'to keep late hours' means",
+      "cleanText": "4. The phrase 'to keep late hours' means",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        58.75,
+        242.5,
+        282.82,
+        254.3
+      ]
+    },
+    {
+      "id": "class8-english-p027-l013",
+      "lineNumber": 13,
+      "text": "a. to go to bed late. b. to wake up late in the morning.",
+      "cleanText": "a. to go to bed late. b. to wake up late in the morning.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        74.02,
+        258.05,
+        444.67,
+        269.86
+      ]
+    },
+    {
+      "id": "class8-english-p027-l014",
+      "lineNumber": 14,
+      "text": "c. to do things late always. d. to be late for the class.",
+      "cleanText": "c. to do things late always. d. to be late for the class.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.54,
+      "bbox": [
+        74.02,
+        273.6,
+        399.46,
+        285.41
+      ]
+    },
+    {
+      "id": "class8-english-p027-l015",
+      "lineNumber": 15,
+      "text": "D. Write a short paragraph about how you can maintain good health",
+      "cleanText": "D. Write a short paragraph about how you can maintain good health",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        58.18,
+        298.08,
+        469.73,
+        310.46
+      ]
+    },
+    {
+      "id": "class8-english-p027-l016",
+      "lineNumber": 16,
+      "text": "within 180-200 words:",
+      "cleanText": "within 180-200 words:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.65,
+        314.78,
+        194.69,
+        324.58
+      ]
+    },
+    {
+      "id": "class8-english-p027-l017",
+      "lineNumber": 17,
+      "text": "Lesson 2: Ode on Solitude",
+      "cleanText": "Lesson 2: Ode on Solitude",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        63.36,
+        347.62,
+        284.83,
+        361.44
+      ]
+    },
+    {
+      "id": "class8-english-p027-l018",
+      "lineNumber": 18,
+      "text": "A. Read and recite the poem:",
+      "cleanText": "A. Read and recite the poem:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        64.51,
+        374.11,
+        222.34,
+        386.78
+      ]
+    },
+    {
+      "id": "class8-english-p027-l019",
+      "lineNumber": 19,
+      "text": "Ode on Solitude",
+      "cleanText": "Ode on Solitude",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        219.74,
+        400.32,
+        307.58,
+        409.25
+      ]
+    },
+    {
+      "id": "class8-english-p027-l020",
+      "lineNumber": 20,
+      "text": "Happy the man, whose wish and care",
+      "cleanText": "Happy the man, whose wish and care",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        166.46,
+        417.31,
+        359.71,
+        429.12
+      ]
+    },
+    {
+      "id": "class8-english-p027-l021",
+      "lineNumber": 21,
+      "text": "A few paternal acres bound,",
+      "cleanText": "A few paternal acres bound,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        166.46,
+        436.03,
+        311.04,
+        448.13
+      ]
+    },
+    {
+      "id": "class8-english-p027-l022",
+      "lineNumber": 22,
+      "text": "Content to breathe his native air,",
+      "cleanText": "Content to breathe his native air,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        166.75,
+        455.04,
+        334.94,
+        466.27
+      ]
+    },
+    {
+      "id": "class8-english-p027-l023",
+      "lineNumber": 23,
+      "text": "In his own ground.",
+      "cleanText": "In his own ground.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        264.67,
+        474.05,
+        361.73,
+        486.14
+      ]
+    },
+    {
+      "id": "class8-english-p027-l024",
+      "lineNumber": 24,
+      "text": "Whose herds with milk, whose fields with bread,",
+      "cleanText": "Whose herds with milk, whose fields with bread,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        166.46,
+        497.09,
+        420.19,
+        508.32
+      ]
+    },
+    {
+      "id": "class8-english-p027-l025",
+      "lineNumber": 25,
+      "text": "Whose flocks supply him with attire,",
+      "cleanText": "Whose flocks supply him with attire,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        166.46,
+        516.1,
+        357.7,
+        527.9
+      ]
+    },
+    {
+      "id": "class8-english-p027-l026",
+      "lineNumber": 26,
+      "text": "Whose trees in summer yield him shade,",
+      "cleanText": "Whose trees in summer yield him shade,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        166.46,
+        535.1,
+        376.99,
+        546.91
+      ]
+    },
+    {
+      "id": "class8-english-p027-l027",
+      "lineNumber": 27,
+      "text": "In winter fire.",
+      "cleanText": "In winter fire.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        288.86,
+        554.11,
+        359.14,
+        563.33
+      ]
+    },
+    {
+      "id": "class8-english-p027-l028",
+      "lineNumber": 28,
+      "text": "Blest! who can unconcernedly find",
+      "cleanText": "Blest! who can unconcernedly find",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.4,
+      "bbox": [
+        166.18,
+        583.2,
+        347.33,
+        595.01
+      ]
+    },
+    {
+      "id": "class8-english-p027-l029",
+      "lineNumber": 29,
+      "text": "Hours, days and years slide soft away,",
+      "cleanText": "Hours, days and years slide soft away,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        166.18,
+        601.92,
+        363.74,
+        614.02
+      ]
+    },
+    {
+      "id": "class8-english-p027-l030",
+      "lineNumber": 30,
+      "text": "In health of body, peace of mind, oS",
+      "cleanText": "In health of body, peace of mind, oS",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.38,
+      "bbox": [
+        166.18,
+        620.35,
+        500.54,
+        637.92
+      ]
+    },
+    {
+      "id": "class8-english-p027-l031",
+      "lineNumber": 31,
+      "text": "Quiet by day, S",
+      "cleanText": "Quiet by day, S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.25,
+      "bbox": [
+        266.4,
+        637.63,
+        499.68,
+        654.91
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p027-l001",
+      "lineNumber": 1,
+      "text": "22 English For Today",
+      "cleanText": "22 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.75,
+        43.2,
+        471.74,
+        55.3
+      ]
+    },
+    {
+      "id": "class8-english-p027-l002",
+      "lineNumber": 2,
+      "text": "C. Read the text in B silently and then choose the best answer:",
+      "cleanText": "C. Read the text in B silently and then choose the best answer:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.85,
+      "bbox": [
+        59.04,
+        72.86,
+        429.41,
+        85.54
+      ]
+    },
+    {
+      "id": "class8-english-p027-l003",
+      "lineNumber": 3,
+      "text": "1. Health means the condition of",
+      "cleanText": "1. Health means the condition of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        59.04,
+        92.16,
+        240.19,
+        101.38
+      ]
+    },
+    {
+      "id": "class8-english-p027-l004",
+      "lineNumber": 4,
+      "text": "a. our body. b. our mind.",
+      "cleanText": "a. our body. b. our mind.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        74.02,
+        107.71,
+        332.06,
+        119.52
+      ]
+    },
+    {
+      "id": "class8-english-p027-l005",
+      "lineNumber": 5,
+      "text": "c. our body and mind. d. our environment.",
+      "cleanText": "c. our body and mind. d. our environment.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.62,
+      "bbox": [
+        74.02,
+        123.26,
+        371.23,
+        135.07
+      ]
+    },
+    {
+      "id": "class8-english-p027-l006",
+      "lineNumber": 6,
+      "text": "2. A healthy person is one who",
+      "cleanText": "2. A healthy person is one who",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.14,
+      "bbox": [
+        58.75,
+        143.14,
+        226.94,
+        154.66
+      ]
+    },
+    {
+      "id": "class8-english-p027-l007",
+      "lineNumber": 7,
+      "text": "a. is physically and mentally sound. b. eats good food.",
+      "cleanText": "a. is physically and mentally sound. b. eats good food.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.2,
+      "bbox": [
+        74.02,
+        158.4,
+        361.44,
+        170.21
+      ]
+    },
+    {
+      "id": "class8-english-p027-l008",
+      "lineNumber": 8,
+      "text": "c. has a lot of wealth. d. is overweight.",
+      "cleanText": "c. has a lot of wealth. d. is overweight.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.89,
+      "bbox": [
+        74.02,
+        173.95,
+        355.1,
+        185.76
+      ]
+    },
+    {
+      "id": "class8-english-p027-l009",
+      "lineNumber": 9,
+      "text": "3. We need to eat",
+      "cleanText": "3. We need to eat",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        59.04,
+        192.96,
+        154.08,
+        202.18
+      ]
+    },
+    {
+      "id": "class8-english-p027-l010",
+      "lineNumber": 10,
+      "text": "a. rich food. b. balanced food.",
+      "cleanText": "a. rich food. b. balanced food.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.83,
+      "bbox": [
+        74.02,
+        208.22,
+        360.0,
+        217.44
+      ]
+    },
+    {
+      "id": "class8-english-p027-l011",
+      "lineNumber": 11,
+      "text": "c. little food. d. lot of food.",
+      "cleanText": "c. little food. d. lot of food.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.43,
+      "bbox": [
+        74.02,
+        223.78,
+        341.57,
+        232.99
+      ]
+    },
+    {
+      "id": "class8-english-p027-l012",
+      "lineNumber": 12,
+      "text": "4. The phrase 'to keep late hours' means",
+      "cleanText": "4. The phrase 'to keep late hours' means",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        58.75,
+        242.5,
+        282.82,
+        254.3
+      ]
+    },
+    {
+      "id": "class8-english-p027-l013",
+      "lineNumber": 13,
+      "text": "a. to go to bed late. b. to wake up late in the morning.",
+      "cleanText": "a. to go to bed late. b. to wake up late in the morning.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        74.02,
+        258.05,
+        444.67,
+        269.86
+      ]
+    },
+    {
+      "id": "class8-english-p027-l014",
+      "lineNumber": 14,
+      "text": "c. to do things late always. d. to be late for the class.",
+      "cleanText": "c. to do things late always. d. to be late for the class.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.54,
+      "bbox": [
+        74.02,
+        273.6,
+        399.46,
+        285.41
+      ]
+    },
+    {
+      "id": "class8-english-p027-l015",
+      "lineNumber": 15,
+      "text": "D. Write a short paragraph about how you can maintain good health",
+      "cleanText": "D. Write a short paragraph about how you can maintain good health",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        58.18,
+        298.08,
+        469.73,
+        310.46
+      ]
+    },
+    {
+      "id": "class8-english-p027-l016",
+      "lineNumber": 16,
+      "text": "within 180-200 words:",
+      "cleanText": "within 180-200 words:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.65,
+        314.78,
+        194.69,
+        324.58
+      ]
+    },
+    {
+      "id": "class8-english-p027-l017",
+      "lineNumber": 17,
+      "text": "Lesson 2: Ode on Solitude",
+      "cleanText": "Lesson 2: Ode on Solitude",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        63.36,
+        347.62,
+        284.83,
+        361.44
+      ]
+    },
+    {
+      "id": "class8-english-p027-l018",
+      "lineNumber": 18,
+      "text": "A. Read and recite the poem:",
+      "cleanText": "A. Read and recite the poem:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        64.51,
+        374.11,
+        222.34,
+        386.78
+      ]
+    },
+    {
+      "id": "class8-english-p027-l019",
+      "lineNumber": 19,
+      "text": "Ode on Solitude",
+      "cleanText": "Ode on Solitude",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        219.74,
+        400.32,
+        307.58,
+        409.25
+      ]
+    },
+    {
+      "id": "class8-english-p027-l020",
+      "lineNumber": 20,
+      "text": "Happy the man, whose wish and care",
+      "cleanText": "Happy the man, whose wish and care",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        166.46,
+        417.31,
+        359.71,
+        429.12
+      ]
+    },
+    {
+      "id": "class8-english-p027-l021",
+      "lineNumber": 21,
+      "text": "A few paternal acres bound,",
+      "cleanText": "A few paternal acres bound,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        166.46,
+        436.03,
+        311.04,
+        448.13
+      ]
+    },
+    {
+      "id": "class8-english-p027-l022",
+      "lineNumber": 22,
+      "text": "Content to breathe his native air,",
+      "cleanText": "Content to breathe his native air,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        166.75,
+        455.04,
+        334.94,
+        466.27
+      ]
+    },
+    {
+      "id": "class8-english-p027-l023",
+      "lineNumber": 23,
+      "text": "In his own ground.",
+      "cleanText": "In his own ground.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        264.67,
+        474.05,
+        361.73,
+        486.14
+      ]
+    },
+    {
+      "id": "class8-english-p027-l024",
+      "lineNumber": 24,
+      "text": "Whose herds with milk, whose fields with bread,",
+      "cleanText": "Whose herds with milk, whose fields with bread,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        166.46,
+        497.09,
+        420.19,
+        508.32
+      ]
+    },
+    {
+      "id": "class8-english-p027-l025",
+      "lineNumber": 25,
+      "text": "Whose flocks supply him with attire,",
+      "cleanText": "Whose flocks supply him with attire,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        166.46,
+        516.1,
+        357.7,
+        527.9
+      ]
+    },
+    {
+      "id": "class8-english-p027-l026",
+      "lineNumber": 26,
+      "text": "Whose trees in summer yield him shade,",
+      "cleanText": "Whose trees in summer yield him shade,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        166.46,
+        535.1,
+        376.99,
+        546.91
+      ]
+    },
+    {
+      "id": "class8-english-p027-l027",
+      "lineNumber": 27,
+      "text": "In winter fire.",
+      "cleanText": "In winter fire.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        288.86,
+        554.11,
+        359.14,
+        563.33
+      ]
+    },
+    {
+      "id": "class8-english-p027-l028",
+      "lineNumber": 28,
+      "text": "Blest! who can unconcernedly find",
+      "cleanText": "Blest! who can unconcernedly find",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.4,
+      "bbox": [
+        166.18,
+        583.2,
+        347.33,
+        595.01
+      ]
+    },
+    {
+      "id": "class8-english-p027-l029",
+      "lineNumber": 29,
+      "text": "Hours, days and years slide soft away,",
+      "cleanText": "Hours, days and years slide soft away,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        166.18,
+        601.92,
+        363.74,
+        614.02
+      ]
+    },
+    {
+      "id": "class8-english-p027-l030",
+      "lineNumber": 30,
+      "text": "In health of body, peace of mind, oS",
+      "cleanText": "In health of body, peace of mind, oS",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.38,
+      "bbox": [
+        166.18,
+        620.35,
+        500.54,
+        637.92
+      ]
+    },
+    {
+      "id": "class8-english-p027-l031",
+      "lineNumber": 31,
+      "text": "Quiet by day, S",
+      "cleanText": "Quiet by day, S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.25,
+      "bbox": [
+        266.4,
+        637.63,
+        499.68,
+        654.91
+      ]
+    }
+  ],
+  "lineCount": 31,
+  "aiReadyLineCount": 31,
+  "averageConfidence": 94.74,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:12.696402+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

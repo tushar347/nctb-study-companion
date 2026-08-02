@@ -1,0 +1,747 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 156,
+  "pdfPage": 156,
+  "textbookPage": 156,
+  "width": 522.0,
+  "height": 684.0,
+  "image": "../images/page-156.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Sample Question 151\nSuggested Answers\n1. a) ili) folk music\nb) ili) It is passed down through generations orally\nc) iv) Lalon Giti\nd) iii) Through oral tradition\ne) iii) Bhatiyali\nf) i) By keeping traditional stories, values, and customs alive\ng) 1) It is integrated into films and music albums\n2. a) Folk music reflects different aspects of life, such as agriculture,\nfood, ecology, seasons, and rituals. These songs express the\nemotions, struggles, and celebrations of the common people,\nmaking them an essential part of their cultural identity.\nb) Folk music instruments are made from naturally\navailablematerials such as animal skin, bamboo, and calabash.\nThese materials are used because they are easily found in rural\nareas and produce sounds that reflect the natural environment and\nculture of the people.\nc) As people migrate to cities and villages modernize, traditional\nfolk music is gradually disappearing. Urbanization, technological\nadvancements, and changing lifestyles have reduced the practice\nof oral transmission, leading to a decline in the preservation of\nfolk traditions.\nS\nQ",
+  "cleanText": "Sample Question 151 Suggested Answers 1. a) ili) folk music b) ili) It is passed down through generations orally c) iv) Lalon Giti d) iii) Through oral tradition e) iii) Bhatiyali f) i) By keeping traditional stories, values, and customs alive g) 1) It is integrated into films and music albums 2. a) Folk music reflects different aspects of life, such as agriculture, food, ecology, seasons, and rituals. These songs express the emotions, struggles, and celebrations of the common people, making them an essential part of their cultural identity. b) Folk music instruments are made from naturally availablematerials such as animal skin, bamboo, and calabash. These materials are used because they are easily found in rural areas and produce sounds that reflect the natural environment and culture of the people. c) As people migrate to cities and villages modernize, traditional folk music is gradually disappearing. Urbanization, technological advancements, and changing lifestyles have reduced the practice of oral transmission, leading to a decline in the preservation of folk traditions. S Q",
+  "aiReadyText": "Sample Question 151 Suggested Answers 1. a) ili) folk music b) ili) It is passed down through generations orally c) iv) Lalon Giti d) iii) Through oral tradition e) iii) Bhatiyali f) i) By keeping traditional stories, values, and customs alive g) 1) It is integrated into films and music albums 2. a) Folk music reflects different aspects of life, such as agriculture, food, ecology, seasons, and rituals. These songs express the emotions, struggles, and celebrations of the common people, making them an essential part of their cultural identity. b) Folk music instruments are made from naturally availablematerials such as animal skin, bamboo, and calabash. These materials are used because they are easily found in rural areas and produce sounds that reflect the natural environment and culture of the people. c) As people migrate to cities and villages modernize, traditional folk music is gradually disappearing. Urbanization, technological advancements, and changing lifestyles have reduced the practice of oral transmission, leading to a decline in the preservation of folk traditions.",
+  "lines": [
+    {
+      "id": "class8-english-p156-l001",
+      "lineNumber": 1,
+      "text": "Sample Question 151",
+      "cleanText": "Sample Question 151",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        53.86,
+        37.44,
+        464.54,
+        48.38
+      ]
+    },
+    {
+      "id": "class8-english-p156-l002",
+      "lineNumber": 2,
+      "text": "Suggested Answers",
+      "cleanText": "Suggested Answers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        203.62,
+        80.06,
+        317.09,
+        92.45
+      ]
+    },
+    {
+      "id": "class8-english-p156-l003",
+      "lineNumber": 3,
+      "text": "1. a) ili) folk music",
+      "cleanText": "1. a) ili) folk music",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.6,
+      "bbox": [
+        55.87,
+        107.42,
+        199.87,
+        119.23
+      ]
+    },
+    {
+      "id": "class8-english-p156-l004",
+      "lineNumber": 4,
+      "text": "b) ili) It is passed down through generations orally",
+      "cleanText": "b) ili) It is passed down through generations orally",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.11,
+      "bbox": [
+        90.72,
+        134.5,
+        375.55,
+        146.3
+      ]
+    },
+    {
+      "id": "class8-english-p156-l005",
+      "lineNumber": 5,
+      "text": "c) iv) Lalon Giti",
+      "cleanText": "c) iv) Lalon Giti",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.5,
+      "bbox": [
+        91.3,
+        161.57,
+        197.86,
+        173.09
+      ]
+    },
+    {
+      "id": "class8-english-p156-l006",
+      "lineNumber": 6,
+      "text": "d) iii) Through oral tradition",
+      "cleanText": "d) iii) Through oral tradition",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.0,
+      "bbox": [
+        91.3,
+        188.35,
+        260.64,
+        200.45
+      ]
+    },
+    {
+      "id": "class8-english-p156-l007",
+      "lineNumber": 7,
+      "text": "e) iii) Bhatiyali",
+      "cleanText": "e) iii) Bhatiyali",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.67,
+      "bbox": [
+        91.3,
+        215.42,
+        192.38,
+        227.23
+      ]
+    },
+    {
+      "id": "class8-english-p156-l008",
+      "lineNumber": 8,
+      "text": "f) i) By keeping traditional stories, values, and customs alive",
+      "cleanText": "f) i) By keeping traditional stories, values, and customs alive",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        90.14,
+        241.34,
+        430.56,
+        255.74
+      ]
+    },
+    {
+      "id": "class8-english-p156-l009",
+      "lineNumber": 9,
+      "text": "g) 1) It is integrated into films and music albums",
+      "cleanText": "g) 1) It is integrated into films and music albums",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.6,
+      "bbox": [
+        91.3,
+        269.57,
+        363.17,
+        281.38
+      ]
+    },
+    {
+      "id": "class8-english-p156-l010",
+      "lineNumber": 10,
+      "text": "2. a) Folk music reflects different aspects of life, such as agriculture,",
+      "cleanText": "2. a) Folk music reflects different aspects of life, such as agriculture,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        55.3,
+        303.55,
+        456.19,
+        315.36
+      ]
+    },
+    {
+      "id": "class8-english-p156-l011",
+      "lineNumber": 11,
+      "text": "food, ecology, seasons, and rituals. These songs express the",
+      "cleanText": "food, ecology, seasons, and rituals. These songs express the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        127.3,
+        326.3,
+        436.03,
+        338.4
+      ]
+    },
+    {
+      "id": "class8-english-p156-l012",
+      "lineNumber": 12,
+      "text": "emotions, struggles, and celebrations of the common people,",
+      "cleanText": "emotions, struggles, and celebrations of the common people,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        127.3,
+        349.34,
+        441.79,
+        361.44
+      ]
+    },
+    {
+      "id": "class8-english-p156-l013",
+      "lineNumber": 13,
+      "text": "making them an essential part of their cultural identity.",
+      "cleanText": "making them an essential part of their cultural identity.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        127.01,
+        372.38,
+        410.69,
+        384.19
+      ]
+    },
+    {
+      "id": "class8-english-p156-l014",
+      "lineNumber": 14,
+      "text": "b) Folk music instruments are made from naturally",
+      "cleanText": "b) Folk music instruments are made from naturally",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        89.86,
+        400.32,
+        376.42,
+        412.13
+      ]
+    },
+    {
+      "id": "class8-english-p156-l015",
+      "lineNumber": 15,
+      "text": "availablematerials such as animal skin, bamboo, and calabash.",
+      "cleanText": "availablematerials such as animal skin, bamboo, and calabash.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.12,
+      "bbox": [
+        126.14,
+        423.36,
+        448.99,
+        434.3
+      ]
+    },
+    {
+      "id": "class8-english-p156-l016",
+      "lineNumber": 16,
+      "text": "These materials are used because they are easily found in rural",
+      "cleanText": "These materials are used because they are easily found in rural",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.14,
+        446.11,
+        451.01,
+        458.21
+      ]
+    },
+    {
+      "id": "class8-english-p156-l017",
+      "lineNumber": 17,
+      "text": "areas and produce sounds that reflect the natural environment and",
+      "cleanText": "areas and produce sounds that reflect the natural environment and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        126.14,
+        469.15,
+        467.71,
+        480.96
+      ]
+    },
+    {
+      "id": "class8-english-p156-l018",
+      "lineNumber": 18,
+      "text": "culture of the people.",
+      "cleanText": "culture of the people.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.14,
+        492.19,
+        235.3,
+        504.0
+      ]
+    },
+    {
+      "id": "class8-english-p156-l019",
+      "lineNumber": 19,
+      "text": "c) As people migrate to cities and villages modernize, traditional",
+      "cleanText": "c) As people migrate to cities and villages modernize, traditional",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.1,
+      "bbox": [
+        90.14,
+        519.26,
+        448.42,
+        531.07
+      ]
+    },
+    {
+      "id": "class8-english-p156-l020",
+      "lineNumber": 20,
+      "text": "folk music is gradually disappearing. Urbanization, technological",
+      "cleanText": "folk music is gradually disappearing. Urbanization, technological",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.43,
+        542.3,
+        464.54,
+        554.11
+      ]
+    },
+    {
+      "id": "class8-english-p156-l021",
+      "lineNumber": 21,
+      "text": "advancements, and changing lifestyles have reduced the practice",
+      "cleanText": "advancements, and changing lifestyles have reduced the practice",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        126.14,
+        566.78,
+        461.09,
+        578.59
+      ]
+    },
+    {
+      "id": "class8-english-p156-l022",
+      "lineNumber": 22,
+      "text": "of oral transmission, leading to a decline in the preservation of",
+      "cleanText": "of oral transmission, leading to a decline in the preservation of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.14,
+        587.23,
+        452.45,
+        599.04
+      ]
+    },
+    {
+      "id": "class8-english-p156-l023",
+      "lineNumber": 23,
+      "text": "folk traditions.",
+      "cleanText": "folk traditions.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.43,
+        607.68,
+        201.6,
+        616.9
+      ]
+    },
+    {
+      "id": "class8-english-p156-l024",
+      "lineNumber": 24,
+      "text": "S",
+      "cleanText": "S",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 22.0,
+      "bbox": [
+        30.24,
+        624.67,
+        38.59,
+        642.24
+      ]
+    },
+    {
+      "id": "class8-english-p156-l025",
+      "lineNumber": 25,
+      "text": "Q",
+      "cleanText": "Q",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 49.0,
+      "bbox": [
+        30.24,
+        643.1,
+        38.3,
+        648.58
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p156-l001",
+      "lineNumber": 1,
+      "text": "Sample Question 151",
+      "cleanText": "Sample Question 151",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        53.86,
+        37.44,
+        464.54,
+        48.38
+      ]
+    },
+    {
+      "id": "class8-english-p156-l002",
+      "lineNumber": 2,
+      "text": "Suggested Answers",
+      "cleanText": "Suggested Answers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        203.62,
+        80.06,
+        317.09,
+        92.45
+      ]
+    },
+    {
+      "id": "class8-english-p156-l003",
+      "lineNumber": 3,
+      "text": "1. a) ili) folk music",
+      "cleanText": "1. a) ili) folk music",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.6,
+      "bbox": [
+        55.87,
+        107.42,
+        199.87,
+        119.23
+      ]
+    },
+    {
+      "id": "class8-english-p156-l004",
+      "lineNumber": 4,
+      "text": "b) ili) It is passed down through generations orally",
+      "cleanText": "b) ili) It is passed down through generations orally",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.11,
+      "bbox": [
+        90.72,
+        134.5,
+        375.55,
+        146.3
+      ]
+    },
+    {
+      "id": "class8-english-p156-l005",
+      "lineNumber": 5,
+      "text": "c) iv) Lalon Giti",
+      "cleanText": "c) iv) Lalon Giti",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.5,
+      "bbox": [
+        91.3,
+        161.57,
+        197.86,
+        173.09
+      ]
+    },
+    {
+      "id": "class8-english-p156-l006",
+      "lineNumber": 6,
+      "text": "d) iii) Through oral tradition",
+      "cleanText": "d) iii) Through oral tradition",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.0,
+      "bbox": [
+        91.3,
+        188.35,
+        260.64,
+        200.45
+      ]
+    },
+    {
+      "id": "class8-english-p156-l007",
+      "lineNumber": 7,
+      "text": "e) iii) Bhatiyali",
+      "cleanText": "e) iii) Bhatiyali",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.67,
+      "bbox": [
+        91.3,
+        215.42,
+        192.38,
+        227.23
+      ]
+    },
+    {
+      "id": "class8-english-p156-l008",
+      "lineNumber": 8,
+      "text": "f) i) By keeping traditional stories, values, and customs alive",
+      "cleanText": "f) i) By keeping traditional stories, values, and customs alive",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        90.14,
+        241.34,
+        430.56,
+        255.74
+      ]
+    },
+    {
+      "id": "class8-english-p156-l009",
+      "lineNumber": 9,
+      "text": "g) 1) It is integrated into films and music albums",
+      "cleanText": "g) 1) It is integrated into films and music albums",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.6,
+      "bbox": [
+        91.3,
+        269.57,
+        363.17,
+        281.38
+      ]
+    },
+    {
+      "id": "class8-english-p156-l010",
+      "lineNumber": 10,
+      "text": "2. a) Folk music reflects different aspects of life, such as agriculture,",
+      "cleanText": "2. a) Folk music reflects different aspects of life, such as agriculture,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        55.3,
+        303.55,
+        456.19,
+        315.36
+      ]
+    },
+    {
+      "id": "class8-english-p156-l011",
+      "lineNumber": 11,
+      "text": "food, ecology, seasons, and rituals. These songs express the",
+      "cleanText": "food, ecology, seasons, and rituals. These songs express the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        127.3,
+        326.3,
+        436.03,
+        338.4
+      ]
+    },
+    {
+      "id": "class8-english-p156-l012",
+      "lineNumber": 12,
+      "text": "emotions, struggles, and celebrations of the common people,",
+      "cleanText": "emotions, struggles, and celebrations of the common people,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        127.3,
+        349.34,
+        441.79,
+        361.44
+      ]
+    },
+    {
+      "id": "class8-english-p156-l013",
+      "lineNumber": 13,
+      "text": "making them an essential part of their cultural identity.",
+      "cleanText": "making them an essential part of their cultural identity.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        127.01,
+        372.38,
+        410.69,
+        384.19
+      ]
+    },
+    {
+      "id": "class8-english-p156-l014",
+      "lineNumber": 14,
+      "text": "b) Folk music instruments are made from naturally",
+      "cleanText": "b) Folk music instruments are made from naturally",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        89.86,
+        400.32,
+        376.42,
+        412.13
+      ]
+    },
+    {
+      "id": "class8-english-p156-l015",
+      "lineNumber": 15,
+      "text": "availablematerials such as animal skin, bamboo, and calabash.",
+      "cleanText": "availablematerials such as animal skin, bamboo, and calabash.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.12,
+      "bbox": [
+        126.14,
+        423.36,
+        448.99,
+        434.3
+      ]
+    },
+    {
+      "id": "class8-english-p156-l016",
+      "lineNumber": 16,
+      "text": "These materials are used because they are easily found in rural",
+      "cleanText": "These materials are used because they are easily found in rural",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.14,
+        446.11,
+        451.01,
+        458.21
+      ]
+    },
+    {
+      "id": "class8-english-p156-l017",
+      "lineNumber": 17,
+      "text": "areas and produce sounds that reflect the natural environment and",
+      "cleanText": "areas and produce sounds that reflect the natural environment and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        126.14,
+        469.15,
+        467.71,
+        480.96
+      ]
+    },
+    {
+      "id": "class8-english-p156-l018",
+      "lineNumber": 18,
+      "text": "culture of the people.",
+      "cleanText": "culture of the people.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.14,
+        492.19,
+        235.3,
+        504.0
+      ]
+    },
+    {
+      "id": "class8-english-p156-l019",
+      "lineNumber": 19,
+      "text": "c) As people migrate to cities and villages modernize, traditional",
+      "cleanText": "c) As people migrate to cities and villages modernize, traditional",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.1,
+      "bbox": [
+        90.14,
+        519.26,
+        448.42,
+        531.07
+      ]
+    },
+    {
+      "id": "class8-english-p156-l020",
+      "lineNumber": 20,
+      "text": "folk music is gradually disappearing. Urbanization, technological",
+      "cleanText": "folk music is gradually disappearing. Urbanization, technological",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.43,
+        542.3,
+        464.54,
+        554.11
+      ]
+    },
+    {
+      "id": "class8-english-p156-l021",
+      "lineNumber": 21,
+      "text": "advancements, and changing lifestyles have reduced the practice",
+      "cleanText": "advancements, and changing lifestyles have reduced the practice",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        126.14,
+        566.78,
+        461.09,
+        578.59
+      ]
+    },
+    {
+      "id": "class8-english-p156-l022",
+      "lineNumber": 22,
+      "text": "of oral transmission, leading to a decline in the preservation of",
+      "cleanText": "of oral transmission, leading to a decline in the preservation of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.14,
+        587.23,
+        452.45,
+        599.04
+      ]
+    },
+    {
+      "id": "class8-english-p156-l023",
+      "lineNumber": 23,
+      "text": "folk traditions.",
+      "cleanText": "folk traditions.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        126.43,
+        607.68,
+        201.6,
+        616.9
+      ]
+    }
+  ],
+  "lineCount": 25,
+  "aiReadyLineCount": 23,
+  "averageConfidence": 89.16,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:19:43.681011+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

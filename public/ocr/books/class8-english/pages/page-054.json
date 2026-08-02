@@ -1,0 +1,987 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 54,
+  "pdfPage": 54,
+  "textbookPage": 54,
+  "width": 547.47,
+  "height": 709.46,
+  "image": "../images/page-054.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Humans and Environment 49\nB. Now read the poem by Rachel Field and answer the\nquestions that follow:\nSomething Told the Wild Geese\nSomething told the wild geese\nIt was time to go.\nThough the fields lay golden\nSomething whispered, — \"snow\".\nLeaves were green and stirring,\nBerries, luster-glossed,\nBut beneath warm feathers\nSomething cautioned, — \"Frost\".\nAll the sagging orchards\nSteamed with amber spice,\nBut each wild breast stiffened\nAt remembered ice.\nSomething told the wild geese\nIt was time to fly,—\nSummer sun was on their wings,\nWinter in their cry.\nNote: -Rachel Field\nlustre-glossed — shiny and smooth.\ncautioned — gave a warning.\nsagging — hanging down or sinking.\namber — a warm, yellow-brown colour.\nstiffened — became hard or tense.\nsteamed — gave off steam or mist.\nC. Answer the following questions:\n1. What makes the geese decide to leave?\n2. What happens to the leaves and berries in the poem?\n3. What changes in nature tell us that winter is near?\nForma-7, English For Today Class-8",
+  "cleanText": "Humans and Environment 49 B. Now read the poem by Rachel Field and answer the questions that follow: Something Told the Wild Geese Something told the wild geese It was time to go. Though the fields lay golden Something whispered, — \"snow\". Leaves were green and stirring, Berries, luster-glossed, But beneath warm feathers Something cautioned, — \"Frost\". All the sagging orchards Steamed with amber spice, But each wild breast stiffened At remembered ice. Something told the wild geese It was time to fly,— Summer sun was on their wings, Winter in their cry. Note: -Rachel Field lustre-glossed — shiny and smooth. cautioned — gave a warning. sagging — hanging down or sinking. amber — a warm, yellow-brown colour. stiffened — became hard or tense. steamed — gave off steam or mist. C. Answer the following questions: 1. What makes the geese decide to leave? 2. What happens to the leaves and berries in the poem? 3. What changes in nature tell us that winter is near? Forma-7, English For Today Class-8",
+  "aiReadyText": "Humans and Environment 49 B. Now read the poem by Rachel Field and answer the questions that follow: Something Told the Wild Geese Something told the wild geese It was time to go. Though the fields lay golden Something whispered, — \"snow\". Leaves were green and stirring, Berries, luster-glossed, But beneath warm feathers Something cautioned, — \"Frost\". All the sagging orchards Steamed with amber spice, But each wild breast stiffened At remembered ice. Something told the wild geese It was time to fly,— Summer sun was on their wings, Winter in their cry. Note: -Rachel Field lustre-glossed — shiny and smooth. cautioned — gave a warning. sagging — hanging down or sinking. amber — a warm, yellow-brown colour. stiffened — became hard or tense. steamed — gave off steam or mist. C. Answer the following questions: 1. What makes the geese decide to leave? 2. What happens to the leaves and berries in the poem? 3. What changes in nature tell us that winter is near? Forma-7, English For Today Class-8",
+  "lines": [
+    {
+      "id": "class8-english-p054-l001",
+      "lineNumber": 1,
+      "text": "Humans and Environment 49",
+      "cleanText": "Humans and Environment 49",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        68.54,
+        50.69,
+        480.67,
+        59.33
+      ]
+    },
+    {
+      "id": "class8-english-p054-l002",
+      "lineNumber": 2,
+      "text": "B. Now read the poem by Rachel Field and answer the",
+      "cleanText": "B. Now read the poem by Rachel Field and answer the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.27,
+      "bbox": [
+        67.97,
+        78.05,
+        480.96,
+        90.43
+      ]
+    },
+    {
+      "id": "class8-english-p054-l003",
+      "lineNumber": 3,
+      "text": "questions that follow:",
+      "cleanText": "questions that follow:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        89.28,
+        94.75,
+        216.0,
+        107.14
+      ]
+    },
+    {
+      "id": "class8-english-p054-l004",
+      "lineNumber": 4,
+      "text": "Something Told the Wild Geese",
+      "cleanText": "Something Told the Wild Geese",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        192.67,
+        119.81,
+        379.3,
+        132.48
+      ]
+    },
+    {
+      "id": "class8-english-p054-l005",
+      "lineNumber": 5,
+      "text": "Something told the wild geese",
+      "cleanText": "Something told the wild geese",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        207.94,
+        150.34,
+        364.03,
+        162.14
+      ]
+    },
+    {
+      "id": "class8-english-p054-l006",
+      "lineNumber": 6,
+      "text": "It was time to go.",
+      "cleanText": "It was time to go.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        240.77,
+        165.89,
+        330.05,
+        177.98
+      ]
+    },
+    {
+      "id": "class8-english-p054-l007",
+      "lineNumber": 7,
+      "text": "Though the fields lay golden",
+      "cleanText": "Though the fields lay golden",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        211.39,
+        181.73,
+        360.58,
+        193.54
+      ]
+    },
+    {
+      "id": "class8-english-p054-l008",
+      "lineNumber": 8,
+      "text": "Something whispered, — \"snow\".",
+      "cleanText": "Something whispered, — \"snow\".",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.0,
+      "bbox": [
+        198.14,
+        197.28,
+        373.54,
+        209.09
+      ]
+    },
+    {
+      "id": "class8-english-p054-l009",
+      "lineNumber": 9,
+      "text": "Leaves were green and stirring,",
+      "cleanText": "Leaves were green and stirring,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        204.48,
+        228.38,
+        366.91,
+        240.19
+      ]
+    },
+    {
+      "id": "class8-english-p054-l010",
+      "lineNumber": 10,
+      "text": "Berries, luster-glossed,",
+      "cleanText": "Berries, luster-glossed,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.5,
+      "bbox": [
+        226.37,
+        243.94,
+        346.75,
+        255.74
+      ]
+    },
+    {
+      "id": "class8-english-p054-l011",
+      "lineNumber": 11,
+      "text": "But beneath warm feathers",
+      "cleanText": "But beneath warm feathers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        216.29,
+        259.49,
+        355.1,
+        268.7
+      ]
+    },
+    {
+      "id": "class8-english-p054-l012",
+      "lineNumber": 12,
+      "text": "Something cautioned, — \"Frost\".",
+      "cleanText": "Something cautioned, — \"Frost\".",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.25,
+      "bbox": [
+        201.31,
+        275.33,
+        374.11,
+        287.14
+      ]
+    },
+    {
+      "id": "class8-english-p054-l013",
+      "lineNumber": 13,
+      "text": "All the sagging orchards",
+      "cleanText": "All the sagging orchards",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        222.34,
+        306.43,
+        349.06,
+        318.24
+      ]
+    },
+    {
+      "id": "class8-english-p054-l014",
+      "lineNumber": 14,
+      "text": "Steamed with amber spice,",
+      "cleanText": "Steamed with amber spice,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        216.58,
+        321.98,
+        355.1,
+        333.79
+      ]
+    },
+    {
+      "id": "class8-english-p054-l015",
+      "lineNumber": 15,
+      "text": "But each wild breast stiffened",
+      "cleanText": "But each wild breast stiffened",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        208.51,
+        337.54,
+        363.17,
+        346.75
+      ]
+    },
+    {
+      "id": "class8-english-p054-l016",
+      "lineNumber": 16,
+      "text": "At remembered ice.",
+      "cleanText": "At remembered ice.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        234.43,
+        353.09,
+        336.38,
+        362.3
+      ]
+    },
+    {
+      "id": "class8-english-p054-l017",
+      "lineNumber": 17,
+      "text": "Something told the wild geese",
+      "cleanText": "Something told the wild geese",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        207.94,
+        384.48,
+        364.03,
+        396.29
+      ]
+    },
+    {
+      "id": "class8-english-p054-l018",
+      "lineNumber": 18,
+      "text": "It was time to fly,—",
+      "cleanText": "It was time to fly,—",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.4,
+      "bbox": [
+        233.57,
+        400.03,
+        338.4,
+        412.13
+      ]
+    },
+    {
+      "id": "class8-english-p054-l019",
+      "lineNumber": 19,
+      "text": "Summer sun was on their wings,",
+      "cleanText": "Summer sun was on their wings,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        201.6,
+        415.58,
+        370.08,
+        427.39
+      ]
+    },
+    {
+      "id": "class8-english-p054-l020",
+      "lineNumber": 20,
+      "text": "Winter in their cry.",
+      "cleanText": "Winter in their cry.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        237.02,
+        431.14,
+        334.08,
+        442.94
+      ]
+    },
+    {
+      "id": "class8-english-p054-l021",
+      "lineNumber": 21,
+      "text": "Note: -Rachel Field",
+      "cleanText": "Note: -Rachel Field",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        68.26,
+        449.86,
+        420.77,
+        467.14
+      ]
+    },
+    {
+      "id": "class8-english-p054-l022",
+      "lineNumber": 22,
+      "text": "lustre-glossed — shiny and smooth.",
+      "cleanText": "lustre-glossed — shiny and smooth.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.2,
+      "bbox": [
+        72.29,
+        474.05,
+        253.73,
+        485.86
+      ]
+    },
+    {
+      "id": "class8-english-p054-l023",
+      "lineNumber": 23,
+      "text": "cautioned — gave a warning.",
+      "cleanText": "cautioned — gave a warning.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.4,
+      "bbox": [
+        71.42,
+        489.89,
+        219.17,
+        501.7
+      ]
+    },
+    {
+      "id": "class8-english-p054-l024",
+      "lineNumber": 24,
+      "text": "sagging — hanging down or sinking.",
+      "cleanText": "sagging — hanging down or sinking.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.83,
+      "bbox": [
+        70.56,
+        506.02,
+        258.34,
+        517.82
+      ]
+    },
+    {
+      "id": "class8-english-p054-l025",
+      "lineNumber": 25,
+      "text": "amber — a warm, yellow-brown colour.",
+      "cleanText": "amber — a warm, yellow-brown colour.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.33,
+      "bbox": [
+        72.0,
+        521.86,
+        276.19,
+        533.95
+      ]
+    },
+    {
+      "id": "class8-english-p054-l026",
+      "lineNumber": 26,
+      "text": "stiffened — became hard or tense.",
+      "cleanText": "stiffened — became hard or tense.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        70.85,
+        537.7,
+        243.07,
+        547.2
+      ]
+    },
+    {
+      "id": "class8-english-p054-l027",
+      "lineNumber": 27,
+      "text": "steamed — gave off steam or mist.",
+      "cleanText": "steamed — gave off steam or mist.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.71,
+      "bbox": [
+        70.85,
+        553.82,
+        247.1,
+        565.92
+      ]
+    },
+    {
+      "id": "class8-english-p054-l028",
+      "lineNumber": 28,
+      "text": "C. Answer the following questions:",
+      "cleanText": "C. Answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        69.12,
+        579.46,
+        279.07,
+        592.13
+      ]
+    },
+    {
+      "id": "class8-english-p054-l029",
+      "lineNumber": 29,
+      "text": "1. What makes the geese decide to leave?",
+      "cleanText": "1. What makes the geese decide to leave?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        91.58,
+        597.6,
+        305.28,
+        609.7
+      ]
+    },
+    {
+      "id": "class8-english-p054-l030",
+      "lineNumber": 30,
+      "text": "2. What happens to the leaves and berries in the poem?",
+      "cleanText": "2. What happens to the leaves and berries in the poem?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        90.14,
+        613.73,
+        375.55,
+        625.54
+      ]
+    },
+    {
+      "id": "class8-english-p054-l031",
+      "lineNumber": 31,
+      "text": "3. What changes in nature tell us that winter is near?",
+      "cleanText": "3. What changes in nature tell us that winter is near?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.09,
+      "bbox": [
+        90.43,
+        629.57,
+        361.73,
+        641.66
+      ]
+    },
+    {
+      "id": "class8-english-p054-l032",
+      "lineNumber": 32,
+      "text": "Forma-7, English For Today Class-8",
+      "cleanText": "Forma-7, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.8,
+      "bbox": [
+        67.97,
+        674.5,
+        227.81,
+        684.29
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p054-l001",
+      "lineNumber": 1,
+      "text": "Humans and Environment 49",
+      "cleanText": "Humans and Environment 49",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        68.54,
+        50.69,
+        480.67,
+        59.33
+      ]
+    },
+    {
+      "id": "class8-english-p054-l002",
+      "lineNumber": 2,
+      "text": "B. Now read the poem by Rachel Field and answer the",
+      "cleanText": "B. Now read the poem by Rachel Field and answer the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.27,
+      "bbox": [
+        67.97,
+        78.05,
+        480.96,
+        90.43
+      ]
+    },
+    {
+      "id": "class8-english-p054-l003",
+      "lineNumber": 3,
+      "text": "questions that follow:",
+      "cleanText": "questions that follow:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        89.28,
+        94.75,
+        216.0,
+        107.14
+      ]
+    },
+    {
+      "id": "class8-english-p054-l004",
+      "lineNumber": 4,
+      "text": "Something Told the Wild Geese",
+      "cleanText": "Something Told the Wild Geese",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        192.67,
+        119.81,
+        379.3,
+        132.48
+      ]
+    },
+    {
+      "id": "class8-english-p054-l005",
+      "lineNumber": 5,
+      "text": "Something told the wild geese",
+      "cleanText": "Something told the wild geese",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        207.94,
+        150.34,
+        364.03,
+        162.14
+      ]
+    },
+    {
+      "id": "class8-english-p054-l006",
+      "lineNumber": 6,
+      "text": "It was time to go.",
+      "cleanText": "It was time to go.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        240.77,
+        165.89,
+        330.05,
+        177.98
+      ]
+    },
+    {
+      "id": "class8-english-p054-l007",
+      "lineNumber": 7,
+      "text": "Though the fields lay golden",
+      "cleanText": "Though the fields lay golden",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        211.39,
+        181.73,
+        360.58,
+        193.54
+      ]
+    },
+    {
+      "id": "class8-english-p054-l008",
+      "lineNumber": 8,
+      "text": "Something whispered, — \"snow\".",
+      "cleanText": "Something whispered, — \"snow\".",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.0,
+      "bbox": [
+        198.14,
+        197.28,
+        373.54,
+        209.09
+      ]
+    },
+    {
+      "id": "class8-english-p054-l009",
+      "lineNumber": 9,
+      "text": "Leaves were green and stirring,",
+      "cleanText": "Leaves were green and stirring,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        204.48,
+        228.38,
+        366.91,
+        240.19
+      ]
+    },
+    {
+      "id": "class8-english-p054-l010",
+      "lineNumber": 10,
+      "text": "Berries, luster-glossed,",
+      "cleanText": "Berries, luster-glossed,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.5,
+      "bbox": [
+        226.37,
+        243.94,
+        346.75,
+        255.74
+      ]
+    },
+    {
+      "id": "class8-english-p054-l011",
+      "lineNumber": 11,
+      "text": "But beneath warm feathers",
+      "cleanText": "But beneath warm feathers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        216.29,
+        259.49,
+        355.1,
+        268.7
+      ]
+    },
+    {
+      "id": "class8-english-p054-l012",
+      "lineNumber": 12,
+      "text": "Something cautioned, — \"Frost\".",
+      "cleanText": "Something cautioned, — \"Frost\".",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.25,
+      "bbox": [
+        201.31,
+        275.33,
+        374.11,
+        287.14
+      ]
+    },
+    {
+      "id": "class8-english-p054-l013",
+      "lineNumber": 13,
+      "text": "All the sagging orchards",
+      "cleanText": "All the sagging orchards",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        222.34,
+        306.43,
+        349.06,
+        318.24
+      ]
+    },
+    {
+      "id": "class8-english-p054-l014",
+      "lineNumber": 14,
+      "text": "Steamed with amber spice,",
+      "cleanText": "Steamed with amber spice,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        216.58,
+        321.98,
+        355.1,
+        333.79
+      ]
+    },
+    {
+      "id": "class8-english-p054-l015",
+      "lineNumber": 15,
+      "text": "But each wild breast stiffened",
+      "cleanText": "But each wild breast stiffened",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        208.51,
+        337.54,
+        363.17,
+        346.75
+      ]
+    },
+    {
+      "id": "class8-english-p054-l016",
+      "lineNumber": 16,
+      "text": "At remembered ice.",
+      "cleanText": "At remembered ice.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        234.43,
+        353.09,
+        336.38,
+        362.3
+      ]
+    },
+    {
+      "id": "class8-english-p054-l017",
+      "lineNumber": 17,
+      "text": "Something told the wild geese",
+      "cleanText": "Something told the wild geese",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        207.94,
+        384.48,
+        364.03,
+        396.29
+      ]
+    },
+    {
+      "id": "class8-english-p054-l018",
+      "lineNumber": 18,
+      "text": "It was time to fly,—",
+      "cleanText": "It was time to fly,—",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.4,
+      "bbox": [
+        233.57,
+        400.03,
+        338.4,
+        412.13
+      ]
+    },
+    {
+      "id": "class8-english-p054-l019",
+      "lineNumber": 19,
+      "text": "Summer sun was on their wings,",
+      "cleanText": "Summer sun was on their wings,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        201.6,
+        415.58,
+        370.08,
+        427.39
+      ]
+    },
+    {
+      "id": "class8-english-p054-l020",
+      "lineNumber": 20,
+      "text": "Winter in their cry.",
+      "cleanText": "Winter in their cry.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        237.02,
+        431.14,
+        334.08,
+        442.94
+      ]
+    },
+    {
+      "id": "class8-english-p054-l021",
+      "lineNumber": 21,
+      "text": "Note: -Rachel Field",
+      "cleanText": "Note: -Rachel Field",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        68.26,
+        449.86,
+        420.77,
+        467.14
+      ]
+    },
+    {
+      "id": "class8-english-p054-l022",
+      "lineNumber": 22,
+      "text": "lustre-glossed — shiny and smooth.",
+      "cleanText": "lustre-glossed — shiny and smooth.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.2,
+      "bbox": [
+        72.29,
+        474.05,
+        253.73,
+        485.86
+      ]
+    },
+    {
+      "id": "class8-english-p054-l023",
+      "lineNumber": 23,
+      "text": "cautioned — gave a warning.",
+      "cleanText": "cautioned — gave a warning.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.4,
+      "bbox": [
+        71.42,
+        489.89,
+        219.17,
+        501.7
+      ]
+    },
+    {
+      "id": "class8-english-p054-l024",
+      "lineNumber": 24,
+      "text": "sagging — hanging down or sinking.",
+      "cleanText": "sagging — hanging down or sinking.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.83,
+      "bbox": [
+        70.56,
+        506.02,
+        258.34,
+        517.82
+      ]
+    },
+    {
+      "id": "class8-english-p054-l025",
+      "lineNumber": 25,
+      "text": "amber — a warm, yellow-brown colour.",
+      "cleanText": "amber — a warm, yellow-brown colour.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.33,
+      "bbox": [
+        72.0,
+        521.86,
+        276.19,
+        533.95
+      ]
+    },
+    {
+      "id": "class8-english-p054-l026",
+      "lineNumber": 26,
+      "text": "stiffened — became hard or tense.",
+      "cleanText": "stiffened — became hard or tense.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        70.85,
+        537.7,
+        243.07,
+        547.2
+      ]
+    },
+    {
+      "id": "class8-english-p054-l027",
+      "lineNumber": 27,
+      "text": "steamed — gave off steam or mist.",
+      "cleanText": "steamed — gave off steam or mist.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.71,
+      "bbox": [
+        70.85,
+        553.82,
+        247.1,
+        565.92
+      ]
+    },
+    {
+      "id": "class8-english-p054-l028",
+      "lineNumber": 28,
+      "text": "C. Answer the following questions:",
+      "cleanText": "C. Answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        69.12,
+        579.46,
+        279.07,
+        592.13
+      ]
+    },
+    {
+      "id": "class8-english-p054-l029",
+      "lineNumber": 29,
+      "text": "1. What makes the geese decide to leave?",
+      "cleanText": "1. What makes the geese decide to leave?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        91.58,
+        597.6,
+        305.28,
+        609.7
+      ]
+    },
+    {
+      "id": "class8-english-p054-l030",
+      "lineNumber": 30,
+      "text": "2. What happens to the leaves and berries in the poem?",
+      "cleanText": "2. What happens to the leaves and berries in the poem?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        90.14,
+        613.73,
+        375.55,
+        625.54
+      ]
+    },
+    {
+      "id": "class8-english-p054-l031",
+      "lineNumber": 31,
+      "text": "3. What changes in nature tell us that winter is near?",
+      "cleanText": "3. What changes in nature tell us that winter is near?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.09,
+      "bbox": [
+        90.43,
+        629.57,
+        361.73,
+        641.66
+      ]
+    },
+    {
+      "id": "class8-english-p054-l032",
+      "lineNumber": 32,
+      "text": "Forma-7, English For Today Class-8",
+      "cleanText": "Forma-7, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.8,
+      "bbox": [
+        67.97,
+        674.5,
+        227.81,
+        684.29
+      ]
+    }
+  ],
+  "lineCount": 32,
+  "aiReadyLineCount": 32,
+  "averageConfidence": 94.77,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:17:03.836554+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

@@ -1,0 +1,807 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 112,
+  "pdfPage": 112,
+  "textbookPage": 112,
+  "width": 526.56,
+  "height": 691.16,
+  "image": "../images/page-112.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "News! News! News! 107\nThat was The News\nTwo incredible shoes.\nTwo incredible shoes.\nThat was The News.\n— Michael Rosen\nF. News- shoes, rains — drains are some rhyming words in the poem. What\nother rhyming words do you find in the poem? Work with your partner to\nfind out their meanings:\nG. Suppose you are a news reporter of a TV channel. You have an\nassignment to cover the news on the incredible shoes mentioned in the poem.\nDo a role play of a TV news reporter along with two or three partners as\ninterviewees who will share their imaginary experience of the shoes:\nLesson 4: Walk-in Interview!\nKeywords: career, opportunity, maximum, negotiable, curriculum, vitae,\nelectronic, media, public, opinion, public, relations, positive, negative\nA. Listen to the text carefully and fill in the blanks with right word/s:\nU8, L4 A\nListening text: 9\n1. Newspaper, radio, TV, etc together are called ------------- --------------.\n2. Newspaper belongs to ---------------- --------------------.\n3. The media can build up -------------- ----------------- rapidly.\n4. Social workers should use the media for ---------------- -------------------.\n5 weoeeoe------------- iS seen as a positive use of the media.\nSS B. Discuss in groups and give arguments in favour of or against the use\nx of ads on TV:",
+  "cleanText": "News! News! News! 107 That was The News Two incredible shoes. Two incredible shoes. That was The News. — Michael Rosen F. News- shoes, rains — drains are some rhyming words in the poem. What other rhyming words do you find in the poem? Work with your partner to find out their meanings: G. Suppose you are a news reporter of a TV channel. You have an assignment to cover the news on the incredible shoes mentioned in the poem. Do a role play of a TV news reporter along with two or three partners as interviewees who will share their imaginary experience of the shoes: Lesson 4: Walk-in Interview! Keywords: career, opportunity, maximum, negotiable, curriculum, vitae, electronic, media, public, opinion, public, relations, positive, negative A. Listen to the text carefully and fill in the blanks with right word/s: U8, L4 A Listening text: 9 1. Newspaper, radio, TV, etc together are called ------------- --------------. 2. Newspaper belongs to ---------------- --------------------. 3. The media can build up -------------- ----------------- rapidly. 4. Social workers should use the media for ---------------- -------------------. 5 weoeeoe------------- iS seen as a positive use of the media. SS B. Discuss in groups and give arguments in favour of or against the use x of ads on TV:",
+  "aiReadyText": "News! News! News! 107 That was The News Two incredible shoes. Two incredible shoes. That was The News. — Michael Rosen F. News- shoes, rains — drains are some rhyming words in the poem. What other rhyming words do you find in the poem? Work with your partner to find out their meanings: G. Suppose you are a news reporter of a TV channel. You have an assignment to cover the news on the incredible shoes mentioned in the poem. Do a role play of a TV news reporter along with two or three partners as interviewees who will share their imaginary experience of the shoes: Lesson 4: Walk-in Interview! Keywords: career, opportunity, maximum, negotiable, curriculum, vitae, electronic, media, public, opinion, public, relations, positive, negative A. Listen to the text carefully and fill in the blanks with right word/s: U8, L4 A Listening text: 9 1. Newspaper, radio, TV, etc together are called ------------- --------------. 2. Newspaper belongs to ---------------- --------------------. 3. The media can build up -------------- ----------------- rapidly. 4. Social workers should use the media for ---------------- -------------------. 5 weoeeoe------------- iS seen as a positive use of the media. SS B. Discuss in groups and give arguments in favour of or against the use x of ads on TV:",
+  "lines": [
+    {
+      "id": "class8-english-p112-l001",
+      "lineNumber": 1,
+      "text": "News! News! News! 107",
+      "cleanText": "News! News! News! 107",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        57.6,
+        42.34,
+        470.02,
+        50.69
+      ]
+    },
+    {
+      "id": "class8-english-p112-l002",
+      "lineNumber": 2,
+      "text": "That was The News",
+      "cleanText": "That was The News",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        218.59,
+        75.74,
+        319.97,
+        84.96
+      ]
+    },
+    {
+      "id": "class8-english-p112-l003",
+      "lineNumber": 3,
+      "text": "Two incredible shoes.",
+      "cleanText": "Two incredible shoes.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        216.0,
+        92.16,
+        326.59,
+        101.38
+      ]
+    },
+    {
+      "id": "class8-english-p112-l004",
+      "lineNumber": 4,
+      "text": "Two incredible shoes.",
+      "cleanText": "Two incredible shoes.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        213.7,
+        108.58,
+        324.29,
+        117.79
+      ]
+    },
+    {
+      "id": "class8-english-p112-l005",
+      "lineNumber": 5,
+      "text": "That was The News.",
+      "cleanText": "That was The News.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        217.15,
+        125.28,
+        321.12,
+        134.5
+      ]
+    },
+    {
+      "id": "class8-english-p112-l006",
+      "lineNumber": 6,
+      "text": "— Michael Rosen",
+      "cleanText": "— Michael Rosen",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        324.58,
+        142.27,
+        409.82,
+        151.49
+      ]
+    },
+    {
+      "id": "class8-english-p112-l007",
+      "lineNumber": 7,
+      "text": "F. News- shoes, rains — drains are some rhyming words in the poem. What",
+      "cleanText": "F. News- shoes, rains — drains are some rhyming words in the poem. What",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        57.31,
+        163.58,
+        473.47,
+        175.39
+      ]
+    },
+    {
+      "id": "class8-english-p112-l008",
+      "lineNumber": 8,
+      "text": "other rhyming words do you find in the poem? Work with your partner to",
+      "cleanText": "other rhyming words do you find in the poem? Work with your partner to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        77.47,
+        180.58,
+        473.18,
+        192.38
+      ]
+    },
+    {
+      "id": "class8-english-p112-l009",
+      "lineNumber": 9,
+      "text": "find out their meanings:",
+      "cleanText": "find out their meanings:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        78.62,
+        197.57,
+        209.38,
+        209.38
+      ]
+    },
+    {
+      "id": "class8-english-p112-l010",
+      "lineNumber": 10,
+      "text": "G. Suppose you are a news reporter of a TV channel. You have an",
+      "cleanText": "G. Suppose you are a news reporter of a TV channel. You have an",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        59.62,
+        225.79,
+        472.9,
+        237.31
+      ]
+    },
+    {
+      "id": "class8-english-p112-l011",
+      "lineNumber": 11,
+      "text": "assignment to cover the news on the incredible shoes mentioned in the poem.",
+      "cleanText": "assignment to cover the news on the incredible shoes mentioned in the poem.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        59.62,
+        242.78,
+        472.9,
+        254.3
+      ]
+    },
+    {
+      "id": "class8-english-p112-l012",
+      "lineNumber": 12,
+      "text": "Do a role play of a TV news reporter along with two or three partners as",
+      "cleanText": "Do a role play of a TV news reporter along with two or three partners as",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        59.33,
+        258.62,
+        472.9,
+        272.45
+      ]
+    },
+    {
+      "id": "class8-english-p112-l013",
+      "lineNumber": 13,
+      "text": "interviewees who will share their imaginary experience of the shoes:",
+      "cleanText": "interviewees who will share their imaginary experience of the shoes:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.33,
+        276.77,
+        428.26,
+        288.29
+      ]
+    },
+    {
+      "id": "class8-english-p112-l014",
+      "lineNumber": 14,
+      "text": "Lesson 4: Walk-in Interview!",
+      "cleanText": "Lesson 4: Walk-in Interview!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.46,
+        326.3,
+        304.13,
+        340.13
+      ]
+    },
+    {
+      "id": "class8-english-p112-l015",
+      "lineNumber": 15,
+      "text": "Keywords: career, opportunity, maximum, negotiable, curriculum, vitae,",
+      "cleanText": "Keywords: career, opportunity, maximum, negotiable, curriculum, vitae,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.43,
+      "bbox": [
+        57.89,
+        355.97,
+        448.7,
+        370.37
+      ]
+    },
+    {
+      "id": "class8-english-p112-l016",
+      "lineNumber": 16,
+      "text": "electronic, media, public, opinion, public, relations, positive, negative",
+      "cleanText": "electronic, media, public, opinion, public, relations, positive, negative",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        72.58,
+        377.57,
+        442.37,
+        389.38
+      ]
+    },
+    {
+      "id": "class8-english-p112-l017",
+      "lineNumber": 17,
+      "text": "A. Listen to the text carefully and fill in the blanks with right word/s:",
+      "cleanText": "A. Listen to the text carefully and fill in the blanks with right word/s:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        56.74,
+        422.5,
+        433.44,
+        434.02
+      ]
+    },
+    {
+      "id": "class8-english-p112-l018",
+      "lineNumber": 18,
+      "text": "U8, L4 A",
+      "cleanText": "U8, L4 A",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.33,
+      "bbox": [
+        210.82,
+        449.86,
+        260.93,
+        461.09
+      ]
+    },
+    {
+      "id": "class8-english-p112-l019",
+      "lineNumber": 19,
+      "text": "Listening text: 9",
+      "cleanText": "Listening text: 9",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        211.1,
+        465.12,
+        300.67,
+        476.64
+      ]
+    },
+    {
+      "id": "class8-english-p112-l020",
+      "lineNumber": 20,
+      "text": "1. Newspaper, radio, TV, etc together are called ------------- --------------.",
+      "cleanText": "1. Newspaper, radio, TV, etc together are called ------------- --------------.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.1,
+      "bbox": [
+        61.34,
+        492.77,
+        442.37,
+        505.44
+      ]
+    },
+    {
+      "id": "class8-english-p112-l021",
+      "lineNumber": 21,
+      "text": "2. Newspaper belongs to ---------------- --------------------.",
+      "cleanText": "2. Newspaper belongs to ---------------- --------------------.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.67,
+      "bbox": [
+        59.9,
+        520.42,
+        363.17,
+        532.22
+      ]
+    },
+    {
+      "id": "class8-english-p112-l022",
+      "lineNumber": 22,
+      "text": "3. The media can build up -------------- ----------------- rapidly.",
+      "cleanText": "3. The media can build up -------------- ----------------- rapidly.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.89,
+      "bbox": [
+        61.63,
+        546.05,
+        389.09,
+        557.86
+      ]
+    },
+    {
+      "id": "class8-english-p112-l023",
+      "lineNumber": 23,
+      "text": "4. Social workers should use the media for ---------------- -------------------.",
+      "cleanText": "4. Social workers should use the media for ---------------- -------------------.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        58.75,
+        574.27,
+        450.72,
+        583.49
+      ]
+    },
+    {
+      "id": "class8-english-p112-l024",
+      "lineNumber": 24,
+      "text": "5 weoeeoe------------- iS seen as a positive use of the media.",
+      "cleanText": "5 weoeeoe------------- iS seen as a positive use of the media.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 81.64,
+      "bbox": [
+        59.33,
+        601.34,
+        368.64,
+        613.15
+      ]
+    },
+    {
+      "id": "class8-english-p112-l025",
+      "lineNumber": 25,
+      "text": "SS B. Discuss in groups and give arguments in favour of or against the use",
+      "cleanText": "SS B. Discuss in groups and give arguments in favour of or against the use",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.47,
+      "bbox": [
+        25.06,
+        624.67,
+        471.46,
+        642.82
+      ]
+    },
+    {
+      "id": "class8-english-p112-l026",
+      "lineNumber": 26,
+      "text": "x of ads on TV:",
+      "cleanText": "x of ads on TV:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 77.6,
+      "bbox": [
+        26.21,
+        641.95,
+        162.14,
+        653.76
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p112-l001",
+      "lineNumber": 1,
+      "text": "News! News! News! 107",
+      "cleanText": "News! News! News! 107",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        57.6,
+        42.34,
+        470.02,
+        50.69
+      ]
+    },
+    {
+      "id": "class8-english-p112-l002",
+      "lineNumber": 2,
+      "text": "That was The News",
+      "cleanText": "That was The News",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        218.59,
+        75.74,
+        319.97,
+        84.96
+      ]
+    },
+    {
+      "id": "class8-english-p112-l003",
+      "lineNumber": 3,
+      "text": "Two incredible shoes.",
+      "cleanText": "Two incredible shoes.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        216.0,
+        92.16,
+        326.59,
+        101.38
+      ]
+    },
+    {
+      "id": "class8-english-p112-l004",
+      "lineNumber": 4,
+      "text": "Two incredible shoes.",
+      "cleanText": "Two incredible shoes.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        213.7,
+        108.58,
+        324.29,
+        117.79
+      ]
+    },
+    {
+      "id": "class8-english-p112-l005",
+      "lineNumber": 5,
+      "text": "That was The News.",
+      "cleanText": "That was The News.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        217.15,
+        125.28,
+        321.12,
+        134.5
+      ]
+    },
+    {
+      "id": "class8-english-p112-l006",
+      "lineNumber": 6,
+      "text": "— Michael Rosen",
+      "cleanText": "— Michael Rosen",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.0,
+      "bbox": [
+        324.58,
+        142.27,
+        409.82,
+        151.49
+      ]
+    },
+    {
+      "id": "class8-english-p112-l007",
+      "lineNumber": 7,
+      "text": "F. News- shoes, rains — drains are some rhyming words in the poem. What",
+      "cleanText": "F. News- shoes, rains — drains are some rhyming words in the poem. What",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        57.31,
+        163.58,
+        473.47,
+        175.39
+      ]
+    },
+    {
+      "id": "class8-english-p112-l008",
+      "lineNumber": 8,
+      "text": "other rhyming words do you find in the poem? Work with your partner to",
+      "cleanText": "other rhyming words do you find in the poem? Work with your partner to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        77.47,
+        180.58,
+        473.18,
+        192.38
+      ]
+    },
+    {
+      "id": "class8-english-p112-l009",
+      "lineNumber": 9,
+      "text": "find out their meanings:",
+      "cleanText": "find out their meanings:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        78.62,
+        197.57,
+        209.38,
+        209.38
+      ]
+    },
+    {
+      "id": "class8-english-p112-l010",
+      "lineNumber": 10,
+      "text": "G. Suppose you are a news reporter of a TV channel. You have an",
+      "cleanText": "G. Suppose you are a news reporter of a TV channel. You have an",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        59.62,
+        225.79,
+        472.9,
+        237.31
+      ]
+    },
+    {
+      "id": "class8-english-p112-l011",
+      "lineNumber": 11,
+      "text": "assignment to cover the news on the incredible shoes mentioned in the poem.",
+      "cleanText": "assignment to cover the news on the incredible shoes mentioned in the poem.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        59.62,
+        242.78,
+        472.9,
+        254.3
+      ]
+    },
+    {
+      "id": "class8-english-p112-l012",
+      "lineNumber": 12,
+      "text": "Do a role play of a TV news reporter along with two or three partners as",
+      "cleanText": "Do a role play of a TV news reporter along with two or three partners as",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        59.33,
+        258.62,
+        472.9,
+        272.45
+      ]
+    },
+    {
+      "id": "class8-english-p112-l013",
+      "lineNumber": 13,
+      "text": "interviewees who will share their imaginary experience of the shoes:",
+      "cleanText": "interviewees who will share their imaginary experience of the shoes:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.33,
+        276.77,
+        428.26,
+        288.29
+      ]
+    },
+    {
+      "id": "class8-english-p112-l014",
+      "lineNumber": 14,
+      "text": "Lesson 4: Walk-in Interview!",
+      "cleanText": "Lesson 4: Walk-in Interview!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        58.46,
+        326.3,
+        304.13,
+        340.13
+      ]
+    },
+    {
+      "id": "class8-english-p112-l015",
+      "lineNumber": 15,
+      "text": "Keywords: career, opportunity, maximum, negotiable, curriculum, vitae,",
+      "cleanText": "Keywords: career, opportunity, maximum, negotiable, curriculum, vitae,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.43,
+      "bbox": [
+        57.89,
+        355.97,
+        448.7,
+        370.37
+      ]
+    },
+    {
+      "id": "class8-english-p112-l016",
+      "lineNumber": 16,
+      "text": "electronic, media, public, opinion, public, relations, positive, negative",
+      "cleanText": "electronic, media, public, opinion, public, relations, positive, negative",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        72.58,
+        377.57,
+        442.37,
+        389.38
+      ]
+    },
+    {
+      "id": "class8-english-p112-l017",
+      "lineNumber": 17,
+      "text": "A. Listen to the text carefully and fill in the blanks with right word/s:",
+      "cleanText": "A. Listen to the text carefully and fill in the blanks with right word/s:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        56.74,
+        422.5,
+        433.44,
+        434.02
+      ]
+    },
+    {
+      "id": "class8-english-p112-l018",
+      "lineNumber": 18,
+      "text": "U8, L4 A",
+      "cleanText": "U8, L4 A",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.33,
+      "bbox": [
+        210.82,
+        449.86,
+        260.93,
+        461.09
+      ]
+    },
+    {
+      "id": "class8-english-p112-l019",
+      "lineNumber": 19,
+      "text": "Listening text: 9",
+      "cleanText": "Listening text: 9",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        211.1,
+        465.12,
+        300.67,
+        476.64
+      ]
+    },
+    {
+      "id": "class8-english-p112-l020",
+      "lineNumber": 20,
+      "text": "1. Newspaper, radio, TV, etc together are called ------------- --------------.",
+      "cleanText": "1. Newspaper, radio, TV, etc together are called ------------- --------------.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.1,
+      "bbox": [
+        61.34,
+        492.77,
+        442.37,
+        505.44
+      ]
+    },
+    {
+      "id": "class8-english-p112-l021",
+      "lineNumber": 21,
+      "text": "2. Newspaper belongs to ---------------- --------------------.",
+      "cleanText": "2. Newspaper belongs to ---------------- --------------------.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.67,
+      "bbox": [
+        59.9,
+        520.42,
+        363.17,
+        532.22
+      ]
+    },
+    {
+      "id": "class8-english-p112-l022",
+      "lineNumber": 22,
+      "text": "3. The media can build up -------------- ----------------- rapidly.",
+      "cleanText": "3. The media can build up -------------- ----------------- rapidly.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.89,
+      "bbox": [
+        61.63,
+        546.05,
+        389.09,
+        557.86
+      ]
+    },
+    {
+      "id": "class8-english-p112-l023",
+      "lineNumber": 23,
+      "text": "4. Social workers should use the media for ---------------- -------------------.",
+      "cleanText": "4. Social workers should use the media for ---------------- -------------------.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        58.75,
+        574.27,
+        450.72,
+        583.49
+      ]
+    },
+    {
+      "id": "class8-english-p112-l024",
+      "lineNumber": 24,
+      "text": "5 weoeeoe------------- iS seen as a positive use of the media.",
+      "cleanText": "5 weoeeoe------------- iS seen as a positive use of the media.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 81.64,
+      "bbox": [
+        59.33,
+        601.34,
+        368.64,
+        613.15
+      ]
+    },
+    {
+      "id": "class8-english-p112-l025",
+      "lineNumber": 25,
+      "text": "SS B. Discuss in groups and give arguments in favour of or against the use",
+      "cleanText": "SS B. Discuss in groups and give arguments in favour of or against the use",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.47,
+      "bbox": [
+        25.06,
+        624.67,
+        471.46,
+        642.82
+      ]
+    },
+    {
+      "id": "class8-english-p112-l026",
+      "lineNumber": 26,
+      "text": "x of ads on TV:",
+      "cleanText": "x of ads on TV:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 77.6,
+      "bbox": [
+        26.21,
+        641.95,
+        162.14,
+        653.76
+      ]
+    }
+  ],
+  "lineCount": 26,
+  "aiReadyLineCount": 26,
+  "averageConfidence": 93.46,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:40.804737+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

@@ -1,0 +1,777 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 68,
+  "pdfPage": 68,
+  "textbookPage": 68,
+  "width": 530.0,
+  "height": 696.0,
+  "image": "../images/page-068.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Going on a Trip 63\nLesson 1: At the Airport\nKeywords: lounge, immigration\nA.Look at the picture and talk about it:\neen Ot ML FLO Will A -\na oS veer\nai iy RR, CNY WZ\nbk 3 b < a Po Pi / ee Y\n1. What do you see?\n2. Can you guess where it could be?\n3. Who are the people in the picture?\n4. What could be their relationship?\nB. Now read the text and find out if your guesses are correct:\nZara lives with her parents in London. They have come to Bangladesh to visit\nZara’s aunt and uncle. She is very close to her cousin, Mita. Both the families\nhave visited many interesting places together in Bangladesh. It was great fun.\nThen they decided that they would visit some places outside Bangladesh too.\nThey decided to go to Thailand. But Mita’s parents were too busy with their\nwork, so they could not go. However, Mita was going with them.\nMita, Zara and her parents are at Hazrat Shahjalal International Airport.\nThey are waiting in the lounge. Mita is very excited. This is the first time\nthat she is travelling on a plane. They are flying by Bangladesh Biman.\nMita is hoping to have a great time in Thailand.\n‘¢ As they wait, the two cousins start planning what they would do once they\nreach Bangkok. Mita’s uncle brings forms for all of them to fill in before going",
+  "cleanText": "Going on a Trip 63 Lesson 1: At the Airport Keywords: lounge, immigration A.Look at the picture and talk about it: een Ot ML FLO Will A - a oS veer ai iy RR, CNY WZ bk 3 b < a Po Pi / ee Y 1. What do you see? 2. Can you guess where it could be? 3. Who are the people in the picture? 4. What could be their relationship? B. Now read the text and find out if your guesses are correct: Zara lives with her parents in London. They have come to Bangladesh to visit Zara’s aunt and uncle. She is very close to her cousin, Mita. Both the families have visited many interesting places together in Bangladesh. It was great fun. Then they decided that they would visit some places outside Bangladesh too. They decided to go to Thailand. But Mita’s parents were too busy with their work, so they could not go. However, Mita was going with them. Mita, Zara and her parents are at Hazrat Shahjalal International Airport. They are waiting in the lounge. Mita is very excited. This is the first time that she is travelling on a plane. They are flying by Bangladesh Biman. Mita is hoping to have a great time in Thailand. ‘¢ As they wait, the two cousins start planning what they would do once they reach Bangkok. Mita’s uncle brings forms for all of them to fill in before going",
+  "aiReadyText": "Going on a Trip 63 Lesson 1: At the Airport Keywords: lounge, immigration A.Look at the picture and talk about it: een Ot ML FLO Will A - a oS veer ai iy RR, CNY WZ bk 3 b < a Po Pi / ee Y 1. What do you see? 2. Can you guess where it could be? 3. Who are the people in the picture? 4. What could be their relationship? B. Now read the text and find out if your guesses are correct: Zara lives with her parents in London. They have come to Bangladesh to visit Zara’s aunt and uncle. She is very close to her cousin, Mita. Both the families have visited many interesting places together in Bangladesh. It was great fun. Then they decided that they would visit some places outside Bangladesh too. They decided to go to Thailand. But Mita’s parents were too busy with their work, so they could not go. However, Mita was going with them. Mita, Zara and her parents are at Hazrat Shahjalal International Airport. They are waiting in the lounge. Mita is very excited. This is the first time that she is travelling on a plane. They are flying by Bangladesh Biman. Mita is hoping to have a great time in Thailand. ‘¢ As they wait, the two cousins start planning what they would do once they reach Bangkok. Mita’s uncle brings forms for all of them to fill in before going",
+  "lines": [
+    {
+      "id": "class8-english-p068-l001",
+      "lineNumber": 1,
+      "text": "Going on a Trip 63",
+      "cleanText": "Going on a Trip 63",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        61.92,
+        40.61,
+        475.2,
+        52.99
+      ]
+    },
+    {
+      "id": "class8-english-p068-l002",
+      "lineNumber": 2,
+      "text": "Lesson 1: At the Airport",
+      "cleanText": "Lesson 1: At the Airport",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.48,
+        76.9,
+        267.26,
+        94.75
+      ]
+    },
+    {
+      "id": "class8-english-p068-l003",
+      "lineNumber": 3,
+      "text": "Keywords: lounge, immigration",
+      "cleanText": "Keywords: lounge, immigration",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        59.62,
+        100.8,
+        242.5,
+        112.9
+      ]
+    },
+    {
+      "id": "class8-english-p068-l004",
+      "lineNumber": 4,
+      "text": "A.Look at the picture and talk about it:",
+      "cleanText": "A.Look at the picture and talk about it:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        60.19,
+        121.82,
+        297.22,
+        135.07
+      ]
+    },
+    {
+      "id": "class8-english-p068-l005",
+      "lineNumber": 5,
+      "text": "een Ot ML FLO Will A -",
+      "cleanText": "een Ot ML FLO Will A -",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 34.43,
+      "bbox": [
+        141.98,
+        205.92,
+        386.5,
+        225.22
+      ]
+    },
+    {
+      "id": "class8-english-p068-l006",
+      "lineNumber": 6,
+      "text": "a oS veer",
+      "cleanText": "a oS veer",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 20.33,
+      "bbox": [
+        216.29,
+        211.97,
+        340.13,
+        244.8
+      ]
+    },
+    {
+      "id": "class8-english-p068-l007",
+      "lineNumber": 7,
+      "text": "ai iy RR, CNY WZ",
+      "cleanText": "ai iy RR, CNY WZ",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 48.2,
+      "bbox": [
+        211.68,
+        216.29,
+        353.66,
+        226.37
+      ]
+    },
+    {
+      "id": "class8-english-p068-l008",
+      "lineNumber": 8,
+      "text": "bk 3 b < a Po Pi / ee Y",
+      "cleanText": "bk 3 b < a Po Pi / ee Y",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 19.8,
+      "bbox": [
+        182.02,
+        265.25,
+        366.91,
+        278.5
+      ]
+    },
+    {
+      "id": "class8-english-p068-l009",
+      "lineNumber": 9,
+      "text": "1. What do you see?",
+      "cleanText": "1. What do you see?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.6,
+      "bbox": [
+        82.37,
+        344.74,
+        194.98,
+        356.83
+      ]
+    },
+    {
+      "id": "class8-english-p068-l010",
+      "lineNumber": 10,
+      "text": "2. Can you guess where it could be?",
+      "cleanText": "2. Can you guess where it could be?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        81.79,
+        363.74,
+        277.06,
+        375.84
+      ]
+    },
+    {
+      "id": "class8-english-p068-l011",
+      "lineNumber": 11,
+      "text": "3. Who are the people in the picture?",
+      "cleanText": "3. Who are the people in the picture?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        81.5,
+        382.75,
+        281.38,
+        394.85
+      ]
+    },
+    {
+      "id": "class8-english-p068-l012",
+      "lineNumber": 12,
+      "text": "4. What could be their relationship?",
+      "cleanText": "4. What could be their relationship?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.33,
+      "bbox": [
+        81.5,
+        404.93,
+        275.62,
+        416.74
+      ]
+    },
+    {
+      "id": "class8-english-p068-l013",
+      "lineNumber": 13,
+      "text": "B. Now read the text and find out if your guesses are correct:",
+      "cleanText": "B. Now read the text and find out if your guesses are correct:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        60.48,
+        427.68,
+        425.09,
+        441.22
+      ]
+    },
+    {
+      "id": "class8-english-p068-l014",
+      "lineNumber": 14,
+      "text": "Zara lives with her parents in London. They have come to Bangladesh to visit",
+      "cleanText": "Zara lives with her parents in London. They have come to Bangladesh to visit",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.48,
+        447.84,
+        475.2,
+        459.94
+      ]
+    },
+    {
+      "id": "class8-english-p068-l015",
+      "lineNumber": 15,
+      "text": "Zara’s aunt and uncle. She is very close to her cousin, Mita. Both the families",
+      "cleanText": "Zara’s aunt and uncle. She is very close to her cousin, Mita. Both the families",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.73,
+      "bbox": [
+        61.34,
+        464.83,
+        474.91,
+        476.93
+      ]
+    },
+    {
+      "id": "class8-english-p068-l016",
+      "lineNumber": 16,
+      "text": "have visited many interesting places together in Bangladesh. It was great fun.",
+      "cleanText": "have visited many interesting places together in Bangladesh. It was great fun.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        61.06,
+        481.82,
+        475.49,
+        493.92
+      ]
+    },
+    {
+      "id": "class8-english-p068-l017",
+      "lineNumber": 17,
+      "text": "Then they decided that they would visit some places outside Bangladesh too.",
+      "cleanText": "Then they decided that they would visit some places outside Bangladesh too.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        62.21,
+        498.82,
+        474.62,
+        510.91
+      ]
+    },
+    {
+      "id": "class8-english-p068-l018",
+      "lineNumber": 18,
+      "text": "They decided to go to Thailand. But Mita’s parents were too busy with their",
+      "cleanText": "They decided to go to Thailand. But Mita’s parents were too busy with their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.43,
+      "bbox": [
+        60.19,
+        515.52,
+        475.78,
+        527.9
+      ]
+    },
+    {
+      "id": "class8-english-p068-l019",
+      "lineNumber": 19,
+      "text": "work, so they could not go. However, Mita was going with them.",
+      "cleanText": "work, so they could not go. However, Mita was going with them.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.08,
+      "bbox": [
+        62.78,
+        531.65,
+        410.11,
+        544.9
+      ]
+    },
+    {
+      "id": "class8-english-p068-l020",
+      "lineNumber": 20,
+      "text": "Mita, Zara and her parents are at Hazrat Shahjalal International Airport.",
+      "cleanText": "Mita, Zara and her parents are at Hazrat Shahjalal International Airport.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.91,
+      "bbox": [
+        60.48,
+        551.81,
+        475.49,
+        563.9
+      ]
+    },
+    {
+      "id": "class8-english-p068-l021",
+      "lineNumber": 21,
+      "text": "They are waiting in the lounge. Mita is very excited. This is the first time",
+      "cleanText": "They are waiting in the lounge. Mita is very excited. This is the first time",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.77,
+        567.94,
+        474.34,
+        580.9
+      ]
+    },
+    {
+      "id": "class8-english-p068-l022",
+      "lineNumber": 22,
+      "text": "that she is travelling on a plane. They are flying by Bangladesh Biman.",
+      "cleanText": "that she is travelling on a plane. They are flying by Bangladesh Biman.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        61.34,
+        584.64,
+        472.32,
+        597.89
+      ]
+    },
+    {
+      "id": "class8-english-p068-l023",
+      "lineNumber": 23,
+      "text": "Mita is hoping to have a great time in Thailand.",
+      "cleanText": "Mita is hoping to have a great time in Thailand.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.63,
+        602.78,
+        335.81,
+        614.88
+      ]
+    },
+    {
+      "id": "class8-english-p068-l024",
+      "lineNumber": 24,
+      "text": "‘¢ As they wait, the two cousins start planning what they would do once they",
+      "cleanText": "‘¢ As they wait, the two cousins start planning what they would do once they",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.8,
+      "bbox": [
+        33.41,
+        626.69,
+        474.34,
+        641.66
+      ]
+    },
+    {
+      "id": "class8-english-p068-l025",
+      "lineNumber": 25,
+      "text": "reach Bangkok. Mita’s uncle brings forms for all of them to fill in before going",
+      "cleanText": "reach Bangkok. Mita’s uncle brings forms for all of them to fill in before going",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.47,
+      "bbox": [
+        33.41,
+        641.95,
+        475.78,
+        656.06
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p068-l001",
+      "lineNumber": 1,
+      "text": "Going on a Trip 63",
+      "cleanText": "Going on a Trip 63",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        61.92,
+        40.61,
+        475.2,
+        52.99
+      ]
+    },
+    {
+      "id": "class8-english-p068-l002",
+      "lineNumber": 2,
+      "text": "Lesson 1: At the Airport",
+      "cleanText": "Lesson 1: At the Airport",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.48,
+        76.9,
+        267.26,
+        94.75
+      ]
+    },
+    {
+      "id": "class8-english-p068-l003",
+      "lineNumber": 3,
+      "text": "Keywords: lounge, immigration",
+      "cleanText": "Keywords: lounge, immigration",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        59.62,
+        100.8,
+        242.5,
+        112.9
+      ]
+    },
+    {
+      "id": "class8-english-p068-l004",
+      "lineNumber": 4,
+      "text": "A.Look at the picture and talk about it:",
+      "cleanText": "A.Look at the picture and talk about it:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        60.19,
+        121.82,
+        297.22,
+        135.07
+      ]
+    },
+    {
+      "id": "class8-english-p068-l005",
+      "lineNumber": 5,
+      "text": "een Ot ML FLO Will A -",
+      "cleanText": "een Ot ML FLO Will A -",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 34.43,
+      "bbox": [
+        141.98,
+        205.92,
+        386.5,
+        225.22
+      ]
+    },
+    {
+      "id": "class8-english-p068-l006",
+      "lineNumber": 6,
+      "text": "a oS veer",
+      "cleanText": "a oS veer",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 20.33,
+      "bbox": [
+        216.29,
+        211.97,
+        340.13,
+        244.8
+      ]
+    },
+    {
+      "id": "class8-english-p068-l007",
+      "lineNumber": 7,
+      "text": "ai iy RR, CNY WZ",
+      "cleanText": "ai iy RR, CNY WZ",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 48.2,
+      "bbox": [
+        211.68,
+        216.29,
+        353.66,
+        226.37
+      ]
+    },
+    {
+      "id": "class8-english-p068-l008",
+      "lineNumber": 8,
+      "text": "bk 3 b < a Po Pi / ee Y",
+      "cleanText": "bk 3 b < a Po Pi / ee Y",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 19.8,
+      "bbox": [
+        182.02,
+        265.25,
+        366.91,
+        278.5
+      ]
+    },
+    {
+      "id": "class8-english-p068-l009",
+      "lineNumber": 9,
+      "text": "1. What do you see?",
+      "cleanText": "1. What do you see?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.6,
+      "bbox": [
+        82.37,
+        344.74,
+        194.98,
+        356.83
+      ]
+    },
+    {
+      "id": "class8-english-p068-l010",
+      "lineNumber": 10,
+      "text": "2. Can you guess where it could be?",
+      "cleanText": "2. Can you guess where it could be?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        81.79,
+        363.74,
+        277.06,
+        375.84
+      ]
+    },
+    {
+      "id": "class8-english-p068-l011",
+      "lineNumber": 11,
+      "text": "3. Who are the people in the picture?",
+      "cleanText": "3. Who are the people in the picture?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        81.5,
+        382.75,
+        281.38,
+        394.85
+      ]
+    },
+    {
+      "id": "class8-english-p068-l012",
+      "lineNumber": 12,
+      "text": "4. What could be their relationship?",
+      "cleanText": "4. What could be their relationship?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.33,
+      "bbox": [
+        81.5,
+        404.93,
+        275.62,
+        416.74
+      ]
+    },
+    {
+      "id": "class8-english-p068-l013",
+      "lineNumber": 13,
+      "text": "B. Now read the text and find out if your guesses are correct:",
+      "cleanText": "B. Now read the text and find out if your guesses are correct:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        60.48,
+        427.68,
+        425.09,
+        441.22
+      ]
+    },
+    {
+      "id": "class8-english-p068-l014",
+      "lineNumber": 14,
+      "text": "Zara lives with her parents in London. They have come to Bangladesh to visit",
+      "cleanText": "Zara lives with her parents in London. They have come to Bangladesh to visit",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.48,
+        447.84,
+        475.2,
+        459.94
+      ]
+    },
+    {
+      "id": "class8-english-p068-l015",
+      "lineNumber": 15,
+      "text": "Zara’s aunt and uncle. She is very close to her cousin, Mita. Both the families",
+      "cleanText": "Zara’s aunt and uncle. She is very close to her cousin, Mita. Both the families",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.73,
+      "bbox": [
+        61.34,
+        464.83,
+        474.91,
+        476.93
+      ]
+    },
+    {
+      "id": "class8-english-p068-l016",
+      "lineNumber": 16,
+      "text": "have visited many interesting places together in Bangladesh. It was great fun.",
+      "cleanText": "have visited many interesting places together in Bangladesh. It was great fun.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        61.06,
+        481.82,
+        475.49,
+        493.92
+      ]
+    },
+    {
+      "id": "class8-english-p068-l017",
+      "lineNumber": 17,
+      "text": "Then they decided that they would visit some places outside Bangladesh too.",
+      "cleanText": "Then they decided that they would visit some places outside Bangladesh too.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        62.21,
+        498.82,
+        474.62,
+        510.91
+      ]
+    },
+    {
+      "id": "class8-english-p068-l018",
+      "lineNumber": 18,
+      "text": "They decided to go to Thailand. But Mita’s parents were too busy with their",
+      "cleanText": "They decided to go to Thailand. But Mita’s parents were too busy with their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.43,
+      "bbox": [
+        60.19,
+        515.52,
+        475.78,
+        527.9
+      ]
+    },
+    {
+      "id": "class8-english-p068-l019",
+      "lineNumber": 19,
+      "text": "work, so they could not go. However, Mita was going with them.",
+      "cleanText": "work, so they could not go. However, Mita was going with them.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.08,
+      "bbox": [
+        62.78,
+        531.65,
+        410.11,
+        544.9
+      ]
+    },
+    {
+      "id": "class8-english-p068-l020",
+      "lineNumber": 20,
+      "text": "Mita, Zara and her parents are at Hazrat Shahjalal International Airport.",
+      "cleanText": "Mita, Zara and her parents are at Hazrat Shahjalal International Airport.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.91,
+      "bbox": [
+        60.48,
+        551.81,
+        475.49,
+        563.9
+      ]
+    },
+    {
+      "id": "class8-english-p068-l021",
+      "lineNumber": 21,
+      "text": "They are waiting in the lounge. Mita is very excited. This is the first time",
+      "cleanText": "They are waiting in the lounge. Mita is very excited. This is the first time",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.77,
+        567.94,
+        474.34,
+        580.9
+      ]
+    },
+    {
+      "id": "class8-english-p068-l022",
+      "lineNumber": 22,
+      "text": "that she is travelling on a plane. They are flying by Bangladesh Biman.",
+      "cleanText": "that she is travelling on a plane. They are flying by Bangladesh Biman.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        61.34,
+        584.64,
+        472.32,
+        597.89
+      ]
+    },
+    {
+      "id": "class8-english-p068-l023",
+      "lineNumber": 23,
+      "text": "Mita is hoping to have a great time in Thailand.",
+      "cleanText": "Mita is hoping to have a great time in Thailand.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.63,
+        602.78,
+        335.81,
+        614.88
+      ]
+    },
+    {
+      "id": "class8-english-p068-l024",
+      "lineNumber": 24,
+      "text": "‘¢ As they wait, the two cousins start planning what they would do once they",
+      "cleanText": "‘¢ As they wait, the two cousins start planning what they would do once they",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.8,
+      "bbox": [
+        33.41,
+        626.69,
+        474.34,
+        641.66
+      ]
+    },
+    {
+      "id": "class8-english-p068-l025",
+      "lineNumber": 25,
+      "text": "reach Bangkok. Mita’s uncle brings forms for all of them to fill in before going",
+      "cleanText": "reach Bangkok. Mita’s uncle brings forms for all of them to fill in before going",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.47,
+      "bbox": [
+        33.41,
+        641.95,
+        475.78,
+        656.06
+      ]
+    }
+  ],
+  "lineCount": 25,
+  "aiReadyLineCount": 25,
+  "averageConfidence": 84.6,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:17:31.160858+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

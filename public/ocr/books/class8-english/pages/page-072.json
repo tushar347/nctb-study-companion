@@ -1,0 +1,822 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 72,
+  "pdfPage": 72,
+  "textbookPage": 72,
+  "width": 539.97,
+  "height": 709.46,
+  "image": "../images/page-072.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Going on a Trip 67\n1 Are you travelling alone? 1 No. I’m travelling with my aunt,\n2 uncle and cousin.\n3 2\n3\n° e\ne e\nD. Now, work in pairs and act out the role of Mita and the immigration officer.\nE. What are the three things needed at immigration?\nLesson 4: Boarding the Plane\nKeywords: seize, enclosed, formality, gel\nA. Read the text and answer the following questions.\nMita, Zara, Mr.and Mrs, Islam all sit at the lounge. They all have hand luggage\nwith them. Mr. Islam asks, “ Mita, Zara, are you two carrying any liquid,\nlotion, gel or cream in your carry-on luggage?” “I have a small lip gel in it.\nWhy uncle?” “Well, if it is avery small one, there is no problem. But if you’ve\nmore than 100 ml, you have to put it in the checked-in luggage. These are not\nallowed on board in hand luggage. For security reasons, the officials who do the\nbaggage checking will seize and throw them away”. Mita, Zara, Jhuma Islam\nand Mazharul Islam go through the security checking and wait in the enclosed\narea. All the formalities are done. Now, they are waiting to board the plane.\nMita, Zara and her parents board the plane after their row number is announced.\nMita gets a window seat. Her seat number is F23 C. Zara sits beside her on an\nisle seat and her parents sit behind them.\nQuestions:\n1. Who has a small lip gel in the hand luggage?\nS 2. How much liquid or gel is allowed to carry in hand luggage?\nS\nN",
+  "cleanText": "Going on a Trip 67 1 Are you travelling alone? 1 No. I’m travelling with my aunt, 2 uncle and cousin. 3 2 3 ° e e e D. Now, work in pairs and act out the role of Mita and the immigration officer. E. What are the three things needed at immigration? Lesson 4: Boarding the Plane Keywords: seize, enclosed, formality, gel A. Read the text and answer the following questions. Mita, Zara, Mr.and Mrs, Islam all sit at the lounge. They all have hand luggage with them. Mr. Islam asks, “ Mita, Zara, are you two carrying any liquid, lotion, gel or cream in your carry-on luggage?” “I have a small lip gel in it. Why uncle?” “Well, if it is avery small one, there is no problem. But if you’ve more than 100 ml, you have to put it in the checked-in luggage. These are not allowed on board in hand luggage. For security reasons, the officials who do the baggage checking will seize and throw them away”. Mita, Zara, Jhuma Islam and Mazharul Islam go through the security checking and wait in the enclosed area. All the formalities are done. Now, they are waiting to board the plane. Mita, Zara and her parents board the plane after their row number is announced. Mita gets a window seat. Her seat number is F23 C. Zara sits beside her on an isle seat and her parents sit behind them. Questions: 1. Who has a small lip gel in the hand luggage? S 2. How much liquid or gel is allowed to carry in hand luggage? S N",
+  "aiReadyText": "Going on a Trip 67 1 Are you travelling alone? 1 No. I’m travelling with my aunt, 2 uncle and cousin. e e D. Now, work in pairs and act out the role of Mita and the immigration officer. E. What are the three things needed at immigration? Lesson 4: Boarding the Plane Keywords: seize, enclosed, formality, gel A. Read the text and answer the following questions. Mita, Zara, Mr.and Mrs, Islam all sit at the lounge. They all have hand luggage with them. Mr. Islam asks, “ Mita, Zara, are you two carrying any liquid, lotion, gel or cream in your carry-on luggage?” “I have a small lip gel in it. Why uncle?” “Well, if it is avery small one, there is no problem. But if you’ve more than 100 ml, you have to put it in the checked-in luggage. These are not allowed on board in hand luggage. For security reasons, the officials who do the baggage checking will seize and throw them away”. Mita, Zara, Jhuma Islam and Mazharul Islam go through the security checking and wait in the enclosed area. All the formalities are done. Now, they are waiting to board the plane. Mita, Zara and her parents board the plane after their row number is announced. Mita gets a window seat. Her seat number is F23 C. Zara sits beside her on an isle seat and her parents sit behind them. Questions: 1. Who has a small lip gel in the hand luggage? S 2. How much liquid or gel is allowed to carry in hand luggage?",
+  "lines": [
+    {
+      "id": "class8-english-p072-l001",
+      "lineNumber": 1,
+      "text": "Going on a Trip 67",
+      "cleanText": "Going on a Trip 67",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.2,
+      "bbox": [
+        67.1,
+        48.1,
+        479.23,
+        59.04
+      ]
+    },
+    {
+      "id": "class8-english-p072-l002",
+      "lineNumber": 2,
+      "text": "1 Are you travelling alone? 1 No. I’m travelling with my aunt,",
+      "cleanText": "1 Are you travelling alone? 1 No. I’m travelling with my aunt,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.83,
+      "bbox": [
+        75.74,
+        111.46,
+        477.22,
+        123.26
+      ]
+    },
+    {
+      "id": "class8-english-p072-l003",
+      "lineNumber": 3,
+      "text": "2 uncle and cousin.",
+      "cleanText": "2 uncle and cousin.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.75,
+      "bbox": [
+        74.59,
+        127.01,
+        403.49,
+        142.56
+      ]
+    },
+    {
+      "id": "class8-english-p072-l004",
+      "lineNumber": 4,
+      "text": "3 2",
+      "cleanText": "3 2",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        74.88,
+        150.05,
+        307.3,
+        164.74
+      ]
+    },
+    {
+      "id": "class8-english-p072-l005",
+      "lineNumber": 5,
+      "text": "3",
+      "cleanText": "3",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        301.82,
+        172.22,
+        306.72,
+        182.02
+      ]
+    },
+    {
+      "id": "class8-english-p072-l006",
+      "lineNumber": 6,
+      "text": "° e",
+      "cleanText": "° e",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 74.5,
+      "bbox": [
+        73.44,
+        184.61,
+        305.86,
+        196.13
+      ]
+    },
+    {
+      "id": "class8-english-p072-l007",
+      "lineNumber": 7,
+      "text": "e e",
+      "cleanText": "e e",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 40.0,
+      "bbox": [
+        72.86,
+        206.5,
+        305.86,
+        212.54
+      ]
+    },
+    {
+      "id": "class8-english-p072-l008",
+      "lineNumber": 8,
+      "text": "D. Now, work in pairs and act out the role of Mita and the immigration officer.",
+      "cleanText": "D. Now, work in pairs and act out the role of Mita and the immigration officer.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        68.83,
+        238.46,
+        481.25,
+        250.85
+      ]
+    },
+    {
+      "id": "class8-english-p072-l009",
+      "lineNumber": 9,
+      "text": "E. What are the three things needed at immigration?",
+      "cleanText": "E. What are the three things needed at immigration?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        69.12,
+        263.81,
+        388.51,
+        277.06
+      ]
+    },
+    {
+      "id": "class8-english-p072-l010",
+      "lineNumber": 10,
+      "text": "Lesson 4: Boarding the Plane",
+      "cleanText": "Lesson 4: Boarding the Plane",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        67.68,
+        307.58,
+        316.8,
+        325.44
+      ]
+    },
+    {
+      "id": "class8-english-p072-l011",
+      "lineNumber": 11,
+      "text": "Keywords: seize, enclosed, formality, gel",
+      "cleanText": "Keywords: seize, enclosed, formality, gel",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        70.27,
+        340.42,
+        298.66,
+        352.8
+      ]
+    },
+    {
+      "id": "class8-english-p072-l012",
+      "lineNumber": 12,
+      "text": "A. Read the text and answer the following questions.",
+      "cleanText": "A. Read the text and answer the following questions.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        70.85,
+        362.59,
+        383.9,
+        375.84
+      ]
+    },
+    {
+      "id": "class8-english-p072-l013",
+      "lineNumber": 13,
+      "text": "Mita, Zara, Mr.and Mrs, Islam all sit at the lounge. They all have hand luggage",
+      "cleanText": "Mita, Zara, Mr.and Mrs, Islam all sit at the lounge. They all have hand luggage",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.13,
+      "bbox": [
+        70.85,
+        386.5,
+        484.99,
+        398.59
+      ]
+    },
+    {
+      "id": "class8-english-p072-l014",
+      "lineNumber": 14,
+      "text": "with them. Mr. Islam asks, “ Mita, Zara, are you two carrying any liquid,",
+      "cleanText": "with them. Mr. Islam asks, “ Mita, Zara, are you two carrying any liquid,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.86,
+      "bbox": [
+        71.14,
+        402.62,
+        485.57,
+        414.72
+      ]
+    },
+    {
+      "id": "class8-english-p072-l015",
+      "lineNumber": 15,
+      "text": "lotion, gel or cream in your carry-on luggage?” “I have a small lip gel in it.",
+      "cleanText": "lotion, gel or cream in your carry-on luggage?” “I have a small lip gel in it.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        70.56,
+        418.46,
+        485.86,
+        430.56
+      ]
+    },
+    {
+      "id": "class8-english-p072-l016",
+      "lineNumber": 16,
+      "text": "Why uncle?” “Well, if it is avery small one, there is no problem. But if you’ve",
+      "cleanText": "Why uncle?” “Well, if it is avery small one, there is no problem. But if you’ve",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.06,
+      "bbox": [
+        70.56,
+        434.59,
+        487.87,
+        446.69
+      ]
+    },
+    {
+      "id": "class8-english-p072-l017",
+      "lineNumber": 17,
+      "text": "more than 100 ml, you have to put it in the checked-in luggage. These are not",
+      "cleanText": "more than 100 ml, you have to put it in the checked-in luggage. These are not",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.25,
+      "bbox": [
+        71.14,
+        450.43,
+        485.28,
+        462.53
+      ]
+    },
+    {
+      "id": "class8-english-p072-l018",
+      "lineNumber": 18,
+      "text": "allowed on board in hand luggage. For security reasons, the officials who do the",
+      "cleanText": "allowed on board in hand luggage. For security reasons, the officials who do the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.07,
+      "bbox": [
+        71.71,
+        466.56,
+        485.86,
+        478.66
+      ]
+    },
+    {
+      "id": "class8-english-p072-l019",
+      "lineNumber": 19,
+      "text": "baggage checking will seize and throw them away”. Mita, Zara, Jhuma Islam",
+      "cleanText": "baggage checking will seize and throw them away”. Mita, Zara, Jhuma Islam",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.42,
+      "bbox": [
+        71.14,
+        481.54,
+        484.99,
+        494.78
+      ]
+    },
+    {
+      "id": "class8-english-p072-l020",
+      "lineNumber": 20,
+      "text": "and Mazharul Islam go through the security checking and wait in the enclosed",
+      "cleanText": "and Mazharul Islam go through the security checking and wait in the enclosed",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.23,
+      "bbox": [
+        70.85,
+        498.53,
+        486.14,
+        510.62
+      ]
+    },
+    {
+      "id": "class8-english-p072-l021",
+      "lineNumber": 21,
+      "text": "area. All the formalities are done. Now, they are waiting to board the plane.",
+      "cleanText": "area. All the formalities are done. Now, they are waiting to board the plane.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        72.0,
+        513.5,
+        478.37,
+        526.75
+      ]
+    },
+    {
+      "id": "class8-english-p072-l022",
+      "lineNumber": 22,
+      "text": "Mita, Zara and her parents board the plane after their row number is announced.",
+      "cleanText": "Mita, Zara and her parents board the plane after their row number is announced.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        71.42,
+        537.41,
+        486.14,
+        549.5
+      ]
+    },
+    {
+      "id": "class8-english-p072-l023",
+      "lineNumber": 23,
+      "text": "Mita gets a window seat. Her seat number is F23 C. Zara sits beside her on an",
+      "cleanText": "Mita gets a window seat. Her seat number is F23 C. Zara sits beside her on an",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.24,
+      "bbox": [
+        72.0,
+        553.54,
+        482.98,
+        565.63
+      ]
+    },
+    {
+      "id": "class8-english-p072-l024",
+      "lineNumber": 24,
+      "text": "isle seat and her parents sit behind them.",
+      "cleanText": "isle seat and her parents sit behind them.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.12,
+      "bbox": [
+        72.0,
+        569.09,
+        282.24,
+        581.47
+      ]
+    },
+    {
+      "id": "class8-english-p072-l025",
+      "lineNumber": 25,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        71.14,
+        591.55,
+        129.02,
+        602.78
+      ]
+    },
+    {
+      "id": "class8-english-p072-l026",
+      "lineNumber": 26,
+      "text": "1. Who has a small lip gel in the hand luggage?",
+      "cleanText": "1. Who has a small lip gel in the hand luggage?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.82,
+      "bbox": [
+        93.02,
+        611.42,
+        340.99,
+        623.52
+      ]
+    },
+    {
+      "id": "class8-english-p072-l027",
+      "lineNumber": 27,
+      "text": "S 2. How much liquid or gel is allowed to carry in hand luggage?",
+      "cleanText": "S 2. How much liquid or gel is allowed to carry in hand luggage?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.29,
+      "bbox": [
+        37.44,
+        630.43,
+        421.63,
+        646.56
+      ]
+    },
+    {
+      "id": "class8-english-p072-l028",
+      "lineNumber": 28,
+      "text": "S",
+      "cleanText": "S",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 58.0,
+      "bbox": [
+        37.44,
+        646.85,
+        45.79,
+        652.03
+      ]
+    },
+    {
+      "id": "class8-english-p072-l029",
+      "lineNumber": 29,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 83.0,
+      "bbox": [
+        37.44,
+        653.18,
+        45.5,
+        658.66
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p072-l001",
+      "lineNumber": 1,
+      "text": "Going on a Trip 67",
+      "cleanText": "Going on a Trip 67",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.2,
+      "bbox": [
+        67.1,
+        48.1,
+        479.23,
+        59.04
+      ]
+    },
+    {
+      "id": "class8-english-p072-l002",
+      "lineNumber": 2,
+      "text": "1 Are you travelling alone? 1 No. I’m travelling with my aunt,",
+      "cleanText": "1 Are you travelling alone? 1 No. I’m travelling with my aunt,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.83,
+      "bbox": [
+        75.74,
+        111.46,
+        477.22,
+        123.26
+      ]
+    },
+    {
+      "id": "class8-english-p072-l003",
+      "lineNumber": 3,
+      "text": "2 uncle and cousin.",
+      "cleanText": "2 uncle and cousin.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.75,
+      "bbox": [
+        74.59,
+        127.01,
+        403.49,
+        142.56
+      ]
+    },
+    {
+      "id": "class8-english-p072-l007",
+      "lineNumber": 7,
+      "text": "e e",
+      "cleanText": "e e",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 40.0,
+      "bbox": [
+        72.86,
+        206.5,
+        305.86,
+        212.54
+      ]
+    },
+    {
+      "id": "class8-english-p072-l008",
+      "lineNumber": 8,
+      "text": "D. Now, work in pairs and act out the role of Mita and the immigration officer.",
+      "cleanText": "D. Now, work in pairs and act out the role of Mita and the immigration officer.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        68.83,
+        238.46,
+        481.25,
+        250.85
+      ]
+    },
+    {
+      "id": "class8-english-p072-l009",
+      "lineNumber": 9,
+      "text": "E. What are the three things needed at immigration?",
+      "cleanText": "E. What are the three things needed at immigration?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        69.12,
+        263.81,
+        388.51,
+        277.06
+      ]
+    },
+    {
+      "id": "class8-english-p072-l010",
+      "lineNumber": 10,
+      "text": "Lesson 4: Boarding the Plane",
+      "cleanText": "Lesson 4: Boarding the Plane",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        67.68,
+        307.58,
+        316.8,
+        325.44
+      ]
+    },
+    {
+      "id": "class8-english-p072-l011",
+      "lineNumber": 11,
+      "text": "Keywords: seize, enclosed, formality, gel",
+      "cleanText": "Keywords: seize, enclosed, formality, gel",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        70.27,
+        340.42,
+        298.66,
+        352.8
+      ]
+    },
+    {
+      "id": "class8-english-p072-l012",
+      "lineNumber": 12,
+      "text": "A. Read the text and answer the following questions.",
+      "cleanText": "A. Read the text and answer the following questions.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        70.85,
+        362.59,
+        383.9,
+        375.84
+      ]
+    },
+    {
+      "id": "class8-english-p072-l013",
+      "lineNumber": 13,
+      "text": "Mita, Zara, Mr.and Mrs, Islam all sit at the lounge. They all have hand luggage",
+      "cleanText": "Mita, Zara, Mr.and Mrs, Islam all sit at the lounge. They all have hand luggage",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.13,
+      "bbox": [
+        70.85,
+        386.5,
+        484.99,
+        398.59
+      ]
+    },
+    {
+      "id": "class8-english-p072-l014",
+      "lineNumber": 14,
+      "text": "with them. Mr. Islam asks, “ Mita, Zara, are you two carrying any liquid,",
+      "cleanText": "with them. Mr. Islam asks, “ Mita, Zara, are you two carrying any liquid,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.86,
+      "bbox": [
+        71.14,
+        402.62,
+        485.57,
+        414.72
+      ]
+    },
+    {
+      "id": "class8-english-p072-l015",
+      "lineNumber": 15,
+      "text": "lotion, gel or cream in your carry-on luggage?” “I have a small lip gel in it.",
+      "cleanText": "lotion, gel or cream in your carry-on luggage?” “I have a small lip gel in it.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        70.56,
+        418.46,
+        485.86,
+        430.56
+      ]
+    },
+    {
+      "id": "class8-english-p072-l016",
+      "lineNumber": 16,
+      "text": "Why uncle?” “Well, if it is avery small one, there is no problem. But if you’ve",
+      "cleanText": "Why uncle?” “Well, if it is avery small one, there is no problem. But if you’ve",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.06,
+      "bbox": [
+        70.56,
+        434.59,
+        487.87,
+        446.69
+      ]
+    },
+    {
+      "id": "class8-english-p072-l017",
+      "lineNumber": 17,
+      "text": "more than 100 ml, you have to put it in the checked-in luggage. These are not",
+      "cleanText": "more than 100 ml, you have to put it in the checked-in luggage. These are not",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.25,
+      "bbox": [
+        71.14,
+        450.43,
+        485.28,
+        462.53
+      ]
+    },
+    {
+      "id": "class8-english-p072-l018",
+      "lineNumber": 18,
+      "text": "allowed on board in hand luggage. For security reasons, the officials who do the",
+      "cleanText": "allowed on board in hand luggage. For security reasons, the officials who do the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.07,
+      "bbox": [
+        71.71,
+        466.56,
+        485.86,
+        478.66
+      ]
+    },
+    {
+      "id": "class8-english-p072-l019",
+      "lineNumber": 19,
+      "text": "baggage checking will seize and throw them away”. Mita, Zara, Jhuma Islam",
+      "cleanText": "baggage checking will seize and throw them away”. Mita, Zara, Jhuma Islam",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.42,
+      "bbox": [
+        71.14,
+        481.54,
+        484.99,
+        494.78
+      ]
+    },
+    {
+      "id": "class8-english-p072-l020",
+      "lineNumber": 20,
+      "text": "and Mazharul Islam go through the security checking and wait in the enclosed",
+      "cleanText": "and Mazharul Islam go through the security checking and wait in the enclosed",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.23,
+      "bbox": [
+        70.85,
+        498.53,
+        486.14,
+        510.62
+      ]
+    },
+    {
+      "id": "class8-english-p072-l021",
+      "lineNumber": 21,
+      "text": "area. All the formalities are done. Now, they are waiting to board the plane.",
+      "cleanText": "area. All the formalities are done. Now, they are waiting to board the plane.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        72.0,
+        513.5,
+        478.37,
+        526.75
+      ]
+    },
+    {
+      "id": "class8-english-p072-l022",
+      "lineNumber": 22,
+      "text": "Mita, Zara and her parents board the plane after their row number is announced.",
+      "cleanText": "Mita, Zara and her parents board the plane after their row number is announced.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        71.42,
+        537.41,
+        486.14,
+        549.5
+      ]
+    },
+    {
+      "id": "class8-english-p072-l023",
+      "lineNumber": 23,
+      "text": "Mita gets a window seat. Her seat number is F23 C. Zara sits beside her on an",
+      "cleanText": "Mita gets a window seat. Her seat number is F23 C. Zara sits beside her on an",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.24,
+      "bbox": [
+        72.0,
+        553.54,
+        482.98,
+        565.63
+      ]
+    },
+    {
+      "id": "class8-english-p072-l024",
+      "lineNumber": 24,
+      "text": "isle seat and her parents sit behind them.",
+      "cleanText": "isle seat and her parents sit behind them.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.12,
+      "bbox": [
+        72.0,
+        569.09,
+        282.24,
+        581.47
+      ]
+    },
+    {
+      "id": "class8-english-p072-l025",
+      "lineNumber": 25,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        71.14,
+        591.55,
+        129.02,
+        602.78
+      ]
+    },
+    {
+      "id": "class8-english-p072-l026",
+      "lineNumber": 26,
+      "text": "1. Who has a small lip gel in the hand luggage?",
+      "cleanText": "1. Who has a small lip gel in the hand luggage?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.82,
+      "bbox": [
+        93.02,
+        611.42,
+        340.99,
+        623.52
+      ]
+    },
+    {
+      "id": "class8-english-p072-l027",
+      "lineNumber": 27,
+      "text": "S 2. How much liquid or gel is allowed to carry in hand luggage?",
+      "cleanText": "S 2. How much liquid or gel is allowed to carry in hand luggage?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.29,
+      "bbox": [
+        37.44,
+        630.43,
+        421.63,
+        646.56
+      ]
+    }
+  ],
+  "lineCount": 29,
+  "aiReadyLineCount": 24,
+  "averageConfidence": 90.21,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:17:38.295504+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

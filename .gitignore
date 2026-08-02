@@ -49,3 +49,11 @@ backups/
 install-*.ps1
 fix-*.ps1
 public/ocr/books/
+
+# Allow deployable Class 8 OCR pages
+!public/ocr/
+!public/ocr/books/
+!public/ocr/books/class8-english/
+!public/ocr/books/class8-english/pages/
+!public/ocr/books/class8-english/pages/*.json
+!public/ocr/books/class8-english/class8_ocr_run_summary.json

@@ -1,0 +1,927 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 59,
+  "pdfPage": 59,
+  "textbookPage": 59,
+  "width": 547.47,
+  "height": 709.46,
+  "image": "../images/page-059.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "54 English For Today\n5. Why did the bears thrive on the uninhabited island?\na) They were provided food by local people.\nb) They found an ideal climate and environment.\nc) They returned to the circus regularly.\nd) They learned to fish from local animals.\n6. How long after the circus incident did scientists discover the bears again?\na) 20 years b) 50 years\nc) 70 years d) 100 years\n7. What unusual discovery did scientists make about the descendants of the original bears?\na) They had become smaller in size.\nb) They performed circus tricks naturally.\nc) They had developed new hunting techniques.\nd) They had become nocturnal.\n8. The bears gather to dance on nights with a full moon—\na) on the shore by the ocean b) in the forest near their dens\nc) ina crater left by a meteorite d) on a mountain peak\n9. What feature makes the crater where the bears dance unique?\na) It is covered with trees and flowers. _b) Its walls are chalk white and reflective.\nc) It is filled with water and fish. d) It is surrounded by glaciers.\n10. What, speculated by scientists, reminds the bear of their circus days?\na) the sound of the wind\nb) the presence of other animals\nc) the full moon, which resembles the spotlight\nd) the shape of the island\nLesson 4: The Farming Teacher\nA. Talk about the picture and answer the questions:\naw sme at:\nss EY\n“ i “aa: E -: e “Ts",
+  "cleanText": "54 English For Today 5. Why did the bears thrive on the uninhabited island? a) They were provided food by local people. b) They found an ideal climate and environment. c) They returned to the circus regularly. d) They learned to fish from local animals. 6. How long after the circus incident did scientists discover the bears again? a) 20 years b) 50 years c) 70 years d) 100 years 7. What unusual discovery did scientists make about the descendants of the original bears? a) They had become smaller in size. b) They performed circus tricks naturally. c) They had developed new hunting techniques. d) They had become nocturnal. 8. The bears gather to dance on nights with a full moon— a) on the shore by the ocean b) in the forest near their dens c) ina crater left by a meteorite d) on a mountain peak 9. What feature makes the crater where the bears dance unique? a) It is covered with trees and flowers. _b) Its walls are chalk white and reflective. c) It is filled with water and fish. d) It is surrounded by glaciers. 10. What, speculated by scientists, reminds the bear of their circus days? a) the sound of the wind b) the presence of other animals c) the full moon, which resembles the spotlight d) the shape of the island Lesson 4: The Farming Teacher A. Talk about the picture and answer the questions: aw sme at: ss EY “ i “aa: E -: e “Ts",
+  "aiReadyText": "54 English For Today 5. Why did the bears thrive on the uninhabited island? a) They were provided food by local people. b) They found an ideal climate and environment. c) They returned to the circus regularly. d) They learned to fish from local animals. 6. How long after the circus incident did scientists discover the bears again? a) 20 years b) 50 years c) 70 years d) 100 years 7. What unusual discovery did scientists make about the descendants of the original bears? a) They had become smaller in size. b) They performed circus tricks naturally. c) They had developed new hunting techniques. d) They had become nocturnal. 8. The bears gather to dance on nights with a full moon— a) on the shore by the ocean b) in the forest near their dens c) ina crater left by a meteorite d) on a mountain peak 9. What feature makes the crater where the bears dance unique? a) It is covered with trees and flowers. _b) Its walls are chalk white and reflective. c) It is filled with water and fish. d) It is surrounded by glaciers. 10. What, speculated by scientists, reminds the bear of their circus days? a) the sound of the wind b) the presence of other animals c) the full moon, which resembles the spotlight d) the shape of the island Lesson 4: The Farming Teacher A. Talk about the picture and answer the questions: aw sme at: ss EY “ i “aa: E -: e “Ts",
+  "lines": [
+    {
+      "id": "class8-english-p059-l001",
+      "lineNumber": 1,
+      "text": "54 English For Today",
+      "cleanText": "54 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        68.54,
+        50.69,
+        480.67,
+        61.63
+      ]
+    },
+    {
+      "id": "class8-english-p059-l002",
+      "lineNumber": 2,
+      "text": "5. Why did the bears thrive on the uninhabited island?",
+      "cleanText": "5. Why did the bears thrive on the uninhabited island?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        68.54,
+        70.56,
+        349.06,
+        82.37
+      ]
+    },
+    {
+      "id": "class8-english-p059-l003",
+      "lineNumber": 3,
+      "text": "a) They were provided food by local people.",
+      "cleanText": "a) They were provided food by local people.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        81.22,
+        85.82,
+        311.33,
+        98.5
+      ]
+    },
+    {
+      "id": "class8-english-p059-l004",
+      "lineNumber": 4,
+      "text": "b) They found an ideal climate and environment.",
+      "cleanText": "b) They found an ideal climate and environment.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        80.93,
+        102.53,
+        334.08,
+        114.34
+      ]
+    },
+    {
+      "id": "class8-english-p059-l005",
+      "lineNumber": 5,
+      "text": "c) They returned to the circus regularly.",
+      "cleanText": "c) They returned to the circus regularly.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        81.22,
+        118.66,
+        285.7,
+        130.46
+      ]
+    },
+    {
+      "id": "class8-english-p059-l006",
+      "lineNumber": 6,
+      "text": "d) They learned to fish from local animals.",
+      "cleanText": "d) They learned to fish from local animals.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        81.22,
+        134.5,
+        301.54,
+        146.3
+      ]
+    },
+    {
+      "id": "class8-english-p059-l007",
+      "lineNumber": 7,
+      "text": "6. How long after the circus incident did scientists discover the bears again?",
+      "cleanText": "6. How long after the circus incident did scientists discover the bears again?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        66.24,
+        157.25,
+        479.23,
+        169.06
+      ]
+    },
+    {
+      "id": "class8-english-p059-l008",
+      "lineNumber": 8,
+      "text": "a) 20 years b) 50 years",
+      "cleanText": "a) 20 years b) 50 years",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        79.2,
+        171.65,
+        347.04,
+        183.46
+      ]
+    },
+    {
+      "id": "class8-english-p059-l009",
+      "lineNumber": 9,
+      "text": "c) 70 years d) 100 years",
+      "cleanText": "c) 70 years d) 100 years",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.83,
+      "bbox": [
+        79.2,
+        186.05,
+        353.66,
+        198.14
+      ]
+    },
+    {
+      "id": "class8-english-p059-l010",
+      "lineNumber": 10,
+      "text": "7. What unusual discovery did scientists make about the descendants of the original bears?",
+      "cleanText": "7. What unusual discovery did scientists make about the descendants of the original bears?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.07,
+      "bbox": [
+        66.24,
+        202.75,
+        479.23,
+        214.56
+      ]
+    },
+    {
+      "id": "class8-english-p059-l011",
+      "lineNumber": 11,
+      "text": "a) They had become smaller in size.",
+      "cleanText": "a) They had become smaller in size.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.43,
+      "bbox": [
+        79.2,
+        217.15,
+        264.96,
+        228.96
+      ]
+    },
+    {
+      "id": "class8-english-p059-l012",
+      "lineNumber": 12,
+      "text": "b) They performed circus tricks naturally.",
+      "cleanText": "b) They performed circus tricks naturally.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        78.91,
+        231.55,
+        294.34,
+        243.36
+      ]
+    },
+    {
+      "id": "class8-english-p059-l013",
+      "lineNumber": 13,
+      "text": "c) They had developed new hunting techniques.",
+      "cleanText": "c) They had developed new hunting techniques.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.29,
+      "bbox": [
+        79.2,
+        246.24,
+        326.02,
+        258.05
+      ]
+    },
+    {
+      "id": "class8-english-p059-l014",
+      "lineNumber": 14,
+      "text": "d) They had become nocturnal.",
+      "cleanText": "d) They had become nocturnal.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.8,
+      "bbox": [
+        79.2,
+        260.64,
+        239.62,
+        272.45
+      ]
+    },
+    {
+      "id": "class8-english-p059-l015",
+      "lineNumber": 15,
+      "text": "8. The bears gather to dance on nights with a full moon—",
+      "cleanText": "8. The bears gather to dance on nights with a full moon—",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        66.24,
+        277.34,
+        378.72,
+        288.86
+      ]
+    },
+    {
+      "id": "class8-english-p059-l016",
+      "lineNumber": 16,
+      "text": "a) on the shore by the ocean b) in the forest near their dens",
+      "cleanText": "a) on the shore by the ocean b) in the forest near their dens",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        79.2,
+        291.74,
+        446.11,
+        303.55
+      ]
+    },
+    {
+      "id": "class8-english-p059-l017",
+      "lineNumber": 17,
+      "text": "c) ina crater left by a meteorite d) on a mountain peak",
+      "cleanText": "c) ina crater left by a meteorite d) on a mountain peak",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.58,
+      "bbox": [
+        79.2,
+        306.14,
+        405.79,
+        317.95
+      ]
+    },
+    {
+      "id": "class8-english-p059-l018",
+      "lineNumber": 18,
+      "text": "9. What feature makes the crater where the bears dance unique?",
+      "cleanText": "9. What feature makes the crater where the bears dance unique?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.55,
+      "bbox": [
+        66.24,
+        322.85,
+        422.78,
+        334.37
+      ]
+    },
+    {
+      "id": "class8-english-p059-l019",
+      "lineNumber": 19,
+      "text": "a) It is covered with trees and flowers. _b) Its walls are chalk white and reflective.",
+      "cleanText": "a) It is covered with trees and flowers. _b) Its walls are chalk white and reflective.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.06,
+      "bbox": [
+        79.2,
+        337.25,
+        482.11,
+        348.77
+      ]
+    },
+    {
+      "id": "class8-english-p059-l020",
+      "lineNumber": 20,
+      "text": "c) It is filled with water and fish. d) It is surrounded by glaciers.",
+      "cleanText": "c) It is filled with water and fish. d) It is surrounded by glaciers.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.43,
+      "bbox": [
+        79.2,
+        351.65,
+        447.55,
+        363.46
+      ]
+    },
+    {
+      "id": "class8-english-p059-l021",
+      "lineNumber": 21,
+      "text": "10. What, speculated by scientists, reminds the bear of their circus days?",
+      "cleanText": "10. What, speculated by scientists, reminds the bear of their circus days?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        66.82,
+        374.11,
+        465.12,
+        385.63
+      ]
+    },
+    {
+      "id": "class8-english-p059-l022",
+      "lineNumber": 22,
+      "text": "a) the sound of the wind",
+      "cleanText": "a) the sound of the wind",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        79.2,
+        394.56,
+        209.09,
+        406.37
+      ]
+    },
+    {
+      "id": "class8-english-p059-l023",
+      "lineNumber": 23,
+      "text": "b) the presence of other animals",
+      "cleanText": "b) the presence of other animals",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        78.91,
+        409.25,
+        249.12,
+        421.06
+      ]
+    },
+    {
+      "id": "class8-english-p059-l024",
+      "lineNumber": 24,
+      "text": "c) the full moon, which resembles the spotlight",
+      "cleanText": "c) the full moon, which resembles the spotlight",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        79.2,
+        423.65,
+        327.74,
+        435.46
+      ]
+    },
+    {
+      "id": "class8-english-p059-l025",
+      "lineNumber": 25,
+      "text": "d) the shape of the island",
+      "cleanText": "d) the shape of the island",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        79.2,
+        438.05,
+        213.41,
+        449.86
+      ]
+    },
+    {
+      "id": "class8-english-p059-l026",
+      "lineNumber": 26,
+      "text": "Lesson 4: The Farming Teacher",
+      "cleanText": "Lesson 4: The Farming Teacher",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        67.39,
+        462.53,
+        311.04,
+        478.66
+      ]
+    },
+    {
+      "id": "class8-english-p059-l027",
+      "lineNumber": 27,
+      "text": "A. Talk about the picture and answer the questions:",
+      "cleanText": "A. Talk about the picture and answer the questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.22,
+      "bbox": [
+        67.68,
+        482.69,
+        336.96,
+        493.63
+      ]
+    },
+    {
+      "id": "class8-english-p059-l028",
+      "lineNumber": 28,
+      "text": "aw sme at:",
+      "cleanText": "aw sme at:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 26.67,
+      "bbox": [
+        217.15,
+        564.77,
+        385.34,
+        591.84
+      ]
+    },
+    {
+      "id": "class8-english-p059-l029",
+      "lineNumber": 29,
+      "text": "ss EY",
+      "cleanText": "ss EY",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 7.0,
+      "bbox": [
+        218.3,
+        583.78,
+        384.19,
+        601.92
+      ]
+    },
+    {
+      "id": "class8-english-p059-l030",
+      "lineNumber": 30,
+      "text": "“ i “aa: E -: e “Ts",
+      "cleanText": "“ i “aa: E -: e “Ts",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 29.25,
+      "bbox": [
+        212.26,
+        595.87,
+        384.19,
+        609.7
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p059-l001",
+      "lineNumber": 1,
+      "text": "54 English For Today",
+      "cleanText": "54 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        68.54,
+        50.69,
+        480.67,
+        61.63
+      ]
+    },
+    {
+      "id": "class8-english-p059-l002",
+      "lineNumber": 2,
+      "text": "5. Why did the bears thrive on the uninhabited island?",
+      "cleanText": "5. Why did the bears thrive on the uninhabited island?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        68.54,
+        70.56,
+        349.06,
+        82.37
+      ]
+    },
+    {
+      "id": "class8-english-p059-l003",
+      "lineNumber": 3,
+      "text": "a) They were provided food by local people.",
+      "cleanText": "a) They were provided food by local people.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        81.22,
+        85.82,
+        311.33,
+        98.5
+      ]
+    },
+    {
+      "id": "class8-english-p059-l004",
+      "lineNumber": 4,
+      "text": "b) They found an ideal climate and environment.",
+      "cleanText": "b) They found an ideal climate and environment.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        80.93,
+        102.53,
+        334.08,
+        114.34
+      ]
+    },
+    {
+      "id": "class8-english-p059-l005",
+      "lineNumber": 5,
+      "text": "c) They returned to the circus regularly.",
+      "cleanText": "c) They returned to the circus regularly.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        81.22,
+        118.66,
+        285.7,
+        130.46
+      ]
+    },
+    {
+      "id": "class8-english-p059-l006",
+      "lineNumber": 6,
+      "text": "d) They learned to fish from local animals.",
+      "cleanText": "d) They learned to fish from local animals.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        81.22,
+        134.5,
+        301.54,
+        146.3
+      ]
+    },
+    {
+      "id": "class8-english-p059-l007",
+      "lineNumber": 7,
+      "text": "6. How long after the circus incident did scientists discover the bears again?",
+      "cleanText": "6. How long after the circus incident did scientists discover the bears again?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.85,
+      "bbox": [
+        66.24,
+        157.25,
+        479.23,
+        169.06
+      ]
+    },
+    {
+      "id": "class8-english-p059-l008",
+      "lineNumber": 8,
+      "text": "a) 20 years b) 50 years",
+      "cleanText": "a) 20 years b) 50 years",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        79.2,
+        171.65,
+        347.04,
+        183.46
+      ]
+    },
+    {
+      "id": "class8-english-p059-l009",
+      "lineNumber": 9,
+      "text": "c) 70 years d) 100 years",
+      "cleanText": "c) 70 years d) 100 years",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.83,
+      "bbox": [
+        79.2,
+        186.05,
+        353.66,
+        198.14
+      ]
+    },
+    {
+      "id": "class8-english-p059-l010",
+      "lineNumber": 10,
+      "text": "7. What unusual discovery did scientists make about the descendants of the original bears?",
+      "cleanText": "7. What unusual discovery did scientists make about the descendants of the original bears?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.07,
+      "bbox": [
+        66.24,
+        202.75,
+        479.23,
+        214.56
+      ]
+    },
+    {
+      "id": "class8-english-p059-l011",
+      "lineNumber": 11,
+      "text": "a) They had become smaller in size.",
+      "cleanText": "a) They had become smaller in size.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.43,
+      "bbox": [
+        79.2,
+        217.15,
+        264.96,
+        228.96
+      ]
+    },
+    {
+      "id": "class8-english-p059-l012",
+      "lineNumber": 12,
+      "text": "b) They performed circus tricks naturally.",
+      "cleanText": "b) They performed circus tricks naturally.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        78.91,
+        231.55,
+        294.34,
+        243.36
+      ]
+    },
+    {
+      "id": "class8-english-p059-l013",
+      "lineNumber": 13,
+      "text": "c) They had developed new hunting techniques.",
+      "cleanText": "c) They had developed new hunting techniques.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.29,
+      "bbox": [
+        79.2,
+        246.24,
+        326.02,
+        258.05
+      ]
+    },
+    {
+      "id": "class8-english-p059-l014",
+      "lineNumber": 14,
+      "text": "d) They had become nocturnal.",
+      "cleanText": "d) They had become nocturnal.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.8,
+      "bbox": [
+        79.2,
+        260.64,
+        239.62,
+        272.45
+      ]
+    },
+    {
+      "id": "class8-english-p059-l015",
+      "lineNumber": 15,
+      "text": "8. The bears gather to dance on nights with a full moon—",
+      "cleanText": "8. The bears gather to dance on nights with a full moon—",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        66.24,
+        277.34,
+        378.72,
+        288.86
+      ]
+    },
+    {
+      "id": "class8-english-p059-l016",
+      "lineNumber": 16,
+      "text": "a) on the shore by the ocean b) in the forest near their dens",
+      "cleanText": "a) on the shore by the ocean b) in the forest near their dens",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.64,
+      "bbox": [
+        79.2,
+        291.74,
+        446.11,
+        303.55
+      ]
+    },
+    {
+      "id": "class8-english-p059-l017",
+      "lineNumber": 17,
+      "text": "c) ina crater left by a meteorite d) on a mountain peak",
+      "cleanText": "c) ina crater left by a meteorite d) on a mountain peak",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.58,
+      "bbox": [
+        79.2,
+        306.14,
+        405.79,
+        317.95
+      ]
+    },
+    {
+      "id": "class8-english-p059-l018",
+      "lineNumber": 18,
+      "text": "9. What feature makes the crater where the bears dance unique?",
+      "cleanText": "9. What feature makes the crater where the bears dance unique?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.55,
+      "bbox": [
+        66.24,
+        322.85,
+        422.78,
+        334.37
+      ]
+    },
+    {
+      "id": "class8-english-p059-l019",
+      "lineNumber": 19,
+      "text": "a) It is covered with trees and flowers. _b) Its walls are chalk white and reflective.",
+      "cleanText": "a) It is covered with trees and flowers. _b) Its walls are chalk white and reflective.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.06,
+      "bbox": [
+        79.2,
+        337.25,
+        482.11,
+        348.77
+      ]
+    },
+    {
+      "id": "class8-english-p059-l020",
+      "lineNumber": 20,
+      "text": "c) It is filled with water and fish. d) It is surrounded by glaciers.",
+      "cleanText": "c) It is filled with water and fish. d) It is surrounded by glaciers.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.43,
+      "bbox": [
+        79.2,
+        351.65,
+        447.55,
+        363.46
+      ]
+    },
+    {
+      "id": "class8-english-p059-l021",
+      "lineNumber": 21,
+      "text": "10. What, speculated by scientists, reminds the bear of their circus days?",
+      "cleanText": "10. What, speculated by scientists, reminds the bear of their circus days?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        66.82,
+        374.11,
+        465.12,
+        385.63
+      ]
+    },
+    {
+      "id": "class8-english-p059-l022",
+      "lineNumber": 22,
+      "text": "a) the sound of the wind",
+      "cleanText": "a) the sound of the wind",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        79.2,
+        394.56,
+        209.09,
+        406.37
+      ]
+    },
+    {
+      "id": "class8-english-p059-l023",
+      "lineNumber": 23,
+      "text": "b) the presence of other animals",
+      "cleanText": "b) the presence of other animals",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        78.91,
+        409.25,
+        249.12,
+        421.06
+      ]
+    },
+    {
+      "id": "class8-english-p059-l024",
+      "lineNumber": 24,
+      "text": "c) the full moon, which resembles the spotlight",
+      "cleanText": "c) the full moon, which resembles the spotlight",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        79.2,
+        423.65,
+        327.74,
+        435.46
+      ]
+    },
+    {
+      "id": "class8-english-p059-l025",
+      "lineNumber": 25,
+      "text": "d) the shape of the island",
+      "cleanText": "d) the shape of the island",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        79.2,
+        438.05,
+        213.41,
+        449.86
+      ]
+    },
+    {
+      "id": "class8-english-p059-l026",
+      "lineNumber": 26,
+      "text": "Lesson 4: The Farming Teacher",
+      "cleanText": "Lesson 4: The Farming Teacher",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        67.39,
+        462.53,
+        311.04,
+        478.66
+      ]
+    },
+    {
+      "id": "class8-english-p059-l027",
+      "lineNumber": 27,
+      "text": "A. Talk about the picture and answer the questions:",
+      "cleanText": "A. Talk about the picture and answer the questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.22,
+      "bbox": [
+        67.68,
+        482.69,
+        336.96,
+        493.63
+      ]
+    },
+    {
+      "id": "class8-english-p059-l028",
+      "lineNumber": 28,
+      "text": "aw sme at:",
+      "cleanText": "aw sme at:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 26.67,
+      "bbox": [
+        217.15,
+        564.77,
+        385.34,
+        591.84
+      ]
+    },
+    {
+      "id": "class8-english-p059-l029",
+      "lineNumber": 29,
+      "text": "ss EY",
+      "cleanText": "ss EY",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 7.0,
+      "bbox": [
+        218.3,
+        583.78,
+        384.19,
+        601.92
+      ]
+    },
+    {
+      "id": "class8-english-p059-l030",
+      "lineNumber": 30,
+      "text": "“ i “aa: E -: e “Ts",
+      "cleanText": "“ i “aa: E -: e “Ts",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 29.25,
+      "bbox": [
+        212.26,
+        595.87,
+        384.19,
+        609.7
+      ]
+    }
+  ],
+  "lineCount": 30,
+  "aiReadyLineCount": 30,
+  "averageConfidence": 87.56,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:17:13.877611+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

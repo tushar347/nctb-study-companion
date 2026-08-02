@@ -1,0 +1,537 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 145,
+  "pdfPage": 145,
+  "textbookPage": 145,
+  "width": 548.0,
+  "height": 706.0,
+  "image": "../images/page-145.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "140 English For Today\nC. Match the correct element with its appropriate description:\nD. Answer to the following questions:\n1. What problem is the crow facing at the beginning of the story?\n2. What advice does Grandpa give the crow to get the water from the\nbottle?\n3. Why does the crow decide not to use pebbles to raise the water in\nthe bottle?\n4. How does the crow eventually solve the problem of drinking\nwater from the bottle?\n5. What does the crow learn about solving problems by the end of\nthe story?\nE. Have you read the original fable about the thirsty crow?\nDiscuss with in groups what changes that the writer has made here:\nF. Choose a fable that you like and retell the story using the\ncurrent context. Then, share it with the class:\nS\nq",
+  "cleanText": "140 English For Today C. Match the correct element with its appropriate description: D. Answer to the following questions: 1. What problem is the crow facing at the beginning of the story? 2. What advice does Grandpa give the crow to get the water from the bottle? 3. Why does the crow decide not to use pebbles to raise the water in the bottle? 4. How does the crow eventually solve the problem of drinking water from the bottle? 5. What does the crow learn about solving problems by the end of the story? E. Have you read the original fable about the thirsty crow? Discuss with in groups what changes that the writer has made here: F. Choose a fable that you like and retell the story using the current context. Then, share it with the class: S q",
+  "aiReadyText": "140 English For Today C. Match the correct element with its appropriate description: D. Answer to the following questions: 1. What problem is the crow facing at the beginning of the story? 2. What advice does Grandpa give the crow to get the water from the bottle? 3. Why does the crow decide not to use pebbles to raise the water in the bottle? 4. How does the crow eventually solve the problem of drinking water from the bottle? 5. What does the crow learn about solving problems by the end of the story? E. Have you read the original fable about the thirsty crow? Discuss with in groups what changes that the writer has made here: F. Choose a fable that you like and retell the story using the current context. Then, share it with the class:",
+  "lines": [
+    {
+      "id": "class8-english-p145-l001",
+      "lineNumber": 1,
+      "text": "140 English For Today",
+      "cleanText": "140 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        70.56,
+        47.81,
+        484.99,
+        58.75
+      ]
+    },
+    {
+      "id": "class8-english-p145-l002",
+      "lineNumber": 2,
+      "text": "C. Match the correct element with its appropriate description:",
+      "cleanText": "C. Match the correct element with its appropriate description:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.22,
+      "bbox": [
+        69.98,
+        79.49,
+        442.08,
+        91.87
+      ]
+    },
+    {
+      "id": "class8-english-p145-l003",
+      "lineNumber": 3,
+      "text": "D. Answer to the following questions:",
+      "cleanText": "D. Answer to the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        69.7,
+        324.0,
+        294.62,
+        336.67
+      ]
+    },
+    {
+      "id": "class8-english-p145-l004",
+      "lineNumber": 4,
+      "text": "1. What problem is the crow facing at the beginning of the story?",
+      "cleanText": "1. What problem is the crow facing at the beginning of the story?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.23,
+      "bbox": [
+        90.14,
+        345.02,
+        434.02,
+        357.12
+      ]
+    },
+    {
+      "id": "class8-english-p145-l005",
+      "lineNumber": 5,
+      "text": "2. What advice does Grandpa give the crow to get the water from the",
+      "cleanText": "2. What advice does Grandpa give the crow to get the water from the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        88.7,
+        360.86,
+        483.26,
+        372.67
+      ]
+    },
+    {
+      "id": "class8-english-p145-l006",
+      "lineNumber": 6,
+      "text": "bottle?",
+      "cleanText": "bottle?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        108.58,
+        376.42,
+        143.42,
+        385.63
+      ]
+    },
+    {
+      "id": "class8-english-p145-l007",
+      "lineNumber": 7,
+      "text": "3. Why does the crow decide not to use pebbles to raise the water in",
+      "cleanText": "3. Why does the crow decide not to use pebbles to raise the water in",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.87,
+      "bbox": [
+        88.99,
+        391.97,
+        483.26,
+        403.78
+      ]
+    },
+    {
+      "id": "class8-english-p145-l008",
+      "lineNumber": 8,
+      "text": "the bottle?",
+      "cleanText": "the bottle?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        108.58,
+        407.52,
+        162.43,
+        416.74
+      ]
+    },
+    {
+      "id": "class8-english-p145-l009",
+      "lineNumber": 9,
+      "text": "4. How does the crow eventually solve the problem of drinking",
+      "cleanText": "4. How does the crow eventually solve the problem of drinking",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        88.7,
+        423.07,
+        483.26,
+        434.88
+      ]
+    },
+    {
+      "id": "class8-english-p145-l010",
+      "lineNumber": 10,
+      "text": "water from the bottle?",
+      "cleanText": "water from the bottle?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        108.86,
+        438.62,
+        223.2,
+        447.84
+      ]
+    },
+    {
+      "id": "class8-english-p145-l011",
+      "lineNumber": 11,
+      "text": "5. What does the crow learn about solving problems by the end of",
+      "cleanText": "5. What does the crow learn about solving problems by the end of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        89.28,
+        454.46,
+        484.7,
+        466.27
+      ]
+    },
+    {
+      "id": "class8-english-p145-l012",
+      "lineNumber": 12,
+      "text": "the story?",
+      "cleanText": "the story?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        108.86,
+        470.02,
+        158.98,
+        481.82
+      ]
+    },
+    {
+      "id": "class8-english-p145-l013",
+      "lineNumber": 13,
+      "text": "E. Have you read the original fable about the thirsty crow?",
+      "cleanText": "E. Have you read the original fable about the thirsty crow?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.18,
+      "bbox": [
+        69.7,
+        500.83,
+        482.98,
+        513.5
+      ]
+    },
+    {
+      "id": "class8-english-p145-l014",
+      "lineNumber": 14,
+      "text": "Discuss with in groups what changes that the writer has made here:",
+      "cleanText": "Discuss with in groups what changes that the writer has made here:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        89.57,
+        517.54,
+        484.13,
+        530.21
+      ]
+    },
+    {
+      "id": "class8-english-p145-l015",
+      "lineNumber": 15,
+      "text": "F. Choose a fable that you like and retell the story using the",
+      "cleanText": "F. Choose a fable that you like and retell the story using the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.46,
+      "bbox": [
+        69.7,
+        551.23,
+        483.26,
+        563.62
+      ]
+    },
+    {
+      "id": "class8-english-p145-l016",
+      "lineNumber": 16,
+      "text": "current context. Then, share it with the class:",
+      "cleanText": "current context. Then, share it with the class:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        90.14,
+        567.94,
+        358.56,
+        579.74
+      ]
+    },
+    {
+      "id": "class8-english-p145-l017",
+      "lineNumber": 17,
+      "text": "S",
+      "cleanText": "S",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 0.0,
+      "bbox": [
+        503.42,
+        634.46,
+        511.78,
+        646.56
+      ]
+    },
+    {
+      "id": "class8-english-p145-l018",
+      "lineNumber": 18,
+      "text": "q",
+      "cleanText": "q",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 0.0,
+      "bbox": [
+        503.42,
+        646.85,
+        511.78,
+        658.66
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p145-l001",
+      "lineNumber": 1,
+      "text": "140 English For Today",
+      "cleanText": "140 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        70.56,
+        47.81,
+        484.99,
+        58.75
+      ]
+    },
+    {
+      "id": "class8-english-p145-l002",
+      "lineNumber": 2,
+      "text": "C. Match the correct element with its appropriate description:",
+      "cleanText": "C. Match the correct element with its appropriate description:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.22,
+      "bbox": [
+        69.98,
+        79.49,
+        442.08,
+        91.87
+      ]
+    },
+    {
+      "id": "class8-english-p145-l003",
+      "lineNumber": 3,
+      "text": "D. Answer to the following questions:",
+      "cleanText": "D. Answer to the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        69.7,
+        324.0,
+        294.62,
+        336.67
+      ]
+    },
+    {
+      "id": "class8-english-p145-l004",
+      "lineNumber": 4,
+      "text": "1. What problem is the crow facing at the beginning of the story?",
+      "cleanText": "1. What problem is the crow facing at the beginning of the story?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.23,
+      "bbox": [
+        90.14,
+        345.02,
+        434.02,
+        357.12
+      ]
+    },
+    {
+      "id": "class8-english-p145-l005",
+      "lineNumber": 5,
+      "text": "2. What advice does Grandpa give the crow to get the water from the",
+      "cleanText": "2. What advice does Grandpa give the crow to get the water from the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        88.7,
+        360.86,
+        483.26,
+        372.67
+      ]
+    },
+    {
+      "id": "class8-english-p145-l006",
+      "lineNumber": 6,
+      "text": "bottle?",
+      "cleanText": "bottle?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        108.58,
+        376.42,
+        143.42,
+        385.63
+      ]
+    },
+    {
+      "id": "class8-english-p145-l007",
+      "lineNumber": 7,
+      "text": "3. Why does the crow decide not to use pebbles to raise the water in",
+      "cleanText": "3. Why does the crow decide not to use pebbles to raise the water in",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.87,
+      "bbox": [
+        88.99,
+        391.97,
+        483.26,
+        403.78
+      ]
+    },
+    {
+      "id": "class8-english-p145-l008",
+      "lineNumber": 8,
+      "text": "the bottle?",
+      "cleanText": "the bottle?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        108.58,
+        407.52,
+        162.43,
+        416.74
+      ]
+    },
+    {
+      "id": "class8-english-p145-l009",
+      "lineNumber": 9,
+      "text": "4. How does the crow eventually solve the problem of drinking",
+      "cleanText": "4. How does the crow eventually solve the problem of drinking",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.82,
+      "bbox": [
+        88.7,
+        423.07,
+        483.26,
+        434.88
+      ]
+    },
+    {
+      "id": "class8-english-p145-l010",
+      "lineNumber": 10,
+      "text": "water from the bottle?",
+      "cleanText": "water from the bottle?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        108.86,
+        438.62,
+        223.2,
+        447.84
+      ]
+    },
+    {
+      "id": "class8-english-p145-l011",
+      "lineNumber": 11,
+      "text": "5. What does the crow learn about solving problems by the end of",
+      "cleanText": "5. What does the crow learn about solving problems by the end of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        89.28,
+        454.46,
+        484.7,
+        466.27
+      ]
+    },
+    {
+      "id": "class8-english-p145-l012",
+      "lineNumber": 12,
+      "text": "the story?",
+      "cleanText": "the story?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        108.86,
+        470.02,
+        158.98,
+        481.82
+      ]
+    },
+    {
+      "id": "class8-english-p145-l013",
+      "lineNumber": 13,
+      "text": "E. Have you read the original fable about the thirsty crow?",
+      "cleanText": "E. Have you read the original fable about the thirsty crow?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.18,
+      "bbox": [
+        69.7,
+        500.83,
+        482.98,
+        513.5
+      ]
+    },
+    {
+      "id": "class8-english-p145-l014",
+      "lineNumber": 14,
+      "text": "Discuss with in groups what changes that the writer has made here:",
+      "cleanText": "Discuss with in groups what changes that the writer has made here:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        89.57,
+        517.54,
+        484.13,
+        530.21
+      ]
+    },
+    {
+      "id": "class8-english-p145-l015",
+      "lineNumber": 15,
+      "text": "F. Choose a fable that you like and retell the story using the",
+      "cleanText": "F. Choose a fable that you like and retell the story using the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.46,
+      "bbox": [
+        69.7,
+        551.23,
+        483.26,
+        563.62
+      ]
+    },
+    {
+      "id": "class8-english-p145-l016",
+      "lineNumber": 16,
+      "text": "current context. Then, share it with the class:",
+      "cleanText": "current context. Then, share it with the class:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        90.14,
+        567.94,
+        358.56,
+        579.74
+      ]
+    }
+  ],
+  "lineCount": 18,
+  "aiReadyLineCount": 16,
+  "averageConfidence": 84.94,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:19:26.873322+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

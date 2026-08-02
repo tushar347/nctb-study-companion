@@ -1,0 +1,552 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 128,
+  "pdfPage": 128,
+  "textbookPage": 128,
+  "width": 532.47,
+  "height": 692.96,
+  "image": "../images/page-128.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Things That Have Changed Our Lives 123\nYou find attractive ads on the websites of both Boeing and Airbus planes. Both\nhave excellent features. But in speed, neither could beat the Concorde. It is the\n‘ ie\n~ “vain = = == - z tet ceeeateiae a vgs = ——\nFOr —_—_ A\nworld’s fastest supersonic passenger aircraft. Its normal speed was 2,170 km/h.\nThe Concorde was a joint project by France and Britain. It started passenger\nflight in 1976. Unfortunately, the Concorde fleet was grounded forever in 2003\nafter a major accident.\nQuestions:\n1. Who made the first successful experiment in flying an airplane?\n2. What was the first flying machine called?\n3. What do you mean by ‘supersonic’?\n4. What was world’s fastest passenger airplane?\n‘S 5. When was Concorde fleet finally grounded?\nN\nS\nN",
+  "cleanText": "Things That Have Changed Our Lives 123 You find attractive ads on the websites of both Boeing and Airbus planes. Both have excellent features. But in speed, neither could beat the Concorde. It is the ‘ ie ~ “vain = = == - z tet ceeeateiae a vgs = —— FOr —_—_ A world’s fastest supersonic passenger aircraft. Its normal speed was 2,170 km/h. The Concorde was a joint project by France and Britain. It started passenger flight in 1976. Unfortunately, the Concorde fleet was grounded forever in 2003 after a major accident. Questions: 1. Who made the first successful experiment in flying an airplane? 2. What was the first flying machine called? 3. What do you mean by ‘supersonic’? 4. What was world’s fastest passenger airplane? ‘S 5. When was Concorde fleet finally grounded? N S N",
+  "aiReadyText": "Things That Have Changed Our Lives 123 You find attractive ads on the websites of both Boeing and Airbus planes. Both have excellent features. But in speed, neither could beat the Concorde. It is the ‘ ie ~ “vain = = == - z tet ceeeateiae a vgs = —— FOr —_—_ A world’s fastest supersonic passenger aircraft. Its normal speed was 2,170 km/h. The Concorde was a joint project by France and Britain. It started passenger flight in 1976. Unfortunately, the Concorde fleet was grounded forever in 2003 after a major accident. Questions: 1. Who made the first successful experiment in flying an airplane? 2. What was the first flying machine called? 3. What do you mean by ‘supersonic’? 4. What was world’s fastest passenger airplane? ‘S 5. When was Concorde fleet finally grounded?",
+  "lines": [
+    {
+      "id": "class8-english-p128-l001",
+      "lineNumber": 1,
+      "text": "Things That Have Changed Our Lives 123",
+      "cleanText": "Things That Have Changed Our Lives 123",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.21,
+        41.18,
+        473.47,
+        53.28
+      ]
+    },
+    {
+      "id": "class8-english-p128-l002",
+      "lineNumber": 2,
+      "text": "You find attractive ads on the websites of both Boeing and Airbus planes. Both",
+      "cleanText": "You find attractive ads on the websites of both Boeing and Airbus planes. Both",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.63,
+        70.27,
+        475.78,
+        82.08
+      ]
+    },
+    {
+      "id": "class8-english-p128-l003",
+      "lineNumber": 3,
+      "text": "have excellent features. But in speed, neither could beat the Concorde. It is the",
+      "cleanText": "have excellent features. But in speed, neither could beat the Concorde. It is the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        61.63,
+        88.13,
+        474.91,
+        99.94
+      ]
+    },
+    {
+      "id": "class8-english-p128-l004",
+      "lineNumber": 4,
+      "text": "‘ ie",
+      "cleanText": "‘ ie",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 21.0,
+      "bbox": [
+        206.78,
+        161.28,
+        252.86,
+        178.27
+      ]
+    },
+    {
+      "id": "class8-english-p128-l005",
+      "lineNumber": 5,
+      "text": "~ “vain = = == - z tet ceeeateiae a vgs = ——",
+      "cleanText": "~ “vain = = == - z tet ceeeateiae a vgs = ——",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 28.08,
+      "bbox": [
+        123.55,
+        242.5,
+        427.1,
+        256.61
+      ]
+    },
+    {
+      "id": "class8-english-p128-l006",
+      "lineNumber": 6,
+      "text": "FOr —_—_ A",
+      "cleanText": "FOr —_—_ A",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 25.33,
+      "bbox": [
+        72.58,
+        381.89,
+        415.87,
+        405.79
+      ]
+    },
+    {
+      "id": "class8-english-p128-l007",
+      "lineNumber": 7,
+      "text": "world’s fastest supersonic passenger aircraft. Its normal speed was 2,170 km/h.",
+      "cleanText": "world’s fastest supersonic passenger aircraft. Its normal speed was 2,170 km/h.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.55,
+      "bbox": [
+        61.92,
+        452.16,
+        477.5,
+        464.26
+      ]
+    },
+    {
+      "id": "class8-english-p128-l008",
+      "lineNumber": 8,
+      "text": "The Concorde was a joint project by France and Britain. It started passenger",
+      "cleanText": "The Concorde was a joint project by France and Britain. It started passenger",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.08,
+      "bbox": [
+        61.92,
+        470.02,
+        476.35,
+        482.11
+      ]
+    },
+    {
+      "id": "class8-english-p128-l009",
+      "lineNumber": 9,
+      "text": "flight in 1976. Unfortunately, the Concorde fleet was grounded forever in 2003",
+      "cleanText": "flight in 1976. Unfortunately, the Concorde fleet was grounded forever in 2003",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        61.06,
+        488.16,
+        475.49,
+        499.97
+      ]
+    },
+    {
+      "id": "class8-english-p128-l010",
+      "lineNumber": 10,
+      "text": "after a major accident.",
+      "cleanText": "after a major accident.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        61.63,
+        503.71,
+        176.54,
+        515.52
+      ]
+    },
+    {
+      "id": "class8-english-p128-l011",
+      "lineNumber": 11,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        61.92,
+        520.42,
+        120.1,
+        531.65
+      ]
+    },
+    {
+      "id": "class8-english-p128-l012",
+      "lineNumber": 12,
+      "text": "1. Who made the first successful experiment in flying an airplane?",
+      "cleanText": "1. Who made the first successful experiment in flying an airplane?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.45,
+      "bbox": [
+        83.81,
+        539.14,
+        436.03,
+        550.94
+      ]
+    },
+    {
+      "id": "class8-english-p128-l013",
+      "lineNumber": 13,
+      "text": "2. What was the first flying machine called?",
+      "cleanText": "2. What was the first flying machine called?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.12,
+      "bbox": [
+        82.37,
+        559.3,
+        319.97,
+        571.1
+      ]
+    },
+    {
+      "id": "class8-english-p128-l014",
+      "lineNumber": 14,
+      "text": "3. What do you mean by ‘supersonic’?",
+      "cleanText": "3. What do you mean by ‘supersonic’?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.57,
+      "bbox": [
+        82.66,
+        580.03,
+        291.46,
+        592.13
+      ]
+    },
+    {
+      "id": "class8-english-p128-l015",
+      "lineNumber": 15,
+      "text": "4. What was world’s fastest passenger airplane?",
+      "cleanText": "4. What was world’s fastest passenger airplane?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.29,
+      "bbox": [
+        82.37,
+        601.06,
+        339.26,
+        613.15
+      ]
+    },
+    {
+      "id": "class8-english-p128-l016",
+      "lineNumber": 16,
+      "text": "‘S 5. When was Concorde fleet finally grounded?",
+      "cleanText": "‘S 5. When was Concorde fleet finally grounded?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 83.12,
+      "bbox": [
+        34.85,
+        620.93,
+        333.5,
+        635.33
+      ]
+    },
+    {
+      "id": "class8-english-p128-l017",
+      "lineNumber": 17,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 75.0,
+      "bbox": [
+        36.0,
+        635.33,
+        44.06,
+        640.8
+      ]
+    },
+    {
+      "id": "class8-english-p128-l018",
+      "lineNumber": 18,
+      "text": "S",
+      "cleanText": "S",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 81.0,
+      "bbox": [
+        36.0,
+        640.8,
+        44.06,
+        646.27
+      ]
+    },
+    {
+      "id": "class8-english-p128-l019",
+      "lineNumber": 19,
+      "text": "N",
+      "cleanText": "N",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 29.0,
+      "bbox": [
+        36.0,
+        647.14,
+        44.06,
+        652.61
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p128-l001",
+      "lineNumber": 1,
+      "text": "Things That Have Changed Our Lives 123",
+      "cleanText": "Things That Have Changed Our Lives 123",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.21,
+        41.18,
+        473.47,
+        53.28
+      ]
+    },
+    {
+      "id": "class8-english-p128-l002",
+      "lineNumber": 2,
+      "text": "You find attractive ads on the websites of both Boeing and Airbus planes. Both",
+      "cleanText": "You find attractive ads on the websites of both Boeing and Airbus planes. Both",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.63,
+        70.27,
+        475.78,
+        82.08
+      ]
+    },
+    {
+      "id": "class8-english-p128-l003",
+      "lineNumber": 3,
+      "text": "have excellent features. But in speed, neither could beat the Concorde. It is the",
+      "cleanText": "have excellent features. But in speed, neither could beat the Concorde. It is the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        61.63,
+        88.13,
+        474.91,
+        99.94
+      ]
+    },
+    {
+      "id": "class8-english-p128-l004",
+      "lineNumber": 4,
+      "text": "‘ ie",
+      "cleanText": "‘ ie",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 21.0,
+      "bbox": [
+        206.78,
+        161.28,
+        252.86,
+        178.27
+      ]
+    },
+    {
+      "id": "class8-english-p128-l005",
+      "lineNumber": 5,
+      "text": "~ “vain = = == - z tet ceeeateiae a vgs = ——",
+      "cleanText": "~ “vain = = == - z tet ceeeateiae a vgs = ——",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 28.08,
+      "bbox": [
+        123.55,
+        242.5,
+        427.1,
+        256.61
+      ]
+    },
+    {
+      "id": "class8-english-p128-l006",
+      "lineNumber": 6,
+      "text": "FOr —_—_ A",
+      "cleanText": "FOr —_—_ A",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 25.33,
+      "bbox": [
+        72.58,
+        381.89,
+        415.87,
+        405.79
+      ]
+    },
+    {
+      "id": "class8-english-p128-l007",
+      "lineNumber": 7,
+      "text": "world’s fastest supersonic passenger aircraft. Its normal speed was 2,170 km/h.",
+      "cleanText": "world’s fastest supersonic passenger aircraft. Its normal speed was 2,170 km/h.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.55,
+      "bbox": [
+        61.92,
+        452.16,
+        477.5,
+        464.26
+      ]
+    },
+    {
+      "id": "class8-english-p128-l008",
+      "lineNumber": 8,
+      "text": "The Concorde was a joint project by France and Britain. It started passenger",
+      "cleanText": "The Concorde was a joint project by France and Britain. It started passenger",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.08,
+      "bbox": [
+        61.92,
+        470.02,
+        476.35,
+        482.11
+      ]
+    },
+    {
+      "id": "class8-english-p128-l009",
+      "lineNumber": 9,
+      "text": "flight in 1976. Unfortunately, the Concorde fleet was grounded forever in 2003",
+      "cleanText": "flight in 1976. Unfortunately, the Concorde fleet was grounded forever in 2003",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        61.06,
+        488.16,
+        475.49,
+        499.97
+      ]
+    },
+    {
+      "id": "class8-english-p128-l010",
+      "lineNumber": 10,
+      "text": "after a major accident.",
+      "cleanText": "after a major accident.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        61.63,
+        503.71,
+        176.54,
+        515.52
+      ]
+    },
+    {
+      "id": "class8-english-p128-l011",
+      "lineNumber": 11,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        61.92,
+        520.42,
+        120.1,
+        531.65
+      ]
+    },
+    {
+      "id": "class8-english-p128-l012",
+      "lineNumber": 12,
+      "text": "1. Who made the first successful experiment in flying an airplane?",
+      "cleanText": "1. Who made the first successful experiment in flying an airplane?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.45,
+      "bbox": [
+        83.81,
+        539.14,
+        436.03,
+        550.94
+      ]
+    },
+    {
+      "id": "class8-english-p128-l013",
+      "lineNumber": 13,
+      "text": "2. What was the first flying machine called?",
+      "cleanText": "2. What was the first flying machine called?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.12,
+      "bbox": [
+        82.37,
+        559.3,
+        319.97,
+        571.1
+      ]
+    },
+    {
+      "id": "class8-english-p128-l014",
+      "lineNumber": 14,
+      "text": "3. What do you mean by ‘supersonic’?",
+      "cleanText": "3. What do you mean by ‘supersonic’?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.57,
+      "bbox": [
+        82.66,
+        580.03,
+        291.46,
+        592.13
+      ]
+    },
+    {
+      "id": "class8-english-p128-l015",
+      "lineNumber": 15,
+      "text": "4. What was world’s fastest passenger airplane?",
+      "cleanText": "4. What was world’s fastest passenger airplane?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.29,
+      "bbox": [
+        82.37,
+        601.06,
+        339.26,
+        613.15
+      ]
+    },
+    {
+      "id": "class8-english-p128-l016",
+      "lineNumber": 16,
+      "text": "‘S 5. When was Concorde fleet finally grounded?",
+      "cleanText": "‘S 5. When was Concorde fleet finally grounded?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 83.12,
+      "bbox": [
+        34.85,
+        620.93,
+        333.5,
+        635.33
+      ]
+    }
+  ],
+  "lineCount": 19,
+  "aiReadyLineCount": 16,
+  "averageConfidence": 78.0,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:19:02.365911+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

@@ -1,0 +1,882 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 74,
+  "pdfPage": 74,
+  "textbookPage": 74,
+  "width": 539.97,
+  "height": 709.46,
+  "image": "../images/page-074.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Going on a Trip 69\nB. Read the announcement carefully and fill in the blanks below:\nLadies and gentlemen, welcome on board Flight BG88 to Bangkok. We are\ncurrently third in line for take-off, and are expected to be in the air in\napproximately seven minutes. Please fasten your seat belt and secure all baggage\nunder your seat or in the overhead compartments. Keep your seats and table\ntrays in upright position for take-off. Please turn off all personal electronic\ndevices, including laptops and cellphones. This is a non-smoking flight.\nSmoking in the lavatory is prohibited. Thank you for choosing Bangladesh\nBiman. Enjoy your flight.\n1. The plane is in line to take off.\n2. The passengers are requested to fasten their.\n3. All baggage to be kept the seat or in the\ncompartments.\n4. The seats are to be in position.\n5. All personal devices are to be turned off.\n6. Itisa flight.\nC. Read the questions carefully. Then read the following announcement on\nboard flight BG 88 and answer the questions in short:\n1. Who is speaking?\n2. What is the airspeed of the plane per hour?\n3. What’s the time mentioned in the announcement?\n4. How is the weather?\n5. What’s the temperature in Bangkok mentioned in the announcement?\n6. Who will serve snacks and drinks?\n‘oO\nNX\nS\nNX",
+  "cleanText": "Going on a Trip 69 B. Read the announcement carefully and fill in the blanks below: Ladies and gentlemen, welcome on board Flight BG88 to Bangkok. We are currently third in line for take-off, and are expected to be in the air in approximately seven minutes. Please fasten your seat belt and secure all baggage under your seat or in the overhead compartments. Keep your seats and table trays in upright position for take-off. Please turn off all personal electronic devices, including laptops and cellphones. This is a non-smoking flight. Smoking in the lavatory is prohibited. Thank you for choosing Bangladesh Biman. Enjoy your flight. 1. The plane is in line to take off. 2. The passengers are requested to fasten their. 3. All baggage to be kept the seat or in the compartments. 4. The seats are to be in position. 5. All personal devices are to be turned off. 6. Itisa flight. C. Read the questions carefully. Then read the following announcement on board flight BG 88 and answer the questions in short: 1. Who is speaking? 2. What is the airspeed of the plane per hour? 3. What’s the time mentioned in the announcement? 4. How is the weather? 5. What’s the temperature in Bangkok mentioned in the announcement? 6. Who will serve snacks and drinks? ‘oO NX S NX",
+  "aiReadyText": "Going on a Trip 69 B. Read the announcement carefully and fill in the blanks below: Ladies and gentlemen, welcome on board Flight BG88 to Bangkok. We are currently third in line for take-off, and are expected to be in the air in approximately seven minutes. Please fasten your seat belt and secure all baggage under your seat or in the overhead compartments. Keep your seats and table trays in upright position for take-off. Please turn off all personal electronic devices, including laptops and cellphones. This is a non-smoking flight. Smoking in the lavatory is prohibited. Thank you for choosing Bangladesh Biman. Enjoy your flight. 1. The plane is in line to take off. 2. The passengers are requested to fasten their. 3. All baggage to be kept the seat or in the compartments. 4. The seats are to be in position. 5. All personal devices are to be turned off. 6. Itisa flight. C. Read the questions carefully. Then read the following announcement on board flight BG 88 and answer the questions in short: 1. Who is speaking? 2. What is the airspeed of the plane per hour? 3. What’s the time mentioned in the announcement? 4. How is the weather? 5. What’s the temperature in Bangkok mentioned in the announcement? 6. Who will serve snacks and drinks? ‘oO NX NX",
+  "lines": [
+    {
+      "id": "class8-english-p074-l001",
+      "lineNumber": 1,
+      "text": "Going on a Trip 69",
+      "cleanText": "Going on a Trip 69",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        67.1,
+        48.1,
+        479.23,
+        59.04
+      ]
+    },
+    {
+      "id": "class8-english-p074-l002",
+      "lineNumber": 2,
+      "text": "B. Read the announcement carefully and fill in the blanks below:",
+      "cleanText": "B. Read the announcement carefully and fill in the blanks below:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.73,
+      "bbox": [
+        68.83,
+        79.2,
+        429.12,
+        91.87
+      ]
+    },
+    {
+      "id": "class8-english-p074-l003",
+      "lineNumber": 3,
+      "text": "Ladies and gentlemen, welcome on board Flight BG88 to Bangkok. We are",
+      "cleanText": "Ladies and gentlemen, welcome on board Flight BG88 to Bangkok. We are",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        68.83,
+        101.66,
+        482.11,
+        113.76
+      ]
+    },
+    {
+      "id": "class8-english-p074-l004",
+      "lineNumber": 4,
+      "text": "currently third in line for take-off, and are expected to be in the air in",
+      "cleanText": "currently third in line for take-off, and are expected to be in the air in",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.87,
+      "bbox": [
+        68.26,
+        118.66,
+        482.4,
+        131.33
+      ]
+    },
+    {
+      "id": "class8-english-p074-l005",
+      "lineNumber": 5,
+      "text": "approximately seven minutes. Please fasten your seat belt and secure all baggage",
+      "cleanText": "approximately seven minutes. Please fasten your seat belt and secure all baggage",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        69.12,
+        135.07,
+        483.26,
+        147.74
+      ]
+    },
+    {
+      "id": "class8-english-p074-l006",
+      "lineNumber": 6,
+      "text": "under your seat or in the overhead compartments. Keep your seats and table",
+      "cleanText": "under your seat or in the overhead compartments. Keep your seats and table",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.54,
+      "bbox": [
+        69.41,
+        152.64,
+        482.98,
+        164.74
+      ]
+    },
+    {
+      "id": "class8-english-p074-l007",
+      "lineNumber": 7,
+      "text": "trays in upright position for take-off. Please turn off all personal electronic",
+      "cleanText": "trays in upright position for take-off. Please turn off all personal electronic",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        68.54,
+        169.63,
+        481.82,
+        181.73
+      ]
+    },
+    {
+      "id": "class8-english-p074-l008",
+      "lineNumber": 8,
+      "text": "devices, including laptops and cellphones. This is a non-smoking flight.",
+      "cleanText": "devices, including laptops and cellphones. This is a non-smoking flight.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.8,
+      "bbox": [
+        68.26,
+        186.62,
+        483.26,
+        198.72
+      ]
+    },
+    {
+      "id": "class8-english-p074-l009",
+      "lineNumber": 9,
+      "text": "Smoking in the lavatory is prohibited. Thank you for choosing Bangladesh",
+      "cleanText": "Smoking in the lavatory is prohibited. Thank you for choosing Bangladesh",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        68.83,
+        203.33,
+        482.11,
+        215.71
+      ]
+    },
+    {
+      "id": "class8-english-p074-l010",
+      "lineNumber": 10,
+      "text": "Biman. Enjoy your flight.",
+      "cleanText": "Biman. Enjoy your flight.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        69.98,
+        220.61,
+        202.46,
+        232.7
+      ]
+    },
+    {
+      "id": "class8-english-p074-l011",
+      "lineNumber": 11,
+      "text": "1. The plane is in line to take off.",
+      "cleanText": "1. The plane is in line to take off.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        90.72,
+        253.15,
+        331.2,
+        264.96
+      ]
+    },
+    {
+      "id": "class8-english-p074-l012",
+      "lineNumber": 12,
+      "text": "2. The passengers are requested to fasten their.",
+      "cleanText": "2. The passengers are requested to fasten their.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.11,
+      "bbox": [
+        89.86,
+        281.66,
+        430.85,
+        293.76
+      ]
+    },
+    {
+      "id": "class8-english-p074-l013",
+      "lineNumber": 13,
+      "text": "3. All baggage to be kept the seat or in the",
+      "cleanText": "3. All baggage to be kept the seat or in the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.09,
+      "bbox": [
+        89.86,
+        310.18,
+        391.97,
+        322.27
+      ]
+    },
+    {
+      "id": "class8-english-p074-l014",
+      "lineNumber": 14,
+      "text": "compartments.",
+      "cleanText": "compartments.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        105.7,
+        330.05,
+        181.15,
+        340.7
+      ]
+    },
+    {
+      "id": "class8-english-p074-l015",
+      "lineNumber": 15,
+      "text": "4. The seats are to be in position.",
+      "cleanText": "4. The seats are to be in position.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        89.57,
+        357.12,
+        385.34,
+        368.93
+      ]
+    },
+    {
+      "id": "class8-english-p074-l016",
+      "lineNumber": 16,
+      "text": "5. All personal devices are to be turned off.",
+      "cleanText": "5. All personal devices are to be turned off.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        89.86,
+        385.63,
+        416.45,
+        397.44
+      ]
+    },
+    {
+      "id": "class8-english-p074-l017",
+      "lineNumber": 17,
+      "text": "6. Itisa flight.",
+      "cleanText": "6. Itisa flight.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.67,
+      "bbox": [
+        89.86,
+        414.14,
+        261.22,
+        426.24
+      ]
+    },
+    {
+      "id": "class8-english-p074-l018",
+      "lineNumber": 18,
+      "text": "C. Read the questions carefully. Then read the following announcement on",
+      "cleanText": "C. Read the questions carefully. Then read the following announcement on",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.91,
+      "bbox": [
+        68.26,
+        458.21,
+        482.11,
+        471.17
+      ]
+    },
+    {
+      "id": "class8-english-p074-l019",
+      "lineNumber": 19,
+      "text": "board flight BG 88 and answer the questions in short:",
+      "cleanText": "board flight BG 88 and answer the questions in short:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.7,
+      "bbox": [
+        85.25,
+        476.64,
+        387.36,
+        489.6
+      ]
+    },
+    {
+      "id": "class8-english-p074-l020",
+      "lineNumber": 20,
+      "text": "1. Who is speaking?",
+      "cleanText": "1. Who is speaking?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        88.13,
+        500.83,
+        193.82,
+        512.93
+      ]
+    },
+    {
+      "id": "class8-english-p074-l021",
+      "lineNumber": 21,
+      "text": "2. What is the airspeed of the plane per hour?",
+      "cleanText": "2. What is the airspeed of the plane per hour?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        87.26,
+        522.43,
+        324.29,
+        534.24
+      ]
+    },
+    {
+      "id": "class8-english-p074-l022",
+      "lineNumber": 22,
+      "text": "3. What’s the time mentioned in the announcement?",
+      "cleanText": "3. What’s the time mentioned in the announcement?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        87.26,
+        543.74,
+        359.71,
+        553.25
+      ]
+    },
+    {
+      "id": "class8-english-p074-l023",
+      "lineNumber": 23,
+      "text": "4. How is the weather?",
+      "cleanText": "4. How is the weather?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.98,
+        565.34,
+        207.65,
+        574.56
+      ]
+    },
+    {
+      "id": "class8-english-p074-l024",
+      "lineNumber": 24,
+      "text": "5. What’s the temperature in Bangkok mentioned in the announcement?",
+      "cleanText": "5. What’s the temperature in Bangkok mentioned in the announcement?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.1,
+      "bbox": [
+        87.26,
+        586.94,
+        462.24,
+        599.04
+      ]
+    },
+    {
+      "id": "class8-english-p074-l025",
+      "lineNumber": 25,
+      "text": "6. Who will serve snacks and drinks?",
+      "cleanText": "6. Who will serve snacks and drinks?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.98,
+        608.26,
+        282.24,
+        617.47
+      ]
+    },
+    {
+      "id": "class8-english-p074-l026",
+      "lineNumber": 26,
+      "text": "‘oO",
+      "cleanText": "‘oO",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 31.0,
+      "bbox": [
+        33.12,
+        634.75,
+        41.47,
+        640.22
+      ]
+    },
+    {
+      "id": "class8-english-p074-l027",
+      "lineNumber": 27,
+      "text": "NX",
+      "cleanText": "NX",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 39.0,
+      "bbox": [
+        33.12,
+        641.09,
+        41.47,
+        646.56
+      ]
+    },
+    {
+      "id": "class8-english-p074-l028",
+      "lineNumber": 28,
+      "text": "S",
+      "cleanText": "S",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 79.0,
+      "bbox": [
+        33.12,
+        646.85,
+        41.47,
+        652.03
+      ]
+    },
+    {
+      "id": "class8-english-p074-l029",
+      "lineNumber": 29,
+      "text": "NX",
+      "cleanText": "NX",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 48.0,
+      "bbox": [
+        33.12,
+        653.18,
+        41.47,
+        658.66
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p074-l001",
+      "lineNumber": 1,
+      "text": "Going on a Trip 69",
+      "cleanText": "Going on a Trip 69",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        67.1,
+        48.1,
+        479.23,
+        59.04
+      ]
+    },
+    {
+      "id": "class8-english-p074-l002",
+      "lineNumber": 2,
+      "text": "B. Read the announcement carefully and fill in the blanks below:",
+      "cleanText": "B. Read the announcement carefully and fill in the blanks below:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.73,
+      "bbox": [
+        68.83,
+        79.2,
+        429.12,
+        91.87
+      ]
+    },
+    {
+      "id": "class8-english-p074-l003",
+      "lineNumber": 3,
+      "text": "Ladies and gentlemen, welcome on board Flight BG88 to Bangkok. We are",
+      "cleanText": "Ladies and gentlemen, welcome on board Flight BG88 to Bangkok. We are",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        68.83,
+        101.66,
+        482.11,
+        113.76
+      ]
+    },
+    {
+      "id": "class8-english-p074-l004",
+      "lineNumber": 4,
+      "text": "currently third in line for take-off, and are expected to be in the air in",
+      "cleanText": "currently third in line for take-off, and are expected to be in the air in",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.87,
+      "bbox": [
+        68.26,
+        118.66,
+        482.4,
+        131.33
+      ]
+    },
+    {
+      "id": "class8-english-p074-l005",
+      "lineNumber": 5,
+      "text": "approximately seven minutes. Please fasten your seat belt and secure all baggage",
+      "cleanText": "approximately seven minutes. Please fasten your seat belt and secure all baggage",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        69.12,
+        135.07,
+        483.26,
+        147.74
+      ]
+    },
+    {
+      "id": "class8-english-p074-l006",
+      "lineNumber": 6,
+      "text": "under your seat or in the overhead compartments. Keep your seats and table",
+      "cleanText": "under your seat or in the overhead compartments. Keep your seats and table",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.54,
+      "bbox": [
+        69.41,
+        152.64,
+        482.98,
+        164.74
+      ]
+    },
+    {
+      "id": "class8-english-p074-l007",
+      "lineNumber": 7,
+      "text": "trays in upright position for take-off. Please turn off all personal electronic",
+      "cleanText": "trays in upright position for take-off. Please turn off all personal electronic",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        68.54,
+        169.63,
+        481.82,
+        181.73
+      ]
+    },
+    {
+      "id": "class8-english-p074-l008",
+      "lineNumber": 8,
+      "text": "devices, including laptops and cellphones. This is a non-smoking flight.",
+      "cleanText": "devices, including laptops and cellphones. This is a non-smoking flight.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.8,
+      "bbox": [
+        68.26,
+        186.62,
+        483.26,
+        198.72
+      ]
+    },
+    {
+      "id": "class8-english-p074-l009",
+      "lineNumber": 9,
+      "text": "Smoking in the lavatory is prohibited. Thank you for choosing Bangladesh",
+      "cleanText": "Smoking in the lavatory is prohibited. Thank you for choosing Bangladesh",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        68.83,
+        203.33,
+        482.11,
+        215.71
+      ]
+    },
+    {
+      "id": "class8-english-p074-l010",
+      "lineNumber": 10,
+      "text": "Biman. Enjoy your flight.",
+      "cleanText": "Biman. Enjoy your flight.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        69.98,
+        220.61,
+        202.46,
+        232.7
+      ]
+    },
+    {
+      "id": "class8-english-p074-l011",
+      "lineNumber": 11,
+      "text": "1. The plane is in line to take off.",
+      "cleanText": "1. The plane is in line to take off.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        90.72,
+        253.15,
+        331.2,
+        264.96
+      ]
+    },
+    {
+      "id": "class8-english-p074-l012",
+      "lineNumber": 12,
+      "text": "2. The passengers are requested to fasten their.",
+      "cleanText": "2. The passengers are requested to fasten their.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.11,
+      "bbox": [
+        89.86,
+        281.66,
+        430.85,
+        293.76
+      ]
+    },
+    {
+      "id": "class8-english-p074-l013",
+      "lineNumber": 13,
+      "text": "3. All baggage to be kept the seat or in the",
+      "cleanText": "3. All baggage to be kept the seat or in the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.09,
+      "bbox": [
+        89.86,
+        310.18,
+        391.97,
+        322.27
+      ]
+    },
+    {
+      "id": "class8-english-p074-l014",
+      "lineNumber": 14,
+      "text": "compartments.",
+      "cleanText": "compartments.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        105.7,
+        330.05,
+        181.15,
+        340.7
+      ]
+    },
+    {
+      "id": "class8-english-p074-l015",
+      "lineNumber": 15,
+      "text": "4. The seats are to be in position.",
+      "cleanText": "4. The seats are to be in position.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        89.57,
+        357.12,
+        385.34,
+        368.93
+      ]
+    },
+    {
+      "id": "class8-english-p074-l016",
+      "lineNumber": 16,
+      "text": "5. All personal devices are to be turned off.",
+      "cleanText": "5. All personal devices are to be turned off.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        89.86,
+        385.63,
+        416.45,
+        397.44
+      ]
+    },
+    {
+      "id": "class8-english-p074-l017",
+      "lineNumber": 17,
+      "text": "6. Itisa flight.",
+      "cleanText": "6. Itisa flight.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.67,
+      "bbox": [
+        89.86,
+        414.14,
+        261.22,
+        426.24
+      ]
+    },
+    {
+      "id": "class8-english-p074-l018",
+      "lineNumber": 18,
+      "text": "C. Read the questions carefully. Then read the following announcement on",
+      "cleanText": "C. Read the questions carefully. Then read the following announcement on",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.91,
+      "bbox": [
+        68.26,
+        458.21,
+        482.11,
+        471.17
+      ]
+    },
+    {
+      "id": "class8-english-p074-l019",
+      "lineNumber": 19,
+      "text": "board flight BG 88 and answer the questions in short:",
+      "cleanText": "board flight BG 88 and answer the questions in short:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.7,
+      "bbox": [
+        85.25,
+        476.64,
+        387.36,
+        489.6
+      ]
+    },
+    {
+      "id": "class8-english-p074-l020",
+      "lineNumber": 20,
+      "text": "1. Who is speaking?",
+      "cleanText": "1. Who is speaking?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        88.13,
+        500.83,
+        193.82,
+        512.93
+      ]
+    },
+    {
+      "id": "class8-english-p074-l021",
+      "lineNumber": 21,
+      "text": "2. What is the airspeed of the plane per hour?",
+      "cleanText": "2. What is the airspeed of the plane per hour?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        87.26,
+        522.43,
+        324.29,
+        534.24
+      ]
+    },
+    {
+      "id": "class8-english-p074-l022",
+      "lineNumber": 22,
+      "text": "3. What’s the time mentioned in the announcement?",
+      "cleanText": "3. What’s the time mentioned in the announcement?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.75,
+      "bbox": [
+        87.26,
+        543.74,
+        359.71,
+        553.25
+      ]
+    },
+    {
+      "id": "class8-english-p074-l023",
+      "lineNumber": 23,
+      "text": "4. How is the weather?",
+      "cleanText": "4. How is the weather?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.98,
+        565.34,
+        207.65,
+        574.56
+      ]
+    },
+    {
+      "id": "class8-english-p074-l024",
+      "lineNumber": 24,
+      "text": "5. What’s the temperature in Bangkok mentioned in the announcement?",
+      "cleanText": "5. What’s the temperature in Bangkok mentioned in the announcement?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.1,
+      "bbox": [
+        87.26,
+        586.94,
+        462.24,
+        599.04
+      ]
+    },
+    {
+      "id": "class8-english-p074-l025",
+      "lineNumber": 25,
+      "text": "6. Who will serve snacks and drinks?",
+      "cleanText": "6. Who will serve snacks and drinks?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.98,
+        608.26,
+        282.24,
+        617.47
+      ]
+    },
+    {
+      "id": "class8-english-p074-l026",
+      "lineNumber": 26,
+      "text": "‘oO",
+      "cleanText": "‘oO",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 31.0,
+      "bbox": [
+        33.12,
+        634.75,
+        41.47,
+        640.22
+      ]
+    },
+    {
+      "id": "class8-english-p074-l027",
+      "lineNumber": 27,
+      "text": "NX",
+      "cleanText": "NX",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 39.0,
+      "bbox": [
+        33.12,
+        641.09,
+        41.47,
+        646.56
+      ]
+    },
+    {
+      "id": "class8-english-p074-l029",
+      "lineNumber": 29,
+      "text": "NX",
+      "cleanText": "NX",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 48.0,
+      "bbox": [
+        33.12,
+        653.18,
+        41.47,
+        658.66
+      ]
+    }
+  ],
+  "lineCount": 29,
+  "aiReadyLineCount": 28,
+  "averageConfidence": 88.63,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:17:40.964193+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

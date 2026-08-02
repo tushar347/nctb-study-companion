@@ -1,0 +1,807 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 42,
+  "pdfPage": 42,
+  "textbookPage": 42,
+  "width": 536.97,
+  "height": 695.96,
+  "image": "../images/page-042.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Check Your References 37\nE. Open the table of contents page of your English Textbook. Work in pairs\nand find out the answers to the following questions:\n1. What is the title of the page?\n2. What are the column heads?\n3. Which page numbers contain the topics?\n4. Which topic starts in page 44?\n5. How many units are there?\n6. How many page numbers are there in the book?\nF. Now, give information about the following:\nName/title of the table of contents page:\nNames of column heads:\nNumbers of units:\nTotal number of pages:\nTitle of the first unit:\nPage number where the first unit starts:\nTitle of the last unit:\nPosition of the page numbers:\nPosition of the chapter titles:\nOthers, if any:\nLesson 2: Using a Dictionary\nA. Look at the questions and the text and talk about them in groups:\n1. Have you come across this type of text before?\n2. Do you know what the text is about?\n3. What do you know about a dictionary?\n8 4. What do you find in a dictionary?",
+  "cleanText": "Check Your References 37 E. Open the table of contents page of your English Textbook. Work in pairs and find out the answers to the following questions: 1. What is the title of the page? 2. What are the column heads? 3. Which page numbers contain the topics? 4. Which topic starts in page 44? 5. How many units are there? 6. How many page numbers are there in the book? F. Now, give information about the following: Name/title of the table of contents page: Names of column heads: Numbers of units: Total number of pages: Title of the first unit: Page number where the first unit starts: Title of the last unit: Position of the page numbers: Position of the chapter titles: Others, if any: Lesson 2: Using a Dictionary A. Look at the questions and the text and talk about them in groups: 1. Have you come across this type of text before? 2. Do you know what the text is about? 3. What do you know about a dictionary? 8 4. What do you find in a dictionary?",
+  "aiReadyText": "Check Your References 37 E. Open the table of contents page of your English Textbook. Work in pairs and find out the answers to the following questions: 1. What is the title of the page? 2. What are the column heads? 3. Which page numbers contain the topics? 4. Which topic starts in page 44? 5. How many units are there? 6. How many page numbers are there in the book? F. Now, give information about the following: Name/title of the table of contents page: Names of column heads: Numbers of units: Total number of pages: Title of the first unit: Page number where the first unit starts: Title of the last unit: Position of the page numbers: Position of the chapter titles: Others, if any: Lesson 2: Using a Dictionary A. Look at the questions and the text and talk about them in groups: 1. Have you come across this type of text before? 2. Do you know what the text is about? 3. What do you know about a dictionary? 8 4. What do you find in a dictionary?",
+  "lines": [
+    {
+      "id": "class8-english-p042-l001",
+      "lineNumber": 1,
+      "text": "Check Your References 37",
+      "cleanText": "Check Your References 37",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        65.09,
+        42.05,
+        478.66,
+        51.55
+      ]
+    },
+    {
+      "id": "class8-english-p042-l002",
+      "lineNumber": 2,
+      "text": "E. Open the table of contents page of your English Textbook. Work in pairs",
+      "cleanText": "E. Open the table of contents page of your English Textbook. Work in pairs",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.43,
+      "bbox": [
+        65.09,
+        71.71,
+        483.55,
+        83.23
+      ]
+    },
+    {
+      "id": "class8-english-p042-l003",
+      "lineNumber": 3,
+      "text": "and find out the answers to the following questions:",
+      "cleanText": "and find out the answers to the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.89,
+      "bbox": [
+        84.96,
+        89.28,
+        368.06,
+        101.09
+      ]
+    },
+    {
+      "id": "class8-english-p042-l004",
+      "lineNumber": 4,
+      "text": "1. What is the title of the page?",
+      "cleanText": "1. What is the title of the page?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        87.55,
+        114.34,
+        256.61,
+        126.14
+      ]
+    },
+    {
+      "id": "class8-english-p042-l005",
+      "lineNumber": 5,
+      "text": "2. What are the column heads?",
+      "cleanText": "2. What are the column heads?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.17,
+      "bbox": [
+        86.11,
+        135.07,
+        254.59,
+        144.58
+      ]
+    },
+    {
+      "id": "class8-english-p042-l006",
+      "lineNumber": 6,
+      "text": "3. Which page numbers contain the topics?",
+      "cleanText": "3. Which page numbers contain the topics?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.43,
+      "bbox": [
+        86.4,
+        156.1,
+        318.53,
+        168.19
+      ]
+    },
+    {
+      "id": "class8-english-p042-l007",
+      "lineNumber": 7,
+      "text": "4. Which topic starts in page 44?",
+      "cleanText": "4. Which topic starts in page 44?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        86.11,
+        177.12,
+        264.96,
+        189.22
+      ]
+    },
+    {
+      "id": "class8-english-p042-l008",
+      "lineNumber": 8,
+      "text": "5. How many units are there?",
+      "cleanText": "5. How many units are there?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        86.69,
+        198.14,
+        247.39,
+        209.95
+      ]
+    },
+    {
+      "id": "class8-english-p042-l009",
+      "lineNumber": 9,
+      "text": "6. How many page numbers are there in the book?",
+      "cleanText": "6. How many page numbers are there in the book?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        86.4,
+        219.17,
+        356.26,
+        230.98
+      ]
+    },
+    {
+      "id": "class8-english-p042-l010",
+      "lineNumber": 10,
+      "text": "F. Now, give information about the following:",
+      "cleanText": "F. Now, give information about the following:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        65.66,
+        259.78,
+        321.7,
+        271.58
+      ]
+    },
+    {
+      "id": "class8-english-p042-l011",
+      "lineNumber": 11,
+      "text": "Name/title of the table of contents page:",
+      "cleanText": "Name/title of the table of contents page:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.14,
+      "bbox": [
+        86.11,
+        284.54,
+        293.76,
+        296.35
+      ]
+    },
+    {
+      "id": "class8-english-p042-l012",
+      "lineNumber": 12,
+      "text": "Names of column heads:",
+      "cleanText": "Names of column heads:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        86.11,
+        305.57,
+        213.98,
+        314.78
+      ]
+    },
+    {
+      "id": "class8-english-p042-l013",
+      "lineNumber": 13,
+      "text": "Numbers of units:",
+      "cleanText": "Numbers of units:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        86.11,
+        326.59,
+        178.85,
+        335.81
+      ]
+    },
+    {
+      "id": "class8-english-p042-l014",
+      "lineNumber": 14,
+      "text": "Total number of pages:",
+      "cleanText": "Total number of pages:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.4,
+        347.62,
+        205.06,
+        359.42
+      ]
+    },
+    {
+      "id": "class8-english-p042-l015",
+      "lineNumber": 15,
+      "text": "Title of the first unit:",
+      "cleanText": "Title of the first unit:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.4,
+        370.66,
+        193.54,
+        379.87
+      ]
+    },
+    {
+      "id": "class8-english-p042-l016",
+      "lineNumber": 16,
+      "text": "Page number where the first unit starts:",
+      "cleanText": "Page number where the first unit starts:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.4,
+        391.68,
+        289.44,
+        403.49
+      ]
+    },
+    {
+      "id": "class8-english-p042-l017",
+      "lineNumber": 17,
+      "text": "Title of the last unit:",
+      "cleanText": "Title of the last unit:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.69,
+        412.99,
+        198.72,
+        422.78
+      ]
+    },
+    {
+      "id": "class8-english-p042-l018",
+      "lineNumber": 18,
+      "text": "Position of the page numbers:",
+      "cleanText": "Position of the page numbers:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.4,
+        434.88,
+        252.29,
+        447.84
+      ]
+    },
+    {
+      "id": "class8-english-p042-l019",
+      "lineNumber": 19,
+      "text": "Position of the chapter titles:",
+      "cleanText": "Position of the chapter titles:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.4,
+        457.06,
+        245.95,
+        469.73
+      ]
+    },
+    {
+      "id": "class8-english-p042-l020",
+      "lineNumber": 20,
+      "text": "Others, if any:",
+      "cleanText": "Others, if any:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.69,
+        476.93,
+        165.31,
+        489.6
+      ]
+    },
+    {
+      "id": "class8-english-p042-l021",
+      "lineNumber": 21,
+      "text": "Lesson 2: Using a Dictionary",
+      "cleanText": "Lesson 2: Using a Dictionary",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.36,
+        517.54,
+        309.89,
+        535.39
+      ]
+    },
+    {
+      "id": "class8-english-p042-l022",
+      "lineNumber": 22,
+      "text": "A. Look at the questions and the text and talk about them in groups:",
+      "cleanText": "A. Look at the questions and the text and talk about them in groups:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        64.22,
+        544.32,
+        474.34,
+        557.86
+      ]
+    },
+    {
+      "id": "class8-english-p042-l023",
+      "lineNumber": 23,
+      "text": "1. Have you come across this type of text before?",
+      "cleanText": "1. Have you come across this type of text before?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.3,
+      "bbox": [
+        85.25,
+        568.22,
+        350.21,
+        580.32
+      ]
+    },
+    {
+      "id": "class8-english-p042-l024",
+      "lineNumber": 24,
+      "text": "2. Do you know what the text is about?",
+      "cleanText": "2. Do you know what the text is about?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        85.54,
+        591.26,
+        297.22,
+        603.36
+      ]
+    },
+    {
+      "id": "class8-english-p042-l025",
+      "lineNumber": 25,
+      "text": "3. What do you know about a dictionary?",
+      "cleanText": "3. What do you know about a dictionary?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        85.54,
+        614.3,
+        308.45,
+        626.4
+      ]
+    },
+    {
+      "id": "class8-english-p042-l026",
+      "lineNumber": 26,
+      "text": "8 4. What do you find in a dictionary?",
+      "cleanText": "8 4. What do you find in a dictionary?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.33,
+      "bbox": [
+        30.24,
+        629.57,
+        282.24,
+        653.76
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p042-l001",
+      "lineNumber": 1,
+      "text": "Check Your References 37",
+      "cleanText": "Check Your References 37",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        65.09,
+        42.05,
+        478.66,
+        51.55
+      ]
+    },
+    {
+      "id": "class8-english-p042-l002",
+      "lineNumber": 2,
+      "text": "E. Open the table of contents page of your English Textbook. Work in pairs",
+      "cleanText": "E. Open the table of contents page of your English Textbook. Work in pairs",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.43,
+      "bbox": [
+        65.09,
+        71.71,
+        483.55,
+        83.23
+      ]
+    },
+    {
+      "id": "class8-english-p042-l003",
+      "lineNumber": 3,
+      "text": "and find out the answers to the following questions:",
+      "cleanText": "and find out the answers to the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.89,
+      "bbox": [
+        84.96,
+        89.28,
+        368.06,
+        101.09
+      ]
+    },
+    {
+      "id": "class8-english-p042-l004",
+      "lineNumber": 4,
+      "text": "1. What is the title of the page?",
+      "cleanText": "1. What is the title of the page?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        87.55,
+        114.34,
+        256.61,
+        126.14
+      ]
+    },
+    {
+      "id": "class8-english-p042-l005",
+      "lineNumber": 5,
+      "text": "2. What are the column heads?",
+      "cleanText": "2. What are the column heads?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.17,
+      "bbox": [
+        86.11,
+        135.07,
+        254.59,
+        144.58
+      ]
+    },
+    {
+      "id": "class8-english-p042-l006",
+      "lineNumber": 6,
+      "text": "3. Which page numbers contain the topics?",
+      "cleanText": "3. Which page numbers contain the topics?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.43,
+      "bbox": [
+        86.4,
+        156.1,
+        318.53,
+        168.19
+      ]
+    },
+    {
+      "id": "class8-english-p042-l007",
+      "lineNumber": 7,
+      "text": "4. Which topic starts in page 44?",
+      "cleanText": "4. Which topic starts in page 44?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        86.11,
+        177.12,
+        264.96,
+        189.22
+      ]
+    },
+    {
+      "id": "class8-english-p042-l008",
+      "lineNumber": 8,
+      "text": "5. How many units are there?",
+      "cleanText": "5. How many units are there?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        86.69,
+        198.14,
+        247.39,
+        209.95
+      ]
+    },
+    {
+      "id": "class8-english-p042-l009",
+      "lineNumber": 9,
+      "text": "6. How many page numbers are there in the book?",
+      "cleanText": "6. How many page numbers are there in the book?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        86.4,
+        219.17,
+        356.26,
+        230.98
+      ]
+    },
+    {
+      "id": "class8-english-p042-l010",
+      "lineNumber": 10,
+      "text": "F. Now, give information about the following:",
+      "cleanText": "F. Now, give information about the following:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        65.66,
+        259.78,
+        321.7,
+        271.58
+      ]
+    },
+    {
+      "id": "class8-english-p042-l011",
+      "lineNumber": 11,
+      "text": "Name/title of the table of contents page:",
+      "cleanText": "Name/title of the table of contents page:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.14,
+      "bbox": [
+        86.11,
+        284.54,
+        293.76,
+        296.35
+      ]
+    },
+    {
+      "id": "class8-english-p042-l012",
+      "lineNumber": 12,
+      "text": "Names of column heads:",
+      "cleanText": "Names of column heads:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        86.11,
+        305.57,
+        213.98,
+        314.78
+      ]
+    },
+    {
+      "id": "class8-english-p042-l013",
+      "lineNumber": 13,
+      "text": "Numbers of units:",
+      "cleanText": "Numbers of units:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        86.11,
+        326.59,
+        178.85,
+        335.81
+      ]
+    },
+    {
+      "id": "class8-english-p042-l014",
+      "lineNumber": 14,
+      "text": "Total number of pages:",
+      "cleanText": "Total number of pages:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.4,
+        347.62,
+        205.06,
+        359.42
+      ]
+    },
+    {
+      "id": "class8-english-p042-l015",
+      "lineNumber": 15,
+      "text": "Title of the first unit:",
+      "cleanText": "Title of the first unit:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.4,
+        370.66,
+        193.54,
+        379.87
+      ]
+    },
+    {
+      "id": "class8-english-p042-l016",
+      "lineNumber": 16,
+      "text": "Page number where the first unit starts:",
+      "cleanText": "Page number where the first unit starts:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.4,
+        391.68,
+        289.44,
+        403.49
+      ]
+    },
+    {
+      "id": "class8-english-p042-l017",
+      "lineNumber": 17,
+      "text": "Title of the last unit:",
+      "cleanText": "Title of the last unit:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.69,
+        412.99,
+        198.72,
+        422.78
+      ]
+    },
+    {
+      "id": "class8-english-p042-l018",
+      "lineNumber": 18,
+      "text": "Position of the page numbers:",
+      "cleanText": "Position of the page numbers:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.4,
+        434.88,
+        252.29,
+        447.84
+      ]
+    },
+    {
+      "id": "class8-english-p042-l019",
+      "lineNumber": 19,
+      "text": "Position of the chapter titles:",
+      "cleanText": "Position of the chapter titles:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.4,
+        457.06,
+        245.95,
+        469.73
+      ]
+    },
+    {
+      "id": "class8-english-p042-l020",
+      "lineNumber": 20,
+      "text": "Others, if any:",
+      "cleanText": "Others, if any:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.69,
+        476.93,
+        165.31,
+        489.6
+      ]
+    },
+    {
+      "id": "class8-english-p042-l021",
+      "lineNumber": 21,
+      "text": "Lesson 2: Using a Dictionary",
+      "cleanText": "Lesson 2: Using a Dictionary",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.36,
+        517.54,
+        309.89,
+        535.39
+      ]
+    },
+    {
+      "id": "class8-english-p042-l022",
+      "lineNumber": 22,
+      "text": "A. Look at the questions and the text and talk about them in groups:",
+      "cleanText": "A. Look at the questions and the text and talk about them in groups:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        64.22,
+        544.32,
+        474.34,
+        557.86
+      ]
+    },
+    {
+      "id": "class8-english-p042-l023",
+      "lineNumber": 23,
+      "text": "1. Have you come across this type of text before?",
+      "cleanText": "1. Have you come across this type of text before?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.3,
+      "bbox": [
+        85.25,
+        568.22,
+        350.21,
+        580.32
+      ]
+    },
+    {
+      "id": "class8-english-p042-l024",
+      "lineNumber": 24,
+      "text": "2. Do you know what the text is about?",
+      "cleanText": "2. Do you know what the text is about?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        85.54,
+        591.26,
+        297.22,
+        603.36
+      ]
+    },
+    {
+      "id": "class8-english-p042-l025",
+      "lineNumber": 25,
+      "text": "3. What do you know about a dictionary?",
+      "cleanText": "3. What do you know about a dictionary?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        85.54,
+        614.3,
+        308.45,
+        626.4
+      ]
+    },
+    {
+      "id": "class8-english-p042-l026",
+      "lineNumber": 26,
+      "text": "8 4. What do you find in a dictionary?",
+      "cleanText": "8 4. What do you find in a dictionary?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.33,
+      "bbox": [
+        30.24,
+        629.57,
+        282.24,
+        653.76
+      ]
+    }
+  ],
+  "lineCount": 26,
+  "aiReadyLineCount": 26,
+  "averageConfidence": 95.0,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:39.263564+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

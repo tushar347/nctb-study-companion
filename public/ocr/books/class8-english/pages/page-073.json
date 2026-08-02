@@ -1,0 +1,597 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 73,
+  "pdfPage": 73,
+  "textbookPage": 73,
+  "width": 539.97,
+  "height": 709.46,
+  "image": "../images/page-073.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "68 English For Today\n3. Why are liquid, gel and cream not allowed on board a plane?\n4, Which row is Mita sitting in?\nB. Listen to the text and complete the chart. First one is done for you:\nU1, L4B\nListening text: 3\n1. Destination 1. Bangkok\n2. Name of the Airways 2.\n3. Flight no. 3.\n4. Row numbers of passengers called 4.\nfirst to board\n5. Rows called for boarding last 5.\n6. Final call for boarding 6.\nLesson 5: Announcements on Board (1)\nKeywords: lavatory, cruising, altitude, descend, schedule, destination\nA. Look at the picture and talk about it:\n—] = =\n—— ————\nZS ER\nfe i 1 1! —— 7 NX",
+  "cleanText": "68 English For Today 3. Why are liquid, gel and cream not allowed on board a plane? 4, Which row is Mita sitting in? B. Listen to the text and complete the chart. First one is done for you: U1, L4B Listening text: 3 1. Destination 1. Bangkok 2. Name of the Airways 2. 3. Flight no. 3. 4. Row numbers of passengers called 4. first to board 5. Rows called for boarding last 5. 6. Final call for boarding 6. Lesson 5: Announcements on Board (1) Keywords: lavatory, cruising, altitude, descend, schedule, destination A. Look at the picture and talk about it: —] = = —— ———— ZS ER fe i 1 1! —— 7 NX",
+  "aiReadyText": "68 English For Today 3. Why are liquid, gel and cream not allowed on board a plane? 4, Which row is Mita sitting in? B. Listen to the text and complete the chart. First one is done for you: U1, L4B Listening text: 3 1. Destination 1. Bangkok 2. Name of the Airways 2. 3. Flight no. 3. 4. Row numbers of passengers called 4. first to board 5. Rows called for boarding last 5. 6. Final call for boarding 6. Lesson 5: Announcements on Board (1) Keywords: lavatory, cruising, altitude, descend, schedule, destination A. Look at the picture and talk about it: ZS ER fe i 1 1! —— 7 NX",
+  "lines": [
+    {
+      "id": "class8-english-p073-l001",
+      "lineNumber": 1,
+      "text": "68 English For Today",
+      "cleanText": "68 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        66.53,
+        48.1,
+        478.94,
+        59.04
+      ]
+    },
+    {
+      "id": "class8-english-p073-l002",
+      "lineNumber": 2,
+      "text": "3. Why are liquid, gel and cream not allowed on board a plane?",
+      "cleanText": "3. Why are liquid, gel and cream not allowed on board a plane?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.23,
+      "bbox": [
+        86.69,
+        76.9,
+        420.77,
+        91.87
+      ]
+    },
+    {
+      "id": "class8-english-p073-l003",
+      "lineNumber": 3,
+      "text": "4, Which row is Mita sitting in?",
+      "cleanText": "4, Which row is Mita sitting in?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.43,
+      "bbox": [
+        86.4,
+        97.06,
+        253.44,
+        109.44
+      ]
+    },
+    {
+      "id": "class8-english-p073-l004",
+      "lineNumber": 4,
+      "text": "B. Listen to the text and complete the chart. First one is done for you:",
+      "cleanText": "B. Listen to the text and complete the chart. First one is done for you:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.53,
+      "bbox": [
+        65.66,
+        123.55,
+        480.67,
+        137.38
+      ]
+    },
+    {
+      "id": "class8-english-p073-l005",
+      "lineNumber": 5,
+      "text": "U1, L4B",
+      "cleanText": "U1, L4B",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 48.0,
+      "bbox": [
+        216.86,
+        165.02,
+        269.28,
+        176.26
+      ]
+    },
+    {
+      "id": "class8-english-p073-l006",
+      "lineNumber": 6,
+      "text": "Listening text: 3",
+      "cleanText": "Listening text: 3",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        216.86,
+        182.88,
+        313.06,
+        195.84
+      ]
+    },
+    {
+      "id": "class8-english-p073-l007",
+      "lineNumber": 7,
+      "text": "1. Destination 1. Bangkok",
+      "cleanText": "1. Destination 1. Bangkok",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.69,
+        245.38,
+        374.11,
+        257.18
+      ]
+    },
+    {
+      "id": "class8-english-p073-l008",
+      "lineNumber": 8,
+      "text": "2. Name of the Airways 2.",
+      "cleanText": "2. Name of the Airways 2.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        85.54,
+        260.93,
+        322.85,
+        272.74
+      ]
+    },
+    {
+      "id": "class8-english-p073-l009",
+      "lineNumber": 9,
+      "text": "3. Flight no. 3.",
+      "cleanText": "3. Flight no. 3.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        85.54,
+        279.36,
+        322.85,
+        291.17
+      ]
+    },
+    {
+      "id": "class8-english-p073-l010",
+      "lineNumber": 10,
+      "text": "4. Row numbers of passengers called 4.",
+      "cleanText": "4. Row numbers of passengers called 4.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.29,
+      "bbox": [
+        85.25,
+        297.79,
+        322.85,
+        309.89
+      ]
+    },
+    {
+      "id": "class8-english-p073-l011",
+      "lineNumber": 11,
+      "text": "first to board",
+      "cleanText": "first to board",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        101.95,
+        316.51,
+        172.51,
+        325.73
+      ]
+    },
+    {
+      "id": "class8-english-p073-l012",
+      "lineNumber": 12,
+      "text": "5. Rows called for boarding last 5.",
+      "cleanText": "5. Rows called for boarding last 5.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        85.82,
+        334.94,
+        322.85,
+        346.75
+      ]
+    },
+    {
+      "id": "class8-english-p073-l013",
+      "lineNumber": 13,
+      "text": "6. Final call for boarding 6.",
+      "cleanText": "6. Final call for boarding 6.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        85.54,
+        353.38,
+        322.85,
+        365.18
+      ]
+    },
+    {
+      "id": "class8-english-p073-l014",
+      "lineNumber": 14,
+      "text": "Lesson 5: Announcements on Board (1)",
+      "cleanText": "Lesson 5: Announcements on Board (1)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.94,
+        410.69,
+        390.82,
+        427.68
+      ]
+    },
+    {
+      "id": "class8-english-p073-l015",
+      "lineNumber": 15,
+      "text": "Keywords: lavatory, cruising, altitude, descend, schedule, destination",
+      "cleanText": "Keywords: lavatory, cruising, altitude, descend, schedule, destination",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.29,
+      "bbox": [
+        69.98,
+        435.74,
+        456.19,
+        448.13
+      ]
+    },
+    {
+      "id": "class8-english-p073-l016",
+      "lineNumber": 16,
+      "text": "A. Look at the picture and talk about it:",
+      "cleanText": "A. Look at the picture and talk about it:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        69.7,
+        455.04,
+        310.18,
+        468.29
+      ]
+    },
+    {
+      "id": "class8-english-p073-l017",
+      "lineNumber": 17,
+      "text": "—] = =",
+      "cleanText": "—] = =",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 56.33,
+      "bbox": [
+        239.33,
+        483.26,
+        374.4,
+        494.78
+      ]
+    },
+    {
+      "id": "class8-english-p073-l018",
+      "lineNumber": 18,
+      "text": "—— ————",
+      "cleanText": "—— ————",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 37.5,
+      "bbox": [
+        180.58,
+        496.51,
+        404.64,
+        501.41
+      ]
+    },
+    {
+      "id": "class8-english-p073-l019",
+      "lineNumber": 19,
+      "text": "ZS ER",
+      "cleanText": "ZS ER",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 37.0,
+      "bbox": [
+        181.44,
+        528.48,
+        393.41,
+        560.74
+      ]
+    },
+    {
+      "id": "class8-english-p073-l020",
+      "lineNumber": 20,
+      "text": "fe i 1 1! —— 7 NX",
+      "cleanText": "fe i 1 1! —— 7 NX",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 43.0,
+      "bbox": [
+        204.48,
+        647.71,
+        510.05,
+        661.82
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p073-l001",
+      "lineNumber": 1,
+      "text": "68 English For Today",
+      "cleanText": "68 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        66.53,
+        48.1,
+        478.94,
+        59.04
+      ]
+    },
+    {
+      "id": "class8-english-p073-l002",
+      "lineNumber": 2,
+      "text": "3. Why are liquid, gel and cream not allowed on board a plane?",
+      "cleanText": "3. Why are liquid, gel and cream not allowed on board a plane?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.23,
+      "bbox": [
+        86.69,
+        76.9,
+        420.77,
+        91.87
+      ]
+    },
+    {
+      "id": "class8-english-p073-l003",
+      "lineNumber": 3,
+      "text": "4, Which row is Mita sitting in?",
+      "cleanText": "4, Which row is Mita sitting in?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.43,
+      "bbox": [
+        86.4,
+        97.06,
+        253.44,
+        109.44
+      ]
+    },
+    {
+      "id": "class8-english-p073-l004",
+      "lineNumber": 4,
+      "text": "B. Listen to the text and complete the chart. First one is done for you:",
+      "cleanText": "B. Listen to the text and complete the chart. First one is done for you:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.53,
+      "bbox": [
+        65.66,
+        123.55,
+        480.67,
+        137.38
+      ]
+    },
+    {
+      "id": "class8-english-p073-l005",
+      "lineNumber": 5,
+      "text": "U1, L4B",
+      "cleanText": "U1, L4B",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 48.0,
+      "bbox": [
+        216.86,
+        165.02,
+        269.28,
+        176.26
+      ]
+    },
+    {
+      "id": "class8-english-p073-l006",
+      "lineNumber": 6,
+      "text": "Listening text: 3",
+      "cleanText": "Listening text: 3",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        216.86,
+        182.88,
+        313.06,
+        195.84
+      ]
+    },
+    {
+      "id": "class8-english-p073-l007",
+      "lineNumber": 7,
+      "text": "1. Destination 1. Bangkok",
+      "cleanText": "1. Destination 1. Bangkok",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        86.69,
+        245.38,
+        374.11,
+        257.18
+      ]
+    },
+    {
+      "id": "class8-english-p073-l008",
+      "lineNumber": 8,
+      "text": "2. Name of the Airways 2.",
+      "cleanText": "2. Name of the Airways 2.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        85.54,
+        260.93,
+        322.85,
+        272.74
+      ]
+    },
+    {
+      "id": "class8-english-p073-l009",
+      "lineNumber": 9,
+      "text": "3. Flight no. 3.",
+      "cleanText": "3. Flight no. 3.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        85.54,
+        279.36,
+        322.85,
+        291.17
+      ]
+    },
+    {
+      "id": "class8-english-p073-l010",
+      "lineNumber": 10,
+      "text": "4. Row numbers of passengers called 4.",
+      "cleanText": "4. Row numbers of passengers called 4.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.29,
+      "bbox": [
+        85.25,
+        297.79,
+        322.85,
+        309.89
+      ]
+    },
+    {
+      "id": "class8-english-p073-l011",
+      "lineNumber": 11,
+      "text": "first to board",
+      "cleanText": "first to board",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        101.95,
+        316.51,
+        172.51,
+        325.73
+      ]
+    },
+    {
+      "id": "class8-english-p073-l012",
+      "lineNumber": 12,
+      "text": "5. Rows called for boarding last 5.",
+      "cleanText": "5. Rows called for boarding last 5.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        85.82,
+        334.94,
+        322.85,
+        346.75
+      ]
+    },
+    {
+      "id": "class8-english-p073-l013",
+      "lineNumber": 13,
+      "text": "6. Final call for boarding 6.",
+      "cleanText": "6. Final call for boarding 6.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        85.54,
+        353.38,
+        322.85,
+        365.18
+      ]
+    },
+    {
+      "id": "class8-english-p073-l014",
+      "lineNumber": 14,
+      "text": "Lesson 5: Announcements on Board (1)",
+      "cleanText": "Lesson 5: Announcements on Board (1)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.94,
+        410.69,
+        390.82,
+        427.68
+      ]
+    },
+    {
+      "id": "class8-english-p073-l015",
+      "lineNumber": 15,
+      "text": "Keywords: lavatory, cruising, altitude, descend, schedule, destination",
+      "cleanText": "Keywords: lavatory, cruising, altitude, descend, schedule, destination",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.29,
+      "bbox": [
+        69.98,
+        435.74,
+        456.19,
+        448.13
+      ]
+    },
+    {
+      "id": "class8-english-p073-l016",
+      "lineNumber": 16,
+      "text": "A. Look at the picture and talk about it:",
+      "cleanText": "A. Look at the picture and talk about it:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        69.7,
+        455.04,
+        310.18,
+        468.29
+      ]
+    },
+    {
+      "id": "class8-english-p073-l019",
+      "lineNumber": 19,
+      "text": "ZS ER",
+      "cleanText": "ZS ER",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 37.0,
+      "bbox": [
+        181.44,
+        528.48,
+        393.41,
+        560.74
+      ]
+    },
+    {
+      "id": "class8-english-p073-l020",
+      "lineNumber": 20,
+      "text": "fe i 1 1! —— 7 NX",
+      "cleanText": "fe i 1 1! —— 7 NX",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 43.0,
+      "bbox": [
+        204.48,
+        647.71,
+        510.05,
+        661.82
+      ]
+    }
+  ],
+  "lineCount": 20,
+  "aiReadyLineCount": 18,
+  "averageConfidence": 82.36,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:17:39.486783+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

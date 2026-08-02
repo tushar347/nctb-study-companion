@@ -1,0 +1,732 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 126,
+  "pdfPage": 126,
+  "textbookPage": 126,
+  "width": 532.47,
+  "height": 692.96,
+  "image": "../images/page-126.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Things That Have Changed Our Lives 121\nE. Look at the following picture of a railway station in Bangladesh. Now\nwork in pairs:\noC ie EES i Le\n\\ —\nDhaka Airport Railway station\nName: Bangladesh Railway\n¢ Headquarters: Dhaka\n¢ Zones: Eastern and Western\n¢ Numbers of stations: 498 (2019-2020); number of engines: 476; number\nof passenger carriages: 2016; number of wagons: 3221\n¢ Total length of railroad: 3600 kilometres; passengers transported\nannually: 90 million; total number of employees: 24727\n¢ Nature of present operations: international (Dhaka-Various cities of India);\ninter-city; local\nF. Work in pairs. Imagine your partner is a railway official and you\nare a reporter. You asked questions and the official gave the above\ninformation (section E) in answers. Discuss and write what the\nquestions might be:\nFor example:\n1. What is the official name of our rail service?\n2. Where is the headquarters of Bangladesh Railway?\nNow continue...\nForma-16, English For Today Class-8",
+  "cleanText": "Things That Have Changed Our Lives 121 E. Look at the following picture of a railway station in Bangladesh. Now work in pairs: oC ie EES i Le \\ — Dhaka Airport Railway station Name: Bangladesh Railway ¢ Headquarters: Dhaka ¢ Zones: Eastern and Western ¢ Numbers of stations: 498 (2019-2020); number of engines: 476; number of passenger carriages: 2016; number of wagons: 3221 ¢ Total length of railroad: 3600 kilometres; passengers transported annually: 90 million; total number of employees: 24727 ¢ Nature of present operations: international (Dhaka-Various cities of India); inter-city; local F. Work in pairs. Imagine your partner is a railway official and you are a reporter. You asked questions and the official gave the above information (section E) in answers. Discuss and write what the questions might be: For example: 1. What is the official name of our rail service? 2. Where is the headquarters of Bangladesh Railway? Now continue... Forma-16, English For Today Class-8",
+  "aiReadyText": "Things That Have Changed Our Lives 121 E. Look at the following picture of a railway station in Bangladesh. Now work in pairs: oC ie EES i Le Dhaka Airport Railway station Name: Bangladesh Railway ¢ Headquarters: Dhaka ¢ Zones: Eastern and Western ¢ Numbers of stations: 498 (2019-2020); number of engines: 476; number of passenger carriages: 2016; number of wagons: 3221 ¢ Total length of railroad: 3600 kilometres; passengers transported annually: 90 million; total number of employees: 24727 ¢ Nature of present operations: international (Dhaka-Various cities of India); inter-city; local F. Work in pairs. Imagine your partner is a railway official and you are a reporter. You asked questions and the official gave the above information (section E) in answers. Discuss and write what the questions might be: For example: 1. What is the official name of our rail service? 2. Where is the headquarters of Bangladesh Railway? Now continue... Forma-16, English For Today Class-8",
+  "lines": [
+    {
+      "id": "class8-english-p126-l001",
+      "lineNumber": 1,
+      "text": "Things That Have Changed Our Lives 121",
+      "cleanText": "Things That Have Changed Our Lives 121",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.29,
+      "bbox": [
+        62.21,
+        41.18,
+        472.32,
+        53.28
+      ]
+    },
+    {
+      "id": "class8-english-p126-l002",
+      "lineNumber": 2,
+      "text": "E. Look at the following picture of a railway station in Bangladesh. Now",
+      "cleanText": "E. Look at the following picture of a railway station in Bangladesh. Now",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.08,
+      "bbox": [
+        62.78,
+        69.7,
+        466.27,
+        80.93
+      ]
+    },
+    {
+      "id": "class8-english-p126-l003",
+      "lineNumber": 3,
+      "text": "work in pairs:",
+      "cleanText": "work in pairs:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        62.5,
+        84.96,
+        140.54,
+        96.48
+      ]
+    },
+    {
+      "id": "class8-english-p126-l004",
+      "lineNumber": 4,
+      "text": "oC ie EES i Le",
+      "cleanText": "oC ie EES i Le",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 33.6,
+      "bbox": [
+        148.61,
+        170.78,
+        364.32,
+        180.58
+      ]
+    },
+    {
+      "id": "class8-english-p126-l005",
+      "lineNumber": 5,
+      "text": "\\ —",
+      "cleanText": "\\ —",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 45.5,
+      "bbox": [
+        276.19,
+        201.89,
+        341.28,
+        233.86
+      ]
+    },
+    {
+      "id": "class8-english-p126-l006",
+      "lineNumber": 6,
+      "text": "Dhaka Airport Railway station",
+      "cleanText": "Dhaka Airport Railway station",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        184.32,
+        245.66,
+        330.62,
+        256.32
+      ]
+    },
+    {
+      "id": "class8-english-p126-l007",
+      "lineNumber": 7,
+      "text": "Name: Bangladesh Railway",
+      "cleanText": "Name: Bangladesh Railway",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.48,
+        263.81,
+        205.63,
+        275.33
+      ]
+    },
+    {
+      "id": "class8-english-p126-l008",
+      "lineNumber": 8,
+      "text": "¢ Headquarters: Dhaka",
+      "cleanText": "¢ Headquarters: Dhaka",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 83.33,
+      "bbox": [
+        82.37,
+        284.54,
+        209.38,
+        296.06
+      ]
+    },
+    {
+      "id": "class8-english-p126-l009",
+      "lineNumber": 9,
+      "text": "¢ Zones: Eastern and Western",
+      "cleanText": "¢ Zones: Eastern and Western",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.6,
+      "bbox": [
+        82.37,
+        300.96,
+        243.94,
+        310.18
+      ]
+    },
+    {
+      "id": "class8-english-p126-l010",
+      "lineNumber": 10,
+      "text": "¢ Numbers of stations: 498 (2019-2020); number of engines: 476; number",
+      "cleanText": "¢ Numbers of stations: 498 (2019-2020); number of engines: 476; number",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.55,
+      "bbox": [
+        83.81,
+        319.68,
+        474.34,
+        331.49
+      ]
+    },
+    {
+      "id": "class8-english-p126-l011",
+      "lineNumber": 11,
+      "text": "of passenger carriages: 2016; number of wagons: 3221",
+      "cleanText": "of passenger carriages: 2016; number of wagons: 3221",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.25,
+      "bbox": [
+        99.94,
+        335.52,
+        386.78,
+        347.33
+      ]
+    },
+    {
+      "id": "class8-english-p126-l012",
+      "lineNumber": 12,
+      "text": "¢ Total length of railroad: 3600 kilometres; passengers transported",
+      "cleanText": "¢ Total length of railroad: 3600 kilometres; passengers transported",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.78,
+      "bbox": [
+        83.81,
+        355.1,
+        474.91,
+        366.62
+      ]
+    },
+    {
+      "id": "class8-english-p126-l013",
+      "lineNumber": 13,
+      "text": "annually: 90 million; total number of employees: 24727",
+      "cleanText": "annually: 90 million; total number of employees: 24727",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        99.07,
+        369.79,
+        391.39,
+        382.18
+      ]
+    },
+    {
+      "id": "class8-english-p126-l014",
+      "lineNumber": 14,
+      "text": "¢ Nature of present operations: international (Dhaka-Various cities of India);",
+      "cleanText": "¢ Nature of present operations: international (Dhaka-Various cities of India);",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.7,
+      "bbox": [
+        83.81,
+        387.36,
+        474.62,
+        399.46
+      ]
+    },
+    {
+      "id": "class8-english-p126-l015",
+      "lineNumber": 15,
+      "text": "inter-city; local",
+      "cleanText": "inter-city; local",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        100.8,
+        406.66,
+        175.39,
+        418.46
+      ]
+    },
+    {
+      "id": "class8-english-p126-l016",
+      "lineNumber": 16,
+      "text": "F. Work in pairs. Imagine your partner is a railway official and you",
+      "cleanText": "F. Work in pairs. Imagine your partner is a railway official and you",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        61.06,
+        425.09,
+        473.76,
+        436.32
+      ]
+    },
+    {
+      "id": "class8-english-p126-l017",
+      "lineNumber": 17,
+      "text": "are a reporter. You asked questions and the official gave the above",
+      "cleanText": "are a reporter. You asked questions and the official gave the above",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        83.52,
+        440.64,
+        472.9,
+        452.16
+      ]
+    },
+    {
+      "id": "class8-english-p126-l018",
+      "lineNumber": 18,
+      "text": "information (section E) in answers. Discuss and write what the",
+      "cleanText": "information (section E) in answers. Discuss and write what the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.1,
+      "bbox": [
+        83.52,
+        456.48,
+        474.91,
+        467.42
+      ]
+    },
+    {
+      "id": "class8-english-p126-l019",
+      "lineNumber": 19,
+      "text": "questions might be:",
+      "cleanText": "questions might be:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        82.08,
+        471.74,
+        197.86,
+        483.26
+      ]
+    },
+    {
+      "id": "class8-english-p126-l020",
+      "lineNumber": 20,
+      "text": "For example:",
+      "cleanText": "For example:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        82.94,
+        492.77,
+        158.98,
+        504.0
+      ]
+    },
+    {
+      "id": "class8-english-p126-l021",
+      "lineNumber": 21,
+      "text": "1. What is the official name of our rail service?",
+      "cleanText": "1. What is the official name of our rail service?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.4,
+      "bbox": [
+        82.94,
+        509.18,
+        334.94,
+        518.11
+      ]
+    },
+    {
+      "id": "class8-english-p126-l022",
+      "lineNumber": 22,
+      "text": "2. Where is the headquarters of Bangladesh Railway?",
+      "cleanText": "2. Where is the headquarters of Bangladesh Railway?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.62,
+      "bbox": [
+        81.79,
+        525.89,
+        368.35,
+        537.41
+      ]
+    },
+    {
+      "id": "class8-english-p126-l023",
+      "lineNumber": 23,
+      "text": "Now continue...",
+      "cleanText": "Now continue...",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.77,
+        546.62,
+        148.9,
+        555.55
+      ]
+    },
+    {
+      "id": "class8-english-p126-l024",
+      "lineNumber": 24,
+      "text": "Forma-16, English For Today Class-8",
+      "cleanText": "Forma-16, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.8,
+      "bbox": [
+        60.19,
+        664.7,
+        225.5,
+        674.78
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p126-l001",
+      "lineNumber": 1,
+      "text": "Things That Have Changed Our Lives 121",
+      "cleanText": "Things That Have Changed Our Lives 121",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.29,
+      "bbox": [
+        62.21,
+        41.18,
+        472.32,
+        53.28
+      ]
+    },
+    {
+      "id": "class8-english-p126-l002",
+      "lineNumber": 2,
+      "text": "E. Look at the following picture of a railway station in Bangladesh. Now",
+      "cleanText": "E. Look at the following picture of a railway station in Bangladesh. Now",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.08,
+      "bbox": [
+        62.78,
+        69.7,
+        466.27,
+        80.93
+      ]
+    },
+    {
+      "id": "class8-english-p126-l003",
+      "lineNumber": 3,
+      "text": "work in pairs:",
+      "cleanText": "work in pairs:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        62.5,
+        84.96,
+        140.54,
+        96.48
+      ]
+    },
+    {
+      "id": "class8-english-p126-l004",
+      "lineNumber": 4,
+      "text": "oC ie EES i Le",
+      "cleanText": "oC ie EES i Le",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 33.6,
+      "bbox": [
+        148.61,
+        170.78,
+        364.32,
+        180.58
+      ]
+    },
+    {
+      "id": "class8-english-p126-l006",
+      "lineNumber": 6,
+      "text": "Dhaka Airport Railway station",
+      "cleanText": "Dhaka Airport Railway station",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        184.32,
+        245.66,
+        330.62,
+        256.32
+      ]
+    },
+    {
+      "id": "class8-english-p126-l007",
+      "lineNumber": 7,
+      "text": "Name: Bangladesh Railway",
+      "cleanText": "Name: Bangladesh Railway",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.48,
+        263.81,
+        205.63,
+        275.33
+      ]
+    },
+    {
+      "id": "class8-english-p126-l008",
+      "lineNumber": 8,
+      "text": "¢ Headquarters: Dhaka",
+      "cleanText": "¢ Headquarters: Dhaka",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 83.33,
+      "bbox": [
+        82.37,
+        284.54,
+        209.38,
+        296.06
+      ]
+    },
+    {
+      "id": "class8-english-p126-l009",
+      "lineNumber": 9,
+      "text": "¢ Zones: Eastern and Western",
+      "cleanText": "¢ Zones: Eastern and Western",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.6,
+      "bbox": [
+        82.37,
+        300.96,
+        243.94,
+        310.18
+      ]
+    },
+    {
+      "id": "class8-english-p126-l010",
+      "lineNumber": 10,
+      "text": "¢ Numbers of stations: 498 (2019-2020); number of engines: 476; number",
+      "cleanText": "¢ Numbers of stations: 498 (2019-2020); number of engines: 476; number",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.55,
+      "bbox": [
+        83.81,
+        319.68,
+        474.34,
+        331.49
+      ]
+    },
+    {
+      "id": "class8-english-p126-l011",
+      "lineNumber": 11,
+      "text": "of passenger carriages: 2016; number of wagons: 3221",
+      "cleanText": "of passenger carriages: 2016; number of wagons: 3221",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.25,
+      "bbox": [
+        99.94,
+        335.52,
+        386.78,
+        347.33
+      ]
+    },
+    {
+      "id": "class8-english-p126-l012",
+      "lineNumber": 12,
+      "text": "¢ Total length of railroad: 3600 kilometres; passengers transported",
+      "cleanText": "¢ Total length of railroad: 3600 kilometres; passengers transported",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.78,
+      "bbox": [
+        83.81,
+        355.1,
+        474.91,
+        366.62
+      ]
+    },
+    {
+      "id": "class8-english-p126-l013",
+      "lineNumber": 13,
+      "text": "annually: 90 million; total number of employees: 24727",
+      "cleanText": "annually: 90 million; total number of employees: 24727",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.62,
+      "bbox": [
+        99.07,
+        369.79,
+        391.39,
+        382.18
+      ]
+    },
+    {
+      "id": "class8-english-p126-l014",
+      "lineNumber": 14,
+      "text": "¢ Nature of present operations: international (Dhaka-Various cities of India);",
+      "cleanText": "¢ Nature of present operations: international (Dhaka-Various cities of India);",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.7,
+      "bbox": [
+        83.81,
+        387.36,
+        474.62,
+        399.46
+      ]
+    },
+    {
+      "id": "class8-english-p126-l015",
+      "lineNumber": 15,
+      "text": "inter-city; local",
+      "cleanText": "inter-city; local",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        100.8,
+        406.66,
+        175.39,
+        418.46
+      ]
+    },
+    {
+      "id": "class8-english-p126-l016",
+      "lineNumber": 16,
+      "text": "F. Work in pairs. Imagine your partner is a railway official and you",
+      "cleanText": "F. Work in pairs. Imagine your partner is a railway official and you",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        61.06,
+        425.09,
+        473.76,
+        436.32
+      ]
+    },
+    {
+      "id": "class8-english-p126-l017",
+      "lineNumber": 17,
+      "text": "are a reporter. You asked questions and the official gave the above",
+      "cleanText": "are a reporter. You asked questions and the official gave the above",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        83.52,
+        440.64,
+        472.9,
+        452.16
+      ]
+    },
+    {
+      "id": "class8-english-p126-l018",
+      "lineNumber": 18,
+      "text": "information (section E) in answers. Discuss and write what the",
+      "cleanText": "information (section E) in answers. Discuss and write what the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.1,
+      "bbox": [
+        83.52,
+        456.48,
+        474.91,
+        467.42
+      ]
+    },
+    {
+      "id": "class8-english-p126-l019",
+      "lineNumber": 19,
+      "text": "questions might be:",
+      "cleanText": "questions might be:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        82.08,
+        471.74,
+        197.86,
+        483.26
+      ]
+    },
+    {
+      "id": "class8-english-p126-l020",
+      "lineNumber": 20,
+      "text": "For example:",
+      "cleanText": "For example:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        82.94,
+        492.77,
+        158.98,
+        504.0
+      ]
+    },
+    {
+      "id": "class8-english-p126-l021",
+      "lineNumber": 21,
+      "text": "1. What is the official name of our rail service?",
+      "cleanText": "1. What is the official name of our rail service?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.4,
+      "bbox": [
+        82.94,
+        509.18,
+        334.94,
+        518.11
+      ]
+    },
+    {
+      "id": "class8-english-p126-l022",
+      "lineNumber": 22,
+      "text": "2. Where is the headquarters of Bangladesh Railway?",
+      "cleanText": "2. Where is the headquarters of Bangladesh Railway?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.62,
+      "bbox": [
+        81.79,
+        525.89,
+        368.35,
+        537.41
+      ]
+    },
+    {
+      "id": "class8-english-p126-l023",
+      "lineNumber": 23,
+      "text": "Now continue...",
+      "cleanText": "Now continue...",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        60.77,
+        546.62,
+        148.9,
+        555.55
+      ]
+    },
+    {
+      "id": "class8-english-p126-l024",
+      "lineNumber": 24,
+      "text": "Forma-16, English For Today Class-8",
+      "cleanText": "Forma-16, English For Today Class-8",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.8,
+      "bbox": [
+        60.19,
+        664.7,
+        225.5,
+        674.78
+      ]
+    }
+  ],
+  "lineCount": 24,
+  "aiReadyLineCount": 23,
+  "averageConfidence": 89.09,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:59.936153+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

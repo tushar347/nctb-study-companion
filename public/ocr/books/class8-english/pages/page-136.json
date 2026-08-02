@@ -1,0 +1,957 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 136,
+  "pdfPage": 136,
+  "textbookPage": 136,
+  "width": 542.0,
+  "height": 714.0,
+  "image": "../images/page-136.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Things That Have Changed Our Lives 131\nB. Read the poem and answer the following questions:\nContemplation\nFor days and days I’ve climbed a tree\nA dappled yellow tree\nAnd gazed abroad at many things\nI’ve always wished to see.\nI see the green and gentle fields\nAll bounded in with hedge\nAnd shining rivers swimming through\nThe rushes on the edge,\nAnd little sheep who play all day\nI watch them as they run,\nWhile far away the roofs of town\nAre shining in the sun.\nI think it’s very nice to sit\nSo high and look so far----\nHow very large the world can be!\nHow many things there are!\nJohn Carpenter\nNote\ndappled yellow tree - spotted yellow tree (the leaves may be yellow)\ngazed abroad - looked around\nbounded - surrounded\nhedge - a thick row of bushes\nswimming through - (the river like a person is swimming through) flowing through\nrushes - tall plants that grow on the river's edge\nC. Ask and answer these questions:\n1. Where do you think the tree was?\nS 2. What were the four things the poet could see from the tree?\nS 3. Have you ever climbed a tree? If yes, what did you do it for? If not, why?",
+  "cleanText": "Things That Have Changed Our Lives 131 B. Read the poem and answer the following questions: Contemplation For days and days I’ve climbed a tree A dappled yellow tree And gazed abroad at many things I’ve always wished to see. I see the green and gentle fields All bounded in with hedge And shining rivers swimming through The rushes on the edge, And little sheep who play all day I watch them as they run, While far away the roofs of town Are shining in the sun. I think it’s very nice to sit So high and look so far---- How very large the world can be! How many things there are! John Carpenter Note dappled yellow tree - spotted yellow tree (the leaves may be yellow) gazed abroad - looked around bounded - surrounded hedge - a thick row of bushes swimming through - (the river like a person is swimming through) flowing through rushes - tall plants that grow on the river's edge C. Ask and answer these questions: 1. Where do you think the tree was? S 2. What were the four things the poet could see from the tree? S 3. Have you ever climbed a tree? If yes, what did you do it for? If not, why?",
+  "aiReadyText": "Things That Have Changed Our Lives 131 B. Read the poem and answer the following questions: Contemplation For days and days I’ve climbed a tree A dappled yellow tree And gazed abroad at many things I’ve always wished to see. I see the green and gentle fields All bounded in with hedge And shining rivers swimming through The rushes on the edge, And little sheep who play all day I watch them as they run, While far away the roofs of town Are shining in the sun. I think it’s very nice to sit So high and look so far---- How very large the world can be! How many things there are! John Carpenter Note dappled yellow tree - spotted yellow tree (the leaves may be yellow) gazed abroad - looked around bounded - surrounded hedge - a thick row of bushes swimming through - (the river like a person is swimming through) flowing through rushes - tall plants that grow on the river's edge C. Ask and answer these questions: 1. Where do you think the tree was? S 2. What were the four things the poet could see from the tree? S 3. Have you ever climbed a tree? If yes, what did you do it for? If not, why?",
+  "lines": [
+    {
+      "id": "class8-english-p136-l001",
+      "lineNumber": 1,
+      "text": "Things That Have Changed Our Lives 131",
+      "cleanText": "Things That Have Changed Our Lives 131",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        68.26,
+        48.96,
+        481.25,
+        59.9
+      ]
+    },
+    {
+      "id": "class8-english-p136-l002",
+      "lineNumber": 2,
+      "text": "B. Read the poem and answer the following questions:",
+      "cleanText": "B. Read the poem and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.56,
+      "bbox": [
+        68.54,
+        73.15,
+        373.25,
+        84.96
+      ]
+    },
+    {
+      "id": "class8-english-p136-l003",
+      "lineNumber": 3,
+      "text": "Contemplation",
+      "cleanText": "Contemplation",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        222.91,
+        96.77,
+        317.66,
+        110.02
+      ]
+    },
+    {
+      "id": "class8-english-p136-l004",
+      "lineNumber": 4,
+      "text": "For days and days I’ve climbed a tree",
+      "cleanText": "For days and days I’ve climbed a tree",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        172.8,
+        126.14,
+        367.49,
+        140.26
+      ]
+    },
+    {
+      "id": "class8-english-p136-l005",
+      "lineNumber": 5,
+      "text": "A dappled yellow tree",
+      "cleanText": "A dappled yellow tree",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        213.12,
+        145.73,
+        327.17,
+        157.82
+      ]
+    },
+    {
+      "id": "class8-english-p136-l006",
+      "lineNumber": 6,
+      "text": "And gazed abroad at many things",
+      "cleanText": "And gazed abroad at many things",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        183.17,
+        164.45,
+        357.12,
+        176.26
+      ]
+    },
+    {
+      "id": "class8-english-p136-l007",
+      "lineNumber": 7,
+      "text": "I’ve always wished to see.",
+      "cleanText": "I’ve always wished to see.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.4,
+      "bbox": [
+        202.18,
+        182.88,
+        337.82,
+        194.69
+      ]
+    },
+    {
+      "id": "class8-english-p136-l008",
+      "lineNumber": 8,
+      "text": "I see the green and gentle fields",
+      "cleanText": "I see the green and gentle fields",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        193.25,
+        212.26,
+        357.12,
+        224.06
+      ]
+    },
+    {
+      "id": "class8-english-p136-l009",
+      "lineNumber": 9,
+      "text": "All bounded in with hedge",
+      "cleanText": "All bounded in with hedge",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        205.92,
+        230.69,
+        344.16,
+        242.78
+      ]
+    },
+    {
+      "id": "class8-english-p136-l010",
+      "lineNumber": 10,
+      "text": "And shining rivers swimming through",
+      "cleanText": "And shining rivers swimming through",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        175.97,
+        249.41,
+        374.4,
+        261.22
+      ]
+    },
+    {
+      "id": "class8-english-p136-l011",
+      "lineNumber": 11,
+      "text": "The rushes on the edge,",
+      "cleanText": "The rushes on the edge,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        213.98,
+        267.84,
+        336.1,
+        279.65
+      ]
+    },
+    {
+      "id": "class8-english-p136-l012",
+      "lineNumber": 12,
+      "text": "And little sheep who play all day",
+      "cleanText": "And little sheep who play all day",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        189.22,
+        286.27,
+        360.86,
+        298.08
+      ]
+    },
+    {
+      "id": "class8-english-p136-l013",
+      "lineNumber": 13,
+      "text": "I watch them as they run,",
+      "cleanText": "I watch them as they run,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        209.66,
+        304.7,
+        340.13,
+        316.8
+      ]
+    },
+    {
+      "id": "class8-english-p136-l014",
+      "lineNumber": 14,
+      "text": "While far away the roofs of town",
+      "cleanText": "While far away the roofs of town",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        188.93,
+        323.42,
+        361.15,
+        335.23
+      ]
+    },
+    {
+      "id": "class8-english-p136-l015",
+      "lineNumber": 15,
+      "text": "Are shining in the sun.",
+      "cleanText": "Are shining in the sun.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        216.29,
+        341.86,
+        333.22,
+        353.66
+      ]
+    },
+    {
+      "id": "class8-english-p136-l016",
+      "lineNumber": 16,
+      "text": "I think it’s very nice to sit",
+      "cleanText": "I think it’s very nice to sit",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        208.8,
+        372.96,
+        341.86,
+        384.77
+      ]
+    },
+    {
+      "id": "class8-english-p136-l017",
+      "lineNumber": 17,
+      "text": "So high and look so far----",
+      "cleanText": "So high and look so far----",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.33,
+      "bbox": [
+        206.78,
+        391.39,
+        343.58,
+        403.2
+      ]
+    },
+    {
+      "id": "class8-english-p136-l018",
+      "lineNumber": 18,
+      "text": "How very large the world can be!",
+      "cleanText": "How very large the world can be!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        188.35,
+        409.82,
+        360.86,
+        421.63
+      ]
+    },
+    {
+      "id": "class8-english-p136-l019",
+      "lineNumber": 19,
+      "text": "How many things there are!",
+      "cleanText": "How many things there are!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        202.75,
+        428.26,
+        346.18,
+        440.06
+      ]
+    },
+    {
+      "id": "class8-english-p136-l020",
+      "lineNumber": 20,
+      "text": "John Carpenter",
+      "cleanText": "John Carpenter",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        279.36,
+        446.98,
+        362.02,
+        458.78
+      ]
+    },
+    {
+      "id": "class8-english-p136-l021",
+      "lineNumber": 21,
+      "text": "Note",
+      "cleanText": "Note",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        70.85,
+        465.7,
+        96.19,
+        474.34
+      ]
+    },
+    {
+      "id": "class8-english-p136-l022",
+      "lineNumber": 22,
+      "text": "dappled yellow tree - spotted yellow tree (the leaves may be yellow)",
+      "cleanText": "dappled yellow tree - spotted yellow tree (the leaves may be yellow)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        70.85,
+        482.69,
+        431.14,
+        494.5
+      ]
+    },
+    {
+      "id": "class8-english-p136-l023",
+      "lineNumber": 23,
+      "text": "gazed abroad - looked around",
+      "cleanText": "gazed abroad - looked around",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.4,
+      "bbox": [
+        70.85,
+        500.26,
+        230.4,
+        512.06
+      ]
+    },
+    {
+      "id": "class8-english-p136-l024",
+      "lineNumber": 24,
+      "text": "bounded - surrounded",
+      "cleanText": "bounded - surrounded",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.33,
+      "bbox": [
+        70.85,
+        517.82,
+        188.06,
+        527.04
+      ]
+    },
+    {
+      "id": "class8-english-p136-l025",
+      "lineNumber": 25,
+      "text": "hedge - a thick row of bushes",
+      "cleanText": "hedge - a thick row of bushes",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        70.85,
+        534.24,
+        224.64,
+        546.05
+      ]
+    },
+    {
+      "id": "class8-english-p136-l026",
+      "lineNumber": 26,
+      "text": "swimming through - (the river like a person is swimming through) flowing through",
+      "cleanText": "swimming through - (the river like a person is swimming through) flowing through",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        70.85,
+        550.66,
+        484.99,
+        562.46
+      ]
+    },
+    {
+      "id": "class8-english-p136-l027",
+      "lineNumber": 27,
+      "text": "rushes - tall plants that grow on the river's edge",
+      "cleanText": "rushes - tall plants that grow on the river's edge",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.1,
+      "bbox": [
+        71.14,
+        567.07,
+        319.1,
+        581.18
+      ]
+    },
+    {
+      "id": "class8-english-p136-l028",
+      "lineNumber": 28,
+      "text": "C. Ask and answer these questions:",
+      "cleanText": "C. Ask and answer these questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        70.85,
+        591.84,
+        270.14,
+        603.65
+      ]
+    },
+    {
+      "id": "class8-english-p136-l029",
+      "lineNumber": 29,
+      "text": "1. Where do you think the tree was?",
+      "cleanText": "1. Where do you think the tree was?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        93.02,
+        610.27,
+        287.14,
+        622.08
+      ]
+    },
+    {
+      "id": "class8-english-p136-l030",
+      "lineNumber": 30,
+      "text": "S 2. What were the four things the poet could see from the tree?",
+      "cleanText": "S 2. What were the four things the poet could see from the tree?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.0,
+      "bbox": [
+        43.2,
+        627.55,
+        421.06,
+        642.24
+      ]
+    },
+    {
+      "id": "class8-english-p136-l031",
+      "lineNumber": 31,
+      "text": "S 3. Have you ever climbed a tree? If yes, what did you do it for? If not, why?",
+      "cleanText": "S 3. Have you ever climbed a tree? If yes, what did you do it for? If not, why?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.21,
+      "bbox": [
+        42.91,
+        643.1,
+        484.13,
+        660.67
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p136-l001",
+      "lineNumber": 1,
+      "text": "Things That Have Changed Our Lives 131",
+      "cleanText": "Things That Have Changed Our Lives 131",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        68.26,
+        48.96,
+        481.25,
+        59.9
+      ]
+    },
+    {
+      "id": "class8-english-p136-l002",
+      "lineNumber": 2,
+      "text": "B. Read the poem and answer the following questions:",
+      "cleanText": "B. Read the poem and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.56,
+      "bbox": [
+        68.54,
+        73.15,
+        373.25,
+        84.96
+      ]
+    },
+    {
+      "id": "class8-english-p136-l003",
+      "lineNumber": 3,
+      "text": "Contemplation",
+      "cleanText": "Contemplation",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        222.91,
+        96.77,
+        317.66,
+        110.02
+      ]
+    },
+    {
+      "id": "class8-english-p136-l004",
+      "lineNumber": 4,
+      "text": "For days and days I’ve climbed a tree",
+      "cleanText": "For days and days I’ve climbed a tree",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        172.8,
+        126.14,
+        367.49,
+        140.26
+      ]
+    },
+    {
+      "id": "class8-english-p136-l005",
+      "lineNumber": 5,
+      "text": "A dappled yellow tree",
+      "cleanText": "A dappled yellow tree",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        213.12,
+        145.73,
+        327.17,
+        157.82
+      ]
+    },
+    {
+      "id": "class8-english-p136-l006",
+      "lineNumber": 6,
+      "text": "And gazed abroad at many things",
+      "cleanText": "And gazed abroad at many things",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        183.17,
+        164.45,
+        357.12,
+        176.26
+      ]
+    },
+    {
+      "id": "class8-english-p136-l007",
+      "lineNumber": 7,
+      "text": "I’ve always wished to see.",
+      "cleanText": "I’ve always wished to see.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.4,
+      "bbox": [
+        202.18,
+        182.88,
+        337.82,
+        194.69
+      ]
+    },
+    {
+      "id": "class8-english-p136-l008",
+      "lineNumber": 8,
+      "text": "I see the green and gentle fields",
+      "cleanText": "I see the green and gentle fields",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        193.25,
+        212.26,
+        357.12,
+        224.06
+      ]
+    },
+    {
+      "id": "class8-english-p136-l009",
+      "lineNumber": 9,
+      "text": "All bounded in with hedge",
+      "cleanText": "All bounded in with hedge",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        205.92,
+        230.69,
+        344.16,
+        242.78
+      ]
+    },
+    {
+      "id": "class8-english-p136-l010",
+      "lineNumber": 10,
+      "text": "And shining rivers swimming through",
+      "cleanText": "And shining rivers swimming through",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        175.97,
+        249.41,
+        374.4,
+        261.22
+      ]
+    },
+    {
+      "id": "class8-english-p136-l011",
+      "lineNumber": 11,
+      "text": "The rushes on the edge,",
+      "cleanText": "The rushes on the edge,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        213.98,
+        267.84,
+        336.1,
+        279.65
+      ]
+    },
+    {
+      "id": "class8-english-p136-l012",
+      "lineNumber": 12,
+      "text": "And little sheep who play all day",
+      "cleanText": "And little sheep who play all day",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        189.22,
+        286.27,
+        360.86,
+        298.08
+      ]
+    },
+    {
+      "id": "class8-english-p136-l013",
+      "lineNumber": 13,
+      "text": "I watch them as they run,",
+      "cleanText": "I watch them as they run,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.83,
+      "bbox": [
+        209.66,
+        304.7,
+        340.13,
+        316.8
+      ]
+    },
+    {
+      "id": "class8-english-p136-l014",
+      "lineNumber": 14,
+      "text": "While far away the roofs of town",
+      "cleanText": "While far away the roofs of town",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.86,
+      "bbox": [
+        188.93,
+        323.42,
+        361.15,
+        335.23
+      ]
+    },
+    {
+      "id": "class8-english-p136-l015",
+      "lineNumber": 15,
+      "text": "Are shining in the sun.",
+      "cleanText": "Are shining in the sun.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        216.29,
+        341.86,
+        333.22,
+        353.66
+      ]
+    },
+    {
+      "id": "class8-english-p136-l016",
+      "lineNumber": 16,
+      "text": "I think it’s very nice to sit",
+      "cleanText": "I think it’s very nice to sit",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        208.8,
+        372.96,
+        341.86,
+        384.77
+      ]
+    },
+    {
+      "id": "class8-english-p136-l017",
+      "lineNumber": 17,
+      "text": "So high and look so far----",
+      "cleanText": "So high and look so far----",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.33,
+      "bbox": [
+        206.78,
+        391.39,
+        343.58,
+        403.2
+      ]
+    },
+    {
+      "id": "class8-english-p136-l018",
+      "lineNumber": 18,
+      "text": "How very large the world can be!",
+      "cleanText": "How very large the world can be!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        188.35,
+        409.82,
+        360.86,
+        421.63
+      ]
+    },
+    {
+      "id": "class8-english-p136-l019",
+      "lineNumber": 19,
+      "text": "How many things there are!",
+      "cleanText": "How many things there are!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        202.75,
+        428.26,
+        346.18,
+        440.06
+      ]
+    },
+    {
+      "id": "class8-english-p136-l020",
+      "lineNumber": 20,
+      "text": "John Carpenter",
+      "cleanText": "John Carpenter",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        279.36,
+        446.98,
+        362.02,
+        458.78
+      ]
+    },
+    {
+      "id": "class8-english-p136-l021",
+      "lineNumber": 21,
+      "text": "Note",
+      "cleanText": "Note",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        70.85,
+        465.7,
+        96.19,
+        474.34
+      ]
+    },
+    {
+      "id": "class8-english-p136-l022",
+      "lineNumber": 22,
+      "text": "dappled yellow tree - spotted yellow tree (the leaves may be yellow)",
+      "cleanText": "dappled yellow tree - spotted yellow tree (the leaves may be yellow)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        70.85,
+        482.69,
+        431.14,
+        494.5
+      ]
+    },
+    {
+      "id": "class8-english-p136-l023",
+      "lineNumber": 23,
+      "text": "gazed abroad - looked around",
+      "cleanText": "gazed abroad - looked around",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.4,
+      "bbox": [
+        70.85,
+        500.26,
+        230.4,
+        512.06
+      ]
+    },
+    {
+      "id": "class8-english-p136-l024",
+      "lineNumber": 24,
+      "text": "bounded - surrounded",
+      "cleanText": "bounded - surrounded",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.33,
+      "bbox": [
+        70.85,
+        517.82,
+        188.06,
+        527.04
+      ]
+    },
+    {
+      "id": "class8-english-p136-l025",
+      "lineNumber": 25,
+      "text": "hedge - a thick row of bushes",
+      "cleanText": "hedge - a thick row of bushes",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        70.85,
+        534.24,
+        224.64,
+        546.05
+      ]
+    },
+    {
+      "id": "class8-english-p136-l026",
+      "lineNumber": 26,
+      "text": "swimming through - (the river like a person is swimming through) flowing through",
+      "cleanText": "swimming through - (the river like a person is swimming through) flowing through",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        70.85,
+        550.66,
+        484.99,
+        562.46
+      ]
+    },
+    {
+      "id": "class8-english-p136-l027",
+      "lineNumber": 27,
+      "text": "rushes - tall plants that grow on the river's edge",
+      "cleanText": "rushes - tall plants that grow on the river's edge",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.1,
+      "bbox": [
+        71.14,
+        567.07,
+        319.1,
+        581.18
+      ]
+    },
+    {
+      "id": "class8-english-p136-l028",
+      "lineNumber": 28,
+      "text": "C. Ask and answer these questions:",
+      "cleanText": "C. Ask and answer these questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        70.85,
+        591.84,
+        270.14,
+        603.65
+      ]
+    },
+    {
+      "id": "class8-english-p136-l029",
+      "lineNumber": 29,
+      "text": "1. Where do you think the tree was?",
+      "cleanText": "1. Where do you think the tree was?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        93.02,
+        610.27,
+        287.14,
+        622.08
+      ]
+    },
+    {
+      "id": "class8-english-p136-l030",
+      "lineNumber": 30,
+      "text": "S 2. What were the four things the poet could see from the tree?",
+      "cleanText": "S 2. What were the four things the poet could see from the tree?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.0,
+      "bbox": [
+        43.2,
+        627.55,
+        421.06,
+        642.24
+      ]
+    },
+    {
+      "id": "class8-english-p136-l031",
+      "lineNumber": 31,
+      "text": "S 3. Have you ever climbed a tree? If yes, what did you do it for? If not, why?",
+      "cleanText": "S 3. Have you ever climbed a tree? If yes, what did you do it for? If not, why?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.21,
+      "bbox": [
+        42.91,
+        643.1,
+        484.13,
+        660.67
+      ]
+    }
+  ],
+  "lineCount": 31,
+  "aiReadyLineCount": 31,
+  "averageConfidence": 95.17,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:19:13.943068+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

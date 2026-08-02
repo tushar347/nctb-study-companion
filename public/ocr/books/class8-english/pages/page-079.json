@@ -1,0 +1,972 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 79,
+  "pdfPage": 79,
+  "textbookPage": 79,
+  "width": 538.0,
+  "height": 703.0,
+  "image": "../images/page-079.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "74 English For Today\nB. Read the text and complete the chart:\nThe plane landed at Suvarnabhumi Airport at 4:55 p.m. The name\n‘Suvarnabhumi’ is pronounced as “su-wan-na-poom”. The name is derived\nfrom Sanskrit, which means golden land. The name was chosen by the late King\nBhumibol Adulyadje.\nThe airport is located in Racha Thewa subdistrict in the Bang Phli district\nof Samut Prakan province, 30 kilometres east of Bangkok.\nThe airport has three parallel runways. All of them are 60 metres wide. Two of\nthe runways are 4000 metres long and the other is 3,700 metres. It can handle 94\nflight operations per hour. It can handle 45 million passengers and 3 million\ntonnes of cargo per year.\nThe airport has two terminals including the main terminal and a satelite terminal.\nThe main terminal is 563,000 square metres that is, 6,060,000 square feet. It is\nthe fourth largest passenger terminal building in the world. The airport is going\nthrough phase 2. It will raise its capacity to handle 65 million passengers per\nyear. The airport has two 5-storey car park buildings. The buildings can house\n5000 cars.\n1. name\n2. origin of the name\n3. chosen by\n4. meaning\n5. distance from Bangkok\n6. runway\n7. length of runways\n8. aircraft control per hour\n9. number of passengers\n10. cargo handled\n11. car parking\n12. number of passengers in future S\n=\nNX",
+  "cleanText": "74 English For Today B. Read the text and complete the chart: The plane landed at Suvarnabhumi Airport at 4:55 p.m. The name ‘Suvarnabhumi’ is pronounced as “su-wan-na-poom”. The name is derived from Sanskrit, which means golden land. The name was chosen by the late King Bhumibol Adulyadje. The airport is located in Racha Thewa subdistrict in the Bang Phli district of Samut Prakan province, 30 kilometres east of Bangkok. The airport has three parallel runways. All of them are 60 metres wide. Two of the runways are 4000 metres long and the other is 3,700 metres. It can handle 94 flight operations per hour. It can handle 45 million passengers and 3 million tonnes of cargo per year. The airport has two terminals including the main terminal and a satelite terminal. The main terminal is 563,000 square metres that is, 6,060,000 square feet. It is the fourth largest passenger terminal building in the world. The airport is going through phase 2. It will raise its capacity to handle 65 million passengers per year. The airport has two 5-storey car park buildings. The buildings can house 5000 cars. 1. name 2. origin of the name 3. chosen by 4. meaning 5. distance from Bangkok 6. runway 7. length of runways 8. aircraft control per hour 9. number of passengers 10. cargo handled 11. car parking 12. number of passengers in future S = NX",
+  "aiReadyText": "74 English For Today B. Read the text and complete the chart: The plane landed at Suvarnabhumi Airport at 4:55 p.m. The name ‘Suvarnabhumi’ is pronounced as “su-wan-na-poom”. The name is derived from Sanskrit, which means golden land. The name was chosen by the late King Bhumibol Adulyadje. The airport is located in Racha Thewa subdistrict in the Bang Phli district of Samut Prakan province, 30 kilometres east of Bangkok. The airport has three parallel runways. All of them are 60 metres wide. Two of the runways are 4000 metres long and the other is 3,700 metres. It can handle 94 flight operations per hour. It can handle 45 million passengers and 3 million tonnes of cargo per year. The airport has two terminals including the main terminal and a satelite terminal. The main terminal is 563,000 square metres that is, 6,060,000 square feet. It is the fourth largest passenger terminal building in the world. The airport is going through phase 2. It will raise its capacity to handle 65 million passengers per year. The airport has two 5-storey car park buildings. The buildings can house 5000 cars. 1. name 2. origin of the name 3. chosen by 4. meaning 5. distance from Bangkok 6. runway 7. length of runways 8. aircraft control per hour 9. number of passengers 10. cargo handled 11. car parking 12. number of passengers in future S NX",
+  "lines": [
+    {
+      "id": "class8-english-p079-l001",
+      "lineNumber": 1,
+      "text": "74 English For Today",
+      "cleanText": "74 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        65.66,
+        46.08,
+        477.79,
+        57.02
+      ]
+    },
+    {
+      "id": "class8-english-p079-l002",
+      "lineNumber": 2,
+      "text": "B. Read the text and complete the chart:",
+      "cleanText": "B. Read the text and complete the chart:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        63.36,
+        74.3,
+        308.45,
+        86.4
+      ]
+    },
+    {
+      "id": "class8-english-p079-l003",
+      "lineNumber": 3,
+      "text": "The plane landed at Suvarnabhumi Airport at 4:55 p.m. The name",
+      "cleanText": "The plane landed at Suvarnabhumi Airport at 4:55 p.m. The name",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.18,
+      "bbox": [
+        63.36,
+        97.92,
+        476.35,
+        109.73
+      ]
+    },
+    {
+      "id": "class8-english-p079-l004",
+      "lineNumber": 4,
+      "text": "‘Suvarnabhumi’ is pronounced as “su-wan-na-poom”. The name is derived",
+      "cleanText": "‘Suvarnabhumi’ is pronounced as “su-wan-na-poom”. The name is derived",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.11,
+      "bbox": [
+        65.09,
+        117.5,
+        476.64,
+        129.31
+      ]
+    },
+    {
+      "id": "class8-english-p079-l005",
+      "lineNumber": 5,
+      "text": "from Sanskrit, which means golden land. The name was chosen by the late King",
+      "cleanText": "from Sanskrit, which means golden land. The name was chosen by the late King",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        63.07,
+        136.8,
+        465.7,
+        148.9
+      ]
+    },
+    {
+      "id": "class8-english-p079-l006",
+      "lineNumber": 6,
+      "text": "Bhumibol Adulyadje.",
+      "cleanText": "Bhumibol Adulyadje.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.0,
+      "bbox": [
+        62.78,
+        155.52,
+        173.09,
+        167.33
+      ]
+    },
+    {
+      "id": "class8-english-p079-l007",
+      "lineNumber": 7,
+      "text": "The airport is located in Racha Thewa subdistrict in the Bang Phli district",
+      "cleanText": "The airport is located in Racha Thewa subdistrict in the Bang Phli district",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.85,
+      "bbox": [
+        63.94,
+        177.98,
+        475.2,
+        189.79
+      ]
+    },
+    {
+      "id": "class8-english-p079-l008",
+      "lineNumber": 8,
+      "text": "of Samut Prakan province, 30 kilometres east of Bangkok.",
+      "cleanText": "of Samut Prakan province, 30 kilometres east of Bangkok.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        63.65,
+        194.98,
+        369.5,
+        206.78
+      ]
+    },
+    {
+      "id": "class8-english-p079-l009",
+      "lineNumber": 9,
+      "text": "The airport has three parallel runways. All of them are 60 metres wide. Two of",
+      "cleanText": "The airport has three parallel runways. All of them are 60 metres wide. Two of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        62.78,
+        220.9,
+        477.5,
+        232.7
+      ]
+    },
+    {
+      "id": "class8-english-p079-l010",
+      "lineNumber": 10,
+      "text": "the runways are 4000 metres long and the other is 3,700 metres. It can handle 94",
+      "cleanText": "the runways are 4000 metres long and the other is 3,700 metres. It can handle 94",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        62.5,
+        237.89,
+        475.49,
+        249.7
+      ]
+    },
+    {
+      "id": "class8-english-p079-l011",
+      "lineNumber": 11,
+      "text": "flight operations per hour. It can handle 45 million passengers and 3 million",
+      "cleanText": "flight operations per hour. It can handle 45 million passengers and 3 million",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.78,
+        254.88,
+        476.06,
+        266.69
+      ]
+    },
+    {
+      "id": "class8-english-p079-l012",
+      "lineNumber": 12,
+      "text": "tonnes of cargo per year.",
+      "cleanText": "tonnes of cargo per year.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        62.5,
+        271.87,
+        189.22,
+        283.68
+      ]
+    },
+    {
+      "id": "class8-english-p079-l013",
+      "lineNumber": 13,
+      "text": "The airport has two terminals including the main terminal and a satelite terminal.",
+      "cleanText": "The airport has two terminals including the main terminal and a satelite terminal.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.77,
+      "bbox": [
+        62.78,
+        296.64,
+        475.2,
+        311.04
+      ]
+    },
+    {
+      "id": "class8-english-p079-l014",
+      "lineNumber": 14,
+      "text": "The main terminal is 563,000 square metres that is, 6,060,000 square feet. It is",
+      "cleanText": "The main terminal is 563,000 square metres that is, 6,060,000 square feet. It is",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.78,
+        314.78,
+        475.49,
+        326.59
+      ]
+    },
+    {
+      "id": "class8-english-p079-l015",
+      "lineNumber": 15,
+      "text": "the fourth largest passenger terminal building in the world. The airport is going",
+      "cleanText": "the fourth largest passenger terminal building in the world. The airport is going",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.5,
+        331.78,
+        475.78,
+        343.87
+      ]
+    },
+    {
+      "id": "class8-english-p079-l016",
+      "lineNumber": 16,
+      "text": "through phase 2. It will raise its capacity to handle 65 million passengers per",
+      "cleanText": "through phase 2. It will raise its capacity to handle 65 million passengers per",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.5,
+        348.77,
+        476.06,
+        360.58
+      ]
+    },
+    {
+      "id": "class8-english-p079-l017",
+      "lineNumber": 17,
+      "text": "year. The airport has two 5-storey car park buildings. The buildings can house",
+      "cleanText": "year. The airport has two 5-storey car park buildings. The buildings can house",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.23,
+      "bbox": [
+        62.5,
+        365.76,
+        475.78,
+        377.57
+      ]
+    },
+    {
+      "id": "class8-english-p079-l018",
+      "lineNumber": 18,
+      "text": "5000 cars.",
+      "cleanText": "5000 cars.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.07,
+        383.04,
+        114.91,
+        391.97
+      ]
+    },
+    {
+      "id": "class8-english-p079-l019",
+      "lineNumber": 19,
+      "text": "1. name",
+      "cleanText": "1. name",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.0,
+      "bbox": [
+        71.71,
+        435.74,
+        122.98,
+        444.67
+      ]
+    },
+    {
+      "id": "class8-english-p079-l020",
+      "lineNumber": 20,
+      "text": "2. origin of the name",
+      "cleanText": "2. origin of the name",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.4,
+      "bbox": [
+        70.27,
+        453.02,
+        189.5,
+        464.54
+      ]
+    },
+    {
+      "id": "class8-english-p079-l021",
+      "lineNumber": 21,
+      "text": "3. chosen by",
+      "cleanText": "3. chosen by",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.33,
+      "bbox": [
+        70.56,
+        470.59,
+        147.17,
+        482.11
+      ]
+    },
+    {
+      "id": "class8-english-p079-l022",
+      "lineNumber": 22,
+      "text": "4. meaning",
+      "cleanText": "4. meaning",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.0,
+      "bbox": [
+        70.27,
+        488.16,
+        139.1,
+        499.68
+      ]
+    },
+    {
+      "id": "class8-english-p079-l023",
+      "lineNumber": 23,
+      "text": "5. distance from Bangkok",
+      "cleanText": "5. distance from Bangkok",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.0,
+      "bbox": [
+        70.85,
+        505.73,
+        215.14,
+        517.25
+      ]
+    },
+    {
+      "id": "class8-english-p079-l024",
+      "lineNumber": 24,
+      "text": "6. runway",
+      "cleanText": "6. runway",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.0,
+      "bbox": [
+        70.56,
+        523.58,
+        133.92,
+        534.82
+      ]
+    },
+    {
+      "id": "class8-english-p079-l025",
+      "lineNumber": 25,
+      "text": "7. length of runways",
+      "cleanText": "7. length of runways",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.0,
+      "bbox": [
+        70.56,
+        540.86,
+        187.49,
+        552.38
+      ]
+    },
+    {
+      "id": "class8-english-p079-l026",
+      "lineNumber": 26,
+      "text": "8. aircraft control per hour",
+      "cleanText": "8. aircraft control per hour",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.0,
+      "bbox": [
+        70.85,
+        558.43,
+        218.02,
+        569.95
+      ]
+    },
+    {
+      "id": "class8-english-p079-l027",
+      "lineNumber": 27,
+      "text": "9. number of passengers",
+      "cleanText": "9. number of passengers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        70.56,
+        576.0,
+        206.78,
+        587.52
+      ]
+    },
+    {
+      "id": "class8-english-p079-l028",
+      "lineNumber": 28,
+      "text": "10. cargo handled",
+      "cleanText": "10. cargo handled",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        71.71,
+        593.57,
+        167.62,
+        605.09
+      ]
+    },
+    {
+      "id": "class8-english-p079-l029",
+      "lineNumber": 29,
+      "text": "11. car parking",
+      "cleanText": "11. car parking",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        71.71,
+        610.85,
+        153.22,
+        622.66
+      ]
+    },
+    {
+      "id": "class8-english-p079-l030",
+      "lineNumber": 30,
+      "text": "12. number of passengers in future S",
+      "cleanText": "12. number of passengers in future S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.43,
+      "bbox": [
+        71.71,
+        628.42,
+        507.46,
+        645.7
+      ]
+    },
+    {
+      "id": "class8-english-p079-l031",
+      "lineNumber": 31,
+      "text": "=",
+      "cleanText": "=",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 29.0,
+      "bbox": [
+        499.1,
+        645.98,
+        507.46,
+        651.17
+      ]
+    },
+    {
+      "id": "class8-english-p079-l032",
+      "lineNumber": 32,
+      "text": "NX",
+      "cleanText": "NX",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 45.0,
+      "bbox": [
+        499.1,
+        652.32,
+        507.17,
+        657.5
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p079-l001",
+      "lineNumber": 1,
+      "text": "74 English For Today",
+      "cleanText": "74 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        65.66,
+        46.08,
+        477.79,
+        57.02
+      ]
+    },
+    {
+      "id": "class8-english-p079-l002",
+      "lineNumber": 2,
+      "text": "B. Read the text and complete the chart:",
+      "cleanText": "B. Read the text and complete the chart:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.25,
+      "bbox": [
+        63.36,
+        74.3,
+        308.45,
+        86.4
+      ]
+    },
+    {
+      "id": "class8-english-p079-l003",
+      "lineNumber": 3,
+      "text": "The plane landed at Suvarnabhumi Airport at 4:55 p.m. The name",
+      "cleanText": "The plane landed at Suvarnabhumi Airport at 4:55 p.m. The name",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.18,
+      "bbox": [
+        63.36,
+        97.92,
+        476.35,
+        109.73
+      ]
+    },
+    {
+      "id": "class8-english-p079-l004",
+      "lineNumber": 4,
+      "text": "‘Suvarnabhumi’ is pronounced as “su-wan-na-poom”. The name is derived",
+      "cleanText": "‘Suvarnabhumi’ is pronounced as “su-wan-na-poom”. The name is derived",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.11,
+      "bbox": [
+        65.09,
+        117.5,
+        476.64,
+        129.31
+      ]
+    },
+    {
+      "id": "class8-english-p079-l005",
+      "lineNumber": 5,
+      "text": "from Sanskrit, which means golden land. The name was chosen by the late King",
+      "cleanText": "from Sanskrit, which means golden land. The name was chosen by the late King",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        63.07,
+        136.8,
+        465.7,
+        148.9
+      ]
+    },
+    {
+      "id": "class8-english-p079-l006",
+      "lineNumber": 6,
+      "text": "Bhumibol Adulyadje.",
+      "cleanText": "Bhumibol Adulyadje.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.0,
+      "bbox": [
+        62.78,
+        155.52,
+        173.09,
+        167.33
+      ]
+    },
+    {
+      "id": "class8-english-p079-l007",
+      "lineNumber": 7,
+      "text": "The airport is located in Racha Thewa subdistrict in the Bang Phli district",
+      "cleanText": "The airport is located in Racha Thewa subdistrict in the Bang Phli district",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.85,
+      "bbox": [
+        63.94,
+        177.98,
+        475.2,
+        189.79
+      ]
+    },
+    {
+      "id": "class8-english-p079-l008",
+      "lineNumber": 8,
+      "text": "of Samut Prakan province, 30 kilometres east of Bangkok.",
+      "cleanText": "of Samut Prakan province, 30 kilometres east of Bangkok.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        63.65,
+        194.98,
+        369.5,
+        206.78
+      ]
+    },
+    {
+      "id": "class8-english-p079-l009",
+      "lineNumber": 9,
+      "text": "The airport has three parallel runways. All of them are 60 metres wide. Two of",
+      "cleanText": "The airport has three parallel runways. All of them are 60 metres wide. Two of",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.67,
+      "bbox": [
+        62.78,
+        220.9,
+        477.5,
+        232.7
+      ]
+    },
+    {
+      "id": "class8-english-p079-l010",
+      "lineNumber": 10,
+      "text": "the runways are 4000 metres long and the other is 3,700 metres. It can handle 94",
+      "cleanText": "the runways are 4000 metres long and the other is 3,700 metres. It can handle 94",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.94,
+      "bbox": [
+        62.5,
+        237.89,
+        475.49,
+        249.7
+      ]
+    },
+    {
+      "id": "class8-english-p079-l011",
+      "lineNumber": 11,
+      "text": "flight operations per hour. It can handle 45 million passengers and 3 million",
+      "cleanText": "flight operations per hour. It can handle 45 million passengers and 3 million",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.78,
+        254.88,
+        476.06,
+        266.69
+      ]
+    },
+    {
+      "id": "class8-english-p079-l012",
+      "lineNumber": 12,
+      "text": "tonnes of cargo per year.",
+      "cleanText": "tonnes of cargo per year.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        62.5,
+        271.87,
+        189.22,
+        283.68
+      ]
+    },
+    {
+      "id": "class8-english-p079-l013",
+      "lineNumber": 13,
+      "text": "The airport has two terminals including the main terminal and a satelite terminal.",
+      "cleanText": "The airport has two terminals including the main terminal and a satelite terminal.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.77,
+      "bbox": [
+        62.78,
+        296.64,
+        475.2,
+        311.04
+      ]
+    },
+    {
+      "id": "class8-english-p079-l014",
+      "lineNumber": 14,
+      "text": "The main terminal is 563,000 square metres that is, 6,060,000 square feet. It is",
+      "cleanText": "The main terminal is 563,000 square metres that is, 6,060,000 square feet. It is",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.78,
+        314.78,
+        475.49,
+        326.59
+      ]
+    },
+    {
+      "id": "class8-english-p079-l015",
+      "lineNumber": 15,
+      "text": "the fourth largest passenger terminal building in the world. The airport is going",
+      "cleanText": "the fourth largest passenger terminal building in the world. The airport is going",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.5,
+        331.78,
+        475.78,
+        343.87
+      ]
+    },
+    {
+      "id": "class8-english-p079-l016",
+      "lineNumber": 16,
+      "text": "through phase 2. It will raise its capacity to handle 65 million passengers per",
+      "cleanText": "through phase 2. It will raise its capacity to handle 65 million passengers per",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        62.5,
+        348.77,
+        476.06,
+        360.58
+      ]
+    },
+    {
+      "id": "class8-english-p079-l017",
+      "lineNumber": 17,
+      "text": "year. The airport has two 5-storey car park buildings. The buildings can house",
+      "cleanText": "year. The airport has two 5-storey car park buildings. The buildings can house",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.23,
+      "bbox": [
+        62.5,
+        365.76,
+        475.78,
+        377.57
+      ]
+    },
+    {
+      "id": "class8-english-p079-l018",
+      "lineNumber": 18,
+      "text": "5000 cars.",
+      "cleanText": "5000 cars.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.07,
+        383.04,
+        114.91,
+        391.97
+      ]
+    },
+    {
+      "id": "class8-english-p079-l019",
+      "lineNumber": 19,
+      "text": "1. name",
+      "cleanText": "1. name",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.0,
+      "bbox": [
+        71.71,
+        435.74,
+        122.98,
+        444.67
+      ]
+    },
+    {
+      "id": "class8-english-p079-l020",
+      "lineNumber": 20,
+      "text": "2. origin of the name",
+      "cleanText": "2. origin of the name",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.4,
+      "bbox": [
+        70.27,
+        453.02,
+        189.5,
+        464.54
+      ]
+    },
+    {
+      "id": "class8-english-p079-l021",
+      "lineNumber": 21,
+      "text": "3. chosen by",
+      "cleanText": "3. chosen by",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.33,
+      "bbox": [
+        70.56,
+        470.59,
+        147.17,
+        482.11
+      ]
+    },
+    {
+      "id": "class8-english-p079-l022",
+      "lineNumber": 22,
+      "text": "4. meaning",
+      "cleanText": "4. meaning",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.0,
+      "bbox": [
+        70.27,
+        488.16,
+        139.1,
+        499.68
+      ]
+    },
+    {
+      "id": "class8-english-p079-l023",
+      "lineNumber": 23,
+      "text": "5. distance from Bangkok",
+      "cleanText": "5. distance from Bangkok",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.0,
+      "bbox": [
+        70.85,
+        505.73,
+        215.14,
+        517.25
+      ]
+    },
+    {
+      "id": "class8-english-p079-l024",
+      "lineNumber": 24,
+      "text": "6. runway",
+      "cleanText": "6. runway",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 92.0,
+      "bbox": [
+        70.56,
+        523.58,
+        133.92,
+        534.82
+      ]
+    },
+    {
+      "id": "class8-english-p079-l025",
+      "lineNumber": 25,
+      "text": "7. length of runways",
+      "cleanText": "7. length of runways",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.0,
+      "bbox": [
+        70.56,
+        540.86,
+        187.49,
+        552.38
+      ]
+    },
+    {
+      "id": "class8-english-p079-l026",
+      "lineNumber": 26,
+      "text": "8. aircraft control per hour",
+      "cleanText": "8. aircraft control per hour",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.0,
+      "bbox": [
+        70.85,
+        558.43,
+        218.02,
+        569.95
+      ]
+    },
+    {
+      "id": "class8-english-p079-l027",
+      "lineNumber": 27,
+      "text": "9. number of passengers",
+      "cleanText": "9. number of passengers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.5,
+      "bbox": [
+        70.56,
+        576.0,
+        206.78,
+        587.52
+      ]
+    },
+    {
+      "id": "class8-english-p079-l028",
+      "lineNumber": 28,
+      "text": "10. cargo handled",
+      "cleanText": "10. cargo handled",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        71.71,
+        593.57,
+        167.62,
+        605.09
+      ]
+    },
+    {
+      "id": "class8-english-p079-l029",
+      "lineNumber": 29,
+      "text": "11. car parking",
+      "cleanText": "11. car parking",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        71.71,
+        610.85,
+        153.22,
+        622.66
+      ]
+    },
+    {
+      "id": "class8-english-p079-l030",
+      "lineNumber": 30,
+      "text": "12. number of passengers in future S",
+      "cleanText": "12. number of passengers in future S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.43,
+      "bbox": [
+        71.71,
+        628.42,
+        507.46,
+        645.7
+      ]
+    },
+    {
+      "id": "class8-english-p079-l032",
+      "lineNumber": 32,
+      "text": "NX",
+      "cleanText": "NX",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 45.0,
+      "bbox": [
+        499.1,
+        652.32,
+        507.17,
+        657.5
+      ]
+    }
+  ],
+  "lineCount": 32,
+  "aiReadyLineCount": 31,
+  "averageConfidence": 89.31,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:17:48.325012+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

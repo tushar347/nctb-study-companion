@@ -1,0 +1,747 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 98,
+  "pdfPage": 98,
+  "textbookPage": 98,
+  "width": 529.47,
+  "height": 688.41,
+  "image": "../images/page-098.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Occupations at Risk 93\n4. Marwan's father feels powerless to protect him from the sea\nduring their journey.\n5. Marwan’s family was taking a trip to the beach for a holiday.\n6. Marwan’s father says the Old City of Homs had both a mosque\nand a church.\n7. Marwan’s father believes the sea is friendly and will protect them\non their journey.\nD. Answer the questions below:\n1. Where did Marwan's father and his brothers sleep during the\nsummers of his childhood?\n2. What sounds did Marwan's father wake up to in the mornings at\nthe farmhouse?\n3. What does Marwan’s father wish Marwan remembered about\nHoms?\n4. Why does Marwan’s father feel worried about the sea during their\njourney?\nE. \"Sea Prayer\" was inspired by the story of Alan Kurdi, a\nthree-year-old Syrian refugee who drowned in the Mediterranean\nSea in September 2015 while trying to reach safely in Europe. In\nthe year after his death, 4,176 more people died or went missing on\nsimilar journeys. Imagine you are a refugee chi d. Write down how\nyou would feel if you were one:\nS\nq",
+  "cleanText": "Occupations at Risk 93 4. Marwan's father feels powerless to protect him from the sea during their journey. 5. Marwan’s family was taking a trip to the beach for a holiday. 6. Marwan’s father says the Old City of Homs had both a mosque and a church. 7. Marwan’s father believes the sea is friendly and will protect them on their journey. D. Answer the questions below: 1. Where did Marwan's father and his brothers sleep during the summers of his childhood? 2. What sounds did Marwan's father wake up to in the mornings at the farmhouse? 3. What does Marwan’s father wish Marwan remembered about Homs? 4. Why does Marwan’s father feel worried about the sea during their journey? E. \"Sea Prayer\" was inspired by the story of Alan Kurdi, a three-year-old Syrian refugee who drowned in the Mediterranean Sea in September 2015 while trying to reach safely in Europe. In the year after his death, 4,176 more people died or went missing on similar journeys. Imagine you are a refugee chi d. Write down how you would feel if you were one: S q",
+  "aiReadyText": "Occupations at Risk 93 4. Marwan's father feels powerless to protect him from the sea during their journey. 5. Marwan’s family was taking a trip to the beach for a holiday. 6. Marwan’s father says the Old City of Homs had both a mosque and a church. 7. Marwan’s father believes the sea is friendly and will protect them on their journey. D. Answer the questions below: 1. Where did Marwan's father and his brothers sleep during the summers of his childhood? 2. What sounds did Marwan's father wake up to in the mornings at the farmhouse? 3. What does Marwan’s father wish Marwan remembered about Homs? 4. Why does Marwan’s father feel worried about the sea during their journey? E. \"Sea Prayer\" was inspired by the story of Alan Kurdi, a three-year-old Syrian refugee who drowned in the Mediterranean Sea in September 2015 while trying to reach safely in Europe. In the year after his death, 4,176 more people died or went missing on similar journeys. Imagine you are a refugee chi d. Write down how you would feel if you were one:",
+  "lines": [
+    {
+      "id": "class8-english-p098-l001",
+      "lineNumber": 1,
+      "text": "Occupations at Risk 93",
+      "cleanText": "Occupations at Risk 93",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        63.65,
+        37.44,
+        478.08,
+        48.38
+      ]
+    },
+    {
+      "id": "class8-english-p098-l002",
+      "lineNumber": 2,
+      "text": "4. Marwan's father feels powerless to protect him from the sea",
+      "cleanText": "4. Marwan's father feels powerless to protect him from the sea",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.18,
+      "bbox": [
+        85.25,
+        71.71,
+        478.08,
+        83.52
+      ]
+    },
+    {
+      "id": "class8-english-p098-l003",
+      "lineNumber": 3,
+      "text": "during their journey.",
+      "cleanText": "during their journey.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        105.41,
+        87.84,
+        210.53,
+        99.65
+      ]
+    },
+    {
+      "id": "class8-english-p098-l004",
+      "lineNumber": 4,
+      "text": "5. Marwan’s family was taking a trip to the beach for a holiday.",
+      "cleanText": "5. Marwan’s family was taking a trip to the beach for a holiday.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.15,
+      "bbox": [
+        85.54,
+        102.53,
+        420.77,
+        116.64
+      ]
+    },
+    {
+      "id": "class8-english-p098-l005",
+      "lineNumber": 5,
+      "text": "6. Marwan’s father says the Old City of Homs had both a mosque",
+      "cleanText": "6. Marwan’s father says the Old City of Homs had both a mosque",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.38,
+      "bbox": [
+        85.54,
+        119.81,
+        477.79,
+        131.62
+      ]
+    },
+    {
+      "id": "class8-english-p098-l006",
+      "lineNumber": 6,
+      "text": "and a church.",
+      "cleanText": "and a church.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        105.41,
+        135.65,
+        173.66,
+        144.86
+      ]
+    },
+    {
+      "id": "class8-english-p098-l007",
+      "lineNumber": 7,
+      "text": "7. Marwan’s father believes the sea is friendly and will protect them",
+      "cleanText": "7. Marwan’s father believes the sea is friendly and will protect them",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.58,
+      "bbox": [
+        85.54,
+        151.78,
+        478.08,
+        163.58
+      ]
+    },
+    {
+      "id": "class8-english-p098-l008",
+      "lineNumber": 8,
+      "text": "on their journey.",
+      "cleanText": "on their journey.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        105.41,
+        167.62,
+        189.5,
+        179.42
+      ]
+    },
+    {
+      "id": "class8-english-p098-l009",
+      "lineNumber": 9,
+      "text": "D. Answer the questions below:",
+      "cleanText": "D. Answer the questions below:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        64.51,
+        193.25,
+        253.73,
+        205.92
+      ]
+    },
+    {
+      "id": "class8-english-p098-l010",
+      "lineNumber": 10,
+      "text": "1. Where did Marwan's father and his brothers sleep during the",
+      "cleanText": "1. Where did Marwan's father and his brothers sleep during the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.64,
+      "bbox": [
+        86.69,
+        216.58,
+        478.08,
+        228.67
+      ]
+    },
+    {
+      "id": "class8-english-p098-l011",
+      "lineNumber": 11,
+      "text": "summers of his childhood?",
+      "cleanText": "summers of his childhood?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        105.7,
+        232.7,
+        244.8,
+        241.92
+      ]
+    },
+    {
+      "id": "class8-english-p098-l012",
+      "lineNumber": 12,
+      "text": "2. What sounds did Marwan's father wake up to in the mornings at",
+      "cleanText": "2. What sounds did Marwan's father wake up to in the mornings at",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.08,
+      "bbox": [
+        85.25,
+        248.83,
+        478.37,
+        260.64
+      ]
+    },
+    {
+      "id": "class8-english-p098-l013",
+      "lineNumber": 13,
+      "text": "the farmhouse?",
+      "cleanText": "the farmhouse?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        105.12,
+        264.67,
+        184.32,
+        273.89
+      ]
+    },
+    {
+      "id": "class8-english-p098-l014",
+      "lineNumber": 14,
+      "text": "3. What does Marwan’s father wish Marwan remembered about",
+      "cleanText": "3. What does Marwan’s father wish Marwan remembered about",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.33,
+      "bbox": [
+        85.54,
+        280.8,
+        478.37,
+        290.02
+      ]
+    },
+    {
+      "id": "class8-english-p098-l015",
+      "lineNumber": 15,
+      "text": "Homs?",
+      "cleanText": "Homs?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.0,
+      "bbox": [
+        105.41,
+        296.93,
+        141.41,
+        305.86
+      ]
+    },
+    {
+      "id": "class8-english-p098-l016",
+      "lineNumber": 16,
+      "text": "4. Why does Marwan’s father feel worried about the sea during their",
+      "cleanText": "4. Why does Marwan’s father feel worried about the sea during their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.92,
+      "bbox": [
+        85.25,
+        312.77,
+        478.37,
+        324.58
+      ]
+    },
+    {
+      "id": "class8-english-p098-l017",
+      "lineNumber": 17,
+      "text": "journey?",
+      "cleanText": "journey?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        103.97,
+        328.61,
+        150.05,
+        340.42
+      ]
+    },
+    {
+      "id": "class8-english-p098-l018",
+      "lineNumber": 18,
+      "text": "E. \"Sea Prayer\" was inspired by the story of Alan Kurdi, a",
+      "cleanText": "E. \"Sea Prayer\" was inspired by the story of Alan Kurdi, a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.5,
+      "bbox": [
+        64.8,
+        355.1,
+        477.79,
+        367.49
+      ]
+    },
+    {
+      "id": "class8-english-p098-l019",
+      "lineNumber": 19,
+      "text": "three-year-old Syrian refugee who drowned in the Mediterranean",
+      "cleanText": "three-year-old Syrian refugee who drowned in the Mediterranean",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        84.67,
+        371.81,
+        477.79,
+        384.19
+      ]
+    },
+    {
+      "id": "class8-english-p098-l020",
+      "lineNumber": 20,
+      "text": "Sea in September 2015 while trying to reach safely in Europe. In",
+      "cleanText": "Sea in September 2015 while trying to reach safely in Europe. In",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        84.96,
+        388.51,
+        477.79,
+        401.18
+      ]
+    },
+    {
+      "id": "class8-english-p098-l021",
+      "lineNumber": 21,
+      "text": "the year after his death, 4,176 more people died or went missing on",
+      "cleanText": "the year after his death, 4,176 more people died or went missing on",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        84.67,
+        405.5,
+        477.79,
+        417.89
+      ]
+    },
+    {
+      "id": "class8-english-p098-l022",
+      "lineNumber": 22,
+      "text": "similar journeys. Imagine you are a refugee chi d. Write down how",
+      "cleanText": "similar journeys. Imagine you are a refugee chi d. Write down how",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        84.96,
+        422.21,
+        478.08,
+        434.59
+      ]
+    },
+    {
+      "id": "class8-english-p098-l023",
+      "lineNumber": 23,
+      "text": "you would feel if you were one:",
+      "cleanText": "you would feel if you were one:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        84.38,
+        438.91,
+        267.55,
+        451.58
+      ]
+    },
+    {
+      "id": "class8-english-p098-l024",
+      "lineNumber": 24,
+      "text": "S",
+      "cleanText": "S",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 0.0,
+      "bbox": [
+        36.86,
+        624.67,
+        44.93,
+        636.48
+      ]
+    },
+    {
+      "id": "class8-english-p098-l025",
+      "lineNumber": 25,
+      "text": "q",
+      "cleanText": "q",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 0.0,
+      "bbox": [
+        36.58,
+        636.77,
+        44.93,
+        648.58
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p098-l001",
+      "lineNumber": 1,
+      "text": "Occupations at Risk 93",
+      "cleanText": "Occupations at Risk 93",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        63.65,
+        37.44,
+        478.08,
+        48.38
+      ]
+    },
+    {
+      "id": "class8-english-p098-l002",
+      "lineNumber": 2,
+      "text": "4. Marwan's father feels powerless to protect him from the sea",
+      "cleanText": "4. Marwan's father feels powerless to protect him from the sea",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.18,
+      "bbox": [
+        85.25,
+        71.71,
+        478.08,
+        83.52
+      ]
+    },
+    {
+      "id": "class8-english-p098-l003",
+      "lineNumber": 3,
+      "text": "during their journey.",
+      "cleanText": "during their journey.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        105.41,
+        87.84,
+        210.53,
+        99.65
+      ]
+    },
+    {
+      "id": "class8-english-p098-l004",
+      "lineNumber": 4,
+      "text": "5. Marwan’s family was taking a trip to the beach for a holiday.",
+      "cleanText": "5. Marwan’s family was taking a trip to the beach for a holiday.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.15,
+      "bbox": [
+        85.54,
+        102.53,
+        420.77,
+        116.64
+      ]
+    },
+    {
+      "id": "class8-english-p098-l005",
+      "lineNumber": 5,
+      "text": "6. Marwan’s father says the Old City of Homs had both a mosque",
+      "cleanText": "6. Marwan’s father says the Old City of Homs had both a mosque",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.38,
+      "bbox": [
+        85.54,
+        119.81,
+        477.79,
+        131.62
+      ]
+    },
+    {
+      "id": "class8-english-p098-l006",
+      "lineNumber": 6,
+      "text": "and a church.",
+      "cleanText": "and a church.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.33,
+      "bbox": [
+        105.41,
+        135.65,
+        173.66,
+        144.86
+      ]
+    },
+    {
+      "id": "class8-english-p098-l007",
+      "lineNumber": 7,
+      "text": "7. Marwan’s father believes the sea is friendly and will protect them",
+      "cleanText": "7. Marwan’s father believes the sea is friendly and will protect them",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.58,
+      "bbox": [
+        85.54,
+        151.78,
+        478.08,
+        163.58
+      ]
+    },
+    {
+      "id": "class8-english-p098-l008",
+      "lineNumber": 8,
+      "text": "on their journey.",
+      "cleanText": "on their journey.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        105.41,
+        167.62,
+        189.5,
+        179.42
+      ]
+    },
+    {
+      "id": "class8-english-p098-l009",
+      "lineNumber": 9,
+      "text": "D. Answer the questions below:",
+      "cleanText": "D. Answer the questions below:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        64.51,
+        193.25,
+        253.73,
+        205.92
+      ]
+    },
+    {
+      "id": "class8-english-p098-l010",
+      "lineNumber": 10,
+      "text": "1. Where did Marwan's father and his brothers sleep during the",
+      "cleanText": "1. Where did Marwan's father and his brothers sleep during the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.64,
+      "bbox": [
+        86.69,
+        216.58,
+        478.08,
+        228.67
+      ]
+    },
+    {
+      "id": "class8-english-p098-l011",
+      "lineNumber": 11,
+      "text": "summers of his childhood?",
+      "cleanText": "summers of his childhood?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        105.7,
+        232.7,
+        244.8,
+        241.92
+      ]
+    },
+    {
+      "id": "class8-english-p098-l012",
+      "lineNumber": 12,
+      "text": "2. What sounds did Marwan's father wake up to in the mornings at",
+      "cleanText": "2. What sounds did Marwan's father wake up to in the mornings at",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.08,
+      "bbox": [
+        85.25,
+        248.83,
+        478.37,
+        260.64
+      ]
+    },
+    {
+      "id": "class8-english-p098-l013",
+      "lineNumber": 13,
+      "text": "the farmhouse?",
+      "cleanText": "the farmhouse?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        105.12,
+        264.67,
+        184.32,
+        273.89
+      ]
+    },
+    {
+      "id": "class8-english-p098-l014",
+      "lineNumber": 14,
+      "text": "3. What does Marwan’s father wish Marwan remembered about",
+      "cleanText": "3. What does Marwan’s father wish Marwan remembered about",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.33,
+      "bbox": [
+        85.54,
+        280.8,
+        478.37,
+        290.02
+      ]
+    },
+    {
+      "id": "class8-english-p098-l015",
+      "lineNumber": 15,
+      "text": "Homs?",
+      "cleanText": "Homs?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.0,
+      "bbox": [
+        105.41,
+        296.93,
+        141.41,
+        305.86
+      ]
+    },
+    {
+      "id": "class8-english-p098-l016",
+      "lineNumber": 16,
+      "text": "4. Why does Marwan’s father feel worried about the sea during their",
+      "cleanText": "4. Why does Marwan’s father feel worried about the sea during their",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.92,
+      "bbox": [
+        85.25,
+        312.77,
+        478.37,
+        324.58
+      ]
+    },
+    {
+      "id": "class8-english-p098-l017",
+      "lineNumber": 17,
+      "text": "journey?",
+      "cleanText": "journey?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        103.97,
+        328.61,
+        150.05,
+        340.42
+      ]
+    },
+    {
+      "id": "class8-english-p098-l018",
+      "lineNumber": 18,
+      "text": "E. \"Sea Prayer\" was inspired by the story of Alan Kurdi, a",
+      "cleanText": "E. \"Sea Prayer\" was inspired by the story of Alan Kurdi, a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.5,
+      "bbox": [
+        64.8,
+        355.1,
+        477.79,
+        367.49
+      ]
+    },
+    {
+      "id": "class8-english-p098-l019",
+      "lineNumber": 19,
+      "text": "three-year-old Syrian refugee who drowned in the Mediterranean",
+      "cleanText": "three-year-old Syrian refugee who drowned in the Mediterranean",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        84.67,
+        371.81,
+        477.79,
+        384.19
+      ]
+    },
+    {
+      "id": "class8-english-p098-l020",
+      "lineNumber": 20,
+      "text": "Sea in September 2015 while trying to reach safely in Europe. In",
+      "cleanText": "Sea in September 2015 while trying to reach safely in Europe. In",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        84.96,
+        388.51,
+        477.79,
+        401.18
+      ]
+    },
+    {
+      "id": "class8-english-p098-l021",
+      "lineNumber": 21,
+      "text": "the year after his death, 4,176 more people died or went missing on",
+      "cleanText": "the year after his death, 4,176 more people died or went missing on",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        84.67,
+        405.5,
+        477.79,
+        417.89
+      ]
+    },
+    {
+      "id": "class8-english-p098-l022",
+      "lineNumber": 22,
+      "text": "similar journeys. Imagine you are a refugee chi d. Write down how",
+      "cleanText": "similar journeys. Imagine you are a refugee chi d. Write down how",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        84.96,
+        422.21,
+        478.08,
+        434.59
+      ]
+    },
+    {
+      "id": "class8-english-p098-l023",
+      "lineNumber": 23,
+      "text": "you would feel if you were one:",
+      "cleanText": "you would feel if you were one:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.71,
+      "bbox": [
+        84.38,
+        438.91,
+        267.55,
+        451.58
+      ]
+    }
+  ],
+  "lineCount": 25,
+  "aiReadyLineCount": 23,
+  "averageConfidence": 87.34,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:19.791348+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

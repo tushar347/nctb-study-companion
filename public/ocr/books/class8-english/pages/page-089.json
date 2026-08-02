@@ -1,0 +1,777 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 89,
+  "pdfPage": 89,
+  "textbookPage": 89,
+  "width": 529.47,
+  "height": 688.41,
+  "image": "../images/page-089.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "84 English For Today\nLesson 3: River Gypsies in Bangladesh (1)\nKeywords: gypsy, ethnic, nomadic, roam, tarpaulin, tents, remedy, vend, heal,\ntalisman\nA. Look at the pictures and discuss with your partner what you see:\n{ |\nee err fun (fia sy. i Sn | pil Te tae tw eon =\n° spam st mee a ge mr UP\n- El — |\nA\nee Se ae _ ia SS ee\n——— cS\nal 1 —\nES SEINE,\nAT ee,: SREY\nRead the text and answer the following questions:\nRiver gypsies are an ethnic group of people in Bangladesh. They are known as\n“bedey”’ to local people. The gypsies have their own lifestyle and culture. They\nlive in groups and do not own any land. Therefore, they live a nomadic life,\ntravelling from one place to another. These people roam across our rivers\nand waters from May to December in small country boats. These boats are\ntheir houses and these people are a part of our waters. In winter, many water\nbodies dry up. At that time they return to the mainland and live in make-shift\ntarpaulin tents on open river banks. You can see their men relaxing in the tents.\nToddlers play with dogs or other pets in the dust. Women often idle away S\ntime by picking off lice in twos or threes sitting in a row. q",
+  "cleanText": "84 English For Today Lesson 3: River Gypsies in Bangladesh (1) Keywords: gypsy, ethnic, nomadic, roam, tarpaulin, tents, remedy, vend, heal, talisman A. Look at the pictures and discuss with your partner what you see: { | ee err fun (fia sy. i Sn | pil Te tae tw eon = ° spam st mee a ge mr UP - El — | A ee Se ae _ ia SS ee ——— cS al 1 — ES SEINE, AT ee,: SREY Read the text and answer the following questions: River gypsies are an ethnic group of people in Bangladesh. They are known as “bedey”’ to local people. The gypsies have their own lifestyle and culture. They live in groups and do not own any land. Therefore, they live a nomadic life, travelling from one place to another. These people roam across our rivers and waters from May to December in small country boats. These boats are their houses and these people are a part of our waters. In winter, many water bodies dry up. At that time they return to the mainland and live in make-shift tarpaulin tents on open river banks. You can see their men relaxing in the tents. Toddlers play with dogs or other pets in the dust. Women often idle away S time by picking off lice in twos or threes sitting in a row. q",
+  "aiReadyText": "84 English For Today Lesson 3: River Gypsies in Bangladesh (1) Keywords: gypsy, ethnic, nomadic, roam, tarpaulin, tents, remedy, vend, heal, talisman A. Look at the pictures and discuss with your partner what you see: ee err fun (fia sy. i Sn | pil Te tae tw eon = ° spam st mee a ge mr UP - El — | ee Se ae _ ia SS ee ——— cS al 1 — ES SEINE, AT ee,: SREY Read the text and answer the following questions: River gypsies are an ethnic group of people in Bangladesh. They are known as “bedey”’ to local people. The gypsies have their own lifestyle and culture. They live in groups and do not own any land. Therefore, they live a nomadic life, travelling from one place to another. These people roam across our rivers and waters from May to December in small country boats. These boats are their houses and these people are a part of our waters. In winter, many water bodies dry up. At that time they return to the mainland and live in make-shift tarpaulin tents on open river banks. You can see their men relaxing in the tents. Toddlers play with dogs or other pets in the dust. Women often idle away S time by picking off lice in twos or threes sitting in a row. q",
+  "lines": [
+    {
+      "id": "class8-english-p089-l001",
+      "lineNumber": 1,
+      "text": "84 English For Today",
+      "cleanText": "84 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        63.94,
+        37.15,
+        476.06,
+        48.1
+      ]
+    },
+    {
+      "id": "class8-english-p089-l002",
+      "lineNumber": 2,
+      "text": "Lesson 3: River Gypsies in Bangladesh (1)",
+      "cleanText": "Lesson 3: River Gypsies in Bangladesh (1)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        66.53,
+        69.7,
+        424.8,
+        87.55
+      ]
+    },
+    {
+      "id": "class8-english-p089-l003",
+      "lineNumber": 3,
+      "text": "Keywords: gypsy, ethnic, nomadic, roam, tarpaulin, tents, remedy, vend, heal,",
+      "cleanText": "Keywords: gypsy, ethnic, nomadic, roam, tarpaulin, tents, remedy, vend, heal,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        65.38,
+        93.6,
+        482.98,
+        108.0
+      ]
+    },
+    {
+      "id": "class8-english-p089-l004",
+      "lineNumber": 4,
+      "text": "talisman",
+      "cleanText": "talisman",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        67.1,
+        116.93,
+        109.73,
+        125.86
+      ]
+    },
+    {
+      "id": "class8-english-p089-l005",
+      "lineNumber": 5,
+      "text": "A. Look at the pictures and discuss with your partner what you see:",
+      "cleanText": "A. Look at the pictures and discuss with your partner what you see:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        65.95,
+        139.97,
+        444.67,
+        152.35
+      ]
+    },
+    {
+      "id": "class8-english-p089-l006",
+      "lineNumber": 6,
+      "text": "{ |",
+      "cleanText": "{ |",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 39.0,
+      "bbox": [
+        196.42,
+        171.36,
+        308.45,
+        176.26
+      ]
+    },
+    {
+      "id": "class8-english-p089-l007",
+      "lineNumber": 7,
+      "text": "ee err fun (fia sy. i Sn | pil Te tae tw eon =",
+      "cleanText": "ee err fun (fia sy. i Sn | pil Te tae tw eon =",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 33.07,
+      "bbox": [
+        112.32,
+        191.23,
+        433.44,
+        216.29
+      ]
+    },
+    {
+      "id": "class8-english-p089-l008",
+      "lineNumber": 8,
+      "text": "° spam st mee a ge mr UP",
+      "cleanText": "° spam st mee a ge mr UP",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 19.62,
+      "bbox": [
+        131.33,
+        227.52,
+        401.47,
+        239.62
+      ]
+    },
+    {
+      "id": "class8-english-p089-l009",
+      "lineNumber": 9,
+      "text": "- El — |",
+      "cleanText": "- El — |",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 51.25,
+      "bbox": [
+        102.53,
+        233.57,
+        394.27,
+        249.41
+      ]
+    },
+    {
+      "id": "class8-english-p089-l010",
+      "lineNumber": 10,
+      "text": "A",
+      "cleanText": "A",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 21.0,
+      "bbox": [
+        288.29,
+        263.52,
+        329.47,
+        275.62
+      ]
+    },
+    {
+      "id": "class8-english-p089-l011",
+      "lineNumber": 11,
+      "text": "ee Se ae _ ia SS ee",
+      "cleanText": "ee Se ae _ ia SS ee",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 33.86,
+      "bbox": [
+        211.39,
+        319.39,
+        438.34,
+        330.62
+      ]
+    },
+    {
+      "id": "class8-english-p089-l012",
+      "lineNumber": 12,
+      "text": "——— cS",
+      "cleanText": "——— cS",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 31.5,
+      "bbox": [
+        194.4,
+        380.74,
+        418.46,
+        392.83
+      ]
+    },
+    {
+      "id": "class8-english-p089-l013",
+      "lineNumber": 13,
+      "text": "al 1 —",
+      "cleanText": "al 1 —",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 14.33,
+      "bbox": [
+        299.52,
+        392.83,
+        404.35,
+        397.73
+      ]
+    },
+    {
+      "id": "class8-english-p089-l014",
+      "lineNumber": 14,
+      "text": "ES SEINE,",
+      "cleanText": "ES SEINE,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 24.0,
+      "bbox": [
+        103.39,
+        396.0,
+        420.48,
+        427.97
+      ]
+    },
+    {
+      "id": "class8-english-p089-l015",
+      "lineNumber": 15,
+      "text": "AT ee,: SREY",
+      "cleanText": "AT ee,: SREY",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 15.0,
+      "bbox": [
+        90.43,
+        415.01,
+        417.31,
+        438.91
+      ]
+    },
+    {
+      "id": "class8-english-p089-l016",
+      "lineNumber": 16,
+      "text": "Read the text and answer the following questions:",
+      "cleanText": "Read the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        65.38,
+        455.9,
+        338.69,
+        468.29
+      ]
+    },
+    {
+      "id": "class8-english-p089-l017",
+      "lineNumber": 17,
+      "text": "River gypsies are an ethnic group of people in Bangladesh. They are known as",
+      "cleanText": "River gypsies are an ethnic group of people in Bangladesh. They are known as",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        66.24,
+        478.08,
+        478.37,
+        492.48
+      ]
+    },
+    {
+      "id": "class8-english-p089-l018",
+      "lineNumber": 18,
+      "text": "“bedey”’ to local people. The gypsies have their own lifestyle and culture. They",
+      "cleanText": "“bedey”’ to local people. The gypsies have their own lifestyle and culture. They",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.92,
+      "bbox": [
+        64.22,
+        497.09,
+        480.1,
+        509.18
+      ]
+    },
+    {
+      "id": "class8-english-p089-l019",
+      "lineNumber": 19,
+      "text": "live in groups and do not own any land. Therefore, they live a nomadic life,",
+      "cleanText": "live in groups and do not own any land. Therefore, they live a nomadic life,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        65.09,
+        515.23,
+        480.1,
+        527.9
+      ]
+    },
+    {
+      "id": "class8-english-p089-l020",
+      "lineNumber": 20,
+      "text": "travelling from one place to another. These people roam across our rivers",
+      "cleanText": "travelling from one place to another. These people roam across our rivers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        65.38,
+        532.22,
+        480.38,
+        544.61
+      ]
+    },
+    {
+      "id": "class8-english-p089-l021",
+      "lineNumber": 21,
+      "text": "and waters from May to December in small country boats. These boats are",
+      "cleanText": "and waters from May to December in small country boats. These boats are",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        65.66,
+        550.08,
+        479.52,
+        562.46
+      ]
+    },
+    {
+      "id": "class8-english-p089-l022",
+      "lineNumber": 22,
+      "text": "their houses and these people are a part of our waters. In winter, many water",
+      "cleanText": "their houses and these people are a part of our waters. In winter, many water",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        65.38,
+        568.22,
+        480.38,
+        580.61
+      ]
+    },
+    {
+      "id": "class8-english-p089-l023",
+      "lineNumber": 23,
+      "text": "bodies dry up. At that time they return to the mainland and live in make-shift",
+      "cleanText": "bodies dry up. At that time they return to the mainland and live in make-shift",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.8,
+      "bbox": [
+        65.38,
+        586.37,
+        479.52,
+        599.04
+      ]
+    },
+    {
+      "id": "class8-english-p089-l024",
+      "lineNumber": 24,
+      "text": "tarpaulin tents on open river banks. You can see their men relaxing in the tents.",
+      "cleanText": "tarpaulin tents on open river banks. You can see their men relaxing in the tents.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.13,
+      "bbox": [
+        65.09,
+        603.94,
+        482.11,
+        616.32
+      ]
+    },
+    {
+      "id": "class8-english-p089-l025",
+      "lineNumber": 25,
+      "text": "Toddlers play with dogs or other pets in the dust. Women often idle away S",
+      "cleanText": "Toddlers play with dogs or other pets in the dust. Women often idle away S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.33,
+      "bbox": [
+        65.95,
+        621.5,
+        506.88,
+        636.77
+      ]
+    },
+    {
+      "id": "class8-english-p089-l026",
+      "lineNumber": 26,
+      "text": "time by picking off lice in twos or threes sitting in a row. q",
+      "cleanText": "time by picking off lice in twos or threes sitting in a row. q",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.14,
+      "bbox": [
+        65.95,
+        636.77,
+        506.88,
+        652.32
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p089-l001",
+      "lineNumber": 1,
+      "text": "84 English For Today",
+      "cleanText": "84 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        63.94,
+        37.15,
+        476.06,
+        48.1
+      ]
+    },
+    {
+      "id": "class8-english-p089-l002",
+      "lineNumber": 2,
+      "text": "Lesson 3: River Gypsies in Bangladesh (1)",
+      "cleanText": "Lesson 3: River Gypsies in Bangladesh (1)",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        66.53,
+        69.7,
+        424.8,
+        87.55
+      ]
+    },
+    {
+      "id": "class8-english-p089-l003",
+      "lineNumber": 3,
+      "text": "Keywords: gypsy, ethnic, nomadic, roam, tarpaulin, tents, remedy, vend, heal,",
+      "cleanText": "Keywords: gypsy, ethnic, nomadic, roam, tarpaulin, tents, remedy, vend, heal,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.9,
+      "bbox": [
+        65.38,
+        93.6,
+        482.98,
+        108.0
+      ]
+    },
+    {
+      "id": "class8-english-p089-l004",
+      "lineNumber": 4,
+      "text": "talisman",
+      "cleanText": "talisman",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        67.1,
+        116.93,
+        109.73,
+        125.86
+      ]
+    },
+    {
+      "id": "class8-english-p089-l005",
+      "lineNumber": 5,
+      "text": "A. Look at the pictures and discuss with your partner what you see:",
+      "cleanText": "A. Look at the pictures and discuss with your partner what you see:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        65.95,
+        139.97,
+        444.67,
+        152.35
+      ]
+    },
+    {
+      "id": "class8-english-p089-l007",
+      "lineNumber": 7,
+      "text": "ee err fun (fia sy. i Sn | pil Te tae tw eon =",
+      "cleanText": "ee err fun (fia sy. i Sn | pil Te tae tw eon =",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 33.07,
+      "bbox": [
+        112.32,
+        191.23,
+        433.44,
+        216.29
+      ]
+    },
+    {
+      "id": "class8-english-p089-l008",
+      "lineNumber": 8,
+      "text": "° spam st mee a ge mr UP",
+      "cleanText": "° spam st mee a ge mr UP",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 19.62,
+      "bbox": [
+        131.33,
+        227.52,
+        401.47,
+        239.62
+      ]
+    },
+    {
+      "id": "class8-english-p089-l009",
+      "lineNumber": 9,
+      "text": "- El — |",
+      "cleanText": "- El — |",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 51.25,
+      "bbox": [
+        102.53,
+        233.57,
+        394.27,
+        249.41
+      ]
+    },
+    {
+      "id": "class8-english-p089-l011",
+      "lineNumber": 11,
+      "text": "ee Se ae _ ia SS ee",
+      "cleanText": "ee Se ae _ ia SS ee",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 33.86,
+      "bbox": [
+        211.39,
+        319.39,
+        438.34,
+        330.62
+      ]
+    },
+    {
+      "id": "class8-english-p089-l012",
+      "lineNumber": 12,
+      "text": "——— cS",
+      "cleanText": "——— cS",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 31.5,
+      "bbox": [
+        194.4,
+        380.74,
+        418.46,
+        392.83
+      ]
+    },
+    {
+      "id": "class8-english-p089-l013",
+      "lineNumber": 13,
+      "text": "al 1 —",
+      "cleanText": "al 1 —",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 14.33,
+      "bbox": [
+        299.52,
+        392.83,
+        404.35,
+        397.73
+      ]
+    },
+    {
+      "id": "class8-english-p089-l014",
+      "lineNumber": 14,
+      "text": "ES SEINE,",
+      "cleanText": "ES SEINE,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 24.0,
+      "bbox": [
+        103.39,
+        396.0,
+        420.48,
+        427.97
+      ]
+    },
+    {
+      "id": "class8-english-p089-l015",
+      "lineNumber": 15,
+      "text": "AT ee,: SREY",
+      "cleanText": "AT ee,: SREY",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 15.0,
+      "bbox": [
+        90.43,
+        415.01,
+        417.31,
+        438.91
+      ]
+    },
+    {
+      "id": "class8-english-p089-l016",
+      "lineNumber": 16,
+      "text": "Read the text and answer the following questions:",
+      "cleanText": "Read the text and answer the following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.88,
+      "bbox": [
+        65.38,
+        455.9,
+        338.69,
+        468.29
+      ]
+    },
+    {
+      "id": "class8-english-p089-l017",
+      "lineNumber": 17,
+      "text": "River gypsies are an ethnic group of people in Bangladesh. They are known as",
+      "cleanText": "River gypsies are an ethnic group of people in Bangladesh. They are known as",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        66.24,
+        478.08,
+        478.37,
+        492.48
+      ]
+    },
+    {
+      "id": "class8-english-p089-l018",
+      "lineNumber": 18,
+      "text": "“bedey”’ to local people. The gypsies have their own lifestyle and culture. They",
+      "cleanText": "“bedey”’ to local people. The gypsies have their own lifestyle and culture. They",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.92,
+      "bbox": [
+        64.22,
+        497.09,
+        480.1,
+        509.18
+      ]
+    },
+    {
+      "id": "class8-english-p089-l019",
+      "lineNumber": 19,
+      "text": "live in groups and do not own any land. Therefore, they live a nomadic life,",
+      "cleanText": "live in groups and do not own any land. Therefore, they live a nomadic life,",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.93,
+      "bbox": [
+        65.09,
+        515.23,
+        480.1,
+        527.9
+      ]
+    },
+    {
+      "id": "class8-english-p089-l020",
+      "lineNumber": 20,
+      "text": "travelling from one place to another. These people roam across our rivers",
+      "cleanText": "travelling from one place to another. These people roam across our rivers",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        65.38,
+        532.22,
+        480.38,
+        544.61
+      ]
+    },
+    {
+      "id": "class8-english-p089-l021",
+      "lineNumber": 21,
+      "text": "and waters from May to December in small country boats. These boats are",
+      "cleanText": "and waters from May to December in small country boats. These boats are",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.31,
+      "bbox": [
+        65.66,
+        550.08,
+        479.52,
+        562.46
+      ]
+    },
+    {
+      "id": "class8-english-p089-l022",
+      "lineNumber": 22,
+      "text": "their houses and these people are a part of our waters. In winter, many water",
+      "cleanText": "their houses and these people are a part of our waters. In winter, many water",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.6,
+      "bbox": [
+        65.38,
+        568.22,
+        480.38,
+        580.61
+      ]
+    },
+    {
+      "id": "class8-english-p089-l023",
+      "lineNumber": 23,
+      "text": "bodies dry up. At that time they return to the mainland and live in make-shift",
+      "cleanText": "bodies dry up. At that time they return to the mainland and live in make-shift",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.8,
+      "bbox": [
+        65.38,
+        586.37,
+        479.52,
+        599.04
+      ]
+    },
+    {
+      "id": "class8-english-p089-l024",
+      "lineNumber": 24,
+      "text": "tarpaulin tents on open river banks. You can see their men relaxing in the tents.",
+      "cleanText": "tarpaulin tents on open river banks. You can see their men relaxing in the tents.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.13,
+      "bbox": [
+        65.09,
+        603.94,
+        482.11,
+        616.32
+      ]
+    },
+    {
+      "id": "class8-english-p089-l025",
+      "lineNumber": 25,
+      "text": "Toddlers play with dogs or other pets in the dust. Women often idle away S",
+      "cleanText": "Toddlers play with dogs or other pets in the dust. Women often idle away S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.33,
+      "bbox": [
+        65.95,
+        621.5,
+        506.88,
+        636.77
+      ]
+    },
+    {
+      "id": "class8-english-p089-l026",
+      "lineNumber": 26,
+      "text": "time by picking off lice in twos or threes sitting in a row. q",
+      "cleanText": "time by picking off lice in twos or threes sitting in a row. q",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.14,
+      "bbox": [
+        65.95,
+        636.77,
+        506.88,
+        652.32
+      ]
+    }
+  ],
+  "lineCount": 26,
+  "aiReadyLineCount": 24,
+  "averageConfidence": 69.16,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:04.353066+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

@@ -1,0 +1,537 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 35,
+  "pdfPage": 35,
+  "textbookPage": 35,
+  "width": 536.0,
+  "height": 691.16,
+  "image": "../images/page-035.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "30 English For Today\nD. Ask and answer the questions:\n1. Do you do physical exercise every day? What sort of exercise do you do?\n2. Why do you need regular physical exercise?\n3. What does physical exercise teach you?\n4. What's your favourite sport? Do you take part in it? If so, where do you\nplay it and who with?\nLesson 7: A Healthy and Happy Family\nA. Look at the picture. Then ask and answer the questions about it.\n7 Ci\nTn 4 ema Nae || (PAY || —\nSai et Wy qm | ll fi = jaan “AES\npt AF iA |.: a\nQuestions:\n1. What do you see in the picture?\n2. How would you feel living in such a house? S\n3. Where can you find this type of house? Why do you think so? q",
+  "cleanText": "30 English For Today D. Ask and answer the questions: 1. Do you do physical exercise every day? What sort of exercise do you do? 2. Why do you need regular physical exercise? 3. What does physical exercise teach you? 4. What's your favourite sport? Do you take part in it? If so, where do you play it and who with? Lesson 7: A Healthy and Happy Family A. Look at the picture. Then ask and answer the questions about it. 7 Ci Tn 4 ema Nae || (PAY || — Sai et Wy qm | ll fi = jaan “AES pt AF iA |.: a Questions: 1. What do you see in the picture? 2. How would you feel living in such a house? S 3. Where can you find this type of house? Why do you think so? q",
+  "aiReadyText": "30 English For Today D. Ask and answer the questions: 1. Do you do physical exercise every day? What sort of exercise do you do? 2. Why do you need regular physical exercise? 3. What does physical exercise teach you? 4. What's your favourite sport? Do you take part in it? If so, where do you play it and who with? Lesson 7: A Healthy and Happy Family A. Look at the picture. Then ask and answer the questions about it. 7 Ci Tn 4 ema Nae || (PAY || — Sai et Wy qm | ll fi = jaan “AES pt AF iA |.: a Questions: 1. What do you see in the picture? 2. How would you feel living in such a house? S 3. Where can you find this type of house? Why do you think so? q",
+  "lines": [
+    {
+      "id": "class8-english-p035-l001",
+      "lineNumber": 1,
+      "text": "30 English For Today",
+      "cleanText": "30 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        61.92,
+        39.74,
+        475.78,
+        52.13
+      ]
+    },
+    {
+      "id": "class8-english-p035-l002",
+      "lineNumber": 2,
+      "text": "D. Ask and answer the questions:",
+      "cleanText": "D. Ask and answer the questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        60.77,
+        75.46,
+        251.71,
+        87.55
+      ]
+    },
+    {
+      "id": "class8-english-p035-l003",
+      "lineNumber": 3,
+      "text": "1. Do you do physical exercise every day? What sort of exercise do you do?",
+      "cleanText": "1. Do you do physical exercise every day? What sort of exercise do you do?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.07,
+      "bbox": [
+        80.06,
+        102.53,
+        480.96,
+        114.62
+      ]
+    },
+    {
+      "id": "class8-english-p035-l004",
+      "lineNumber": 4,
+      "text": "2. Why do you need regular physical exercise?",
+      "cleanText": "2. Why do you need regular physical exercise?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        79.2,
+        122.69,
+        332.64,
+        134.78
+      ]
+    },
+    {
+      "id": "class8-english-p035-l005",
+      "lineNumber": 5,
+      "text": "3. What does physical exercise teach you?",
+      "cleanText": "3. What does physical exercise teach you?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.57,
+      "bbox": [
+        78.91,
+        141.7,
+        309.31,
+        154.08
+      ]
+    },
+    {
+      "id": "class8-english-p035-l006",
+      "lineNumber": 6,
+      "text": "4. What's your favourite sport? Do you take part in it? If so, where do you",
+      "cleanText": "4. What's your favourite sport? Do you take part in it? If so, where do you",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.19,
+      "bbox": [
+        77.76,
+        158.4,
+        480.1,
+        170.78
+      ]
+    },
+    {
+      "id": "class8-english-p035-l007",
+      "lineNumber": 7,
+      "text": "play it and who with?",
+      "cleanText": "play it and who with?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        103.1,
+        173.95,
+        216.29,
+        186.05
+      ]
+    },
+    {
+      "id": "class8-english-p035-l008",
+      "lineNumber": 8,
+      "text": "Lesson 7: A Healthy and Happy Family",
+      "cleanText": "Lesson 7: A Healthy and Happy Family",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        58.75,
+        221.47,
+        398.02,
+        239.33
+      ]
+    },
+    {
+      "id": "class8-english-p035-l009",
+      "lineNumber": 9,
+      "text": "A. Look at the picture. Then ask and answer the questions about it.",
+      "cleanText": "A. Look at the picture. Then ask and answer the questions about it.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        60.48,
+        250.56,
+        467.42,
+        263.81
+      ]
+    },
+    {
+      "id": "class8-english-p035-l010",
+      "lineNumber": 10,
+      "text": "7 Ci",
+      "cleanText": "7 Ci",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 19.0,
+      "bbox": [
+        160.7,
+        360.86,
+        382.18,
+        382.46
+      ]
+    },
+    {
+      "id": "class8-english-p035-l011",
+      "lineNumber": 11,
+      "text": "Tn 4 ema Nae || (PAY || —",
+      "cleanText": "Tn 4 ema Nae || (PAY || —",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 37.38,
+      "bbox": [
+        66.82,
+        374.69,
+        428.54,
+        394.85
+      ]
+    },
+    {
+      "id": "class8-english-p035-l012",
+      "lineNumber": 12,
+      "text": "Sai et Wy qm | ll fi = jaan “AES",
+      "cleanText": "Sai et Wy qm | ll fi = jaan “AES",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 46.6,
+      "bbox": [
+        84.67,
+        395.71,
+        430.85,
+        433.15
+      ]
+    },
+    {
+      "id": "class8-english-p035-l013",
+      "lineNumber": 13,
+      "text": "pt AF iA |.: a",
+      "cleanText": "pt AF iA |.: a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 35.14,
+      "bbox": [
+        82.66,
+        439.2,
+        450.14,
+        456.48
+      ]
+    },
+    {
+      "id": "class8-english-p035-l014",
+      "lineNumber": 14,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.9,
+        585.5,
+        118.08,
+        597.02
+      ]
+    },
+    {
+      "id": "class8-english-p035-l015",
+      "lineNumber": 15,
+      "text": "1. What do you see in the picture?",
+      "cleanText": "1. What do you see in the picture?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.38,
+      "bbox": [
+        82.66,
+        604.51,
+        266.98,
+        616.61
+      ]
+    },
+    {
+      "id": "class8-english-p035-l016",
+      "lineNumber": 16,
+      "text": "2. How would you feel living in such a house? S",
+      "cleanText": "2. How would you feel living in such a house? S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.18,
+      "bbox": [
+        81.79,
+        622.08,
+        501.12,
+        638.78
+      ]
+    },
+    {
+      "id": "class8-english-p035-l017",
+      "lineNumber": 17,
+      "text": "3. Where can you find this type of house? Why do you think so? q",
+      "cleanText": "3. Where can you find this type of house? Why do you think so? q",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.0,
+      "bbox": [
+        81.79,
+        638.78,
+        501.12,
+        652.61
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p035-l001",
+      "lineNumber": 1,
+      "text": "30 English For Today",
+      "cleanText": "30 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.75,
+      "bbox": [
+        61.92,
+        39.74,
+        475.78,
+        52.13
+      ]
+    },
+    {
+      "id": "class8-english-p035-l002",
+      "lineNumber": 2,
+      "text": "D. Ask and answer the questions:",
+      "cleanText": "D. Ask and answer the questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.17,
+      "bbox": [
+        60.77,
+        75.46,
+        251.71,
+        87.55
+      ]
+    },
+    {
+      "id": "class8-english-p035-l003",
+      "lineNumber": 3,
+      "text": "1. Do you do physical exercise every day? What sort of exercise do you do?",
+      "cleanText": "1. Do you do physical exercise every day? What sort of exercise do you do?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.07,
+      "bbox": [
+        80.06,
+        102.53,
+        480.96,
+        114.62
+      ]
+    },
+    {
+      "id": "class8-english-p035-l004",
+      "lineNumber": 4,
+      "text": "2. Why do you need regular physical exercise?",
+      "cleanText": "2. Why do you need regular physical exercise?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.38,
+      "bbox": [
+        79.2,
+        122.69,
+        332.64,
+        134.78
+      ]
+    },
+    {
+      "id": "class8-english-p035-l005",
+      "lineNumber": 5,
+      "text": "3. What does physical exercise teach you?",
+      "cleanText": "3. What does physical exercise teach you?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.57,
+      "bbox": [
+        78.91,
+        141.7,
+        309.31,
+        154.08
+      ]
+    },
+    {
+      "id": "class8-english-p035-l006",
+      "lineNumber": 6,
+      "text": "4. What's your favourite sport? Do you take part in it? If so, where do you",
+      "cleanText": "4. What's your favourite sport? Do you take part in it? If so, where do you",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.19,
+      "bbox": [
+        77.76,
+        158.4,
+        480.1,
+        170.78
+      ]
+    },
+    {
+      "id": "class8-english-p035-l007",
+      "lineNumber": 7,
+      "text": "play it and who with?",
+      "cleanText": "play it and who with?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.8,
+      "bbox": [
+        103.1,
+        173.95,
+        216.29,
+        186.05
+      ]
+    },
+    {
+      "id": "class8-english-p035-l008",
+      "lineNumber": 8,
+      "text": "Lesson 7: A Healthy and Happy Family",
+      "cleanText": "Lesson 7: A Healthy and Happy Family",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.57,
+      "bbox": [
+        58.75,
+        221.47,
+        398.02,
+        239.33
+      ]
+    },
+    {
+      "id": "class8-english-p035-l009",
+      "lineNumber": 9,
+      "text": "A. Look at the picture. Then ask and answer the questions about it.",
+      "cleanText": "A. Look at the picture. Then ask and answer the questions about it.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.92,
+      "bbox": [
+        60.48,
+        250.56,
+        467.42,
+        263.81
+      ]
+    },
+    {
+      "id": "class8-english-p035-l010",
+      "lineNumber": 10,
+      "text": "7 Ci",
+      "cleanText": "7 Ci",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 19.0,
+      "bbox": [
+        160.7,
+        360.86,
+        382.18,
+        382.46
+      ]
+    },
+    {
+      "id": "class8-english-p035-l011",
+      "lineNumber": 11,
+      "text": "Tn 4 ema Nae || (PAY || —",
+      "cleanText": "Tn 4 ema Nae || (PAY || —",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 37.38,
+      "bbox": [
+        66.82,
+        374.69,
+        428.54,
+        394.85
+      ]
+    },
+    {
+      "id": "class8-english-p035-l012",
+      "lineNumber": 12,
+      "text": "Sai et Wy qm | ll fi = jaan “AES",
+      "cleanText": "Sai et Wy qm | ll fi = jaan “AES",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 46.6,
+      "bbox": [
+        84.67,
+        395.71,
+        430.85,
+        433.15
+      ]
+    },
+    {
+      "id": "class8-english-p035-l013",
+      "lineNumber": 13,
+      "text": "pt AF iA |.: a",
+      "cleanText": "pt AF iA |.: a",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 35.14,
+      "bbox": [
+        82.66,
+        439.2,
+        450.14,
+        456.48
+      ]
+    },
+    {
+      "id": "class8-english-p035-l014",
+      "lineNumber": 14,
+      "text": "Questions:",
+      "cleanText": "Questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        59.9,
+        585.5,
+        118.08,
+        597.02
+      ]
+    },
+    {
+      "id": "class8-english-p035-l015",
+      "lineNumber": 15,
+      "text": "1. What do you see in the picture?",
+      "cleanText": "1. What do you see in the picture?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.38,
+      "bbox": [
+        82.66,
+        604.51,
+        266.98,
+        616.61
+      ]
+    },
+    {
+      "id": "class8-english-p035-l016",
+      "lineNumber": 16,
+      "text": "2. How would you feel living in such a house? S",
+      "cleanText": "2. How would you feel living in such a house? S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 87.18,
+      "bbox": [
+        81.79,
+        622.08,
+        501.12,
+        638.78
+      ]
+    },
+    {
+      "id": "class8-english-p035-l017",
+      "lineNumber": 17,
+      "text": "3. Where can you find this type of house? Why do you think so? q",
+      "cleanText": "3. Where can you find this type of house? Why do you think so? q",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.0,
+      "bbox": [
+        81.79,
+        638.78,
+        501.12,
+        652.61
+      ]
+    }
+  ],
+  "lineCount": 17,
+  "aiReadyLineCount": 17,
+  "averageConfidence": 79.48,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:16:26.033123+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

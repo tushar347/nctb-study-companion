@@ -1,0 +1,687 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 114,
+  "pdfPage": 114,
+  "textbookPage": 114,
+  "width": 526.56,
+  "height": 691.16,
+  "image": "../images/page-114.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "News! News! News! 109\nCurriculum Vitae\n1. Name:\n2. Father's name:\n3. Mother's name:\n4. Mailing address:\n5. Date of birth:\n6. Nationality:\n7. Educational qualifications —:\n8. Experience:\nE. Ifa computer is available at your school, compose the CV and display\nit in your classroom for everyone:\nLesson 5: A Torch Bearer\nKeywords: voracious, recognition, legacy, hamper\nA. Work in pairs to discuss what you see in the picture and answer the\nfollowing questions:\n1. Who is the senior man among the children?\n2. Why are the children gathering around him?\n3. Do you read story books? How do you collect them?\n9 we” Fb ON\n2 “3 _ \\\nS,-* ’ } 5)\nN b \" Ss f",
+  "cleanText": "News! News! News! 109 Curriculum Vitae 1. Name: 2. Father's name: 3. Mother's name: 4. Mailing address: 5. Date of birth: 6. Nationality: 7. Educational qualifications —: 8. Experience: E. Ifa computer is available at your school, compose the CV and display it in your classroom for everyone: Lesson 5: A Torch Bearer Keywords: voracious, recognition, legacy, hamper A. Work in pairs to discuss what you see in the picture and answer the following questions: 1. Who is the senior man among the children? 2. Why are the children gathering around him? 3. Do you read story books? How do you collect them? 9 we” Fb ON 2 “3 _ \\ S,-* ’ } 5) N b \" Ss f",
+  "aiReadyText": "News! News! News! 109 Curriculum Vitae 1. Name: 2. Father's name: 3. Mother's name: 4. Mailing address: 5. Date of birth: 6. Nationality: 7. Educational qualifications —: 8. Experience: E. Ifa computer is available at your school, compose the CV and display it in your classroom for everyone: Lesson 5: A Torch Bearer Keywords: voracious, recognition, legacy, hamper A. Work in pairs to discuss what you see in the picture and answer the following questions: 1. Who is the senior man among the children? 2. Why are the children gathering around him? 3. Do you read story books? How do you collect them? 9 we” Fb ON N b \" Ss f",
+  "lines": [
+    {
+      "id": "class8-english-p114-l001",
+      "lineNumber": 1,
+      "text": "News! News! News! 109",
+      "cleanText": "News! News! News! 109",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.63,
+        42.34,
+        474.91,
+        50.98
+      ]
+    },
+    {
+      "id": "class8-english-p114-l002",
+      "lineNumber": 2,
+      "text": "Curriculum Vitae",
+      "cleanText": "Curriculum Vitae",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        223.49,
+        74.88,
+        316.8,
+        84.1
+      ]
+    },
+    {
+      "id": "class8-english-p114-l003",
+      "lineNumber": 3,
+      "text": "1. Name:",
+      "cleanText": "1. Name:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.67,
+      "bbox": [
+        107.14,
+        99.65,
+        276.77,
+        108.58
+      ]
+    },
+    {
+      "id": "class8-english-p114-l004",
+      "lineNumber": 4,
+      "text": "2. Father's name:",
+      "cleanText": "2. Father's name:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        105.98,
+        118.66,
+        276.77,
+        127.87
+      ]
+    },
+    {
+      "id": "class8-english-p114-l005",
+      "lineNumber": 5,
+      "text": "3. Mother's name:",
+      "cleanText": "3. Mother's name:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        106.27,
+        138.24,
+        276.77,
+        147.46
+      ]
+    },
+    {
+      "id": "class8-english-p114-l006",
+      "lineNumber": 6,
+      "text": "4. Mailing address:",
+      "cleanText": "4. Mailing address:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.75,
+      "bbox": [
+        105.98,
+        156.67,
+        276.77,
+        168.48
+      ]
+    },
+    {
+      "id": "class8-english-p114-l007",
+      "lineNumber": 7,
+      "text": "5. Date of birth:",
+      "cleanText": "5. Date of birth:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.6,
+      "bbox": [
+        106.27,
+        175.1,
+        276.77,
+        184.61
+      ]
+    },
+    {
+      "id": "class8-english-p114-l008",
+      "lineNumber": 8,
+      "text": "6. Nationality:",
+      "cleanText": "6. Nationality:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        106.27,
+        193.82,
+        276.77,
+        205.63
+      ]
+    },
+    {
+      "id": "class8-english-p114-l009",
+      "lineNumber": 9,
+      "text": "7. Educational qualifications —:",
+      "cleanText": "7. Educational qualifications —:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 79.75,
+      "bbox": [
+        106.27,
+        213.12,
+        276.77,
+        225.22
+      ]
+    },
+    {
+      "id": "class8-english-p114-l010",
+      "lineNumber": 10,
+      "text": "8. Experience:",
+      "cleanText": "8. Experience:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.67,
+      "bbox": [
+        106.56,
+        232.42,
+        276.77,
+        244.22
+      ]
+    },
+    {
+      "id": "class8-english-p114-l011",
+      "lineNumber": 11,
+      "text": "E. Ifa computer is available at your school, compose the CV and display",
+      "cleanText": "E. Ifa computer is available at your school, compose the CV and display",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.31,
+      "bbox": [
+        61.06,
+        298.08,
+        476.93,
+        309.89
+      ]
+    },
+    {
+      "id": "class8-english-p114-l012",
+      "lineNumber": 12,
+      "text": "it in your classroom for everyone:",
+      "cleanText": "it in your classroom for everyone:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        86.69,
+        313.63,
+        273.31,
+        325.44
+      ]
+    },
+    {
+      "id": "class8-english-p114-l013",
+      "lineNumber": 13,
+      "text": "Lesson 5: A Torch Bearer",
+      "cleanText": "Lesson 5: A Torch Bearer",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        63.65,
+        351.07,
+        279.65,
+        365.18
+      ]
+    },
+    {
+      "id": "class8-english-p114-l014",
+      "lineNumber": 14,
+      "text": "Keywords: voracious, recognition, legacy, hamper",
+      "cleanText": "Keywords: voracious, recognition, legacy, hamper",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.36,
+        369.79,
+        328.03,
+        381.89
+      ]
+    },
+    {
+      "id": "class8-english-p114-l015",
+      "lineNumber": 15,
+      "text": "A. Work in pairs to discuss what you see in the picture and answer the",
+      "cleanText": "A. Work in pairs to discuss what you see in the picture and answer the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.27,
+      "bbox": [
+        63.36,
+        393.12,
+        476.93,
+        404.64
+      ]
+    },
+    {
+      "id": "class8-english-p114-l016",
+      "lineNumber": 16,
+      "text": "following questions:",
+      "cleanText": "following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        91.58,
+        410.11,
+        199.01,
+        421.92
+      ]
+    },
+    {
+      "id": "class8-english-p114-l017",
+      "lineNumber": 17,
+      "text": "1. Who is the senior man among the children?",
+      "cleanText": "1. Who is the senior man among the children?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.56,
+      "bbox": [
+        89.86,
+        430.85,
+        323.42,
+        442.66
+      ]
+    },
+    {
+      "id": "class8-english-p114-l018",
+      "lineNumber": 18,
+      "text": "2. Why are the children gathering around him?",
+      "cleanText": "2. Why are the children gathering around him?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        88.7,
+        447.84,
+        327.46,
+        459.65
+      ]
+    },
+    {
+      "id": "class8-english-p114-l019",
+      "lineNumber": 19,
+      "text": "3. Do you read story books? How do you collect them?",
+      "cleanText": "3. Do you read story books? How do you collect them?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        88.7,
+        464.83,
+        370.94,
+        476.64
+      ]
+    },
+    {
+      "id": "class8-english-p114-l020",
+      "lineNumber": 20,
+      "text": "9 we” Fb ON",
+      "cleanText": "9 we” Fb ON",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 34.25,
+      "bbox": [
+        120.96,
+        546.91,
+        400.61,
+        577.73
+      ]
+    },
+    {
+      "id": "class8-english-p114-l021",
+      "lineNumber": 21,
+      "text": "2 “3 _ \\",
+      "cleanText": "2 “3 _ \\",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 21.25,
+      "bbox": [
+        180.29,
+        588.96,
+        357.12,
+        603.36
+      ]
+    },
+    {
+      "id": "class8-english-p114-l022",
+      "lineNumber": 22,
+      "text": "S,-* ’ } 5)",
+      "cleanText": "S,-* ’ } 5)",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 36.8,
+      "bbox": [
+        24.77,
+        636.19,
+        395.14,
+        648.0
+      ]
+    },
+    {
+      "id": "class8-english-p114-l023",
+      "lineNumber": 23,
+      "text": "N b \" Ss f",
+      "cleanText": "N b \" Ss f",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 54.2,
+      "bbox": [
+        24.77,
+        647.14,
+        328.61,
+        658.37
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p114-l001",
+      "lineNumber": 1,
+      "text": "News! News! News! 109",
+      "cleanText": "News! News! News! 109",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        61.63,
+        42.34,
+        474.91,
+        50.98
+      ]
+    },
+    {
+      "id": "class8-english-p114-l002",
+      "lineNumber": 2,
+      "text": "Curriculum Vitae",
+      "cleanText": "Curriculum Vitae",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        223.49,
+        74.88,
+        316.8,
+        84.1
+      ]
+    },
+    {
+      "id": "class8-english-p114-l003",
+      "lineNumber": 3,
+      "text": "1. Name:",
+      "cleanText": "1. Name:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.67,
+      "bbox": [
+        107.14,
+        99.65,
+        276.77,
+        108.58
+      ]
+    },
+    {
+      "id": "class8-english-p114-l004",
+      "lineNumber": 4,
+      "text": "2. Father's name:",
+      "cleanText": "2. Father's name:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        105.98,
+        118.66,
+        276.77,
+        127.87
+      ]
+    },
+    {
+      "id": "class8-english-p114-l005",
+      "lineNumber": 5,
+      "text": "3. Mother's name:",
+      "cleanText": "3. Mother's name:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        106.27,
+        138.24,
+        276.77,
+        147.46
+      ]
+    },
+    {
+      "id": "class8-english-p114-l006",
+      "lineNumber": 6,
+      "text": "4. Mailing address:",
+      "cleanText": "4. Mailing address:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.75,
+      "bbox": [
+        105.98,
+        156.67,
+        276.77,
+        168.48
+      ]
+    },
+    {
+      "id": "class8-english-p114-l007",
+      "lineNumber": 7,
+      "text": "5. Date of birth:",
+      "cleanText": "5. Date of birth:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.6,
+      "bbox": [
+        106.27,
+        175.1,
+        276.77,
+        184.61
+      ]
+    },
+    {
+      "id": "class8-english-p114-l008",
+      "lineNumber": 8,
+      "text": "6. Nationality:",
+      "cleanText": "6. Nationality:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        106.27,
+        193.82,
+        276.77,
+        205.63
+      ]
+    },
+    {
+      "id": "class8-english-p114-l009",
+      "lineNumber": 9,
+      "text": "7. Educational qualifications —:",
+      "cleanText": "7. Educational qualifications —:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 79.75,
+      "bbox": [
+        106.27,
+        213.12,
+        276.77,
+        225.22
+      ]
+    },
+    {
+      "id": "class8-english-p114-l010",
+      "lineNumber": 10,
+      "text": "8. Experience:",
+      "cleanText": "8. Experience:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 93.67,
+      "bbox": [
+        106.56,
+        232.42,
+        276.77,
+        244.22
+      ]
+    },
+    {
+      "id": "class8-english-p114-l011",
+      "lineNumber": 11,
+      "text": "E. Ifa computer is available at your school, compose the CV and display",
+      "cleanText": "E. Ifa computer is available at your school, compose the CV and display",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.31,
+      "bbox": [
+        61.06,
+        298.08,
+        476.93,
+        309.89
+      ]
+    },
+    {
+      "id": "class8-english-p114-l012",
+      "lineNumber": 12,
+      "text": "it in your classroom for everyone:",
+      "cleanText": "it in your classroom for everyone:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        86.69,
+        313.63,
+        273.31,
+        325.44
+      ]
+    },
+    {
+      "id": "class8-english-p114-l013",
+      "lineNumber": 13,
+      "text": "Lesson 5: A Torch Bearer",
+      "cleanText": "Lesson 5: A Torch Bearer",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.4,
+      "bbox": [
+        63.65,
+        351.07,
+        279.65,
+        365.18
+      ]
+    },
+    {
+      "id": "class8-english-p114-l014",
+      "lineNumber": 14,
+      "text": "Keywords: voracious, recognition, legacy, hamper",
+      "cleanText": "Keywords: voracious, recognition, legacy, hamper",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        63.36,
+        369.79,
+        328.03,
+        381.89
+      ]
+    },
+    {
+      "id": "class8-english-p114-l015",
+      "lineNumber": 15,
+      "text": "A. Work in pairs to discuss what you see in the picture and answer the",
+      "cleanText": "A. Work in pairs to discuss what you see in the picture and answer the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.27,
+      "bbox": [
+        63.36,
+        393.12,
+        476.93,
+        404.64
+      ]
+    },
+    {
+      "id": "class8-english-p114-l016",
+      "lineNumber": 16,
+      "text": "following questions:",
+      "cleanText": "following questions:",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        91.58,
+        410.11,
+        199.01,
+        421.92
+      ]
+    },
+    {
+      "id": "class8-english-p114-l017",
+      "lineNumber": 17,
+      "text": "1. Who is the senior man among the children?",
+      "cleanText": "1. Who is the senior man among the children?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.56,
+      "bbox": [
+        89.86,
+        430.85,
+        323.42,
+        442.66
+      ]
+    },
+    {
+      "id": "class8-english-p114-l018",
+      "lineNumber": 18,
+      "text": "2. Why are the children gathering around him?",
+      "cleanText": "2. Why are the children gathering around him?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        88.7,
+        447.84,
+        327.46,
+        459.65
+      ]
+    },
+    {
+      "id": "class8-english-p114-l019",
+      "lineNumber": 19,
+      "text": "3. Do you read story books? How do you collect them?",
+      "cleanText": "3. Do you read story books? How do you collect them?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        88.7,
+        464.83,
+        370.94,
+        476.64
+      ]
+    },
+    {
+      "id": "class8-english-p114-l020",
+      "lineNumber": 20,
+      "text": "9 we” Fb ON",
+      "cleanText": "9 we” Fb ON",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 34.25,
+      "bbox": [
+        120.96,
+        546.91,
+        400.61,
+        577.73
+      ]
+    },
+    {
+      "id": "class8-english-p114-l023",
+      "lineNumber": 23,
+      "text": "N b \" Ss f",
+      "cleanText": "N b \" Ss f",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 54.2,
+      "bbox": [
+        24.77,
+        647.14,
+        328.61,
+        658.37
+      ]
+    }
+  ],
+  "lineCount": 23,
+  "aiReadyLineCount": 21,
+  "averageConfidence": 83.93,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:18:43.561014+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

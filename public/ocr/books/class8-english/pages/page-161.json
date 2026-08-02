@@ -1,0 +1,867 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 161,
+  "pdfPage": 161,
+  "textbookPage": 161,
+  "width": 522.0,
+  "height": 684.0,
+  "image": "../images/page-161.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "156 English For Today\n13. — Aiyana: Hello Ratan! What’s up?\nRatan: Just fantastic. Feeling good to see you again.\nAtyana: Same here. It’s really very interesting to travel together.\nYou know something, I’ve always wanted to ride a train.\nLook how fast we are moving! The trees, fields, and\nhouses are just flying past the window!\nRatan: Yes. And look at how the train moves through the\nlandscape—almost like it’s a part of nature, flowing with\nthe land. It’s magical.\nAtyana: Youw’re right. I never thought of it that way. It feels like the\ntrain is telling its own story as it travels.\nRatan: Yes, That would be incredible! Imagine all the places we\ncould see— rivers, forests and hills.\nAiyana: It’s nice to feel like we’re part of something bigger, like\nwe’re part of the journey itself.\nRatan: Exactly\nAiyana: I'm so happy.\nRatan: Me too, Aiyana. I think this will be the first of many train\njourneys for us.\nAtyana: Yes! Well, it’s almost time to reach our stop. I’m so excited\nto see where we’ve arrived, but I’Il always remember this\njourney.\nRatan: Me too. It’s not just about the destination; it’s the\nexperiences along the way that make it unforgettable.\nAiyana: Let’s move forward.\nRatan: Okay. Let’s go.\nThe End S",
+  "cleanText": "156 English For Today 13. — Aiyana: Hello Ratan! What’s up? Ratan: Just fantastic. Feeling good to see you again. Atyana: Same here. It’s really very interesting to travel together. You know something, I’ve always wanted to ride a train. Look how fast we are moving! The trees, fields, and houses are just flying past the window! Ratan: Yes. And look at how the train moves through the landscape—almost like it’s a part of nature, flowing with the land. It’s magical. Atyana: Youw’re right. I never thought of it that way. It feels like the train is telling its own story as it travels. Ratan: Yes, That would be incredible! Imagine all the places we could see— rivers, forests and hills. Aiyana: It’s nice to feel like we’re part of something bigger, like we’re part of the journey itself. Ratan: Exactly Aiyana: I'm so happy. Ratan: Me too, Aiyana. I think this will be the first of many train journeys for us. Atyana: Yes! Well, it’s almost time to reach our stop. I’m so excited to see where we’ve arrived, but I’Il always remember this journey. Ratan: Me too. It’s not just about the destination; it’s the experiences along the way that make it unforgettable. Aiyana: Let’s move forward. Ratan: Okay. Let’s go. The End S",
+  "aiReadyText": "156 English For Today 13. — Aiyana: Hello Ratan! What’s up? Ratan: Just fantastic. Feeling good to see you again. Atyana: Same here. It’s really very interesting to travel together. You know something, I’ve always wanted to ride a train. Look how fast we are moving! The trees, fields, and houses are just flying past the window! Ratan: Yes. And look at how the train moves through the landscape—almost like it’s a part of nature, flowing with the land. It’s magical. Atyana: Youw’re right. I never thought of it that way. It feels like the train is telling its own story as it travels. Ratan: Yes, That would be incredible! Imagine all the places we could see— rivers, forests and hills. Aiyana: It’s nice to feel like we’re part of something bigger, like we’re part of the journey itself. Ratan: Exactly Aiyana: I'm so happy. Ratan: Me too, Aiyana. I think this will be the first of many train journeys for us. Atyana: Yes! Well, it’s almost time to reach our stop. I’m so excited to see where we’ve arrived, but I’Il always remember this journey. Ratan: Me too. It’s not just about the destination; it’s the experiences along the way that make it unforgettable. Aiyana: Let’s move forward. Ratan: Okay. Let’s go. The End S",
+  "lines": [
+    {
+      "id": "class8-english-p161-l001",
+      "lineNumber": 1,
+      "text": "156 English For Today",
+      "cleanText": "156 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        57.6,
+        37.73,
+        467.14,
+        47.52
+      ]
+    },
+    {
+      "id": "class8-english-p161-l002",
+      "lineNumber": 2,
+      "text": "13. — Aiyana: Hello Ratan! What’s up?",
+      "cleanText": "13. — Aiyana: Hello Ratan! What’s up?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 75.14,
+      "bbox": [
+        56.45,
+        70.27,
+        291.74,
+        84.67
+      ]
+    },
+    {
+      "id": "class8-english-p161-l003",
+      "lineNumber": 3,
+      "text": "Ratan: Just fantastic. Feeling good to see you again.",
+      "cleanText": "Ratan: Just fantastic. Feeling good to see you again.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        91.58,
+        91.3,
+        395.42,
+        105.41
+      ]
+    },
+    {
+      "id": "class8-english-p161-l004",
+      "lineNumber": 4,
+      "text": "Atyana: Same here. It’s really very interesting to travel together.",
+      "cleanText": "Atyana: Same here. It’s really very interesting to travel together.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        91.58,
+        112.32,
+        451.87,
+        126.72
+      ]
+    },
+    {
+      "id": "class8-english-p161-l005",
+      "lineNumber": 5,
+      "text": "You know something, I’ve always wanted to ride a train.",
+      "cleanText": "You know something, I’ve always wanted to ride a train.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        163.58,
+        131.33,
+        456.77,
+        145.44
+      ]
+    },
+    {
+      "id": "class8-english-p161-l006",
+      "lineNumber": 6,
+      "text": "Look how fast we are moving! The trees, fields, and",
+      "cleanText": "Look how fast we are moving! The trees, fields, and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        163.58,
+        151.49,
+        435.17,
+        163.3
+      ]
+    },
+    {
+      "id": "class8-english-p161-l007",
+      "lineNumber": 7,
+      "text": "houses are just flying past the window!",
+      "cleanText": "houses are just flying past the window!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        163.58,
+        170.5,
+        365.47,
+        182.3
+      ]
+    },
+    {
+      "id": "class8-english-p161-l008",
+      "lineNumber": 8,
+      "text": "Ratan: Yes. And look at how the train moves through the",
+      "cleanText": "Ratan: Yes. And look at how the train moves through the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        91.58,
+        190.37,
+        421.63,
+        204.48
+      ]
+    },
+    {
+      "id": "class8-english-p161-l009",
+      "lineNumber": 9,
+      "text": "landscape—almost like it’s a part of nature, flowing with",
+      "cleanText": "landscape—almost like it’s a part of nature, flowing with",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.44,
+      "bbox": [
+        163.87,
+        210.24,
+        459.65,
+        222.34
+      ]
+    },
+    {
+      "id": "class8-english-p161-l010",
+      "lineNumber": 10,
+      "text": "the land. It’s magical.",
+      "cleanText": "the land. It’s magical.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        163.58,
+        229.25,
+        274.75,
+        241.34
+      ]
+    },
+    {
+      "id": "class8-english-p161-l011",
+      "lineNumber": 11,
+      "text": "Atyana: Youw’re right. I never thought of it that way. It feels like the",
+      "cleanText": "Atyana: Youw’re right. I never thought of it that way. It feels like the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.79,
+      "bbox": [
+        91.58,
+        249.12,
+        467.71,
+        263.52
+      ]
+    },
+    {
+      "id": "class8-english-p161-l012",
+      "lineNumber": 12,
+      "text": "train is telling its own story as it travels.",
+      "cleanText": "train is telling its own story as it travels.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        163.58,
+        269.28,
+        370.66,
+        281.09
+      ]
+    },
+    {
+      "id": "class8-english-p161-l013",
+      "lineNumber": 13,
+      "text": "Ratan: Yes, That would be incredible! Imagine all the places we",
+      "cleanText": "Ratan: Yes, That would be incredible! Imagine all the places we",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        91.58,
+        289.15,
+        458.5,
+        303.26
+      ]
+    },
+    {
+      "id": "class8-english-p161-l014",
+      "lineNumber": 14,
+      "text": "could see— rivers, forests and hills.",
+      "cleanText": "could see— rivers, forests and hills.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        163.87,
+        309.31,
+        349.06,
+        320.54
+      ]
+    },
+    {
+      "id": "class8-english-p161-l015",
+      "lineNumber": 15,
+      "text": "Aiyana: It’s nice to feel like we’re part of something bigger, like",
+      "cleanText": "Aiyana: It’s nice to feel like we’re part of something bigger, like",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.67,
+      "bbox": [
+        91.58,
+        329.18,
+        453.02,
+        343.3
+      ]
+    },
+    {
+      "id": "class8-english-p161-l016",
+      "lineNumber": 16,
+      "text": "we’re part of the journey itself.",
+      "cleanText": "we’re part of the journey itself.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.17,
+      "bbox": [
+        163.58,
+        349.34,
+        324.29,
+        361.15
+      ]
+    },
+    {
+      "id": "class8-english-p161-l017",
+      "lineNumber": 17,
+      "text": "Ratan: Exactly",
+      "cleanText": "Ratan: Exactly",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        91.58,
+        369.22,
+        203.04,
+        383.33
+      ]
+    },
+    {
+      "id": "class8-english-p161-l018",
+      "lineNumber": 18,
+      "text": "Aiyana: I'm so happy.",
+      "cleanText": "Aiyana: I'm so happy.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.75,
+      "bbox": [
+        91.58,
+        390.24,
+        231.55,
+        404.35
+      ]
+    },
+    {
+      "id": "class8-english-p161-l019",
+      "lineNumber": 19,
+      "text": "Ratan: Me too, Aiyana. I think this will be the first of many train",
+      "cleanText": "Ratan: Me too, Aiyana. I think this will be the first of many train",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.93,
+      "bbox": [
+        91.58,
+        411.26,
+        462.82,
+        425.66
+      ]
+    },
+    {
+      "id": "class8-english-p161-l020",
+      "lineNumber": 20,
+      "text": "journeys for us.",
+      "cleanText": "journeys for us.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        162.43,
+        431.42,
+        243.65,
+        443.23
+      ]
+    },
+    {
+      "id": "class8-english-p161-l021",
+      "lineNumber": 21,
+      "text": "Atyana: Yes! Well, it’s almost time to reach our stop. I’m so excited",
+      "cleanText": "Atyana: Yes! Well, it’s almost time to reach our stop. I’m so excited",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.15,
+      "bbox": [
+        91.58,
+        451.3,
+        471.74,
+        465.7
+      ]
+    },
+    {
+      "id": "class8-english-p161-l022",
+      "lineNumber": 22,
+      "text": "to see where we’ve arrived, but I’Il always remember this",
+      "cleanText": "to see where we’ve arrived, but I’Il always remember this",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 81.9,
+      "bbox": [
+        163.58,
+        471.46,
+        462.53,
+        483.26
+      ]
+    },
+    {
+      "id": "class8-english-p161-l023",
+      "lineNumber": 23,
+      "text": "journey.",
+      "cleanText": "journey.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        162.43,
+        490.46,
+        204.48,
+        502.27
+      ]
+    },
+    {
+      "id": "class8-english-p161-l024",
+      "lineNumber": 24,
+      "text": "Ratan: Me too. It’s not just about the destination; it’s the",
+      "cleanText": "Ratan: Me too. It’s not just about the destination; it’s the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.09,
+      "bbox": [
+        91.58,
+        510.62,
+        418.75,
+        524.74
+      ]
+    },
+    {
+      "id": "class8-english-p161-l025",
+      "lineNumber": 25,
+      "text": "experiences along the way that make it unforgettable.",
+      "cleanText": "experiences along the way that make it unforgettable.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        163.87,
+        530.5,
+        440.06,
+        542.3
+      ]
+    },
+    {
+      "id": "class8-english-p161-l026",
+      "lineNumber": 26,
+      "text": "Aiyana: Let’s move forward.",
+      "cleanText": "Aiyana: Let’s move forward.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.0,
+      "bbox": [
+        91.58,
+        550.08,
+        268.13,
+        564.77
+      ]
+    },
+    {
+      "id": "class8-english-p161-l027",
+      "lineNumber": 27,
+      "text": "Ratan: Okay. Let’s go.",
+      "cleanText": "Ratan: Okay. Let’s go.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        91.58,
+        571.39,
+        241.63,
+        585.79
+      ]
+    },
+    {
+      "id": "class8-english-p161-l028",
+      "lineNumber": 28,
+      "text": "The End S",
+      "cleanText": "The End S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 76.33,
+      "bbox": [
+        229.25,
+        626.69,
+        497.66,
+        649.73
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p161-l001",
+      "lineNumber": 1,
+      "text": "156 English For Today",
+      "cleanText": "156 English For Today",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        57.6,
+        37.73,
+        467.14,
+        47.52
+      ]
+    },
+    {
+      "id": "class8-english-p161-l002",
+      "lineNumber": 2,
+      "text": "13. — Aiyana: Hello Ratan! What’s up?",
+      "cleanText": "13. — Aiyana: Hello Ratan! What’s up?",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 75.14,
+      "bbox": [
+        56.45,
+        70.27,
+        291.74,
+        84.67
+      ]
+    },
+    {
+      "id": "class8-english-p161-l003",
+      "lineNumber": 3,
+      "text": "Ratan: Just fantastic. Feeling good to see you again.",
+      "cleanText": "Ratan: Just fantastic. Feeling good to see you again.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.78,
+      "bbox": [
+        91.58,
+        91.3,
+        395.42,
+        105.41
+      ]
+    },
+    {
+      "id": "class8-english-p161-l004",
+      "lineNumber": 4,
+      "text": "Atyana: Same here. It’s really very interesting to travel together.",
+      "cleanText": "Atyana: Same here. It’s really very interesting to travel together.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.2,
+      "bbox": [
+        91.58,
+        112.32,
+        451.87,
+        126.72
+      ]
+    },
+    {
+      "id": "class8-english-p161-l005",
+      "lineNumber": 5,
+      "text": "You know something, I’ve always wanted to ride a train.",
+      "cleanText": "You know something, I’ve always wanted to ride a train.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        163.58,
+        131.33,
+        456.77,
+        145.44
+      ]
+    },
+    {
+      "id": "class8-english-p161-l006",
+      "lineNumber": 6,
+      "text": "Look how fast we are moving! The trees, fields, and",
+      "cleanText": "Look how fast we are moving! The trees, fields, and",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        163.58,
+        151.49,
+        435.17,
+        163.3
+      ]
+    },
+    {
+      "id": "class8-english-p161-l007",
+      "lineNumber": 7,
+      "text": "houses are just flying past the window!",
+      "cleanText": "houses are just flying past the window!",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        163.58,
+        170.5,
+        365.47,
+        182.3
+      ]
+    },
+    {
+      "id": "class8-english-p161-l008",
+      "lineNumber": 8,
+      "text": "Ratan: Yes. And look at how the train moves through the",
+      "cleanText": "Ratan: Yes. And look at how the train moves through the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.91,
+      "bbox": [
+        91.58,
+        190.37,
+        421.63,
+        204.48
+      ]
+    },
+    {
+      "id": "class8-english-p161-l009",
+      "lineNumber": 9,
+      "text": "landscape—almost like it’s a part of nature, flowing with",
+      "cleanText": "landscape—almost like it’s a part of nature, flowing with",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.44,
+      "bbox": [
+        163.87,
+        210.24,
+        459.65,
+        222.34
+      ]
+    },
+    {
+      "id": "class8-english-p161-l010",
+      "lineNumber": 10,
+      "text": "the land. It’s magical.",
+      "cleanText": "the land. It’s magical.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        163.58,
+        229.25,
+        274.75,
+        241.34
+      ]
+    },
+    {
+      "id": "class8-english-p161-l011",
+      "lineNumber": 11,
+      "text": "Atyana: Youw’re right. I never thought of it that way. It feels like the",
+      "cleanText": "Atyana: Youw’re right. I never thought of it that way. It feels like the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 88.79,
+      "bbox": [
+        91.58,
+        249.12,
+        467.71,
+        263.52
+      ]
+    },
+    {
+      "id": "class8-english-p161-l012",
+      "lineNumber": 12,
+      "text": "train is telling its own story as it travels.",
+      "cleanText": "train is telling its own story as it travels.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        163.58,
+        269.28,
+        370.66,
+        281.09
+      ]
+    },
+    {
+      "id": "class8-english-p161-l013",
+      "lineNumber": 13,
+      "text": "Ratan: Yes, That would be incredible! Imagine all the places we",
+      "cleanText": "Ratan: Yes, That would be incredible! Imagine all the places we",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        91.58,
+        289.15,
+        458.5,
+        303.26
+      ]
+    },
+    {
+      "id": "class8-english-p161-l014",
+      "lineNumber": 14,
+      "text": "could see— rivers, forests and hills.",
+      "cleanText": "could see— rivers, forests and hills.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.67,
+      "bbox": [
+        163.87,
+        309.31,
+        349.06,
+        320.54
+      ]
+    },
+    {
+      "id": "class8-english-p161-l015",
+      "lineNumber": 15,
+      "text": "Aiyana: It’s nice to feel like we’re part of something bigger, like",
+      "cleanText": "Aiyana: It’s nice to feel like we’re part of something bigger, like",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 91.67,
+      "bbox": [
+        91.58,
+        329.18,
+        453.02,
+        343.3
+      ]
+    },
+    {
+      "id": "class8-english-p161-l016",
+      "lineNumber": 16,
+      "text": "we’re part of the journey itself.",
+      "cleanText": "we’re part of the journey itself.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.17,
+      "bbox": [
+        163.58,
+        349.34,
+        324.29,
+        361.15
+      ]
+    },
+    {
+      "id": "class8-english-p161-l017",
+      "lineNumber": 17,
+      "text": "Ratan: Exactly",
+      "cleanText": "Ratan: Exactly",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        91.58,
+        369.22,
+        203.04,
+        383.33
+      ]
+    },
+    {
+      "id": "class8-english-p161-l018",
+      "lineNumber": 18,
+      "text": "Aiyana: I'm so happy.",
+      "cleanText": "Aiyana: I'm so happy.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.75,
+      "bbox": [
+        91.58,
+        390.24,
+        231.55,
+        404.35
+      ]
+    },
+    {
+      "id": "class8-english-p161-l019",
+      "lineNumber": 19,
+      "text": "Ratan: Me too, Aiyana. I think this will be the first of many train",
+      "cleanText": "Ratan: Me too, Aiyana. I think this will be the first of many train",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.93,
+      "bbox": [
+        91.58,
+        411.26,
+        462.82,
+        425.66
+      ]
+    },
+    {
+      "id": "class8-english-p161-l020",
+      "lineNumber": 20,
+      "text": "journeys for us.",
+      "cleanText": "journeys for us.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        162.43,
+        431.42,
+        243.65,
+        443.23
+      ]
+    },
+    {
+      "id": "class8-english-p161-l021",
+      "lineNumber": 21,
+      "text": "Atyana: Yes! Well, it’s almost time to reach our stop. I’m so excited",
+      "cleanText": "Atyana: Yes! Well, it’s almost time to reach our stop. I’m so excited",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.15,
+      "bbox": [
+        91.58,
+        451.3,
+        471.74,
+        465.7
+      ]
+    },
+    {
+      "id": "class8-english-p161-l022",
+      "lineNumber": 22,
+      "text": "to see where we’ve arrived, but I’Il always remember this",
+      "cleanText": "to see where we’ve arrived, but I’Il always remember this",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 81.9,
+      "bbox": [
+        163.58,
+        471.46,
+        462.53,
+        483.26
+      ]
+    },
+    {
+      "id": "class8-english-p161-l023",
+      "lineNumber": 23,
+      "text": "journey.",
+      "cleanText": "journey.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.0,
+      "bbox": [
+        162.43,
+        490.46,
+        204.48,
+        502.27
+      ]
+    },
+    {
+      "id": "class8-english-p161-l024",
+      "lineNumber": 24,
+      "text": "Ratan: Me too. It’s not just about the destination; it’s the",
+      "cleanText": "Ratan: Me too. It’s not just about the destination; it’s the",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.09,
+      "bbox": [
+        91.58,
+        510.62,
+        418.75,
+        524.74
+      ]
+    },
+    {
+      "id": "class8-english-p161-l025",
+      "lineNumber": 25,
+      "text": "experiences along the way that make it unforgettable.",
+      "cleanText": "experiences along the way that make it unforgettable.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.0,
+      "bbox": [
+        163.87,
+        530.5,
+        440.06,
+        542.3
+      ]
+    },
+    {
+      "id": "class8-english-p161-l026",
+      "lineNumber": 26,
+      "text": "Aiyana: Let’s move forward.",
+      "cleanText": "Aiyana: Let’s move forward.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 86.0,
+      "bbox": [
+        91.58,
+        550.08,
+        268.13,
+        564.77
+      ]
+    },
+    {
+      "id": "class8-english-p161-l027",
+      "lineNumber": 27,
+      "text": "Ratan: Okay. Let’s go.",
+      "cleanText": "Ratan: Okay. Let’s go.",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.0,
+      "bbox": [
+        91.58,
+        571.39,
+        241.63,
+        585.79
+      ]
+    },
+    {
+      "id": "class8-english-p161-l028",
+      "lineNumber": 28,
+      "text": "The End S",
+      "cleanText": "The End S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 76.33,
+      "bbox": [
+        229.25,
+        626.69,
+        497.66,
+        649.73
+      ]
+    }
+  ],
+  "lineCount": 28,
+  "aiReadyLineCount": 28,
+  "averageConfidence": 92.57,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:19:51.105189+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}

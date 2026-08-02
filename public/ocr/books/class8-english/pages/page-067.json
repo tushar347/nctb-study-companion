@@ -1,0 +1,537 @@
+{
+  "bookId": "class8-english",
+  "pageNumber": 67,
+  "pdfPage": 67,
+  "textbookPage": 67,
+  "width": 530.0,
+  "height": 696.0,
+  "image": "../images/page-067.png",
+  "source": "tesseract",
+  "sourcePdf": "Secondary (BV)-2026_Class 8_English For Today_compressed.pdf",
+  "rawText": "Unit Six\nGoing on a Trip\ny B LATTA TT\nCA a y) IMMIGRATION\npe See\neee) WW Lees\n| WG men Se\nL/ |\nfy, / \\ ai 1\n= t=\nAfter we have studied this unit, we will be able to\ne listen for information\ne listen to and follow announcements\n@ read and understand texts\n@ ask and answer questions\n= @ write answers to questions ‘S\nSs _. S\nQ @ write the main ideas AQ",
+  "cleanText": "Unit Six Going on a Trip y B LATTA TT CA a y) IMMIGRATION pe See eee) WW Lees | WG men Se L/ | fy, / \\ ai 1 = t= After we have studied this unit, we will be able to e listen for information e listen to and follow announcements @ read and understand texts @ ask and answer questions = @ write answers to questions ‘S Ss _. S Q @ write the main ideas AQ",
+  "aiReadyText": "Unit Six Going on a Trip y B LATTA TT CA a y) IMMIGRATION pe See eee) WW Lees | WG men Se fy, / \\ ai 1 After we have studied this unit, we will be able to e listen for information e listen to and follow announcements @ read and understand texts @ ask and answer questions = @ write answers to questions ‘S Ss _. S Q @ write the main ideas AQ",
+  "lines": [
+    {
+      "id": "class8-english-p067-l001",
+      "lineNumber": 1,
+      "text": "Unit Six",
+      "cleanText": "Unit Six",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        238.18,
+        51.84,
+        296.64,
+        63.65
+      ]
+    },
+    {
+      "id": "class8-english-p067-l002",
+      "lineNumber": 2,
+      "text": "Going on a Trip",
+      "cleanText": "Going on a Trip",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        198.72,
+        86.11,
+        359.71,
+        108.58
+      ]
+    },
+    {
+      "id": "class8-english-p067-l003",
+      "lineNumber": 3,
+      "text": "y B LATTA TT",
+      "cleanText": "y B LATTA TT",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 11.75,
+      "bbox": [
+        122.4,
+        135.07,
+        426.53,
+        151.2
+      ]
+    },
+    {
+      "id": "class8-english-p067-l004",
+      "lineNumber": 4,
+      "text": "CA a y) IMMIGRATION",
+      "cleanText": "CA a y) IMMIGRATION",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 46.5,
+      "bbox": [
+        102.82,
+        140.54,
+        410.4,
+        172.22
+      ]
+    },
+    {
+      "id": "class8-english-p067-l005",
+      "lineNumber": 5,
+      "text": "pe See",
+      "cleanText": "pe See",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 30.5,
+      "bbox": [
+        121.54,
+        266.69,
+        355.68,
+        292.61
+      ]
+    },
+    {
+      "id": "class8-english-p067-l006",
+      "lineNumber": 6,
+      "text": "eee) WW Lees",
+      "cleanText": "eee) WW Lees",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 35.33,
+      "bbox": [
+        118.66,
+        350.78,
+        396.58,
+        385.63
+      ]
+    },
+    {
+      "id": "class8-english-p067-l007",
+      "lineNumber": 7,
+      "text": "| WG men Se",
+      "cleanText": "| WG men Se",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 45.25,
+      "bbox": [
+        164.74,
+        430.56,
+        363.74,
+        445.54
+      ]
+    },
+    {
+      "id": "class8-english-p067-l008",
+      "lineNumber": 8,
+      "text": "L/ |",
+      "cleanText": "L/ |",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 65.0,
+      "bbox": [
+        194.69,
+        437.47,
+        278.78,
+        463.1
+      ]
+    },
+    {
+      "id": "class8-english-p067-l009",
+      "lineNumber": 9,
+      "text": "fy, / \\ ai 1",
+      "cleanText": "fy, / \\ ai 1",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 46.5,
+      "bbox": [
+        144.86,
+        454.75,
+        364.61,
+        497.95
+      ]
+    },
+    {
+      "id": "class8-english-p067-l010",
+      "lineNumber": 10,
+      "text": "= t=",
+      "cleanText": "= t=",
+      "aiReady": false,
+      "source": "tesseract",
+      "confidence": 7.5,
+      "bbox": [
+        125.86,
+        474.62,
+        312.77,
+        488.74
+      ]
+    },
+    {
+      "id": "class8-english-p067-l011",
+      "lineNumber": 11,
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.09,
+      "bbox": [
+        58.75,
+        506.59,
+        316.8,
+        516.96
+      ]
+    },
+    {
+      "id": "class8-english-p067-l012",
+      "lineNumber": 12,
+      "text": "e listen for information",
+      "cleanText": "e listen for information",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.25,
+      "bbox": [
+        80.06,
+        530.5,
+        211.97,
+        539.71
+      ]
+    },
+    {
+      "id": "class8-english-p067-l013",
+      "lineNumber": 13,
+      "text": "e listen to and follow announcements",
+      "cleanText": "e listen to and follow announcements",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.0,
+      "bbox": [
+        80.06,
+        553.54,
+        285.7,
+        562.75
+      ]
+    },
+    {
+      "id": "class8-english-p067-l014",
+      "lineNumber": 14,
+      "text": "@ read and understand texts",
+      "cleanText": "@ read and understand texts",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.2,
+      "bbox": [
+        80.06,
+        576.58,
+        233.28,
+        585.79
+      ]
+    },
+    {
+      "id": "class8-english-p067-l015",
+      "lineNumber": 15,
+      "text": "@ ask and answer questions",
+      "cleanText": "@ ask and answer questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.8,
+      "bbox": [
+        80.06,
+        599.62,
+        232.42,
+        611.71
+      ]
+    },
+    {
+      "id": "class8-english-p067-l016",
+      "lineNumber": 16,
+      "text": "= @ write answers to questions ‘S",
+      "cleanText": "= @ write answers to questions ‘S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 69.14,
+      "bbox": [
+        34.85,
+        623.23,
+        497.66,
+        635.04
+      ]
+    },
+    {
+      "id": "class8-english-p067-l017",
+      "lineNumber": 17,
+      "text": "Ss _. S",
+      "cleanText": "Ss _. S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 34.0,
+      "bbox": [
+        33.7,
+        635.04,
+        497.66,
+        650.88
+      ]
+    },
+    {
+      "id": "class8-english-p067-l018",
+      "lineNumber": 18,
+      "text": "Q @ write the main ideas AQ",
+      "cleanText": "Q @ write the main ideas AQ",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 73.71,
+      "bbox": [
+        34.85,
+        645.7,
+        497.66,
+        654.62
+      ]
+    }
+  ],
+  "aiReadyLines": [
+    {
+      "id": "class8-english-p067-l001",
+      "lineNumber": 1,
+      "text": "Unit Six",
+      "cleanText": "Unit Six",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 95.5,
+      "bbox": [
+        238.18,
+        51.84,
+        296.64,
+        63.65
+      ]
+    },
+    {
+      "id": "class8-english-p067-l002",
+      "lineNumber": 2,
+      "text": "Going on a Trip",
+      "cleanText": "Going on a Trip",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 94.5,
+      "bbox": [
+        198.72,
+        86.11,
+        359.71,
+        108.58
+      ]
+    },
+    {
+      "id": "class8-english-p067-l003",
+      "lineNumber": 3,
+      "text": "y B LATTA TT",
+      "cleanText": "y B LATTA TT",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 11.75,
+      "bbox": [
+        122.4,
+        135.07,
+        426.53,
+        151.2
+      ]
+    },
+    {
+      "id": "class8-english-p067-l004",
+      "lineNumber": 4,
+      "text": "CA a y) IMMIGRATION",
+      "cleanText": "CA a y) IMMIGRATION",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 46.5,
+      "bbox": [
+        102.82,
+        140.54,
+        410.4,
+        172.22
+      ]
+    },
+    {
+      "id": "class8-english-p067-l005",
+      "lineNumber": 5,
+      "text": "pe See",
+      "cleanText": "pe See",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 30.5,
+      "bbox": [
+        121.54,
+        266.69,
+        355.68,
+        292.61
+      ]
+    },
+    {
+      "id": "class8-english-p067-l006",
+      "lineNumber": 6,
+      "text": "eee) WW Lees",
+      "cleanText": "eee) WW Lees",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 35.33,
+      "bbox": [
+        118.66,
+        350.78,
+        396.58,
+        385.63
+      ]
+    },
+    {
+      "id": "class8-english-p067-l007",
+      "lineNumber": 7,
+      "text": "| WG men Se",
+      "cleanText": "| WG men Se",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 45.25,
+      "bbox": [
+        164.74,
+        430.56,
+        363.74,
+        445.54
+      ]
+    },
+    {
+      "id": "class8-english-p067-l009",
+      "lineNumber": 9,
+      "text": "fy, / \\ ai 1",
+      "cleanText": "fy, / \\ ai 1",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 46.5,
+      "bbox": [
+        144.86,
+        454.75,
+        364.61,
+        497.95
+      ]
+    },
+    {
+      "id": "class8-english-p067-l011",
+      "lineNumber": 11,
+      "text": "After we have studied this unit, we will be able to",
+      "cleanText": "After we have studied this unit, we will be able to",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 96.09,
+      "bbox": [
+        58.75,
+        506.59,
+        316.8,
+        516.96
+      ]
+    },
+    {
+      "id": "class8-english-p067-l012",
+      "lineNumber": 12,
+      "text": "e listen for information",
+      "cleanText": "e listen for information",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 85.25,
+      "bbox": [
+        80.06,
+        530.5,
+        211.97,
+        539.71
+      ]
+    },
+    {
+      "id": "class8-english-p067-l013",
+      "lineNumber": 13,
+      "text": "e listen to and follow announcements",
+      "cleanText": "e listen to and follow announcements",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 89.0,
+      "bbox": [
+        80.06,
+        553.54,
+        285.7,
+        562.75
+      ]
+    },
+    {
+      "id": "class8-english-p067-l014",
+      "lineNumber": 14,
+      "text": "@ read and understand texts",
+      "cleanText": "@ read and understand texts",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 84.2,
+      "bbox": [
+        80.06,
+        576.58,
+        233.28,
+        585.79
+      ]
+    },
+    {
+      "id": "class8-english-p067-l015",
+      "lineNumber": 15,
+      "text": "@ ask and answer questions",
+      "cleanText": "@ ask and answer questions",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 90.8,
+      "bbox": [
+        80.06,
+        599.62,
+        232.42,
+        611.71
+      ]
+    },
+    {
+      "id": "class8-english-p067-l016",
+      "lineNumber": 16,
+      "text": "= @ write answers to questions ‘S",
+      "cleanText": "= @ write answers to questions ‘S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 69.14,
+      "bbox": [
+        34.85,
+        623.23,
+        497.66,
+        635.04
+      ]
+    },
+    {
+      "id": "class8-english-p067-l017",
+      "lineNumber": 17,
+      "text": "Ss _. S",
+      "cleanText": "Ss _. S",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 34.0,
+      "bbox": [
+        33.7,
+        635.04,
+        497.66,
+        650.88
+      ]
+    },
+    {
+      "id": "class8-english-p067-l018",
+      "lineNumber": 18,
+      "text": "Q @ write the main ideas AQ",
+      "cleanText": "Q @ write the main ideas AQ",
+      "aiReady": true,
+      "source": "tesseract",
+      "confidence": 73.71,
+      "bbox": [
+        34.85,
+        645.7,
+        497.66,
+        654.62
+      ]
+    }
+  ],
+  "lineCount": 18,
+  "aiReadyLineCount": 16,
+  "averageConfidence": 61.14,
+  "ocrMetadata": {
+    "generatedAt": "2026-08-02T19:17:29.061043+00:00",
+    "extractor": "tesseract",
+    "dpi": 250,
+    "tesseractLanguage": "eng"
+  }
+}
