@@ -40,10 +40,12 @@ function lineText(
   ).trim();
 }
 
+
 export async function POST(
   request: Request,
 ) {
   try {
+
     const body =
       (await request.json()) as {
         bookId?: unknown;
@@ -51,21 +53,25 @@ export async function POST(
         sourceLineId?: unknown;
       };
 
+
     const bookId =
       String(
         body.bookId ?? "",
       ).trim();
+
 
     const pageNumber =
       Number(
         body.pageNumber,
       );
 
+
     const sourceLineId =
       String(
         body.sourceLineId ??
           "",
       ).trim();
+
 
     if (
       !ALLOWED_BOOKS.has(
@@ -79,15 +85,16 @@ export async function POST(
     ) {
       return NextResponse.json(
         {
-          success: false,
+          success:false,
           error:
             "A valid textbook line is required.",
         },
         {
-          status: 400,
+          status:400,
         },
       );
     }
+
 
     const fileName =
       `page-${String(
@@ -96,6 +103,7 @@ export async function POST(
         3,
         "0",
       )}.json`;
+
 
     const raw =
       await readFile(
@@ -111,6 +119,7 @@ export async function POST(
         "utf8",
       );
 
+
     const page =
       JSON.parse(
         raw.replace(
@@ -119,45 +128,66 @@ export async function POST(
         ),
       ) as OcrPage;
 
+
+
+    // Prefer original OCR lines because they contain stable IDs
     const lines =
-      page.aiReadyLines &&
-      page.aiReadyLines
-        .length > 0
-        ? page.aiReadyLines
-        : page.lines ?? [];
+      page.lines && page.lines.length > 0
+        ? page.lines
+        : page.aiReadyLines ?? [];
+
+
 
     const selectedLine =
       lines.find(
         (line) =>
           String(
             line.id ?? "",
-          ) ===
-          sourceLineId,
-      ) ?? null;
+          ) === sourceLineId,
+      )
+      ??
+      lines.find(
+        (line) =>
+          String(
+            line.lineNumber ?? "",
+          ) === sourceLineId,
+      )
+      ??
+      null;
+
+
 
     if (!selectedLine) {
+
       return NextResponse.json(
         {
-          success: false,
+          success:false,
           error:
-            "The selected line was not found in the authoritative OCR page.",
+            "The selected line was not found in the textbook page. Please select the sentence again.",
         },
         {
-          status: 422,
+          status:422,
         },
       );
+
     }
+
+
 
     const sourceText =
       lineText(
         selectedLine,
       );
 
+
+
     const promptOptions = [
       "Explain this textbook line in your own words.",
       "What is the main idea of this textbook line? Answer in one or two sentences.",
       "Say what happens or what is described in this line, then add one related detail.",
     ];
+
+
 
     const promptIndex =
       Math.abs(
@@ -168,32 +198,41 @@ export async function POST(
       ) %
       promptOptions.length;
 
-    return NextResponse.json({
-      success: true,
-      session: {
-        bookId,
-        pageNumber,
-        sourceLineId,
-        sourceText,
-        promptText:
-          promptOptions[
-            promptIndex
-          ],
-      },
-    });
-  } catch (error) {
+
+
     return NextResponse.json(
       {
-        success: false,
+        success:true,
+        session:{
+          bookId,
+          pageNumber,
+          sourceLineId:
+            selectedLine.id ??
+            sourceLineId,
+          sourceText,
+          promptText:
+            promptOptions[
+              promptIndex
+            ],
+        },
+      },
+    );
+
+
+  } catch(error) {
+
+    return NextResponse.json(
+      {
+        success:false,
         error:
-          error instanceof
-          Error
+          error instanceof Error
             ? error.message
             : "Speaking session could not be created.",
       },
       {
-        status: 500,
+        status:500,
       },
     );
+
   }
 }
