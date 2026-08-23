@@ -1,6 +1,7 @@
 import { useAiTeacherCredit } from "@/lib/rewardSystem";
 import { buildLessonContext } from "@/lib/buildLessonContext";
 import { buildPageContext } from "@/lib/buildPageContext";
+
 import {
   getMemorySummaryForAgent,
   logResearchEvent,
@@ -10,7 +11,12 @@ import {
 
 export const runtime = "nodejs";
 
-type RequestedTool = "simple" | "bangla" | "grammar" | "quiz" | "chat";
+type RequestedTool =
+  | "simple"
+  | "bangla"
+  | "grammar"
+  | "quiz"
+  | "chat";
 
 type RequestBody = {
   studentId?: string;
@@ -33,7 +39,11 @@ type GeminiResponse = {
   }[];
 };
 
-function fallbackAnswer(tool: RequestedTool, selectedLine: string) {
+
+function fallbackAnswer(
+  tool: RequestedTool,
+  selectedLine: string,
+) {
   return {
     tool,
     output:
@@ -41,6 +51,7 @@ function fallbackAnswer(tool: RequestedTool, selectedLine: string) {
     selectedLine,
   };
 }
+
 
 function buildPrompt({
   requestedTool,
@@ -57,6 +68,7 @@ function buildPrompt({
   nearbyContext: string;
   memorySummary: unknown;
 }) {
+
   return `
 You are an AI Teacher for Class 6 English textbook learners in Bangladesh.
 
@@ -69,33 +81,41 @@ ${selectedLine}
 Nearby textbook context:
 ${nearbyContext}
 
-Student memory summary:
+Student memory:
 ${JSON.stringify(memorySummary, null, 2)}
 
-Requested tool:
+Tool:
 ${requestedTool}
 
 Student question:
-${studentQuestion ?? "No extra question"}
-
-Task:
-Return a short, student-friendly answer.
+${studentQuestion ?? "No question"}
 
 Rules:
-- If requestedTool is "simple", explain the line in very simple English.
-- If requestedTool is "bangla", give the natural Bangla meaning of the selected line.
-- If requestedTool is "grammar", teach grammar from the selected line like an English-medium literature-based grammar lesson.
-- If requestedTool is "chat", answer the student's question using the selected line, nearby lesson context, and student memory.
-- Use simple language for Class 6 students.
-- Keep the answer focused and useful.
+- Explain simply.
+- Use examples.
+- Help Class 6 students understand.
+- Keep answers short and useful.
 `;
 }
 
-export async function POST(request: Request) {
-  try {
-    const body = (await request.json()) as RequestBody;
 
-    const studentKey = String(body.studentKey ?? body.studentId ?? "").trim();
+export async function POST(
+  request: Request,
+) {
+
+  try {
+
+    const body =
+      (await request.json()) as RequestBody;
+
+
+    const studentKey =
+      String(
+        body.studentKey ??
+        body.studentId ??
+        "",
+      ).trim();
+
 
     if (
       !studentKey ||
@@ -103,212 +123,460 @@ export async function POST(request: Request) {
       !body.selectedLine ||
       !body.requestedTool
     ) {
+
       return Response.json(
         {
           error:
             "studentKey/studentId, lessonNo, selectedLine, and requestedTool are required",
         },
-        { status: 400 },
-      );
-    }
-
-    /**
-     * AI CREDIT SYSTEM
-     * Every successful AI Teacher request uses 1 AI credit.
-     * If the student has 0 credits, the request stops before generating an answer.
-     */
-    const creditResult = await useAiTeacherCredit({
-      studentKey,
-      lessonNo: Number(body.lessonNo),
-      selectedLine: body.selectedLine,
-      question: body.studentQuestion,
-      toolUsed: body.requestedTool,
-    });
-
-    if (!creditResult.success) {
-      return Response.json(
         {
-          success: false,
-          error: creditResult.error,
-          wallet: creditResult.wallet,
-          needsRedeem: true,
-          message:
-            "No AI Teacher credits left. Play quiz or grammar games to earn learning points, then redeem points for more AI Teacher credits.",
+          status:400,
         },
-        { status: 402 },
       );
+
     }
 
-    const apiKey = process.env.GEMINI_API_KEY;
-    const model = process.env.GEMINI_MODEL ?? "gemini-2.5-flash";
 
-    const lessonContext = body.pageNumber
+
+    /*
+      AI ACCESS
+
+      Unlimited mode enabled.
+      We still call credit system because it logs usage.
+      No blocking.
+    */
+
+    const creditResult =
+      await useAiTeacherCredit({
+
+        studentKey,
+
+        lessonNo:
+          Number(body.lessonNo),
+
+        selectedLine:
+          body.selectedLine,
+
+        question:
+          body.studentQuestion,
+
+        toolUsed:
+          body.requestedTool,
+
+      });
+
+
+
+    const wallet =
+      creditResult.wallet;
+
+
+
+    const lessonContext =
+      body.pageNumber
+
       ? await buildPageContext({
-          pageNumber: Number(body.pageNumber),
-          lineId: body.lineId,
-          fallbackSelectedLine: body.selectedLine,
-          fallbackLessonNo: Number(body.lessonNo),
-        })
-      : buildLessonContext(Number(body.lessonNo), body.selectedLine);
 
-    // Run independent DB writes in parallel instead of sequentially - shaves
-    // a network round-trip off every request (each Neon round-trip here was
-    // adding real latency on top of the Gemini call).
+          pageNumber:
+            Number(body.pageNumber),
+
+          lineId:
+            body.lineId,
+
+          fallbackSelectedLine:
+            body.selectedLine,
+
+          fallbackLessonNo:
+            Number(body.lessonNo),
+
+        })
+
+      : buildLessonContext(
+          Number(body.lessonNo),
+          body.selectedLine,
+        );
+
+
+
+
     await Promise.all([
+
       updateMemoryAfterAgent({
+
         studentKey,
-        lessonNo: Number(body.lessonNo),
-        selectedLine: body.selectedLine,
-        toolUsed: body.requestedTool,
+
+        lessonNo:
+          Number(body.lessonNo),
+
+        selectedLine:
+          body.selectedLine,
+
+        toolUsed:
+          body.requestedTool,
+
       }),
+
+
+
       logResearchEvent({
+
         studentKey,
-        lessonNo: Number(body.lessonNo),
-        eventType: "agent_tool_request",
-        selectedLine: body.selectedLine,
-        toolUsed: body.requestedTool,
-        metadata: {
-          studentQuestion: body.studentQuestion ?? null,
-          aiCreditUsed: true,
+
+        lessonNo:
+          Number(body.lessonNo),
+
+        eventType:
+          "agent_tool_request",
+
+        selectedLine:
+          body.selectedLine,
+
+        toolUsed:
+          body.requestedTool,
+
+        metadata:{
+          studentQuestion:
+            body.studentQuestion ?? null,
+
+          unlimitedAI:
+            true,
         },
+
       }),
+
     ]);
 
-    const memorySummary = await getMemorySummaryForAgent(studentKey);
 
-    if (!apiKey) {
-      const fallback = fallbackAnswer(body.requestedTool, body.selectedLine);
+
+    const memorySummary =
+      await getMemorySummaryForAgent(
+        studentKey,
+      );
+
+
+
+    const apiKey =
+      process.env.GEMINI_API_KEY;
+
+
+
+    const model =
+      process.env.GEMINI_MODEL ??
+      "gemini-2.5-flash";
+
+
+
+
+    if(!apiKey){
+
+      const fallback =
+        fallbackAnswer(
+          body.requestedTool,
+          body.selectedLine,
+        );
+
 
       await saveChatMessage({
+
         studentKey,
-        lessonNo: Number(body.lessonNo),
-        selectedLine: body.selectedLine,
-        toolUsed: body.requestedTool,
-        question: body.studentQuestion,
-        answer: fallback.output,
-        source: "fallback",
+
+        lessonNo:
+          Number(body.lessonNo),
+
+        selectedLine:
+          body.selectedLine,
+
+        toolUsed:
+          body.requestedTool,
+
+        question:
+          body.studentQuestion,
+
+        answer:
+          fallback.output,
+
+        source:
+          "fallback",
+
       });
+
+
 
       return Response.json({
-        success: true,
-        result: {
+
+        success:true,
+
+        result:{
           ...fallback,
-          lessonNo: Number(body.lessonNo),
-          lessonTitle: lessonContext.lessonTitle,
+
+          lessonNo:
+            Number(body.lessonNo),
+
+          lessonTitle:
+            lessonContext.lessonTitle,
         },
-        source: "fallback",
-        memory: memorySummary,
-        wallet: creditResult.wallet,
-        creditUsed: 1,
+
+
+        source:
+          "fallback",
+
+        memory:
+          memorySummary,
+
+
+        wallet,
+
+        unlimited:true,
+
       });
+
     }
 
-    const prompt = buildPrompt({
-      requestedTool: body.requestedTool,
-      selectedLine: body.selectedLine,
-      studentQuestion: body.studentQuestion,
-      lessonTitle: lessonContext.lessonTitle,
-      nearbyContext: lessonContext.nearbyContext,
-      memorySummary,
-    });
 
-    const geminiResponse = await fetch(
-      `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`,
-      {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          contents: [
-            {
-              role: "user",
-              parts: [
-                {
-                  text: prompt,
-                },
-              ],
-            },
-          ],
-          generationConfig: {
-            temperature: 0.3,
+
+
+    const prompt =
+      buildPrompt({
+
+        requestedTool:
+          body.requestedTool,
+
+        selectedLine:
+          body.selectedLine,
+
+        studentQuestion:
+          body.studentQuestion,
+
+        lessonTitle:
+          lessonContext.lessonTitle,
+
+        nearbyContext:
+          lessonContext.nearbyContext,
+
+        memorySummary,
+
+      });
+
+
+
+    const geminiResponse =
+      await fetch(
+
+        `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`,
+
+        {
+
+          method:"POST",
+
+          headers:{
+            "Content-Type":
+              "application/json",
           },
-        }),
-      },
-    );
 
-    if (!geminiResponse.ok) {
-      const fallback = fallbackAnswer(body.requestedTool, body.selectedLine);
+          body:JSON.stringify({
 
-      await saveChatMessage({
-        studentKey,
-        lessonNo: Number(body.lessonNo),
-        selectedLine: body.selectedLine,
-        toolUsed: body.requestedTool,
-        question: body.studentQuestion,
-        answer: fallback.output,
-        source: "fallback",
-      });
+            contents:[
+
+              {
+
+                role:"user",
+
+                parts:[
+
+                  {
+                    text:prompt,
+                  },
+
+                ],
+
+              },
+
+            ],
+
+            generationConfig:{
+
+              temperature:
+                0.3,
+
+            },
+
+          }),
+
+        },
+
+      );
+
+
+
+
+    if(!geminiResponse.ok){
+
+      const fallback =
+        fallbackAnswer(
+          body.requestedTool,
+          body.selectedLine,
+        );
+
 
       return Response.json({
-        success: true,
-        result: {
-          ...fallback,
-          lessonNo: Number(body.lessonNo),
-          lessonTitle: lessonContext.lessonTitle,
-        },
-        source: "fallback",
-        memory: memorySummary,
-        wallet: creditResult.wallet,
-        creditUsed: 1,
+
+        success:true,
+
+        result:fallback,
+
+        source:
+          "fallback",
+
+        wallet,
+
+        unlimited:true,
+
       });
+
     }
 
-    const geminiData = (await geminiResponse.json()) as GeminiResponse;
+
+
+
+    const geminiData =
+      (await geminiResponse.json())
+      as GeminiResponse;
+
+
 
     const output =
-      geminiData.candidates?.[0]?.content?.parts
-        ?.map((part) => part.text ?? "")
-        .join("")
-        .trim() ?? "No response generated.";
+
+      geminiData
+      .candidates?.[0]
+      ?.content
+      ?.parts
+
+      ?.map(
+        p =>
+          p.text ?? "",
+      )
+
+      .join("")
+
+      .trim()
+
+      ??
+      "No response generated.";
+
+
+
+
 
     await saveChatMessage({
+
       studentKey,
-      lessonNo: Number(body.lessonNo),
-      selectedLine: body.selectedLine,
-      toolUsed: body.requestedTool,
-      question: body.studentQuestion,
-      answer: output,
-      source: "gemini",
+
+      lessonNo:
+        Number(body.lessonNo),
+
+      selectedLine:
+        body.selectedLine,
+
+      toolUsed:
+        body.requestedTool,
+
+      question:
+        body.studentQuestion,
+
+      answer:
+        output,
+
+      source:
+        "gemini",
+
     });
 
+
+
+
+
     return Response.json({
-      success: true,
-      result: {
-        tool: body.requestedTool,
+
+      success:true,
+
+
+      result:{
+
+        tool:
+          body.requestedTool,
+
         output,
-        selectedLine: body.selectedLine,
-        lessonNo: Number(body.lessonNo),
-        lessonTitle: lessonContext.lessonTitle,
+
+        selectedLine:
+          body.selectedLine,
+
+        lessonNo:
+          Number(body.lessonNo),
+
+        lessonTitle:
+          lessonContext.lessonTitle,
+
       },
-      source: "gemini",
-      retrieval: {
-        method: body.pageNumber ? "live-ocr-page" : "legacy-mock-lesson",
-        pageNumber: body.pageNumber ?? null,
-        retrieved: "retrieved" in lessonContext ? lessonContext.retrieved : true,
-        contextUsed: lessonContext.nearbyContext,
+
+
+      source:
+        "gemini",
+
+
+      retrieval:{
+
+        method:
+          body.pageNumber
+          ? "live-ocr-page"
+          : "legacy-mock-lesson",
+
+
+        pageNumber:
+          body.pageNumber ?? null,
+
+
+        contextUsed:
+          lessonContext.nearbyContext,
+
       },
-      memory: memorySummary,
-      wallet: creditResult.wallet,
-      creditUsed: 1,
+
+
+      memory:
+        memorySummary,
+
+
+      wallet,
+
+
+      unlimited:true,
+
+
     });
-  } catch (error) {
+
+
+
+  } catch(error){
+
     return Response.json(
+
       {
-        error: "Agentic learning loop failed",
-        detail: error instanceof Error ? error.message : "Unknown error",
+
+        error:
+          "Agentic learning loop failed",
+
+        detail:
+          error instanceof Error
+          ? error.message
+          : "Unknown error",
+
       },
-      { status: 500 },
+
+      {
+        status:500,
+      },
+
     );
+
   }
+
 }
