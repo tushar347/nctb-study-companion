@@ -431,3 +431,4 @@ export default function RewardsPage() {
     </AppShell>
   );
 }
+

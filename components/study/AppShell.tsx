@@ -39,18 +39,80 @@ type StudentProfile = {
   schoolName?: string | null;
 };
 
-export default function AppShell({ children }: { children: React.ReactNode }) {
+export default function AppShell({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   const pathname = usePathname();
   const router = useRouter();
 
-  const [student, setStudent] = useState<StudentProfile | null>(null);
+  const [student, setStudent] =
+    useState<StudentProfile | null>(null);
+
+  const [avatarTheme, setAvatarTheme] =
+    useState("blue");
+
+  const [profileFrame, setProfileFrame] =
+    useState(false);
 
   useEffect(() => {
-    const savedProfile = localStorage.getItem("studentProfile");
+    const savedProfile =
+      localStorage.getItem("studentProfile");
 
     if (savedProfile) {
       try {
-        setStudent(JSON.parse(savedProfile));
+        const profile =
+          JSON.parse(
+            savedProfile,
+          ) as StudentProfile;
+
+        setStudent(profile);
+
+        /*
+         * Load the student's reward/avatar
+         * information from the rewards API.
+         */
+        if (profile.studentKey) {
+          fetch(
+            `/api/rewards/overview?studentKey=${encodeURIComponent(
+              profile.studentKey,
+            )}`,
+          )
+            .then((res) => {
+              if (!res.ok) {
+                throw new Error(
+                  "Failed to load reward profile.",
+                );
+              }
+
+              return res.json();
+            })
+            .then((data) => {
+              setAvatarTheme(
+                data?.avatarTheme ??
+                  "blue",
+              );
+
+              setProfileFrame(
+                data?.inventory?.some(
+                  (item: {
+                    code?: string;
+                  }) =>
+                    item?.code ===
+                    "PROFILE_FRAME_GOLD",
+                ) ?? false,
+              );
+            })
+            .catch(() => {
+              /*
+               * Keep the default avatar
+               * if reward data cannot load.
+               */
+              setAvatarTheme("blue");
+              setProfileFrame(false);
+            });
+        }
       } catch {
         setStudent(null);
       }
@@ -58,15 +120,36 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
   }, []);
 
   async function logout() {
-    await fetch("/api/auth/logout", {
-      method: "POST",
-    });
+    await fetch(
+      "/api/auth/logout",
+      {
+        method: "POST",
+      },
+    );
 
-    localStorage.removeItem("studentKey");
-    localStorage.removeItem("studentProfile");
-    localStorage.removeItem("selectedLine");
-    localStorage.removeItem("selectedLessonNo");
-    localStorage.removeItem("selectedLessonTitle");
+    localStorage.removeItem(
+      "studentKey",
+    );
+
+    localStorage.removeItem(
+      "studentProfile",
+    );
+
+    localStorage.removeItem(
+      "selectedLine",
+    );
+
+    localStorage.removeItem(
+      "selectedLessonNo",
+    );
+
+    localStorage.removeItem(
+      "selectedLessonTitle",
+    );
+
+    localStorage.removeItem(
+      "voicePracticeContext",
+    );
 
     router.push("/");
     router.refresh();
@@ -74,17 +157,16 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
 
   return (
     <main
-      className="
-        relative
-        min-h-screen
-        overflow-hidden
-        bg-[#eaf4ff]
-        px-3
-        py-5
-        text-slate-900
-        md:px-6
-      "
+      className={`relative min-h-screen overflow-hidden px-3 py-5 text-slate-900 md:px-6 ${
+        avatarTheme === "violet"
+          ? "bg-purple-100"
+          : avatarTheme === "emerald"
+            ? "bg-emerald-100"
+            : "bg-[#eaf4ff]"
+      }`}
     >
+      {/* Background decorations */}
+
       <div
         className="
           pointer-events-none
@@ -151,6 +233,8 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
                 lg:justify-between
               "
             >
+              {/* Logo / title */}
+
               <div className="flex items-center gap-4">
                 <div
                   className="
@@ -166,7 +250,10 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
                     shadow-2xl
                   "
                 >
-                  <BookOpen size={30} strokeWidth={2.4} />
+                  <BookOpen
+                    size={30}
+                    strokeWidth={2.4}
+                  />
                 </div>
 
                 <div>
@@ -200,10 +287,13 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
                       text-slate-500
                     "
                   >
-                    Read, ask, practice, play, and improve with your AI Teacher.
+                    Read, ask, practice, play, and
+                    improve with your AI Teacher.
                   </p>
                 </div>
               </div>
+
+              {/* Right-side controls */}
 
               <div
                 className="
@@ -214,9 +304,11 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
                 "
               >
                 {/* Learning Points */}
+
                 <PointsBadge />
 
                 {/* Student */}
+
                 <div
                   className="
                     flex
@@ -232,15 +324,11 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
                   "
                 >
                   <div
-                    className="
-                      grid
-                      h-10
-                      w-10
-                      place-items-center
-                      rounded-2xl
-                      bg-blue-100
-                      text-blue-700
-                    "
+                    className={`grid h-10 w-10 place-items-center rounded-2xl bg-blue-100 text-blue-700 ${
+                      profileFrame
+                        ? "ring-4 ring-yellow-400"
+                        : ""
+                    }`}
                   >
                     <UserRound size={20} />
                   </div>
@@ -263,12 +351,16 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
                         font-black
                       "
                     >
-                      {student?.name || "Logged in"}
+                      {student?.name ||
+                        "Logged in"}
                     </p>
                   </div>
                 </div>
 
+                {/* Logout */}
+
                 <button
+                  type="button"
                   onClick={logout}
                   className="
                     flex
@@ -292,6 +384,8 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
               </div>
             </div>
 
+            {/* Navigation */}
+
             <nav
               className="
                 flex
@@ -306,48 +400,64 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
                 backdrop-blur-xl
               "
             >
-              {navItems.map((item) => {
-                const Icon = item.icon;
+              {navItems.map(
+                (item) => {
+                  const Icon =
+                    item.icon;
 
-                const active =
-                  item.href === "/voice-practice"
-                    ? pathname === item.href ||
-                      pathname.startsWith("/practice/")
-                    : pathname === item.href ||
-                      pathname.startsWith(`${item.href}/`);
+                  const active =
+                    item.href ===
+                    "/voice-practice"
+                      ? pathname ===
+                          item.href ||
+                        pathname.startsWith(
+                          "/practice/",
+                        )
+                      : pathname ===
+                          item.href ||
+                        pathname.startsWith(
+                          `${item.href}/`,
+                        );
 
-                return (
-                  <Link
-                    key={item.href}
-                    href={item.href}
-                    className={`
-                      flex
-                      items-center
-                      gap-2
-                      rounded-2xl
-                      px-4
-                      py-2
-                      text-sm
-                      font-black
-                      transition
-
-                      ${
-                        active
-                          ? "bg-blue-600 text-white shadow-lg"
-                          : "text-slate-600 hover:bg-white/80"
+                  return (
+                    <Link
+                      key={
+                        item.href
                       }
-                    `}
-                  >
-                    <Icon size={16} />
-                    {item.label}
-                  </Link>
-                );
-              })}
+                      href={
+                        item.href
+                      }
+                      className={`
+                        flex
+                        items-center
+                        gap-2
+                        rounded-2xl
+                        px-4
+                        py-2
+                        text-sm
+                        font-black
+                        transition
+
+                        ${
+                          active
+                            ? "bg-blue-600 text-white shadow-lg"
+                            : "text-slate-600 hover:bg-white/80"
+                        }
+                      `}
+                    >
+                      <Icon size={16} />
+                      {item.label}
+                    </Link>
+                  );
+                },
+              )}
             </nav>
           </div>
         </header>
 
-        <div className="mt-6">{children}</div>
+        <div className="mt-6">
+          {children}
+        </div>
       </section>
     </main>
   );
