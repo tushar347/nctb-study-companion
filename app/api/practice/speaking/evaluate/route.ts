@@ -15,10 +15,10 @@ import {
 import {
   prisma,
 } from "@/lib/prisma";
+
 import {
   awardAttemptPoints,
 } from "@/lib/scoring/awardAttemptPoints";
-
 
 import {
   evaluateSpeakingPractice,
@@ -113,19 +113,22 @@ async function resolveLine(
 
   const lines =
     page.aiReadyLines &&
-    page.aiReadyLines
-      .length > 0
+    page.aiReadyLines.length > 0
       ? page.aiReadyLines
       : page.lines ?? [];
 
   return (
     lines.find(
       (line) =>
-        String(
-          line.id ?? "",
-        ) ===
+        String(line.id ?? "") ===
         sourceLineId,
-    ) ?? null
+    ) ??
+    page.lines?.find(
+      (line) =>
+        String(line.id ?? "") ===
+        sourceLineId,
+    ) ??
+    null
   );
 }
 
@@ -239,9 +242,8 @@ export async function POST(
       );
 
     const previous =
-      await prisma
-        .speakingAttempt
-        .count({
+      await prisma.speakingAttempt.count(
+        {
           where: {
             studentId:
               student.id,
@@ -252,7 +254,8 @@ export async function POST(
             pageNumber,
             sourceLineId,
           },
-        });
+        },
+      );
 
     const classLevelValue =
       Number(
@@ -268,163 +271,207 @@ export async function POST(
       previous + 1;
 
     const [attempt] =
-      await prisma
-        .$transaction([
-          prisma
-            .speakingAttempt
-            .create({
-              data: {
-                studentId:
-                  student.id,
-                practiceType:
-                  "SPEAKING_PRACTICE",
-                bookKey:
-                  bookId,
-                classLevel:
-                  Number.isInteger(
-                    classLevelValue,
-                  )
-                    ? classLevelValue
-                    : null,
-                pageNumber,
-                lessonNo:
-                  Number.isInteger(
-                    lessonNoValue,
-                  ) &&
-                  lessonNoValue > 0
-                    ? lessonNoValue
-                    : null,
-                sourceLineId,
-                sourceText,
-                promptText,
-                transcript:
-                  evaluation
-                    .transcript,
-                durationMs:
-                  evaluation
-                    .durationMs,
-                expectedWordCount:
-                  evaluation
-                    .sourceKeywords
-                    .length,
-                spokenWordCount:
-                  evaluation
-                    .transcript
-                    .split(
-                      /\s+/,
-                    )
-                    .filter(
-                      Boolean,
-                    )
-                    .length,
-                matchedWordCount:
-                  evaluation
-                    .matchedKeywords
-                    .length,
-                accuracyScore:
-                  null,
-                completenessScore:
-                  evaluation
-                    .responseLengthScore,
-                relevanceScore:
-                  evaluation
-                    .relevanceScore,
-                fluencyScore:
-                  evaluation
-                    .fluencyScore,
-                overallScore:
-                  evaluation
-                    .overallScore,
-                wordsPerMinute:
-                  evaluation
-                    .wordsPerMinute,
-                attemptNumber,
-                missingItemsJson:
-                  JSON.stringify(
-                    evaluation
-                      .missedKeywords,
-                  ),
-                extraItemsJson:
-                  "[]",
-                replacementsJson:
-                  "[]",
-                evaluationVersion:
-                  "voice-practice-v1",
-              },
-            }),
-          prisma
-            .researchEvent
-            .create({
-              data: {
-                studentId:
-                  student.id,
-                lessonNo:
-                  Number.isInteger(
-                    lessonNoValue,
-                  ) &&
-                  lessonNoValue > 0
-                    ? lessonNoValue
-                    : null,
-                eventType:
-                  "SPEAKING_PRACTICE_ATTEMPT",
-                selectedLine:
-                  sourceText.slice(
-                    0,
-                    1000,
-                  ),
-                toolUsed:
-                  "voice-practice",
-                score:
-                  evaluation
-                    .overallScore,
-                total: 100,
-                metadataJson:
-                  JSON.stringify({
-                    bookId,
-                    pageNumber,
-                    sourceLineId,
-                    promptText,
-                    attemptNumber,
-                    audioStored:
-                      false,
-                  }),
-              },
-            }),
-        ]);
+      await prisma.$transaction([
+        prisma.speakingAttempt.create(
+          {
+            data: {
+              studentId:
+                student.id,
 
-    let points = null;
-    let pointsWarning = null;
+              practiceType:
+                "SPEAKING_PRACTICE",
+
+              bookKey:
+                bookId,
+
+              classLevel:
+                Number.isInteger(
+                  classLevelValue,
+                )
+                  ? classLevelValue
+                  : null,
+
+              pageNumber,
+
+              lessonNo:
+                Number.isInteger(
+                  lessonNoValue,
+                ) &&
+                lessonNoValue > 0
+                  ? lessonNoValue
+                  : null,
+
+              sourceLineId,
+
+              sourceText,
+
+              promptText,
+
+              transcript:
+                evaluation.transcript,
+
+              durationMs:
+                evaluation.durationMs,
+
+              expectedWordCount:
+                evaluation
+                  .sourceKeywords
+                  .length,
+
+              spokenWordCount:
+                evaluation.transcript
+                  .split(
+                    /\s+/,
+                  )
+                  .filter(
+                    Boolean,
+                  )
+                  .length,
+
+              matchedWordCount:
+                evaluation
+                  .matchedKeywords
+                  .length,
+
+              accuracyScore:
+                null,
+
+              completenessScore:
+                evaluation
+                  .responseLengthScore,
+
+              relevanceScore:
+                evaluation
+                  .relevanceScore,
+
+              fluencyScore:
+                evaluation
+                  .fluencyScore,
+
+              overallScore:
+                evaluation
+                  .overallScore,
+
+              wordsPerMinute:
+                evaluation
+                  .wordsPerMinute,
+
+              attemptNumber,
+
+              missingItemsJson:
+                JSON.stringify(
+                  evaluation
+                    .missedKeywords,
+                ),
+
+              extraItemsJson:
+                "[]",
+
+              replacementsJson:
+                "[]",
+
+              evaluationVersion:
+                "voice-practice-v1",
+            },
+          },
+        ),
+
+        prisma.researchEvent.create(
+          {
+            data: {
+              studentId:
+                student.id,
+
+              lessonNo:
+                Number.isInteger(
+                  lessonNoValue,
+                ) &&
+                lessonNoValue > 0
+                  ? lessonNoValue
+                  : null,
+
+              eventType:
+                "SPEAKING_PRACTICE_ATTEMPT",
+
+              selectedLine:
+                sourceText.slice(
+                  0,
+                  1000,
+                ),
+
+              toolUsed:
+                "voice-practice",
+
+              score:
+                evaluation
+                  .overallScore,
+
+              total: 100,
+
+              metadataJson:
+                JSON.stringify({
+                  bookId,
+                  pageNumber,
+                  sourceLineId,
+                  promptText,
+                  attemptNumber,
+                  audioStored:
+                    false,
+                }),
+            },
+          },
+        ),
+      ]);
+
+    let points =
+      null;
+
+    let pointsWarning =
+      null;
 
     try {
       points =
         await awardAttemptPoints({
           studentId:
             student.id,
+
           activityType:
             "SPEAKING",
+
           attemptId:
             attempt.id,
         });
-    } catch (awardError) {
+    } catch (
+      awardError
+    ) {
       pointsWarning =
-        awardError instanceof Error
+        awardError instanceof
+        Error
           ? awardError.message
           : "Learning points could not be awarded.";
     }
 
     return NextResponse.json({
       success: true,
+
       attemptId:
         attempt.id,
+
       attemptNumber,
+
       evaluation,
+
       points,
+
       pointsWarning,
     });
-  } catch (error) {
+  } catch (
+    error
+  ) {
     return NextResponse.json(
       {
         success: false,
+
         error:
           error instanceof
           Error
@@ -457,49 +504,66 @@ export async function GET(
       );
 
     const attempts =
-      await prisma
-        .speakingAttempt
-        .findMany({
+      await prisma.speakingAttempt.findMany(
+        {
           where: {
             studentId:
               student.id,
+
             practiceType:
               "SPEAKING_PRACTICE",
           },
+
           orderBy: {
             createdAt:
               "desc",
           },
+
           take: 12,
+
           select: {
             id: true,
+
             promptText: true,
+
             transcript: true,
+
             relevanceScore:
               true,
+
             completenessScore:
               true,
+
             fluencyScore:
               true,
+
             overallScore:
               true,
+
             wordsPerMinute:
               true,
+
             attemptNumber:
               true,
+
             createdAt:
               true,
           },
-        });
+        },
+      );
 
     return NextResponse.json({
       success: true,
+
       attempts,
     });
-  } catch (error) {
+  } catch (
+    error
+  ) {
     return NextResponse.json(
       {
         success: false,
+
         error:
           error instanceof
           Error

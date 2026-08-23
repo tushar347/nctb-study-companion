@@ -138,22 +138,16 @@ export async function POST(
 
 
 
-    const selectedLine =
-      lines.find(
-        (line) =>
-          String(
-            line.id ?? "",
-          ) === sourceLineId,
-      )
-      ??
-      lines.find(
-        (line) =>
-          String(
-            line.lineNumber ?? "",
-          ) === sourceLineId,
-      )
-      ??
-      null;
+   const selectedLine =
+  lines.find(
+    (line) =>
+      String(line.id ?? "") === sourceLineId,
+  ) ??
+  page.lines?.find(
+    (line) =>
+      String(line.id ?? "") === sourceLineId,
+  ) ??
+  null;
 
 
 
