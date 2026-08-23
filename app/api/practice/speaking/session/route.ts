@@ -40,12 +40,10 @@ function lineText(
   ).trim();
 }
 
-
 export async function POST(
   request: Request,
 ) {
   try {
-
     const body =
       (await request.json()) as {
         bookId?: unknown;
@@ -54,18 +52,15 @@ export async function POST(
         selectedText?: unknown;
       };
 
-
     const bookId =
       String(
         body.bookId ?? "",
       ).trim();
 
-
     const pageNumber =
       Number(
         body.pageNumber,
       );
-
 
     const sourceLineId =
       String(
@@ -73,6 +68,11 @@ export async function POST(
           "",
       ).trim();
 
+    const selectedText =
+      String(
+        body.selectedText ??
+          "",
+      ).trim();
 
     if (
       !ALLOWED_BOOKS.has(
@@ -86,16 +86,15 @@ export async function POST(
     ) {
       return NextResponse.json(
         {
-          success:false,
+          success: false,
           error:
             "A valid textbook line is required.",
         },
         {
-          status:400,
+          status: 400,
         },
       );
     }
-
 
     const fileName =
       `page-${String(
@@ -104,7 +103,6 @@ export async function POST(
         3,
         "0",
       )}.json`;
-
 
     const raw =
       await readFile(
@@ -120,7 +118,6 @@ export async function POST(
         "utf8",
       );
 
-
     const page =
       JSON.parse(
         raw.replace(
@@ -129,60 +126,83 @@ export async function POST(
         ),
       ) as OcrPage;
 
-
-
-    // Prefer original OCR lines because they contain stable IDs
+    /*
+     * Prefer original OCR lines because
+     * they contain stable IDs.
+     */
     const lines =
-      page.lines && page.lines.length > 0
+      page.lines &&
+      page.lines.length > 0
         ? page.lines
         : page.aiReadyLines ?? [];
 
+    /*
+     * Find the selected OCR line.
+     */
+    let selectedLine =
+      lines.find(
+        (line) =>
+          String(
+            line.id ?? "",
+          ) === sourceLineId,
+      ) ??
+      page.lines?.find(
+        (line) =>
+          String(
+            line.id ?? "",
+          ) === sourceLineId,
+      ) ??
+      null;
 
-
-   const selectedLine =
-  lines.find(
-    (line) =>
-      String(line.id ?? "") === sourceLineId,
-  ) ??
-  page.lines?.find(
-    (line) =>
-      String(line.id ?? "") === sourceLineId,
-  ) ??
-  null;
-
-
-
+    /*
+     * If the OCR line cannot be found,
+     * use the text sent from the Reader.
+     *
+     * This prevents speaking practice from
+     * failing when the selected line exists
+     * in the frontend but its OCR ID is not
+     * available in the page JSON.
+     */
     if (!selectedLine) {
+      selectedLine = {
+        id:
+          sourceLineId ||
+          "manual-line",
 
-      return NextResponse.json(
-        {
-          success:false,
-          error:
-            "The selected line was not found in the textbook page. Please select the sentence again.",
-        },
-        {
-          status:422,
-        },
-      );
+        text:
+          selectedText ||
+          "Practice this textbook sentence.",
 
+        cleanText:
+          selectedText ||
+          "Practice this textbook sentence.",
+      };
     }
 
-
-
+    /*
+     * Get the final source text.
+     */
     const sourceText =
       lineText(
         selectedLine,
       );
 
-
+    /*
+     * Safety fallback in case the selected
+     * line exists but contains empty text.
+     */
+    const finalSourceText =
+      sourceText ||
+      selectedText ||
+      "Practice this textbook sentence.";
 
     const promptOptions = [
       "Explain this textbook line in your own words.",
+
       "What is the main idea of this textbook line? Answer in one or two sentences.",
+
       "Say what happens or what is described in this line, then add one related detail.",
     ];
-
-
 
     const promptIndex =
       Math.abs(
@@ -193,18 +213,22 @@ export async function POST(
       ) %
       promptOptions.length;
 
-
-
     return NextResponse.json(
       {
-        success:true,
-        session:{
+        success: true,
+
+        session: {
           bookId,
+
           pageNumber,
+
           sourceLineId:
             selectedLine.id ??
             sourceLineId,
-          sourceText,
+
+          sourceText:
+            finalSourceText,
+
           promptText:
             promptOptions[
               promptIndex
@@ -212,26 +236,21 @@ export async function POST(
         },
       },
     );
-
-
-  } catch(error) {
-
+  } catch (
+    error
+  ) {
     return NextResponse.json(
       {
-        success:false,
+        success: false,
+
         error:
           error instanceof Error
             ? error.message
             : "Speaking session could not be created.",
       },
       {
-        status:500,
+        status: 500,
       },
     );
-
   }
 }
-
-
-
-
