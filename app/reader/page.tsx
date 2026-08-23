@@ -10,7 +10,6 @@ import Link from "next/link";
 
 import {
   AlertCircle,
-  AudioLines,
   BookOpen,
   Bot,
   Brain,
@@ -21,8 +20,6 @@ import {
   Gamepad2,
   Languages,
   Loader2,
-  MessageCircle,
-  Mic,
   Minus,
   Plus,
   ScanText,
@@ -42,12 +39,6 @@ import {
   class6Lessons,
   getLessonForPage,
 } from "@/lib/book/class6Lessons";
-
-import {
-  buildQuizHref,
-  createQuizLaunchContext,
-  writeQuizLaunchContext,
-} from "@/lib/quiz/quizLaunchContext";
 
 
 type OCRLine = {
@@ -101,51 +92,6 @@ type TeacherTool =
   | "bangla"
   | "grammar";
 
-type BookConfig = {
-  id: string;
-  classLevel: number;
-  title: string;
-  startPage: number;
-};
-
-const BOOK_CONFIGS: Record<string, BookConfig> = {
-  "class6-english": {
-    id: "class6-english",
-    classLevel: 6,
-    title: "English For Today — Class 6",
-    startPage: 6,
-  },
-  "class7-english": {
-    id: "class7-english",
-    classLevel: 7,
-    title: "English For Today — Class 7",
-    startPage: 1,
-  },
-  "class8-english": {
-    id: "class8-english",
-    classLevel: 8,
-    title: "English For Today — Class 8",
-    startPage: 1,
-  },
-};
-
-function getAvailableLastPage(
-  data: IndexData | null,
-) {
-  const availablePages =
-    data?.pages
-      ?.map((page) => page.pageNumber)
-      .filter((page) =>
-        Number.isInteger(page),
-      ) ?? [];
-
-  if (availablePages.length > 0) {
-    return Math.max(...availablePages);
-  }
-
-  return data?.totalPdfPages ?? 1;
-}
-
 
 function formatAIOutput(
   value: unknown,
@@ -167,9 +113,6 @@ export default function ReaderPage() {
 
   const [studentKey, setStudentKey] =
     useState("");
-
-  const [bookId, setBookId] =
-    useState("class6-english");
 
   const [indexData, setIndexData] =
     useState<IndexData | null>(null);
@@ -213,31 +156,30 @@ export default function ReaderPage() {
     setTeacherError,
   ] = useState("");
 
+  const [
+    teacherRetrieval,
+    setTeacherRetrieval,
+  ] = useState<{
+    method: string;
+    pageNumber: number | null;
+    retrieved: boolean;
+    contextUsed: string;
+  } | null>(null);
 
-  const currentBook =
-    BOOK_CONFIGS[bookId] ??
-    BOOK_CONFIGS["class6-english"];
 
   const totalPages =
-    getAvailableLastPage(indexData);
+    indexData?.totalPdfPages ?? 115;
 
-  const fullPdfPages =
-    indexData?.totalPdfPages ?? totalPages;
 
   const activeLesson = useMemo(
-    () =>
-      bookId === "class6-english"
-        ? getLessonForPage(pageNumber)
-        : null,
-    [bookId, pageNumber],
+    () => getLessonForPage(pageNumber),
+    [pageNumber],
   );
 
 
-  async function loadIndex(
-    targetBookId = bookId,
-  ) {
+  async function loadIndex() {
     const response = await fetch(
-      `/api/books/${targetBookId}/index`,
+      "/api/books/class6/index",
       {
         cache: "no-store",
       },
@@ -254,18 +196,14 @@ export default function ReaderPage() {
     }
 
     setIndexData(data);
-
-    return data;
   }
 
 
   async function loadPage(
     nextPage: number,
-    targetBookId = bookId,
-    maximumPage = totalPages,
   ) {
     const safePage = Math.min(
-      maximumPage,
+      totalPages,
       Math.max(1, nextPage),
     );
 
@@ -274,10 +212,11 @@ export default function ReaderPage() {
     setSelectedLine(null);
     setTeacherResponse("");
     setTeacherError("");
+    setTeacherRetrieval(null);
 
     try {
       const response = await fetch(
-        `/api/books/${targetBookId}/pages/${safePage}`,
+        `/api/books/class6/pages/${safePage}`,
         {
           cache: "no-store",
         },
@@ -310,27 +249,20 @@ export default function ReaderPage() {
   }
 
 
-  function persistLegacyQuizSelection(
-    line: OCRLine | null,
+  function selectBookLine(
+    line: OCRLine,
   ) {
+    setSelectedLine(line);
+    setTeacherResponse("");
+    setTeacherError("");
+    setTeacherRetrieval(null);
+
     const lesson =
-      bookId === "class6-english"
-        ? getLessonForPage(pageNumber)
-        : null;
+      getLessonForPage(pageNumber);
 
     localStorage.setItem(
-      "selectedClass",
-      String(currentBook.classLevel),
-    );
-
-    localStorage.setItem(
-      "selectedBookId",
-      currentBook.id,
-    );
-
-    localStorage.setItem(
-      "selectedBookTitle",
-      currentBook.title,
+      "selectedLine",
+      line.cleanText ?? line.text,
     );
 
     localStorage.setItem(
@@ -338,244 +270,20 @@ export default function ReaderPage() {
       String(pageNumber),
     );
 
-    if (line) {
-      localStorage.setItem(
-        "selectedLine",
-        line.cleanText ?? line.text,
-      );
-    } else {
-      localStorage.removeItem(
-        "selectedLine",
-      );
-    }
+    localStorage.setItem(
+      "selectedLineId",
+      line.id,
+    );
 
-    if (lesson) {
-      localStorage.setItem(
-        "selectedLessonNo",
-        String(lesson.lessonNo),
-      );
+    localStorage.setItem(
+      "selectedLessonNo",
+      String(lesson?.lessonNo ?? 0),
+    );
 
-      localStorage.setItem(
-        "selectedLessonTitle",
-        lesson.title,
-      );
-    } else {
-      localStorage.removeItem(
-        "selectedLessonNo",
-      );
-
-      localStorage.setItem(
-        "selectedLessonTitle",
-        "Lesson mapping unavailable",
-      );
-    }
-  }
-
-
-  function selectBookLine(
-    line: OCRLine,
-  ) {
-    setSelectedLine(line);
-    setTeacherResponse("");
-    setTeacherError("");
-
-    persistLegacyQuizSelection(line);
-  }
-
-
-  function buildCurrentQuizContext(
-    line: OCRLine | null,
-  ) {
-    if (!pageData) {
-      throw new Error(
-        "The current OCR page is not ready.",
-      );
-    }
-
-    const lesson =
-      bookId === "class6-english"
-        ? getLessonForPage(pageNumber)
-        : null;
-
-    const sourceLines =
-      pageData.aiReadyLines.length > 0
-        ? pageData.aiReadyLines
-        : pageData.lines;
-
-    return createQuizLaunchContext({
-      source: "reader",
-      book: {
-        id: currentBook.id,
-        title: currentBook.title,
-        classLevel:
-          currentBook.classLevel,
-      },
-      lesson: {
-        number:
-          lesson?.lessonNo ?? null,
-        title: lesson?.title ?? null,
-        resolution: lesson
-          ? "mapped"
-          : "unavailable",
-      },
-      page: {
-        number: pageNumber,
-        source: pageData.source,
-      },
-      selectedLine: line,
-      pageLines: sourceLines,
-    });
-  }
-
-
-  function launchQuiz(
-    line: OCRLine | null,
-  ) {
-    try {
-      const context =
-        buildCurrentQuizContext(line);
-
-      persistLegacyQuizSelection(line);
-      writeQuizLaunchContext(context);
-
-      window.location.assign(
-        buildQuizHref(context),
-      );
-    } catch (launchError) {
-      setError(
-        launchError instanceof Error
-          ? launchError.message
-          : "Quiz context could not be prepared.",
-      );
-    }
-  }
-
-
-  function launchSpellingPractice(
-    line: OCRLine | null,
-  ) {
-    try {
-      const context =
-        buildCurrentQuizContext(line);
-
-      persistLegacyQuizSelection(line);
-      writeQuizLaunchContext(context);
-
-      const parameters =
-        new URLSearchParams({
-          contextId:
-            context.contextId,
-          bookId:
-            context.book.id,
-          page: String(
-            context.page.number,
-          ),
-        });
-
-      window.location.assign(
-        `/practice/spelling?${parameters.toString()}`,
-      );
-    } catch (launchError) {
-      setError(
-        launchError instanceof Error
-          ? launchError.message
-          : "Spelling practice could not be prepared.",
-      );
-    }
-  }
-
-
-  function launchReadAloud(
-    line: OCRLine | null,
-  ) {
-    try {
-      if (!line) {
-        throw new Error(
-          "Select a textbook line before starting Read Aloud.",
-        );
-      }
-
-      const context =
-        buildCurrentQuizContext(
-          line,
-        );
-
-      persistLegacyQuizSelection(
-        line,
-      );
-
-      writeQuizLaunchContext(
-        context,
-      );
-
-      const parameters =
-        new URLSearchParams({
-          contextId:
-            context.contextId,
-          bookId:
-            context.book.id,
-          page: String(
-            context.page.number,
-          ),
-        });
-
-      window.location.assign(
-        `/practice/read-aloud?${parameters.toString()}`,
-      );
-    } catch (launchError) {
-      setError(
-        launchError instanceof Error
-          ? launchError.message
-          : "Read Aloud could not be prepared.",
-      );
-    }
-  }
-
-
-  function launchSpeakingPractice(
-    line: OCRLine | null,
-  ) {
-    try {
-      if (!line) {
-        throw new Error(
-          "Select a textbook line before starting Speaking Practice.",
-        );
-      }
-
-      const context =
-        buildCurrentQuizContext(
-          line,
-        );
-
-      persistLegacyQuizSelection(
-        line,
-      );
-
-      writeQuizLaunchContext(
-        context,
-      );
-
-      const parameters =
-        new URLSearchParams({
-          contextId:
-            context.contextId,
-          bookId:
-            context.book.id,
-          page: String(
-            context.page.number,
-          ),
-        });
-
-      window.location.assign(
-        `/practice/speaking?${parameters.toString()}`,
-      );
-    } catch (launchError) {
-      setError(
-        launchError instanceof Error
-          ? launchError.message
-          : "Speaking Practice could not be prepared.",
-      );
-    }
+    localStorage.setItem(
+      "selectedLessonTitle",
+      lesson?.title ?? "Book Page",
+    );
   }
 
 
@@ -593,12 +301,11 @@ export default function ReaderPage() {
     setTeacherLoading(true);
     setTeacherResponse("");
     setTeacherError("");
+    setTeacherRetrieval(null);
 
     try {
       const lesson =
-        bookId === "class6-english"
-          ? getLessonForPage(pageNumber)
-          : null;
+        getLessonForPage(pageNumber);
 
       const response = await fetch(
         "/api/agent/learning-loop",
@@ -609,15 +316,16 @@ export default function ReaderPage() {
               "application/json",
           },
           body: JSON.stringify({
-            studentId: studentKey || "demo-student",
-            studentKey: studentKey || "demo-student",
-            bookId,
+            studentId: studentKey,
+            studentKey,
             lessonNo:
-              lesson?.lessonNo ?? Math.max(1, pageNumber),
+              lesson?.lessonNo ?? 0,
             selectedLine:
               selectedLine.cleanText ??
               selectedLine.text,
             requestedTool: tool,
+            pageNumber,
+            lineId: selectedLine.id,
           }),
         },
       );
@@ -660,7 +368,12 @@ export default function ReaderPage() {
             data.answer,
         ),
       );
+
+      setTeacherRetrieval(
+        data.retrieval ?? null,
+      );
     } catch (requestError) {
+      setTeacherRetrieval(null);
       setTeacherError(
         requestError instanceof Error
           ? requestError.message
@@ -668,69 +381,6 @@ export default function ReaderPage() {
       );
     } finally {
       setTeacherLoading(false);
-    }
-  }
-
-
-  async function switchBook(
-    nextBookId: string,
-  ) {
-    const nextBook =
-      BOOK_CONFIGS[nextBookId];
-
-    if (!nextBook) {
-      return;
-    }
-
-    setBookId(nextBookId);
-    setIndexData(null);
-    setPageData(null);
-    setSelectedLine(null);
-    setTeacherResponse("");
-    setTeacherError("");
-    setLoading(true);
-    setError("");
-
-    localStorage.setItem(
-      "selectedClass",
-      String(nextBook.classLevel),
-    );
-
-    localStorage.setItem(
-      "selectedBookId",
-      nextBook.id,
-    );
-
-    localStorage.setItem(
-      "selectedBookTitle",
-      nextBook.title,
-    );
-
-    try {
-      const nextIndex =
-        await loadIndex(nextBookId);
-
-      const lastAvailablePage =
-        getAvailableLastPage(nextIndex);
-
-      const firstPage = Math.min(
-        nextBook.startPage,
-        lastAvailablePage,
-      );
-
-      await loadPage(
-        firstPage,
-        nextBookId,
-        lastAvailablePage,
-      );
-    } catch (switchError) {
-      setError(
-        switchError instanceof Error
-          ? switchError.message
-          : "Book could not be opened.",
-      );
-
-      setLoading(false);
     }
   }
 
@@ -759,27 +409,22 @@ export default function ReaderPage() {
     setStudentName(name);
     setStudentKey(key);
 
-    const queryBook =
-      new URLSearchParams(
-        window.location.search,
-      ).get("book");
+    async function startReader() {
+      try {
+        await loadIndex();
+        await loadPage(6);
+      } catch (startError) {
+        setError(
+          startError instanceof Error
+            ? startError.message
+            : "Reader could not start.",
+        );
 
-    const storedBook =
-      localStorage.getItem(
-        "selectedBookId",
-      );
+        setLoading(false);
+      }
+    }
 
-    const requestedBook =
-      queryBook ??
-      storedBook ??
-      "class6-english";
-
-    const safeBook =
-      BOOK_CONFIGS[requestedBook]
-        ? requestedBook
-        : "class6-english";
-
-    void switchBook(safeBook);
+    startReader();
   }, []);
 
 
@@ -837,7 +482,7 @@ export default function ReaderPage() {
             </p>
 
             <p className="mt-3 text-sm font-black text-orange-700">
-              OCR Page {pageNumber} / {totalPages}
+              PDF Page {pageNumber} / {totalPages}
             </p>
 
             <p className="mt-1 text-sm font-bold text-slate-600">
@@ -847,56 +492,37 @@ export default function ReaderPage() {
             <p className="mt-1 text-xs font-bold text-slate-500">
               Source: {pageData?.source ?? "--"}
             </p>
-
-            {fullPdfPages > totalPages && (
-              <p className="mt-1 text-xs font-bold text-blue-600">
-                PDF has {fullPdfPages} pages; {totalPages} OCR pages are ready.
-              </p>
-            )}
           </div>
 
-          {bookId === "class6-english" ? (
-            <div className="mt-5">
-              <p className="mb-2 text-xs font-black uppercase text-slate-500">
-                Jump to lesson
-              </p>
+          <div className="mt-5">
+            <p className="mb-2 text-xs font-black uppercase text-slate-500">
+              Jump to lesson
+            </p>
 
-              <div className="max-h-64 space-y-2 overflow-y-auto pr-1">
-                {class6Lessons.map(
-                  (lesson) => (
-                    <button
-                      key={lesson.lessonNo}
-                      onClick={() =>
-                        loadPage(
-                          lesson.pdfStart,
-                        )
-                      }
-                      className={`w-full rounded-2xl px-3 py-2 text-left text-xs font-black transition ${
-                        activeLesson?.lessonNo ===
-                        lesson.lessonNo
-                          ? "bg-orange-500 text-white"
-                          : "bg-white/75 text-slate-700 hover:bg-orange-50"
-                      }`}
-                    >
-                      {lesson.lessonNo}.{" "}
-                      {lesson.title}
-                    </button>
-                  ),
-                )}
-              </div>
+            <div className="max-h-64 space-y-2 overflow-y-auto pr-1">
+              {class6Lessons.map(
+                (lesson) => (
+                  <button
+                    key={lesson.lessonNo}
+                    onClick={() =>
+                      loadPage(
+                        lesson.pdfStart,
+                      )
+                    }
+                    className={`w-full rounded-2xl px-3 py-2 text-left text-xs font-black transition ${
+                      activeLesson?.lessonNo ===
+                      lesson.lessonNo
+                        ? "bg-orange-500 text-white"
+                        : "bg-white/75 text-slate-700 hover:bg-orange-50"
+                    }`}
+                  >
+                    {lesson.lessonNo}.{" "}
+                    {lesson.title}
+                  </button>
+                ),
+              )}
             </div>
-          ) : (
-            <div className="mt-5 rounded-3xl bg-blue-50 p-4">
-              <p className="text-xs font-black uppercase text-blue-700">
-                OCR preview
-              </p>
-
-              <p className="mt-2 text-sm font-bold text-slate-600">
-                Pages 1–{totalPages} are currently processed.
-                Process the full PDF to unlock every page.
-              </p>
-            </div>
-          )}
+          </div>
 
           <div className="mt-5 grid gap-3">
             <Link
@@ -906,56 +532,12 @@ export default function ReaderPage() {
               AI Teacher
             </Link>
 
-            <button
-              type="button"
-              onClick={() => launchQuiz(null)}
-              disabled={!pageData}
-              className="rounded-2xl bg-emerald-600 px-4 py-3 text-center text-sm font-black text-white disabled:cursor-not-allowed disabled:opacity-40"
+            <Link
+              href="/quiz"
+              className="rounded-2xl bg-emerald-600 px-4 py-3 text-center text-sm font-black text-white"
             >
               Quiz
-            </button>
-
-            <button
-              type="button"
-              onClick={() =>
-                launchSpellingPractice(
-                  selectedLine,
-                )
-              }
-              disabled={!selectedLine || !pageData}
-              className="flex items-center justify-center gap-2 rounded-2xl bg-cyan-700 px-4 py-3 text-sm font-black text-white disabled:cursor-not-allowed disabled:opacity-40"
-            >
-              <Mic size={17} />
-              Voice Spelling from Selected Line
-            </button>
-
-            <button
-              type="button"
-              onClick={() =>
-                launchReadAloud(
-                  selectedLine,
-                )
-              }
-              disabled={!selectedLine || !pageData}
-              className="flex items-center justify-center gap-2 rounded-2xl bg-violet-700 px-4 py-3 text-sm font-black text-white disabled:cursor-not-allowed disabled:opacity-40"
-            >
-              <AudioLines size={17} />
-              Read Aloud
-            </button>
-
-            <button
-              type="button"
-              onClick={() =>
-                launchSpeakingPractice(
-                  selectedLine,
-                )
-              }
-              disabled={!selectedLine || !pageData}
-              className="flex items-center justify-center gap-2 rounded-2xl bg-orange-700 px-4 py-3 text-sm font-black text-white disabled:cursor-not-allowed disabled:opacity-40"
-            >
-              <MessageCircle size={17} />
-              Speaking Practice
-            </button>
+            </Link>
 
             <Link
               href="/games"
@@ -986,30 +568,8 @@ export default function ReaderPage() {
                 </p>
 
                 <h1 className="text-2xl font-black">
-                  {currentBook.title}
+                  English For Today
                 </h1>
-
-                <select
-                  value={bookId}
-                  onChange={(event) =>
-                    void switchBook(
-                      event.target.value,
-                    )
-                  }
-                  className="mt-2 rounded-xl border border-blue-100 bg-white px-3 py-2 text-xs font-black text-slate-700 outline-none"
-                  aria-label="Select English book"
-                >
-                  {Object.values(
-                    BOOK_CONFIGS,
-                  ).map((book) => (
-                    <option
-                      key={book.id}
-                      value={book.id}
-                    >
-                      Class {book.classLevel}
-                    </option>
-                  ))}
-                </select>
               </div>
             </div>
 
@@ -1310,46 +870,41 @@ export default function ReaderPage() {
             )}
           </div>
 
+          {teacherRetrieval && (
+            <details className="mt-3 rounded-2xl border border-emerald-200 bg-emerald-50 p-4 text-xs text-emerald-900">
+              <summary className="cursor-pointer font-black">
+                📖 Grounded from{" "}
+                {teacherRetrieval.method === "live-ocr-page"
+                  ? `Page ${teacherRetrieval.pageNumber} (live OCR)`
+                  : "legacy mock lesson data"}
+                {" — "}
+                {teacherRetrieval.retrieved
+                  ? "context retrieved"
+                  : "no context found"}
+              </summary>
+              <p className="mt-2 whitespace-pre-wrap font-normal leading-5">
+                {teacherRetrieval.contextUsed}
+              </p>
+            </details>
+          )}
+
           <div className="mt-5 grid gap-3">
-            <button
-              type="button"
-              onClick={() =>
-                launchQuiz(selectedLine)
-              }
-              disabled={!selectedLine || !pageData}
-              className="flex items-center justify-center gap-2 rounded-2xl bg-emerald-600 px-4 py-3 text-sm font-black text-white disabled:cursor-not-allowed disabled:opacity-40"
+            <Link
+              href="/quiz"
+              onClick={() => {
+                if (selectedLine) {
+                  localStorage.setItem(
+                    "selectedLine",
+                    selectedLine.cleanText ??
+                      selectedLine.text,
+                  );
+                }
+              }}
+              className="flex items-center justify-center gap-2 rounded-2xl bg-emerald-600 px-4 py-3 text-sm font-black text-white"
             >
               <Brain size={17} />
               Quiz from Selected Line
-            </button>
-
-            <button
-              type="button"
-              onClick={() =>
-                launchReadAloud(
-                  selectedLine,
-                )
-              }
-              disabled={!selectedLine || !pageData}
-              className="flex items-center justify-center gap-2 rounded-2xl bg-violet-700 px-4 py-3 text-sm font-black text-white disabled:cursor-not-allowed disabled:opacity-40"
-            >
-              <AudioLines size={17} />
-              Read Aloud
-            </button>
-
-            <button
-              type="button"
-              onClick={() =>
-                launchSpeakingPractice(
-                  selectedLine,
-                )
-              }
-              disabled={!selectedLine || !pageData}
-              className="flex items-center justify-center gap-2 rounded-2xl bg-orange-700 px-4 py-3 text-sm font-black text-white disabled:cursor-not-allowed disabled:opacity-40"
-            >
-              <MessageCircle size={17} />
-              Speaking Practice
-            </button>
+            </Link>
 
             <Link
               href="/games"

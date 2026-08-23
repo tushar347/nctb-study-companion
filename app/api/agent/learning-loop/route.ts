@@ -1,6 +1,6 @@
 import { useAiTeacherCredit } from "@/lib/rewardSystem";
-import { isAiCreditLimitEnabled } from "@/lib/featureFlags";
 import { buildLessonContext } from "@/lib/buildLessonContext";
+import { buildPageContext } from "@/lib/buildPageContext";
 import {
   getMemorySummaryForAgent,
   logResearchEvent,
@@ -19,6 +19,8 @@ type RequestBody = {
   selectedLine: string;
   requestedTool: RequestedTool;
   studentQuestion?: string;
+  pageNumber?: number;
+  lineId?: string;
 };
 
 type GeminiResponse = {
@@ -115,25 +117,13 @@ export async function POST(request: Request) {
      * Every successful AI Teacher request uses 1 AI credit.
      * If the student has 0 credits, the request stops before generating an answer.
      */
-    const creditLimitEnabled =
-      isAiCreditLimitEnabled();
-
-    const creditResult =
-      creditLimitEnabled
-        ? await useAiTeacherCredit({
+    const creditResult = await useAiTeacherCredit({
       studentKey,
       lessonNo: Number(body.lessonNo),
       selectedLine: body.selectedLine,
       question: body.studentQuestion,
       toolUsed: body.requestedTool,
-    })
-        : {
-            success: true as const,
-            error: null,
-            wallet: null,
-            creditsUsed: 0,
-            bypassed: true,
-          };
+    });
 
     if (!creditResult.success) {
       return Response.json(
@@ -152,29 +142,37 @@ export async function POST(request: Request) {
     const apiKey = process.env.GEMINI_API_KEY;
     const model = process.env.GEMINI_MODEL ?? "gemini-2.5-flash";
 
-    const lessonContext = buildLessonContext(
-      Number(body.lessonNo),
-      body.selectedLine,
-    );
+    const lessonContext = body.pageNumber
+      ? await buildPageContext({
+          pageNumber: Number(body.pageNumber),
+          lineId: body.lineId,
+          fallbackSelectedLine: body.selectedLine,
+          fallbackLessonNo: Number(body.lessonNo),
+        })
+      : buildLessonContext(Number(body.lessonNo), body.selectedLine);
 
-    await updateMemoryAfterAgent({
-      studentKey,
-      lessonNo: Number(body.lessonNo),
-      selectedLine: body.selectedLine,
-      toolUsed: body.requestedTool,
-    });
-
-    await logResearchEvent({
-      studentKey,
-      lessonNo: Number(body.lessonNo),
-      eventType: "agent_tool_request",
-      selectedLine: body.selectedLine,
-      toolUsed: body.requestedTool,
-      metadata: {
-        studentQuestion: body.studentQuestion ?? null,
-        aiCreditUsed: creditLimitEnabled,
-      },
-    });
+    // Run independent DB writes in parallel instead of sequentially - shaves
+    // a network round-trip off every request (each Neon round-trip here was
+    // adding real latency on top of the Gemini call).
+    await Promise.all([
+      updateMemoryAfterAgent({
+        studentKey,
+        lessonNo: Number(body.lessonNo),
+        selectedLine: body.selectedLine,
+        toolUsed: body.requestedTool,
+      }),
+      logResearchEvent({
+        studentKey,
+        lessonNo: Number(body.lessonNo),
+        eventType: "agent_tool_request",
+        selectedLine: body.selectedLine,
+        toolUsed: body.requestedTool,
+        metadata: {
+          studentQuestion: body.studentQuestion ?? null,
+          aiCreditUsed: true,
+        },
+      }),
+    ]);
 
     const memorySummary = await getMemorySummaryForAgent(studentKey);
 
@@ -201,7 +199,7 @@ export async function POST(request: Request) {
         source: "fallback",
         memory: memorySummary,
         wallet: creditResult.wallet,
-        creditUsed: creditLimitEnabled ? 1 : 0,
+        creditUsed: 1,
       });
     }
 
@@ -262,7 +260,7 @@ export async function POST(request: Request) {
         source: "fallback",
         memory: memorySummary,
         wallet: creditResult.wallet,
-        creditUsed: creditLimitEnabled ? 1 : 0,
+        creditUsed: 1,
       });
     }
 
@@ -294,9 +292,15 @@ export async function POST(request: Request) {
         lessonTitle: lessonContext.lessonTitle,
       },
       source: "gemini",
+      retrieval: {
+        method: body.pageNumber ? "live-ocr-page" : "legacy-mock-lesson",
+        pageNumber: body.pageNumber ?? null,
+        retrieved: "retrieved" in lessonContext ? lessonContext.retrieved : true,
+        contextUsed: lessonContext.nearbyContext,
+      },
       memory: memorySummary,
       wallet: creditResult.wallet,
-      creditUsed: creditLimitEnabled ? 1 : 0,
+      creditUsed: 1,
     });
   } catch (error) {
     return Response.json(

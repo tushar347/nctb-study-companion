@@ -1,4 +1,4 @@
-﻿export type OllamaRole =
+export type OllamaRole =
   | "system"
   | "user"
   | "assistant";
@@ -107,7 +107,17 @@ export function normalizeKey(
 ) {
   return normalizeText(
     value,
-  ).toLocaleLowerCase();
+  )
+    .toLocaleLowerCase()
+    .replace(
+      /[^\p{L}\p{N}]+/gu,
+      " ",
+    )
+    .replace(
+      /\s+/g,
+      " ",
+    )
+    .trim();
 }
 
 export function requireText(
@@ -148,14 +158,18 @@ export function findExactPassageFragment(
   passage: string,
   candidate: unknown,
 ) {
-  const normalizedCandidate =
+  const candidateText =
     normalizeText(candidate);
 
-  if (!normalizedCandidate) {
+  if (!candidateText) {
     return null;
   }
 
-  const pattern = normalizedCandidate
+  /*
+   * First attempt:
+   * exact text with flexible whitespace.
+   */
+  const exactPattern = candidateText
     .split(/\s+/)
     .map(
       escapeRegularExpression,
@@ -163,15 +177,283 @@ export function findExactPassageFragment(
     .join("\\s+");
 
   try {
-    const match = new RegExp(
-      pattern,
+    const exactMatch = new RegExp(
+      exactPattern,
       "iu",
     ).exec(passage);
 
-    return match?.[0] ?? null;
+    if (exactMatch?.[0]) {
+      return exactMatch[0];
+    }
   } catch {
+    // Continue to controlled token recovery.
+  }
+
+  /*
+   * Second attempt:
+   * recover the closest continuous passage span.
+   *
+   * This handles:
+   * - punctuation differences
+   * - curly apostrophes
+   * - OCR spacing differences
+   * - one or two small wording differences
+   */
+  type TokenSpan = {
+    token: string;
+    start: number;
+    end: number;
+  };
+
+  function collectTokens(
+    value: string,
+  ): TokenSpan[] {
+    const tokenPattern =
+      /[\p{L}\p{N}]+(?:['?\-][\p{L}\p{N}]+)*/gu;
+
+    const tokens: TokenSpan[] = [];
+
+    for (
+      const match of value.matchAll(
+        tokenPattern,
+      )
+    ) {
+      const original =
+        match[0];
+
+      const start =
+        match.index ?? 0;
+
+      const token =
+        normalizeKey(original);
+
+      if (!token) {
+        continue;
+      }
+
+      tokens.push({
+        token,
+        start,
+        end:
+          start +
+          original.length,
+      });
+    }
+
+    return tokens;
+  }
+
+  function longestCommonSubsequence(
+    left: string[],
+    right: string[],
+  ) {
+    const previous =
+      new Array(
+        right.length + 1,
+      ).fill(0);
+
+    const current =
+      new Array(
+        right.length + 1,
+      ).fill(0);
+
+    for (
+      let leftIndex = 1;
+      leftIndex <= left.length;
+      leftIndex++
+    ) {
+      current.fill(0);
+
+      for (
+        let rightIndex = 1;
+        rightIndex <= right.length;
+        rightIndex++
+      ) {
+        if (
+          left[
+            leftIndex - 1
+          ] ===
+          right[
+            rightIndex - 1
+          ]
+        ) {
+          current[
+            rightIndex
+          ] =
+            previous[
+              rightIndex - 1
+            ] + 1;
+        } else {
+          current[
+            rightIndex
+          ] =
+            Math.max(
+              previous[
+                rightIndex
+              ],
+              current[
+                rightIndex - 1
+              ],
+            );
+        }
+      }
+
+      for (
+        let index = 0;
+        index < current.length;
+        index++
+      ) {
+        previous[index] =
+          current[index];
+      }
+    }
+
+    return previous[
+      right.length
+    ];
+  }
+
+  const passageTokens =
+    collectTokens(passage);
+
+  const candidateTokens =
+    collectTokens(
+      candidateText,
+    ).map(
+      (entry) =>
+        entry.token,
+    );
+
+  if (
+    passageTokens.length === 0 ||
+    candidateTokens.length === 0
+  ) {
     return null;
   }
+
+  const minimumWindow =
+    Math.max(
+      1,
+      candidateTokens.length - 3,
+    );
+
+  const maximumWindow =
+    Math.min(
+      passageTokens.length,
+      candidateTokens.length + 4,
+    );
+
+  let bestScore = 0;
+  let bestStart = -1;
+  let bestEnd = -1;
+
+  for (
+    let startIndex = 0;
+    startIndex <
+    passageTokens.length;
+    startIndex++
+  ) {
+    for (
+      let windowLength =
+        minimumWindow;
+      windowLength <=
+      maximumWindow;
+      windowLength++
+    ) {
+      const endIndex =
+        startIndex +
+        windowLength;
+
+      if (
+        endIndex >
+        passageTokens.length
+      ) {
+        break;
+      }
+
+      const windowTokens =
+        passageTokens
+          .slice(
+            startIndex,
+            endIndex,
+          )
+          .map(
+            (entry) =>
+              entry.token,
+          );
+
+      const commonLength =
+        longestCommonSubsequence(
+          candidateTokens,
+          windowTokens,
+        );
+
+      const similarity =
+        (
+          2 *
+          commonLength
+        ) /
+        (
+          candidateTokens.length +
+          windowTokens.length
+        );
+
+      const lengthPenalty =
+        Math.abs(
+          candidateTokens.length -
+          windowTokens.length,
+        ) * 0.015;
+
+      const finalScore =
+        similarity -
+        lengthPenalty;
+
+      if (
+        finalScore >
+        bestScore
+      ) {
+        bestScore =
+          finalScore;
+
+        bestStart =
+          passageTokens[
+            startIndex
+          ].start;
+
+        bestEnd =
+          passageTokens[
+            endIndex - 1
+          ].end;
+      }
+    }
+  }
+
+  /*
+   * Short answers require a higher score because
+   * accidental matches are easier with fewer words.
+   */
+  const requiredScore =
+    candidateTokens.length <= 3
+      ? 0.80
+      : candidateTokens.length <= 6
+        ? 0.72
+        : 0.66;
+
+  if (
+    bestStart < 0 ||
+    bestEnd <= bestStart ||
+    bestScore <
+    requiredScore
+  ) {
+    return null;
+  }
+
+  return passage
+    .slice(
+      bestStart,
+      bestEnd,
+    )
+    .trim();
 }
 
 export function deriveEvidenceQuote(
