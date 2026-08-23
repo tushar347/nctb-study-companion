@@ -19,6 +19,7 @@ import {
 import AppShell from "@/components/study/AppShell";
 import LiquidCard from "@/components/study/LiquidCard";
 import ScoringInfoCard from "@/components/scoring/ScoringInfoCard";
+
 import VoiceCapturePanel, {
   type VoiceCaptureValue,
 } from "@/components/practice/VoiceCapturePanel";
@@ -45,9 +46,7 @@ type Session = {
 type HistoryItem = {
   id: string;
   overallScore: number;
-  relevanceScore:
-    | number
-    | null;
+  relevanceScore: number | null;
   attemptNumber: number;
 };
 
@@ -56,12 +55,42 @@ type ApiResponse<T> = {
   error?: string;
 } & T;
 
+/*
+ * Context saved by the Reader when the user clicks
+ * "Voice Practice from Selected Line".
+ */
+type VoicePracticeContext = {
+  book: {
+    id: string;
+    classLevel?: number;
+  };
+
+  page: {
+    number: number;
+  };
+
+  lesson: {
+    number: number;
+    title?: string;
+  };
+
+  selectedLine: {
+    id: string;
+    text?: string;
+    cleanText?: string;
+  };
+};
+
+type SpeakingContext =
+  | QuizLaunchContextV1
+  | VoicePracticeContext;
+
 export default function SpeakingPracticePage() {
   const [
     context,
     setContext,
   ] =
-    useState<QuizLaunchContextV1 | null>(
+    useState<SpeakingContext | null>(
       null,
     );
 
@@ -110,17 +139,22 @@ export default function SpeakingPracticePage() {
     setError,
   ] = useState("");
 
+  /*
+   * Update voice capture state.
+   */
   const handleCapture =
     useCallback(
       (
-        value:
-          VoiceCaptureValue,
+        value: VoiceCaptureValue,
       ) => {
         setCapture(value);
       },
       [],
     );
 
+  /*
+   * Reader URL.
+   */
   const readerHref = useMemo(
     () =>
       `/reader?book=${encodeURIComponent(
@@ -130,35 +164,46 @@ export default function SpeakingPracticePage() {
     [context],
   );
 
-  async function loadHistory() {
-    const response =
-      await fetch(
-        `/api/practice/speaking/evaluate?studentKey=${encodeURIComponent(
-          getStoredStudentKey(),
-        )}`,
-        {
-          cache:
-            "no-store",
-        },
-      );
-
-    const data =
-      (await response.json()) as ApiResponse<{
-        attempts?:
-          HistoryItem[];
-      }>;
-
-    if (
-      response.ok &&
-      data.attempts
-    ) {
-      setHistory(
-        data.attempts,
-      );
-    }
-  }
-
+  /*
+   * Read the context saved by Reader.
+   *
+   * Priority:
+   *
+   * 1. voicePracticeContext
+   * 2. contextId quiz context
+   * 3. legacy quiz context
+   */
   useEffect(() => {
+    const saved =
+      localStorage.getItem(
+        "voicePracticeContext",
+      );
+
+    if (saved) {
+      try {
+        const parsed =
+          JSON.parse(
+            saved,
+          ) as VoicePracticeContext;
+
+        if (
+          parsed?.book?.id &&
+          parsed?.page?.number &&
+          parsed?.selectedLine?.id
+        ) {
+          setContext(
+            parsed,
+          );
+
+          return;
+        }
+      } catch {
+        localStorage.removeItem(
+          "voicePracticeContext",
+        );
+      }
+    }
+
     const parameters =
       new URLSearchParams(
         window.location.search,
@@ -173,43 +218,98 @@ export default function SpeakingPracticePage() {
       readLegacyQuizLaunchContext();
 
     if (
-      !activeContext
-        ?.selectedLine
+      activeContext?.selectedLine
     ) {
-      setError(
-        "Select an OCR-highlighted textbook line in the Reader first.",
+      setContext(
+        activeContext,
       );
-      setLoading(false);
+
       return;
     }
 
-    setContext(
-      activeContext,
+    setError(
+      "Select an OCR-highlighted textbook line in the Reader first.",
     );
+
+    setLoading(false);
+  }, []);
+
+  /*
+   * Load recent speaking attempts.
+   */
+  async function loadHistory() {
+    const response =
+      await fetch(
+        `/api/practice/speaking/evaluate?studentKey=${encodeURIComponent(
+          getStoredStudentKey(),
+        )}`,
+        {
+          cache:
+            "no-store",
+        },
+      );
+
+    const data =
+      (await response.json()) as ApiResponse<{
+        attempts?: HistoryItem[];
+      }>;
+
+    if (
+      response.ok &&
+      data.attempts
+    ) {
+      setHistory(
+        data.attempts,
+      );
+    }
+  }
+
+  /*
+   * Load speaking practice session
+   * after context becomes available.
+   */
+  useEffect(() => {
+    if (!context) {
+      return;
+    }
 
     void (async () => {
       try {
+        setLoading(true);
+        setError("");
+
+        /*
+         * Safely get the selected line ID.
+         */
+        const sourceLineId =
+          context.selectedLine?.id;
+
+        if (!sourceLineId) {
+          throw new Error(
+            "The selected textbook line is missing.",
+          );
+        }
+
         const response =
           await fetch(
             "/api/practice/speaking/session",
             {
               method: "POST",
+
               headers: {
                 "Content-Type":
                   "application/json",
               },
+
               body:
                 JSON.stringify({
                   bookId:
-                    activeContext
-                      .book.id,
+                    context.book.id,
+
                   pageNumber:
-                    activeContext
-                      .page.number,
-                  sourceLineId:
-                    activeContext
-                      .selectedLine
-                      ?.id,
+                    context.page.number,
+
+                  sourceLineId,
                 }),
             },
           );
@@ -234,7 +334,9 @@ export default function SpeakingPracticePage() {
         );
 
         await loadHistory();
-      } catch (requestError) {
+      } catch (
+        requestError
+      ) {
         setError(
           requestError instanceof
             Error
@@ -245,8 +347,11 @@ export default function SpeakingPracticePage() {
         setLoading(false);
       }
     })();
-  }, []);
+  }, [context]);
 
+  /*
+   * Text-to-speech for the question.
+   */
   function hearQuestion() {
     if (
       !session ||
@@ -258,9 +363,7 @@ export default function SpeakingPracticePage() {
       return;
     }
 
-    window
-      .speechSynthesis
-      .cancel();
+    window.speechSynthesis.cancel();
 
     const utterance =
       new SpeechSynthesisUtterance(
@@ -273,26 +376,32 @@ export default function SpeakingPracticePage() {
     utterance.rate =
       0.85;
 
-    window
-      .speechSynthesis
-      .speak(
-        utterance,
-      );
+    window.speechSynthesis.speak(
+      utterance,
+    );
   }
 
+  /*
+   * Submit spoken answer.
+   */
   async function submit() {
     if (
-      !context
-        ?.selectedLine ||
+      !context?.selectedLine ||
       !session ||
-      !capture.transcript
-        .trim()
+      !capture.transcript.trim()
     ) {
       setError(
         "Record or enter your spoken answer first.",
       );
+
       return;
     }
+
+    /*
+     * Safe local reference.
+     */
+    const selectedLine =
+      context.selectedLine;
 
     setSubmitting(true);
     setError("");
@@ -303,38 +412,46 @@ export default function SpeakingPracticePage() {
           "/api/practice/speaking/evaluate",
           {
             method: "POST",
+
             headers: {
               "Content-Type":
                 "application/json",
             },
+
             body:
               JSON.stringify({
                 studentKey:
                   getStoredStudentKey(),
+
                 bookId:
                   context.book.id,
+
                 classLevel:
                   context.book
                     .classLevel,
+
                 pageNumber:
-                  context.page
-                    .number,
+                  context.page.number,
+
                 lessonNo:
                   context.lesson
                     .number,
+
+                /*
+                 * Safely access the selected
+                 * line ID.
+                 */
                 sourceLineId:
-                  context
-                    .selectedLine
-                    .id,
+                  selectedLine.id,
+
                 promptText:
-                  session
-                    .promptText,
+                  session.promptText,
+
                 transcript:
-                  capture
-                    .transcript,
+                  capture.transcript,
+
                 durationMs:
-                  capture
-                    .durationMs,
+                  capture.durationMs,
               }),
           },
         );
@@ -360,7 +477,9 @@ export default function SpeakingPracticePage() {
       );
 
       await loadHistory();
-    } catch (requestError) {
+    } catch (
+      requestError
+    ) {
       setError(
         requestError instanceof
           Error
@@ -375,9 +494,12 @@ export default function SpeakingPracticePage() {
   return (
     <AppShell>
       <div className="mx-auto max-w-6xl space-y-6 pb-12">
+
+        {/* Header */}
         <LiquidCard className="overflow-hidden p-0">
           <div className="bg-gradient-to-r from-orange-700 via-rose-700 to-violet-700 p-6 text-white sm:p-8">
             <div className="flex flex-col gap-5 lg:flex-row lg:items-center lg:justify-between">
+
               <div>
                 <p className="text-xs font-black uppercase tracking-[0.2em] text-orange-100">
                   Voice Practice
@@ -396,21 +518,30 @@ export default function SpeakingPracticePage() {
                 href={readerHref}
                 className="flex items-center gap-2 rounded-2xl bg-white px-5 py-3 font-black text-orange-800"
               >
-                <ArrowLeft size={18} />
+                <ArrowLeft
+                  size={18}
+                />
+
                 Reader
               </Link>
+
             </div>
           </div>
         </LiquidCard>
 
-        <ScoringInfoCard activity="SPEAKING" />
+        {/* Scoring information */}
+        <ScoringInfoCard
+          activity="SPEAKING"
+        />
 
+        {/* Error */}
         {error ? (
           <LiquidCard className="border border-red-200 bg-red-50 p-5 font-black text-red-800">
             {error}
           </LiquidCard>
         ) : null}
 
+        {/* Loading */}
         {loading ? (
           <LiquidCard className="grid min-h-72 place-items-center">
             <Loader2
@@ -420,7 +551,11 @@ export default function SpeakingPracticePage() {
           </LiquidCard>
         ) : session ? (
           <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_340px]">
+
+            {/* Main practice card */}
             <LiquidCard className="p-6">
+
+              {/* Source line */}
               <p className="text-xs font-black uppercase text-orange-700">
                 Source line
               </p>
@@ -429,7 +564,9 @@ export default function SpeakingPracticePage() {
                 {session.sourceText}
               </p>
 
+              {/* Question */}
               <div className="mt-5 rounded-3xl bg-slate-950 p-5 text-white">
+
                 <p className="text-xs font-black uppercase text-orange-300">
                   Your question
                 </p>
@@ -445,11 +582,16 @@ export default function SpeakingPracticePage() {
                   }
                   className="mt-4 flex items-center gap-2 rounded-2xl bg-white/15 px-4 py-3 font-black"
                 >
-                  <Volume2 size={18} />
+                  <Volume2
+                    size={18}
+                  />
+
                   Hear Question
                 </button>
+
               </div>
 
+              {/* Voice recorder */}
               <div className="mt-6">
                 <VoiceCapturePanel
                   onChange={
@@ -458,6 +600,7 @@ export default function SpeakingPracticePage() {
                 />
               </div>
 
+              {/* Submit */}
               <button
                 type="button"
                 onClick={() =>
@@ -465,9 +608,7 @@ export default function SpeakingPracticePage() {
                 }
                 disabled={
                   submitting ||
-                  !capture
-                    .transcript
-                    .trim()
+                  !capture.transcript.trim()
                 }
                 className="mt-5 flex w-full items-center justify-center gap-2 rounded-2xl bg-orange-700 px-5 py-4 text-lg font-black text-white disabled:opacity-40"
               >
@@ -481,39 +622,59 @@ export default function SpeakingPracticePage() {
                     size={20}
                   />
                 )}
+
                 Check My Answer
               </button>
 
+              {/* Evaluation */}
               {evaluation ? (
                 <div className="mt-6 rounded-3xl border border-orange-200 bg-orange-50 p-6">
+
                   <p className="text-2xl font-black">
                     Practice result:{" "}
-                    {evaluation.overallScore} / 100
+                    {
+                      evaluation.overallScore
+                    }{" "}
+                    / 100
                   </p>
 
                   <div className="mt-4 grid gap-3 sm:grid-cols-3">
+
                     <div className="rounded-2xl bg-white p-4">
-                      Topic coverage<br />
+                      Topic coverage
+                      <br />
+
                       <strong>
-                        {evaluation.relevanceScore}%
+                        {
+                          evaluation.relevanceScore
+                        }
+                        %
                       </strong>
                     </div>
 
                     <div className="rounded-2xl bg-white p-4">
-                      Response length<br />
+                      Response length
+                      <br />
+
                       <strong>
-                        {evaluation.responseLengthScore}%
+                        {
+                          evaluation.responseLengthScore
+                        }
+                        %
                       </strong>
                     </div>
 
                     <div className="rounded-2xl bg-white p-4">
-                      Pace<br />
+                      Pace
+                      <br />
+
                       <strong>
                         {evaluation.wordsPerMinute
                           ? `${evaluation.wordsPerMinute} WPM`
                           : "--"}
                       </strong>
                     </div>
+
                   </div>
 
                   <p className="mt-4 rounded-2xl bg-white p-4 text-sm font-semibold">
@@ -531,38 +692,60 @@ export default function SpeakingPracticePage() {
                     ) ||
                       "You covered all key words."}
                   </p>
+
                 </div>
               ) : null}
+
             </LiquidCard>
 
+            {/* History */}
             <LiquidCard className="p-5">
+
               <h2 className="text-xl font-black">
                 Recent Answers
               </h2>
 
               <div className="mt-4 space-y-3">
+
                 {history.length ? (
                   history.map(
-                    (item) => (
+                    (
+                      item,
+                    ) => (
                       <div
-                        key={item.id}
+                        key={
+                          item.id
+                        }
                         className="rounded-2xl bg-white p-4"
                       >
+
                         <div className="flex justify-between gap-3">
+
                           <p className="font-black">
-                            Attempt {item.attemptNumber}
+                            Attempt{" "}
+                            {
+                              item.attemptNumber
+                            }
                           </p>
 
                           <span className="font-black text-orange-700">
-                            {item.overallScore}%
+                            {
+                              item.overallScore
+                            }
+                            %
                           </span>
+
                         </div>
 
                         <p className="mt-1 text-xs font-semibold text-slate-500">
                           Topic coverage:{" "}
-                          {item.relevanceScore ??
-                            0}%
+                          {
+                            item.relevanceScore ??
+                            0
+                          }
+                          %
                         </p>
+
                       </div>
                     ),
                   )
@@ -571,10 +754,14 @@ export default function SpeakingPracticePage() {
                     No attempts yet.
                   </p>
                 )}
+
               </div>
+
             </LiquidCard>
+
           </div>
         ) : null}
+
       </div>
     </AppShell>
   );
