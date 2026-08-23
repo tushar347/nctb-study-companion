@@ -1,3 +1,4 @@
+import PointsBadge from "@/components/rewards/PointsBadge";
 "use client";
 
 import React from "react";
