@@ -438,9 +438,7 @@ export async function POST(
 
 
 
-    const geminiData =
-      (await geminiResponse.json())
-      as GeminiResponse;
+   const geminiData = (await geminiResponse.json()) as GeminiResponse;
 
 
 
