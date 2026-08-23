@@ -56,7 +56,7 @@ type ApiResponse<T> = {
 } & T;
 
 /*
- * Context saved by the Reader when the user clicks
+ * Context saved by Reader when the user clicks
  * "Voice Practice from Selected Line".
  */
 type VoicePracticeContext = {
@@ -89,10 +89,9 @@ export default function SpeakingPracticePage() {
   const [
     context,
     setContext,
-  ] =
-    useState<SpeakingContext | null>(
-      null,
-    );
+  ] = useState<SpeakingContext | null>(
+    null,
+  );
 
   const [
     session,
@@ -104,20 +103,18 @@ export default function SpeakingPracticePage() {
   const [
     capture,
     setCapture,
-  ] =
-    useState<VoiceCaptureValue>({
-      transcript: "",
-      durationMs: 0,
-      hasRecording: false,
-    });
+  ] = useState<VoiceCaptureValue>({
+    transcript: "",
+    durationMs: 0,
+    hasRecording: false,
+  });
 
   const [
     evaluation,
     setEvaluation,
-  ] =
-    useState<SpeakingEvaluation | null>(
-      null,
-    );
+  ] = useState<SpeakingEvaluation | null>(
+    null,
+  );
 
   const [
     history,
@@ -144,9 +141,7 @@ export default function SpeakingPracticePage() {
    */
   const handleCapture =
     useCallback(
-      (
-        value: VoiceCaptureValue,
-      ) => {
+      (value: VoiceCaptureValue) => {
         setCapture(value);
       },
       [],
@@ -168,7 +163,6 @@ export default function SpeakingPracticePage() {
    * Read the context saved by Reader.
    *
    * Priority:
-   *
    * 1. voicePracticeContext
    * 2. contextId quiz context
    * 3. legacy quiz context
@@ -191,10 +185,7 @@ export default function SpeakingPracticePage() {
           parsed?.page?.number &&
           parsed?.selectedLine?.id
         ) {
-          setContext(
-            parsed,
-          );
-
+          setContext(parsed);
           return;
         }
       } catch {
@@ -220,10 +211,7 @@ export default function SpeakingPracticePage() {
     if (
       activeContext?.selectedLine
     ) {
-      setContext(
-        activeContext,
-      );
-
+      setContext(activeContext);
       return;
     }
 
@@ -244,8 +232,7 @@ export default function SpeakingPracticePage() {
           getStoredStudentKey(),
         )}`,
         {
-          cache:
-            "no-store",
+          cache: "no-store",
         },
       );
 
@@ -258,9 +245,7 @@ export default function SpeakingPracticePage() {
       response.ok &&
       data.attempts
     ) {
-      setHistory(
-        data.attempts,
-      );
+      setHistory(data.attempts);
     }
   }
 
@@ -279,17 +264,30 @@ export default function SpeakingPracticePage() {
         setError("");
 
         /*
-         * Safely get the selected line ID.
+         * Safely get the selected line.
          */
-        const sourceLineId =
-          context.selectedLine?.id;
+        const selectedLine =
+          context.selectedLine;
 
-        if (!sourceLineId) {
+        if (!selectedLine?.id) {
           throw new Error(
             "The selected textbook line is missing.",
           );
         }
 
+        /*
+         * Get the actual selected text.
+         *
+         * cleanText is preferred when available.
+         * text is used as fallback.
+         */
+        const selectedText =
+          selectedLine.text ??
+          "";
+
+        /*
+         * Create/load the speaking session.
+         */
         const response =
           await fetch(
             "/api/practice/speaking/session",
@@ -309,7 +307,14 @@ export default function SpeakingPracticePage() {
                   pageNumber:
                     context.page.number,
 
-                  sourceLineId,
+                  sourceLineId:
+                    selectedLine.id,
+
+                  /*
+                   * Send the actual OCR-selected
+                   * textbook text to the API.
+                   */
+                  selectedText,
                 }),
             },
           );
@@ -329,9 +334,7 @@ export default function SpeakingPracticePage() {
           );
         }
 
-        setSession(
-          data.session,
-        );
+        setSession(data.session);
 
         await loadHistory();
       } catch (
@@ -370,11 +373,8 @@ export default function SpeakingPracticePage() {
         session.promptText,
       );
 
-    utterance.lang =
-      "en-US";
-
-    utterance.rate =
-      0.85;
+    utterance.lang = "en-US";
+    utterance.rate = 0.85;
 
     window.speechSynthesis.speak(
       utterance,
@@ -402,6 +402,14 @@ export default function SpeakingPracticePage() {
      */
     const selectedLine =
       context.selectedLine;
+
+    if (!selectedLine?.id) {
+      setError(
+        "The selected textbook line is missing.",
+      );
+
+      return;
+    }
 
     setSubmitting(true);
     setError("");
@@ -437,12 +445,16 @@ export default function SpeakingPracticePage() {
                   context.lesson
                     .number,
 
-                /*
-                 * Safely access the selected
-                 * line ID.
-                 */
                 sourceLineId:
                   selectedLine.id,
+
+                /*
+                 * Also send the selected text
+                 * to the evaluation API.
+                 */
+                selectedText:
+                  selectedLine.text ??
+                  "",
 
                 promptText:
                   session.promptText,
@@ -458,8 +470,7 @@ export default function SpeakingPracticePage() {
 
       const data =
         (await response.json()) as ApiResponse<{
-          evaluation?:
-            SpeakingEvaluation;
+          evaluation?: SpeakingEvaluation;
         }>;
 
       if (
@@ -518,10 +529,7 @@ export default function SpeakingPracticePage() {
                 href={readerHref}
                 className="flex items-center gap-2 rounded-2xl bg-white px-5 py-3 font-black text-orange-800"
               >
-                <ArrowLeft
-                  size={18}
-                />
-
+                <ArrowLeft size={18} />
                 Reader
               </Link>
 
@@ -582,10 +590,7 @@ export default function SpeakingPracticePage() {
                   }
                   className="mt-4 flex items-center gap-2 rounded-2xl bg-white/15 px-4 py-3 font-black"
                 >
-                  <Volume2
-                    size={18}
-                  />
-
+                  <Volume2 size={18} />
                   Hear Question
                 </button>
 
@@ -632,9 +637,7 @@ export default function SpeakingPracticePage() {
 
                   <p className="text-2xl font-black">
                     Practice result:{" "}
-                    {
-                      evaluation.overallScore
-                    }{" "}
+                    {evaluation.overallScore}{" "}
                     / 100
                   </p>
 
@@ -645,9 +648,7 @@ export default function SpeakingPracticePage() {
                       <br />
 
                       <strong>
-                        {
-                          evaluation.relevanceScore
-                        }
+                        {evaluation.relevanceScore}
                         %
                       </strong>
                     </div>
@@ -657,9 +658,7 @@ export default function SpeakingPracticePage() {
                       <br />
 
                       <strong>
-                        {
-                          evaluation.responseLengthScore
-                        }
+                        {evaluation.responseLengthScore}
                         %
                       </strong>
                     </div>
@@ -709,13 +708,9 @@ export default function SpeakingPracticePage() {
 
                 {history.length ? (
                   history.map(
-                    (
-                      item,
-                    ) => (
+                    (item) => (
                       <div
-                        key={
-                          item.id
-                        }
+                        key={item.id}
                         className="rounded-2xl bg-white p-4"
                       >
 
@@ -723,26 +718,18 @@ export default function SpeakingPracticePage() {
 
                           <p className="font-black">
                             Attempt{" "}
-                            {
-                              item.attemptNumber
-                            }
+                            {item.attemptNumber}
                           </p>
 
                           <span className="font-black text-orange-700">
-                            {
-                              item.overallScore
-                            }
-                            %
+                            {item.overallScore}%
                           </span>
 
                         </div>
 
                         <p className="mt-1 text-xs font-semibold text-slate-500">
                           Topic coverage:{" "}
-                          {
-                            item.relevanceScore ??
-                            0
-                          }
+                          {item.relevanceScore ?? 0}
                           %
                         </p>
 

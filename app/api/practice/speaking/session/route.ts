@@ -51,6 +51,7 @@ export async function POST(
         bookId?: unknown;
         pageNumber?: unknown;
         sourceLineId?: unknown;
+        selectedText?: unknown;
       };
 
 
@@ -230,3 +231,4 @@ export async function POST(
 
   }
 }
+

@@ -144,6 +144,7 @@ export async function POST(
         pageNumber?: unknown;
         lessonNo?: unknown;
         sourceLineId?: unknown;
+        selectedText?: unknown;
         promptText?: unknown;
         transcript?: unknown;
         durationMs?: unknown;
