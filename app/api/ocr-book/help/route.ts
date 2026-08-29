@@ -1,3 +1,5 @@
+import { repairMojibake } from "@/lib/fixMojibake";
+
 type GeminiPart = {
   text?: string;
 };
@@ -45,7 +47,7 @@ export async function POST(request: Request) {
         {
           error: "lineText is required",
         },
-        { status: 400 }
+        { status: 400 },
       );
     }
 
@@ -98,7 +100,7 @@ Rules:
             responseMimeType: "application/json",
           },
         }),
-      }
+      },
     );
 
     if (!geminiResponse.ok) {
@@ -122,14 +124,19 @@ Rules:
     }
 
     const helper = JSON.parse(cleanJson(generatedText)) as HelperOutput;
+    const repairedHelper: HelperOutput = {
+      simple: repairMojibake(helper.simple),
+      bangla: repairMojibake(helper.bangla),
+      grammar: repairMojibake(helper.grammar),
+    };
 
-    return Response.json({ helper });
+    return Response.json({ helper: repairedHelper });
   } catch {
     return Response.json(
       {
         error: "OCR helper failed",
       },
-      { status: 500 }
+      { status: 500 },
     );
   }
 }

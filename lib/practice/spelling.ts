@@ -1,6 +1,4 @@
-export type SpellingInputMode =
-  | "typed"
-  | "voice";
+export type SpellingInputMode = "typed" | "voice";
 
 export type SpellingSubstitution = {
   position: number;
@@ -21,45 +19,121 @@ export type SpellingEvaluation = {
 };
 
 const STOP_WORDS = new Set([
-  "about", "after", "again", "also", "and", "are",
-  "because", "before", "being", "but", "can", "could",
-  "did", "does", "for", "from", "had", "has", "have",
-  "her", "him", "his", "how", "into", "its", "may",
-  "more", "not", "our", "out", "she", "should",
-  "some", "than", "that", "the", "their", "them",
-  "then", "there", "these", "they", "this", "those",
-  "through", "too", "was", "were", "what", "when",
-  "where", "which", "who", "will", "with", "would",
-  "you", "your",
+  "about",
+  "after",
+  "again",
+  "also",
+  "and",
+  "are",
+  "because",
+  "before",
+  "being",
+  "but",
+  "can",
+  "could",
+  "did",
+  "does",
+  "for",
+  "from",
+  "had",
+  "has",
+  "have",
+  "her",
+  "him",
+  "his",
+  "how",
+  "into",
+  "its",
+  "may",
+  "more",
+  "not",
+  "our",
+  "out",
+  "she",
+  "should",
+  "some",
+  "than",
+  "that",
+  "the",
+  "their",
+  "them",
+  "then",
+  "there",
+  "these",
+  "they",
+  "this",
+  "those",
+  "through",
+  "too",
+  "was",
+  "were",
+  "what",
+  "when",
+  "where",
+  "which",
+  "who",
+  "will",
+  "with",
+  "would",
+  "you",
+  "your",
 ]);
 
 const LETTER_NAMES: Record<string, string> = {
-  a: "a", ay: "a",
-  b: "b", be: "b", bee: "b",
-  c: "c", sea: "c", see: "c",
-  d: "d", dee: "d",
-  e: "e", ee: "e",
-  f: "f", ef: "f",
-  g: "g", gee: "g",
-  h: "h", aitch: "h",
-  i: "i", eye: "i",
-  j: "j", jay: "j",
-  k: "k", kay: "k",
-  l: "l", el: "l",
-  m: "m", em: "m",
-  n: "n", en: "n",
-  o: "o", oh: "o",
-  p: "p", pee: "p",
-  q: "q", cue: "q",
-  r: "r", are: "r",
-  s: "s", ess: "s",
-  t: "t", tee: "t",
-  u: "u", you: "u",
-  v: "v", vee: "v",
+  a: "a",
+  ay: "a",
+  b: "b",
+  be: "b",
+  bee: "b",
+  c: "c",
+  sea: "c",
+  see: "c",
+  d: "d",
+  dee: "d",
+  e: "e",
+  ee: "e",
+  f: "f",
+  ef: "f",
+  g: "g",
+  gee: "g",
+  h: "h",
+  aitch: "h",
+  i: "i",
+  eye: "i",
+  j: "j",
+  jay: "j",
+  k: "k",
+  kay: "k",
+  l: "l",
+  el: "l",
+  m: "m",
+  em: "m",
+  n: "n",
+  en: "n",
+  o: "o",
+  oh: "o",
+  p: "p",
+  pee: "p",
+  q: "q",
+  cue: "q",
+  r: "r",
+  are: "r",
+  s: "s",
+  ess: "s",
+  t: "t",
+  tee: "t",
+  u: "u",
+  you: "u",
+  v: "v",
+  vee: "v",
   w: "w",
-  x: "x", ex: "x",
-  y: "y", why: "y",
-  z: "z", zee: "z", zed: "z",
+  x: "x",
+  ex: "x",
+  y: "y",
+  why: "y",
+  z: "z",
+  zee: "z",
+  zed: "z",
 };
 
 export function normalizeSpelling(value: unknown) {
@@ -68,9 +142,7 @@ export function normalizeSpelling(value: unknown) {
     .replace(/[^a-z]/g, "");
 }
 
-export function normalizeSpokenSpelling(
-  transcript: unknown,
-) {
+export function normalizeSpokenSpelling(transcript: unknown) {
   const source = String(transcript ?? "")
     .toLowerCase()
     .replace(/[^a-z\s-]/g, " ")
@@ -82,11 +154,7 @@ export function normalizeSpokenSpelling(
 
   const compact = normalizeSpelling(source);
 
-  if (
-    !source.includes(" ") &&
-    compact.length > 1 &&
-    !LETTER_NAMES[source]
-  ) {
+  if (!source.includes(" ") && compact.length > 1 && !LETTER_NAMES[source]) {
     return compact;
   }
 
@@ -96,11 +164,7 @@ export function normalizeSpokenSpelling(
   for (let index = 0; index < tokens.length; index += 1) {
     const token = tokens[index];
 
-    if (
-      token === "letter" ||
-      token === "dash" ||
-      token === "hyphen"
-    ) {
+    if (token === "letter" || token === "dash" || token === "hyphen") {
       continue;
     }
 
@@ -150,12 +214,9 @@ export function extractSpellingCandidates(
   text: unknown,
   excludedWords: string[] = [],
 ) {
-  const excluded = new Set(
-    excludedWords.map(normalizeSpelling),
-  );
+  const excluded = new Set(excludedWords.map(normalizeSpelling));
 
-  const matches =
-    String(text ?? "").match(/[A-Za-z]{3,14}/g) ?? [];
+  const matches = String(text ?? "").match(/[A-Za-z]{3,14}/g) ?? [];
 
   const candidates: string[] = [];
   const seen = new Set<string>();
@@ -179,12 +240,8 @@ export function extractSpellingCandidates(
 
   return candidates.sort((left, right) => {
     const preferredLength = 7;
-    const leftDistance = Math.abs(
-      left.length - preferredLength,
-    );
-    const rightDistance = Math.abs(
-      right.length - preferredLength,
-    );
+    const leftDistance = Math.abs(left.length - preferredLength);
+    const rightDistance = Math.abs(right.length - preferredLength);
 
     if (leftDistance !== rightDistance) {
       return leftDistance - rightDistance;
@@ -221,9 +278,8 @@ type AlignmentStep =
 function alignWords(expected: string, received: string) {
   const rows = expected.length + 1;
   const columns = received.length + 1;
-  const distance = Array.from(
-    { length: rows },
-    () => Array<number>(columns).fill(0),
+  const distance = Array.from({ length: rows }, () =>
+    Array<number>(columns).fill(0),
   );
 
   for (let row = 0; row < rows; row += 1) {
@@ -272,8 +328,7 @@ function alignWords(expected: string, received: string) {
     if (
       row > 0 &&
       column > 0 &&
-      distance[row][column] ===
-        distance[row - 1][column - 1] + 1
+      distance[row][column] === distance[row - 1][column - 1] + 1
     ) {
       steps.push({
         type: "substitution",
@@ -286,10 +341,7 @@ function alignWords(expected: string, received: string) {
       continue;
     }
 
-    if (
-      row > 0 &&
-      distance[row][column] === distance[row - 1][column] + 1
-    ) {
+    if (row > 0 && distance[row][column] === distance[row - 1][column] + 1) {
       steps.push({
         type: "missing",
         expected: expected[row - 1],
@@ -320,60 +372,38 @@ export function evaluateSpelling(
   submittedAnswer: unknown,
 ): SpellingEvaluation {
   const target = normalizeSpelling(targetWord);
-  const normalizedAnswer = normalizeSpelling(
-    submittedAnswer,
-  );
+  const normalizedAnswer = normalizeSpelling(submittedAnswer);
 
   if (!target) {
-    throw new Error(
-      "A valid target word is required.",
-    );
+    throw new Error("A valid target word is required.");
   }
 
   const alignment = alignWords(target, normalizedAnswer);
-  const denominator = Math.max(
-    target.length,
-    normalizedAnswer.length,
-    1,
-  );
+  const denominator = Math.max(target.length, normalizedAnswer.length, 1);
 
   const accuracy = Math.max(
     0,
-    Math.round(
-      (1 - alignment.distance / denominator) * 100,
-    ),
+    Math.round((1 - alignment.distance / denominator) * 100),
   );
 
   const missingLetters = alignment.steps
     .filter(
-      (
-        step,
-      ): step is Extract<
-        AlignmentStep,
-        { type: "missing" }
-      > => step.type === "missing",
+      (step): step is Extract<AlignmentStep, { type: "missing" }> =>
+        step.type === "missing",
     )
     .map((step) => step.expected);
 
   const extraLetters = alignment.steps
     .filter(
-      (
-        step,
-      ): step is Extract<
-        AlignmentStep,
-        { type: "extra" }
-      > => step.type === "extra",
+      (step): step is Extract<AlignmentStep, { type: "extra" }> =>
+        step.type === "extra",
     )
     .map((step) => step.received);
 
   const substitutions = alignment.steps
     .filter(
-      (
-        step,
-      ): step is Extract<
-        AlignmentStep,
-        { type: "substitution" }
-      > => step.type === "substitution",
+      (step): step is Extract<AlignmentStep, { type: "substitution" }> =>
+        step.type === "substitution",
     )
     .map((step) => ({
       position: step.position,
@@ -396,6 +426,6 @@ export function evaluateSpelling(
 
 export function maskSpellingWord(word: string) {
   return Array.from(normalizeSpelling(word))
-    .map(() => "•")
+    .map(() => "\u2022")
     .join(" ");
 }

@@ -1,18 +1,10 @@
-﻿"use client";
+"use client";
 
-import {
-  Suspense,
-  useEffect,
-  useMemo,
-  useState,
-} from "react";
+import { Suspense, useEffect, useMemo, useState } from "react";
 
 import Link from "next/link";
 
-import {
-  useRouter,
-  useSearchParams,
-} from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 
 import {
   AlertCircle,
@@ -41,10 +33,7 @@ import {
   getStoredStudentName,
 } from "@/lib/studentSession";
 
-import {
-  class6Lessons,
-  getLessonForPage,
-} from "@/lib/book/class6Lessons";
+import { class6Lessons, getLessonForPage } from "@/lib/book/class6Lessons";
 import {
   createQuizLaunchContext,
   writeQuizLaunchContext,
@@ -94,30 +83,26 @@ type IndexData = {
   error?: string;
 };
 
-type TeacherTool =
-  | "simple"
-  | "bangla"
-  | "grammar";
+type TeacherTool = "simple" | "bangla" | "grammar";
 
-function formatAIOutput(
-  value: unknown,
-) {
+function formatAIOutput(value: unknown) {
   return String(value ?? "")
     .replace(/```[\s\S]*?```/g, "")
     .replace(/\*\*/g, "")
     .replace(/__/g, "")
     .replace(/^#{1,6}\s*/gm, "")
-    .replace(/^\s*[-*]\s+/gm, "ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ ")
+    .replace(
+      /^\s*[-*]\s+/gm,
+      "ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ ",
+    )
     .replace(/\n{3,}/g, "\n\n")
     .trim();
 }
 
 function ReaderPageInner() {
-  const router =
-    useRouter();
+  const router = useRouter();
 
-  const searchParams =
-    useSearchParams();
+  const searchParams = useSearchParams();
 
   const bookId =
     searchParams.get("book") ||
@@ -126,115 +111,66 @@ function ReaderPageInner() {
       : null) ||
     "class6-english";
 
-  const classLevel = Number(
-    bookId.match(/class(\d+)/i)?.[1] ?? 6,
-  );
+  const classLevel = Number(bookId.match(/class(\d+)/i)?.[1] ?? 6);
 
-  const [studentName, setStudentName] =
-    useState("Student");
+  const [studentName, setStudentName] = useState("Student");
 
-  const [studentKey, setStudentKey] =
-    useState("");
+  const [studentKey, setStudentKey] = useState("");
 
-  const [indexData, setIndexData] =
-    useState<IndexData | null>(null);
+  const [indexData, setIndexData] = useState<IndexData | null>(null);
 
-  const [pageNumber, setPageNumber] =
-    useState(6);
+  const [pageNumber, setPageNumber] = useState(6);
 
-  const [jumpPage, setJumpPage] =
-    useState("6");
+  const [jumpPage, setJumpPage] = useState("6");
 
-  const [pageData, setPageData] =
-    useState<PageData | null>(null);
+  const [pageData, setPageData] = useState<PageData | null>(null);
 
-  const [selectedLine, setSelectedLine] =
-    useState<OCRLine | null>(null);
+  const [selectedLine, setSelectedLine] = useState<OCRLine | null>(null);
 
-  const [loading, setLoading] =
-    useState(true);
+  const [loading, setLoading] = useState(true);
 
-  const [error, setError] =
-    useState("");
+  const [error, setError] = useState("");
 
-  const [showOverlay, setShowOverlay] =
-    useState(true);
+  const [showOverlay, setShowOverlay] = useState(true);
 
-  const [zoom, setZoom] =
-    useState(1);
+  const [zoom, setZoom] = useState(1);
 
-  const [
-    teacherLoading,
-    setTeacherLoading,
-  ] = useState(false);
+  const [teacherLoading, setTeacherLoading] = useState(false);
 
-  const [
-    teacherResponse,
-    setTeacherResponse,
-  ] = useState("");
+  const [teacherResponse, setTeacherResponse] = useState("");
 
-  const [
-    teacherError,
-    setTeacherError,
-  ] = useState("");
+  const [teacherError, setTeacherError] = useState("");
 
-  const [
-    teacherRetrieval,
-    setTeacherRetrieval,
-  ] = useState<{
+  const [teacherRetrieval, setTeacherRetrieval] = useState<{
     method: string;
     pageNumber: number | null;
     retrieved: boolean;
     contextUsed: string;
   } | null>(null);
 
-  const totalPages =
-    indexData?.totalPdfPages ?? 115;
+  const totalPages = indexData?.totalPdfPages ?? 115;
 
   const activeLesson = useMemo(
-    () =>
-      getLessonForPage(
-        pageNumber,
-      ),
+    () => getLessonForPage(pageNumber),
     [pageNumber],
   );
 
   async function loadIndex() {
-    const response =
-      await fetch(
-        `/api/books/${bookId}/index`,
-        {
-          cache: "no-store",
-        },
-      );
+    const response = await fetch(`/api/books/${bookId}/index`, {
+      cache: "no-store",
+    });
 
-    const data =
-      (await response.json()) as IndexData;
+    const data = (await response.json()) as IndexData;
 
-    if (
-      !response.ok ||
-      !data.success
-    ) {
-      throw new Error(
-        data.error ??
-          "Book index could not be loaded.",
-      );
+    if (!response.ok || !data.success) {
+      throw new Error(data.error ?? "Book index could not be loaded.");
     }
 
     setIndexData(data);
   }
 
-  async function loadPage(
-    nextPage: number,
-  ) {
-    const safePage =
-      Math.min(
-        totalPages,
-        Math.max(
-          1,
-          nextPage,
-        ),
-      );
+  async function loadPage(nextPage: number) {
+    const safePage = Math.min(totalPages, Math.max(1, nextPage));
 
     setLoading(true);
     setError("");
@@ -244,48 +180,26 @@ function ReaderPageInner() {
     setTeacherRetrieval(null);
 
     try {
-      const response =
-        await fetch(
-          `/api/books/${bookId}/pages/${safePage}`,
-          {
-            cache: "no-store",
-          },
-        );
+      const response = await fetch(`/api/books/${bookId}/pages/${safePage}`, {
+        cache: "no-store",
+      });
 
-      const data =
-        (await response.json()) as PageData;
+      const data = (await response.json()) as PageData;
 
-      if (
-        !response.ok ||
-        !data.success
-      ) {
-        throw new Error(
-          data.error ??
-            `OCR page ${safePage} is unavailable.`,
-        );
+      if (!response.ok || !data.success) {
+        throw new Error(data.error ?? `OCR page ${safePage} is unavailable.`);
       }
 
-      setPageNumber(
-        safePage,
-      );
+      setPageNumber(safePage);
 
-      setJumpPage(
-        String(safePage),
-      );
+      setJumpPage(String(safePage));
 
-      setPageData(
-        data,
-      );
-    } catch (
-      requestError
-    ) {
-      setPageData(
-        null,
-      );
+      setPageData(data);
+    } catch (requestError) {
+      setPageData(null);
 
       setError(
-        requestError instanceof
-          Error
+        requestError instanceof Error
           ? requestError.message
           : "Book page could not be loaded.",
       );
@@ -294,311 +208,176 @@ function ReaderPageInner() {
     }
   }
 
-  function selectBookLine(
-    line: OCRLine,
-  ) {
-    setSelectedLine(
-      line,
-    );
+  function selectBookLine(line: OCRLine) {
+    setSelectedLine(line);
 
-    setTeacherResponse(
-      "",
-    );
+    setTeacherResponse("");
 
-    setTeacherError(
-      "",
-    );
+    setTeacherError("");
 
-    setTeacherRetrieval(
-      null,
-    );
+    setTeacherRetrieval(null);
 
-    const lesson =
-      getLessonForPage(
-        pageNumber,
-      );
+    const lesson = getLessonForPage(pageNumber);
 
-    localStorage.setItem(
-      "selectedLine",
-      line.cleanText ??
-        line.text,
-    );
+    localStorage.setItem("selectedLine", line.cleanText ?? line.text);
 
-    localStorage.setItem(
-      "selectedBookPdfPage",
-      String(
-        pageNumber,
-      ),
-    );
+    localStorage.setItem("selectedBookPdfPage", String(pageNumber));
 
-    localStorage.setItem(
-      "selectedLineId",
-      line.id,
-    );
+    localStorage.setItem("selectedLineId", line.id);
 
-    localStorage.setItem(
-      "selectedLessonNo",
-      String(
-        lesson?.lessonNo ??
-          0,
-      ),
-    );
+    localStorage.setItem("selectedLessonNo", String(lesson?.lessonNo ?? 0));
 
-    localStorage.setItem(
-      "selectedLessonTitle",
-      lesson?.title ??
-        "Book Page",
-    );
+    localStorage.setItem("selectedLessonTitle", lesson?.title ?? "Book Page");
   }
 
-  async function askTeacher(
-    tool: TeacherTool,
-  ) {
+  async function askTeacher(tool: TeacherTool) {
     if (!selectedLine) {
-      setTeacherError(
-        "Select a highlighted book line first.",
-      );
+      setTeacherError("Select a highlighted book line first.");
 
       return;
     }
 
-    setTeacherLoading(
-      true,
-    );
+    setTeacherLoading(true);
 
-    setTeacherResponse(
-      "",
-    );
+    setTeacherResponse("");
 
-    setTeacherError(
-      "",
-    );
+    setTeacherError("");
 
-    setTeacherRetrieval(
-      null,
-    );
+    setTeacherRetrieval(null);
 
     try {
-      const lesson =
-        getLessonForPage(
+      const lesson = getLessonForPage(pageNumber);
+
+      const response = await fetch("/api/agent/learning-loop", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          studentId: studentKey,
+
+          studentKey,
+
+          lessonNo: lesson?.lessonNo ?? 0,
+
+          selectedLine: selectedLine.cleanText ?? selectedLine.text,
+
+          requestedTool: tool,
+
           pageNumber,
-        );
 
-      const response =
-        await fetch(
-          "/api/agent/learning-loop",
-          {
-            method: "POST",
-            headers: {
-              "Content-Type":
-                "application/json",
-            },
-            body: JSON.stringify({
-              studentId:
-                studentKey,
+          lineId: selectedLine.id,
+        }),
+      });
 
-              studentKey,
-
-              lessonNo:
-                lesson?.lessonNo ??
-                0,
-
-              selectedLine:
-                selectedLine.cleanText ??
-                selectedLine.text,
-
-              requestedTool:
-                tool,
-
-              pageNumber,
-
-              lineId:
-                selectedLine.id,
-            }),
-          },
-        );
-
-      const rawResponse =
-        await response.text();
+      const rawResponse = await response.text();
 
       let data: any;
 
       try {
-        data =
-          JSON.parse(
-            rawResponse,
-          );
+        data = JSON.parse(rawResponse);
       } catch {
-        const readableError =
-          rawResponse
-            .replace(
-              /<script[\s\S]*?<\/script>/gi,
-              " ",
-            )
-            .replace(
-              /<style[\s\S]*?<\/style>/gi,
-              " ",
-            )
-            .replace(
-              /<[^>]+>/g,
-              " ",
-            )
-            .replace(
-              /\s+/g,
-              " ",
-            )
-            .trim()
-            .slice(
-              0,
-              250,
-            );
+        const readableError = rawResponse
+          .replace(/<script[\s\S]*?<\/script>/gi, " ")
+          .replace(/<style[\s\S]*?<\/style>/gi, " ")
+          .replace(/<[^>]+>/g, " ")
+          .replace(/\s+/g, " ")
+          .trim()
+          .slice(0, 250);
 
         throw new Error(
           `AI API returned ${response.status} ${response.statusText}. ${
-            readableError ||
-            "The server returned HTML instead of JSON."
+            readableError || "The server returned HTML instead of JSON."
           }`,
         );
       }
 
       if (!response.ok) {
-        throw new Error(
-          data.message ??
-            data.error ??
-            "AI Teacher failed.",
-        );
+        throw new Error(data.message ?? data.error ?? "AI Teacher failed.");
       }
 
       setTeacherResponse(
-        formatAIOutput(
-          data.result?.output ??
-            data.output ??
-            data.answer,
-        ),
+        formatAIOutput(data.result?.output ?? data.output ?? data.answer),
       );
 
-      setTeacherRetrieval(
-        data.retrieval ??
-          null,
-      );
-    } catch (
-      requestError
-    ) {
-      setTeacherRetrieval(
-        null,
-      );
+      setTeacherRetrieval(data.retrieval ?? null);
+    } catch (requestError) {
+      setTeacherRetrieval(null);
 
       setTeacherError(
-        requestError instanceof
-          Error
+        requestError instanceof Error
           ? requestError.message
           : "AI Teacher failed.",
       );
     } finally {
-      setTeacherLoading(
-        false,
-      );
+      setTeacherLoading(false);
     }
   }
 
   function submitJumpPage() {
-    const requestedPage =
-      Number(
-        jumpPage,
-      );
+    const requestedPage = Number(jumpPage);
 
     if (
-      Number.isInteger(
-        requestedPage,
-      ) &&
+      Number.isInteger(requestedPage) &&
       requestedPage >= 1 &&
-      requestedPage <=
-        totalPages
+      requestedPage <= totalPages
     ) {
-      loadPage(
-        requestedPage,
-      );
+      loadPage(requestedPage);
     }
   }
 
   function openVoicePractice() {
     if (!selectedLine) {
-      setTeacherError(
-        "Select a highlighted book line first.",
-      );
+      setTeacherError("Select a highlighted book line first.");
 
       return;
     }
 
-    const lesson =
-      getLessonForPage(
-        pageNumber,
-      );
+    const lesson = getLessonForPage(pageNumber);
 
     localStorage.setItem(
       "voicePracticeContext",
       JSON.stringify({
-        bookId:
-          "class6-english",
+        bookId: "class6-english",
 
         pageNumber,
 
         selectedLine,
 
-        sourceLineId:
-          selectedLine.id,
+        sourceLineId: selectedLine.id,
 
-        promptText:
-          selectedLine.cleanText ??
-          selectedLine.text,
+        promptText: selectedLine.cleanText ?? selectedLine.text,
 
-        lessonNo:
-          lesson?.lessonNo ??
-          0,
+        lessonNo: lesson?.lessonNo ?? 0,
 
-        lessonTitle:
-          lesson?.title ??
-          "Book Page",
+        lessonTitle: lesson?.title ?? "Book Page",
       }),
     );
 
-    router.push(
-      "/practice/speaking",
-    );
+    router.push("/practice/speaking");
   }
 
   useEffect(() => {
-    const name =
-      getStoredStudentName();
+    const name = getStoredStudentName();
 
-    const key =
-      getStoredStudentKey();
+    const key = getStoredStudentKey();
 
-    setStudentName(
-      name,
-    );
+    setStudentName(name);
 
-    setStudentKey(
-      key,
-    );
+    setStudentKey(key);
 
     async function startReader() {
       try {
         await loadIndex();
         await loadPage(6);
-      } catch (
-        startError
-      ) {
+      } catch (startError) {
         setError(
-          startError instanceof
-            Error
+          startError instanceof Error
             ? startError.message
             : "Reader could not start.",
         );
 
-        setLoading(
-          false,
-        );
+        setLoading(false);
       }
     }
 
@@ -619,22 +398,15 @@ function ReaderPageInner() {
                 Student
               </p>
 
-              <p className="truncate font-black">
-                {studentName}
-              </p>
+              <p className="truncate font-black">{studentName}</p>
             </div>
           </div>
 
           <div className="mt-6 flex items-center gap-3">
-            <ScanText
-              className="text-orange-600"
-              size={24}
-            />
+            <ScanText className="text-orange-600" size={24} />
 
             <div>
-              <h2 className="text-xl font-black">
-                Book OCR
-              </h2>
+              <h2 className="text-xl font-black">Book OCR</h2>
 
               <p className="text-sm font-semibold text-slate-500">
                 Local automatic extraction
@@ -654,25 +426,19 @@ function ReaderPageInner() {
             </p>
 
             <p className="mt-1 text-sm font-bold text-slate-600">
-              {activeLesson?.title ??
-                "Front matter or sample section"}
+              {activeLesson?.title ?? "Front matter or sample section"}
             </p>
 
             <p className="mt-3 text-sm font-black text-orange-700">
-              PDF Page {pageNumber} /{" "}
-              {totalPages}
+              PDF Page {pageNumber} / {totalPages}
             </p>
 
             <p className="mt-1 text-sm font-bold text-slate-600">
-              {pageData?.lines
-                .length ?? 0}{" "}
-              detected lines
+              {pageData?.lines.length ?? 0} detected lines
             </p>
 
             <p className="mt-1 text-xs font-bold text-slate-500">
-              Source:{" "}
-              {pageData?.source ??
-                "--"}
+              Source: {pageData?.source ?? "--"}
             </p>
           </div>
 
@@ -682,36 +448,19 @@ function ReaderPageInner() {
             </p>
 
             <div className="max-h-64 space-y-2 overflow-y-auto pr-1">
-              {class6Lessons.map(
-                (
-                  lesson,
-                ) => (
-                  <button
-                    key={
-                      lesson.lessonNo
-                    }
-                    onClick={() =>
-                      loadPage(
-                        lesson.pdfStart,
-                      )
-                    }
-                    className={`w-full rounded-2xl px-3 py-2 text-left text-xs font-black transition ${
-                      activeLesson?.lessonNo ===
-                      lesson.lessonNo
-                        ? "bg-orange-500 text-white"
-                        : "bg-white/75 text-slate-700 hover:bg-orange-50"
-                    }`}
-                  >
-                    {
-                      lesson.lessonNo
-                    }
-                    .{" "}
-                    {
-                      lesson.title
-                    }
-                  </button>
-                ),
-              )}
+              {class6Lessons.map((lesson) => (
+                <button
+                  key={lesson.lessonNo}
+                  onClick={() => loadPage(lesson.pdfStart)}
+                  className={`w-full rounded-2xl px-3 py-2 text-left text-xs font-black transition ${
+                    activeLesson?.lessonNo === lesson.lessonNo
+                      ? "bg-orange-500 text-white"
+                      : "bg-white/75 text-slate-700 hover:bg-orange-50"
+                  }`}
+                >
+                  {lesson.lessonNo}. {lesson.title}
+                </button>
+              ))}
             </div>
           </div>
 
@@ -792,49 +541,24 @@ function ReaderPageInner() {
                   Interactive textbook
                 </p>
 
-                <h1 className="text-2xl font-black">
-                  English For Today
-                </h1>
+                <h1 className="text-2xl font-black">English For Today</h1>
               </div>
             </div>
 
             <div className="flex flex-wrap items-center gap-2">
               <button
-                disabled={
-                  pageNumber <= 1
-                }
-                onClick={() =>
-                  loadPage(
-                    pageNumber -
-                      1,
-                  )
-                }
+                disabled={pageNumber <= 1}
+                onClick={() => loadPage(pageNumber - 1)}
                 className="rounded-2xl bg-white p-3 shadow-md disabled:opacity-40"
               >
-                <ChevronLeft
-                  size={18}
-                />
+                <ChevronLeft size={18} />
               </button>
 
               <input
-                value={
-                  jumpPage
-                }
-                onChange={(
-                  event,
-                ) =>
-                  setJumpPage(
-                    event.target
-                      .value,
-                  )
-                }
-                onKeyDown={(
-                  event,
-                ) => {
-                  if (
-                    event.key ===
-                    "Enter"
-                  ) {
+                value={jumpPage}
+                onChange={(event) => setJumpPage(event.target.value)}
+                onKeyDown={(event) => {
+                  if (event.key === "Enter") {
                     submitJumpPage();
                   }
                 }}
@@ -842,232 +566,123 @@ function ReaderPageInner() {
               />
 
               <button
-                onClick={
-                  submitJumpPage
-                }
+                onClick={submitJumpPage}
                 className="rounded-2xl bg-slate-950 px-4 py-3 text-xs font-black text-white"
               >
                 Go
               </button>
 
               <button
-                disabled={
-                  pageNumber >=
-                  totalPages
-                }
-                onClick={() =>
-                  loadPage(
-                    pageNumber +
-                      1,
-                  )
-                }
+                disabled={pageNumber >= totalPages}
+                onClick={() => loadPage(pageNumber + 1)}
                 className="rounded-2xl bg-white p-3 shadow-md disabled:opacity-40"
               >
-                <ChevronRight
-                  size={18}
-                />
+                <ChevronRight size={18} />
               </button>
             </div>
           </div>
 
           <div className="mt-4 flex flex-wrap items-center justify-between gap-3 rounded-3xl bg-white/70 p-3 shadow-inner">
             <button
-              onClick={() =>
-                setShowOverlay(
-                  (
-                    current,
-                  ) =>
-                    !current,
-                )
-              }
+              onClick={() => setShowOverlay((current) => !current)}
               className="flex items-center gap-2 rounded-2xl bg-blue-50 px-4 py-3 text-xs font-black text-blue-700"
             >
-              {showOverlay ? (
-                <EyeOff
-                  size={17}
-                />
-              ) : (
-                <Eye
-                  size={17}
-                />
-              )}
+              {showOverlay ? <EyeOff size={17} /> : <Eye size={17} />}
 
-              {showOverlay
-                ? "Hide OCR boxes"
-                : "Show OCR boxes"}
+              {showOverlay ? "Hide OCR boxes" : "Show OCR boxes"}
             </button>
 
             <div className="flex items-center gap-2">
               <button
                 onClick={() =>
-                  setZoom(
-                    (
-                      current,
-                    ) =>
-                      Math.max(
-                        0.7,
-                        current -
-                          0.1,
-                      ),
-                  )
+                  setZoom((current) => Math.max(0.7, current - 0.1))
                 }
                 className="rounded-2xl bg-white p-3 shadow-md"
               >
-                <Minus
-                  size={17}
-                />
+                <Minus size={17} />
               </button>
 
               <p className="min-w-20 text-center text-sm font-black">
-                {Math.round(
-                  zoom * 100,
-                )}
-                %
+                {Math.round(zoom * 100)}%
               </p>
 
               <button
-                onClick={() =>
-                  setZoom(
-                    (
-                      current,
-                    ) =>
-                      Math.min(
-                        2,
-                        current +
-                          0.1,
-                      ),
-                  )
-                }
+                onClick={() => setZoom((current) => Math.min(2, current + 0.1))}
                 className="rounded-2xl bg-white p-3 shadow-md"
               >
-                <Plus
-                  size={17}
-                />
+                <Plus size={17} />
               </button>
             </div>
           </div>
 
           {loading && (
             <div className="mt-5 flex min-h-[650px] items-center justify-center rounded-[32px] bg-slate-100">
-              <Loader2
-                className="animate-spin text-blue-600"
-                size={38}
-              />
+              <Loader2 className="animate-spin text-blue-600" size={38} />
             </div>
           )}
 
-          {!loading &&
-            error && (
-              <div className="mt-5 flex min-h-[420px] items-center justify-center rounded-[32px] bg-red-50 p-8 text-center">
-                <div>
-                  <AlertCircle
-                    className="mx-auto text-red-600"
-                    size={38}
+          {!loading && error && (
+            <div className="mt-5 flex min-h-[420px] items-center justify-center rounded-[32px] bg-red-50 p-8 text-center">
+              <div>
+                <AlertCircle className="mx-auto text-red-600" size={38} />
+
+                <p className="mt-4 font-black text-red-700">{error}</p>
+              </div>
+            </div>
+          )}
+
+          {!loading && pageData && (
+            <div className="mt-5 max-h-[900px] overflow-auto rounded-[32px] bg-slate-200 p-4">
+              <div
+                className="mx-auto"
+                style={{
+                  width: `${zoom * 100}%`,
+                  minWidth: "600px",
+                  maxWidth: `${900 * zoom}px`,
+                }}
+              >
+                <div className="relative overflow-hidden rounded-2xl bg-white shadow-2xl">
+                  <img
+                    src={pageData.image}
+                    alt={`Book page ${pageNumber}`}
+                    className="block h-auto w-full select-none"
+                    draggable={false}
                   />
 
-                  <p className="mt-4 font-black text-red-700">
-                    {error}
-                  </p>
+                  {showOverlay &&
+                    pageData.lines.map((line) => {
+                      const selected = selectedLine?.id === line.id;
+
+                      return (
+                        <button
+                          key={line.id}
+                          title={line.cleanText ?? line.text}
+                          onClick={() => selectBookLine(line)}
+                          className={`absolute rounded-sm border transition ${
+                            selected
+                              ? "border-orange-600 bg-orange-300/45"
+                              : "border-blue-500/30 bg-blue-300/10 hover:border-blue-600 hover:bg-blue-300/30"
+                          }`}
+                          style={{
+                            left: `${(line.bbox.x / pageData.width) * 100}%`,
+
+                            top: `${(line.bbox.y / pageData.height) * 100}%`,
+
+                            width: `${
+                              (line.bbox.width / pageData.width) * 100
+                            }%`,
+
+                            height: `${
+                              (line.bbox.height / pageData.height) * 100
+                            }%`,
+                          }}
+                        />
+                      );
+                    })}
                 </div>
               </div>
-            )}
-
-          {!loading &&
-            pageData && (
-              <div className="mt-5 max-h-[900px] overflow-auto rounded-[32px] bg-slate-200 p-4">
-                <div
-                  className="mx-auto"
-                  style={{
-                    width: `${zoom * 100}%`,
-                    minWidth:
-                      "600px",
-                    maxWidth: `${
-                      900 *
-                      zoom
-                    }px`,
-                  }}
-                >
-                  <div className="relative overflow-hidden rounded-2xl bg-white shadow-2xl">
-                    <img
-                      src={
-                        pageData.image
-                      }
-                      alt={`Book page ${pageNumber}`}
-                      className="block h-auto w-full select-none"
-                      draggable={
-                        false
-                      }
-                    />
-
-                    {showOverlay &&
-                      pageData.lines.map(
-                        (
-                          line,
-                        ) => {
-                          const selected =
-                            selectedLine?.id ===
-                            line.id;
-
-                          return (
-                            <button
-                              key={
-                                line.id
-                              }
-                              title={
-                                line.cleanText ??
-                                line.text
-                              }
-                              onClick={() =>
-                                selectBookLine(
-                                  line,
-                                )
-                              }
-                              className={`absolute rounded-sm border transition ${
-                                selected
-                                  ? "border-orange-600 bg-orange-300/45"
-                                  : "border-blue-500/30 bg-blue-300/10 hover:border-blue-600 hover:bg-blue-300/30"
-                              }`}
-                              style={{
-                                left: `${
-                                  (line
-                                    .bbox
-                                    .x /
-                                    pageData.width) *
-                                  100
-                                }%`,
-
-                                top: `${
-                                  (line
-                                    .bbox
-                                    .y /
-                                    pageData.height) *
-                                  100
-                                }%`,
-
-                                width: `${
-                                  (line
-                                    .bbox
-                                    .width /
-                                    pageData.width) *
-                                  100
-                                }%`,
-
-                                height: `${
-                                  (line
-                                    .bbox
-                                    .height /
-                                    pageData.height) *
-                                  100
-                                }%`,
-                              }}
-                            />
-                          );
-                        },
-                      )}
-                  </div>
-                </div>
-              </div>
-            )}
+            </div>
+          )}
         </LiquidCard>
 
         <LiquidCard className="p-5">
@@ -1081,9 +696,7 @@ function ReaderPageInner() {
                 Selected book line
               </p>
 
-              <h2 className="text-xl font-black">
-                AI Study Tools
-              </h2>
+              <h2 className="text-xl font-black">AI Study Tools</h2>
             </div>
           </div>
 
@@ -1095,62 +708,29 @@ function ReaderPageInner() {
 
           <div className="mt-5 grid grid-cols-3 gap-2">
             <button
-              disabled={
-                !selectedLine ||
-                teacherLoading
-              }
-              onClick={() =>
-                askTeacher(
-                  "simple",
-                )
-              }
+              disabled={!selectedLine || teacherLoading}
+              onClick={() => askTeacher("simple")}
               className="rounded-2xl bg-blue-600 px-2 py-4 text-xs font-black text-white disabled:opacity-40"
             >
-              <Sparkles
-                className="mx-auto mb-1"
-                size={17}
-              />
-
+              <Sparkles className="mx-auto mb-1" size={17} />
               Explain
             </button>
 
             <button
-              disabled={
-                !selectedLine ||
-                teacherLoading
-              }
-              onClick={() =>
-                askTeacher(
-                  "bangla",
-                )
-              }
+              disabled={!selectedLine || teacherLoading}
+              onClick={() => askTeacher("bangla")}
               className="rounded-2xl bg-emerald-600 px-2 py-4 text-xs font-black text-white disabled:opacity-40"
             >
-              <Languages
-                className="mx-auto mb-1"
-                size={17}
-              />
-
+              <Languages className="mx-auto mb-1" size={17} />
               Bangla
             </button>
 
             <button
-              disabled={
-                !selectedLine ||
-                teacherLoading
-              }
-              onClick={() =>
-                askTeacher(
-                  "grammar",
-                )
-              }
+              disabled={!selectedLine || teacherLoading}
+              onClick={() => askTeacher("grammar")}
               className="rounded-2xl bg-purple-700 px-2 py-4 text-xs font-black text-white disabled:opacity-40"
             >
-              <Brain
-                className="mx-auto mb-1"
-                size={17}
-              />
-
+              <Brain className="mx-auto mb-1" size={17} />
               Grammar
             </button>
           </div>
@@ -1164,38 +744,29 @@ function ReaderPageInner() {
           <div className="mt-5 min-h-48 whitespace-pre-wrap rounded-3xl bg-slate-50 p-5 text-sm font-semibold leading-7 shadow-inner">
             {teacherLoading ? (
               <div className="flex items-center gap-2">
-                <Loader2
-                  className="animate-spin"
-                  size={18}
-                />
-
-                AI Teacher is
-                working...
+                <Loader2 className="animate-spin" size={18} />
+                AI Teacher is working...
               </div>
             ) : (
-              teacherResponse ||
-              "The formatted AI answer will appear here."
+              teacherResponse || "The formatted AI answer will appear here."
             )}
           </div>
 
           {teacherRetrieval && (
             <details className="mt-3 rounded-2xl border border-emerald-200 bg-emerald-50 p-4 text-xs text-emerald-900">
               <summary className="cursor-pointer font-black">
-                ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ Grounded from{" "}
-                {teacherRetrieval.method ===
-                "live-ocr-page"
+                {"\u2022 Grounded from"}{" "}
+                {teacherRetrieval.method === "live-ocr-page"
                   ? `Page ${teacherRetrieval.pageNumber} (live OCR)`
                   : "legacy mock lesson data"}{" "}
-                ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â{" "}
+                {"\u2022"}{" "}
                 {teacherRetrieval.retrieved
                   ? "context retrieved"
                   : "no context found"}
               </summary>
 
               <p className="mt-2 whitespace-pre-wrap font-normal leading-5">
-                {
-                  teacherRetrieval.contextUsed
-                }
+                {teacherRetrieval.contextUsed}
               </p>
             </details>
           )}
@@ -1243,59 +814,39 @@ function ReaderPageInner() {
               }}
               className="flex items-center justify-center gap-2 rounded-2xl bg-emerald-600 px-4 py-3 text-sm font-black text-white"
             >
-              <Brain
-                size={17}
-              />
-              Quiz from Selected
-              Line
+              <Brain size={17} />
+              Quiz from Selected Line
             </button>
 
             <Link
               href="/games"
               onClick={() => {
-                if (
-                  selectedLine
-                ) {
+                if (selectedLine) {
                   localStorage.setItem(
                     "selectedLine",
-                    selectedLine.cleanText ??
-                      selectedLine.text,
+                    selectedLine.cleanText ?? selectedLine.text,
                   );
 
                   localStorage.setItem(
                     "selectedBookPdfPage",
-                    String(
-                      pageNumber,
-                    ),
+                    String(pageNumber),
                   );
 
-                  localStorage.setItem(
-                    "selectedLineId",
-                    selectedLine.id,
-                  );
+                  localStorage.setItem("selectedLineId", selectedLine.id);
                 }
               }}
               className="flex items-center justify-center gap-2 rounded-2xl bg-purple-700 px-4 py-3 text-sm font-black text-white"
             >
-              <Gamepad2
-                size={17}
-              />
-
-              Game from Selected
-              Line
+              <Gamepad2 size={17} />
+              Game from Selected Line
             </Link>
 
             <button
-              disabled={
-                !selectedLine
-              }
-              onClick={
-                openVoicePractice
-              }
+              disabled={!selectedLine}
+              onClick={openVoicePractice}
               className="flex w-full items-center justify-center gap-2 rounded-2xl bg-blue-600 px-4 py-3 text-sm font-black text-white shadow-lg transition hover:scale-[1.02] disabled:cursor-not-allowed disabled:opacity-40"
             >
-              [MIC] Voice Practice from
-              Selected Line
+              [MIC] Voice Practice from Selected Line
             </button>
           </div>
         </LiquidCard>

@@ -1,4 +1,4 @@
-﻿import { NextResponse } from "next/server";
+import { NextResponse } from "next/server";
 import { PrismaClient } from "@prisma/client";
 import { readdir, readFile } from "fs/promises";
 import path from "path";
@@ -44,7 +44,7 @@ type OCRInputLine = {
 function cleanOCRText(value: unknown): string {
   return String(value ?? "")
     .replace(/\*\*/g, "")
-    .replace(/^[•●▪◦]\s*/g, "")
+    .replace(/^[\u2022●▪◦]\s*/g, "")
     .replace(/^\s*\d+[\.\)]\s*$/g, "")
     .replace(/^\s*[A-Da-d][\.\)]\s*$/g, "")
     .replace(/\s+/g, " ")
