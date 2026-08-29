@@ -1,6 +1,7 @@
 ﻿"use client";
 
 import {
+  Suspense,
   useEffect,
   useMemo,
   useState,
@@ -10,6 +11,7 @@ import Link from "next/link";
 
 import {
   useRouter,
+  useSearchParams,
 } from "next/navigation";
 
 import {
@@ -105,14 +107,28 @@ function formatAIOutput(
     .replace(/\*\*/g, "")
     .replace(/__/g, "")
     .replace(/^#{1,6}\s*/gm, "")
-    .replace(/^\s*[-*]\s+/gm, "ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ")
+    .replace(/^\s*[-*]\s+/gm, "ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ ")
     .replace(/\n{3,}/g, "\n\n")
     .trim();
 }
 
-export default function ReaderPage() {
+function ReaderPageInner() {
   const router =
     useRouter();
+
+  const searchParams =
+    useSearchParams();
+
+  const bookId =
+    searchParams.get("book") ||
+    (typeof window !== "undefined"
+      ? localStorage.getItem("selectedBookId")
+      : null) ||
+    "class6-english";
+
+  const classLevel = Number(
+    bookId.match(/class(\d+)/i)?.[1] ?? 6,
+  );
 
   const [studentName, setStudentName] =
     useState("Student");
@@ -186,7 +202,7 @@ export default function ReaderPage() {
   async function loadIndex() {
     const response =
       await fetch(
-        "/api/books/class6/index",
+        `/api/books/${bookId}/index`,
         {
           cache: "no-store",
         },
@@ -230,7 +246,7 @@ export default function ReaderPage() {
     try {
       const response =
         await fetch(
-          `/api/books/class6/pages/${safePage}`,
+          `/api/books/${bookId}/pages/${safePage}`,
           {
             cache: "no-store",
           },
@@ -718,7 +734,7 @@ export default function ReaderPage() {
                     book: {
                       id: pageData.bookId,
                       title: indexData?.title ?? pageData.bookId,
-                      classLevel: 6,
+                      classLevel,
                     },
                     lesson: {
                       number: lesson?.lessonNo ?? null,
@@ -1165,12 +1181,12 @@ export default function ReaderPage() {
           {teacherRetrieval && (
             <details className="mt-3 rounded-2xl border border-emerald-200 bg-emerald-50 p-4 text-xs text-emerald-900">
               <summary className="cursor-pointer font-black">
-                ÃƒÂ°Ã…Â¸Ã¢â‚¬Å“Ã¢â‚¬â€œ Grounded from{" "}
+                ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ Grounded from{" "}
                 {teacherRetrieval.method ===
                 "live-ocr-page"
                   ? `Page ${teacherRetrieval.pageNumber} (live OCR)`
                   : "legacy mock lesson data"}{" "}
-                ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â{" "}
+                ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â{" "}
                 {teacherRetrieval.retrieved
                   ? "context retrieved"
                   : "no context found"}
@@ -1196,7 +1212,7 @@ export default function ReaderPage() {
                     book: {
                       id: pageData.bookId,
                       title: indexData?.title ?? pageData.bookId,
-                      classLevel: 6,
+                      classLevel,
                     },
                     lesson: {
                       number: lesson?.lessonNo ?? null,
@@ -1278,12 +1294,20 @@ export default function ReaderPage() {
               }
               className="flex w-full items-center justify-center gap-2 rounded-2xl bg-blue-600 px-4 py-3 text-sm font-black text-white shadow-lg transition hover:scale-[1.02] disabled:cursor-not-allowed disabled:opacity-40"
             >
-              ÃƒÂ°Ã…Â¸Ã…Â½Ã‚Â¤ Voice Practice from
+              ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¤ Voice Practice from
               Selected Line
             </button>
           </div>
         </LiquidCard>
       </div>
     </AppShell>
+  );
+}
+
+export default function ReaderPage() {
+  return (
+    <Suspense fallback={null}>
+      <ReaderPageInner />
+    </Suspense>
   );
 }
