@@ -1,0 +1,2436 @@
+{
+  "files_profiled": 284,
+  "parse_errors": [],
+  "root_shapes": {
+    "object:bookId,endPage,pages,sourcePdf,startPage,title,totalPdfPages": 3,
+    "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width": 242,
+    "array:24": 1,
+    "array:98": 1,
+    "object:lessons,metadata": 2,
+    "object:metadata,pages": 1,
+    "object:aiReadyLines,aiReadyText,cleanText,lessonNo,lessonTitle,lines,pdfPageEnd,pdfPageStart,rawText,textbookPageEnd,textbookPageStart,title": 4,
+    "object:aiReadyLines,aiReadyText,cleanText,lessonNo,lines,pages,pdfPageEnd,pdfPageStart,rawText,textbookPageEnd,textbookPageStart,title": 30
+  },
+  "most_common_keys": [
+    [
+      "text",
+      22206
+    ],
+    [
+      "id",
+      22108
+    ],
+    [
+      "source",
+      11319
+    ],
+    [
+      "width",
+      11199
+    ],
+    [
+      "height",
+      11199
+    ],
+    [
+      "x",
+      10957
+    ],
+    [
+      "y",
+      10957
+    ],
+    [
+      "linenumber",
+      10935
+    ],
+    [
+      "confidence",
+      10933
+    ],
+    [
+      "bbox",
+      10859
+    ],
+    [
+      "cleantext",
+      6078
+    ],
+    [
+      "aiready",
+      5796
+    ],
+    [
+      "aireadylines",
+      630
+    ],
+    [
+      "rawtext",
+      600
+    ],
+    [
+      "pagenumber",
+      484
+    ],
+    [
+      "image",
+      484
+    ],
+    [
+      "aireadytext",
+      336
+    ],
+    [
+      "lines",
+      306
+    ],
+    [
+      "pdfpage",
+      294
+    ],
+    [
+      "textbookpage",
+      294
+    ],
+    [
+      "rawlines",
+      294
+    ],
+    [
+      "cleanlines",
+      294
+    ],
+    [
+      "bookid",
+      245
+    ],
+    [
+      "json",
+      242
+    ],
+    [
+      "linecount",
+      242
+    ],
+    [
+      "aireadylinecount",
+      242
+    ],
+    [
+      "title",
+      97
+    ],
+    [
+      "pdfpagestart",
+      97
+    ],
+    [
+      "pdfpageend",
+      97
+    ],
+    [
+      "textbookpagestart",
+      97
+    ],
+    [
+      "textbookpageend",
+      97
+    ],
+    [
+      "lessonno",
+      94
+    ],
+    [
+      "paragraphno",
+      76
+    ],
+    [
+      "pages",
+      64
+    ],
+    [
+      "sourcepdf",
+      6
+    ],
+    [
+      "totalpdfpages",
+      6
+    ],
+    [
+      "lessontitle",
+      4
+    ],
+    [
+      "startpage",
+      3
+    ],
+    [
+      "endpage",
+      3
+    ],
+    [
+      "metadata",
+      3
+    ],
+    [
+      "booktitle",
+      3
+    ],
+    [
+      "class",
+      3
+    ],
+    [
+      "ocrstart",
+      3
+    ],
+    [
+      "ocrend",
+      3
+    ],
+    [
+      "note",
+      3
+    ],
+    [
+      "lessons",
+      2
+    ]
+  ],
+  "most_common_paths": [
+    [
+      "$.lines[].text",
+      8158
+    ],
+    [
+      "$.lines[].id",
+      8158
+    ],
+    [
+      "$.aiReadyLines[].id",
+      7298
+    ],
+    [
+      "$.aiReadyLines[].text",
+      7298
+    ],
+    [
+      "$.lines[].lineNumber",
+      5848
+    ],
+    [
+      "$.lines[].cleanText",
+      5772
+    ],
+    [
+      "$.lines[].bbox",
+      5772
+    ],
+    [
+      "$.lines[].bbox.x",
+      5772
+    ],
+    [
+      "$.lines[].bbox.y",
+      5772
+    ],
+    [
+      "$.lines[].bbox.width",
+      5772
+    ],
+    [
+      "$.lines[].bbox.height",
+      5772
+    ],
+    [
+      "$.lines[].confidence",
+      5772
+    ],
+    [
+      "$.lines[].source",
+      5772
+    ],
+    [
+      "$.lines[].aiReady",
+      5772
+    ],
+    [
+      "$.aiReadyLines[].lineNumber",
+      5063
+    ],
+    [
+      "$.aiReadyLines[].bbox",
+      5063
+    ],
+    [
+      "$.aiReadyLines[].bbox.x",
+      5063
+    ],
+    [
+      "$.aiReadyLines[].bbox.y",
+      5063
+    ],
+    [
+      "$.aiReadyLines[].bbox.width",
+      5063
+    ],
+    [
+      "$.aiReadyLines[].bbox.height",
+      5063
+    ],
+    [
+      "$.aiReadyLines[].confidence",
+      5063
+    ],
+    [
+      "$.aiReadyLines[].source",
+      5063
+    ],
+    [
+      "$.lessons[].aiReadyLines[].id",
+      4318
+    ],
+    [
+      "$.lessons[].aiReadyLines[].text",
+      4318
+    ],
+    [
+      "$.lessons[].lines[].id",
+      2310
+    ],
+    [
+      "$.lessons[].lines[].text",
+      2310
+    ],
+    [
+      "$.lines",
+      276
+    ],
+    [
+      "$.aiReadyLines",
+      276
+    ],
+    [
+      "$.rawText",
+      276
+    ],
+    [
+      "$.cleanText",
+      276
+    ],
+    [
+      "$.aiReadyText",
+      276
+    ],
+    [
+      "$.bookId",
+      245
+    ],
+    [
+      "$.pages[].pageNumber",
+      242
+    ],
+    [
+      "$.pages[].json",
+      242
+    ],
+    [
+      "$.pages[].image",
+      242
+    ],
+    [
+      "$.pages[].lineCount",
+      242
+    ],
+    [
+      "$.pages[].aiReadyLineCount",
+      242
+    ],
+    [
+      "$.pages[].source",
+      242
+    ],
+    [
+      "$.pageNumber",
+      242
+    ],
+    [
+      "$.image",
+      242
+    ],
+    [
+      "$.width",
+      242
+    ],
+    [
+      "$.height",
+      242
+    ],
+    [
+      "$.source",
+      242
+    ],
+    [
+      "$.pages[].pdfPage",
+      196
+    ],
+    [
+      "$.pages[].textbookPage",
+      196
+    ],
+    [
+      "$.pages[].rawText",
+      196
+    ],
+    [
+      "$.pages[].rawLines",
+      196
+    ],
+    [
+      "$.pages[].cleanLines",
+      196
+    ],
+    [
+      "$.pages[].aiReadyLines",
+      196
+    ],
+    [
+      "$[].text",
+      122
+    ],
+    [
+      "$[].x",
+      98
+    ],
+    [
+      "$[].y",
+      98
+    ],
+    [
+      "$[].width",
+      98
+    ],
+    [
+      "$[].height",
+      98
+    ],
+    [
+      "$[].confidence",
+      98
+    ],
+    [
+      "$.lessons[].pages[].pdfPage",
+      98
+    ],
+    [
+      "$.lessons[].pages[].textbookPage",
+      98
+    ],
+    [
+      "$.lessons[].pages[].rawText",
+      98
+    ],
+    [
+      "$.lessons[].pages[].rawLines",
+      98
+    ],
+    [
+      "$.lessons[].pages[].cleanLines",
+      98
+    ],
+    [
+      "$.lessons[].pages[].aiReadyLines",
+      98
+    ],
+    [
+      "$.lines[].paragraphNo",
+      76
+    ],
+    [
+      "$.lessons[].lessonNo",
+      60
+    ],
+    [
+      "$.lessons[].title",
+      60
+    ],
+    [
+      "$.lessons[].textbookPageStart",
+      60
+    ],
+    [
+      "$.lessons[].textbookPageEnd",
+      60
+    ],
+    [
+      "$.lessons[].pdfPageStart",
+      60
+    ],
+    [
+      "$.lessons[].pdfPageEnd",
+      60
+    ],
+    [
+      "$.lessons[].aiReadyLines",
+      60
+    ],
+    [
+      "$.lessons[].aiReadyText",
+      60
+    ],
+    [
+      "$.title",
+      37
+    ],
+    [
+      "$.pages",
+      34
+    ],
+    [
+      "$.lessonNo",
+      34
+    ],
+    [
+      "$.textbookPageStart",
+      34
+    ],
+    [
+      "$.textbookPageEnd",
+      34
+    ],
+    [
+      "$.pdfPageStart",
+      34
+    ],
+    [
+      "$.pdfPageEnd",
+      34
+    ],
+    [
+      "$.lessons[].pages",
+      30
+    ],
+    [
+      "$.lessons[].lines",
+      30
+    ],
+    [
+      "$.lessons[].rawText",
+      30
+    ],
+    [
+      "$.lessons[].cleanText",
+      30
+    ],
+    [
+      "$[].id",
+      24
+    ],
+    [
+      "$[].lineNumber",
+      24
+    ],
+    [
+      "$[].bbox",
+      24
+    ],
+    [
+      "$[].bbox.x",
+      24
+    ],
+    [
+      "$[].bbox.y",
+      24
+    ],
+    [
+      "$[].bbox.width",
+      24
+    ],
+    [
+      "$[].bbox.height",
+      24
+    ],
+    [
+      "$[].aiReady",
+      24
+    ],
+    [
+      "$.lessonTitle",
+      4
+    ],
+    [
+      "$.sourcePdf",
+      3
+    ],
+    [
+      "$.totalPdfPages",
+      3
+    ],
+    [
+      "$.startPage",
+      3
+    ],
+    [
+      "$.endPage",
+      3
+    ],
+    [
+      "$.metadata",
+      3
+    ],
+    [
+      "$.metadata.bookTitle",
+      3
+    ],
+    [
+      "$.metadata.class",
+      3
+    ],
+    [
+      "$.metadata.sourcePdf",
+      3
+    ],
+    [
+      "$.metadata.totalPdfPages",
+      3
+    ],
+    [
+      "$.metadata.ocrStart",
+      3
+    ]
+  ],
+  "array_profile": [
+    {
+      "path": "$.lines",
+      "occurrences": 276,
+      "minimum_items": 0,
+      "maximum_items": 278,
+      "average_items": 29.56
+    },
+    {
+      "path": "$.aiReadyLines",
+      "occurrences": 276,
+      "minimum_items": 0,
+      "maximum_items": 257,
+      "average_items": 26.44
+    },
+    {
+      "path": "$.pages[].rawLines",
+      "occurrences": 196,
+      "minimum_items": 0,
+      "maximum_items": 47,
+      "average_items": 26.82
+    },
+    {
+      "path": "$.pages[].cleanLines",
+      "occurrences": 196,
+      "minimum_items": 0,
+      "maximum_items": 44,
+      "average_items": 23.76
+    },
+    {
+      "path": "$.pages[].aiReadyLines",
+      "occurrences": 196,
+      "minimum_items": 0,
+      "maximum_items": 38,
+      "average_items": 22.22
+    },
+    {
+      "path": "$.lessons[].pages[].rawLines",
+      "occurrences": 98,
+      "minimum_items": 0,
+      "maximum_items": 47,
+      "average_items": 26.82
+    },
+    {
+      "path": "$.lessons[].pages[].cleanLines",
+      "occurrences": 98,
+      "minimum_items": 0,
+      "maximum_items": 44,
+      "average_items": 23.57
+    },
+    {
+      "path": "$.lessons[].pages[].aiReadyLines",
+      "occurrences": 98,
+      "minimum_items": 0,
+      "maximum_items": 38,
+      "average_items": 22.03
+    },
+    {
+      "path": "$.lessons[].aiReadyLines",
+      "occurrences": 60,
+      "minimum_items": 20,
+      "maximum_items": 257,
+      "average_items": 71.97
+    },
+    {
+      "path": "$.pages",
+      "occurrences": 34,
+      "minimum_items": 1,
+      "maximum_items": 122,
+      "average_items": 12.88
+    },
+    {
+      "path": "$.lessons[].pages",
+      "occurrences": 30,
+      "minimum_items": 1,
+      "maximum_items": 10,
+      "average_items": 3.27
+    },
+    {
+      "path": "$.lessons[].lines",
+      "occurrences": 30,
+      "minimum_items": 20,
+      "maximum_items": 278,
+      "average_items": 77
+    },
+    {
+      "path": "$",
+      "occurrences": 2,
+      "minimum_items": 24,
+      "maximum_items": 98,
+      "average_items": 61
+    },
+    {
+      "path": "$.lessons",
+      "occurrences": 2,
+      "minimum_items": 30,
+      "maximum_items": 30,
+      "average_items": 30
+    }
+  ],
+  "text_field_profile": [
+    {
+      "path": "$.lines[].text",
+      "count": 8158,
+      "minimum_length": 3,
+      "maximum_length": 184,
+      "average_length": 42.78
+    },
+    {
+      "path": "$.lines[].id",
+      "count": 8158,
+      "minimum_length": 17,
+      "maximum_length": 22,
+      "average_length": 17.38
+    },
+    {
+      "path": "$.aiReadyLines[].text",
+      "count": 7298,
+      "minimum_length": 8,
+      "maximum_length": 184,
+      "average_length": 45.43
+    },
+    {
+      "path": "$.aiReadyLines[].id",
+      "count": 7298,
+      "minimum_length": 15,
+      "maximum_length": 21,
+      "average_length": 16.83
+    },
+    {
+      "path": "$.lines[].cleanText",
+      "count": 5772,
+      "minimum_length": 2,
+      "maximum_length": 92,
+      "average_length": 42.66
+    },
+    {
+      "path": "$.lines[].source",
+      "count": 5772,
+      "minimum_length": 8,
+      "maximum_length": 9,
+      "average_length": 9.0
+    },
+    {
+      "path": "$.aiReadyLines[].source",
+      "count": 5063,
+      "minimum_length": 8,
+      "maximum_length": 9,
+      "average_length": 9.0
+    },
+    {
+      "path": "$.lessons[].aiReadyLines[].text",
+      "count": 4318,
+      "minimum_length": 8,
+      "maximum_length": 90,
+      "average_length": 44.03
+    },
+    {
+      "path": "$.lessons[].aiReadyLines[].id",
+      "count": 4318,
+      "minimum_length": 15,
+      "maximum_length": 20,
+      "average_length": 16.29
+    },
+    {
+      "path": "$.lessons[].lines[].text",
+      "count": 2310,
+      "minimum_length": 3,
+      "maximum_length": 90,
+      "average_length": 41.63
+    },
+    {
+      "path": "$.lessons[].lines[].id",
+      "count": 2310,
+      "minimum_length": 17,
+      "maximum_length": 22,
+      "average_length": 18.29
+    },
+    {
+      "path": "$.rawText",
+      "count": 274,
+      "minimum_length": 54,
+      "maximum_length": 14500,
+      "average_length": 1314.91
+    },
+    {
+      "path": "$.cleanText",
+      "count": 274,
+      "minimum_length": 54,
+      "maximum_length": 13950,
+      "average_length": 1293.9
+    },
+    {
+      "path": "$.aiReadyText",
+      "count": 274,
+      "minimum_length": 54,
+      "maximum_length": 13755,
+      "average_length": 1235.56
+    },
+    {
+      "path": "$.bookId",
+      "count": 245,
+      "minimum_length": 14,
+      "maximum_length": 14,
+      "average_length": 14
+    },
+    {
+      "path": "$.pages[].image",
+      "count": 242,
+      "minimum_length": 50,
+      "maximum_length": 50,
+      "average_length": 50
+    },
+    {
+      "path": "$.image",
+      "count": 242,
+      "minimum_length": 50,
+      "maximum_length": 50,
+      "average_length": 50
+    },
+    {
+      "path": "$.pages[].json",
+      "count": 242,
+      "minimum_length": 45,
+      "maximum_length": 45,
+      "average_length": 45
+    },
+    {
+      "path": "$.pages[].source",
+      "count": 242,
+      "minimum_length": 8,
+      "maximum_length": 9,
+      "average_length": 9.0
+    },
+    {
+      "path": "$.source",
+      "count": 242,
+      "minimum_length": 8,
+      "maximum_length": 9,
+      "average_length": 9.0
+    },
+    {
+      "path": "$.pages[].rawText",
+      "count": 194,
+      "minimum_length": 202,
+      "maximum_length": 2523,
+      "average_length": 1048.97
+    },
+    {
+      "path": "$[].text",
+      "count": 122,
+      "minimum_length": 1,
+      "maximum_length": 78,
+      "average_length": 6.98
+    },
+    {
+      "path": "$.lessons[].pages[].rawText",
+      "count": 97,
+      "minimum_length": 202,
+      "maximum_length": 2523,
+      "average_length": 1048.97
+    },
+    {
+      "path": "$.lessons[].aiReadyText",
+      "count": 60,
+      "minimum_length": 668,
+      "maximum_length": 13755,
+      "average_length": 3239.83
+    },
+    {
+      "path": "$.lessons[].title",
+      "count": 60,
+      "minimum_length": 5,
+      "maximum_length": 41,
+      "average_length": 19.57
+    },
+    {
+      "path": "$.title",
+      "count": 37,
+      "minimum_length": 5,
+      "maximum_length": 41,
+      "average_length": 20.57
+    },
+    {
+      "path": "$.lessons[].rawText",
+      "count": 30,
+      "minimum_length": 677,
+      "maximum_length": 14500,
+      "average_length": 3393.9
+    },
+    {
+      "path": "$.lessons[].cleanText",
+      "count": 30,
+      "minimum_length": 668,
+      "maximum_length": 13950,
+      "average_length": 3281.6
+    },
+    {
+      "path": "$[].id",
+      "count": 24,
+      "minimum_length": 6,
+      "maximum_length": 7,
+      "average_length": 6.62
+    },
+    {
+      "path": "$.lessonTitle",
+      "count": 4,
+      "minimum_length": 19,
+      "maximum_length": 27,
+      "average_length": 21.75
+    },
+    {
+      "path": "$.metadata.note",
+      "count": 3,
+      "minimum_length": 86,
+      "maximum_length": 86,
+      "average_length": 86
+    },
+    {
+      "path": "$.metadata.sourcePdf",
+      "count": 3,
+      "minimum_length": 40,
+      "maximum_length": 40,
+      "average_length": 40
+    },
+    {
+      "path": "$.sourcePdf",
+      "count": 3,
+      "minimum_length": 35,
+      "maximum_length": 35,
+      "average_length": 35
+    },
+    {
+      "path": "$.metadata.bookTitle",
+      "count": 3,
+      "minimum_length": 17,
+      "maximum_length": 17,
+      "average_length": 17
+    },
+    {
+      "path": "$.metadata.ocrEnd",
+      "count": 3,
+      "minimum_length": 11,
+      "maximum_length": 11,
+      "average_length": 11
+    },
+    {
+      "path": "$.metadata.ocrStart",
+      "count": 3,
+      "minimum_length": 8,
+      "maximum_length": 8,
+      "average_length": 8
+    },
+    {
+      "path": "$.metadata.class",
+      "count": 3,
+      "minimum_length": 3,
+      "maximum_length": 3,
+      "average_length": 3
+    }
+  ],
+  "metadata_values": {
+    "bookid": [
+      "class6-english",
+      "class7-english",
+      "class8-english"
+    ],
+    "pagenumber": [
+      "1",
+      "10",
+      "100",
+      "101",
+      "102",
+      "103",
+      "104",
+      "105",
+      "106",
+      "107",
+      "108",
+      "109",
+      "11",
+      "110",
+      "111",
+      "112",
+      "113",
+      "114",
+      "115",
+      "116",
+      "117",
+      "118",
+      "119",
+      "12",
+      "120",
+      "121",
+      "122",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "2",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "3",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "4",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "5",
+      "50",
+      "51",
+      "52",
+      "53",
+      "54",
+      "55",
+      "56",
+      "57",
+      "58",
+      "59",
+      "6",
+      "60",
+      "61",
+      "62",
+      "63",
+      "64",
+      "65",
+      "66",
+      "67",
+      "68",
+      "69",
+      "7",
+      "70",
+      "71",
+      "72",
+      "73",
+      "74",
+      "75",
+      "76",
+      "77",
+      "78",
+      "79",
+      "8",
+      "80",
+      "81",
+      "82",
+      "83",
+      "84",
+      "85",
+      "86",
+      "87",
+      "88",
+      "89",
+      "9",
+      "90",
+      "91",
+      "92",
+      "93",
+      "94",
+      "95",
+      "96",
+      "97",
+      "98",
+      "99"
+    ],
+    "class": [
+      "Six"
+    ],
+    "lessonno": [
+      "1",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "2",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "3",
+      "30",
+      "31",
+      "32",
+      "33",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  "representative_files": [
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\index.json",
+      "root_shape": "object:bookId,endPage,pages,sourcePdf,startPage,title,totalPdfPages",
+      "estimated_records": "115",
+      "size_bytes": "29871"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-001.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "282"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-002.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "2880"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "10252"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "42379"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-005.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "27135"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-006.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "13091"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-007.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "15946"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-008.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "18360"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-009.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "18149"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-010.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "21702"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-011.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "26786"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-012.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "20807"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-013.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "5877"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-014.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "20635"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-015.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "25671"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-016.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "23770"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-017.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "15208"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-018.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "7754"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-019.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "23227"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-020.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "20795"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-021.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "14578"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-022.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "20030"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-023.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "21842"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-024.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "14776"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-025.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "10297"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-026.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "18959"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-027.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "10436"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-028.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "20241"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-029.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "11740"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-030.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "14210"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-031.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "15322"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-032.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "11518"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-033.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "13449"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-034.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "17670"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-035.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "17404"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-036.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "18261"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-037.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "17132"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-038.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "9070"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-039.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "25414"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-040.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "24243"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-041.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "23643"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-042.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "7411"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-043.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "19351"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-044.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "21223"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-045.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "24946"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-046.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "21015"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-047.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "22272"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-048.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "22672"
+    },
+    {
+      "relative_path": "public\\ocr\\books\\class6-english\\pages\\page-049.json",
+      "root_shape": "object:aiReadyLines,aiReadyText,bookId,cleanText,height,image,lines,pageNumber,rawText,source,width",
+      "estimated_records": "1",
+      "size_bytes": "17510"
+    }
+  ],
+  "text_samples": [
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.title",
+      "text": "English For Today — Class Six"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-001.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-002.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-003.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-004.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-005.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-006.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-007.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-008.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-009.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-010.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-011.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-012.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-013.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-014.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-015.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-016.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-017.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-018.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-019.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-020.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-021.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-022.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-023.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-024.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-025.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-026.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-027.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-028.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-029.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-030.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-031.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-032.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-033.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-034.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-035.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-036.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-037.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-038.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-039.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-040.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-041.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-042.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-043.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-044.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-045.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-046.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-047.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-048.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-049.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-050.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-051.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-052.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-053.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-054.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-055.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-056.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-057.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-058.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-059.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-060.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-061.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-062.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-063.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-064.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-065.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-066.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-067.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-068.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-069.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-070.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-071.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-072.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-073.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-074.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-075.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-076.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-077.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-078.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-079.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-080.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-081.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-082.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-083.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-084.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-085.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-086.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-087.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-088.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-089.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-090.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-091.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-092.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-093.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-094.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-095.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-096.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-097.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-098.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-099.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-100.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-101.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-102.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-103.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-104.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-105.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-106.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-107.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-108.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-109.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-110.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-111.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-112.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-113.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-114.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\index.json",
+      "field_path": "$.pages[].image",
+      "text": "/ocr/books/class6-english/page-images/page-115.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-001.json",
+      "field_path": "$.image",
+      "text": "/ocr/books/class6-english/page-images/page-001.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-002.json",
+      "field_path": "$.image",
+      "text": "/ocr/books/class6-english/page-images/page-002.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-002.json",
+      "field_path": "$.lines[].text",
+      "text": "Prescribed by the National Curriculum and Textbook Board, Bangladesh"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-002.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "Prescribed by the National Curriculum and Textbook Board, Bangladesh"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-002.json",
+      "field_path": "$.lines[].text",
+      "text": "as a textbook for Class Six from the academic year 2023"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-002.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "as a textbook for Class Six from the academic year 2023"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-002.json",
+      "field_path": "$.lines[].text",
+      "text": "Revised for the year 2026"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-002.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "Revised for the year 2026"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-002.json",
+      "field_path": "$.aiReadyLines[].text",
+      "text": "Prescribed by the National Curriculum and Textbook Board, Bangladesh"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-002.json",
+      "field_path": "$.aiReadyLines[].text",
+      "text": "as a textbook for Class Six from the academic year 2023"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-002.json",
+      "field_path": "$.aiReadyLines[].text",
+      "text": "Revised for the year 2026"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-002.json",
+      "field_path": "$.rawText",
+      "text": "Prescribed by the National Curriculum and Textbook Board, Bangladesh as a textbook for Class Six from the academic year 2023 Revised for the year 2026"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-002.json",
+      "field_path": "$.cleanText",
+      "text": "Prescribed by the National Curriculum and Textbook Board, Bangladesh as a textbook for Class Six from the academic year 2023 Revised for the year 2026"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-002.json",
+      "field_path": "$.aiReadyText",
+      "text": "Prescribed by the National Curriculum and Textbook Board, Bangladesh as a textbook for Class Six from the academic year 2023 Revised for the year 2026"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.image",
+      "text": "/ocr/books/class6-english/page-images/page-003.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.lines[].text",
+      "text": "69-70, Motijheel Commercial Area, Dhaka"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "69-70, Motijheel Commercial Area, Dhaka"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.lines[].text",
+      "text": "[All rights reserved by the Publisher]"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "[All rights reserved by the Publisher]"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.lines[].text",
+      "text": "First edition written and edited by"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "First edition written and edited by"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.lines[].text",
+      "text": "First Publication : September 2012"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "First Publication : September 2012"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.lines[].text",
+      "text": "Revised Edition : September 2014"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "Revised Edition : September 2014"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.lines[].text",
+      "text": "Revised Edition : November 2020"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "Revised Edition : November 2020"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.lines[].text",
+      "text": "Revised Edition : October 2025"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "Revised Edition : October 2025"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.lines[].text",
+      "text": "For Free Distribution by the Government of the People’s Republic of Bangladesh"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "For Free Distribution by the Government of the People’s Republic of Bangladesh"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.aiReadyLines[].text",
+      "text": "69-70, Motijheel Commercial Area, Dhaka"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.aiReadyLines[].text",
+      "text": "[All rights reserved by the Publisher]"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.aiReadyLines[].text",
+      "text": "First edition written and edited by"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.aiReadyLines[].text",
+      "text": "First Publication : September 2012"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.aiReadyLines[].text",
+      "text": "Revised Edition : September 2014"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.aiReadyLines[].text",
+      "text": "Revised Edition : November 2020"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.aiReadyLines[].text",
+      "text": "Revised Edition : October 2025"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.aiReadyLines[].text",
+      "text": "For Free Distribution by the Government of the People’s Republic of Bangladesh"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.rawText",
+      "text": "Published by 69-70, Motijheel Commercial Area, Dhaka [All rights reserved by the Publisher] First edition written and edited by AMM Hamidur Rahman Shaheen Kabir Md. Zulfeqar Haider Goutam Roy Surajit Roy Majumder First Publication : September 2012 Revised Edition : September 2014 Revised Edition : November 2020 Revised Edition : October 2025 For Free Distribution by the Government of the People’s Republic of Bangladesh Printed by:"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.cleanText",
+      "text": "Published by 69-70, Motijheel Commercial Area, Dhaka [All rights reserved by the Publisher] First edition written and edited by AMM Hamidur Rahman Shaheen Kabir Zulfeqar Haider Goutam Roy Surajit Roy Majumder First Publication : September 2012 Revised Edition : September 2014 Revised Edition : November 2020 Revised Edition : October 2025 For Free Distribution by the Government of the People’s Republic of Bangladesh Printed by:"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-003.json",
+      "field_path": "$.aiReadyText",
+      "text": "69-70, Motijheel Commercial Area, Dhaka [All rights reserved by the Publisher] First edition written and edited by AMM Hamidur Rahman Zulfeqar Haider Surajit Roy Majumder First Publication : September 2012 Revised Edition : September 2014 Revised Edition : November 2020 Revised Edition : October 2025 For Free Distribution by the Government of the People’s Republic of Bangladesh"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.image",
+      "text": "/ocr/books/class6-english/page-images/page-004.png"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "The importance of formal education is diversified. The prime goal of modern education"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "The importance of formal education is diversified. The prime goal of modern education"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "is not only to impart knowledge but also to build a prosperous nation by developing"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "is not only to impart knowledge but also to build a prosperous nation by developing"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "skilled human resources. At the same time, education is the best means of developing"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "skilled human resources. At the same time, education is the best means of developing"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "a society that is free from superstitions and adheres to science and facts. To stand as a"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "a society that is free from superstitions and adheres to science and facts. To stand as a"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "developed nation in the science and technology-driven world of the 21st century, we"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "developed nation in the science and technology-driven world of the 21st century, we"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "need to ensure quality education. A well-planned education is essential for enabling our"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "need to ensure quality education. A well-planned education is essential for enabling our"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "new gencration to face the challenges of the age and to motivate them with the strength"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "new gencration to face the challenges of the age and to motivate them with the strength"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "of patriotism, values, and ethics. In this context, the government is determined to"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "of patriotism, values, and ethics. In this context, the government is determined to"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "ensure education as per the demand of the age."
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "ensure education as per the demand of the age."
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "Education is the backbone of a nation and a curriculum provides the essence of formal"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "Education is the backbone of a nation and a curriculum provides the essence of formal"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "education, Again, the most important tool for implementing a curriculum is the"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "education, Again, the most important tool for implementing a curriculum is the"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "textbook. The National Curriculum 2012 has been adopted to achieve the goals of the"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "textbook. The National Curriculum 2012 has been adopted to achieve the goals of the"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "National Education Policy 2010. In light of this, the National Curriculum and Textbook"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "National Education Policy 2010. In light of this, the National Curriculum and Textbook"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "Board (NCTB) has been persistently working on developing, printing, and distributing"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "Board (NCTB) has been persistently working on developing, printing, and distributing"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "quality textbooks. This organisation also works to review and revise the curriculum,"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "quality textbooks. This organisation also works to review and revise the curriculum,"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "textbooks, and assessment methods according to needs and realities."
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "textbooks, and assessment methods according to needs and realities."
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "Secondary education is a vital stage in our education system. This textbook is catered"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "Secondary education is a vital stage in our education system. This textbook is catered"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "to the age, aptitude, and endless inquisitiveness of the students at this level, as well as"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "to the age, aptitude, and endless inquisitiveness of the students at this level, as well as"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "to achieve the aims and objectives of the curriculum. It is believed that the book written"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "to achieve the aims and objectives of the curriculum. It is believed that the book written"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "and meticulously edited by cxpericnced and skilled teachers and will be"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].cleanText",
+      "text": "and meticulously edited by cxpericnced and skilled teachers and will be"
+    },
+    {
+      "source_file": "public\\ocr\\books\\class6-english\\pages\\page-004.json",
+      "field_path": "$.lines[].text",
+      "text": "conducive to a joyful experience for the students. It is hoped that the book will play a"
+    }
+  ]
+}

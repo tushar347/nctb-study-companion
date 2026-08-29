@@ -1,0 +1,43 @@
+﻿NCTB Study Companion — Ollama Qwen Environment
+Generated: 2026-08-03T00:40:39.4587209+06:00
+
+OLLAMA VERSION
+ollama version is 0.32.5
+
+INSTALLED MODELS
+NAME             ID              SIZE      MODIFIED    
+qwen3:latest     500a1f067a9f    5.2 GB    2 weeks ago    
+gemma3:latest    a2af6cc3eb7f    3.3 GB    2 weeks ago    
+
+OLLAMA PROCESSES
+NAME    ID    SIZE    PROCESSOR    CONTEXT    UNTIL 
+
+GPU
+NVIDIA GeForce GTX 1650 with Max-Q Design, 4096 MiB, 173 MiB, 3766 MiB, 555.99
+
+SELECTED MODEL
+qwen3:latest
+
+BASELINE RESPONSE
+Question  
+Where does Rupa live?  
+
+Options  
+A) Dhaka  
+B) Chittagong  
+C) Kolkata  
+D) Rajshahi  
+
+Correct answer: A) Dhaka
+
+PROMPT TOKENS
+85
+
+GENERATED TOKENS
+725
+
+TOTAL DURATION NS
+106347858000
+
+EVALUATION DURATION NS
+92560347000

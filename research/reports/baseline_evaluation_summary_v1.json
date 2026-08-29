@@ -1,0 +1,72 @@
+{
+  "evaluation_version": "locked-baseline-eval-v1",
+  "locked_test_sha256": "d8a50ad562e733776ac47d7f84378d2fd96432b801ce1003b1a5c9d605b2a62f",
+  "evaluation_manifest_sha256": "9dddd93b7f7f3508cb969e4a878c83445e1e80b53ee3ea1475d9ab819d8e44cf",
+  "evaluation_pages": 10,
+  "tasks_per_page": 2,
+  "models": [
+    "gemma3:latest",
+    "qwen3:latest"
+  ],
+  "expected_result_records": 40,
+  "completed_result_records": 40,
+  "group_results": [
+    {
+      "model": "gemma3:latest",
+      "task": "generate_mcq",
+      "total_examples": 10,
+      "json_valid": 9,
+      "json_valid_rate_percent": 90.0,
+      "schema_pass": 6,
+      "schema_pass_rate_percent": 60.0,
+      "grounding_pass": 6,
+      "grounding_pass_rate_percent": 60.0,
+      "automatic_pass": 4,
+      "automatic_pass_rate_percent": 40.0,
+      "mean_duration_seconds": 14.14
+    },
+    {
+      "model": "gemma3:latest",
+      "task": "short_extractive_qa",
+      "total_examples": 10,
+      "json_valid": 9,
+      "json_valid_rate_percent": 90.0,
+      "schema_pass": 9,
+      "schema_pass_rate_percent": 90.0,
+      "grounding_pass": 4,
+      "grounding_pass_rate_percent": 40.0,
+      "automatic_pass": 4,
+      "automatic_pass_rate_percent": 40.0,
+      "mean_duration_seconds": 9.026
+    },
+    {
+      "model": "qwen3:latest",
+      "task": "generate_mcq",
+      "total_examples": 10,
+      "json_valid": 10,
+      "json_valid_rate_percent": 100.0,
+      "schema_pass": 10,
+      "schema_pass_rate_percent": 100.0,
+      "grounding_pass": 6,
+      "grounding_pass_rate_percent": 60.0,
+      "automatic_pass": 6,
+      "automatic_pass_rate_percent": 60.0,
+      "mean_duration_seconds": 21.319
+    },
+    {
+      "model": "qwen3:latest",
+      "task": "short_extractive_qa",
+      "total_examples": 10,
+      "json_valid": 10,
+      "json_valid_rate_percent": 100.0,
+      "schema_pass": 10,
+      "schema_pass_rate_percent": 100.0,
+      "grounding_pass": 8,
+      "grounding_pass_rate_percent": 80.0,
+      "automatic_pass": 8,
+      "automatic_pass_rate_percent": 80.0,
+      "mean_duration_seconds": 11.611
+    }
+  ],
+  "completed_at": "2026-08-03T05:24:30.631142+00:00"
+}

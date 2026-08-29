@@ -1,0 +1,21 @@
+{
+  "version": "nctb-sft-audit-v2r4",
+  "candidate_count": 340,
+  "source_chunk_count": 202,
+  "status_counts": {
+    "AUTO_PASS": 340
+  },
+  "class_distribution": {
+    "6": 81,
+    "7": 61,
+    "8": 198
+  },
+  "task_distribution": {
+    "mcq": 135,
+    "short_qa": 115,
+    "passage_grounded_qa": 90
+  },
+  "reason_counts": {},
+  "duplicate_question_groups": 0,
+  "audit_csv": "research\\data\\v2\\sft\\nctb_sft_audit_v2r4.csv"
+}

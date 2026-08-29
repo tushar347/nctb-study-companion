@@ -1,0 +1,25 @@
+{
+  "version": "closed-book-benchmark-quality-audit-v2r3",
+  "candidate_file": "research\\data\\v2\\evaluation\\closed_book_eval_candidates_v2r3_complete.jsonl",
+  "candidate_sha256": "7b7636c670b86a9525c2db0f10733c8557f652742d042135474629d466d6bfa6",
+  "total_candidates": 150,
+  "class_distribution": {
+    "6": 50,
+    "7": 50,
+    "8": 50
+  },
+  "stage_b_chunk_overlap": 0,
+  "stage_b_chunk_overlap_ids": [],
+  "status_counts": {
+    "AUTO_PASS": 142,
+    "REVIEW_REQUIRED": 8
+  },
+  "hard_failure_counts": {},
+  "review_reason_counts": {
+    "possible_unresolved_reference": 4,
+    "question_verbatim_in_textbook": 4
+  },
+  "near_duplicate_pairs": 0,
+  "audit_csv": "research\\data\\v2\\evaluation\\closed_book_eval_quality_audit_v2r3.csv",
+  "priority_review_csv": "research\\data\\v2\\evaluation\\closed_book_eval_priority_review_v2r3.csv"
+}

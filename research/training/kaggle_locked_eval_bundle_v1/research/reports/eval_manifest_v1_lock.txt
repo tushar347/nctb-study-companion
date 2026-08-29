@@ -1,0 +1,9 @@
+NCTB Study Companion
+Locked Baseline Evaluation Manifest v1
+
+Source test SHA256: d8a50ad562e733776ac47d7f84378d2fd96432b801ce1003b1a5c9d605b2a62f
+Manifest records: 10
+Manifest SHA256: 9dddd93b7f7f3508cb969e4a878c83445e1e80b53ee3ea1475d9ab819d8e44cf
+File: research/data/evaluation/eval_manifest_v1.jsonl
+
+This manifest must never be used for fine-tuning.

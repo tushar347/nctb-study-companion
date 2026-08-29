@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-08-02T19:01:38.000937+00:00",
+  "source_records": 240,
+  "rag_records": 225,
+  "sft_records": 216,
+  "manual_review_rows": 125,
+  "counts_by_split": {
+    "train": 166,
+    "validation": 27,
+    "test": 23,
+    "external_class8": 1
+  },
+  "counts_by_book_split": {
+    "class6-english": {
+      "train": 74,
+      "validation": 17,
+      "test": 17
+    },
+    "class7-english": {
+      "train": 92,
+      "validation": 10,
+      "test": 6
+    },
+    "class8-english": {
+      "external_class8": 1
+    }
+  },
+  "curation_flag_counts": {
+    "FRONT_MATTER": 13,
+    "TOO_SHORT_FOR_SFT": 14,
+    "OCR_REVIEW_NEEDED": 8,
+    "MULTIPLE_OCR_VERSIONS": 97,
+    "ENCODING_REPAIRED": 2,
+    "TOO_LONG_FOR_SFT": 1,
+    "CLASS8_EXTERNAL_ONLY": 5
+  },
+  "exclusion_counts": {
+    "front matter": 13,
+    "fewer than 40 words": 14,
+    "more than 600 words": 1,
+    "Class 8 external test only": 5
+  },
+  "test_sha256": "d8a50ad562e733776ac47d7f84378d2fd96432b801ce1003b1a5c9d605b2a62f"
+}

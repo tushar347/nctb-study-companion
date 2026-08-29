@@ -1,0 +1,16 @@
+{
+  "version": "v1",
+  "minimum_sft_words": 40,
+  "maximum_sft_words": 600,
+  "minimum_sft_alpha_ratio": 0.45,
+  "minimum_rag_words": 20,
+  "page_block_size": 5,
+  "main_sft_classes": [
+    6,
+    7
+  ],
+  "external_test_classes": [
+    8
+  ],
+  "test_sha256": "d8a50ad562e733776ac47d7f84378d2fd96432b801ce1003b1a5c9d605b2a62f"
+}

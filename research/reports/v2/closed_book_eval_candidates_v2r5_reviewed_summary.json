@@ -1,0 +1,17 @@
+{
+  "version": "closed-book-benchmark-candidates-v2r5-reviewed",
+  "source_sha256": "3d11d67370bc5e6aab82eddc38b364c85e1e405a21b20b3ce6e8c0e2ded5edba",
+  "total": 150,
+  "class_distribution": {
+    "6": 50,
+    "7": 50,
+    "8": 50
+  },
+  "confirmed_edits": [
+    "CBQ-C6-046",
+    "CBQ-C6-047",
+    "CBQ-C8-050"
+  ],
+  "confirmed_accept": "CBQ-C6-048",
+  "output_sha256": "f8052fa847a350606b52f8a3fbe10c3424171478ad92683097acf37bb19473c6"
+}

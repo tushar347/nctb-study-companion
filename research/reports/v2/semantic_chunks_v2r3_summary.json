@@ -1,0 +1,56 @@
+{
+  "version": "nctb-semantic-chunks-v2r3",
+  "source_corpus": "research\\data\\v2\\training_ready\\nctb_english_classes_6_7_8_training_ready_v2r2.jsonl",
+  "source_corpus_sha256": "71b43a356414866b6f5ff529022119280a977d738014e810a116885664b94d02",
+  "source_pages": 392,
+  "source_words": 77692,
+  "chunk_settings": {
+    "minimum_words": 160,
+    "target_words": 300,
+    "maximum_words": 420,
+    "overlap_words": 0,
+    "eval_source_fraction": 0.2
+  },
+  "books": {
+    "class6-english": {
+      "class_level": 6,
+      "source_pages": 112,
+      "chunks": 59,
+      "sft_source_chunks": 47,
+      "eval_question_source_chunks": 12,
+      "chunk_words": 18882,
+      "minimum_chunk_words": 187,
+      "maximum_chunk_words": 460
+    },
+    "class7-english": {
+      "class_level": 7,
+      "source_pages": 120,
+      "chunks": 72,
+      "sft_source_chunks": 58,
+      "eval_question_source_chunks": 14,
+      "chunk_words": 22945,
+      "minimum_chunk_words": 160,
+      "maximum_chunk_words": 473
+    },
+    "class8-english": {
+      "class_level": 8,
+      "source_pages": 160,
+      "chunks": 121,
+      "sft_source_chunks": 97,
+      "eval_question_source_chunks": 24,
+      "chunk_words": 35865,
+      "minimum_chunk_words": 164,
+      "maximum_chunk_words": 454
+    }
+  },
+  "combined": {
+    "all_chunks": 252,
+    "stage_a_chunks": 252,
+    "sft_source_chunks": 202,
+    "eval_question_source_chunks": 50,
+    "chunk_words": 77692,
+    "all_chunks_sha256": "6cb59a1cd73c564bfa0c66a08c64ef6f3084807c4a3be2380500688f34516a74",
+    "sft_source_sha256": "8bd29e69d264829f7c8c11f03c2cda5babcc0d31306d564bb2f0650d6b6bd9ca",
+    "eval_source_sha256": "c12c3918044f75c1fd06a91c8cefcf7b2d7210c7ec5abe15e07b4d2206586d57"
+  }
+}

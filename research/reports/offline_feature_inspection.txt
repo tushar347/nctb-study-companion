@@ -1,0 +1,685 @@
+﻿
+================================================================================
+PACKAGE.JSON
+================================================================================
+{
+  "name": "nctb-study-companion-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "postinstall": "prisma generate"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.19.3",
+    "bcryptjs": "^3.0.3",
+    "lucide-react": "^1.23.0",
+    "next": "latest",
+    "pdfjs-dist": "^6.1.200",
+    "prisma": "^6.19.3",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-pdf": "^10.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "^10.5.2",
+    "postcss": "^8.5.16",
+    "tailwindcss": "^3.4.19",
+    "tsx": "^4.23.0",
+    "typescript": "latest"
+  }
+}
+
+================================================================================
+APPLICATION DIRECTORIES
+================================================================================
+FOUND: .\app
+FOUND: .\components
+FOUND: .\lib
+
+================================================================================
+APP AND API FILES
+================================================================================
+.\app\api\agent\learning-loop\route.ts
+.\app\api\auth\login\route.ts
+.\app\api\auth\logout\route.ts
+.\app\api\auth\signup\route.ts
+.\app\api\books\[bookId]\index\route.ts
+.\app\api\books\[bookId]\pages\[pageNumber]\route.ts
+.\app\api\books\class6\index\route.ts
+.\app\api\books\class6\pages\[pageNumber]\route.ts
+.\app\api\books\import-ocr\route.ts
+.\app\api\books\route.ts
+.\app\api\debug\credits\route.ts
+.\app\api\debug\gemini\route.ts
+.\app\api\games\attempt\route.ts
+.\app\api\games\matching\route.ts
+.\app\api\lessons\eft-c6-l1\route.ts
+.\app\api\lines\[lineId]\help\route.ts
+.\app\api\ocr-book\help\route.ts
+.\app\api\ocr-book\lessons\[lessonNo]\route.backup.ts
+.\app\api\ocr-book\lessons\[lessonNo]\route.ts
+.\app\api\ocr-book\quiz\route.ts
+.\app\api\ocr-book\route.ts
+.\app\api\practice\read-aloud\evaluate\route.ts
+.\app\api\practice\speaking\evaluate\route.ts
+.\app\api\practice\speaking\session\route.ts
+.\app\api\practice\spelling\attempt\route.ts
+.\app\api\practice\spelling\session\route.ts
+.\app\api\progress\demo\route.ts
+.\app\api\quiz\attempt\route.ts
+.\app\api\quiz\eft-c6-l1\route.ts
+.\app\api\quiz\generate\route.ts
+.\app\api\quiz\submit\route.ts
+.\app\api\research\summary\route.ts
+.\app\api\rewards\goals\route.ts
+.\app\api\rewards\overview\route.ts
+.\app\api\rewards\redeem\route.ts
+.\app\api\rewards\redeem-item\route.ts
+.\app\api\rewards\wallet\route.ts
+.\app\api\student\demo\route.ts
+.\app\api\students\summary\route.ts
+.\app\api\study\track\route.ts
+.\app\api\test-clean.ts
+.\app\book-test\page.tsx
+.\app\games\page.tsx
+.\app\globals.css
+.\app\home\page.tsx
+.\app\layout.tsx
+.\app\login\page.tsx
+.\app\page.tsx
+.\app\practice\read-aloud\page.tsx
+.\app\practice\speaking\page.tsx
+.\app\practice\spelling\page.tsx
+.\app\progress\page.tsx
+.\app\quiz\page.tsx
+.\app\reader\page.tsx
+.\app\rewards\page.tsx
+.\app\signup\page.tsx
+.\app\teacher\page.tsx
+.\app\voice-practice\page.tsx
+
+================================================================================
+EXISTING AI IMPLEMENTATION
+================================================================================
+.\app\api\agent\learning-loop\route.ts:24: type GeminiResponse = {
+.\app\api\agent\learning-loop\route.ts:38: "AI is not configured yet. Add GEMINI_API_KEY in .env.local and restart the server.",
+.\app\api\agent\learning-loop\route.ts:152: const apiKey = process.env.GEMINI_API_KEY;
+.\app\api\agent\learning-loop\route.ts:153: const model = process.env.GEMINI_MODEL ?? "gemini-2.5-flash";
+.\app\api\agent\learning-loop\route.ts:217: const geminiResponse = await fetch(
+.\app\api\agent\learning-loop\route.ts:218: `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`,
+.\app\api\agent\learning-loop\route.ts:242: if (!geminiResponse.ok) {
+.\app\api\agent\learning-loop\route.ts:269: const geminiData = (await geminiResponse.json()) as GeminiResponse;
+.\app\api\agent\learning-loop\route.ts:272: geminiData.candidates?.[0]?.content?.parts
+.\app\api\agent\learning-loop\route.ts:284: source: "gemini",
+.\app\api\agent\learning-loop\route.ts:296: source: "gemini",
+.\app\api\auth\login\route.ts:1: import { NextResponse } from "next/server";
+.\app\api\auth\login\route.ts:15: return NextResponse.json(
+.\app\api\auth\login\route.ts:26: return NextResponse.json(
+.\app\api\auth\login\route.ts:35: return NextResponse.json(
+.\app\api\auth\login\route.ts:54: const response = NextResponse.json({
+.\app\api\auth\login\route.ts:69: return NextResponse.json(
+.\app\api\auth\logout\route.ts:1: import { NextResponse } from "next/server";
+.\app\api\auth\logout\route.ts:4: const response = NextResponse.json({
+.\app\api\auth\signup\route.ts:1: import { NextResponse } from "next/server";
+.\app\api\auth\signup\route.ts:33: return NextResponse.json(
+.\app\api\auth\signup\route.ts:40: return NextResponse.json(
+.\app\api\auth\signup\route.ts:51: return NextResponse.json(
+.\app\api\auth\signup\route.ts:91: const response = NextResponse.json({
+.\app\api\auth\signup\route.ts:106: return NextResponse.json(
+.\app\api\books\class6\index\route.ts:1: import { NextResponse } from "next/server";
+.\app\api\books\class6\index\route.ts:28: return NextResponse.json({
+.\app\api\books\class6\index\route.ts:33: return NextResponse.json(
+.\app\api\books\class6\pages\[pageNumber]\route.ts:1: import { NextResponse } from "next/server";
+.\app\api\books\class6\pages\[pageNumber]\route.ts:27: return NextResponse.json(
+.\app\api\books\class6\pages\[pageNumber]\route.ts:63: return NextResponse.json({
+.\app\api\books\class6\pages\[pageNumber]\route.ts:68: return NextResponse.json(
+.\app\api\books\import-ocr\route.ts:1: import { NextResponse } from "next/server";
+.\app\api\books\import-ocr\route.ts:144: return NextResponse.json(
+.\app\api\books\import-ocr\route.ts:381: return NextResponse.json({
+.\app\api\books\import-ocr\route.ts:396: return NextResponse.json(
+.\app\api\books\[bookId]\index\route.ts:1: import { NextResponse } from "next/server";
+.\app\api\books\[bookId]\index\route.ts:28: return NextResponse.json(
+.\app\api\books\[bookId]\index\route.ts:57: return NextResponse.json({
+.\app\api\books\[bookId]\index\route.ts:62: return NextResponse.json(
+.\app\api\books\[bookId]\pages\[pageNumber]\route.ts:1: import { NextResponse } from "next/server";
+.\app\api\books\[bookId]\pages\[pageNumber]\route.ts:32: return NextResponse.json(
+.\app\api\books\[bookId]\pages\[pageNumber]\route.ts:49: return NextResponse.json(
+.\app\api\books\[bookId]\pages\[pageNumber]\route.ts:85: return NextResponse.json({
+.\app\api\books\[bookId]\pages\[pageNumber]\route.ts:90: return NextResponse.json(
+.\app\api\debug\credits\route.ts:1: import { NextResponse } from "next/server";
+.\app\api\debug\credits\route.ts:12: return NextResponse.json(
+.\app\api\debug\credits\route.ts:23: return NextResponse.json(
+.\app\api\debug\credits\route.ts:57: return NextResponse.json({
+.\app\api\debug\credits\route.ts:66: return NextResponse.json(
+.\app\api\debug\gemini\route.ts:4: const apiKey = process.env.GEMINI_API_KEY;
+.\app\api\debug\gemini\route.ts:5: const model = process.env.GEMINI_MODEL ?? "gemini-2.5-flash";
+.\app\api\debug\gemini\route.ts:10: problem: "GEMINI_API_KEY is not loading from .env.local",
+.\app\api\debug\gemini\route.ts:18: `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`,
+.\app\api\games\attempt\route.ts:1: import { NextResponse } from "next/server";
+.\app\api\games\attempt\route.ts:50: return NextResponse.json({
+.\app\api\games\attempt\route.ts:55: return NextResponse.json(
+.\app\api\games\matching\route.ts:3: import { NextResponse } from "next/server";
+.\app\api\games\matching\route.ts:468: return NextResponse.json(
+.\app\api\games\matching\route.ts:479: process.env.GEMINI_API_KEY;
+.\app\api\games\matching\route.ts:482: process.env.GEMINI_MODEL ??
+.\app\api\games\matching\route.ts:483: "gemini-2.5-flash";
+.\app\api\games\matching\route.ts:495: return NextResponse.json(
+.\app\api\games\matching\route.ts:505: return NextResponse.json({
+.\app\api\games\matching\route.ts:512: "The Gemini key was unavailable. A local sentence-matching game was generated.",
+.\app\api\games\matching\route.ts:556: const geminiResponse =
+.\app\api\games\matching\route.ts:560: )}:generateContent?key=${encodeURIComponent(
+.\app\api\games\matching\route.ts:590: const rawGeminiResponse =
+.\app\api\games\matching\route.ts:591: await geminiResponse.text();
+.\app\api\games\matching\route.ts:593: if (!geminiResponse.ok) {
+.\app\api\games\matching\route.ts:594: return NextResponse.json(
+.\app\api\games\matching\route.ts:597: error: `Gemini API returned ${geminiResponse.status}.`,
+.\app\api\games\matching\route.ts:599: rawGeminiResponse.slice(
+.\app\api\games\matching\route.ts:608: const geminiData =
+.\app\api\games\matching\route.ts:610: rawGeminiResponse,
+.\app\api\games\matching\route.ts:614: geminiData?.candidates?.[0]
+.\app\api\games\matching\route.ts:618: return NextResponse.json(
+.\app\api\games\matching\route.ts:622: "Gemini returned no matching-game content.",
+.\app\api\games\matching\route.ts:686: return NextResponse.json(
+.\app\api\games\matching\route.ts:696: return NextResponse.json({
+.\app\api\games\matching\route.ts:699: "gemini-validated",
+.\app\api\games\matching\route.ts:711: return NextResponse.json(
+.\app\api\ocr-book\help\route.ts:1: type GeminiPart = {
+.\app\api\ocr-book\help\route.ts:5: type GeminiResponse = {
+.\app\api\ocr-book\help\route.ts:8: parts?: GeminiPart[];
+.\app\api\ocr-book\help\route.ts:31: "AI helper is not configured yet. Add GEMINI_API_KEY in .env.local and restart the server.",
+.\app\api\ocr-book\help\route.ts:33: "AI অনুবাদ এখনো চালু হয়নি। .env.local ফাইলে GEMINI_API_KEY যোগ করে server restart করতে হবে।",
+.\app\api\ocr-book\help\route.ts:52: const apiKey = process.env.GEMINI_API_KEY;
+.\app\api\ocr-book\help\route.ts:53: const model = process.env.GEMINI_MODEL ?? "gemini-2.5-flash";
+.\app\api\ocr-book\help\route.ts:82: const geminiResponse = await fetch(
+.\app\api\ocr-book\help\route.ts:83: `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`,
+.\app\api\ocr-book\help\route.ts:104: if (!geminiResponse.ok) {
+.\app\api\ocr-book\help\route.ts:110: const geminiData = (await geminiResponse.json()) as GeminiResponse;
+.\app\api\ocr-book\help\route.ts:113: geminiData.candidates?.[0]?.content?.parts
+.\app\api\ocr-book\lessons\[lessonNo]\route.backup.ts:1: import { NextResponse } from "next/server";
+.\app\api\ocr-book\lessons\[lessonNo]\route.backup.ts:19: return NextResponse.json(
+.\app\api\ocr-book\lessons\[lessonNo]\route.backup.ts:41: return NextResponse.json({
+.\app\api\ocr-book\lessons\[lessonNo]\route.backup.ts:59: return NextResponse.json(
+.\app\api\ocr-book\lessons\[lessonNo]\route.ts:1: import { NextResponse } from "next/server";
+.\app\api\ocr-book\lessons\[lessonNo]\route.ts:19: return NextResponse.json(
+.\app\api\ocr-book\lessons\[lessonNo]\route.ts:41: return NextResponse.json({
+.\app\api\ocr-book\lessons\[lessonNo]\route.ts:59: return NextResponse.json(
+.\app\api\ocr-book\quiz\route.ts:1: import { NextResponse } from "next/server";
+.\app\api\ocr-book\quiz\route.ts:62: return NextResponse.json({ error: "Lesson not found." }, { status: 404 });
+.\app\api\ocr-book\quiz\route.ts:72: return NextResponse.json(
+.\app\api\ocr-book\quiz\route.ts:99: return NextResponse.json({
+.\app\api\ocr-book\quiz\route.ts:105: return NextResponse.json(
+.\app\api\practice\read-aloud\evaluate\route.ts:12: NextResponse,
+.\app\api\practice\read-aloud\evaluate\route.ts:170: return NextResponse.json(
+.\app\api\practice\read-aloud\evaluate\route.ts:205: return NextResponse.json(
+.\app\api\practice\read-aloud\evaluate\route.ts:408: return NextResponse.json({
+.\app\api\practice\read-aloud\evaluate\route.ts:418: return NextResponse.json(
+.\app\api\practice\read-aloud\evaluate\route.ts:489: return NextResponse.json({
+.\app\api\practice\read-aloud\evaluate\route.ts:494: return NextResponse.json(
+.\app\api\practice\speaking\evaluate\route.ts:12: NextResponse,
+.\app\api\practice\speaking\evaluate\route.ts:189: return NextResponse.json(
+.\app\api\practice\speaking\evaluate\route.ts:209: return NextResponse.json(
+.\app\api\practice\speaking\evaluate\route.ts:415: return NextResponse.json({
+.\app\api\practice\speaking\evaluate\route.ts:425: return NextResponse.json(
+.\app\api\practice\speaking\evaluate\route.ts:495: return NextResponse.json({
+.\app\api\practice\speaking\evaluate\route.ts:500: return NextResponse.json(
+.\app\api\practice\speaking\session\route.ts:8: NextResponse,
+.\app\api\practice\speaking\session\route.ts:80: return NextResponse.json(
+.\app\api\practice\speaking\session\route.ts:139: return NextResponse.json(
+.\app\api\practice\speaking\session\route.ts:171: return NextResponse.json({
+.\app\api\practice\speaking\session\route.ts:185: return NextResponse.json(
+.\app\api\practice\spelling\attempt\route.ts:4: import { NextResponse } from "next/server";
+.\app\api\practice\spelling\attempt\route.ts:157: return NextResponse.json(
+.\app\api\practice\spelling\attempt\route.ts:171: return NextResponse.json(
+.\app\api\practice\spelling\attempt\route.ts:182: return NextResponse.json(
+.\app\api\practice\spelling\attempt\route.ts:193: return NextResponse.json(
+.\app\api\practice\spelling\attempt\route.ts:256: return NextResponse.json(
+.\app\api\practice\spelling\attempt\route.ts:387: return NextResponse.json({
+.\app\api\practice\spelling\attempt\route.ts:397: return NextResponse.json(
+.\app\api\practice\spelling\attempt\route.ts:467: return NextResponse.json({
+.\app\api\practice\spelling\attempt\route.ts:472: return NextResponse.json(
+.\app\api\practice\spelling\session\route.ts:3: import { NextResponse } from "next/server";
+.\app\api\practice\spelling\session\route.ts:89: return NextResponse.json(
+.\app\api\practice\spelling\session\route.ts:100: return NextResponse.json(
+.\app\api\practice\spelling\session\route.ts:173: return NextResponse.json(
+.\app\api\practice\spelling\session\route.ts:191: return NextResponse.json({
+.\app\api\practice\spelling\session\route.ts:206: return NextResponse.json(
+.\app\api\quiz\attempt\route.ts:1: import { NextResponse } from "next/server";
+.\app\api\quiz\attempt\route.ts:54: return NextResponse.json({
+.\app\api\quiz\attempt\route.ts:85: return NextResponse.json(
+.\app\api\quiz\generate\route.ts:1: import { NextResponse } from "next/server";
+.\app\api\quiz\generate\route.ts:984: return NextResponse.json(
+.\app\api\quiz\generate\route.ts:1050: return NextResponse.json(
+.\app\api\quiz\generate\route.ts:1075: process.env.GEMINI_API_KEY;
+.\app\api\quiz\generate\route.ts:1078: process.env.GEMINI_MODEL ??
+.\app\api\quiz\generate\route.ts:1079: "gemini-2.5-flash";
+.\app\api\quiz\generate\route.ts:1082: return NextResponse.json({
+.\app\api\quiz\generate\route.ts:1088: "GEMINI_API_KEY is missing. A local model-question paper was created.",
+.\app\api\quiz\generate\route.ts:1210: const geminiResponse =
+.\app\api\quiz\generate\route.ts:1214: )}:generateContent?key=${encodeURIComponent(
+.\app\api\quiz\generate\route.ts:1247: await geminiResponse.text();
+.\app\api\quiz\generate\route.ts:1249: if (!geminiResponse.ok) {
+.\app\api\quiz\generate\route.ts:1250: return NextResponse.json({
+.\app\api\quiz\generate\route.ts:1256: `Gemini returned ${geminiResponse.status}. A local model-question paper was created instead.`,
+.\app\api\quiz\generate\route.ts:1297: return NextResponse.json({
+.\app\api\quiz\generate\route.ts:1303: "Gemini returned no usable content. A local model-question paper was created instead.",
+.\app\api\quiz\generate\route.ts:1325: return NextResponse.json({
+.\app\api\quiz\generate\route.ts:1329: "gemini-validated",
+.\app\api\quiz\generate\route.ts:1337: return NextResponse.json(
+.\app\api\quiz\submit\route.ts:1: import { NextResponse } from "next/server";
+.\app\api\quiz\submit\route.ts:46: return NextResponse.json({
+.\app\api\quiz\submit\route.ts:51: return NextResponse.json(
+.\app\api\rewards\goals\route.ts:2: import { NextResponse } from "next/server";
+.\app\api\rewards\goals\route.ts:34: return NextResponse.json(
+.\app\api\rewards\goals\route.ts:63: return NextResponse.json({
+.\app\api\rewards\goals\route.ts:68: return NextResponse.json(
+.\app\api\rewards\overview\route.ts:2: import { NextResponse } from "next/server";
+.\app\api\rewards\overview\route.ts:122: return NextResponse.json({
+.\app\api\rewards\overview\route.ts:148: return NextResponse.json(
+.\app\api\rewards\redeem\route.ts:1: import { NextResponse } from "next/server";
+.\app\api\rewards\redeem\route.ts:19: return NextResponse.json(result, { status: 400 });
+.\app\api\rewards\redeem\route.ts:22: return NextResponse.json(result);
+.\app\api\rewards\redeem\route.ts:24: return NextResponse.json(
+.\app\api\rewards\redeem-item\route.ts:2: import { NextResponse } from "next/server";
+.\app\api\rewards\redeem-item\route.ts:30: return NextResponse.json(
+.\app\api\rewards\redeem-item\route.ts:150: return NextResponse.json({
+.\app\api\rewards\redeem-item\route.ts:155: return NextResponse.json(
+.\app\api\rewards\wallet\route.ts:1: import { NextResponse } from "next/server";
+.\app\api\rewards\wallet\route.ts:22: return NextResponse.json({
+.\app\api\rewards\wallet\route.ts:43: return NextResponse.json(
+.\app\api\students\summary\route.ts:1: import { NextResponse } from "next/server";
+.\app\api\students\summary\route.ts:43: return NextResponse.json(
+.\app\api\students\summary\route.ts:78: return NextResponse.json({
+.\app\api\students\summary\route.ts:98: return NextResponse.json(
+.\app\api\study\track\route.ts:1: import { NextResponse } from "next/server";
+.\app\api\study\track\route.ts:14: return NextResponse.json(
+.\app\api\study\track\route.ts:32: return NextResponse.json({
+.\app\api\study\track\route.ts:37: return NextResponse.json(
+.\app\quiz\page.tsx:1108: Gemini will use the selected
+.\components\StudyCompanion.backup.week4.tsx:212: bangla: `বাংলা সহায়তা: "${lineText}" — AI অনুবাদ চালু না থাকলে .env.local ফাইলে GEMINI_API_KEY যোগ করতে হবে।`,
+
+================================================================================
+TEXTBOOK DATA AND SERVICES
+================================================================================
+.vercel\output\static\books\class6-english-for-today.pdf
+.vercel\output\static\ocr\class6_english_lesson5_to_end_ai_ready.json
+.vercel\output\static\ocr\class6_english_lesson5_to_end_ocr.json
+.vercel\output\static\ocr\class6_english_lesson5_to_end_ocr.md
+.vercel\output\static\ocr\class6_english_lesson5_to_end_pages.json
+.\data\ocrBook.ts
+.\lib\book\class6Lessons.ts
+.\prisma\schema.before-ocr-fix.prisma
+.\public\books\class6-english-for-today.pdf
+.\public\books\class7-english-for-today.pdf
+.\public\books\class8-english-for-today.pdf
+.\public\ocr\books\class8-english\class8_ocr_run_summary.json
+.\public\ocr\class6_english_lesson5_to_end_ai_ready.json
+.\public\ocr\class6_english_lesson5_to_end_ocr.json
+.\public\ocr\class6_english_lesson5_to_end_ocr.md
+.\public\ocr\class6_english_lesson5_to_end_pages.json
+.\research\data\processed\ocr_curated_manifest_v1.jsonl
+.\research\data\processed\ocr_manual_review_queue_v1.csv
+.\research\data\processed\ocr_passage_manifest.jsonl
+.\research\data\processed\ocr_passage_manifest_metadata.csv
+.\research\data\processed\ocr_rejected_candidates.jsonl
+.\research\data\processed\ocr_text_samples.jsonl
+.\research\reports\class8_ocr_manual_review.csv
+.\research\reports\class8_ocr_validation.json
+.\research\reports\class8_ocr_validation.md
+.\research\reports\ocr_normalization_report.md
+.\research\reports\ocr_normalization_summary.json
+.\research\reports\ocr_schema_profile.json
+.\research\reports\ocr_schema_profile.md
+.\research\scripts\complete_class8_ocr.py
+.\research\scripts\curate_and_split_ocr.py
+.\research\scripts\normalize_ocr_passages.py
+.\research\scripts\profile_ocr_schema.py
+.\research\scripts\validate_class8_ocr.py
+.\scripts\ocr_book_full.py
+.\scripts\ocr_multi_book.py
+.\scripts\ocr_test.py
+.\scripts\process_ocr_lines.py
+
+================================================================================
+LAYOUT FILE
+================================================================================
+FILE: .\app\layout.tsx
+import type { Metadata } from "next";
+import "./globals.css";
+
+export const metadata: Metadata = {
+  title: "NCTB Study Companion",
+  description: "Class 6 English for Today line-by-line study app prototype"
+};
+
+export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
+  return (
+    <html lang="en">
+      <body>{children}</body>
+    </html>
+  );
+}
+
+================================================================================
+HOME PAGE FILE
+================================================================================
+FILE: .\app\page.tsx
+"use client";
+
+import { useState } from "react";
+import type { FormEvent } from "react";
+import { useRouter } from "next/navigation";
+import {
+  BookOpen,
+  Bot,
+  CheckCircle2,
+  GraduationCap,
+  Loader2,
+  LockKeyhole,
+  Mail,
+  School,
+  Sparkles,
+  UserRound,
+} from "lucide-react";
+
+type AuthMode = "login" | "signup";
+
+type Student = {
+  studentKey: string;
+  email: string;
+  name: string;
+  classLevel?: number;
+  section?: string;
+  rollNumber?: string;
+  schoolName?: string;
+  guardianName?: string;
+  guardianPhone?: string;
+};
+
+type AuthResponse = {
+  success?: boolean;
+  error?: string;
+  student?: Student;
+};
+
+export default function AuthEntryPage() {
+  const router = useRouter();
+  const [mode, setMode] = useState<AuthMode>("login");
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState("");
+
+  const [loginForm, setLoginForm] = useState({
+    email: "demo@student.com",
+    password: "123456",
+  });
+
+  const [signupForm, setSignupForm] = useState({
+    name: "",
+    email: "",
+    password: "",
+    classLevel: "6",
+    section: "",
+    rollNumber: "",
+    schoolName: "",
+    guardianName: "",
+    guardianPhone: "",
+  });
+
+  function saveStudentAndEnter(student: Student) {
+    localStorage.setItem("studentKey", student.studentKey);
+    localStorage.setItem("studentProfile", JSON.stringify(student));
+
+    router.push("/home");
+    router.refresh();
+  }
+
+  async function submitLogin(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    setLoading(true);
+    setError("");
+
+    try {
+      const response = await fetch("/api/auth/login", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(loginForm),
+      });
+
+      const data: AuthResponse = await response.json();
+
+      if (!response.ok) {
+        throw new Error(data.error ?? "Login failed.");
+      }
+
+      if (!data.student) {
+        throw new Error("Student data was not returned.");
+      }
+
+      saveStudentAndEnter(data.student);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "Login failed.");
+    } finally {
+      setLoading(false);
+    }
+  }
+
+  async function submitSignup(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    setLoading(true);
+    setError("");
+
+    try {
+      const response = await fetch("/api/auth/signup", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          ...signupForm,
+          classLevel: Number(signupForm.classLevel),
+        }),
+      });
+
+      const data: AuthResponse = await response.json();
+
+      if (!response.ok) {
+        throw new Error(data.error ?? "Signup failed.");
+      }
+
+      if (!data.student) {
+        throw new Error("Student data was not returned.");
+      }
+
+      saveStudentAndEnter(data.student);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "Signup failed.");
+    } finally {
+      setLoading(false);
+    }
+  }
+
+  return (
+    <main className="relative min-h-screen overflow-hidden bg-[#eaf4ff] px-4 py-6 text-slate-900">
+      <div className="pointer-events-none fixed left-[-140px] top-[-120px] h-96 w-96 rounded-full bg-cyan-300/50 blur-3xl" />
+      <div className="pointer-events-none fixed right-[-160px] top-16 h-[520px] w-[520px] rounded-full bg-blue-500/25 blur-3xl" />
+      <div className="pointer-events-none fixed bottom-[-180px] left-1/3 h-[460px] w-[460px] rounded-full bg-purple-400/25 blur-3xl" />
+
+      <section className="relative mx-auto grid min-h-[calc(100vh-48px)] max-w-7xl items-center gap-8 lg:grid-cols-[1.08fr_0.92fr]">
+        <div className="rounded-[42px] border border-white/60 bg-white/45 p-6 shadow-[0_30px_100px_rgba(15,23,42,0.18)] backdrop-blur-2xl md:p-8">
+          <div className="inline-flex items-center gap-2 rounded-full border border-white/70 bg-white/70 px-4 py-2 text-xs font-black uppercase tracking-wide text-blue-700 shadow-inner">
+            <Sparkles size={15} />
+            Personalized AI Learning Platform
+          </div>
+
+          <h1 className="mt-6 max-w-4xl text-4xl font-black leading-tight tracking-tight md:text-6xl">
+            Learn English with your own{" "}
+            <span className="bg-gradient-to-r from-blue-700 via-purple-700 to-cyan-600 bg-clip-text text-transparent">
+              AI Teacher
+            </span>
+          </h1>
+
+          <p className="mt-5 max-w-2xl text-base font-semibold leading-8 text-slate-600 md:text-lg">
+            Read NCTB textbook lines, ask your AI Teacher, play grammar games,
+            take quizzes, and save your daily study progress automatically.
+          </p>
+
+          <div className="mt-8 grid gap-4 md:grid-cols-3">
+            <div className="rounded-3xl border border-white/70 bg-white/65 p-5 shadow-xl">
+              <BookOpen className="text-blue-700" size={30} />
+              <p className="mt-4 text-lg font-black">Textbook Reader</p>
+              <p className="mt-1 text-sm font-semibold text-slate-500">
+                Learn line by line from lessons.
+              </p>
+            </div>
+
+            <div className="rounded-3xl border border-white/70 bg-white/65 p-5 shadow-xl">
+              <GraduationCap className="text-purple-700" size={30} />
+              <p className="mt-4 text-lg font-black">AI Teacher</p>
+              <p className="mt-1 text-sm font-semibold text-slate-500">
+                Get explanation, Bangla meaning, and grammar help.
+              </p>
+            </div>
+
+            <div className="rounded-3xl border border-white/70 bg-white/65 p-5 shadow-xl">
+              <CheckCircle2 className="text-emerald-700" size={30} />
+              <p className="mt-4 text-lg font-black">Progress Saved</p>
+              <p className="mt-1 text-sm font-semibold text-slate-500">
+                Quiz marks and game scores stay connected.
+              </p>
+            </div>
+          </div>
+
+          <div className="relative mt-8 overflow-hidden rounded-[36px] border border-white/70 bg-gradient-to-br from-blue-700 via-indigo-700 to-purple-700 p-6 text-white shadow-2xl">
+            <div className="absolute right-[-40px] top-[-40px] h-40 w-40 rounded-full bg-white/20 blur-2xl" />
+            <div className="absolute bottom-[-70px] left-[-60px] h-48 w-48 rounded-full bg-cyan-300/20 blur-2xl" />
+
+            <div className="relative flex flex-col gap-5 md:flex-row md:items-center">
+              <div className="grid h-24 w-24 place-items-center rounded-[34px] border border-white/30 bg-white/20 shadow-2xl backdrop-blur-xl">
+                <Bot size={52} />
+              </div>
+
+              <div>
+                <p className="text-sm font-black uppercase tracking-wide text-cyan-100">
+                  Meet your AI Teacher
+                </p>
+                <h2 className="mt-1 text-3xl font-black">
+                  Friendly, personal, and always ready to explain.
+                </h2>
+                <p className="mt-2 max-w-2xl text-sm font-semibold leading-7 text-blue-50">
+                  The AI Teacher helps students understand difficult textbook
+                  lines, grammar patterns, sentence order, and vocabulary
+                  through simple language.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="rounded-[42px] border border-white/60 bg-white/55 p-5 shadow-[0_30px_100px_rgba(15,23,42,0.18)] backdrop-blur-2xl md:p-6">
+          <div className="grid grid-cols-2 gap-2 rounded-3xl border border-white/70 bg-white/60 p-2 shadow-inner">
+            <button
+              onClick={() => {
+                setMode("login");
+                setError("");
+              }}
+              className={`rounded-2xl px-4 py-3 text-sm font-black transition ${
+                mode === "login"
+                  ? "bg-slate-950 text-white shadow-lg"
+                  : "text-slate-600 hover:bg-white"
+              }`}
+            >
+              Login
+            </button>
+
+            <button
+              onClick={() => {
+                setMode("signup");
+                setError("");
+              }}
+              className={`rounded-2xl px-4 py-3 text-sm font-black transition ${
+                mode === "signup"
+                  ? "bg-blue-600 text-white shadow-lg"
+                  : "text-slate-600 hover:bg-white"
+              }`}
+            >
+              Signup
+            </button>
+          </div>
+
+          <div className="mt-6 flex items-center gap-4">
+            <div className="grid h-14 w-14 place-items-center rounded-3xl bg-gradient-to-br from-blue-600 to-purple-700 text-white shadow-xl">
+              {mode === "login" ? (
+                <LockKeyhole size={28} />
+              ) : (
+                <UserRound size={28} />
+
+================================================================================
+ENVIRONMENT VARIABLE NAMES
+================================================================================
+FILE: .\.env.local
+VERCEL_OIDC_TOKEN=<redacted>
+DATABASE_URL=<redacted>
+GEMINI_API_KEY=<redacted>
+GEMINI_MODEL=<redacted>
+FILE: .\.env
+DATABASE_URL=<redacted>
+
+================================================================================
+TYPESCRIPT CONFIGURATION
+================================================================================
+FILE: .\tsconfig.json
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "react-jsx",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    ".next/dev/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
+FILE: .\next.config.ts
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {};
+
+export default nextConfig;

@@ -1,0 +1,33 @@
+{
+  "version": "full-book-quality-audit-v2r1-fixed",
+  "corpus_sha256": "e2affc5b655e4820847b38b0486fa308b0ee7472e4f8548a7f5f9771cce57bed",
+  "total_pages": 399,
+  "total_words": 77892,
+  "flagged_pages": 8,
+  "reason_counts": {
+    "empty_text": 2,
+    "multiple_suspicious_ocr_tokens": 1,
+    "possible_front_matter": 3,
+    "very_short_page": 2
+  },
+  "books": {
+    "class6-english": {
+      "pages": 115,
+      "words": 18939,
+      "flagged": 3,
+      "empty": 2
+    },
+    "class7-english": {
+      "pages": 122,
+      "words": 23011,
+      "flagged": 2,
+      "empty": 0
+    },
+    "class8-english": {
+      "pages": 162,
+      "words": 35942,
+      "flagged": 3,
+      "empty": 0
+    }
+  }
+}

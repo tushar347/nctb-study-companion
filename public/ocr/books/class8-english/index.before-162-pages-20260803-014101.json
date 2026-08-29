@@ -1,0 +1,50 @@
+{
+  "bookId": "class8-english",
+  "title": "English For Today - Class Eight",
+  "sourcePdf": "/books/class8-english-for-today.pdf",
+  "totalPdfPages": 162,
+  "startPage": 1,
+  "endPage": 5,
+  "pages": [
+    {
+      "pageNumber": 1,
+      "json": "/ocr/books/class8-english/pages/page-001.json",
+      "image": "/ocr/books/class8-english/page-images/page-001.png",
+      "lineCount": 1,
+      "aiReadyLineCount": 1,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 2,
+      "json": "/ocr/books/class8-english/pages/page-002.json",
+      "image": "/ocr/books/class8-english/page-images/page-002.png",
+      "lineCount": 4,
+      "aiReadyLineCount": 3,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 3,
+      "json": "/ocr/books/class8-english/pages/page-003.json",
+      "image": "/ocr/books/class8-english/page-images/page-003.png",
+      "lineCount": 15,
+      "aiReadyLineCount": 12,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 4,
+      "json": "/ocr/books/class8-english/pages/page-004.json",
+      "image": "/ocr/books/class8-english/page-images/page-004.png",
+      "lineCount": 41,
+      "aiReadyLineCount": 40,
+      "source": "tesseract"
+    },
+    {
+      "pageNumber": 5,
+      "json": "/ocr/books/class8-english/pages/page-005.json",
+      "image": "/ocr/books/class8-english/page-images/page-005.png",
+      "lineCount": 14,
+      "aiReadyLineCount": 12,
+      "source": "tesseract"
+    }
+  ]
+}

@@ -1,0 +1,703 @@
+warning: in the working copy of 'app/api/agent/learning-loop/route.ts', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/app/api/agent/learning-loop/route.ts b/app/api/agent/learning-loop/route.ts[m
+[1mindex e7b8fb1..3d5c57e 100644[m
+[1m--- a/app/api/agent/learning-loop/route.ts[m
+[1m+++ b/app/api/agent/learning-loop/route.ts[m
+[36m@@ -1,6 +1,6 @@[m
+ import { useAiTeacherCredit } from "@/lib/rewardSystem";[m
+[31m-import { isAiCreditLimitEnabled } from "@/lib/featureFlags";[m
+ import { buildLessonContext } from "@/lib/buildLessonContext";[m
+[32m+[m[32mimport { buildPageContext } from "@/lib/buildPageContext";[m
+ import {[m
+   getMemorySummaryForAgent,[m
+   logResearchEvent,[m
+[36m@@ -19,6 +19,8 @@[m [mtype RequestBody = {[m
+   selectedLine: string;[m
+   requestedTool: RequestedTool;[m
+   studentQuestion?: string;[m
+[32m+[m[32m  pageNumber?: number;[m
+[32m+[m[32m  lineId?: string;[m
+ };[m
+ [m
+ type GeminiResponse = {[m
+[36m@@ -115,25 +117,13 @@[m [mexport async function POST(request: Request) {[m
+      * Every successful AI Teacher request uses 1 AI credit.[m
+      * If the student has 0 credits, the request stops before generating an answer.[m
+      */[m
+[31m-    const creditLimitEnabled =[m
+[31m-      isAiCreditLimitEnabled();[m
+[31m-[m
+[31m-    const creditResult =[m
+[31m-      creditLimitEnabled[m
+[31m-        ? await useAiTeacherCredit({[m
+[32m+[m[32m    const creditResult = await useAiTeacherCredit({[m
+       studentKey,[m
+       lessonNo: Number(body.lessonNo),[m
+       selectedLine: body.selectedLine,[m
+       question: body.studentQuestion,[m
+       toolUsed: body.requestedTool,[m
+[31m-    })[m
+[31m-        : {[m
+[31m-            success: true as const,[m
+[31m-            error: null,[m
+[31m-            wallet: null,[m
+[31m-            creditsUsed: 0,[m
+[31m-            bypassed: true,[m
+[31m-          };[m
+[32m+[m[32m    });[m
+ [m
+     if (!creditResult.success) {[m
+       return Response.json([m
+[36m@@ -152,29 +142,37 @@[m [mexport async function POST(request: Request) {[m
+     const apiKey = process.env.GEMINI_API_KEY;[m
+     const model = process.env.GEMINI_MODEL ?? "gemini-2.5-flash";[m
+ [m
+[31m-    const lessonContext = buildLessonContext([m
+[31m-      Number(body.lessonNo),[m
+[31m-      body.selectedLine,[m
+[31m-    );[m
+[31m-[m
+[31m-    await updateMemoryAfterAgent({[m
+[31m-      studentKey,[m
+[31m-      lessonNo: Number(body.lessonNo),[m
+[31m-      selectedLine: body.selectedLine,[m
+[31m-      toolUsed: body.requestedTool,[m
+[31m-    });[m
+[31m-[m
+[31m-    await logResearchEvent({[m
+[31m-      studentKey,[m
+[31m-      lessonNo: Number(body.lessonNo),[m
+[31m-      eventType: "agent_tool_request",[m
+[31m-      selectedLine: body.selectedLine,[m
+[31m-      toolUsed: body.requestedTool,[m
+[31m-      metadata: {[m
+[31m-        studentQuestion: body.studentQuestion ?? null,[m
+[31m-        aiCreditUsed: creditLimitEnabled,[m
+[31m-      },[m
+[31m-    });[m
+[32m+[m[32m    const lessonContext = body.pageNumber[m
+[32m+[m[32m      ? await buildPageContext({[m
+[32m+[m[32m          pageNumber: Number(body.pageNumber),[m
+[32m+[m[32m          lineId: body.lineId,[m
+[32m+[m[32m          fallbackSelectedLine: body.selectedLine,[m
+[32m+[m[32m          fallbackLessonNo: Number(body.lessonNo),[m
+[32m+[m[32m        })[m
+[32m+[m[32m      : buildLessonContext(Number(body.lessonNo), body.selectedLine);[m
+[32m+[m
+[32m+[m[32m    // Run independent DB writes in parallel instead of sequentially - shaves[m
+[32m+[m[32m    // a network round-trip off every request (each Neon round-trip here was[m
+[32m+[m[32m    // adding real latency on top of the Gemini call).[m
+[32m+[m[32m    await Promise.all([[m
+[32m+[m[32m      updateMemoryAfterAgent({[m
+[32m+[m[32m        studentKey,[m
+[32m+[m[32m        lessonNo: Number(body.lessonNo),[m
+[32m+[m[32m        selectedLine: body.selectedLine,[m
+[32m+[m[32m        toolUsed: body.requestedTool,[m
+[32m+[m[32m      }),[m
+[32m+[m[32m      logResearchEvent({[m
+[32m+[m[32m        studentKey,[m
+[32m+[m[32m        lessonNo: Number(body.lessonNo),[m
+[32m+[m[32m        eventType: "agent_tool_request",[m
+[32m+[m[32m        selectedLine: body.selectedLine,[m
+[32m+[m[32m        toolUsed: body.requestedTool,[m
+[32m+[m[32m        metadata: {[m
+[32m+[m[32m          studentQuestion: body.studentQuestion ?? null,[m
+[32m+[m[32m          aiCreditUsed: true,[m
+[32m+[m[32m        },[m
+[32m+[m[32m      }),[m
+[32m+[m[32m    ]);[m
+ [m
+     const memorySummary = await getMemorySummaryForAgent(studentKey);[m
+ [m
+[36m@@ -201,7 +199,7 @@[m [mexport async function POST(request: Request) {[m
+         source: "fallback",[m
+         memory: memorySummary,[m
+         wallet: creditResult.wallet,[m
+[31m-        creditUsed: creditLimitEnabled ? 1 : 0,[m
+[32m+[m[32m        creditUsed: 1,[m
+       });[m
+     }[m
+ [m
+[36m@@ -262,7 +260,7 @@[m [mexport async function POST(request: Request) {[m
+         source: "fallback",[m
+         memory: memorySummary,[m
+         wallet: creditResult.wallet,[m
+[31m-        creditUsed: creditLimitEnabled ? 1 : 0,[m
+[32m+[m[32m        creditUsed: 1,[m
+       });[m
+     }[m
+ [m
+[36m@@ -294,9 +292,15 @@[m [mexport async function POST(request: Request) {[m
+         lessonTitle: lessonContext.lessonTitle,[m
+       },[m
+       source: "gemini",[m
+[32m+[m[32m      retrieval: {[m
+[32m+[m[32m        method: body.pageNumber ? "live-ocr-page" : "legacy-mock-lesson",[m
+[32m+[m[32m        pageNumber: body.pageNumber ?? null,[m
+[32m+[m[32m        retrieved: "retrieved" in lessonContext ? lessonContext.retrieved : true,[m
+[32m+[m[32m        contextUsed: lessonContext.nearbyContext,[m
+[32m+[m[32m      },[m
+       memory: memorySummary,[m
+       wallet: creditResult.wallet,[m
+[31m-      creditUsed: creditLimitEnabled ? 1 : 0,[m
+[32m+[m[32m      creditUsed: 1,[m
+     });[m
+   } catch (error) {[m
+     return Response.json([m
+warning: in the working copy of 'app/reader/page.tsx', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/app/reader/page.tsx b/app/reader/page.tsx[m
+[1mindex a3c4418..ba961b3 100644[m
+[1m--- a/app/reader/page.tsx[m
+[1m+++ b/app/reader/page.tsx[m
+[36m@@ -10,7 +10,6 @@[m [mimport Link from "next/link";[m
+ [m
+ import {[m
+   AlertCircle,[m
+[31m-  AudioLines,[m
+   BookOpen,[m
+   Bot,[m
+   Brain,[m
+[36m@@ -21,8 +20,6 @@[m [mimport {[m
+   Gamepad2,[m
+   Languages,[m
+   Loader2,[m
+[31m-  MessageCircle,[m
+[31m-  Mic,[m
+   Minus,[m
+   Plus,[m
+   ScanText,[m
+[36m@@ -43,12 +40,6 @@[m [mimport {[m
+   getLessonForPage,[m
+ } from "@/lib/book/class6Lessons";[m
+ [m
+[31m-import {[m
+[31m-  buildQuizHref,[m
+[31m-  createQuizLaunchContext,[m
+[31m-  writeQuizLaunchContext,[m
+[31m-} from "@/lib/quiz/quizLaunchContext";[m
+[31m-[m
+ [m
+ type OCRLine = {[m
+   id: string;[m
+[36m@@ -101,51 +92,6 @@[m [mtype TeacherTool =[m
+   | "bangla"[m
+   | "grammar";[m
+ [m
+[31m-type BookConfig = {[m
+[31m-  id: string;[m
+[31m-  classLevel: number;[m
+[31m-  title: string;[m
+[31m-  startPage: number;[m
+[31m-};[m
+[31m-[m
+[31m-const BOOK_CONFIGS: Record<string, BookConfig> = {[m
+[31m-  "class6-english": {[m
+[31m-    id: "class6-english",[m
+[31m-    classLevel: 6,[m
+[31m-    title: "English For Today — Class 6",[m
+[31m-    startPage: 6,[m
+[31m-  },[m
+[31m-  "class7-english": {[m
+[31m-    id: "class7-english",[m
+[31m-    classLevel: 7,[m
+[31m-    title: "English For Today — Class 7",[m
+[31m-    startPage: 1,[m
+[31m-  },[m
+[31m-  "class8-english": {[m
+[31m-    id: "class8-english",[m
+[31m-    classLevel: 8,[m
+[31m-    title: "English For Today — Class 8",[m
+[31m-    startPage: 1,[m
+[31m-  },[m
+[31m-};[m
+[31m-[m
+[31m-function getAvailableLastPage([m
+[31m-  data: IndexData | null,[m
+[31m-) {[m
+[31m-  const availablePages =[m
+[31m-    data?.pages[m
+[31m-      ?.map((page) => page.pageNumber)[m
+[31m-      .filter((page) =>[m
+[31m-        Number.isInteger(page),[m
+[31m-      ) ?? [];[m
+[31m-[m
+[31m-  if (availablePages.length > 0) {[m
+[31m-    return Math.max(...availablePages);[m
+[31m-  }[m
+[31m-[m
+[31m-  return data?.totalPdfPages ?? 1;[m
+[31m-}[m
+[31m-[m
+ [m
+ function formatAIOutput([m
+   value: unknown,[m
+[36m@@ -168,9 +114,6 @@[m [mexport default function ReaderPage() {[m
+   const [studentKey, setStudentKey] =[m
+     useState("");[m
+ [m
+[31m-  const [bookId, setBookId] =[m
+[31m-    useState("class6-english");[m
+[31m-[m
+   const [indexData, setIndexData] =[m
+     useState<IndexData | null>(null);[m
+ [m
+[36m@@ -213,31 +156,30 @@[m [mexport default function ReaderPage() {[m
+     setTeacherError,[m
+   ] = useState("");[m
+ [m
+[32m+[m[32m  const [[m
+[32m+[m[32m    teacherRetrieval,[m
+[32m+[m[32m    setTeacherRetrieval,[m
+[32m+[m[32m  ] = useState<{[m
+[32m+[m[32m    method: string;[m
+[32m+[m[32m    pageNumber: number | null;[m
+[32m+[m[32m    retrieved: boolean;[m
+[32m+[m[32m    contextUsed: string;[m
+[32m+[m[32m  } | null>(null);[m
+ [m
+[31m-  const currentBook =[m
+[31m-    BOOK_CONFIGS[bookId] ??[m
+[31m-    BOOK_CONFIGS["class6-english"];[m
+ [m
+   const totalPages =[m
+[31m-    getAvailableLastPage(indexData);[m
+[32m+[m[32m    indexData?.totalPdfPages ?? 115;[m
+ [m
+[31m-  const fullPdfPages =[m
+[31m-    indexData?.totalPdfPages ?? totalPages;[m
+ [m
+   const activeLesson = useMemo([m
+[31m-    () =>[m
+[31m-      bookId === "class6-english"[m
+[31m-        ? getLessonForPage(pageNumber)[m
+[31m-        : null,[m
+[31m-    [bookId, pageNumber],[m
+[32m+[m[32m    () => getLessonForPage(pageNumber),[m
+[32m+[m[32m    [pageNumber],[m
+   );[m
+ [m
+ [m
+[31m-  async function loadIndex([m
+[31m-    targetBookId = bookId,[m
+[31m-  ) {[m
+[32m+[m[32m  async function loadIndex() {[m
+     const response = await fetch([m
+[31m-      `/api/books/${targetBookId}/index`,[m
+[32m+[m[32m      "/api/books/class6/index",[m
+       {[m
+         cache: "no-store",[m
+       },[m
+[36m@@ -254,18 +196,14 @@[m [mexport default function ReaderPage() {[m
+     }[m
+ [m
+     setIndexData(data);[m
+[31m-[m
+[31m-    return data;[m
+   }[m
+ [m
+ [m
+   async function loadPage([m
+     nextPage: number,[m
+[31m-    targetBookId = bookId,[m
+[31m-    maximumPage = totalPages,[m
+   ) {[m
+     const safePage = Math.min([m
+[31m-      maximumPage,[m
+[32m+[m[32m      totalPages,[m
+       Math.max(1, nextPage),[m
+     );[m
+ [m
+[36m@@ -274,10 +212,11 @@[m [mexport default function ReaderPage() {[m
+     setSelectedLine(null);[m
+     setTeacherResponse("");[m
+     setTeacherError("");[m
+[32m+[m[32m    setTeacherRetrieval(null);[m
+ [m
+     try {[m
+       const response = await fetch([m
+[31m-        `/api/books/${targetBookId}/pages/${safePage}`,[m
+[32m+[m[32m        `/api/books/class6/pages/${safePage}`,[m
+         {[m
+           cache: "no-store",[m
+         },[m
+[36m@@ -310,272 +249,41 @@[m [mexport default function ReaderPage() {[m
+   }[m
+ [m
+ [m
+[31m-  function persistLegacyQuizSelection([m
+[31m-    line: OCRLine | null,[m
+[32m+[m[32m  function selectBookLine([m
+[32m+[m[32m    line: OCRLine,[m
+   ) {[m
+[32m+[m[32m    setSelectedLine(line);[m
+[32m+[m[32m    setTeacherResponse("");[m
+[32m+[m[32m    setTeacherError("");[m
+[32m+[m[32m    setTeacherRetrieval(null);[m
+[32m+[m
+     const lesson =[m
+[31m-      bookId === "class6-english"[m
+[31m-        ? getLessonForPage(pageNumber)[m
+[31m-        : null;[m
+[32m+[m[32m      getLessonForPage(pageNumber);[m
+ [m
+     localStorage.setItem([m
+[31m-      "selectedClass",[m
+[31m-      String(currentBook.classLevel),[m
+[32m+[m[32m      "selectedLine",[m
+[32m+[m[32m      line.cleanText ?? line.text,[m
+     );[m
+ [m
+     localStorage.setItem([m
+[31m-      "selectedBookId",[m
+[31m-      currentBook.id,[m
+[32m+[m[32m      "selectedBookPdfPage",[m
+[32m+[m[32m      String(pageNumber),[m
+     );[m
+ [m
+     localStorage.setItem([m
+[31m-      "selectedBookTitle",[m
+[31m-      currentBook.title,[m
+[32m+[m[32m      "selectedLineId",[m
+[32m+[m[32m      line.id,[m
+     );[m
+ [m
+     localStorage.setItem([m
+[31m-      "selectedBookPdfPage",[m
+[31m-      String(pageNumber),[m
+[32m+[m[32m      "selectedLessonNo",[m
+[32m+[m[32m      String(lesson?.lessonNo ?? 0),[m
+     );[m
+ [m
+[31m-    if (line) {[m
+[31m-      localStorage.setItem([m
+[31m-        "selectedLine",[m
+[31m-        line.cleanText ?? line.text,[m
+[31m-      );[m
+[31m-    } else {[m
+[31m-      localStorage.removeItem([m
+[31m-        "selectedLine",[m
+[31m-      );[m
+[31m-    }[m
+[31m-[m
+[31m-    if (lesson) {[m
+[31m-      localStorage.setItem([m
+[31m-        "selectedLessonNo",[m
+[31m-        String(lesson.lessonNo),[m
+[31m-      );[m
+[31m-[m
+[31m-      localStorage.setItem([m
+[31m-        "selectedLessonTitle",[m
+[31m-        lesson.title,[m
+[31m-      );[m
+[31m-    } else {[m
+[31m-      localStorage.removeItem([m
+[31m-        "selectedLessonNo",[m
+[31m-      );[m
+[31m-[m
+[31m-      localStorage.setItem([m
+[31m-        "selectedLessonTitle",[m
+[31m-        "Lesson mapping unavailable",[m
+[31m-      );[m
+[31m-    }[m
+[31m-  }[m
+[31m-[m
+[31m-[m
+[31m-  function selectBookLine([m
+[31m-    line: OCRLine,[m
+[31m-  ) {[m
+[31m-    setSelectedLine(line);[m
+[31m-    setTeacherResponse("");[m
+[31m-    setTeacherError("");[m
+[31m-[m
+[31m-    persistLegacyQuizSelection(line);[m
+[31m-  }[m
+[31m-[m
+[31m-[m
+[31m-  function buildCurrentQuizContext([m
+[31m-    line: OCRLine | null,[m
+[31m-  ) {[m
+[31m-    if (!pageData) {[m
+[31m-      throw new Error([m
+[31m-        "The current OCR page is not ready.",[m
+[31m-      );[m
+[31m-    }[m
+[31m-[m
+[31m-    const lesson =[m
+[31m-      bookId === "class6-english"[m
+[31m-        ? getLessonForPage(pageNumber)[m
+[31m-        : null;[m
+[31m-[m
+[31m-    const sourceLines =[m
+[31m-      pageData.aiReadyLines.length > 0[m
+[31m-        ? pageData.aiReadyLines[m
+[31m-        : pageData.lines;[m
+[31m-[m
+[31m-    return createQuizLaunchContext({[m
+[31m-      source: "reader",[m
+[31m-      book: {[m
+[31m-        id: currentBook.id,[m
+[31m-        title: currentBook.title,[m
+[31m-        classLevel:[m
+[31m-          currentBook.classLevel,[m
+[31m-      },[m
+[31m-      lesson: {[m
+[31m-        number:[m
+[31m-          lesson?.lessonNo ?? null,[m
+[31m-        title: lesson?.title ?? null,[m
+[31m-        resolution: lesson[m
+[31m-          ? "mapped"[m
+[31m-          : "unavailable",[m
+[31m-      },[m
+[31m-      page: {[m
+[31m-        number: pageNumber,[m
+[31m-        source: pageData.source,[m
+[31m-      },[m
+[31m-      selectedLine: line,[m
+[31m-      pageLines: sourceLines,[m
+[31m-    });[m
+[31m-  }[m
+[31m-[m
+[31m-[m
+[31m-  function launchQuiz([m
+[31m-    line: OCRLine | null,[m
+[31m-  ) {[m
+[31m-    try {[m
+[31m-      const context =[m
+[31m-        buildCurrentQuizContext(line);[m
+[31m-[m
+[31m-      persistLegacyQuizSelection(line);[m
+[31m-      writeQuizLaunchContext(context);[m
+[31m-[m
+[31m-      window.location.assign([m
+[31m-        buildQuizHref(context),[m
+[31m-      );[m
+[31m-    } catch (launchError) {[m
+[31m-      setError([m
+[31m-        launchError instanceof Error[m
+[31m-          ? launchError.message[m
+[31m-          : "Quiz context could not be prepared.",[m
+[31m-      );[m
+[31m-    }[m
+[31m-  }[m
+[31m-[m
+[31m-[m
+[31m-  function launchSpellingPractice([m
+[31m-    line: OCRLine | null,[m
+[31m-  ) {[m
+[31m-    try {[m
+[31m-      const context =[m
+[31m-        buildCurrentQuizContext(line);[m
+[31m-[m
+[31m-      persistLegacyQuizSelection(line);[m
+[31m-      writeQuizLaunchContext(context);[m
+[31m-[m
+[31m-      const parameters =[m
+[31m-        new URLSearchParams({[m
+[31m-          contextId:[m
+[31m-            context.contextId,[m
+[31m-          bookId:[m
+[31m-            context.book.id,[m
+[31m-          page: String([m
+[31m-            context.page.number,[m
+[31m-          ),[m
+[31m-        });[m
+[31m-[m
+[31m-      window.location.assign([m
+[31m-        `/practice/spelling?${parameters.toString()}`,[m
+[31m-      );[m
+[31m-    } catch (launchError) {[m
+[31m-      setError([m
+[31m-        launchError instanceof Error[m
+[31m-          ? launchError.message[m
+[31m-          : "Spelling practice could not be prepared.",[m
+[31m-      );[m
+[31m-    }[m
+[31m-  }[m
+[31m-[m
+[31m-[m
+[31m-  function launchReadAloud([m
+[31m-    line: OCRLine | null,[m
+[31m-  ) {[m
+[31m-    try {[m
+[31m-      if (!line) {[m
+[31m-        throw new Error([m
+[31m-          "Select a textbook line before starting Read Aloud.",[m
+[31m-        );[m
+[31m-      }[m
+[31m-[m
+[31m-      const context =[m
+[31m-        buildCurrentQuizContext([m
+[31m-          line,[m
+[31m-        );[m
+[31m-[m
+[31m-      persistLegacyQuizSelection([m
+[31m-        line,[m
+[31m-      );[m
+[31m-[m
+[31m-      writeQuizLaunchContext([m
+[31m-        context,[m
+[31m-      );[m
+[31m-[m
+[31m-      const parameters =[m
+[31m-        new URLSearchParams({[m
+[31m-          contextId:[m
+[31m-            context.contextId,[m
+[31m-          bookId:[m
+[31m-            context.book.id,[m
+[31m-          page: String([m
+[31m-            context.page.number,[m
+[31m-          ),[m
+[31m-        });[m
+[31m-[m
+[31m-      window.location.assign([m
+[31m-        `/practice/read-aloud?${parameters.toString()}`,[m
+[31m-      );[m
+[31m-    } catch (launchError) {[m
+[31m-      setError([m
+[31m-        launchError instanceof Error[m
+[31m-          ? launchError.message[m
+[31m-          : "Read Aloud could not be prepared.",[m
+[31m-      );[m
+[31m-    }[m
+[31m-  }[m
+[31m-[m
+[31m-[m
+[31m-  function launchSpeakingPractice([m
+[31m-    line: OCRLine | null,[m
+[31m-  ) {[m
+[31m-    try {[m
+[31m-      if (!line) {[m
+[31m-        throw new Error([m
+[31m-          "Select a textbook line before starting Speaking Practice.",[m
+[31m-        );[m
+[31m-      }[m
+[31m-[m
+[31m-      const context =[m
+[31m-        buildCurrentQuizContext([m
+[31m-          line,[m
+[31m-        );[m
+[31m-[m
+[31m-      persistLegacyQuizSelection([m
+[31m-        line,[m
+[31m-      );[m
+[31m-[m
+[31m-      writeQuizLaunchContext([m
+[31m-        context,[m
+[31m-      );[m
+[31m-[m
+[31m-      const parameters =[m
+[31m-        new URLSearchParams({[m
+[31m-          contextId:[m
+[31m-            context.contextId,[m
+[31m-          bookId:[m
+[31m-            context.book.id,[m
+[31m-          page: String([m
+[31m-            context.page.number,[m
+[31m-          ),[m
+[31m-        });[m
+[31m-[m
+[31m-      window.location.assign([m
+[31m-        `/practice/speaking?${parameters.toString()}`,[m
+[31m-      );[m
+[31m-    } catch (launchError) {[m
+[31m-      setError([m
+[31m-        launchError instanceof Error[m
+[31m-          ? launchError.message[m
+[31m-          : "Speaking Practice could not be prepared.",[m
+[31m-      );[m
+[31m-    }[m
+[32m+[m[32m    localStorage.setItem([m
+[32m+[m[32m      "selectedLessonTitle",[m
+[32m+[m[32m      lesson?.title ?? "Book Page",[m
+[32m+[m[32m    );[m
+   }[m
+ [m
+ [m
+[36m@@ -593,12 +301,11 @@[m [mexport default function ReaderPage() {[m
+     setTeacherLoading(true);[m
+     setTeacherResponse("");[m
+     setTeacherError("");[m
+[32m+[m[32m    setTeacherRetrieval(null);[m
+ [m
+     try {[m
+       const lesson =[m
+[31m-        bookId === "class6-english"[m
+[31m-          ? getLessonForPage(pageNumber)[m
+[31m-          : null;[m
+[32m+[m[32m        getLessonForPage(pageNumber);[m
+ [m
+       const response = await fetch([m
+         "/api/agent/learning-loop",[m
+[36m@@ -609,15 +316,16 @@[m [mexport default function ReaderPage() {[m
+               "application/json",[m
+           },[m
+           body: JSON.stringify({[m
+[31m-            studentId: studentKey || "demo-student",[m
+[31m-            studentKey: studentKey || "demo-student",[m
+[31m-            bookId,[m
+[32m+[m[32m            studentId: studentKey,[m
+[32m+[m[32m            studentKey,[m
+             lessonNo:[m
+[31m-              lesson?.lessonNo ?? Math.max(1, pageNumber),[m
+[32m+[m[32m              lesson?.lessonNo ?? 0,[m
+             selectedLine:[m
+               selectedLine.cleanText ??[m
+               selectedLine.text,[m
+             requestedTool: tool,[m
+[32m+[m[32m            pageNumber,[m
+[32m+[m[32m            lineId: selectedLine.id,[m
+           }),[m
+         },[m
+       );[m
+[36m@@ -660,7 +368,12 @@[m [mexport default function ReaderPage() {[m
+             data.answer,[m
+         ),[m
+       );[m
+[32m+[m
+[32m+[m[32m      setTeacherRetrieval([m
+[32m+[m[32m        data.retrieval ?? null,[m
+[32m+[m[32m      );[m
+     } catch (requestError) {[m
+[32m+[m[32m      setTeacherRetrieval(null);[m
+       setTeacherError([m
+         requestError instanceof Error[m
+           ? requestError.message[m
+[36m@@ -672,69 +385,6 @@[m [mexport default function ReaderPage() {[m
+   }[m
+ [m
+ [m
+[31m-  async function switchBook([m
+[31m-    nextBookId: string,[m
+[31m-  ) {[m
+[31m-    const nextBook =[m
+[31m-      BOOK_CONFIGS[nextBookId];[m
+[31m-[m
+[31m-    if (!nextBook) {[m
+[31m-      return;[m
+[31m-    }[m
+[31m-[m
+[31m-    setBookId(nextBookId);[m
+[31m-    setIndexData(null);[m
+[31m-    setPageData(null);[m
+[31m-    setSelectedLine(null);[m
+[31m-    setTeacherResponse("");[m
+[31m-    setTeacherError("");[m
+[31m-    setLoading(true);[m
+[31m-    setError("");[m
+[31m-[m
+[31m-    localStorage.setItem([m
+[31m-      "selectedClass",[m
+[31m-      String(nextBook.classLevel),[m
+[31m-    );[m
+[31m-[m
+[31m-    localStorage.setItem([m
+[31m-      "selectedBookId",[m
+[31m-      nextBook.id,[m
+[31m-    );[m
+[31m-[m
+[31m-    localStorage.setItem([m
+[31m-      "selectedBookTitle",[m
+[31m-      nextBook.title,[m
+[31m-    );[m
+[31m-[m
+[31m-    try

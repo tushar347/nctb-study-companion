@@ -1,0 +1,30 @@
+{
+  "source_sha256": "7558ede0e900940b133b7ba2b3b2374569360446bf3421abae9f01fb8078872b",
+  "source_examples": 340,
+  "train_examples": 286,
+  "validation_examples": 54,
+  "train_validation_example_overlap": 0,
+  "train_validation_source_chunk_overlap": 0,
+  "train_class_distribution": {
+    "6": 68,
+    "7": 52,
+    "8": 166
+  },
+  "validation_class_distribution": {
+    "6": 13,
+    "7": 9,
+    "8": 32
+  },
+  "train_task_distribution": {
+    "mcq": 116,
+    "short_qa": 97,
+    "passage_grounded_qa": 73
+  },
+  "validation_task_distribution": {
+    "mcq": 19,
+    "passage_grounded_qa": 17,
+    "short_qa": 18
+  },
+  "train_sha256": "0e6d8ca70dad4f80837832714e29a3ac78e203285d05e8796bc784a49259a60b",
+  "validation_sha256": "16b952d5c0481c9ee4fd9e3a22365a05d0772bc921223852adf9b24441b7578b"
+}

@@ -1,0 +1,4 @@
+﻿# Local research data containing textbook content
+processed/*.jsonl
+splits/*.jsonl
+raw/

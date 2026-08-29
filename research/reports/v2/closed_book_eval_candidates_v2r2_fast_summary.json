@@ -1,0 +1,41 @@
+{
+  "version": "closed-book-benchmark-candidates-v2r2-fast",
+  "author_model": "gemma3:latest",
+  "source_sha256": "c12c3918044f75c1fd06a91c8cefcf7b2d7210c7ec5abe15e07b4d2206586d57",
+  "generated": 144,
+  "class_distribution": {
+    "6": 49,
+    "7": 49,
+    "8": 46
+  },
+  "incomplete_chunks": [
+    {
+      "chunk_id": "class6-english-chunk-0054",
+      "target": 5,
+      "accepted": 4
+    },
+    {
+      "chunk_id": "class7-english-chunk-0010",
+      "target": 4,
+      "accepted": 3
+    },
+    {
+      "chunk_id": "class8-english-chunk-0104",
+      "target": 2,
+      "accepted": 0
+    },
+    {
+      "chunk_id": "class8-english-chunk-0120",
+      "target": 2,
+      "accepted": 0
+    }
+  ],
+  "rejection_reasons": {
+    "answer_too_long": 9,
+    "answer_not_in_source": 142,
+    "missing_question_mark": 4,
+    "duplicate": 1,
+    "passage_dependent": 3
+  },
+  "candidate_sha256": "d24b41d12067dca69c8d2c7ffe6e74907823784b5a4083591addfbee32154e9d"
+}

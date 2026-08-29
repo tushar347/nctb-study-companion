@@ -1,0 +1,3 @@
+﻿"Model","Parameters","Quantization","WallClockSeconds","OllamaSeconds","PromptTokens","GeneratedTokens","TokensPerSecond","ThinkingCharacters","ValidJson"
+"qwen3:latest","8.2B","Q4_K_M","15.45","15.45","120","45","10.52","0","True"
+"gemma3:latest","4.3B","Q4_K_M","14.36","14.36","128","54","22.1","0","True"

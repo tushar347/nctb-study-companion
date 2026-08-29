@@ -1,0 +1,10 @@
+NCTB Study Companion
+Full English Book Corpus v2r1
+
+Classes: 6, 7, 8
+Combined records: 399
+Combined words: 77892
+Combined SHA256: e2affc5b655e4820847b38b0486fa308b0ee7472e4f8548a7f5f9771cce57bed
+File: research/data/v2/corpus_v2r1/nctb_english_classes_6_7_8_full_corpus_v2r1.jsonl
+
+Revision note: v2r1 resolves Class 6/7 per-page JSON OCR references that were not resolved in the initial v2 build.

@@ -1,0 +1,12 @@
+﻿# Files excluded from the research dataset
+
+project_structure.txt
+ai-response-headers.txt
+ai-response-body.txt
+ai-request.json
+
+# Reasons
+# project_structure.txt: generated directory listing
+# ai-response-headers.txt: HTTP debugging output
+# ai-response-body.txt: failed HTML response and stack trace
+# ai-request.json: operational request containing student identifiers

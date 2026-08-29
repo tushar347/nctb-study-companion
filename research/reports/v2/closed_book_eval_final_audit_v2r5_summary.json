@@ -1,0 +1,20 @@
+{
+  "version": "closed-book-benchmark-final-audit-v2r5",
+  "candidate_sha256": "f8052fa847a350606b52f8a3fbe10c3424171478ad92683097acf37bb19473c6",
+  "candidate_count": 150,
+  "class_distribution": {
+    "6": 50,
+    "7": 50,
+    "8": 50
+  },
+  "stage_b_source_overlap": 0,
+  "auto_status": {
+    "AUTO_PASS": 150,
+    "REVIEW_REQUIRED": 0,
+    "HARD_FAIL": 0
+  },
+  "hard_failure_reasons": {},
+  "review_reasons": {},
+  "near_duplicate_pairs": 0,
+  "flagged_items": []
+}

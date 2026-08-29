@@ -1,0 +1,20 @@
+{
+  "model": "gemma3:latest",
+  "prompt_version": "pilot-grounded-v2",
+  "test_hash_verified": true,
+  "test_sha256": "d8a50ad562e733776ac47d7f84378d2fd96432b801ce1003b1a5c9d605b2a62f",
+  "selected_source_pages": 50,
+  "successful_examples_this_run": 60,
+  "failed_examples_this_run": 24,
+  "skipped_examples_this_run": 16,
+  "candidate_examples_total": 76,
+  "task_counts": {
+    "generate_mcq": 31,
+    "short_extractive_qa": 45
+  },
+  "book_counts": {
+    "class6-english": 38,
+    "class7-english": 38
+  },
+  "finished_at": "2026-08-02T20:52:35.921885+00:00"
+}

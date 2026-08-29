@@ -1,0 +1,69 @@
+{
+  "version": "nctb-training-ready-corpus-v2r2",
+  "source_corpus": "research\\data\\v2\\corpus_v2r1\\nctb_english_classes_6_7_8_full_corpus_v2r1.jsonl",
+  "source_corpus_sha256": "e2affc5b655e4820847b38b0486fa308b0ee7472e4f8548a7f5f9771cce57bed",
+  "source_pages": 399,
+  "kept_pages": 392,
+  "excluded_pages": [
+    {
+      "book_id": "class6-english",
+      "page_number": 1,
+      "reason": "empty_text",
+      "word_count": 0
+    },
+    {
+      "book_id": "class6-english",
+      "page_number": 3,
+      "reason": "front_matter",
+      "word_count": 57
+    },
+    {
+      "book_id": "class6-english",
+      "page_number": 114,
+      "reason": "empty_text",
+      "word_count": 0
+    },
+    {
+      "book_id": "class7-english",
+      "page_number": 1,
+      "reason": "very_short_front_matter",
+      "word_count": 12
+    },
+    {
+      "book_id": "class7-english",
+      "page_number": 3,
+      "reason": "front_matter",
+      "word_count": 54
+    },
+    {
+      "book_id": "class8-english",
+      "page_number": 1,
+      "reason": "very_short_front_matter",
+      "word_count": 7
+    },
+    {
+      "book_id": "class8-english",
+      "page_number": 3,
+      "reason": "front_matter",
+      "word_count": 69
+    }
+  ],
+  "explicit_repairs": [
+    {
+      "book_id": "class8-english",
+      "page_number": 29,
+      "repairs": [
+        "Replaced OCR form 'We-should' with 'We should'.",
+        "Removed trailing OCR artifact 'iS oOo'."
+      ]
+    }
+  ],
+  "total_training_words": 77692,
+  "class_counts": {
+    "class6-english": 112,
+    "class7-english": 120,
+    "class8-english": 160
+  },
+  "combined_file": "research\\data\\v2\\training_ready\\nctb_english_classes_6_7_8_training_ready_v2r2.jsonl",
+  "combined_sha256": "71b43a356414866b6f5ff529022119280a977d738014e810a116885664b94d02"
+}

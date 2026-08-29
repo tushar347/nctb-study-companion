@@ -1,0 +1,10 @@
+﻿1. Extract this ZIP on a Linux CUDA machine.
+2. Open a terminal in the extracted folder.
+3. Install a CUDA-compatible PyTorch build for that machine.
+4. Run:
+   pip install -r research/training/requirements-qwen3-qlora.txt
+5. Start smoke training:
+   python research/scripts/train_qwen3_qlora_v1.py --root . --max-steps 30
+6. Test the adapter:
+   python research/scripts/evaluate_qwen3_adapter_smoke_v1.py --root . --limit 5
+7. Download the complete research/models/nctb-qwen3-1.7b-qlora-v1 folder.

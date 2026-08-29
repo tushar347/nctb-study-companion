@@ -1,0 +1,33 @@
+{
+  "dataset_version": "nctb-qwen3-sft-v1",
+  "source_approved_dataset": "research\\data\\processed\\pilot_sft_approved_v2.jsonl",
+  "approved_dataset_sha256": "7d81fafb001394758c65cdddb65314d8da9e3cdb687193a241fe4127763bc7ea",
+  "seed": 42,
+  "validation_fraction_requested": 0.2,
+  "total_examples": 75,
+  "train_examples": 60,
+  "validation_examples": 15,
+  "train_source_groups": 40,
+  "validation_source_groups": 8,
+  "source_group_overlap": 0,
+  "train_task_counts": {
+    "short_extractive_qa": 37,
+    "generate_mcq": 23
+  },
+  "validation_task_counts": {
+    "short_extractive_qa": 8,
+    "generate_mcq": 7
+  },
+  "train_book_counts": {
+    "class7-english": 30,
+    "class6-english": 30
+  },
+  "validation_book_counts": {
+    "class7-english": 8,
+    "class6-english": 7
+  },
+  "train_sha256": "5ae3410d10eb6c43f3d8333b0a8e41ff0069bbf138f3397f1ae11b71d920e4f1",
+  "validation_sha256": "78f0c8463c26b718b10a9db2484790e1fdc59470bfb7e9037cef783b65969df9",
+  "created_at": "2026-08-09T19:18:40.034091+00:00",
+  "warning": "Pilot smoke-training split only. The locked test split remains separate and must never be used during fine-tuning."
+}

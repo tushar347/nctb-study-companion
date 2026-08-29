@@ -1,0 +1,8 @@
+{
+  "README.md": "e7a592c643f2d3f700c2610c89675ae63a19d0c7fd125f1ad2dbe1103e551376",
+  "research/scripts/evaluate_qwen3_adapter_smoke_v1.py": "b9288409d4efcda7b56a136cea5b6c1e27e0597a0b13e90382d9089ad11e9cd9",
+  "research/scripts/prepare_qwen3_sft_v1.py": "0f8f6fa9f1c693981ab2f74fece01054617c3b9ce4956e347201ec8f5cb6eb8c",
+  "research/scripts/train_qwen3_qlora_v1.py": "bf59565d3d390da5e335bb34802fb20ff7f1c89b18ab65439a8aef37ae8aaa21",
+  "research/training/make_cloud_training_bundle_v1.ps1": "3e2835b81d9655be0dccdc8a35a538bb3ac81afaf096e24d7faaa55cde8ceef7",
+  "research/training/requirements-qwen3-qlora.txt": "79c38def9fafb0cf605d0d9321f234cc482379b80e23e1701d9d6cc2fc7cbc62"
+}

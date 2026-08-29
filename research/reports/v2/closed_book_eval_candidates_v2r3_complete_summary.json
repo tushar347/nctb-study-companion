@@ -1,0 +1,19 @@
+{
+  "version": "closed-book-benchmark-candidates-v2r3-complete",
+  "previous_candidates": 144,
+  "repair_candidates_added": 6,
+  "total_candidates": 150,
+  "class_distribution": {
+    "6": 50,
+    "7": 50,
+    "8": 50
+  },
+  "repair_rejection_reasons": {
+    "answer_not_in_source": 15,
+    "answer_too_long": 11,
+    "duplicate_question": 2,
+    "passage_dependent": 1
+  },
+  "candidate_sha256": "7b7636c670b86a9525c2db0f10733c8557f652742d042135474629d466d6bfa6",
+  "status": "READY_FOR_HUMAN_REVIEW"
+}

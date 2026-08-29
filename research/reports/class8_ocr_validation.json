@@ -1,0 +1,13 @@
+{
+  "expected_pdf_pages": 162,
+  "json_page_files": 162,
+  "successfully_parsed": 162,
+  "parse_errors": [],
+  "missing_page_numbers": [],
+  "unexpected_page_numbers": [],
+  "duplicate_page_numbers": [],
+  "manual_review_pages": 9,
+  "source_counts": {
+    "tesseract": 162
+  }
+}

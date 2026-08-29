@@ -1,0 +1,21 @@
+{
+  "candidate_examples": 76,
+  "automatic_pass": 44,
+  "manual_review_required": 31,
+  "automatic_reject": 1,
+  "automatic_pass_rate_percent": 57.89,
+  "non_reject_rate_percent": 98.68,
+  "decision_counts": {
+    "REJECT": 1,
+    "PASS": 44,
+    "REVIEW": 31
+  },
+  "issue_counts": {
+    "source flag: MULTIPLE_OCR_VERSIONS": 29,
+    "source page requires manual review": 29,
+    "question does not end with a question mark": 2,
+    "question is based on a lesson list": 1,
+    "possible grammar error: did + held": 1,
+    "possible grammar error: did + was": 1
+  }
+}

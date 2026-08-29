@@ -1,0 +1,47 @@
+{
+  "version": "closed-book-benchmark-final-audit-v2r5",
+  "candidate_sha256": "e33e52686b3a57a340ce802fb2efd45eb3ffae85b81e95866808c4af8a9bf924",
+  "candidate_count": 150,
+  "class_distribution": {
+    "6": 50,
+    "7": 50,
+    "8": 50
+  },
+  "stage_b_source_overlap": 0,
+  "auto_status": {
+    "AUTO_PASS": 148,
+    "REVIEW_REQUIRED": 2,
+    "HARD_FAIL": 0
+  },
+  "hard_failure_reasons": {},
+  "review_reasons": {
+    "evidence_not_exact_after_normalization": 1,
+    "near_duplicate_question": 2
+  },
+  "near_duplicate_pairs": 1,
+  "flagged_items": [
+    {
+      "candidate_id": "CBQ-C6-048",
+      "class_level": 6,
+      "question": "Which festivals do villagers celebrate with joy?",
+      "gold_answer": "Pahela Boishakh and Nabanna Utsab",
+      "status": "REVIEW_REQUIRED",
+      "hard_reasons": [],
+      "review_reasons": [
+        "evidence_not_exact_after_normalization",
+        "near_duplicate_question"
+      ]
+    },
+    {
+      "candidate_id": "CBQ-C6-049",
+      "class_level": 6,
+      "question": "Which two festivals do villagers celebrate with joy?",
+      "gold_answer": "Pahela Boishakh and Nabanna Utsab",
+      "status": "REVIEW_REQUIRED",
+      "hard_reasons": [],
+      "review_reasons": [
+        "near_duplicate_question"
+      ]
+    }
+  ]
+}

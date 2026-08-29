@@ -1,0 +1,5 @@
+﻿"index","relative_path","category","extension","size_bytes","estimated_records","parse_status","sensitive_keys","observed_keys","sha256"
+"4","project_structure.txt","OTHER",".txt","2134058","51727","OK","","","6dc8335b43d388b33ca03ff916490ae76c6ba16f67f1252325c6afd0f00405a7"
+"3","ai-response-headers.txt","OTHER",".txt","296","10","OK","","","6d39504f77112eeb47d18a5b6be50ad4c646c777dabcac740e298f98b5d364f2"
+"1","ai-request.json","OTHER",".json","210","1","OK","studentId","lessonNo|requestedTool|selectedLine|studentId|studentKey","852551419477cc9888951bd70294331effeae665e124af4a766053e5b4ef5a1c"
+"2","ai-response-body.txt","OTHER",".txt","10405","1","OK","","","d9111988cd499dd06e8dd908289f0774d36b3f548fee137860ab290475da9a3f"

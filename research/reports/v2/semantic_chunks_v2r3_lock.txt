@@ -1,0 +1,15 @@
+NCTB Study Companion
+Semantic Chunk Corpus v2r3
+
+Source corpus SHA256: 71b43a356414866b6f5ff529022119280a977d738014e810a116885664b94d02
+All chunks: 252
+SFT-source chunks: 202
+Evaluation-question source chunks: 50
+All chunks SHA256: 6cb59a1cd73c564bfa0c66a08c64ef6f3084807c4a3be2380500688f34516a74
+SFT source SHA256: 8bd29e69d264829f7c8c11f03c2cda5babcc0d31306d564bb2f0650d6b6bd9ca
+Evaluation source SHA256: c12c3918044f75c1fd06a91c8cefcf7b2d7210c7ec5abe15e07b4d2206586d57
+
+Stage A domain adaptation uses ALL chunks.
+Stage B supervised example generation uses ONLY nctb_sft_source_chunks_v2r3.jsonl.
+Closed-book evaluation questions use ONLY nctb_eval_question_source_chunks_v2r3.jsonl.
+Evaluation questions must never enter Stage B training.

@@ -1,0 +1,34 @@
+{
+  "version": "nctb-sft-candidates-v2r4",
+  "source_file": "research\\data\\v2\\chunks\\nctb_sft_source_chunks_v2r3.jsonl",
+  "source_sha256": "8bd29e69d264829f7c8c11f03c2cda5babcc0d31306d564bb2f0650d6b6bd9ca",
+  "source_chunks": 202,
+  "generation_calls": 102,
+  "generated_examples": 340,
+  "class_distribution": {
+    "6": 81,
+    "7": 61,
+    "8": 198
+  },
+  "task_distribution": {
+    "mcq": 135,
+    "short_qa": 115,
+    "passage_grounded_qa": 90
+  },
+  "rejection_reasons": {
+    "answer_not_in_evidence": 168,
+    "passage_dependent_question": 28,
+    "mcq_answer_not_grounded": 149,
+    "grounded_answer_missing": 154,
+    "evidence_not_in_source": 98,
+    "missing_question_mark": 9,
+    "correct_answer_not_option": 14,
+    "invalid_json": 13,
+    "passage_not_in_source": 11,
+    "missing_evidence": 2,
+    "answer_too_long": 2,
+    "duplicate_question": 1
+  },
+  "candidate_sha256": "7558ede0e900940b133b7ba2b3b2374569360446bf3421abae9f01fb8078872b",
+  "important": "Candidate SFT dataset only. Not yet locked for training."
+}

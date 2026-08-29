@@ -1,0 +1,70 @@
+{
+  "version": "nctb-full-book-corpus-v2r1",
+  "reason_for_revision": "Previous v2 build did not resolve Class 6 and Class 7 per-page JSON references stored in index.json.",
+  "books": {
+    "class6-english": {
+      "index_records": 115,
+      "corpus_records": 115,
+      "unique_pages": 115,
+      "min_page": 1,
+      "max_page": 115,
+      "missing_page_numbers": [],
+      "duplicate_page_numbers": [],
+      "missing_page_json": [],
+      "empty_text_pages": [
+        1,
+        114
+      ],
+      "page_number_mismatches": [],
+      "total_words": 18939,
+      "extraction_sources": {
+        "page_json:None": 2,
+        "page_json:aiReadyText": 113
+      },
+      "file": "research\\data\\v2\\corpus_v2r1\\class6-english_full_book_v2r1.jsonl",
+      "sha256": "5a59965019b37aec994b9185368c3f817dd4084df0c24e5659502a8b9b60236a"
+    },
+    "class7-english": {
+      "index_records": 122,
+      "corpus_records": 122,
+      "unique_pages": 122,
+      "min_page": 1,
+      "max_page": 122,
+      "missing_page_numbers": [],
+      "duplicate_page_numbers": [],
+      "missing_page_json": [],
+      "empty_text_pages": [],
+      "page_number_mismatches": [],
+      "total_words": 23011,
+      "extraction_sources": {
+        "page_json:aiReadyText": 122
+      },
+      "file": "research\\data\\v2\\corpus_v2r1\\class7-english_full_book_v2r1.jsonl",
+      "sha256": "cf24b13a8c9851422a2118008cd2fe1bf62a8919e986431b16ff4863bad6dc73"
+    },
+    "class8-english": {
+      "index_records": 162,
+      "corpus_records": 162,
+      "unique_pages": 162,
+      "min_page": 1,
+      "max_page": 162,
+      "missing_page_numbers": [],
+      "duplicate_page_numbers": [],
+      "missing_page_json": [],
+      "empty_text_pages": [],
+      "page_number_mismatches": [],
+      "total_words": 35942,
+      "extraction_sources": {
+        "index:aiReadyText": 162
+      },
+      "file": "research\\data\\v2\\corpus_v2r1\\class8-english_full_book_v2r1.jsonl",
+      "sha256": "9db94ba7676a5f12ce550010d4b538780b57192ab89c666ef0378d3101ac743f"
+    }
+  },
+  "combined": {
+    "records": 399,
+    "total_words": 77892,
+    "file": "research\\data\\v2\\corpus_v2r1\\nctb_english_classes_6_7_8_full_corpus_v2r1.jsonl",
+    "sha256": "e2affc5b655e4820847b38b0486fa308b0ee7472e4f8548a7f5f9771cce57bed"
+  }
+}
