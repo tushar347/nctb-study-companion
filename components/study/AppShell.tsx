@@ -8,9 +8,11 @@ import {
   BookOpen,
   ClipboardList,
   Gamepad2,
+  Gift,
   GraduationCap,
   Home,
   LogOut,
+  Mic2,
   UserRound,
 } from "lucide-react";
 
@@ -20,6 +22,8 @@ const navItems = [
   { href: "/teacher", label: "AI Teacher", icon: GraduationCap },
   { href: "/quiz", label: "Quiz", icon: ClipboardList },
   { href: "/games", label: "Games", icon: Gamepad2 },
+  { href: "/voice-practice", label: "Voice Practice", icon: Mic2 },
+  { href: "/rewards", label: "Rewards", icon: Gift },
   { href: "/progress", label: "Progress", icon: BarChart3 },
 ];
 

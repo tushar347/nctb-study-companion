@@ -1,10 +1,6 @@
 "use client";
 
-import {
-  useEffect,
-  useState,
-  type ReactNode,
-} from "react";
+import { useEffect, useState, type ReactNode } from "react";
 
 import Link from "next/link";
 import { useRouter } from "next/navigation";
@@ -19,18 +15,18 @@ import {
   ClipboardList,
   FlaskConical,
   Gamepad2,
+  Gift,
   GraduationCap,
   Home,
   Languages,
   LogOut,
+  Mic2,
   School,
   UserRound,
   type LucideIcon,
 } from "lucide-react";
 
-import {
-  getStoredStudentName,
-} from "@/lib/studentSession";
+import { getStoredStudentName } from "@/lib/studentSession";
 
 type ClassOption = {
   id: number;
@@ -143,13 +139,9 @@ function StepHeading({
           {step}
         </p>
 
-        <h2 className="mt-1 text-2xl font-black text-slate-950">
-          {title}
-        </h2>
+        <h2 className="mt-1 text-2xl font-black text-slate-950">{title}</h2>
 
-        <p className="mt-2 text-sm font-medium text-slate-600">
-          {description}
-        </p>
+        <p className="mt-2 text-sm font-medium text-slate-600">{description}</p>
       </div>
     </div>
   );
@@ -158,67 +150,39 @@ function StepHeading({
 export default function HomePage() {
   const router = useRouter();
 
-  const [studentName, setStudentName] =
-    useState("Student");
+  const [studentName, setStudentName] = useState("Student");
 
-  const [selectedClass, setSelectedClass] =
-    useState(6);
+  const [selectedClass, setSelectedClass] = useState(6);
 
-  const [selectedBook, setSelectedBook] =
-    useState("class6-english");
+  const [selectedBook, setSelectedBook] = useState("class6-english");
 
   useEffect(() => {
-    setStudentName(
-      getStoredStudentName() || "Student",
-    );
+    setStudentName(getStoredStudentName() || "Student");
 
-    const storedClass = Number(
-      localStorage.getItem(
-        "selectedClass",
-      ) ?? 6,
-    );
+    const storedClass = Number(localStorage.getItem("selectedClass") ?? 6);
 
     const storedBook =
-      localStorage.getItem(
-        "selectedBookId",
-      ) ?? "class6-english";
+      localStorage.getItem("selectedBookId") ?? "class6-english";
 
     if (storedClass === 6) {
       setSelectedClass(storedClass);
     }
 
-    if (
-      bookOptions.some(
-        (book) =>
-          book.id === storedBook &&
-          book.available,
-      )
-    ) {
+    if (bookOptions.some((book) => book.id === storedBook && book.available)) {
       setSelectedBook(storedBook);
     }
   }, []);
 
   function continueToReader() {
-    const activeBook =
-      bookOptions.find(
-        (book) =>
-          book.id === selectedBook,
-      );
+    const activeBook = bookOptions.find((book) => book.id === selectedBook);
 
-    localStorage.setItem(
-      "selectedClass",
-      String(selectedClass),
-    );
+    localStorage.setItem("selectedClass", String(selectedClass));
 
-    localStorage.setItem(
-      "selectedBookId",
-      selectedBook,
-    );
+    localStorage.setItem("selectedBookId", selectedBook);
 
     localStorage.setItem(
       "selectedBookTitle",
-      activeBook?.title ??
-        "English For Today",
+      activeBook?.title ?? "English For Today",
     );
 
     router.push("/reader");
@@ -266,8 +230,7 @@ export default function HomePage() {
             style={{
               background:
                 "radial-gradient(circle at 45% 40%, rgba(255,100,112,0.82) 0%, rgba(244,42,65,0.70) 58%, rgba(211,24,48,0.56) 100%)",
-              boxShadow:
-                "0 0 55px rgba(244,42,65,0.28)",
+              boxShadow: "0 0 55px rgba(244,42,65,0.28)",
             }}
           />
 
@@ -338,48 +301,35 @@ export default function HomePage() {
             </div>
 
             <nav className="flex items-center gap-1 overflow-x-auto rounded-full border border-white/80 bg-white/68 p-1.5 shadow-[inset_0_1px_0_rgba(255,255,255,0.85),0_10px_25px_rgba(0,106,78,0.12)] backdrop-blur-2xl">
-              <NavigationItem
-                href="/home"
-                active
-                icon={<Home size={16} />}
-              >
+              <NavigationItem href="/home" active icon={<Home size={16} />}>
                 Home
               </NavigationItem>
 
-              <NavigationItem
-                href="/reader"
-                icon={<BookOpen size={16} />}
-              >
+              <NavigationItem href="/reader" icon={<BookOpen size={16} />}>
                 Reader
               </NavigationItem>
 
-              <NavigationItem
-                href="/teacher"
-                icon={<Bot size={16} />}
-              >
+              <NavigationItem href="/teacher" icon={<Bot size={16} />}>
                 AI Teacher
               </NavigationItem>
 
-              <NavigationItem
-                href="/quiz"
-                icon={
-                  <ClipboardList size={16} />
-                }
-              >
+              <NavigationItem href="/quiz" icon={<ClipboardList size={16} />}>
                 Quiz
               </NavigationItem>
 
-              <NavigationItem
-                href="/games"
-                icon={<Gamepad2 size={16} />}
-              >
+              <NavigationItem href="/games" icon={<Gamepad2 size={16} />}>
                 Games
               </NavigationItem>
 
-              <NavigationItem
-                href="/progress"
-                icon={<BarChart3 size={16} />}
-              >
+              <NavigationItem href="/voice-practice" icon={<Mic2 size={16} />}>
+                Voice Practice
+              </NavigationItem>
+
+              <NavigationItem href="/rewards" icon={<Gift size={16} />}>
+                Rewards
+              </NavigationItem>
+
+              <NavigationItem href="/progress" icon={<BarChart3 size={16} />}>
                 Progress
               </NavigationItem>
             </nav>
@@ -396,48 +346,34 @@ export default function HomePage() {
             />
 
             <div className="mt-6 space-y-4">
-              {classOptions.map(
-                (classItem) => {
-                  const selected =
-                    selectedClass ===
-                    classItem.id;
+              {classOptions.map((classItem) => {
+                const selected = selectedClass === classItem.id;
 
-                  return (
-                    <button
-                      type="button"
-                      key={classItem.id}
-                      disabled={
-                        !classItem.available
-                      }
-                      onClick={() =>
-                        setSelectedClass(
-                          classItem.id,
-                        )
-                      }
-                      className={`w-full rounded-[24px] border px-5 py-5 text-left transition duration-300 ${
-                        selected
-                          ? "border-emerald-400/60 bg-gradient-to-r from-emerald-100 to-emerald-400/70 text-slate-950 shadow-[0_13px_30px_rgba(16,185,129,0.25)]"
-                          : "border-slate-200/80 bg-gradient-to-r from-slate-100 to-slate-300/80 text-slate-700"
-                      } ${
-                        classItem.available
-                          ? "hover:-translate-y-1 hover:shadow-xl"
-                          : "cursor-not-allowed opacity-75"
-                      }`}
-                      aria-pressed={selected}
-                    >
-                      <p className="text-xl font-black">
-                        {classItem.title}
-                      </p>
+                return (
+                  <button
+                    type="button"
+                    key={classItem.id}
+                    disabled={!classItem.available}
+                    onClick={() => setSelectedClass(classItem.id)}
+                    className={`w-full rounded-[24px] border px-5 py-5 text-left transition duration-300 ${
+                      selected
+                        ? "border-emerald-400/60 bg-gradient-to-r from-emerald-100 to-emerald-400/70 text-slate-950 shadow-[0_13px_30px_rgba(16,185,129,0.25)]"
+                        : "border-slate-200/80 bg-gradient-to-r from-slate-100 to-slate-300/80 text-slate-700"
+                    } ${
+                      classItem.available
+                        ? "hover:-translate-y-1 hover:shadow-xl"
+                        : "cursor-not-allowed opacity-75"
+                    }`}
+                    aria-pressed={selected}
+                  >
+                    <p className="text-xl font-black">{classItem.title}</p>
 
-                      <p className="mt-1 text-sm font-medium">
-                        {classItem.available
-                          ? "Available"
-                          : "Coming soon"}
-                      </p>
-                    </button>
-                  );
-                },
-              )}
+                    <p className="mt-1 text-sm font-medium">
+                      {classItem.available ? "Available" : "Coming soon"}
+                    </p>
+                  </button>
+                );
+              })}
             </div>
           </div>
 
@@ -446,77 +382,54 @@ export default function HomePage() {
               step="Step 2"
               title="Choose Book"
               description="Select a subject book to continue."
-              icon={
-                <BookMarked size={27} />
-              }
+              icon={<BookMarked size={27} />}
             />
 
             <div className="mt-6 grid gap-4 sm:grid-cols-2">
-              {bookOptions.map(
-                (book) => {
-                  const BookIcon =
-                    book.icon;
+              {bookOptions.map((book) => {
+                const BookIcon = book.icon;
 
-                  const selected =
-                    selectedBook ===
-                    book.id;
+                const selected = selectedBook === book.id;
 
-                  return (
-                    <button
-                      type="button"
-                      key={book.id}
-                      disabled={!book.available}
-                      onClick={() =>
-                        setSelectedBook(
-                          book.id,
-                        )
-                      }
-                      className={`group min-h-[116px] rounded-[24px] border p-5 text-left transition duration-300 ${
-                        selected
-                          ? "border-emerald-500 bg-gradient-to-br from-emerald-600 to-emerald-500 text-white shadow-[0_18px_38px_rgba(5,150,105,0.28)]"
-                          : "border-slate-200/80 bg-gradient-to-br from-slate-100 to-slate-300/90 text-slate-600"
-                      } ${
-                        book.available
-                          ? "hover:-translate-y-1 hover:shadow-2xl"
-                          : "cursor-not-allowed opacity-80"
+                return (
+                  <button
+                    type="button"
+                    key={book.id}
+                    disabled={!book.available}
+                    onClick={() => setSelectedBook(book.id)}
+                    className={`group min-h-[116px] rounded-[24px] border p-5 text-left transition duration-300 ${
+                      selected
+                        ? "border-emerald-500 bg-gradient-to-br from-emerald-600 to-emerald-500 text-white shadow-[0_18px_38px_rgba(5,150,105,0.28)]"
+                        : "border-slate-200/80 bg-gradient-to-br from-slate-100 to-slate-300/90 text-slate-600"
+                    } ${
+                      book.available
+                        ? "hover:-translate-y-1 hover:shadow-2xl"
+                        : "cursor-not-allowed opacity-80"
+                    }`}
+                    aria-pressed={selected}
+                  >
+                    <BookIcon
+                      size={27}
+                      className={selected ? "text-white" : "text-slate-500"}
+                    />
+
+                    <p className="mt-4 text-lg font-black">{book.title}</p>
+
+                    <p
+                      className={`mt-1 text-sm font-medium ${
+                        selected ? "text-emerald-50" : "text-slate-500"
                       }`}
-                      aria-pressed={selected}
                     >
-                      <BookIcon
-                        size={27}
-                        className={
-                          selected
-                            ? "text-white"
-                            : "text-slate-500"
-                        }
-                      />
-
-                      <p className="mt-4 text-lg font-black">
-                        {book.title}
-                      </p>
-
-                      <p
-                        className={`mt-1 text-sm font-medium ${
-                          selected
-                            ? "text-emerald-50"
-                            : "text-slate-500"
-                        }`}
-                      >
-                        {book.subtitle}
-                      </p>
-                    </button>
-                  );
-                },
-              )}
+                      {book.subtitle}
+                    </p>
+                  </button>
+                );
+              })}
             </div>
 
             <div className="mt-5 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
               <div className="flex items-center gap-2 text-xs font-bold text-slate-500">
-                <GraduationCap
-                  size={17}
-                  className="text-emerald-700"
-                />
-
+                <GraduationCap size={17} className="text-emerald-700" />
                 Class {selectedClass} learning workspace
               </div>
 
@@ -524,14 +437,11 @@ export default function HomePage() {
                 type="button"
                 onClick={continueToReader}
                 disabled={
-                  selectedClass !== 6 ||
-                  selectedBook !==
-                    "class6-english"
+                  selectedClass !== 6 || selectedBook !== "class6-english"
                 }
                 className="group flex items-center justify-center gap-2 rounded-full border border-slate-200 bg-white px-6 py-3 text-sm font-black text-slate-950 shadow-[0_12px_26px_rgba(51,65,85,0.18)] transition hover:-translate-y-1 hover:bg-emerald-600 hover:text-white disabled:cursor-not-allowed disabled:opacity-40"
               >
                 Continue to Reader
-
                 <ArrowRight
                   size={17}
                   className="transition group-hover:translate-x-1"

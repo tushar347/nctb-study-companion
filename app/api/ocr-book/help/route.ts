@@ -48,7 +48,7 @@ export async function POST(request: Request) {
         {
           error: "lineText is required",
         },
-        { status: 400 }
+        { status: 400 },
       );
     }
 
@@ -71,18 +71,6 @@ export async function POST(request: Request) {
       selectedLine: lineText,
       toolUsed: "ocr_help",
     });
-
-    if (!creditResult.success) {
-      return Response.json(
-        {
-          success: false,
-          error: creditResult.error,
-          wallet: creditResult.wallet,
-          needsRedeem: true,
-        },
-        { status: 402 },
-      );
-    }
 
     const prompt = `
 You are an English-Bangla textbook study assistant for Class 6 students in Bangladesh.
@@ -124,7 +112,7 @@ Rules:
             responseMimeType: "application/json",
           },
         }),
-      }
+      },
     );
 
     if (!geminiResponse.ok) {
@@ -155,7 +143,7 @@ Rules:
       {
         error: "OCR helper failed",
       },
-      { status: 500 }
+      { status: 500 },
     );
   }
 }

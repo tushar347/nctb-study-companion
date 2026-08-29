@@ -130,61 +130,10 @@ export async function useAiTeacherCredit(input: {
 }) {
   const { student, wallet } = await getOrCreateStudentWallet(input.studentKey);
 
-  if (wallet.aiCredits <= 0) {
-    return {
-      success: false,
-      error:
-        "No AI Teacher credits left. Play quiz or grammar games to earn points, then redeem points for more AI credits.",
-      wallet,
-    };
-  }
-
-  const updatedWallet = await prisma.studentWallet.update({
-    where: {
-      studentId: student.id,
-    },
-    data: {
-      aiCredits: {
-        decrement: 1,
-      },
-      lifetimeCreditsUsed: {
-        increment: 1,
-      },
-    },
-  });
-
-  const usageLog = await prisma.aiUsageLog.create({
-    data: {
-      studentId: student.id,
-      lessonNo: input.lessonNo,
-      selectedLine: input.selectedLine,
-      question: input.question,
-      toolUsed: input.toolUsed,
-      creditsUsed: 1,
-    },
-  });
-
-  const transaction = await prisma.rewardTransaction.create({
-    data: {
-      studentId: student.id,
-      type: "USE_AI_CREDIT",
-      pointsChange: 0,
-      creditsChange: -1,
-      reason: `Used 1 AI Teacher credit for ${input.toolUsed ?? "AI Teacher"}.`,
-      metadataJson: JSON.stringify({
-        lessonNo: input.lessonNo,
-        selectedLine: input.selectedLine,
-        question: input.question,
-        toolUsed: input.toolUsed,
-      }),
-    },
-  });
-
   return {
     success: true,
     student,
-    wallet: updatedWallet,
-    usageLog,
-    transaction,
+    wallet,
+    unlimited: true,
   };
 }
