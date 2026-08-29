@@ -57,3 +57,9 @@ public/ocr/books/
 !public/ocr/books/class8-english/pages/
 !public/ocr/books/class8-english/pages/*.json
 !public/ocr/books/class8-english/class8_ocr_run_summary.json
+
+venv/
+.venv-ocr/
+research/.venv-ocr/
+__pycache__/
+*.pyc

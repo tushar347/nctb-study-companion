@@ -37,6 +37,7 @@ type StudentProfile = {
   name?: string | null;
   classLevel?: number | null;
   schoolName?: string | null;
+  avatarTheme?: string | null;
 };
 
 export default function AppShell({
@@ -70,6 +71,15 @@ export default function AppShell({
         setStudent(profile);
 
         /*
+         * Use the saved avatar theme first.
+         */
+        if (profile.avatarTheme) {
+          setAvatarTheme(
+            profile.avatarTheme,
+          );
+        }
+
+        /*
          * Load the student's reward/avatar
          * information from the rewards API.
          */
@@ -89,10 +99,22 @@ export default function AppShell({
               return res.json();
             })
             .then((data) => {
-              setAvatarTheme(
+              const theme =
                 data?.avatarTheme ??
-                  "blue",
-              );
+                profile.avatarTheme ??
+                "blue";
+
+              setAvatarTheme(theme);
+
+              /*
+               * Keep the theme inside the local
+               * student object so the main
+               * background can use student.avatarTheme.
+               */
+              setStudent({
+                ...profile,
+                avatarTheme: theme,
+              });
 
               setProfileFrame(
                 data?.inventory?.some(
@@ -106,15 +128,21 @@ export default function AppShell({
             })
             .catch(() => {
               /*
-               * Keep the default avatar
+               * Keep the saved/default avatar
                * if reward data cannot load.
                */
-              setAvatarTheme("blue");
+              setAvatarTheme(
+                profile.avatarTheme ??
+                  "blue",
+              );
+
               setProfileFrame(false);
             });
         }
       } catch {
         setStudent(null);
+        setAvatarTheme("blue");
+        setProfileFrame(false);
       }
     }
   }, []);
@@ -158,9 +186,9 @@ export default function AppShell({
   return (
     <main
       className={`relative min-h-screen overflow-hidden px-3 py-5 text-slate-900 md:px-6 ${
-        avatarTheme === "violet"
+        student?.avatarTheme === "violet"
           ? "bg-purple-100"
-          : avatarTheme === "emerald"
+          : student?.avatarTheme === "emerald"
             ? "bg-emerald-100"
             : "bg-[#eaf4ff]"
       }`}

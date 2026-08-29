@@ -9,6 +9,10 @@ import {
 import Link from "next/link";
 
 import {
+  useRouter,
+} from "next/navigation";
+
+import {
   AlertCircle,
   BookOpen,
   Bot,
@@ -40,7 +44,6 @@ import {
   getLessonForPage,
 } from "@/lib/book/class6Lessons";
 
-
 type OCRLine = {
   id: string;
   lineNumber: number;
@@ -57,7 +60,6 @@ type OCRLine = {
   aiReady: boolean;
 };
 
-
 type PageData = {
   success: boolean;
   bookId: string;
@@ -70,7 +72,6 @@ type PageData = {
   aiReadyLines: OCRLine[];
   error?: string;
 };
-
 
 type IndexData = {
   success: boolean;
@@ -86,12 +87,10 @@ type IndexData = {
   error?: string;
 };
 
-
 type TeacherTool =
   | "simple"
   | "bangla"
   | "grammar";
-
 
 function formatAIOutput(
   value: unknown,
@@ -106,8 +105,10 @@ function formatAIOutput(
     .trim();
 }
 
-
 export default function ReaderPage() {
+  const router =
+    useRouter();
+
   const [studentName, setStudentName] =
     useState("Student");
 
@@ -166,29 +167,33 @@ export default function ReaderPage() {
     contextUsed: string;
   } | null>(null);
 
-
   const totalPages =
     indexData?.totalPdfPages ?? 115;
 
-
   const activeLesson = useMemo(
-    () => getLessonForPage(pageNumber),
+    () =>
+      getLessonForPage(
+        pageNumber,
+      ),
     [pageNumber],
   );
 
-
   async function loadIndex() {
-    const response = await fetch(
-      "/api/books/class6/index",
-      {
-        cache: "no-store",
-      },
-    );
+    const response =
+      await fetch(
+        "/api/books/class6/index",
+        {
+          cache: "no-store",
+        },
+      );
 
     const data =
       (await response.json()) as IndexData;
 
-    if (!response.ok || !data.success) {
+    if (
+      !response.ok ||
+      !data.success
+    ) {
       throw new Error(
         data.error ??
           "Book index could not be loaded.",
@@ -198,14 +203,17 @@ export default function ReaderPage() {
     setIndexData(data);
   }
 
-
   async function loadPage(
     nextPage: number,
   ) {
-    const safePage = Math.min(
-      totalPages,
-      Math.max(1, nextPage),
-    );
+    const safePage =
+      Math.min(
+        totalPages,
+        Math.max(
+          1,
+          nextPage,
+        ),
+      );
 
     setLoading(true);
     setError("");
@@ -215,31 +223,48 @@ export default function ReaderPage() {
     setTeacherRetrieval(null);
 
     try {
-      const response = await fetch(
-        `/api/books/class6/pages/${safePage}`,
-        {
-          cache: "no-store",
-        },
-      );
+      const response =
+        await fetch(
+          `/api/books/class6/pages/${safePage}`,
+          {
+            cache: "no-store",
+          },
+        );
 
       const data =
         (await response.json()) as PageData;
 
-      if (!response.ok || !data.success) {
+      if (
+        !response.ok ||
+        !data.success
+      ) {
         throw new Error(
           data.error ??
             `OCR page ${safePage} is unavailable.`,
         );
       }
 
-      setPageNumber(safePage);
-      setJumpPage(String(safePage));
-      setPageData(data);
-    } catch (requestError) {
-      setPageData(null);
+      setPageNumber(
+        safePage,
+      );
+
+      setJumpPage(
+        String(safePage),
+      );
+
+      setPageData(
+        data,
+      );
+    } catch (
+      requestError
+    ) {
+      setPageData(
+        null,
+      );
 
       setError(
-        requestError instanceof Error
+        requestError instanceof
+          Error
           ? requestError.message
           : "Book page could not be loaded.",
       );
@@ -248,26 +273,41 @@ export default function ReaderPage() {
     }
   }
 
-
   function selectBookLine(
     line: OCRLine,
   ) {
-    setSelectedLine(line);
-    setTeacherResponse("");
-    setTeacherError("");
-    setTeacherRetrieval(null);
+    setSelectedLine(
+      line,
+    );
+
+    setTeacherResponse(
+      "",
+    );
+
+    setTeacherError(
+      "",
+    );
+
+    setTeacherRetrieval(
+      null,
+    );
 
     const lesson =
-      getLessonForPage(pageNumber);
+      getLessonForPage(
+        pageNumber,
+      );
 
     localStorage.setItem(
       "selectedLine",
-      line.cleanText ?? line.text,
+      line.cleanText ??
+        line.text,
     );
 
     localStorage.setItem(
       "selectedBookPdfPage",
-      String(pageNumber),
+      String(
+        pageNumber,
+      ),
     );
 
     localStorage.setItem(
@@ -277,15 +317,18 @@ export default function ReaderPage() {
 
     localStorage.setItem(
       "selectedLessonNo",
-      String(lesson?.lessonNo ?? 0),
+      String(
+        lesson?.lessonNo ??
+          0,
+      ),
     );
 
     localStorage.setItem(
       "selectedLessonTitle",
-      lesson?.title ?? "Book Page",
+      lesson?.title ??
+        "Book Page",
     );
   }
-
 
   async function askTeacher(
     tool: TeacherTool,
@@ -298,52 +341,96 @@ export default function ReaderPage() {
       return;
     }
 
-    setTeacherLoading(true);
-    setTeacherResponse("");
-    setTeacherError("");
-    setTeacherRetrieval(null);
+    setTeacherLoading(
+      true,
+    );
+
+    setTeacherResponse(
+      "",
+    );
+
+    setTeacherError(
+      "",
+    );
+
+    setTeacherRetrieval(
+      null,
+    );
 
     try {
       const lesson =
-        getLessonForPage(pageNumber);
+        getLessonForPage(
+          pageNumber,
+        );
 
-      const response = await fetch(
-        "/api/agent/learning-loop",
-        {
-          method: "POST",
-          headers: {
-            "Content-Type":
-              "application/json",
+      const response =
+        await fetch(
+          "/api/agent/learning-loop",
+          {
+            method: "POST",
+            headers: {
+              "Content-Type":
+                "application/json",
+            },
+            body: JSON.stringify({
+              studentId:
+                studentKey,
+
+              studentKey,
+
+              lessonNo:
+                lesson?.lessonNo ??
+                0,
+
+              selectedLine:
+                selectedLine.cleanText ??
+                selectedLine.text,
+
+              requestedTool:
+                tool,
+
+              pageNumber,
+
+              lineId:
+                selectedLine.id,
+            }),
           },
-          body: JSON.stringify({
-            studentId: studentKey,
-            studentKey,
-            lessonNo:
-              lesson?.lessonNo ?? 0,
-            selectedLine:
-              selectedLine.cleanText ??
-              selectedLine.text,
-            requestedTool: tool,
-            pageNumber,
-            lineId: selectedLine.id,
-          }),
-        },
-      );
+        );
 
-      const rawResponse = await response.text();
+      const rawResponse =
+        await response.text();
 
       let data: any;
 
       try {
-        data = JSON.parse(rawResponse);
+        data =
+          JSON.parse(
+            rawResponse,
+          );
       } catch {
-        const readableError = rawResponse
-          .replace(/<script[\s\S]*?<\/script>/gi, " ")
-          .replace(/<style[\s\S]*?<\/style>/gi, " ")
-          .replace(/<[^>]+>/g, " ")
-          .replace(/\s+/g, " ")
-          .trim()
-          .slice(0, 250);
+        const readableError =
+          rawResponse
+            .replace(
+              /<script[\s\S]*?<\/script>/gi,
+              " ",
+            )
+            .replace(
+              /<style[\s\S]*?<\/style>/gi,
+              " ",
+            )
+            .replace(
+              /<[^>]+>/g,
+              " ",
+            )
+            .replace(
+              /\s+/g,
+              " ",
+            )
+            .trim()
+            .slice(
+              0,
+              250,
+            );
 
         throw new Error(
           `AI API returned ${response.status} ${response.statusText}. ${
@@ -370,34 +457,94 @@ export default function ReaderPage() {
       );
 
       setTeacherRetrieval(
-        data.retrieval ?? null,
+        data.retrieval ??
+          null,
       );
-    } catch (requestError) {
-      setTeacherRetrieval(null);
+    } catch (
+      requestError
+    ) {
+      setTeacherRetrieval(
+        null,
+      );
+
       setTeacherError(
-        requestError instanceof Error
+        requestError instanceof
+          Error
           ? requestError.message
           : "AI Teacher failed.",
       );
     } finally {
-      setTeacherLoading(false);
+      setTeacherLoading(
+        false,
+      );
     }
   }
-
 
   function submitJumpPage() {
     const requestedPage =
-      Number(jumpPage);
+      Number(
+        jumpPage,
+      );
 
     if (
-      Number.isInteger(requestedPage) &&
+      Number.isInteger(
+        requestedPage,
+      ) &&
       requestedPage >= 1 &&
-      requestedPage <= totalPages
+      requestedPage <=
+        totalPages
     ) {
-      loadPage(requestedPage);
+      loadPage(
+        requestedPage,
+      );
     }
   }
 
+  function openVoicePractice() {
+    if (!selectedLine) {
+      setTeacherError(
+        "Select a highlighted book line first.",
+      );
+
+      return;
+    }
+
+    const lesson =
+      getLessonForPage(
+        pageNumber,
+      );
+
+    localStorage.setItem(
+      "voicePracticeContext",
+      JSON.stringify({
+        bookId:
+          "class6-english",
+
+        pageNumber,
+
+        selectedLine,
+
+        sourceLineId:
+          selectedLine.id,
+
+        promptText:
+          selectedLine.cleanText ??
+          selectedLine.text,
+
+        lessonNo:
+          lesson?.lessonNo ??
+          0,
+
+        lessonTitle:
+          lesson?.title ??
+          "Book Page",
+      }),
+    );
+
+    router.push(
+      "/practice/speaking",
+    );
+  }
 
   useEffect(() => {
     const name =
@@ -406,27 +553,36 @@ export default function ReaderPage() {
     const key =
       getStoredStudentKey();
 
-    setStudentName(name);
-    setStudentKey(key);
+    setStudentName(
+      name,
+    );
+
+    setStudentKey(
+      key,
+    );
 
     async function startReader() {
       try {
         await loadIndex();
         await loadPage(6);
-      } catch (startError) {
+      } catch (
+        startError
+      ) {
         setError(
-          startError instanceof Error
+          startError instanceof
+            Error
             ? startError.message
             : "Reader could not start.",
         );
 
-        setLoading(false);
+        setLoading(
+          false,
+        );
       }
     }
 
     startReader();
   }, []);
-
 
   return (
     <AppShell>
@@ -482,15 +638,20 @@ export default function ReaderPage() {
             </p>
 
             <p className="mt-3 text-sm font-black text-orange-700">
-              PDF Page {pageNumber} / {totalPages}
+              PDF Page {pageNumber} /{" "}
+              {totalPages}
             </p>
 
             <p className="mt-1 text-sm font-bold text-slate-600">
-              {pageData?.lines.length ?? 0} detected lines
+              {pageData?.lines
+                .length ?? 0}{" "}
+              detected lines
             </p>
 
             <p className="mt-1 text-xs font-bold text-slate-500">
-              Source: {pageData?.source ?? "--"}
+              Source:{" "}
+              {pageData?.source ??
+                "--"}
             </p>
           </div>
 
@@ -501,9 +662,13 @@ export default function ReaderPage() {
 
             <div className="max-h-64 space-y-2 overflow-y-auto pr-1">
               {class6Lessons.map(
-                (lesson) => (
+                (
+                  lesson,
+                ) => (
                   <button
-                    key={lesson.lessonNo}
+                    key={
+                      lesson.lessonNo
+                    }
                     onClick={() =>
                       loadPage(
                         lesson.pdfStart,
@@ -516,8 +681,13 @@ export default function ReaderPage() {
                         : "bg-white/75 text-slate-700 hover:bg-orange-50"
                     }`}
                   >
-                    {lesson.lessonNo}.{" "}
-                    {lesson.title}
+                    {
+                      lesson.lessonNo
+                    }
+                    .{" "}
+                    {
+                      lesson.title
+                    }
                   </button>
                 ),
               )}
@@ -575,25 +745,40 @@ export default function ReaderPage() {
 
             <div className="flex flex-wrap items-center gap-2">
               <button
-                disabled={pageNumber <= 1}
+                disabled={
+                  pageNumber <= 1
+                }
                 onClick={() =>
-                  loadPage(pageNumber - 1)
+                  loadPage(
+                    pageNumber -
+                      1,
+                  )
                 }
                 className="rounded-2xl bg-white p-3 shadow-md disabled:opacity-40"
               >
-                <ChevronLeft size={18} />
+                <ChevronLeft
+                  size={18}
+                />
               </button>
 
               <input
-                value={jumpPage}
-                onChange={(event) =>
+                value={
+                  jumpPage
+                }
+                onChange={(
+                  event,
+                ) =>
                   setJumpPage(
-                    event.target.value,
+                    event.target
+                      .value,
                   )
                 }
-                onKeyDown={(event) => {
+                onKeyDown={(
+                  event,
+                ) => {
                   if (
-                    event.key === "Enter"
+                    event.key ===
+                    "Enter"
                   ) {
                     submitJumpPage();
                   }
@@ -602,7 +787,9 @@ export default function ReaderPage() {
               />
 
               <button
-                onClick={submitJumpPage}
+                onClick={
+                  submitJumpPage
+                }
                 className="rounded-2xl bg-slate-950 px-4 py-3 text-xs font-black text-white"
               >
                 Go
@@ -610,14 +797,20 @@ export default function ReaderPage() {
 
               <button
                 disabled={
-                  pageNumber >= totalPages
+                  pageNumber >=
+                  totalPages
                 }
                 onClick={() =>
-                  loadPage(pageNumber + 1)
+                  loadPage(
+                    pageNumber +
+                      1,
+                  )
                 }
                 className="rounded-2xl bg-white p-3 shadow-md disabled:opacity-40"
               >
-                <ChevronRight size={18} />
+                <ChevronRight
+                  size={18}
+                />
               </button>
             </div>
           </div>
@@ -626,15 +819,22 @@ export default function ReaderPage() {
             <button
               onClick={() =>
                 setShowOverlay(
-                  (current) => !current,
+                  (
+                    current,
+                  ) =>
+                    !current,
                 )
               }
               className="flex items-center gap-2 rounded-2xl bg-blue-50 px-4 py-3 text-xs font-black text-blue-700"
             >
               {showOverlay ? (
-                <EyeOff size={17} />
+                <EyeOff
+                  size={17}
+                />
               ) : (
-                <Eye size={17} />
+                <Eye
+                  size={17}
+                />
               )}
 
               {showOverlay
@@ -645,34 +845,49 @@ export default function ReaderPage() {
             <div className="flex items-center gap-2">
               <button
                 onClick={() =>
-                  setZoom((current) =>
-                    Math.max(
-                      0.7,
-                      current - 0.1,
-                    ),
+                  setZoom(
+                    (
+                      current,
+                    ) =>
+                      Math.max(
+                        0.7,
+                        current -
+                          0.1,
+                      ),
                   )
                 }
                 className="rounded-2xl bg-white p-3 shadow-md"
               >
-                <Minus size={17} />
+                <Minus
+                  size={17}
+                />
               </button>
 
               <p className="min-w-20 text-center text-sm font-black">
-                {Math.round(zoom * 100)}%
+                {Math.round(
+                  zoom * 100,
+                )}
+                %
               </p>
 
               <button
                 onClick={() =>
-                  setZoom((current) =>
-                    Math.min(
-                      2,
-                      current + 0.1,
-                    ),
+                  setZoom(
+                    (
+                      current,
+                    ) =>
+                      Math.min(
+                        2,
+                        current +
+                          0.1,
+                      ),
                   )
                 }
                 className="rounded-2xl bg-white p-3 shadow-md"
               >
-                <Plus size={17} />
+                <Plus
+                  size={17}
+                />
               </button>
             </div>
           </div>
@@ -686,90 +901,118 @@ export default function ReaderPage() {
             </div>
           )}
 
-          {!loading && error && (
-            <div className="mt-5 flex min-h-[420px] items-center justify-center rounded-[32px] bg-red-50 p-8 text-center">
-              <div>
-                <AlertCircle
-                  className="mx-auto text-red-600"
-                  size={38}
-                />
-
-                <p className="mt-4 font-black text-red-700">
-                  {error}
-                </p>
-              </div>
-            </div>
-          )}
-
-          {!loading && pageData && (
-            <div className="mt-5 max-h-[900px] overflow-auto rounded-[32px] bg-slate-200 p-4">
-              <div
-                className="mx-auto"
-                style={{
-                  width: `${zoom * 100}%`,
-                  minWidth: "600px",
-                  maxWidth: `${900 * zoom}px`,
-                }}
-              >
-                <div className="relative overflow-hidden rounded-2xl bg-white shadow-2xl">
-                  <img
-                    src={pageData.image}
-                    alt={`Book page ${pageNumber}`}
-                    className="block h-auto w-full select-none"
-                    draggable={false}
+          {!loading &&
+            error && (
+              <div className="mt-5 flex min-h-[420px] items-center justify-center rounded-[32px] bg-red-50 p-8 text-center">
+                <div>
+                  <AlertCircle
+                    className="mx-auto text-red-600"
+                    size={38}
                   />
 
-                  {showOverlay &&
-                    pageData.lines.map(
-                      (line) => {
-                        const selected =
-                          selectedLine?.id ===
-                          line.id;
-
-                        return (
-                          <button
-                            key={line.id}
-                            title={line.cleanText ?? line.text}
-                            onClick={() =>
-                              selectBookLine(
-                                line,
-                              )
-                            }
-                            className={`absolute rounded-sm border transition ${
-                              selected
-                                ? "border-orange-600 bg-orange-300/45"
-                                : "border-blue-500/30 bg-blue-300/10 hover:border-blue-600 hover:bg-blue-300/30"
-                            }`}
-                            style={{
-                              left: `${
-                                (line.bbox.x /
-                                  pageData.width) *
-                                100
-                              }%`,
-                              top: `${
-                                (line.bbox.y /
-                                  pageData.height) *
-                                100
-                              }%`,
-                              width: `${
-                                (line.bbox.width /
-                                  pageData.width) *
-                                100
-                              }%`,
-                              height: `${
-                                (line.bbox.height /
-                                  pageData.height) *
-                                100
-                              }%`,
-                            }}
-                          />
-                        );
-                      },
-                    )}
+                  <p className="mt-4 font-black text-red-700">
+                    {error}
+                  </p>
                 </div>
               </div>
-            </div>
-          )}
+            )}
+
+          {!loading &&
+            pageData && (
+              <div className="mt-5 max-h-[900px] overflow-auto rounded-[32px] bg-slate-200 p-4">
+                <div
+                  className="mx-auto"
+                  style={{
+                    width: `${zoom * 100}%`,
+                    minWidth:
+                      "600px",
+                    maxWidth: `${
+                      900 *
+                      zoom
+                    }px`,
+                  }}
+                >
+                  <div className="relative overflow-hidden rounded-2xl bg-white shadow-2xl">
+                    <img
+                      src={
+                        pageData.image
+                      }
+                      alt={`Book page ${pageNumber}`}
+                      className="block h-auto w-full select-none"
+                      draggable={
+                        false
+                      }
+                    />
+
+                    {showOverlay &&
+                      pageData.lines.map(
+                        (
+                          line,
+                        ) => {
+                          const selected =
+                            selectedLine?.id ===
+                            line.id;
+
+                          return (
+                            <button
+                              key={
+                                line.id
+                              }
+                              title={
+                                line.cleanText ??
+                                line.text
+                              }
+                              onClick={() =>
+                                selectBookLine(
+                                  line,
+                                )
+                              }
+                              className={`absolute rounded-sm border transition ${
+                                selected
+                                  ? "border-orange-600 bg-orange-300/45"
+                                  : "border-blue-500/30 bg-blue-300/10 hover:border-blue-600 hover:bg-blue-300/30"
+                              }`}
+                              style={{
+                                left: `${
+                                  (line
+                                    .bbox
+                                    .x /
+                                    pageData.width) *
+                                  100
+                                }%`,
+
+                                top: `${
+                                  (line
+                                    .bbox
+                                    .y /
+                                    pageData.height) *
+                                  100
+                                }%`,
+
+                                width: `${
+                                  (line
+                                    .bbox
+                                    .width /
+                                    pageData.width) *
+                                  100
+                                }%`,
+
+                                height: `${
+                                  (line
+                                    .bbox
+                                    .height /
+                                    pageData.height) *
+                                  100
+                                }%`,
+                              }}
+                            />
+                          );
+                        },
+                      )}
+                  </div>
+                </div>
+              </div>
+            )}
         </LiquidCard>
 
         <LiquidCard className="p-5">
@@ -802,7 +1045,9 @@ export default function ReaderPage() {
                 teacherLoading
               }
               onClick={() =>
-                askTeacher("simple")
+                askTeacher(
+                  "simple",
+                )
               }
               className="rounded-2xl bg-blue-600 px-2 py-4 text-xs font-black text-white disabled:opacity-40"
             >
@@ -810,6 +1055,7 @@ export default function ReaderPage() {
                 className="mx-auto mb-1"
                 size={17}
               />
+
               Explain
             </button>
 
@@ -819,7 +1065,9 @@ export default function ReaderPage() {
                 teacherLoading
               }
               onClick={() =>
-                askTeacher("bangla")
+                askTeacher(
+                  "bangla",
+                )
               }
               className="rounded-2xl bg-emerald-600 px-2 py-4 text-xs font-black text-white disabled:opacity-40"
             >
@@ -827,6 +1075,7 @@ export default function ReaderPage() {
                 className="mx-auto mb-1"
                 size={17}
               />
+
               Bangla
             </button>
 
@@ -836,7 +1085,9 @@ export default function ReaderPage() {
                 teacherLoading
               }
               onClick={() =>
-                askTeacher("grammar")
+                askTeacher(
+                  "grammar",
+                )
               }
               className="rounded-2xl bg-purple-700 px-2 py-4 text-xs font-black text-white disabled:opacity-40"
             >
@@ -844,6 +1095,7 @@ export default function ReaderPage() {
                 className="mx-auto mb-1"
                 size={17}
               />
+
               Grammar
             </button>
           </div>
@@ -862,7 +1114,8 @@ export default function ReaderPage() {
                   size={18}
                 />
 
-                AI Teacher is working...
+                AI Teacher is
+                working...
               </div>
             ) : (
               teacherResponse ||
@@ -874,16 +1127,20 @@ export default function ReaderPage() {
             <details className="mt-3 rounded-2xl border border-emerald-200 bg-emerald-50 p-4 text-xs text-emerald-900">
               <summary className="cursor-pointer font-black">
                 📖 Grounded from{" "}
-                {teacherRetrieval.method === "live-ocr-page"
+                {teacherRetrieval.method ===
+                "live-ocr-page"
                   ? `Page ${teacherRetrieval.pageNumber} (live OCR)`
-                  : "legacy mock lesson data"}
-                {" — "}
+                  : "legacy mock lesson data"}{" "}
+                —{" "}
                 {teacherRetrieval.retrieved
                   ? "context retrieved"
                   : "no context found"}
               </summary>
+
               <p className="mt-2 whitespace-pre-wrap font-normal leading-5">
-                {teacherRetrieval.contextUsed}
+                {
+                  teacherRetrieval.contextUsed
+                }
               </p>
             </details>
           )}
@@ -892,36 +1149,85 @@ export default function ReaderPage() {
             <Link
               href="/quiz"
               onClick={() => {
-                if (selectedLine) {
+                if (
+                  selectedLine
+                ) {
                   localStorage.setItem(
                     "selectedLine",
                     selectedLine.cleanText ??
                       selectedLine.text,
+                  );
+
+                  localStorage.setItem(
+                    "selectedBookPdfPage",
+                    String(
+                      pageNumber,
+                    ),
+                  );
+
+                  localStorage.setItem(
+                    "selectedLineId",
+                    selectedLine.id,
                   );
                 }
               }}
               className="flex items-center justify-center gap-2 rounded-2xl bg-emerald-600 px-4 py-3 text-sm font-black text-white"
             >
-              <Brain size={17} />
-              Quiz from Selected Line
+              <Brain
+                size={17}
+              />
+
+              Quiz from Selected
+              Line
             </Link>
 
             <Link
               href="/games"
               onClick={() => {
-                if (selectedLine) {
+                if (
+                  selectedLine
+                ) {
                   localStorage.setItem(
                     "selectedLine",
                     selectedLine.cleanText ??
                       selectedLine.text,
                   );
+
+                  localStorage.setItem(
+                    "selectedBookPdfPage",
+                    String(
+                      pageNumber,
+                    ),
+                  );
+
+                  localStorage.setItem(
+                    "selectedLineId",
+                    selectedLine.id,
+                  );
                 }
               }}
               className="flex items-center justify-center gap-2 rounded-2xl bg-purple-700 px-4 py-3 text-sm font-black text-white"
             >
-              <Gamepad2 size={17} />
-              Game from Selected Line
+              <Gamepad2
+                size={17}
+              />
+
+              Game from Selected
+              Line
             </Link>
+
+            <button
+              disabled={
+                !selectedLine
+              }
+              onClick={
+                openVoicePractice
+              }
+              className="flex w-full items-center justify-center gap-2 rounded-2xl bg-blue-600 px-4 py-3 text-sm font-black text-white shadow-lg transition hover:scale-[1.02] disabled:cursor-not-allowed disabled:opacity-40"
+            >
+              🎤 Voice Practice from
+              Selected Line
+            </button>
           </div>
         </LiquidCard>
       </div>
