@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { getStoredStudentKey } from "@/lib/studentSession";
 import { Star } from "lucide-react";
 
 export default function PointsBadge() {
@@ -70,7 +71,7 @@ export default function PointsBadge() {
         <p className="text-xs font-bold text-slate-500">
           {nextReward > 0
             ? `${nextReward} pts to Violet Theme`
-            : "🎉 Reward unlocked"}
+            : "ðŸŽ‰ Reward unlocked"}
         </p>
       </div>
     </div>
