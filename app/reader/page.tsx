@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import {
   useEffect,
@@ -43,6 +43,11 @@ import {
   class6Lessons,
   getLessonForPage,
 } from "@/lib/book/class6Lessons";
+import {
+  createQuizLaunchContext,
+  writeQuizLaunchContext,
+  buildQuizHref,
+} from "@/lib/quiz/quizLaunchContext";
 
 type OCRLine = {
   id: string;
@@ -100,7 +105,7 @@ function formatAIOutput(
     .replace(/\*\*/g, "")
     .replace(/__/g, "")
     .replace(/^#{1,6}\s*/gm, "")
-    .replace(/^\s*[-*]\s+/gm, "• ")
+    .replace(/^\s*[-*]\s+/gm, "ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ")
     .replace(/\n{3,}/g, "\n\n")
     .trim();
 }
@@ -702,12 +707,46 @@ export default function ReaderPage() {
               AI Teacher
             </Link>
 
-            <Link
-              href="/quiz"
+            <button
+              type="button"
+              onClick={() => {
+                if (!pageData) return;
+                try {
+                  const lesson = getLessonForPage(pageNumber);
+                  const context = createQuizLaunchContext({
+                    source: "reader",
+                    book: {
+                      id: pageData.bookId,
+                      title: indexData?.title ?? pageData.bookId,
+                      classLevel: 6,
+                    },
+                    lesson: {
+                      number: lesson?.lessonNo ?? null,
+                      title: lesson?.title ?? null,
+                      resolution: lesson ? "mapped" : "unavailable",
+                    },
+                    page: {
+                      number: pageNumber,
+                      source: pageData.source ?? null,
+                    },
+                    selectedLine: null,
+                    pageLines: pageData.lines.map((line) => ({
+                      id: line.id,
+                      lineNumber: line.lineNumber,
+                      text: line.text,
+                      cleanText: line.cleanText,
+                    })),
+                  });
+                  writeQuizLaunchContext(context);
+                  router.push(buildQuizHref(context));
+                } catch (err) {
+                  console.error("Failed to start quiz:", err);
+                }
+              }}
               className="rounded-2xl bg-emerald-600 px-4 py-3 text-center text-sm font-black text-white"
             >
               Quiz
-            </Link>
+            </button>
 
             <Link
               href="/games"
@@ -1126,12 +1165,12 @@ export default function ReaderPage() {
           {teacherRetrieval && (
             <details className="mt-3 rounded-2xl border border-emerald-200 bg-emerald-50 p-4 text-xs text-emerald-900">
               <summary className="cursor-pointer font-black">
-                📖 Grounded from{" "}
+                ÃƒÂ°Ã…Â¸Ã¢â‚¬Å“Ã¢â‚¬â€œ Grounded from{" "}
                 {teacherRetrieval.method ===
                 "live-ocr-page"
                   ? `Page ${teacherRetrieval.pageNumber} (live OCR)`
                   : "legacy mock lesson data"}{" "}
-                —{" "}
+                ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â{" "}
                 {teacherRetrieval.retrieved
                   ? "context retrieved"
                   : "no context found"}
@@ -1146,29 +1185,44 @@ export default function ReaderPage() {
           )}
 
           <div className="mt-5 grid gap-3">
-            <Link
-              href="/quiz"
+            <button
+              type="button"
               onClick={() => {
-                if (
-                  selectedLine
-                ) {
-                  localStorage.setItem(
-                    "selectedLine",
-                    selectedLine.cleanText ??
-                      selectedLine.text,
-                  );
-
-                  localStorage.setItem(
-                    "selectedBookPdfPage",
-                    String(
-                      pageNumber,
-                    ),
-                  );
-
-                  localStorage.setItem(
-                    "selectedLineId",
-                    selectedLine.id,
-                  );
+                if (!pageData || !selectedLine) return;
+                try {
+                  const lesson = getLessonForPage(pageNumber);
+                  const context = createQuizLaunchContext({
+                    source: "reader",
+                    book: {
+                      id: pageData.bookId,
+                      title: indexData?.title ?? pageData.bookId,
+                      classLevel: 6,
+                    },
+                    lesson: {
+                      number: lesson?.lessonNo ?? null,
+                      title: lesson?.title ?? null,
+                      resolution: lesson ? "mapped" : "unavailable",
+                    },
+                    page: {
+                      number: pageNumber,
+                      source: pageData.source ?? null,
+                    },
+                    selectedLine: {
+                      id: selectedLine.id,
+                      lineNumber: selectedLine.lineNumber,
+                      text: selectedLine.cleanText ?? selectedLine.text,
+                    },
+                    pageLines: pageData.lines.map((line) => ({
+                      id: line.id,
+                      lineNumber: line.lineNumber,
+                      text: line.text,
+                      cleanText: line.cleanText,
+                    })),
+                  });
+                  writeQuizLaunchContext(context);
+                  router.push(buildQuizHref(context));
+                } catch (err) {
+                  console.error("Failed to start quiz:", err);
                 }
               }}
               className="flex items-center justify-center gap-2 rounded-2xl bg-emerald-600 px-4 py-3 text-sm font-black text-white"
@@ -1176,10 +1230,9 @@ export default function ReaderPage() {
               <Brain
                 size={17}
               />
-
               Quiz from Selected
               Line
-            </Link>
+            </button>
 
             <Link
               href="/games"
@@ -1225,7 +1278,7 @@ export default function ReaderPage() {
               }
               className="flex w-full items-center justify-center gap-2 rounded-2xl bg-blue-600 px-4 py-3 text-sm font-black text-white shadow-lg transition hover:scale-[1.02] disabled:cursor-not-allowed disabled:opacity-40"
             >
-              🎤 Voice Practice from
+              ÃƒÂ°Ã…Â¸Ã…Â½Ã‚Â¤ Voice Practice from
               Selected Line
             </button>
           </div>
