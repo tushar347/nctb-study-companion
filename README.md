@@ -1,94 +1,49 @@
-# NCTB Qwen3 QLoRA Pilot Package
+# NCTB Study Companion
 
-This package prepares and smoke-trains the first real NCTB adapter.
+A course-project prototype for Class 6 English for Today Line-by-line Study Companion.
 
-## Model selected
+## Project Summary
 
-`Qwen/Qwen3-1.7B`
+This project helps a Class 6 student read an English lesson line by line. The student can select a difficult line, view a simple explanation, Bangla translation, grammar help, complete a quiz, and check progress.
 
-This is deliberately smaller than the current 8B Ollama baseline. It is a practical first supervised fine-tuning target for the 75-example pilot dataset. The result is a research smoke model, not the final publication model.
+## Week 1 Work
 
-## Files
+In Week 1, we completed the frontend skeleton and basic demo flow.
 
-- `research/scripts/prepare_qwen3_sft_v1.py`
-- `research/scripts/train_qwen3_qlora_v1.py`
-- `research/scripts/evaluate_qwen3_adapter_smoke_v1.py`
-- `research/training/requirements-qwen3-qlora.txt`
-- `research/training/make_cloud_training_bundle_v1.ps1`
+Completed work:
 
-## Step 1: Extract into the project
+- Created the Next.js project structure.
+- Built the home screen.
+- Built the book library screen.
+- Added Class 6 English for Today as the active demo book.
+- Created the Lesson 1 reader screen.
+- Added selectable line blocks.
+- Added pop-up actions for Explain, Translate, Grammar, and Quiz.
+- Added Side Help Tab with mock helper output.
+- Added a short quiz screen.
+- Added a progress report screen with mock data.
 
-Extract this ZIP into:
+## Week 2 Work
 
-`D:\nctb-study-companion-starter`
+In Week 2, we started the backend-ready structure using Next.js API routes.
 
-It should add files under `research/scripts` and `research/training`.
+Completed API routes:
 
-## Step 2: Prepare the split locally
+- `/api/student/demo`
+- `/api/books`
+- `/api/lessons/eft-c6-l1`
+- `/api/lines/[lineId]/help`
+- `/api/quiz/eft-c6-l1`
+- `/api/quiz/attempt`
+- `/api/progress/demo`
 
-Run from the project root:
+## Current Status
 
-```powershell
-python `
-  ".\research\scripts\prepare_qwen3_sft_v1.py" `
-  --root "." `
-  --validation-fraction 0.20 `
-  --seed 42
-```
+The project now has a working frontend demo and a mock backend API layer. The API routes use local reviewed data for now, but the structure is ready for future database integration.
 
-The script:
-
-- verifies the approved dataset SHA-256;
-- rejects any locked-test overlap;
-- keeps examples from the same textbook page in only one split;
-- writes deterministic train and validation JSONL files.
-
-## Step 3: Make the cloud bundle
-
-```powershell
-powershell `
-  -ExecutionPolicy Bypass `
-  -File ".\research\training\make_cloud_training_bundle_v1.ps1"
-```
-
-Upload the resulting ZIP to a Linux CUDA machine.
-
-## Step 4: Run the smoke training
-
-Install a CUDA-compatible PyTorch build appropriate for the GPU, then:
+## Run Locally
 
 ```bash
-pip install -r research/training/requirements-qwen3-qlora.txt
-
-python research/scripts/train_qwen3_qlora_v1.py \
-  --root . \
-  --model-id Qwen/Qwen3-1.7B \
-  --max-steps 30 \
-  --max-length 1024
+npm install
+npm run dev
 ```
-
-The training script uses:
-
-- 4-bit NF4 quantization;
-- nested/double quantization;
-- LoRA on all linear layers;
-- assistant-only loss;
-- gradient checkpointing;
-- deterministic seeds;
-- validation loss and checkpoint saving.
-
-## Step 5: Test the trained adapter
-
-```bash
-python research/scripts/evaluate_qwen3_adapter_smoke_v1.py \
-  --root . \
-  --limit 5
-```
-
-## Expected output
-
-`research/models/nctb-qwen3-1.7b-qlora-v1/final_adapter`
-
-## Research warning
-
-Do not claim improvement from training loss alone. The adapter must later be evaluated on the existing locked benchmark and compared against the recorded base-model results.

@@ -24,8 +24,6 @@ export default function TeacherPage() {
   const [selectedLine, setSelectedLine] = useState("");
   const [lessonNo, setLessonNo] = useState(1);
   const [lessonTitle, setLessonTitle] = useState("");
-  const [pageNumber, setPageNumber] = useState(0);
-  const [lineId, setLineId] = useState("");
 
   const [output, setOutput] = useState("");
   const [question, setQuestion] = useState("");
@@ -50,8 +48,6 @@ export default function TeacherPage() {
     setSelectedLine(localStorage.getItem("selectedLine") ?? "");
     setLessonNo(Number(localStorage.getItem("selectedLessonNo") ?? 1));
     setLessonTitle(localStorage.getItem("selectedLessonTitle") ?? "");
-    setPageNumber(Number(localStorage.getItem("selectedBookPdfPage") ?? 0));
-    setLineId(localStorage.getItem("selectedLineId") ?? "");
 
     setMessages([
       {
@@ -91,7 +87,7 @@ export default function TeacherPage() {
     setError("");
 
     try {
-      const response = await fetch("/api/agent/learning-loop", {
+      const response = await fetch("/api/ai", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -100,21 +96,26 @@ export default function TeacherPage() {
           studentId,
           studentKey: studentId,
           lessonNo,
-          selectedLine,
-          requestedTool: tool,
+          text: selectedLine,
+          action: tool,
           studentQuestion,
-          pageNumber,
-          lineId,
         }),
       });
 
-      const data = await response.json();
+      const data = (await response.json()) as {
+        success?: boolean;
+        error?: string;
+        output?: string;
+      };
 
-      if (!response.ok) {
-        throw new Error(data.error ?? "AI Teacher request failed.");
+      if (!response.ok || data.success === false) {
+        throw new Error(
+          data.error ?? "Sorry, I couldn't generate the answer right now.",
+        );
       }
 
-      setOutput(data.result.output);
+      const outputText = data.output ?? "";
+      setOutput(outputText);
 
       await trackAiInteraction();
 
@@ -122,11 +123,15 @@ export default function TeacherPage() {
         setMessages((previous) => [
           ...previous,
           { role: "student", text: studentQuestion ?? "" },
-          { role: "teacher", text: data.result.output },
+          { role: "teacher", text: outputText },
         ]);
       }
     } catch (err) {
-      setError(err instanceof Error ? err.message : "AI Teacher failed.");
+      setError(
+        err instanceof Error
+          ? err.message
+          : "Sorry, I couldn't generate the answer right now.",
+      );
     } finally {
       setLoading(false);
     }

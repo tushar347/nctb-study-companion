@@ -1,65 +1,30 @@
 node_modules/
 .next/
+.vercel/
 .env
 .env.local
+.env*.local
 .DS_Store
 dist/
 build/
+venv/
+**/.venv/
+**/__pycache__/
+research/training/*.zip
+Project_Backup.zip
 
 public/books/*.pdf
-
 data/class6-eft-full-text.txt
-
-.env*.local
-
-.env*.local
-
-.env*.local
-
-.env*.local
-
-.env*.local
-
-data/class6-eft-full-text.txt
-
-.env*.local
-
-.env*.local
 
 /lib/generated/prisma
 prisma/dev.db
 prisma/dev.db-journal
 tsconfig.tsbuildinfo
 components/*.backup.*.tsx
-.vercel
-.env*
-.vercel/
-.env.vercel.production
-.env*.backup
-prisma/*.backup.prisma
-# Private environment files
-.env.*
-!.env.example
-# Generated files
+
+# debug/dev-only artifacts — never commit these
 *.log
-# Local backups and archives
-backups/
-*.zip
-# Temporary installation scripts
-install-*.ps1
-fix-*.ps1
-public/ocr/books/
-
-# Allow deployable Class 8 OCR pages
-!public/ocr/
-!public/ocr/books/
-!public/ocr/books/class8-english/
-!public/ocr/books/class8-english/pages/
-!public/ocr/books/class8-english/pages/*.json
-!public/ocr/books/class8-english/class8_ocr_run_summary.json
-
-venv/
-.venv-ocr/
-research/.venv-ocr/
-__pycache__/
-*.pyc
+ai-request.json
+ai-response-*.txt
+dev-error.log
+dev-output.log

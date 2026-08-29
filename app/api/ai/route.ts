@@ -2,20 +2,16 @@ import { generateStudyAid, toGeminiAction } from "@/lib/gemini";
 
 export const runtime = "nodejs";
 
-type RequestBody = {
-  studentId?: string;
-  studentKey?: string;
-  lessonNo?: number | string;
-  selectedLine?: string;
-  text?: string;
-  requestedTool?: string;
-  action?: string;
-  studentQuestion?: string;
-};
-
 export async function POST(request: Request) {
   try {
-    const body = (await request.json()) as RequestBody;
+    const body = (await request.json()) as {
+      action?: string;
+      requestedTool?: string;
+      text?: string;
+      selectedLine?: string;
+      studentQuestion?: string;
+    };
+
     const action = toGeminiAction(
       body.action ?? body.requestedTool ?? "explain",
     );
@@ -40,7 +36,7 @@ export async function POST(request: Request) {
       text,
     });
   } catch (error) {
-    console.error("[api/agent/learning-loop] AI failed", error);
+    console.error("[api/ai] Gemini generation failed", error);
 
     const message =
       error instanceof Error && error.message

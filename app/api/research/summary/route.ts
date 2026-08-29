@@ -1,10 +1,12 @@
 import { getStudentResearchSummary } from "@/lib/researchDb";
+import { getSessionStudentKey } from "@/lib/auth";
 
 export const runtime = "nodejs";
 
-export async function GET(request: Request) {
-  const { searchParams } = new URL(request.url);
-  const studentId = searchParams.get("studentId") ?? "demo-student";
+export async function GET() {
+  // Research/learning summaries are personal data — resolve the student
+  // from the session cookie, not from a query string a caller controls.
+  const studentId = await getSessionStudentKey();
 
   const summary = await getStudentResearchSummary(studentId);
 

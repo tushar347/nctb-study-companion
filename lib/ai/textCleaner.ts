@@ -12,7 +12,7 @@ export function cleanBookText(text: string) {
       .replace(/^\s*[A-Z][\.\)]\s*/gm, "")
 
       // remove bullet symbols
-      .replace(/^[\u2022●▪◦]\s*/gm, "")
+      .replace(/^[•●▪◦]\s*/gm, "")
 
       // remove extra spaces
       .replace(/\s+/g, " ")

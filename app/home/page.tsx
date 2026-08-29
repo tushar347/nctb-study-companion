@@ -19,12 +19,10 @@ import {
   ClipboardList,
   FlaskConical,
   Gamepad2,
-  Gift,
   GraduationCap,
   Home,
   Languages,
   LogOut,
-  Mic2,
   School,
   UserRound,
   type LucideIcon,
@@ -42,7 +40,6 @@ type ClassOption = {
 
 type BookOption = {
   id: string;
-  classLevel: number;
   title: string;
   subtitle: string;
   available: boolean;
@@ -58,27 +55,25 @@ const classOptions: ClassOption[] = [
   {
     id: 7,
     title: "Class 7",
-    available: true,
+    available: false,
   },
   {
     id: 8,
     title: "Class 8",
-    available: true,
+    available: false,
   },
 ];
 
 const bookOptions: BookOption[] = [
   {
     id: "class6-english",
-    classLevel: 6,
     title: "English For Today",
-    subtitle: "Class 6 — Available now",
+    subtitle: "Available now",
     available: true,
     icon: BookOpen,
   },
   {
     id: "class6-bangla",
-    classLevel: 6,
     title: "Bangla",
     subtitle: "Coming soon",
     available: false,
@@ -86,7 +81,6 @@ const bookOptions: BookOption[] = [
   },
   {
     id: "class6-mathematics",
-    classLevel: 6,
     title: "Mathematics",
     subtitle: "Coming soon",
     available: false,
@@ -94,27 +88,10 @@ const bookOptions: BookOption[] = [
   },
   {
     id: "class6-science",
-    classLevel: 6,
     title: "Science",
     subtitle: "Coming soon",
     available: false,
     icon: FlaskConical,
-  },
-  {
-    id: "class7-english",
-    classLevel: 7,
-    title: "English For Today",
-    subtitle: "Class 7 — OCR preview",
-    available: true,
-    icon: BookOpen,
-  },
-  {
-    id: "class8-english",
-    classLevel: 8,
-    title: "English For Today",
-    subtitle: "Class 8 — OCR preview",
-    available: true,
-    icon: BookOpen,
   },
 ];
 
@@ -190,12 +167,6 @@ export default function HomePage() {
   const [selectedBook, setSelectedBook] =
     useState("class6-english");
 
-  const visibleBookOptions =
-    bookOptions.filter(
-      (book) =>
-        book.classLevel === selectedClass,
-    );
-
   useEffect(() => {
     setStudentName(
       getStoredStudentName() || "Student",
@@ -212,36 +183,26 @@ export default function HomePage() {
         "selectedBookId",
       ) ?? "class6-english";
 
-    const safeClass = [6, 7, 8].includes(
-      storedClass,
-    )
-      ? storedClass
-      : 6;
+    if (storedClass === 6) {
+      setSelectedClass(storedClass);
+    }
 
-    setSelectedClass(safeClass);
-
-    const storedBookIsValid =
+    if (
       bookOptions.some(
         (book) =>
           book.id === storedBook &&
-          book.classLevel === safeClass &&
           book.available,
-      );
-
-    setSelectedBook(
-      storedBookIsValid
-        ? storedBook
-        : `class${safeClass}-english`,
-    );
+      )
+    ) {
+      setSelectedBook(storedBook);
+    }
   }, []);
 
   function continueToReader() {
     const activeBook =
       bookOptions.find(
         (book) =>
-          book.id === selectedBook &&
-          book.classLevel === selectedClass &&
-          book.available,
+          book.id === selectedBook,
       );
 
     localStorage.setItem(
@@ -260,15 +221,7 @@ export default function HomePage() {
         "English For Today",
     );
 
-    if (!activeBook) {
-      return;
-    }
-
-    router.push(
-      `/reader?book=${encodeURIComponent(
-        activeBook.id,
-      )}`,
-    );
+    router.push("/reader");
   }
 
   function logout() {
@@ -424,24 +377,10 @@ export default function HomePage() {
               </NavigationItem>
 
               <NavigationItem
-                href="/voice-practice"
-                icon={<Mic2 size={16} />}
-              >
-                Voice Practice
-              </NavigationItem>
-
-              <NavigationItem
                 href="/progress"
                 icon={<BarChart3 size={16} />}
               >
                 Progress
-              </NavigationItem>
-
-              <NavigationItem
-                href="/rewards"
-                icon={<Gift size={16} />}
-              >
-                Rewards
               </NavigationItem>
             </nav>
           </div>
@@ -470,15 +409,11 @@ export default function HomePage() {
                       disabled={
                         !classItem.available
                       }
-                      onClick={() => {
+                      onClick={() =>
                         setSelectedClass(
                           classItem.id,
-                        );
-
-                        setSelectedBook(
-                          `class${classItem.id}-english`,
-                        );
-                      }}
+                        )
+                      }
                       className={`w-full rounded-[24px] border px-5 py-5 text-left transition duration-300 ${
                         selected
                           ? "border-emerald-400/60 bg-gradient-to-r from-emerald-100 to-emerald-400/70 text-slate-950 shadow-[0_13px_30px_rgba(16,185,129,0.25)]"
@@ -517,7 +452,7 @@ export default function HomePage() {
             />
 
             <div className="mt-6 grid gap-4 sm:grid-cols-2">
-              {visibleBookOptions.map(
+              {bookOptions.map(
                 (book) => {
                   const BookIcon =
                     book.icon;
@@ -589,12 +524,9 @@ export default function HomePage() {
                 type="button"
                 onClick={continueToReader}
                 disabled={
-                  !bookOptions.some(
-                    (book) =>
-                      book.id === selectedBook &&
-                      book.classLevel === selectedClass &&
-                      book.available,
-                  )
+                  selectedClass !== 6 ||
+                  selectedBook !==
+                    "class6-english"
                 }
                 className="group flex items-center justify-center gap-2 rounded-full border border-slate-200 bg-white px-6 py-3 text-sm font-black text-slate-950 shadow-[0_12px_26px_rgba(51,65,85,0.18)] transition hover:-translate-y-1 hover:bg-emerald-600 hover:text-white disabled:cursor-not-allowed disabled:opacity-40"
               >

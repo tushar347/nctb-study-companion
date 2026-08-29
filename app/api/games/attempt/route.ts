@@ -4,14 +4,15 @@ import {
   findOrCreateStudentByKey,
   incrementDailyStudyRecord,
 } from "@/lib/studentTracking";
+import { getSessionStudentKey } from "@/lib/auth";
 
 export async function POST(request: Request) {
   try {
     const body = await request.json();
 
-    const studentKey = String(
-      body.studentKey ?? body.studentId ?? "demo-student",
-    );
+    // Game attempts are written against the logged-in student, not
+    // whatever key the client sends.
+    const studentKey = await getSessionStudentKey();
 
     const rawLessonNo = body.lessonNo;
     const lessonNo =

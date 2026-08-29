@@ -1,13 +1,15 @@
 import { NextResponse } from "next/server";
 import { redeemPointsForAiCredits } from "@/lib/rewardSystem";
+import { getSessionStudentKey } from "@/lib/auth";
 
 export async function POST(request: Request) {
   try {
     const body = await request.json();
 
-    const studentKey = String(
-      body.studentKey ?? body.studentId ?? "demo-student",
-    );
+    // Never trust a studentKey from the request body here — this endpoint
+    // moves points and AI credits, so the account acted on must come from
+    // the session cookie, not from whatever the caller claims.
+    const studentKey = await getSessionStudentKey();
     const credits = Number(body.credits ?? 1);
 
     const result = await redeemPointsForAiCredits({

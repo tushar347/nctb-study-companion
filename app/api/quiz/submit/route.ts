@@ -4,14 +4,15 @@ import {
   findOrCreateStudentByKey,
   incrementDailyStudyRecord,
 } from "@/lib/studentTracking";
+import { getSessionStudentKey } from "@/lib/auth";
 
 export async function POST(request: Request) {
   try {
     const body = await request.json();
 
-    const studentKey = String(
-      body.studentKey ?? body.studentId ?? "demo-student",
-    );
+    // Quiz history is written against the logged-in student, not whatever
+    // key the client sends, so one student can't pollute another's record.
+    const studentKey = await getSessionStudentKey();
     const lessonNo = Number(body.lessonNo ?? 1);
     const lessonTitle = String(body.lessonTitle ?? "");
     const score = Number(body.score ?? 0);

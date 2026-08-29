@@ -1,11 +1,13 @@
 import { NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
+import { getSessionStudentKey } from "@/lib/auth";
 
-export async function GET(request: Request) {
+export async function GET() {
   try {
-    const { searchParams } = new URL(request.url);
-
-    const studentKey = searchParams.get("studentKey") ?? "demo-student";
+    // This route returns a student's quiz history, chat log, and study
+    // records — always resolve from the session cookie, never a query
+    // string, or any visitor could read another student's full profile.
+    const studentKey = await getSessionStudentKey();
 
     const student = await prisma.student.findUnique({
       where: {

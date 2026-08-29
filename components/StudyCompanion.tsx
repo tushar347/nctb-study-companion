@@ -444,7 +444,7 @@ export default function StudyCompanion() {
     setActiveTool(tool);
 
     try {
-      const response = await fetch("/api/agent/learning-loop", {
+      const response = await fetch("/api/ai", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -452,19 +452,27 @@ export default function StudyCompanion() {
         body: JSON.stringify({
           studentId,
           lessonNo: selectedLessonNo,
-          selectedLine,
-          requestedTool: tool,
+          text: selectedLine,
+          action: tool,
           studentQuestion,
         }),
       });
 
-      const data = await response.json();
+      const data = (await response.json()) as {
+        success?: boolean;
+        error?: string;
+        output?: string;
+      };
 
-      if (!response.ok) {
+      if (!response.ok || data.success === false) {
         throw new Error(data.error ?? "AI helper request failed.");
       }
 
-      setAgentResult(data.result);
+      setAgentResult({
+        tool,
+        output: data.output ?? "",
+        selectedLine,
+      });
       await refreshProgress();
     } catch (err) {
       setError(
@@ -513,7 +521,7 @@ export default function StudyCompanion() {
     ]);
 
     try {
-      const response = await fetch("/api/agent/learning-loop", {
+      const response = await fetch("/api/ai", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -521,15 +529,19 @@ export default function StudyCompanion() {
         body: JSON.stringify({
           studentId,
           lessonNo: selectedLessonNo,
-          selectedLine,
-          requestedTool: "chat",
+          text: selectedLine,
+          action: "chat",
           studentQuestion: question,
         }),
       });
 
-      const data = await response.json();
+      const data = (await response.json()) as {
+        success?: boolean;
+        error?: string;
+        output?: string;
+      };
 
-      if (!response.ok) {
+      if (!response.ok || data.success === false) {
         throw new Error(data.error ?? "AI Study Agent request failed.");
       }
 
@@ -537,7 +549,7 @@ export default function StudyCompanion() {
         ...previous,
         {
           role: "agent",
-          text: data.result.output,
+          text: data.output ?? "",
         },
       ]);
 

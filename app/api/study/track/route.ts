@@ -1,13 +1,14 @@
 import { NextResponse } from "next/server";
 import { incrementDailyStudyRecord } from "@/lib/studentTracking";
+import { getSessionStudentKey } from "@/lib/auth";
 
 export async function POST(request: Request) {
   try {
     const body = await request.json();
 
-    const studentKey = String(
-      body.studentKey ?? body.studentId ?? "demo-student",
-    );
+    // Study activity is recorded against the logged-in student, not
+    // whatever key the client sends.
+    const studentKey = await getSessionStudentKey();
     const activityType = String(body.activityType ?? "");
 
     if (!activityType) {

@@ -1,10 +1,8 @@
 "use client";
 
-import { Suspense, useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 
 import Link from "next/link";
-
-import { useRouter, useSearchParams } from "next/navigation";
 
 import {
   AlertCircle,
@@ -34,11 +32,6 @@ import {
 } from "@/lib/studentSession";
 
 import { class6Lessons, getLessonForPage } from "@/lib/book/class6Lessons";
-import {
-  createQuizLaunchContext,
-  writeQuizLaunchContext,
-  buildQuizHref,
-} from "@/lib/quiz/quizLaunchContext";
 
 type OCRLine = {
   id: string;
@@ -91,28 +84,12 @@ function formatAIOutput(value: unknown) {
     .replace(/\*\*/g, "")
     .replace(/__/g, "")
     .replace(/^#{1,6}\s*/gm, "")
-    .replace(
-      /^\s*[-*]\s+/gm,
-      "ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ ",
-    )
+    .replace(/^\s*[-*]\s+/gm, "• ")
     .replace(/\n{3,}/g, "\n\n")
     .trim();
 }
 
-function ReaderPageInner() {
-  const router = useRouter();
-
-  const searchParams = useSearchParams();
-
-  const bookId =
-    searchParams.get("book") ||
-    (typeof window !== "undefined"
-      ? localStorage.getItem("selectedBookId")
-      : null) ||
-    "class6-english";
-
-  const classLevel = Number(bookId.match(/class(\d+)/i)?.[1] ?? 6);
-
+export default function ReaderPage() {
   const [studentName, setStudentName] = useState("Student");
 
   const [studentKey, setStudentKey] = useState("");
@@ -141,13 +118,6 @@ function ReaderPageInner() {
 
   const [teacherError, setTeacherError] = useState("");
 
-  const [teacherRetrieval, setTeacherRetrieval] = useState<{
-    method: string;
-    pageNumber: number | null;
-    retrieved: boolean;
-    contextUsed: string;
-  } | null>(null);
-
   const totalPages = indexData?.totalPdfPages ?? 115;
 
   const activeLesson = useMemo(
@@ -156,7 +126,7 @@ function ReaderPageInner() {
   );
 
   async function loadIndex() {
-    const response = await fetch(`/api/books/${bookId}/index`, {
+    const response = await fetch("/api/books/class6/index", {
       cache: "no-store",
     });
 
@@ -177,10 +147,9 @@ function ReaderPageInner() {
     setSelectedLine(null);
     setTeacherResponse("");
     setTeacherError("");
-    setTeacherRetrieval(null);
 
     try {
-      const response = await fetch(`/api/books/${bookId}/pages/${safePage}`, {
+      const response = await fetch(`/api/books/class6/pages/${safePage}`, {
         cache: "no-store",
       });
 
@@ -191,9 +160,7 @@ function ReaderPageInner() {
       }
 
       setPageNumber(safePage);
-
       setJumpPage(String(safePage));
-
       setPageData(data);
     } catch (requestError) {
       setPageData(null);
@@ -210,20 +177,14 @@ function ReaderPageInner() {
 
   function selectBookLine(line: OCRLine) {
     setSelectedLine(line);
-
     setTeacherResponse("");
-
     setTeacherError("");
-
-    setTeacherRetrieval(null);
 
     const lesson = getLessonForPage(pageNumber);
 
     localStorage.setItem("selectedLine", line.cleanText ?? line.text);
 
     localStorage.setItem("selectedBookPdfPage", String(pageNumber));
-
-    localStorage.setItem("selectedLineId", line.id);
 
     localStorage.setItem("selectedLessonNo", String(lesson?.lessonNo ?? 0));
 
@@ -238,72 +199,45 @@ function ReaderPageInner() {
     }
 
     setTeacherLoading(true);
-
     setTeacherResponse("");
-
     setTeacherError("");
-
-    setTeacherRetrieval(null);
 
     try {
       const lesson = getLessonForPage(pageNumber);
+      const selectedText = selectedLine.cleanText ?? selectedLine.text;
 
-      const response = await fetch("/api/agent/learning-loop", {
+      const response = await fetch("/api/ai", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
           studentId: studentKey,
-
           studentKey,
-
           lessonNo: lesson?.lessonNo ?? 0,
-
-          selectedLine: selectedLine.cleanText ?? selectedLine.text,
-
-          requestedTool: tool,
-
+          text: selectedText,
+          action: tool,
           pageNumber,
-
           lineId: selectedLine.id,
+          lessonTitle: lesson?.title ?? "",
         }),
       });
 
-      const rawResponse = await response.text();
+      const data = (await response.json()) as {
+        success?: boolean;
+        error?: string;
+        output?: string;
+      };
 
-      let data: any;
-
-      try {
-        data = JSON.parse(rawResponse);
-      } catch {
-        const readableError = rawResponse
-          .replace(/<script[\s\S]*?<\/script>/gi, " ")
-          .replace(/<style[\s\S]*?<\/style>/gi, " ")
-          .replace(/<[^>]+>/g, " ")
-          .replace(/\s+/g, " ")
-          .trim()
-          .slice(0, 250);
-
+      if (!response.ok || data.success === false) {
         throw new Error(
-          `AI API returned ${response.status} ${response.statusText}. ${
-            readableError || "The server returned HTML instead of JSON."
-          }`,
+          data.error ??
+            "Sorry, I couldn't generate the answer right now. Please try again.",
         );
       }
 
-      if (!response.ok) {
-        throw new Error(data.message ?? data.error ?? "AI Teacher failed.");
-      }
-
-      setTeacherResponse(
-        formatAIOutput(data.result?.output ?? data.output ?? data.answer),
-      );
-
-      setTeacherRetrieval(data.retrieval ?? null);
+      setTeacherResponse(formatAIOutput(data.output ?? ""));
     } catch (requestError) {
-      setTeacherRetrieval(null);
-
       setTeacherError(
         requestError instanceof Error
           ? requestError.message
@@ -326,44 +260,12 @@ function ReaderPageInner() {
     }
   }
 
-  function openVoicePractice() {
-    if (!selectedLine) {
-      setTeacherError("Select a highlighted book line first.");
-
-      return;
-    }
-
-    const lesson = getLessonForPage(pageNumber);
-
-    localStorage.setItem(
-      "voicePracticeContext",
-      JSON.stringify({
-        bookId: "class6-english",
-
-        pageNumber,
-
-        selectedLine,
-
-        sourceLineId: selectedLine.id,
-
-        promptText: selectedLine.cleanText ?? selectedLine.text,
-
-        lessonNo: lesson?.lessonNo ?? 0,
-
-        lessonTitle: lesson?.title ?? "Book Page",
-      }),
-    );
-
-    router.push("/practice/speaking");
-  }
-
   useEffect(() => {
     const name = getStoredStudentName();
 
     const key = getStoredStudentKey();
 
     setStudentName(name);
-
     setStudentKey(key);
 
     async function startReader() {
@@ -472,46 +374,12 @@ function ReaderPageInner() {
               AI Teacher
             </Link>
 
-            <button
-              type="button"
-              onClick={() => {
-                if (!pageData) return;
-                try {
-                  const lesson = getLessonForPage(pageNumber);
-                  const context = createQuizLaunchContext({
-                    source: "reader",
-                    book: {
-                      id: pageData.bookId,
-                      title: indexData?.title ?? pageData.bookId,
-                      classLevel,
-                    },
-                    lesson: {
-                      number: lesson?.lessonNo ?? null,
-                      title: lesson?.title ?? null,
-                      resolution: lesson ? "mapped" : "unavailable",
-                    },
-                    page: {
-                      number: pageNumber,
-                      source: pageData.source ?? null,
-                    },
-                    selectedLine: null,
-                    pageLines: pageData.lines.map((line) => ({
-                      id: line.id,
-                      lineNumber: line.lineNumber,
-                      text: line.text,
-                      cleanText: line.cleanText,
-                    })),
-                  });
-                  writeQuizLaunchContext(context);
-                  router.push(buildQuizHref(context));
-                } catch (err) {
-                  console.error("Failed to start quiz:", err);
-                }
-              }}
+            <Link
+              href="/quiz"
               className="rounded-2xl bg-emerald-600 px-4 py-3 text-center text-sm font-black text-white"
             >
               Quiz
-            </button>
+            </Link>
 
             <Link
               href="/games"
@@ -665,13 +533,10 @@ function ReaderPageInner() {
                           }`}
                           style={{
                             left: `${(line.bbox.x / pageData.width) * 100}%`,
-
                             top: `${(line.bbox.y / pageData.height) * 100}%`,
-
                             width: `${
                               (line.bbox.width / pageData.width) * 100
                             }%`,
-
                             height: `${
                               (line.bbox.height / pageData.height) * 100
                             }%`,
@@ -752,71 +617,22 @@ function ReaderPageInner() {
             )}
           </div>
 
-          {teacherRetrieval && (
-            <details className="mt-3 rounded-2xl border border-emerald-200 bg-emerald-50 p-4 text-xs text-emerald-900">
-              <summary className="cursor-pointer font-black">
-                {"\u2022 Grounded from"}{" "}
-                {teacherRetrieval.method === "live-ocr-page"
-                  ? `Page ${teacherRetrieval.pageNumber} (live OCR)`
-                  : "legacy mock lesson data"}{" "}
-                {"\u2022"}{" "}
-                {teacherRetrieval.retrieved
-                  ? "context retrieved"
-                  : "no context found"}
-              </summary>
-
-              <p className="mt-2 whitespace-pre-wrap font-normal leading-5">
-                {teacherRetrieval.contextUsed}
-              </p>
-            </details>
-          )}
-
           <div className="mt-5 grid gap-3">
-            <button
-              type="button"
+            <Link
+              href="/quiz"
               onClick={() => {
-                if (!pageData || !selectedLine) return;
-                try {
-                  const lesson = getLessonForPage(pageNumber);
-                  const context = createQuizLaunchContext({
-                    source: "reader",
-                    book: {
-                      id: pageData.bookId,
-                      title: indexData?.title ?? pageData.bookId,
-                      classLevel,
-                    },
-                    lesson: {
-                      number: lesson?.lessonNo ?? null,
-                      title: lesson?.title ?? null,
-                      resolution: lesson ? "mapped" : "unavailable",
-                    },
-                    page: {
-                      number: pageNumber,
-                      source: pageData.source ?? null,
-                    },
-                    selectedLine: {
-                      id: selectedLine.id,
-                      lineNumber: selectedLine.lineNumber,
-                      text: selectedLine.cleanText ?? selectedLine.text,
-                    },
-                    pageLines: pageData.lines.map((line) => ({
-                      id: line.id,
-                      lineNumber: line.lineNumber,
-                      text: line.text,
-                      cleanText: line.cleanText,
-                    })),
-                  });
-                  writeQuizLaunchContext(context);
-                  router.push(buildQuizHref(context));
-                } catch (err) {
-                  console.error("Failed to start quiz:", err);
+                if (selectedLine) {
+                  localStorage.setItem(
+                    "selectedLine",
+                    selectedLine.cleanText ?? selectedLine.text,
+                  );
                 }
               }}
               className="flex items-center justify-center gap-2 rounded-2xl bg-emerald-600 px-4 py-3 text-sm font-black text-white"
             >
               <Brain size={17} />
               Quiz from Selected Line
-            </button>
+            </Link>
 
             <Link
               href="/games"
@@ -826,13 +642,6 @@ function ReaderPageInner() {
                     "selectedLine",
                     selectedLine.cleanText ?? selectedLine.text,
                   );
-
-                  localStorage.setItem(
-                    "selectedBookPdfPage",
-                    String(pageNumber),
-                  );
-
-                  localStorage.setItem("selectedLineId", selectedLine.id);
                 }
               }}
               className="flex items-center justify-center gap-2 rounded-2xl bg-purple-700 px-4 py-3 text-sm font-black text-white"
@@ -840,25 +649,9 @@ function ReaderPageInner() {
               <Gamepad2 size={17} />
               Game from Selected Line
             </Link>
-
-            <button
-              disabled={!selectedLine}
-              onClick={openVoicePractice}
-              className="flex w-full items-center justify-center gap-2 rounded-2xl bg-blue-600 px-4 py-3 text-sm font-black text-white shadow-lg transition hover:scale-[1.02] disabled:cursor-not-allowed disabled:opacity-40"
-            >
-              [MIC] Voice Practice from Selected Line
-            </button>
           </div>
         </LiquidCard>
       </div>
     </AppShell>
-  );
-}
-
-export default function ReaderPage() {
-  return (
-    <Suspense fallback={null}>
-      <ReaderPageInner />
-    </Suspense>
   );
 }

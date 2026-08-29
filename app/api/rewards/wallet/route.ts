@@ -1,11 +1,15 @@
 import { NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { getOrCreateStudentWallet } from "@/lib/rewardSystem";
+import { getSessionStudentKey } from "@/lib/auth";
 
-export async function GET(request: Request) {
+export async function GET() {
   try {
-    const { searchParams } = new URL(request.url);
-    const studentKey = searchParams.get("studentKey") ?? "demo-student";
+    // Wallet balances and reward history are private — always resolve the
+    // student from the session cookie, never from a query string, or any
+    // visitor could read (and previously, via /api/debug/credits, top up)
+    // another student's wallet just by guessing their key.
+    const studentKey = await getSessionStudentKey();
 
     const { student, wallet } = await getOrCreateStudentWallet(studentKey);
 

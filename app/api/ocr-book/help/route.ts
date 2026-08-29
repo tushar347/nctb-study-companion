@@ -1,4 +1,5 @@
-import { repairMojibake } from "@/lib/fixMojibake";
+import { useAiTeacherCredit } from "@/lib/rewardSystem";
+import { getSessionStudentKey } from "@/lib/auth";
 
 type GeminiPart = {
   text?: string;
@@ -47,7 +48,7 @@ export async function POST(request: Request) {
         {
           error: "lineText is required",
         },
-        { status: 400 },
+        { status: 400 }
       );
     }
 
@@ -58,6 +59,29 @@ export async function POST(request: Request) {
       return Response.json({
         helper: fallbackHelper(lineText),
       });
+    }
+
+    // A real Gemini call costs money, so it must go through the same AI
+    // credit system as the AI Teacher — otherwise this route offers
+    // unlimited free calls straight to the paid API.
+    const studentKey = await getSessionStudentKey();
+
+    const creditResult = await useAiTeacherCredit({
+      studentKey,
+      selectedLine: lineText,
+      toolUsed: "ocr_help",
+    });
+
+    if (!creditResult.success) {
+      return Response.json(
+        {
+          success: false,
+          error: creditResult.error,
+          wallet: creditResult.wallet,
+          needsRedeem: true,
+        },
+        { status: 402 },
+      );
     }
 
     const prompt = `
@@ -100,7 +124,7 @@ Rules:
             responseMimeType: "application/json",
           },
         }),
-      },
+      }
     );
 
     if (!geminiResponse.ok) {
@@ -124,19 +148,14 @@ Rules:
     }
 
     const helper = JSON.parse(cleanJson(generatedText)) as HelperOutput;
-    const repairedHelper: HelperOutput = {
-      simple: repairMojibake(helper.simple),
-      bangla: repairMojibake(helper.bangla),
-      grammar: repairMojibake(helper.grammar),
-    };
 
-    return Response.json({ helper: repairedHelper });
+    return Response.json({ helper });
   } catch {
     return Response.json(
       {
         error: "OCR helper failed",
       },
-      { status: 500 },
+      { status: 500 }
     );
   }
 }
