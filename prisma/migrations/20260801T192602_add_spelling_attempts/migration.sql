@@ -21,15 +21,11 @@ CREATE TABLE "SpellingAttempt" (
     "substitutionsJson" TEXT NOT NULL DEFAULT '[]',
     "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
 
-    CONSTRAINT "SpellingAttempt_pkey" PRIMARY KEY ("id")
+    CONSTRAINT "SpellingAttempt_pkey" PRIMARY KEY ("id"),
+    CONSTRAINT "SpellingAttempt_studentId_fkey"
+      FOREIGN KEY ("studentId") REFERENCES "Student"("id")
+      ON DELETE CASCADE ON UPDATE CASCADE
 );
-
-ALTER TABLE "SpellingAttempt"
-ADD CONSTRAINT "SpellingAttempt_studentId_fkey"
-FOREIGN KEY ("studentId")
-REFERENCES "Student"("id")
-ON DELETE CASCADE
-ON UPDATE CASCADE;
 
 CREATE INDEX "SpellingAttempt_studentId_idx"
 ON "SpellingAttempt"("studentId");

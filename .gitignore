@@ -28,3 +28,10 @@ ai-request.json
 ai-response-*.txt
 dev-error.log
 dev-output.log
+
+# env files and backups (keep the example tracked)
+.env*
+!.env.example
+*.db
+*.db.bak
+*.db-journal

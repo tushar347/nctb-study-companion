@@ -5,9 +5,11 @@ import {
   deriveEvidenceQuote,
   findExactPassageFragment,
   LocalAiError,
-  normalizeText,
   requireText,
 } from "@/lib/local-ai/ollama";
+import { getSessionStudentKey } from "@/lib/auth";
+import { consumeAiRequestAllowance } from "@/lib/rewardSystem";
+import { loadCanonicalPassage } from "@/lib/local-ai/canonicalPassage";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -83,18 +85,28 @@ export async function POST(
   request: Request,
 ) {
   try {
+    const studentKey = await getSessionStudentKey();
+    if (!studentKey) {
+      return NextResponse.json(
+        { success: false, error: "Authentication required." },
+        { status: 401 },
+      );
+    }
+
     const body =
       (await request.json()) as {
-        passage?: unknown;
         question?: unknown;
-        classLevel?: unknown;
         bookId?: unknown;
         pageNumber?: unknown;
       };
 
+    const source = await loadCanonicalPassage(
+      body.bookId,
+      body.pageNumber,
+    );
     const passage =
       requireText(
-        body.passage,
+        source.text,
         "Passage",
         40,
         12_000,
@@ -108,20 +120,6 @@ export async function POST(
         500,
       );
 
-    const classLevel = Number(
-      body.classLevel,
-    );
-
-    if (
-      classLevel !== 6 &&
-      classLevel !== 7
-    ) {
-      throw new LocalAiError(
-        "The local pilot currently supports Classes 6 and 7.",
-        400,
-      );
-    }
-
     let finalProblem = "";
 
     for (
@@ -129,6 +127,17 @@ export async function POST(
       attempt <= 3;
       attempt++
     ) {
+      const allowance = await consumeAiRequestAllowance({
+        studentKey,
+        toolUsed: "local_ai_ask",
+      });
+      if (!allowance.success) {
+        return NextResponse.json(
+          { success: false, error: allowance.error },
+          { status: allowance.status },
+        );
+      }
+
       const result =
         await chatJson<unknown>({
           messages: [
@@ -190,6 +199,11 @@ ${
             "The selected passage does not provide enough information to answer that question.",
           evidenceQuote:
             null,
+          source: {
+            bookId: source.bookId,
+            pageNumber: source.pageNumber,
+            classLevel: source.classLevel,
+          },
           model:
             result.model,
           attempts:
@@ -223,6 +237,11 @@ ${
             passage,
             exactAnswer,
           ),
+        source: {
+          bookId: source.bookId,
+          pageNumber: source.pageNumber,
+          classLevel: source.classLevel,
+        },
         model:
           result.model,
         attempts:

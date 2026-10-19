@@ -8,6 +8,9 @@ import {
   normalizeText,
   requireText,
 } from "@/lib/local-ai/ollama";
+import { getSessionStudentKey } from "@/lib/auth";
+import { consumeAiRequestAllowance } from "@/lib/rewardSystem";
+import { loadCanonicalPassage } from "@/lib/local-ai/canonicalPassage";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -99,18 +102,30 @@ export async function POST(
   request: Request,
 ) {
   try {
+    const studentKey = await getSessionStudentKey();
+    if (!studentKey) {
+      return NextResponse.json(
+        { success: false, error: "Authentication required." },
+        { status: 401 },
+      );
+    }
+
     const body =
       (await request.json()) as {
-        passage?: unknown;
         question?: unknown;
         referenceAnswer?: unknown;
         studentAnswer?: unknown;
-        classLevel?: unknown;
+        bookId?: unknown;
+        pageNumber?: unknown;
       };
 
+    const source = await loadCanonicalPassage(
+      body.bookId,
+      body.pageNumber,
+    );
     const passage =
       requireText(
-        body.passage,
+        source.text,
         "Passage",
         40,
         12_000,
@@ -140,20 +155,6 @@ export async function POST(
         1_000,
       );
 
-    const classLevel = Number(
-      body.classLevel,
-    );
-
-    if (
-      classLevel !== 6 &&
-      classLevel !== 7
-    ) {
-      throw new LocalAiError(
-        "The local pilot currently supports Classes 6 and 7.",
-        400,
-      );
-    }
-
     const exactReferenceAnswer =
       findExactPassageFragment(
         passage,
@@ -164,6 +165,17 @@ export async function POST(
       throw new LocalAiError(
         "The reference answer is not grounded in the selected passage.",
         400,
+      );
+    }
+
+    const allowance = await consumeAiRequestAllowance({
+      studentKey,
+      toolUsed: "local_ai_answer_check",
+    });
+    if (!allowance.success) {
+      return NextResponse.json(
+        { success: false, error: allowance.error },
+        { status: allowance.status },
       );
     }
 
@@ -244,6 +256,11 @@ Return only the required JSON object.
           passage,
           exactReferenceAnswer,
         ),
+      source: {
+        bookId: source.bookId,
+        pageNumber: source.pageNumber,
+        classLevel: source.classLevel,
+      },
       model:
         result.model,
       durationMilliseconds:

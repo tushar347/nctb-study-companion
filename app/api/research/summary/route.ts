@@ -7,6 +7,9 @@ export async function GET() {
   // Research/learning summaries are personal data — resolve the student
   // from the session cookie, not from a query string a caller controls.
   const studentId = await getSessionStudentKey();
+  if (!studentId) {
+    return Response.json({ error: "Authentication required." }, { status: 401 });
+  }
 
   const summary = await getStudentResearchSummary(studentId);
 

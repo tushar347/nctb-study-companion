@@ -1,7 +1,9 @@
 import { prisma } from "@/lib/prisma";
+import { isAiCreditLimitEnabled } from "@/lib/featureFlags";
 import { findOrCreateStudentByKey } from "@/lib/studentTracking";
 
 export const POINTS_PER_AI_CREDIT = 10;
+const AI_REQUESTS_PER_HOUR = 20;
 
 export async function getOrCreateStudentWallet(studentKey: string) {
   const student = await findOrCreateStudentByKey(studentKey);
@@ -121,19 +123,78 @@ export async function redeemPointsForAiCredits(input: {
   };
 }
 
-export async function useAiTeacherCredit(input: {
+export async function consumeAiRequestAllowance(input: {
   studentKey: string;
   lessonNo?: number;
   selectedLine?: string;
   question?: string;
   toolUsed?: string;
 }) {
-  const { student, wallet } = await getOrCreateStudentWallet(input.studentKey);
+  const { student } = await getOrCreateStudentWallet(input.studentKey);
+  const creditsEnabled = isAiCreditLimitEnabled();
+  const windowStart = new Date(Date.now() - 60 * 60 * 1000);
 
-  return {
-    success: true,
-    student,
-    wallet,
-    unlimited: true,
-  };
+  return prisma.$transaction(async (tx) => {
+    const requestCount = await tx.aiUsageLog.count({
+      where: {
+        studentId: student.id,
+        createdAt: { gte: windowStart },
+      },
+    });
+
+    if (requestCount >= AI_REQUESTS_PER_HOUR) {
+      return {
+        success: false as const,
+        error: "AI request limit reached. Please try again later.",
+        status: 429,
+      };
+    }
+
+    let wallet = await tx.studentWallet.findUniqueOrThrow({
+      where: { studentId: student.id },
+    });
+    let creditsUsed = 0;
+
+    if (creditsEnabled) {
+      const updated = await tx.studentWallet.updateMany({
+        where: {
+          studentId: student.id,
+          aiCredits: { gt: 0 },
+        },
+        data: {
+          aiCredits: { decrement: 1 },
+          lifetimeCreditsUsed: { increment: 1 },
+        },
+      });
+
+      if (updated.count === 0) {
+        return {
+          success: false as const,
+          error: "No AI credits remain. Earn or redeem credits to continue.",
+          status: 402,
+        };
+      }
+
+      creditsUsed = 1;
+      wallet = await tx.studentWallet.findUniqueOrThrow({
+        where: { studentId: student.id },
+      });
+    }
+
+    await tx.aiUsageLog.create({
+      data: {
+        studentId: student.id,
+        lessonNo: input.lessonNo,
+        toolUsed: input.toolUsed,
+        creditsUsed,
+      },
+    });
+
+    return {
+      success: true as const,
+      student,
+      wallet,
+      unlimited: !creditsEnabled,
+    };
+  });
 }

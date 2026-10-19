@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import { ocrBook } from "@/data/ocrBook";
+import { getSessionStudentKey } from "@/lib/auth";
 
 export const dynamic = "force-dynamic";
 
@@ -51,6 +52,14 @@ function detectWeakArea(text: string) {
 
 export async function POST(request: Request) {
   try {
+    const studentKey = await getSessionStudentKey();
+    if (!studentKey) {
+      return NextResponse.json(
+        { success: false, error: "Authentication required." },
+        { status: 401 },
+      );
+    }
+
     const body = await request.json();
     const lessonNo = Number(body.lessonNo ?? 1);
 

@@ -1,4 +1,4 @@
-import { useAiTeacherCredit } from "@/lib/rewardSystem";
+import { consumeAiRequestAllowance } from "@/lib/rewardSystem";
 import { getSessionStudentKey } from "@/lib/auth";
 
 type GeminiPart = {
@@ -52,6 +52,11 @@ export async function POST(request: Request) {
       );
     }
 
+    const studentKey = await getSessionStudentKey();
+    if (!studentKey) {
+      return Response.json({ error: "Authentication required." }, { status: 401 });
+    }
+
     const apiKey = process.env.GEMINI_API_KEY;
     const model = process.env.GEMINI_MODEL ?? "gemini-2.5-flash";
 
@@ -64,13 +69,17 @@ export async function POST(request: Request) {
     // A real Gemini call costs money, so it must go through the same AI
     // credit system as the AI Teacher — otherwise this route offers
     // unlimited free calls straight to the paid API.
-    const studentKey = await getSessionStudentKey();
-
-    const creditResult = await useAiTeacherCredit({
+    const creditResult = await consumeAiRequestAllowance({
       studentKey,
       selectedLine: lineText,
       toolUsed: "ocr_help",
     });
+    if (!creditResult.success) {
+      return Response.json(
+        { success: false, error: creditResult.error },
+        { status: creditResult.status },
+      );
+    }
 
     const prompt = `
 You are an English-Bangla textbook study assistant for Class 6 students in Bangladesh.

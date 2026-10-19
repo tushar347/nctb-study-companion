@@ -1,58 +1,41 @@
 import { NextResponse } from "next/server";
-import { prisma } from "@/lib/prisma";
-import {
-  findOrCreateStudentByKey,
-  incrementDailyStudyRecord,
-} from "@/lib/studentTracking";
 import { getSessionStudentKey } from "@/lib/auth";
+import {
+  isInvalidQuizSubmission,
+  submitQuizAttempt,
+} from "@/lib/quizAttempts";
 
 export async function POST(request: Request) {
   try {
-    const body = await request.json();
-
-    // Quiz history is written against the logged-in student, not whatever
-    // key the client sends, so one student can't pollute another's record.
     const studentKey = await getSessionStudentKey();
-    const lessonNo = Number(body.lessonNo ?? 1);
-    const lessonTitle = String(body.lessonTitle ?? "");
-    const score = Number(body.score ?? 0);
-    const total = Number(body.total ?? 0);
-
-    const wrongAnswers = body.wrongAnswers ?? [];
-    const weakAreas = body.weakAreas ?? [];
-    const submittedAnswers = body.submittedAnswers ?? [];
-
-    const student = await findOrCreateStudentByKey(studentKey);
-
-    const attempt = await prisma.quizAttempt.create({
-      data: {
-        studentId: student.id,
-        lessonNo,
-        lessonTitle,
-        score,
-        total,
-        wrongAnswersJson: JSON.stringify(wrongAnswers),
-        weakAreasJson: JSON.stringify(weakAreas),
-        submittedAnswersJson: JSON.stringify(submittedAnswers),
-      },
-    });
-
-    await incrementDailyStudyRecord({
-      studentKey,
-      quizAttempts: 1,
-      quizScore: score,
-      quizTotal: total,
-    });
-
-    return NextResponse.json({
-      success: true,
-      attempt,
-    });
+    if (!studentKey) {
+      return NextResponse.json(
+        { success: false, error: "Authentication required." },
+        { status: 401 },
+      );
+    }
+    let body: unknown;
+    try {
+      body = await request.json();
+    } catch {
+      return NextResponse.json(
+        { success: false, error: "Invalid request body." },
+        { status: 400 },
+      );
+    }
+    const result = await submitQuizAttempt(studentKey, body);
+    return NextResponse.json(result.body, { status: result.status });
   } catch (error) {
+    if (isInvalidQuizSubmission(error)) {
+      return NextResponse.json(
+        { success: false, error: error.message },
+        { status: 400 },
+      );
+    }
+
+    console.error("Quiz submit failed:", error);
     return NextResponse.json(
-      {
-        error: error instanceof Error ? error.message : "Quiz submit failed.",
-      },
+      { success: false, error: "Quiz submit failed." },
       { status: 500 },
     );
   }

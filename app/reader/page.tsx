@@ -215,6 +215,7 @@ export default function ReaderPage() {
           studentId: studentKey,
           studentKey,
           lessonNo: lesson?.lessonNo ?? 0,
+          bookId: pageData?.bookId ?? "class6-english",
           text: selectedText,
           action: tool,
           pageNumber,

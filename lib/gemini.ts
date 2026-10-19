@@ -4,6 +4,18 @@ export type GeminiAction = "explain" | "bangla" | "grammar";
 
 const MAX_TEXT_LENGTH = 2500;
 
+function getGeminiApiKey() {
+  return (
+    process.env.GEMINI_API_KEY ??
+    process.env.GOOGLE_API_KEY ??
+    ""
+  ).trim();
+}
+
+export function isGeminiConfigured() {
+  return Boolean(getGeminiApiKey());
+}
+
 export function normalizeStudyText(value: string) {
   const cleaned = value
     .replace(/\s+/g, " ")
@@ -78,11 +90,7 @@ export async function generateStudyAid({
   text: string;
 }) {
   const safeText = normalizeStudyText(text);
-  const apiKey = (
-    process.env.GEMINI_API_KEY ??
-    process.env.GOOGLE_API_KEY ??
-    ""
-  ).trim();
+  const apiKey = getGeminiApiKey();
 
   if (!apiKey) {
     throw new Error("GEMINI_API_KEY is missing.");
@@ -110,6 +118,7 @@ export async function generateStudyAid({
           headers: {
             "Content-Type": "application/json",
           },
+          signal: AbortSignal.timeout(20_000),
           body: JSON.stringify({
             contents: [
               {
@@ -162,13 +171,7 @@ export async function generateStudyAid({
     } catch (error) {
       lastError =
         error instanceof Error ? error : new Error("Gemini request failed.");
-
-      if (
-        error instanceof Error &&
-        error.message.includes("GEMINI_API_KEY is missing")
-      ) {
-        throw error;
-      }
+      throw lastError;
     }
   }
 

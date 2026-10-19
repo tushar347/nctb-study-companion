@@ -10,6 +10,9 @@ export async function POST(request: Request) {
     // moves points and AI credits, so the account acted on must come from
     // the session cookie, not from whatever the caller claims.
     const studentKey = await getSessionStudentKey();
+    if (!studentKey) {
+      return NextResponse.json({ error: "Authentication required." }, { status: 401 });
+    }
     const credits = Number(body.credits ?? 1);
 
     const result = await redeemPointsForAiCredits({

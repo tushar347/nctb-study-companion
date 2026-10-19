@@ -27,15 +27,11 @@ CREATE TABLE "SpeakingAttempt" (
     "evaluationVersion" TEXT NOT NULL DEFAULT 'voice-practice-v1',
     "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
 
-    CONSTRAINT "SpeakingAttempt_pkey" PRIMARY KEY ("id")
+    CONSTRAINT "SpeakingAttempt_pkey" PRIMARY KEY ("id"),
+    CONSTRAINT "SpeakingAttempt_studentId_fkey"
+      FOREIGN KEY ("studentId") REFERENCES "Student"("id")
+      ON DELETE CASCADE ON UPDATE CASCADE
 );
-
-ALTER TABLE "SpeakingAttempt"
-ADD CONSTRAINT "SpeakingAttempt_studentId_fkey"
-FOREIGN KEY ("studentId")
-REFERENCES "Student"("id")
-ON DELETE CASCADE
-ON UPDATE CASCADE;
 
 CREATE INDEX "SpeakingAttempt_studentId_idx"
 ON "SpeakingAttempt"("studentId");

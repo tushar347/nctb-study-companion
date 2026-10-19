@@ -404,11 +404,8 @@ export default function OfflineStudyPage() {
                 "application/json",
             },
             body: JSON.stringify({
-              passage,
               bookId,
               pageNumber,
-              classLevel:
-                currentBook.classLevel,
             }),
           },
         );
@@ -464,13 +461,10 @@ export default function OfflineStudyPage() {
                 "application/json",
             },
             body: JSON.stringify({
-              passage,
               question:
                 studentQuestion,
               bookId,
               pageNumber,
-              classLevel:
-                currentBook.classLevel,
             }),
           },
         );
@@ -528,14 +522,13 @@ export default function OfflineStudyPage() {
                 "application/json",
             },
             body: JSON.stringify({
-              passage,
               question:
                 shortQa.question,
               referenceAnswer:
                 shortQa.answer,
               studentAnswer,
-              classLevel:
-                currentBook.classLevel,
+              bookId,
+              pageNumber,
             }),
           },
         );

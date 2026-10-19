@@ -5,12 +5,12 @@ import {
 import path from "path";
 
 import {
-  cookies,
-} from "next/headers";
-
-import {
   NextResponse,
 } from "next/server";
+
+import {
+  getSessionStudentKey,
+} from "@/lib/auth";
 
 import {
   prisma,
@@ -51,23 +51,6 @@ type OcrPage = {
   lines?: OcrLine[];
   aiReadyLines?: OcrLine[];
 };
-
-async function resolveStudentKey(
-  value: unknown,
-) {
-  const cookieStore =
-    await cookies();
-
-  return (
-    cookieStore
-      .get(
-        "nctb_student_key",
-      )
-      ?.value.trim() ||
-    String(value ?? "").trim() ||
-    "demo-student"
-  );
-}
 
 function lineText(
   line: OcrLine,
@@ -235,11 +218,21 @@ export async function POST(
         body.durationMs,
       );
 
+    const studentKey =
+      await getSessionStudentKey();
+    if (!studentKey) {
+      return NextResponse.json(
+        {
+          success: false,
+          error: "Authentication required.",
+        },
+        { status: 401 },
+      );
+    }
+
     const student =
       await findOrCreateStudentByKey(
-        await resolveStudentKey(
-          body.studentKey,
-        ),
+        studentKey,
       );
 
     const previous =
@@ -486,22 +479,23 @@ export async function POST(
   }
 }
 
-export async function GET(
-  request: Request,
-) {
+export async function GET() {
   try {
-    const url =
-      new URL(
-        request.url,
+    const studentKey =
+      await getSessionStudentKey();
+    if (!studentKey) {
+      return NextResponse.json(
+        {
+          success: false,
+          error: "Authentication required.",
+        },
+        { status: 401 },
       );
+    }
 
     const student =
       await findOrCreateStudentByKey(
-        await resolveStudentKey(
-          url.searchParams.get(
-            "studentKey",
-          ),
-        ),
+        studentKey,
       );
 
     const attempts =

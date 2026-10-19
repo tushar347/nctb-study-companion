@@ -9,6 +9,9 @@ import {
   normalizeText,
   requireText,
 } from "@/lib/local-ai/ollama";
+import { getSessionStudentKey } from "@/lib/auth";
+import { consumeAiRequestAllowance } from "@/lib/rewardSystem";
+import { loadCanonicalPassage } from "@/lib/local-ai/canonicalPassage";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -465,49 +468,67 @@ export async function POST(
   request: Request,
 ) {
   try {
+    const studentKey = await getSessionStudentKey();
+    if (!studentKey) {
+      return NextResponse.json(
+        { success: false, error: "Authentication required." },
+        { status: 401 },
+      );
+    }
+
     const body =
       (await request.json()) as {
-        passage?: unknown;
-        classLevel?: unknown;
         bookId?: unknown;
         pageNumber?: unknown;
       };
 
+    const source = await loadCanonicalPassage(
+      body.bookId,
+      body.pageNumber,
+    );
     const passage =
       requireText(
-        body.passage,
+        source.text,
         "Passage",
         60,
         12_000,
       );
 
-    const classLevel = Number(
-      body.classLevel,
-    );
-
-    if (
-      classLevel !== 6 &&
-      classLevel !== 7
-    ) {
-      throw new LocalAiError(
-        "The local pilot currently supports Classes 6 and 7.",
-        400,
-      );
-    }
-
     const startedAt =
       performance.now();
+
+    const mcqAllowance = await consumeAiRequestAllowance({
+      studentKey,
+      toolUsed: "local_ai_quiz_mcq",
+    });
+    if (!mcqAllowance.success) {
+      return NextResponse.json(
+        { success: false, error: mcqAllowance.error },
+        { status: mcqAllowance.status },
+      );
+    }
 
     const mcq =
       await generateMcq(
         passage,
-        classLevel,
+        source.classLevel,
       );
+
+    const shortQaAllowance = await consumeAiRequestAllowance({
+      studentKey,
+      toolUsed: "local_ai_quiz_short_answer",
+    });
+    if (!shortQaAllowance.success) {
+      return NextResponse.json(
+        { success: false, error: shortQaAllowance.error },
+        { status: shortQaAllowance.status },
+      );
+    }
 
     const shortQa =
       await generateShortQa(
         passage,
-        classLevel,
+        source.classLevel,
       );
 
     return NextResponse.json({
@@ -515,21 +536,9 @@ export async function POST(
       model:
         mcq.model,
       source: {
-        bookId:
-          normalizeText(
-            body.bookId,
-          ) || null,
-        pageNumber:
-          Number.isInteger(
-            Number(
-              body.pageNumber,
-            ),
-          )
-            ? Number(
-                body.pageNumber,
-              )
-            : null,
-        classLevel,
+        bookId: source.bookId,
+        pageNumber: source.pageNumber,
+        classLevel: source.classLevel,
       },
       quiz: {
         mcq:

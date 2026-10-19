@@ -2,7 +2,6 @@
 
 import {
   useEffect,
-  useMemo,
   useState,
 } from "react";
 
@@ -26,10 +25,7 @@ import {
 import AppShell from "@/components/study/AppShell";
 import LiquidCard from "@/components/study/LiquidCard";
 
-import {
-  getStoredStudentKey,
-  getStoredStudentName,
-} from "@/lib/studentSession";
+import { getStoredStudentName } from "@/lib/studentSession";
 
 type Difficulty =
   | "easy"
@@ -40,18 +36,37 @@ type QuizQuestion = {
   id: string;
   question: string;
   options: string[];
-  correctAnswerIndex: number;
-  explanation: string;
 };
 
 type GenerateResponse = {
   success: boolean;
+  quizId?: string;
   source?: string;
   difficulty?: Difficulty;
   requestedCount?: number;
   generatedCount?: number;
   questions?: QuizQuestion[];
   warning?: string;
+  error?: string;
+};
+
+type CheckedAnswer = {
+  questionId: string;
+  question: string;
+  studentAnswer: string;
+  correctAnswer: string;
+  isCorrect: boolean;
+  explanation: string;
+};
+
+type AttemptResponse = {
+  success: boolean;
+  score?: number;
+  total?: number;
+  accuracy?: number;
+  checkedAnswers?: CheckedAnswer[];
+  attemptId?: string;
+  submittedAt?: string;
   error?: string;
 };
 
@@ -80,9 +95,6 @@ const difficultyLabels: Record<
 };
 
 export default function QuizPage() {
-  const [studentKey, setStudentKey] =
-    useState("");
-
   const [studentName, setStudentName] =
     useState("Student");
 
@@ -107,6 +119,8 @@ export default function QuizPage() {
   const [questions, setQuestions] =
     useState<QuizQuestion[]>([]);
 
+  const [quizId, setQuizId] = useState("");
+
   const [currentIndex, setCurrentIndex] =
     useState(0);
 
@@ -127,6 +141,12 @@ export default function QuizPage() {
   const [completed, setCompleted] =
     useState(false);
 
+  const [submitting, setSubmitting] =
+    useState(false);
+
+  const [attemptResult, setAttemptResult] =
+    useState<AttemptResponse | null>(null);
+
   const currentQuestion =
     questions[currentIndex];
 
@@ -136,16 +156,7 @@ export default function QuizPage() {
   const hasAnswered =
     selectedAnswer !== undefined;
 
-  const score = useMemo(() => {
-    return questions.reduce(
-      (total, question, index) =>
-        selectedAnswers[index] ===
-        question.correctAnswerIndex
-          ? total + 1
-          : total,
-      0,
-    );
-  }, [questions, selectedAnswers]);
+  const score = attemptResult?.score ?? 0;
 
   const answeredCount =
     Object.keys(selectedAnswers).length;
@@ -155,6 +166,8 @@ export default function QuizPage() {
     setError("");
     setWarning("");
     setQuestions([]);
+    setQuizId("");
+    setAttemptResult(null);
     setCurrentIndex(0);
     setSelectedAnswers({});
     setCompleted(false);
@@ -170,8 +183,10 @@ export default function QuizPage() {
           },
           body: JSON.stringify({
             selectedText,
+            bookId: "class6-english",
             pageNumber,
             lessonNo,
+            lessonTitle,
             difficulty,
             questionCount,
           }),
@@ -200,13 +215,15 @@ export default function QuizPage() {
 
       if (
         !data.questions ||
-        data.questions.length === 0
+        data.questions.length === 0 ||
+        !data.quizId
       ) {
         throw new Error(
           "No valid quiz questions were generated.",
         );
       }
 
+      setQuizId(data.quizId);
       setQuestions(data.questions);
       setWarning(data.warning ?? "");
     } catch (requestError) {
@@ -234,55 +251,57 @@ export default function QuizPage() {
   }
 
   async function finishQuiz() {
-    setCompleted(true);
+    if (!quizId || submitting) return;
+    setSubmitting(true);
+    setError("");
 
-    const finalScore =
-      questions.reduce(
-        (total, question, index) =>
-          selectedAnswers[index] ===
-          question.correctAnswerIndex
-            ? total + 1
-            : total,
-        0,
+    try {
+      const answers = Object.fromEntries(
+        questions.map((question, index) => [
+          question.id,
+          selectedAnswers[index],
+        ]),
       );
+      const response = await fetch("/api/quiz/attempt", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ quizId, answers }),
+      });
+      const rawResponse = await response.text();
+      let data: AttemptResponse;
 
-    fetch("/api/quiz/attempt", {
-      method: "POST",
-      headers: {
-        "Content-Type":
-          "application/json",
-      },
-      body: JSON.stringify({
-        studentKey,
-        studentId: studentKey,
-        lessonNo,
-        lessonTitle,
-        score: finalScore,
-        totalQuestions:
-          questions.length,
-        difficulty,
-        answers: selectedAnswers,
-      }),
-    }).catch(() => undefined);
+      try {
+        data = JSON.parse(rawResponse) as AttemptResponse;
+      } catch {
+        throw new Error(
+          `Quiz submission returned ${response.status} ${response.statusText} instead of JSON.`,
+        );
+      }
 
-    fetch("/api/study/track", {
-      method: "POST",
-      headers: {
-        "Content-Type":
-          "application/json",
-      },
-      body: JSON.stringify({
-        studentKey,
-        activityType: "quiz_completed",
-        score: finalScore,
-        totalQuestions:
-          questions.length,
-      }),
-    }).catch(() => undefined);
+      if (
+        !response.ok ||
+        !data.success ||
+        typeof data.score !== "number" ||
+        typeof data.total !== "number" ||
+        !Array.isArray(data.checkedAnswers)
+      ) {
+        throw new Error(data.error ?? "Quiz submission failed.");
+      }
+
+      setAttemptResult(data);
+      setCompleted(true);
+    } catch (requestError) {
+      setError(
+        requestError instanceof Error
+          ? requestError.message
+          : "Quiz submission failed.",
+      );
+    } finally {
+      setSubmitting(false);
+    }
   }
 
   useEffect(() => {
-    setStudentKey(getStoredStudentKey());
     setStudentName(getStoredStudentName());
 
     setSelectedText(
@@ -525,6 +544,15 @@ export default function QuizPage() {
           </div>
         )}
 
+        {questions.length > 0 && error && (
+          <div
+            role="alert"
+            className="rounded-3xl bg-red-50 p-4 font-bold text-red-700"
+          >
+            {error}
+          </div>
+        )}
+
         {questions.length > 0 &&
           !completed &&
           currentQuestion && (
@@ -564,27 +592,12 @@ export default function QuizPage() {
                       selectedAnswer ===
                       optionIndex;
 
-                    const isCorrect =
-                      optionIndex ===
-                      currentQuestion.correctAnswerIndex;
-
-                    let optionClass =
-                      "border-white bg-white/80 text-slate-800 hover:border-blue-400";
-
-                    if (hasAnswered) {
-                      if (isCorrect) {
-                        optionClass =
-                          "border-emerald-600 bg-emerald-100 text-emerald-900";
-                      } else if (
-                        isSelected
-                      ) {
-                        optionClass =
-                          "border-red-600 bg-red-100 text-red-900";
-                      } else {
-                        optionClass =
-                          "border-white bg-white/50 text-slate-500";
-                      }
-                    }
+                    const optionClass =
+                      hasAnswered
+                        ? isSelected
+                          ? "border-blue-600 bg-blue-100 text-blue-900"
+                          : "border-white bg-white/50 text-slate-500"
+                        : "border-white bg-white/80 text-slate-800 hover:border-blue-400";
 
                     return (
                       <button
@@ -610,47 +623,6 @@ export default function QuizPage() {
                   },
                 )}
               </div>
-
-              {hasAnswered && (
-                <div
-                  className={`mt-6 rounded-3xl p-5 ${
-                    selectedAnswer ===
-                    currentQuestion.correctAnswerIndex
-                      ? "bg-emerald-50 text-emerald-900"
-                      : "bg-red-50 text-red-900"
-                  }`}
-                >
-                  <div className="flex items-start gap-3">
-                    {selectedAnswer ===
-                    currentQuestion.correctAnswerIndex ? (
-                      <CheckCircle2
-                        className="mt-1 shrink-0"
-                        size={22}
-                      />
-                    ) : (
-                      <XCircle
-                        className="mt-1 shrink-0"
-                        size={22}
-                      />
-                    )}
-
-                    <div>
-                      <p className="font-black">
-                        {selectedAnswer ===
-                        currentQuestion.correctAnswerIndex
-                          ? "Correct answer"
-                          : "Incorrect answer"}
-                      </p>
-
-                      <p className="mt-2 text-sm font-semibold leading-7">
-                        {
-                          currentQuestion.explanation
-                        }
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              )}
 
               <div className="mt-6 flex flex-wrap items-center justify-between gap-3">
                 <button
@@ -689,13 +661,26 @@ export default function QuizPage() {
                   <button
                     disabled={
                       answeredCount !==
-                      questions.length
+                        questions.length ||
+                      submitting
                     }
                     onClick={finishQuiz}
                     className="flex items-center gap-2 rounded-2xl bg-emerald-600 px-6 py-3 font-black text-white shadow-md disabled:opacity-40"
                   >
-                    <Trophy size={18} />
-                    Finish Quiz
+                    {submitting ? (
+                      <>
+                        <Loader2
+                          className="animate-spin"
+                          size={18}
+                        />
+                        Submitting...
+                      </>
+                    ) : (
+                      <>
+                        <Trophy size={18} />
+                        Finish Quiz
+                      </>
+                    )}
                   </button>
                 )}
               </div>
@@ -714,17 +699,55 @@ export default function QuizPage() {
 
             <p className="mt-3 text-lg font-bold text-slate-600">
               You scored {score} out of{" "}
-              {questions.length}.
+              {attemptResult?.total ?? questions.length}.
             </p>
 
             <p className="mt-2 text-5xl font-black text-emerald-700">
-              {Math.round(
-                (score /
-                  questions.length) *
-                  100,
-              )}
+              {attemptResult?.accuracy ?? 0}
               %
             </p>
+
+            <div className="mx-auto mt-7 grid max-w-3xl gap-3 text-left">
+              {attemptResult?.checkedAnswers?.map(
+                (answer, index) => (
+                  <div
+                    key={answer.questionId}
+                    className={`rounded-2xl p-4 ${
+                      answer.isCorrect
+                        ? "bg-emerald-50 text-emerald-900"
+                        : "bg-red-50 text-red-900"
+                    }`}
+                  >
+                    <div className="flex items-start gap-3">
+                      {answer.isCorrect ? (
+                        <CheckCircle2
+                          className="mt-1 shrink-0"
+                          size={20}
+                        />
+                      ) : (
+                        <XCircle
+                          className="mt-1 shrink-0"
+                          size={20}
+                        />
+                      )}
+                      <div>
+                        <p className="font-black">
+                          {index + 1}. {answer.question}
+                        </p>
+                        <p className="mt-1 text-sm font-semibold">
+                          Your answer: {answer.studentAnswer}
+                          {!answer.isCorrect &&
+                            ` · Correct answer: ${answer.correctAnswer}`}
+                        </p>
+                        <p className="mt-1 text-sm">
+                          {answer.explanation}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                ),
+              )}
+            </div>
 
             <div className="mx-auto mt-7 grid max-w-xl gap-3 sm:grid-cols-2">
               <button

@@ -1,19 +1,38 @@
 import { NextResponse } from "next/server";
 import bcrypt from "bcryptjs";
 import { prisma } from "@/lib/prisma";
+import { setStudentSessionCookie } from "@/lib/auth";
 
 export async function POST(request: Request) {
   try {
-    const body = await request.json();
+    const payload: unknown = await request.json();
+    if (!payload || typeof payload !== "object" || Array.isArray(payload)) {
+      return NextResponse.json(
+        { error: "Invalid login request." },
+        { status: 400 },
+      );
+    }
+    const body = payload as Record<string, unknown>;
 
-    const email = String(body.email ?? "")
+    const email = (typeof body.email === "string" ? body.email : "")
       .trim()
       .toLowerCase();
-    const password = String(body.password ?? "");
+    const password = typeof body.password === "string" ? body.password : "";
 
     if (!email || !password) {
       return NextResponse.json(
         { error: "Email and password are required." },
+        { status: 400 },
+      );
+    }
+
+    if (
+      email.length > 254 ||
+      !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) ||
+      password.length > 128
+    ) {
+      return NextResponse.json(
+        { error: "Enter a valid email and password." },
         { status: 400 },
       );
     }
@@ -56,19 +75,15 @@ export async function POST(request: Request) {
       student: safeStudent,
     });
 
-    response.cookies.set("nctb_student_key", student.studentKey, {
-      httpOnly: true,
-      sameSite: "lax",
-      secure: process.env.NODE_ENV === "production",
-      path: "/",
-      maxAge: 60 * 60 * 24 * 30,
-    });
-
-    return response;
+    return await setStudentSessionCookie(response, student.id);
   } catch (error) {
+    console.error(
+      "Student login failed:",
+      error instanceof Error ? error.name : "Unknown error",
+    );
     return NextResponse.json(
       {
-        error: error instanceof Error ? error.message : "Login failed.",
+        error: "Login failed.",
       },
       { status: 500 },
     );

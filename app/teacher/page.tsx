@@ -24,6 +24,7 @@ export default function TeacherPage() {
   const [selectedLine, setSelectedLine] = useState("");
   const [lessonNo, setLessonNo] = useState(1);
   const [lessonTitle, setLessonTitle] = useState("");
+  const [pageNumber, setPageNumber] = useState(0);
 
   const [output, setOutput] = useState("");
   const [question, setQuestion] = useState("");
@@ -48,6 +49,7 @@ export default function TeacherPage() {
     setSelectedLine(localStorage.getItem("selectedLine") ?? "");
     setLessonNo(Number(localStorage.getItem("selectedLessonNo") ?? 1));
     setLessonTitle(localStorage.getItem("selectedLessonTitle") ?? "");
+    setPageNumber(Number(localStorage.getItem("selectedBookPdfPage") ?? 0));
 
     setMessages([
       {
@@ -96,6 +98,8 @@ export default function TeacherPage() {
           studentId,
           studentKey: studentId,
           lessonNo,
+          bookId: "class6-english",
+          pageNumber,
           text: selectedLine,
           action: tool,
           studentQuestion,

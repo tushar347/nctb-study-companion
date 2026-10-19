@@ -13,6 +13,9 @@ export async function POST(request: Request) {
     // Game attempts are written against the logged-in student, not
     // whatever key the client sends.
     const studentKey = await getSessionStudentKey();
+    if (!studentKey) {
+      return NextResponse.json({ error: "Authentication required." }, { status: 401 });
+    }
 
     const rawLessonNo = body.lessonNo;
     const lessonNo =

@@ -26,18 +26,14 @@ CREATE TABLE "StudentGoalSetting" (
     "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
     "updatedAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
 
-    CONSTRAINT "StudentGoalSetting_pkey" PRIMARY KEY ("id")
+    CONSTRAINT "StudentGoalSetting_pkey" PRIMARY KEY ("id"),
+    CONSTRAINT "StudentGoalSetting_studentId_fkey"
+      FOREIGN KEY ("studentId") REFERENCES "Student"("id")
+      ON DELETE CASCADE ON UPDATE CASCADE
 );
 
 CREATE UNIQUE INDEX "StudentGoalSetting_studentId_key"
 ON "StudentGoalSetting"("studentId");
-
-ALTER TABLE "StudentGoalSetting"
-ADD CONSTRAINT "StudentGoalSetting_studentId_fkey"
-FOREIGN KEY ("studentId")
-REFERENCES "Student"("id")
-ON DELETE CASCADE
-ON UPDATE CASCADE;
 
 CREATE TABLE "DailyGoalProgress" (
     "id" TEXT NOT NULL,
@@ -55,7 +51,10 @@ CREATE TABLE "DailyGoalProgress" (
     "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
     "updatedAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
 
-    CONSTRAINT "DailyGoalProgress_pkey" PRIMARY KEY ("id")
+    CONSTRAINT "DailyGoalProgress_pkey" PRIMARY KEY ("id"),
+    CONSTRAINT "DailyGoalProgress_studentId_fkey"
+      FOREIGN KEY ("studentId") REFERENCES "Student"("id")
+      ON DELETE CASCADE ON UPDATE CASCADE
 );
 
 CREATE UNIQUE INDEX "DailyGoalProgress_studentId_dateKey_key"
@@ -69,13 +68,6 @@ ON "DailyGoalProgress"("dateKey");
 
 CREATE INDEX "DailyGoalProgress_completedAt_idx"
 ON "DailyGoalProgress"("completedAt");
-
-ALTER TABLE "DailyGoalProgress"
-ADD CONSTRAINT "DailyGoalProgress_studentId_fkey"
-FOREIGN KEY ("studentId")
-REFERENCES "Student"("id")
-ON DELETE CASCADE
-ON UPDATE CASCADE;
 
 CREATE TABLE "RewardItem" (
     "id" TEXT NOT NULL,
@@ -109,7 +101,13 @@ CREATE TABLE "StudentReward" (
     "acquiredAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
     "consumedAt" TIMESTAMP(3),
 
-    CONSTRAINT "StudentReward_pkey" PRIMARY KEY ("id")
+    CONSTRAINT "StudentReward_pkey" PRIMARY KEY ("id"),
+    CONSTRAINT "StudentReward_studentId_fkey"
+      FOREIGN KEY ("studentId") REFERENCES "Student"("id")
+      ON DELETE CASCADE ON UPDATE CASCADE,
+    CONSTRAINT "StudentReward_rewardItemId_fkey"
+      FOREIGN KEY ("rewardItemId") REFERENCES "RewardItem"("id")
+      ON DELETE CASCADE ON UPDATE CASCADE
 );
 
 CREATE UNIQUE INDEX "StudentReward_studentId_rewardItemId_key"
@@ -120,17 +118,3 @@ ON "StudentReward"("studentId");
 
 CREATE INDEX "StudentReward_rewardItemId_idx"
 ON "StudentReward"("rewardItemId");
-
-ALTER TABLE "StudentReward"
-ADD CONSTRAINT "StudentReward_studentId_fkey"
-FOREIGN KEY ("studentId")
-REFERENCES "Student"("id")
-ON DELETE CASCADE
-ON UPDATE CASCADE;
-
-ALTER TABLE "StudentReward"
-ADD CONSTRAINT "StudentReward_rewardItemId_fkey"
-FOREIGN KEY ("rewardItemId")
-REFERENCES "RewardItem"("id")
-ON DELETE CASCADE
-ON UPDATE CASCADE;

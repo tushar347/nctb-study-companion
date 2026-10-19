@@ -1,25 +1,69 @@
 import { cookies } from "next/headers";
+import type { NextResponse } from "next/server";
+import { prisma } from "@/lib/prisma";
+import {
+  createSessionToken,
+  getActiveSessionStudentKey,
+  hashSessionToken,
+} from "@/lib/sessionTokens";
 
 export const SESSION_COOKIE_NAME = "nctb_student_key";
-export const DEMO_STUDENT_KEY = "demo-student";
+const SESSION_TTL_SECONDS = 60 * 60 * 24 * 30;
 
-/**
- * The ONLY trusted source of "which student is making this request".
- *
- * Every protected page (/home, /reader, /teacher, /quiz, /games, /progress)
- * is already gated by middleware.ts, which redirects to "/" unless this
- * cookie is present. So any request coming from those pages is guaranteed
- * to have a real session cookie set by /api/auth/login or /api/auth/signup.
- *
- * Route handlers must use this instead of reading `studentKey` /
- * `studentId` out of the request body or query string. Trusting a
- * client-supplied key lets any visitor read or spend another student's
- * data (wallet, quiz history, chat log, AI credits) just by knowing or
- * guessing their key. If no session cookie is present, the caller is
- * treated as the shared, low-privilege demo account rather than whatever
- * identity they claim to be.
- */
-export async function getSessionStudentKey(): Promise<string> {
+export async function setStudentSessionCookie(
+  response: NextResponse,
+  studentId: string,
+) {
+  const token = createSessionToken();
+  const expiresAt = new Date(Date.now() + SESSION_TTL_SECONDS * 1000);
+
+  await prisma.studentSession.create({
+    data: {
+      tokenHash: hashSessionToken(token),
+      studentId,
+      expiresAt,
+    },
+  });
+
+  response.cookies.set(SESSION_COOKIE_NAME, token, {
+    httpOnly: true,
+    sameSite: "lax",
+    secure: process.env.NODE_ENV === "production",
+    path: "/",
+    expires: expiresAt,
+  });
+
+  return response;
+}
+
+export async function clearStudentSession() {
   const store = await cookies();
-  return store.get(SESSION_COOKIE_NAME)?.value || DEMO_STUDENT_KEY;
+  const token = store.get(SESSION_COOKIE_NAME)?.value;
+
+  if (token) {
+    await prisma.studentSession.deleteMany({
+      where: { tokenHash: hashSessionToken(token) },
+    });
+  }
+}
+
+export async function getSessionStudentKey(): Promise<string | null> {
+  const store = await cookies();
+  const token = store.get(SESSION_COOKIE_NAME)?.value;
+
+  if (!token) {
+    return null;
+  }
+
+  const session = await prisma.studentSession.findUnique({
+    where: { tokenHash: hashSessionToken(token) },
+    select: {
+      expiresAt: true,
+      student: {
+        select: { studentKey: true },
+      },
+    },
+  });
+
+  return getActiveSessionStudentKey(session);
 }

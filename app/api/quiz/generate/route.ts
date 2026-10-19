@@ -1,6 +1,9 @@
 import { NextResponse } from "next/server";
-import { readFile } from "fs/promises";
-import path from "path";
+import { getSessionStudentKey } from "@/lib/auth";
+import { findOrCreateStudentByKey } from "@/lib/studentTracking";
+import { prisma } from "@/lib/prisma";
+import { consumeAiRequestAllowance } from "@/lib/rewardSystem";
+import { resolveStudySource } from "@/lib/local-ai/resolveStudySource";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -9,8 +12,9 @@ type Difficulty = "easy" | "medium" | "hard";
 
 type QuizRequest = {
   selectedText?: string;
-  pageNumber?: number;
-  lessonNo?: number;
+  bookId?: string;
+  pageNumber?: number | string;
+  lessonNo?: number | string;
   difficulty?: Difficulty;
   questionCount?: number;
 };
@@ -115,64 +119,6 @@ function splitMeaningfulSentences(value: string): string[] {
     .filter((sentence) => sentence.length >= 20)
     .filter((sentence) => /[A-Za-z]{3,}/.test(sentence))
     .filter((sentence) => !isJunkText(sentence));
-}
-
-async function loadPageContext(pageNumber?: number): Promise<string> {
-  if (
-    !pageNumber ||
-    !Number.isInteger(pageNumber) ||
-    pageNumber < 1
-  ) {
-    return "";
-  }
-
-  const fileName = `page-${String(pageNumber).padStart(3, "0")}.json`;
-
-  const filePath = path.join(
-    process.cwd(),
-    "public",
-    "ocr",
-    "books",
-    "class6-english",
-    "pages",
-    fileName,
-  );
-
-  try {
-    const raw = await readFile(filePath, "utf-8");
-    const page = JSON.parse(raw.replace(/^\uFEFF/, ""));
-
-    if (typeof page.aiReadyText === "string") {
-      return cleanContext(page.aiReadyText);
-    }
-
-    if (Array.isArray(page.aiReadyLines)) {
-      return cleanContext(
-        page.aiReadyLines
-          .map((line: UnknownRecord) => line.text)
-          .join("\n"),
-      );
-    }
-
-    if (Array.isArray(page.lines)) {
-      return cleanContext(
-        page.lines
-          .filter(
-            (line: UnknownRecord) =>
-              line.aiReady !== false,
-          )
-          .map(
-            (line: UnknownRecord) =>
-              line.cleanText ?? line.text,
-          )
-          .join("\n"),
-      );
-    }
-
-    return "";
-  } catch {
-    return "";
-  }
 }
 
 function getDifficultyInstructions(
@@ -475,8 +421,53 @@ function makeFallbackQuestions(
   return questions;
 }
 
+async function createStoredQuiz(
+  studentKey: string,
+  questions: QuizQuestion[],
+  source: Awaited<ReturnType<typeof resolveStudySource>>,
+) {
+  const student = await findOrCreateStudentByKey(studentKey);
+  const now = new Date();
+  await prisma.quizSession.deleteMany({
+    where: {
+      studentId: student.id,
+      submittedAt: null,
+      expiresAt: { lte: now },
+    },
+  });
+
+  const quizSession = await prisma.quizSession.create({
+    data: {
+      studentId: student.id,
+      lessonNo: source.lessonNo,
+      lessonTitle: source.lessonTitle,
+      questionsJson: JSON.stringify(questions),
+      expiresAt: new Date(now.getTime() + 2 * 60 * 60 * 1000),
+    },
+  });
+
+  return {
+    quizId: quizSession.id,
+    questions: questions.map(
+      ({ id, question, options }) => ({
+        id,
+        question,
+        options,
+      }),
+    ),
+  };
+}
+
 export async function POST(request: Request) {
   try {
+    const studentKey = await getSessionStudentKey();
+    if (!studentKey) {
+      return NextResponse.json(
+        { success: false, error: "Authentication required." },
+        { status: 401 },
+      );
+    }
+
     const body =
       (await request.json()) as QuizRequest;
 
@@ -486,28 +477,20 @@ export async function POST(request: Request) {
         ? body.difficulty
         : "medium";
 
-    const questionCount = Math.min(
-      10,
-      Math.max(
-        3,
-        Number(body.questionCount ?? 5),
-      ),
+    const requestedQuestionCount = Number(
+      body.questionCount ?? 5,
     );
+    const questionCount = Number.isInteger(requestedQuestionCount)
+      ? Math.min(10, Math.max(3, requestedQuestionCount))
+      : 5;
 
-    const selectedText = cleanContext(
-      body.selectedText,
-    );
-
-    const pageContext =
-      await loadPageContext(
-        Number(body.pageNumber),
-      );
-
-    const combinedContext = cleanContext(
-      [selectedText, pageContext]
-        .filter(Boolean)
-        .join("\n"),
-    );
+    const source = await resolveStudySource({
+      bookId: body.bookId,
+      pageNumber: body.pageNumber,
+      lessonNo: body.lessonNo,
+      selectedText: body.selectedText,
+    });
+    const combinedContext = cleanContext(source.pageText);
 
     if (combinedContext.length < 20) {
       return NextResponse.json(
@@ -527,6 +510,22 @@ export async function POST(request: Request) {
       process.env.GEMINI_MODEL ??
       "gemini-2.5-flash";
 
+    if (apiKey) {
+      const usage = await consumeAiRequestAllowance({
+        studentKey,
+        ...(source.lessonNo > 0
+          ? { lessonNo: source.lessonNo }
+          : {}),
+        toolUsed: "quiz_generation",
+      });
+      if (!usage.success) {
+        return NextResponse.json(
+          { success: false, error: usage.error },
+          { status: usage.status },
+        );
+      }
+    }
+
     if (!apiKey) {
       const fallbackQuestions =
         makeFallbackQuestions(
@@ -534,20 +533,43 @@ export async function POST(request: Request) {
           questionCount,
         );
 
+      if (fallbackQuestions.length === 0) {
+        return NextResponse.json(
+          {
+            success: false,
+            error:
+              "The selected text did not produce enough usable quiz questions.",
+          },
+          { status: 422 },
+        );
+      }
+
+      const quiz = await createStoredQuiz(
+        studentKey,
+        fallbackQuestions,
+        source,
+      );
+
       return NextResponse.json({
         success: true,
         source: "local-fallback",
         difficulty,
-        questions: fallbackQuestions,
+        sourceMetadata: {
+          bookId: source.bookId,
+          pageNumber: source.pageNumber,
+          lessonNo: source.lessonNo,
+          lessonTitle: source.lessonTitle,
+        },
+        ...quiz,
         warning:
           "GEMINI_API_KEY is missing. Local cleaned-text questions were generated.",
       });
     }
 
     const prompt = `
-You are an expert Class 6 English teacher and assessment designer.
+You are an expert Class ${source.classLevel} English teacher and assessment designer.
 
-Create exactly ${questionCount} multiple-choice questions from the CLEAN TEXTBOOK CONTEXT below.
+Create exactly ${questionCount} multiple-choice questions for a Class ${source.classLevel} student from the CLEAN TEXTBOOK CONTEXT below.
 
 ${getDifficultyInstructions(difficulty)}
 
@@ -563,7 +585,7 @@ STRICT RULES:
 9. Options must be unique.
 10. correctAnswerIndex must be an integer from 0 to 3.
 11. Explanations must be plain text without **, #, Markdown, or HTML.
-12. Keep language appropriate for a Bangladeshi Class 6 student.
+12. Keep language appropriate for a Bangladeshi Class ${source.classLevel} student.
 
 Return this exact JSON structure:
 {
@@ -614,6 +636,7 @@ ${combinedContext}
               "application/json",
           },
         }),
+        signal: AbortSignal.timeout(20_000),
       },
     );
 
@@ -661,7 +684,7 @@ ${combinedContext}
       parsedGeneratedData = null;
     }
 
-    let questions =
+    const questions =
       normalizeQuizQuestions(
         parsedGeneratedData,
         questionCount,
@@ -709,13 +732,25 @@ ${combinedContext}
       );
     }
 
+    const quiz = await createStoredQuiz(
+      studentKey,
+      questions,
+      source,
+    );
+
     return NextResponse.json({
       success: true,
       source: "gemini-validated",
       difficulty,
       requestedCount: questionCount,
       generatedCount: questions.length,
-      questions,
+      sourceMetadata: {
+        bookId: source.bookId,
+        pageNumber: source.pageNumber,
+        lessonNo: source.lessonNo,
+        lessonTitle: source.lessonTitle,
+      },
+      ...quiz,
     });
   } catch (error) {
     console.error(

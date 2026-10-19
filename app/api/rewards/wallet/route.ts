@@ -10,6 +10,9 @@ export async function GET() {
     // visitor could read (and previously, via /api/debug/credits, top up)
     // another student's wallet just by guessing their key.
     const studentKey = await getSessionStudentKey();
+    if (!studentKey) {
+      return NextResponse.json({ error: "Authentication required." }, { status: 401 });
+    }
 
     const { student, wallet } = await getOrCreateStudentWallet(studentKey);
 

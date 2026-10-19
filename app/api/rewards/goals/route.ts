@@ -1,18 +1,8 @@
-import { cookies } from "next/headers";
 import { NextResponse } from "next/server";
 
+import { getSessionStudentKey } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
 import { findOrCreateStudentByKey } from "@/lib/studentTracking";
-
-async function resolveStudentKey(bodyValue: unknown) {
-  const cookieStore = await cookies();
-
-  return (
-    cookieStore.get("nctb_student_key")?.value.trim() ||
-    String(bodyValue ?? "").trim() ||
-    "demo-student"
-  );
-}
 
 const GOAL_OPTIONS = new Map([
   [40, 2],
@@ -23,9 +13,16 @@ const GOAL_OPTIONS = new Map([
 export async function POST(request: Request) {
   try {
     const body = (await request.json()) as {
-      studentKey?: unknown;
       targetPoints?: unknown;
     };
+
+    const studentKey = await getSessionStudentKey();
+    if (!studentKey) {
+      return NextResponse.json(
+        { success: false, error: "Authentication required." },
+        { status: 401 },
+      );
+    }
 
     const targetPoints = Number(body.targetPoints);
     const targetActivityTypes = GOAL_OPTIONS.get(targetPoints);
@@ -40,9 +37,7 @@ export async function POST(request: Request) {
       );
     }
 
-    const student = await findOrCreateStudentByKey(
-      await resolveStudentKey(body.studentKey),
-    );
+    const student = await findOrCreateStudentByKey(studentKey);
 
     const setting = await prisma.studentGoalSetting.upsert({
       where: { studentId: student.id },

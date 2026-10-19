@@ -1,8 +1,7 @@
-import { readFile } from "fs/promises";
-import path from "path";
 import { NextResponse } from "next/server";
-import { useAiTeacherCredit } from "@/lib/rewardSystem";
+import { consumeAiRequestAllowance } from "@/lib/rewardSystem";
 import { getSessionStudentKey } from "@/lib/auth";
+import { resolveStudySource } from "@/lib/local-ai/resolveStudySource";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -11,8 +10,8 @@ type Difficulty = "easy" | "medium" | "hard";
 
 type MatchingRequest = {
   selectedText?: string;
-  pageNumber?: number;
-  lessonNo?: number;
+  pageNumber?: number | string;
+  lessonNo?: number | string;
   difficulty?: Difficulty;
   pairCount?: number;
 };
@@ -106,55 +105,6 @@ function splitSentences(value: string): string[] {
     .filter((sentence) => sentence.length >= 22)
     .filter((sentence) => /[A-Za-z]{3,}/.test(sentence))
     .filter((sentence) => !isJunk(sentence));
-}
-
-async function loadPageContext(pageNumber?: number): Promise<string> {
-  if (!pageNumber || !Number.isInteger(pageNumber) || pageNumber < 1) {
-    return "";
-  }
-
-  const fileName = `page-${String(pageNumber).padStart(3, "0")}.json`;
-
-  const filePath = path.join(
-    process.cwd(),
-    "public",
-    "ocr",
-    "books",
-    "class6-english",
-    "pages",
-    fileName,
-  );
-
-  try {
-    const raw = await readFile(filePath, "utf-8");
-
-    const page = JSON.parse(raw.replace(/^\uFEFF/, ""));
-
-    if (typeof page.aiReadyText === "string") {
-      return cleanContext(page.aiReadyText);
-    }
-
-    if (Array.isArray(page.aiReadyLines)) {
-      return cleanContext(
-        page.aiReadyLines
-          .map((line: UnknownRecord) => line.cleanText ?? line.text ?? "")
-          .join("\n"),
-      );
-    }
-
-    if (Array.isArray(page.lines)) {
-      return cleanContext(
-        page.lines
-          .filter((line: UnknownRecord) => line.aiReady !== false)
-          .map((line: UnknownRecord) => line.cleanText ?? line.text ?? "")
-          .join("\n"),
-      );
-    }
-
-    return "";
-  } catch {
-    return "";
-  }
 }
 
 function extractJson(value: string): string {
@@ -322,6 +272,14 @@ Require moderate reasoning.
 
 export async function POST(request: Request) {
   try {
+    const studentKey = await getSessionStudentKey();
+    if (!studentKey) {
+      return NextResponse.json(
+        { success: false, error: "Authentication required." },
+        { status: 401 },
+      );
+    }
+
     const body = (await request.json()) as MatchingRequest;
 
     const difficulty: Difficulty =
@@ -329,15 +287,17 @@ export async function POST(request: Request) {
         ? body.difficulty
         : "medium";
 
-    const pairCount = Math.min(8, Math.max(4, Number(body.pairCount ?? 6)));
-
-    const selectedText = cleanContext(body.selectedText);
-
-    const pageContext = await loadPageContext(Number(body.pageNumber));
-
-    const combinedContext = cleanContext(
-      [selectedText, pageContext].filter(Boolean).join("\n"),
-    );
+    const requestedPairCount = Number(body.pairCount ?? 6);
+    const pairCount = Number.isInteger(requestedPairCount)
+      ? Math.min(8, Math.max(4, requestedPairCount))
+      : 6;
+    const source = await resolveStudySource({
+      bookId: "class6-english",
+      pageNumber: body.pageNumber,
+      lessonNo: body.lessonNo,
+      selectedText: body.selectedText,
+    });
+    const combinedContext = cleanContext(source.pageText);
 
     if (combinedContext.length < 20) {
       return NextResponse.json(
@@ -371,6 +331,12 @@ export async function POST(request: Request) {
       return NextResponse.json({
         success: true,
         source: "local-sentence-fallback",
+        sourceMetadata: {
+          bookId: source.bookId,
+          pageNumber: source.pageNumber,
+          lessonNo: source.lessonNo,
+          lessonTitle: source.lessonTitle,
+        },
         difficulty,
         pairs: fallbackPairs,
         warning:
@@ -378,19 +344,22 @@ export async function POST(request: Request) {
       });
     }
 
-    // A real Gemini call costs money, so it must go through the same AI
-    // credit system as the AI Teacher — otherwise anyone can script
-    // unlimited free calls straight to the paid API through this route.
-    const studentKey = await getSessionStudentKey();
-
-    const creditResult = await useAiTeacherCredit({
+    const creditResult = await consumeAiRequestAllowance({
       studentKey,
-      lessonNo: body.lessonNo,
+      ...(source.lessonNo > 0
+        ? { lessonNo: source.lessonNo }
+        : {}),
       toolUsed: "matching_game",
     });
+    if (!creditResult.success) {
+      return NextResponse.json(
+        { success: false, error: creditResult.error },
+        { status: creditResult.status },
+      );
+    }
 
     const prompt = `
-You are a Class 6 English teacher and educational-game designer.
+You are a Class ${source.classLevel} English teacher and educational-game designer.
 
 Create exactly ${pairCount} meaningful matching pairs from the textbook context.
 
@@ -410,7 +379,7 @@ STRICT RULES:
 7. Each left item must have exactly one correct right-side match.
 8. Do not ask about pictures, layout, bullets, or page formatting.
 9. Do not duplicate left or right items.
-10. Keep language suitable for a Bangladeshi Class 6 student.
+10. Keep language suitable for a Bangladeshi Class ${source.classLevel} student.
 
 Return exactly:
 {
@@ -448,6 +417,7 @@ ${combinedContext}
             responseMimeType: "application/json",
           },
         }),
+        signal: AbortSignal.timeout(20_000),
       },
     );
 
@@ -487,7 +457,7 @@ ${combinedContext}
       parsedContent = null;
     }
 
-    let pairs = normalizePairs(parsedContent, pairCount);
+    const pairs = normalizePairs(parsedContent, pairCount);
 
     if (pairs.length < 4) {
       const fallbackPairs = createFallbackPairs(combinedContext, pairCount);
@@ -520,6 +490,12 @@ ${combinedContext}
     return NextResponse.json({
       success: true,
       source: "gemini-validated",
+      sourceMetadata: {
+        bookId: source.bookId,
+        pageNumber: source.pageNumber,
+        lessonNo: source.lessonNo,
+        lessonTitle: source.lessonTitle,
+      },
       difficulty,
       generatedCount: pairs.length,
       pairs,

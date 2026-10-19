@@ -8,6 +8,9 @@ export async function GET() {
     // records — always resolve from the session cookie, never a query
     // string, or any visitor could read another student's full profile.
     const studentKey = await getSessionStudentKey();
+    if (!studentKey) {
+      return NextResponse.json({ error: "Authentication required." }, { status: 401 });
+    }
 
     const student = await prisma.student.findUnique({
       where: {

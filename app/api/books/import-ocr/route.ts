@@ -1,24 +1,10 @@
 ﻿import { NextResponse } from "next/server";
-import { PrismaClient } from "@prisma/client";
 import { readdir, readFile } from "fs/promises";
 import path from "path";
+import { prisma } from "@/lib/prisma";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
-
-const globalForPrisma = globalThis as unknown as {
-  ocrPrisma?: PrismaClient;
-};
-
-const prisma =
-  globalForPrisma.ocrPrisma ??
-  new PrismaClient({
-    log: ["error", "warn"],
-  });
-
-if (process.env.NODE_ENV !== "production") {
-  globalForPrisma.ocrPrisma = prisma;
-}
 
 type OCRInputLine = {
   id?: string;
@@ -68,51 +54,19 @@ function isAIReady(text: string): boolean {
 }
 
 export async function POST() {
+  if (process.env.NODE_ENV !== "development") {
+    return NextResponse.json(
+      { success: false, error: "OCR import is available only in development." },
+      { status: 404 },
+    );
+  }
+
   let stage = "starting";
 
   try {
-    const client = prisma as any;
-
-    const bookDelegate = client.book;
-    const pageDelegate = client.bookPage;
-    const lineDelegate =
-      client.oCRLine ??
-      client.ocrLine ??
-      client.OCRLine;
-
-    if (!bookDelegate) {
-      throw new Error(
-        `Prisma Book delegate is missing. Available delegates: ${Object.keys(
-          client,
-        )
-          .filter(
-            (key) =>
-              !key.startsWith("_") &&
-              !key.startsWith("$"),
-          )
-          .join(", ")}`,
-      );
-    }
-
-    if (!pageDelegate) {
-      throw new Error(
-        "Prisma BookPage delegate is missing. Run prisma migrate and prisma generate.",
-      );
-    }
-
-    if (!lineDelegate) {
-      throw new Error(
-        `Prisma OCRLine delegate is missing. Available delegates: ${Object.keys(
-          client,
-        )
-          .filter(
-            (key) =>
-              !key.startsWith("_") &&
-              !key.startsWith("$"),
-          )
-          .join(", ")}`,
-      );
-    }
+    const bookDelegate = prisma.book;
+    const pageDelegate = prisma.bookPage;
+    const lineDelegate = prisma.oCRLine;
 
     stage = "locating OCR folder";
 

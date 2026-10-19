@@ -1,26 +1,23 @@
-import { cookies } from "next/headers";
 import { NextResponse } from "next/server";
 
+import { getSessionStudentKey } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
 import { ensureRewardCatalog } from "@/lib/scoring/rewardCatalog";
 import { findOrCreateStudentByKey } from "@/lib/studentTracking";
 
-async function resolveStudentKey(bodyValue: unknown) {
-  const cookieStore = await cookies();
-
-  return (
-    cookieStore.get("nctb_student_key")?.value.trim() ||
-    String(bodyValue ?? "").trim() ||
-    "demo-student"
-  );
-}
-
 export async function POST(request: Request) {
   try {
     const body = (await request.json()) as {
-      studentKey?: unknown;
       code?: unknown;
     };
+
+    const studentKey = await getSessionStudentKey();
+    if (!studentKey) {
+      return NextResponse.json(
+        { success: false, error: "Authentication required." },
+        { status: 401 },
+      );
+    }
 
     const code = String(body.code ?? "")
       .trim()
@@ -36,9 +33,7 @@ export async function POST(request: Request) {
       );
     }
 
-    const student = await findOrCreateStudentByKey(
-      await resolveStudentKey(body.studentKey),
-    );
+    const student = await findOrCreateStudentByKey(studentKey);
 
     await ensureRewardCatalog(prisma);
 
