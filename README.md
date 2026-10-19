@@ -27,7 +27,7 @@ npx prisma migrate deploy
 npm run dev
 ```
 
-Set `DATABASE_URL` to a PostgreSQL connection string in your local environment before running Prisma commands or the app. Open [http://localhost:3000](http://localhost:3000) after starting the dev server.
+Set `DATABASE_URL` to the PostgreSQL runtime connection string and `DATABASE_URL_UNPOOLED` to the direct PostgreSQL connection string in your local environment before running Prisma commands or the app. Prisma Client uses `DATABASE_URL`; Prisma migrations use `DATABASE_URL_UNPOOLED` to connect directly instead of acquiring migration advisory locks through a pooler. Open [http://localhost:3000](http://localhost:3000) after starting the dev server.
 
 The active Prisma schema and migrations target PostgreSQL. The previous SQLite migration history is retained under `prisma/migrations_sqlite_legacy` for reference and is not used by the app.
 
@@ -51,7 +51,7 @@ The current full lint baseline has existing UI hook/effect findings; see [docs/I
 
 ## Database and deployment
 
-The application uses PostgreSQL, including for persistent Vercel deployments. Set `DATABASE_URL` in the Vercel project environment. Vercel runs `prisma migrate deploy` through the `vercel-build` script before building the app.
+The application uses PostgreSQL, including for persistent Vercel deployments. Set `DATABASE_URL` to the runtime connection and `DATABASE_URL_UNPOOLED` to the direct connection in the Vercel project environment. Prisma Client uses `DATABASE_URL`; Prisma 6.19 migrations use `DATABASE_URL_UNPOOLED` through the datasource `directUrl`. Vercel runs `prisma migrate deploy` through the `vercel-build` script before building the app.
 
 The PostgreSQL baseline migration describes the existing database schema before database-backed sessions were added. On that existing database, the baseline is recorded as applied and the additive session migration creates `StudentSession` and `QuizSession` without replacing existing tables or records. For an existing database that has the same pre-session schema but has not been baselined, mark `20261020010000_postgresql_baseline` as applied before running `prisma migrate deploy`. For a new empty database, run `npx prisma migrate deploy` to create the complete schema.
 
